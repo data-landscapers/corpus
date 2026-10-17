@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-06-mwi-egpaf-value-of-a-birth-certificate",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "EGPAF says the CRVS is fully integrated with Malawi's National ID System.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "events",
+   "value": "both",
+   "fact": "Registration officials say an ID number is generated when a baby is born, and the system freezes the record when a deceased person's ID is presented.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "country_label": "Malawi CRVS",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

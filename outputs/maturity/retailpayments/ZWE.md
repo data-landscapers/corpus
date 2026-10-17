@@ -8,6 +8,6 @@
 
 **National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle>).
 
-***Noted, not assessed***. [UPI-based real-time payments system](<https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html>); [Zimswitch](<https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/>); [ZETSS RTGS](<https://www.rbz.co.zw/documents/nps/quarterly/2026/NPSD_SECOND_QUARTER_REPORT_ACTIVITY_JUNE_2026.pdf>).
+***Noted, not assessed***. [UPI-based real-time payments system](<https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html>); [Zimswitch](<https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/>); [ZETSS RTGS](<https://www.rbz.co.zw/documents/nps/quarterly/2026/NPSD_SECOND_QUARTER_REPORT_ACTIVITY_JUNE_2026.pdf>); [Smile&Pay](<https://businesstimes.co.zw/zb-unveils-us250k-twin-digital-payment-platforms/>).
 
 ***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

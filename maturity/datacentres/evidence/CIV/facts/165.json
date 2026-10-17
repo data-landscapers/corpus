@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-22-civ-sikafinance-datacenter-yamoussoukro-parae",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cybastion public data centre, Grand-Bassam free zone",
+   "country_label": "Cybastion datacenter public national",
+   "class": "other",
+   "platform": "",
+   "owner": "Cybastion (US)",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned state data centre for the administration's own use and one under deployment at Grand-Bassam; none stated in service for hire."
+}

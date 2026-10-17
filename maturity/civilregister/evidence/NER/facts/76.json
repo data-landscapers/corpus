@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "WURI-Niger and the DGECM-R launched on 15 April 2025 a pilot in four communes with single civil-status counters (Dogondoutchi, Fillingue, Magaria, Tessaoua) to register unregistered under-5s and digitise birth acts held in town hall archives.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "WURI-Niger under-5 registration pilot",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

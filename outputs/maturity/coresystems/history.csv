@@ -1,0 +1,13 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CMR,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,unplaced,unplaced,,Arrivals added CMR-003; stage unchanged.
+2026-10-17,CPV,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,2,CPV-001,Arrivals added CPV-001; stage no evidence -> 2.
+2026-10-17,DZA,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,4,DZA-001,Arrivals added DZA-001; stage no evidence -> 4.
+2026-10-17,EGY,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,2,EGY-003,Arrivals added EGY-001; EGY-002; EGY-003; stage no evidence -> 2.
+2026-10-17,GHA,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,4,3,GHA-002;GHA-003;GHA-008,"Arrivals added GHA-006, GHA-011; GHA-011 removed at the top-stage check: a 2008 architecture its own source calls out of date; GHA-006 removed at the top-stage check: a first-phase onboarding of 400 taxpayers, not a live system; stage 4 -> 3."
+2026-10-17,GNQ,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,2,GNQ-001,Arrivals added GNQ-001; stage no evidence -> 2.
+2026-10-17,MUS,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,5,5,MUS-001;MUS-004,Arrivals added MUS-002; MUS-003; MUS-004; stage unchanged.
+2026-10-17,RWA,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,5,RWA-002;RWA-004;RWA-003,Arrivals added RWA-002; RWA-003; RWA-004; stage no evidence -> 5.
+2026-10-17,SLE,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,2,2,SLE-003,"Arrivals added SLE-005; SLE-005 removed at the top-stage check: an architecture said to be developed, not published; stage unchanged."
+2026-10-17,SSD,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,unplaced,2,SSD-002,Arrivals added SSD-002; stage unplaced -> 2.
+2026-10-17,SYC,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,2,SYC-001,Arrivals added SYC-001; stage no evidence -> 2.
+2026-10-17,TGO,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,5,TGO-002;TGO-003,Arrivals added TGO-002; TGO-003; stage no evidence -> 5.

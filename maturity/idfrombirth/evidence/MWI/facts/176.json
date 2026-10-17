@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-06-mwi-egpaf-value-of-a-birth-certificate",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "country_label": "Malawi CRVS",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

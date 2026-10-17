@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-nga-blueprint-npc-nin-newborns",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The NPC says it now generates a NIN for each child at birth registration and synchronises birth registration data with NIMC's NIN records.",
+   "as_of": "2024-09-26",
+   "date_precision": "day",
+   "system": "NPC-NIMC data synchronisation",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

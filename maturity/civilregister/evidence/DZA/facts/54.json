@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-08-dza-algerie360-nin-rnaec-administrations",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Interior Minister Said Sayoud says administrations can now consult civil status data directly in the Registre National Automatise de l'Etat Civil, set up under Executive Decree 15-204 of 27 July 2015.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numero d'Identification National (NIN) system",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Registre National Automatise de l'Etat Civil (RNAEC)",
+   "country_label": "DZA",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

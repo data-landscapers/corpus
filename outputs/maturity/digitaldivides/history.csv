@@ -1,0 +1,4 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,no evidence,2,AGO-001,Arrivals added AGO-001; stage no evidence -> 2.
+2026-10-17,GHA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,GHA-009;GHA-004,Arrivals added GHA-010; stage unchanged.
+2026-10-17,NGA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,2,NGA-003;NGA-002,Arrivals added NGA-003; stage unchanged.

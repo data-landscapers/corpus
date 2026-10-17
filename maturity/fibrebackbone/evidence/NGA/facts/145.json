@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Galaxy Backbone says its NICTIB fibre network covers 27 state capitals and a new corridor links Abuja to Lagos through Minna, Bida, Mokwa, Ilorin, Ogbomosho, Oyo and Ibadan, with phase II still extending it.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "NICTIB (National ICT Infrastructure Backbone)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTIB",
+   "country_label": "National Information and Communication Technology Infrastructure Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

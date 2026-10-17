@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "NIPU",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier national de l'état civil",
+   "country_label": "CMR",
+   "class": "other",
+   "platform": "",
+   "owner": "MINDDEVEL",
+   "tiers": ""
+  },
+  {
+   "system": "NIPU",
+   "country_label": "CMR",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-04-dza-lasentinelle-etat-civil-nin-revolution",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Algerian Interior Ministry's digitisation of the national civil-status register has digitised more than 100 million marriage, death and birth acts, per La Sentinelle.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "registre national de l'état civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

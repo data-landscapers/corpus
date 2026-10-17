@@ -10,43 +10,43 @@ CMR,unplaced,,,,,,
 COD,no evidence,,,,,,
 COG,no evidence,,,,,,
 COM,no evidence,,,,,,
-CPV,no evidence,,,,,,
+CPV,2,inuse,,,,,CPV-001
 DJI,no evidence,,,,,,
-DZA,no evidence,,,,,,
-EGY,no evidence,,,,,,
+DZA,4,,,,live,,DZA-001
+EGY,2,inuse,,inuse,,,EGY-003
 ERI,no evidence,,,,,,
 ETH,2,inuse,,,,,ETH-001
 GAB,4,inuse,inuse,inuse,live,,GAB-004;GAB-003;GAB-001
-GHA,4,inuse,inuse,inuse,live,,GHA-006;GHA-002;GHA-003
+GHA,3,inuse,inuse,inuse,,,GHA-002;GHA-003;GHA-008
 GIN,no evidence,,,,,,
 GMB,2,inuse,none,,,published,GMB-002
 GNB,no evidence,,,,,,
-GNQ,no evidence,,,,,,
-KEN,2,inuse,inuse,,,,KEN-002
+GNQ,2,inuse,,,,,GNQ-001
+KEN,2,inuse,inuse,,,,KEN-007
 LBR,2,inuse,inuse,,,,LBR-003
 LBY,no evidence,,,,,,
 LSO,2,inuse,,inuse,,,LSO-001
 MAR,no evidence,,,,,,
 MDG,no evidence,,,,,,
 MLI,unplaced,,,inuse,,,
-MOZ,2,inuse,,,,,MOZ-002
+MOZ,2,inuse,,,,,MOZ-001
 MRT,no evidence,,,,,,
-MUS,5,,,,,published,MUS-001
+MUS,5,,,inuse,,published,MUS-001;MUS-004
 MWI,2,inuse,,,,,MWI-001
 NAM,unplaced,,inuse,,,,
 NER,no evidence,,,,,,
 NGA,5,inuse,,inuse,live,published,NGA-005;NGA-004;NGA-001
-RWA,no evidence,,,,,,
+RWA,5,inuse,,,live,published,RWA-002;RWA-004;RWA-003
 SDN,4,,,inuse,live,,SDN-002;SDN-001
 SEN,no evidence,,,,,,
 SLE,2,inuse,inuse,,,,SLE-003
 SOM,3,inuse,inuse,inuse,,,SOM-004;SOM-001;SOM-002
-SSD,unplaced,,inuse,,,,
+SSD,2,inuse,inuse,,,,SSD-002
 STP,no evidence,,,,,,
 SWZ,unplaced,down,,,,,
-SYC,no evidence,,,,,,
+SYC,2,inuse,,,,,SYC-001
 TCD,3,inuse,inuse,inuse,,,TCD-002;TCD-003;TCD-001
-TGO,no evidence,,,,,,
+TGO,5,inuse,,,,published,TGO-002;TGO-003
 TUN,no evidence,,,,,,
 TZA,no evidence,,,,,,
 UGA,5,,,,,published,UGA-002

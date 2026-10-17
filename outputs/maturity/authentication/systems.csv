@@ -30,10 +30,14 @@ BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identification system,Benin,other,,ANIP,,2026-09-02-wearetech-benin-expert-identite-numerique
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,ePass,Benin,other,,Government of Benin,,2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens
+BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationale d'identification des personnes (ANIP),,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
+BEN,Numero personnel d'identification (NPI),Benin,other,,ANIP,simple authentication; strong authentication; data exchange,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,other,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
+BFA,national PKI electronic signature platform,Burkina Faso government PKI,authentication,Cybastion,ANSSI,,2025-05-03-bfa-cybastion-esignature-training
+BFA,Infrastructure à Clés Publiques (ICP),Burkina Faso national PKI,authentication,Cybastion Institute of Technology,ANSSI,,2024-10-04-bfa-digitalmagazine-pki-national-anssi
 BWA,National Identity Management System (NIS) / Omang,Botswana,other,,"Department of Civil and National Registration, Ministry of Labour and Home Affairs",,2016-01-01-id4d-country-diagnostic-botswana
 BWA,Electoral system,Botswana,other,,,,2016-01-01-id4d-country-diagnostic-botswana
 BWA,Social Benefit Registration System (SOBERS),Botswana,other,,,,2016-01-01-id4d-country-diagnostic-botswana
@@ -41,7 +45,7 @@ BWA,Government payroll,Botswana,other,,,,2016-01-01-id4d-country-diagnostic-bots
 BWA,Transport system,Botswana,other,,,,2016-01-01-id4d-country-diagnostic-botswana
 BWA,National electronic Know-Your-Customer (eKYC) project,Botswana,other,,Bankers' Association of Botswana,,2026-09-11-bwa-businesstechafrica-national-ekyc
 BWA,Bankers' Association of Botswana eKYC system (2021),Botswana,other,,Bankers' Association of Botswana,,2026-09-11-bwa-businesstechafrica-national-ekyc
-BWA,Botswana Savings Bank eKYC and anti-money-laundering automation system,Botswana,,,Botswana Savings Bank,,2026-09-11-bwa-businesstechafrica-national-ekyc
+BWA,Botswana Savings Bank eKYC and anti-money-laundering automation system,Botswana,other,,Botswana Savings Bank,,2026-09-11-bwa-businesstechafrica-national-ekyc
 BWA,Client Registry,Botswana,other,,Ministry of Health,,2026-03-05-ministry-of-health-committee-of-supply-speech
 BWA,Public Key Infrastructure,Botswana,authentication,,Directorate of Intelligence and Security,,2026-07-30-botswana-p423m-pki-project-collapse
 BWA,Omang,Botswana,other,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
@@ -60,10 +64,11 @@ CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-20
 CIV,RNPP / NNI,Cote d'Ivoire,other,,ONECI,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CMR,Family allowance birth-certificate census,Cameroon,other,,Ministry of Finance,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
-CMR,AILGLES,Cameroon,,,Government of Cameroon,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
+CMR,AILGLES,Cameroon,other,,Government of Cameroon,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
 CMR,SIGEC,Cameroon,other,,BUNEC with UNDP support,,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
 CMR,SANEC,Cameroon,other,,BUNEC,,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
 CMR,New generation national ID card,Cameroon,other,Augentic,DGSN,"national ID, residence, refugee and disability cards",2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate
+CMR,AIGLE,AIGLE,authentication,,Ministry of Public Service and Administrative Reform,,2026-10-16-cmr-leconomie-e-gov-africa-summit-aigle-ia
 COD,RDC-Pass,COD,other,RDC-Pass,Government of DRC with Trident Digital Tech DRC Africa SAS,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
 COD,biometric SIM card registration,COD,other,RDC-Pass,,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
 COD,automated identity verification for financial institutions,COD,other,RDC-Pass,,,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
@@ -95,7 +100,7 @@ CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,other,smart card with m
 CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,"phone number, PIN and one-time code",,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Portal de Justiça,Cabo Verde,other,"justice and registry services portal, linked to SIJ",Ministry of Justice,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Autentika,Cabo Verde,other,state single sign-on,State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
-CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,other,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,SNIAC / Cartão Nacional de Identificação (CNI),Cabo Verde,authentication,card with middleware and SDK,SNIAC / DGRNI,,2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9
 CPV,Autentika,Cabo Verde,authentication,"Electronic identity, authentication and digital signature platform with single sign-on",Government of Cabo Verde,email and password; Mobile Digital Key; CNI smart card with PIN,2024-01-01-autentika-authentication-platform
 CPV,Cabo Verde Mobile Digital Key (CMDCV),Cabo Verde,authentication,"Mobile authentication by phone number, PIN and temporary code",Government of Cabo Verde,,2024-01-01-autentika-authentication-platform
@@ -106,6 +111,8 @@ CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,chip card,State of C
 CPV,PDEX,Cabo Verde,other,API publication and subscription platform,NOSi,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
 CPV,Portal Consular de Cabo Verde,Cabo Verde,other,,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
 CPV,Citizen and company data validation APIs,Cabo Verde,other,PDEX,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,SNIAC,Cabo Verde,authentication,,IMIJ,,2026-01-12-cpv-imij-sniac-sistema-pivot
+CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,chip card,Ministerio da Justica / IMIJ,,2025-07-01-cpv-boe-resolucao-55-2025-contrato-incm
 DJI,carte nationale d'identité biométrique,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DJI,ID Mobile,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DJI,système d'interopérabilité (DGPF),Djibouti,other,,Direction générale de la Population et de la Famille,"public administrations, banks, social protection bodies",2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
@@ -122,6 +129,7 @@ DZA,NIN / RNAEC,Algeria,other,,Ministère de l'Intérieur,,2026-07-01-dza-uneca-
 DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid
 DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk
 DZA,Bank KYC customer identity verification,Algeria,other,,Bank of Algeria; banks,,2026-08-29-algerie-banques-connaissez-votre-client
+DZA,CNIBE,Carte Nationale d'identité biométrique Electronique,authentication,ICAO PKI platform,Ministry of the Interior,,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe
 EGY,MOIEG-PASS,Egypt,other,"Android app, iOS expected",Ministries of Interior and of Communications and Information Technology,,2026-03-10-egypt-moieg-pass-selfie-biometrics-pilot-biometricupdate
 EGY,Biometric SIM registration eKYC,Egypt,other,,National Telecommunications Regulatory Authority (NTRA),,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,My Lines,Egypt,other,,NTRA,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
@@ -166,6 +174,9 @@ ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-p
 ETH,Fayda,Ethiopia,other,,National ID Program (NIDP),,2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment
 ETH,Fayda,Ethiopia,other,MOSIP,,,2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate
 ETH,Fayda,Ethiopia,other,,NIDP,,2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate
+ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
+ETH,Fayda,Ethiopia,other,,National ID Program (NIDP),,2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda
+ETH,INSA public key infrastructure (Root CA),Ethiopia,authentication,PKI data centre,Information Network Security Agency (INSA),,2024-09-01-eth-addisfortune-insa-pki-data-centre
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -197,7 +208,7 @@ GHA,National service registration (National Service Authority),Ghana,other,,Nati
 GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-08-24-graphic-national-service-authority-biodata-mismatch-correction-window
 GHA,SIM registration (Ghana Card linkage),Ghana,other,,"Ministry of Communication, Digital Technology and Innovations; National Communications Authority; mobile network operators",,2026-08-19-modern-ghana-ghana-sim-registration-reset-what-past
 GHA,SIM registration against Ghana Card,Ghana,other,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
-GHA,Liveness detection system connected to NIA database,Ghana,,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
+GHA,Liveness detection system connected to NIA database,Ghana,other,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
 GHA,NIA Identity Verification Services,Ghana,other,National Identity Register,National Identification Authority,,2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework
 GHA,Ghana.gov portal Ghana Card verification,Ghana,other,Ghana.gov,NITA,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
 GHA,CitizenApp Data Interoperability System (CADIS),Ghana,other,mobile app,,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
@@ -215,16 +226,16 @@ GIN,fichier électoral biométrique (DGE),Guinea,other,,DGE,,2026-01-22-mediagui
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identité (RNPP),Guinea,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
 GMB,eCRVS (electronic Civil Registration and Vital Statistics),Gambia,other,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
-GMB,National health insurance cards (NHIA),Gambia,,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
+GMB,National health insurance cards (NHIA),Gambia,other,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS (HERA),Gambia,other,WCC HERA,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
 GMB,Drivers License System,Gambia,other,,Gambia Police Force,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Passport System,Gambia,,,Ministry of Interior,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Health Management Information System,Gambia,,,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,GamSIR Gambia Social Registry,Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,TIN Tax Identification Number System,Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,CKYC Centralized Know Your Customer System (planned),Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,PURA SIM database (planned),Gambia,,,PURA,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Voter Registration Database,Gambia,,,Independent Election Commission,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Passport System,Gambia,other,,Ministry of Interior,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Health Management Information System,Gambia,other,,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,GamSIR Gambia Social Registry,Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,TIN Tax Identification Number System,Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,CKYC Centralized Know Your Customer System (planned),Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,PURA SIM database (planned),Gambia,other,,PURA,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Voter Registration Database,Gambia,other,,Independent Election Commission,,2025-01-01-world-bank-gambia-id4d-diagnostic
 GMB,National Identity Management System (GAM ID/NIMS),Gambia,other,Margins ID Group,Ministry of Interior; Gambia Immigration Department,,2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout
 GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade
 GNB,ECOWAS biometric Identity Card (ENBIC),Guinea-Bissau,other,,ECOWAS,,"2026-03-16 Women traders receive ECOWAS biometric ID in Sao Domingos, Guinea-Bissau"
@@ -286,6 +297,7 @@ MAR,Mon e-ID,Morocco,authentication,mobile app,DGSN,,2026-05-23-wearetech-morocc
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,Mon e-ID,MAR,authentication,iDAKTO with Idemia Smart Identity by IN Group,ADD and DGSN,,2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)
 MAR,Idarati X.0,Morocco,authentication,,,,2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework
+MAR,CNIE,Morocco,other,,,,2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MLI,SIGRH,Mali,other,,Ministry of Refondation de l'Etat,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
 MLI,NINA,Mali,other,,ANSAEC,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
@@ -305,6 +317,7 @@ MRT,PKI de l'ANRPTS,Mauritania,authentication,,ANRPTS,,2026-04-28-wardip-maurita
 MRT,Houwiyeti,MRT,authentication,TECH5 / SmartMS IdP,MTNIMA,,2024-08-15-tech5-mauritania-digital-id-pilot-undp
 MRT,SIGPTS,Mauritania,other,,ANRPTS,,2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)
 MRT,Houwiyeti,Mauritania,authentication,,ANRPTS,,2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)
+MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MUS,MauPass,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",Levels 0-3,2024-01-01-maupass
 MUS,MoKloud digital safe,Mauritius,other,,Government Online Centre,,2024-01-01-maupass
 MUS,Central Population Database,Mauritius,other,InfoHighway,Civil Status Division,,2024-01-01-maupass
@@ -370,7 +383,7 @@ MWI,Digital ID wallet,Malawi,other,,National Registration Bureau,,2025-09-01-mwi
 MWI,Mobile money KYC for CUCI cash transfer,Malawi,other,,Airtel Malawi; TNM Malawi,,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,COVID-19 Urban Cash Intervention (CUCI),Malawi,other,Unified Beneficiary Registry,"Ministry of Gender, Community Development and Social Welfare",,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,National Registry (National IDs),Malawi,other,,National Registration Bureau,,2025-02-01-mwi-cuci-impact-evaluation-report
-MWI,Unified Beneficiary Registry,Malawi,,,,,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,Unified Beneficiary Registry,Malawi,other,,,,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,Nzika Digital ID Wallet,Malawi,authentication,,,,2026-09-17-mwi-digital-gap-nzika-id-rollout
 MWI,National Identity Card,Malawi,other,,,,2026-09-17-mwi-digital-gap-nzika-id-rollout
 MWI,Nzika Wallet,Malawi,authentication,,National Registration Bureau,,2026-09-17-mwi-nation-national-ids-lifetime
@@ -438,7 +451,7 @@ NGA,GEEP Growth Enhancement Support,Nigeria,other,,NSIPA,,2026-03-03 Nigeria's D
 NGA,National Digital Farmers Registry,Nigeria,other,,Federal Ministry of Agriculture,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
 NGA,NIN,Nigeria,other,,NIMC,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
 NGA,BVN,Nigeria,other,,CBN,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
-NGA,SIM registration,Nigeria,,,mobile network operators,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+NGA,SIM registration,Nigeria,other,,mobile network operators,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
 NGA,LinkedIn identity verification (Persona),Nigeria,other,Persona,LinkedIn,,2026-01-01-policyreview-deplatformed-africa
 NGA,NINAuth,Nigeria,authentication,,NIMC,,2026-09-07-nigeria-nin-62-5-million-gap-world-bank-id4d
 NGA,National Identification Number (NIN),Nigeria,other,,NIMC,,2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable
@@ -468,14 +481,14 @@ SDN,Civil Registry system (General Administration of Civil Registry),Sudan,other
 SDN,SUDAPASS,Sudan,authentication,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page
 SDN,Sudanese Digital Identity (SUDAPASS),Sudan,authentication,smartphone application and national platform,National Electronic Authentication Authority,"three trust levels: basic, intermediate, high",2026-05-21-sudan-sudapass-terms-and-conditions
 SEN,e-Sénégal,Senegal,other,mobile app and single-window portal (sn.senum.guichetunique),Sénégal Numérique SA (SENUM SA),,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
-SEN,GovStack,Senegal,,"platform for over 800 administrative procedures, presented November 2023",SENUM SA with GIZ,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
+SEN,GovStack,Senegal,other,"platform for over 800 administrative procedures, presented November 2023",SENUM SA with GIZ,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
 SEN,Maa ngi nii (pdv.ipres.sn),Senegal,other,digital proof-of-life platform,IPRES,,2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao
 SEN,Electoral register (listes électorales),Senegal,other,,State electoral administration,,2016-09-29-decret-2016-1536-carte-identite-biometrique-cedeao-nin
 SLE,NCRA eKYC platform,Sierra Leone,other,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,National Biometric Identity Management System,Sierra Leone,other,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,Telecom and bank connections to national ID,SLE,other,,mobile operators and banks,,2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone
 SLE,Digital farmer registry,SLE,other,,,,2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone
-SLE,Sierra Leone instant payments switch,SLE,,,,,2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone
+SLE,Sierra Leone instant payments switch,SLE,other,,,,2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone
 SLE,National ID number (NIN) requirement in other services,SLE,other,,NCRA,,2025-06-05 Sierra Leone reaches 93 percent national ID coverage 80 percent services digitized
 SLE,Centralized ID Verification System against National ID,Sierra Leone,other,,NCRA,,2024-05-01-sierra-leone-ncra-id4africa-2024-country-presentation
 SLE,Integrated CRVS and ID Management System,Sierra Leone,other,Open source/DPG piloted to upgrade the ID system (IDMS),NCRA,,2024-05-01-sierra-leone-ncra-id4africa-2024-country-presentation
@@ -495,7 +508,7 @@ SLE,National Identification Number and National ID card,SLE,other,,NCRA,,2026-09
 SLE,National Identification Number (NIN),Sierra Leone,other,,NCRA,,2026-08-12-sierra-leone-ncra-crvs-decade-investment-call
 SOM,HUBIYE,Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
 SOM,eAqoonsi app,Somalia,other,mobile app,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
-SOM,Certificate Delivery System (CDS),Somalia,,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Certificate Delivery System (CDS),Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
 SOM,Government payroll and Somali Financial Management Information System (SFMIS),Somalia,other,SFMIS,"Office of the Accountant General, Ministry of Finance",,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,National identification system,Somalia,other,,National Identification and Registration Authority (NIRA),,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,High School Certificate System (HSC),Somalia,other,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
@@ -510,6 +523,7 @@ SOM,HUBIYE Verification Platform,Somalia,authentication,,NIRA,,2025-11-27 Somali
 SOM,Somalia national ID,Somalia,other,,NIRA,,2025-11-26-somalia-national-id-issuance-reaches-1m
 SOM,identity number issued by the National Identification and Registration Authority,Somalia,other,,National Identification and Registration Authority,,2026-09-09-som-somalidigest-nira-id-behind-every-social-media-account
 SOM,OpenCRVS Unified Digital Civil Registration System,Somalia,other,OpenCRVS,,,2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System
+SOM,NIRA national ID platform,NIRA national ID platform,authentication,,National Identification and Registration Authority,,2026-01-01-som-id4africa-somali-digital-identity-playbook
 SSD,"Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passports and Immigration",,2026-07-28-civil-registry-digital-system-birth-death-marriage
 SSD,Personal identity card (Butaka Shakhsia),South Sudan,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",,"2026-01-16 Juba - Passport, ID card issuance resumes"
 STP,"STP Digital Identity (bilhete de identidade, digital ID)",STP,other,Verifiable Credentials Infrastructure by Ooru,INIC and DGRN,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
@@ -517,6 +531,7 @@ STP,national digital ID system (MOSIP-based),São Tomé and Príncipe,other,MOSI
 STP,sistema de identidade digital,Sao Tome and Principe,other,,,,2026-05-14-afap-tender-data-center-servidores-identidade-digital
 STP,National Digital Identity system (MOSIP-based),STP,other,MOSIP,Government of STP,,2026-03-31-india-mea-bilateral-brief-india-sao-tome-and-principe
 STP,ID management system (pilot),Sao Tome and Principe,other,,Government of STP,,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
+STP,identidade digital,São Tomé e Príncipe,authentication,,Direção de Registo e Notariado,,2025-03-03-stp-rdpafrica-sistema-integrado-registo-civil
 SWZ,national e-KYC system,Eswatini,other,national identity verification platform / e-KYC registry,Central Bank of Eswatini,Royal Science and Technology Park provides infrastructure,2025-09-26-eswatini-national-ekyc-system
 SWZ,civil registry access for commercial banks,Eswatini,other,,Ministry of Home Affairs,commercial banks,2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
 SWZ,SIM card registration,Eswatini,other,,Minister of ICT (Legal Notice No. 26 of 2016),"mobile operators collect names, addresses, identity numbers and facial images; no check against the ID is stated",2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
@@ -554,7 +569,7 @@ TUN,Mobile ID,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,DigiGO,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,Registre National des Entreprises online services,Tunisia,other,,Registre National des Entreprises,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,National Business Register (RNE) digital platform,Tunisia,other,electronic platform,National Business Register,,2026-04-27-africanmanager-national-business-register-digital
-TUN,Online tax identification card issuance,Tunisia,,,"General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",,2026-04-27-africanmanager-national-business-register-digital
+TUN,Online tax identification card issuance,Tunisia,other,,"General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",,2026-04-27-africanmanager-national-business-register-digital
 TUN,digital identity,Tunisia,other,,,,2026-04-27-africanmanager-national-business-register-digital
 TUN,E-Houwiya,Tunisia,other,mobile ID with X.509 certificate,ICT ministry with National Digital Certification Agency and National Computer Center,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
 TUN,E-Bawaba,Tunisia,other,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
@@ -568,11 +583,15 @@ TUN,E-Bawaba,Tunisia,other,government portal,,,2025-03-01 Tunisia drives digitiz
 TUN,E-CNAM,Tunisia,other,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,Uqudo identity verification,Tunisia,other,document verification against MRZ for KYC/AML,Uqudo,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,National Business Register remote declaration platform,Tunisia,other,,National Business Register,,2026-02-13-jort-019-declaration-existence-societes-distance
-TUN,electronic tax identification card,Tunisia,,,"Ministry of Finance, sealed by the National Agency for Electronic Certification",,2026-02-13-jort-019-declaration-existence-societes-distance
+TUN,electronic tax identification card,Tunisia,other,,"Ministry of Finance, sealed by the National Agency for Electronic Certification",,2026-02-13-jort-019-declaration-existence-societes-distance
 TUN,e-Houwiya,Tunisia,authentication,,,,2026-09-18-tun-directinfo-ministere-agriculture-adopte-identite-numerique-e-houwiya
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
 TUN,Digital identity (Khadamet),Tunisia,authentication,Khadamet mobile app,Ministry of Communication Technologies,,2026-08-31-lapresse-tunisia-khadamet-launch
+TUN,E-Houwiya,E-Houwiya,authentication,,Ministry of the Interior,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,TunTrust,ANCE/TunTrust,authentication,,ANCE,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,Mobile ID,Tunisia,authentication,mobile phone,,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
+TUN,Vie scolaire,Vie scolaire,other,,Centre national des technologies de l'education,,2026-08-21-tun-lapresse-vie-scolaire-inscription
 TZA,e-KYC against the NIDA database,TZA,other,NIDA database,National Identification Authority (NIDA),,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge
 TZA,NIDA institution connections,TZA,other,NIDA,National Identification Authority (NIDA),,2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba
 TZA,SIM card registration,Tanzania,other,,TCRA,,2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing
@@ -585,7 +604,7 @@ TZA,Jamii Namba,Tanzania,other,,NIDA,,2026-04-02-tanzania-itu-innovation-center-
 TZA,Jamii Namba (NIN),Tanzania,other,,NIDA,,2026-08-20-tanzania-pushes-crvs-id-integration-as-birth-registration-becomes-a-dpi-layer
 UGA,SIM registration,Uganda,other,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,Bank customer verification,Uganda,other,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
-UGA,National ID QR-code verification,Uganda,,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,National ID QR-code verification,Uganda,other,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
@@ -631,7 +650,7 @@ ZAF,national digital ID,South Africa,authentication,,Department of Home Affairs,
 ZAF,Online Verification Service (OVS),South Africa,other,,Department of Home Affairs,,2025-08-12-schreiber-digital-home-affairs
 ZMB,FISP e-Voucher,Zambia,other,,Ministry of Agriculture,,2026-01-28-zambia-fisp-e-voucher-pdu
 ZMB,SmartCarePro Electronic Health Record System,Zambia,other,MOSIP integration,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
-ZMB,MOSIP-based eKYC system,Zambia,,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
+ZMB,MOSIP-based eKYC system,Zambia,other,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
 ZMB,Zambia national public key infrastructure,Zambia,authentication,Altron Security,ZICTA,,2026-09-10-zmb-businessexplainer-altron-security-national-pki-milestone
 ZMB,Integrated National Registration Information System (INRIS),Zambia,other,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,MOSIP-based digital ID,Zambia,other,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project

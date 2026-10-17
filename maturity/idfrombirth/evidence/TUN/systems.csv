@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
+TUN,Identifiant Unique du Citoyen (IUC),IUC,birthnumber,,Ministry of the Interior,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,Identifiant Unique Citoyen (IUC) register,Tunisia,other,,Ministry of the Interior,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases

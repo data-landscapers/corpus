@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "platform": "none",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source held since October 2023 says a government data exchange platform is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "platform": "none",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-002",
+      "gaps": "No source held since October 2023 says a government data exchange platform is under way.",
+      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

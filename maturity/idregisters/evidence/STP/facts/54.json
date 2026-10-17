@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-28-stp-telanon-cartao-identidade-unica",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Director of Registries and Notaries says a first-phase single identity card is planned to bring together civil identification, tax, social security, health and electoral commission information.",
+   "as_of": "2024-09-28",
+   "date_precision": "day",
+   "system": "cartao de identidade unica",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cartao de identidade unica",
+   "country_label": "Sao Tome e Principe",
+   "class": "register",
+   "platform": "MOSIP (pilot)",
+   "owner": "Direcao dos Registos e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

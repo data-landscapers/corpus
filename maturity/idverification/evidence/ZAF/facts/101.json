@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-itweb-digital-identity-failures-expose-africa-service-risks",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "South Africa's Department of Home Affairs said in March 2025 that its digital verification system, which serves government departments, SASSA and financial institutions, had failure rates of up to 50% on requests.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Home Affairs digital verification system",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "South Africa's Department of Home Affairs said in March 2025 that its digital verification system, which serves government departments, SASSA and financial institutions, had failure rates of up to 50% on requests.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Home Affairs digital verification system",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

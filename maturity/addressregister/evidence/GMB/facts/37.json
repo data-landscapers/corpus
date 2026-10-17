@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-26-gmb-fatunetwork-mocde-2023-achievements",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Digital Economy says it created digital addressing in 2023 with a total of 132,937 addresses in Banjul, KMC and Brikama (Kombo North).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Digital Addressing",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Addressing",
+   "country_label": "The Gambia",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

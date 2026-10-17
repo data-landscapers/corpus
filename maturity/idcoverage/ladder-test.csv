@@ -1,5 +1,5 @@
 iso3,stage,share,everyone,births,stage_sources
-AGO,no evidence,,,,
+AGO,2,third,,,AGO-001
 BDI,no evidence,,,,
 BEN,3,twothirds,,,BEN-002;BEN-004
 BFA,no evidence,,,,
@@ -15,7 +15,7 @@ DJI,no evidence,,,,
 DZA,no evidence,,,,
 EGY,no evidence,,,,
 ERI,no evidence,,,,
-ETH,2,third,,,ETH-002;ETH-005
+ETH,2,third,,,ETH-001;ETH-004
 GAB,1,below,,,GAB-001
 GHA,2,third,,,GHA-001
 GIN,2,third,,,GIN-001

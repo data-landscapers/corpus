@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,"OCL Tier 3 data centre, Kanengo",MWI,datacentre,,TNM (acquired from OpenConnect Limited),,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
-MWI,"TNM data centre, Limbe",MWI,,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"TNM data centre, Limbe",MWI,other,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
 MWI,"CTN AI-enabled edge data centre, Lilongwe",MWI,other,,Converged Technology Networks,,2026-09-09-mwi-linkedin-longwe-ctn-ai-edge-data-centres
 MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-data-centre-launch-malawi24
 MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-new-data-centre-lilongwe

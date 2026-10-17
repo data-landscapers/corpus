@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-som-dalkom-colocation-web-hosting-services",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Dalkom Somalia says it offers colocation hosting to business customers from its own data centre in Mogadishu.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Dalkom Somalia colocation",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Dalkom Somalia says it is privately owned and funded by Somali individuals and investment companies.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Dalkom Somalia colocation",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No Tier rating or government hosting stated."
+}

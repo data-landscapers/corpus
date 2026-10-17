@@ -1,0 +1,54 @@
+{
+ "slug": "2025-09-11-ben-beninwebtv-liste-electorale-provisoire-anip",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "ANIP says the computerised provisional electoral list (LEIP) is displayed in all voting centres from 13 to 28 September 2025.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Liste Électorale Informatisée Provisoire",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "ANIP says voters can check their voting centre on the displayed list, by phone (15110#, option 4) or the Anipbenin.bj app using their NPI, and request corrections or transfers.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Liste Électorale Informatisée Provisoire",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "ANIP says the list is extracted directly from the Fichier National de l'État Civil, the database also used for national identity cards.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Liste Électorale Informatisée Provisoire",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liste Électorale Informatisée Provisoire",
+   "country_label": "Benin",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "Fichier National de l'État Civil",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

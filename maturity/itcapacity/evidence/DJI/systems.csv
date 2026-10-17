@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2026-03-26-dji-ansie-comptes-financiers-2024-companion
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2025-06-16-dji-ansie-budget-previsionnel-2025-companion
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2024-01-30-dji-ansie-budget-previsionnel-2024-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2026-03-26-dji-ansie-comptes-financiers-2024-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2025-06-16-dji-ansie-budget-previsionnel-2025-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2024-01-30-dji-ansie-budget-previsionnel-2024-companion
 DJI,national data exchange layer,national data exchange layer,other,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
 DJI,X-Road secure data exchange,Djibouti,other,X-Road,ANSIE,,2021-12-31-ega-public-administration-modernisation-djibouti
+DJI,ANSIE,Agence Nationale des Systemes d'Information de l'Etat,staff,,State,,2023-11-14-dji-presidence-cm-ansie-tarification

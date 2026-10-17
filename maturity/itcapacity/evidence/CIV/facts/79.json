@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-civ-sikafinance-datacenter-yamoussoukro-parae",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The PARAE project document (June 2023), as reported by Sika Finance, says the administration's backup site is hosted at SNDI, the Societe nationale de developpement informatique.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "SNDI",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports that the 12-digit Fayda digital ID has been issued to more than 12.2 million individuals.",
+   "as_of": "2025-02-12",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -19,7 +19,7 @@ GHA,Ghana Card biometric verification by organisations,Ghana,relying,,,,2026-07-
 GHA,Identity Verification System Platform (IVSP),Ghana,other,NIA biometric verification against the National Identity Register,National Identification Authority,,2026-07-15-photocopying-ghana-card-illegal-fines-graphic
 GHA,Bank of Ghana customer identification via Ghana Card,Ghana,relying,,,,2026-07-15-photocopying-ghana-card-illegal-fines-graphic
 GHA,SIM registration against Ghana Card,Ghana,relying,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
-GHA,Liveness detection system connected to NIA database,Ghana,,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
+GHA,Liveness detection system connected to NIA database,Ghana,other,,,,2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate
 GHA,Bank of Ghana KYC onboarding against the Ghana Card,Ghana,relying,NIA database,Bank of Ghana (regulator); financial institutions,,2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG
 GHA,SIM card to Ghana Card linkage framework,Ghana,relying,CEIR linked to NIA database,Ministry of Communication; NCA,,2025-09-08 Ghana plans new framework for SIM card-digital ID linkage
 GHA,NIA Identity Verification Services,Ghana,relying,National Identity Register,National Identification Authority,,2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework

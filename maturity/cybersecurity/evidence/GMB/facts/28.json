@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-26-gmb-fatunetwork-mocde-2023-achievements",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ministry of Communications and Digital Economy says the National Cybersecurity committee was inaugurated in 2023, to be responsible for coordination, resource mobilization and advice.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "National Cybersecurity committee",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity committee",
+   "country_label": "National Cybersecurity committee (NCSE)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

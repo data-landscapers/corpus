@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-13-bfa-burkina24-anotel-cnib-carte-sim",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Carte Nationale d'Identite Burkinabe (CNIB)",
+   "country_label": "Burkina Faso",
+   "class": "relying",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SIM sale requires presenting the CNIB as a document; no check against the ID database is stated."
+}

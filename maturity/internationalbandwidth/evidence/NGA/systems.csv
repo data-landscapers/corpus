@@ -30,9 +30,9 @@ NGA,ACE,ACE,other,,Orange-led consortium,,2026-06-03 Submarine cables serving Af
 NGA,2Africa,2Africa,other,,Meta-led consortium,,2026-06-03 Submarine cables serving Africa
 NGA,Via Africa,Via Africa,other,,"Consortium: Canalink, GUILAB, International Mauritania Telecom, Orange, Orange Cote d'Ivoire, Sonatel, Silverlinks",,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
 NGA,Via Africa,Via Africa,other,,"Consortium: Canalink, GUILAB, International Mauritania Telecom, Orange, Orange Cote d'Ivoire, Sonatel, Silverlinks",,2026-05-13-via-africa-subsea-cable-mou
-NGA,NCSCS,Nigeria-Cameroon Submarine Cable System,,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
-NGA,MainOne,MainOne,,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
-NGA,Equiano,Equiano,,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NGA,NCSCS,Nigeria-Cameroon Submarine Cable System,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NGA,MainOne,MainOne,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NGA,Equiano,Equiano,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
 NGA,2Africa,2Africa,other,,Meta-led consortium; MTN GlobalConnect (Bayobab) led Nigeria landing,,2026-02-12-2africa-subsea-cable-complete
 NGA,MainOne,MainOne,other,,Equinix (from April 2022),,2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa
 NGA,MainOne,MainOne,other,,MainOne,,2026-08-18-akwa-ibom-victor-attah-airport-internet-backbone
@@ -87,9 +87,9 @@ NGA,PR1 Port Harcourt,PR1 Port Harcourt,other,,Equinix,,2026-02-09-equinix-opens
 NGA,MainOne,MainOne,route,,Equinix,,2025-11-10-equinix-lg3-22m-lagos-data-centre
 NGA,2Africa,2Africa,other,,Meta,,2025-11-10-equinix-lg3-22m-lagos-data-centre
 NGA,Equinix LG3,Equinix LG3,other,,Equinix,,2025-11-10-equinix-lg3-22m-lagos-data-centre
-NGA,Equiano,Equiano,,,Google,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
-NGA,2Africa,2Africa,,,Meta,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
-NGA,MainOne,MainOne,,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+NGA,Equiano,Equiano,other,,Google,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+NGA,2Africa,2Africa,other,,Meta,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+NGA,MainOne,MainOne,other,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 NGA,2Africa,2Africa,route,,,,"2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria"
 NGA,LKK1,LKK1,other,,Digital Realty,,"2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria"
 NGA,LKK2,LKK2,other,,Digital Realty,,"2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria"
@@ -115,14 +115,17 @@ NGA,2Africa,2Africa,other,,,,2026-09-03-telecomreviewafrica-wholesale-broadband-
 NGA,Equiano,Equiano,other,,,,2026-09-01-connectingafrica-nokia-lozano-interview
 NGA,2Africa,2Africa,other,,,,2026-09-01-connectingafrica-nokia-lozano-interview
 NGA,Starlink,Starlink,other,,SpaceX,,2026-06-26-africa-telcos-starlink-playbook-techcabal
-NGA,WACS,,,,,,2026-06-22-beyond-the-signal-subsea-cables
-NGA,SAT-3,,,,,,2026-06-22-beyond-the-signal-subsea-cables
-NGA,ACE,,,,,,2026-06-22-beyond-the-signal-subsea-cables
+NGA,WACS,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+NGA,SAT-3,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+NGA,ACE,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
 NGA,2Africa,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
 NGA,Equiano,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
 NGA,Equiano,Equiano,route,,Google,,2026-05-20 Google in Africa
 NGA,Umoja,Umoja,other,,Google,,2026-05-20 Google in Africa
-NGA,Equiano,,,,Google,,2026-05-14-where-is-africas-data-stored
-NGA,2Africa,,,,Meta,,2026-05-14-where-is-africas-data-stored
+NGA,Equiano,,other,,Google,,2026-05-14-where-is-africas-data-stored
+NGA,2Africa,,other,,Meta,,2026-05-14-where-is-africas-data-stored
 NGA,Equiano,Equiano,other,,Google,,2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers
 NGA,Equiano,Equiano,other,,Google,"Landing in Nigeria stated (with Namibia, Togo, South Africa, Sao Tome and Principe) in an Oct 2021 announcement; not stated as in service.",2021-10-06-google-reg-1b-google-1-billion-africa-digital-transformation
+NGA,ACE,"ACE cable, Lagos landing station",route,,,,2026-10-13-nga-idcnova-dolphin-telecoms-grid-crux-solar-ace-landing-station
+NGA,2Africa,Nigeria (landed Lagos),route,submarine cable,2Africa consortium; Bayobab landing party,,2024-02-08-gha-bayobab-2africa-lands-ghana-nigeria
+NGA,Equiano,Equiano landing at OADC Lagos,other,,Google,,2025-03-21-nga-wuzup-oadc-lagos-dedicated-transmission-line

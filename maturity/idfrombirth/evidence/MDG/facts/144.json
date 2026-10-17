@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-25-mdg-2424mg-nui-eleves-atsimondrano",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Prodigy NUI",
+   "country_label": "MDG",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Pupil unique ID pilot (Prodigy) is a school identifier, not a civil register or ID link; nothing stated for this study."
+}

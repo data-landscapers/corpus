@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-civ-digitalmag-id-day-2025-oneci-nni",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "ONECI's director general said on 16 September 2025 that ONECI covers more than 84% of civil-status centres with a digital civil-status system linked to a national server, which is linked to the Registre national des personnes physiques.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "ONECI digital civil-status system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONECI civil status system",
+   "country_label": "Cote d'Ivoire",
+   "class": "civil",
+   "platform": "digital civil-status system linked to a national server",
+   "owner": "ONECI",
+   "tiers": "civil-status centres, national server, Registre national des personnes physiques"
+  }
+ ],
+ "note": ""
+}

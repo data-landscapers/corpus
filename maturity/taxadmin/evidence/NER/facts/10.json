@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-15-ner-lesahel-e-secef-sensibilisation-dgi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-SECeF",
+   "country_label": "NER",
+   "class": "other",
+   "platform": "online certified e-invoicing platform",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": "e-SECeF is e-invoicing with no filing or payment stated, so noted as other."
+}

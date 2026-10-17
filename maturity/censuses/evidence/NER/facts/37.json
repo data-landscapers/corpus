@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-16-ner-ins-anado-catalogue-donnees",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The INS Niger data catalogue lists the Enquete Harmonisee sur les conditions de vie des Menages 2021/2022 (survey, Institut National de la Statistique), with entries created on 12 February 2024 and 16 December 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "EHCVM 2021/2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EHCVM 2021/2022",
+   "country_label": "EHCVM 2021/2022",
+   "class": "census",
+   "platform": "NADA catalogue stat-niger.org/anado",
+   "owner": "Institut National de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

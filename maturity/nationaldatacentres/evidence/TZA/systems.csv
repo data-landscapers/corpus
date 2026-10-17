@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TZA,TTCL Kijitonyama data centre,,datacentre,,TTCL,,2017-01-18-dcd-tanzania-ttcl-data-centre-underused-agencies-told-to-move-in
-TZA,National Internet Data Center (Mikocheni),National Internet Data Center,,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
-TZA,Tanzania Internet Exchange (TIX),TIX,,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
+TZA,National Internet Data Center (Mikocheni),National Internet Data Center,other,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Tanzania Internet Exchange (TIX),TIX,other,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
 TZA,Wingu Cloud Exchange (WCX),WCX,datacentre,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
 TZA,Wingu.Africa Dar es Salaam data centre,,datacentre,,Wingu.Africa (founders and Africa Capitalworks),,2025-03-20-wingu-africa-breaks-grounds-on-data-center-expansion-in-dar-es-salaam-tanzania
 TZA,Wingu.Africa Dar es Salaam data centre,Wingu Africa Mbezi data centre,datacentre,,Wingu Africa,Tier 3,2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02

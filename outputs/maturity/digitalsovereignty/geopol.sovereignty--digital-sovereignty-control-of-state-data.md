@@ -1,6 +1,6 @@
 # Digital sovereignty: control of state data
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 16 |
-| 3 Established | 10 |
-| 2 Nascent | 10 |
+| 4 Operating | 18 |
+| 3 Established | 9 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
+| Unplaced | 6 |
 | No evidence | 9 |
 
 ## Countries
@@ -50,6 +50,12 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 - CAMTEL said at the SAGO conference of 9 June 2026 that its Zamengoe Data Centre is a critical national asset ensuring the security, continuity and local control of government data; the document does not list the specific systems hosted ([source, 2026-06-09](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde)).
 
+### Cape Verde: 4 Operating
+
+Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
+
+- Cabo Verde's Secretary of State for the Digital Economy said the State Data Center in Praia, run under NOSi, sustains the state's digital platforms and services to citizens and businesses ([source, 2026-02-16](https://www.balai.cv/noticias/atualidade/governo-afirma-que-transicao-energetica-e-condicao-para-a-soberania-digital-de-cabo-verde/)).
+
 ### Comoros: 4 Operating
 
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
@@ -62,6 +68,12 @@ Government data or a core system was hosted in the country in 2026; contract ter
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
 
 - The ministry's programme page says the Data Center National hosts, stores and backs up critical data and applications of public institutions on Congolese soil ([source, 2026-09-02](https://numerique.gouv.cg/actualites/data-center-national)).
+
+### DR Congo: 4 Operating
+
+Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
+
+- The Ministry of Social Affairs (MINAS) says the Registre Social Unique is a 100% sovereign system with national hosting of its data and full control of infrastructure and source code ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
 
 ### Eswatini: 4 Operating
 
@@ -140,12 +152,6 @@ A rule on where state data is held was in force in 2025; national hosting of sta
 
 - Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
 
-### DR Congo: 3 Established
-
-A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
-
-- A government official quoted in the ministry's own report of 24 July 2025 says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa-Gombe; the law's date is not given and the as_of is the statement date ([source, 2025-07-24](https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/)).
-
 ### Egypt: 3 Established
 
 A rule on where state data is held was in force in 2024; national hosting of state systems is not on record.
@@ -196,6 +202,13 @@ A rule on where state data is held was in force in 2026; national hosting of sta
 - The Internet Governance Project says Tanzania has mandates for data localization and local ownership in place, and recommends revoking the data localization mandates ([source, 2026-06-09](https://www.internetgovernance.org/2026/06/09/tanzania-is-getting-online-its-digital-economy-isnt-following/)).
 - The Bank of Tanzania's Cloud Computing Guidelines for Financial Service Providers, 2025 (issued under s.71 Banking and Financial Institutions Act 2006 and s.56(3) National Payment Systems Act 2015) bar a licensed financial service provider from hosting a mission-critical system, or one whose data the Bank deems critical, in a primary data centre or cloud whose hosting infrastructure is outside Tanzania; the document is dated August 2025 ([source, 2025-08](https://www.bot.go.tz/webdocs/Feedback/en/2025082512452979.pdf)).
 
+### Angola: 2 Nascent
+
+Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
+
+- President Lourenço says the National Cloud and Government Data Center have been structured to strengthen digital services and the security of Public Administration systems ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
+- Angola's national directorate for telecommunications and IT (Matias Borges) announced two new government data centres in Luanda (Camama and a modernised backup at the Centro Nacional de Dados, Rangel) to migrate existing and new government applications to a unified government cloud, a national cloud costing the State USD 89 million ([source, 2024-12-11](https://www.menosfios.com/vii-forum-telecom-angola-aposta-na-construcao-de-dois-centros-de-dados/)).
+
 ### Benin: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
@@ -213,7 +226,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - ADETIC says the national data centre is to be security-audited and certified by TECHSO-GROUP before official operation, as the secure host for public data and the state's digital services ([source, 2026-02-10](https://adetic.td/audit-et-certification-du-data-center-national-ladetic-lansice-et-techso-group-en-mission-conjointe/)).
-- The ministry says the national digital data centre (Centre National des Données Numériques), still being built under the PMICE project with Chinese partners, will give state and private institutions a secure setting to process and store their digital data ([source, 2025-01-07](https://lendjampost.com/tchad-vers-la-garantie-dune-souverainete-numerique/)).
+- Ecofin reports Chadian authorities say the PMICE forms part of a broader digital sovereignty strategy, with state control over fibre-optic networks and data storage capacity as a key lever, and that Phase I, including a National Data Center, was provisionally accepted on 2025-12-20 ([source, 2025-12-20](https://www.ecofinagency.com/news-digital/2212-51602-chad-completes-first-phase-of-205mln-digital-connectivity-project)).
 
 ### Cote d'Ivoire: 2 Nascent
 
@@ -227,6 +240,12 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 - The Minister of Digital Economy announced on 9 June 2026 that the first national data centre, run by Gabonese firm ST Digital, would open on 30 June 2026 to keep data from public services and businesses on national territory ([source, 2026-06-09](https://www.gabonreview.com/hebergement-des-donnees-le-gabon-met-fin-a-sa-dependance-aux-serveurs-etrangers-avec-son-premier-datacenter/)).
 - The Presidency states the Head of State said modernising public information systems must guarantee national control and security of the state's strategic data and build national skills to run critical digital infrastructure ([source, 2026-02-19](https://presidence.ga/2026/02/19/audience-accordee-a-ika-technology-acceleration-de-la-digitalisation-de-ladministration-publique-et-consolidation-de-la-souverainete-numerique/)).
+
+### Mali: 2 Nascent
+
+Keeping state data under national control was a stated goal in 2024; a rule in force is not on record.
+
+- The government presented Mali Kura Biométrie as a sovereign system keeping the RAVEC identity data under national control, with the president calling it the starting point of Mali's digital sovereignty ([source, 2024-02-13](https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec)).
 
 ### Niger: 2 Nascent
 
@@ -259,18 +278,6 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 - Sudan's Minister of Communications and Digital Transformation says the alternative national data centre project is meant to restore sovereign national infrastructure and secure and protect all government data ([source, 2026-03-16](https://nabdsudan.net/231651)).
 
-### Angola: Unplaced
-
-Nothing held since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
-### Cape Verde: Unplaced
-
-Nothing held since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
 ### Djibouti: Unplaced
 
 Nothing held since 2023 names control of state data, so no stage is set.
@@ -284,12 +291,6 @@ Nothing held since 2023 names control of state data, so no stage is set.
 Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Gambia: Unplaced
-
-Nothing held since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
-### Mali: Unplaced
 
 Nothing held since 2023 names control of state data, so no stage is set.
 

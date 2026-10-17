@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZMB-001,ZMB,frombirth,number,underway,"Persons will be allocated a legal identity number at birth registration, to be their citizenship identifier for life, says the INRIS deputy project manager.",2023-10,month,INRIS,birthnumber,2023-10-28-zmb-dailynation-govt-digitises-nrcs,https://dailynationzambia.com/2023/10/govt-digitises-nrcs/

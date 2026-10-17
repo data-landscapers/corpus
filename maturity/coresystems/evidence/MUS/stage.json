@@ -1,19 +1,20 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "5",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "5",
+      "finance": "",
+      "revenue": "",
+      "payroll": "inuse",
+      "renewed": "",
+      "architecture": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001;MUS-004",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-coresystems.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

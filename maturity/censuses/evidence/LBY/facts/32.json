@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-31-lby-libyaobserver-gnu-prepares-population-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Libya Observer reports the Government of National Unity reviewed progress on the seventh national population census, the first since 2006, with Libya divided into census areas and preparations said to be on track per the approved schedule.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Seventh national population census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seventh national population census",
+   "country_label": "Libya census 2024 (in preparation)",
+   "class": "census",
+   "platform": "",
+   "owner": "Statistics and Census Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

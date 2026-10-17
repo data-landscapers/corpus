@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,HUBIYE,Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
 SOM,eAqoonsi app,Somalia,other,mobile app,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
-SOM,Certificate Delivery System (CDS),Somalia,,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
+SOM,Certificate Delivery System (CDS),Somalia,other,,NIRA,,2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds
 SOM,Government payroll and Somali Financial Management Information System (SFMIS),Somalia,other,SFMIS,"Office of the Accountant General, Ministry of Finance",,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,National identification system,Somalia,other,,National Identification and Registration Authority (NIRA),,2026-08-30-somalia-payroll-nira-id-database-link
 SOM,High School Certificate System (HSC),Somalia,other,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
@@ -16,3 +16,4 @@ SOM,HUBIYE Verification Platform,Somalia,authentication,,NIRA,,2025-11-27 Somali
 SOM,Somalia national ID,Somalia,other,,NIRA,,2025-11-26-somalia-national-id-issuance-reaches-1m
 SOM,identity number issued by the National Identification and Registration Authority,Somalia,other,,National Identification and Registration Authority,,2026-09-09-som-somalidigest-nira-id-behind-every-social-media-account
 SOM,OpenCRVS Unified Digital Civil Registration System,Somalia,other,OpenCRVS,,,2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System
+SOM,NIRA national ID platform,NIRA national ID platform,authentication,,National Identification and Registration Authority,,2026-01-01-som-id4africa-somali-digital-identity-playbook

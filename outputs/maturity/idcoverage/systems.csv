@@ -4,6 +4,8 @@ AGO,Bilhete de Identidade (BI),AGO,other,,Ministry of Justice and Human Rights,,
 AGO,Bilhete de Identidade / civil identity database,Angola,idsystem,,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
 AGO,Voter register (derived from the civil identity database),Angola,other,,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
 AGO,SME border biometric system (Santa Clara),Angola,other,"Huawei, installed 2013",Serviço de Migração e Estrangeiros,,2026-08-15-angola-intelwatch-biometric-surveillance-report
+AGO,Bilhete de Identidade,Angola,idsystem,,Ministry of Justice and Human Rights,,2025-09-18-ago-angop-metade-angolanos-sem-bi
+AGO,Bilhete de Identidade,Angola,idsystem,,Ministry of Justice and Human Rights,,2025-04-11-ago-angop-mais-15-milhoes-possuem-bi
 BEN,NPI and C'est Moi card,Benin,idsystem,WURI project,ANIP,,2026-05-20 Transforming lives in Benin a unique identification system
 BEN,Certificat NPI/fID (C'est moi),Benin,idsystem,mobile application with QR code,,,2024-06-27 WURI digital ID project improving access to public services in Benin
 BEN,CNIB,BEN,idsystem,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
@@ -12,6 +14,8 @@ BEN,national ID,Benin,idsystem,,,,2025-12-18 Seamfix revealed as developer of Be
 BFA,CIB-AES,Burkina Faso,idsystem,,Alliance des Etats du Sahel; ONI technical support,,2026-08-27-bfa-aib-cib-aes-arbinda
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
 BFA,Office national d'identification (ONI) national biometric identity card,Burkina Faso,idsystem,,Office national d'identification,,2026-09-16-bfa-sidwaya-journee-internationale-identite-diplomes-biometrie
+BFA,CNIB,CNIB,idsystem,,ONI,,2024-06-02-bfa-burkina24-oni-banfora-cnib
+BFA,CNIB,CNIB,idsystem,,ONI,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
 BWA,Omang,BWA,idsystem,,Ministry of Labour and Home Affairs,,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)
 BWA,Public Key Infrastructure,Botswana,other,,Directorate of Intelligence and Security,,2026-07-30-botswana-p423m-pki-project-collapse
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
@@ -62,6 +66,7 @@ LBR,National Biometric Identification System (NBIS),Liberia,idsystem,,National I
 LBR,National Identification Registry,Liberia,idsystem,,NIR,,2025-07-03-nec-hands-over-biometric-kits-to-nir
 LBR,National Biometric Identification System (NBIS),Liberia,idsystem,,National Identification Registry,,2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment
 LBR,NIR ID,LBR,idsystem,,National Identification Registry,,2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)
+LBR,National Biometric Identification System,NBIS,idsystem,,National Identification Registry,,2024-02-05-lbr-newspublictrust-nir-mobile-teams
 LBY,National Number (الرقم الوطني) via the unified electronic system of the Civil Registry Authority,Libya,idsystem,unified electronic civil status system,Civil Registry Authority (مصلحة الأحوال المدنية),,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LSO,Digital/service identification system,Lesotho,idsystem,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,idsystem,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
@@ -78,6 +83,7 @@ MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and 
 MRT,Registre national de la population,MRT,idsystem,,Ministry of Interior,"biometric enrolment, permanent public service",2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent
 MRT,Houwiyeti,Mauritania,other,mobile application,Agence nationale du registre des populations et des titres sécurisés,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Registre National Biométrique des Populations,Mauritanie,idsystem,,structure prévue par l'alinéa 2 de l'article 6 de la loi 2011-003,,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques
+MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MUS,Mobile digital ID,Mauritius,other,mobile,,,2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate
 MUS,Mauritius National Identity Card (MNIC 3.0),Mauritius,idsystem,,Government of Mauritius,smart ID card; Mobile ID app in development,2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach
 MUS,MauPass,Mauritius,other,"single-window e-authentication service (1FA/2FA, e-KYC)","Ministry of Information Technology, Communication and Innovation",Levels 0-3,2024-01-01-maupass

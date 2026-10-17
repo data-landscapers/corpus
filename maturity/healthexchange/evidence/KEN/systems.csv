@@ -1,12 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 KEN,Kenya Core FHIR Implementation Guide,Kenya,other,HL7 FHIR 4.0.1,"Digital Health Agency (DHA), Kenya",,2026-08-17-digital-health-kenya-core-fhir-implementation-guide-v1
-KEN,national HIE,Kenya,,,,,2026-08-17-digital-health-kenya-core-fhir-implementation-guide-v1
+KEN,national HIE,Kenya,other,,,,2026-08-17-digital-health-kenya-core-fhir-implementation-guide-v1
 KEN,Kenya Patient Summary FHIR Implementation Guide,Kenya,other,HL7 FHIR 4.0.1,"Digital Health Agency (DHA), Kenya",,2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide
-KEN,Kenya Digital Health Superhighway,Kenya,,,,,2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide
+KEN,Kenya Digital Health Superhighway,Kenya,other,,,,2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide
 KEN,Health Information Exchange (HIE),Kenya,exchange,,Ministry of Health,,2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification
 KEN,Biometric Health Identification (BHI),Kenya,other,,Ministry of Health,,2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification
 KEN,Health Information Management Service (HIMS),Kenya,exchange,Safaricom Consortium contract,Digital Health Agency,,2026-08-04-health-cs-duale-dismisses-claims-ksh-1-2b-sha-funds-paid-to-private-firm
-KEN,Social Health Authority claims system,Kenya,,,Social Health Authority,,2026-08-04-health-cs-duale-dismisses-claims-ksh-1-2b-sha-funds-paid-to-private-firm
+KEN,Social Health Authority claims system,Kenya,other,,Social Health Authority,,2026-08-04-health-cs-duale-dismisses-claims-ksh-1-2b-sha-funds-paid-to-private-firm
 KEN,Enterprise service bus,Kenya,exchange,,Digital Health Agency,national,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
 KEN,Comprehensive Integrated Health Information System,Kenya,exchange,,Digital Health Agency,national and county,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
 KEN,Client registry,Kenya,exchange,,Digital Health Agency,national,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025

@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "no evidence",
-   "reach": "",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national fibre backbone, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "3",
+      "reach": "in-service",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source held says the backbone reaches every province or region.",
+      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

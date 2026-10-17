@@ -1,0 +1,5 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,ETH,data.statistics--national-strategy-for-development-of-statistics-statistics-strategy,fact,3,3,ETH-003;ETH-004,Arrivals added ETH-004; ETH-005; stage unchanged.
+2026-10-17,GAB,data.statistics--national-strategy-for-development-of-statistics-statistics-strategy,fact,unplaced,2,GAB-002,Arrivals added GAB-002; stage unplaced -> 2.
+2026-10-17,GIN,data.statistics--national-strategy-for-development-of-statistics-statistics-strategy,fact,unplaced,2,GIN-003,Arrivals added GIN-003; GIN-004; stage unplaced -> 2.
+2026-10-17,TGO,data.statistics--national-strategy-for-development-of-statistics-statistics-strategy,fact,unplaced,unplaced,,Arrivals added TGO-003; TGO-004; stage unchanged.

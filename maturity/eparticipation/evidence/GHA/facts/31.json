@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-23-gha-nita-data-harmonisation-bill-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "NITA invited the public to comment on the draft NITA Data Harmonisation Bill 2025, posted on its website, from 19 to 27 November 2025, with responses sent by email.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "NITA public consultation page",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

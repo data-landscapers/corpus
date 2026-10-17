@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-16-sle-afcom-data-center-colocation",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Afcom, per its own service page, operates a carrier-neutral data centre in Freetown where customers can rent rack, cage or space for their own servers or buy its cloud solution.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Afcom data center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Afcom describes its Sierra Leone data center as a Tier III facility, concurrently maintainable, in its own words.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Afcom data center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afcom data center",
+   "country_label": "Sierra Leone",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Afcom",
+   "tiers": "Tier III (operator's statement)"
+  }
+ ],
+ "note": ""
+}

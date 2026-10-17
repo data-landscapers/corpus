@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,SIM registration,Uganda,other,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,Bank customer verification,Uganda,other,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
-UGA,National ID QR-code verification,Uganda,,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,National ID QR-code verification,Uganda,other,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,other,,Uganda Revenue Authority,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft

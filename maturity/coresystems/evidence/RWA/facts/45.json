@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-06-rwa-minecofin-ifmis-upgraded-modern-platform",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "MINECOFIN says Rwanda's IFMIS supports government budgeting, expenditure control, payments, accounting and financial reporting across public institutions.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "MINECOFIN says it completed a major technological upgrade of the IFMIS, replacing legacy components that had reached end of support with new enterprise technologies.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "MINECOFIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

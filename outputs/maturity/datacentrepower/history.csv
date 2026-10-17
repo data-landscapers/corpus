@@ -1,0 +1,6 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BEN,infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres,fact,no evidence,2,BEN-001,Arrivals added BEN-001; stage no evidence -> 2.
+2026-10-17,DZA,infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres,fact,no evidence,2,DZA-001,Arrivals added DZA-001; stage no evidence -> 2.
+2026-10-17,ETH,infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres,fact,unplaced,2,ETH-002,Arrivals added ETH-002; ETH-003; stage unplaced -> 2.
+2026-10-17,GHA,infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres,fact,no evidence,2,GHA-001,Arrivals added GHA-001; stage no evidence -> 2.
+2026-10-17,TGO,infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres,fact,unplaced,2,TGO-002,Arrivals added TGO-002; stage unplaced -> 2.

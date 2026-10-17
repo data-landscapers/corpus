@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,robustness,system,coverage,inservice,2026-09-16,BFA-002;BFA-005;BFA-006;BFA-007;BFA-009,BFA-008=underway;BFA-001=underway;BFA-010=underway;BFA-011=underway;BFA-004=underway,
-BFA,robustness,biometric,coverage,checked,2009,BFA-003,,nothing dated since 2023-10-16
+BFA,robustness,system,coverage,inservice,2026-09-16,BFA-002;BFA-005;BFA-006;BFA-007;BFA-009;BFA-012;BFA-013,BFA-008=underway;BFA-001=underway;BFA-010=underway;BFA-011=underway;BFA-004=underway,
+BFA,robustness,biometric,coverage,checked,2009,BFA-003,,nothing dated since 2023-10-17
 BFA,robustness,assurance,coverage,,,,,nothing held

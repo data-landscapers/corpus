@@ -1,0 +1,5 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BEN,dpi.registry--tax-register-tax-register,fact,no evidence,5,BEN-001,Arrivals added BEN-001; stage no evidence -> 5.
+2026-10-17,ETH,dpi.registry--tax-register-tax-register,fact,no evidence,unplaced,,Arrivals added ETH-001; stage no evidence -> unplaced.
+2026-10-17,LBR,dpi.registry--tax-register-tax-register,fact,no evidence,5,LBR-001,Arrivals added LBR-001; stage no evidence -> 5.
+2026-10-17,LSO,dpi.registry--tax-register-tax-register,fact,no evidence,3,LSO-001,Arrivals added LSO-001; stage no evidence -> 3.

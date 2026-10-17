@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "no evidence",
-   "channel": "",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether people can complain about public services online.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "unplaced",
+      "channel": "",
+      "reach": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.",
+      "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

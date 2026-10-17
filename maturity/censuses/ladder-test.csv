@@ -1,10 +1,10 @@
 iso3,stage,census,results,survey,stage_sources
 AGO,4,taken,final,,AGO-011;AGO-009
 BDI,3,taken,,,BDI-001;BDI-002
-BEN,unplaced,,,,
+BEN,2,preparing,,,BEN-004;BEN-005
 BFA,4,taken,final,,BFA-002
 BWA,3,taken,,,BWA-002;BWA-004
-CAF,3,taken,,,CAF-002
+CAF,3,taken,,,CAF-001;CAF-002
 CIV,3,taken,,,CIV-001
 CMR,3,taken,,,CMR-001
 COD,2,preparing,,,COD-001;COD-005
@@ -19,12 +19,12 @@ ETH,unplaced,,,,
 GAB,3,taken,,,GAB-001
 GHA,no evidence,,,,
 GIN,3,taken,,,GIN-002;GIN-003
-GMB,unplaced,,,,
+GMB,3,taken,,,GMB-004
 GNB,3,taken,,,GNB-001;GNB-002
 GNQ,2,preparing,,,GNQ-001;GNQ-003
 KEN,no evidence,,,,
 LBR,4,taken,final,,LBR-002
-LBY,no evidence,,,,
+LBY,2,preparing,,,LBY-002
 LSO,3,taken,,,LSO-002;LSO-001
 MAR,5,taken,final,published,MAR-001;MAR-003
 MDG,3,taken,,,MDG-001;MDG-003
@@ -35,13 +35,13 @@ MUS,3,taken,,,MUS-003;MUS-005
 MWI,3,taken,,,MWI-002
 NAM,4,taken,final,,NAM-003
 NER,2,preparing,,,NER-001;NER-002
-NGA,2,preparing,,,NGA-002
+NGA,2,preparing,,,NGA-003;NGA-002
 RWA,3,taken,,,RWA-002
 SDN,unplaced,,,,
 SEN,3,taken,,,SEN-001;SEN-004
 SLE,4,taken,final,,SLE-016
-SOM,unplaced,,,,
-SSD,unplaced,,,,
+SOM,2,preparing,,,SOM-002
+SSD,2,preparing,,,SSD-004
 STP,3,taken,,,STP-001;STP-003
 SWZ,3,taken,,,SWZ-001
 SYC,4,taken,final,,SYC-002
@@ -52,4 +52,4 @@ TZA,3,taken,,,TZA-002;TZA-003
 UGA,5,taken,final,published,UGA-001;UGA-006
 ZAF,3,taken,,,ZAF-001;ZAF-003
 ZMB,5,taken,final,published,ZMB-002;ZMB-004
-ZWE,unplaced,,,,
+ZWE,3,taken,,,ZWE-004

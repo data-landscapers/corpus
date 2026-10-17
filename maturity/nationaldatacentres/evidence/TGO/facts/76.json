@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-tgo-ldc-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Togo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Page does not state who owns the data centre, its Tier, or any government hosting."
+}

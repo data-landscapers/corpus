@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-01-eth-raxio-et1-data-sheet-technical-specifications",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio ET1",
+   "country_label": "Raxio Ethiopia ET1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The sheet gives no ownership of the Ethiopian facility; it names only Raxio's Amsterdam headquarters."
+}

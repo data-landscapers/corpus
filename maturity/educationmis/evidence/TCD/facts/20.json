@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teacher-management software (modelled on Senegal's MIRADOR)",
+   "country_label": "logiciel de gestion des enseignants",
+   "class": "other",
+   "platform": "",
+   "owner": "Education ministry, financed by PREAT",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states only a teacher-management tool, nothing this study asks."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The playbook lists online services across citizen, business, transport, education, university, social, civil servant, justice and finance categories, and citizen portal functions including birth acts, driving licence and vehicle data, electronic signature, notifications and complaints.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Portail Citoyen (e-bawaba.tn)",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Portail Citoyen (e-bawaba.tn)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail Citoyen",
+   "country_label": "e-bawaba.tn",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

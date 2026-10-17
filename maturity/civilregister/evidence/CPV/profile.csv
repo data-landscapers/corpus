@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CPV,civil,births,coverage,,,,,nothing held
 CPV,civil,deaths,coverage,,,,,nothing held
-CPV,civil,coverage,coverage,target,2026-05,CPV-001,,
+CPV,civil,coverage,coverage,target,2026-05,CPV-001;CPV-002,,

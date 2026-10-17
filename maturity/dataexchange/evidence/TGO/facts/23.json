@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Togo's presentation says the RSIA federated inter-administration exchange network was in a pilot phase launched in Q4 2024, with the pilot to finish in Q2 2025.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "RSIA",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Togo's presentation says 15 public institutions were connected to the RSIA in its Q4 2024 pilot phase, to scale to 25+ by end 2025.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "RSIA",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSIA (Réseau Sécurisé Inter Administration)",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "federated, local security servers",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

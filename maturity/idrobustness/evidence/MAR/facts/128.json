@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Morocco's education ministry says 2024 baccalaureate candidates must obtain the electronic national identity card (CNIE) and give its number, which is now recorded on the diploma.",
+   "as_of": "2024-03-24",
+   "date_precision": "day",
+   "system": "CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIE",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-14-tza-tbs-draft-standards-stakeholder-comments",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Tanzania Bureau of Standards circulated for stakeholder comment, by 2025-04-14, a draft Tanzania standard on requirements for communications and ICT products and services accessibility to persons with disabilities (EDC 6, 3227).",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "DTZS ICT accessibility to persons with disabilities - requirements (draft)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,census,census,coverage,taken,2023,SEN-001;SEN-002;SEN-004,,
+SEN,census,census,coverage,taken,2023,SEN-001;SEN-002;SEN-004;SEN-006,,
 SEN,census,results,coverage,,,,,nothing held
 SEN,census,survey,coverage,published,2026-08-05,SEN-003;SEN-005,,

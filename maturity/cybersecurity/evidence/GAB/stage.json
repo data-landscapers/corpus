@@ -1,18 +1,19 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "2",
-   "foundation": "body",
-   "response": "",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "2",
+      "foundation": "body",
+      "response": "",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
+      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

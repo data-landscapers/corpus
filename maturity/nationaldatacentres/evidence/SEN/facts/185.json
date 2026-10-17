@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter national (SENUM SA)",
+   "country_label": "Datacenter national",
+   "class": "other",
+   "platform": "",
+   "owner": "SENUM SA",
+   "tiers": ""
+  }
+ ],
+ "note": "The state data centre's hosting of ministry data is stated only as a commitment of the convention; no hire to others, tier or completed hosting is stated."
+}

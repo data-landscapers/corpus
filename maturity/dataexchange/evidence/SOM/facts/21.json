@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-29-som-govstack-digital-leaders-spotlight-somalia",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "none",
+   "fact": "GovStack states that an interoperability platform has not yet been developed in Somalia and all agencies have their own systems.",
+   "as_of": "2024-09-29",
+   "date_precision": "day",
+   "system": "",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-28-eth-atalayar-dt-global-digital-government-strategy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "DT Global, EU-funded adviser, says it has submitted the technical design of the EthioConnect national data exchange platform and is preparing priority datasets for its pilot project, with procurement still to come.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "EthioConnect",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthioConnect",
+   "country_label": "EthioConnect national data exchange platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

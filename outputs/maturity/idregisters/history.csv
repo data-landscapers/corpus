@@ -1,0 +1,12 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BEN,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,3,BEN-001,Arrivals added BEN-001; BEN-002; stage no evidence -> 3.
+2026-10-17,DZA,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,DZA-002;DZA-001,Arrivals added DZA-002; stage unchanged.
+2026-10-17,ETH,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,unplaced,,Arrivals added ETH-001; stage no evidence -> unplaced.
+2026-10-17,GMB,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,GMB-001,Arrivals added GMB-002; stage unchanged.
+2026-10-17,LBR,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,LBR-001;LBR-004,Arrivals added LBR-004; LBR-005; stage unchanged.
+2026-10-17,LSO,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,3,LSO-001,Arrivals added LSO-001; stage no evidence -> 3.
+2026-10-17,RWA,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,3,RWA-001,Arrivals added RWA-001; stage no evidence -> 3.
+2026-10-17,SOM,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
+2026-10-17,STP,dpi.id--use-by-other-systems-use-by-other-systems,fact,2,2,STP-001;STP-002,Arrivals added STP-003; stage unchanged.
+2026-10-17,TGO,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,2,TGO-001,Arrivals added TGO-001; stage no evidence -> 2.
+2026-10-17,TUN,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,3,TUN-001,Arrivals added TUN-001; TUN-002; stage no evidence -> 3.

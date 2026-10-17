@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "4",
-   "census": "taken",
-   "results": "final",
-   "survey": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-002",
-   "gaps": "No source held reports results of a national household survey published since October 2023.",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "4",
+      "census": "taken",
+      "results": "final",
+      "survey": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-002",
+      "gaps": "No source held reports results of a national household survey published since October 2023.",
+      "note": "Counted from the four questions by study-ladder-censuses.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

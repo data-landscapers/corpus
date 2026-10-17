@@ -196,6 +196,7 @@ ETH,Instant Payment System,Ethiopia,other,,National Bank of Ethiopia,,2025-12-09
 ETH,Instant Payment System,Ethiopia,other,,National Bank of Ethiopia,,2025-12-09-ethiopia-digital-payment-conference-2-launch-ndps-2
 ETH,EthSwitch,Ethiopia,other,,EthSwitch S.C.,,2025-12-09-ethiopia-digital-payment-conference-2-launch-ndps-2
 ETH,EthSwitch,Ethiopia,retail,national switch,"banks incl. National Bank of Ethiopia, MFIs, PIIs, PSOs",,2025-10-01-ethswitch-annual-report-2024-25
+ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
@@ -258,8 +259,8 @@ GMB,mobile money,The Gambia,retail,,,,2026-05-21-cbg-monetary-policy-committee-p
 GNB,PI-SPI,Guinea-Bissau,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,Orange Money,Guinea-Bissau,retail,mobile money,Orange,,2026-09-11-gnb-ang-educacao-digitalizacao-orcamento
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 GNB,PI-SPI,UEMOA,retail,Plateforme interopérable du Système de paiement instantané,BCEAO,"banks, e-money, payment and microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 GNQ,Orange Money,Equatorial Guinea,retail,mobile money,Orange,,2026-03-29-fintech-ecosystem-2026-thefintechtimes
 GNQ,SelBa24,Guiné Equatorial,other,,,,2026-08-18-sapo-guine-equatorial-pretende-fortalecer-capacidades-digitais
@@ -298,6 +299,7 @@ LBR,IIPS (Pay Na-Na),Liberia,retail,Mojaloop,Central Bank of Liberia,,2025-12-17
 LBR,NEPS/IIPS,LBR,retail,,Central Bank of Liberia,,2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips
 LBR,Orange Money,Liberia,retail,,Orange Liberia,,2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform
 LBR,mobile money,Mobile money,retail,,,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
+LBR,Orange Money,Liberia,retail,mobile money,Orange Liberia,,2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ
 LBY,OnePay - Mini Pay,Libya,retail,Masrafi Plus app,Jumhouria Bank,,2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
@@ -359,7 +361,7 @@ MLI,Wave Mobile Money,Mali,retail,,Wave,,2025-05-29 TerraPay enables cross-borde
 MLI,TerraPay network,Mali,other,TerraPay,TerraPay,,2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali
 MLI,mobile money,Mali,retail,,,,2024-07-23-mali-obligations-paiement-numerique-services-publics
 MLI,PI-SPI,Mali,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
-MLI,PI-SPI,MLI,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+MLI,PI-SPI,MLI,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
 MLI,e-money issuers (EME),Mali,retail,,licensed EME,,2026-08-27-horonyafinance-umoa-monnaie-electronique-2025
 MLI,Télépaiement (DGI tax e-payment platform),Mali,other,bank transfer,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
 MOZ,Metix,Mozambique,retail,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
@@ -446,6 +448,7 @@ NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-re
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
 NGA,NIBSS Instant Payment (NIP),Nigeria,retail,,NIBSS,,2026-07-26-nigeria-payment-vision-2028
 NGA,PAPSS,Nigeria,other,,,,2026-07-26-nigeria-payment-vision-2028
+NGA,Baxi,Nigeria,other,agent banking network,Onafriq,,2026-10-16-techcabal-onafriq-shuts-nigeria-agent-banking
 RWA,eKash,Rwanda,retail,National Instant Payment System,National Bank of Rwanda,,2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers
 RWA,eKash,Rwanda,retail,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
 RWA,e-Kash,Rwanda,retail,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
@@ -690,3 +693,5 @@ ZWE,mobile money,ZWE,retail,,,,2026-02-27-rbz-cuts-bank-charges-expands-zipit-li
 ZWE,Mobile money,Zimbabwe,retail,,,,2026-01-01-rbz-national-payment-systems-report-fourth-quarter-2025
 ZWE,ZimSwitch,ZWE,other,,,,2025-09-15-digital-finance-sector-explosive-growth
 ZWE,mobile money,ZWE,retail,,,,2025-09-15-digital-finance-sector-explosive-growth
+ZWE,Smile Cash,Smile Cash,retail,app and USSD wallet,ZB Financial Holdings,,2025-05-16-zwe-businesstimes-zb-smile-cash-250k
+ZWE,Smile&Pay,Smile&Pay,other,payment gateway,ZB Financial Holdings,,2025-05-16-zwe-businesstimes-zb-smile-cash-250k

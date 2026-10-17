@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-14-cog-wearetech-aden-regalli-portail",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The article says the Congo Digital Transformation Project, launched by the government in January 2023, provides for 3,000 people to acquire certified digital skills from basic to advanced.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Projet de transformation numerique du Congo",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet de transformation numerique du Congo",
+   "country_label": "Projet de transformation numerique du Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

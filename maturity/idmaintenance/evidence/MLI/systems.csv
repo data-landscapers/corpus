@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MLI,RAVEC,Mali,idsystem,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MLI,NINA,Mali,idsystem,,,,2026-09-16-dpi-map-mali-country-profile
+MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),other,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
+MLI,Mali Kura Biométrie,Mali Kura Biométrie (RAVEC data system),idsystem,"national, source code and licences held by national experts",Ministère de l'Administration territoriale et de la Décentralisation,,2024-02-20-mli-bamada-mali-recupere-fichiers-ravec

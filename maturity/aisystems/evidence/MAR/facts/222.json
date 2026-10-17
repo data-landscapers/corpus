@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-mar-aujourdhui-data-centers-avec-quelle-electricite",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Aujourd'hui le Maroc reports that an AI Factory at Nouaceur (Nexus) is to be a 16 MW first phase of a programme reaching 36 MW by end 2027, with an announced investment of 12 billion dirhams.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Nexus AI Factory",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nexus AI Factory",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

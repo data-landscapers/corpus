@@ -33,14 +33,14 @@ MOZ,2,service,,MOZ-001
 MRT,2,service,,MRT-001
 MUS,2,service,,MUS-001
 MWI,2,service,,MWI-004
-NAM,no evidence,,,
+NAM,2,service,,NAM-001
 NER,2,service,,NER-002
-NGA,4,growing,,NGA-008;NGA-007
+NGA,5,growing,wider,NGA-008;NGA-007;NGA-002
 RWA,2,service,,RWA-003
 SDN,2,service,,SDN-001
 SEN,2,service,,SEN-001
 SLE,3,content,,SLE-003
-SOM,no evidence,,,
+SOM,2,service,,SOM-001
 SSD,1,none,,SSD-001
 STP,1,none,,STP-001
 SWZ,2,service,,SWZ-001

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The playbook names Madania as the national civil status system that feeds the citizen identifier register, and says the citizen portal issues the birth act for the account owner and for children.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Madania",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Madania",
+   "country_label": "Systeme National de l'Etat Civil (Madania)",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

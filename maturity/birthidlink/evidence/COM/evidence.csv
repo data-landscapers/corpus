@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COM-001,COM,link,link,underway,"The study validated on 25 March 2026 under the Amecc project creates a Personal Identification Number (NIP) for civil registration and plans interoperability with other state systems, per We are Tech.",2026-03-25,day,Numero d'Identification Personnel (NIP),crvslink,2026-03-27-com-wearetech-numerisation-etat-civil-nip,https://www.wearetech.africa/fr/fils/actualites/tech/les-comores-lancent-la-numerisation-de-leur-etat-civil

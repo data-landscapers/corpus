@@ -1,10 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SACS,SACS,route,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
 AGO,MONET,MONET,other,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
-AGO,WACS,WACS,,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
-AGO,Equiano,Equiano,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
-AGO,2Africa,2Africa,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
-AGO,EllaLink,EllaLink,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,WACS,WACS,other,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,Equiano,Equiano,other,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,2Africa,2Africa,other,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,EllaLink,EllaLink,other,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
 AGO,SARSSy,SARSSy,other,,Telecom Namibia / Angola Telecom / SATCAB,,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
 AGO,Equiano,Equiano,other,,,,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
 AGO,2Africa,Cabo submarino 2Africa,route,,Unitel (sole Angolan consortium member),,2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa

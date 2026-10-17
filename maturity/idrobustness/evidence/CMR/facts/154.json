@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-09-cmr-voa-cni-biometrique-48h",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "VOA Afrique reports that production of the new biometric national ID cards within 48 hours is effective in Cameroon, with the first applicants having received their cards, under a presidential decree of 28 February 2025.",
+   "as_of": "2025-03-09",
+   "date_precision": "day",
+   "system": "carte nationale d'identite biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

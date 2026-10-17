@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (PMICE Phase I)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not say the National Data Center is for hire, its tier, or that state data is hosted in it."
+}

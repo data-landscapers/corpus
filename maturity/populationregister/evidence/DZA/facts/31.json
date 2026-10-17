@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of the Interior says the operation launched in 2010 aims to constitute the population database through the centralised national civil-status register (RNEC) and the NIN.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "RNEC",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

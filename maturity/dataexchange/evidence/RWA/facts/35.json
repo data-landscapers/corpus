@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-27-gha-dial-adli-data-exchange-exemplars",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "DIAL reports Irembo uses an API that connects the registries and systems of over 35 government partners.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Irembo",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "DIAL reports Irembo works with key systems and registries from over 35 partners across the government through an API.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Irembo",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Irembo",
+   "country_label": "Irembo",
+   "class": "exchange",
+   "platform": "API",
+   "owner": "Irembo (private company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

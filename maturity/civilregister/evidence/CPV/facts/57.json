@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-cpv-id4africa-digital-identity-public-infra",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "target",
+   "fact": "IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

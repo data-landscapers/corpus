@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The deck says services using the IUC and Mobile ID include fully online school enrolment, the education and citizen service portals, online civil status extracts and an e-contract for vehicle ownership transfer.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "e-bawaba",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-bawaba",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

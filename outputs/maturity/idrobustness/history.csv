@@ -1,0 +1,27 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,AGO-004;AGO-010,Arrivals added AGO-014; AGO-015; stage unchanged.
+2026-10-17,BEN,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,BEN-002;BEN-003,Arrivals added BEN-009; BEN-010; stage unchanged.
+2026-10-17,BFA,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,BFA-005;BFA-006,Arrivals added BFA-012; BFA-013; stage unchanged.
+2026-10-17,CIV,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,CIV-003;CIV-004,Arrivals added CIV-007; CIV-008; stage unchanged.
+2026-10-17,CMR,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,CMR-001;CMR-005,Arrivals added CMR-005; CMR-006; CMR-007; stage unchanged.
+2026-10-17,COD,dpi.id--robustness-of-system-robustness-of-system,fact,2,3,COD-013,Arrivals added COD-011; COD-012; COD-013; stage 2 -> 3.
+2026-10-17,CPV,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,CPV-001;CPV-005,Arrivals added CPV-005; stage unchanged.
+2026-10-17,DZA,dpi.id--robustness-of-system-robustness-of-system,fact,3,4,DZA-012,Arrivals added DZA-011; DZA-012; DZA-013; DZA-014; stage 3 -> 4.
+2026-10-17,ETH,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,ETH-002;ETH-003,Arrivals added ETH-013; ETH-014; stage unchanged.
+2026-10-17,GMB,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,GMB-010,Arrivals added GMB-014; stage unchanged.
+2026-10-17,LBR,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,LBR-008;LBR-005,Arrivals added LBR-015; LBR-016; stage unchanged.
+2026-10-17,LSO,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,LSO-007;LSO-008,Arrivals added LSO-008; LSO-009; stage unchanged.
+2026-10-17,MAR,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,MAR-002,Arrivals added MAR-010; MAR-011; stage unchanged.
+2026-10-17,MDG,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,MDG-008;MDG-015,Arrivals added MDG-016; MDG-017; stage unchanged.
+2026-10-17,MLI,dpi.id--robustness-of-system-robustness-of-system,fact,no evidence,3,MLI-001;MLI-002,Arrivals added MLI-001; MLI-002; stage no evidence -> 3.
+2026-10-17,MRT,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,MRT-001;MRT-003,Arrivals added MRT-006; stage unchanged.
+2026-10-17,MWI,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,MWI-003;MWI-004,Arrivals added MWI-012; stage unchanged.
+2026-10-17,NER,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,NER-001;NER-002,Arrivals added NER-016; NER-017; NER-018; NER-019; stage unchanged.
+2026-10-17,NGA,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,NGA-004,Arrivals added NGA-014; stage unchanged.
+2026-10-17,SOM,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,SOM-010,Arrivals added SOM-014; SOM-015; stage unchanged.
+2026-10-17,SSD,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,SSD-002;SSD-003,Arrivals added SSD-008; stage unchanged.
+2026-10-17,STP,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,STP-004;STP-005,Arrivals added STP-008; STP-009; stage unchanged.
+2026-10-17,TGO,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,TGO-001;TGO-006,Arrivals added TGO-009; stage unchanged.
+2026-10-17,TUN,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,TUN-003;TUN-006,Arrivals added TUN-006; TUN-007; stage unchanged.
+2026-10-17,ZAF,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,ZAF-004,Arrivals added ZAF-017; ZAF-018; stage unchanged.
+2026-10-17,ZMB,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,ZMB-004,Arrivals added ZMB-010; stage unchanged.

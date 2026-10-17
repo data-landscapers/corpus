@@ -1,0 +1,11 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,3,3,AGO-001;AGO-005,Arrivals added AGO-005; stage unchanged.
+2026-10-17,CMR,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,2,CMR-001,Arrivals added CMR-001; stage no evidence -> 2.
+2026-10-17,LBR,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,unplaced,unplaced,,Arrivals added LBR-002; stage unchanged.
+2026-10-17,MAR,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,2,2,MAR-001;MAR-002,Arrivals added MAR-002; stage unchanged.
+2026-10-17,MWI,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,3,MWI-001;MWI-002,Arrivals added MWI-001; MWI-002; stage no evidence -> 3.
+2026-10-17,NER,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,2,NER-001,Arrivals added NER-001; stage no evidence -> 2.
+2026-10-17,NGA,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,3,NGA-001,Arrivals added NGA-001; NGA-002; stage no evidence -> 3.
+2026-10-17,TCD,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,3,TCD-001,Arrivals added TCD-001; stage no evidence -> 3.
+2026-10-17,TUN,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,4,TUN-002,Arrivals added TUN-001; TUN-002; TUN-003; stage no evidence -> 4.
+2026-10-17,ZMB,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,2,ZMB-001,Arrivals added ZMB-001; stage no evidence -> 2.

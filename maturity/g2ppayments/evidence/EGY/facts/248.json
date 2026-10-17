@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-23-egy-ahram-epayment-collection-fy23-24",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance Minister Mohamed Maait says the e-payment service for government employees' payrolls grew 24% to EGP 299.4 billion in July 2023 to May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "e-payment service for government payrolls",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

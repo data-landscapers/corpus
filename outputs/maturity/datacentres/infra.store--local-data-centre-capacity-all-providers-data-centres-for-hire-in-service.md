@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 16 |
+| 4 Operating | 18 |
 | 3 Established | 15 |
-| 2 Nascent | 12 |
+| 2 Nascent | 13 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 6 |
+| Unplaced | 0 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -52,7 +52,7 @@ Two data centres for hire at Tier III or above by 2025, and a global cloud regio
 
 - Orange Maroc states its Casablanca data centre hosting the AWS Wavelength zone meets Tier III Design and Facilities standards (operator statement; no certifier named); date is the article's publication date ([source, 2025-02-14](https://telquel.ma/2025/02/14/cloud-souverain-orange-maroc-sallie-a-amazon-web-services_1918035)).
 - Forci News reports DXC Technology Morocco, a DXC and CDG joint venture, obtained Uptime Institute Tier III Tier Certification of Constructed Facility (TCCF) for its DXC-CDG data centre, which it says serves current and future customers ([source, 2024-07-18](https://www.forcinews.com/dxc-technology-morocco-obtient-certification-tccf-tier-iii-par-luptime-institute/)).
-- Oracle launched its public cloud region in Casablanca, Morocco, announced up and running on 7 April 2026 (one availability domain reportedly available since late February 2026); Oracle calls it the first hyperscaler region in North Africa ([source, 2026-04-07](https://www.datacenterdynamics.com/en/news/oracle-launches-cloud-region-in-casablanca-morocco/)).
+- Aujourd'hui le Maroc states that Oracle has opened its first cloud region in Casablanca and is preparing a second at Settat ([source, 2026-09-01](https://aujourdhui.ma/economie/data-centers-avec-quelle-electricite)).
 
 ### South Africa: 5 Leading
 
@@ -79,8 +79,8 @@ Two data centres for hire at Tier III or above in service by 2026.
 
 Two data centres for hire at Tier III or above in service by 2026.
 
+- Orange Business Cameroun's own page describes its data centre, open since May 2017 with 340 racks in two white rooms, as 'Tiers III+', claiming 99.82% availability; no certification is named ([source, 2026-10-16](https://business.orange.cm/en/mieux-nous-connaitre.html)).
 - Business in Cameroon states that CAMTEL already operates a Tier III-certified data center in Zamengoe, near Yaounde, as of the article; the certifying body is not named and the article does not say whether it sells to outside customers ([source, 2026-09](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala)).
-- ST DIGITAL states its data centres, including those deployed in Cameroon, are Tier 3 / TIA-942 constructed; the operator's own statement, no Uptime Institute certificate cited and no Cameroonian site named; the post date is used as no other date is given ([source, 2026-03-03](https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526)).
 
 ### Congo: 4 Operating
 
@@ -116,6 +116,13 @@ Two data centres for hire at Tier III or above in service by 2026.
 - Birr Metrics describes Raxio's carrier-neutral Addis Ababa facility, in operation, as Tier III (stated by the publication, no certification body named); no opening date given, so as_of is the article's publication date (2026-09-16) ([source, 2026-09-16](https://birrmetrics.com/ethiopia-bets-on-hydropower-to-enter-africas-ai-data-centre-race/)).
 - Wingu Africa describes its ICT Park data centre hosting ADDIX as tier III-certified (operator statement; certifying body not named) ([source, 2025-09-04](https://www.wingu.africa/latest-news/transforming-connectivity-ethiopias-first-internet-exchange-hosted-at-wingu-africa)).
 
+### Ghana: 4 Operating
+
+Two data centres for hire at Tier III or above in service by 2026.
+
+- Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
+- The article (2026-06-11) says Onix's Accra facility is certified Tier IV and is Ghana's only Tier IV certified facility; the certifying body and date are not given, so as_of is the article's published month ([source, 2026-06](https://data-landscapers.com/2026/06/11/sovereign-infrastructure/)).
+
 ### Mauritius: 4 Operating
 
 Two data centres for hire at Tier III or above in service by 2025.
@@ -149,6 +156,13 @@ Two data centres for hire at Tier III or above in service by 2026.
 - Cable & Wireless Seychelles states it has the country's first Tier IV certified data centre (certifier not named; operator statement), which it says lets local businesses, banks and government run on onshore infrastructure; facility not named and no date of certification, so the post date 2026-03-20 is used ([source, 2026-03-20](https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX)).
 - The operator, Airtel Seychelles, describes its newly opened Perseverance data centre as tier-three (operator statement, no Uptime or TIA-942 certification named); the document is dated 2022-01-04 and gives no opening date ([source, 2022-01](https://www.sbc.sc/news/airtel-seychelles-invites-local-international-companies-to-use-new-data-centre-on-perseverance/)).
 
+### Sierra Leone: 4 Operating
+
+Two data centres for hire at Tier III or above in service by 2026.
+
+- Afcom describes its Sierra Leone data center as a Tier III facility, concurrently maintainable, in its own words ([source, 2026-10-16](http://afcom.sl/corporate/afcom-data-center-colocation/)).
+- The Ministry of Finance's DFMST page says it operates a Tier III data centre providing co-location services for a number of institutions in Sierra Leone's financial sector ([source, 2026-10-16](https://mof.gov.sl/dfmst/)).
+
 ### Tanzania: 4 Operating
 
 Two data centres for hire at Tier III or above in service by 2025.
@@ -168,6 +182,12 @@ Two data centres for hire at Tier III or above in service by 2025.
 Two data centres for hire at Tier III or above in service by 2017.
 
 - DCD reports that the two new TelOne colocation and cloud facilities, in Harare and Mazoe, reportedly meet Tier III standards with 99.98 percent uptime; no certifying body is named (reported claim, not a stated certification) ([source, 2017-03-24](https://www.datacenterdynamics.com/en/news/zimbabwe-launches-two-data-centers-in-partnership-with-huawei/)).
+
+### Algeria: 3 Established
+
+A data centre for hire at Tier III or above in service by 2026; no second one held.
+
+- Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
 
 ### Burkina Faso: 3 Established
 
@@ -192,12 +212,6 @@ A data centre for hire at Tier III or above in service by 2023; no second one he
 A data centre for hire at Tier III or above in service by 2026; no second one held.
 
 - Gabon's digital-economy ministry cites the Nkok Sovereign Tier III Datacenter run by ST Digital as strengthening national hosting capacity; Tier III is stated by the government, with no certifier named and no date, so the date is the article's ([source, 2026-09-03](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/)).
-
-### Ghana: 3 Established
-
-A data centre for hire at Tier III or above in service by 2026; no second one held.
-
-- The article (2026-06-11) says Onix's Accra facility is certified Tier IV and is Ghana's only Tier IV certified facility; the certifying body and date are not given, so as_of is the article's published month ([source, 2026-06](https://data-landscapers.com/2026/06/11/sovereign-infrastructure/)).
 
 ### Guinea: 3 Established
 
@@ -259,12 +273,6 @@ A data centre for hire at Tier III or above in service by 2019; no second one he
 
 - The Zambian government's ministerial statement describes the active Zambia National Data Centre (ZNDC), which hosts private clients for a fee, as a Tier 3 facility (stated by the government; no certifier named); as_of is the document's year 2019 ([source, 2019](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20statement%20on%20PROGRESS%20ON%20THE%20SMART%20ZAMBIA%20VISION.pdf)).
 
-### Algeria: 2 Nascent
-
-A data centre for hire in service by 2026, none held at Tier III or above.
-
-- Iconsnet operates two data centres, in Algiers and Oran, offering cloud computing and off-site backup; the article lists it among operators and private hosts selling colocation, dedicated servers and cloud (no date given, article of 2026-07-05) ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-le-coeur-digital-de-letat-prend-vie/)).
-
 ### Benin: 2 Nascent
 
 A data centre for hire in service by 2026, none held at Tier III or above.
@@ -301,6 +309,12 @@ A data centre for hire in service by 2026, none held at Tier III or above.
 
 - Eritel Telecom Corporation's own service page offers paid Eritel Nextcloud private-cloud subscriptions (Silver, Gold and Platinum tiers, 100 to 500 GB, with monthly charges in nakfa and a 90% uptime SLA) that it says are completely hosted in Eritel's Datacenters, so an operator data centre in Eritrea is selling hosting to outside customers; the page names no individual facility and gives no date, so as_of is the page's published date 2026-08-31 ([source, 2026-08-31](https://eritel.com.er/contents.php?id=1046)).
 
+### Gambia: 2 Nascent
+
+A data centre for hire in service by 2026, none held at Tier III or above.
+
+- GAMTEL's service page says businesses and ISPs can rent space at any of its 43 sites to co-locate servers and networking hardware, with listed monthly floor-space and energy prices ([source, 2026-10-16](https://gamtel.gm/co-location-facility-rental-services/)).
+
 ### Lesotho: 2 Nascent
 
 A data centre for hire in service by 2026, none held at Tier III or above.
@@ -325,17 +339,17 @@ A data centre for hire in service by 2025, none held at Tier III or above.
 
 - Xalam Analytics estimates about 4 live commercial data centre facilities in Rwanda in 2025, with about 1MW live IT load and about 70% occupancy by third-party customers; facilities are small (20-80 racks) and mostly hybrid, leasing excess capacity to external customers; none are named ([source, 2025](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Rwanda-2026.pdf)).
 
+### Somalia: 2 Nascent
+
+A data centre for hire in service by 2026, none held at Tier III or above.
+
+- Dalkom Somalia says it offers colocation hosting to business customers from its own data centres in Mogadishu and Nairobi ([source, 2026-10-16](https://www.dalkomsomalia.com/managed-national.php?id=187)).
+
 ### South Sudan: 2 Nascent
 
 A data centre for hire in service by 2026, none held at Tier III or above.
 
 - Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers; the page is undated, so the 2026-08-29 publication date is used ([source, 2026-08-29](https://trinitytechnologies.tech/about.html)).
-
-### Gambia: Unplaced
-
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
-
-Not established: No source held says a data centre in the country rents space or computing to others, and none dated in the last three years says there is none.
 
 ### Central African Republic: No evidence
 
@@ -356,18 +370,6 @@ Nothing held says a data centre in the country rents space or computing to other
 Not established: Nothing held names a data centre for hire, or says there is none.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
-
-Not established: Nothing held names a data centre for hire, or says there is none.
-
-### Sierra Leone: No evidence
-
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
-
-Not established: Nothing held names a data centre for hire, or says there is none.
-
-### Somalia: No evidence
 
 Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
 

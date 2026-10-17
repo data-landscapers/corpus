@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The report says the National Identity System is operated by the Department of Immigration.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "National Identity System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

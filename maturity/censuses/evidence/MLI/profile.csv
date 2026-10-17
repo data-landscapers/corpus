@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,census,census,coverage,taken,2026-01-20,MLI-001;MLI-002;MLI-003;MLI-004;MLI-007;MLI-009,MLI-012=preparing,
+MLI,census,census,coverage,taken,2026-01-20,MLI-001;MLI-002;MLI-003;MLI-004;MLI-007;MLI-009;MLI-013,MLI-012=preparing,
 MLI,census,results,coverage,,,,,nothing held
 MLI,census,survey,coverage,published,2026-07-20,MLI-005;MLI-006;MLI-008;MLI-010;MLI-011,,

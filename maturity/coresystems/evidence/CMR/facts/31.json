@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-cmr-leconomie-e-gov-africa-summit-aigle-ia",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The public service minister presented AIGLE, the platform managing state agents' staff and payroll, with over 342,049 promotion and tenure acts processed automatically since 1 January 2025 and over 3 million payslip notifications sent, per figures given at the summit.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "AIGLE",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AIGLE",
+   "country_label": "AIGLE",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Public Service and Administrative Reform, with Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

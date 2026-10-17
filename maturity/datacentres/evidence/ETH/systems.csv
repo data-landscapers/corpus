@@ -4,17 +4,17 @@ ETH,Cloud 251,Cloud 251,datacentre,,Cloud 251,,2024-07-15-capital-ethiopia-cloud
 ETH,Raxio ET1,Raxio ET1,datacentre,,Raxio Group,Tier III,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Wingu.Africa Ethiopia,Wingu.Africa Ethiopia,datacentre,,Wingu Africa,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Red Fox data centre,Red Fox data centre,datacentre,,Redfox Solutions,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,Sun Data World,Sun Data World,,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,ScutiX,ScutiX,,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,Sun Data World,Sun Data World,other,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,ScutiX,ScutiX,other,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,RFETH-MDC01,RFETH-MDC01,datacentre,,Redfox Solutions,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,"Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)","Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)",other,,Safaricom Ethiopia,planned,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
-ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
+ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,other,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,RFETH-MDC01,RedFox Modular Data Center,datacentre,,RedFox Solutions Group,,2022-09-19-ena-redfox-launches-rfeth-mdc01-130m-usd
 ETH,Safaricom Ethiopia Akaki-Qality data centre,,other,,Safaricom Ethiopia,,2022-09-01-safaricom-ethiopia-to-build-data-centre-in-ict-park
 ETH,Safaricom Ethiopia ICT Park data centre (planned),,other,,Safaricom Ethiopia,,2022-09-01-safaricom-ethiopia-to-build-data-centre-in-ict-park
 ETH,Safaricom Ethiopia first data centre,,other,Huawei and Nokia,Safaricom Ethiopia,,2022-02-24-business-insider-safaricom-ethiopia-first-data-centre-huawei-nokia
 ETH,Safaricom Ethiopia first data centre,,other,prefabricated,Safaricom Ethiopia,,2022-01-20-dcd-safaricom-ethiopia-first-prefab-data-centre-usd100m
-ETH,Ethio Telecom modular data centre,,,Huawei,Ethio Telecom,,2022-01-20-dcd-safaricom-ethiopia-first-prefab-data-centre-usd100m
+ETH,Ethio Telecom modular data centre,,other,Huawei,Ethio Telecom,,2022-01-20-dcd-safaricom-ethiopia-first-prefab-data-centre-usd100m
 ETH,Raxio Addis Ababa data centre,,other,,Raxio,,2022-01-20-dcd-safaricom-ethiopia-first-prefab-data-centre-usd100m
 ETH,RFDC1,,other,Rittal modular,RedFox Solutions Group,,2021-03-17-itweb-redfox-breaks-ground-rfdc1-ict-park-rittal
 ETH,Wingu Africa data centre (Ethio ICT Park),ETH,other,,Wingu Africa,planned,2020-11-26-ecofin-redfox-scutix-wingu-eic-mou-ict-park-data-centres
@@ -55,10 +55,11 @@ ETH,Raxio Data Centres,,other,,Raxio Group,,2023-01-01-pidg-reg-raxio-2023-raxio
 ETH,Raxio Data Centres,,other,,Raxio Group,,2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data
 ETH,Raxio Ethiopia data centre (under construction 2021),,other,,Raxio Group,,2021-03-29-meridiam-raxio-group-2021-meridiam-investment-raxio
 ETH,Raxio Addis Ababa data centre,"Raxio carrier-neutral Tier III facility, Addis Ababa",datacentre,,Raxio Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
-ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
+ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,other,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
 ETH,Gotera Cloud (G-Cloud),Gotera Cloud,other,IaaS/PaaS/SaaS/backup,INSA (Information Network Security Administration),government institutions,2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-09-04-wingu-africa-transforming-connectivity-addix-ixp
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 ETH,Raxio Group data centres,Ethiopia,datacentre,,Raxio Group,Tier III (stated),2026-07-24-lancet-africa-ai-health-infrastructure
 ETH,Wingu,,other,,Wingu,,2026-06-11 Can Africa supply it's own digital infrastructure
 ETH,Safaricom data centre,,other,,Safaricom,,2026-06-11 Can Africa supply it's own digital infrastructure
+ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications

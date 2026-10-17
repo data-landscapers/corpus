@@ -2,3 +2,4 @@ iso3,n,aspect,value,action,why
 LSO,001,ownership,owned,removed,"First pass: MOSIP still being deployed, not the system in service"
 MAR,001,ownership,owned,removed,First pass: being first to implement MOSIP does not say the national ID runs on it
 UGA,007,ownership,owned,removed,"First pass: the OpenCRVS module is the civil register, not the ID system"
+GMB,003,maintenance,national,removed,"Top-stage check, arrivals of 2026-10-17: lost access to Semlex data, not national maintenance"

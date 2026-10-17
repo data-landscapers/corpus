@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-01-mrt-somelec-data-center-national-raccordement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DATA Center National",
+   "country_label": "DATA Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A grid-connection tender for the national data centre; it does not say the centre rents to others."
+}

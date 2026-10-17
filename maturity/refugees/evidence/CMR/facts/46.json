@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "MINDDEVEL's deck says law 2024/016 takes internally displaced persons into account in issuing or reconstituting civil-status acts.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

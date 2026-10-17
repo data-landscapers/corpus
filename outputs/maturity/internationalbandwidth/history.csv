@@ -1,0 +1,15 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CIV,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,3,3,CIV-007,Arrivals added CIV-007; stage unchanged.
+2026-10-17,COG,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,3,3,COG-006;COG-004,Arrivals added COG-007; stage unchanged.
+2026-10-17,DJI,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,4,4,DJI-005,Arrivals added DJI-029; stage unchanged.
+2026-10-17,DZA,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,4,4,DZA-001,Arrivals added DZA-002; stage unchanged.
+2026-10-17,GHA,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,3,3,GHA-001;GHA-007,Arrivals added GHA-010; stage unchanged.
+2026-10-17,GIN,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,2,3,GIN-003;GIN-010,Arrivals added GIN-008; GIN-009; GIN-010; stage 2 -> 3.
+2026-10-17,GMB,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,4,4,GMB-009,Arrivals added GMB-010; GMB-011; GMB-012; stage unchanged.
+2026-10-17,GNB,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,2,3,GNB-002;GNB-001,Arrivals added GNB-002; stage 2 -> 3.
+2026-10-17,LBR,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,2,4,LBR-005,Arrivals added LBR-005; LBR-006; stage 2 -> 4.
+2026-10-17,MLI,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,unplaced,4,MLI-003,Arrivals added MLI-003; stage unplaced -> 4.
+2026-10-17,MWI,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,no evidence,4,MWI-001;MWI-002,Arrivals added MWI-001; MWI-002; MWI-003; stage no evidence -> 4.
+2026-10-17,SLE,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,2,3,SLE-003;SLE-001,Arrivals added SLE-003; stage 2 -> 3.
+2026-10-17,TUN,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,5,5,TUN-012;TUN-005,Arrivals added TUN-014; stage unchanged.
+2026-10-17,TZA,infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world,fact,3,4,TZA-010,Arrivals added TZA-010; stage 3 -> 4.

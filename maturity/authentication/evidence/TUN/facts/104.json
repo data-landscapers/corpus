@@ -1,0 +1,46 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The ID4Africa deck says Tunisia's Mobile ID, in service since August 2022, lets citizens authenticate reliably to access online services, linking the unique citizen identifier, a mobile number and an electronic certificate.",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The deck says services using the unique citizen identifier and Mobile ID include online school enrolment, the education portal, the citizen services portal, online civil status extracts and the vehicle e-contract.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The deck says Mobile ID, in service since August 2022, is a digital identity on the mobile phone tying the identifier, phone number, electronic certificate and an electronic wallet.",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Tunisia",
+   "class": "authentication",
+   "platform": "mobile phone",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

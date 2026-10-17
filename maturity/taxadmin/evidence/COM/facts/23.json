@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-02-com-gazette-interconnexion-sigit-sydonia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIT",
+   "country_label": "Comoros",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGIT is named and interconnected with customs, but the document does not say returns are filed or taxes paid electronically."
+}

@@ -1,7 +1,7 @@
 iso3,stage,supply,pue,stage_sources
 AGO,no evidence,,,
 BDI,no evidence,,,
-BEN,no evidence,,,
+BEN,2,secured,,BEN-001
 BFA,no evidence,,,
 BWA,no evidence,,,
 CAF,no evidence,,,
@@ -12,12 +12,12 @@ COG,no evidence,,,
 COM,no evidence,,,
 CPV,no evidence,,,
 DJI,no evidence,,,
-DZA,no evidence,,,
+DZA,2,secured,,DZA-001
 EGY,no evidence,,,
 ERI,no evidence,,,
-ETH,unplaced,,,
+ETH,2,secured,,ETH-002
 GAB,2,secured,,GAB-001
-GHA,no evidence,,,
+GHA,2,secured,,GHA-001
 GIN,no evidence,,,
 GMB,no evidence,,,
 GNB,no evidence,,,
@@ -46,7 +46,7 @@ STP,no evidence,,,
 SWZ,no evidence,,,
 SYC,no evidence,,,
 TCD,no evidence,,,
-TGO,unplaced,,,
+TGO,2,secured,,TGO-002
 TUN,no evidence,,,
 TZA,no evidence,,,
 UGA,no evidence,,,

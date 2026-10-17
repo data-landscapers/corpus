@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,robustness,system,coverage,underway,2026-09-30,COD-001;COD-002;COD-003;COD-004;COD-005;COD-006;COD-007;COD-008;COD-009;COD-010,,
+COD,robustness,system,coverage,inservice,2024-08-09,COD-013,COD-010=underway;COD-004=underway;COD-005=underway;COD-006=underway;COD-007=underway;COD-001=underway;COD-002=underway;COD-003=underway;COD-008=underway;COD-009=underway;COD-011=underway;COD-012=underway,
 COD,robustness,biometric,coverage,,,,,nothing held
 COD,robustness,assurance,coverage,,,,,nothing held

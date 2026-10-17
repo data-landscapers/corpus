@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The playbook says the citizen identifier register holds the sectoral identifiers (health, social, pupil) in a correspondence table with the IUC, and that web services let ministries and sectors insert or update their sectoral identifier in it.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

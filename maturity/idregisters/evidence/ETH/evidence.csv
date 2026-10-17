@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,registers,register,inservice,NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally.,2026,year,Fayda-TIN harmonisation,register,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale,https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf

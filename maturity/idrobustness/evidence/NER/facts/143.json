@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of the Interior's deputy secretary general says the basic identification system is currently being designed and not yet in service.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "basic identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WURI-Niger unique identifier pilot",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "DGECM-R / WURI-Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 COG,E-TAX,"E-TAX (Tax Management System), Directorate General of Taxes and Domains",core,,"Ministry of Finance and Budget (DGID, DSI)",,2020-06-22-congo-tax-management-system-e-tax
-COG,SYSTAF,SYSTAF automated tax processing system,,,Ministry of Finance and Budget,,2020-06-22-congo-tax-management-system-e-tax
+COG,SYSTAF,SYSTAF automated tax processing system,other,,Ministry of Finance and Budget,,2020-06-22-congo-tax-management-system-e-tax
 COG,E-PAY,E-PAY online payment project,other,,Ministry of Finance and Budget,,2020-06-22-congo-tax-management-system-e-tax
+COG,e-LMIS (Open mSupply),e-Lmis,other,Open mSupply,Ministere de la Sante et de la Population,health supply chain,2026-07-18-aci-pnud-equipements-informatiques-e-lmis-sante
+COG,Systeme integre de gestion de l'information financiere,Systeme integre de gestion de l'information financiere,other,,"Ministere du Budget, des Comptes publics et du Portefeuille public",,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
+COG,Systeme integre de la paie des agents de l'Etat,Systeme integre de la paie des agents de l'Etat,other,,"Ministere du Budget, des Comptes publics et du Portefeuille public",,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
+COG,SIGHRE,Système intégré de gestion des ressources humaines de l'État,other,,Ministère de la fonction publique,,2024-05-15-cog-voxcongo-sighre-fonction-publique

@@ -1,0 +1,23 @@
+{
+ "slug": "2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Systeme integre de gestion de l'information financiere",
+   "country_label": "Systeme integre de gestion de l'information financiere",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere du Budget, des Comptes publics et du Portefeuille public",
+   "tiers": ""
+  },
+  {
+   "system": "Systeme integre de la paie des agents de l'Etat",
+   "country_label": "Systeme integre de la paie des agents de l'Etat",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere du Budget, des Comptes publics et du Portefeuille public",
+   "tiers": ""
+  }
+ ],
+ "note": "Both are described as projects under execution at mid-term review (2024-06-06); the document does not say either is in use."
+}

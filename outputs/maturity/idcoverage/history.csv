@@ -1,0 +1,3 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,dpi.id--registration-of-entire-population-registration-of-entire-population,fact,no evidence,2,AGO-001,Arrivals added AGO-001; stage no evidence -> 2.
+2026-10-17,LBR,dpi.id--registration-of-entire-population-registration-of-entire-population,fact,1,1,LBR-001;LBR-002,Arrivals added LBR-004; stage unchanged.

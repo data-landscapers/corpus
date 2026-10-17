@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-17-mwi-nation-nrb-under-scrutiny",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Principal Secretary says the law makes the Malawi Electoral Commission recognise the national ID as the single source of truth for voter registration, after Parliament made it the only proof of identity.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "National ID for voter registration",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

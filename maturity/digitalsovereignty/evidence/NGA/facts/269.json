@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-as-cbn-begins-data-migration-local-hosting",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "CBN's Babatunde Ajiboye says the CBN itself hosts some sensitive payments data outside Nigeria and has begun migrating it back to be hosted locally.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "CBN payments transaction data migration",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

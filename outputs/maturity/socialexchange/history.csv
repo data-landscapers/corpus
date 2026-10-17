@@ -1,0 +1,5 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,COG,dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems,fact,4,5,COG-003,Arrivals added COG-003; COG-004; stage 4 -> 5.
+2026-10-17,MAR,dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems,fact,4,4,MAR-003;MAR-001,Arrivals added MAR-009; stage unchanged.
+2026-10-17,SEN,dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems,fact,2,3,SEN-005,Arrivals added SEN-005; SEN-006; stage 2 -> 3.
+2026-10-17,TGO,dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems,fact,2,2,TGO-008;TGO-001,Arrivals added TGO-008; stage unchanged.

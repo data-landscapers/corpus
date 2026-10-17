@@ -22,11 +22,11 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 9 |
-| 3 Established | 24 |
-| 2 Nascent | 5 |
+| 3 Established | 26 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
-| No evidence | 5 |
+| Unplaced | 3 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -169,6 +169,12 @@ The RGPL 2026 was counted in 2026; its final results are not known to be out.
 
 - The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province; the document gives no enumeration date, so the document's published date is used ([source, 2026-08-21](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/)).
 
+### Gambia: 3 Established
+
+The 2024 Population and Housing Census was counted in 2024; its final results are not known to be out.
+
+- UNFPA The Gambia reports that the Gambia Bureau of Statistics launched the preliminary report of the 2024 digital population and housing census on 17 September 2024, giving a population of 2.4 million, over 300,000 more than in 2013 ([source, 2024-09-17](https://gambia.unfpa.org/en/news/unfpa-joins-gambia-bureau-statistics-and-partners-launch-2024-digital-population-and-housing)).
+
 ### Guinea: 3 Established
 
 The RGPH-4 was counted in 2026; its final results are not known to be out.
@@ -265,6 +271,19 @@ The RGPH 2024 was counted in 2024; its final results are not known to be out.
 - The document states the 2024 general census of population and housing was taken and counted 11.97 million inhabitants. Document gives no enumeration date; year 2024 used ([source, 2024](https://www.ins.tn/publication/flash-projection-de-la-population-2025-2054)).
 - The document reports 2024 census housing counts (4,265,636 dwellings) from INS, stating the dwellings were enumerated at the date of the 2024 census. Document gives no enumeration date; year 2024 used ([source, 2024](https://www.ins.tn/sites/default/files-ftp3/files/publication/pdf/LOGEMENTS-FR.pdf)).
 
+### Zimbabwe: 3 Established
+
+The 2022 Population and Housing Census was counted in 2024; its final results are not known to be out.
+
+- UNICEF Zimbabwe and ZIMSTAT announced in April 2024 a rollout of provincial and district data profiles derived from analysis of the 2022 Population and Housing Census ([source, 2024-04-17](https://www.unicef.org/zimbabwe/press-releases/unicef-zimbabwe-and-zimstat-launch-provincial-and-district-data-profiles-nationwide)).
+
+### Benin: 2 Nascent
+
+A population census was being prepared in 2024; none counted since 2016 is known.
+
+- INStaD director general Laurent Mahounou announced that main mapping for the fifth census (RGPH5) began on 19 March 2024 in the remaining 74 communes for two months, after a pilot in Cotonou, Cove and Parakou ([source, 2024-03-19](https://www.banouto.bj/societe/article/20240323-recensement-general-de-la-population-au-benin-rgph5-demarrage-de-la-cartographie-principale-dans-74-communes)).
+- INStaD says it trained about fifty trainers from 22 to 25 January 2024 ahead of cartographic mapping for the fifth census (RGPH5), after a mapping pilot in Cotonou, Cove and Parakou in September-October 2023 ([source, 2024-01-25](https://rgph5.instad.bj/2024/02/01/linstad-organise-la-formation-des-formateurs-rgph5/)).
+
 ### DR Congo: 2 Nascent
 
 A population census was being prepared in 2026; none counted since 2016 is known.
@@ -286,6 +305,12 @@ A population census was being prepared in 2026; none counted since 2016 is known
 - The National Statistics Council's 27 August 2026 session was to validate the project document, social-mobilisation communication document and resource-mobilisation strategy for the fifth General Population and Housing Census (CGPV-V) and hear progress on it as an operation under way ([source, 2026-08-27](https://www.guineaecuatorialpress.com/noticias/el_consejo_nacional_de_estadistica_analiza_los_avances_de_las_principales_operaciones_estadisticas_del_pais)).
 - The Scientific Committee validated the project document, communication strategy and resource-mobilisation strategy for the fifth census on 20 August 2026 (reported date) ([source, 2026-08-20](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/)).
 
+### Libya: 2 Nascent
+
+A population census was being prepared in 2024; none counted since 2016 is known.
+
+- The Libya Observer reports the Government of National Unity reviewed progress on the seventh national population census, the first since 2006, with Libya divided into census areas and preparations said to be on track per the approved schedule ([source, 2024-08-29](https://libyaobserver.ly/news/gnu-prepares-national-population-census)).
+
 ### Niger: 2 Nascent
 
 A population census was being prepared in 2025; none counted since 2016 is known.
@@ -295,15 +320,22 @@ A population census was being prepared in 2025; none counted since 2016 is known
 
 ### Nigeria: 2 Nascent
 
-A population census was being prepared in 2025; none counted since 2016 is known.
+A population census was being prepared in 2026; none counted since 2016 is known.
 
+- The minister said Milsat supported the National Population Commission's mapping of more than 65 million properties in preparation for Nigeria's first digital census; no date given, dated by publication (2026-10-07) ([source, 2026-10-07](https://techreviewafrica.com/news/7586/x)).
 - The document states the National Population Commission has produced digital maps, procured tablets, demarcated the whole country and trained staff for the first biometric census, with a N980 billion budget proposed to the President and biometric devices still to be procured; no census date is set (dated by publication, 2025-03-08) ([source, 2025-03-08](https://www.thisdaylive.com/2025/03/08/nigerias-first-biometric-census)).
 
-### Benin: Unplaced
+### Somalia: 2 Nascent
 
-No census counted since 2016 or in preparation is on record, so no stage is set.
+A population census was being prepared in 2025; none counted since 2016 is known.
 
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+- WorldPop says it trained Somalia National Bureau of Statistics and UNFPA staff in an 8-day workshop in Nairobi to delineate pre-census enumeration areas in five districts (Dhusamareeb, Baidoa, Kaxda, Belet Weyne, Kismayo) for the upcoming national census, with full enumeration of those districts to follow if security permits; the last successful census was 50 years ago ([source, 2025-04-15](https://www.worldpop.org/blog/building-census-readiness-geospatial-training-boosts-capacity-for-somali-statisticians/)).
+
+### South Sudan: 2 Nascent
+
+A population census was being prepared in 2024; none counted since 2016 is known.
+
+- Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding ([source, 2024-09-16](https://www.radiotamazuj.org/en/news/article/qa-census-should-be-rolled-out-before-elections-dr-ting)).
 
 ### Cape Verde: Unplaced
 
@@ -317,31 +349,7 @@ No census counted since 2016 or in preparation is on record, so no stage is set.
 
 Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
 
-### Gambia: Unplaced
-
-No census counted since 2016 or in preparation is on record, so no stage is set.
-
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
-
-### Somalia: Unplaced
-
-No census counted since 2016 or in preparation is on record, so no stage is set.
-
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
-
-### South Sudan: Unplaced
-
-No census counted since 2016 or in preparation is on record, so no stage is set.
-
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
-
 ### Sudan: Unplaced
-
-No census counted since 2016 or in preparation is on record, so no stage is set.
-
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
-
-### Zimbabwe: Unplaced
 
 No census counted since 2016 or in preparation is on record, so no stage is set.
 
@@ -366,12 +374,6 @@ Nothing held says whether the country has counted or is preparing a census, so n
 Not established: Nothing held names a population census or a household survey, or says there is none.
 
 ### Kenya: No evidence
-
-Nothing held says whether the country has counted or is preparing a census, so no stage is set.
-
-Not established: Nothing held names a population census or a household survey, or says there is none.
-
-### Libya: No evidence
 
 Nothing held says whether the country has counted or is preparing a census, so no stage is set.
 

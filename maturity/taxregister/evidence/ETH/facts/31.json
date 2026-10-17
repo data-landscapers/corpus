@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs, per the Ministry of Revenue.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Fayda-TIN harmonisation",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program Ethiopia (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,19 +1,20 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "2",
-   "finance": "inuse",
-   "revenue": "inuse",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-003",
-   "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "2",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-003",
+      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "Counted from the four questions by study-ladder-coresystems.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

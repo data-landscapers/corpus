@@ -1,0 +1,17 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CMR,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,CMR-030;CMR-001,Arrivals added CMR-030; stage unchanged.
+2026-10-17,COD,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,COD-015,Arrivals added COD-037; stage unchanged.
+2026-10-17,COG,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,COG-002;COG-005,Arrivals added COG-008; stage unchanged.
+2026-10-17,CPV,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,3,3,CPV-002,Arrivals added CPV-006; stage unchanged.
+2026-10-17,DJI,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,DJI-005;DJI-011,Arrivals added DJI-015; stage unchanged.
+2026-10-17,DZA,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,2,3,DZA-012,Arrivals added DZA-011; DZA-012; stage 2 -> 3.
+2026-10-17,ETH,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,ETH-020;ETH-022,Arrivals added ETH-026; stage unchanged.
+2026-10-17,GHA,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,3,4,GHA-027;GHA-024,Arrivals added GHA-025; GHA-026; GHA-027; stage 3 -> 4.
+2026-10-17,GMB,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,unplaced,2,GMB-002,Arrivals added GMB-002; stage unplaced -> 2.
+2026-10-17,MAR,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,5,5,MAR-025;MAR-005;MAR-029,Arrivals added MAR-029; stage unchanged.
+2026-10-17,MLI,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,3,3,MLI-002,Arrivals added MLI-004; stage unchanged.
+2026-10-17,NGA,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,NGA-005,Arrivals added NGA-125; NGA-126; NGA-127; NGA-128; NGA-129; stage unchanged.
+2026-10-17,SLE,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,no evidence,4,SLE-002;SLE-003,Arrivals added SLE-001; SLE-002; SLE-003; stage no evidence -> 4.
+2026-10-17,SOM,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
+2026-10-17,TGO,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,3,3,TGO-002,Arrivals added TGO-017; stage unchanged.
+2026-10-17,TUN,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,TUN-003;TUN-005,Arrivals added TUN-024; stage unchanged.

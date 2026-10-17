@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,registers,register,coverage,inservice,2024-05,LBR-001,LBR-003=none;LBR-002=underway,
+LBR,registers,register,coverage,inservice,2024-05,LBR-001;LBR-004,LBR-003=none;LBR-002=underway,
 LBR,registers,several,coverage,,,,,nothing held
-LBR,registers,matching,coverage,,,,,nothing held
+LBR,registers,matching,coverage,reported,2018,LBR-005,,nothing dated since 2023-10-17

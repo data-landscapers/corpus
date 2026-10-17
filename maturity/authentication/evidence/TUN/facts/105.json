@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-tun-lapresse-vie-scolaire-inscription",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Fatma Nouiri of the CNTE said on 21 August 2026 that Vie scolaire parent accounts are created from the national identity card number and date of birth, checked automatically against the Centre national de l'informatique database, and parents with an activated digital identity enter the platform directly.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Vie scolaire",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vie scolaire",
+   "country_label": "Vie scolaire",
+   "class": "other",
+   "platform": "",
+   "owner": "Centre national des technologies de l'education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-tun-ooredoo-housing-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Ooredoo Tunisie's own page offers its 188 m2 TIA-942-conformant data centre to business customers as rented racks, cages and shared racks (Housing), with a 99.95% SLA and a 24-month minimum term.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Ooredoo Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ooredoo Data Center",
+   "country_label": "Tunisie",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Ooredoo Tunisie",
+   "tiers": "TIA-942 conformant, no tier stated"
+  }
+ ],
+ "note": ""
+}

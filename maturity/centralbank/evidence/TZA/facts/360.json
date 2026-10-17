@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-thecitizen-uba-tanzania-launches-papss",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "UBA Tanzania launched PAPSS cross-border payments in Tanzania, with its payments manager saying the central banks of participating countries oversee their respective financial systems and exchange rates.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Tanzania",
+   "class": "oversight",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

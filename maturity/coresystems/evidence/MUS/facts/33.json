@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-mus-cisd-customer-charter",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Central Information Systems Division states it handles monthly payroll processing for every Ministry and Department, on a revamped payroll system with an e-payroll module for Finance Officers.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Government Payroll System (e-payroll)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Payroll System (e-payroll)",
+   "country_label": "Mauritius",
+   "class": "core",
+   "platform": "",
+   "owner": "Central Information Systems Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

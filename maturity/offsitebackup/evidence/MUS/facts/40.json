@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-01-mus-mitci-goc-tier-iv-rose-belle-dr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GOC Tier IV data centre, Rose-Belle",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Government Online Centre",
+   "tiers": "Tier IV"
+  }
+ ],
+ "note": "The Rose-Belle Tier IV data centre is for the Government Online Centre's own disaster recovery, not for hire; the networking for it is only being procured, and the main site's place is not named."
+}

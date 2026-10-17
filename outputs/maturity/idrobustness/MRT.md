@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Registre biométrique national (ANRPTS)](<https://procedures.gov.mr/fr/procedure/1105>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

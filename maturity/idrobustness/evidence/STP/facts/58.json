@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-28-stp-telanon-cartao-identidade-unica",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Director of Registries and Notaries says a pilot project with MOSIP is preparing the digital identity, with the physical card still unfunded.",
+   "as_of": "2024-09-28",
+   "date_precision": "day",
+   "system": "identidade digital (MOSIP pilot)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "identidade digital (MOSIP pilot)",
+   "country_label": "Sao Tome e Principe",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "Direcao dos Registos e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-05-tun-usembassy-fast-pfmis-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Finance data center",
+   "country_label": "MoF data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an upgrade of the Ministry of Finance's own data center is stated; no data centre for hire."
+}

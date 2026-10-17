@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 3 |
-| 3 Established | 11 |
+| 5 Leading | 3 |
+| 4 Operating | 4 |
+| 3 Established | 10 |
 | 2 Nascent | 18 |
 | 1 Absent | 3 |
-| Unplaced | 5 |
-| No evidence | 13 |
+| Unplaced | 4 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -37,12 +37,30 @@ Use of the government data exchange platform was reported in 2026.
 - The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026 ([source, 2026-07-11](https://statistiques.xroad.bj/)).
 - The ASIN speakers said over 70 million data exchange transactions have been completed to date ([source, 2025-06-23](https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar)).
 
+### Morocco: 5 Leading
+
+Use of the government data exchange platform was reported in 2024.
+
+- The ADD says over 55 million data exchange operations were recorded on Jisr from February 2023 to 31 January 2024, through 46 APIs giving access to 350 types of beneficiary information ([source, 2024-01](https://www.lavieeco.com/au-royaume/plateforme-jisr-55-millions-doperations-dechange-de-donnees-enregistrees-en-une-annee/)).
+
+### Tunisia: 5 Leading
+
+Use of the government data exchange platform was reported in 2025.
+
+- A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025 ([source, 2025](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+
 ### Egypt: 4 Operating
 
 Ten or more bodies or systems were connected to the government exchange platform in 2026; its use is not reported.
 
 - Minister Hindy said 105 government bodies are connected through the Government Digital Transformer, with integration to more than 100 government databases ([source, 2026-07-27](https://almalnews.com/2126687/)).
 - The ICT minister said 105 government bodies are linked through the government digital switch project, and 100 national databases have been linked under a data integration system in development ([source, 2026-07-19](https://gate.ahram.org.eg/News/5813424.aspx)).
+
+### Rwanda: 4 Operating
+
+Ten or more bodies or systems were connected to the government exchange platform in 2025; its use is not reported.
+
+- DIAL reports Irembo works with key systems and registries from over 35 partners across the government through an API ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
 
 ### Uganda: 4 Operating
 
@@ -123,13 +141,6 @@ A government data exchange platform was in service in 2026; how many systems it 
 - Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
 - The Prime Minister ordered all public institutions to join GovESB, built by e-GA so government systems can read each other and exchange information, by 30 July 2025, saying joining is free ([source, 2025-06-23](https://www.mwananchi.co.tz/mw/habari/kitaifa/majaliwa-aagiza-taasisi-za-umma-kujiunga-na-e-ga-atoa-wiki-tano-5092568)).
 
-### Tunisia: 3 Established
-
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
-
-- Cybernetica states phase 1 introduced UXP to five key ministries and institutions ([source, 2026-05](https://cyber.ee/resources/news/phase-2-tunisia-interoperability/)).
-- Le Quotidien reports the first phase of the national interoperability platform, UXP, was completed in 2025 in five ministries, with first applications deployed in 2024 ([source, 2025](https://www.lequotidien.com.tn/fr/nationale/10496-digitalisation-des-services-publics-en-tunisie-debut-du-deploiement-a-grande-echelle-de-l-interoperabilite)).
-
 ### Angola: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
@@ -161,7 +172,7 @@ A government data exchange platform was under way in 2026; none in service is on
 A government data exchange platform was under way in 2026; none in service is on record.
 
 - An official named Anteneh said the prime minister recently established a board that approved the creation of a national data exchange platform to let government systems communicate, which the article's passages do not describe as live; the date is the article's publication date, as it gives none ([source, 2026-07-25](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/)).
-- The World Bank (IDA) financing agreement, signed 20-21 December 2023, funds development of a whole-of-government data exchange platform with open APIs to integrate Fayda, payment systems and other digital public infrastructure (Part 4.2) ([source, 2023-12-20](https://documents1.worldbank.org/curated/en/099122123090519104/pdf/P1790401f9447f0c8185031717ad18a7a00.pdf)).
+- DT Global, EU-funded adviser, says it has submitted the technical design of the EthioConnect national data exchange platform and is preparing priority datasets for its pilot project, with procurement still to come ([source, 2024-12](https://www.atalayar.com/en/articulo/politics/dt-global-has-supported-ethiopias-digital-government-strategy/20241227125859209382.html)).
 
 ### Gabon: 2 Nascent
 
@@ -217,13 +228,6 @@ A government data exchange platform was under way in 2026; none in service is on
 - The Government Service Portal, soft-launched with KOICA and Galaxy Backbone, is in a pilot that has run since 2025 and integrates some government institutions before nationwide rollout, with a key feature of integration with the Nigerian Digital Exchange so agencies can share data among them ([source, 2026-07-30](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services)).
 - The Nigerian government is preparing to launch the NGDX data-sharing platform between government agencies and businesses, expected operational by end 2025, as discussed at an Abuja workshop on 25 August 2025 ([source, 2025-08-25](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom)).
 
-### Rwanda: 2 Nascent
-
-A government data exchange platform was under way in 2026; none in service is on record.
-
-- Cenfri, interviewing NISR's Data Governance Project Lead, lists building the data sharing platform itself among the Data Governance Unit's current foundation work, and says institutions should publish quality-assured datasets through it over the next three to five years ([source, 2026-05-07](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
-- RISA held an early market engagement session on its draft RFP for the Shared Government Data Hub and Data Interoperability Platform, stating a 9-month implementation period, 12 months of post-deployment support, and a final RFP to be published before the end of 2025 ([source, 2025-11-21](https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7)).
-
 ### Sao Tome and Principe: 2 Nascent
 
 A government data exchange platform was under way in 2025; none in service is on record.
@@ -244,6 +248,12 @@ A government data exchange platform was under way in 2026; none in service is on
 
 - Daily Maverick reports a Presidency Digital Services Unit official presenting a data exchange, described as X-Road, as the second DPI component being implemented, hosted by SITA, within a three-phase roll-out over 24 months ([source, 2026-09-23](https://www.dailymaverick.co.za/article/2026-09-23-estonian-echoes-sas-digital-public-infrastructure-looks-like-it-was-made-in-estonia/)).
 - The MyMzansi roadmap page refers to a data exchange pilot and sets a milestone to implement a data exchange platform for grant eligibility testing by Q4 2026 and to roll it out to at least 20 more databases by Q4 2027; date is a proxy published date ([source, 2026-08-03](https://www.mymzansi.gov.za/roadmap/initiative-2)).
+
+### Togo: 2 Nascent
+
+A government data exchange platform was under way in 2024; none in service is on record.
+
+- Togo's presentation says the RSIA federated inter-administration exchange network was in a pilot phase launched in Q4 2024, with the pilot to finish in Q2 2025 ([source, 2024-10](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
 
 ### Zimbabwe: 2 Nascent
 
@@ -268,6 +278,7 @@ A 2025 source says government systems have no data exchange platform.
 A 2026 source says government systems have no data exchange platform.
 
 - The Ministry of Finance's PFM Reform Strategy 2026-2030 lists developing a central data exchange platform as a priority measure, with piloting and rollout phased after working-group and data-standards stages, and says lack of interoperability between PFM IT systems limits consolidation of financial information ([source, 2026-03-31](https://mof.gov.so/sites/default/files/Publications/Somalia%20Public%20Financial%20Management%20Reform%20Strategy%20-%20March%2031.pdf)).
+- GovStack states that an interoperability platform has not yet been developed in Somalia and all agencies have their own systems ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
 
 ### Burundi: Unplaced
 
@@ -288,12 +299,6 @@ Nothing held since 2023 names a government data exchange platform, so no stage i
 Not established: Nothing held since October 2023 names a government data exchange platform.
 
 ### Mauritius: Unplaced
-
-Nothing held since 2023 names a government data exchange platform, so no stage is set.
-
-Not established: Nothing held since October 2023 names a government data exchange platform.
-
-### Morocco: Unplaced
 
 Nothing held since 2023 names a government data exchange platform, so no stage is set.
 
@@ -366,12 +371,6 @@ Nothing held names a government data exchange platform or says there is none, so
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### South Sudan: No evidence
-
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing held names a government data exchange platform, or says there is none.
-
-### Togo: No evidence
 
 Nothing held names a government data exchange platform or says there is none, so no stage is set.
 

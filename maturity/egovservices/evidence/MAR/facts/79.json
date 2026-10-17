@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Morocco's education ministry says it has digitised several services for baccalaureate candidates, including checking personal data, applying for a post-bac grant, getting results, filing complaints and a digital diploma.",
+   "as_of": "2024-03-24",
+   "date_precision": "day",
+   "system": "Education ministry candidate e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education ministry candidate e-services",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of National Education, Preschool and Sports",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

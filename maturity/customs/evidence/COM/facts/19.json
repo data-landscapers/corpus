@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-02-com-gazette-interconnexion-sigit-sydonia",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "La Gazette des Comores reports that the customs information system SYDONIA was interconnected with the tax system SIGIT in a launch on 30 December 2023, with customs operator data cross-checked against tax records.",
+   "as_of": "2023-12-30",
+   "date_precision": "day",
+   "system": "SYDONIA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Comoros",
+   "class": "customs",
+   "platform": "",
+   "owner": "Direction generale des douanes",
+   "tiers": ""
+  },
+  {
+   "system": "SIGIT",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

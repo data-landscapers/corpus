@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Deputy Minister Nzuza says birth registration is the foundation of the department's population register.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "population register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

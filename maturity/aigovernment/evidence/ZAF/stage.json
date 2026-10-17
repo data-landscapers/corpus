@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "3",
-   "use": "inservice",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001;ZAF-002",
-   "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001;ZAF-002",
+      "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
+      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

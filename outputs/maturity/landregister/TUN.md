@@ -2,12 +2,12 @@
 
 ## Land register
 
-**Digital register in service.** [The OTC's Géoportail cadastral project page lists uniform cadastral databases and the cadastral system as in progress (en cours), with digitisation of maps and registers](<https://www.otc.nat.tn/geoportail>). [The Minister of State Domains and Land Affairs said the ministry has completed digitisation of over 10,000 state properties into a unified database, with the Office of Topography and Cadastre and the National Remote Sensing Centre](<https://www.webdo.tn/fr/actualite/national/biens-publics-4000-proprietes-detrangers-regularisees-et-une-carte-fonciere-numerique-en-preparation/387548/>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Digital register in service.** [The deck lists land property among sectors with generalised information systems, which remain siloed](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>). [The Minister of State Domains and Land Affairs said the ministry has completed digitisation of over 10,000 state properties into a unified database, with the Office of Topography and Cadastre and the National Remote Sensing Centre](<https://www.webdo.tn/fr/actualite/national/biens-publics-4000-proprietes-detrangers-regularisees-et-une-carte-fonciere-numerique-en-preparation/387548/>). [The OTC signed a USD 50m, three-year contract with the Samsung C&T Consortium for the Tunisian land information system, to digitise all OTC archives, build a land database and an integrated cadastral information system, with infrastructure in the OTC's 24 arrondissements, per OTC head Ahmed El Kamel](<https://www.webmanagercenter.com/2025/05/26/546769/tunisie-lancement-du-projet-de-systeme-dinformations-foncieres-avec-un-consortium-sud-coreen-mene-par-samsung-ct/>).
 
-**Nationwide.** No source held since October 2023 says the digital land register covers the whole country. The nearest held fact: [the one given above](<https://www.otc.nat.tn/geoportail>).
+**Nationwide.** No source held since October 2023 says the digital land register covers the whole country. The nearest held fact: [the one given above](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
 
-**Online services.** No source held since October 2023 says land can be searched or registered online. The nearest held fact: [the one given above](<https://www.otc.nat.tn/geoportail>).
+**Online services.** No source held since October 2023 says land can be searched or registered online. The nearest held fact: [the one given above](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is a digital land register in service.
+***Not held***. No source held since October 2023 says the digital land register covers the whole country.

@@ -1,0 +1,27 @@
+{
+ "slug": "2023-11-01-sen-dgpsn-registre-national-unique-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "DGPSN says the information systems of the RNU and the PNBSF are interconnected, with SENUM-SA's technical support, using REST APIs.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "RNU-PNBSF interconnection",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "DGPSN says interoperability of the RNU with the CMU and DGAS systems is in progress, with preliminary studies and an action plan done.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "RNU-CMU/DGAS interoperability",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

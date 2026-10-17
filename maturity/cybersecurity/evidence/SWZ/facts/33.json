@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-06-swz-eswatinipositive-pm-cybersecurity-cirt-operational",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Prime Minister Dlamini announced that the Eswatini Communications Commission has been formally designated the National Cybersecurity Agency, with a fully operational Cyber Incident Response Team.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Eswatini Communications Commission (ESCCOM) CIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The Prime Minister cited the National Cybersecurity Strategy 2022-2027 as part of the country's digital defence framework.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2022-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ESCCOM CIRT",
+   "country_label": "Eswatini Communications Commission (National Cybersecurity Agency)",
+   "class": "response",
+   "platform": "",
+   "owner": "Eswatini Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

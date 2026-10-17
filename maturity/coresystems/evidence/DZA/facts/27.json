@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-19-dza-jnae-public-finance-digitization-sigb-sigbud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGB/SIGBUD/MSB",
+   "country_label": "SIGB, SIGBUD, MSB",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Abstract only; says finance ministry information systems are applied but does not state in use across central government, nor tax or payroll."
+}

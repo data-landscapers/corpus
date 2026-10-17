@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-08-gha-bayobab-2africa-lands-ghana-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Bayobab says Ghana now has six cable landings, including 2Africa, that facilitate quick and reliable internet speeds.",
+   "as_of": "2024-02-08",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "Ghana (landed Accra)",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "2Africa consortium; Bayobab landing party",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

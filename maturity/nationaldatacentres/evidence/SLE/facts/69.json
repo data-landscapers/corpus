@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-16-sle-mof-dfmst-tier-iii-data-centre-co-location",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Ministry of Finance's DFMST page says it operates a Tier III data centre providing co-location services for institutions in the financial sector.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "DFMST Tier III data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The data centre is operated by the Sierra Leone Ministry of Finance's own directorate, the DFMST.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "DFMST Tier III data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

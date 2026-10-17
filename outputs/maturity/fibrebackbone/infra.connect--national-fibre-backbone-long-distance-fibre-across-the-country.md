@@ -1,6 +1,6 @@
 # National fibre backbone: long-distance fibre across the country
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 6 |
-| 3 Established | 28 |
+| 3 Established | 29 |
 | 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -106,8 +106,8 @@ Backbone fibre linked the capital to other regions by 2025; whether it reaches e
 
 Backbone fibre linked the capital to other regions by 2026; whether it reaches every region is not known.
 
+- Minister Haliki Choua Mahamat said on 2026-10-09 that Chad has about 6,000 km of optical fibre, with a target of 14,000 km; the text does not say which regions it links ([source, 2026-10-09](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/)).
 - Minister Haliki Choua Mahamat told the World Bank on 2026-09-15 that national fibre coverage is incomplete, with six provinces still not connected by fibre, and about 8,000 km still to deploy ([source, 2026-09-15](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique)).
-- Afrique IT News reports the government invested in 1,275 km of fibre under PMICE and ordered Airtel and Moov Africa to connect to the national fibre network within seven days; no places or regions are named ([source, 2025-09](https://afriqueitnews.com/tech-media/tchad-ordonne-operateurs-connecter-reseau-national-fibre-optique/)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -173,6 +173,12 @@ Backbone fibre linked the capital to other regions by 2025; whether it reaches e
 
 - The director general of the state company SDIN (Societe nationale de developpement des infrastructures numeriques) said at its HQ inauguration that it operates a national optical fibre network of more than 1,760 km on three main axes linking the country's regions; reported by AMI. The statement is dated 2025-12-16, the document's date ([source, 2025-12-16](https://ami.mr/fr/archives/285647)).
 - The World Bank says five fibre-optic links totalling 1,710 km were laid and became operational under WARCIP APL2, distributing international connectivity from the ACE landing to most provincial capitals and to the Mali, Niger, Burkina Faso and Morocco cross-border links; operators expanded 4G once the links were operational. Date taken as the project closing, 2021-11, the report (2022-08-26) giving no lighting date ([source, 2021-11](https://documents1.worldbank.org/curated/en/099915008262277976/pdf/BOSIB0ef45e1210300bb6f0e08fc7c02a45.pdf)).
+
+### Morocco: 3 Established
+
+Backbone fibre linked the capital to other regions by 2025; whether it reaches every region is not known.
+
+- inwi says its network has a long-distance, high-speed backbone extending across the nation, with more than 9,000 km of own and leased fibre ([source, 2025](https://inwi.ma/en/wholesale/our-network)).
 
 ### Mozambique: 3 Established
 
@@ -345,12 +351,6 @@ Nothing held says a national fibre backbone is being built or in service, so no 
 Not established: Nothing held names a national fibre backbone, or says there is none.
 
 ### Mauritius: No evidence
-
-Nothing held says a national fibre backbone is being built or in service, so no stage is set.
-
-Not established: Nothing held names a national fibre backbone, or says there is none.
-
-### Morocco: No evidence
 
 Nothing held says a national fibre backbone is being built or in service, so no stage is set.
 

@@ -1,0 +1,17 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BDI,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,BDI-001,Arrivals added BDI-001; stage no evidence -> 3.
+2026-10-17,CIV,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,CIV-004,Arrivals added CIV-009; stage unchanged.
+2026-10-17,COG,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,COG-001,Arrivals added COG-001; stage no evidence -> 3.
+2026-10-17,CPV,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,4,4,CPV-011;CPV-024;CPV-004,Arrivals added CPV-034; CPV-035; stage unchanged.
+2026-10-17,DJI,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,unplaced,3,DJI-002,Arrivals added DJI-002; stage unplaced -> 3.
+2026-10-17,DZA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,2,2,DZA-001,Arrivals added DZA-002; stage unchanged.
+2026-10-17,ETH,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,ETH-001;ETH-002,Arrivals added ETH-001; ETH-002; stage no evidence -> 3.
+2026-10-17,GNQ,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,1,GNQ-002,Arrivals added GNQ-002; stage no evidence -> 1.
+2026-10-17,KEN,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,KEN-001;KEN-002,Arrivals added KEN-001; KEN-002; stage no evidence -> 3.
+2026-10-17,MUS,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,MUS-001;MUS-002,Arrivals added MUS-001; MUS-002; MUS-003; MUS-004; stage no evidence -> 3.
+2026-10-17,NAM,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,unplaced,1,NAM-003,Arrivals added NAM-003; stage unplaced -> 1.
+2026-10-17,NGA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,4,4,NGA-004;NGA-001;NGA-013,Arrivals added NGA-016; stage unchanged.
+2026-10-17,RWA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,RWA-001,Arrivals added RWA-001; stage no evidence -> 3.
+2026-10-17,SEN,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,4,4,SEN-008;SEN-002;SEN-003,Arrivals added SEN-014; SEN-015; stage unchanged.
+2026-10-17,SLE,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,SLE-001;SLE-002,Arrivals added SLE-002; stage unchanged.
+2026-10-17,ZAF,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,ZAF-007;ZAF-003,Arrivals added ZAF-013; stage unchanged.

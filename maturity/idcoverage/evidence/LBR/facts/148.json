@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-05-lbr-newspublictrust-nir-mobile-teams",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The NIR says 700,000 people (13.46% of 5.2 million) are enrolled in the NBIS.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "National Biometric Identification System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System",
+   "country_label": "NBIS",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

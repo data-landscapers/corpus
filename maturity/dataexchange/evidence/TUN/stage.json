@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-003;TUN-001",
-   "gaps": "No source held since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "platform": "inservice",
+      "reach": "wide",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-010",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

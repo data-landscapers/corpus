@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-03-mar-aujourdhui-dgi-simpl-e-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Simpl",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "web (J2EE)",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": "Simpl is the tax directorate's own system for its taxpayers; not a multi-ministry government service portal."
+}

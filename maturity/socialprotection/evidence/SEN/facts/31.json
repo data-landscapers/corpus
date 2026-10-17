@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-01-sen-dgpsn-registre-national-unique-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DGPSN says the RNU MIS and the PNBSF information system are in operation and interconnected, hosted by SENUM-SA.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "RNU-MIS / PNBSF information system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

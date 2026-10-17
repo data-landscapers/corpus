@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-techcabal-south-africa-digital-skills-jobs-152m",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Collective X, which coordinates South Africa's National Digital Skills Plan, said its board chair reports 600 member organisations, R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries across all nine provinces.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "National Digital Skills Plan / Digital Skills Impact Fund (The Collective X)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Skills Plan",
+   "country_label": "South Africa",
+   "class": "publicskills",
+   "platform": "Digital Skills Impact Fund",
+   "owner": "The Collective X",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

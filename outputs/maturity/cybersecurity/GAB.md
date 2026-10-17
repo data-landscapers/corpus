@@ -10,6 +10,6 @@
 
 **Published figures.** No source held says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<https://www.gabonreview.com/cybermenaces-ce-que-laninf-dit-vraiment-des-900-000-alertes-qui-font-polemique/>).
 
-***Noted, not assessed***. [SecBOM](<https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/>).
+***Noted, not assessed***. [ANINF](<https://echosdeleco.com/articles/cybersecurite-le-gabon-renforce-ses-defenses-face-aux-attaques-dopees-a-l-ia>); [SecBOM](<https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/>).
 
 ***Not held***. No source held says the national body handled an incident or issued a public alert since October 2023.

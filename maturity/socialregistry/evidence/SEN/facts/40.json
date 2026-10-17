@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-01-sen-dgpsn-registre-national-unique-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "DGPSN presents the Registre National Unique, set up by Decree 2021-1052, as covering 541,192 households in 2020-2023, with over 1 million planned for 2024.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Registre National Unique (RNU)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Registre National Unique (RNU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National Unique (RNU)",
+   "country_label": "RNU",
+   "class": "social",
+   "platform": "RNU-MIS (Java/Wildfly, SQL Server)",
+   "owner": "DGPSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "unplaced",
-   "service": "",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 names a digital authentication service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "2",
+      "service": "underway",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-002;BFA-003",
+      "gaps": "No source held since October 2023 says: is one in service.",
+      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

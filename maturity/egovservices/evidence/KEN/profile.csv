@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,eservices,services,coverage,inservice,2026-09-21,KEN-001;KEN-002,,
+KEN,eservices,services,coverage,inservice,2026-09-21,KEN-001;KEN-002,KEN-003=underway,
 KEN,eservices,gateway,coverage,,,,,nothing held
 KEN,eservices,usage,coverage,,,,,nothing held

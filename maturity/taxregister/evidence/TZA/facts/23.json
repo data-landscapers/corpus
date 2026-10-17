@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-16-tza-dailynews-idras-driver-licence-digital",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IDRAS",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Tanzania Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Taxpayer number is required to use the systems, but no register or its status is stated."
+}

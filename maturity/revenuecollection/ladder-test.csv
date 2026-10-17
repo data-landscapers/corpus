@@ -5,7 +5,7 @@ BEN,3,inservice,,,BEN-001;BEN-002
 BFA,3,inservice,,,BFA-003;BFA-004
 BWA,2,underway,,,BWA-001;BWA-002
 CAF,3,inservice,,,CAF-002;CAF-001
-CIV,3,inservice,,,CIV-002
+CIV,3,inservice,,,CIV-001;CIV-002
 CMR,3,inservice,,,CMR-001;CMR-003
 COD,2,underway,,,COD-001;COD-002
 COG,3,inservice,,,COG-001;COG-003
@@ -13,7 +13,7 @@ COM,2,underway,,,COM-001;COM-002
 CPV,no evidence,,,,
 DJI,2,underway,,,DJI-001
 DZA,3,inservice,,,DZA-001;DZA-004
-EGY,3,inservice,,,EGY-001;EGY-002
+EGY,5,inservice,main,reported,EGY-008
 ERI,no evidence,,,,
 ETH,3,inservice,,,ETH-003
 GAB,3,inservice,,,GAB-002;GAB-003
@@ -26,7 +26,7 @@ KEN,no evidence,,,,
 LBR,3,inservice,,,LBR-005;LBR-002
 LBY,3,inservice,,,LBY-002;LBY-001
 LSO,4,inservice,main,,LSO-002
-MAR,3,inservice,,,MAR-002
+MAR,5,inservice,main,reported,MAR-004
 MDG,3,inservice,,,MDG-002
 MLI,5,inservice,main,reported,MLI-002;MLI-004
 MOZ,no evidence,,,,
@@ -34,11 +34,11 @@ MRT,5,inservice,main,reported,MRT-002;MRT-007
 MUS,3,inservice,,,MUS-001
 MWI,2,underway,,,MWI-001
 NAM,no evidence,,,,
-NER,3,inservice,,,NER-002
+NER,3,inservice,,,NER-001;NER-002
 NGA,no evidence,,,,
 RWA,no evidence,,,,
-SDN,3,inservice,,,SDN-002;SDN-005
-SEN,unplaced,,,,
+SDN,3,inservice,,,SDN-004;SDN-001
+SEN,3,inservice,,,SEN-001
 SLE,3,inservice,,,SLE-001
 SOM,3,inservice,,,SOM-001;SOM-002
 SSD,3,inservice,,,SSD-002;SSD-003

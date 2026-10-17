@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-SEN,Campagne nationale d'identification des abonnés de la téléphonie mobile (ARTP),Sénégal,,,"ARTP, with operators Sonatel, Yas, Expresso, Hayo and Promobile and technical support from the DAF",,2025-10-01-pressafrik-artp-resiliation-numeros-non-identifies-appui-daf
+SEN,Campagne nationale d'identification des abonnés de la téléphonie mobile (ARTP),Sénégal,other,,"ARTP, with operators Sonatel, Yas, Expresso, Hayo and Promobile and technical support from the DAF",,2025-10-01-pressafrik-artp-resiliation-numeros-non-identifies-appui-daf
 SEN,Maa ngi nii (pdv.ipres.sn),Senegal,relying,digital proof-of-life platform,IPRES,,2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao
 SEN,e-Sénégal,Senegal,relying,mobile app and single-window portal (sn.senum.guichetunique),Sénégal Numérique SA (SENUM SA),,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
-SEN,GovStack,Senegal,,"platform for over 800 administrative procedures, presented November 2023",SENUM SA with GIZ,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
+SEN,GovStack,Senegal,other,"platform for over 800 administrative procedures, presented November 2023",SENUM SA with GIZ,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
 SEN,Electoral register (listes électorales),Senegal,relying,,State electoral administration,,2016-09-29-decret-2016-1536-carte-identite-biometrique-cedeao-nin

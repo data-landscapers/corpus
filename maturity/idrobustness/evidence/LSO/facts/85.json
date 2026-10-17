@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-lso-undp-voter-registration-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP reports Home Affairs says it has registered 95% of targeted citizens, approaching 1.4 million, capturing ten fingerprints and a photo, with charge-free ID issuance and continuous data update.",
+   "as_of": "2023-12-21",
+   "date_precision": "day",
+   "system": "National identity registration (DNICR)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity registration (DNICR)",
+   "country_label": "LSO",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, National Identity and Civil Registration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

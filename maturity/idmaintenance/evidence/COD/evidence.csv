@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,maintenance,operation,supplier,"Under the 20-year contract the IDEMIA/Afritech consortium produces the cards, manages the general population file and builds and operates the identification centres, per BBC News Afrique.",2024-05-14,day,ONIP national ID card,idsystem,2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans,https://www.bbc.com/afrique/articles/cy633p6ezq1o

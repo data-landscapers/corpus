@@ -2,4 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 TGO,Yas Togo core and transmission network,Yas Togo,other,Nokia cloud-native,Yas Togo (AXIAN Telecom),,2025-12-19-yas-togo-nokia-partenariat-strategique
 TGO,Togocom backbone,backbone Togocom,backbone,,Togocom,,2023-02-20-togo-specifications-tic-administrations-acces-internet
 TGO,Societe d'Infrastructures Numeriques (SIN) fibre mutualisation,SIN,other,,State (created 2016),,2021-01-15-tgo-rtg-deploiement-systematique-fibre-optique
-TGO,SIN fibre network (Societe d'infrastructures numeriques),reseaux de fibre optique deployes pour la SIN,,,SIN (state digital infrastructure company),,2020-12-23-tgo-arcep-decret-2020-116-deploiement-fibre-optique
+TGO,SIN fibre network (Societe d'infrastructures numeriques),reseaux de fibre optique deployes pour la SIN,other,,SIN (state digital infrastructure company),,2020-12-23-tgo-arcep-decret-2020-116-deploiement-fibre-optique

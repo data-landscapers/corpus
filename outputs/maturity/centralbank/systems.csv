@@ -117,6 +117,8 @@ ETH,ZooryaPay,Ethiopia,other,ETTA Solutions,ETTA Solutions PLC,PSO licence,2026-
 ETH,National switch,Ethiopia,other,,,,2026-10-07-eth-capital-visa-etta-contactless-devices
 ETH,EthSwitch,Ethiopia,oversight,,,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
 ETH,Unified Government Payment Platform,Ethiopia,other,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
+ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-16-itweb-ethiopia-cross-border-payments-papss
+ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026
 GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 GAB,MaDigiPaie,Gabon,other,,,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 GAB,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
@@ -161,8 +163,8 @@ GNB,BCEAO regional payments architecture,Guinea-Bissau,oversight,RTGS and automa
 GNB,PI-SPI,Guinea-Bissau,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,PI-SPI,Guinea-Bissau,oversight,,BCEAO,,2026-03-05-instant-payments-pi-spi-waemu-bceao
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 GNB,PI-SPI,UEMOA,other,Plateforme interopérable du Système de paiement instantané,BCEAO,"banks, e-money, payment and microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 GNQ,GIMACPAY,Equatorial Guinea,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 GNQ,GIMACPAY,Equatorial Guinea,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
@@ -220,7 +222,7 @@ MLI,PI-SPI,Mali,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-
 MLI,Orange Finances Mobiles Mali,Mali,other,mobile money,Orange,,2026-04-02-bceao-liste-participants-pi-spi
 MLI,GIM-UEMOA,Mali,other,regional switch,,,2023-11-29-worldbank-dfs-inclusion-growth-mali
 MLI,PI-SPI,Mali,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
-MLI,PI-SPI,MLI,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+MLI,PI-SPI,MLI,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
 MOZ,M-Pesa,Mozambique,other,mobile money,Vodacom,,2026-10-08-moz-pav-pawapay-licensed-psp
 MOZ,e-Mola,Mozambique,other,mobile money,Movitel,,2026-10-08-moz-pav-pawapay-licensed-psp
 MOZ,mKesh,Mozambique,other,mobile money,Tmcel,,2026-10-08-moz-pav-pawapay-licensed-psp
@@ -377,6 +379,7 @@ TZA,TIPS,Tanzania,oversight,,,,2026-07-28-tanzania-financial-inclusion-expands-u
 TZA,TIPS,Tanzania,other,,Bank of Tanzania,,2026-07-10-eac-tanzania-rwanda-cross-border-payments
 TZA,TIPS,Tanzania,oversight,Tanzania Instant Payment System,Bank of Tanzania,,2026-04-28-interoperability-costs-cut-113-agencies
 TZA,TACH,Tanzania,oversight,Tanzania Automated Clearing House,Bank of Tanzania,,2026-04-28-interoperability-costs-cut-113-agencies
+TZA,PAPSS,Tanzania,oversight,Pan-African Payment and Settlement System,,,2026-10-16-thecitizen-uba-tanzania-launches-papss
 UGA,EAPS,Uganda,oversight,,,,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%
 ZAF,National Payment System Act / proposed NPS Bill,South Africa,oversight,,SARB,,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange
 ZAF,PayInc,South Africa,oversight,automated clearing house,SARB (50%) and banks,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago

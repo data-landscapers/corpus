@@ -1,0 +1,31 @@
+{
+ "slug": "2024-09-09-nga-businessday-energy-costs-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rack Centre",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Open Access Data Centres (OADC)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names over 11 data centres but does not say they rent to others, state a Tier or name a cloud region."
+}

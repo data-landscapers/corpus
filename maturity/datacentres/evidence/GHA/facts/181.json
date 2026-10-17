@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The op-ed says Ghana hosts around five major data centre facilities near Accra, and that PAIX Data Centres has upgraded its Accra facility to 1.2 megawatts.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "PAIX Accra",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Accra",
+   "country_label": "PAIX Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX",
+   "tiers": ""
+  }
+ ],
+ "note": "No tier or cloud region stated."
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "3",
-   "mandate": "licensing",
-   "switch": "",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-002",
-   "gaps": "No source held since October 2023 says the central bank runs or oversees a national switch.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-003;ETH-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-centralbank.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

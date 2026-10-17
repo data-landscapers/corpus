@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Togo's presentation says the Social Registry of Individuals and Households (RSPM) was in development and initial integration in 2025, using the e-ID as its unique key.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RSPM",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSPM",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

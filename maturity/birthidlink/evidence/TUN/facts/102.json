@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The playbook shows the citizen identifier register initialised and updated from the national civil status system Madania by API, and holding birth-act and death-act references, the date and place of death and civil status.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

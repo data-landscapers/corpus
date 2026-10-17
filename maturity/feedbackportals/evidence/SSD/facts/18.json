@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-09-ssd-worldbank-safety-net-results",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The World Bank says the South Sudan Safety Net Project digitized its Grievance Redress Mechanism, with 100 percent of grievances resolved through the MIS, and the tools were handed over to the government.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "Grievance Redress Mechanism (SSSNP MIS)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SSSNP Grievance Redress Mechanism",
+   "country_label": "South Sudan",
+   "class": "feedback",
+   "platform": "Biometric MIS",
+   "owner": "UNOPS, handed to government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

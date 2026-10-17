@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-mus-cisd-application-development-unit",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The CISD page lists the e-Payroll system as launched in October 2020 and revamped in September 2023.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "e-Payroll",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "The CISD page lists a revamped e-Payroll System in September 2023.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "e-Payroll",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Payroll",
+   "country_label": "e-Payroll",
+   "class": "core",
+   "platform": "GOC Cloud",
+   "owner": "Central Information Systems Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

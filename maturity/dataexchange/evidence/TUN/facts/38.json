@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Plateforme Nationale d'Interoperabilite",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Plateforme Nationale d'Interoperabilite",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme Nationale d'Interoperabilite",
+   "country_label": "Plateforme Nationale d'Interoperabilite",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Centre National Informatique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

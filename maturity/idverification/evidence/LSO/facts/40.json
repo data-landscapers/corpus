@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-16-lso-thereporter-education-sector-lags-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "bank and mobile money accounts",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

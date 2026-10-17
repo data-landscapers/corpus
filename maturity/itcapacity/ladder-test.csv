@@ -1,6 +1,6 @@
 iso3,stage,inhouse,agency,built,cadre,stage_sources
 AGO,4,yes,,live,,AGO-002;AGO-001
-BDI,no evidence,,,,,
+BDI,3,,operating,,,BDI-001
 BEN,3,yes,operating,,,BEN-002;BEN-001
 BFA,4,yes,operating,live,,BFA-008;BFA-003;BFA-002
 BWA,3,,operating,,,BWA-001
@@ -8,21 +8,21 @@ CAF,no evidence,,,,,
 CIV,3,,operating,,,CIV-004
 CMR,no evidence,,,,,
 COD,no evidence,,,,,
-COG,no evidence,,,,,
+COG,3,,operating,,,COG-001
 COM,no evidence,,,,,
 CPV,4,yes,operating,live,,CPV-011;CPV-024;CPV-004
-DJI,unplaced,,,,,
+DJI,3,,operating,,,DJI-002
 DZA,2,yes,,,,DZA-001
 EGY,2,yes,,,,EGY-001
 ERI,no evidence,,,,,
-ETH,no evidence,,,,,
-GAB,3,yes,operating,,,GAB-013;GAB-012
+ETH,3,yes,operating,,,ETH-001;ETH-002
+GAB,4,yes,operating,live,,GAB-011;GAB-010;GAB-009
 GHA,1,outsourced,,,,GHA-001
 GIN,unplaced,,,,,
 GMB,no evidence,,,,,
 GNB,unplaced,,,,,
-GNQ,no evidence,,,,,
-KEN,no evidence,,,,,
+GNQ,1,outsourced,,,,GNQ-002
+KEN,3,yes,operating,,,KEN-001;KEN-002
 LBR,4,yes,,live,,LBR-002;LBR-001
 LBY,2,yes,,,,LBY-001
 LSO,no evidence,,,,,
@@ -31,15 +31,15 @@ MDG,no evidence,,,,,
 MLI,3,,operating,,,MLI-001
 MOZ,3,,operating,,,MOZ-002
 MRT,no evidence,,,,,
-MUS,no evidence,,,,,
-MWI,no evidence,,,,,
-NAM,unplaced,,,,,
+MUS,3,yes,operating,,,MUS-001;MUS-002
+MWI,2,yes,,,,MWI-001
+NAM,1,outsourced,,,,NAM-003
 NER,no evidence,,,,,
-NGA,4,,operating,live,,NGA-004;NGA-003
-RWA,no evidence,,,,,
+NGA,4,yes,operating,live,,NGA-004;NGA-001;NGA-013
+RWA,3,,operating,,,RWA-001
 SDN,no evidence,,,,,
 SEN,4,yes,operating,live,,SEN-008;SEN-002;SEN-003
-SLE,3,,operating,,,SLE-001
+SLE,3,yes,operating,,,SLE-001;SLE-002
 SOM,no evidence,,,,,
 SSD,unplaced,,,,,
 STP,no evidence,,,,,
@@ -49,7 +49,7 @@ TCD,2,yes,,,,TCD-001
 TGO,3,,operating,,,TGO-001
 TUN,3,yes,operating,,,TUN-003;TUN-004
 TZA,3,yes,operating,,,TZA-002;TZA-001
-UGA,3,yes,operating,,,UGA-002;UGA-001
+UGA,3,yes,operating,,,UGA-013;UGA-012
 ZAF,3,yes,operating,,,ZAF-007;ZAF-003
 ZMB,4,yes,operating,live,,ZMB-025;ZMB-001;ZMB-013
 ZWE,3,yes,operating,,,ZWE-002;ZWE-001

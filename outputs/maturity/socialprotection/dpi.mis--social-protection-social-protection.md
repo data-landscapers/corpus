@@ -22,11 +22,11 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 11 |
-| 3 Established | 4 |
+| 3 Established | 5 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 35 |
+| No evidence | 34 |
 
 ## Countries
 
@@ -116,6 +116,12 @@ A social programme was run on an information system in 2024; electronic payment 
 A social programme was run on an information system in 2026; electronic payment from it is not known.
 
 - The terms of reference list LEAP, Labour Intensive Public Works, Productive Inclusion, the Ghana School Feeding Programme and the Capitation Grant among the ministry's existing Management Information Systems, currently integrated peer-to-peer ([source, 2026-08-29](https://www.mogcsp.gov.gh/?mdocs-file=8618)).
+
+### Senegal: 3 Established
+
+A social programme was run on an information system in 2023; electronic payment from it is not known.
+
+- DGPSN says the RNU MIS and the PNBSF information system are in operation and interconnected, hosted by SENUM-SA ([source, 2023-11](https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -299,12 +305,6 @@ Nothing held names a social programme management information system or says ther
 Not established: Nothing held says how social programmes are administered.
 
 ### Rwanda: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Senegal: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 

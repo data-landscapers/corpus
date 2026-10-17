@@ -9,7 +9,7 @@ UGA,Tahaluf e-KYC and e-verification system,Uganda,relying,,Tahaluf,,2026-09-23-
 UGA,Tahaluf AI smart gate system,Uganda,other,,Tahaluf,,2026-09-23-newvision-uga-tahaluf-ai-border-control-nira
 UGA,"National Identification Number (NIN) use in SIM registration, e-KYC and taxation",Uganda,relying,,NIRA,,2026-09-07-nilepost-nira-national-id-expo-register-gap
 UGA,NITA-U digital authentication and government systems integration,Uganda,relying,,NITA-U,,2026-09-07-nilepost-nira-national-id-expo-register-gap
-UGA,SIM card registration,Uganda,,,UCC,,2026-07-23-uganda-crackdown-telecoms-vandalism
+UGA,SIM card registration,Uganda,other,,UCC,,2026-07-23-uganda-crackdown-telecoms-vandalism
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-30-government-launches-integration-of-national-id-tax-identific
 UGA,URA taxpayer register linked to the National ID (NIN),Uganda,relying,,Uganda Revenue Authority,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
@@ -23,6 +23,6 @@ UGA,National ID (NIRA),Uganda,other,,NIRA,,2026-09-03-mulengeranews-uganda-nin-t
 UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,2026-09-01-businesstimesug-uganda-nin-replace-tin
 UGA,SIM registration,Uganda,relying,,telecom providers,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,Bank customer verification,Uganda,relying,,banks,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
-UGA,National ID QR-code verification,Uganda,,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
+UGA,National ID QR-code verification,Uganda,other,QR code on new national ID card,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,2025-11-12-ura-shift-from-tin-to-nin
 UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,"2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN"

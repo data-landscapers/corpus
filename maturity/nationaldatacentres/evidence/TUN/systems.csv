@@ -1,13 +1,13 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2025-06-12-tunisie-telecom-data-center-carthage-iso-certifications
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
-TUN,Data Center Kasbah,Regional secondary data centre Kasbah,,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
-TUN,Data Center Kairouan,Disaster recovery site Kairouan,,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Data Center Kasbah,Regional secondary data centre Kasbah,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Data Center Kairouan,Disaster recovery site Kairouan,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
 TUN,Syntys Tunisia data centres,Tunisia,datacentre,,Syntys (Ooredoo),,2025-11-03-ooredoo-syntys-data-centres-presentation
 TUN,Orange Tunisie Kalaa Kebira data centre,Kalaa Kebira data centre,datacentre,,Orange Tunisie,Tier III (operator),2025-05-08-dcd-orange-tunisie-data-center-kalaa-kebira-sousse
 TUN,Data Center Kalaa Kebira (Sousse),Data Center Kalaa Kebira (Sousse),datacentre,,Orange Tunisie,,2025-05-06-orange-tunisie-inaugure-un-nouveau-data-center-a-sousse-pour-repondre-aux-enjeux
 TUN,Data Center Kalaa Kebira (Sousse),Data Center Kalaa Kebira (Sousse),datacentre,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
-TUN,Data Center Charguia,Data Center historique de Charguia,,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
+TUN,Data Center Charguia,Data Center historique de Charguia,other,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
 TUN,DataXion,DataXion,datacentre,,DataXion,,2024-05-31-dataxion-tier-iv-certifications
 TUN,EO Datacenter,EO Datacenter,datacentre,,Meninx Holding,,2019-05-18-meninx-holding-eo-datacenter-obtient-la-certification-pci-dss
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2017-07-11-tekiano-tunisie-telecom-data-center-kairouan
@@ -26,4 +26,5 @@ TUN,Tunisie Telecom data centres,TUN,datacentre,hosting and storage,Tunisie Tele
 TUN,Tunisian sovereign cloud,TUN,other,planned host for health data,,,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
 TUN,fully Tunisian cloud solutions (Ministry of Health plan),TUN,other,,,,2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy
 TUN,national or sectoral government cloud centres,TUN,other,government cloud,state,,2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques
-TUN,National Computing Centre (المركز الوطني للإعلامية),TUN,,,,,2026-09-04-alchourouk-circular-securing-public-digital-systems
+TUN,National Computing Centre (المركز الوطني للإعلامية),TUN,other,,,,2026-09-04-alchourouk-circular-securing-public-digital-systems
+TUN,Tunisie Telecom national data centre,Tunisia,datacentre,,Tunisie Telecom,,2026-10-14-tun-assabah-employment-ministry-tunisie-telecom-framework

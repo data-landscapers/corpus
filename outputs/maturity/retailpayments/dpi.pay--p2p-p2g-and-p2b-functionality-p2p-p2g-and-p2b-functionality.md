@@ -98,8 +98,8 @@ A national switch connected mobile money wallets and bank accounts in 2026.
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
+- Capital describes EthSwitch as Ethiopia's national payment switch linking banks, payment-service providers, merchants and the mobile-money platforms ([source, 2026-10-04](https://capitalethiopia.com/2026/10/04/mobile-money-wallets-set-to-link-with-papss-opening-access-to-african-markets/)).
 - EthSwitch is described as Ethiopia's national payment switch, linking banks, payment institutions and other participants with instant-payment infrastructure and interoperable QR payments ([source, 2026-09-10](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage)).
-- EthSwitch, the national switch owned by all banks, is mandated to create interoperability among financial service providers across ATM, POS, mobile/internet banking and wallets, and to provide a national payment gateway ([source, 2025-06](https://ethswitch.com/wp-content/uploads/2025/10/ETS_Annual_Report_2024_2025.pdf)).
 
 ### Gabon: 5 Leading
 
@@ -244,8 +244,8 @@ Payments between mobile money providers or with banks were in service in 2026; a
 
 Payments between mobile money providers or with banks were in service in 2026; a national switch is not known.
 
+- The Inclusive Instant Payment System lets customers of Lonestar MTN Mobile Money and Orange Money Liberia make real-time interoperable transactions across the two networks, per the Central Bank of Liberia governor ([source, 2026-10-01](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)).
 - The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators ([source, 2026-08](https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html)).
-- The speaker says the central bank gave banks and mobile money operators access to its instant payment system to achieve interoperability ([source, 2026-08-16](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1)).
 
 ### Madagascar: 4 Operating
 

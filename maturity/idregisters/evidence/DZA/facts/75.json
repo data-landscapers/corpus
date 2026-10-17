@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-04-dza-lasentinelle-etat-civil-nin-revolution",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Algeria's national identification number (NIN) is carried on the civil-status registers and extracts kept by communes and consulates, per La Sentinelle.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "numéro d'identification national (NIN)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

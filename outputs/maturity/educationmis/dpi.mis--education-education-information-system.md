@@ -219,6 +219,7 @@ An education information system was under way in 2024; a school census run throu
 An education information system was under way in 2025; a school census run through it is not on record.
 
 - Gabon Media Time reports that the Ministry of National Education has begun integrating school health and well-being indicators (hygiene, nutrition, water access, safety) into its Education Management Information System (SIGE) ([source, 2025-08-09](https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative)).
+- SOSUP launched a national operation to identify schools and assign each learner a unique national identifier (INA), collecting school and pupil files through provincial and zonal academic delegates to centralise school data, per Le Journal des Lycées ([source, 2024-10](https://lejournaldeslycees.ga/2024/10/19/operation-nationale-didentification-des-etablissements-et-des-apprenants/)).
 
 ### Guinea: 2 Nascent
 

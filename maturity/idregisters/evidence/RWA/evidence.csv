@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+RWA-001,RWA,registers,register,inservice,The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification.,2026-10-16,day,IPPIS,register,2026-10-16-rwa-ippis-developer-api,https://www.api.ippis.rw/

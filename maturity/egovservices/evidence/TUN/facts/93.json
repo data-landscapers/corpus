@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-05-tun-usembassy-fast-pfmis-project",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The U.S. Embassy's USAID project page says an online registration platform for businesses was created and the RNE portal launched, with taxpayer e-services listed as an objective.",
+   "as_of": "2024-08-05",
+   "date_precision": "day",
+   "system": "RNE (National Business Register) portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

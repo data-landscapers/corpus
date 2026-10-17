@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "national",
-   "stage": "5",
-   "centre": "two",
-   "owner": "national",
-   "state": "hosted",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-015;NGA-006;NGA-121",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "5",
+      "centre": "two",
+      "owner": "national",
+      "state": "hosted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-015;NGA-006;NGA-121",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-nationaldatacentres.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

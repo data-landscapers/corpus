@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-02-lby-afdb-gpn-si-ifmis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Financial Management and Information System (IFMIS)",
+   "country_label": "IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The notice describes a project to support IFMIS implementation and initiation; it does not state a system in use or down."
+}

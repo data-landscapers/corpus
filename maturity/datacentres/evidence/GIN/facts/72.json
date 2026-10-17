@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-29-gin-emedia-datacenter-backup",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter national",
+   "country_label": "Guinée",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Uptime certification is claimed but no Tier is stated, and the document does not say the centre rents space or computing to outside organisations."
+}

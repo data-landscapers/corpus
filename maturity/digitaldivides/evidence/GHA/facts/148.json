@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-ghana-2800-telecom-site-builds-upgrades",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Communications minister Samuel Nartey George said Ghana plans 800 new and 2,000 upgraded cell sites this year, with traditional leaders helping prioritise underserved areas, and he inspected a newly built Rural Telephony Project facility at Akoefe Gadza in the Volta Region.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Rural Telephony Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rural Telephony Project",
+   "country_label": "Rural Telephony Project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

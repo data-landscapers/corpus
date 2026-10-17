@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Under the 22 March 2024 MoU the Interior Ministry is to share issued-ID data (NIN, names, date of birth) in a CSV with Health so duplicate NINs in the eCRVS can be cleaned up, toward a unified NIN across the two systems.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "eCRVS",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

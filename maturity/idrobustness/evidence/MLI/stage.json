@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "no evidence",
-   "system": "",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national ID system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001;MLI-002",
+      "gaps": "No source held since October 2023 says the system checks people by biometrics.",
+      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

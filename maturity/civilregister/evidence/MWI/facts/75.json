@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-06-mwi-egpaf-value-of-a-birth-certificate",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "EGPAF says the upgraded, centralized CRVS is operational in 28 district registration offices, 28 district hospitals and three central hospitals, with electronic birth registration software at 173 sites.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "EGPAF says electronic birth and death registration software is installed at 173 sites.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centralised Civil Registration and Vital Statistics System (CRVS)",
+   "country_label": "Malawi CRVS",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

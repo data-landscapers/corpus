@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ETH,RFETH-MDC01,RFETH-MDC01,datacentre,,Redfox Solutions,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,"Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)","Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)",other,,Safaricom Ethiopia,planned,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
-ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
+ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,other,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,Ethio Telecom Gola Sefer data center,Tier 3 Data Center,datacentre,,Ethio Telecom,Tier 3 (operator-stated),2022-05-24-furtherafrica-ethio-telecom-data-center-lease-five-institutions
 ETH,Raxio Ethiopia data centre,ETH,datacentre,,Raxio Group,"Tier III certified, carrier-neutral colocation",2026-07-14 Raxio raises data centre funding
 ETH,Wingu Cloud Exchange,ETH,datacentre,,Wingu Africa,"operator describes itself as Tier III-standard (East Africa, no Ethiopian facility named)",2026-03-31-wingu-africa-launches-wingu-cloud-exchange-ethiopia
@@ -12,8 +12,8 @@ ETH,Cloud 251,Cloud 251,datacentre,,Cloud 251,,2024-07-15-capital-ethiopia-cloud
 ETH,Raxio ET1,Raxio ET1,datacentre,,Raxio Group,Tier III,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Wingu.Africa Ethiopia,Wingu.Africa Ethiopia,datacentre,,Wingu Africa,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Red Fox data centre,Red Fox data centre,datacentre,,Redfox Solutions,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,Sun Data World,Sun Data World,,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,ScutiX,ScutiX,,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,Sun Data World,Sun Data World,other,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,ScutiX,ScutiX,other,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,RFETH-MDC01,RedFox Modular Data Center,datacentre,,RedFox Solutions Group,,2022-09-19-ena-redfox-launches-rfeth-mdc01-130m-usd
 ETH,"Wingu.Africa data centre, Ethio ICT Park",Wingu.Africa data centre,datacentre,,Wingu.Africa,,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
 ETH,"Raxio Data Centre PLC, Ethio ICT Park",Raxio Ethiopia,other,,Raxio,under construction in March 2022,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
@@ -22,8 +22,9 @@ ETH,National Data Centre (Ministry of Innovation and Technology),National Data C
 ETH,"Safaricom Ethiopia data centre, Akaki-Qality",Safaricom Ethiopia data centre,other,,Safaricom Ethiopia,launched Feb 2022; use for hire not stated,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
 ETH,"Raxio Group data centre, Ethiopia",,datacentre,,Raxio Group,Tier III (operator stated),2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
 ETH,Raxio Addis Ababa data centre,"Raxio carrier-neutral Tier III facility, Addis Ababa",datacentre,,Raxio Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
-ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
+ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,other,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-09-04-wingu-africa-transforming-connectivity-addix-ixp
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 ETH,Telecloud,ETH,datacentre,cloud hosting,Ethio Telecom (operator; ownership not stated),,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,National Cloud,ETH,other,"planned, 18-24 months out per the Prime Minister",Government of Ethiopia,,2026-05-19-eth-cioafrica-national-cloud-18-24-months
+ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications

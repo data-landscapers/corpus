@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-23-gha-nita-data-harmonisation-bill-consultation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Exchange Platform",
+   "country_label": "National Data Exchange Platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "NITA",
+   "tiers": ""
+  }
+ ],
+ "note": "The notice names the platform as what the draft bill would anchor, and says nothing of it being built or in service."
+}

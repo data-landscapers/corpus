@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,eservices,services,underway,"Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to.",2026-10-16,day,RSL eServices (eForms),eservices,2026-10-16-lso-rsl-individual-taxpayer-registration-form,https://eservices.rsl.org.ls/ereg/public/individualform

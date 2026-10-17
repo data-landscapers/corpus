@@ -8,6 +8,6 @@
 
 **Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://panafricanvisions.com/2026/09/cybastion-targets-300-million-investment-to-strengthen-senegals-digital-sovereignty/>).
 
-***Noted, not assessed***. [Diamniadio National Datacenter (DND)](<https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/>).
+***Noted, not assessed***. [Diamniadio National Datacenter (DND)](<https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/>); [Datacenter national (SENUM SA)](<https://www.osiris.sn/Digitalisation-du-dossier-patient.html>).
 
 ***Not held***. No source held since October 2023 says: is a rule on state data in force.

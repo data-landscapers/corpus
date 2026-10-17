@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-20-cog-jo-arrete-18503-registre-social-unique",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The joint arrete of 20 August 2024 describes the registre social unique as a centralised web platform that registers households, generates a unique household identification code automatically and extracts potential beneficiary lists for programmes (articles 2, 5).",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Registre social unique",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Article 8 of the arrete says the registre social unique holds data from the civil-status information systems and the unique identification number, among other sources.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Registre social unique",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique",
+   "country_label": "Congo",
+   "class": "social",
+   "platform": "centralised web platform",
+   "owner": "Ministry of Social Affairs with Ministry of Planning and Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

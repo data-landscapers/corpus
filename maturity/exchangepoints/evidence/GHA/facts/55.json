@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The op-ed says the Ghana Internet Exchange (GIX) in Accra enables local traffic routing.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Ghana Internet Exchange (GIX)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

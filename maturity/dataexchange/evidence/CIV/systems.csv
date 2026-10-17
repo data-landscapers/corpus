@@ -1,12 +1,17 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road based),SNDI for the Ministry of Digital Transition,,2026-07-23-ci-interoperabilite-gouvernance-numerique
+CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road based),SNDI for the Ministry of Digital Transition,,2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite
+CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road based),SNDI for the Ministry of Digital Transition,,2025-10-02-cybernetica-uxp-interoperability-biometricupdate
+CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road based),SNDI for the Ministry of Digital Transition,,2025-10-01-civ-ministere-transition-numerique-note-interoperabilite
+CIV,Plateforme d'interopérabilité des systèmes d'information de l'administration (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road based),SNDI for the Ministry of Digital Transition,,2025-09-25-plateforme-interoperabilite-administration-fratmat
 CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2025-09-29-interoperability-platform-uxp-wearetech
 CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2025-09-29-interoperability-platform-uxp-x-road-techafricanews
 CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-04-civ-afriksoir-world-bank-150m-atelier
 CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques
 CIV,National public administration interoperability platform (UXP),Côte d'Ivoire,exchange,UXP (Cybernetica),SNDI,,2026-09-03-civ-transformation-numerique-la-cote-divoire-priorise-les-servic
-CIV,GUCE-CI platform,Côte d'Ivoire,,,GUCE-CI,,2025-12-23-guce-ci-dgi-echange-donnees-fratmat
+CIV,GUCE-CI platform,Côte d'Ivoire,other,,GUCE-CI,,2025-12-23-guce-ci-dgi-echange-donnees-fratmat
 CIV,Public-administration interoperability platform (UXP),Côte d'Ivoire,exchange,Cybernetica UXP (X-Road family),Ministry of Digital Transition and Digitalization; SNDI commissioned,,2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing
 CIV,BIC-UEMOA (Bureau d'Information sur le Credit de l'UEMOA),Cote d'Ivoire,other,Creditinfo West Africa (technical operator),BCEAO with the ministry of economy and finance,"credit-information sharing among banks, decentralised financial systems and large billers; operational in Cote d'Ivoire since 2015",2026-09-17-civ-abidjannet-qualite-donnees-credit-bic-uemoa
 CIV,BIC Cote d'Ivoire (Bureau d'Information sur le Credit),Cote d'Ivoire,other,Creditinfo West Africa,,"data providers are banks, decentralised financial systems and large billers",2026-09-17-civ-fratmat-bic-qualite-donnees-credit
 CIV,e-Administration application,Cote d'Ivoire,other,,Ministry of the Civil Service (MFPMA),to interconnect the ministry's information systems with those of banks for civil-servant loan files; no go-live date stated,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
-CIV,SIGFAE,Cote d'Ivoire,,,,named as the civil-service management system; no description of exchange function,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
+CIV,SIGFAE,Cote d'Ivoire,other,,,named as the civil-service management system; no description of exchange function,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans

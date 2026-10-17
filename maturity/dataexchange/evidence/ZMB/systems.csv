@@ -1,12 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
-ZMB,ZamConnect,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
-ZMB,ZamPay,Zambia,,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamConnect,Zambia,other,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamPay,Zambia,other,,,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,Digital Data Protection Compliance Management System,Zambia,other,,Data Protection Commission,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-07-02-eight-local-authorities-go-digital-mlgrd
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2025-04-24-ministry-labour-digital-strategy-zamportal
-ZMB,ZamPay,Zambia,,,Ministry of Finance,,2025-04-24-ministry-labour-digital-strategy-zamportal
+ZMB,ZamPay,Zambia,other,,Ministry of Finance,,2025-04-24-ministry-labour-digital-strategy-zamportal
 ZMB,ZELMIS,Zambia,other,,Ministry of Labour and Social Security,,2025-04-24-ministry-labour-digital-strategy-zamportal
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
 ZMB,ZILAS,Zambia,other,,Ministry of Lands and Natural Resources,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)

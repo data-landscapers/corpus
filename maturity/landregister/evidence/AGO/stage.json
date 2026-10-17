@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "4",
-   "register": "inservice",
-   "national": "nationwide",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-003",
-   "gaps": "No source held since October 2023 says land can be searched or registered online.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "4",
+      "register": "inservice",
+      "national": "nationwide",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003",
+      "gaps": "No source held since October 2023 says land can be searched or registered online.",
+      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -120,6 +120,7 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 Customs declarations were processed electronically in 2026; a single window is not on record.
 
 - The Direction Generale des Douanes says SYDONIA World has been the central platform dematerialising customs procedures, in operation since 2018 ([source, 2026-06-11](http://www.douane.gov.km/lire-actu.php?id=34&lang=fr)).
+- La Gazette des Comores reports that the customs information system SYDONIA was interconnected with the tax system SIGIT in a launch on 30 December 2023, with customs operator data cross-checked against tax records ([source, 2023-12-30](https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html)).
 
 ### Congo: 3 Established
 

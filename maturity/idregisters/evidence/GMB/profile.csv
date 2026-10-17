@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,registers,register,coverage,inservice,2024-03,GMB-001,,
+GMB,registers,register,coverage,inservice,2024-03,GMB-001,GMB-002=underway,
 GMB,registers,several,coverage,,,,,nothing held
 GMB,registers,matching,coverage,,,,,nothing held

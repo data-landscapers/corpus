@@ -18,6 +18,7 @@ COD,e-NIF,e-NIF,tax,website app.dgirdc.cd,,,2025-06-06-actualite-cd-passeport-bi
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction generale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DZA,Portail de l'immatriculation fiscale en ligne et d'authentification du NIF,Algeria,tax,nifenligne.mfdgi.gov.dz,Direction Générale des Impôts (DGI),"online portal; DIW, CDI and CPI offices",2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
 DZA,Dzair Digital Services,Algeria,other,national digital services portal,Haut-Commissariat à la numérisation (HCN),national,2026-09-10-dza-elwatan-dzair-digital-services-cinq-services-impots
+ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 GAB,Déclaration unique des salaires (DUS),Gabon,other,"Gabon Connect programme, built with Ika Technology","DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GHA,Taxpayer Identification Number system,Ghana,tax,,Ghana Revenue Authority,organisations,2026-08-29-ghana-gra-tin-taxpayer-identification-number
 GHA,Ghana Card PIN,Ghana,tax,,National Identification Authority,individual taxpayers,2026-08-29-ghana-gra-tin-taxpayer-identification-number
@@ -30,11 +31,13 @@ GNB,SIGEF,Guinea-Bissau,other,,,,2026-01-12-kontaktu-mef-gw-portal
 GNQ,Número de Identificación Fiscal (NIF),Equatorial Guinea,tax,,"Ministerio de Hacienda, Presupuestos y Planificación Nacional","natural persons, legal persons, entities without legal personality",2026-08-10-consejo-interministerial-nueva-codificacion-nif
 KEN,iTax,Kenya,tax,"iTax portal, KRA M-Service App, eCitizen USSD",Kenya Revenue Authority,,2025-12-01-itax-enhancements-nov-dec-2025
 KEN,Kenya Investment Single Window (KISW),Kenya,other,,KenInvest,,2025-12-01-itax-enhancements-nov-dec-2025
+LSO,RSL taxpayer registration (TIN),Lesotho,tax,,Revenue Services Lesotho,,2026-10-16-lso-rsl-individual-taxpayer-registration-form
 MOZ,NUIT,Mozambique,tax,,Autoridade Tributaria de Mocambique,,2025-01-01-nuit-frequently-asked-questions
 MOZ,NUIT,Mozambique,tax,,Autoridade Tributária de Moçambique,,2026-08-28-at-nuit-perguntas-frequentes
 MOZ,NUIT,Mozambique,tax,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
 MOZ,Sistema Integrado de Gestão Tributária,Mozambique,other,,Government,,2026-07-22-governo-sistema-integrado-gestao-tributaria
 MOZ,e-SISTAFE,Mozambique,other,,,,2026-07-22-governo-sistema-integrado-gestao-tributaria
+MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 NAM,Trader Identification Number (TIN),Namibia,tax,,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
 NAM,ASYCUDAWorld,Namibia,other,ASYCUDAWorld,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
 NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
@@ -53,6 +56,7 @@ SWZ,ASYCUDA,ASYCUDA,other,,,,2024-01-01-eswatini-tin-registration-procedure
 SYC,TIN Registration (e-Service Gateway),Seychelles,tax,eservice.egov.sc,Government of Seychelles,company,2025-01-01-seychelles-tin-registration-company
 TCD,E.Tax platform,Chad,tax,,Direction Generale des Impots,,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments
 TGO,SIG Recettes,Togo,other,application with geolocation,"communes of Doufelgou 1 and Sotouboua 2, supported by GIZ ProDeG IV",local,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des
+TZA,IDRAS,Tanzania,other,,Tanzania Revenue Authority,,2025-03-16-tza-dailynews-idras-driver-licence-digital
 UGA,TIN,Uganda,tax,,URA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
 UGA,NIN,Uganda,tax,,NIRA,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft
 UGA,Entity Registration Number,Uganda,tax,,URSB,,2026-09-30-uga-nilepost-ura-nin-tax-records-identity-theft

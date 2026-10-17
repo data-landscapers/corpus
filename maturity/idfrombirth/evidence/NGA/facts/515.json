@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-nga-blueprint-npc-nin-newborns",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The NPC's Assistant Director of Civil Registration says a unique NIN is now generated for each child during birth registration and tied to the mother.",
+   "as_of": "2024-09-26",
+   "date_precision": "day",
+   "system": "NIN at birth registration",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -18,5 +18,6 @@ TGO,ST DIGITAL data centres,ST DIGITAL,datacentre,,ST DIGITAL AFRICA,Tier 3/TIA-
 TGO,ST Digital Togo data centre,Togo facility,other,,ST Digital,expected operational in 2025 (per DatacenterDynamics); US$246m project announced,2025-06-25-businessincameroon-st-digital-unctad-wir-2025
 TGO,Lomé Datacenter,Lomé Datacenter / centre de données national,other,,,"state; connected to government network, NOC colocated",2023-02-20-togo-specifications-tic-administrations-acces-internet
 TGO,Lomé data centre (SIN),centre de données,datacentre,,"Société d'infrastructures numériques (SIN), state; transfer to a private operator authorised 2022-12-21",,2022-12-21-tgo-conseil-des-ministres-21-decembre-2022-lome-data-center
-TGO,Cassava / Africa Data Centres,,,,Cassava Technologies,,2026-06-11 Can Africa supply it's own digital infrastructure
-TGO,ST Digital,,,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
+TGO,Cassava / Africa Data Centres,,other,,Cassava Technologies,,2026-06-11 Can Africa supply it's own digital infrastructure
+TGO,ST Digital,,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
+TGO,Lomé Data Centre,Togo,datacentre,,,,2026-01-01-tgo-ldc-infrastructure

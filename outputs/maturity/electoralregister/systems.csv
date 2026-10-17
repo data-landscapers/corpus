@@ -4,6 +4,8 @@ AGO,base de dados de identidade civil,Angola,other,,,,2026-08-15-angola-intelwat
 BDI,electoral database,Burundi,electoral,,CENI,,2026-09-03-bdi-2027-presidential-election-more-than-one-million-new-voters
 BEN,Registre national des personnes physiques,Benin,other,,Anip,,2026-07-16-adjinacou-maternite-identite-legale
 BEN,Fichier electoral,Benin,electoral,,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BEN,Liste Électorale Informatisée Provisoire,Benin,electoral,,ANIP,,2025-09-11-ben-beninwebtv-liste-electorale-provisoire-anip
+BEN,Fichier National de l'État Civil,Benin,other,,ANIP,,2025-09-11-ben-beninwebtv-liste-electorale-provisoire-anip
 BWA,electronic voter registration systems,Botswana,electoral,,Independent Electoral Commission,,2026-04-01-bwa-2026-1600-12341-evr
 CAF,GenKey biometric voter system,Central African Republic,electoral,GenKey,ANE,,2024-12-10 Central African Republic enrols citizens for first local elections in 36 years
 CAF,GenKey biometric voter system,Central African Republic,electoral,GenKey,ANE,,2024-10-08 Central African Republic in full biometric voter registration preparations
@@ -42,6 +44,7 @@ KEN,continuous voter registration system,Kenya,electoral,,Independent Electoral 
 LBR,NEC voter registration system,Liberia,electoral,biometric voter registration,National Elections Commission,,2025-06-01-nir-relevance-national-special-elections
 LBR,National Identification Registry (NIR),Liberia,other,biometric national ID,National Identification Registry,,2025-06-01-nir-relevance-national-special-elections
 LBY,HNEC electronic voter verification,Libya,electoral,biometric devices at election centres,National High Electoral Commission (HNEC),"municipal pilot, four municipalities",2024-08-19 Libya implements biometric voter verification in municipal council elections
+LSO,Voter Registration Management System,LSO,electoral,outsourced software; IEC holds no source key,Independent Electoral Commission,,2024-01-01-lso-undp-voter-registration-roundtable
 MDG,liste électorale,Madagascar,electoral,,CENI,,2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027
 MDG,liste électorale,Madagascar,electoral,,CENI,,2025-11-17-pmo-pge-r-programme-refondation
 MLI,Elector mobile,Mali,electoral,mobile software,AIGE,,2026-02-04-mali-aige-formation-elector-mobile

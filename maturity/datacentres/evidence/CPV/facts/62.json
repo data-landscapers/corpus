@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-cpv-nosi-data-center-praia-sistema-fotovoltaico",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "NOSi, a public enterprise, says its Praia data centre is central to delivering digital services to the State, businesses and society, and launched a solar power system for it on 16 February 2026.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Data Center da Praia",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi Data Center da Praia",
+   "country_label": "Data Center da Praia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NOSi (public enterprise)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

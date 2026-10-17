@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-15-graphic-ghana-cybercrime-losses-209m-nine-months",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Ghana's Cyber Security Authority recorded 4,938 cybersecurity incidents from January to September 2026, a CSA officer told an awareness-month engagement at Cape Coast.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The CSA presented counts of 4,938 incidents for January to September 2026 and 4,604 incidents for the whole of 2025, with GH¢209.7 million and GH¢22.5 million in reported losses.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

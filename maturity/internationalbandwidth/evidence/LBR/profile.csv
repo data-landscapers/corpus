@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,routes,routes,coverage,one,2026-06-16,LBR-001;LBR-002;LBR-003;LBR-004,,
+LBR,routes,routes,coverage,independent,2025-05,LBR-005,LBR-002=one;LBR-001=one;LBR-006=one;LBR-003=one;LBR-004=one,
 LBR,routes,access,coverage,,,,,nothing held

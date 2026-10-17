@@ -22,11 +22,11 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 4 |
-| 3 Established | 18 |
+| 3 Established | 20 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
-| No evidence | 5 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -97,6 +97,12 @@ Two nationally owned data centres for hire at Tier III or above by 2025; state h
 
 - Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
 - DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
+
+### Algeria: 3 Established
+
+A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
+
+- Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
 
 ### Botswana: 3 Established
 
@@ -182,6 +188,12 @@ A nationally owned data centre for hire at Tier III or above by 2026; no second 
 
 - Cable & Wireless Seychelles states it has the country's first Tier IV certified data centre (certifier not named; operator statement), which it says lets local businesses, banks and government run on onshore infrastructure; facility not named and no date of certification, so the post date 2026-03-20 is used ([source, 2026-03-20](https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX)).
 
+### Sierra Leone: 3 Established
+
+A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
+
+- The Ministry of Finance's DFMST page says it operates a Tier III data centre providing co-location services for institutions in the financial sector ([source, 2026-10-16](https://mof.gov.sl/dfmst/)).
+
 ### Sudan: 3 Established
 
 A nationally owned data centre for hire at Tier III or above by 2024; no second one held.
@@ -205,12 +217,6 @@ A nationally owned data centre for hire at Tier III or above by 2019; no second 
 A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
 
 - TelOne states its own data centre is a Tier 3 environment, 'the best achievable standard in Zimbabwe'; this is an operator claim on an undated page (capture date 2026-08-08), with no certification named ([source, 2026-08-08](https://www.telone.co.zw/products/details/data-centre-cloud-services)).
-
-### Algeria: 2 Nascent
-
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
-
-- Iconsnet operates two data centres, in Algiers and Oran, offering cloud computing and off-site backup; the article lists it among operators and private hosts selling colocation, dedicated servers and cloud (no date given, article of 2026-07-05) ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-le-coeur-digital-de-letat-prend-vie/)).
 
 ### Angola: 2 Nascent
 
@@ -277,6 +283,12 @@ A nationally owned data centre for hire in service by 2025, none held at Tier II
 A nationally owned data centre for hire in service by 2025, none held at Tier III or above.
 
 - TransAfrica Communications (TrAC), a Rwanda-based ISP, is stated to offer data centre collocation services to customers (no facility named, no tier given); the release is undated, so as_of is its July 2025 month ([source, 2025-07](https://aka-partners.com/insight-and-news/)).
+
+### Somalia: 2 Nascent
+
+A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+
+- Dalkom Somalia says it offers colocation hosting to business customers from its own data centre in Mogadishu ([source, 2026-10-16](https://www.dalkomsomalia.com/managed-national.php?id=187)).
 
 ### South Sudan: 2 Nascent
 
@@ -351,18 +363,6 @@ Nothing held says a data centre in the country rents space or computing to other
 Not established: Nothing held names a data centre for hire, or says there is none.
 
 ### Niger: No evidence
-
-Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
-
-Not established: Nothing held names a data centre for hire, or says there is none.
-
-### Sierra Leone: No evidence
-
-Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
-
-Not established: Nothing held names a data centre for hire, or says there is none.
-
-### Somalia: No evidence
 
 Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
 

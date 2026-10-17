@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Under the 20-year contract the IDEMIA/Afritech consortium produces the cards, manages the general population file and builds and operates the identification centres, per BBC News Afrique.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "ONIP national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national ID card",
+   "country_label": "Carte d'Identité Nationale (ONIP)",
+   "class": "idsystem",
+   "platform": "IDEMIA/Afritech consortium",
+   "owner": "ONIP (Ministry of the Interior)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

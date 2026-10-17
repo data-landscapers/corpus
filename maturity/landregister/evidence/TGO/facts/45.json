@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-12-tgo-togopresse-plateforme-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Togo-Presse reports that, through an online portal, citizens can now carry out all Cadastre procedures for a land title remotely, and that a unique parcel number (NUP) has been introduced.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cadastre online portal",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

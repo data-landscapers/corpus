@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,datacentre,centre,coverage,tier3,2026-06,GHA-008;GHA-012;GHA-021;GHA-022;GHA-024,GHA-023=service;GHA-013=service;GHA-020=service;GHA-001=service;GHA-002=service;GHA-014=service;GHA-003=service;GHA-004=service;GHA-005=service;GHA-006=service;GHA-007=service;GHA-019=service;GHA-015=service;GHA-018=service;GHA-009=service;GHA-010=service;GHA-011=service;GHA-016=service;GHA-017=service,
+GHA,datacentre,centre,coverage,tier3,2026,GHA-008;GHA-012;GHA-021;GHA-022;GHA-024;GHA-027,GHA-026=service;GHA-025=service;GHA-023=service;GHA-013=service;GHA-020=service;GHA-001=service;GHA-002=service;GHA-014=service;GHA-003=service;GHA-004=service;GHA-005=service;GHA-006=service;GHA-007=service;GHA-019=service;GHA-015=service;GHA-018=service;GHA-009=service;GHA-010=service;GHA-011=service;GHA-016=service;GHA-017=service,
 GHA,datacentre,cloud,coverage,,,,,nothing held

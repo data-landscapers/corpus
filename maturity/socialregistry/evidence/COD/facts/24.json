@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-19-cod-minas-registre-social-unique",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "MINAS says the Registre Social Unique, created by Decree 25/041 of 4 December 2025, has a functional management information system (MIS-DRC) and registered about 465,883 households in 2020-2025, 267,015 of them in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Registre Social Unique (RSU)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols.",
+   "as_of": "2026-07-19",
+   "date_precision": "day",
+   "system": "Registre Social Unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unique (RSU) / MIS-DRC (SIG RDC)",
+   "country_label": "Registre Social Unique",
+   "class": "social",
+   "platform": "MIS-DRC web server (cloud) and Android app",
+   "owner": "MINAS, UTG-RSU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

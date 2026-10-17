@@ -1,0 +1,3 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,TGO,dpi.registry--business-register-business-register,fact,no evidence,5,TGO-002,Arrivals added TGO-001; TGO-002; stage no evidence -> 5.
+2026-10-17,TUN,dpi.registry--business-register-business-register,fact,4,4,TUN-003,Arrivals added TUN-006; stage unchanged.

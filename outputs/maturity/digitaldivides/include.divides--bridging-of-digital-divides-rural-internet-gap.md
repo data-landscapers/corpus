@@ -23,10 +23,10 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 11 |
-| 2 Nascent | 19 |
+| 2 Nascent | 20 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 21 |
+| No evidence | 20 |
 
 ## Countries
 
@@ -125,6 +125,12 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 - Algerian Business reports a universal service programme for 201 4G sites given to ATM Mobilis, funded by the State through the universal service support fund at over DZD 27.3bn, for under-covered zones ([source, 2026-09-30](https://algerian-business.com/mobilis-4g-algerie-201-sites-27-milliards/)).
 - ARPCE launched a competitive tender announced 7 September 2026 to extend mobile coverage to 3,000 sparsely populated areas under its universal service mandate, to improve internet access ([source, 2026-09-07](https://techafricanews.com/2026/09/09/algeria-tender-mobile-coverage-3000-underserved-areas/)).
 
+### Angola: 2 Nascent
+
+A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
+
+- President Lourenço says programmes such as N'gola Digital, Escola Conectada and Conecta Angola brought connectivity to communities including remote areas via ANGOSAT-2, and that strengthening connectivity in rural communities is a priority for coming years ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
+
 ### Burundi: 2 Nascent
 
 A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
@@ -213,6 +219,7 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 A programme to bring internet to rural areas was under way in 2026; sites connected are not counted.
 
+- Minister Bosun Tijani commissioned the first tower of the National Universal Communications Access Programme (NUCAP) in Bende, Abia State, and said 3,700 towers will connect about 20 million unconnected Nigerians ([source, 2026-10-16](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)).
 - The Punch reports Hotspot Network Limited secured a World Bank-backed results-based facility under the DARES programme with the Rural Electrification Agency to deploy 2G/4G, broadband and community Wi-Fi in 500 unserved and underserved communities ([source, 2026-09-15](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/)).
 
 ### Senegal: 2 Nascent
@@ -240,12 +247,6 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 - TechReviewAfrica reports the UCUSAF Programme, funded by statutory 2% contributions handed to the Uganda Communications Commission, finances projects extending telecommunications infrastructure and connectivity in underserved and hard-to-reach communities ([source, 2026-07-31](https://techreviewafrica.com/news/6536/atc-uganda-contributes-to-universal-service-fund-to-expand-digital-access-across-uganda)).
 - The article says Uganda operates the Uganda Communications Universal Service and Access Fund (formerly the Rural Communications Development Fund), financed by a 2 per cent operator revenue levy to support digital inclusion ([source, 2026-06](https://observer.ug/technology/digital-inclusion-what-ugandan-telecoms-can-learn-from-kenyas-safaricom-and-south-africas-vodacom/)).
-
-### Angola: No evidence
-
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
-
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Benin: No evidence
 

@@ -1,12 +1,12 @@
 iso3,stage,number,national,complete,stage_sources
-AGO,3,inservice,,,AGO-001
+AGO,3,inservice,,,AGO-001;AGO-005
 BDI,no evidence,,,,
 BEN,2,underway,,,BEN-001;BEN-002
 BFA,no evidence,,,,
 BWA,4,inservice,national,,BWA-002
 CAF,no evidence,,,,
 CIV,no evidence,,,,
-CMR,no evidence,,,,
+CMR,2,underway,,,CMR-001
 COD,no evidence,,,,
 COG,no evidence,,,,
 COM,1,none,,,COM-001
@@ -22,20 +22,20 @@ GIN,no evidence,,,,
 GMB,unplaced,,,,
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
-KEN,2,underway,,,KEN-004;KEN-003
+KEN,2,underway,,,KEN-001;KEN-002
 LBR,unplaced,,,,
 LBY,no evidence,,,,
 LSO,3,inservice,,,LSO-001
-MAR,2,underway,,,MAR-001
+MAR,2,underway,,,MAR-001;MAR-002
 MDG,no evidence,,,,
 MLI,1,none,,,MLI-001
 MOZ,no evidence,,,,
 MRT,no evidence,,,,
 MUS,no evidence,,,,
-MWI,no evidence,,,,
+MWI,3,inservice,,,MWI-001;MWI-002
 NAM,no evidence,,,,
-NER,no evidence,,,,
-NGA,no evidence,,,,
+NER,2,underway,,,NER-001
+NGA,3,inservice,,,NGA-001
 RWA,2,underway,,,RWA-001;RWA-002
 SDN,no evidence,,,,
 SEN,no evidence,,,,
@@ -45,11 +45,11 @@ SSD,no evidence,,,,
 STP,no evidence,,,,
 SWZ,no evidence,,,,
 SYC,no evidence,,,,
-TCD,no evidence,,,,
+TCD,3,inservice,,,TCD-001
 TGO,no evidence,,,,
-TUN,no evidence,,,,
+TUN,4,inservice,national,,TUN-002
 TZA,2,underway,,,TZA-007;TZA-008
 UGA,3,inservice,,,UGA-002;UGA-001
 ZAF,no evidence,,,,
-ZMB,no evidence,,,,
+ZMB,2,underway,,,ZMB-001
 ZWE,no evidence,,,,

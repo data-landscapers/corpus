@@ -123,6 +123,7 @@ MWI,LLIX,Lilongwe Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-af
 MWI,Lilongwe IXP,IXP for Lilongwe (Central),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
 MWI,Mzuzu IXP,IXP for Mzuzu (Northern),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
 MWI,"LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)",LIONEX,other,EVPN-VXLAN leaf-spine,LIONEX,,2025-12-21-lionex-leaf-spine-evpn-vxlan-fabric
+NAM,Windhoek Internet Exchange Point - IXP Namibia,Namibia,exchange,,,,2026-08-01-nam-isoc-pulse-ixp-tracker-windhoek
 NER,Niger IXP (Niamey),Internet Exchange Point (IXP),exchange,,,,2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)
 NER,Niger IXP,Point d'Echange Internet (IXP),exchange,,Smart Villages project (PVI) with Niger Telecoms,,2026-04-15-pvi-900-localites-connectivite
 NER,Point d'echange internet national (IXP),point d'echange internet national,other,,Ministry of Communication and New Information Technologies (committee oversight),,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
@@ -165,10 +166,11 @@ SLE,SLIXP,Sierra Leone Internet Exchange Point,other,,MoCTI with SLDTP,,2025-08-
 SLE,Michcom-IX,Michcom-IX,exchange,,"Michcom Limited, Network Services Division","ISPs, mobile operators, CDNs, cloud, academia, public sector",2025-01-01-michcom-ix
 SOM,SoIXP (MogIX),"Somali Internet Exchange Point, Mogadishu",other,,National Communications Authority Somalia,,2019-09-28-soixp-peeringdb-record
 SOM,"Somcable Submarine Network (2Africa and PEACE landings, Berbera)",Somcable,other,,Somcable (Somaliland-based),,2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route
+SOM,SoIXP,Somalia,exchange,Ethernet,National Communications Authority Somalia,,2026-10-16-som-pch-soixp-directory-entry
 SSD,SS-IXP,South Sudan IXP (SS-IXP),other,,Internet Society South Sudan Chapter (implementation lead),,2025-11-01-isoc-south-sudan-ixp-implementation-update
 SWZ,Internet Exchange Point in Swaziland,national IXP,exchange,,Ministry of ICT (committee of stakeholders); AU AXIS-supported,,2014-04-10-au-launching-ixp-swaziland
 SYC,Seychelles Internet Exchange Point,Internet Exchange Point in Seychelles,exchange,,"Department of ICT, Seychelles (set up with African Union Commission AXIS support)",,2015-02-20-au-int-ixp-launch-seychelles
-SYC,Seychelles Internet Exchange Point Association (SEY-IX),SEY-IX,,,"Seychelles Internet Exchange Point Association, Victoria, Mahe",,2024-01-01-peeringdb-organisation-record-sey-ix
+SYC,Seychelles Internet Exchange Point Association (SEY-IX),SEY-IX,other,,"Seychelles Internet Exchange Point Association, Victoria, Mahe",,2024-01-01-peeringdb-organisation-record-sey-ix
 TCD,CENIX,"Central African Internet Exchange (Central African Republic, not TCD)",other,,,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
 TCD,TCHADIX,TCHADIX,exchange,,"GIE of members, promoted by ADETIC","internet access providers, mobile operators",2026-05-21-digitalbusiness-tchadix-ixp-un-an
 TGO,TGIX,Togo Internet Exchange Point,exchange,,"TGIX Management (AS328152, non-profit)",,2026-07-01-isoc-pulse-ixp-tracker-tgix-togo
@@ -216,5 +218,5 @@ ZMB,LSK-IX,Lusaka Internet Exchange Point,exchange,,,,2024-08-02-zambia-lsk-ix-e
 ZMB,LSK-IX,LSKIX,exchange,IXP Manager,,,2025-01-01-city-channels-cable-network-joins-lskix
 ZMB,LSK IX,Lusaka Internet Exchange Point,exchange,,"LSK IX (neutral, non-profit, community-owned)",,2026-08-29-lusaka-internet-exchange-point-lsk-ix-home
 ZWE,HIX,Harare Internet Exchange Point,exchange,,POTRAZ (proposes handover to the community),all internet access providers,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
-ZWE,Zimbabwe Internet Exchange,Zimbabwe Internet Exchange,,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
-ZWE,ZINX,Zimbabwe Internet Exchange (ZINX),,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Zimbabwe Internet Exchange,Zimbabwe Internet Exchange,other,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,ZINX,Zimbabwe Internet Exchange (ZINX),other,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-eth-raxio-et1-data-sheet-technical-specifications",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio's data sheet describes ET1 in Addis Ababa's ICT Park as a carrier-neutral colocation data centre holding an Uptime Institute Tier III TCCD certification.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Raxio ET1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio ET1",
+   "country_label": "Raxio Ethiopia ET1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "No cloud region is stated."
+}

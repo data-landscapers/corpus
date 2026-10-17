@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,datacentre,centre,coverage,tier3,2026-06-02,TGO-002;TGO-006;TGO-008;TGO-010;TGO-015,TGO-001=service;TGO-005=service;TGO-014=service;TGO-007=service;TGO-009=service;TGO-003=service;TGO-016=service;TGO-012=service;TGO-004=service;TGO-013=service;TGO-011=service,
+TGO,datacentre,centre,coverage,tier3,2026-06-02,TGO-002;TGO-006;TGO-008;TGO-010;TGO-015,TGO-017=service;TGO-001=service;TGO-005=service;TGO-014=service;TGO-007=service;TGO-009=service;TGO-003=service;TGO-016=service;TGO-012=service;TGO-004=service;TGO-013=service;TGO-011=service,
 TGO,datacentre,cloud,coverage,,,,,nothing held

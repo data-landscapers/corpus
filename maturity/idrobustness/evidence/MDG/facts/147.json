@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-mdg-moov-atelier-consultation-signature-electronique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Moov.mg reports the Prodigy project, launched in 2019, aims to give every citizen a digital identity, and is slowed by missing implementing texts.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Prodigy",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Prodigy",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

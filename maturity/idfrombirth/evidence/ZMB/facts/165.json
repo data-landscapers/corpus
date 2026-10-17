@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-28-zmb-dailynation-govt-digitises-nrcs",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Persons will be allocated a legal identity number at birth registration, to be their citizenship identifier for life, says the INRIS deputy project manager.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "INRIS",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

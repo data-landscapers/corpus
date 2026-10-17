@@ -1,19 +1,20 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "no evidence",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the government's finance, tax or payroll systems are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "5",
+      "finance": "inuse",
+      "revenue": "",
+      "payroll": "",
+      "renewed": "live",
+      "architecture": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002;RWA-004;RWA-003",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-coresystems.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

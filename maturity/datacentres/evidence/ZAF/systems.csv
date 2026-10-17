@@ -17,7 +17,7 @@ ZAF,Microsoft Azure South Africa data centres,,datacentre,Azure,Microsoft,,2022-
 ZAF,Teraco,Teraco: A Digital Realty Company,datacentre,,"Digital Realty (majority), Berkshire Partners and Permira consortium",,2022-08-01-digital-realty-completes-acquisition-of-teraco
 ZAF,Oracle Cloud Johannesburg Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2022-01-19-oracle-opens-first-cloud-region-in-africa
 ZAF,Oracle Cloud Johannesburg Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2022-01-19-oracles-johannesburg-data-centre-goes-live
-ZAF,Dimension Data data centres,,,,Dimension Data,,2022-01-19-oracles-johannesburg-data-centre-goes-live
+ZAF,Dimension Data data centres,,other,,Dimension Data,,2022-01-19-oracles-johannesburg-data-centre-goes-live
 ZAF,Teraco Data Environments,,datacentre,,Teraco,,2022-01-19-oracles-johannesburg-data-centre-goes-live
 ZAF,Huawei Cloud Johannesburg data centre,,datacentre,Huawei Cloud,Huawei (leased from an unnamed partner),tier 3+ (operator statement),2019-03-05-huawei-cloud-now-available-in-south-africa
 ZAF,Teraco,,other,,Digital Realty,,2026-10-05-sa-land-availability-edge-data-centre-race
@@ -66,7 +66,7 @@ ZAF,Africa Data Centres CPT2,"CPT2, Cape Town (20 MW, under construction)",other
 ZAF,Teraco JB7,"JB7 (40 MW, groundbreaking Nov 2024)",other,,Teraco (Digital Realty),,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 ZAF,Equinix Johannesburg,Equinix Johannesburg site,datacentre,,Equinix,,2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns
 ZAF,"Equinix Cape Town (two planned data centres, up to 160 MW)",,other,,Equinix,,2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns
-ZAF,Teraco,,,,Teraco,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+ZAF,Teraco,,other,,Teraco,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
 ZAF,WIOCC Durban data centre,WIOCC Durban data centre,datacentre,,WIOCC / OADC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 ZAF,OADC NTT South Africa data centres (seven),OADC NTT South Africa data centres (seven),datacentre,,OADC PropCo South Africa,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 ZAF,Microsoft cloud regions South Africa,Microsoft cloud regions South Africa,datacentre,,Microsoft,,2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training
@@ -123,9 +123,9 @@ ZAF,Google Cloud Johannesburg region,"Google Cloud region, Johannesburg",datacen
 ZAF,"Vantage JNB1 campus, Waterfall City",,other,,Vantage Data Centres,,2025-01-01-vantage-zaf-2025-johannesburg-data-centre-jv-bw02
 ZAF,Liquid data centre (South Africa),Liquid data centre (South Africa),datacentre,,Liquid Intelligent Technologies,,2024-12-01-bii-liquid-data-centre-productivity-study-companion
 ZAF,"Africa Data Centres (Midrand, Centurion, Cape Town)","Africa Data Centres (Midrand, Centurion, Cape Town)",datacentre,,Africa Data Centres / Cassava Technologies,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
-ZAF,CPT2 (Cape Town),CPT2 (Cape Town),,,Africa Data Centres,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
+ZAF,CPT2 (Cape Town),CPT2 (Cape Town),other,,Africa Data Centres,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
 ZAF,Teraco Isando Campus,Teraco Isando Campus,datacentre,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
-ZAF,Teraco JB7 (Isando),Teraco JB7 (Isando),,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
+ZAF,Teraco JB7 (Isando),Teraco JB7 (Isando),other,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
 ZAF,Equinix JN1,Equinix JN1,datacentre,,Equinix,,2024-10-24-equinix-opens-its-first-data-center-in-johannesburg-enhancing-digital-infrastruc
 ZAF,Africa Data Centres CPT1,Africa Data Centres CPT1,datacentre,,Africa Data Centres / Cassava Technologies,,2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town
 ZAF,Africa Data Centres CPT1,"CPT1, Cape Town",datacentre,,Africa Data Centres (Cassava Technologies),,2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release
@@ -198,7 +198,7 @@ ZAF,"Internet Solutions International Data Centre, Cape Town",ZAF,datacentre,,In
 ZAF,Hetzner second Cape Town data centre,ZAF,datacentre,,Hetzner,,2006-09-03-hetzner-opens-its-second-data-centre-in-cape-town
 ZAF,Hetzner Gallo Manor data centre,ZAF,datacentre,,Hetzner,,2006-09-03-hetzner-opens-its-second-data-centre-in-cape-town
 ZAF,Hetzner first Cape Town data centre,ZAF,datacentre,,Hetzner,,2006-09-03-hetzner-opens-its-second-data-centre-in-cape-town
-ZAF,Africa Data Centres Johannesburg and Cape Town facilities,ZAF,,,Africa Data Centres,,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms
+ZAF,Africa Data Centres Johannesburg and Cape Town facilities,ZAF,other,,Africa Data Centres,,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms
 ZAF,"Cassava AI Factory, South Africa",ZAF,other,,Cassava Technologies,,2026-09-10-itweb-africa-liquid-targets-data-centre-gap
 ZAF,Open Access Data Centres (OADC),,other,,WIOCC Group,,2024-01-01-proparco-reg-wiocc-oadc-2024-wiocc-group-open-access-data-centres
 ZAF,"Open Access Data Centres (Durban, planned)",,other,,WIOCC Group,,2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres
@@ -206,7 +206,7 @@ ZAF,Africa Data Centres JHB1/JHB2/CPT1/CPT2,,other,,Africa Data Centres (Cassava
 ZAF,Liquid Telecom Jersey Ltd data centres,,other,,Liquid Intelligent Technologies (Cassava),,2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data
 ZAF,Africa Data Centres,,other,,Africa Data Centres Holdings Limited (Cassava),,2020-01-01-dfc-reg-africa-data-centres-2020-africa-data-centres-dfc-300m-data
 ZAF,"Cassava AI factory, Johannesburg",,other,,Cassava Technologies,,2026-10-13-cassava-pemhiwa-keep-africa-data-at-home
-ZAF,WIOCC data centres,WIOCC,,,WIOCC Group (Johannesburg HQ),,2026-09-17-zaf-ewn-dfc-wiocc-investment
+ZAF,WIOCC data centres,WIOCC,other,,WIOCC Group (Johannesburg HQ),,2026-09-17-zaf-ewn-dfc-wiocc-investment
 ZAF,Digital Parks Africa,Digital Parks Africa,datacentre,,Digital Parks Africa,Tier-3+ (stated),2026-09-11-stratos-lab-ecoblox-digital-parks-africa-ai-cloud
 ZAF,Stratos Lab AI cloud,neocloud,other,NVIDIA B300 HGX,Stratos Lab,,2026-09-11-stratos-lab-ecoblox-digital-parks-africa-ai-cloud
 ZAF,Openserve Yzerfontein edge data centre,,datacentre,,Telkom Openserve,,2026-09-09-zaf-businessday-telkom-legacy-buildings-edge-data-centres
@@ -227,7 +227,7 @@ ZAF,Cassava AI factories (South Africa site),"AI factory, South Africa",other,NV
 ZAF,Teraco,Teraco,datacentre,,Digital Realty,,2026-06-11 Can Africa supply it's own digital infrastructure
 ZAF,iColo,iColo,datacentre,,Digital Realty,,2026-06-11 Can Africa supply it's own digital infrastructure
 ZAF,"Cassava AI GPU cloud, South Africa",Cassava AI,datacentre,NVIDIA GPUs,Cassava Technologies,,2026-06-11 Can Africa supply it's own digital infrastructure
-ZAF,Teraco,Teraco,,,Digital Realty,,2026-06-08 The Promise and Limits of African Data Sovereignty
+ZAF,Teraco,Teraco,other,,Digital Realty,,2026-06-08 The Promise and Limits of African Data Sovereignty
 ZAF,"MTN greenfield data centre, South Africa",MTN Ambition 2030 build-out,other,,MTN,,2026-06-01 Africa's Place in the AI Sovereignty Debate
 ZAF,"Cassava AI factory (Nvidia), South Africa",AI factory,other,Nvidia,Cassava Technologies,,2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty
 ZAF,Google Cloud Johannesburg region,Johannesburg region,datacentre,Google Cloud,Google,,2026-05-20 Google in Africa
@@ -246,7 +246,7 @@ ZAF,"OADC new data centre, South Africa",OADC,other,,OADC (WIOCC),,2025-12-15-pi
 ZAF,Teraco,,datacentre,,Teraco,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 ZAF,Equinix South Africa,,datacentre,,Equinix,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 ZAF,NTT Global Data Centers South Africa,,datacentre,,NTT,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
-ZAF,Africa Data Centres,,,,Cassava Technologies,,2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure
+ZAF,Africa Data Centres,,other,,Cassava Technologies,,2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure
 ZAF,AI factory South Africa (planned),,other,Nvidia GPUs,Cassava Technologies,,2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure
 ZAF,Digital Parks Africa Samrand,Samrand data centre,datacentre,,Digital Parks Africa,,2025-07-29-digital-parks-africa-company-overview
 ZAF,Vantage JNB11,JNB1 campus,datacentre,,Vantage Data Centres,,"2025-03-11 Vantage partners with Attacq for Phase II of 80MW campus in Jo'burg, South Africa"
@@ -285,7 +285,7 @@ ZAF,AWS Africa (Cape Town) Region,,datacentre,AWS,Amazon Web Services,,2026-09-1
 ZAF,Oracle Cloud South Africa Central (Johannesburg) region,af-johannesburg-1,datacentre,Oracle Cloud Infrastructure,Oracle,,2022-01-08-new-region-in-johannesburg-south-africa
 ZAF,AWS Africa (Cape Town) Region,af-south-1,datacentre,AWS,Amazon Web Services,,2020-04-22-zaf-aws-announcing-africa-cape-town-region
 ZAF,Huawei Cloud South Africa region,HUAWEI CLOUD South Africa region,other,"Huawei Cloud (ECS, EVS, OBS)",Huawei,,2018-11-15-huawei-cloud-south-africa-region-unveiled-africacom
-ZAF,Teraco,Teraco Data Environments,,,Teraco Data Environments,,2025-09-29-sita-annual-report-2024-25
+ZAF,Teraco,Teraco Data Environments,other,,Teraco Data Environments,,2025-09-29-sita-annual-report-2024-25
 ZAF,Centurion data centre,Centurion data centre,other,,SITA,,2025-09-29-sita-annual-report-2024-25
 ZAF,Numerus data centre,Numerus data centre,other,,SITA,,2025-09-29-sita-annual-report-2024-25
 ZAF,Gauteng Provincial Government fully managed data centre,Gauteng fully managed data centre,other,,Telkom/BCX,,2025-09-29-sita-annual-report-2024-25

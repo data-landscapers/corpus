@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TUN,registers,register,coverage,inservice,2026-05,TUN-001,TUN-002=underway,
+TUN,registers,several,coverage,,,,,nothing held
+TUN,registers,matching,coverage,,,,,nothing held

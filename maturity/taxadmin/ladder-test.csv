@@ -26,13 +26,13 @@ KEN,3,inservice,,,KEN-001;KEN-002
 LBR,4,inservice,electronic,,LBR-003
 LBY,no evidence,,,,
 LSO,4,inservice,electronic,,LSO-002
-MAR,no evidence,,,,
+MAR,4,inservice,electronic,,MAR-002
 MDG,2,underway,,,MDG-001
 MLI,4,inservice,electronic,,MLI-003
 MOZ,no evidence,,,,
 MRT,4,inservice,electronic,,MRT-002
 MUS,5,inservice,electronic,most,MUS-003
-MWI,unplaced,,,,
+MWI,2,underway,,,MWI-001
 NAM,3,inservice,,,NAM-001
 NER,no evidence,,,,
 NGA,no evidence,,,,
@@ -41,14 +41,14 @@ SDN,no evidence,,,,
 SEN,no evidence,,,,
 SLE,4,inservice,electronic,,SLE-002
 SOM,2,underway,,,SOM-001
-SSD,4,inservice,electronic,,SSD-001
+SSD,4,inservice,electronic,,SSD-002;SSD-001
 STP,no evidence,,,,
 SWZ,no evidence,,,,
 SYC,no evidence,,,,
 TCD,unplaced,,,,
 TGO,5,inservice,electronic,most,TGO-003
 TUN,no evidence,,,,
-TZA,no evidence,,,,
+TZA,2,underway,,,TZA-001
 UGA,2,underway,,,UGA-001
 ZAF,no evidence,,,,
 ZMB,no evidence,,,,

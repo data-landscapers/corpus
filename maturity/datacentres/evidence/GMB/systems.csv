@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-GMB,QGroup,QGroup,,,QGroup,,2026-05-05-qgroup-data-center-gambia
-GMB,QGroup,QGroup,,,QGroup,,2026-04-30-barrow-qgroup-house-first-data-centre-thepoint
+GMB,QGroup,QGroup,other,,QGroup,,2026-05-05-qgroup-data-center-gambia
+GMB,QGroup,QGroup,other,,QGroup,,2026-04-30-barrow-qgroup-house-first-data-centre-thepoint
 GMB,Margins ID Group (PPP with Ministry of Interior),Margins ID Group (PPP with Ministry of Interior),other,,Margins ID Group,,2026-07-06-citinewsroom-gambia-gam-id-national-identity-data-centre-abuko
 GMB,Margins ID Group (PPP with Ministry of Interior),Margins ID Group (PPP with Ministry of Interior),other,,Margins ID Group,,2026-07-01-barrow-inaugurates-national-data-centre-nims-standard
 GMB,NBN data centre,NBN data centre,other,,GAMTEL,,2020-07-13-d173-4-million-nbn-data-center-investment-yet-to-accrue-income
+GMB,GAMTEL Co-Location / Facility Rental Services,The Gambia,datacentre,,GAMTEL,,2026-10-16-gmb-gamtel-co-location-facility-rental

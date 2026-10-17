@@ -119,8 +119,9 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### South Africa: 3 Established
 
-A national digital-skills programme had trained a stated number of people by 2024; a measured share with skills is not on record.
+A national digital-skills programme had trained a stated number of people by 2026; a measured share with skills is not on record.
 
+- The Collective X, which coordinates South Africa's National Digital Skills Plan, said its board chair reports 600 member organisations, R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries across all nine provinces ([source, 2026-10-15](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)).
 - Microsoft says more than 150,000 people in South Africa were trained in digital and AI skills in 2024 through its Skills for Jobs programme ([source, 2024](https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/)).
 
 ### Togo: 3 Established

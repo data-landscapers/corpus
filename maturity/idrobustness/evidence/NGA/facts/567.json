@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-nga-blueprint-npc-nin-newborns",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The NPC says a NIN, unique to each child, is now generated at birth registration.",
+   "as_of": "2024-09-26",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

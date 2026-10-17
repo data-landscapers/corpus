@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "DNEC says a biometric population file has been built from the civil register and more than 20 million NINA have been attributed through the CTDEC/ANSAEC, one body holding the RAVEC database.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "RAVEC",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC / NINA biometric file",
+   "country_label": "RAVEC (administered by ANSAEC)",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSAEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

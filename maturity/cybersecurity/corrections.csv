@@ -1,15 +1,16 @@
 iso3,n,action,why
 COD,002,removed,"The minister says the centre intervenes on some situations; no incident and no date, so it is not a response on record (question 2)."
 GAB,002,removed,"900,000 alerts in two months: a count for less than a quarter (question 4)."
-GAB,003,removed,"A mapping study defined priority sectors; nothing was designated and no operator must report (question 3)."
-KEN,018,removed,"NC4 may designate under the 2024 regulations; no designation is stated. Kenya's stage rests on its figures."
-MOZ,009,removed,"A risk assessment identified systems; no designation or reporting duty is stated. MOZ-016 carries the duty under Lei 13/2026."
+GAB,003,removed,A mapping study defined priority sectors; nothing was designated and no operator must report (question 3).
+KEN,018,removed,NC4 may designate under the 2024 regulations; no designation is stated. Kenya's stage rests on its figures.
+MOZ,009,removed,A risk assessment identified systems; no designation or reporting duty is stated. MOZ-016 carries the duty under Lei 13/2026.
 SEN,003,removed,"The Assembly adopted the bill on 20 August 2026; promulgation is not stated, so the authority is not yet created."
-SEN,004,removed,"The same unpromulgated law: no designation is in force."
-SSD,002,removed,"The 2026 Act lets the minister classify systems and binds only designated owners; none is stated designated."
+SEN,004,removed,The same unpromulgated law: no designation is in force.
+SSD,002,removed,The 2026 Act lets the minister classify systems and binds only designated owners; none is stated designated.
 SWZ,003,removed,"A World Bank document says a strategy was formulated, not adopted."
-TUN,012,removed,"The 2023 decree-law leaves the list of operators to a decree not stated issued. Tunisia's stage rests on its figures."
+TUN,012,removed,The 2023 decree-law leaves the list of operators to a decree not stated issued. Tunisia's stage rests on its figures.
 ZMB,007,removed,"An advisory on post-election disinformation, not on a cyber incident (question 2)."
 ZMB,009,removed,"The 2025 Act has the Agency designate by Gazette notice; no notice is stated, so no operator is yet bound (question 3)."
 GIN,002,removed,"An alert on AI-generated images of public figures: disinformation, not a cyber incident, as ZMB-007. The second drafter's reading."
 STP,001,removed,"The 2024-2028 strategy was put to a 30-day public consultation, so it was not yet adopted. The second drafter's reading."
+GAB,005,removed,"Top-stage check, arrivals of 2026-10-17: a project's priority sectors, with no designation instrument"

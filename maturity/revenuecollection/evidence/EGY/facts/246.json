@@ -1,0 +1,46 @@
+{
+ "slug": "2024-06-23-egy-ahram-epayment-collection-fy23-24",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Ministry of Finance reports government e-payment and collection services at EGP 2.5 trillion in July 2023 to May 2024, up 19%, including a government online payment gateway collecting over EGP 1 billion.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Electronic Payment and Collection Centre",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "Minister Maait says electronic customs collections reached EGP 284.3 billion and electronic tax collection transactions about EGP 613.1 billion in July 2023 to May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Electronic Payment and Collection Centre",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The Ministry of Finance gives EGP 2.5 trillion of e-payment and collection for July 2023 to May 2024, with electronic tax collection of EGP 613.1 billion and customs collection of EGP 284.3 billion.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Electronic Payment and Collection Centre",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Payment and Collection Centre",
+   "country_label": "Government Electronic Payment and Collection Centre",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

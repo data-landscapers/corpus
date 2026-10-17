@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Système informatisé de gestion des ressources humaines",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of National Education (MENRSE)",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a ministry-level teacher HR tool is described; no core finance, revenue or payroll system stated."
+}

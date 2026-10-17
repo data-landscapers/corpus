@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-01-nam-isoc-pulse-ixp-tracker-windhoek",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse, from PeeringDB, lists the Windhoek Internet Exchange Point (IXP Namibia) with 6 member networks and 23 Gbps of cumulative port capacity, with one new member joined in the last 12 months.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Windhoek Internet Exchange Point - IXP Namibia",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "Internet Society Pulse, from PeeringDB, lists Paratus Africa, registered in Mauritius, as a member of the Windhoek Internet Exchange Point alongside Namibian members (Packet Clearing House's US-registered networks also appear).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Windhoek Internet Exchange Point - IXP Namibia",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Windhoek Internet Exchange Point - IXP Namibia",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

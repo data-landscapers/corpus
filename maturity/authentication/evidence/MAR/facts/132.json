@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIE",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document says e-services rely on the CNIE but does not say an online identity check or authentication service is run."
+}

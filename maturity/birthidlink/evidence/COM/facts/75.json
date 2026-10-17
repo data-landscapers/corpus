@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-27-com-wearetech-numerisation-etat-civil-nip",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The study validated on 25 March 2026 under the Amecc project creates a Personal Identification Number (NIP) for civil registration and plans interoperability with other state systems, per We are Tech.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Numero d'Identification Personnel (NIP)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amecc civil registry digitisation project",
+   "country_label": "Comores",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Comoros",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

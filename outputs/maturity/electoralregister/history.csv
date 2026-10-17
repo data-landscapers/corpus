@@ -1,0 +1,5 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BEN,dpi.registry--electoral-register-electoral-register,fact,5,5,BEN-003;BEN-006,Arrivals added BEN-004; BEN-005; BEN-006; stage unchanged.
+2026-10-17,COD,dpi.registry--electoral-register-electoral-register,fact,3,3,COD-001;COD-002,Arrivals added COD-002; stage unchanged.
+2026-10-17,LSO,dpi.registry--electoral-register-electoral-register,fact,no evidence,unplaced,,Arrivals added LSO-001; stage no evidence -> unplaced.
+2026-10-17,MWI,dpi.registry--electoral-register-electoral-register,fact,4,5,MWI-002,Arrivals added MWI-002; stage 4 -> 5.

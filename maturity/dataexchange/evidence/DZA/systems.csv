@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 DZA,Système national d'interopérabilité,Algeria,exchange,secure interconnection network,Haut commissariat à la numérisation,public institutions and administrations; bodies and enterprises with a public service on need,2025-12-30-joradp-decret-25-320-gouvernance-donnees
 DZA,Secure data exchange platform,Algeria,exchange,,,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
-DZA,National data platform (المنصة الوطنية للبيانات),Algeria,,,Haut commissariat à la numérisation,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
+DZA,National data platform (المنصة الوطنية للبيانات),Algeria,other,,Haut commissariat à la numérisation,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
 DZA,National digital services portal,Algeria,other,,,,2026-08-20-elmasdar-algeria-new-phase-digital-transformation
 DZA,Plateforme d'interopérabilité,Algeria,exchange,,Haut commissariat à la numérisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
 DZA,Centre national algérien des services numériques (Mohammadia),Algeria,other,Huawei-led consortium; active-active data centres,Haut commissariat à la numérisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
@@ -15,3 +15,5 @@ DZA,national digital system for tracking strategic goods (proposed),DZA,other,,H
 DZA,intersectoral interconnection via the Centre national des données,DZA,exchange,,,,2026-08-10-algeria-care-digital-brief-interconnection
 DZA,Centre national algérien des services numériques (CNASN),DZA,other,,,launched 2026-07-05,2026-08-10-algeria-care-digital-brief-interconnection
 DZA,Notaries' online access to cadastral and land databases of the Direction generale des Domaines,Algeria,other,,Ministry of Finance; Direction generale des Domaines; Ministry of Justice (Chambre nationale du notariat),,2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord
+DZA,IRIES,IRIES,exchange,,High Commission for Digitalisation,,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe
+DZA,plateforme nationale d'interopérabilité,Algeria,exchange,,Haut-Commissariat à la numérisation,,2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers

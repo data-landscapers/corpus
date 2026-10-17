@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-15-zmb-szi-smartcare-pro-400-facilities",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SmartCare Pro",
+   "country_label": "SmartCare Pro",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health with SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes an EHR rollout, not routine aggregate reporting."
+}

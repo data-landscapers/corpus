@@ -1,8 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TZA,Kilimanjaro One (KO-SCS),"Kilimanjaro One Submarine Cable System; planned, 1,900 km Dar es Salaam to Mauritius with branches to Unguja and Mafia, construction 2026, completion late 2027",other,,TTCL,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
 TZA,NICTBB,"14,000 km national backbone, also links EAC and SADC neighbours",other,,Government of Tanzania,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
-TZA,2Africa,"landing station at Mbezi, Dar es Salaam; 45,000 km",,,Airtel Tanzania (Tanzanian landing party),,2024-09-24-airtel-subsea-cable-to-boost-digital-sector-growth-daily-news
-TZA,2Africa,"Airtel 2Africa Marine Cable Centre, Dar es Salaam",,,"Meta with Telecom Egypt, China Mobile International, MTN GlobalConnect, Orange, STC, Vodafone, WIOCC; Airtel in Tanzania",,2023-08-15-sdxcentral-2africa-live-mozambique-tanzania-airtel-dar
+TZA,2Africa,"landing station at Mbezi, Dar es Salaam; 45,000 km",other,,Airtel Tanzania (Tanzanian landing party),,2024-09-24-airtel-subsea-cable-to-boost-digital-sector-growth-daily-news
+TZA,2Africa,"Airtel 2Africa Marine Cable Centre, Dar es Salaam",other,,"Meta with Telecom Egypt, China Mobile International, MTN GlobalConnect, Orange, STC, Vodafone, WIOCC; Airtel in Tanzania",,2023-08-15-sdxcentral-2africa-live-mozambique-tanzania-airtel-dar
 TZA,Kilimanjaro One,"submarine cable system in the investment portfolio, not in service",other,,,,2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031
 TZA,National backbone,"13,820 of 16,280 km deployed, 109 of 139 districts",other,,,,2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031
 TZA,Seacom 2.0,"planned, not in service",other,,Seacom,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
@@ -13,7 +13,7 @@ TZA,DARE1 extension,DARE1,other,,Djibouti Telecom,,2025-09-01-dare1-extension-te
 TZA,SEACOM,SEACOM,other,,SEACOM,,2023-06-22-ifc-seacom-207m-long-term-loan-package
 TZA,2Africa,2Africa,other,,Meta-led consortium,,2026-02-12-2africa-subsea-cable-complete
 TZA,"DARE1 extension (Dar es Salaam, Mtwara)","DARE1 extension (Dar es Salaam, Mtwara)",other,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
-TZA,SEACOM,SEACOM,,,SEACOM,,2023-06-22-ifc-seacom-2023-loan-record
+TZA,SEACOM,SEACOM,other,,SEACOM,,2023-06-22-ifc-seacom-2023-loan-record
 TZA,SEACOM,SEACOM,route,,,,2026-08-05-world-bank-tanzania-digital-dividend
 TZA,EASSy,EASSy,route,,,,2026-08-05-world-bank-tanzania-digital-dividend
 TZA,2Africa,2Africa,route,,,,2026-08-05-world-bank-tanzania-digital-dividend

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,core,finance,inuse,"The IMF's April 2024 mission was told the finance ministry uses Visual Account Mate (VAM) and the Treasury Information System (TIS) as the government accounting software, with operational challenges and many manual interventions.",2024-04,month,Visual Account Mate (VAM) and Treasury Information System (TIS),core,2024-07-01-syc-imf-gfs-psds-mission-summary,https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf

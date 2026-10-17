@@ -2,7 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,GIFMIS,GIFMIS,core,,,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,Remita,Remita,other,,,,2026-08-29-thisday-tinubu-ippis-forensic-audit
-NGA,Treasury Single Account,TSA and Sub-TSA,,,,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
+NGA,Treasury Single Account,TSA and Sub-TSA,other,,,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,SoftSuite Human Capital Management (Soft Alliance and Resources),Office of the Head of the Civil Service of the Federation,federal,2026-07-27-fg-launches-ippis-human-resource-modules
 NGA,NGEA,Nigeria Government Enterprise Architecture,core,hosted by Galaxy Backbone,NITDA,federal,2026-03-27-nitda-takes-over-ngea-koica
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,federal,2025-01-02-mdas-remitted-ippis-2024

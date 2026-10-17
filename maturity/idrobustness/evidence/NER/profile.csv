@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,robustness,system,coverage,inservice,2026-09,NER-001;NER-002;NER-003,NER-010=underway;NER-011=underway;NER-005=underway;NER-006=underway;NER-013=underway;NER-014=underway;NER-007=underway;NER-008=underway;NER-009=underway;NER-004=underway;NER-012=underway;NER-015=underway,
+NER,robustness,system,coverage,inservice,2026-09,NER-001;NER-002;NER-003,NER-010=underway;NER-011=underway;NER-005=underway;NER-006=underway;NER-013=underway;NER-014=underway;NER-007=underway;NER-008=underway;NER-009=underway;NER-016=underway;NER-004=underway;NER-012=underway;NER-017=underway;NER-015=underway;NER-018=underway;NER-019=underway,
 NER,robustness,biometric,coverage,,,,,nothing held
 NER,robustness,assurance,coverage,,,,,nothing held

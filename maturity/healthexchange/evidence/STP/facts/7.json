@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-30-stp-saudigitus-camada-interoperabilidade-sis",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Saudigitus says it is developing, with SIS-STP and UNDP support, an interoperability layer integrating the National Health Information System with the Civil Registration System to share birth and death data.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Interoperability layer (National Health Information System - Civil Registration System)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Satellite broadband licensing and availability: satellite broadband licensed and on sale
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -21,14 +21,21 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 31 |
+| 4 Operating | 5 |
+| 3 Established | 30 |
 | 2 Nascent | 1 |
 | 1 Absent | 16 |
 | Unplaced | 0 |
 | No evidence | 2 |
 
 ## Countries
+
+### Angola: 4 Operating
+
+Satellite broadband licensed and on sale by 2026, on two satellite networks.
+
+- Q-KON and SISTEC launched a Luanda Point of Presence for the Twoobii OneWeb LEO service, which SISTEC says it uses to deliver connectivity to enterprise and financial-sector clients in Angola ([source, 2026-10-14](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/)).
+- Mercury signed a multiyear agreement with Eutelsat to supply low-earth-orbit satellite connectivity in Angola to businesses, public institutions, telecom operators and offshore clients; the document gives no subscriber figures or consumer sale ([source, 2026-06-12](https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/)).
 
 ### Botswana: 4 Operating
 
@@ -56,12 +63,6 @@ Satellite broadband licensed and on sale by 2026, on two satellite networks.
 
 - YahClick has been sold in South Africa for years through internet service providers such as Vox Telecom; the article gives no start date, so its published date is used ([source, 2026-07-01](https://mybroadband.co.za/news/broadband/656335-state-backed-south-african-satellite-internet-and-phone-company-launched.html)).
 - Eutelsat OneWeb operates commercially in South Africa through partners such as Paratus and Q-KON, per TechCentral commentary (article date used) ([source, 2026-06-30](https://techcentral.co.za/south-africas-broadband-future-is-being-decided-in-orbit-not-in-pretoria/283150/)).
-
-### Angola: 3 Established
-
-Satellite broadband licensed and on sale by 2026, on one satellite network.
-
-- Mercury signed a multiyear agreement with Eutelsat to supply low-earth-orbit satellite connectivity in Angola to businesses, public institutions, telecom operators and offshore clients; the document gives no subscriber figures or consumer sale ([source, 2026-06-12](https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/)).
 
 ### Benin: 3 Established
 

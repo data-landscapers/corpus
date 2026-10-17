@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 names a government data exchange platform.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "platform": "inservice",
+      "reach": "wide",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-003",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

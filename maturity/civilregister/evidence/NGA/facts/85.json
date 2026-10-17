@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-29-nga-npc-first-lady-birth-certificate-nin",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The NPC release says the First Lady's initiative supports birth registration using the national e-CRVS in all health facilities and communities, with symbolic electronic registration of children at the launch, where registrations were previously manual.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "e-CRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-CRVS",
+   "country_label": "national digital Civil Registration and Vital Statistics (e-CRVS)",
+   "class": "civil",
+   "platform": "Barnksforte Technologies Limited (technical partner)",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

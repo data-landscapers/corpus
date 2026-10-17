@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-24-lbr-csquared-350km-backbone-civ-guinea-borders",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "CSquared, USAID and Digital Invest committed to building a 350 km backbone crossing 13+ towns in Margibi, Bong and Nimba counties and connecting Monrovia to the Ivory Coast and Guinea borders, partly on Liberia Electricity Corporation utility infrastructure.",
+   "as_of": "2024-01-24",
+   "date_precision": "day",
+   "system": "CSquared Liberia fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "CSquared describes the 350 km backbone as Liberia's first open-access fibre backbone, providing high-capacity long-distance transmission services to Liberian telecommunication operators.",
+   "as_of": "2024-01-24",
+   "date_precision": "day",
+   "system": "CSquared Liberia fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSquared Liberia fibre backbone",
+   "country_label": "Liberia",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "CSquared",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

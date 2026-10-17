@@ -1,0 +1,3 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CAF,dpi.pay--g2p-functionality-g2p-functionality,fact,3,3,CAF-001;CAF-003,Arrivals added CAF-003; stage unchanged.
+2026-10-17,EGY,dpi.pay--g2p-functionality-g2p-functionality,fact,no evidence,3,EGY-001,Arrivals added EGY-001; stage no evidence -> 3.

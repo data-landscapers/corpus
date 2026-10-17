@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-28-zmb-dailynation-govt-digitises-nrcs",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Department of National Registration runs INRIS as one civil registration and legal identity system, and a legal identity number is to be allocated at birth registration, per the INRIS deputy project manager.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "INRIS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INRIS",
+   "country_label": "Zambia",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Department of National Registration, Passports and Citizenship",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

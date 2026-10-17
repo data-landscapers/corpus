@@ -25,8 +25,8 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 | 3 Established | 0 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 45 |
+| Unplaced | 1 |
+| No evidence | 44 |
 
 ## Countries
 
@@ -83,6 +83,12 @@ A digital channel for complaints about public services was under way in 2026; on
 A digital channel for complaints about public services was under way in 2026; one in service is not on record.
 
 - The Somali Ministry of Communication and Technology's EA-RDIP project unit sets out in its January 2026 manual a grievance mechanism whose channels will include telephone hotline, SMS and WhatsApp, email and online platforms, plus suggestion boxes, for complaints about the project; no case numbers are given ([source, 2026-01](https://moct.gov.so/en/wp-content/uploads/2026/01/GRM-Manual-Final-clean-copy.pdf)).
+
+### South Sudan: Unplaced
+
+Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Algeria: No evidence
 
@@ -301,12 +307,6 @@ Nothing held names a digital channel for complaints about public services or say
 Not established: Nothing held says whether people can complain about public services online.
 
 ### South Africa: No evidence
-
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
-
-Not established: Nothing held says whether people can complain about public services online.
-
-### South Sudan: No evidence
 
 Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
 

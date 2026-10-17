@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-05-lbr-newspublictrust-nir-mobile-teams",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The NIR launched Enrolment at Birth on 16 September 2023 to enrol over 500,000 children aged 0-5 into the National Childbirth Enrolment System, which is still being developed.",
+   "as_of": "2023-09-16",
+   "date_precision": "day",
+   "system": "National Childbirth Enrolment System",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

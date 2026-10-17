@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The National Bank of Ethiopia and PAPSS announced on 15 October 2026 that Ethiopia has officially joined the PAPSS network, letting Ethiopian financial institutions connect for cross-border payments.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

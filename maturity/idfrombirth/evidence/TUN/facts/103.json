@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The deck says the 11-digit non-significant unique number, set up by decree-law of 12 May 2020, is assigned at birth or on obtaining Tunisian nationality.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "IUC",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Unique Citoyen (IUC) register",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

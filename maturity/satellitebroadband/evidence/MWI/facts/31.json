@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-mwi-nation-data-cost-down-macra",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Macra's director general cites the licensing of Starlink as creating competition on the market.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Malawi",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

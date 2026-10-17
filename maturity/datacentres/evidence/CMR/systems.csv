@@ -20,7 +20,7 @@ CMR,Data center de Zamengoe,Data center de Zamengoe,other,,CAMTEL,Tier III (stat
 CMR,Douala smart-meter data centre,data centre under construction in Douala,other,,MINEE / Socadel,,2026-05-29-rollout-20000-smart-meters-ami-world-bank-wearetech
 CMR,ST Digital datacenters,ST Digital,other,,ST Digital,"three certified datacenters, certification unspecified",2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech
 CMR,ST-DIGITAL Data Center,Data Center ST-DIGITAL,datacentre,,ST Digital,,2026-04-07-camix-troisieme-pop-st-digital
-CMR,CAMPOST Data Center,Data Center de la CAMPOST,,,CAMPOST,,2026-04-07-camix-troisieme-pop-st-digital
+CMR,CAMPOST Data Center,Data Center de la CAMPOST,other,,CAMPOST,,2026-04-07-camix-troisieme-pop-st-digital
 CMR,CAMTEL Zamengoe Data Centre,Data Centre in Zamengoe,datacentre,,CAMTEL,Tier III (stated by operator),2026-01-15-camtel-obc-baccalaureate-framework-agreement
 CMR,ST Digital,ST Digital,datacentre,,ST Digital,,2026-01-01-cameroon-data-center-market-briefing-xalam
 CMR,Camtel data centre,Camtel,datacentre,,Camtel,,2026-01-01-cameroon-data-center-market-briefing-xalam
@@ -48,6 +48,7 @@ CMR,Impact Palmares sovereign data centre (Yaounde),Data Center a Yaounde,other,
 CMR,CAMTEL secure data centre,centre de données sécurisé,other,,CAMTEL,Ministry of Tourism and Leisure,2025-09-18-camtel-mintoul-tourism-digital-partnership
 CMR,ENSPY datacenter,datacenter de l'ENSPY,other,,University of Yaoundé I / ENSPY,,2025-07-09-cmr-dgb-cenadi-etude-datacenters
 CMR,Cloud Store Africa,Cloud Store Africa,datacentre,,ST Digital,,2025-06-25-businessincameroon-st-digital-unctad-wir-2025
-CMR,ST Digital Tier-3 datacenter,,,,ST Digital,,"2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)"
+CMR,ST Digital Tier-3 datacenter,,other,,ST Digital,,"2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)"
 CMR,ST Digital Douala data centre,Cloud et Datacenter services,datacentre,,ST Digital,"SMEs, large firms, administrations",2021-01-26-le-cameroun-heberge-le-cloud-de-lafrique-douala-today
 CMR,ST Digital,,datacentre,,Anthony Same (majority owner),,2026-06-11 Can Africa supply it's own digital infrastructure
+CMR,Data center Orange Tiers III+,Cameroon,datacentre,,Orange Cameroun,Tiers III+ (operator claim),2026-10-16-cmr-orange-business-data-center-tiers-iii

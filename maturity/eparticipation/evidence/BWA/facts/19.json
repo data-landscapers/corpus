@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-01-bwa-bocra-cybersecurity-bill-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The notice says the draft Cybersecurity Bill is available on the BOCRA website and that written comments go by email to the ministry by 23 June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Draft Cybersecurity Bill comment call",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

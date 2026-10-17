@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-23-egy-ahram-epayment-collection-fy23-24",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Ministry of Finance's electronic payment and collection unit head says governance of the linkage between the Electronic Payment and Collection Centre and the Government Financial Management Information System (GFMIS) is being strengthened.",
+   "as_of": "2024-06-23",
+   "date_precision": "day",
+   "system": "GFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Financial Management Information System",
+   "country_label": "GFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Minister Silaa says the National Optic Fibre Cable network spans 13,820 km and covers 109 districts, with the remaining 30 districts planned this financial year.",
+   "as_of": "2025-07-20",
+   "date_precision": "day",
+   "system": "National Optic Fibre Cable (NOFBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Optic Fibre Cable (NOFBI)",
+   "country_label": "Tanzania",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

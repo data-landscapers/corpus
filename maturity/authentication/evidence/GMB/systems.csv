@@ -1,14 +1,14 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GMB,eCRVS (electronic Civil Registration and Vital Statistics),Gambia,other,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
-GMB,National health insurance cards (NHIA),Gambia,,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
+GMB,National health insurance cards (NHIA),Gambia,other,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS (HERA),Gambia,other,WCC HERA,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
 GMB,Drivers License System,Gambia,other,,Gambia Police Force,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Passport System,Gambia,,,Ministry of Interior,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Health Management Information System,Gambia,,,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,GamSIR Gambia Social Registry,Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,TIN Tax Identification Number System,Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,CKYC Centralized Know Your Customer System (planned),Gambia,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,PURA SIM database (planned),Gambia,,,PURA,,2025-01-01-world-bank-gambia-id4d-diagnostic
-GMB,Voter Registration Database,Gambia,,,Independent Election Commission,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Passport System,Gambia,other,,Ministry of Interior,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Health Management Information System,Gambia,other,,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,GamSIR Gambia Social Registry,Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,TIN Tax Identification Number System,Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,CKYC Centralized Know Your Customer System (planned),Gambia,other,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,PURA SIM database (planned),Gambia,other,,PURA,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,Voter Registration Database,Gambia,other,,Independent Election Commission,,2025-01-01-world-bank-gambia-id4d-diagnostic
 GMB,National Identity Management System (GAM ID/NIMS),Gambia,other,Margins ID Group,Ministry of Interior; Gambia Immigration Department,,2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout
 GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade

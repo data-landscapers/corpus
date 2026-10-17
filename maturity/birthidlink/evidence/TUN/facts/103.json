@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The deck says the 11-digit unique citizen number is assigned at birth or on acquiring Tunisian nationality, and shows the IUC system drawing on the civil status system Madania.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "IUC system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Unique Citoyen (IUC) register",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Madania",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

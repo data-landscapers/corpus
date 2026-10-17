@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-dji-usdos-2024-human-rights-report",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "The US State Department says that during most of 2024 asylum and refugee status determinations were not considered, owing to government and UNHCR contractual and administrative impediments.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

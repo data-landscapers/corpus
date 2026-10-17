@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-17-civ-digitalmag-id-day-2025-oneci-nni",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI's director general said on 16 September 2025 that national identification numbers (NNI) have been attributed to more than 9 million people.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NNI / ONECI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

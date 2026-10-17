@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SENUM SA, the state company that succeeded the state IT agency ADIE, is to host the health ministry's application data, deploy its electronic mail system and carry out the shared patient file, under a framework convention with the ministry.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "SENUM SA",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

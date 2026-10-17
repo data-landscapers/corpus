@@ -1,0 +1,3 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,SEN,dpi.mis--social-protection-social-protection,fact,no evidence,3,SEN-001,Arrivals added SEN-001; stage no evidence -> 3.
+2026-10-17,SSD,dpi.mis--social-protection-social-protection,fact,3,3,SSD-001;SSD-003,Arrivals added SSD-005; stage unchanged.

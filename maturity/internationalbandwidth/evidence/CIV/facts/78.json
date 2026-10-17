@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Developing Telecoms says Cote d'Ivoire hosts landing points for six subsea cables: 2Africa, ACE, MainOne, Maroc Telecom West Africa, SAT-3/WASC and WACS.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Subsea cable landings",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,robustness,system,coverage,inservice,2026-08,MRT-001;MRT-002;MRT-003;MRT-004;MRT-005,,
+MRT,robustness,system,coverage,inservice,2026-08,MRT-001;MRT-002;MRT-003;MRT-004;MRT-005;MRT-006,,
 MRT,robustness,biometric,coverage,,,,,nothing held
 MRT,robustness,assurance,coverage,,,,,nothing held

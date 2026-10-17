@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-16-cod-gff-countdown-analyse-donnees-dhis2-2019-2024",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Countdown analysis says DHIS2 data on facility reporting across the DRC's health zones and districts cover 2019-2024 and are of generally high quality.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The analysis gives DHIS2 reporting completeness rising to 99% in 2024, with about 90% for six key indicators.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

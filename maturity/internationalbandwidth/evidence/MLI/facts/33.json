@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mli-afribone-a-propos-solar-data-center",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Afribone Mali says its international links run over optical fibre through Dakar and Abidjan to the ACE and MainOne submarine cables.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Afribone international links via Dakar and Abidjan",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

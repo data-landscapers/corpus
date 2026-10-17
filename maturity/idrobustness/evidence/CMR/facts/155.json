@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-13-cmr-biometricupdate-augentic-15-year-id-contract",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Cameroon's DGSN contracted Augentic on 13 May 2024 to build a new generation biometric national ID card system, with 68 new structures, three production centres and 219 renovated centres, and the system expected to go live in the next few months.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "new generation biometric national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

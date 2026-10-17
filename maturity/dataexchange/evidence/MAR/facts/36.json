@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-09-mar-lavieeco-plateforme-jisr-55-millions-operations",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The Agence de développement du digital says the Jisr platform carries secure data exchange between public administrations and institutions, used in the unified social registry, the Tayssir programme and the Masar school system.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Jisr",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The ADD says over 55 million data exchange operations were recorded on Jisr from February 2023 to 31 January 2024, through 46 APIs giving access to 350 types of beneficiary information.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Jisr",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jisr",
+   "country_label": "Maroc",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Agence de développement du digital (ADD)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

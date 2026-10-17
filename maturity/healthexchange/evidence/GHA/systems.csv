@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GHA,National Public Health Emergency Operations Centre (PHEOC),Ghana,other,integrated dashboards,Ghana Health Service,"national, regional, district, community",2026-08-23-ghs-launches-pheoc-strategic-documents
-GHA,District Health Information Management System (DHIMS),Ghana,,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
-GHA,Ghana Integrated Logistics Management Information System (GhILMIS),Ghana,,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
-GHA,Electronic Medical Records System (EMRS),Ghana,,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
-GHA,Human Resource Information System (HRIS),Ghana,,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,District Health Information Management System (DHIMS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,Ghana Integrated Logistics Management Information System (GhILMIS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,Electronic Medical Records System (EMRS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,Human Resource Information System (HRIS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,Ghana Health Information Exchange,Ghana,exchange,,Ministry of Health,,2024-11-15-gha-gna-moh-health-data-interoperability

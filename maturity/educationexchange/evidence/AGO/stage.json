@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "learnerid": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names education systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "learnerid": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001",
+      "gaps": "No source held since October 2023 says two education systems exchange data in use.",
+      "note": "First pass: counted from the four questions by study-ladder-educationexchange.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-29-som-govstack-digital-leaders-spotlight-somalia",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024.",
+   "as_of": "2024-09-29",
+   "date_precision": "day",
+   "system": "Content Management System (CMS); High School Records (HSR)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Content Management System (CMS)",
+   "country_label": "Somalia",
+   "class": "eservices",
+   "platform": "Typo3",
+   "owner": "Ministry of Communication and Technology",
+   "tiers": ""
+  },
+  {
+   "system": "High School Records (HSR)",
+   "country_label": "Somalia",
+   "class": "eservices",
+   "platform": "Joget",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

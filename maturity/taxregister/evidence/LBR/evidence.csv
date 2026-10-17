@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBR-001,LBR,taxpayers,nationalid,linked,The NIR says its API connects the Liberia Revenue Authority with new taxpayers wanting a TIN.,2024-02-05,day,NIR API to LRA,tax,2024-02-05-lbr-newspublictrust-nir-mobile-teams,https://newspublictrust.com/national-identification-registry-deploys-mobile-teams

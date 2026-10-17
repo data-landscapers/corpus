@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BEN,National Health Management and Information System (NHMIS),Benin,hmis,DHIS2,Ministry of Health,"health zones, facilities",2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2
 BEN,LabBook,Benin,other,LabBook 3.6,Fondation Merieux,laboratories,2026-03-26-labbook-3-6-dhis2
+BEN,DHIS2,DHIS2 national (SNIGS),other,DHIS2,,,2026-03-03-ben-iaso-georegistre-carte-sanitaire

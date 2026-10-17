@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-03-stp-rdpafrica-sistema-integrado-registo-civil",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The registry and notary directorate is running a pilot of a digital identity platform, for which it sought 1,000 volunteer testers.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "identidade digital",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "identidade digital",
+   "country_label": "São Tomé e Príncipe",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Direção de Registo e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,6 +2,12 @@
 
 ## Interoperability of birth registration and digital id
 
-***Noted, not assessed***. [Fayda](<https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/>).
+**Civil register linked to ID.** [Addis Ababa Mayor Adanech Abiebie said the new city civil registration system facilitates data sharing among Immigration, Health, Courts, the National ID program and others, with no event or direction of exchange stated](<https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/>). [NIDP says Fayda is being requested to be delivered for all vital events (birth, marriage, death) at the Civil Registration and Vital Events Agency, with system integration discussions ongoing](<https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf>).
 
-***Not held***. Nothing held says whether the civil register and the ID system are linked.
+**Both ways.** No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest held fact: [the one given above](<https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/>).
+
+**Exchange reported.** No source held since October 2023 gives a figure for records exchanged between the two. The nearest held fact: [the one given above](<https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/>).
+
+***Noted, not assessed***. [Fayda](<https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/>); [Civil Registration and Vital Statistics with ID System](<https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/>).
+
+***Not held***. No source held since October 2023 says: is one link in service.

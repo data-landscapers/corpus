@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-03-com-mfbsb-mix-id-fonctionnaires",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MIX-ID",
+   "country_label": "MIX-ID",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des Finances, du Budget et du Secteur Bancaire",
+   "tiers": ""
+  }
+ ],
+ "note": "MIX-ID staff-management system replacing GISE is in its first enrolment phase; document does not state payroll, finance or tax running on it."
+}

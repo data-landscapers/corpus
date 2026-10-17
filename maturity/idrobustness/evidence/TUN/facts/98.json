@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The playbook describes the unique citizen identifier register as in operation, holding biographic data, civil status and CIN data, with a stated maturity of consolidation phase.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

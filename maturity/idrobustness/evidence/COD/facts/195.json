@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ONIP resumed issuing the new biometric national ID card on 26 April 2024 in the pilot Kinshasa communes of Bandalungwa, Lingwala, Limete and N'sele, with 8 further communes and then 12 to follow, per BBC News Afrique.",
+   "as_of": "2024-04-26",
+   "date_precision": "day",
+   "system": "ONIP national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

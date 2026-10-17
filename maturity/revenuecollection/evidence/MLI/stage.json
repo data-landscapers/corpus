@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "5",
-   "payment": "inservice",
-   "main": "main",
-   "reported": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002;MLI-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "5",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-002;MLI-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

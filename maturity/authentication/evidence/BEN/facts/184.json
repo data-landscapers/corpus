@@ -1,0 +1,44 @@
+{
+ "slug": "2024-03-29-ben-lanation-interoperabilite-rnpp-npi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says ANIP offers three types of interoperability with the RNPP: simple authentication, strong authentication and data exchange.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "ANIP interoperability (NPI)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The article says the tax directorate and the emigration and immigration directorate have been trying the RNPP interoperability for several years.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "ANIP interoperability (NPI)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence nationale d'identification des personnes (ANIP)",
+   "tiers": ""
+  },
+  {
+   "system": "Numero personnel d'identification (NPI)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": "simple authentication; strong authentication; data exchange"
+  }
+ ],
+ "note": ""
+}

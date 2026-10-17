@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "RAVEC",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC / NINA biometric file",
+   "country_label": "RAVEC (administered by ANSAEC)",
+   "class": "population",
+   "platform": "",
+   "owner": "ANSAEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

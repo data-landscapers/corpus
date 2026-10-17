@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-14-dji-presidence-cm-ansie-tarification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The Council of Ministers examined a draft decree pricing ANSIE services to public and parapublic institutions, among them hosting within a national data centre, under agreements.",
+   "as_of": "2023-11-14",
+   "date_precision": "day",
+   "system": "national data centre (ANSIE)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

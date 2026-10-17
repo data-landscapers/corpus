@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "Togo's presentation says the RSPM social registry was in development and initial integration in 2025, with full-scale operation planned for 2026.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RSPM",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSPM",
+   "country_label": "Togo",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

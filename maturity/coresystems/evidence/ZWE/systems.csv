@@ -2,7 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZWE,Tax and Revenue Management System (TaRMS),TaRMS,core,,Zimbabwe Revenue Authority,,2024-09-13-zimra-public-notice-69-tarms-release-3
 ZWE,ASYCUDA,ASYCUDA,other,,,,2024-09-13-zimra-public-notice-69-tarms-release-3
 ZWE,FDMS,FDMS,other,,,,2024-09-13-zimra-public-notice-69-tarms-release-3
-ZWE,SAP-FI,SAP-FI,,SAP,,,2024-09-13-zimra-public-notice-69-tarms-release-3
+ZWE,SAP-FI,SAP-FI,other,SAP,,,2024-09-13-zimra-public-notice-69-tarms-release-3
 ZWE,Tax and Revenue Management System (TaRMS),TaRMS,core,,Zimbabwe Revenue Authority,,2025-09-23-afdb-zimbabwe-tarms-launch
 ZWE,Tax and Revenue Management System (TaRMS),TaRMS,core,,Zimbabwe Revenue Authority,,2024-09-27-zimra-public-notice-73-tarms-release-3-go-live
 ZWE,Self Service Portal (mytaxselfservice.zimra.co.zw),Self Service Portal,other,,Zimbabwe Revenue Authority,,2024-09-27-zimra-public-notice-73-tarms-release-3-go-live

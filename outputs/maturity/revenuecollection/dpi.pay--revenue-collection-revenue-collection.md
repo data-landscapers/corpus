@@ -1,6 +1,6 @@
 # Revenue collection: revenue collection
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 27 |
+| 3 Established | 25 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 14 |
 
 ## Countries
+
+### Egypt: 5 Leading
+
+A figure for revenue paid electronically was reported in 2024.
+
+- The Ministry of Finance gives EGP 2.5 trillion of e-payment and collection for July 2023 to May 2024, with electronic tax collection of EGP 613.1 billion and customs collection of EGP 284.3 billion ([source, 2024-05](https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx)).
 
 ### Mali: 5 Leading
 
@@ -43,6 +49,12 @@ A figure for revenue paid electronically was reported in 2026.
 
 - The finance minister said more than 500 taxpayers joined the DGI electronic platform, which contributed 36.45% of DGI revenue during 2026 ([source, 2026-07-30](https://www.ami.mr/archives/265398)).
 - The finance minister says more than 500 taxpayers joined the DGI electronic platform, which contributed to collecting 36.45% of the directorate's revenue in 2026 ([source, 2026-07-30](https://ami.mr/fr/archives/300004)).
+
+### Morocco: 5 Leading
+
+A figure for revenue paid electronically was reported in 2023.
+
+- The DGI figures show 91.1% of 2023 receipts were paid online (telepayee) ([source, 2023](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
 ### Togo: 5 Leading
 
@@ -124,13 +136,6 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 
 - Clotchor Secongo says his digital solutions, including the Treasury's TresorPay e-payment platform, have improved some municipal revenues in 75 local authorities in Cote d'Ivoire; the source is his own note to the newspaper ([source, 2026-03-26](https://www.fratmat.info/article/2640916/societe/collectivites-territoriales-clotchor-secongo-developpe-un-systeme-pour-digitaliser-les-services)).
 
-### Egypt: 3 Established
-
-Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
-
-- Finance Minister Ahmed Kouchouk said real-estate transaction tax can be paid electronically with bank cards or direct-debit cards through the Tax Authority's Real Estate Transactions mobile app ([source, 2026-08-29](https://www.fintechgate.net/250244)).
-- Finance Minister Ahmed Kouchouk said the Tax Authority's Real Estate Transactions app lets citizens register transactions, upload documents and pay taxes online, with payment by electronic methods, banks and bank cards, and InstaPay planned for a later stage ([source, 2026-08-19](https://sis.gov.eg/en/media-center/news/egypt-launches-new-tax-services-center-real-estate-transactions-app-as-part-of-tax-relief-drive/)).
-
 ### Ethiopia: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
@@ -183,12 +188,6 @@ Some taxes or fees could be paid electronically in 2025; the main taxes and duti
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
 - The Mauritius Revenue Authority states that VAT charged or collected by foreign digital-service suppliers must be remitted electronically to the MRA, and lists online VAT registration, electronic submission of VAT returns and electronic payment of VAT due as available facilities from 1 January 2026 ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
-
-### Morocco: 3 Established
-
-Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
-
-- CMI says Fatourati is the reference platform for multichannel settlement of bills, taxes and duties in Morocco, used by over 100 administrations and billers ([source, 2025-09](https://www.cmi.co.ma/fr/nos-actualites/fatourati-collect-le-cmi-ouvre-un-acces-simple-et-immediat-au-reglement-multicanal)).
 
 ### Niger: 3 Established
 

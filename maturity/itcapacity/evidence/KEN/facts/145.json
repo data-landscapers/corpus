@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-nation-afyake-shutdown-65000-patient-records-kangata-duale",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "AfyaKE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AfyaKE",
+   "country_label": "AfyaKE",
+   "class": "other",
+   "platform": "",
+   "owner": "Murang'a County Government",
+   "tiers": "county"
+  }
+ ],
+ "note": ""
+}

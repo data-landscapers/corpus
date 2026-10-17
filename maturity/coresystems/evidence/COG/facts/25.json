@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-15-cog-voxcongo-sighre-fonction-publique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGHRE",
+   "country_label": "Système intégré de gestion des ressources humaines de l'État",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la fonction publique",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGHRE HR system handed over 15 May 2024 but document says it will automate tasks and does not state payroll or use."
+}

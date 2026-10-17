@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-08-eth-ebr-insa-local-platforms",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Ethiopian Business Review reports INSA says it has developed government systems, including the Ergamail email client deployed across federal institutions and the electronic tax system used by the Ethiopian Revenues and Customs Authority.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Ergamail",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Ergamail",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ergamail",
+   "country_label": "Ergamail",
+   "class": "staff",
+   "platform": "government email client",
+   "owner": "INSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

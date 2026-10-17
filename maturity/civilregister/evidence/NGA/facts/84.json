@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-26-nga-blueprint-npc-nin-newborns",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The NPC says its digitization includes mobile devices for real-time birth data collection, particularly in remote areas.",
+   "as_of": "2024-09-26",
+   "date_precision": "day",
+   "system": "NPC birth registration digitization",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

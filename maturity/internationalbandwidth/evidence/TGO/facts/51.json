@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-tgo-csquared-west-africa-cross-border-backbone",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "CSquared says it is the landing partner for the Equiano cable in Togo, extending subsea capacity inland.",
+   "as_of": "2025-08-11",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Togo",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OADC Texaf Digital-Kinshasa",
+   "country_label": "RDC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC group) with TEXAF",
+   "tiers": "Tier-III"
+  }
+ ],
+ "note": "Ownership split between OADC and TEXAF not stated, so national ownership is not settled."
+}

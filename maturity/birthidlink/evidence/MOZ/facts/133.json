@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-28-moz-noticias-registo-civil-bi-interoperabilidade",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Jornal Notícias reports that people registered in the Nacala birth campaign can have the Bilhete de Identidade issued on the spot from the electronic data the registrar captured, through interoperability of the two services.",
+   "as_of": "2025-03-28",
+   "date_precision": "day",
+   "system": "registo de nascimento / Bilhete de Identidade interoperability",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

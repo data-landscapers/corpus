@@ -1,18 +1,19 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "unplaced",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "cadre": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source held from 2023 or later says government staff run or maintain any of its systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "1",
+      "inhouse": "outsourced",
+      "agency": "",
+      "built": "",
+      "cadre": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-003",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "MINDDEVEL's deck says law 2024/016 consecrates digitalisation of civil-event registration, creates the national civil-status file, and validates electronic civil-status acts produced in pilot operations.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Fichier national de l'état civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier national de l'état civil",
+   "country_label": "CMR",
+   "class": "civil",
+   "platform": "",
+   "owner": "MINDDEVEL",
+   "tiers": ""
+  },
+  {
+   "system": "NIPU",
+   "country_label": "CMR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

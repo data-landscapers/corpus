@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-04-cod-actualite-contrat-carte-identite-annule",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Actualite.cd reports that the December 2023 contract with Afritech and Idemia, worth $1.2 billion, covered biometric ID cards and a civil registration system, but it was cancelled by mutual consent on 12 August 2024.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Afritech/Idemia civil registration system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afritech/Idemia ID card and civil registration contract",
+   "country_label": "RDC",
+   "class": "other",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

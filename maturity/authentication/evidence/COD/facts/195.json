@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The 20-year ONIP contract with the IDEMIA/Afritech consortium includes an identity verification platform, and the new biometric card's contactless chip allows authentication of the holder, per BBC News Afrique.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "ONIP national ID card",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

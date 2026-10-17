@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-14-egy-etdatacenters-telecom-egypt-subsea-terrestrial-strategy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Telecom Egypt data center entity",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "A dedicated data-centre entity is set up, but no facility in service, tier or cloud region is stated."
+}

@@ -2,7 +2,7 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023](<http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf>). Three facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+**A census taken or in preparation.** [NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023](<http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf>). Four facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
 
 **Final results published.** No source held reports final results of a census counted since October 2016. The nearest held fact: [NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023](<http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf>).
 

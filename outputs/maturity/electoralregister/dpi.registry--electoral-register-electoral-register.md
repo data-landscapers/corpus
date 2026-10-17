@@ -20,13 +20,13 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
-| 4 Operating | 10 |
+| 5 Leading | 10 |
+| 4 Operating | 9 |
 | 3 Established | 8 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 21 |
+| Unplaced | 2 |
+| No evidence | 20 |
 
 ## Countries
 
@@ -41,6 +41,7 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - ANIP says a death recorded in the RNPP automatically removes the person from the electoral lists ([source, 2026-05](https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf)).
+- ANIP says the list is extracted directly from the Fichier National de l'État Civil, the database also used for national identity cards ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
 
 ### Cape Verde: 5 Leading
 
@@ -59,6 +60,12 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - The convention makes the data of the registre national des personnes physiques the single official source of voter identification data for the biometric electoral lists, says the DGE director general ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
+
+### Malawi: 5 Leading
+
+The voters' roll was drawn from or checked against the ID or civil register in 2024.
+
+- The Principal Secretary says the law makes the Malawi Electoral Commission recognise the national ID as the single source of truth for voter registration, after Parliament made it the only proof of identity ([source, 2024-07-17](https://mwnation.com/nrb-under-scrutiny/)).
 
 ### Nigeria: 5 Leading
 
@@ -122,12 +129,6 @@ Voters could check the digital roll in 2025; a link to the ID or civil register 
 
 - The Daily Nation reports that the IEBC chairman gazetted 29 September 2025 for resuming continuous voter registration, letting Kenyans register, transfer, correct details or inspect their records at any of the 290 constituency offices ([source, 2025-08-28](https://nation.africa/kenya/news/politics/iebc-turns-to-id-data-to-meet-voter-targets-5623352)).
 
-### Malawi: 4 Operating
-
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
-
-- The Malawi Electoral Commission's Chief Elections Officer said in a 5 June 2025 response that Sections 20 and 21 of the 2023 Elections Act limit voter-roll inspection to verification of entries at registration centres and regional offices ([source, 2025-06-05](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic)).
-
 ### Tanzania: 4 Operating
 
 Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
@@ -165,6 +166,7 @@ The voters' roll was held digitally in 2025; voters checking it is not on record
 The voters' roll was held digitally in 2026; voters checking it is not on record.
 
 - CENI handed over the electoral file of voters enrolled in 2022, used in the December 2023 general elections, to ONIP on 19 February 2026, and the President said the enrolled voters' biometric data are available ([source, 2026-02-19](https://actualite.cd/2026/02/19/identification-de-la-population-en-rdc-la-ceni-transmet-officiellement-le-fichier)).
+- BBC News Afrique reports that the CENI began collecting biometric data from people in 2023 when enrolling voters for the elections, and that ONIP draws on the CENI database ([source, 2023](https://www.bbc.com/afrique/articles/cy633p6ezq1o)).
 
 ### Gambia: 3 Established
 
@@ -228,6 +230,12 @@ A digital voters' roll was under way in 2025; none in service is on record.
 
 - Somalia's National Electoral Commission chair Abdikarim Ahmed Hassan unveiled new digital voter registration equipment in Mogadishu, to be tested at the 30 June 2025 local government elections, with public voter registration as the first phase ([source, 2025-03-18](https://nation.africa/africa/news/somalia-s-electoral-commission-unveils-digital-voter-registration-equipment-ahead-of-local-polls-4970512)).
 
+### Lesotho: Unplaced
+
+Nothing held since 2023 names a digital voters' roll, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+
 ### Seychelles: Unplaced
 
 Nothing held since 2023 names a digital voters' roll, so no stage is set.
@@ -283,12 +291,6 @@ Nothing held names a digital voters' roll or says there is none, so no stage is 
 Not established: Nothing held says how the voters' roll is held.
 
 ### Eritrea: No evidence
-
-Nothing held names a digital voters' roll or says there is none, so no stage is set.
-
-Not established: Nothing held says how the voters' roll is held.
-
-### Lesotho: No evidence
 
 Nothing held names a digital voters' roll or says there is none, so no stage is set.
 

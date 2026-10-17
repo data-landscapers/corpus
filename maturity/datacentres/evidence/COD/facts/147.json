@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-03-cod-acp-inauguration-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data center national (Finance ministry, Ngaliema, Kinshasa)",
+   "country_label": "RDC",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The data centre serves the Finance ministry and its revenue agencies; no renting to outside organisations is stated."
+}

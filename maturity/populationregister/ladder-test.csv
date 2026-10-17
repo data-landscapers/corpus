@@ -7,12 +7,12 @@ BWA,no evidence,,,,
 CAF,no evidence,,,,
 CIV,5,inservice,updated,source,CIV-002
 CMR,no evidence,,,,
-COD,2,underway,,,COD-001
+COD,5,inservice,updated,source,COD-004
 COG,no evidence,,,,
 COM,no evidence,,,,
 CPV,no evidence,,,,
 DJI,3,inservice,,,DJI-001
-DZA,no evidence,,,,
+DZA,unplaced,,,,
 EGY,no evidence,,,,
 ERI,no evidence,,,,
 ETH,no evidence,,,,
@@ -28,7 +28,7 @@ LBY,no evidence,,,,
 LSO,no evidence,,,,
 MAR,5,inservice,updated,source,MAR-003
 MDG,no evidence,,,,
-MLI,3,inservice,,,MLI-001
+MLI,3,inservice,,,MLI-002;MLI-001
 MOZ,3,inservice,,,MOZ-001
 MRT,3,inservice,,,MRT-001;MRT-002
 MUS,no evidence,,,,
@@ -47,9 +47,9 @@ SWZ,no evidence,,,,
 SYC,unplaced,,,,
 TCD,5,inservice,updated,source,TCD-002
 TGO,no evidence,,,,
-TUN,2,underway,,,TUN-001
+TUN,5,inservice,updated,source,TUN-004
 TZA,no evidence,,,,
 UGA,no evidence,,,,
-ZAF,5,inservice,updated,source,ZAF-006
+ZAF,5,inservice,updated,source,ZAF-012;ZAF-006
 ZMB,no evidence,,,,
 ZWE,5,inservice,updated,source,ZWE-002

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-24-bdi-dailynews-nictbb-ttcl-bbs-agreement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Burundi Backbone System",
+   "country_label": "Burundi Backbone System (BBS)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "BBS is a buyer of capacity from TTCL; the document states nothing on fibre between Burundi's capital and its regions."
+}

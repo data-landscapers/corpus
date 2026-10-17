@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-002",
-   "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "5",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

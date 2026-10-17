@@ -2,10 +2,10 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,Central data exchange platform (PFM),Somalia,exchange,,Ministry of Finance,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
 SOM,SFMIS,Somalia,other,,Ministry of Finance,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
 SOM,SFMIS,Somalia,other,,Federal Government of Somalia,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,Somali Business Registration System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,Electronic Tax Administration System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,Road Transport Tax System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,Rental Income Tax System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,E-Visa,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,Electronic Non-Tax Revenue System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
-SOM,DFS Revenue Collection System,Somalia,,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Somali Business Registration System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Electronic Tax Administration System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Road Transport Tax System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Rental Income Tax System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,E-Visa,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Electronic Non-Tax Revenue System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,DFS Revenue Collection System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation

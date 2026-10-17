@@ -8,7 +8,7 @@ CAF,2,underway,,,CAF-001;CAF-002
 CIV,2,underway,,,CIV-001;CIV-003
 CMR,2,underway,,,CMR-001
 COD,no evidence,,,,
-COG,4,inservice,shared,,COG-001
+COG,5,inservice,shared,linked,COG-003
 COM,no evidence,,,,
 CPV,4,inservice,shared,,CPV-001
 DJI,2,underway,,,DJI-003;DJI-002
@@ -38,7 +38,7 @@ NER,unplaced,,,,
 NGA,2,underway,,,NGA-001
 RWA,5,inservice,shared,linked,RWA-009;RWA-004
 SDN,3,inservice,,,SDN-001
-SEN,2,underway,,,SEN-002
+SEN,3,inservice,,,SEN-005
 SLE,2,underway,,,SLE-002
 SOM,no evidence,,,,
 SSD,no evidence,,,,
@@ -46,7 +46,7 @@ STP,4,inservice,shared,,STP-003
 SWZ,2,underway,,,SWZ-001
 SYC,3,inservice,,,SYC-002
 TCD,2,underway,,,TCD-001;TCD-002
-TGO,2,underway,,,TGO-001;TGO-002
+TGO,2,underway,,,TGO-008;TGO-001
 TUN,3,inservice,,,TUN-001;TUN-002
 TZA,no evidence,,,,
 UGA,3,inservice,,,UGA-004;UGA-005

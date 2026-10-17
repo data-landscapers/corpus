@@ -1,5 +1,5 @@
 iso3,stage,rule,hosted,terms,stage_sources
-AGO,unplaced,,,,
+AGO,2,underway,,,AGO-002;AGO-003
 BDI,2,underway,,,BDI-001
 BEN,2,underway,,,BEN-001
 BFA,4,inservice,national,,BFA-003;BFA-006
@@ -7,10 +7,10 @@ BWA,3,inservice,,,BWA-001
 CAF,no evidence,,,,
 CIV,2,underway,,,CIV-001
 CMR,4,inservice,national,,CMR-001
-COD,3,inservice,,,COD-001
+COD,4,inservice,national,,COD-002
 COG,4,inservice,national,,COG-006
 COM,4,inservice,national,,COM-002;COM-003
-CPV,unplaced,,,,
+CPV,4,inservice,national,,CPV-003
 DJI,unplaced,,,,
 DZA,4,inservice,national,,DZA-008;DZA-005
 EGY,3,inservice,,,EGY-001
@@ -28,7 +28,7 @@ LBY,3,inservice,,,LBY-001
 LSO,no evidence,,,,
 MAR,3,inservice,,,MAR-002
 MDG,no evidence,,,,
-MLI,unplaced,,,,
+MLI,2,underway,,,MLI-003
 MOZ,3,inservice,,,MOZ-001
 MRT,4,inservice,national,,MRT-003;MRT-001
 MUS,4,inservice,national,,MUS-001
@@ -45,7 +45,7 @@ SSD,2,underway,,,SSD-001
 STP,no evidence,,,,
 SWZ,4,inservice,national,,SWZ-001
 SYC,no evidence,,,,
-TCD,2,underway,,,TCD-002;TCD-001
+TCD,2,underway,,,TCD-002;TCD-003
 TGO,no evidence,,,,
 TUN,unplaced,,,,
 TZA,3,inservice,,,TZA-002;TZA-001

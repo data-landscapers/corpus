@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-09-nga-businessday-energy-costs-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Operators mix grid, gas, generators and solar and cite diesel cost; no secured feed, reserved supply, PUE figure or water use stated, and diesel is not said to be the main supply."
+}

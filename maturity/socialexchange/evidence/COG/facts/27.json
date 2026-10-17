@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-20-cog-jo-arrete-18503-registre-social-unique",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Article 8 of the joint arrete of 20 August 2024 says the registre social unique holds data drawn from the civil-status information systems and the unique identification number, among other sources.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Registre social unique",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The arrete states the registre social unique is an interoperable information system whose interoperability terms are set by separate texts, and it obliges social programmes to register beneficiaries served in it and share beneficiary information (articles 3, 17, 18).",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Registre social unique",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "centralised web platform",
+   "owner": "Ministry of Social Affairs with Ministry of Planning and Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

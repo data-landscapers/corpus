@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source held since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001;LSO-005",
+      "gaps": "No source held since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

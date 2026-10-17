@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-03-bfa-cybastion-esignature-training",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Cybastion says it is leading implementation of electronic signature through Burkina Faso's public key infrastructure, with the platform installed and about thirty people, including ANSSI staff, trained on it on 28-30 April 2025.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "national PKI electronic signature platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national PKI electronic signature platform",
+   "country_label": "Burkina Faso government PKI",
+   "class": "authentication",
+   "platform": "Cybastion",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

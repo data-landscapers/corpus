@@ -20,12 +20,12 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
-| 4 Operating | 9 |
+| 5 Leading | 12 |
+| 4 Operating | 8 |
 | 3 Established | 14 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 10 |
 
 ## Countries
@@ -35,6 +35,12 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 The reporting rate of the national health information system was published in 2025.
 
 - The poster states report completeness rose from 52% in 2020 to over 85% in 2025 ([source, 2025](https://community.dhis2.org/t/dhis2-pour-la-reconstruction-du-snis-cas-de-la-rca/72669)).
+
+### DR Congo: 5 Leading
+
+The reporting rate of the national health information system was published in 2024.
+
+- The analysis gives DHIS2 reporting completeness rising to 99% in 2024, with about 90% for six key indicators ([source, 2024](https://data.gffportal.org/sites/default/files/2025-09/DRC--COUNTDOWN.pdf)).
 
 ### Namibia: 5 Leading
 
@@ -107,12 +113,6 @@ The national health information system was linked to another health system in 20
 The national health information system was linked to another health system in 2025; its reporting rate is not published.
 
 - The article says that since 2018 the national DHIS2 has integrated vaccination, epidemiological surveillance and community data flows, and that the mHealth community platform transmits data to it via HL7 FHIR APIs ([source, 2025-09-11](https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/)).
-
-### DR Congo: 4 Operating
-
-The national health information system was linked to another health system in 2024; its reporting rate is not published.
-
-- RTI states the eIDSR disease surveillance system is integrated in the national DHIS2 platform and connects directly to the national health information system ([source, 2024-07](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf)).
 
 ### Guinea-Bissau: 4 Operating
 
@@ -286,6 +286,13 @@ A health information system was under way in 2025; a national one in service is 
 - The Ministry of Health introduced the Ghana Health Information Management System (GHIMS) to manage health information across the country, replacing the failing LHIMS, per the Health Minister on 29 October 2025 ([source, 2025-10-29](https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/)).
 - The Vice President said LHIMS was deployed in about 481 health facilities (teaching, regional, district, polyclinic and psychiatric hospitals) across all 16 regions, with over 1,000 health centres deployment ongoing ([source, 2024-10-31](https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/)).
 
+### Kenya: 2 Nascent
+
+A health information system was under way in 2026; a national one in service is not on record.
+
+- The Ministry of Health says 6,427 public facilities, 38 DHA-certified private facilities and 38 of 518 faith-based facilities have completed migration from the SHA Provider Portal to the Health Management Information System ([source, 2026-10-06](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting)).
+- The Council of Governors committed to support Level 5 hospitals to complete their transition to the Health Management Information System, per the Ministry of Health ([source, 2026-10-05](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts)).
+
 ### Lesotho: 2 Nascent
 
 A health information system was under way in 2026; a national one in service is not on record.
@@ -297,12 +304,6 @@ A health information system was under way in 2026; a national one in service is 
 A health information system was under way in 2026; a national one in service is not on record.
 
 - Santé Mag reports the health ministry (MSPS) runs DHIS2 as its national platform for collecting, managing and analysing health data, used in several national public health programmes including HIV and tuberculosis, and is auditing it from July to September 2026 ([source, 2026-08-10](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/)).
-
-### Kenya: Unplaced
-
-Nothing held since 2023 names a national health information system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a health information system is under way or in service.
 
 ### Algeria: No evidence
 

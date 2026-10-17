@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-002",
-   "gaps": "No source held since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "5",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-007",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

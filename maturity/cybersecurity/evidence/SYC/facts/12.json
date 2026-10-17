@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-syc-nation-cert-sc-activated",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Seychelles Department of ICT launched the newly established National Computer Emergency Response Team (CERT-SC) as the country's frontline for monitoring cyber threats and coordinating national responses.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "CERT-SC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT-SC",
+   "country_label": "National Computer Emergency Response Team of Seychelles",
+   "class": "response",
+   "platform": "",
+   "owner": "Department of Information Communications Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

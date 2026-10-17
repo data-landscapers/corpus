@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-itweb-ethiopia-cross-border-payments-papss",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "ITWeb Africa reports Ethiopia has joined PAPSS, with NBE governor Eyob Tekalign saying the move deepens continental ties, enabling financial institutions in the country to connect for instant cross-border payments.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "Pan-African Payment and Settlement System",
+   "owner": "Afreximbank, African Union, AfCFTA Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

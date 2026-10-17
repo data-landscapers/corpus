@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-zaf-pmg-nw5645-south-africans-without-ids",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs says the department has a 2025/26 target to issue 2,750,000 Smart ID cards, and that Green ID books and Smart ID cards have been issued.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Smart ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

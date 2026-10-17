@@ -1,6 +1,6 @@
 # Authentication: authentication
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,12 +20,12 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 13 |
+| 5 Leading | 9 |
+| 4 Operating | 12 |
 | 3 Established | 15 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 7 |
 
 ## Countries
@@ -80,6 +80,12 @@ People could prove who they are online with a digital ID in 2026.
 People could prove who they are online with a digital ID in 2026.
 
 - The Sudanese Digital Identity application for smartphones lets a user hold an account and sign electronic transactions that are valid and binding with evidential power before courts ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
+
+### Tunisia: 5 Leading
+
+People could prove who they are online with a digital ID in 2026.
+
+- The playbook says the Mobile ID gives simple, secure access to digital services, and gives +450K Mobile IDs linked to a phone number and +35K linked to devices, with electronic signature of documents and contracts in the citizen portal ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Algeria: 4 Operating
 
@@ -153,13 +159,6 @@ Authentication was used across services in 2026; remote proof of identity by a d
 
 - The 147 connected institutions comprise 66 public and 81 private institutions, per the Ministry of Home Affairs ([source, 2026-04](https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/)).
 - The report names banks, insurance companies and social security institutions as using NIDA-connected e-KYC processes ([source, 2025](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905)).
-
-### Tunisia: 4 Operating
-
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
-
-- Khadamet, accessed via digital identity, reaches CNAM, CNSS, tax, traffic and civil-status services, per the ministry ([source, 2026-08-31](https://www.lapresse.tn/2026/08/31/services-administratifs-numeriques-lancement-de-lapplication-mobile-khadamet/)).
-- The author describes E-Houwiya as used in banking (onboarding, wire transfers) and in government portals, including E-CNAM, E-CNSS and Madrassati ([source, 2025-03](https://idtechwire.com/e-houwiya-a-milestone-in-tunisias-digital-transformation-roadmap-2025)).
 
 ### Uganda: 4 Operating
 
@@ -267,6 +266,13 @@ An authentication service was in use in 2026; use across services is not known.
 - The Reserve Bank of Zimbabwe shut down ghost, fictitious and duplicate mobile money wallets after linking the Civil Registry's national database with mobile financial services subscriber records ([source, 2026-09-10](https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/)).
 - The Justice Minister said the Zimbabwe Electoral Commission was already using the Registrar-General's national population database to verify voter information and clean up the voters' roll ([source, 2026-07-23](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
 
+### Burkina Faso: 2 Nascent
+
+An authentication or e-signature service was under way in 2025; none in service is on record.
+
+- Cybastion says it is leading implementation of electronic signature through Burkina Faso's public key infrastructure, with the platform installed and about thirty people, including ANSSI staff, trained on it on 28-30 April 2025 ([source, 2025-04-30](https://prod.cybastiontech.com/blog/newsroom-4/cybastion-trains-the-it-teams-of-the-government-of-burkina-faso-in-the-electronic-signature-system-348)).
+- Digital Magazine reports that ANSSI, with US firm Cybastion, opened a scoping workshop on 30 September 2024 for a national public key infrastructure with root and issuing certification authorities and remote electronic signature, implementation set for December 2025 ([source, 2024-09-30](https://digitalmagazine.bf/2024/10/04/le-burkina-faso-lance-un-projet-ambitieux-dinfrastructure-a-cles-publiques-pour-renforcer-la-securite-les-echanges-en-ligne/)).
+
 ### Chad: 2 Nascent
 
 An authentication or e-signature service was under way in 2026; none in service is on record.
@@ -325,12 +331,6 @@ An authentication or e-signature service was under way in 2026; none in service 
 An authentication or e-signature service was under way in 2024; none in service is on record.
 
 - Décret n° 2024-071/PR of 26 December 2024 requires telecom operators to record the ANID-issued NIU of every national and resident subscriber at SIM registration and to see the ANID identification card, giving existing operators 12 months from signature to comply; the text states no query of ANID's database ([source, 2024-12-26](https://jo.gouv.tg/sites/default/files/JO/JOS_23_04_2025%20-70%20E%20ANNEE%20N%C2%B044%20BIS.pdf)).
-
-### Burkina Faso: Unplaced
-
-Nothing held since 2023 names a digital authentication service, so no stage is set.
-
-Not established: Nothing held since October 2023 names a digital authentication service.
 
 ### Comoros: Unplaced
 

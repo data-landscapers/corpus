@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CMR-001,CMR,frombirth,number,underway,"MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service.",2024-12-23,day,NIPU,birthnumber,2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu,https://www.id4africa.com/2025/files/PS5A-S1-3-Cameroun_FINAL.pdf

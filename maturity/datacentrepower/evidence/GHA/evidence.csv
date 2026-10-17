@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GHA-001,GHA,power,supply,secured,"Onix Data Centres says its Accra facility, with Module 1 fully operational, takes its power from its own 2,200-panel solar farm (640 kW peak) by day and the grid at night, with 3 x 456 kW generators as backup.",2026,year,"Onix Data Centre, Accra",datacentre,2026-01-01-gha-onix-infrastructure-solar-farm-power-water,https://onixdatacentres.com/home/infrastructure/

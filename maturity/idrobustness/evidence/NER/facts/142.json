@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-27-ner-anp-e-passport-e-id-al-itissal",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "On 27 June 2025 Niger's Interior Ministry signed a memorandum with Libyan firm Al Itissal Al Jadeed for the issue of the Nigerien national identity card, introducing an electronic ID card (E-ID).",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "E-ID (carte nationale d'identité électronique)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-ID (carte nationale d'identité électronique)",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

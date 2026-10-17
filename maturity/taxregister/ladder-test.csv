@@ -1,7 +1,7 @@
 iso3,stage,register,shared,nationalid,stage_sources
 AGO,3,inservice,,,AGO-001
 BDI,3,inservice,,,BDI-001;BDI-002
-BEN,no evidence,,,,
+BEN,5,inservice,shared,linked,BEN-001
 BFA,4,inservice,shared,,BFA-002
 BWA,no evidence,,,,
 CAF,no evidence,,,,
@@ -15,7 +15,7 @@ DJI,no evidence,,,,
 DZA,3,inservice,,,DZA-002;DZA-001
 EGY,no evidence,,,,
 ERI,no evidence,,,,
-ETH,no evidence,,,,
+ETH,unplaced,,,,
 GAB,no evidence,,,,
 GHA,4,inservice,shared,,GHA-002
 GIN,no evidence,,,,
@@ -23,9 +23,9 @@ GMB,no evidence,,,,
 GNB,3,inservice,,,GNB-001;GNB-004
 GNQ,2,underway,,,GNQ-001
 KEN,3,inservice,,,KEN-001
-LBR,no evidence,,,,
+LBR,5,inservice,shared,linked,LBR-001
 LBY,no evidence,,,,
-LSO,no evidence,,,,
+LSO,3,inservice,,,LSO-001
 MAR,no evidence,,,,
 MDG,no evidence,,,,
 MLI,no evidence,,,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Ministry of the Interior says generalised use of the CNIBE card to authenticate users on the secure-document and civil-status issuance platforms was launched, and that the card is used in digital public services.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CNIBE",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

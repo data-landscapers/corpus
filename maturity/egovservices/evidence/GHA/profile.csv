@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,eservices,services,coverage,underway,2025-12-10,GHA-001;GHA-002,,
+GHA,eservices,services,coverage,inservice,2025-05,GHA-003,GHA-001=underway;GHA-002=underway,
 GHA,eservices,gateway,coverage,,,,,nothing held
 GHA,eservices,usage,coverage,,,,,nothing held

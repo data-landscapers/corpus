@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-MUS,Social-media user identity verification mechanism,Mauritius,,,"Ministry of Information Technology, Communication and Innovation",,2026-06-07-social-media-identity-verification-consultations-lexpress
-MUS,eKYC SIM re-registration (CHiLi),Mauritius,,ekyc.chili.mu,Mahanagar Telephone Mauritius Ltd (CHiLi),,2024-01-01 eKYC Steps for Mauritian Citizen (SIM Re-Registration)
+MUS,Social-media user identity verification mechanism,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2026-06-07-social-media-identity-verification-consultations-lexpress
+MUS,eKYC SIM re-registration (CHiLi),Mauritius,other,ekyc.chili.mu,Mahanagar Telephone Mauritius Ltd (CHiLi),,2024-01-01 eKYC Steps for Mauritian Citizen (SIM Re-Registration)
 MUS,MauPass,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",Levels 0-3,2024-01-01-maupass
 MUS,MoKloud digital safe,Mauritius,relying,,Government Online Centre,,2024-01-01-maupass
 MUS,Central Population Database,Mauritius,other,InfoHighway,Civil Status Division,,2024-01-01-maupass
@@ -11,12 +11,12 @@ MUS,InfoHighway,Mauritius,other,,"Ministry of Information Technology, Communicat
 MUS,MauPass,Mauritius,other,maupass.govmu.org,"Ministry of Information Technology, Communication and Innovation",,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
 MUS,KOREK! app,Mauritius,relying,Google Play; App Store; Huawei AppGallery,"Ministry of Information Technology, Communication and Innovation",,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
 MUS,Digital Driving Licence,Mauritius,relying,KOREK!,Mauritius Police Force,,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
-MUS,KOREK! Super App,Mauritius,,,"Ministry of Information Technology, Communication and Innovation",,2026-01-30-korek-super-app-soft-launch
+MUS,KOREK! Super App,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2026-01-30-korek-super-app-soft-launch
 MUS,SuperApp with Secure ID Wallet,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2025-10-02-superapp-digital-wallet-clarification-no-1
-MUS,MAUCAS,Mauritius,,national payment switch,,,2025-10-02-superapp-digital-wallet-clarification-no-1
+MUS,MAUCAS,Mauritius,other,national payment switch,,,2025-10-02-superapp-digital-wallet-clarification-no-1
 MUS,SuperApp with Secure ID Wallet,Mauritius,other,,"Ministry of Information Technology, Communication and Innovation",,2025-09-11-superapp-verifiable-credentials-rfi
 MUS,Mobile ID,Mauritius,other,,,,2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach
 MUS,National Identity Card,Mauritius,other,,,,2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach
 MUS,Mobile ID (MWA app),Mauritius,other,MWA digital wallet app,"Ministry of Information Technology, Communication and Innovation",,2024-09-06 Mauritius Launches Mobile ID Digital Wallet with Thales - First African ISO-standard Digital ID Wallet
 MUS,Mauritius Mobile ID,Mauritius,other,Mauritius mID Certification Authority System,Government of Mauritius,,2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)
-MUS,MauPass,Mauritius,,,,,2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)
+MUS,MauPass,Mauritius,other,,,,2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)

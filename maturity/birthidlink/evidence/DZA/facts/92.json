@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Ministry of the Interior says the central biometric document issuance system is connected to the national civil register (RNEC) and to AFIS, with the national identification number (NIN) as the key between the databases.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNEC",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

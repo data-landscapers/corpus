@@ -2,7 +2,7 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [The 5th national population and housing census (RGPH) was enumerated in November to December 2019, counting 20,505,155 residents](<https://www.insd.bf/fr/file-download/download/public/2073>). Two facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+**A census taken or in preparation.** [The 5th national population and housing census (RGPH) was enumerated in November to December 2019, counting 20,505,155 residents](<https://www.insd.bf/fr/file-download/download/public/2073>). [ONI's Director General cites the latest population and housing census, RGPH 2019, as the source of Burkina Faso's population aged 15 and over (12,477,149)](<https://oni.bf/antenne-centre-ouest/>). [ONI's director general cites the latest census, RGPH 2019, as the population base, giving 12,477,149 inhabitants aged 15 and over](<https://burkina24.com/2024/06/02/bientot-une-representation-de-loffice-national-didentification-oni-a-banfora/>). Four facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
 
 **Final results published.** [INSD published the key final results (definitive results) of the 5th RGPH in June 2022](<https://www.insd.bf/fr/file-download/download/public/2073>).
 

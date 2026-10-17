@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-17-mwi-nation-nrb-under-scrutiny",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Principal Secretary says the NRB has registered over 12 million citizens aged above 16 and issued them national IDs with a unique identification number to avoid double registration.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID",
+   "country_label": "National ID",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

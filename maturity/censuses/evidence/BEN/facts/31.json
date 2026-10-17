@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-23-ben-banouto-rgph5-cartographie-74-communes",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "INStaD director general Laurent Mahounou announced that main mapping for the fifth census (RGPH5) began on 19 March 2024 in the remaining 74 communes for two months, after a pilot in Cotonou, Cove and Parakou.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "RGPH5",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH5",
+   "country_label": "RGPH-5",
+   "class": "census",
+   "platform": "tablets",
+   "owner": "INStaD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

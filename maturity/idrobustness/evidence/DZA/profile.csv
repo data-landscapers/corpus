@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,robustness,system,coverage,inservice,2026-10-09,DZA-001;DZA-002;DZA-003;DZA-004;DZA-008;DZA-009,DZA-005=underway;DZA-006=underway;DZA-007=underway,
-DZA,robustness,biometric,coverage,checked,2010,DZA-010,,nothing dated since 2023-10-16
+DZA,robustness,system,coverage,inservice,2026-10-09,DZA-001;DZA-002;DZA-003;DZA-004;DZA-008;DZA-009;DZA-011;DZA-013;DZA-014,DZA-005=underway;DZA-006=underway;DZA-007=underway,
+DZA,robustness,biometric,coverage,checked,2026-05,DZA-010;DZA-012,,
 DZA,robustness,assurance,coverage,,,,,nothing held

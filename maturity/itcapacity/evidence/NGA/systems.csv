@@ -2,7 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,GBB paperless approval platform,GBB paperless approval platform,staff,,Galaxy Backbone,,2026-10-11-nga-thisday-galaxy-backbone-digitalised-mdas
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-07-28-nigeria-unveils-unified-government-service-platform
-NGA,Nigerian Digital Exchange,Nigerian Digital Exchange,,,,,2026-07-28-nigeria-unveils-unified-government-service-platform
+NGA,Nigerian Digital Exchange,Nigerian Digital Exchange,other,,,,2026-07-28-nigeria-unveils-unified-government-service-platform
 NGA,Smart Police Station,Smart Police Station,other,,Galaxy Backbone,,2026-06-11-galaxy-backbone-nptf-smart-police-station-gombe
 NGA,Galaxy Cloud Platform (GxCP),Galaxy Cloud Platform (GxCP),other,,Galaxy Backbone,,2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups
 NGA,1Government Cloud (1Gov),1Gov,staff,"sovereign cloud with GovDrive, GovECMS, GovMail, GovE-Sign",Galaxy Backbone Limited,federal,2025-09-10-1gov-cloud-galaxy-backbone
@@ -14,7 +14,8 @@ NGA,Data Recovery and Business Continuity center (Kano),Kano DC,other,Tier IV da
 NGA,Federal public service personnel and payroll system,payroll,staff,,Galaxy Backbone Limited,federal,2019-06-03-galaxy-backbone-mandate
 NGA,Government gateway and national portal,gateway,staff,,Galaxy Backbone Limited,federal,2019-06-03-galaxy-backbone-mandate
 NGA,SolutionLens,SolutionLens,staff,,Anambra State ICT Agency,state,2026-10-09-nga-anambrastate-ict-agency-information-ministry-deepen-digital-collaboration
-NGA,Galaxy Backbone Abuja national shared services data centre,,,,Galaxy Backbone,,2026-07-07 CBN's local data order puts Nigeria's data centres to test
+NGA,Galaxy Backbone Abuja national shared services data centre,,other,,Galaxy Backbone,,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,1-Gov.net,Nigeria,staff,,Galaxy Backbone,,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
 NGA,National Shared Services Centre,Nigeria,staff,,Galaxy Backbone,,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
 NGA,Huawei-built data centre (Nigeria),Nigeria,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+NGA,Galaxy Backbone,Galaxy Backbone,staff,,Federal Government of Nigeria,,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-01-cpv-boe-resolucao-55-2025-contrato-incm",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cartao Nacional de Identificacao (CNI)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "chip card",
+   "owner": "Ministerio da Justica / IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": "Resolution authorises spending on card production; it says the CNI chip supports authentication and qualified digital signature but states no authentication service in use."
+}

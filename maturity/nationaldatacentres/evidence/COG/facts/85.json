@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-02-cog-linkedin-arpce-datacenter-pointe-noire-pca",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "ARPCE, the state postal and electronic communications regulator, put its Tier 3+ Pointe-Noire data centre into service on 28 February 2024, stated as open to public administration and private sector data.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Datacenter",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Pointe-Noire Tier 3+ data centre is ARPCE's, the Congolese state regulator, housed in its departmental branch building.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

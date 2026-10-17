@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The WURI-Niger national coordinator says the project will set up an identification-data management authority that gives each person a unique number, with a birth-certificate campaign financed from early 2025.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "WURI-Niger project",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WURI-Niger project",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

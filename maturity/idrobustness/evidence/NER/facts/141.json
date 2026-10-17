@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-ner-lesahel-sg-interieur-visite-cni-passeports",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The interior ministry's secretary general says the contract with Alitisal Aljadeed for the biometric national ID card, with fingerprints, a unique identifier and an encrypted QR code, is 85% executed with equipment in place and cards not yet issued.",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "nouvelle carte nationale d'identité biométrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national biometric ID card and passport project",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "Al Itissal Al Jadeed (Alitisal Aljadeed) with a local partner",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

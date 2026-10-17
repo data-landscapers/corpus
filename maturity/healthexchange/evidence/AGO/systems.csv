@@ -2,7 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,eSurv Companion,Angola,other,,Ministry of Health (DNSP) with WHO,municipal and provincial,2026-04-28-angola-reforca-vigilancia-epidemiologica-com-formacao-digital
 AGO,DHIS2,Angola,other,DHIS2,MINSA,"national, more than 4,700 registered users",2026-04-07-dhis2-angola-parceria-hisp-uio-oms-integracao-sistema-informacao-sanitaria
 AGO,eLMIS,Angola,other,,MINSA,,2026-04-07-dhis2-angola-parceria-hisp-uio-oms-integracao-sistema-informacao-sanitaria
-AGO,Sistema de Informação Sanitária,Angola,,,MINSA,all levels,2026-04-06-ine-anuario-estatistico-sanitario-2023-minsa
+AGO,Sistema de Informação Sanitária,Angola,other,,MINSA,all levels,2026-04-06-ine-anuario-estatistico-sanitario-2023-minsa
 AGO,ReDIV,Angola,other,,Ministry of Health,national vaccination campaigns,2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2
 AGO,IOTA,Angola,other,,Ministry of Health,central warehouses to peripheral facilities,2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2
 AGO,DHIS2,Angola,other,DHIS2,Ministry of Health,national,2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2

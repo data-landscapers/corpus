@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Social Action",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 is listed as the ministry's health information platform, being moved to the SENUM data centre; national reporting, linkage and completeness are not stated."
+}

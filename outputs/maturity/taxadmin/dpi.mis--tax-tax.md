@@ -21,12 +21,12 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 11 |
+| 4 Operating | 12 |
 | 3 Established | 5 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 25 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -104,6 +104,12 @@ Taxes could be filed online and paid electronically in 2025; mandatory or majori
 Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
 
 - The Direction Générale des Impôts says its STT system lets taxpayers pay their taxes online and add their means of payment ([source, 2026-09-16](https://impots.gov.mr/DGI/teleservices.html)).
+
+### Morocco: 4 Operating
+
+Taxes could be filed online and paid electronically in 2024; mandatory or majority online filing is not known.
+
+- The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
 ### Sierra Leone: 4 Operating
 
@@ -195,6 +201,12 @@ An electronic tax system was under way in 2025; online filing is not on record.
 
 - The World Bank ISR (archived 26 Nov 2025) says the contract for the Integrated Tax Administration System was signed after the September 2025 mid-term review, with online filing by large taxpayers still at 0% awaiting ITAS implementation ([source, 2025-10](https://documents1.worldbank.org/curated/en/099112625052026899/pdf/P177298-a188364c-8fe9-4a23-a8d1-afb09ca7c17a.pdf)).
 
+### Tanzania: 2 Nascent
+
+An electronic tax system was under way in 2025; online filing is not on record.
+
+- The Daily News reports that the Tanzania Revenue Authority's Integrated Domestic Revenue Administration System (IDRAS) began operation in January 2025, with a first phase of vehicle registration and driver's licence systems launched in February 2025 ([source, 2025-02](https://dailynews.co.tz/tax-administration-driver-licence-goes-digital/)).
+
 ### Uganda: 2 Nascent
 
 An electronic tax system was under way in 2026; online filing is not on record.
@@ -285,12 +297,6 @@ Nothing held names online tax filing and payment or says there is none, so no st
 
 Not established: Nothing held says how taxes are filed and paid.
 
-### Morocco: No evidence
-
-Nothing held names online tax filing and payment or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes are filed and paid.
-
 ### Mozambique: No evidence
 
 Nothing held names online tax filing and payment or says there is none, so no stage is set.
@@ -340,12 +346,6 @@ Nothing held names online tax filing and payment or says there is none, so no st
 Not established: Nothing held says how taxes are filed and paid.
 
 ### Sudan: No evidence
-
-Nothing held names online tax filing and payment or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes are filed and paid.
-
-### Tanzania: No evidence
 
 Nothing held names online tax filing and payment or says there is none, so no stage is set.
 

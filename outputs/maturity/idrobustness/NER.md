@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [national biometric ID card and passport project](<https://www.lesahel.org/projet-des-nouveaux-passeports-et-cartes-biometriques-du-niger-le-secretaire-general-du-ministere-de-linterieur-visite-les-services-concernes-pour-apprecier-letat-de-mise-en-o/>); [WURI-Niger unique identifier pilot](<https://www.wuri.ne/etat-civil-wuri-lancement-officiel-des-operations-denregistrement-des-enfants-de-moins-de-5-ans/>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

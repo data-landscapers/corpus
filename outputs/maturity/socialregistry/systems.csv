@@ -38,11 +38,14 @@ CMR,Unified Social Registry of Cameroon (RESUC),Cameroon,social,,Ministry of Soc
 CMR,Adaptive Safety Nets and Economic Inclusion Project (ASNEIP),Cameroon,other,,MINEPAT,,2025-08-18-worldbank-asneip-additional-financing-project-paper
 COD,Registre Social Unique (RSU),RDC,social,,Comité de pilotage and Unité technique de gestion,,2025-12-04-rdc-decret-registre-social-unique
 COD,Registre Social Unique (RSU),RDC,social,,Ministère des Affaires sociales,,2025-07-27-adoption-decret-registre-social-unique-actualite
+COD,Registre Social Unique (RSU) / MIS-DRC (SIG RDC),Registre Social Unique,social,MIS-DRC web server (cloud) and Android app,"MINAS, UTG-RSU",,2026-07-19-cod-minas-registre-social-unique
+COD,SIG-RDC / Registre Social Unique,RDC,social,"mobile and web applications, physical and cloud servers","Ministere des Affaires Sociales, Actions Humanitaires et Solidarite Nationale",,2024-03-31-cod-ecomine-sig-registre-social-unique
 COG,Registre Social Unique (RSU),Congo,social,,"Ministry of Social Affairs, Solidarity and Humanitarian Action",,2026-04-14-registre-social-unique-congo-siege-approprie
 COG,social registry,Congo,social,,,,2025-12-22-world-bank-isr-10-social-protection-youth-productive-inclusion-p174178
 COG,Registre social unique (RSU),Congo,social,,"Ministry of Social Affairs, Solidarity and Humanitarian Action",,2026-01-29-congo-registre-social-unique-insuffisamment-connu
 COG,Registre général des bénéficiaires,Congo,other,,PSIPJ project unit,,2026-01-29-congo-registre-social-unique-insuffisamment-connu
 COG,Registre social unique,Congo,social,,Ministere des Affaires sociales,national,2026-01-16-talangai-documents-identite-menages-vulnerables
+COG,Registre social unique,Congo,social,centralised web platform,Ministry of Social Affairs with Ministry of Planning and Statistics,,2024-08-20-cog-jo-arrete-18503-registre-social-unique
 COM,Registre social unique (RSU),Comoros,social,,Direction generale de la protection sociale (Ministere de la Sante et de la Protection sociale),,2026-07-10-registre-social-unique-62000-households-worldbank-lagazette
 CPV,Cadastro Social Unico,Cadastro Social Unico,social,,Government of Cabo Verde,,2026-09-10-cpv-governo-onu-alinhamento-cadastro-social-unico
 CPV,Cadastro Social Unico (CSU),Cabo Verde,social,,Governo de Cabo Verde,municipal CSU services,2026-06-17-cabo-verde-apelo-registo-csu-zonas-climaticamente-vulneraveis
@@ -70,6 +73,7 @@ LBR,Liberia Household Social Registry (LHSR),Liberia,social,,"Ministry of Gender
 LBR,Management Information System (MIS),Liberia,other,,Liberia Social Safety Net Project,,2024-05-07-wb-liberia-household-social-registry
 LBY,Unified Social Registry,Libya,social,,Ministry of Social Affairs,,2025-06-23 Libya's PM Dabaiba approves Unified Social Registry project
 LBY,Unified Social Registry,Libya,social,,Ministry of Social Affairs,,2025-06-22-lana-dabaiba-approves-unified-social-registry
+LBY,Unified Social Registry,Libya,social,,Libyan government,,2023-10-28-lby-libyaherald-unified-social-registry-launch
 LSO,NISSA (National Information System for Social Assistance),Lesotho,social,,"Ministry of Gender, Youth and Social Development",,2024-01-01 Lesotho — RFP for NISSA social registry and MISSA
 LSO,MISSA (Management Information System for Social Assistance),Lesotho,other,"web-based, Microsoft platform with mobile app (earlier MIS)","Ministry of Gender, Youth and Social Development",,2024-01-01 Lesotho — RFP for NISSA social registry and MISSA
 LSO,Farmers Portal,Lesotho Farmers Portal,other,Joget DX Enterprise,"Ministry of Agriculture, Food Security and Nutrition",,2026-08-30-prnewswire-lesotho-launches-national-farmers-portal-giving-every-farmer
@@ -79,6 +83,8 @@ MAR,Registre social unifié,Morocco,social,,,,2026-10-12-mar-medias24-el-moudni-
 MAR,registre social unifié,Morocco,social,,,,2025-09-17-marocma-generalisation-protection-sociale-rnp-rsu
 MAR,Registre social unifié (RSU),Morocco,social,,Ministry of Interior,,2024-10-23-aujourdhui-extension-identifiant-digital-civil-social
 MAR,Registre national de la population (RNP),Morocco,other,,Ministry of Interior,,2024-10-23-aujourdhui-extension-identifiant-digital-civil-social
+MAR,Registre social unifié (RSU),Registre social unifié,social,,,,2026-07-19-mar-lematin-minhaty-bourse-massar-rsu
+MAR,Minhaty,Minhaty,other,,Ministries of Interior and National Education,,2026-07-19-mar-lematin-minhaty-bourse-massar-rsu
 MDG,Registre social unique (RSU),Madagascar,social,,Ministere de la Population et des Solidarites,,2026-09-10-mdg-newsmada-registre-social-unique-extension
 MDG,Registre social unique (RSU),Madagascar,social,,Ministere de la Population et des Solidarites,,2026-05-13-rsu-2-6-millions-menages-lexpress
 MDG,Registre Social Unique (RSU) / e-Fokontany,Madagascar,social,,PREA,,2026-02-06-prea-rsu-efokontany-comite-technique
@@ -99,6 +105,7 @@ MRT,BDS-MAC,Base de Données Spéciale des Ménages Pauvres et/ou Vulnérables A
 MRT,Programme National du Registre Social,Programme National du Registre Social,social,,,,2025-09-17-ami-conseil-ministres-decret-base-donnees-menages-catastrophes-registre-social
 MRT,Registre Social,Mauritania,social,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,TEKAVOUL,Mauritania,other,,Taazour,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
+MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MUS,Social Register of Mauritius,Mauritius,social,,,,2026-01-01-csg-income-allowance-faq
 MWI,Malawi Social Registry,Malawi,social,,Department of Poverty Reduction and Social Protection,,2026-06-23-giz-social-registry-dynamism-pilot
 MWI,Malawi Social Registry (MSR),Malawi,social,,"Poverty Reduction and Social Protection Division, Ministry of Finance",,2026-06-17-mwi-social-registry-tool-ministry
@@ -122,6 +129,7 @@ SDN,unified social registry (السجل الاجتماعي الموحد),Sudan,s
 SEN,ERP Pass,ERP Pass,other,,Ministry of Agriculture,,2026-10-10-sen-ledakarois-intrants-agricoles-la-distribution-passe-au-numerique-avec-l
 SEN,Registre national unique,Senegal,social,,DGPSN,,2025-10-07-anads-ansd-rnu-2025-enquete-mise-a-jour-extension
 SEN,Registre National Unique (RNU),Senegal,social,,,,2026-06-17-aps-rnu-extension-996194-menages
+SEN,Registre National Unique (RNU),RNU,social,"RNU-MIS (Java/Wildfly, SQL Server)",DGPSN,,2023-11-01-sen-dgpsn-registre-national-unique-interoperability
 SLE,Social Protection Registry for Integrated National Targeting (SPRINT),Sierra Leone,social,,National Commission for Social Action (NaCSA),,2026-05-08-sierra-leone-nacsa-statistics-sl-amended-mou-sprint
 SOM,Unified Social Registry,Somalia,social,,Ministry of Labor and Social Affairs,,2026-05-13-somalia-boost-you-additional-financing-project-paper
 SOM,Unified Social Registry,Somalia,social,,Ministry of Labor and Social Affairs,,2025-10-28-somalia-boost-you-approval-worldbank-press-release
@@ -147,6 +155,7 @@ TCD,Registre social unifié (RSU),Tchad,social,,INSEED,,2026-01-06-inseed-regist
 TGO,Personal and Household Social Register (RSPM),Togo,social,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-rspm-social-register
 TGO,Social Register of Individuals and Households (RSPM),Togo,social,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-presentation-missions
 TGO,Central National Biometric Identification Database,Togo,other,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-presentation-missions
+TGO,RSPM,Togo,social,,,,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange
 TUN,Registre national de l'identifiant de santé,Tunisia,other,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
 UGA,Karamoja Social Registry,Uganda,social,,,,2026-01-01-wfp-uganda-annual-country-report-2025
 UGA,National Single Registry,Uganda,social,,Office of the Prime Minister,,2026-01-01-wfp-uganda-annual-country-report-2025

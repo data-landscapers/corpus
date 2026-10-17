@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 TGO-001,TGO,power,pue,low,"The Lomé Data Centre's own home page states a PUE of 1.4 as its energy efficiency figure; the page gives no date for the figure, so the page's published date of 2025-09-24 is used.",2025-09-24,day,Lomé Data Center,datacentre,2025-09-24-lome-data-centre-home-page-en,https://lomedatacentre.tg/en/n-home-page-en/
+TGO-002,TGO,power,supply,secured,"Lomé Data Centre says it has a 2N electrical architecture with dual utility feeds from the national grid, with automatic transfer, plus diesel rotary UPS and fuel for several days.",2026,year,Lomé Data Centre,datacentre,2026-01-01-tgo-ldc-infrastructure,https://lomedatacentre.tg/en/infrastructure

@@ -1,13 +1,13 @@
 iso3,stage,roll,checked,linked,stage_sources
 AGO,5,inservice,open,linked,AGO-001
 BDI,3,inservice,,,BDI-002
-BEN,5,inservice,open,linked,BEN-003
+BEN,5,inservice,open,linked,BEN-003;BEN-006
 BFA,no evidence,,,,
 BWA,2,underway,,,BWA-001;BWA-002
 CAF,4,inservice,open,,CAF-001;CAF-003
 CIV,4,inservice,open,,CIV-002
 CMR,3,inservice,,,CMR-004;CMR-001
-COD,3,inservice,,,COD-001
+COD,3,inservice,,,COD-001;COD-002
 COG,no evidence,,,,
 COM,no evidence,,,,
 CPV,5,inservice,open,linked,CPV-004
@@ -25,14 +25,14 @@ GNQ,no evidence,,,,
 KEN,4,inservice,open,,KEN-001
 LBR,3,inservice,,,LBR-001
 LBY,2,underway,,,LBY-001
-LSO,no evidence,,,,
+LSO,unplaced,,,,
 MAR,no evidence,,,,
 MDG,2,underway,,,MDG-002
 MLI,3,inservice,,,MLI-001
 MOZ,no evidence,,,,
 MRT,no evidence,,,,
 MUS,no evidence,,,,
-MWI,4,inservice,open,,MWI-001
+MWI,5,inservice,open,linked,MWI-002
 NAM,3,inservice,,,NAM-002
 NER,no evidence,,,,
 NGA,5,inservice,open,linked,NGA-003

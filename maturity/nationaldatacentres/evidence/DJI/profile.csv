@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 DJI,national,centre,coverage,tier3,2024-11-26,DJI-003;DJI-006;DJI-011,DJI-007=service;DJI-014=service;DJI-008=service;DJI-009=service;DJI-001=service;DJI-013=service;DJI-002=service;DJI-005=service;DJI-010=service;DJI-004=service;DJI-012=service,
 DJI,national,owner,coverage,,,,,nothing held
-DJI,national,state,coverage,,,,,nothing held
+DJI,national,state,coverage,hosted,2023-11-14,DJI-015,,

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "two",
+   "fact": "Galaxy Backbone says its Kano data centre holds Uptime Institute Tier IV Certification of Constructed Facility, alongside its existing Uptime-certified Tier III data centre in Abuja, and encourages organisations to host and collocate with it.",
+   "as_of": "2024-06-28",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres (Kano, Abuja)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "Galaxy Backbone Kano data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Tier IV (constructed facility)"
+  },
+  {
+   "system": "Galaxy Backbone Abuja data centre",
+   "country_label": "Galaxy Backbone Abuja data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

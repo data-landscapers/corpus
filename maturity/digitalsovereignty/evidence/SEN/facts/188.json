@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The health ministry and the state company SENUM signed a framework convention under which SENUM is to host the ministry's application data, notably the shared patient file and DHIS2 data moved from LINODE, in the national data centre.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Datacenter national (SENUM SA)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datacenter national (SENUM SA)",
+   "country_label": "Datacenter national",
+   "class": "other",
+   "platform": "",
+   "owner": "SENUM SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

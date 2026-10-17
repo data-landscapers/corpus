@@ -22,11 +22,11 @@ The African Charter on the Values and Principles of Public Service and Administr
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 7 |
-| 3 Established | 14 |
+| 3 Established | 21 |
 | 2 Nascent | 4 |
-| 1 Absent | 2 |
-| Unplaced | 5 |
-| No evidence | 22 |
+| 1 Absent | 4 |
+| Unplaced | 3 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -65,7 +65,8 @@ Government staff built a system that went live in 2026; no career structure for 
 Government staff built a system that went live in 2026; no career structure for government IT staff is known.
 
 - The Government Service Portal, stated as developed by Galaxy Backbone in collaboration with the communications ministry and KOICA, was soft-launched on 28 July 2026 ([source, 2026-07-28](https://von.gov.ng/nigeria-unveils-unified-government-service-platform/)).
-- Galaxy Backbone, described as the Federal Government's digital infrastructure and shared services provider, delivers cloud, connectivity and shared platforms to ministries, departments and agencies ([source, 2026-08-04](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/)).
+- Galaxy Backbone's managing director said more than 30 federal ministries, departments and agencies have moved onto one government platform run by GBB for approving documents and memos paperlessly ([source, 2026-10-09](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/)).
+- Anambra State ICT Agency (ICTA) presented its upgraded SolutionLens platform and moved it into operational use by the state Ministry of Information, with a formal handover planned ([source, 2026-10-08](https://anambrastate.gov.ng/ict-agency-information-ministry-deepen-digital-collaboration-as-solutionlens-moves-into-operational-use/)).
 
 ### Senegal: 4 Operating
 
@@ -96,11 +97,36 @@ A government technology body runs systems for the rest of government by 2025; no
 
 - The Minister of Communications and Innovation said government services are currently housed at the Department of Shared Digital Services, which government intends to migrate to the new Bofinet data centre (document published 2025-11-25, no other date given) ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
 
+### Burundi: 3 Established
+
+A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
+
+- SETIC, the government ICT secretariat, lists as its services developing software and applications for public institutions, hosting national platforms, running a network operations centre and operating and maintaining the network and systems infrastructure of public institutions ([source, 2026-10-16](https://setic.gov.bi/?pages%2F10253095=)).
+
+### Congo: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- Congo's Agence de développement de l'économie numérique (Aden) is stated to ensure the technical management of the government's official web portal gouvernement.cg, per Les Dépêches de Brazzaville ([source, 2024-12-27](https://www.adiac-congo.com/content/numerique-laden-examine-ses-documents-cadres-161959)).
+
 ### Cote d'Ivoire: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
 
 - An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
+
+### Djibouti: 3 Established
+
+A government technology body runs systems for the rest of government by 2023; no in-house build is known since 2023.
+
+- The Council of Ministers examined a draft decree pricing the services ANSIE provides under agreement to public and parapublic institutions, including hosting, dedicated applications, technical assistance and network security support, and says ANSIE has offered such services since its creation ([source, 2023-11-14](https://www.presidence.dj/conseil-des-ministres/2023-11-14)).
+
+### Ethiopia: 3 Established
+
+A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
+
+- Ethiopian Business Review reports INSA says it has developed government systems, including the Ergamail email client deployed across federal institutions and the electronic tax system used by the Ethiopian Revenues and Customs Authority ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
+- INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
 
 ### Gabon: 3 Established
 
@@ -109,17 +135,37 @@ A government technology body runs systems for the rest of government by 2026; no
 - ANINF supports administrations including the government secretariat and exams directorate with the GED, document security and user support ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
 - The GED electronic document management platform was developed with ANINF's expertise, per Tech Africa News ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
 
+### Kenya: 3 Established
+
+A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
+
+- ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
+- Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers ([source, 2026-10-16](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)).
+
 ### Mali: 3 Established
 
 A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
 
 - L'Essor reports AGETIC, the state ICT agency, is progressively interconnecting all public and para-public services into the government Intranet, with 13 services integrated in a single-window portal, and managing 13,441 .ml domain names; the document gives no event date, so its published date is used ([source, 2025-12-30](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535)).
 
+### Mauritius: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- The Central Information Systems Division's Application Development Unit says it designs, develops, deploys and maintains applications for various ministries and government departments on the GOC Cloud ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
+- The Application Development Unit of the ministry's CISD says it fixes bugs and upgrades the applications it develops for ministries ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
+
 ### Mozambique: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
 
 - INAGE's service catalogue, retrieved 2026-08-08, lists server rental, application hosting, application development and government network connection (GovNET, MoRENet) as services for public bodies; the date is the retrieval date ([source, 2026-08-08](https://www.inage.gov.mz/?p=2697)).
+
+### Rwanda: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- The TYPO3 Association's FOSDEM 2024 slides state that a national functional and technical support center for the over 300 Rwandan government websites on the shared TYPO3 platform is operated by RISA ([source, 2024-02](https://archive.fosdem.org/2024/events/attachments/fosdem-2024-3730-collaborative-government-websites-standardization-for-digital-sovereignty-using-open-source-the-model-of-rwanda-and-the-govstack-global-initiative/slides/22785/Collaborative_Gov_Websites_-_FOSDEM_2024_1_EY4bKnz.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -133,6 +179,7 @@ A government technology body runs systems for the rest of government by 2025; no
 A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
 
 - The MoCTI Directorate of Technology, with a Software Development and Application Services Unit and a Data Science Unit, is stated to be mandated to support MDAs in planning, deploying and maintaining software, to build and maintain government-wide data infrastructure, and to direct delivery of e-Cabinet, e-Parliament and citizen portals; the page gives no date for the stated thing, so the published date is used ([source, 2024-04-17](https://mocti.gov.sl/directorate-of-technology/)).
+- The Ministry of Finance's DFMST, established in 2022, lists providing technical support to mission critical systems such as IFMIS and CSDRMS among its core functions ([source, 2026-10-16](https://mof.gov.sl/dfmst/)).
 
 ### South Africa: 3 Established
 
@@ -199,6 +246,12 @@ Government staff run or maintain systems by 2026; no body is known to serve the 
 
 - Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
 
+### Equatorial Guinea: 1 Absent
+
+A 2026 source says a government body relies on outside suppliers to run its systems.
+
+- The Vice-President is reported instructing state company GETESA to present a restructuring plan so its own staff progressively take over maintenance work, cutting costs of external contracting; the network's maintenance is thus currently contracted out ([source, 2026-07-03](https://www.guineaecuatorialpress.com/noticias/getesa_presenta_su_plan_de_accion_estrategico_2026-2030)).
+
 ### Eswatini: 1 Absent
 
 A 2026 source says a government body relies on outside suppliers to run its systems.
@@ -211,11 +264,11 @@ A 2025 source says a government body relies on outside suppliers to run its syst
 
 - The NIA's Acting Executive Secretary said on 21 September 2025 that the National Identification System relies on its PPP partner Margins ID Group for technical expertise, system maintenance and card production, and that NIA alone could not repair equipment quickly under government procurement rules ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
-### Djibouti: Unplaced
+### Namibia: 1 Absent
 
-No source held from 2023 or later says government staff run its systems, so no stage is set.
+A 2025 source says a government body relies on outside suppliers to run its systems.
 
-Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
+- The Ministry of Finance, through the Central Procurement Board, sought consultant firms to support, maintain and develop the Integrated Financial Management System for five years (EOI closing 30 July 2025) ([source, 2025-06-13](https://cpbn.com.na/index/bid/78)).
 
 ### Guinea: Unplaced
 
@@ -229,23 +282,11 @@ No source held from 2023 or later says government staff run its systems, so no s
 
 Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
 
-### Namibia: Unplaced
-
-No source held from 2023 or later says government staff run its systems, so no stage is set.
-
-Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
-
 ### South Sudan: Unplaced
 
 No source held from 2023 or later says government staff run its systems, so no stage is set.
 
 Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
-
-### Burundi: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Cameroon: No evidence
 
@@ -265,19 +306,7 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 
 Not established: Nothing held says who builds or runs the government's computer systems.
 
-### Congo: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
 ### DR Congo: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Equatorial Guinea: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 
@@ -289,19 +318,7 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 
 Not established: Nothing held says who builds or runs the government's computer systems.
 
-### Ethiopia: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
 ### Gambia: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Kenya: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 
@@ -331,12 +348,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 
 Not established: Nothing held says who builds or runs the government's computer systems.
 
-### Mauritius: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
 ### Morocco: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
@@ -344,12 +355,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Niger: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Rwanda: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

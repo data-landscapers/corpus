@@ -25,9 +25,12 @@ COD,HandiConnect,DRC,eservices,USSD,HandiConnect coalition with ministries and F
 COD,RDC-Pass,DRC,eservices,national digital identity platform with single login to e-government services,Government of the DRC (Ministry of Planning) with Trident Digital Tech DRC Africa SAS under a 20-year PPP,national,2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate
 COG,Portail e-Citizen,Congo,eservices,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,Identité numérique,Congo,other,open source solution,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,E-Bourses,E-Bourses,eservices,,Ministere du Budget with the education ministries,,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
+COG,ADEN online government services platform,portail numerique des services gouvernementaux,other,,ADEN with Regalli subsidiary,,2024-03-14-cog-wearetech-aden-regalli-portail
 COM,plateforme d'administration numérique (portail gouvernemental),Comoros,eservices,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
 COM,e-Bourse,Comoros,eservices,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
 COM,e-Msomo,Comoros,other,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,Carte de Vaccination Numérique et Portail Citoyen,Comoros digital vaccination card and citizen portal,other,,Ministère de la Santé et de la Protection Sociale,,2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance
 CPV,Portal de Justica,Cabo Verde,eservices,www.justica.gov.cv,Ministry of Justice,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Autentika,Cabo Verde,other,state authentication platform,Government of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Portal de Servicos Publicos Digitais Integrados do Estado,Cabo Verde,eservices,,Government of Cabo Verde,in development,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
@@ -48,16 +51,21 @@ EGY,Digital Egypt (منصة مصر الرقمية),EGY,eservices,,Ministry of Co
 EGY,biometric electronic-verification (digital identity) system,Egypt,other,telecom operator smartphone apps,Ministry of Communications and Information Technology,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
 EGY,منصة خدمات الرعاية الاجتماعية (digital.moss.gov.eg),Egypt,eservices,social-care services platform,Ministry of Social Solidarity,national,2026-08-29-egypte-solidarite-services-numeriques-familles-adoptives
 EGY,مصر الرقمية (Digital Egypt),Egypt,eservices,,,national,2026-09-30-egy-vetogate-digital-transformation-under-test
+ERI,Consular Affairs Processing System (CAPS),Eritrea,eservices,,Ministry of Foreign Affairs,,2024-09-24-eri-embassy-us-launch-caps-online-consular
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
+ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 GAB,Gabon Connect,Gabon,eservices,,"IKA Technology (developer), State",,2026-02-20-gabon-connect-single-digital-window
 GAB,MADIGIPAIE,Gabon,other,,Ministry of Economy and Finance,,2026-01-14-gabon-public-finance-egov-initiatives
 GAB,ANPI online company creation,Gabon,eservices,,Agence nationale de promotion des investissements,national,2025-10-07-gabon-egov-legal-framework
 GHA,Interior Ministry online digital services portal,Ghana,eservices,,Ministry of the Interior,,2025-12-11-interior-ministry-digital-services-portal-graphic
 GHA,Ghana.gov portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
 GHA,e-Payment portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
+GHA,Ghana.gov,Ghana.gov,eservices,,,,2025-05-27-gha-dial-adli-data-exchange-exemplars
+GHA,Citizens App,Citizens App,eservices,,,,2025-05-27-gha-dial-adli-data-exchange-exemplars
 GIN,e-Services,Guinea,eservices,national e-Services platform,Agence Nationale de Digitalisation de l'État (ANDE),national,2026-05-07-ande-deploiement-plateforme-nationale-e-services
 GMB,MYGOV - Digital Gambia Platform,The Gambia,eservices,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,Government Web Portal,The Gambia,other,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
+GNB,SYDONIA World,Guinea-Bissau,other,ASYCUDA,Direcção-Geral das Alfândegas,,2026-10-13-gnb-alfandegas-dga-bad-pagap-sydonia-world
 GNQ,Experta,Equatorial Guinea,other,e-government platform,CNIAPGE with Munitecnia,,2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services
 GNQ,Secure anti-corruption portal,Equatorial Guinea,other,web portal,CNIAPGE,,2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services
 GNQ,Digital platform to manage administrative files,Equatorial Guinea,other,,CNIAPGE,,2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services
@@ -69,11 +77,14 @@ KEN,eCitizen,Kenya,eservices,eCitizen,National Treasury,,2026-08-27-peopledaily-
 LBR,LRA eServices,Liberia,other,,Liberia Revenue Authority,,2026-04-07-liberia-lra-adjustment-goods-and-services-tax-rates
 LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
+LSO,RSL eServices (eForms),Lesotho,eservices,,Revenue Services Lesotho,,2026-10-16-lso-rsl-individual-taxpayer-registration-form
 MAR,Idarati,MAR,eservices,national portal,Ministry of Digital Transition and Administrative Reform,national,2026-09-18-mar-assahafa-idarati-portail-nouvelle-version
 MAR,Idarati X.0,MAR,eservices,meta-application with national digital wallet,Ministry of Digital Transition and Administration Reform,national,2026-02-12-wearetech-morocco-idarati-x0-egov-architecture
 MAR,Epolice.ma,MAR,eservices,DGSN portal,DGSN,national,2026-05-23-wearetech-morocco-digitizes-national-id-renewal
 MAR,cnie.ma,MAR,eservices,DGSN website,DGSN,national,2026-05-23-wearetech-morocco-digitizes-national-id-renewal
 MAR,Idarati,Morocco,eservices,national portal of administrative procedures,Ministry of Digital Transition and Administration Reform,national,2026-09-26-mar-hespress-digital-morocco-2030-rakmana
+MAR,Simpl,Morocco,other,web (J2EE),Direction generale des impots,,2024-09-03-mar-aujourdhui-dgi-simpl-e-services
+MAR,Education ministry candidate e-services,Morocco,eservices,,"Ministry of National Education, Preschool and Sports",,2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques
 MLI,Sigtas / E-Impot,Mali,other,DGI tax management system with teleservices module,Direction generale des impots,,2025-11-26-mali-dgi-recettes-electroniques
 MOZ,Portal do Cidadão,Mozambique,eservices,national citizen portal,ATDI,national,2026-09-04-mozambique-atdi-portal-do-cidadao-launch
 MOZ,Portal do Cidadão,Mozambique,eservices,national citizen portal,ATDI,national,2026-09-04-mznews-mozambique-portal-cidadao-atdi
@@ -112,12 +123,15 @@ NGA,F2,Nigeria,other,cBrain F2 case management,cBrain with Publica AI,federal,20
 NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,services.gov.ng,Galaxy Backbone,federal,2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal
 RWA,Irembo,Rwanda,eservices,online portal,Government of Rwanda with RwandaOnline Platform Ltd,national,2025-01-01-irembo-rwandan-government-e-service-portal
 RWA,Irembo,Rwanda,eservices,web and mobile,,,2026-09-04-internet-society-rwanda-digital-parenting-training-karongi
+RWA,IremboGov,IremboGov,eservices,,Irembo,,2025-05-27-gha-dial-adli-data-exchange-exemplars
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-10-01-sdn-alghad-baladna-new-commercial-legal-services-investment
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-01-01-baldna-e-government-services
 SEN,e-Senegal,Senegal,eservices,web portal,Presidency / Prime Minister,national,2026-03-27-biometricupdate-e-senegal-portal
 SEN,ETAX,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,MON ESPACE PERSO,Senegal,other,web platform,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,SEN-ETAFI,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
+SOM,Content Management System (CMS),Somalia,eservices,Typo3,Ministry of Communication and Technology,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
+SOM,High School Records (HSR),Somalia,eservices,Joget,Ministry of Education,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SSD,NCA e-Services Platform,South Sudan,eservices,,National Communication Authority,,2026-02-13-nca-eservices-platform-revenue-onecitizendaily
 SSD,Business Registration Service (BRS),South Sudan,eservices,,Ministry of Justice and Constitutional Affairs,,2025-01-01-business-registration-service-south-sudan
 SSD,eServices.gov.ss,South Sudan,eservices,,,,2025-01-01-business-registration-service-south-sudan
@@ -128,6 +142,7 @@ STP,Portal do Cidadão,São Tomé and Príncipe,eservices,,INIC,,2026-03-28-inic
 STP,National Citizen Portal,São Tomé and Príncipe,eservices,Ooru Digital,Government of São Tomé and Príncipe,,2026-03-31-india-mea-bilateral-brief-india-sao-tome-and-principe
 STP,National Digital Identity system,São Tomé and Príncipe,other,MOSIP,,,2026-03-31-india-mea-bilateral-brief-india-sao-tome-and-principe
 STP,citizen Portal and Mobile App,São Tomé and Príncipe,eservices,,INIC,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Centro Nacional de Dados (NDC),STP,other,,INIC,,2025-03-12-stp-bragatv-grupo-erre-resilient-data-centre
 SWZ,Government in Your Hand,Eswatini,eservices,,Ministry of ICT,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,Eswatini,other,,Royal Science and Technology Park,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
@@ -146,6 +161,8 @@ TGO,Smart Bridge,Togo,other,licensed from NITEC,Agence Togo Digital,,2024-06-20-
 TUN,E-Bawaba,Tunisia,eservices,,,,2026-03-09-telecomreviewafrica-north-africa-digital-generation
 TUN,Madrassati,Tunisia,other,,Ministry of Education,primary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique
 TUN,EduservPlus,Tunisia,other,,Ministry of Education,preparatory and secondary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique
+TUN,Portail Citoyen,e-bawaba.tn,eservices,,,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,e-bawaba,Tunisia,other,web portal,,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
 TZA,Ajira Portal,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,NeST,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states

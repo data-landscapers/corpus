@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,robustness,system,coverage,inservice,2026-05,CPV-001;CPV-002;CPV-003;CPV-004,,
+CPV,robustness,system,coverage,inservice,2026-05,CPV-001;CPV-002;CPV-003;CPV-004;CPV-005,,
 CPV,robustness,biometric,coverage,,,,,nothing held
 CPV,robustness,assurance,coverage,,,,,nothing held

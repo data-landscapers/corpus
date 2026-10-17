@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MDG,mTOMADY,Madagascar,exchange,,mTOMADY,,2025-10-07-mtomady-dhis2-interoperability
-MDG,DHIS2,Madagascar,,DHIS2,Ministry of Public Health,national,2025-10-07-mtomady-dhis2-interoperability
+MDG,DHIS2,Madagascar,other,DHIS2,Ministry of Public Health,national,2025-10-07-mtomady-dhis2-interoperability
 MDG,DHIS2 Tracker,Madagascar,other,DHIS2,Ministry of Public Health,"20 basic health centres and 54 private vaccination sites, Antananarivo-Renivohitra district",2026-08-01-who-dhis2-tracker-pilot-vaccination
 MDG,Vigimobile,Madagascar,other,,,national and regional pharmacovigilance focal points,2026-08-01-who-dhis2-tracker-pilot-vaccination
-MDG,DHIS2,Madagascar,,DHIS2,Ministry of Public Health,,2023-01-01-psrsis-2023-2027-msanp
+MDG,DHIS2,Madagascar,other,DHIS2,Ministry of Public Health,,2023-01-01-psrsis-2023-2027-msanp

@@ -16,18 +16,18 @@ CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national
 CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national,2025-01-01-cpv-2025-nosi-protocolos
 CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source
 CPV,RTPE,RTPE,other,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
-CPV,SIJ,SIJ,,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
-CPV,Consular Portal,Consular Portal,,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,SIJ,SIJ,,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,IGRP,IGRP,,open-source microservices framework,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,SIJ,SIJ,other,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
+CPV,Consular Portal,Consular Portal,other,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,SIJ,SIJ,other,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,IGRP,IGRP,other,open-source microservices framework,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
 CPV,NOSiAkademia,NOSiAkademia,other,,,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
 CPV,WebLab,WebLab,other,,,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,RTPE,RTPE,,State's Private Technological Network,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,Government Data Center,Government Data Center,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,IGRPWeb,IGRPWeb,,open-source framework,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,Consular Portal,Consular Portal,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,SNIAC,SNIAC,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,NOSi-CA,NOSi-CA,,PKI,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,RTPE,RTPE,other,State's Private Technological Network,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Government Data Center,Government Data Center,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,IGRPWeb,IGRPWeb,other,open-source framework,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Consular Portal,Consular Portal,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,SNIAC,SNIAC,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,NOSi-CA,NOSi-CA,other,PKI,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,NOSiAkademia,NOSiAkademia,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,WebLab,WebLab,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,NOSi Akademia,NOSi Akademia,other,,,,2026-03-11-cpv-governo-dispoe-10-milhoes-de-contos-para-investir-no-digital
@@ -38,14 +38,14 @@ CPV,"National Health System digitalisation (unique patient code, e-prescriptions
 CPV,SIMPle,Cabo Verde,other,,Government / municipalities,municipal,2025-11-11-cpv-governo-investe-125-mil-contos-na-modernizacao-digital-dos-municipios
 CPV,SOC and CSIRT of the RTPE,SOC e CSIRT da RTPE,staff,,"NOSi, E.P.E.",,2025-10-30-cabo-verde-nosi-lancamento-soc-e-csirt-rtpe
 CPV,SOC and CSIRT of the RTPE,SOC e CSIRT da RTPE,staff,,NOSi,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
-CPV,RTPE,Rede Tecnologica Privativa do Estado,,,,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
-CPV,"SIMple (update of SIM, Sistema de Informacao Municipal)",SIMple,,,,,2025-02-01-cpv-encontro-de-trabalho-no-ambito-da-implementacao-do-projeto-simple
+CPV,RTPE,Rede Tecnologica Privativa do Estado,other,,,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
+CPV,"SIMple (update of SIM, Sistema de Informacao Municipal)",SIMple,other,,,,2025-02-01-cpv-encontro-de-trabalho-no-ambito-da-implementacao-do-projeto-simple
 CPV,Open Data Portal,Cabo Verde,staff,,Ministry of State Modernization and Public Administration; NOSi,,2024-01-01-cabo-verde-commitment-cv0004
-CPV,NOSI data centre,NOSI,,,NOSI,,2024-01-01-cabo-verde-e-sao-tome-e-principe-assinam-protocolos-para-informatizar-a-justica
+CPV,NOSI data centre,NOSI,other,,NOSI,,2024-01-01-cabo-verde-e-sao-tome-e-principe-assinam-protocolos-para-informatizar-a-justica
 CPV,SIGE,Sistema Integrado de Gestão Escolar,staff,,Ministry of Education; built by NOSi,,2019-02-01-cabo-verde-minedu-sige-sistema-integrado-gestao-escolar
 CPV,National data center / eGovernment platform,Cabo Verde,other,Huawei eGovernment cloud,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,IGRP,Cabo Verde,staff,application development platform,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
-CPV,Medical Information System (SIS),Cabo Verde,,,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,Medical Information System (SIS),Cabo Verde,other,,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,State Data Center (Achada Grande),Cabo Verde,other,,Government of Cabo Verde,,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
 CPV,Pan-African e-Network,Cabo Verde,other,fibre and satellite,TCIL and NOSi,,2010-07-29-cabo-verde-pan-african-e-network-inaugurado-na-praia
 CPV,SOC and CSIRT within RTPE,Cabo Verde national SOC and CSIRT,other,,,,2025-10-31 Cabo Verde launches national SOC and CSIRT

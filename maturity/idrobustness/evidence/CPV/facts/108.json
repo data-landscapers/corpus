@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-12-cpv-imij-sniac-sistema-pivot",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IMIJ states SNIAC has contributed to issuing about 631,720 national identity cards (CNI), 513,862 electronic passports and 14,235 residence permits since its implementation.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

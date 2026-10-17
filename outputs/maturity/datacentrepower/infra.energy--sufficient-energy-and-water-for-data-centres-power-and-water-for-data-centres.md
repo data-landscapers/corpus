@@ -23,10 +23,10 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 | 5 Leading | 1 |
 | 4 Operating | 0 |
 | 3 Established | 0 |
-| 2 Nascent | 4 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 46 |
+| Unplaced | 1 |
+| No evidence | 43 |
 
 ## Countries
 
@@ -38,11 +38,35 @@ A data centre on secured power by 2026, with a PUE of 1.6 or less and its water 
 - Teraco's CEO reported an average annual power usage effectiveness of 1.43 for 2025 across its South African data centres (eight data centres on five campuses) ([source, 2025](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb)).
 - Equinix South Africa's MD states its local facilities' closed-loop cooling maintains an average water usage effectiveness of 0.1 L/kWh; the document gives no date for the figure, so the published date 2026-08-28 is used ([source, 2026-08-28](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb)).
 
+### Algeria: 2 Nascent
+
+A data centre on a secured power supply by 2026; no power set aside for data centres is known.
+
+- Le Jeune Indépendant says the centre is connected to several energy sources, beyond its batteries and standby generators, with fully redundant power ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
+
+### Benin: 2 Nascent
+
+A data centre on a secured power supply by 2026; no power set aside for data centres is known.
+
+- CIO Mag reports Benin's data centres run on dual power feeds from the SBEE, plus standby generators ([source, 2026-04-14](https://cio-mag.com/datacenters-et-energie-lequation-de-la-transformation-numerique/)).
+
+### Ethiopia: 2 Nascent
+
+A data centre on a secured power supply by 2025; no power set aside for data centres is known.
+
+- Raxio's data sheet says the ET1 data centre in Addis Ababa takes a 33kV utility supply directly fed from the nearest substation, with 2N power redundancy and 72 hours of on-site fuel ([source, 2025-04](https://www.raxiogroup.com/wp-content/uploads/2025/04/RAX016-4-Data-Sheet-SITE-ET1-v2.pdf)).
+
 ### Gabon: 2 Nascent
 
 A data centre on a secured power supply by 2026; no power set aside for data centres is known.
 
 - Officials said a photovoltaic power plant provides nearly 22% of the energy of Gabon's sovereign data centre, inaugurated by the president, which also runs on a 15kV main line with N+1 backup units ([source, 2026-07-08](https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz)).
+
+### Ghana: 2 Nascent
+
+A data centre on a secured power supply by 2026; no power set aside for data centres is known.
+
+- Onix Data Centres says its Accra facility, with Module 1 fully operational, takes its power from its own 2,200-panel solar farm (640 kW peak) by day and the grid at night, with 3 x 456 kW generators as backup ([source, 2026](https://onixdatacentres.com/home/infrastructure/)).
 
 ### Kenya: 2 Nascent
 
@@ -62,11 +86,11 @@ A data centre on a secured power supply by 2026; no power set aside for data cen
 
 - Raxio's own specification page says the MZ1 data centre in Matola takes a 15 kV utility supply fed directly from the nearest substation with N+N redundancy, with 2N power distribution from MV transformer to rack PDU and 48 hours of on-site fuel; the page has no date, so the capture date 2026-08-08 is used ([source, 2026-08-08](https://www.raxiogroup.com/data-centres/mozambique/)).
 
-### Ethiopia: Unplaced
+### Togo: 2 Nascent
 
-No data centre is known to have a secured power supply, so no stage is set.
+A data centre on a secured power supply by 2026; no power set aside for data centres is known.
 
-Not established: No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.
+- Lomé Data Centre says it has a 2N electrical architecture with dual utility feeds from the national grid, with automatic transfer, plus diesel rotary UPS and fuel for several days ([source, 2026](https://lomedatacentre.tg/en/infrastructure)).
 
 ### Nigeria: Unplaced
 
@@ -74,25 +98,7 @@ No data centre is known to have a secured power supply, so no stage is set.
 
 Not established: No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.
 
-### Togo: Unplaced
-
-No data centre is known to have a secured power supply, so no stage is set.
-
-Not established: No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.
-
-### Algeria: No evidence
-
-Nothing held says how data centres get power or water, so no stage is set.
-
-Not established: Nothing held says how any data centre is supplied with power or water.
-
 ### Angola: No evidence
-
-Nothing held says how data centres get power or water, so no stage is set.
-
-Not established: Nothing held says how any data centre is supplied with power or water.
-
-### Benin: No evidence
 
 Nothing held says how data centres get power or water, so no stage is set.
 
@@ -195,12 +201,6 @@ Nothing held says how data centres get power or water, so no stage is set.
 Not established: Nothing held says how any data centre is supplied with power or water.
 
 ### Gambia: No evidence
-
-Nothing held says how data centres get power or water, so no stage is set.
-
-Not established: Nothing held says how any data centre is supplied with power or water.
-
-### Ghana: No evidence
 
 Nothing held says how data centres get power or water, so no stage is set.
 

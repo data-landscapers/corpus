@@ -20,10 +20,10 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Leading | 10 |
 | 4 Operating | 1 |
-| 3 Established | 7 |
-| 2 Nascent | 16 |
+| 3 Established | 8 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 19 |
@@ -67,6 +67,12 @@ Land searches or registrations could be made online in 2026.
 Land searches or registrations could be made online in 2026.
 
 - A Ruvuma assistant commissioner for lands said citizens can sign their title deed through e-Ardhi while in any region, without travelling to the region where the service originated ([source, 2026-09-20](https://www.tanzaniainvest.com/construction/e-ardhi-digital-land-system)).
+
+### Togo: 5 Leading
+
+Land searches or registrations could be made online in 2024.
+
+- Togo-Presse reports that, through an online portal, citizens can now carry out all Cadastre procedures for a land title remotely, and that a unique parcel number (NUP) has been introduced ([source, 2024](https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/)).
 
 ### Uganda: 5 Leading
 
@@ -134,6 +140,12 @@ A digital land register was in service for part of the country in 2026; national
 A digital land register was in service for part of the country in 2025; national coverage is not known.
 
 - The World Bank reports 351,899 occupancy titles with NICAD recorded in the Land Information System at 21 November 2025, and zero municipal land bureaux yet equipped and operational with LIS access ([source, 2025-11-21](https://documents1.worldbank.org/curated/en/099122125122530674/pdf/P172422-ab8683a5-9e88-4886-8cab-aa59ce4e604d.pdf)).
+
+### Tunisia: 3 Established
+
+A digital land register was in service for part of the country in 2024; national coverage is not known.
+
+- The deck lists land property among sectors with generalised information systems, which remain siloed ([source, 2024-05](https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf)).
 
 ### Algeria: 2 Nascent
 
@@ -227,19 +239,6 @@ Digital land registration was under way in 2026; none in service is on record.
 
 - Central Equatoria's Minister of Information says engineers are developing a unified digital land registration system integrating applications, registration and transfers, beginning with Juba County ([source, 2026-07-08](https://www.onecitizendaily.com/index.php/2026/07/08/central-equatoria-state-advances-digital-land-registration/)).
 - IOM says the EU-funded Catalysing Durable Solutions programme, begun 1 January 2026 in Rubkona and Yei River counties, will advance the digitalization of land records ([source, 2026-02-20](https://southsudan.iom.int/news/eu-iom-launch-new-initiative-help-displacement-affected-communities-rebuild-south-sudan)).
-
-### Togo: 2 Nascent
-
-Digital land registration was under way in 2025; none in service is on record.
-
-- The OTR says it is georeferencing land titles created before 2007, with surveyors measuring parcels and the data entered into a digital database, to modernise the cadastre; the Directorate of Cadastre and Land Conservation leads the operation ([source, 2025-11-19](https://www.otr.tg/index.php/fr/1544-georeferencement-des-titres-fonciers-une-revolution-pour-la-securite-et-la-transparence-au-togo.html)).
-
-### Tunisia: 2 Nascent
-
-Digital land registration was under way in 2025; none in service is on record.
-
-- The OTC's Géoportail cadastral project page lists uniform cadastral databases and the cadastral system as in progress (en cours), with digitisation of maps and registers ([source, 2025](https://www.otc.nat.tn/geoportail)).
-- The Minister of State Domains and Land Affairs said the ministry has completed digitisation of over 10,000 state properties into a unified database, with the Office of Topography and Cadastre and the National Remote Sensing Centre ([source, 2025-11-13](https://www.webdo.tn/fr/actualite/national/biens-publics-4000-proprietes-detrangers-regularisees-et-une-carte-fonciere-numerique-en-preparation/387548/)).
 
 ### Cote d'Ivoire: Unplaced
 

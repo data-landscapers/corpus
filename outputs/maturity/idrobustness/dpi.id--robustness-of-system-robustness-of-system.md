@@ -21,12 +21,12 @@ The African Union's interoperability framework asks that a national ID system ha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 10 |
-| 3 Established | 39 |
-| 2 Nascent | 2 |
+| 4 Operating | 11 |
+| 3 Established | 40 |
+| 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -41,6 +41,12 @@ The national ID system's security was certified or audited in 2026.
 The national ID system's security was certified or audited in 2026.
 
 - Identities are classified into three trust levels by strength of verification: basic, intermediate, and high with in-person biometric verification ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
+
+### Algeria: 4 Operating
+
+The national ID system checked people by biometrics in 2026; no certification or audit is known.
+
+- The Ministry of the Interior says delivery of identity and travel documents is conditional on fingerprint matching and that the issuance system is connected to AFIS for fingerprint identification ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 
 ### Djibouti: 4 Operating
 
@@ -103,13 +109,6 @@ The national ID system checked people by biometrics in 2026; no certification or
 
 - NIRA deduplicated multiple biometric databases during the migration and found about 200,000 duplicates over about seven months ([source, 2026-02-19](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids)).
 
-### Algeria: 3 Established
-
-The national ID system was issuing unique numbers in 2026; biometric checks are not known.
-
-- Citizens holding the national digital identity issued by the Haut Commissariat a la Numerisation can now access the WADHIFATI platform without a separate account ([source, 2026-08-12](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/)).
-- El Moudjahid reports the vehicle-registration file requires copies of the biometric national identity card of both parties, so a biometric national ID card is in service ([source, 2026-04-05](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065)).
-
 ### Angola: 3 Established
 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
@@ -143,14 +142,14 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
 
 - The Yaounde 5 mayor handed out 4,000 free national identity cards on 27 July 2026, after DGSN police officers worked on site to clear double-identity cases some people had been blocked by for over fifteen years ([source, 2026-07-27](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/)).
-- Issuance of the new biometric national ID card, with an embedded chip, began on 3 March 2025 after pre-enrolment from 17 February and biometric capture from 24 February; applicants report collecting cards within about 48 hours ([source, 2025-03-03](https://www.biometricupdate.com/202503/cameroonians-ecstatic-as-issuance-of-new-national-id-card-takes-off)).
+- VOA Afrique reports that production of the new biometric national ID cards within 48 hours is effective in Cameroon, with the first applicants having received their cards, under a presidential decree of 28 February 2025 ([source, 2025-03-09](https://www.voaafrique.com/a/les-cartes-d-identit%C3%A9-biom%C3%A9triques-d%C3%A9livr%C3%A9es-en-48h-d%C3%A9sormais-au-cameroun-/8004266.html)).
 
 ### Cape Verde: 3 Established
 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
 
 - Biometric Update reports Cabo Verde issues a Unique Identification Number to every child born, within a national ID system its presenters call the backbone of future authentication ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
-- The Autentika portal says citizens authenticate to services with the smart-card Cartão Nacional de Identificação (CNI) and its PIN, and that the CNI is activated in person at registry offices, the Casa do Cidadão and consulates ([source, 2026-01-01](https://portal-autentika.gov.cv/)).
+- IMIJ states SNIAC has contributed to issuing about 631,720 national identity cards (CNI), 513,862 electronic passports and 14,235 residence permits since its implementation ([source, 2026-01-12](https://imij.gov.cv/noticias/cms-noticia-24)).
 
 ### Central African Republic: 3 Established
 
@@ -184,8 +183,14 @@ The national ID system was issuing unique numbers in 2025; biometric checks are 
 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
 
+- ONECI manages the RNPP and assigns the national identification number, per the PARAE coordinator ([source, 2026-10-05](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/)).
 - ONECI enrols applicants and issues the national identity card, with a stamp bought online, enrolment at an approved centre and a notification to collect the produced card ([source, 2026-08-03](https://www.linfodrome.com/societe/124119-grand-bassam-le-calvaire-des-demandeurs-de-la-carte-nationale-d-identite)).
-- The RNPP holds citizens' biometric and civil data and assigns each person a national identification number (NNI), according to the article ([source, 2026-07-30](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/)).
+
+### DR Congo: 3 Established
+
+The national ID system was issuing unique numbers in 2024; biometric checks are not known.
+
+- ONIP's legal expert described the FGP as holding biographic and biometric identity data and as the single source for producing all secure titles and documents ([source, 2024-08-09](https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/)).
 
 ### Egypt: 3 Established
 
@@ -218,8 +223,8 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
 
-- Fayda is a requirement for opening new bank accounts and customers hold Fayda numbers, with the National ID Programme enrolling people at branches, per Birr Metrics ([source, 2026-09-16](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/)).
-- The National ID Program's own page lists the documents accepted for Fayda registration, including a witness route through an already registered resident and a USSD line 9779 ([source, 2026-09-07](https://id.gov.et/proof)).
+- Fayda, launched at scale in 2023, has recorded more than 52 million registrations and over 208 million eKYC verifications as of 9 October 2026 ([source, 2026-10-09](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)).
+- Fayda has registered more than 51 million citizens, issued nearly 14 million printed cards and integrated about 150 institutions, each person assigned a unique identification number (Addis Fortune) ([source, 2026-10-03](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)).
 
 ### Gabon: 3 Established
 
@@ -261,6 +266,7 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 The national ID system was issuing unique numbers in 2025; biometric checks are not known.
 
 - Co-Develop and FinMark Trust state that in a pilot Lesotho migrants in South Africa accessed formal remittance services using their national digital IDs, verified in real time across the border ([source, 2025-08-25](https://www.codevelop.fund/insights-1/strategic-collaboration-establishes-africas-first-cross-border-digital-identity-framework-enabling-financial-inclusion-for-millions)).
+- The Lesotho Times reports Pangea's court claim that the Ministry of Home Affairs kept relying on the national identification systems Pangea implemented through to the December 2024 termination ([source, 2024-12](https://lestimes.com/?p=88892)).
 
 ### Liberia: 3 Established
 
@@ -275,6 +281,13 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 
 - Malawi's national identity system contains information on more than 13.5 million registered people, including names, photographs and fingerprints, per current reporting cited by the column ([source, 2026-09](https://www.maravipost.com/malawis-digital-id-must-earn-public-trust/)).
 - More than 13.5 million Malawians are registered in the national ID system, with fingerprints and faces captured at registration, per Malawi24 ([source, 2026-09-26](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/)).
+
+### Mali: 3 Established
+
+The national ID system was issuing unique numbers in 2025; biometric checks are not known.
+
+- DNEC says more than 20 million NINA have been attributed to Malians through the CTDEC, from a biometric file built from civil status ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
+- The government says President Goita officially launched the new sovereign Mali Kura Biométrie system replacing the old RAVEC file on 13 February 2024, after the old system's blockage from April 2023 had slowed biometric ID card production ([source, 2024-02-13](https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec)).
 
 ### Mauritania: 3 Established
 
@@ -358,7 +371,7 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 The national ID system was issuing unique numbers in 2026; biometric checks are not known.
 
 - A ministry circular makes the unique identifier of the national digital identity system E-Houwiya the exclusive reference for new digital services, after a pilot dematerialising public hydraulic domain authorisations through it ([source, 2026-09-18](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/)).
-- The law states the national ID card, carrying a card number, is issued by Ministry of the Interior services after fingerprint and photo capture, with a new encrypted-chip card replacing earlier cards on renewal ([source, 2024-03-11](https://legislation-securite.tn/latest-laws/loi-organique-n-2024-22-du-11-mars-2024-modifiant-et-completant-la-loi-n-93-27-du-22-mars-1993-relative-a-la-carte-nationale-didentite/)).
+- The playbook describes the unique citizen identifier register as in operation, holding biographic data, civil status and CIN data, with a stated maturity of consolidation phase ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Zambia: 3 Established
 
@@ -379,16 +392,3 @@ A national ID system was under way in 2026; none in service is on record.
 
 - The FY2026/27 procurement plan of Burundi's finance and digital economy ministry lists recruiting a contractor to set up a national digital identity system, BIF 8,902,999,980 on the state budget, by international open tender ([source, 2026-08-25](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf)).
 - Burundi is setting up a national digital identity system that is to assign a unique identification number, backed by fingerprint and facial biometrics, according to We Are Tech Africa ([source, 2026-08-11](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens)).
-
-### DR Congo: 2 Nascent
-
-A national ID system was under way in 2026; none in service is on record.
-
-- Communication minister Patrick Muyaya said a population identification process is under way that will end in the grant of a national identity card ([source, 2026-09-30](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)).
-- Agence Ecofin reports the ministry presents RDC-PASS, launched in June by President Tshisekedi, as a tool to identify Congolese, now in a first operational phase since September 2026 with 50 enrolment agents trained and rollout to widen gradually ([source, 2026-09-28](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes)).
-
-### Mali: No evidence
-
-Nothing held names a national ID system or says there is none, so no stage is set.
-
-Not established: Nothing held names a national ID system, or says there is none.

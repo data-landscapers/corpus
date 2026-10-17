@@ -20,13 +20,13 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 6 |
 | 3 Established | 4 |
-| 2 Nascent | 31 |
+| 2 Nascent | 35 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 4 |
+| Unplaced | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -37,13 +37,21 @@ The national cyber body published a count of incidents handled for a period to 2
 - ASIN presented Benin's first national report on cybersecurity vulnerabilities and incidents, covering 2021 to 2024, which counts 878 vulnerabilities and incidents including malware infections (23), website hacking (12) and botnet attacks (7) ([source, 2024](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats)).
 - ASIN's director general says ASIN was created to set cybersecurity policies and check compliance, and that it collects data through its laboratories and its alert and incident response centre (article dated 2025-07-02, used as date) ([source, 2025-07-02](https://www.lanation.bj/numerique/marc-andre-loko-apres-le-lancement-du-rapport-sur-les-vulnerabilites-du-cyberspace-beninois-nous-disposons-aujourdhui-dun-dispositif-solide)).
 
+### Ethiopia: 5 Leading
+
+The national cyber body published a count of incidents handled for a period to 2026.
+
+- Hamid stated a count of more than 71,000 cyberattacks handled by Ethio-CERT for the Ethiopian year 2018 E.C ([source, 2026](https://techreviewafrica.com/news/7717)).
+- The proclamation identifies 12 critical infrastructure sectors (ICT, finance, transport, health, energy and others) and requires owners and operators to meet 18 cybersecurity obligations; the document gives no enactment date, so the publication date is used ([source, 2026-08-07](https://www.ena.et/web/eng/w/eng_9359494)).
+- INSA Director General Tigist Hamid said Ethio-CERT had identified, responded to and reported more than 71,000 cyberattacks in 2018 E.C ([source, 2026](https://techreviewafrica.com/news/7717)).
+
 ### Ghana: 5 Leading
 
 The national cyber body published a count of incidents handled for a period to 2026.
 
-- The national CERT, coordinated by the CSA, recorded 3,876 cybersecurity incidents between January and July 2026, about 47 percent online fraud, as cited at the NCSAM 2026 opening ([source, 2026-07](https://techreviewafrica.com/news/7574/x)).
-- The Minister said vulnerability assessments were completed for 25 Critical Information Infrastructure institutions in education, health, public administration, security and utilities ([source, 2026-09-07](https://www.myjoyonline.com/cybersecurity-authority-responds-to-3363-incidents-in-six-months-sam-george/)).
-- CERT-GH of the Cyber Security Authority responded to 3,363 cybersecurity incidents between January and June 2026, per the Communications Minister ([source, 2026-06](https://www.myjoyonline.com/cybersecurity-authority-responds-to-3363-incidents-in-six-months-sam-george/)).
+- The CSA presented counts of 4,938 incidents for January to September 2026 and 4,604 incidents for the whole of 2025, with GH¢209.7 million and GH¢22.5 million in reported losses ([source, 2026-09](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)).
+- The communications minister said Ghana has 13 designated Critical Information Infrastructure sectors and about 200 institutions identified as CII Owners, and that compliance is mandatory; event date not stated, published date used ([source, 2026-10-08](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/)).
+- Ghana's Cyber Security Authority recorded 4,938 cybersecurity incidents from January to September 2026, a CSA officer told an awareness-month engagement at Cape Coast ([source, 2026-09](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)).
 
 ### Kenya: 5 Leading
 
@@ -90,7 +98,7 @@ The national cyber body published a count of incidents handled for a period to 2
 Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
 
 - Lei n.º 9/26 requires operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services to register with the Centre within 180 days and notify significant incidents to CERT.ao, with deadlines to be set by separate instrument ([source, 2026-09-28](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/)).
-- Lei n.º 9/26 of 28 September 2026, in force on publication, creates a National Cybersecurity System comprising the Conselho Nacional de Cibersegurança, the Centro Nacional de Cibersegurança and a national CSIRT network; CERT.ao is the Centre's operational arm (PTI, 2 October 2026) ([source, 2026-09-28](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/)).
+- President Lourenço's State of the Nation address, as reported by PTI, refers to the approval of the National Cybersecurity Strategy and the structuring of a National Cybersecurity Centre ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -106,13 +114,6 @@ Critical information infrastructure designated by 2026; the national body publis
 - Article 4 of the ordonnance requires public institutions and operators of vital importance to inform ANCY of all attacks and intrusions; Article 3 also tasks ANCY with identifying such operators with ministries and sector regulators ([source, 2026-05-16](https://fr.scribd.com/document/1057825809/J-O-n-special-du-16-juin-2026-ANCY)).
 - The minister said a national cybersecurity agency (Agence nationale de cybersécurité) has been created by presidential ordinance to strengthen the national response to digital threats; the source gives no date for the ordinance, so the publication date is used ([source, 2026-09-29](https://depeche.cd/2026/09/29/rdc-augustin-kibassa-detaille-les-avancees-dun-an-dans-la-transformation-numerique/)).
 
-### Ethiopia: 4 Operating
-
-Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
-
-- The proclamation identifies 12 critical infrastructure sectors (ICT, finance, transport, health, energy and others) and requires owners and operators to meet 18 cybersecurity obligations; the document gives no enactment date, so the publication date is used ([source, 2026-08-07](https://www.ena.et/web/eng/w/eng_9359494)).
-- INSA, with its Director General speaking, is stated on 29 September 2026 to co-chair a newly established Financial Sector Cybersecurity Forum with the National Bank of Ethiopia, for threat sharing and coordinated incident response ([source, 2026-09-29](https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience)).
-
 ### Nigeria: 4 Operating
 
 Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
@@ -120,6 +121,13 @@ Critical information infrastructure designated by 2026; the national body publis
 - The NCC Executive Vice-Chairman and another speaker said at a 2026-08-11 workshop that telecommunications and fibre-optic infrastructure has been designated Critical National Information Infrastructure; the designation date is not given, so as_of is the statement date ([source, 2026-08-11](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/)).
 - NCC-CSIRT of the Nigerian Communications Commission issued a public security advisory on DDoS threats driven by botnet malware strains (Andromeda, BruteForceBot, Win.AsyncRAT, Gamut, StealRat) in the communications sector, rating damage and probability high ([source, 2026-09-30](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/426-ddos-threats-driven-by-malware-strains-targeting-the-communications-sector)).
 - The op-ed states the Nigeria Computer Emergency Response Team (ngCERT) provides a national incident-response function and publishes security advisories; no event date is given, so the document's published date is used ([source, 2026-09-26](https://www.thisdaylive.com/2026/09/26/would-nigeria-know-when-an-ai-agent-breaks-into-our-system/)).
+
+### Senegal: 4 Operating
+
+Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
+
+- The adopted law classes systems of national defence, public security, the courts, the prison administration and customs as critical information infrastructure by operation of law, and requires operators to report serious incidents to the Authority within 24 hours ([source, 2026-08-20](https://atlanticactu.com/cyberattaques-recurrentes-le-senegal-se-dote-dune-autorite-nationale-de-cybersecurite/)).
+- The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity ([source, 2026-10-07](https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/)).
 
 ### Uganda: 4 Operating
 
@@ -174,6 +182,12 @@ The country had a national cyber body by 2026; no incident response by a nationa
 
 - ANSSI's director-general presented the security mechanisms of the FasoSign e-signature platform at its launch on 15 September 2026, showing ANSSI in operation ([source, 2026-09-15](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/)).
 
+### Burundi: 2 Nascent
+
+The country had a cybersecurity strategy by 2026; no incident response by a national body is known since 2023.
+
+- Burundi's Council of Ministers adopted a National Cybersecurity Strategy on 14 October 2026, per We are Tech Africa ([source, 2026-10-14](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-pour-renforcer-les-capacites-de-cybersecurite)).
+
 ### Cape Verde: 2 Nascent
 
 The country had a national cyber body by 2025; no incident response by a national body is known since 2023.
@@ -221,6 +235,12 @@ The country had a cybersecurity strategy by 2026; no incident response by a nati
 The country had a national cyber body by 2024; no incident response by a national body is known since 2023.
 
 - Article 21 of Ley 7/2024 of 23 December 2024 creates the National Agency for Cybersecurity and Critical Infrastructures (ANCIC) as an autonomous public body under the Presidency of the Government, with functions to manage cybersecurity through coordinated CERT/CSIRT teams, issue alerts on cyber incidents and respond to them ([source, 2024-12-23](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia)).
+
+### Eswatini: 2 Nascent
+
+The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
+
+- ESCCOM's Cybersecurity Agency, called the National Cybersecurity Agency, is stated to operate nationally, with a Cybersecurity Incident Response Officer and a proof of concept of an incident response and information sharing platform (IRIS); the date 2026-10-05 is inferred by the source's metadata from a Monday event reported on 2026-10-08 ([source, 2026-10-05](https://swazibridge.com/article/index.php?iywtrre=eFWv)).
 
 ### Gabon: 2 Nascent
 
@@ -276,6 +296,12 @@ The country had a national cyber body by 2026; no incident response by a nationa
 
 - Mali Actuel reports the Council of Ministers of 10 June 2026 adopted the texts creating, organising and operating ANSSI, to ensure national cybersecurity and coordinate response to cyberattacks ([source, 2026-06-10](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/)).
 
+### Mauritania: 2 Nascent
+
+The country had a cybersecurity strategy by 2026; no incident response by a national body is known since 2023.
+
+- Ecofin says Mauritania implements a National Digital Security Strategy for 2022-2026 with six strategic objectives ([source, 2026-01-13](https://www.ecofinagency.com/news-digital/1301-51879-u-s-mauritania-discuss-cybersecurity-partnerships-and-capacity-building)).
+
 ### Mauritius: 2 Nascent
 
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
@@ -294,11 +320,17 @@ The country had a national cyber body by 2026; no incident response by a nationa
 
 - The National Cyber Security Authority is stated to have issued Application Software Security Directives on 16 April 2026, showing the body exists and operates ([source, 2026-04-16](https://cyber.gov.rw/updates/article/ncsa-publishes-application-software-security-directives/)).
 
-### Senegal: 2 Nascent
+### Sao Tome and Principe: 2 Nascent
 
-The country had a cybersecurity strategy by 2022; no incident response by a national body is known since 2023.
+The country had a cybersecurity strategy by 2025; no incident response by a national body is known since 2023.
 
-- The state digital operator's page says its cybersecurity actions follow the national cybersecurity strategy (SNC2022); the page carries no date, so the year is inferred from its 2022 footer and no strategy period is stated ([source, 2022](https://www.adie.sn/expertise/s%C3%A9curit%C3%A9)).
+- AGER states that implementation of the National Cybersecurity Strategy of Sao Tome and Principe (2024-2028) with its annexed action plan is under way, while submitting both to a 30-day public consultation; the page is undated and its date is the published date, 2025-09 ([source, 2025-09](https://www.ager.st/index.php/pt/actualidades/19-annonces/106-estrategia-nacional-de-ciberseguranca-de-sao-tome-e-principe)).
+
+### Seychelles: 2 Nascent
+
+The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
+
+- Seychelles Nation reports that the National Computer Emergency Response Team of Seychelles (CERT-SC) designed and delivered the third National Cyberdrill hosted by the Department of ICT, so the national team exists and operates; the date is the article's published date ([source, 2026-10-06](https://nation.sc/articles/32649/cert-sc-takes-the-lead-in-third-seychelles-national-cyberdrill)).
 
 ### Somalia: 2 Nascent
 
@@ -347,33 +379,3 @@ The country had a national cyber body by 2026; no incident response by a nationa
 No source held says whether the country has a cybersecurity strategy or a national cyber body, so no stage is set.
 
 Not established: No source held says the country adopted a cybersecurity strategy or created a national cyber body, or that it has neither.
-
-### Mauritania: Unplaced
-
-No source held says whether the country has a cybersecurity strategy or a national cyber body, so no stage is set.
-
-Not established: No source held says the country adopted a cybersecurity strategy or created a national cyber body, or that it has neither.
-
-### Burundi: No evidence
-
-Nothing held says whether the country has a national cyber response, so no stage is set.
-
-Not established: Nothing held says whether the country has a cybersecurity strategy or a national cyber body.
-
-### Eswatini: No evidence
-
-Nothing held says whether the country has a national cyber response, so no stage is set.
-
-Not established: Nothing held says whether the country has a cybersecurity strategy or a national cyber body.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held says whether the country has a national cyber response, so no stage is set.
-
-Not established: Nothing held says whether the country has a cybersecurity strategy or a national cyber body.
-
-### Seychelles: No evidence
-
-Nothing held says whether the country has a national cyber response, so no stage is set.
-
-Not established: Nothing held says whether the country has a cybersecurity strategy or a national cyber body.

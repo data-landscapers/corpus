@@ -1,0 +1,4 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,4,AGO-011;AGO-010,Arrivals added AGO-011; stage 3 -> 4.
+2026-10-17,MWI,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,3,MWI-001,Arrivals added MWI-006; stage unchanged.
+2026-10-17,ZWE,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,3,ZWE-012,Arrivals added ZWE-039; stage unchanged.

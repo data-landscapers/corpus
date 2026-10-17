@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "no evidence",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "3",
+      "number": "inservice",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No source held since October 2023 says every registered birth across the country receives the number.",
+      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

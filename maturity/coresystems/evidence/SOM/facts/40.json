@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-30-som-dawan-payroll-linked-national-id-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Payroll System",
+   "country_label": "Government Payroll System",
+   "class": "other",
+   "platform": "",
+   "owner": "Office of the Accountant General",
+   "tiers": ""
+  }
+ ],
+ "note": "Payroll system is named but the document does not state it is in use across central government."
+}

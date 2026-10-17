@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Bosun Tijani commissioned the first tower of the National Universal Communications Access Programme (NUCAP) in Bende, Abia State, and said 3,700 towers will connect about 20 million unconnected Nigerians.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "National Universal Communications Access Programme (NUCAP)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Universal Communications Access Programme (NUCAP)",
+   "country_label": "Nigeria",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-30-lso-lestimes-nikuv-sues-govt-m39m",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Lesotho Times reports Pangea's court claim that the Ministry of Home Affairs kept relying on the national identification systems Pangea implemented through to the December 2024 termination.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "national identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

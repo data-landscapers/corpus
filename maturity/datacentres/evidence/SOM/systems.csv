@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,National Data Centre,National Data Centre,other,,Federal Government of Somalia (MoCT),government,2026-08-07-somalia-national-data-centre-plans
 SOM,National Data Center,National Data Center,other,,Ministry of Communications and Technology,government,2025-05-06-moct-national-data-center-nearing-completion
-SOM,Hormuud data centres,Hormuud Telecom data centres,,,Hormuud Telecom,,2024-12-09 Hormuud Telecom plans to build more green data centres
+SOM,Hormuud data centres,Hormuud Telecom data centres,other,,Hormuud Telecom,,2024-12-09 Hormuud Telecom plans to build more green data centres
 SOM,National Data Center,National Data Center,other,,Ministry of Communications and Technology,government,2024-04-28-moct-national-data-center-tour
 SOM,OADC Mogadishu data centre,,other,,Open Access Data Centres (WIOCC Group),,2021-11-25-verdant-capital-wiocc-usd-124m-equity-raise
 SOM,Birta Dheer Golis Telecom Data Center,Birta Dheer Golis Telecom Data Center,datacentre,,Golis Telecom,,2026-01-21-golis-birta-dheer-data-center
@@ -11,3 +11,5 @@ SOM,National Data Center,National Data Center,other,,Federal Ministry of Communi
 SOM,Somcable Submarine Network,Somcable Submarine Network,other,,Somcable,,2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route
 SOM,Wingu,Wingu,other,,Wingu (Djibouti Telecom a state joint-venture partner in Djibouti),,2026-06-11 Can Africa supply it's own digital infrastructure
 SOM,Hormuud local data centres,Hormuud Telecom data centres,other,,Hormuud Telecom,,2026-06-18-hormuud-anchors-somalia-digital-economy
+SOM,"Dalkom Somalia datacentre, Mogadishu",Somalia,datacentre,,Dalkom Somalia,,2026-10-16-som-dalkom-colocation-web-hosting-services
+SOM,"Hormuud Telecom data centres (11, 10 MW combined)",Somalia,other,,Hormuud Telecom,,2025-11-27-som-garowe-hormuud-oped-solar-data-centres

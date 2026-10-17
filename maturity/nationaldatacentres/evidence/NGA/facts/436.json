@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Technology Times reports Galaxy Backbone, a company owned by the Federal Government, operates a Tier 3 certified data centre in Abuja and sells hosting and colocation.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "Galaxy Backbone Tier 3 certified data centre, Abuja",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Technology Times reports Galaxy Backbone Limited is owned by the Federal Government of Nigeria and runs a Tier 3 data centre in Abuja.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "Galaxy Backbone Tier 3 certified data centre, Abuja",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone data centre, Abuja",
+   "country_label": "Galaxy Backbone data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Federal Government of Nigeria (Galaxy Backbone Limited)",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": ""
+}

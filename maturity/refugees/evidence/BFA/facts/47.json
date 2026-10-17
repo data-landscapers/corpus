@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-13-bfa-burkina24-anotel-cnib-carte-sim",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "ANOTEL, applying decree 2023-1721 of 15 December 2023, states that the refugee identity card and refugee attestation issued by CONAREF are the only documents accepted for refugees to buy a SIM card.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "CONAREF refugee card and attestation",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

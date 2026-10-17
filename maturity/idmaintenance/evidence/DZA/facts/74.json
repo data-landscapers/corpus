@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Ministry of the Interior says its own engineers administer the platforms for collecting and centrally processing identity and travel document data, which Algerian engineers developed.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Central document issuance system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "The Ministry of the Interior says its strategy was to act as integrator of solutions rather than buy turnkey ones, with the platforms administered by its engineers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Central document issuance system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Central document issuance system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

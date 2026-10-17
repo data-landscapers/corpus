@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-09-mar-lavieeco-plateforme-jisr-55-millions-operations",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The ADD says Jisr is used for data exchange in the unified social registry and the Tayssir family financial support programme.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Jisr",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jisr",
+   "country_label": "Maroc",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Agence de développement du digital (ADD)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

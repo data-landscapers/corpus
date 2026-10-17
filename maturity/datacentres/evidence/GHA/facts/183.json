@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-gha-onix-infrastructure-solar-farm-power-water",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Onix Data Centres says its Accra facility, with Module 1 fully operational, offers hot desks, office rental, cross connects and a meet-me room to business customers.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Onix Data Centre, Accra",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Onix Data Centres says its Accra facility is Tier IV certified by the Uptime Institute.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Onix Data Centre, Accra",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Data Centre",
+   "country_label": "Onix data centre, Accra",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix Data Centres",
+   "tiers": "Tier IV (claimed, Uptime Institute)"
+  }
+ ],
+ "note": "Only one facility named; cross connects to AWS and Azure are not a cloud region."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-17-mwi-nation-nrb-under-scrutiny",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The NRB, per its Principal Secretary, is the only department mandated to register births, deaths, marriages and citizens aged 16+ for national IDs, so one body holds both registers.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "National Registration Bureau",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

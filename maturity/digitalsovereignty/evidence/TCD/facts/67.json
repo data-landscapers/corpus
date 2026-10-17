@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Ecofin reports Chadian authorities say the PMICE forms part of a broader digital sovereignty strategy, with state control over fibre-optic networks and data storage capacity as a key lever, and that Phase I, including a National Data Center, was provisionally accepted on 2025-12-20.",
+   "as_of": "2025-12-20",
+   "date_precision": "day",
+   "system": "PMICE",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Center (PMICE Phase I)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

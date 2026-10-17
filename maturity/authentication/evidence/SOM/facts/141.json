@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-som-id4africa-somali-digital-identity-playbook",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Somalia says all banks are integrated to the NIRA platform and about 20 thousand ID verifications were made from September 2025, when NIRA ID became mandatory for opening and updating accounts.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "NIRA national ID platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIRA says 100+ services are integrated with the national ID, among them the Accountant General's online signature services, banks, telecoms SIM registration and the education, transport and civil service bodies.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "NIRA national ID platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA national ID platform",
+   "country_label": "NIRA national ID platform",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification and Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

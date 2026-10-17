@@ -68,11 +68,13 @@ EGY,Meeza,Egypt,revenue,card,,,2026-07-24-elwatan-instapay-mobile-wallets-54-mil
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,Electronic Payment and Collection Centre,Government Electronic Payment and Collection Centre,revenue,,Ministry of Finance,,2024-06-23-egy-ahram-epayment-collection-fy23-24
 ETH,Unified Government Payment Platform (UGPP),Ethiopia,revenue,EthSwitch,EthSwitch,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
 ETH,Unified Government Payment Platform,Ethiopia,revenue,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
 ETH,M-PESA Tax Payment Mini App,Ethiopia,revenue,M-PESA Super App,M-PESA Ethiopia,,2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region
 ETH,e-Gov / MESOB one-stop centres,Ethiopia,other,,,,2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030
 ETH,Federal Government Electronic Payment Directive 71/2020,Ethiopia,other,,Ministry of Finance,,2025-05-26-directive-1069-2025-mandatory-payment-acceptance
+ETH,Electronic Invoice Management System,Ethiopia,other,,INSA for the Ministry of Revenues,,2024-10-08-eth-insa-e-invoice-system
 GAB,e-tax,Gabon,revenue,e-tax.dgi.ga,Direction Générale des Impôts (DGI),,2025-08-18-gabon-etax-dgi-portal-launch
 GAB,Digitax Gabon,Gabon,other,,,,2025-08-18-gabon-etax-dgi-portal-launch
 GAB,Libreville municipal revenue digitalisation system,Gabon,revenue,,"Libreville city, Treasury",,2026-07-07-gabon-lunion-madigipaie-libreville
@@ -104,6 +106,7 @@ MAR,EFI,Morocco,revenue,DGI website,DGI,,2026-04-17-dgi-electronic-invoicing-rol
 MAR,"DGI electronic invoicing (UBL, real-time clearance)",Morocco,other,DGI platform,DGI,,2026-04-17-dgi-electronic-invoicing-rollout-idrissi-kaitouni
 MAR,Fatourati,Morocco,revenue,Fatourati,CMI,,2025-09-08-cmi-fatourati-collect-reglement-multicanal
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+MAR,Simpl,Morocco,revenue,web (J2EE),Direction generale des impots,,2024-09-03-mar-aujourdhui-dgi-simpl-e-services
 MDG,SAFI (Système d'Administration Fiscale Intégré),Madagascar,revenue,,Tax administration (DGI),,2025-09-19-safi-mise-en-production-moov-mg
 MDG,e-Facturation,Madagascar,other,central tax-administration platform with API links to approved third-party systems,Tax administration,pilot with large enterprises first,2025-08-08-e-facturation-numerique-2424-mg
 MDG,SIGRNF,Madagascar,revenue,mobile banking and mobile money,Ministere de l'Economie et des Finances,,2025-05-09-sigrnf-lancement-mef-gov-mg
@@ -114,6 +117,7 @@ MLI,Télépaiement,Mali,revenue,interbank bank-transfer exchange with Treasury a
 MLI,Sigtas,Mali,other,,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
 MLI,E-Impôt,Mali,revenue,,Direction Générale des Impôts,large and medium enterprises,2025-04-02-dgi-paiement-impots-voie-electronique
 MLI,digital payment in public services (Decree 2024-0429/PT-RM),Mali,revenue,mobile money and digital platforms,Ministry of Economy and Finance,,2024-07-23-mali-obligations-paiement-numerique-services-publics
+MLI,SIGTAS,Mali,other,,DGI,,2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MRT,Espace du contribuable / STT,Mauritania,revenue,DGI electronic tax-services platform,Direction Generale des Impots,,2026-07-30-mauritania-public-bodies-tax-compliance-guide-workshop

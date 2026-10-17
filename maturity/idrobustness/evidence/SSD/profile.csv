@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,robustness,system,coverage,inservice,2026-08-04,SSD-002;SSD-003;SSD-004;SSD-005;SSD-007,SSD-001=underway;SSD-006=underway,
+SSD,robustness,system,coverage,inservice,2026-08-04,SSD-002;SSD-003;SSD-004;SSD-005;SSD-007,SSD-001=underway;SSD-006=underway;SSD-008=none,
 SSD,robustness,biometric,coverage,,,,,nothing held
 SSD,robustness,assurance,coverage,,,,,nothing held

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,address,addressing,coverage,inservice,2026-06-29,GMB-002;GMB-006,GMB-003=underway;GMB-005=underway;GMB-001=underway,
+GMB,address,addressing,coverage,inservice,2026-06-29,GMB-002;GMB-006,GMB-003=underway;GMB-005=underway;GMB-001=underway;GMB-008=underway,
 GMB,address,national,coverage,,,,,nothing held
 GMB,address,used,coverage,used,2026-06-29,GMB-004;GMB-007,,

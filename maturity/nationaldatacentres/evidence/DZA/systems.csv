@@ -17,13 +17,14 @@ DZA,"AYRADE data centres (Algiers, Oran)",DZA,datacentre,,AYRADE,,2026-06-01-dza
 DZA,ADEX Technology data centre (Sidi Abdellah),ADEXCLOUD,datacentre,"ADEXCLOUD IaaS, S3 storage, ZIMAIL",ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
 DZA,ADEX data centre,DZA,datacentre,ADEXCLOUD,ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
 DZA,ICOSNET Data Center Oran,Data Center Oran,datacentre,"VMware, NSX, vSAN",ICOSNET,,2021-11-16-icosnet-data-center-oran-fiche-technique
-DZA,National cloud computing services of the Centre national algérien des services numériques,DZA,,national cloud,"State (run under the Haut commissariat à la numérisation, as the document names the centre)",,2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national
-DZA,"National data centre, El Mohammedia",DZA,,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
+DZA,National cloud computing services of the Centre national algérien des services numériques,DZA,other,national cloud,"State (run under the Haut commissariat à la numérisation, as the document names the centre)",,2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national
+DZA,"National data centre, El Mohammedia",DZA,other,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,"Data centre, Blida (under construction)",DZA,other,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,Sovereign cloud for public data (in preparation),DZA,other,sovereign cloud,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-05-national-centre-digital-services-inauguration-echorouk
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
-DZA,National Data Centre of ESI-Alger,DZA,,,"Ecole nationale supérieure d'informatique (ESI-Alger), under the Ministry of Higher Education",,2025-07-22-aps-baddari-centre-national-donnees-esi-preinscriptions
+DZA,National Data Centre of ESI-Alger,DZA,other,,"Ecole nationale supérieure d'informatique (ESI-Alger), under the Ministry of Higher Education",,2025-07-22-aps-baddari-centre-national-donnees-esi-preinscriptions
 DZA,"AI high-performance computing center, Oran",DZA,other,,State (Ministry of Post and Telecommunications laid foundation stone),,2025-03-17-ai-supercomputing-center-oran--wearetech
 DZA,Deuxième Centre national des données (Blida),DZA,other,,Haut-Commissariat à la numérisation (state),,2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida
+DZA,Centre national des services numériques,Algérie,datacentre,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques

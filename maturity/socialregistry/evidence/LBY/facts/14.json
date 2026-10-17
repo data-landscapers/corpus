@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-28-lby-libyaherald-unified-social-registry-launch",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "UNICEF Libya announced that the Tripoli-based government, with UN agencies, has launched the Unified Social Registry to identify and target those in need for social protection programmes.",
+   "as_of": "2023-10-23",
+   "date_precision": "day",
+   "system": "Unified Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry",
+   "country_label": "Libya",
+   "class": "social",
+   "platform": "",
+   "owner": "Libyan government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

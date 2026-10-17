@@ -2,7 +2,7 @@ iso3,stage,service,reach,remote,stage_sources
 AGO,3,inservice,,,AGO-003
 BDI,3,inservice,,,BDI-003;BDI-002
 BEN,4,inservice,several,,BEN-010;BEN-006
-BFA,unplaced,,,,
+BFA,2,underway,,,BFA-002;BFA-003
 BWA,3,inservice,,,BWA-003
 CAF,no evidence,,,,
 CIV,4,inservice,several,,CIV-005
@@ -35,7 +35,7 @@ MUS,5,inservice,several,wallet,MUS-006
 MWI,5,inservice,several,wallet,MWI-026;MWI-028
 NAM,3,inservice,,,NAM-005;NAM-001
 NER,2,underway,,,NER-001;NER-003
-NGA,4,inservice,several,,NGA-007;NGA-009
+NGA,4,inservice,several,,NGA-005;NGA-003
 RWA,4,inservice,several,,RWA-008
 SDN,5,inservice,several,wallet,SDN-012
 SEN,3,inservice,,,SEN-002;SEN-001
@@ -47,9 +47,9 @@ SWZ,3,inservice,,,SWZ-002
 SYC,3,inservice,,,SYC-002;SYC-004
 TCD,2,underway,,,TCD-001
 TGO,2,underway,,,TGO-001
-TUN,4,inservice,several,,TUN-014;TUN-007
+TUN,5,inservice,several,wallet,TUN-017
 TZA,4,inservice,several,,TZA-008;TZA-002
-UGA,4,inservice,several,,UGA-010;UGA-002
+UGA,4,inservice,several,,UGA-022;UGA-010
 ZAF,4,inservice,several,,ZAF-007;ZAF-013
 ZMB,3,inservice,,,ZMB-001
 ZWE,3,inservice,,,ZWE-006;ZWE-001

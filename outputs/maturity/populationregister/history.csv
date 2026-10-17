@@ -1,0 +1,9 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BEN,dpi.registry--population-register-population-register,fact,5,5,BEN-006;BEN-012,Arrivals added BEN-013; stage unchanged.
+2026-10-17,CIV,dpi.registry--population-register-population-register,fact,5,5,CIV-002,Arrivals added CIV-004; CIV-005; stage unchanged.
+2026-10-17,COD,dpi.registry--population-register-population-register,fact,2,5,COD-004,Arrivals added COD-002; COD-003; COD-004; COD-005; stage 2 -> 5.
+2026-10-17,DZA,dpi.registry--population-register-population-register,fact,no evidence,unplaced,,Arrivals added DZA-001; stage no evidence -> unplaced.
+2026-10-17,MLI,dpi.registry--population-register-population-register,fact,3,3,MLI-002;MLI-001,Arrivals added MLI-002; stage unchanged.
+2026-10-17,MRT,dpi.registry--population-register-population-register,fact,3,3,MRT-001;MRT-002,Arrivals added MRT-004; stage unchanged.
+2026-10-17,TUN,dpi.registry--population-register-population-register,fact,2,5,TUN-004,Arrivals added TUN-002; TUN-003; TUN-004; stage 2 -> 5.
+2026-10-17,ZAF,dpi.registry--population-register-population-register,fact,5,5,ZAF-012;ZAF-006,Arrivals added ZAF-013; ZAF-014; stage unchanged.

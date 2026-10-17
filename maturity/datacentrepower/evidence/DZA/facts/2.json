@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-dza-jeune-independant-centre-national-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "Le Jeune Indépendant says the centre is connected to several energy sources, beyond its batteries and standby generators, with fully redundant power.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numériques",
+   "country_label": "Algérie",
+   "class": "datacentre",
+   "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+   "owner": "state",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": "No PUE or water figure stated."
+}

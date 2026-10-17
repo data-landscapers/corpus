@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-city-power-electricity-theft-crackdown-data-problem",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "City Power, Johannesburg's municipal electricity utility, advertised a tender in October 2026 for near-real-time prepaid purchase monitoring in which bidders may propose AI for theft prediction and customer risk scoring, with outputs required to be explainable and auditable and human decisions retained, per ITWeb.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "City Power prepaid purchase monitoring tender",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "City Power prepaid purchase monitoring platform (tender)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "City Power",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

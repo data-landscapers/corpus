@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "DNEC says ANSAEC, the national agency, administers the RAVEC database, hosted in a technical room it fitted out to ISO 27001 norms.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "RAVEC",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC / NINA biometric file",
+   "country_label": "RAVEC (administered by ANSAEC)",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSAEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

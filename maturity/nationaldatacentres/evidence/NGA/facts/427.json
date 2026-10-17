@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-09-nga-businessday-energy-costs-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Calls MainOne an Equinix company but does not say its data centres are for hire, nor any national ownership, Tier or government hosting."
+}

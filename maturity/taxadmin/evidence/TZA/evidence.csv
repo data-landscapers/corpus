@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TZA-001,TZA,taxsystem,filing,underway,"The Daily News reports that the Tanzania Revenue Authority's Integrated Domestic Revenue Administration System (IDRAS) began operation in January 2025, with a first phase of vehicle registration and driver's licence systems launched in February 2025.",2025-02,month,IDRAS,taxsystem,2025-03-16-tza-dailynews-idras-driver-licence-digital,https://dailynews.co.tz/tax-administration-driver-licence-goes-digital/

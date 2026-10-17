@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck presents the IUC register as Tunisia's national unique citizen identifier system under the Ministry of the Interior, used by services with Mobile ID.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "IUC register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Unique Citoyen (IUC) register",
+   "country_label": "Tunisia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Interoperability of birth registration and digital id: interoperability of birth registration and digital id
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -21,14 +21,28 @@ The African Union's interoperability framework and the African ministers respons
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 0 |
-| 3 Established | 23 |
-| 2 Nascent | 17 |
+| 4 Operating | 1 |
+| 3 Established | 28 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
-| No evidence | 10 |
+| Unplaced | 1 |
+| No evidence | 6 |
 
 ## Countries
+
+### Malawi: 4 Operating
+
+Births and deaths passed between the civil register and the ID system in 2025; volumes are not known.
+
+- NRB Secretary Mphatso Sambo said both the electronic birth and the electronic death registration systems were integrated with the national ID system between April 2024 and February 2025 ([source, 2025-02](https://times.mw/national-registration-bureau-targets-8000-children-in-2025/)).
+- Registration officials say an ID number is generated when a baby is born, and the system freezes the record when a deceased person's ID is presented ([source, 2024-11](https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/)).
+
+### Algeria: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2026.
+
+- The Interior minister said his ministry has a central role in citizens' legal identity through both the civil register (etat civil) and the issue of identity documents ([source, 2026-10-08](https://capdz.dz/archives/21340)).
+- The Ministry of the Interior says the central biometric document issuance system is connected to the national civil register (RNEC) and to AFIS, with the national identification number (NIN) as the key between the databases ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 
 ### Angola: 3 Established
 
@@ -57,6 +71,12 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - Biometric Update reports Cabo Verde linked its civil registration and national identity systems through the Autentika interoperability platform, presented by the IMIJ executive administrator ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
+### Chad: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2026.
+
+- An ATPE opinion piece says TASDJIL registers births at a hospital desk at Koukou Angarana and issues the child an NNI, so births feed the ID number ([source, 2026-08](https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/)).
+
 ### Congo: 3 Established
 
 The civil register and the ID system were linked one way or for one event in 2024.
@@ -68,6 +88,13 @@ The civil register and the ID system were linked one way or for one event in 202
 The civil register and the ID system were linked one way or for one event in 2026.
 
 - ONECI director-general Ago Christian Kodia said a parent's national identity card now supplies the identity information directly on the new birth-registration terminal ([source, 2026-08-11](https://www.oneci.ci/actualites/1786857181)).
+- ONECI, the Office national de l'etat civil et de l'identification, runs both civil status and identification, and its director general said on 16 September 2025 that its digital civil-status server is linked to the Registre national des personnes physiques ([source, 2025-09-16](https://digitalmag.ci/id-day-2025-lidentite-est-le-parapluie-de-tout-individu-dg-oneci/)).
+
+### DR Congo: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2024.
+
+- An ONIP legal expert said civil-status events (births, deaths, marriages) are reported to ONIP for entry in the FGP, which they feed ([source, 2024-08-09](https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/)).
 
 ### Djibouti: 3 Established
 
@@ -113,6 +140,12 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - An expert quoted by the document described Madagascar's digital ID as linked with civil registration, under a retroactive civil registration framework letting undocumented people obtain foundational documents ([source, 2026-06-05](https://www.biometricupdate.com/202606/madagascar-completes-2-6m-digital-id-enrollments-in-two-months)).
 
+### Mali: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2025.
+
+- DNEC says a biometric population file has been built from the civil register and more than 20 million NINA have been attributed through the CTDEC/ANSAEC, one body holding the RAVEC database ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
+
 ### Mauritania: 3 Established
 
 The civil register and the ID system were linked one way or for one event in 2026.
@@ -125,11 +158,18 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - The regulations end a card's validity at the registration of the holder's death, and require the Head of the Unit to check the holder is recorded as deceased in the civil identity register, or obtain the death certificate, before the card is perforated ([source, 2024-02-19](https://paps.mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf)).
 
+### Mozambique: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2025.
+
+- Jornal Notícias reports that people registered in the Nacala birth campaign can have the Bilhete de Identidade issued on the spot from the electronic data the registrar captured, through interoperability of the two services ([source, 2025-03-28](https://jornalnoticias.co.mz/destaque/mocambique-reforca-sua-estrategia-de-expansao-do-registo-civil/)).
+
 ### Nigeria: 3 Established
 
 The civil register and the ID system were linked one way or for one event in 2026.
 
 - FIJ reports that a birth record on the NPC's VitalReg digital birth registration portal was found registered under a Lagos man's National Identification Number (NIN), linking birth records to the NIN ([source, 2026-08](https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/)).
+- The NPC says it now generates a NIN for each child at birth registration and synchronises birth registration data with NIMC's NIN records ([source, 2024-09-26](https://blueprint.ng/birth-registration-npc-introduces-nin-integration-for-newborns-linked-to-mothers/)).
 
 ### Rwanda: 3 Established
 
@@ -153,9 +193,10 @@ The civil register and the ID system were linked one way or for one event in 202
 
 ### Tunisia: 3 Established
 
-The civil register and the ID system were linked one way or for one event in 2024.
+The civil register and the ID system were linked one way or for one event in 2026.
 
-- The law requires administrative services to inform the national security directorate of a cardholder's death within thirty days, whereupon the card chip is deactivated, and requires civil-status changes to be notified for the card within 90 days of entry in the civil register ([source, 2024-03-11](https://legislation-securite.tn/latest-laws/loi-organique-n-2024-22-du-11-mars-2024-modifiant-et-completant-la-loi-n-93-27-du-22-mars-1993-relative-a-la-carte-nationale-didentite/)).
+- The playbook shows the citizen identifier register initialised and updated from the national civil status system Madania by API, and holding birth-act and death-act references, the date and place of death and civil status ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- The deck says the 11-digit unique citizen number is assigned at birth or on acquiring Tunisian nationality, and shows the IUC system drawing on the civil status system Madania ([source, 2024-05](https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf)).
 
 ### Uganda: 3 Established
 
@@ -196,18 +237,23 @@ A link between the civil register and the ID system was under way in 2025.
 
 - The article says the SNID will unify the country's existing biometric and civil status databases, with implementation set for 2027-2032 ([source, 2025-11-28](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration)).
 
-### Chad: 2 Nascent
+### Comoros: 2 Nascent
 
 A link between the civil register and the ID system was under way in 2026.
 
-- The N'Djamena civil registry digitization MoU with ANATS plans to connect municipal civil-registration systems with the national identification system (SIGPTS), reported by We are Tech ([source, 2026-09-23](https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive)).
-- The ANATS director general says household enrolment teams in a six-month, twelve-province birth registration operation will collect data to be integrated into the national biometric register ([source, 2026-07-24](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/)).
+- The study validated on 25 March 2026 under the Amecc project creates a Personal Identification Number (NIP) for civil registration and plans interoperability with other state systems, per We are Tech ([source, 2026-03-25](https://www.wearetech.africa/fr/fils/actualites/tech/les-comores-lancent-la-numerisation-de-leur-etat-civil)).
 
 ### Egypt: 2 Nascent
 
 A link between the civil register and the ID system was under way in 2024.
 
 - CITC's technical support covers restructuring databases to include integration of the national number project with the birth and death, marriage, divorce and family registration databases ([source, 2024](https://www.citc.com.eg/National%20ID%20SYSTEM.html)).
+
+### Ethiopia: 2 Nascent
+
+A link between the civil register and the ID system was under way in 2025.
+
+- Addis Ababa Mayor Adanech Abiebie said the new city civil registration system facilitates data sharing among Immigration, Health, Courts, the National ID program and others, with no event or direction of exchange stated ([source, 2025-12-05](https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/)).
 
 ### Gabon: 2 Nascent
 
@@ -220,6 +266,7 @@ A link between the civil register and the ID system was under way in 2025.
 A link between the civil register and the ID system was under way in 2025.
 
 - President Barrow said in the 2025 State of the Nation Address that ID cards will be integrated with the Electronic Civil Registration and Vital Statistics system, passport and other databases into a unified digital ID system ([source, 2025-06-20](https://thepoint.gm/africa/gambia/headlines/govt-to-integrate-id-cards-with-electronic-civil-registration)).
+- The Ministries of Health and Interior signed an MoU on 22 March 2024 to harmonise and integrate the National Identity System run by the Immigration Department and the eCRVS run by the Registry of Births and Deaths, with unified NIN generation and sharing between them ([source, 2024-03-22](https://thepoint.gm/africa/gambia/headlines/health-ministry-signs-mou-with-interior-to-harmonize-nis)).
 
 ### Guinea-Bissau: 2 Nascent
 
@@ -231,6 +278,7 @@ A link between the civil register and the ID system was under way in 2025.
 
 A link between the civil register and the ID system was under way in 2026.
 
+- The Liberian Observer reports a proposed NIDCRVS concession with OeSD International GmbH, referred to a House joint committee on 2026-10-13, would integrate national identification with civil registration in one digital platform ([source, 2026-10-13](https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html)).
 - Liberia's National Identification Registry executive director says it plans to link national ID with civil registration and vital statistics in one NID-CRVS system under a signed $54 million agreement with OSD that awaits parliamentary approval ([source, 2026-09-14](https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade)).
 
 ### Niger: 2 Nascent
@@ -257,7 +305,7 @@ A link between the civil register and the ID system was under way in 2026.
 A link between the civil register and the ID system was under way in 2025.
 
 - The Ministry of Interior, Federal Affairs and Reconciliation is testing interfaces that would integrate the digital civil registration platform with national ID, health, education and immigration services ([source, 2025-08-11](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity)).
-- Hiiraan Online reports that the Civil Registration Management and Vital Statistics System (CRMVS), delivered in November with NADRA funding, is a cornerstone of Somalia's National Identification System project, and that NIRA is tasked with managing the system ([source, 2024-11](https://www.hiiraan.com/news4/2025/Jan/199818/somalia_launches_ambitious_civil_registration_overhaul.aspx)).
+- The Ministry of Interior, Federal Affairs and Reconciliation says it is working to integrate the digital registration system with other government services including national ID ([source, 2025-08-10](https://sonna.so/en/article/somalia-marks-africa-civil-registration-and-vital-statistics-day-with-launch-of-unified-digital-registration-service)).
 
 ### South Africa: 2 Nascent
 
@@ -284,24 +332,6 @@ A link between the civil register and the ID system was under way in 2026.
 
 - Togo First says civil registration is becoming more closely integrated with the identification system through the rollout of the unique identification number ([source, 2026-08](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation)).
 
-### Algeria: Unplaced
-
-Nothing held since 2023 names a link between the civil register and the ID system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether the civil register and the ID system are linked.
-
-### Malawi: Unplaced
-
-Nothing held since 2023 names a link between the civil register and the ID system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether the civil register and the ID system are linked.
-
-### Mozambique: Unplaced
-
-Nothing held since 2023 names a link between the civil register and the ID system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether the civil register and the ID system are linked.
-
 ### Seychelles: Unplaced
 
 Nothing held since 2023 names a link between the civil register and the ID system, so no stage is set.
@@ -309,18 +339,6 @@ Nothing held since 2023 names a link between the civil register and the ID syste
 Not established: Nothing held since October 2023 says whether the civil register and the ID system are linked.
 
 ### Burkina Faso: No evidence
-
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the civil register and the ID system are linked.
-
-### Comoros: No evidence
-
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the civil register and the ID system are linked.
-
-### DR Congo: No evidence
 
 Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
 
@@ -338,19 +356,7 @@ Nothing held names a link between the civil register and the ID system or says t
 
 Not established: Nothing held says whether the civil register and the ID system are linked.
 
-### Ethiopia: No evidence
-
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the civil register and the ID system are linked.
-
 ### Libya: No evidence
-
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the civil register and the ID system are linked.
-
-### Mali: No evidence
 
 Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
 

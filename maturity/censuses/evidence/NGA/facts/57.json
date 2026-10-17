@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-nga-nbs-nlfs-q1-2024-microdata",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The National Bureau of Statistics released anonymised v1.0 microdata of the Nigeria Labour Force Survey Q1 2024 (8,836 households in 36 states and the FCT, collected 2024-01-31 to 2024-03-20), version dated 2024-04-15.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "NLFS Q1 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Labour Force Survey Q1 2024",
+   "country_label": "NLFS Q1 2024",
+   "class": "census",
+   "platform": "NBS microdata catalogue",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

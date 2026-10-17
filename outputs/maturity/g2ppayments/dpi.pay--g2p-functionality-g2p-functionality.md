@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 22 |
+| 3 Established | 23 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 19 |
+| No evidence | 18 |
 
 ## Countries
 
@@ -86,6 +86,7 @@ A government programme paid people digitally in 2026; a second main stream is no
 A government programme paid people digitally in 2026; a second main stream is not known.
 
 - Residents of Batangafo say some civil servants could not collect the previous month's salary because transactions through mobile services were blocked by an Orange network outage lasting nearly a month ([source, 2026-07](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/)).
+- The World Bank ISR says a clean payroll database is being used to pay civil servants and civil-servant enrolment on the government salary mobile payment system (Patapaye) increased ([source, 2024-12-20](https://documents1.worldbank.org/curated/en/099122024184018568/txt/P1746201172f3b05d1a9d118f1eb4b91506.txt)).
 
 ### Comoros: 3 Established
 
@@ -93,6 +94,12 @@ A government programme paid people digitally in 2026; a second main stream is no
 
 - Africa24 TV says the Msaanda social cash transfers under the World Bank-financed PFSS-RRC (2023-2027) pay each beneficiary up to 75,000 KMF via mobile banking, reaching 40,010 households ([source, 2026-03](https://africa24tv.com/comores-financement-des-filets-sociaux-plus-de-40-000-menages-vulnerables-beneficiaires/)).
 - The World Bank/Government mission aide-memoire on the PFSS-RRC social safety net project says the use of electronic payments, with digitalised operations and a digitised monitoring system, contributed to the success of the project's interventions ([source, 2025-12](https://pfss-comores.org/ressources/download/9)).
+
+### Egypt: 3 Established
+
+A government programme paid people digitally in 2024; a second main stream is not known.
+
+- Finance Minister Mohamed Maait says the e-payment service for government employees' payrolls grew 24% to EGP 299.4 billion in July 2023 to May 2024 ([source, 2024-05](https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx)).
 
 ### Eswatini: 3 Established
 
@@ -281,12 +288,6 @@ Nothing held names digital government payments to people or says there is none, 
 Not established: Nothing held says how government pays people.
 
 ### Djibouti: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Egypt: No evidence
 
 Nothing held names digital government payments to people or says there is none, so no stage is set.
 

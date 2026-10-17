@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-29-nga-npc-first-lady-birth-certificate-nin",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The NPC release quotes the First Lady on an initiative by NPC, NIMC and Barnksforte to issue a national identification number to every child at birth, starting in 2024.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "NIN at birth initiative",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

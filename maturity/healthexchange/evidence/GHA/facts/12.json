@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-15-gha-gna-moh-health-data-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Ministry of Health's Head of Research, Statistics and Innovation said initiatives like the Ghana Health Information Exchange sought to integrate systems for real-time data sharing, while limited interoperability from differing systems and data standards remained the main obstacle.",
+   "as_of": "2024-11-14",
+   "date_precision": "day",
+   "system": "Ghana Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Health Information Exchange",
+   "country_label": "Ghana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

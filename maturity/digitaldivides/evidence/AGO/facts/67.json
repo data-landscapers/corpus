@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-ago-pti-estado-da-nacao-telecomunicacoes-transformacao-digital",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "President Lourenço says programmes such as N'gola Digital, Escola Conectada and Conecta Angola brought connectivity to communities including remote areas via ANGOSAT-2, and that strengthening connectivity in rural communities is a priority for coming years.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Conecta Angola",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

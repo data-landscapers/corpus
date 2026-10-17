@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-05-tun-usembassy-fast-pfmis-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PFMIS",
+   "country_label": "Public Financial Management Information System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The page describes PFMIS upgrade work, a diagnostic and a debt decision support system, but does not state that a core system is in use or went live."
+}

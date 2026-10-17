@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SYC,Ease of Doing Business Portal,Seychelles,other,,"Ministry of Investment, Entrepreneurship & Industry",,2025-12-01-ntb-ease-of-doing-business-portal-award
-SYC,Human Resource Management System (HRMS),Seychelles,,,Department of Information Communications Technology,,2025-12-01-ntb-ease-of-doing-business-portal-award
-SYC,Integrated Financial Management Information System (IFMIS),Seychelles,,,"Ministry of Finance, Economic Planning Trade & Investment",,2025-12-01-ntb-ease-of-doing-business-portal-award
+SYC,Human Resource Management System (HRMS),Seychelles,other,,Department of Information Communications Technology,,2025-12-01-ntb-ease-of-doing-business-portal-award
+SYC,Integrated Financial Management Information System (IFMIS),Seychelles,other,,"Ministry of Finance, Economic Planning Trade & Investment",,2025-12-01-ntb-ease-of-doing-business-portal-award
 SYC,Electronic Government Network,Seychelles,staff,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
-SYC,SeyID,Seychelles,,,,,2025-06-17-national-assembly-dict-egn-visit
+SYC,SeyID,Seychelles,other,,,,2025-06-17-national-assembly-dict-egn-visit
+SYC,Digital Human Resource Management System (HRMS),HRMS,other,,Department of Public Administration,,2026-10-14-syc-statehouse-digital-hrms-2027

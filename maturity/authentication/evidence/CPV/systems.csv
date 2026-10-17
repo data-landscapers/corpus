@@ -4,7 +4,7 @@ CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,other,smart card with m
 CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,"phone number, PIN and one-time code",,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Portal de Justiça,Cabo Verde,other,"justice and registry services portal, linked to SIJ",Ministry of Justice,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Autentika,Cabo Verde,other,state single sign-on,State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
-CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,other,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,SNIAC / Cartão Nacional de Identificação (CNI),Cabo Verde,authentication,card with middleware and SDK,SNIAC / DGRNI,,2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9
 CPV,Autentika,Cabo Verde,authentication,"Electronic identity, authentication and digital signature platform with single sign-on",Government of Cabo Verde,email and password; Mobile Digital Key; CNI smart card with PIN,2024-01-01-autentika-authentication-platform
 CPV,Cabo Verde Mobile Digital Key (CMDCV),Cabo Verde,authentication,"Mobile authentication by phone number, PIN and temporary code",Government of Cabo Verde,,2024-01-01-autentika-authentication-platform
@@ -15,3 +15,5 @@ CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,chip card,State of C
 CPV,PDEX,Cabo Verde,other,API publication and subscription platform,NOSi,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
 CPV,Portal Consular de Cabo Verde,Cabo Verde,other,,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
 CPV,Citizen and company data validation APIs,Cabo Verde,other,PDEX,,,2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,SNIAC,Cabo Verde,authentication,,IMIJ,,2026-01-12-cpv-imij-sniac-sistema-pivot
+CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,chip card,Ministerio da Justica / IMIJ,,2025-07-01-cpv-boe-resolucao-55-2025-contrato-incm

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Togo's presentation says the e-ID programme launched in 2023 assigns a unique biometric identifier to each resident, led by the National Identity Agency.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "e-ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identity Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

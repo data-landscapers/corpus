@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Mali's finance ministry project unit (PASG, AfDB-funded) invited firms to extend DGI tax e-procedures to all electronic payment means (bank, cards, mobile money) and all taxes, including a USSD application for declaration and payment.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "DGI téléservices",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGTAS",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

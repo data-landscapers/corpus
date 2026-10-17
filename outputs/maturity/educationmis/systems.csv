@@ -9,6 +9,7 @@ BEN,EducMaster (SIGE),Benin,emis,EducMaster-Primaire and EducMaster-Secondaire,M
 CAF,SIGE,Systeme d'Information de Gestion de l'Education,emis,,Ministere de l'Education Nationale,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
 CIV,SIGE (Integrated Education Management Information System),Côte d'Ivoire,emis,,Education Ministry,piloted in Bouaké and San Pedro,2026-08-25-c-te-d-ivoire-turns-to-digital-mapping-to-improve-school-planning
 CIV,Système d'Information et de Gestion de l'Éducation (SIGE),Côte d'Ivoire,emis,,Ministère de l'Éducation Nationale et de l'Alphabétisation,pilot regions Bouaké and San Pedro,2025-07-11-sige-systeme-information-gestion-education-cote-divoire
+CIV,SIGE,Côte d'Ivoire,emis,,Ministère de l'Éducation nationale et de l'Alphabétisation,,2025-07-13-civ-ecofin-lancement-plateforme-sige
 CMR,Integrated Sectoral Platform for the Education Management Information System (EMIS),Cameroon,emis,,Government of Cameroon,,2025-05-13-unesco-cameroon-integrated-emis-platform-launch
 CMR,plateforme sectorielle intégrée du SIGE (sige-sectoriel.cm),Cameroun,emis,,Institut National de la Statistique (host); Ministère de l'Éducation de Base,,2025-05-08-cmr-parec-plateforme-sige-sectoriel
 COD,Education Management Information System,DRC,emis,,Ministry of Education,,2026-05-12-au-iped-emis-self-assessment-drc
@@ -24,6 +25,7 @@ ETH,DHIS2-Ed (national EMIS enterprise application),Ethiopia,emis,DHIS2,Ministry
 ETH,Education Management Information System (EMIS),Ethiopia,emis,,"Ministry of Education, EMIS and ICT Executive Office",decentralized levels,2023-10-01-ethiopia-education-statistics-annual-abstract-2022-23
 ETH,Education Management Information System (EMIS),Ethiopia,emis,,Ministry of Education,,2026-03-18-wb-eth-004-ethiopia-etol-additional-financing
 GAB,Système d'Information pour la Gestion de l'Éducation (SIGE),Gabon,emis,,Ministry of National Education,,2025-08-09-gabon-school-health-sige-integration
+GAB,INA,Identifiant National Apprenant,emis,,SOSUP,,2024-10-19-gab-lejdl-identification-nationale-apprenants-ina
 GHA,Pilot Register-Based Education Statistics Project,Ghana,emis,,Ghana Statistical Service,,2026-07-22-ghana-register-based-education-statistics-pilot
 GHA,Education Management Information System (EMIS),Ghana,emis,,"Ministry of Education, SRIM Directorate",,2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools
 GHA,Education Management Information System (EMIS),Ghana,emis,,Ministry of Education,,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
@@ -63,6 +65,7 @@ MOZ,EMIS (Milange District),Mozambique,other,DHIS2,"Milange District, Zambezia",
 MOZ,Levantamento Escolar do 3 de Março,Mozambique,emis,,Ministério da Educação e Desenvolvimento Humano,"national, provincial breakdown",2025-07-03-ine-estatisticas-educacao-levantamento-escolar-2024
 MOZ,EMIS,Mozambique,emis,,Ministry of Education and Culture,"national, provincial, district, school",2026-08-21-gpekix-mozambique-education-data-system
 MOZ,MOZDATA,Mozambique,other,NADA,Instituto Nacional de Estatística,national,2026-08-08-mozdata-ine-microdata-catalogue-mozambique
+MRT,SIGRH,Système informatisé de gestion des ressources humaines,other,,Ministry of National Education (MENRSE),,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel
 MWI,Education Management Information System (EMIS),Malawi,emis,,"Ministry of Education, Science and Technology",,2026-07-06-mwi-education-data-portal-edap
 MWI,Education Data Portal (EDaP),Malawi,other,,"Unlocking Data Initiative, then CERT at the University of Malawi",tiered access,2026-07-06-mwi-education-data-portal-edap
 MWI,Education Management Information System (EMIS),Malawi,emis,,Ministry of Education,"school, zone (ZEMIS), district (DEMIS), central",2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn
@@ -107,6 +110,7 @@ SYC,Education Management Information System (EMIS),Seychelles,emis,OpenEMIS,Mini
 TCD,SIGE,Chad,emis,StatEduc,"MESRSFP, Direction de la Statistique et de la Digitalisation",,2026-07-30-le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc
 TCD,SIGE,Chad,emis,,MENBPC,"national, provincial delegations",2026-06-23-unesco-tchad-equipements-sige-550000-usd
 TCD,SIGE/EMIS,Chad,emis,,"MENPC, Directorate of Planning, Analysis and School Mapping","national, province, department, inspectorate",2026-03-23-unicef-innocenti-supporting-middle-tier-actors-chad-data
+TCD,Teacher-management software (modelled on Senegal's MIRADOR),logiciel de gestion des enseignants,other,,"Education ministry, financed by PREAT",,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel
 TGO,SIGE,Togo,emis,DHIS2,Ministry of Education,"national, regional, inspection",2026-05-04-gpe-kix-study-tour-education-data-system
 TGO,StatEduc,Togo,emis,CSPro,Ministry of Education,national,2026-05-04-gpe-kix-study-tour-education-data-system
 TGO,StatEduc,Togo,emis,StatEduc,Ministry of Primary and Secondary Education,"national, subnational",2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-11-ago-angop-mais-15-milhoes-possuem-bi",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Justice minister Marcy Lopes says Angola has over 15 million citizens holding the Bilhete de Identidade and issues 12,000 a day, with identity certified before issue.",
+   "as_of": "2025-04-11",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

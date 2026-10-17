@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-as-cbn-begins-data-migration-local-hosting",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ThisDay reports Open Access Data Centres CEO Ayotunde Coker saying banks and financial services companies are OADC's clients and that it can host more data in its facilities.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Open Access Data Centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "Open Access Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

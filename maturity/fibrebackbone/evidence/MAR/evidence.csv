@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,backbone,reach,in-service,"inwi says its network has a long-distance, high-speed backbone extending across the nation, with more than 9,000 km of own and leased fibre.",2025,year,inwi national backbone,backbone,2025-01-01-mar-inwi-wholesale-national-backbone,https://inwi.ma/en/wholesale/our-network

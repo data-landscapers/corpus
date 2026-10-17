@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Ministries of Health and Interior signed an MoU on 22 March 2024 to harmonise and integrate the National Identity System run by the Immigration Department and the eCRVS run by the Registry of Births and Deaths, with unified NIN generation and sharing between them.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "National Identity System / eCRVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity System",
+   "country_label": "National Identity System",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Immigration",
+   "tiers": ""
+  },
+  {
+   "system": "eCRVS",
+   "country_label": "Electronic Civil Registration and Vital Statistics System",
+   "class": "other",
+   "platform": "",
+   "owner": "Registry of Births and Deaths",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

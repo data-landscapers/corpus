@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** [The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>).
+**Government staff.** [The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>). [The Ministry of the Interior says its own engineers administer the platforms for identity and travel document issuance and civil status](<https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf>).
 
 **A technology body for government.** No source held from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on [the source that sets it](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>).
 

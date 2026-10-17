@@ -49,7 +49,7 @@ BWA,Botswana commercial data centres (telco and infraco hybrid facilities),,data
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-12-03-dcd-botswana-first-national-data-center
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-10-22-bofinet-new-data-centre-boosts-digitisation
 BWA,Botswana Digital and Innovation Hub data centre,,datacentre,,Botswana Digital and Innovation Hub,,2025-10-22-bofinet-new-data-centre-boosts-digitisation
-BWA,"Government-owned Tier IV data centre, Gaborone",,,,Government of Botswana,Tier IV listed by Uptime per article; not stated to rent to others,2023-12-01-orange-opens-data-center-in-gaborone-botswana
+BWA,"Government-owned Tier IV data centre, Gaborone",,other,,Government of Botswana,Tier IV listed by Uptime per article; not stated to rent to others,2023-12-01-orange-opens-data-center-in-gaborone-botswana
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet,Uptime Institute Tier III (per BoFiNet),2026-10-06-itweb-bofinet-launches-digital-delta-ixp
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2026-03-06-bofinet-appoints-ceo-gaone-seleka-connectingafrica
 BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2025-11-25-bwa-digital-delta-data-centre-launch
@@ -111,7 +111,7 @@ CMR,CAMTEL Zamengoe data center,CMR,datacentre,,CAMTEL,Tier III,2026-09-07-cmr-b
 CMR,ST Digital Douala data center,CMR,datacentre,,ST Digital,,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,Cybastion Douala AI data center (planned),CMR,other,,Cybastion,,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,ST-DIGITAL Data Center,Data Center ST-DIGITAL,datacentre,,ST Digital,,2026-04-07-camix-troisieme-pop-st-digital
-CMR,CAMPOST Data Center,Data Center de la CAMPOST,,,CAMPOST,,2026-04-07-camix-troisieme-pop-st-digital
+CMR,CAMPOST Data Center,Data Center de la CAMPOST,other,,CAMPOST,,2026-04-07-camix-troisieme-pop-st-digital
 CMR,CAMTEL Zamengoe Data Centre,Data Centre in Zamengoe,datacentre,,CAMTEL,Tier III (stated by operator),2026-01-15-camtel-obc-baccalaureate-framework-agreement
 CMR,ST Digital,ST Digital,datacentre,,ST Digital,,2026-01-01-cameroon-data-center-market-briefing-xalam
 CMR,Camtel data centre,Camtel,datacentre,,Camtel,,2026-01-01-cameroon-data-center-market-briefing-xalam
@@ -166,6 +166,8 @@ COD,Open Access Data Centres,Open Access Data Centres,datacentre,,WIOCC,,2026-08
 COD,Raxio Group data centres,Raxio,datacentre,,Raxio Group,Tier III (stated),2026-07-24-lancet-africa-ai-health-infrastructure
 COD,Data Center National (Acquisition de Data Center National),COD,other,,State (Section 71 Economie Numerique),,2025-12-29-cod-2026-71
 COD,Centre des données du ministère (Acquisition d'un centre des données du ministère),COD,other,,State (Section 71 Economie Numerique),,2025-12-29-cod-2026-71
+COD,OADC Texaf Digital-Kinshasa,RDC,datacentre,,OADC (WIOCC group) with TEXAF,Tier-III,2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa
+COD,"Data center national (Finance ministry, Ngaliema, Kinshasa)",RDC,datacentre,Huawei,Ministry of Finance,,2023-11-03-cod-acp-inauguration-data-center-national
 COG,ST DIGITAL,ST DIGITAL,datacentre,,ST DIGITAL,Tier 3 / TIA-942 (operator statement),2026-03-03-st-digital-iso-27001-certification
 COG,Unnamed telecom-operated commercial data centres,,datacentre,,Telecoms providers,,2026-01-01-xalam-congo-republic-data-center-market-briefing
 COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2026-01-01-xalam-congo-republic-data-center-market-briefing
@@ -173,7 +175,7 @@ COG,ARPCE Pointe-Noire Datacenter,"Datacenter de l'ARPCE, Pointe-Noire",datacent
 COG,ARPCE Brazzaville Datacenter,Datacenter de Brazzaville (bâtiment technique ARPCE),other,,ARPCE,Tier 2,2024-03-04-digitalbusinessafrica-arpce-datacenter-tier3-pointe-noire-2africa
 COG,"ARPCE data centre, Pointe-Noire",Datacenter Tier 3+,datacentre,,ARPCE,Tier 3+ (stated),2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire
 COG,ARPCE Pointe-Noire Datacenter,COG,datacentre,,,Tier 3+,2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire
-COG,"Congo Telecom datacentres (Brazzaville, Pointe-Noire, Oyo)",COG,,,Congo Telecom (described as a public-portfolio company),,2026-08-13-congo-telecom-ministerial-review-connectivity
+COG,"Congo Telecom datacentres (Brazzaville, Pointe-Noire, Oyo)",COG,other,,Congo Telecom (described as a public-portfolio company),,2026-08-13-congo-telecom-ministerial-review-connectivity
 COM,Comores Câbles data centre,Centre de données,datacentre,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Neutral data centre (under construction),data center neutre,other,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Data Center of the Public Administration,Data Center of the Public Administration,datacentre,,ANADEN and Comores Câbles (co-managed),"described as Tier 3, unattributed",2024-01-01-digwatch-comoros-country-profile
@@ -185,7 +187,9 @@ CPV,RTPE (State's Private Technological Network),RTPE,other,,NOSi,,2024-01-01-no
 CPV,National Data Center,National Data Center,datacentre,"Huawei eGovernment Cloud, FusionCloud",NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,"eGovernment network (1,142 organisations)",eGovernment network,other,Huawei routers and switches,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,"National data center (NOSi, Cape Verde)",national data center,datacentre,Huawei eGovernment Cloud / FusionCloud,,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
-CPV,NOSi housing and IaaS services,CPV,,,"NOSi, E.P.E. (state enterprise)",,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source
+CPV,NOSi housing and IaaS services,CPV,other,,"NOSi, E.P.E. (state enterprise)",,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source
+CPV,NOSi Data Center da Praia,Data Center da Praia,datacentre,,NOSi (public enterprise),,2026-02-17-cpv-nosi-data-center-praia-sistema-fotovoltaico
+CPV,Data Center do Estado,Data Center do Estado,other,,State (NOSi),,2026-02-17-cpv-balai-data-center-estado-fotovoltaico-40pct
 DJI,Wingu Africa Djibouti data centres,Djibouti,datacentre,,Wingu Africa,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 DJI,"Wingu.Africa T07 data centre, Djibouti",Djibouti,datacentre,,Wingu.Africa,Tier 3 (operator-stated),2024-11-26-wingu-africa-tier-iii-data-center-djibouti
 DJI,Wingu.Africa Djibouti Data Center,Djibouti,datacentre,,Wingu.Africa,,2024-11-26-wingu-africa-tier-iii-data-center-djibouti
@@ -223,16 +227,17 @@ DZA,"AYRADE data centres (Algiers, Oran)",DZA,datacentre,,AYRADE,,2026-06-01-dza
 DZA,ADEX Technology data centre (Sidi Abdellah),ADEXCLOUD,datacentre,"ADEXCLOUD IaaS, S3 storage, ZIMAIL",ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
 DZA,ADEX data centre,DZA,datacentre,ADEXCLOUD,ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
 DZA,ICOSNET Data Center Oran,Data Center Oran,datacentre,"VMware, NSX, vSAN",ICOSNET,,2021-11-16-icosnet-data-center-oran-fiche-technique
-DZA,National cloud computing services of the Centre national algérien des services numériques,DZA,,national cloud,"State (run under the Haut commissariat à la numérisation, as the document names the centre)",,2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national
-DZA,"National data centre, El Mohammedia",DZA,,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
+DZA,National cloud computing services of the Centre national algérien des services numériques,DZA,other,national cloud,"State (run under the Haut commissariat à la numérisation, as the document names the centre)",,2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national
+DZA,"National data centre, El Mohammedia",DZA,other,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,"Data centre, Blida (under construction)",DZA,other,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,Sovereign cloud for public data (in preparation),DZA,other,sovereign cloud,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-05-national-centre-digital-services-inauguration-echorouk
 DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
-DZA,National Data Centre of ESI-Alger,DZA,,,"Ecole nationale supérieure d'informatique (ESI-Alger), under the Ministry of Higher Education",,2025-07-22-aps-baddari-centre-national-donnees-esi-preinscriptions
+DZA,National Data Centre of ESI-Alger,DZA,other,,"Ecole nationale supérieure d'informatique (ESI-Alger), under the Ministry of Higher Education",,2025-07-22-aps-baddari-centre-national-donnees-esi-preinscriptions
 DZA,"AI high-performance computing center, Oran",DZA,other,,State (Ministry of Post and Telecommunications laid foundation stone),,2025-03-17-ai-supercomputing-center-oran--wearetech
 DZA,Deuxième Centre national des données (Blida),DZA,other,,Haut-Commissariat à la numérisation (state),,2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida
+DZA,Centre national des services numériques,Algérie,datacentre,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
 EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
@@ -264,7 +269,7 @@ ERI,Eritel Datacenters,Eritel's Datacenters,datacentre,,Eritel Telecom Corporati
 ERI,Eritel Nextcloud,Eritel Private Cloud Services,other,Nextcloud,Eritel Telecom Corporation,Platinum; Gold; Silver,2026-08-31-eritel-private-cloud-services
 ETH,RFETH-MDC01,RFETH-MDC01,datacentre,,Redfox Solutions,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,"Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)","Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)",other,,Safaricom Ethiopia,planned,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
-ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
+ETH,Ethio Telecom Huawei modular data centre,Ethio Telecom Huawei modular data centre,other,,Ethio Telecom,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
 ETH,Ethio Telecom Gola Sefer data center,Tier 3 Data Center,datacentre,,Ethio Telecom,Tier 3 (operator-stated),2022-05-24-furtherafrica-ethio-telecom-data-center-lease-five-institutions
 ETH,Raxio Ethiopia data centre,ETH,datacentre,,Raxio Group,"Tier III certified, carrier-neutral colocation",2026-07-14 Raxio raises data centre funding
 ETH,Wingu Cloud Exchange,ETH,datacentre,,Wingu Africa,"operator describes itself as Tier III-standard (East Africa, no Ethiopian facility named)",2026-03-31-wingu-africa-launches-wingu-cloud-exchange-ethiopia
@@ -275,8 +280,8 @@ ETH,Cloud 251,Cloud 251,datacentre,,Cloud 251,,2024-07-15-capital-ethiopia-cloud
 ETH,Raxio ET1,Raxio ET1,datacentre,,Raxio Group,Tier III,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Wingu.Africa Ethiopia,Wingu.Africa Ethiopia,datacentre,,Wingu Africa,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,Red Fox data centre,Red Fox data centre,datacentre,,Redfox Solutions,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,Sun Data World,Sun Data World,,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
-ETH,ScutiX,ScutiX,,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,Sun Data World,Sun Data World,other,,Sun Data World,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
+ETH,ScutiX,ScutiX,other,,ScutiX,,2023-11-22-dcd-raxio-et1-addis-ababa-launch
 ETH,RFETH-MDC01,RedFox Modular Data Center,datacentre,,RedFox Solutions Group,,2022-09-19-ena-redfox-launches-rfeth-mdc01-130m-usd
 ETH,"Wingu.Africa data centre, Ethio ICT Park",Wingu.Africa data centre,datacentre,,Wingu.Africa,,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
 ETH,"Raxio Data Centre PLC, Ethio ICT Park",Raxio Ethiopia,other,,Raxio,under construction in March 2022,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
@@ -285,11 +290,12 @@ ETH,National Data Centre (Ministry of Innovation and Technology),National Data C
 ETH,"Safaricom Ethiopia data centre, Akaki-Qality",Safaricom Ethiopia data centre,other,,Safaricom Ethiopia,launched Feb 2022; use for hire not stated,2022-03-26-addisfortune-wingu-ethio-ict-park-lease-agreements
 ETH,"Raxio Group data centre, Ethiopia",,datacentre,,Raxio Group,Tier III (operator stated),2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
 ETH,Raxio Addis Ababa data centre,"Raxio carrier-neutral Tier III facility, Addis Ababa",datacentre,,Raxio Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
-ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
+ETH,"RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",Ethio ICT Park,other,,RedFox Solutions Group,,2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-09-04-wingu-africa-transforming-connectivity-addix-ixp
 ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 ETH,Telecloud,ETH,datacentre,cloud hosting,Ethio Telecom (operator; ownership not stated),,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,National Cloud,ETH,other,"planned, 18-24 months out per the Prime Minister",Government of Ethiopia,,2026-05-19-eth-cioafrica-national-cloud-18-24-months
+ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications
 GAB,"ST Digital Gabon data centre, Nkok",Data Center national et souverain,datacentre,,ST Digital Gabon,,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,Gabon sovereign data centre,GAB,datacentre,,,Tier III,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,ST Digital Nkok data center,"first national data center, Nkok",datacentre,,ST Digital,Tier III,2026-07-07-gabon-datacenter-inauguration-figures
@@ -335,7 +341,7 @@ GHA,several unnamed Tier III data centres,,datacentre,,,,2024-09-20 Ghana Digita
 GHA,Onix Accra,Onix Accra,datacentre,,"Onix (majority-owned by AIIM, Old Mutual)",,2026-06-11 Can Africa supply it's own digital infrastructure
 GHA,Government cloud data center,GHA,other,government cloud,Government of Ghana (Ministry of Communications and Digitalisation / NITA as implementing parties),,2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report
 GHA,"Government cloud storage system (Accra 703TB, Kumasi 586TB)",GHA,other,cloud storage,Government of Ghana,,2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report
-GHA,National Data Centre,Ghana,,,,,2026-07-30-ghana-10-year-ai-implementation-roadmap
+GHA,National Data Centre,Ghana,other,,,,2026-07-30-ghana-10-year-ai-implementation-roadmap
 GHA,AI Compute Centre (US$250 million),Ghana,other,,Government of Ghana,,2026-07-30-ghana-10-year-ai-implementation-roadmap
 GHA,"NITA National Data Centre, Accra",Ghana,datacentre,,"National Information Technology Agency (NITA), under the Ministry of Communication, Digital Technology and Innovations",,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
 GHA,"NITA National Data Centre, Kumasi",Ghana,datacentre,Huawei IDS1000 modular containerised,National Information Technology Agency (NITA),,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
@@ -486,7 +492,7 @@ MAR,AWS Wavelength zone Casablanca,MAR,other,AWS Wavelength,Amazon Web Services 
 MAR,N+ONE DATACENTERS Morocco campuses,MAR,datacentre,,N+ONE DATACENTERS,,2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture
 MAR,N+One Datacenters,N+One Datacenters,datacentre,,N+One (Moroccan operator),,2023-08-22-african-infrastructure-investment-managers-n-one-datacenters-2023-equity-record
 MAR,"Sovereign data centre, Rabat (50 MW, planned)",MAR,other,,,,2026-09-15-mar-panorapost-mou-vertiv-infrastructures-numeriques-cloud
-MAR,Igoudar Numérique Dakhla,MAR,,,,,2026-07-25-morocco-elected-african-telecommunications-union-council
+MAR,Igoudar Numérique Dakhla,MAR,other,,,,2026-07-25-morocco-elected-african-telecommunications-union-council
 MAR,Nexus AI Factory,MAR,other,HPC data center (planned),Nexus Core Systems,,2026-04-13-techafricanews-morocco-nexus-ai-factory
 MAR,Nexus AI Factory,MAR,other,HPC data center (planned),Nexus Core Systems,,2026-04-08-mtnra-nexus-ai-factory-plateform-maroc
 MAR,Nexus AI Factory,MAR,other,HPC data center (planned),"Consortium led by Nexus Core Systems (Lloyds Capital, NAVER Cloud, Maroc Telecom backing)",,2025-06-18-nexus-core-lloyds-consortium-500mw-ai-factory
@@ -507,7 +513,7 @@ MOZ,MPM1,MPM1,datacentre,,Digital Realty (iColo),,2025-05-15-mozambique-internet
 MOZ,MOZIX,MOZIX,other,,CIUEM,,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo
 MOZ,Vodacom Business Data Centre (Matola),Vodacom Business Data Centre,datacentre,,Vodacom Mozambique,,2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique
 MOZ,Vodacom Tchumene data centre,Vodacom Business Data Centre,datacentre,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
-MOZ,Vodacom Matola modular data centre (2013),,,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
+MOZ,Vodacom Matola modular data centre (2013),,other,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
 MOZ,Vodacom Tchumene data centre,,datacentre,,Vodacom Mozambique,,2025-03-29-pm-opens-vodacom-data-centre-clubofmozambique
 MOZ,Raxio MZ1,Raxio Mozambique,datacentre,,Raxio Group,,2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)
 MOZ,Maputo One (MPM1),MPM1,datacentre,,iColo (a Digital Realty company),,2023-02-07-icolo-mpm1-maputo-data-centre-opening
@@ -545,14 +551,15 @@ MUS,Rose Belle Data Centre,MUS,datacentre,,Mauritius Telecom,Tier IV (stated by 
 MUS,Emtel Data Centre,MUS,datacentre,,Emtel Ltd,,2019-11-26-emtel-iso-9001-27001-certification
 MUS,Mauritius Telecom Tier IV data centre,,datacentre,,Mauritius Telecom,Tier IV,2025-01-01-mauritius-data-centre-market-report
 MUS,Africa50-backed 30 MW build,,other,,,,2025-01-01-mauritius-data-centre-market-report
-MUS,Rogers Capital Technology Services data centre,,,,Rogers Capital,,2025-01-01-mauritius-data-centre-market-report
-MUS,Emtel data centre,,,,Emtel,,2025-01-01-mauritius-data-centre-market-report
+MUS,Rogers Capital Technology Services data centre,,other,,Rogers Capital,,2025-01-01-mauritius-data-centre-market-report
+MUS,Emtel data centre,,other,,Emtel,,2025-01-01-mauritius-data-centre-market-report
 MUS,Mauritius Telecom Tier IV data centre expansion,MUS,other,,Mauritius Telecom,"Tier IV (planned expansion, no facility named)",2025-12-08-mauritius-telecom-connect-strategy-launch-techafricanews
+MUS,"GOC Tier IV data centre, Rose-Belle",Mauritius,other,,Government Online Centre,Tier IV,2025-07-01-mus-mitci-goc-tier-iv-rose-belle-dr
 MWI,ESCOM Data Centre,National Data Centre in Blantyre / ESCOM Data Centre,datacentre,,ESCOM (Optic Fibre Communications business),private and government customers,2025-10-07-mwi-escom-itu-africa-broadband-mapping-presentation
 MWI,National Data Centre,National Data Centre,datacentre,Huawei,Government of Malawi; operated with Ministry of Information and ESCOM,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
 MWI,Lilongwe data centre,another facility being constructed in Lilongwe,other,,,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
 MWI,"OCL Tier 3 data centre, Kanengo",MWI,datacentre,,TNM (acquired from OpenConnect Limited),,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
-MWI,"TNM data centre, Limbe",MWI,,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"TNM data centre, Limbe",MWI,other,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
 MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-data-centre-launch-malawi24
 MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-new-data-centre-lilongwe
 MWI,Bomalathu digital services platform,MWI,other,government digital services portal,Department of E-Government,,2026-07-07 Malawi integrates immigration e-services
@@ -585,10 +592,10 @@ NER,"National Datacenter, PK5, Niamey II",NER,other,,Ministere de la Poste et de
 NGA,Galaxy Cloud Platform (GxCP),GxCP,datacentre,,Galaxy Backbone Limited,"Tier III and Tier IV (Uptime-certified, per article)",2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups
 NGA,Rack Centre LGS1/LGS2,,datacentre,,Rack Centre,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,Sifiso Dabengwa Data Centre,,other,,MTN Nigeria,"Tier III, 4.5 MW, 780 racks; hire to outsiders not stated",2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Africa Data Centres LOS1,,,,Africa Data Centres / Cassava,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Open Access Data Centres,,,,,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,"Digital Realty LKK1, LKK2, ABV1",,,,Digital Realty,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Equinix LG2,,,,Equinix,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Africa Data Centres LOS1,,other,,Africa Data Centres / Cassava,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Open Access Data Centres,,other,,,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,"Digital Realty LKK1, LKK2, ABV1",,other,,Digital Realty,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Equinix LG2,,other,,Equinix,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,Galaxy Backbone NSSC,,other,,Galaxy Backbone,0.825 MW,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,"NSSC DC1 Phase 1, Abuja",,datacentre,,Galaxy Backbone,,2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf
 NGA,21st Century Technologies DigitalHub Campus data centre,DigitalHub Campus,datacentre,Schneider Electric EcoStruxure; Siemens Energy turbine,21st Century Technologies Limited,Tier IV (as stated),2024-05-08-shaping-the-future-of-data-infrastructure-21st-century-technologies-tier-iv-data
@@ -597,8 +604,8 @@ NGA,Galaxy Backbone Kano Data Recovery and Business Continuity center,NGA,other,
 NGA,21st Century Technologies data centres (Ikeja and Lekki),NGA,datacentre,,21st Century Technologies Limited,,2022-03-12-21st-century-concludes-deal-with-siemens-energy
 NGA,AFRICLOUD Lagos region,AFRICLOUD Lagos,datacentre,,AFRICLOUD,,2026-08-10-africloud-lagos-cloud-region-nigeria
 NGA,21st Century Technologies Ikeja Campus,21st Century Technologies Ikeja Campus,datacentre,,21st Century Technologies,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
-NGA,Nxtra by Airtel Eko Atlantic (planned 38 MW),Nxtra by Airtel Eko Atlantic (planned 38 MW),,,Airtel,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
-NGA,Open Access Data Centres Ilasan campus (planned 24 MW),Open Access Data Centres Ilasan campus (planned 24 MW),,,Open Access Data Centres,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
+NGA,Nxtra by Airtel Eko Atlantic (planned 38 MW),Nxtra by Airtel Eko Atlantic (planned 38 MW),other,,Airtel,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
+NGA,Open Access Data Centres Ilasan campus (planned 24 MW),Open Access Data Centres Ilasan campus (planned 24 MW),other,,Open Access Data Centres,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
 NGA,OADC Lagos campus,OADC Lagos campus,datacentre,,OADC (WIOCC),Tier III (operator-stated),2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,Rack Centre,Rack Centre,datacentre,,Rack Centre,,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,Galaxy Backbone Abuja data centre,Galaxy Backbone Abuja data centre,datacentre,,Galaxy Backbone,Uptime Tier III,2026-07-07 CBN's local data order puts Nigeria's data centres to test
@@ -607,9 +614,9 @@ NGA,Kasi Cloud LOS1 (Lekki),Kasi Cloud LOS1 (Lekki),datacentre,,Kasi Cloud Datac
 NGA,Equinix Port Harcourt,Equinix Port Harcourt,datacentre,,Equinix,article calls it Tier III-certified but links to a plans announcement; not recorded as in service,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,Rack Centre LGS2,Rack Centre LGS2,datacentre,,Rack Centre,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 NGA,Dabengwa Sifiso Data Centre,Dabengwa Sifiso Data Centre,datacentre,,MTN Nigeria,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
-NGA,"Nxtra by Airtel Victoria Island (38 MW, construction)","Nxtra by Airtel Victoria Island (38 MW, construction)",,,Airtel Africa,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+NGA,"Nxtra by Airtel Victoria Island (38 MW, construction)","Nxtra by Airtel Victoria Island (38 MW, construction)",other,,Airtel Africa,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 NGA,Rack Centre,Rack Centre,datacentre,,Rack Centre,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
-NGA,"Lagos $250 million hyperscale data centre (planned, Tier III design)","Lagos $250 million hyperscale data centre (planned, Tier III design)",,,,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+NGA,"Lagos $250 million hyperscale data centre (planned, Tier III design)","Lagos $250 million hyperscale data centre (planned, Tier III design)",other,,,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
 NGA,OADC Lagos (Lekki) data centre,OADC Lagos (Lekki) data centre,datacentre,,OADC (WIOCC),,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 NGA,OADC Lagos hyperscale facility,OADC Lagos hyperscale facility,datacentre,,OADC (WIOCC),"planned, 12 MW expected within 18 months of March 2025",2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
 NGA,Equinix LG3 Lagos,Equinix LG3 Lagos,datacentre,,Equinix,scheduled early 2026,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
@@ -618,8 +625,8 @@ NGA,Kasi Cloud Lekki campus,Kasi Cloud Lekki campus,other,,Kasi Cloud Ltd (NSIA-
 NGA,Equinix LG3,Equinix LG3,other,,Equinix,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,OADC Lagos 24 MW facility,OADC Lagos 24 MW facility,other,,Open Access Data Centres,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,Nxtra by Airtel Lagos campus,Nxtra by Airtel Lagos campus,other,,Nxtra by Airtel,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
-NGA,Digital Realty (Medallion),Digital Realty (Medallion),,,Digital Realty,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
-NGA,21st Century Technologies facilities,21st Century Technologies facilities,,,21st Century Technologies,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
+NGA,Digital Realty (Medallion),Digital Realty (Medallion),other,,Digital Realty,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
+NGA,21st Century Technologies facilities,21st Century Technologies facilities,other,,21st Century Technologies,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,PR1 Port Harcourt,PR1 Port Harcourt,datacentre,,Equinix (MainOne Solutions by Equinix),,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
 NGA,Fringe Infrastructure Ikoyi,,datacentre,,Fringe Infrastructure,,2026-01-07-dcd-fringe-infrastructure-ikoyi-edge-launch
 NGA,Rack Centre LGS1,Nigeria,datacentre,,Rack Centre,,2025-12-08-data-centre-capacity-400mw-2030-verraki
@@ -661,9 +668,9 @@ NGA,Rack Centre,Rack Centre,datacentre,,Rack Centre,,2025-07-02 MTN Nigeria laun
 NGA,OADC,OADC,datacentre,,Open Access Data Centres,,2025-07-02 MTN Nigeria launches data center in Lagos (Connecting Africa)
 NGA,Sifiso Dabengwa Data Centre,Sifiso Dabengwa Data Centre,datacentre,,MTN Nigeria,Tier III,2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)
 NGA,Equinix LG2.3 Lagos,Equinix LG2.3 Lagos,datacentre,,Equinix,,2025-04-04-equinix-opens-expansion-in-lagos-nigeria
-NGA,Suburban Cloud Abuja data centre,,,,Suburban Cloud,,2025-02-25-aws-google-cloud-nigeria-alternatives
+NGA,Suburban Cloud Abuja data centre,,other,,Suburban Cloud,,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,Layer3 cloud (colocated in two Lagos and one Abuja data centres),,other,,Layer3,,2025-02-25-aws-google-cloud-nigeria-alternatives
-NGA,Open Access Data Centres (OADC),,,,Open Access,,2025-02-25-aws-google-cloud-nigeria-alternatives
+NGA,Open Access Data Centres (OADC),,other,,Open Access,,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,"Galaxy Backbone data centres (Abuja, Kano)",NGA,datacentre,,"Galaxy Backbone, privately held, established by the Nigerian government",,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,AWS Local Zone Lagos,NGA,datacentre,AWS,Amazon Web Services,,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,Open Access,NGA,datacentre,,,,2025-02-25-aws-google-cloud-nigeria-alternatives
@@ -744,11 +751,13 @@ NGA,Medallion Lagos data centre,,datacentre,,Medallion Communications (controlli
 NGA,Medallion Abuja data centre,,datacentre,,Medallion Communications,,2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry
 NGA,Open Access Data Centres,Open Access Data Centres,datacentre,,WIOCC Group,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
 NGA,OADC Lagos (Lekki) Data Centre,Lagos (Lekki) Data Centre,datacentre,,Open Access Data Centres (WIOCC Group),,2026-05-13-ifc-51154-wiocc-vi-debt-environmental-social-review-summary
-NGA,Galaxy Backbone Limited,Nigeria,,,State-owned (per document),,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
+NGA,Galaxy Backbone Limited,Nigeria,other,,State-owned (per document),,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
 NGA,21st Century Technologies sovereign cloud platform (with China Mobile International),Nigeria,other,sovereign cloud,21st Century Technologies (described as indigenous),,2026-06-10-21st-century-china-mobile-sovereign-cloud
 NGA,Galaxy Backbone Limited,NGA,other,government cloud aggregator and shared government platforms operator,,,2026-10-05-nga-a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-busin
 NGA,AWS Local Zone (Lagos),NGA,other,AWS,Amazon Web Services,,2026-08-24-africa-data-sovereignty-ai-race-aws-techcabal
 NGA,1Government Cloud (1Gov),NGA,other,"government cloud software suite (GovDrive, GovECMS, GovMail, GovE-Sign)","Federal Government of Nigeria, implemented through Galaxy Backbone Limited",,2025-09-10-1gov-cloud-galaxy-backbone
+NGA,MainOne,Nigeria,other,,Equinix,,2024-09-09-nga-businessday-energy-costs-data-centres
+NGA,"Galaxy Backbone data centre, Abuja",Galaxy Backbone data centre,datacentre,,Federal Government of Nigeria (Galaxy Backbone Limited),Tier 3,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu
 RWA,Africa Data Centres,,other,,,,2026-01-01-xalam-rwanda-data-center-market-briefing
 RWA,PAIX,,other,,,,2026-01-01-xalam-rwanda-data-center-market-briefing
 RWA,Horus Labs GPU cluster,,other,,,,2026-01-01-xalam-rwanda-data-center-market-briefing
@@ -792,12 +801,15 @@ SEN,Cloud national des JOJ Dakar 2026,SEN,other,Alibaba Cloud (Apsara Stack),Sen
 SEN,Cloud souverain (Dakar 2026 Youth Olympic Games),SEN,other,"Alibaba (Chinese group, supporting)",,,2026-04-24-aps-formation-100-ingenieurs-cloud-computing
 SEN,Sonatel Datacenter (AWS Wavelength zone),SEN,datacentre,AWS Wavelength,Sonatel,,2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal
 SEN,Orange data centres in Senegal (AWS Wavelength Zone),SEN,other,AWS Wavelength,Orange,,2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal
-SOM,Dalkom Somalia colocation and web hosting service,SOM,,,,,2026-08-29-dalkom-somalia-disaster-recovery
+SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage
+SOM,Dalkom Somalia colocation and web hosting service,SOM,other,,,,2026-08-29-dalkom-somalia-disaster-recovery
+SOM,"Hormuud Telecom data centres (11, 10 MW combined)",Somalia,other,,Hormuud Telecom,,2025-11-27-som-garowe-hormuud-oped-solar-data-centres
 SSD,"Trinity Technologies Tier 2 Datacenter, Hai Malakal, Juba",Datacenter,datacentre,,Trinity Technologies Limited,,2026-08-29-trinity-technologies-datacentre-about
 STP,INIC hosting service (Alojamento Web),STP,other,,"INIC (Instituto de Inovação e Conhecimento), state",,2026-01-01-inic-sao-tome-alojamento-web-soberania-territorio-nacional
 STP,Centro de Dados (government),STP,other,,,,2024-07-23-inic-sao-tome-estrategia-nacional-ciberseguranca-d3
 STP,"Centro de Dados (government data centre, INIC)",STP,other,,INIC / State of STP,,2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital
 STP,SIGA hosted at University of Aveiro cloud,PRT,datacentre,cloud,University of Aveiro,,2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital
+STP,Centro Nacional de Dados (NDC),STP,other,,INIC,,2025-03-12-stp-bragatv-grupo-erre-resilient-data-centre
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2023-07-01-rstp-national-data-centre-brochure
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2021-01-01 The National Data Centre - Royal Science and Technology Park
@@ -809,6 +821,7 @@ TCD,"Tigo Chad data centre, N'Djamena",Data center Tigo Tchad,datacentre,,Tigo T
 TCD,Diamniadio data centre (Senegal),,other,,Millicom,,2016-06-27-innovation-village-millicom-data-centres-chad-senegal
 TCD,"Tigo Chad data centre, N'Djamena",Data center Tigo Tchad,datacentre,,Tigo Tchad (Millicom),,2016-05-31-dcd-flexenclosure-tigo-chad-first-data-center
 TCD,centre national de données,National data centre (Chad),other,,,,2026-10-09-tcd-tachad-tchad-le-ministre-des-telecommunications-echange-avec-les-pa
+TCD,National Data Center (PMICE Phase I),Chad,other,,State,,2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center
 TGO,Lomé Data Centre,Lomé Data Centre (LDC),datacentre,,"Société d'Infrastructures Numériques (SIN), state-owned",,"2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center"
 TGO,Lomé Data Centre,Lomé Data Centre (LDC),datacentre,,"Société d'Infrastructures Numériques (SIN), state-owned",,2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
 TGO,Lomé Data Centre,Lomé Data Center,datacentre,,Société d'Infrastructures Numériques (SIN),,2021-07-12-tgo-rfi-lome-data-centre-mise-en-service
@@ -822,15 +835,16 @@ TGO,Government data centre (Lomé),,datacentre,,Government of Togo,,2024-10-29-t
 TGO,cloudstore.africa,Cloud 100% africain,other,VPS,ST Digital,,2024-10-29-togo-top-news-st-digital-launches-its-100-african-cloud-offering
 TGO,Lomé data centre (SIN),centre de données,datacentre,,"Société d'infrastructures numériques (SIN), state; transfer to a private operator authorised 2022-12-21",,2022-12-21-tgo-conseil-des-ministres-21-decembre-2022-lome-data-center
 TGO,Centre d'Information Policière du Togo (CIPT),TGO,other,"SIPAO/WAPIS national police data collection and registration centre, inaugurated 29 April 2022","Ministère de la Sécurité et de la Protection Civile (Togo state); programme funded by the EU, led by ECOWAS, implemented by INTERPOL",,2022-05-03-togo-centre-information-policiere-cipt-sipao
+TGO,Lomé Data Centre,Togo,datacentre,,,,2026-01-01-tgo-ldc-infrastructure
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2025-06-12-tunisie-telecom-data-center-carthage-iso-certifications
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
-TUN,Data Center Kasbah,Regional secondary data centre Kasbah,,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
-TUN,Data Center Kairouan,Disaster recovery site Kairouan,,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Data Center Kasbah,Regional secondary data centre Kasbah,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Data Center Kairouan,Disaster recovery site Kairouan,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
 TUN,Syntys Tunisia data centres,Tunisia,datacentre,,Syntys (Ooredoo),,2025-11-03-ooredoo-syntys-data-centres-presentation
 TUN,Orange Tunisie Kalaa Kebira data centre,Kalaa Kebira data centre,datacentre,,Orange Tunisie,Tier III (operator),2025-05-08-dcd-orange-tunisie-data-center-kalaa-kebira-sousse
 TUN,Data Center Kalaa Kebira (Sousse),Data Center Kalaa Kebira (Sousse),datacentre,,Orange Tunisie,,2025-05-06-orange-tunisie-inaugure-un-nouveau-data-center-a-sousse-pour-repondre-aux-enjeux
 TUN,Data Center Kalaa Kebira (Sousse),Data Center Kalaa Kebira (Sousse),datacentre,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
-TUN,Data Center Charguia,Data Center historique de Charguia,,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
+TUN,Data Center Charguia,Data Center historique de Charguia,other,,Orange Tunisie,,2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie
 TUN,DataXion,DataXion,datacentre,,DataXion,,2024-05-31-dataxion-tier-iv-certifications
 TUN,EO Datacenter,EO Datacenter,datacentre,,Meninx Holding,,2019-05-18-meninx-holding-eo-datacenter-obtient-la-certification-pci-dss
 TUN,Data Center Carthage,Data Center Carthage,datacentre,,Tunisie Telecom,,2017-07-11-tekiano-tunisie-telecom-data-center-kairouan
@@ -849,10 +863,11 @@ TUN,Tunisie Telecom data centres,TUN,datacentre,hosting and storage,Tunisie Tele
 TUN,Tunisian sovereign cloud,TUN,other,planned host for health data,,,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
 TUN,fully Tunisian cloud solutions (Ministry of Health plan),TUN,other,,,,2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy
 TUN,national or sectoral government cloud centres,TUN,other,government cloud,state,,2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques
-TUN,National Computing Centre (المركز الوطني للإعلامية),TUN,,,,,2026-09-04-alchourouk-circular-securing-public-digital-systems
+TUN,National Computing Centre (المركز الوطني للإعلامية),TUN,other,,,,2026-09-04-alchourouk-circular-securing-public-digital-systems
+TUN,Tunisie Telecom national data centre,Tunisia,datacentre,,Tunisie Telecom,,2026-10-14-tun-assabah-employment-ministry-tunisie-telecom-framework
 TZA,TTCL Kijitonyama data centre,,datacentre,,TTCL,,2017-01-18-dcd-tanzania-ttcl-data-centre-underused-agencies-told-to-move-in
-TZA,National Internet Data Center (Mikocheni),National Internet Data Center,,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
-TZA,Tanzania Internet Exchange (TIX),TIX,,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
+TZA,National Internet Data Center (Mikocheni),National Internet Data Center,other,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Tanzania Internet Exchange (TIX),TIX,other,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
 TZA,Wingu Cloud Exchange (WCX),WCX,datacentre,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
 TZA,Wingu.Africa Dar es Salaam data centre,,datacentre,,Wingu.Africa (founders and Africa Capitalworks),,2025-03-20-wingu-africa-breaks-grounds-on-data-center-expansion-in-dar-es-salaam-tanzania
 TZA,Wingu.Africa Dar es Salaam data centre,Wingu Africa Mbezi data centre,datacentre,,Wingu Africa,Tier 3,2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02
@@ -895,8 +910,8 @@ UGA,Raxio Data Centres Uganda,Raxio Data Centres,datacentre,,Raxio Group,,2023-0
 UGA,Raxio Data Centre (Namanve),Raxio Data Centre,datacentre,,Raxio,,2026-03-04-abq-cloud-launch-observer
 UGA,ABQ Cloud,ABQ Cloud,other,,ABQ Cloud / Roke Cloud / AfriQloud,,2026-03-04-abq-cloud-launch-observer
 UGA,Raxio Data Centre (Namanve),Raxio Data Centre,datacentre,,Raxio,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
-UGA,MTN data centre,MTN data centre,,,MTN Uganda,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
-UGA,National Data Centre (NITA-U),National Data Centre,,,NITA-U,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
+UGA,MTN data centre,MTN data centre,other,,MTN Uganda,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
+UGA,National Data Centre (NITA-U),National Data Centre,other,,NITA-U,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
 UGA,Aeonian Project (Synectic Technologies),The Aeonian Project,other,,Synectic Technologies,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
 UGA,Raxio Data Centre (Namanve),Raxio Data Centre,datacentre,,Raxio,,2026-01-28 Uganda to Launch Africa's First Home-Grown AI Supercomputer Center at Karuma Hydropower Plant
 UGA,Aeonian Project,Aeonian Project,other,NVIDIA (USIO supercomputer),Synectic Technologies,,2026-01-28 Uganda to Launch Africa's First Home-Grown AI Supercomputer Center at Karuma Hydropower Plant
@@ -968,9 +983,9 @@ ZAF,Teraco JB7,Teraco JB7,datacentre,,Teraco,,"2025-06-08 Teraco completes JB5 d
 ZAF,Teraco JB5,Teraco JB5,datacentre,,Teraco,,"2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure"
 ZAF,Liquid data centre (South Africa),Liquid data centre (South Africa),datacentre,,Liquid Intelligent Technologies,,2024-12-01-bii-liquid-data-centre-productivity-study-companion
 ZAF,"Africa Data Centres (Midrand, Centurion, Cape Town)","Africa Data Centres (Midrand, Centurion, Cape Town)",datacentre,,Africa Data Centres / Cassava Technologies,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
-ZAF,CPT2 (Cape Town),CPT2 (Cape Town),,,Africa Data Centres,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
+ZAF,CPT2 (Cape Town),CPT2 (Cape Town),other,,Africa Data Centres,,"2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand"
 ZAF,Teraco Isando Campus,Teraco Isando Campus,datacentre,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
-ZAF,Teraco JB7 (Isando),Teraco JB7 (Isando),,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
+ZAF,Teraco JB7 (Isando),Teraco JB7 (Isando),other,,Teraco,,2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus
 ZAF,Equinix JN1,Equinix JN1,datacentre,,Equinix,,2024-10-24-equinix-opens-its-first-data-center-in-johannesburg-enhancing-digital-infrastruc
 ZAF,Africa Data Centres CPT1,Africa Data Centres CPT1,datacentre,,Africa Data Centres / Cassava Technologies,,2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town
 ZAF,Teraco Isando Campus,Isando Campus,datacentre,,Teraco (Digital Realty),,2024-02-06-teraco-announces-access-to-johannesburg-google-cloud-region-via-cloud-interconne
@@ -1006,7 +1021,7 @@ ZAF,Johannesburg 1 Data Center,JOH1,datacentre,,NTT,,2022-10-26-dcd-zaf-ntt-joha
 ZAF,Africa Data Centres Samrand,Samrand,datacentre,,Africa Data Centres (Cassava Technologies),,2022-08-30-adc-zaf-samrand-expansion-groundbreaking
 ZAF,JHB2 Samrand Data Centre,JHB2,datacentre,,Africa Data Centres,,2022-04-12-adc-zaf-samrand-jhb2-site-specifications
 ZAF,Oracle Cloud Johannesburg Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2022-01-19-oracles-johannesburg-data-centre-goes-live
-ZAF,Dimension Data data centres,,,,Dimension Data,,2022-01-19-oracles-johannesburg-data-centre-goes-live
+ZAF,Dimension Data data centres,,other,,Dimension Data,,2022-01-19-oracles-johannesburg-data-centre-goes-live
 ZAF,Teraco Data Environments,,datacentre,,Teraco,,2022-01-19-oracles-johannesburg-data-centre-goes-live
 ZAF,Equinix Johannesburg JN1,JN1,datacentre,,Equinix South Africa,,2022-01-01-equinix-zaf-johannesburg-jn1-2022-equinix-johannesburg-jn1-data-centre-us160
 ZAF,Teraco CT2 Brackenfell,Teraco CT2 Brackenfell,datacentre,,Teraco,,2021-10-07-teraco-completes-cape-town-hyperscale-data-centre-expansion
@@ -1086,7 +1101,7 @@ ZAF,Microsoft Azure South Africa North (Johannesburg),South Africa North,datacen
 ZAF,Microsoft Azure South Africa West (Cape Town),South Africa West,datacentre,Azure,Microsoft,,2026-02-19-microsoft-136bn-ai-cross-border-data
 ZAF,AWS Outposts,,other,,Amazon Web Services,,2026-02-19-microsoft-136bn-ai-cross-border-data
 ZAF,Cassava Africa Data Centres SA (Cassava ADC),South Africa,other,,STANLIB Infrastructure Fund II to take joint control (merger approved 2026-02-04),,2026-02-04-merger-alert-outcome-of-mergers-decided-by-the-tribunal-4-february-2026
-ZAF,Africa Data Centres,,,,Cassava Technologies (subsidiary); STANLIB to take a minority stake,,2025-11-13-liquid-intelligent-technologies-cassava-announces-strategic-investments-in-gpu-a
+ZAF,Africa Data Centres,,other,,Cassava Technologies (subsidiary); STANLIB to take a minority stake,,2025-11-13-liquid-intelligent-technologies-cassava-announces-strategic-investments-in-gpu-a
 ZAF,Teraco Isando,South Africa,datacentre,,Teraco (Digital Realty),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,Teraco Bredell,South Africa,datacentre,,Teraco (Digital Realty),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,Africa Data Centres Midrand,South Africa,datacentre,,Africa Data Centres (ADC),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
@@ -1098,7 +1113,7 @@ ZAF,Africa Data Centres Cape Town,South Africa,datacentre,,Africa Data Centres (
 ZAF,SITA Centurion data centre,South Africa,other,,SITA (state agency),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,SITA Beta data centre,South Africa,other,,SITA (state agency),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,National integrated government data centre (proposed),South Africa,other,,"proposed, under SITA",,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
-ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",South Africa,,,,,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
+ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",South Africa,other,,,,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZMB,"Infratel production data centre, Lusaka",SMART Zambia data centres,datacentre,,Government of Zambia via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Netone data centre,Netone,datacentre,,Netone,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Paratus data centre,Paratus,datacentre,,Paratus,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly

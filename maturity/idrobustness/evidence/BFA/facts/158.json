@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-13-bfa-burkina24-anotel-cnib-carte-sim",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Carte Nationale d'Identite Burkinabe (CNIB)",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The CNIB is named only as an accepted document; nothing on issuance, biometrics or certification."
+}

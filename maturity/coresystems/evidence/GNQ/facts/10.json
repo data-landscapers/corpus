@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-10-gnq-oficina-prensa-consejo-interministerial-confin",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Interministerial Council on 10 February 2025 took up new directives for the CONFIN system across the whole public administration and autonomous bodies, described as an integrated public finance management system built for executing current expenditure of the state budget.",
+   "as_of": "2025-02-10",
+   "date_precision": "day",
+   "system": "CONFIN",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CONFIN",
+   "country_label": "CONFIN",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministerio de Hacienda, Planificacion y Desarrollo Economico",
+   "tiers": "central government and autonomous bodies"
+  }
+ ],
+ "note": ""
+}

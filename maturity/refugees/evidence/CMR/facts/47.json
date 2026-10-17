@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-13-cmr-biometricupdate-augentic-15-year-id-contract",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Under its May 2024 contract with the DGSN, Augentic is required to produce refugee cards among other identity documents, according to Biometric Update.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "refugee cards",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

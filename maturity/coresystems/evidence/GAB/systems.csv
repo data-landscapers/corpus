@@ -1,14 +1,14 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GAB,Système Intégré de Gestion des Ressources Humaines (SIGRH),SIGRH,other,,Ministère de la Fonction Publique et du Renforcement des Capacités,central,2026-10-13-gab-fonction-publique-sigrh-preparatifs
-GAB,Solde,Solde (payroll),,,,,2026-10-13-gab-fonction-publique-sigrh-preparatifs
+GAB,Solde,Solde (payroll),other,,,,2026-10-13-gab-fonction-publique-sigrh-preparatifs
 GAB,SIGRH,"Système intégré de gestion des ressources humaines et de la paie (SIGRH), being advanced, not stated as in use",other,,,,2026-08-31-wearetech-gabon-rwanda-digital-transformation
 GAB,Fichier unique de référence (FUR),FUR,core,,Ministère de la Fonction Publique; built by ANINF,central,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
 GAB,Système Intégré de Gestion des Ressources Humaines (SIGRH),SIGRH,other,,Ministère de la Fonction Publique et du Renforcement des Capacités,central,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
-GAB,Solde,Solde (payroll),,,,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
+GAB,Solde,Solde (payroll),other,,,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
 GAB,Integrated Public Financial Management System (SIGFIP),SIGFIP,core,,Ministry of Economy and Finance,central,2026-01-18-gabon-sigfip-public-finance-platform-launch
 GAB,Système Intégré de Gestion des Finances Publiques (SIGFIP),SIGFIP,core,,Ministère de l'Économie et des Finances,central,2026-01-17-gabon-lancement-sigfip-finances-publiques
 GAB,SYDONIA World,SYDONIA World,other,ASYCUDA,Customs,,2026-01-17-gabon-lancement-sigfip-finances-publiques
-GAB,Fichier unique de référence,FUR,,,,,2026-01-17-gabon-lancement-sigfip-finances-publiques
+GAB,Fichier unique de référence,FUR,other,,,,2026-01-17-gabon-lancement-sigfip-finances-publiques
 GAB,SIGFIP,Integrated Public Finance Management System,core,,Ministry of Economy and Finance,central,2026-01-14-gabon-public-finance-egov-initiatives
 GAB,MADIGIPAIE,electronic payments for public services,other,,,,2026-01-14-gabon-public-finance-egov-initiatives
 GAB,National platform for payment and collection of public revenue,,other,,,,2026-01-14-gabon-public-finance-egov-initiatives

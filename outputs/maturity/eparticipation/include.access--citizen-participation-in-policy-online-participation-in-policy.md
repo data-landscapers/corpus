@@ -53,6 +53,7 @@ A standing online channel for public comment was in service in 2026; published a
 The government asked the public for views online in 2025; a standing online channel is not on record.
 
 - The Botswana Energy Regulatory Authority invited the public to send written comments by email by 30 January 2026 on BPC's 2026-27 tariff application, with the Public Consultation Paper requesting comments posted on the BERA website ([source, 2025-12-17](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/BERA%2028X5%20KO.pdf)).
+- The notice says the draft Cybersecurity Bill is available on the BOCRA website and that written comments go by email to the ministry by 23 June 2025 ([source, 2025-06](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Preamble_to_the_Cybersecurity_Bill_Revised.pdf)).
 
 ### Cape Verde: 2 Nascent
 
@@ -72,6 +73,7 @@ The government asked the public for views online in 2026; a standing online chan
 
 The government asked the public for views online in 2025; a standing online channel is not on record.
 
+- NITA invited the public to comment on the draft NITA Data Harmonisation Bill 2025, posted on its website, from 19 to 27 November 2025, with responses sent by email ([source, 2025-11-19](https://nita.gov.gh/publicconsultation-3-2-2/)).
 - Graphic Online reports that NITA put out its draft Data Harmonisation Bill 2025 for public consultation from 19 to 27 November 2025, with the consultation document available on the NITA website at www.nita.gov.gh/publicconsultation ([source, 2025-10-21](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html)).
 
 ### Guinea-Bissau: 2 Nascent

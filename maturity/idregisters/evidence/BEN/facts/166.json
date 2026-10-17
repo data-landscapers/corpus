@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-29-ben-lanation-interoperabilite-rnpp-npi",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The article says the tax directorate and the emigration and immigration directorate have been trying interoperability with the RNPP for several years, and ANIP is extending it to about 100 other bodies to integrate the NPI.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "RNPP / NPI",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence nationale d'identification des personnes (ANIP)",
+   "tiers": ""
+  },
+  {
+   "system": "Numero personnel d'identification (NPI)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": "simple authentication; strong authentication; data exchange"
+  }
+ ],
+ "note": ""
+}

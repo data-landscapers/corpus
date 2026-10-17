@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-03-mar-aujourdhui-dgi-simpl-e-services",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGI says Simpl modules (TVA, IS, IR) let taxpayers file returns online (teledeclarations).",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Simpl",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Simpl",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Simpl",
+   "country_label": "Morocco",
+   "class": "taxsystem",
+   "platform": "web (J2EE)",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

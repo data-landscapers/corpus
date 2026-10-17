@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-ken-icta-faqs-government-data-centre-dr-konza",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Data Centre",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "ICT Authority / Government of Kenya",
+   "tiers": "tier-2"
+  }
+ ],
+ "note": "Government data centre is not stated to rent to outside organisations; Tier 2 only."
+}

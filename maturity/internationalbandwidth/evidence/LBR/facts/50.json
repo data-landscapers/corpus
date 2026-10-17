@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ECOWAS says the six countries of the Amilcar Cabral project currently have only one landing station.",
+   "as_of": "2024-06-14",
+   "date_precision": "day",
+   "system": "existing submarine cable landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-01-eth-addisfortune-insa-pki-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Addis Fortune reports that INSA introduced a public key infrastructure data centre with INSA as Root certificate authority issuing digital certificates to national institutions and private companies, launched by Prime Minister Abiy Ahmed on 31 August 2024.",
+   "as_of": "2024-08-31",
+   "date_precision": "day",
+   "system": "INSA public key infrastructure (Root CA)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INSA public key infrastructure (Root CA)",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "PKI data centre",
+   "owner": "Information Network Security Agency (INSA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

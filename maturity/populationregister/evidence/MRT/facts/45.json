@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-21-mrt-procedures-enrolement-enfant-rnp",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The government procedures portal (last updated 2023-11-21) describes a standing procedure to enrol a child born to Mauritanian parents in the population register (national biometric register) run by the ANRPTS, free of charge at citizen reception centres.",
+   "as_of": "2023-11-21",
+   "date_precision": "day",
+   "system": "Registre biométrique national",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre biométrique national (ANRPTS)",
+   "country_label": "MRT",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-liberianobserver-house-reviews-national-digital-id-overhaul",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Liberian Observer reports a proposed NIDCRVS concession with OeSD International GmbH, referred to a House joint committee on 2026-10-13, would integrate national identification with civil registration in one digital platform.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "NIDCRVS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDCRVS",
+   "country_label": "National Identification Central Digital Civil Registration and Vital Statistics System",
+   "class": "other",
+   "platform": "",
+   "owner": "OeSD International GmbH (BOT concession)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

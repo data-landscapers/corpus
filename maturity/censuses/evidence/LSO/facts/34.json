@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-01-lso-bos-publications",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The Bureau of Statistics Lesotho page lists Census 2016 Vol IIIA Population Dynamics and Vol IIIB Socio-Economic Characteristics reports for download.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Census 2016",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Bureau of Statistics Lesotho page lists the Labour Force Survey 2024 Indicators as its latest release.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Labour Force Survey 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

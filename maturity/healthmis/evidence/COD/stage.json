@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "4",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-003",
-   "gaps": "No source held since October 2023 gives the system's reporting completeness or timeliness.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-005",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

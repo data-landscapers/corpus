@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-01-bwa-bocra-cybersecurity-bill-consultation",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The Botswana Communications Regulatory Authority's notice on the Cybersecurity Bill refers to a Botswana National Cybersecurity Strategy that the Bill is meant to implement.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Botswana National Cybersecurity Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

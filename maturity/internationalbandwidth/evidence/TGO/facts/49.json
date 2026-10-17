@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "CSquared says CSquared Woezon is the landing partner for the Equiano cable system in Togo, the first landing of the system in continental Africa.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Equiano cable system",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

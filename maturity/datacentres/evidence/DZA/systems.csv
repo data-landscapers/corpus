@@ -9,8 +9,8 @@ DZA,Centre national de données d'El Mohammadia,premier Centre national de donn�
 DZA,Data Center de l'APN,Data Center de l'APN,other,,Assemblée populaire nationale,,2026-08-13-algeria-apn-data-center-visit
 DZA,National Digital Services Center (Algiers and Blida data centres),National Data Center,other,,Government of Algeria,"Tier III-standard, 99.98% availability",2026-07-15-one-month-deadline-data-center-integration--wearetech
 DZA,National Digital Services Center (Algiers and Blida data centres),National Digital Services Center,other,Huawei,Government of Algeria,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
-DZA,Constantine data centre,"first data center in Constantine, February 2023",,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
-DZA,Oran AI data centre,"second facility dedicated to artificial intelligence, Oran, March 2025",,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
+DZA,Constantine data centre,"first data center in Constantine, February 2023",other,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
+DZA,Oran AI data centre,"second facility dedicated to artificial intelligence, Oran, March 2025",other,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
 DZA,Centre national des services numériques (Mohammadia),Centre national algérien des services numériques,other,Huawei-led consortium,Haut-Commissariat à la numérisation,,2026-07-05-dza-elwatan-centre-national-services-numeriques
 DZA,Centre national des services numériques (Mohammadia and Blida),CNSN,other,Huawei,Government of Algeria / Huawei partnership,state,2026-07-05-jeune-independant-centre-national-services-numeriques
 DZA,Mohammadia Data Center,Centre de données de Mohammadia,other,Huawei,Government of Algeria / Huawei,state,2026-07-05-jeune-independant-centre-national-services-numeriques
@@ -38,3 +38,5 @@ DZA,Mohammadia data centre,Mohammadia data centre,other,,State,government,2025-0
 DZA,Blida data centre,Blida data centre,other,,State,government,2025-05-12-national-digital-transformation-strategy-announced-echorouk
 DZA,AYRADE data centres,AYRADE,datacentre,,AYRADE,,2026-06-04-dza-algerie360-ayrade-bourse-entretien-belbachir
 DZA,CERIST cloud computing platform,CERIST cloud platform,other,OpenStack; Kubernetes,CERIST,,2025-03-26-cerist-cloud-drone-incubator--wearetech
+DZA,Centre national des services numériques,Algérie,datacentre,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
+DZA,Centre national algérien des prestations numériques (Data Center),Algeria,other,,Haut-Commissariat à la numérisation,,2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers

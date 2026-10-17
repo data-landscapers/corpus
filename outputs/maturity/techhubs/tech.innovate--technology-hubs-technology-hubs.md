@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 3 |
-| 3 Established | 28 |
-| 2 Nascent | 19 |
+| 3 Established | 29 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 1 |
@@ -125,6 +125,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 - The World Bank says the CAFI Entrepreneurship Hub runs a six-month incubation period with mentoring and grants for selected enterprises, in five cohorts to date, and has supported 464 SMEs since 2022 ([source, 2026-09-15](https://www.worldbank.org/en/news/feature/2026/09/15/entrepreneurs-at-work-creating-jobs-and-innovation-in-lesotho)).
 - The Lesotho News Agency reports the CAFI Entrepreneurship Hub launched its fifth cycle incubation programme with 60 enterprises selected, in priority sectors including digital innovation ([source, 2026-03-20](https://www.lena.gov.ls/cafi-entrepreneurship-hub-launches-5th-cycle-incubation-programm/)).
+
+### Libya: 3 Established
+
+A hub ran a programme for startups in 2025; hubs in more than one city are not on record.
+
+- SPARK states that Silphium Labs, a business incubator founded with Omar Al-Mokhtar University and ION+ under the EU-funded Libya Startup Programme, took in Smart Tech in 2024 and ran a final pitching event in May 2025 awarding 15,000 euro seed funding ([source, 2025-05](https://spark.ngo/story/smart-tech-building-digital-bridges-in-libyas-green-mountain/)).
 
 ### Madagascar: 3 Established
 
@@ -300,13 +306,6 @@ A technology hub or park was under way in 2026; none running programmes is on re
 A technology hub or park was under way in 2026; none running programmes is on record.
 
 - UNDP with iCampus Liberia, the Ministry of Commerce and Industry, the University of Liberia and UniPod launched LiYEPA, a six-month pilot accelerator with incubation, mentorship and prototype support, on 30 June 2026, aiming at 100-120 innovators, with applications open ([source, 2026-06-30](https://www.undp.org/liberia/news/ideas-impact)).
-
-### Libya: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- The University of Benghazi business incubator ran the first Nawat tech-projects competition, which drew over 600 entries and gave winners incubation offers from the incubator, with no incubation programme or cohort described ([source, 2026-07-30](https://www.addresslibya.com/2026/%d8%a7%d8%ae%d8%aa%d8%aa%d8%a7%d9%85-%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d9%86%d9%88%d8%a7%d8%a9-%d9%84%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a9-2/)).
-- Libya's Gharyan University signed a memorandum with Dassault Systemes and ABBK PhysicsWorks for SolidWorks licences and certification training at its Entrepreneurship and Innovation Centre, open to entrepreneurs and startup owners from inside and outside the university, reported 13 February 2026 citing the Ministry of Higher Education ([source, 2026-02-13](https://lana.gov.ly/post.php?id=350963&lang=ar)).
 
 ### Malawi: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-itweb-digital-identity-failures-expose-africa-service-risks",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "In July 2024 the Nigerian Communications Commission ordered telecom operators to reactivate lines blocked after National Identification Number (NIN)-SIM verification problems.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "NIN-SIM verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

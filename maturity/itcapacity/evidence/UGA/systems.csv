@@ -1,31 +1,31 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGPass,UGPass,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
-UGA,National Land Information System,National Land Information System,,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,NIPX,NIPX,other,,"neutral, not government-owned",,2026-04-14-nipx-launch
-UGA,UGHub,UGHub,,national data integration platform,,,2026-03-13-service-uganda-centres-groundbreaking
-UGA,UGPass,UGPass,,authentication and e-signature platform,NITA-U,,2025-08-28-nita-u-ugpass-ceo-breakfast
+UGA,UGHub,UGHub,other,national data integration platform,,,2026-03-13-service-uganda-centres-groundbreaking
+UGA,UGPass,UGPass,other,authentication and e-signature platform,NITA-U,,2025-08-28-nita-u-ugpass-ceo-breakfast
 UGA,NITA-U National Data Centre,National Data Centre,staff,government data centre,NITA-U,,2025-06-19-nita-u-national-data-centre-service
 UGA,National Data Centre,National Data Centre,staff,government data centre,NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
-UGA,UGhub,UGhub,,"whole-of-government integration platform, 151 entities",NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
+UGA,UGhub,UGhub,other,"whole-of-government integration platform, 151 entities",NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Parish Development Model Information System,PDMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Integrated Health Management Information System,IHMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Education Management Information System,EMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Electronic Document and Records Management System,EDRMS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Online Business Registration Services System,OBRS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
-UGA,UGHub,UGHub,,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
-UGA,UGPass,UGPass,,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGHub,UGHub,other,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGPass,UGPass,other,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
 UGA,National data centre,National data centre,staff,,NITA-U,,2015-06-10-uga-gazette-nita-u-egovernment-regulations
 UGA,National Data Centre,National Data Centre,staff,,NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,National Backbone Infrastructure,National Backbone Infrastructure,staff,,NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in
-UGA,UGHub,UGHub,,national data integration platform,,,2026-09-26-uga-digital-services-agent-permission-layer
+UGA,UGHub,UGHub,other,national data integration platform,,,2026-09-26-uga-digital-services-agent-permission-layer
 UGA,U-Learn Platform,U-Learn,other,,NITA-U with Ministry of Education and Sports,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
-UGA,Uganda Human Rights Commission Case Management System,UHRC Case Management System,,,Uganda Human Rights Commission,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
-UGA,Electronic Government Procurement (e-GP),e-GP,,,,,2026-06-13-ppda-iso27001-certification
-UGA,Electronic Investors Protection Portal,Electronic Investors Protection Portal,,,State House Investors Protection Unit (SHIPU),,2026-06-10-nakalema-meets-trade-minister-huawei-executives
+UGA,Uganda Human Rights Commission Case Management System,UHRC Case Management System,other,,Uganda Human Rights Commission,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
+UGA,Electronic Government Procurement (e-GP),e-GP,other,,,,2026-06-13-ppda-iso27001-certification
+UGA,Electronic Investors Protection Portal,Electronic Investors Protection Portal,other,,State House Investors Protection Unit (SHIPU),,2026-06-10-nakalema-meets-trade-minister-huawei-executives
 UGA,NITA-U National Data Centre,National Data Centre,staff,,NITA-U,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
 UGA,Firewall-as-a-Service (FWaaS),FWaaS,staff,,NITA-U,,2026-02-02-nita-u-fwaas-introduction
 UGA,National IP Peering Exchange (NIPX),National IP Peering Exchange,other,,NITA-U,,2025-10-17-nipx-establishment-peering-policy
@@ -38,8 +38,8 @@ UGA,National Transmission Backbone and e-Government Infrastructure Project Phase
 UGA,Unified Messaging and Collaboration System (UMCS),UMCS,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 UGA,Whole-of-Government integration and data-sharing platform,,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 UGA,National Data Centre,NDC,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Parish Development Model Information System,PDMIS,,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Electronic Document and Records Management System,EDRMS,,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Online Business Registration System,OBRS,,,URSB,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Education Management Information System,EMIS,,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Electronic Government Procurement,E-GP,,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Parish Development Model Information System,PDMIS,other,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Electronic Document and Records Management System,EDRMS,other,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Online Business Registration System,OBRS,other,,URSB,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Education Management Information System,EMIS,other,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Electronic Government Procurement,E-GP,other,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24

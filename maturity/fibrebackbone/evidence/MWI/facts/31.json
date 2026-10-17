@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-mwi-maravi-airtel-five-international-fibre-routes",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Airtel Malawi says its proprietary fibre backbone has been reinforced with new routes from Lilongwe to Salima and Blantyre to Mangochi.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Airtel proprietary fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel proprietary fibre backbone",
+   "country_label": "Malawi",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

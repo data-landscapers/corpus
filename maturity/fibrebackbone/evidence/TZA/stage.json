@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "5",
-   "reach": "every-region",
-   "access": "open",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-012;TZA-010",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "5",
+      "reach": "every-region",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-012;TZA-010",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-16-ssd-radiotamazuj-qa-census-before-elections-ting",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding.",
+   "as_of": "2024-09-16",
+   "date_precision": "day",
+   "system": "South Sudan population census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-21-mwi-malawi24-tnm-additional-fibre-routes",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "TNM says it acquired additional fibre routes into Malawi via Zambia (Mchinji/Chipata, from ZESCO/Telecom Namibia and MTN Zambia) and Mozambique (Muloza/Mulanje, from TMCel) after subsea cable cuts left it only the Mchinji/Chipata link.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "TNM cross-border fibre routes",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TNM cross-border fibre routes",
+   "country_label": "Malawi",
+   "class": "route",
+   "platform": "fibre",
+   "owner": "TNM Plc with ZESCO, MTN Zambia, TMCel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

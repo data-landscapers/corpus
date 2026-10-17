@@ -1,18 +1,19 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "designated",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-004;GHA-012;GHA-010",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "designated",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-043;GHA-002;GHA-042",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

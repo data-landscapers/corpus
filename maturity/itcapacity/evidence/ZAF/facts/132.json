@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-zaf-pmg-nw2881-digital-health-hie-emr",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The reply says the national EMR for PHC was developed in-house by the Department of Health, with no procurement adjudication.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Electronic Medical Record (EMR) system for PHC",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

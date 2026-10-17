@@ -2,16 +2,16 @@ iso3,stage,registration,access,counted,stage_sources
 AGO,3,documented,,,AGO-001
 BDI,3,documented,,,BDI-001
 BEN,no evidence,,,,
-BFA,3,documented,,,BFA-001;BFA-003
+BFA,4,documented,open,,BFA-004
 BWA,3,documented,,,BWA-001
 CAF,3,documented,,,CAF-001
 CIV,3,documented,,,CIV-001;CIV-003
 CMR,2,underway,,,CMR-001;CMR-002
-COD,2,underway,,,COD-001
+COD,2,underway,,,COD-002;COD-001
 COG,3,documented,,,COG-001
 COM,3,documented,,,COM-001
 CPV,no evidence,,,,
-DJI,no evidence,,,,
+DJI,1,none,,,DJI-001
 DZA,no evidence,,,,
 EGY,3,documented,,,EGY-001
 ERI,unplaced,,,,
@@ -50,6 +50,6 @@ TGO,3,documented,,,TGO-003;TGO-004
 TUN,no evidence,,,,
 TZA,1,none,,,TZA-001;TZA-002
 UGA,3,documented,,,UGA-001
-ZAF,unplaced,,,,
+ZAF,2,underway,,,ZAF-003;ZAF-001
 ZMB,2,underway,,,ZMB-002;ZMB-001
 ZWE,no evidence,,,,

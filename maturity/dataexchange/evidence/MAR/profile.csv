@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,exchange,platform,coverage,inservice,2022-09-05,MAR-001,,nothing dated since 2023-09-28
+MAR,exchange,platform,coverage,inservice,2024-01,MAR-001;MAR-002,,
 MAR,exchange,reach,coverage,,,,,nothing held
-MAR,exchange,usage,coverage,,,,,nothing held
+MAR,exchange,usage,coverage,reported,2024-01,MAR-003,,

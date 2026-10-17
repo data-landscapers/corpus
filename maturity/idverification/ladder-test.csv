@@ -1,6 +1,6 @@
 iso3,stage,use,sectors,usage,stage_sources
 AGO,2,underway,,,AGO-001
-BDI,3,inservice,,,BDI-002;BDI-001
+BDI,5,inservice,several,reported,BDI-003
 BEN,5,inservice,several,reported,BEN-002;BEN-005
 BFA,unplaced,,,,
 BWA,3,inservice,,,BWA-001
@@ -15,7 +15,7 @@ DJI,2,underway,,,DJI-001
 DZA,3,inservice,,,DZA-002;DZA-005
 EGY,5,inservice,several,reported,EGY-006
 ERI,no evidence,,,,
-ETH,5,inservice,several,reported,ETH-006;ETH-012
+ETH,5,inservice,several,reported,ETH-002;ETH-004
 GAB,2,underway,,,GAB-001
 GHA,4,inservice,several,,GHA-034;GHA-008
 GIN,2,underway,,,GIN-001
@@ -25,7 +25,7 @@ GNQ,no evidence,,,,
 KEN,4,inservice,several,,KEN-006
 LBR,3,inservice,,,LBR-003
 LBY,2,underway,,,LBY-001
-LSO,3,inservice,,,LSO-001
+LSO,3,inservice,,,LSO-001;LSO-005
 MAR,5,inservice,several,reported,MAR-003;MAR-008
 MDG,no evidence,,,,
 MLI,3,inservice,,,MLI-002;MLI-001
@@ -35,7 +35,7 @@ MUS,3,inservice,,,MUS-004
 MWI,5,inservice,several,reported,MWI-015;MWI-007
 NAM,3,inservice,,,NAM-001;NAM-004
 NER,2,underway,,,NER-001;NER-002
-NGA,5,inservice,several,reported,NGA-016;NGA-013
+NGA,5,inservice,several,reported,NGA-030;NGA-016
 RWA,2,underway,,,RWA-001;RWA-002
 SDN,3,inservice,,,SDN-002;SDN-008
 SEN,3,inservice,,,SEN-001;SEN-002
@@ -47,7 +47,7 @@ SWZ,3,inservice,,,SWZ-002
 SYC,3,inservice,,,SYC-004;SYC-001
 TCD,2,underway,,,TCD-001
 TGO,2,underway,,,TGO-001
-TUN,4,inservice,several,,TUN-002;TUN-009
+TUN,4,inservice,several,,TUN-012;TUN-002
 TZA,5,inservice,several,reported,TZA-007;TZA-011
 UGA,5,inservice,several,reported,UGA-006
 ZAF,5,inservice,several,reported,ZAF-019;ZAF-006

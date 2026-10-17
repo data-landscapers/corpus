@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,electoral,roll,inservice,"UNDP reports the IEC registers voters through Mobile Registration Devices and an outsourced Voter Registration Management System, with 1,388,207 voters on the roll as of September 2023.",2023-09,month,Voter Registration Management System,electoral,2024-01-01-lso-undp-voter-registration-roundtable,https://www.undp.org/sites/g/files/zskgke326/files/2024-01/web-site_article_on_vr_conference.pdf

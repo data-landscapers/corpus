@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mar-crvslaws-birth-registration-id-services",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "CRVS Laws states that under Law 36.21 Article 30 a civil and social digital identifier is assigned at birth registration, but only to citizens.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "civil and social digital identifier",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "civil and social digital identifier",
+   "country_label": "Morocco",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-29-nga-npc-first-lady-birth-certificate-nin",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The NPC release says NPC, the Health Ministry, NIMC and Barnksforte Technologies have an initiative to issue a national identification number to every child at birth, starting in 2024.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "NIN at birth initiative",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

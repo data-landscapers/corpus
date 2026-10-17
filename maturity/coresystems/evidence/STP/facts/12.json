@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-03-stp-mef-ifmis-request-for-proposal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Financial Management Information System (IFMIS)",
+   "country_label": "IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (ISP-CAPEM management unit)",
+   "tiers": ""
+  }
+ ],
+ "note": "An IFMIS is tendered (RFP issued 2 Sep 2025), not a system in use."
+}

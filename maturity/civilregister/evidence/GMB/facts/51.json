@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eCRVS",
+   "country_label": "Electronic Civil Registration and Vital Statistics System",
+   "class": "civil",
+   "platform": "",
+   "owner": "Registry of Births and Deaths",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the eCRVS but not national rollout, deaths or coverage."
+}

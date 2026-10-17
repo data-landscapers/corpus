@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-02-bfa-oni-antenne-centre-ouest-cnib",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "CNIB",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives 10,308,006 registered of 12,477,149 aged 15 and over, not a share of the whole population of all ages."
+}

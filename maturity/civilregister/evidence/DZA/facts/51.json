@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The Ministry of the Interior says a computerised civil-status system and a centralised database, the Registre National d'Etat Civil (RNEC), were set up in an operation launched in 2010, with birth-record registers archived digitally.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "RNEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNEC",
+   "country_label": "Registre National d'Etat Civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

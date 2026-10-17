@@ -11,3 +11,7 @@ NER,fID (NIU unique identifier system),Niger,idsystem,MOSIP,Ministry of the Inte
 NER,Niger national e-ID card,Niger,idsystem,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport
 NER,Registre National de la Population,Niger,idsystem,,ANEI,,2026-08-20-lesahel-tillaberi-etat-civil-identification
 NER,MOSIP-based national digital ID,Niger,idsystem,MOSIP,,,2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate
+NER,national biometric ID card and passport project,Niger,other,Al Itissal Al Jadeed (Alitisal Aljadeed) with a local partner,Ministry of the Interior,,2026-03-10-ner-lesahel-sg-interieur-visite-cni-passeports
+NER,E-ID (carte nationale d'identité électronique),Niger,idsystem,,Ministère de l'Intérieur,,2025-06-27-ner-anp-e-passport-e-id-al-itissal
+NER,WURI-Niger unique identifier pilot,Niger,other,,DGECM-R / WURI-Niger,,2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans
+NER,WURI-Niger project,Niger,idsystem,,Ministry of the Interior,,2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger

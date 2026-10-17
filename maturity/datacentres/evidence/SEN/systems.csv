@@ -6,7 +6,7 @@ SEN,Diamniadio National Datacenter (DND),Data center national de Diamniadio,othe
 SEN,Senegal Numerique and Senegal Connect government facilities,,other,,Senegal Numerique (ex-ADIE); Senegal Connect,,2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025
 SEN,PAIX Dakar,PAIX Dakar,other,,PAIX Data Centres,,2025-01-27-paix-dakar-data-center-connectingafrica
 SEN,PAIX Dakar (Les Mamelles),,other,,PAIX Data Centres,,2025-01-23 PAIX Data Centres breaks ground on Dakar data center
-SEN,Onix; Sonatel; Diamniadio; Free au Senegal,,,,,,2025-01-23 PAIX Data Centres breaks ground on Dakar data center
+SEN,Onix; Sonatel; Diamniadio; Free au Senegal,,other,,,,2025-01-23 PAIX Data Centres breaks ground on Dakar data center
 SEN,"SENUM data centres Orana, Technopole, Diamniadio",,other,,Senegal Numerique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,N+One Dakar data centres,,other,,N+One,,2023-08-22-dcd-aiim-90m-n-one-pan-african-data-centre-platform
 SEN,N+ONE campus in Senegal,,datacentre,,N+ONE DATACENTERS,,2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture
@@ -33,7 +33,7 @@ SEN,Pikine-Guediawaye courthouse mini data center,mini data center,other,,Minist
 SEN,Gandoul teleport technical room,salle technique Tier III,other,,Sonatel,,2026-07-10-techafricanews-sonatel-gandoul-oneweb
 SEN,Parc des technologies numeriques de Diamniadio data center,Data center certifie Tier 3 (planned),other,,,,2025-11-04-sanslimitesn-parc-des-technologies-numeriques-diamniadio
 SEN,Pikine-Guediawaye judicial mini data centre,mini centre de donnees (Tier III equipment),other,,Ministry of Justice / UN pilot,,2025-07-24-projet-pilote-e-justice-dakar
-SEN,Door (Cloudoor sovereign cloud),Door,,Kubernetes,Cloudoor with Groupement Orange Services S.A,,2025-03-24-door-cloud-souverain-africain-linfodrome
+SEN,Door (Cloudoor sovereign cloud),Door,other,Kubernetes,Cloudoor with Groupement Orange Services S.A,,2025-03-24-door-cloud-souverain-africain-linfodrome
 SEN,GOS S.A Grand Bassam data centre,Datacenter GOS,other,,Groupement Orange Services S.A,,2025-03-24-door-cloud-souverain-africain-linfodrome
 SEN,"AWS Wavelength Zone in Orange data centre, Senegal",AWS Wavelength,other,AWS,Orange Middle East and Africa / AWS,,2024-05-30-orange-omea-aws-wavelength-morocco-senegal
 SEN,Sonatel Datacenter,Datacenter,other,,Sonatel,,2022-08-23-sonatel-label-et-certifications-datacenter-uptime-iso-27001
@@ -42,3 +42,5 @@ SEN,Stellarix (Axian) Senegal build-out,,other,,Axian,,2026-06-11 Can Africa sup
 SEN,AWS Outposts (2nd-generation racks) Senegal,,other,AWS Outposts,Amazon Web Services,,2026-02-19-microsoft-136bn-ai-cross-border-data
 SEN,N+One Datacenters (Senegal campus),SEN,other,,N+One Datacenters,,2023-08-22-african-infrastructure-investment-managers-n-one-datacenters-2023-equity-record
 SEN,Sonatel Rufisque Datacenter,Rufisque Datacenter,datacentre,,Sonatel,Tier III Design and Constructed Facility (Uptime Institute),2021-07-07-sonatel-group-annual-report-2020
+SEN,Diamniadio datacenter,Diamniadio datacenter,other,,,,2026-10-14-tra-senum-hosts-central-african-agency-digital-transformation
+SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage

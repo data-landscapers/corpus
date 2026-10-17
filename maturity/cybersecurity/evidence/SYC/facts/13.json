@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-11-syc-statehouse-cabinet-national-cyber-coordination-committee",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Seychelles Cabinet approved the establishment of a National Cyber Security Coordination Committee and a Cyber Secretariat to protect critical infrastructure.",
+   "as_of": "2024-07-10",
+   "date_precision": "day",
+   "system": "National Cybersecurity Coordination Committee",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Coordination Committee",
+   "country_label": "National Cyber Security Coordination Committee",
+   "class": "response",
+   "platform": "",
+   "owner": "Cabinet of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -6,5 +6,5 @@ SWZ,Health Information Exchange system,Eswatini,exchange,HL7/FHIR,Ministry of He
 SWZ,Client Management Information System (CMIS),Eswatini,exchange,,Ministry of Health,national EMR,2026-06-12-hmis-eswatini-cmis-elmis-integration
 SWZ,Electronic Logistics Management Information System (eLMIS),Eswatini,exchange,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration
 SWZ,Client Management Information System (CMIS),Eswatini,other,open-source electronic medical record,Government of Eswatini (Ministry of Health),"73% of health facilities, 233 live sites",2026-04-07-even-on-the-rainiest-afternoons-in-eswatini
-SWZ,DHIS2,Eswatini,,,,,2026-05-01-eswatini-annual-results-report-2025-who
-SWZ,CMIS,Eswatini,,,Ministry of Health,,2025-02-01-eswatini-annual-report-health-2025
+SWZ,DHIS2,Eswatini,other,,,,2026-05-01-eswatini-annual-results-report-2025-who
+SWZ,CMIS,Eswatini,other,,Ministry of Health,,2025-02-01-eswatini-annual-report-health-2025

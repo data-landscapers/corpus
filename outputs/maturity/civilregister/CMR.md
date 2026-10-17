@@ -8,6 +8,6 @@
 
 **Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [NIPU](<https://www.id4africa.com/2025/files/PS5A-S1-3-Cameroun_FINAL.pdf>).
 
 ***Not held***. No source held since October 2023 says: are births registered digitally across the country.

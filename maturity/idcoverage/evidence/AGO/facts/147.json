@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-18-ago-angop-metade-angolanos-sem-bi",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "Secretary of State for Justice Osvaldo Amaro said only 16,297,777 citizens hold the Bilhete de Identidade in a country of about 35 million inhabitants, about half the population.",
+   "as_of": "2025-09-18",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SOM-001,SOM,exchange,exchange,service,"Packet Clearing House's directory lists the Somali Internet Exchange Point (SoIXP) in Mogadishu, run by the National Communications Authority Somalia and established 20 November 2018, with status Active.",2026-10-16,day,SoIXP,exchange,2026-10-16-som-pch-soixp-directory-entry,https://www.pch.net/ixp/details/2072

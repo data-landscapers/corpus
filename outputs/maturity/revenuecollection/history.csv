@@ -1,0 +1,5 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,DZA,dpi.pay--revenue-collection-revenue-collection,fact,3,3,DZA-001;DZA-004,Arrivals added DZA-007; stage unchanged.
+2026-10-17,EGY,dpi.pay--revenue-collection-revenue-collection,fact,3,5,EGY-008,Arrivals added EGY-006; EGY-007; EGY-008; stage 3 -> 5.
+2026-10-17,MAR,dpi.pay--revenue-collection-revenue-collection,fact,3,5,MAR-004,Arrivals added MAR-003; MAR-004; stage 3 -> 5.
+2026-10-17,MLI,dpi.pay--revenue-collection-revenue-collection,fact,5,5,MLI-002;MLI-004,Arrivals added MLI-009; stage unchanged.

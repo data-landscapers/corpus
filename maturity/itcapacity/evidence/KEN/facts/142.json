@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ken-icta-faqs-government-data-centre-dr-konza",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ICT Authority",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

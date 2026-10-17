@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OADC Texaf Digital-Kinshasa",
+   "country_label": "RDC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC group) with TEXAF",
+   "tiers": "Tier-III"
+  }
+ ],
+ "note": "Hydro-powered and called efficient on PUE, but no feed, substation, plant or PUE figure is stated."
+}

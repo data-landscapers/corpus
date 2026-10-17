@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02-gmb-gbos-microdata-catalog",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Gambia Bureau of Statistics microdata catalogue, as of 2 July 2026, lists the Demographic and Health Survey 2019-2020 (entry dated 26 June 2025) and the Labour Force Survey 2018 (entry dated 13 June 2025) among its three studies.",
+   "as_of": "2025-06-26",
+   "date_precision": "day",
+   "system": "DHS 2019-2020",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GBoS Microdata Catalog",
+   "country_label": "GBoS Microdata Catalog (microdata.gbosdata.org)",
+   "class": "other",
+   "platform": "NADA",
+   "owner": "Gambia Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-02-sen-ciomag-ami-audit-sigif-ue-srmt",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIF",
+   "country_label": "SIGIF",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "A tender notice for an audit of SIGIF; it does not state the system is in use or down."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-10-stp-ine-itu-umc-workshop-presentation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MICS6",
+   "country_label": "MICS6 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": "Names RGPH, MICS and IOF as sources but gives no census date or preparation, and the only survey figures are MICS6 2019."
+}

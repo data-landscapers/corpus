@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-13-mrt-ecofin-us-mauritania-cybersecurity-csirt",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Ecofin says a April 2024 decree created the National Agency for Cybersecurity and Electronic Certification to protect national cyberspace.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National Agency for Cybersecurity and Electronic Certification",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Ecofin says Mauritania implements a National Digital Security Strategy for 2022-2026 with six strategic objectives.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "National Digital Security Strategy 2022-2026",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

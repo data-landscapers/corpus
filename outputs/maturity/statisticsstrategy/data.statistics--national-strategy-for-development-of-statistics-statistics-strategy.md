@@ -23,23 +23,23 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 | 5 Leading | 1 |
 | 4 Operating | 3 |
 | 3 Established | 32 |
-| 2 Nascent | 8 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 6 |
 | No evidence | 2 |
 
 ## Countries
 
 ### Burundi: 5 Leading
 
-An evaluation of The SNDS-III was completed in 2026.
+An evaluation of the SNDS-III was completed in 2026.
 
 - The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 - INSBU's account of the Groupe Sectoriel Statistique meeting of 28 July 2026 refers to the SNDS-III as the national statistical development strategy in force; no period is given, and the date is that of the meeting ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 
 ### Equatorial Guinea: 4 Operating
 
-Progress on The SNDS 2022-2026 was reviewed in 2026; no completed evaluation is known.
+Progress on the ENDE was reviewed in 2026; no completed evaluation is known.
 
 - The National Statistics Council held its eighth ordinary session of 2026, with the ENDE 2025 implementation report on the agenda for presentation and validation (agenda-style report, written in the present tense) ([source, 2026-08-27](https://www.guineaecuatorialpress.com/noticias/el_consejo_nacional_de_estadistica_analiza_los_avances_de_las_principales_operaciones_estadisticas_del_pais)).
 - The Statistical Programmes Committee (CPE), chaired by INEGE's director general, held its seventh ordinary session in Malabo and took the 2025 implementation report of the ENDE and the ENDE 2026 annual action plan ([source, 2026-04-08](https://inege.org/?p=16157)).
@@ -47,7 +47,7 @@ Progress on The SNDS 2022-2026 was reviewed in 2026; no completed evaluation is 
 
 ### Mali: 4 Operating
 
-Progress on The Schema Directeur de la Statistique (SDS IV) was reviewed in 2026; no completed evaluation is known.
+Progress on the Schema Directeur de la Statistique (SDS) was reviewed in 2026; no completed evaluation is known.
 
 - INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations ([source, 2026-08-13](https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique)).
 - The 'Programmes statistiques' specialised commission of the Conseil National de la Statistique met on 17 February 2026 to monitor SDS IV, assessed progress on the 2025 statistical review recommendations, validated the 2025 action-plan scorecard and updated the action-plan trajectory for the whole SDS IV ([source, 2026-02-17](https://instat-mali.org/fr/actualites-et-evenements/session-ordinaire-du-conseil-national-de-la-statistique-cns-)).
@@ -55,7 +55,7 @@ Progress on The Schema Directeur de la Statistique (SDS IV) was reviewed in 2026
 
 ### Tanzania: 4 Operating
 
-Progress on The TSMP II 2022/23-2026/27 was reviewed in 2026; no completed evaluation is known.
+Progress on the TSMP II 2022/23-2026/27 was reviewed in 2026; no completed evaluation is known.
 
 - The fourth meeting of the TSMP II Steering Committee, chaired by the Ministry of Finance Permanent Secretary, met on 15 July 2026 and reviewed implementation for 2025/26, reporting 88.9% implementation since 2022/23, and approved the 2026/27 work plan and budget ([source, 2026-07-15](https://www.nbs.go.tz/index.php/events/kamati-ya-uongozi-mof-yapitia-utekelezaji-mradi-wa-tsmp-ii-kupitisha-bajeti-mwaka-wa-fedha-2026-2027)).
 - The document states the Tanzania Statistical Master Plan Phase Two (TSMP II) has been under implementation since 2022/23 and will end in June 2027; it is dated to the document's publication date as it states the plan in force ([source, 2026-07-15](https://www.nbs.go.tz/index.php/events/kamati-ya-uongozi-mof-yapitia-utekelezaji-mradi-wa-tsmp-ii-kupitisha-bajeti-mwaka-wa-fedha-2026-2027)).
@@ -137,6 +137,7 @@ The Statistical Master Plan 2023-2026 is current; no review of its progress sinc
 The NSDS 2021-2026 is current; no review of its progress since 2023 is known.
 
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2021-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
+- The Reporter says the Ministry of Planning and Development and the Ethiopian Statistics Service launched the Ethiopian Statistical Development Program, costing about ETB 35 billion and running until 2026 ([source, 2024-02-01](https://thereportermagazines.com/2586/)).
 
 ### Gambia: 3 Established
 
@@ -147,7 +148,7 @@ The NSDS 2024-2028 is current; no review of its progress since 2023 is known.
 
 ### Kenya: 3 Established
 
-An evaluation of The KSDS 2023-2028 was completed in 2023.
+The KSDS 2023-2028 is current; no review of its progress since 2023 is known.
 
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): KSDS 2023-2028 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - KNBS publishes the second Kenya Strategy for Development of Statistics (KSDS II) for 2023/24-2027/28 for download as the national statistical system strategy; no adoption date is given, so the document's published date is used ([source, 2025-07-09](https://www.knbs.or.ke/the-second-kenya-strategy-for-development-of-statistics/)).
@@ -174,7 +175,7 @@ The SNDS 2023-2030 is current; no review of its progress since 2023 is known.
 
 ### Malawi: 3 Established
 
-The National Statistical System Strategic Plan (NSS SP IV) 2025-2030 is current; no review of its progress since 2023 is known.
+The national statistics strategy is current; no review of its progress since 2023 is known.
 
 - The Nation reports that Malawi's National Statistical Office has finalised the National Statistical System Strategic Plan (NSS SP IV) 2025-2030, covering 35 ministries, departments and agencies, with the NSO to oversee its implementation; the document gives no adoption date, so its published date is used ([source, 2026-04-04](https://mwnation.com/nso-renews-strategic-plan/)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): National Statistical System Strategic Plan 2026-2030 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
@@ -227,7 +228,7 @@ The ENDE 2025-2029 is current; no review of its progress since 2023 is known.
 
 ### Senegal: 3 Established
 
-The National statistical development strategy 2024-2028 is current; no review of its progress since 2023 is known.
+The national statistics strategy is current; no review of its progress since 2023 is known.
 
 - The article states Senegal's authorities will pursue the IMF ROSC recommendations through the 2024-2028 national statistical development strategy, which is thus in force; no adoption date is given, so as_of is the document's published date of 2026-09-03 ([source, 2026-09-03](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
@@ -296,15 +297,27 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 
 - PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: national statistics strategy ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
+### Gabon: 2 Nascent
+
+A national statistics strategy was being prepared in 2023; none adopted is known to be current.
+
+- Gabonreview reports that in 2023 the national statistical system worked on drafting the interim National Strategy for the Development of Statistics 2023-2025 (SNDS-II), with its validation still awaited ([source, 2023-12-29](https://www.gabonreview.com/gabon-bientot-un-institut-national-de-la-statistique/)).
+
 ### Ghana: 2 Nascent
 
 A national statistics strategy was being prepared in 2026; none adopted is known to be current.
 
 - PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: NSDS (successor to NSDS 2018-2022) ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
+### Guinea: 2 Nascent
+
+The SNDS 2021-2025 was adopted by 2024 and its period has ended; no current successor is known.
+
+- Guinea's INS says SNDS 2021-2025 is the country's third national statistics development strategy, after 2008-2013 (extended 2015) and 2016-2020 ([source, 2024-12-03](https://www.stat-guinee.org/index.php/actu/382-atelier-de-restitution-et-de-validation-du-rapport-de-mise-a-jour-de-la-strategie-nationale-de-developpement-de-la-statistique-snds-2021-2025)).
+
 ### Sierra Leone: 2 Nascent
 
-A national statistics strategy was being prepared in 2023; none adopted is known to be current.
+The E-NSDS-II (extension of NSDS II 2016-2020) was adopted by 2023 and its period has ended; no current successor is known.
 
 - Statistics Sierra Leone issued the Extended Second National Strategy for the Development of Statistics (E-NSDS-II), extending NSDS II (2016-2020) so that NSDS III can be designed later to match the next national development plan; the document is dated November 2023 ([source, 2023-11](https://www.statistics.sl/images/StatisticsSL/Documents/Extended-Second-National-Strategy-for-the-Development-of-Statistics_E-NSDSII.pdf)).
 
@@ -321,18 +334,6 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 - Diwan FM reports the national strategy for the development of statistics 2026-2030 is being prepared, in parallel with a draft new statistics law, and will work alongside the coming development plan ([source, 2026-06-05](https://diwanfm.net/news/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%AA%D8%AC%D9%87-%D9%86%D8%AD%D9%88-%D8%A5%D9%82%D8%B1%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D9%88%D8%A7%D9%83%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)).
 
 ### Benin: Unplaced
-
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
-
-Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
-
-### Gabon: Unplaced
-
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
-
-Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
-
-### Guinea: Unplaced
 
 No source held shows a current statistics strategy or one in preparation, so no stage is set.
 

@@ -1,8 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,ZM-Core (HL7 FHIR R5 implementation guide),Zambia,other,HL7 FHIR R5,Zambia Ministry of Health,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,SmartCare,Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,Master Facility List (MFL),Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,DHIS2,Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,HMIS,Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,eLMIS,Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
-ZMB,iHRIS,Zambia,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,SmartCare,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,Master Facility List (MFL),Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,DHIS2,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,HMIS,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,eLMIS,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,iHRIS,Zambia,other,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,SmartCare,Zambia,other,SmartCare Plus and SmartCare Pro,Ministry of Health with IHM Southern Africa,,2024-06-25-zmb-smartcare-disa-integration-live
+ZMB,DISA Labs,Zambia,other,laboratory information system,,,2024-06-25-zmb-smartcare-disa-integration-live

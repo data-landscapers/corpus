@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-02-bfa-oni-antenne-centre-ouest-cnib",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "ONI's Director General cites the latest population and housing census, RGPH 2019, as the source of Burkina Faso's population aged 15 and over (12,477,149).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "RGPH 2019",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2019",
+   "country_label": "RGPH 2019",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

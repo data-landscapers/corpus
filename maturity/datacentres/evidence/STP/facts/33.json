@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-12-stp-bragatv-grupo-erre-resilient-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centro Nacional de Dados (NDC)",
+   "country_label": "STP",
+   "class": "other",
+   "platform": "",
+   "owner": "INIC",
+   "tiers": ""
+  }
+ ],
+ "note": "The document names the national data centre only as sea-level and at flood risk; it does not say it rents to others, who owns it, or any service or backup site."
+}

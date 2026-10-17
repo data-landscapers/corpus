@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-06-sle-statssl-proactive-publication-scheme",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Statistics Sierra Leone lists a 2021 Mid-Term Population and Housing Census as recently conducted.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "2021 Mid-Term Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

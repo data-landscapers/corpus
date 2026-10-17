@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "BBC News Afrique reports that the CENI began collecting biometric data from people in 2023 when enrolling voters for the elections, and that ONIP draws on the CENI database.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "CENI voter enrolment",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

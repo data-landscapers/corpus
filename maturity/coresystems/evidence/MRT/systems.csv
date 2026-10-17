@@ -1,4 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MRT,RIAD,Réseau Intranet Administratif haut Débit,other,,Ministère de la Transformation Numérique et de la Modernisation de l'Administration,,2024-09-20-mtnima-riad-reseau-intranet-administratif-haut-debit
-MRT,public finance management platform,plateformes pour la gestion des finances publiques,,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
-MRT,tax declaration platform,plateformes pour les déclarations fiscales,,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
+MRT,public finance management platform,plateformes pour la gestion des finances publiques,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
+MRT,tax declaration platform,plateformes pour les déclarations fiscales,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
+MRT,SIGRH,Système informatisé de gestion des ressources humaines,other,,Ministry of National Education (MENRSE),,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel

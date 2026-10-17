@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Budget ministry's third steering committee on 6 June 2024 reviewed the E-Bourses project, under execution, to let students apply online for national and cooperation scholarships.",
+   "as_of": "2024-06-06",
+   "date_precision": "day",
+   "system": "E-Bourses",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Bourses",
+   "country_label": "E-Bourses",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministere du Budget with the education ministries",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

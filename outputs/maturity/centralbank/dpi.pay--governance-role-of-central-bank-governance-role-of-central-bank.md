@@ -20,9 +20,9 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 26 |
+| 5 Leading | 27 |
 | 4 Operating | 15 |
-| 3 Established | 7 |
+| 3 Established | 6 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -110,6 +110,13 @@ The central bank took part in a regional or continental payment system in 2026.
 
 - Equatorial Guinea is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - BEAC, the central bank of the CEMAC states, joined the Pan-African Payment and Settlement System (PAPSS), per Afreximbank on 9 July 2026, with CEMAC banks to be connected by end-2026 ([source, 2026-07-09](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+
+### Ethiopia: 5 Leading
+
+The central bank took part in a regional or continental payment system in 2026.
+
+- ITWeb Africa reports Ethiopia has joined PAPSS, with NBE governor Eyob Tekalign saying the move deepens continental ties, enabling financial institutions in the country to connect for instant cross-border payments ([source, 2026-10-15](https://www.itweb.africa/article/ethiopia-modernises-cross-border-payments-via-papss/RgeVDMPR3w9vKJN3)).
+- The National Bank of Ethiopia and PAPSS announced on 15 October 2026 that Ethiopia has officially joined the PAPSS network, letting Ethiopian financial institutions connect for cross-border payments ([source, 2026-10-15](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)).
 
 ### Gabon: 5 Leading
 
@@ -318,12 +325,6 @@ The central bank licensed payment providers in 2026; a national switch it overse
 
 - The Bank of Botswana licenses electronic payment services: under the amended regulations in force since 2 April 2026 no one may operate one without its licence, on pain of a P1 million fine or five years in prison ([source, 2026-04-02](https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news)).
 - The Bank of Botswana says the Electronic Payment Services (Amendment) Regulations, 2026, in effect since 2 April 2026, set out the entities that may be licensed to offer electronic payment services and the licensing and market-entry requirements ([source, 2026-04-02](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf)).
-
-### Ethiopia: 3 Established
-
-The central bank licensed payment providers in 2025; a national switch it oversees is not known.
-
-- Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
 
 ### Ghana: 3 Established
 

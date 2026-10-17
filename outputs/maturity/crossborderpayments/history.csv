@@ -1,0 +1,2 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,ETH,dpi.pay--cross-border-functionality-cross-border-functionality,fact,2,4,ETH-004;ETH-005,Arrivals added ETH-004; ETH-005; stage 2 -> 4.

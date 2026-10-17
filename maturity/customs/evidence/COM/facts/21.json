@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-07-afd-com-2023-pagf-si",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "AFD states its EUR 10m PAGF-SI project, from 7 December 2023, updates the Comoros finance administration applications including SYDONIA to improve their interfacing.",
+   "as_of": "2023-12-07",
+   "date_precision": "day",
+   "system": "SYDONIA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "SYDONIA",
+   "class": "customs",
+   "platform": "",
+   "owner": "Comoros Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

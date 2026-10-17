@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-31-cod-ecomine-sig-registre-social-unique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIG-RDC",
+   "country_label": "RDC",
+   "class": "other",
+   "platform": "mobile and web applications, physical and cloud servers",
+   "owner": "Ministere des Affaires Sociales, Actions Humanitaires et Solidarite Nationale",
+   "tiers": ""
+  }
+ ],
+ "note": "The system described is the social registry's information system, not a programme management system."
+}

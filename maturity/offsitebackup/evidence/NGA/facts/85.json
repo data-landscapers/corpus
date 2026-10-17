@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu",
+ "facts": [
+  {
+   "sub_indicator": "backup",
+   "aspect": "site",
+   "value": "service",
+   "fact": "Technology Times reports Galaxy Backbone, the federal government ICT services company, has a disaster recovery site in Enugu for its Tier 3 data centre in Abuja.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "Galaxy Backbone disaster recovery site, Enugu",
+   "class": "backupsite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone data centre, Abuja",
+   "country_label": "Galaxy Backbone data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Nigeria (Galaxy Backbone Limited)",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The playbook describes the citizen identifier register, held under the ministry in charge of local affairs, giving an IUC to each person entered in the civil register at birth, to citizens registered abroad and to naturalised persons, and the citizen portal offers access to the national citizen register.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "The playbook shows the citizen identifier register initialised and updated from the Madania civil status database by API and holding birth-act and death-act references, the date and place of death and civil status.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

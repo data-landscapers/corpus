@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "NIDP says Fayda gives displaced populations legal identity and unlocks access to SIM registration and social support programmes.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program Ethiopia (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

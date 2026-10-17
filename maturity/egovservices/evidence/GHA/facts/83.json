@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-27-gha-dial-adli-data-exchange-exemplars",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "DIAL reports Ghana.gov is the portal where users discover, consume and pay for government services, and most of renewing a driver's license or passport can be done online.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana.gov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana.gov",
+   "country_label": "Ghana.gov",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Citizens App",
+   "country_label": "Citizens App",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

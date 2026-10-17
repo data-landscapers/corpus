@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Orange Liberia's chairman, who is also CEO of the Cable Consortium of Liberia, said its fibre link to Cote d'Ivoire let Liberia keep 100% of its international internet traffic during a four-day ACE cable outage, the link connecting to six other undersea cables via Cote d'Ivoire.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "ACE cable and Orange Liberia fibre link to Cote d'Ivoire",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Liberia Monrovia-Lugato fibre link",
+   "country_label": "Liberia",
+   "class": "route",
+   "platform": "fibre",
+   "owner": "Orange Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

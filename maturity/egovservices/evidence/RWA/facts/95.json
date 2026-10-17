@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-gha-dial-adli-data-exchange-exemplars",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "DIAL reports IremboGov is a one-stop portal for over 240 public services that citizens can access digitally and remotely.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "IremboGov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IremboGov",
+   "country_label": "IremboGov",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Irembo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

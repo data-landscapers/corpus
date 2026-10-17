@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Angola's national directorate for telecommunications and IT (Matias Borges) announced two new government data centres in Luanda (Camama and a modernised backup at the Centro Nacional de Dados, Rangel) to migrate existing and new government applications to a unified government cloud, a national cloud costing the State USD 89 million.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "cloud unificada governamental (cloud nacional)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud unificada governamental (cloud nacional)",
+   "country_label": "Angola",
+   "class": "sovereignty",
+   "platform": "Camama main data centre (204 server cabinets) and Rangel backup data centre",
+   "owner": "State of Angola",
+   "tiers": "three levels: organs of sovereignty, State administration, information society"
+  }
+ ],
+ "note": ""
+}

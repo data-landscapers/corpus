@@ -22,11 +22,11 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 16 |
-| 2 Nascent | 15 |
+| 3 Established | 17 |
+| 2 Nascent | 18 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
-| No evidence | 16 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -157,6 +157,12 @@ Two health systems exchanged data in 2026; exchange across the health system is 
 - Makerere University's MakSPH-METS programme handed over 16 fully developed digital health systems to the Ministry of Health on 31 March 2026, among them OpenHIM, named as the platform for health information exchange, alongside UgandaEMR repositories, eIDSR and the Weekly Stock Status System ([source, 2026-03-31](https://news.mak.ac.ug/2026/04/mak-transitions-100-million-digital-health-systems-assets-to-health-ministry/)).
 - The Ministry of Health launched the National Laboratory Data Repository, which New Vision reports links all laboratory information systems across the country to the National Health Data Warehouse and consolidates facility laboratory data into one national repository with real-time access for authorised users (no launch date given; the story's published date is used) ([source, 2026-02-05](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026)).
 
+### Zambia: 3 Established
+
+Two health systems exchanged data in 2024; exchange across the health system is not known.
+
+- The SmartCare electronic health record and the DISA Labs laboratory information system exchange lab requests and results electronically, the integration having been deployed to all SmartCare Plus and Pro sites, says Resource.SmartCare ([source, 2024-06-25](https://smartcarezambia.io/smartcare-disa-integration-is-now-live/)).
+
 ### Zimbabwe: 3 Established
 
 Two health systems exchanged data in 2025; exchange across the health system is not known.
@@ -226,6 +232,12 @@ An exchange between health systems was under way in 2026; none in service is on 
 
 - In July 2026 the Ministry of Health and the Ministry of Basic and Secondary Education signed an MoU to link the HMIS with the EMIS so that immunisation, nutrition, screening and birth registration data can be shared with education indicators; the story describes this as to be integrated, with a joint working group set up ([source, 2026-07](https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/)).
 
+### Ghana: 2 Nascent
+
+An exchange between health systems was under way in 2024; none in service is on record.
+
+- The Ministry of Health's Head of Research, Statistics and Innovation said initiatives like the Ghana Health Information Exchange sought to integrate systems for real-time data sharing, while limited interoperability from differing systems and data standards remained the main obstacle ([source, 2024-11-14](https://gna.org.gh/2024/11/ministry-of-health-assures-nationwide-health-data-interoperability/)).
+
 ### Madagascar: 2 Nascent
 
 An exchange between health systems was under way in 2025; none in service is on record.
@@ -244,6 +256,18 @@ An exchange between health systems was under way in 2026; none in service is on 
 An exchange between health systems was under way in 2026; none in service is on record.
 
 - The Ministry of Health said World Bank experts proposed an integrated digital platform for managing hospitals, centres and health posts plus centralised health data to improve collection and exchange, and the minister confirmed implementation of the proposed solutions would begin, with a joint technical committee to follow development ([source, 2026-03-09](https://saharamedias.net/254033)).
+
+### Sao Tome and Principe: 2 Nascent
+
+An exchange between health systems was under way in 2025; none in service is on record.
+
+- Saudigitus says it is developing, with SIS-STP and UNDP support, an interoperability layer integrating the National Health Information System with the Civil Registration System to share birth and death data ([source, 2025-07-30](https://pt.linkedin.com/posts/saudigitus_saudigitus-dhis2-hispafrica-activity-7356329085226123264-sJJl)).
+
+### South Africa: 2 Nascent
+
+An exchange between health systems was under way in 2026; none in service is on record.
+
+- The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List ([source, 2026-06](https://pmg.org.za/committee-question/38770/)).
 
 ### Sudan: 2 Nascent
 
@@ -306,12 +330,6 @@ Nothing held names health systems exchanging data or says there is none, so no s
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
-### Ghana: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
 ### Guinea-Bissau: No evidence
 
 Nothing held names health systems exchanging data or says there is none, so no stage is set.
@@ -336,12 +354,6 @@ Nothing held names health systems exchanging data or says there is none, so no s
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
-### Sao Tome and Principe: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
 ### Senegal: No evidence
 
 Nothing held names health systems exchanging data or says there is none, so no stage is set.
@@ -349,18 +361,6 @@ Nothing held names health systems exchanging data or says there is none, so no s
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Seychelles: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
-### South Africa: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
-### Zambia: No evidence
 
 Nothing held names health systems exchanging data or says there is none, so no stage is set.
 

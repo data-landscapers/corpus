@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-cod-onip-id4africa-ecosysteme-identite-legale-rdc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fichier Général de la Population (FGP) / NIN / CIN",
+   "country_label": "RDC",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Deck gives a design and a four-phase roadmap with enrolment still to come; no system stated as being built, piloted or issuing."
+}

@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 | 5 Leading | 1 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
-| 2 Nascent | 33 |
+| 2 Nascent | 35 |
 | 1 Absent | 5 |
 | Unplaced | 0 |
-| No evidence | 5 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -237,6 +237,12 @@ An exchange point in service by 2026; no global content network is known to serv
 
 - MOZIX, the Mozambique Internet Exchange in Maputo run by CIUEM at Eduardo Mondlane University, says it was created in May 2002 and has grown from 5 to 18 peers that exchange traffic between themselves; the site carries no date, so as_of is the 2026-08-08 capture date ([source, 2026-08-08](https://mozix.org.mz/)).
 
+### Namibia: 2 Nascent
+
+An exchange point in service by 2026; no global content network is known to serve from it.
+
+- Internet Society Pulse, from PeeringDB, lists the Windhoek Internet Exchange Point (IXP Namibia) with 6 member networks and 23 Gbps of cumulative port capacity, with one new member joined in the last 12 months ([source, 2026-08](https://pulse.internetsociety.org/en/ixp-tracker/ixp/368/)).
+
 ### Niger: 2 Nascent
 
 An exchange point in service by 2026; no global content network is known to serve from it.
@@ -260,6 +266,12 @@ An exchange point in service by 2026; no global content network is known to serv
 An exchange point in service by 2015; no global content network is known to serve from it.
 
 - The African Union Commission says the Internet Exchange Point in Seychelles (dateline Victoria) was launched on 20 February 2015, officiated by the Vice President and ICT Minister, with the AU listing Seychelles among eight Member States that have set up IXPs with its AXIS support; no member count or traffic figure is given ([source, 2015-02-20](https://au.int/en/newsevents/20150220/au-launches-internet-exchange-point-seychelles-keeping-intra-country-internet)).
+
+### Somalia: 2 Nascent
+
+An exchange point in service by 2026; no global content network is known to serve from it.
+
+- Packet Clearing House's directory lists the Somali Internet Exchange Point (SoIXP) in Mogadishu, run by the National Communications Authority Somalia and established 20 November 2018, with status Active ([source, 2026-10-16](https://www.pch.net/ixp/details/2072)).
 
 ### Sudan: 2 Nascent
 
@@ -341,18 +353,6 @@ Nothing held names an exchange point in service, or says there is none, so no st
 Not established: Nothing held names an exchange point, or says there is none.
 
 ### Equatorial Guinea: No evidence
-
-Nothing held names an exchange point in service, or says there is none, so no stage is set.
-
-Not established: Nothing held names an exchange point, or says there is none.
-
-### Namibia: No evidence
-
-Nothing held names an exchange point in service, or says there is none, so no stage is set.
-
-Not established: Nothing held names an exchange point, or says there is none.
-
-### Somalia: No evidence
 
 Nothing held names an exchange point in service, or says there is none, so no stage is set.
 

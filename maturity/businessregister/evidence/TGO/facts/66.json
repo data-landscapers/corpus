@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-12-tgo-togopresse-plateforme-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Togo-Presse reports that in 2024 the CFE and the RCCM were connected with other administrative platforms and that a citizen can create a company account online through the Services publics portal.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Services publics portal / CFE / RCCM",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "Togo-Presse reports that a database of companies' beneficial owners has been created, to identify who really holds a company.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "beneficial owners database",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Services publics",
+   "country_label": "Services publics portal 2017, updated 2022",
+   "class": "other",
+   "platform": "national portal",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDP reports 65M authentications at 1M a day through Fayda, with online and offline authentication modalities (VeriFayda/eSignet).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Fayda authentication",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIDP says Fayda authentication is used for harmonisation with banks, telcos (SIMs, mobile wallets) and the Ministry of Revenue.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Fayda authentication",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program Ethiopia (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

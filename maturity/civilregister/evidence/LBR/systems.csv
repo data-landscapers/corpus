@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LBR,Birth Registration Information Management System (BRIMS),Liberia,civil,DHIS2,"Ministry of Health, supported by UNICEF","15 counties, 58 centers",2024-12-11-unicef-liberia-children-legal-identity
 LBR,NID-CRVS system (proposed),Liberia,other,,National Identification Registry with OSD International,,2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate
+LBR,National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS),NIDCRVS,other,,Government of Liberia (proposed; OeSD International GmbH as contractor),,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal
+LBR,NIDCRVS,National Identification Central Digital Civil Registration and Vital Statistics System,other,,OeSD International GmbH (BOT concession),,2026-10-16-liberianobserver-house-reviews-national-digital-id-overhaul

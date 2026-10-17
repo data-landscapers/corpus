@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "unplaced",
-   "rule": "",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "4",
+      "rule": "inforce",
+      "delivered": "delivered",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-003",
+      "gaps": "No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

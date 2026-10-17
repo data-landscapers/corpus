@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Ecofin reports the Chadian ministry said a 1,200 km national fibre-optic backbone, part of PMICE Phase I, was provisionally accepted at Sarh on 2025-12-20 and is now considered operational.",
+   "as_of": "2025-12-20",
+   "date_precision": "day",
+   "system": "PMICE national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

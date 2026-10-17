@@ -47,8 +47,8 @@ Use of the national ID by other services was reported with figures in 2025.
 
 Use of the national ID by other services was reported with figures in 2026.
 
-- NIDP figures reported by Biometric Update give over 194 million eKYC verifications and 150 integrated agencies as of 24 August 2026 ([source, 2026-08-24](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
-- The release, issued by Ethiopian Investment Holdings, gives over 150 enterprise eKYC integrations and 190 million secure authentications for the Fayda ecosystem ([source, 2026-08-04](https://eih.et/national-id-program-reestablished-as-state-owned-enterprise-faydaverse-to-anchor-nationwide-digital-public-infrastructure-and-joins-ethiopian-investment-holdings-portfolio/)).
+- Faydaverse figures reported by Biometric Update give over 208 million eKYC verifications and 150 integrated partners as of 9 October 2026 ([source, 2026-10-09](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)).
+- Addis Fortune reports FaydaVerse partners with more than 150 institutions and processes up to two million requests a day ([source, 2026-10-03](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)).
 
 ### Malawi: 5 Leading
 
@@ -68,8 +68,8 @@ Use of the national ID by other services was reported with figures in 2024.
 
 Use of the national ID by other services was reported with figures in 2026.
 
+- NIMC said about 63 government agencies had integrated with it and that 142 million people held NINs as of September 2026; no count of verifications is given ([source, 2026-10-14](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/)).
 - NIMC reports over 1.3 million identity verifications a day through NINAuth ([source, 2026-08](https://www.biometricupdate.com/202608/digital-id-assessments-highlight-financial-inclusion-gains-across-africa)).
-- GiveDirectly's spokesperson said 939 applicants were excluded for failing identity verification via Smile ID, among nearly 39,000 pre-enrolled applicants in the Ibaji programme ([source, 2024](https://www.thenewhumanitarian.org/investigations/2026/08/31/givedirectlys-ai-experiment-left-flood-victims-behind-nigeria)).
 
 ### Somalia: 5 Leading
 
@@ -125,10 +125,10 @@ Services in two or more sectors checked people against the national ID in 2025; 
 
 ### Tunisia: 4 Operating
 
-Services in two or more sectors checked people against the national ID in 2025; volumes are not known.
+Services in two or more sectors checked people against the national ID in 2026; volumes are not known.
 
+- The playbook lists E-Houwiya integration across telecoms, banking, health insurance, social security, education and public portals ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - Biometric Update says E-Houwiya serves banking KYC and onboarding and works as single sign-on for the government portals E-Bawaba and E-CNAM; it gives no date ([source, 2025-03](https://www.biometricupdate.com/202503/tunisia-drives-digitization-agenda-forward-while-navigating-risks)).
-- The author describes E-Houwiya as used in banking (onboarding, wire transfers) and in government portals, including E-CNAM, E-CNSS and Madrassati ([source, 2025-03](https://idtechwire.com/e-houwiya-a-milestone-in-tunisias-digital-transformation-roadmap-2025)).
 
 ### Algeria: 3 Established
 
@@ -180,6 +180,7 @@ A service checked people against the national ID in 2025; use in a second sector
 A service checked people against the national ID in 2026; use in a second sector is not known.
 
 - Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
+- Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
 
 ### Liberia: 3 Established
 

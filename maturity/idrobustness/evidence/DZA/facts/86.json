@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of the Interior says the biometric electronic national ID card (CNIBE) has been issued since January 2016, with more than 40 million cards in circulation, on a unique national identification number (NIN).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CNIBE",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The Ministry of the Interior says delivery of identity and travel documents is conditional on fingerprint matching and that the issuance system is connected to AFIS for fingerprint identification.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CNIBE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIBE",
+   "country_label": "Carte Nationale d'identite biometrique Electronique",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

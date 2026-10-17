@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-gmb-gbos-downloads",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Gambia Bureau of Statistics lists the Gambia Labour Force Survey GLFS 2026 (Q1), alongside the 2019/20 DHS, MICS6 and IHS 2020, with reports and microdata for download.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "GLFS 2026 (Q1)",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": "Only an economic census is listed; no population census stated."
+}

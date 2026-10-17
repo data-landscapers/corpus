@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-lso-2027-2028-budget-strategy-paper-companion",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The 2027/28 Budget Strategy Paper directs medium-term budget support to a public-service digital and AI literacy programme, with no amount attached.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "public-service digital and AI literacy programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

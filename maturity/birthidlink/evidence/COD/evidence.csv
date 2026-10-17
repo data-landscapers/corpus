@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,link,link,inservice,"An ONIP legal expert said civil-status events (births, deaths, marriages) are reported to ONIP for entry in the FGP, which they feed.",2024-08-09,day,FGP,crvslink,2024-08-11-cod-acp-etat-civil-communication-onip-fgp,https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/

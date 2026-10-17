@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-31-cod-ecomine-sig-registre-social-unique",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The World Bank's STEP project handed the Government the SIG-RDC information system for the Registre Social Unique, which the Minister of Social Affairs said marks a step toward institutionalising the registry by Prime Minister's decree, with servers still to be deployed and data collection on new households to follow.",
+   "as_of": "2024-03-27",
+   "date_precision": "day",
+   "system": "SIG-RDC / Registre Social Unique",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIG-RDC / Registre Social Unique",
+   "country_label": "RDC",
+   "class": "social",
+   "platform": "mobile and web applications, physical and cloud servers",
+   "owner": "Ministere des Affaires Sociales, Actions Humanitaires et Solidarite Nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

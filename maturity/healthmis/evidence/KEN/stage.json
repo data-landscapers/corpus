@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "unplaced",
-   "system": "",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether a health information system is under way or in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "system": "underway",
+      "linked": "",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001;KEN-002",
+      "gaps": "No source held since October 2023 says: is a national one in service.",
+      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

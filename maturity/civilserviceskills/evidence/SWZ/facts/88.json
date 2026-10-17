@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-06-swz-eswatinipositive-pm-cybersecurity-cirt-operational",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Prime Minister Dlamini applauded the Eswatini Institute of Management and Public Administration (EIMPA) for offering online and physical cybersecurity training for civil servants in October 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "EIMPA cybersecurity training for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EIMPA cybersecurity training",
+   "country_label": "Eswatini Institute of Management and Public Administration",
+   "class": "csskills",
+   "platform": "online and physical",
+   "owner": "EIMPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

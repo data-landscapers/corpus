@@ -1,6 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-UGA,NITA-U National Data Centre,Uganda,,government data centre with Backup as a Service and Disaster Recovery services,NITA-U,,2025-06-19-nita-u-national-data-centre-service
-UGA,National Data Centre,Uganda,,"hosts government cloud, backup and disaster recovery services",NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
+UGA,NITA-U National Data Centre,Uganda,other,government data centre with Backup as a Service and Disaster Recovery services,NITA-U,,2025-06-19-nita-u-national-data-centre-service
+UGA,National Data Centre,Uganda,other,"hosts government cloud, backup and disaster recovery services",NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,Third National Data Centre (planned),Uganda,other,"planned: primary site in Entebbe, disaster recovery in Jinja",NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,National AI Research Cloud,Uganda,other,research cloud at Makerere University with RENU,Makerere University,,2026-03-16-musenero-launches-national-ai-research-cloud
 UGA,"Centenary Group data centre, Masaka",Uganda,other,"commercial Tier III data centre, not yet open at 2026-03",Centenary Group,III (being completed to Tier III standard),2026-03-13-monitor-centenary-masaka-tier-iii-data-centre

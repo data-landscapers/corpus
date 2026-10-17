@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "no evidence",
-   "operation": "",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says who operates the national ID system.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "1",
+      "operation": "supplier",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source held since October 2023 says: is national operation under way.",
+      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

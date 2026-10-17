@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "eservices",
-   "stage": "no evidence",
-   "services": "",
-   "gateway": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government services can be used online.",
-   "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "eservices",
+      "stage": "unplaced",
+      "services": "",
+      "gateway": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether government services can be used online.",
+      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

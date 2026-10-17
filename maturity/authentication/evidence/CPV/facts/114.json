@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-12-cpv-imij-sniac-sistema-pivot",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "IMIJ states SNIAC has issued about 1,291,910 digital certificates for authentication and qualified digital signature.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "IMIJ states SNIAC supplies identification and authentication (e-ID) data and services to dozens of public and private bodies, including banks and insurers, through more than 134 configured services/APIs and over 30 million requests.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC",
+   "country_label": "Cabo Verde",
+   "class": "authentication",
+   "platform": "",
+   "owner": "IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-20-caf-worldbank-pgnsp-isr-simba",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The World Bank ISR says numerous training sessions for civil servants, a third of them women, were held in 2024 under the digital government component, with 367 civil servants and beneficiaries trained to date against a 2,000 target for Dec 2026.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "Public Sector Digital Governance Project (P174620)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

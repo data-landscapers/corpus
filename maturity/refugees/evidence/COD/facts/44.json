@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-13-cod-acp-senat-delivrance-carte-identite",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The interior minister told the Senate that the ONIP will identify the population by strata, province by province starting with Kinshasa, with refugees and stateless people and internally displaced people named as two of ten strata.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "ONIP stratified identification",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP national identity card and general population file",
+   "country_label": "RDC",
+   "class": "other",
+   "platform": "",
+   "owner": "Office National d'Identification de la Population (ONIP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

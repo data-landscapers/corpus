@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "An ATPE opinion piece says TASDJIL registers births at a hospital desk at Koukou Angarana and issues the child an NNI, so births feed the ID number.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "TASDJIL",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TASDJIL",
+   "country_label": "Chad",
+   "class": "crvslink",
+   "platform": "TASDJIL",
+   "owner": "Technidev and ANATS",
+   "tiers": "hospital desk"
+  }
+ ],
+ "note": ""
+}

@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.maravipost.com/malawis-digital-id-must-earn-public-trust/>).
 
-***Noted, not assessed***. [Nzika Digital ID Wallet](<https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/>).
+***Noted, not assessed***. [Nzika Digital ID Wallet](<https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/>); [National ID](<https://mwnation.com/nrb-under-scrutiny/>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,census,census,coverage,taken,2013-05-31,BEN-002,,nothing dated since 2023-09-28
-BEN,census,results,coverage,final,2015-06,BEN-003,,nothing dated since 2023-09-28
+BEN,census,census,coverage,taken,2013-05-31,BEN-002,BEN-004=preparing;BEN-005=preparing,
+BEN,census,results,coverage,final,2015-06,BEN-003,,nothing dated since 2023-10-17
 BEN,census,survey,coverage,published,2026-01-22,BEN-001,,

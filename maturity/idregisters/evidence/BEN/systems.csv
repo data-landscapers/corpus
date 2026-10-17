@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
+BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationale d'identification des personnes (ANIP),,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
+BEN,Numero personnel d'identification (NPI),Benin,other,,ANIP,simple authentication; strong authentication; data exchange,2024-03-29-ben-lanation-interoperabilite-rnpp-npi

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-04-bfa-digitalmagazine-pki-national-anssi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Digital Magazine reports that ANSSI, with US firm Cybastion, opened a scoping workshop on 30 September 2024 for a national public key infrastructure with root and issuing certification authorities and remote electronic signature, implementation set for December 2025.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Infrastructure à Clés Publiques (ICP)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Infrastructure à Clés Publiques (ICP)",
+   "country_label": "Burkina Faso national PKI",
+   "class": "authentication",
+   "platform": "Cybastion Institute of Technology",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

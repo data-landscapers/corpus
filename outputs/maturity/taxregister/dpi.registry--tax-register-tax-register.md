@@ -1,6 +1,6 @@
 # Tax register: tax register
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,15 +20,27 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 5 |
 | 4 Operating | 8 |
-| 3 Established | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 32 |
+| Unplaced | 2 |
+| No evidence | 28 |
 
 ## Countries
+
+### Benin: 5 Leading
+
+The taxpayer number was tied to the national ID in 2025.
+
+- ANIP says the IFU is issued from the same national civil-status database as the national identity card ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
+
+### Liberia: 5 Leading
+
+The taxpayer number was tied to the national ID in 2024.
+
+- The NIR says its API connects the Liberia Revenue Authority with new taxpayers wanting a TIN ([source, 2024-02-05](https://newspublictrust.com/national-identification-registry-deploys-mobile-teams)).
 
 ### Nigeria: 5 Leading
 
@@ -145,6 +157,12 @@ Taxpayers were registered on computer in 2025; a number shared with business reg
 
 - The Kenya Revenue Authority's November/December 2025 release notes describe the iTax Taxpayer Registration Module in service, with PIN application, PIN checker, profile amendment and obligation registration online, via the portal, M-Service app and USSD ([source, 2025-12](https://www.kra.go.ke/images/publications/ITAX-ENHANCEMENTS-NOV-DEC-2025.pdf)).
 
+### Lesotho: 3 Established
+
+Taxpayers were registered on computer in 2026; a number shared with business registration or customs is not known.
+
+- Revenue Services Lesotho's online form registers individual taxpayers (employees, directors, partners) and asks for a TIN (New) in the format 200000000-0 ([source, 2026-10-16](https://eservices.rsl.org.ls/ereg/public/individualform)).
+
 ### South Sudan: 3 Established
 
 Taxpayers were registered on computer in 2024; a number shared with business registration or customs is not known.
@@ -163,17 +181,17 @@ A computerised taxpayer register was under way in 2026; none in service is on re
 
 - The Consejo Interministerial of Equatorial Guinea, reported by the government press office, took up a draft decree establishing a new codification of the Número de Identificación Fiscal (NIF) for natural persons, legal persons and entities without legal personality ([source, 2026-08-10](https://www.guineaecuatorialpress.com/noticias/el_consejo_interministerial_analiza_nuevas_medidas_para_reforzar_el_empleo_la_fiscalidad_y_la_cooperacion_internacional)).
 
-### Rwanda: Unplaced
+### Ethiopia: Unplaced
 
 Nothing held since 2023 names a computerised taxpayer register, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 
-### Benin: No evidence
+### Rwanda: Unplaced
 
-Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
+Nothing held since 2023 names a computerised taxpayer register, so no stage is set.
 
-Not established: Nothing held says how taxpayers are registered.
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 
 ### Botswana: No evidence
 
@@ -229,12 +247,6 @@ Nothing held names a computerised taxpayer register or says there is none, so no
 
 Not established: Nothing held says how taxpayers are registered.
 
-### Ethiopia: No evidence
-
-Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxpayers are registered.
-
 ### Gabon: No evidence
 
 Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
@@ -248,18 +260,6 @@ Nothing held names a computerised taxpayer register or says there is none, so no
 Not established: Nothing held says how taxpayers are registered.
 
 ### Guinea: No evidence
-
-Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxpayers are registered.
-
-### Lesotho: No evidence
-
-Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxpayers are registered.
-
-### Liberia: No evidence
 
 Nothing held names a computerised taxpayer register or says there is none, so no stage is set.
 

@@ -1,0 +1,11 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,COG,dpi.govtech--e-government-services-government-services-online,fact,4,4,COG-002,Arrivals added COG-003; stage unchanged.
+2026-10-17,ERI,dpi.govtech--e-government-services-government-services-online,fact,no evidence,2,ERI-001,Arrivals added ERI-001; stage no evidence -> 2.
+2026-10-17,ETH,dpi.govtech--e-government-services-government-services-online,fact,no evidence,unplaced,,Arrivals added ETH-001; stage no evidence -> unplaced.
+2026-10-17,GHA,dpi.govtech--e-government-services-government-services-online,fact,2,3,GHA-003,Arrivals added GHA-003; stage 2 -> 3.
+2026-10-17,KEN,dpi.govtech--e-government-services-government-services-online,fact,3,3,KEN-001;KEN-002,Arrivals added KEN-003; stage unchanged.
+2026-10-17,LSO,dpi.govtech--e-government-services-government-services-online,fact,no evidence,2,LSO-001,Arrivals added LSO-001; stage no evidence -> 2.
+2026-10-17,MAR,dpi.govtech--e-government-services-government-services-online,fact,3,3,MAR-002;MAR-006,Arrivals added MAR-007; stage unchanged.
+2026-10-17,RWA,dpi.govtech--e-government-services-government-services-online,fact,3,3,RWA-002;RWA-004,Arrivals added RWA-004; stage unchanged.
+2026-10-17,SOM,dpi.govtech--e-government-services-government-services-online,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
+2026-10-17,TUN,dpi.govtech--e-government-services-government-services-online,fact,2,4,TUN-004,Arrivals added TUN-003; TUN-004; TUN-005; TUN-006; stage 2 -> 4.

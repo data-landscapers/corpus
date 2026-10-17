@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Technology Times reports Galaxy Backbone, a federal government-owned company, provides ICT services including hosting and connectivity to government agencies.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone",
+   "class": "staff",
+   "platform": "",
+   "owner": "Federal Government of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

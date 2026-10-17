@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-05-eth-amn-addis-crvs-id-platform",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Addis Ababa Mayor Adanech Abiebie said on 2025-12-05 that the city has launched an integrated digital civil registration and residency system, now operational and replacing previously paper-based processes (city only, no national rollout stated).",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Civil Registration and Vital Statistics with ID System",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registration and Vital Statistics with ID System",
+   "country_label": "Integrated digital civil registration and residency service system (Addis Ababa)",
+   "class": "civil",
+   "platform": "",
+   "owner": "Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

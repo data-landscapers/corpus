@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-30-som-dawan-payroll-linked-national-id-2027",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Office of the Accountant General directed federal ministries and agencies to integrate the Government Payroll System with the National Identification System run by NIRA, with a pilot in five institutions from 1 October 2026 and full implementation targeted for 31 December 2027.",
+   "as_of": "2026-08-30",
+   "date_precision": "day",
+   "system": "Government Payroll System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Payroll System",
+   "country_label": "Government Payroll System",
+   "class": "other",
+   "platform": "",
+   "owner": "Office of the Accountant General",
+   "tiers": ""
+  },
+  {
+   "system": "National Identification System",
+   "country_label": "National Identification System (NIRA)",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

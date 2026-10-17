@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ken-icta-faqs-government-data-centre-dr-konza",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ICT Authority Kenya says its Applications Department provides one-stop-shop platforms for government services to citizens and businesses.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ICT Authority e-government platforms",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

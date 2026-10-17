@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-25-zmb-smartcare-disa-integration-live",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The SmartCare electronic health record and the DISA Labs laboratory information system exchange lab requests and results electronically, the integration having been deployed to all SmartCare Plus and Pro sites, says Resource.SmartCare.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "SmartCare/DISA Labs integration",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SmartCare",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "SmartCare Plus and SmartCare Pro",
+   "owner": "Ministry of Health with IHM Southern Africa",
+   "tiers": ""
+  },
+  {
+   "system": "DISA Labs",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "laboratory information system",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

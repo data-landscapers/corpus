@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The deck says Tunisia has had a centralised national civil status management system since 2004, shown as the information system Madania, and lists its overhaul as part of the strategy.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Madania",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Madania",
+   "country_label": "Tunisia",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

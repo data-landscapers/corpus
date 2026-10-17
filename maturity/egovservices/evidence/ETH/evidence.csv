@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,eservices,gateway,single,NIDP says Mesob is a Fayda-based digital one-stop shop for e-government services.,2026,year,Mesob,eservices,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale,https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf

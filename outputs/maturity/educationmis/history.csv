@@ -1,0 +1,3 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CIV,dpi.mis--education-education-information-system,fact,2,2,CIV-001;CIV-002,Arrivals added CIV-003; stage unchanged.
+2026-10-17,GAB,dpi.mis--education-education-information-system,fact,2,2,GAB-001;GAB-002,Arrivals added GAB-002; stage unchanged.

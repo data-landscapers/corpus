@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 4 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
 | 2 Nascent | 11 |
 | 1 Absent | 1 |
 | Unplaced | 4 |
-| No evidence | 25 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -50,6 +50,12 @@ The business register recorded beneficial owners in 2026.
 
 - The Companies and Intellectual Property Commission launched an upgraded Beneficial Ownership Disclosure Module giving law enforcement agencies real-time access to company ownership information, first launched in April 2023, per the dtic spokesperson ([source, 2026-09-29](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/)).
 - CIPC launched its Optimized Beneficial Ownership Declaration functionality on 22 August 2025 and had received more than 23,000 declarations on it, with companies, external companies and close corporations required to submit beneficial ownership information annually or on change ([source, 2025-08-22](https://www.cipc.co.za/wp-content/uploads/2025/09/BO-Optimized-system-4-September-2025_.pdf)).
+
+### Togo: 5 Leading
+
+The business register recorded beneficial owners in 2024.
+
+- Togo-Presse reports that a database of companies' beneficial owners has been created, to identify who really holds a company ([source, 2024](https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/)).
 
 ### Tunisia: 4 Operating
 
@@ -344,12 +350,6 @@ Nothing held names a digital business register or says there is none, so no stag
 Not established: Nothing held says how firms are registered.
 
 ### Tanzania: No evidence
-
-Nothing held names a digital business register or says there is none, so no stage is set.
-
-Not established: Nothing held says how firms are registered.
-
-### Togo: No evidence
 
 Nothing held names a digital business register or says there is none, so no stage is set.
 

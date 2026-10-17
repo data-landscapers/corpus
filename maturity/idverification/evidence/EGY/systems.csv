@@ -1,9 +1,9 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
-EGY,E-KYC (WE),Egypt,,,Telecom Egypt (WE),,2026-09-12-youm7-egypt-telecom-egypt-we-e-kyc-launch
+EGY,E-KYC (WE),Egypt,other,,Telecom Egypt (WE),,2026-09-12-youm7-egypt-telecom-egypt-we-e-kyc-launch
 EGY,EFG Hermes ONE e-passport verification (VLens),Egypt,other,VLens,EFG Holding / EFG Hermes,,2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding
-EGY,VLens,Egypt,,,VLens,,2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding
-EGY,Digital Financial Identity platform (eKYC),Egypt,,,Central Bank of Egypt,,2026-08-23-ahram-egypt-central-bank-digital-financial-identity-rules
-EGY,Digital Financial Identity (DFI) Platform,Egypt,,,Central Bank of Egypt,,2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations
+EGY,VLens,Egypt,other,,VLens,,2026-09-06-youm7-egypt-efg-hermes-one-epassport-onboarding
+EGY,Digital Financial Identity platform (eKYC),Egypt,other,,Central Bank of Egypt,,2026-08-23-ahram-egypt-central-bank-digital-financial-identity-rules
+EGY,Digital Financial Identity (DFI) Platform,Egypt,other,,Central Bank of Egypt,,2026-08-23-cbe-digital-financial-identity-platform-ekyc-regulations
 EGY,Araqamy (My Lines),Egypt,relying,My NTRA app,National Telecom Regulatory Authority (NTRA),,2026-08-17-egypt-sim-verification-5-million-users
 EGY,Biometric SIM registration eKYC,Egypt,relying,,National Telecommunications Regulatory Authority (NTRA),,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,My Lines,Egypt,other,,NTRA,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case

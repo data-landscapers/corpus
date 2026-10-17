@@ -1,0 +1,9 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,AGO,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,unplaced,2,AGO-002;AGO-003,Arrivals added AGO-002; AGO-003; stage unplaced -> 2.
+2026-10-17,COD,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,3,4,COD-002,Arrivals added COD-002; stage 3 -> 4.
+2026-10-17,CPV,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,unplaced,4,CPV-003,Arrivals added CPV-003; stage unplaced -> 4.
+2026-10-17,DZA,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,4,4,DZA-008;DZA-005,Arrivals added DZA-013; DZA-014; DZA-015; stage unchanged.
+2026-10-17,MLI,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,unplaced,2,MLI-003,Arrivals added MLI-003; stage unplaced -> 2.
+2026-10-17,NGA,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,3,3,NGA-001;NGA-004,Arrivals added NGA-023; stage unchanged.
+2026-10-17,SEN,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,SEN-002;SEN-003,Arrivals added SEN-004; stage unchanged.
+2026-10-17,TCD,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,TCD-002;TCD-003,Arrivals added TCD-003; stage unchanged.

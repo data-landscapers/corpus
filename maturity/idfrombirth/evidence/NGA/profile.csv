@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,frombirth,number,coverage,inservice,2024-09-26,NGA-001,NGA-002=underway,
+NGA,frombirth,national,coverage,,,,,nothing held
+NGA,frombirth,complete,coverage,,,,,nothing held

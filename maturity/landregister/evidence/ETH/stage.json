@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "5",
-   "register": "inservice",
-   "national": "nationwide",
-   "online": "online",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "5",
+      "register": "inservice",
+      "national": "nationwide",
+      "online": "online",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-002",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

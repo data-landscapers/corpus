@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-11-cpv-expresso-instabilidade-sigof",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The government communique says the finance ministry's technology team is intervening to restore SIGOF.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "SIGOF",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

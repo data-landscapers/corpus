@@ -7,7 +7,7 @@ BWA,3,inservice,,,BWA-004;BWA-005
 CAF,3,inservice,,,CAF-001
 CIV,2,underway,,,CIV-001;CIV-002
 CMR,4,inservice,several,,CMR-004
-COD,unplaced,,,,
+COD,2,underway,,,COD-001
 COG,3,inservice,,,COG-003
 COM,3,inservice,,,COM-003;COM-006
 CPV,5,inservice,several,tenants,CPV-005
@@ -24,7 +24,7 @@ GNB,3,inservice,,,GNB-002
 GNQ,no evidence,,,,
 KEN,2,underway,,,KEN-001
 LBR,2,underway,,,LBR-001
-LBY,2,underway,,,LBY-001;LBY-002
+LBY,3,inservice,,,LBY-004
 LSO,3,inservice,,,LSO-002;LSO-001
 MAR,2,underway,,,MAR-001
 MDG,3,inservice,,,MDG-001
@@ -50,6 +50,6 @@ TGO,3,inservice,,,TGO-002
 TUN,3,inservice,,,TUN-001
 TZA,3,inservice,,,TZA-002;TZA-004
 UGA,2,underway,,,UGA-001;UGA-002
-ZAF,3,inservice,,,ZAF-001;ZAF-005
+ZAF,3,inservice,,,ZAF-004;ZAF-001
 ZMB,3,inservice,,,ZMB-001
 ZWE,3,inservice,,,ZWE-002

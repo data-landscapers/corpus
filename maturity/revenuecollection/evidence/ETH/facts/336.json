@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-08-eth-insa-e-invoice-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Invoice Management System",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "INSA for the Ministry of Revenues",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states only an e-invoice system launched for the Ministry of Revenues; no fact the study asks."
+}

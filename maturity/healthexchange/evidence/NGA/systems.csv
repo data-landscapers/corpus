@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,National Health Information Exchange Platform,Nigeria,exchange,,Federal Ministry of Health and Social Welfare,national,2025-11-20-nch-2025-salako-digital-health-remarks
-NGA,Electronic Medical Records systems,Nigeria,,,,hospitals,2025-11-20-nch-2025-salako-digital-health-remarks
-NGA,Edo State Digital Health Initiative,Nigeria,,,Edo State,state,2025-11-20-nch-2025-salako-digital-health-remarks
+NGA,Electronic Medical Records systems,Nigeria,other,,,hospitals,2025-11-20-nch-2025-salako-digital-health-remarks
+NGA,Edo State Digital Health Initiative,Nigeria,other,,Edo State,state,2025-11-20-nch-2025-salako-digital-health-remarks
 NGA,SORMAS (Surveillance Outbreak Response Management and Analysis System),Nigeria,other,,NCDC,national,2026-09-30-nga-thesun-ncdc-hfn-pharmaccess-moc-private-sector-surveillance
 NGA,HCPAN Connect,Nigeria,exchange,,Health Care Providers Association of Nigeria,"private providers, HMOs, regulators; Lagos first",2026-09-25-nga-vanguard-hcpan-connect-health-data
 NGA,Health Information Exchange (HIE) with Shared Health Record,Nigeria,exchange,"FHIR R4, cloud-based, open APIs","Nigeria Digital Health Transformation Organisation (NDHTO), under the Federal Ministry of Health and Social Welfare",federal HIE plus optional state-level HIEs (multi-HIE architecture),2025-12-01-nga-fmohsw-nigeria-digital-health-architecture

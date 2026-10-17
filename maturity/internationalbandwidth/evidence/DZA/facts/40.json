@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Ecofin says Algeria is connected to Europe through the Orval-Alval cable to Spain and the Medex cable to France.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Orval-Alval; Medex",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orval-Alval",
+   "country_label": "Algeria",
+   "class": "route",
+   "platform": "submarine cable to Spain",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Medex",
+   "country_label": "Algeria",
+   "class": "route",
+   "platform": "submarine cable to France",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

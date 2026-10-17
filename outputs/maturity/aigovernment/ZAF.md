@@ -8,6 +8,6 @@
 
 **Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [City Power prepaid purchase monitoring platform (tender)](<https://www.itweb.co.za/article/city-powers-electricity-theft-crackdown-faces-data-problem/GxwQDq1DLoZMlPVo>).
 
 ***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.

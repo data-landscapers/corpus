@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Actualite.cd reports OADC Texaf Digital-Kinshasa, a 2 MW carrier-neutral colocation data centre, went into service in August 2024 and is Uptime Institute Tier-III certified.",
+   "as_of": "2024-08-14",
+   "date_precision": "day",
+   "system": "OADC Texaf Digital-Kinshasa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Texaf Digital-Kinshasa",
+   "country_label": "RDC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC group) with TEXAF",
+   "tiers": "Tier-III"
+  }
+ ],
+ "note": ""
+}

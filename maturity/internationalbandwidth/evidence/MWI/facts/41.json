@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-mwi-maravi-airtel-five-international-fibre-routes",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Airtel Malawi says it has increased its international connectivity from three to five fibre routes, including new links through Tanzania and through Mozambique via Nacala.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Airtel international fibre routes",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

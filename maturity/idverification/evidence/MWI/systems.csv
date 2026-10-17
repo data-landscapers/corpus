@@ -22,7 +22,7 @@ MWI,Malawi digital ID (NRB) mobile identity verification,Malawi,relying,,Nationa
 MWI,SIM card registration,Malawi,relying,,MACRA; electronic communications licensees,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
 MWI,Bank KYC,Malawi,relying,,Banks,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
 MWI,Biometric national ID (NRIS),Malawi,other,,National Registration Bureau,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
-MWI,Domestic eKYC framework/platform,Malawi,,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+MWI,Domestic eKYC framework/platform,Malawi,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
 MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-09-23-mwi-data-harmonization-interoperability-agenda
 MWI,Department of Human Resource Management system connected to NRIS,Malawi,relying,NRIS,Department of Human Resource Management,,2026-09-23-mwi-data-harmonization-interoperability-agenda
 MWI,Ministry of Agriculture system connected to NRIS,Malawi,relying,NRIS,Ministry of Agriculture,,2026-09-23-mwi-data-harmonization-interoperability-agenda
@@ -55,4 +55,4 @@ MWI,Digital ID wallet,Malawi,other,,National Registration Bureau,,2025-09-01-mwi
 MWI,Mobile money KYC for CUCI cash transfer,Malawi,relying,,Airtel Malawi; TNM Malawi,,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,COVID-19 Urban Cash Intervention (CUCI),Malawi,relying,Unified Beneficiary Registry,"Ministry of Gender, Community Development and Social Welfare",,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,National Registry (National IDs),Malawi,other,,National Registration Bureau,,2025-02-01-mwi-cuci-impact-evaluation-report
-MWI,Unified Beneficiary Registry,Malawi,,,,,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,Unified Beneficiary Registry,Malawi,other,,,,2025-02-01-mwi-cuci-impact-evaluation-report

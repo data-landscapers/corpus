@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-som-id4africa-somali-digital-identity-playbook",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The CRVS Authority says the national civil registration system is built on OpenCRVS, was approved in November 2023, and was piloted from October 2024 in 20 districts.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "OpenCRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenCRVS",
+   "country_label": "National CRVS system on OpenCRVS",
+   "class": "civil",
+   "platform": "OpenCRVS",
+   "owner": "CRVS Authority",
+   "tiers": "20 pilot districts"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-08-eth-ebr-insa-local-platforms",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "INSA says it developed a modernized cadastral registry system for land administration that replaces map-heavy verification with digital landholding records and is already in use in government agencies.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "cadastral registry system",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

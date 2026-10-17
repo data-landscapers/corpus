@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-03-ben-iaso-georegistre-carte-sanitaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2 national (SNIGS)",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 is named but its service and reporting are not described; the link from the geo-registry to it is stated as not operational."
+}

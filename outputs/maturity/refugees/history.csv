@@ -1,0 +1,6 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,BFA,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,3,4,BFA-004,Arrivals added BFA-004; stage 3 -> 4.
+2026-10-17,CMR,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-005; CMR-006; stage unchanged.
+2026-10-17,COD,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,2,2,COD-002;COD-001,Arrivals added COD-002; stage unchanged.
+2026-10-17,DJI,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,no evidence,1,DJI-001,Arrivals added DJI-001; stage no evidence -> 1.
+2026-10-17,ETH,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,5,5,ETH-006;ETH-009,Arrivals added ETH-011; stage unchanged.

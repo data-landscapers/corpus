@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-09-ago-lbc-retfop-sietp-technical-education",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "LBC, the contractor, says the SIETP technical-vocational education system was designed for integration with SIGE, Angola's Education Information and Management System; no go-live of the link is stated.",
+   "as_of": "2025-05-09",
+   "date_precision": "day",
+   "system": "SIETP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIETP",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

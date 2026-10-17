@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-11-cpv-expresso-instabilidade-sigof",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The finance ministry says SIGOF centralises state public finance management across the budget cycle, including payment of suppliers and staff, and was unstable from early October 2024.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "SIGOF",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGOF",
+   "country_label": "Sistema Integrado de Gestao Orcamental e Financeira",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

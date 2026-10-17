@@ -1,0 +1,6 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,CAF,capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills,fact,no evidence,2,CAF-001,Arrivals added CAF-001; stage no evidence -> 2.
+2026-10-17,COM,capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills,fact,no evidence,2,COM-001,Arrivals added COM-001; stage no evidence -> 2.
+2026-10-17,LSO,capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills,fact,no evidence,2,LSO-001,Arrivals added LSO-001; stage no evidence -> 2.
+2026-10-17,SWZ,capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills,fact,2,2,SWZ-001;SWZ-002,Arrivals added SWZ-003; stage unchanged.
+2026-10-17,ZAF,capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills,fact,unplaced,2,ZAF-002,Arrivals added ZAF-002; stage unplaced -> 2.

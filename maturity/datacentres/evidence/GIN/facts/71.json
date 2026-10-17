@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-15-gin-le360-data-center-national-exploitation-courant",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national de Guinée",
+   "country_label": "Guinea",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State, operated with Corex",
+   "tiers": ""
+  }
+ ],
+ "note": "Article does not say the national data centre rents to outside organisations or gives a Tier."
+}

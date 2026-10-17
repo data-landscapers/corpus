@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The High Commissioner for Digitalisation said the national data centre project (two sites, Alger and Blida), signed with Huawei Consortium in April 2024, aims to achieve digital sovereignty and the domiciliation of national data.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Centre national algérien des prestations numériques",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-zaf-pmg-nw5645-south-africans-without-ids",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs cites the National Population Register as showing 4,432,923 South Africans aged 16 and over without a Green ID book or Smart ID card.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

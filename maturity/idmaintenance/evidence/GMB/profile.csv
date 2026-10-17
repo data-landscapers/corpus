@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,maintenance,operation,coverage,national,2026-08-28,GMB-004,GMB-002=transfer;GMB-006=transfer;GMB-007=transfer;GMB-005=transfer;GMB-008=transfer;GMB-001=transfer,
-GMB,maintenance,maintenance,coverage,national,2026-10-06,GMB-003,,
+GMB,maintenance,operation,coverage,national,2026-08-28,GMB-004;GMB-009,GMB-002=transfer;GMB-006=transfer;GMB-007=transfer;GMB-005=transfer;GMB-008=transfer;GMB-001=transfer,
+GMB,maintenance,maintenance,coverage,,,,,nothing held
 GMB,maintenance,ownership,coverage,,,,,nothing held

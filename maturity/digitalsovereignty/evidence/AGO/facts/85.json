@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-ago-pti-estado-da-nacao-telecomunicacoes-transformacao-digital",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "President Lourenço says the National Cloud and Government Data Center have been structured to strengthen digital services and the security of Public Administration systems.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Cloud Nacional / Data Center do Governo",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

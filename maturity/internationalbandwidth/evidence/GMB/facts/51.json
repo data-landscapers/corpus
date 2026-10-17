@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-26-gmb-fatunetwork-mocde-2023-achievements",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Ministry says the Gambia's telecommunications infrastructure includes the ACE (Africa Coast to Europe) submarine cable; a second submarine cable is described as funded at USD 25 million through the World Bank's WARDIP, not in service.",
+   "as_of": "2024-01-19",
+   "date_precision": "day",
+   "system": "ACE submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE submarine cable",
+   "country_label": "The Gambia",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

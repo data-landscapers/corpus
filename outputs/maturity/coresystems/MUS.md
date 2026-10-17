@@ -6,9 +6,9 @@
 
 **Tax.** No source held from 2023 or later says the tax authority's system is in use; the stage rests on [the source that sets it](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
 
-**Payroll.** No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
+**Payroll.** [The Central Information Systems Division states it handles monthly payroll processing for every Ministry and Department, on a revamped payroll system with an e-payroll module for Finance Officers](<https://cisd.govmu.org/Documents/customercharter24.pdf>). [The CISD page lists the e-Payroll system as launched in October 2020 and revamped in September 2023](<https://cisd.govmu.org/Pages/Application-Development.aspx>).
 
-**Renewal.** No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
+**Renewal.** [The CISD page lists a revamped e-Payroll System in September 2023](<https://cisd.govmu.org/Pages/Application-Development.aspx>).
 
 **A map of the systems.** [The Central Informatics Bureau's progress update on the Digital Government Transformation Strategy marks as implemented the recommendation to publish a catalogue of information systems and services, saying a list of operational systems by ministry and department is available on the CIB website](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
 

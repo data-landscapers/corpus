@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17-gmb-unfpa-launch-2024-census-preliminary-report",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "UNFPA The Gambia reports that the Gambia Bureau of Statistics launched the preliminary report of the 2024 digital population and housing census on 17 September 2024, giving a population of 2.4 million, over 300,000 more than in 2013.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "2024 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2024 Digital Population and Housing Census",
+   "country_label": "Census 2024",
+   "class": "census",
+   "platform": "digital data collection",
+   "owner": "Gambia Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

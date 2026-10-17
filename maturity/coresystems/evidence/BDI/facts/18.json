@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-11-bdi-abp-miels-sigefi-gaps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGEFI",
+   "country_label": "SIGEFI",
+   "class": "core",
+   "platform": "",
+   "owner": "finance ministry",
+   "tiers": "central"
+  }
+ ],
+ "note": "Only one ministry (MIELS) is described using SIGEFI with a non-functional interconnection; no statement of use across central government, no stoppage, no paper statement."
+}

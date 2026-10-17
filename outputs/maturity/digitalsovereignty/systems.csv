@@ -1,4 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Cloud unificada governamental (cloud nacional),Angola,sovereignty,Camama main data centre (204 server cabinets) and Rangel backup data centre,State of Angola,"three levels: organs of sovereignty, State administration, information society",2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel
 BDI,Setic data center,Burundi,sovereignty,,Secretariat executif des technologies de l'information et de la communication (Setic),,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BFA,"Two modular government datacenters, Ouagadougou",BFA,other,government cloud,Ministry of Digital Transition (state),,2026-01-25-gouvernement-inaugure-deux-datacenters
 BFA,Planned national datacenter,BFA,other,,state (planned),,2026-01-25-gouvernement-inaugure-deux-datacenters
@@ -26,6 +27,7 @@ CMR,Camtel Zamengoe data centre,Cameroon,sovereignty,"data centre, Tier III cert
 COD,Data center du Gouvernement,Data center du Gouvernement,other,,"Government (Kinshasa-Gombe, Government building)",public administration,2025-07-24-sgptntic-visite-data-center-gouvernement
 COD,ANCE (Autorité nationale de certification électronique),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
 COD,ANCY (Agence nationale de la cybersécurité),COD,other,,state,,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal
+COD,Registre Social Unique (RSU) / MIS-DRC (SIG RDC),Registre Social Unique,other,MIS-DRC web server and Android app,"MINAS, UTG-RSU",,2026-07-19-cod-minas-registre-social-unique
 COG,Datacenter national,Congo,sovereignty,TIER III+ data centre,"Government of Congo, financed mainly by AfDB",,2026-02-12-congo-datacenter-national-operationnel-mai-2026
 COG,Datacenter national,Congo,sovereignty,"data centre, Bacongo, Brazzaville","Government of Congo, cofinanced by AfDB",,2025-08-06-datacenter-national-inaugure-novembre-ldb
 COG,Datacenter national,Congo,sovereignty,"data centre, Bacongo, Brazzaville","Government of Congo, financed by AfDB",,2025-03-01-adiac-datacenter-national-siege-inaugure-novembre-80pc
@@ -41,6 +43,7 @@ CPV,"eGovernment network (1,142 organisations)",eGovernment network,other,Huawei
 CPV,"National data center (NOSi, Cape Verde)",national data center,other,Huawei eGovernment Cloud / FusionCloud,,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,other,"Gráfica de Segurança, Imprensa Nacional de Cabo Verde (INCV)",Instituto da Modernização e Inovação da Justiça,,2026-06-08-cpv-soberania-digital-cabo-verde-produz-cartao-nacional-identificacao
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,other,,"NOSi, E.P.E.",,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
+CPV,Data Center do Estado,Data Center do Estado,sovereignty,,NOSi,,2026-02-17-cpv-balai-data-center-estado-fotovoltaico-40pct
 DJI,Registre National des Personnes Physiques (RNPP),RNPP,other,relational database,"Direction Generale de la Population et de la Famille (DGPF), with ANSIE for development and security","public authorities, public and private bodies under Djiboutian law, their subcontractors",2020-07-13-dji-journalofficiel-decret-2020-146-rnpp
 DZA,National Digital Services Centre (Mohammadia),DZA,other,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
 DZA,National Digital Services Centre (Mohammadia),DZA,other,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
@@ -53,6 +56,7 @@ DZA,National Algerian Digital Services Centre,Algeria,sovereignty,,State,nationa
 DZA,National Digital Services Center,Algeria,sovereignty,"two active-active data centers in Algiers and Blida, built by Huawei",Government of Algeria,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
 DZA,Centre national algerien des services numeriques,Algerian National Digital Services Centre,sovereignty,Huawei-led consortium build,High Commission for Digitalisation,"two data centres, Mohammadia and planned Blida",2026-07-05-dza-elwatan-centre-national-services-numeriques
 DZA,National Digital Services Centre (Mohammadia),DZA,other,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-05-national-centre-digital-services-inauguration-echorouk
+DZA,Centre national des services numériques,Algérie,other,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
 EGY,Cloud First Policy,Cloud First Policy (2024),other,,Supreme Council of Digital Society; MCIT,central government,2024-01-01-egypt-cloud-first-policy-data-localisation-dpa
 EGY,Karnak Chat / Karnak LLM,Egypt,sovereignty,Egyptian data centres,"Applied Innovation Center, MCIT",,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
 EGY,Digital Egypt,Egypt,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
@@ -103,6 +107,7 @@ MLI,National Data Centre,MLI,other,,,Tier III (stated),2026-02-02 Mali unveils m
 MLI,Système intégré de gestion de l'information préfectorale (SIGIP),Mali,other,,Ministère de l'Administration territoriale,,2025-09-17-mali-essor-sigip-six-solutions-numeriques
 MLI,SMTD data centre,Centre de données de la SMTD,other,,Société malienne de transmission et de diffusion (SMTD),,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,AGETIC data centre,Centres de données de l'AGETIC,other,,AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,Mali Kura Biométrie,Mali Kura Biométrie (RAVEC data system),other,"national, source code and licences held by national experts",Ministère de l'Administration territoriale et de la Décentralisation,,2024-02-20-mli-bamada-mali-recupere-fichiers-ravec
 MOZ,Notice 4/GGBM/2003 (Banco de Moçambique),Notice 4/GGBM/2003,other,,Banco de Moçambique,financial institutions,2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report
 MOZ,Centro de Dados da UEM,Mozambique,sovereignty,university data centre,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
 MOZ,MOZIX,Mozambique,other,national internet exchange point,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
@@ -150,7 +155,7 @@ NGA,"Tier III data centre, Lagos (4.5MW initial, 9MW planned)","Tier III data ce
 NGA,National Cloud Initiative,National Cloud Initiative,other,,Technical working group co-chaired by Digital Realty Nigeria,,2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy
 NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,Galaxy Backbone Limited (state-owned); NITDA,,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
 NGA,Cloud First Policy (2019),Cloud First Policy (2019),other,,Government of Nigeria,,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
-NGA,Galaxy Backbone Limited,Nigeria,,,State-owned (per document),,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
+NGA,Galaxy Backbone Limited,Nigeria,other,,State-owned (per document),,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
 NGA,GFA Abeokuta Technology Zone Data Centre,200MW Abeokuta Technology Zone Data Centre and Digital Infrastructure Campus,other,,GFA Technologies Group,,2026-07-27-cbn-data-localisation-directive-data-centre-investment
 NGA,OADC Lagos data centre campus,OADC Lagos campus,other,,OADC,private sector,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,Nigerian commercial data centre market,"commercial data centres, 50-56 MW live, about 124 MW installed",other,,"OADC, Rack Centre, Kasi Cloud, Galaxy Backbone, Equinix",,2026-07-07 CBN's local data order puts Nigeria's data centres to test
@@ -173,6 +178,7 @@ SDN,SUDAPASS,Sudan,other,,,,2026-05-29-sca-sudapass-sovereignty-statement
 SEN,Diamniadio National Datacenter (DND),Data Center National de Diamniadio,other,Huawei-built,Government of Senegal,state,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 SEN,"sovereign data center (planned, Cybastion)",Senegal,sovereignty,,Cybastion with the Senegalese government,,2026-09-17-panafricanvisions-senegal-cybastion-digital-fast-track-sovereign-data-centre
 SEN,Data Center de Sénégal Numérique (SENUM),Senegal,sovereignty,,Sénégal Numérique (SENUM),,2026-08-20-seneweb-loi-securite-numerique-adoption
+SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage
 SLE,Government Data Centre,Sierra Leone,sovereignty,NatCA Tower,"Ministry of Communication, Technology and Innovation",redundancy site planned at State House,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SOM,Government Data and Cybersecurity Center,Somaliland,sovereignty,government data centre (under construction),Ministry of Information and Communication Technology,,2025-10-20-taiwanicdf-somaliland-government-data-center
 SOM,S-Road,Somaliland,other,e-governance system,,,2025-10-20-taiwanicdf-somaliland-government-data-center
@@ -181,6 +187,7 @@ SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technolog
 SWZ,National Data Centre,National Data Centre (NDC),other,,Royal Science and Technology Park (RSTP),,2026-09-24-swz-times-national-data-centre-incident
 TCD,Centre National des Données Numériques (Data Center),Chad,sovereignty,,,,2025-01-08-data-center-national-souverainete-numerique
 TCD,Data Center national,Chad,sovereignty,Huawei,,,2026-02-12-adetic-audit-certification-data-center-national
+TCD,National Data Center (PMICE Phase I),Chad,other,,State,,2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center
 UGA,existing data center (UDAP-GovNet),Uganda,other,government data center,,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
 UGA,Third national data center,Uganda,other,"planned, removed from project scope",,,2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper
 UGA,National Data Centre,Uganda,other,government hosting and co-location,NITA-U (Government of Uganda),,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30
@@ -199,7 +206,7 @@ ZAF,Africa Data Centres Cape Town,South Africa,other,,Africa Data Centres (ADC),
 ZAF,SITA Centurion data centre,South Africa,other,,SITA (state agency),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,SITA Beta data centre,South Africa,other,,SITA (state agency),,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,National integrated government data centre (proposed),South Africa,other,,"proposed, under SITA",,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
-ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",South Africa,,,,,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
+ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",South Africa,other,,,,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,Draft National Policy on Data and Cloud,Draft National Policy on Data and Cloud,other,,Department of Communications and Digital Technologies,national government,2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries
 ZMB,Zambia National Data Centre (ZNDC),Zambia National Data Centre,other,,Government of Zambia,government; banks and mobile providers as paying tenants,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
 ZWE,Zimbabwe Centre for High Performance Computing (ZCHPC) data center,Zimbabwe,other,"national HPC / supercomputer, University of Zimbabwe, Zimbabwe Science Park 1","ZCHPC, custodian of the national HPC infrastructure (University of Zimbabwe); owner not stated beyond that",,2025-08-15-developzim-zchpc-hpc-phase-2-commissioned

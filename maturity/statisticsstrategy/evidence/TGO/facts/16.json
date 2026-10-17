@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-04-tgo-inseed-validation-plan-action-revise-snds-2023-2025",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "INSEED states SNDS 2020-2024 was being implemented, with its remaining period to end-2025 to be covered by a revised action plan 2023-2025 put to national validation on 18-20 December 2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "SNDS 2020-2024",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "evaluation",
+   "value": "evaluated",
+   "fact": "INSEED states a joint AFRISTAT, COMESA and PARIS21 mission carried out the mid-term evaluation of Togo's SNDS 2020-2024 on 5-9 December 2022.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "SNDS 2020-2024",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDS 2020-2024",
+   "country_label": "SNDS 2020-2024",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

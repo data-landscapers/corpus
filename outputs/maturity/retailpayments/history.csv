@@ -1,0 +1,4 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-17,ETH,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,ETH-012;ETH-005,Arrivals added ETH-023; stage unchanged.
+2026-10-17,LBR,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,LBR-002;LBR-010,Arrivals added LBR-019; stage unchanged.
+2026-10-17,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Arrivals added ZWE-014; stage unchanged.

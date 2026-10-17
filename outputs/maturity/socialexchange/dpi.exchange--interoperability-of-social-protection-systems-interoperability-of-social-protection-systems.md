@@ -1,6 +1,6 @@
 # Interoperability of social protection systems: interoperability of social protection systems
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Union's Protocol on Social Protection asks for a social protection i
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 16 |
-| 3 Established | 7 |
-| 2 Nascent | 17 |
+| 5 Leading | 2 |
+| 4 Operating | 15 |
+| 3 Established | 8 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 12 |
 
 ## Countries
+
+### Congo: 5 Leading
+
+The social registry was linked to the national ID and another sector in 2024.
+
+- Article 8 of the joint arrete of 20 August 2024 says the registre social unique holds data drawn from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
 
 ### Rwanda: 5 Leading
 
@@ -60,12 +66,6 @@ Two or more programmes shared one social registry in 2026; links to another sect
 Two or more programmes shared one social registry in 2026; links to another sector are not known.
 
 - The Government of Cabo Verde states that the Cadastro Social Único is the base of the country's social support system, and that a registered eligible household can access targeted support including cash transfers, food security support and resilience programmes ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
-
-### Congo: 4 Operating
-
-Two or more programmes shared one social registry in 2026; links to another sector are not known.
-
-- The social affairs minister said at the 10 April 2026 inauguration of the RSU headquarters that the universal health insurance, safety net and insertion programmes now have the RSU as a common source of information ([source, 2026-04-10](https://affaires-sociales.gouv.cg/2026/04/14/le-registre-social-unique-du-congo-dispose-dun-siege-approprie/)).
 
 ### Egypt: 4 Operating
 
@@ -158,6 +158,12 @@ A social protection system exchanged data in 2026; a registry shared by programm
 
 - The finance and gender ministries confirmed in a joint notice that 15,825 old-age grants were suspended because beneficiary names were unverified in the National Population Registry System, so the grant beneficiary list is checked against the population registry ([source, 2026-06](https://www.namibian.com.na/system-says-no-to-hungry-pensioners/)).
 - The first live government-to-person grant payments went through Namibia's instant payment network on 17 June 2026, to beneficiaries in the Marginalised Beneficiaries grant category, via Bank Windhoek, in a controlled go-live ([source, 2026-06-17](https://technews.com.na/2026/06/17/namibia-moves-government-grant-payments-onto-instant-payment-network/)).
+
+### Senegal: 3 Established
+
+A social protection system exchanged data in 2023; a registry shared by programmes is not known.
+
+- DGPSN says the information systems of the RNU and the PNBSF are interconnected, with SENUM-SA's technical support, using REST APIs ([source, 2023-11](https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -263,12 +269,6 @@ A link between social protection systems was under way in 2026; none in service 
 
 - The Federal Ministry of Humanitarian Affairs and Poverty Reduction flagged off the One Humanitarian - One Poverty Response System on 25 March 2026, centred on a Unified National Register, and committed to integrating all existing programmes into it; no programme link in service is stated ([source, 2026-03-25](https://fmino.gov.ng/fg-flags-off-one-humanitarian-one-poverty-response-system-with-un-and-other-partners/)).
 
-### Senegal: 2 Nascent
-
-A link between social protection systems was under way in 2025; none in service is on record.
-
-- The World Bank status report says vulnerable households registered to the RNU by the DGPSN will be targeted for free ReadyBoard connections under the energy access project, with connections expected to begin in early 2027; none connected by 4 December 2025 ([source, 2025-12](https://documents1.worldbank.org/curated/en/099122225105510242/pdf/P176620-541ea364-1f14-4fe8-8ea3-18cad42ba2cc.pdf)).
-
 ### Sierra Leone: 2 Nascent
 
 A link between social protection systems was under way in 2023; none in service is on record.
@@ -279,8 +279,8 @@ A link between social protection systems was under way in 2023; none in service 
 
 A link between social protection systems was under way in 2025; none in service is on record.
 
+- Togo's presentation says the RSPM was being integrated in 2025 to link socio-economic data across institutions through the e-ID, over the RSIA ([source, 2025](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
 - The Ministry of Planning reports that on 18 December 2025 the government launched the cash-transfer component of the Programme National de Protection Sociale, for more than 700,000 people targeted by INSEED and ANADEB, to be paid at 25,000 FCFA per household through mobile money (Mixx by Yas and Flooz) ([source, 2025-12-18](https://planification.gouv.tg/programme-national-de-la-protection-sociale-le-ministre-sandra-lance-loperationnalisation-des-transferts-monetaires/)).
-- The World Bank's ISR for the ASTRE programme (P178835) records that as at 30 September 2024 the eID was soft-launched on 27 November 2023, the RSPM social registry software was 75% complete, and the data exchange platform between eID, RSPM, BOMS and other administrative systems was 'Not in place', with a target of December 2026 ([source, 2024-09-30](https://documents1.worldbank.org/curated/en/099103024111041029/pdf/P178835-e634417e-785f-4b55-bb2c-063c891f286b.pdf)).
 
 ### Zambia: 2 Nascent
 

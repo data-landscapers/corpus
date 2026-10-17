@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-20-caf-worldbank-pgnsp-isr-simba",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank ISR says a clean payroll database is being used to pay civil servants and civil-servant enrolment on the government salary mobile payment system (Patapaye) increased.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "Patapaye",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Patapaye",
+   "country_label": "Central African Republic",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "SIMBA",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "government financial management system",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

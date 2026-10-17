@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-25-dji-rtd-parc-technologique-to7-centre-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "RTD reports the TO7 park's submarine cable landing station, with room for up to 5 cables, was put into service on 25 November 2024 and serves as the landing platform for a Google cable.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "TO7 submarine cable landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

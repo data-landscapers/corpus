@@ -19,8 +19,8 @@ NGA,Kasi Cloud Lekki campus,Kasi Cloud Lekki campus,other,,Kasi Cloud Ltd (NSIA-
 NGA,Equinix LG3,Equinix LG3,other,,Equinix,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,OADC Lagos 24 MW facility,OADC Lagos 24 MW facility,other,,Open Access Data Centres,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,Nxtra by Airtel Lagos campus,Nxtra by Airtel Lagos campus,other,,Nxtra by Airtel,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
-NGA,Digital Realty (Medallion),Digital Realty (Medallion),,,Digital Realty,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
-NGA,21st Century Technologies facilities,21st Century Technologies facilities,,,21st Century Technologies,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
+NGA,Digital Realty (Medallion),Digital Realty (Medallion),other,,Digital Realty,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
+NGA,21st Century Technologies facilities,21st Century Technologies facilities,other,,21st Century Technologies,,2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud
 NGA,PR1 Port Harcourt,PR1 Port Harcourt,datacentre,,Equinix (MainOne Solutions by Equinix),,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
 NGA,Kasi Cloud Lekki campus,Kasi Cloud Lekki campus,other,,Kasi Cloud Ltd,,"2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos"
 NGA,Dabengwa Data Centre,Dabengwa Data Centre,datacentre,,MTN Nigeria,,2025-09-26-techbooky-mtn-nigeria-dabengwa-tier-iii-tccf
@@ -57,30 +57,30 @@ NGA,Rack Centre (Lagos),Rack Centre,datacentre,,Actis and Jagal,,2020-08-31-rack
 NGA,Rack Centre Phase 2 expansion,,other,,Rack Centre,,2020-08-31-rack-centre-100m-expansion-13mw-lagos
 NGA,Rack Centre (Lagos),Rack Centre,datacentre,,"Jagal, majority stake to Actis (2020)",,2020-03-04-rack-centre-actis-majority-stake-jagal
 NGA,National Sovereign Cloud Initiative,,other,,NITDA,,2026-09-28-nga-businessam-data-localisation-data-centre-investment
-NGA,Open Access Data Centres,,,,,,2026-09-28-nga-businessam-data-localisation-data-centre-investment
+NGA,Open Access Data Centres,,other,,,,2026-09-28-nga-businessam-data-localisation-data-centre-investment
 NGA,KASI Hyperscale Data Centre,KASI Hyperscale Data Centre,other,,Nigeria Sovereign Investment Authority,,2026-09-01-nsia-kasi-100mw-ai-data-centre-nigeria
 NGA,Sifiso Dabengwa Data Centre,Sifiso Dabengwa Data Centre,other,,MTN,,2026-08-27-capacity-mtn-150mw-gulf-data-hub-tarek-al-ashram
-NGA,Africa Data Centres,Africa Data Centres,,,Liquid Intelligent Technologies has points of presence there,,2026-08-11-taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-lar
+NGA,Africa Data Centres,Africa Data Centres,other,,Liquid Intelligent Technologies has points of presence there,,2026-08-11-taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-lar
 NGA,AFRICLOUD Lagos region,AFRICLOUD Lagos,datacentre,,AFRICLOUD,,2026-08-10-africloud-lagos-cloud-region-nigeria
 NGA,Galaxy Backbone sovereign cloud,National Sovereign Cloud Initiative,other,,Galaxy Backbone Limited,,2026-08-10-nigeria-sovereign-cloud-localisation-nitda-galaxy-backbone
 NGA,21st Century Technologies Ikeja Campus,21st Century Technologies Ikeja Campus,datacentre,,21st Century Technologies,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
-NGA,Nxtra by Airtel Eko Atlantic (planned 38 MW),Nxtra by Airtel Eko Atlantic (planned 38 MW),,,Airtel,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
-NGA,Open Access Data Centres Ilasan campus (planned 24 MW),Open Access Data Centres Ilasan campus (planned 24 MW),,,Open Access Data Centres,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
-NGA,Abeokuta Technology Zone Data Centre & Digital Infrastructure Campus (planned 200MW),Abeokuta Technology Zone Data Centre & Digital Infrastructure Campus (planned 200MW),,,GFA Technologies Group,,2026-07-27-cbn-data-localisation-directive-data-centre-investment
+NGA,Nxtra by Airtel Eko Atlantic (planned 38 MW),Nxtra by Airtel Eko Atlantic (planned 38 MW),other,,Airtel,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
+NGA,Open Access Data Centres Ilasan campus (planned 24 MW),Open Access Data Centres Ilasan campus (planned 24 MW),other,,Open Access Data Centres,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
+NGA,Abeokuta Technology Zone Data Centre & Digital Infrastructure Campus (planned 200MW),Abeokuta Technology Zone Data Centre & Digital Infrastructure Campus (planned 200MW),other,,GFA Technologies Group,,2026-07-27-cbn-data-localisation-directive-data-centre-investment
 NGA,Rack Centre LGS2,Rack Centre LGS2,datacentre,,Rack Centre,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 NGA,Dabengwa Sifiso Data Centre,Dabengwa Sifiso Data Centre,datacentre,,MTN Nigeria,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
-NGA,"Nxtra by Airtel Victoria Island (38 MW, construction)","Nxtra by Airtel Victoria Island (38 MW, construction)",,,Airtel Africa,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+NGA,"Nxtra by Airtel Victoria Island (38 MW, construction)","Nxtra by Airtel Victoria Island (38 MW, construction)",other,,Airtel Africa,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
 NGA,Rack Centre,Rack Centre,datacentre,,Rack Centre,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
-NGA,"Lagos $250 million hyperscale data centre (planned, Tier III design)","Lagos $250 million hyperscale data centre (planned, Tier III design)",,,,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
-NGA,Liquid Telecom,,,,Liquid Telecom,,2026-04-14 Africa's data centres rethink power as grids falter
+NGA,"Lagos $250 million hyperscale data centre (planned, Tier III design)","Lagos $250 million hyperscale data centre (planned, Tier III design)",other,,,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+NGA,Liquid Telecom,,other,,Liquid Telecom,,2026-04-14 Africa's data centres rethink power as grids falter
 NGA,ABAT-3 Data Centre,,other,,Lagos State Government (LAGIS),,2026-04-08-president-tinubu-commissions-lagos-geographic-information-service-lagis-office-a
 NGA,Sifiso Dabengwa Data Centre,,other,,MTN,,2026-03-28 MTN makes big bet on AI data centres in South Africa
 NGA,Rack Centre LGS1/LGS2,,datacentre,,Rack Centre,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,Sifiso Dabengwa Data Centre,,other,,MTN Nigeria,"Tier III, 4.5 MW, 780 racks; hire to outsiders not stated",2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Africa Data Centres LOS1,,,,Africa Data Centres / Cassava,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Open Access Data Centres,,,,,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,"Digital Realty LKK1, LKK2, ABV1",,,,Digital Realty,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
-NGA,Equinix LG2,,,,Equinix,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Africa Data Centres LOS1,,other,,Africa Data Centres / Cassava,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Open Access Data Centres,,other,,,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,"Digital Realty LKK1, LKK2, ABV1",,other,,Digital Realty,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
+NGA,Equinix LG2,,other,,Equinix,,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,Galaxy Backbone NSSC,,other,,Galaxy Backbone,0.825 MW,2026-01-22-dpi-africa-nigeria-data-centre-shortage
 NGA,Fringe Infrastructure Ikoyi,,datacentre,,Fringe Infrastructure,,2026-01-07-dcd-fringe-infrastructure-ikoyi-edge-launch
 NGA,Rack Centre LGS1,Nigeria,datacentre,,Rack Centre,,2025-12-08-data-centre-capacity-400mw-2030-verraki
@@ -104,9 +104,9 @@ NGA,Sifiso Dabengwa Data Centre,"MTN Sifiso Dabengwa Data Centre, Lagos",datacen
 NGA,Nxtra by Airtel Eko Atlantic data centre,"Nxtra by Airtel data centre, Eko Atlantic, Lagos",other,,Airtel Nigeria,,2025-08-06-techpoint-airtel-nigeria-nxtra-38mw-it-load-eko-atlantic
 NGA,Sifiso Dabengwa Data Centre,"MTN Sifiso Dabengwa Data Centre, Lagos",datacentre,,MTN Nigeria,,2025-07-02 MTN Nigeria launches Tier III Sifiso Dabengwa data centre in Lagos (Developing Telecoms)
 NGA,"Visa planned data centre, Nigeria",,other,,Visa,,2025-03-24-visa-data-centre-1-billion
-NGA,Suburban Cloud Abuja data centre,,,,Suburban Cloud,,2025-02-25-aws-google-cloud-nigeria-alternatives
+NGA,Suburban Cloud Abuja data centre,,other,,Suburban Cloud,,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,Layer3 cloud (colocated in two Lagos and one Abuja data centres),,other,,Layer3,,2025-02-25-aws-google-cloud-nigeria-alternatives
-NGA,Open Access Data Centres (OADC),,,,Open Access,,2025-02-25-aws-google-cloud-nigeria-alternatives
+NGA,Open Access Data Centres (OADC),,other,,Open Access,,2025-02-25-aws-google-cloud-nigeria-alternatives
 NGA,"NSSC DC1 Phase 1, Abuja",,datacentre,,Galaxy Backbone,,2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf
 NGA,Airtel Nigeria Nxtra Eko Atlantic data centre,,other,,Airtel Nigeria,,2025-01-01-airtel-nigeria-nga-2025-eko-atlantic-38mw-data-centre-bw04
 NGA,Equinix LG3 Lagos,,other,,Equinix,,2025-01-01-equinix-nga-lg3-2025-equinix-lg3-lagos-new-data-centre
@@ -143,8 +143,8 @@ NGA,"MTN Data Centre, Ojota",NGA,datacentre,,MTN Nigeria,Tier III design (Uptime
 NGA,MDX-i Lekki Data Centre,NGA,datacentre,,MainOne / MDX-i,"Tier III (operator statement), TIA-942",2015-01-16-businessday-mainone-mdx-i-lekki-tier-iii-data-centre
 NGA,"Rack Centre, Ikeja",NGA,datacentre,,Rack Centre (Jagal Group),Tier III certified,2014-11-13-businessday-rack-centre-internet-solutions-collocation-ikeja
 NGA,Internet Solutions Victoria Island data centre,Lagos data centre and hosting facility,datacentre,,Internet Solutions West Africa,,2011-03-09-itrealms-internet-solutions-lagos-data-centre-expansion
-NGA,Open Access Data Centres (OADC),OADC,,,WIOCC,,2026-09-18-xaf-latribune-wiocc-dfc-data-centres-capacity
-NGA,Rack Centre Lagos,new Lagos facility,,,Rack Centre,,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms
+NGA,Open Access Data Centres (OADC),OADC,other,,WIOCC,,2026-09-18-xaf-latribune-wiocc-dfc-data-centres-capacity
+NGA,Rack Centre Lagos,new Lagos facility,other,,Rack Centre,,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms
 NGA,Africa Data Hub (MTN / Al Ashram),Africa Data Hub Holding Limited,other,,MTN Group; Al Ashram,,2026-09-11-iafrikan-africa-ai-data-centre-rush-power-water
 NGA,Cassava AI Factory,NGA,other,,Cassava Technologies,,2026-09-10-itweb-africa-liquid-targets-data-centre-gap
 NGA,Open Access Data Centres (OADC),NGA,other,,WIOCC Group,,2024-01-01-proparco-reg-wiocc-oadc-2024-wiocc-group-open-access-data-centres
@@ -153,15 +153,15 @@ NGA,LG2 Lagos,NGA,other,,Equinix (ex-MainOne),,2022-01-01-equinix-reg-mainone-ac
 NGA,Open Access Data Centres (OADC),NGA,other,,WIOCC Group,"Tier III strategy, no facility named",2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres
 NGA,LOS1 Lagos,NGA,other,,Africa Data Centres (Cassava Technologies),,2021-01-01-adc-reg-500m-programme-2021-africa-data-centres-500-million-pan-african
 NGA,Africa Data Centres Nigeria,NGA,other,,Africa Data Centres (Liquid Intelligent Technologies),,2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data
-NGA,Open Access Data Centres,NGA,,,Open Access Data Centres,,2026-10-08-nga-cbn-insists-on-january-1-2027-deadline-for-banks-fintechs-to-store-pay
+NGA,Open Access Data Centres,NGA,other,,Open Access Data Centres,,2026-10-08-nga-cbn-insists-on-january-1-2027-deadline-for-banks-fintechs-to-store-pay
 NGA,Open Access Data Centres,NGA,datacentre,,Open Access Data Centres,,2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
 NGA,Rack Centre,NGA,datacentre,,Rack Centre,,2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
 NGA,Digital Realty Ibeju-Lekki data centre,NGA,datacentre,,Digital Realty,,2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
-NGA,Open Access Data Centre,NGA,,,Open Access Data Centre,,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
+NGA,Open Access Data Centre,NGA,other,,Open Access Data Centre,,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
 NGA,Open Access Data Centre,OADC,datacentre,,Open Access Data Centre,,2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short
 NGA,Open Access Data Centre,OADC,datacentre,,Open Access Data Centre,,2026-09-25-nga-thisdaylive-stakeholders-cbn-data-localisation-timeline
 NGA,National Cloud Initiative,National Cloud Initiative,other,,,,2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy
-NGA,Digital Realty Nigeria,Digital Realty Nigeria,,,Digital Realty Nigeria,,2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy
+NGA,Digital Realty Nigeria,Digital Realty Nigeria,other,,Digital Realty Nigeria,,2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy
 NGA,MTN Lagos data centre,MTN Lagos data centre,other,,MTN Nigeria,,2026-09-19-nga-businessday-data-boom-telecom-investment
 NGA,National Cloud Infrastructure Strategy,National Cloud Infrastructure Strategy,other,,NITDA,,2026-09-17-nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy
 NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-09-17-nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy
@@ -169,15 +169,15 @@ NGA,National Digital Infrastructure Assurance Framework,National Digital Infrast
 NGA,AGH Cloud (Africa GPU Hub),AGH Cloud (Africa GPU Hub),other,,Udu Technologies,,2026-09-11-udutech-baro-ai-gpu-supply-africa
 NGA,Nobus Cloud Services,Nobus,datacentre,,Nkponani Limited,,2026-09-09-cioafrica-nobus-nairobi-availability-zone
 NGA,Audience Measurement System backend data centre,AMS,other,,First Media / NBC,,2026-09-04-vanguard-nigeria-tv-audience-measurement-system-rollout
-NGA,"unnamed hyperscale data centre, Lagos",,,,,,2026-09-01-nigerias-digital-independence-drive-gains-momentum-as-ai-dat
+NGA,"unnamed hyperscale data centre, Lagos",,other,,,,2026-09-01-nigerias-digital-independence-drive-gains-momentum-as-ai-dat
 NGA,Chassis GPU cloud,Chassis,other,,Chassis (founded 2025),,2026-08-31-nigeria-chassis-gpu-cloud-startup
 NGA,Huawei Cloud Nigeria local cloud,Huawei Cloud Nigeria,datacentre,Huawei Cloud,Huawei,,2026-08-31-techafricanews-huawei-agentic-ai-cloud-nigeria
 NGA,"OADC Lekki hyperscale facility (24MW, USD 240m investment)",,other,,OADC,,2026-08-26-cloud-dependence-african-ai-startups-cost-risks
 NGA,PipeOps,PipeOps,other,,Lagos-based startup,,2026-08-26-four-african-cloud-startups-to-watch-2026
 NGA,Azure,Azure,other,Microsoft Azure,Microsoft,,2026-08-26-ustda-zenith-bank-nigeria-cloud-digital-banking-grant
-NGA,Cassava,Cassava,,,Cassava,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
-NGA,Galaxy Backbone,Galaxy Backbone,,,,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
-NGA,Medallion Data Centres,Medallion Data Centres,,,Medallion,,2026-08-19-nigeria-sovereign-cloud-certification-nitda
+NGA,Cassava,Cassava,other,,Cassava,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
+NGA,Galaxy Backbone,Galaxy Backbone,other,,,,2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria
+NGA,Medallion Data Centres,Medallion Data Centres,other,,Medallion,,2026-08-19-nigeria-sovereign-cloud-certification-nitda
 NGA,Rack Centre,Rack Centre,datacentre,,Rack Centre,,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
 NGA,Open Access Data Centres (OADC),OADC,datacentre,,OADC,,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
 NGA,Equinix (MainOne),MainOne,datacentre,,Equinix,,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
@@ -237,8 +237,17 @@ NGA,NVIDIA-Cassava AI infrastructure program,,other,,Cassava Technologies,,2026-
 NGA,Cassava AI factory (Nigeria site),NGA,other,GPU,Cassava Technologies,,2026-06-16 The digital sovereignty dividing line
 NGA,Google Cloud Johannesburg region,,other,,Google,,2026-05-20 Google in Africa
 NGA,AWS Outposts,,other,,Amazon Web Services,,2026-02-19-microsoft-136bn-ai-cross-border-data
-NGA,WIOCC data centres,,,,WIOCC Group,,2024-01-01-ifc-reg-013-wiocc-group-sustainability-linked-debt-facility-2024
+NGA,WIOCC data centres,,other,,WIOCC Group,,2024-01-01-ifc-reg-013-wiocc-group-sustainability-linked-debt-facility-2024
 NGA,OADC (Open Access Data Centres),Nigeria,other,,WIOCC Group,,2026-05-13-ifc-51154-wiocc-vi-debt-summary-of-investment
 NGA,Rack Centre LGS1,LGS1,datacentre,,Rack Centre,"Tier III (TCCD, TCCF)",2024-05-01-rack-centre-spec-sheet
 NGA,Rack Centre LGS2,LGS2,other,,Rack Centre,under construction on the sheet,2024-05-01-rack-centre-spec-sheet
 NGA,OADC Lagos (Lekki) Data Centre,Lagos (Lekki) Data Centre,datacentre,,Open Access Data Centres (WIOCC Group),,2026-05-13-ifc-51154-wiocc-vi-debt-environmental-social-review-summary
+NGA,OADC Lagos data centre,"Open Access Data Centres, Lekki",datacentre,,Open Access Data Centres (WIOCC Group),Tier III,2025-03-21-nga-wuzup-oadc-lagos-dedicated-transmission-line
+NGA,Rack Centre,Nigeria,other,,,,2024-09-09-nga-businessday-energy-costs-data-centres
+NGA,MainOne,Nigeria,other,,Equinix,,2024-09-09-nga-businessday-energy-costs-data-centres
+NGA,Open Access Data Centres (OADC),Nigeria,other,,,,2024-09-09-nga-businessday-energy-costs-data-centres
+NGA,Galaxy Backbone Kano data centre,Galaxy Backbone Kano data centre,datacentre,,Galaxy Backbone,Tier IV (constructed facility),2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv
+NGA,Galaxy Backbone Abuja data centre,Galaxy Backbone Abuja data centre,datacentre,,Galaxy Backbone,Tier III,2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv
+NGA,Open Access Data Centres,Open Access Data Centres,datacentre,,,,2026-10-15-as-cbn-begins-data-migration-local-hosting
+NGA,Kasi Cloud Data Centers,Nigeria,other,,Kasi Cloud,,2025-10-21-nga-punch-data-centre-power-reliability
+NGA,"Galaxy Backbone data centre, Abuja",Galaxy Backbone data centre,datacentre,,Federal Government of Nigeria (Galaxy Backbone Limited),Tier 3,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu

@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 6 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 7 |
 | Unplaced | 2 |
-| No evidence | 31 |
+| No evidence | 30 |
 
 ## Countries
 
@@ -70,6 +70,12 @@ Two-thirds of the population or more held a national ID in 2026.
 
 - Figures presented at NIRA's expo and cited by Minister Kamuntu put about 36.2 million Ugandans identified, approximately 78.8% of the population, which is over two-thirds ([source, 2026-09](https://nilepost.co.ug/news/374307/identity-is-the-foundation-of-security-development-says-minister-kamuntu-as-nira-expo-opens)).
 - About 10.9 million Ugandans remain off the register; against the 51.4 million population given, about 40.5 million are enrolled, 79% (computed, not stated) ([source, 2026-09-09](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/)).
+
+### Angola: 2 Nascent
+
+A third of the population or more held a national ID in 2025.
+
+- Secretary of State for Justice Osvaldo Amaro said only 16,297,777 citizens hold the Bilhete de Identidade in a country of about 35 million inhabitants, about half the population ([source, 2025-09-18](https://angop.ao/noticias/sociedade/cerca-de-16-milhoes-de-angolanos-possuem-bilhete-de-identidade/)).
 
 ### Cote d'Ivoire: 2 Nascent
 
@@ -183,12 +189,6 @@ Nothing held since 2023 names a count of people holding a national ID, so no sta
 Not established: Nothing held since October 2023 counts the people holding a national ID.
 
 ### Algeria: No evidence
-
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
-
-Not established: Nothing held counts the people holding a national ID.
-
-### Angola: No evidence
 
 Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-rwa-fosdem-typo3-collaborative-gov-websites",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The TYPO3 Association's FOSDEM 2024 slides state that a national functional and technical support center for the over 300 Rwandan government websites on the shared TYPO3 platform is operated by RISA.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Gov.rw multi-tenant TYPO3 platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gov.rw multi-tenant TYPO3 platform",
+   "country_label": "Gov.rw",
+   "class": "staff",
+   "platform": "TYPO3",
+   "owner": "RISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

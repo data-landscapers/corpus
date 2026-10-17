@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,inhouse,inhouse,coverage,yes,2024,MUS-002;MUS-003,,
+MUS,inhouse,agency,coverage,operating,2024,MUS-001;MUS-004,,
+MUS,inhouse,built,coverage,,,,,nothing held
+MUS,inhouse,cadre,coverage,,,,,nothing held

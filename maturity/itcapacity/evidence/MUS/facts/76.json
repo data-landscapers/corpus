@@ -1,0 +1,27 @@
+{
+ "slug": "2024-05-01-mus-cisd-customer-charter",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Central Information Systems Division says its on-site officers work with ministry officers as database, system and network administrators running ministries' computerised systems, and that application systems are now managed in-house by the respective institutions.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Central Information Systems Division",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Central Information Systems Division, a division of the Ministry of Information Technology, Communication and Innovation, says it has developed over 120 application systems and provides payroll, email, websites, network and backup services to Ministries and Departments.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Central Information Systems Division",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

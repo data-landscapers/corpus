@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-07-egy-cabinet-payroll-automation-status",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Egyptian Cabinet spokesman said the government Payroll system for state administrative-body staff pay had been activated in 2,281 of 2,675 target accounting units, with a further 111 units of economic authorities and bodies moved to the New Administrative Capital also covered.",
+   "as_of": "2024-02-07",
+   "date_precision": "day",
+   "system": "Payroll (البيرول)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payroll (البيرول)",
+   "country_label": "Egypt",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

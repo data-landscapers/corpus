@@ -7,7 +7,7 @@ BWA,3,inservice,,,BWA-001
 CAF,5,inservice,linked,published,CAF-003
 CIV,4,inservice,linked,,CIV-002
 CMR,no evidence,,,,
-COD,4,inservice,linked,,COD-003
+COD,5,inservice,linked,published,COD-005
 COG,no evidence,,,,
 COM,4,inservice,linked,,COM-003
 CPV,2,underway,,,CPV-001
@@ -22,7 +22,7 @@ GIN,3,inservice,,,GIN-003
 GMB,2,underway,,,GMB-001
 GNB,4,inservice,linked,,GNB-004
 GNQ,2,underway,,,GNQ-001;GNQ-003
-KEN,unplaced,,,,
+KEN,2,underway,,,KEN-001;KEN-002
 LBR,no evidence,,,,
 LBY,3,inservice,,,LBY-001
 LSO,2,underway,,,LSO-001

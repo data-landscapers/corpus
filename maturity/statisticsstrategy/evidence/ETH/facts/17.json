@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-eth-fana-census-forthcoming-triennium",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of Planning and Development unveiled the Ethiopian Statistics Development Program on 1 February 2024, to be executed over three years and including economic, agricultural and population and housing censuses.",
+   "as_of": "2024-02-01",
+   "date_precision": "day",
+   "system": "Ethiopian Statistics Development Program",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Statistics Development Program",
+   "country_label": "ESDP 2024-2026",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Planning and Development; Ethiopian Statistics Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

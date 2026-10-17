@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-02-sen-osiris-dossier-patient-unique-partage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interopérabilité des SI de l'Administration",
+   "country_label": "plateforme nationale d'interopérabilité",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The platform is named as a target for the health ministry's integration; its service status, reach and use are not stated."
+}

@@ -4,7 +4,7 @@ ETH,VeriFayda eKYC,Ethiopia,relying,Fayda,FaydaVerse,,2026-10-03-banks-baulk-at-
 ETH,Fayda eKYC,Ethiopia,relying,Fayda,Ethiopia National ID Program (now Faydaverse),,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,VeriFayda 2 (EthSwitch eKYC Service),Ethiopia,relying,EthSwitch,EthSwitch,,2025-12-11-ethiopia-banks-harmonize-fayda-digital-id
 ETH,VeriFayda 1,Ethiopia,relying,,,,2025-12-11-ethiopia-banks-harmonize-fayda-digital-id
-ETH,SIM card registration,Ethiopia,,,,,2026-09-14-gsma-refugee-women-digital-inclusion-biometricupdate
+ETH,SIM card registration,Ethiopia,other,,,,2026-09-14-gsma-refugee-women-digital-inclusion-biometricupdate
 ETH,Fayda (bank account opening),Ethiopia,relying,Fayda,National ID Program Ethiopia,,2026-08-28-biometricupdate-digital-id-financial-inclusion-africa
 ETH,Tax administration integration with Faydaverse ID,Ethiopia,relying,Fayda,Tax administration,,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Faydaverse digital wallet and credential management,Ethiopia,other,Fayda,Faydaverse,,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
@@ -19,3 +19,4 @@ ETH,Ministry of Education school registration,Ethiopia,relying,,Ministry of Educ
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program,,2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform
 ETH,MESOB,Ethiopia,relying,,,,2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform
 ETH,Farmer Profile Project,Ethiopia,relying,,Agricultural Transformation Institute,,2025-01-30-farmer-profile-initiative
+ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale

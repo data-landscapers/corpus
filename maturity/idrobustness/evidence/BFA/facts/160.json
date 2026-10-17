@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-02-bfa-burkina24-oni-banfora-cnib",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONI's director general says 10,308,006 people aged 15 and over are enrolled in the ONI database with a valid CNIB, and ONI runs CNIB production centres in eight regions with a ninth planned at Banfora.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "CNIB",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "CNIB",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

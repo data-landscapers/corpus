@@ -7,7 +7,7 @@ BWA,2,underway,,,BWA-003;BWA-002
 CAF,2,underway,,,CAF-001;CAF-002
 CIV,unplaced,,,,
 CMR,2,underway,,,CMR-001;CMR-002
-COD,2,underway,,,COD-002;COD-003
+COD,2,underway,,,COD-001;COD-002
 COG,no evidence,,,,
 COM,no evidence,,,,
 CPV,2,underway,,,CPV-001
@@ -45,9 +45,9 @@ SSD,2,underway,,,SSD-002;SSD-004
 STP,no evidence,,,,
 SWZ,3,inservice,,,SWZ-001
 SYC,no evidence,,,,
-TCD,3,inservice,,,TCD-003
-TGO,2,underway,,,TGO-001
-TUN,2,underway,,,TUN-002;TUN-003
+TCD,2,underway,,,TCD-001;TCD-002
+TGO,5,inservice,nationwide,online,TGO-002
+TUN,3,inservice,,,TUN-004
 TZA,5,inservice,nationwide,online,TZA-002
 UGA,5,inservice,nationwide,online,UGA-005
 ZAF,no evidence,,,,

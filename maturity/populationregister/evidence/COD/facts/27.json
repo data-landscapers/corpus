@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ONIP, created in 2011, was entrusted with building the general population file (fichier général de la population), and a 2022 decree organised identification and census operations, per BBC News Afrique.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Fichier général de la population",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

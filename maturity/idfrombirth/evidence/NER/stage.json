@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "no evidence",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "2",
+      "number": "underway",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001",
+      "gaps": "No source held since October 2023 says: is a number given at birth in part of the country.",
+      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Developing Telecoms says Guinea has a single international subsea link, ACE.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-08-gha-bayobab-2africa-lands-ghana-nigeria",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "Nigeria (landed Lagos)",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "2Africa consortium; Bayobab landing party",
+   "tiers": ""
+  }
+ ],
+ "note": "2Africa landed in Lagos but is not stated in service ('once live')."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-zaf-pmg-nw2881-digital-health-hie-emr",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National health information exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The playbook says the unique citizen identifier (IUC), set up by decree-law 2020-17, is unique, non-significant and sequential, and is given at birth to every person entered in the civil status register.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Identifiant Unique du Citoyen (IUC)",
+   "class": "birthnumber"
+  },
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "national",
+   "value": "national",
+   "fact": "The playbook says the IUC is given to any natural person entered in the civil status register at birth, with the register fed from the national civil status system Madania.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Identifiant Unique du Citoyen (IUC)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Unique du Citoyen (IUC)",
+   "country_label": "IUC",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

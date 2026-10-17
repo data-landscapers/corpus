@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-stp-irn-visita-ministra-justica-cartao-cidadao",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Portugal's IRN said it is helping São Tomé and Príncipe's citizen-card project with draft legislation and equipment for future biometric capture and reading.",
+   "as_of": "2024-07-16",
+   "date_precision": "day",
+   "system": "Cartão de Cidadão",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cartão de Cidadão de São Tomé e Príncipe",
+   "country_label": "São Tomé e Príncipe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

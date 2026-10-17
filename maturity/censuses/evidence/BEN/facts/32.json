@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-ben-instad-rgph5-formation-formateurs",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "INStaD says it trained about fifty trainers from 22 to 25 January 2024 ahead of cartographic mapping for the fifth census (RGPH5), after a mapping pilot in Cotonou, Cove and Parakou in September-October 2023.",
+   "as_of": "2024-01-25",
+   "date_precision": "day",
+   "system": "RGPH5",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH5",
+   "country_label": "RGPH-5 (in preparation)",
+   "class": "census",
+   "platform": "CSPro, ArcGIS, Survey123",
+   "owner": "INStaD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

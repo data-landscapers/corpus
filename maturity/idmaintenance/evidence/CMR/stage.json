@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "no evidence",
-   "operation": "",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says who operates the national ID system.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "3",
+      "operation": "national",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-002",
+      "gaps": "No source held since October 2023 says national staff maintain the system or the foreign contract has ended.",
+      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BEN-001,BEN,power,supply,secured,"CIO Mag reports Benin's data centres run on dual power feeds from the SBEE, plus standby generators.",2026-04-14,day,Benin data centres (ASIN),datacentre,2026-04-14-ben-ciomag-datacenters-et-energie,https://cio-mag.com/datacenters-et-energie-lequation-de-la-transformation-numerique/

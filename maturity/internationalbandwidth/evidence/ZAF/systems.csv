@@ -16,12 +16,12 @@ ZAF,Equiano,Equiano,route,,Google,,2023-03-15-itweb-seacom-live-on-google-equian
 ZAF,Seacom IP-MPLS network,Seacom IP-MPLS network,other,,Seacom,,2023-03-15-itweb-seacom-live-on-google-equiano-cable
 ZAF,SEACOM,SEACOM,route,,Seacom,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
 ZAF,Seacom 2.0,Seacom 2.0,other,,Seacom,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,WACS,WACS,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,TEAMS,TEAMS,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,EASSy,EASSy,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,Main One,Main One,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,Equiano,Equiano,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
-ZAF,PEACE,PEACE,,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,WACS,WACS,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,TEAMS,TEAMS,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,EASSy,EASSy,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,Main One,Main One,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,Equiano,Equiano,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
+ZAF,PEACE,PEACE,other,,,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
 ZAF,Equiano,Equiano,route,,Google,,2026-06-03 Submarine cables serving Africa
 ZAF,SAT-3/WASC,SAT-3/WASC,route,,Consortium of 36 operators,,2026-06-03 Submarine cables serving Africa
 ZAF,WACS,WACS,route,,Consortium of 14 members,,2026-06-03 Submarine cables serving Africa
@@ -127,7 +127,7 @@ ZAF,2Africa,2Africa,other,,,,2026-09-03-telecomreviewafrica-wholesale-broadband-
 ZAF,Project Waterworth,,other,,Meta,,2026-06-22-beyond-the-signal-subsea-cables
 ZAF,2Africa,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
 ZAF,Seacom 2.0,,other,,Seacom,,2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future
-ZAF,Seacom,,,,Seacom Ltd,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
+ZAF,Seacom,,other,,Seacom Ltd,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 ZAF,2Africa,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 ZAF,Equiano,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 ZAF,Equiano,,other,,Google,,2021-10-06-google-reg-1b-google-1-billion-africa-digital-transformation

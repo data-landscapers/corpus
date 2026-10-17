@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,link,link,coverage,underway,2026,ETH-001;ETH-002,,
+ETH,link,events,coverage,,,,,nothing held
+ETH,link,reported,coverage,,,,,nothing held

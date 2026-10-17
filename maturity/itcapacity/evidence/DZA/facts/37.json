@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Ministry of the Interior says its own engineers administer the platforms for identity and travel document issuance and civil status.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Central document issuance system",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

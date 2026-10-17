@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-04-cod-actualite-contrat-carte-identite-annule",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Actualite.cd reports that DRC signed a $1.2 billion contract in December 2023 with Afritech and Idemia for biometric ID cards, census operations began in Kinshasa, and the contract was cancelled on 12 August 2024 with ONIP pausing identification, 700 cards having been printed.",
+   "as_of": "2024-08-12",
+   "date_precision": "day",
+   "system": "ONIP biometric identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONIP biometric identity card",
+   "country_label": "RDC",
+   "class": "idsystem",
+   "platform": "Afritech/Idemia",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

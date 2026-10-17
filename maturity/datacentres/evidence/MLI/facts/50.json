@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mli-afribone-a-propos-solar-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Afribone Mali says its modernised data centre was inaugurated in mid-2019 with the arrival of a first large client, and it offers colocation and data storage services.",
+   "as_of": "2019-06",
+   "date_precision": "month",
+   "system": "Afribone data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afribone data centre",
+   "country_label": "Afribone Mali data centre, Bamako",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Afribone Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

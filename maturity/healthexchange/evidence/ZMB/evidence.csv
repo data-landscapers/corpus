@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZMB-001,ZMB,exchange,exchange,inservice,"The SmartCare electronic health record and the DISA Labs laboratory information system exchange lab requests and results electronically, the integration having been deployed to all SmartCare Plus and Pro sites, says Resource.SmartCare.",2024-06-25,day,SmartCare/DISA Labs integration,exchange,2024-06-25-zmb-smartcare-disa-integration-live,https://smartcarezambia.io/smartcare-disa-integration-is-now-live/

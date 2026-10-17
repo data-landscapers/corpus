@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-som-id4africa-somali-digital-identity-playbook",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "NIRA says it has used partnerships with NADRA and the World Bank for knowledge transfer and training to address its institutional capacity gaps.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "NIRA national ID platform",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

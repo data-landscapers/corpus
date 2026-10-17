@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-04-dza-lasentinelle-etat-civil-nin-revolution",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "The Algerian government heard a communication on the growth in the number of labelled start-ups and incubators, per La Sentinelle.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "start-up label",
+   "class": "not recorded"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

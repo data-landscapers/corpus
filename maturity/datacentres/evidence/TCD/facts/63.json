@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-22-tcd-ecofin-pmice-phase-i-national-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (PMICE Phase I)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "The National Data Center is described as state infrastructure; the document does not say it rents space, power or computing to others."
+}

@@ -3,4 +3,6 @@ BEN,Recensement National de l'Agriculture (RNA),RNA Benin,other,,FAO/Benin,,2026
 BEN,EHCVM,EHCVM 2021-2022,survey,,INStaD,national,2026-01-22-instad-bj-ehcvm2-indicateurs
 BEN,RGPH4,RGPH4 2013,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
 BEN,RGPH3,RGPH3 2002,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
-BEN,ENBT1-2023,ENBT 2023,,,INStaD,,2026-03-31-instad-bj-enbt1-2023-tableaux
+BEN,ENBT1-2023,ENBT 2023,other,,INStaD,,2026-03-31-instad-bj-enbt1-2023-tableaux
+BEN,RGPH5,RGPH-5,census,tablets,INStaD,,2024-03-23-ben-banouto-rgph5-cartographie-74-communes
+BEN,RGPH5,RGPH-5 (in preparation),census,"CSPro, ArcGIS, Survey123",INStaD,,2024-02-01-ben-instad-rgph5-formation-formateurs

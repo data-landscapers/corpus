@@ -7,8 +7,8 @@ BWA,3,inservice,,,BWA-002
 CAF,no evidence,,,,
 CIV,5,inservice,several,linked,CIV-001
 CMR,3,inservice,,,CMR-003
-COD,2,underway,,,COD-001
-COG,4,inservice,several,,COG-002
+COD,4,inservice,several,,COD-003
+COG,5,inservice,several,linked,COG-007
 COM,2,underway,,,COM-001
 CPV,4,inservice,several,,CPV-003
 DJI,3,inservice,,,DJI-002;DJI-003
@@ -24,9 +24,9 @@ GNB,no evidence,,,,
 GNQ,no evidence,,,,
 KEN,4,inservice,several,,KEN-003
 LBR,4,inservice,several,,LBR-003
-LBY,2,underway,,,LBY-001;LBY-002
+LBY,3,inservice,,,LBY-003
 LSO,2,underway,,,LSO-001
-MAR,4,inservice,several,,MAR-007
+MAR,4,inservice,several,,MAR-004;MAR-007
 MDG,3,inservice,,,MDG-001;MDG-003
 MLI,3,inservice,,,MLI-001
 MOZ,2,underway,,,MOZ-001
@@ -38,7 +38,7 @@ NER,3,inservice,,,NER-001
 NGA,5,inservice,several,linked,NGA-006;NGA-003
 RWA,5,inservice,several,linked,RWA-004;RWA-007
 SDN,2,underway,,,SDN-001
-SEN,3,inservice,,,SEN-003;SEN-001
+SEN,4,inservice,several,,SEN-005
 SLE,2,underway,,,SLE-001
 SOM,3,inservice,,,SOM-001
 SSD,no evidence,,,,

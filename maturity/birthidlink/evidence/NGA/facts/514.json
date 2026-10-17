@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-12-nga-vanguard-npc-unicef-birth-registration",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "UNICEF's Denis Onoise said health-facility interoperability between birth registration and the national identity system had stalled, with none of 371 targeted facilities live at the time of the assessment, while NPC and NIMC propose that NIMC link registered births to the identity database and assign the NIN.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "health-facility interoperability of birth registration with the NIN system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

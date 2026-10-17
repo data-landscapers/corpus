@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-mli-id4africa-dnec-identite-juridique-progres",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "DNEC cites RGPH5 (2022) as the source of the 89.5% birth registration rate, so a census was counted in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "RGPH5 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

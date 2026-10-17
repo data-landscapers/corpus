@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,datacentre,centre,coverage,tier3,2024,CPV-002,CPV-001=service;CPV-004=service;CPV-005=service;CPV-003=service,
+CPV,datacentre,centre,coverage,tier3,2024,CPV-002,CPV-006=service;CPV-001=service;CPV-004=service;CPV-005=service;CPV-003=service,
 CPV,datacentre,cloud,coverage,,,,,nothing held

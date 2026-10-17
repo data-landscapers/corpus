@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-15-ethiopia-launches-seventh-national-cybersecurity-month-to-strengthen-d",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "INSA Director General Tigist Hamid said Ethio-CERT had identified, responded to and reported more than 71,000 cyberattacks in 2018 E.C.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Ethio-CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "Hamid stated a count of more than 71,000 cyberattacks handled by Ethio-CERT for the Ethiopian year 2018 E.C.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Ethio-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethio-CERT",
+   "country_label": "Ethio-CERT",
+   "class": "response",
+   "platform": "",
+   "owner": "INSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

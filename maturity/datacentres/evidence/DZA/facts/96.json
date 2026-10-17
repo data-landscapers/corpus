@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre national algérien des prestations numériques (Data Center)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Haut-Commissariat à la numérisation",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned two-site government data centre (convention signed April 2024); nothing for hire in service, no tier, no cloud region."
+}

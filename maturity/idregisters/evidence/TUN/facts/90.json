@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The deck says the move from sectoral identifiers (social, education, health) to the new IUC is done through a central correspondence table.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "IUC",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Unique Citoyen (IUC) register",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

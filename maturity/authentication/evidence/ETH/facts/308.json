@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states no authentication service."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-ner-lesahel-sg-interieur-visite-cni-passeports",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "Alitisal Aljadeed's engineer says the biometric ID card and passport project, run as a public-private partnership with a local company, includes training of local teams to transfer skills.",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "nouvelle carte nationale d'identité biométrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national biometric ID card and passport project",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "Al Itissal Al Jadeed (Alitisal Aljadeed) with a local partner",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

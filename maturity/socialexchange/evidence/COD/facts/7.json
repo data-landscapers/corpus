@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-19-cod-minas-registre-social-unique",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "MINAS says the RSU supplies lists of eligible households to partner social programmes under data-sharing protocols, and partner programmes return information on services received and changes to beneficiaries.",
+   "as_of": "2026-07-19",
+   "date_precision": "day",
+   "system": "Registre Social Unique (RSU)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "MINAS says the RSU provides eligible-household lists to the different social programmes, including State ones, after data-sharing protocols and a framework partnership agreement are signed.",
+   "as_of": "2026-07-19",
+   "date_precision": "day",
+   "system": "Registre Social Unique (RSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-13-civ-ecofin-lancement-plateforme-sige",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Agence Ecofin reports the education ministry officially launched the SIGE platform on 10 July 2025 in the Bouaké and San Pedro regions, pending national extension.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "SIGE (Système d'information et de gestion de l'éducation)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Côte d'Ivoire",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministère de l'Éducation nationale et de l'Alphabétisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

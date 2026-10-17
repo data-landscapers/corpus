@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-nation-afyake-shutdown-65000-patient-records-kangata-duale",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AfyaKE",
+   "country_label": "AfyaKE",
+   "class": "other",
+   "platform": "",
+   "owner": "Murang'a County Government",
+   "tiers": "county"
+  }
+ ],
+ "note": "AfyaKE is a county hospital system; no national HMIS stated."
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,socialmis,system,inservice,"DGPSN says the RNU MIS and the PNBSF information system are in operation and interconnected, hosted by SENUM-SA.",2023-11,month,RNU-MIS / PNBSF information system,socialmis,2023-11-01-sen-dgpsn-registre-national-unique-interoperability,https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf

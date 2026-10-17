@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-ner-wuri-pilote-nui-enfants-moins-5-ans",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The Ministry of the Interior says the pilot launched on 15 April 2025 in four communes registers under-5s and issues them a unique identifier number with a new birth certificate, with about 4 million children targeted over three phases.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "WURI-Niger Numero d'Identifiant Unique pilot",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

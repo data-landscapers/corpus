@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-14-dji-presidence-cm-ansie-tarification",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Council of Ministers examined a draft decree pricing the services ANSIE provides under agreement to public and parapublic institutions, including hosting, dedicated applications, technical assistance and network security support, and says ANSIE has offered such services since its creation.",
+   "as_of": "2023-11-14",
+   "date_precision": "day",
+   "system": "ANSIE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSIE",
+   "country_label": "Agence Nationale des Systemes d'Information de l'Etat",
+   "class": "staff",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -53,9 +53,9 @@ EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-
 EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
 EGY,Renergy Sinai hyperscale data centre,,other,,Renergy Group,,2026-03-17-egypt-sinai-hyperscale-data-centre-renergy-ahram
-EGY,Africa Data Centres,,,,,,2025-09-07-trade-gov-egypt-data-centers
-EGY,Gulf Data Hub,,,,,,2025-09-07-trade-gov-egypt-data-centers
-EGY,Khazna Data Centers,,,,,,2025-09-07-trade-gov-egypt-data-centers
+EGY,Africa Data Centres,,other,,,,2025-09-07-trade-gov-egypt-data-centers
+EGY,Gulf Data Hub,,other,,,,2025-09-07-trade-gov-egypt-data-centers
+EGY,Khazna Data Centers,,other,,,,2025-09-07-trade-gov-egypt-data-centers
 EGY,Raya Data Center (planned Tier III build),Egypt,other,,Raya Holding / Raya IT,,2024-12-11-enterpriseam-africa50-42-9pct-raya-data-center-usd35m-project
 EGY,Regional Data Hub 2 (RDH 2),Egypt,other,,Telecom Egypt,"Tier III design certification (Uptime Institute), not yet in service",2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification
 EGY,Regional Data Hub 1 (RDH 1),Egypt,other,,Telecom Egypt,,2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification
@@ -85,3 +85,4 @@ EGY,Cassava AI factory (Egypt),,other,NVIDIA GPUs,Cassava Technologies,,2026-07-
 EGY,Cassava AI factory (Egypt),,other,NVIDIA GPUs,Cassava Technologies,,2026-06-16 The digital sovereignty dividing line
 EGY,Cassava AI factory (Egypt),AI factory,other,Nvidia GPUs,Cassava,,2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure
 EGY,Huawei-built data centres (Egypt),data centers,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+EGY,Telecom Egypt data center entity,Egypt,other,,Telecom Egypt,,2026-10-14-egy-etdatacenters-telecom-egypt-subsea-terrestrial-strategy

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-20-mwi-techafrica-airtel-international-fibre-links",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ESCOM fibre",
+   "country_label": "ESCOM added as local fibre provider to Airtel Malawi on its major routes",
+   "class": "other",
+   "platform": "",
+   "owner": "ESCOM",
+   "tiers": ""
+  }
+ ],
+ "note": "Local fibre outages and a new local provider are named; no capital-to-regions backbone build, service or reach is stated."
+}

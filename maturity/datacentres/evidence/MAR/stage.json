@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "datacentre",
-   "stage": "5",
-   "centre": "two",
-   "cloud": "region",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-025;MAR-005;MAR-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-datacentres.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "datacentre",
+      "stage": "5",
+      "centre": "two",
+      "cloud": "region",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-025;MAR-005;MAR-029",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-datacentres.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

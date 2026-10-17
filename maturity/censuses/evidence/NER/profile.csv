@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,census,census,coverage,preparing,2025-10-08,NER-001;NER-002,,
 NER,census,results,coverage,,,,,nothing held
-NER,census,survey,coverage,published,2023-03-30,NER-003,,nothing dated since 2023-09-28
+NER,census,survey,coverage,published,2024-02,NER-003;NER-004,,

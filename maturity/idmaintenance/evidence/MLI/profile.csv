@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,maintenance,operation,coverage,,,,,nothing held
+MLI,maintenance,operation,coverage,national,2025-05,MLI-003,,
 MLI,maintenance,maintenance,coverage,national,2024-02-13,MLI-001,,
-MLI,maintenance,ownership,coverage,owned,2023-12-16,MLI-002,,
+MLI,maintenance,ownership,coverage,owned,2024-02-13,MLI-002;MLI-004,,

@@ -1,6 +1,6 @@
 # Population register: population register
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Leading | 10 |
 | 4 Operating | 0 |
 | 3 Established | 5 |
-| 2 Nascent | 5 |
+| 2 Nascent | 3 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 34 |
+| Unplaced | 3 |
+| No evidence | 33 |
 
 ## Countries
 
@@ -49,6 +49,12 @@ Other systems drew on the population register in 2026.
 
 - BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, so beneficiaries are identified through the Registre National des Personnes Physiques run by ONECI ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
 
+### DR Congo: 5 Leading
+
+Other systems drew on the population register in 2024.
+
+- ONIP's legal expert said the FGP is the single data source for producing all secure titles and documents ([source, 2024-08-09](https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/)).
+
 ### Kenya: 5 Leading
 
 Other systems drew on the population register in 2026.
@@ -69,9 +75,16 @@ Other systems drew on the population register in 2026.
 
 ### South Africa: 5 Leading
 
-Other systems drew on the population register in 2025.
+Other systems drew on the population register in 2026.
 
+- In the demonstration a verifier app requested the population register details linked to the minister's ID, which appeared on the official's phone after he approved sharing ([source, 2026-10-01](https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/)).
 - Banks, mobile operators and insurers verify customers' identities in real time against the National Population Register through the Online Verification System, at ZAR 10 a check since 1 July 2025 ([source, 2025-07-01](https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/)).
+
+### Tunisia: 5 Leading
+
+Other systems drew on the population register in 2026.
+
+- The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Zimbabwe: 5 Leading
 
@@ -87,8 +100,9 @@ A population register was in service in 2026; updating from births and deaths is
 
 ### Mali: 3 Established
 
-A population register was in service in 2024; updating from births and deaths is not known.
+A population register was in service in 2025; updating from births and deaths is not known.
 
+- DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
 - The Malian authorities launched the new Mali Kura Biométrie system managing the RAVEC (administrative census for civil-status purposes) data of the Malian population at a ceremony on 13 February 2024, saying the population data had been recovered and secured ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 
 ### Mauritania: 3 Established
@@ -116,12 +130,6 @@ A population register was under way in 2024; none in service is on record.
 
 - Law 027-2024/ALT of 11 October 2024 provides for a national register of the unique identifier of natural persons, centralising their biographic and biometric data, with the body in charge to be created by decree and enrolment to follow the system's set-up ([source, 2024-10-11](https://assembleenationale.bf/loip/117)).
 
-### DR Congo: 2 Nascent
-
-A population register was under way in 2025; none in service is on record.
-
-- Radio Okapi reports that Kinshasa's provincial Interior Minister launched on 4 November 2025 a project to digitise the Kinshasa population register, with census agents collecting household data into a compilation server, supported by UNICEF among partners ([source, 2025-11-04](https://www.radiookapi.net/2025/11/04/actualite/politique/debut-du-projet-de-digitalisation-de-registre-de-la-population-de)).
-
 ### Guinea: 2 Nascent
 
 A population register was under way in 2026; none in service is on record.
@@ -136,11 +144,11 @@ A population register was under way in 2026; none in service is on record.
 - Niger's director general of territorial administration said on 2026-09-03 that the reforms include creating a National Population Register, to become a single interoperable referential, with a unique number for each person ([source, 2026-09-03](https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/)).
 - Niger's Registre National de la Population is being constituted, centred on biometric enrolment of the population, with deconcentrated actors to carry out the registration operations, officials said at the Agadez workshop (ANP) ([source, 2026-08-28](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/)).
 
-### Tunisia: 2 Nascent
+### Algeria: Unplaced
 
-A population register was under way in 2025; none in service is on record.
+Nothing held since 2023 names a population register, so no stage is set.
 
-- UNFPA reports a national workshop on 16 July 2025, organised by the INS with the Ministry of the Interior, to prepare legal reform for establishing a unified national population register in Tunisia ([source, 2025-07-16](https://tunisia.unfpa.org/fr/news/r%C3%A9vision-de-la-l%C3%A9gislation-et-de-la-r%C3%A9glementation-de-l%C3%A9tat-civil-et-des-statistiques-pour-la)).
+Not established: Nothing held since October 2023 says whether a population register is under way or in service.
 
 ### Burundi: Unplaced
 
@@ -153,12 +161,6 @@ Not established: Nothing held since October 2023 says whether a population regis
 Nothing held since 2023 names a population register, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether a population register is under way or in service.
-
-### Algeria: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
 
 ### Angola: No evidence
 

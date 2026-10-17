@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 9 |
-| 3 Established | 2 |
-| 2 Nascent | 29 |
+| 4 Operating | 12 |
+| 3 Established | 5 |
+| 2 Nascent | 26 |
 | 1 Absent | 1 |
-| Unplaced | 1 |
-| No evidence | 8 |
+| Unplaced | 0 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -41,6 +41,7 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 90% or more of births were registered in 2026.
 
 - Biometric Update reports, citing the IMIJ presentation at ID4Africa 2026, that Cabo Verde reached 99 percent birth registration, up from about 91 percent before the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
+- IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation) ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-1-Cape-Verde-FINAL.pdf)).
 
 ### Namibia: 5 Leading
 
@@ -88,6 +89,19 @@ Births and deaths were registered digitally in 2026; 90% birth registration is n
 - UNDP says officials at Santa Luzia record births, marriages and deaths directly on the national platform SIREC ([source, 2026-04](https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf)).
 - The SIREC page says the system registers deaths (obito) alongside births and marriages, with fully digital storage of registration acts ([source, 2025-01-22](https://sirec.web.ua.pt/Home/About)).
 
+### Malawi: 4 Operating
+
+Births and deaths were registered digitally in 2025; 90% birth registration is not on record.
+
+- NRB Secretary Mphatso Sambo said NRB had integrated electronic birth and death registration systems with the national ID system by February 2025 ([source, 2025-02](https://times.mw/national-registration-bureau-targets-8000-children-in-2025/)).
+- EGPAF says electronic birth and death registration software is installed at 173 sites ([source, 2024-06](https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/)).
+
+### Mauritius: 4 Operating
+
+Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
+
+- The same issue reports 6,333 deaths registered in January-June 2026 compiled from the Civil Status Division's computerised system, per Statistics Mauritius ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
+
 ### Morocco: 4 Operating
 
 Births and deaths were registered digitally in 2024; 90% birth registration is not on record.
@@ -99,6 +113,13 @@ Births and deaths were registered digitally in 2024; 90% birth registration is n
 Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
 
 - The PReSE coordinator says the computerised civil-registry system covers deaths as well as births ([source, 2026-02-06](https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/)).
+
+### Somalia: 4 Operating
+
+Births and deaths were registered digitally in 2025; 90% birth registration is not on record.
+
+- The Ministry says the service in those 19 districts registers deaths digitally, with records stored in a central national database ([source, 2025-08-10](https://sonna.so/en/article/somalia-marks-africa-civil-registration-and-vital-statistics-day-with-launch-of-unified-digital-registration-service)).
+- UNICEF Somalia says the digital CRVS system is deployed with full operational capability for daily registration of vital events such as births and deaths ([source, 2025-08-10](https://www.unicef.org/somalia/stories/legal-identity)).
 
 ### Tanzania: 4 Operating
 
@@ -113,17 +134,36 @@ Births and deaths were registered digitally in 2026; 90% birth registration is n
 
 - The same official said the exercise run on INRIS covers securing death certificates as well as birth registration (Lusaka Times, 3 September 2026) ([source, 2026-09-03](https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/)).
 
+### Algeria: 3 Established
+
+Births were registered digitally across the country in 2025; digital death registration is not known.
+
+- Interior Minister Said Sayoud says administrations can now consult civil status data directly in the Registre National Automatise de l'Etat Civil, set up under Executive Decree 15-204 of 27 July 2015 ([source, 2025-12-08](https://www.algerie360.com/les-administrations-nont-plus-le-droit-dexiger-ces-documents-saayoud-promet-des-sanctions-severes/)).
+
 ### Benin: 3 Established
 
 Births were registered digitally across the country in 2026; digital death registration is not known.
 
 - ANIP says secure birth certificates are now issued from data in the RNPP and the national civil-status file, per a note signed 5 May 2026 ([source, 2026-05-05](https://lepotentiel.bj/2026/05/06/enrolement-au-rnpp-et-delivrance-des-actes-de-naissance-securises-au-benin-lanip-precise-les-nouvelles-directives/)).
 
+### Gambia: 3 Established
+
+Births were registered digitally across the country in 2025; digital death registration is not known.
+
+- The Registrar General's slides report 1,238,662 births in the eCRVS digital cumulative registration from August 2022 to March 2025, shown for every local government area, equal to 53% of a 2.4m population ([source, 2025-03](https://www.id4africa.com/2025/files/T2-P2-S1-3-Gambia_FINAL.pdf)).
+
 ### Guinea: 3 Established
 
 Births were registered digitally across the country in 2026; digital death registration is not known.
 
 - Ratoma's delegated civil-registry officer Amadou Konia Camara says secure digital paper is used to issue digital birth certificates in all communes of Guinea, and that registrations continue despite a two-week paper stockout ([source, 2026-09-02](https://mosaiqueguinee.com/2026/09/etat-civil-la-guinee-confrontee-a-une-penurie-dactes-de-naissance-numeriques/)).
+
+### Tunisia: 3 Established
+
+Births were registered digitally across the country in 2026; digital death registration is not known.
+
+- The playbook names Madania as the national civil status system that feeds the citizen identifier register, and says the citizen portal issues the birth act for the account owner and for children ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- The deck says Tunisia has had a centralised national civil status management system since 2004, shown as the information system Madania, and lists its overhaul as part of the strategy ([source, 2024-05](https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf)).
 
 ### Angola: 2 Nascent
 
@@ -157,8 +197,8 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
+- An ATPE opinion piece says the TASDJIL system of Technidev and ANATS already digitally registers births at a hospital desk at Koukou Angarana in Sila province, with experiences still to be scaled up ([source, 2026-08](https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/)).
 - UNICEF's national sub-office head says Chad has worked since 2021 to modernise civil registration through digitalisation and deployment of the TASDJIL application ([source, 2026-08-08](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/)).
-- ANATS and the OIF discussed digitalisation and interoperability of civil registration services between communes and the SIGPTS, with ANATS issuing secure birth certificates in several provinces ([source, 2026-04-28](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/)).
 
 ### Congo: 2 Nascent
 
@@ -172,6 +212,7 @@ Digital civil registration was under way in 2026; national digital birth registr
 Digital civil registration was under way in 2025; national digital birth registration is not on record.
 
 - A joint UN pilot (UNICEF, BCNUDH, UNHCR, UNFPA, funded by the Joint SDG Fund) is under way in Masina commune, Kinshasa, deploying DHIS2 to digitally record births, marriages and deaths ([source, 2025-08-18](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil)).
+- Actualite.cd reports that the December 2023 contract with Afritech and Idemia, worth $1.2 billion, covered biometric ID cards and a civil registration system, but it was cancelled by mutual consent on 12 August 2024 ([source, 2023-12](https://actualite.cd/2024/09/04/rdc-le-contrat-carte-didentite-annule-apres-les-revelations-dactualitecd-lighthouse)).
 
 ### Djibouti: 2 Nascent
 
@@ -179,13 +220,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - The DGPF director general says birth and marriage certificates are progressively being integrated into a digital database as part of an archive digitisation programme ([source, 2026-07](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/)).
 - Ville de Djibouti says its civil-status events have been recorded on the SIGEC software since 2011, with the database fed continuously, and a diagnostic of it began on 28 April 2024 ([source, 2024-04-28](https://villededjibouti.dj/actualite2.php?id=31)).
-
-### Gambia: 2 Nascent
-
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
-
-- The Registrar General CRVS says an eCRVS system was deployed in August 2022 and that over 1.4 million people were registered and issued a birth certificate as of June 2026 ([source, 2026-06](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf)).
-- President Barrow's 2025 State of the Nation Address said ID cards will be integrated with the Electronic Civil Registration and Vital Statistics database and that digitalisation of national documents is in progress ([source, 2025-06-20](https://thepoint.gm/africa/gambia/headlines/govt-to-integrate-id-cards-with-electronic-civil-registration)).
 
 ### Ghana: 2 Nascent
 
@@ -210,8 +244,9 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 ### Liberia: 2 Nascent
 
-Digital civil registration was under way in 2024; national digital birth registration is not on record.
+Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
+- The Liberian Observer reports a proposed concession agreement between Liberia's government and OeSD International GmbH for a digital civil registration system recording births, deaths and marriages, referred to a joint committee and not yet ratified ([source, 2026-10-13](https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html)).
 - UNICEF says the Birth Registration Information Management System (BRIMS) on the DHIS2 platform has been implemented, with birth registration decentralized to all 15 counties and 58 centers ([source, 2024-12-11](https://www.unicef.org/liberia/press-releases/new-era-inclusion-millions-children-gain-legal-identity)).
 
 ### Libya: 2 Nascent
@@ -227,13 +262,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - Midi Madagasikara reports that Madagascar is deploying phase II of the Izaho Tokana 2.0 birth-registration operation, backed by the OIF Etat civil project and relying on biometrisation ([source, 2026-09-15](https://midi-madagasikara.mg/etat-civil-le-projet-de-loif-en-renfort-d-izaho-tokana-2-0/)).
 - Intelligent CIO reports that Studia Inc digitised and indexed nearly 10 million civil registration records across 1,695 communes in 11 priority regions under the national EC-MADA programme, using OCR and AI indexing ([source, 2026-05-08](https://www.intelligentcio.com/africa/2026/05/08/ai-powered-digitisation-project-positions-madagascar-as-a-model-for-african-digital-identity-modernisation/)).
-
-### Malawi: 2 Nascent
-
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
-
-- UNDP Malawi reports an NRB official briefed an EU delegation on the real-time birth registration system at Bwaila Hospital in Lilongwe ([source, 2026-07-14](https://www.undp.org/malawi/news/eu-optimistic-about-progress-phase-iii-birth-registration-exercise)).
-- The National Registration Bureau says over 970,400 child records from Phase One of its birth registration campaign had synchronised with the NRB Database by 6 February 2026 ([source, 2026-02-06](https://www.nrb.gov.mw/news/nrb-completes-phase-one-of-national-birth-registration-campaign/)).
 
 ### Mali: 2 Nascent
 
@@ -253,7 +281,7 @@ Digital civil registration was under way in 2026; national digital birth registr
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
 - The Direccao Nacional dos Registos e Notariado portal describes the e-RCEV electronic civil registration and vital statistics system, using USSD, SMS and web to register births and deaths, with proposed coverage of all civil registration centres ([source, 2026-08-28](https://civil.registos.gov.mz/crvs/Home/About)).
-- Jembi says Mozambique launched real-time digital birth registration in July 2024 by connecting MGDH-Birth and e-SiRCEV, piloted in 19 health facilities in Inhambane Province with over 11,589 newborns registered ([source, 2024-07](https://www.jembi.org/case-study/mozambique)).
+- Jornal Notícias reports the Government intends to digitise civil registration through the Digital Economy and E-Government sub-projects, with the Ministry of Justice responsible for birth registration, and registrars can enter data on the digital platform once online ([source, 2025-03-28](https://jornalnoticias.co.mz/destaque/mocambique-reforca-sua-estrategia-de-expansao-do-registo-civil/)).
 
 ### Niger: 2 Nascent
 
@@ -283,12 +311,11 @@ Digital civil registration was under way in 2025; national digital birth registr
 - NCRA says over 80% of integrated CRVS and ID services, including birth registration, are digitized and decentralized across regional and district offices ([source, 2025-05-22](https://www.id4africa.com/2025/files/T2-P1-S2-4-SIERRALEONE_FINAL.pdf)).
 - The Calabash Newspaper reports a one-year Vital Strategies-funded NCRA project integrating digital technologies into birth and death registration, with 48 laptops and modems for 48 health facilities in 16 districts ([source, 2024-09-06](https://thecalabashnewspaper.com/archives/45757)).
 
-### Somalia: 2 Nascent
+### South Africa: 2 Nascent
 
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
+Digital civil registration was under way in 2025; national digital birth registration is not on record.
 
-- OpenCRVS says its production-level Unified Digital Civil Registration System operates in 30 Somali districts, is linked to 160 hospitals and has completed 28,391 birth registrations ([source, 2026-01](https://www.opencrvs.org/about-us/country-stories/somalia)).
-- Ecofin Agency reports the Ministry of Interior, Federal Affairs and Reconciliation piloted a Unified Digital Civil Registration Service in 19 districts on 10 August 2025, with national rollout planned in phases ([source, 2025-08-10](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity)).
+- Deputy Minister Nzuza says Home Affairs has made investments in building an e-birth registration platform to make birth registration easier and more accessible ([source, 2025-07-08](https://www.gov.za/news/speeches/deputy-minister-njabulo-nzuza-home-affairs-dept-budget-vote-202526-08-jul-2025)).
 
 ### Sudan: 2 Nascent
 
@@ -303,13 +330,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - The MESPTN, with KfW financing, tendered technical assistance for a pilot of the PDiMa project to digitalise civil registration services in sixteen communes, including supervision of the civil registration information system deployment, before national roll-out ([source, 2026-07](https://bk.numerique.gouv.tg/wp-content/uploads/2026/07/MESPTN-Consultant-international-2.pdf)).
 - The territorial administration ministry delivered computers and printers on 8 April 2026 to five pilot communes (Golfe 1, Agoe-Nyive 1, Lacs 1, Ave 2, Zio 2) in the pilot of digitalised civil-status services, ahead of national extension ([source, 2026-04-08](https://territoire.gouv.tg/digitalisation-de-letat-civil-des-equipements-informatiques-remis-aux-communes-pilotes-pour-accelerer-le-processus/)).
-
-### Tunisia: 2 Nascent
-
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
-
-- The Tunisian cabinet council of 15 August 2026 listed among 114 projects under way the electronic exchange of civil-status annotations (mentions d'etat civil) between consulates abroad and municipalities, with several projects past 90% progress ([source, 2026-08-15](https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/)).
-- Al Chourouk reports that Tunisia's Ministry of Health has begun the first pilot of a digital birth-declaration system, described as a civil registration and vital statistics digitisation step ([source, 2026-06-11](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D8%B4%D8%B1%D8%B9-%D9%81%D9%8A-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D8%A8%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A7%D8%AA)).
 
 ### Uganda: 2 Nascent
 
@@ -330,12 +350,6 @@ A 2026 source says civil registration is on paper with no digital register.
 
 - La Gazette des Comores reports that AMECC aims to modernise a civil registration system still largely dependent on old paper registers, with people in rural areas still holding no birth extract in 2026 ([source, 2026-08-28](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html)).
 - Comores Droit states that for decades births, marriages and deaths in Comoros have been recorded in paper registers, with only one in five of 37 surveyed civil-status centres having internet access (preliminary study, March 2026) ([source, 2026-03](http://comoresdroit.centerblog.net/2912-une-revolution-numerique-se-prepare-pour-l-etat-civil)).
-
-### Algeria: Unplaced
-
-Nothing held since 2023 names digital civil registration, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether births are registered digitally.
 
 ### Equatorial Guinea: No evidence
 
@@ -361,19 +375,7 @@ Nothing held names digital civil registration or says there is none, so no stage
 
 Not established: Nothing held says how births and deaths are registered.
 
-### Mauritius: No evidence
-
-Nothing held names digital civil registration or says there is none, so no stage is set.
-
-Not established: Nothing held says how births and deaths are registered.
-
 ### Seychelles: No evidence
-
-Nothing held names digital civil registration or says there is none, so no stage is set.
-
-Not established: Nothing held says how births and deaths are registered.
-
-### South Africa: No evidence
 
 Nothing held names digital civil registration or says there is none, so no stage is set.
 

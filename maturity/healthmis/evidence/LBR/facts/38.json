@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-lbr-thenews-africa-cdc-hie-maturity-assessment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The document states nothing this study asks for Liberia: it reports a workshop, a plan and an Africa CDC data-sharing agreement."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of the Interior says the 2025-2030 digital transformation vision of the High Commission for Digitalisation includes a national sovereign cloud (Cloud Souverain National) and a secure national exchange network separate from the internet.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Cloud Souverain National",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

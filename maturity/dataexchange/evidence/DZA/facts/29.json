@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-dza-elwatan-strategie-transformation-numerique-ateliers",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The High Commissioner for Digitalisation said a convention was signed in April 2024 with the Huawei Consortium for the national digital services centre, whose national computer system is to hold a national interoperability platform that will interconnect sectoral systems.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interopérabilité",
+   "country_label": "Algeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Haut-Commissariat à la numérisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

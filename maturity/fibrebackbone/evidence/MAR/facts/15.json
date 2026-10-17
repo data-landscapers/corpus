@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mar-inwi-wholesale-national-backbone",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "inwi says its network has a long-distance, high-speed backbone extending across the nation, with more than 9,000 km of own and leased fibre.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "inwi national backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "inwi national backbone",
+   "country_label": "Morocco",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "inwi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

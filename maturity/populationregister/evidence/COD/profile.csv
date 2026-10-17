@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,population,register,coverage,underway,2025-11-04,COD-001,,
-COD,population,vital,coverage,,,,,nothing held
-COD,population,used,coverage,,,,,nothing held
+COD,population,register,coverage,inservice,2024-08-09,COD-002,COD-001=underway;COD-005=underway,
+COD,population,vital,coverage,updated,2024-08-09,COD-003,,
+COD,population,used,coverage,source,2024-08-09,COD-004,,

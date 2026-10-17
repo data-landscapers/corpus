@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-14-ben-ciomag-datacenters-et-energie",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "CIO Mag reports Benin's data centres run on dual power feeds from the SBEE, plus standby generators.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Benin data centres (ASIN)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Benin data centres (ASIN), one Tier III, about 2 MW",
+   "country_label": "Benin data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (ASIN)",
+   "tiers": "one Tier III"
+  }
+ ],
+ "note": ""
+}

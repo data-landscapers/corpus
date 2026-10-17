@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-10-som-sonna-unified-digital-civil-registration-19-districts",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Ministry says the Unified Digital Civil Registration Service is operational in 19 districts across five Federal Member States, with plans to expand to all regions and districts.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The Ministry says the service in those 19 districts registers deaths digitally, with records stored in a central national database.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Unified Digital Civil Registration Service",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Digital Civil Registration Service",
+   "country_label": "Unified Digital Civil Registration Service",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Interior, Federal Affairs and Reconciliation",
+   "tiers": "19 districts, central national database"
+  }
+ ],
+ "note": ""
+}

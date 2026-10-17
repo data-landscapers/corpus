@@ -1,6 +1,6 @@
 # Inclusion of refugees and IDPs: refugees and displaced people
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -21,12 +21,12 @@ The Kampala Convention asks for registers and documents for internally displaced
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 5 |
-| 3 Established | 16 |
+| 4 Operating | 6 |
+| 3 Established | 15 |
 | 2 Nascent | 8 |
-| 1 Absent | 4 |
+| 1 Absent | 5 |
 | Unplaced | 2 |
-| No evidence | 16 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -48,6 +48,12 @@ The number of refugees or displaced people using digital services was published 
 The number of refugees or displaced people using digital services was published in 2026.
 
 - UNDP says 38,026 IDPs were enrolled in the national ID in Baidoa, of over 500,000 IDPs there ([source, 2026-01-13](https://undpsom.medium.com/baidoas-fast-tracked-cost-effective-and-scalable-legal-id-model-for-idps-0dbb909900eb)).
+
+### Burkina Faso: 4 Operating
+
+Refugees or displaced people could use SIM cards, mobile money or digital ID in 2023; how many do is not counted.
+
+- ANOTEL, applying decree 2023-1721 of 15 December 2023, states that the refugee identity card and refugee attestation issued by CONAREF are the only documents accepted for refugees to buy a SIM card ([source, 2023-12-15](https://burkina24.com/2024/05/13/communique-de-lassociation-nationale-des-operateurs-telecommunications-anotel/)).
 
 ### Eswatini: 4 Operating
 
@@ -91,13 +97,6 @@ Refugees or displaced people were registered and documented in 2026; their acces
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - Minister of Labour and Home Affairs Pius Mokgware handed citizenship documents to 64 refugees at the World Refugee Day commemoration at Dukwi, reported by BOPA ([source, 2026-06](https://dailynews.gov.bw/news-detail/91946)).
-
-### Burkina Faso: 3 Established
-
-Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
-
-- The Ministry of Territorial Administration reported more than 121,000 civil-status documents issued to internally displaced people in 2025 against 65,000 planned, per the Primature evaluation of its 2025 contract of objectives ([source, 2025](https://lefaso.net/spip.php?article144154)).
-- AMADE Mondiale says its 2022-2024 pilot with ATT regularised 10,000 children without birth certificates, including more than 4,000 internally displaced children ([source, 2024](https://www.amade.org/en/missions/protection/civil-status-for-all/civil-registration-for-children-in-burkina-faso-oe-phase-ii.html)).
 
 ### Burundi: 3 Established
 
@@ -189,8 +188,9 @@ Registration or a digital service for refugees or displaced people was under way
 
 ### DR Congo: 2 Nascent
 
-Registration or a digital service for refugees or displaced people was under way in 2024; documents issued are not on record.
+Registration or a digital service for refugees or displaced people was under way in 2025; documents issued are not on record.
 
+- The interior minister told the Senate that the ONIP will identify the population by strata, province by province starting with Kinshasa, with refugees and stateless people and internally displaced people named as two of ten strata ([source, 2025-11-12](https://acp.cd/nation/rdc-le-senat-informe-de-la-delivrance-lannee-prochaine-de-la-carte-didentite/)).
 - ONIP and the CNR signed a protocol on 20 November 2024 for the systematic identification of refugees in the DRC, and both parties committed to start work immediately, mobilising experts to plan and run identification operations ([source, 2024-11-20](https://b-onetv.cd/protocole-daccord-entre-lonip-et-la-cnr-pour-lidentification-des-refugies-en-rdc/)).
 
 ### Guinea: 2 Nascent
@@ -231,6 +231,12 @@ Registration or a digital service for refugees or displaced people was under way
 
 - The Home Affairs Minister announced that applications for refugee travel documents can now be made online through the ZamPortal, integrated into the Government Service Bus ([source, 2025-12-11](https://znbc.co.zm/?p=9752)).
 - Zambia's Ministry of Home Affairs is launching the Zambia Refugee and Host Communities Project, funded with $30 million by the World Bank with UNHCR support, under which biometric national registration cards will be issued to refugees and former refugees ([source, 2025-10-03](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners)).
+
+### Djibouti: 1 Absent
+
+A 2024 source says refugees or displaced people are not registered or are barred from digital services.
+
+- The US State Department says that during most of 2024 asylum and refugee status determinations were not considered, owing to government and UNHCR contractual and administrative impediments ([source, 2024](https://dj.usembassy.gov/wp-content/uploads/sites/165/2025/08/624521_DJIBOUTI-2024-HUMAN-RIGHTS-REPORT-1.pdf)).
 
 ### Equatorial Guinea: 1 Absent
 
@@ -282,12 +288,6 @@ Nothing held names registration of refugees and displaced people or says there i
 Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
 
 ### Cape Verde: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Djibouti: No evidence
 
 Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
 

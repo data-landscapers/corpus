@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-26-gmb-thepoint-moh-moi-mou-nin-harmonisation",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The report states that ID cards with a National Identity Number have been issued by the National Identity System run by the Immigration Department.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "National Identity System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

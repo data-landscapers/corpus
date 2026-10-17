@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Carte de Vaccination Numérique et Portail Citoyen",
+   "country_label": "Comoros digital vaccination card and citizen portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la Santé et de la Protection Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": "A citizen portal is validated in training ahead of national rollout; it is not stated to be launched or offering services that can be applied for or paid online."
+}

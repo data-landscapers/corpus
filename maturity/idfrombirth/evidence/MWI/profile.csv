@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,frombirth,number,coverage,inservice,2024-11,MWI-001;MWI-002,,
+MWI,frombirth,national,coverage,,,,,nothing held
+MWI,frombirth,complete,coverage,,,,,nothing held

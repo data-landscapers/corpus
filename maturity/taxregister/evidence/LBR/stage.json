@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "no evidence",
-   "register": "",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how taxpayers are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "5",
+      "register": "inservice",
+      "shared": "shared",
+      "nationalid": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

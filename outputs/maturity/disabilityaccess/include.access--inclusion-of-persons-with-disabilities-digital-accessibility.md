@@ -21,11 +21,11 @@ The AU Disability Protocol asks for public information in accessible formats and
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 10 |
+| 4 Operating | 11 |
 | 3 Established | 1 |
 | 2 Nascent | 10 |
 | 1 Absent | 2 |
-| Unplaced | 3 |
+| Unplaced | 2 |
 | No evidence | 27 |
 
 ## Countries
@@ -73,6 +73,12 @@ Accessible digital services or assistive technology were delivered to persons wi
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2025; no audit is published.
 
 - MoCTI, with World Bank-funded SLDTP support, handed over a second set of assistive devices (computers with NVDA screen-reader software, Braille note takers and embossers, scanners and book readers, braillers, digital recorders) to four disability institutions in Makeni, Kenema and Freetown, after an early 2024 phase to two Freetown schools ([source, 2025-11-12](https://sldtp.gov.sl/2025/11/12/mocti-hands-over-assistive-devices-to-disability-institutions-with-support-from-sldtp/)).
+
+### Tanzania: 4 Operating
+
+Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
+
+- TCRA has integrated assistive technologies into its website to improve accessibility, and its FURSA SANA and FUTA DELETE KABISA campaigns used sign language interpretation and braille in digital skills training for persons with disabilities in Dar es Salaam, Mtwara and Dodoma ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
 
 ### Tunisia: 4 Operating
 
@@ -186,12 +192,6 @@ Nothing held since 2023 names digital accessibility for persons with disabilitie
 Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Cameroon: Unplaced
-
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
-
-### Tanzania: Unplaced
 
 Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 

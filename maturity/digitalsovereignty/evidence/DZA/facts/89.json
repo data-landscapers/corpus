@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-dza-jeune-independant-centre-national-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Le Jeune Indépendant says the centre, inaugurated 5 July 2026, serves administrations and companies as clients and is built to centralise state databases such as civil status, justice, tax and health.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numériques",
+   "country_label": "Algérie",
+   "class": "other",
+   "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+   "owner": "state",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": "No rule or contract terms stated."
+}

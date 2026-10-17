@@ -8,6 +8,6 @@
 
 **Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Simpl](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>).
 
 ***Not held***. No source held since October 2023 says one national portal carries several ministries' services with shared sign-in.

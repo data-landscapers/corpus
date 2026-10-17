@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tun-id4africa-iuc-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The playbook's governance diagram shows the citizen identifier system managed by the Unite de Gestion de l'Identifiant Unique Citoyen within the Ministry of the Interior, with the interoperability platform operated by the Centre National Informatique.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre de l'Identifiant Unique du Citoyen (RIUC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Deputy Minister Nzuza says Home Affairs issued more than 3.5 million Smart ID Cards in 2024/25, over 970,000 of them first-time issues, with over 25 million persons issued since modernisation began.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Smart ID Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID Card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "Live Capture",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

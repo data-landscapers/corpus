@@ -22,11 +22,11 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 10 |
-| 2 Nascent | 7 |
+| 3 Established | 14 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 33 |
+| Unplaced | 3 |
+| No evidence | 26 |
 
 ## Countries
 
@@ -44,8 +44,9 @@ Three or more main public registers used the national ID number in 2024; no matc
 
 ### Algeria: 3 Established
 
-A public register used the national ID number in 2023; use by three main registers is not known.
+A public register used the national ID number in 2024; use by three main registers is not known.
 
+- Algeria's national identification number (NIN) is carried on the civil-status registers and extracts kept by communes and consulates, per La Sentinelle ([source, 2024-04-03](https://lasentinelle.dz/index.php/2024/04/04/une-revolution-dans-le-service-public/)).
 - Algeria's Ministry of Interior says that in 2023 the NIN was adopted by all government authorities and partner sectors including justice, banking, social security, taxation and education ([source, 2023](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf)).
 
 ### Angola: 3 Established
@@ -54,6 +55,12 @@ A public register used the national ID number in 2026; use by three main registe
 
 - Intelwatch says Angola does not run an independent biometric voter registration and its electoral roll is derived from the civil identity database; the 2025 Lei do Recenseamento Eleitoral Oficioso replaces in-person registration with an automatic register extracted from the identity base ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
 - Minister Marcy Lopes says the Bilhete de Identidade is the main document for the update of the electoral register (Registo Eleitoral Oficioso) running from 15 June 2026 to 31 March 2027 ([source, 2026-07-15](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/)).
+
+### Benin: 3 Established
+
+A public register used the national ID number in 2025; use by three main registers is not known.
+
+- ANIP says the provisional electoral list is extracted directly from the Fichier National de l'État Civil, the same database used to issue the national identity card and the IFU tax identifier ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
 
 ### Botswana: 3 Established
 
@@ -80,11 +87,18 @@ A public register used the national ID number in 2025; use by three main registe
 
 - Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
+### Lesotho: 3 Established
+
+A public register used the national ID number in 2025; use by three main registers is not known.
+
+- Minister Lephema says legal identity has strengthened the payroll system and eliminated ghost workers ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
+
 ### Liberia: 3 Established
 
 A public register used the national ID number in 2024; use by three main registers is not known.
 
 - The Civil Service Agency integrates National Identification Numbers into government employees' ID cards through the NIR portal, and Sargbe says this has helped remove ghost names from the payroll ([source, 2024-05](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/)).
+- The NIR and the finance ministry built an interface to audit the government payroll against the registry as new employees join, shared with the audit and civil service agencies ([source, 2024-02-05](https://newspublictrust.com/national-identification-registry-deploys-mobile-teams)).
 
 ### Mauritius: 3 Established
 
@@ -98,6 +112,18 @@ A public register used the national ID number in 2026; use by three main registe
 A public register used the national ID number in 2025; use by three main registers is not known.
 
 - In 2025 the Niger State government launched an initiative integrating the NIN into the Social Safety Register, to improve identity verification for poor and vulnerable households ([source, 2025](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/)).
+
+### Rwanda: 3 Established
+
+A public register used the national ID number in 2026; use by three main registers is not known.
+
+- The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification ([source, 2026-10-16](https://www.api.ippis.rw/)).
+
+### Tunisia: 3 Established
+
+A public register used the national ID number in 2026; use by three main registers is not known.
+
+- The playbook says the citizen identifier register holds the sectoral identifiers (health, social, pupil) in a correspondence table with the IUC, and that web services let ministries and sectors insert or update their sectoral identifier in it ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Uganda: 3 Established
 
@@ -137,6 +163,12 @@ A public register's use of the national ID number was under way in 2026.
 - The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
 - NCRA and the Ministry of Agriculture agreed to integrate the National Digital Farmer Registry with the NIN database to verify and de-duplicate farmers ([source, 2025-05-19](http://thesatellitenews.com/index.php/de/announcements/23-news-articles/1730-with-the-national-id-system-for-nin-ncra-ministry-of-agriculture-partner-on-national-digital-farmer-registry-integration)).
 
+### Somalia: 2 Nascent
+
+A public register's use of the national ID number was under way in 2026.
+
+- The Office of the Accountant General directed federal ministries and agencies to integrate the Government Payroll System with the National Identification System run by NIRA, with a pilot in five institutions from 1 October 2026 and full implementation targeted for 31 December 2027 ([source, 2026-08-30](https://www.dawan.africa/news/somalia-to-link-government-payroll-to-national-id-by-end-of-2027)).
+
 ### South Africa: 2 Nascent
 
 A public register's use of the national ID number was under way in 2026.
@@ -150,6 +182,12 @@ A public register's use of the national ID number was under way in 2026.
 - The NIDA Director General listed the taxpayer identification number (TIN) among the services NIDA plans to connect to the national ID ([source, 2026-09-16](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)).
 - The Prime Minister directed the Home Affairs minister and NIDA to connect social and economic institutions to the ID system, and NIDA said health insurance and a Jamii Namba holding all social services are to be built on it ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
+### Togo: 2 Nascent
+
+A public register's use of the national ID number was under way in 2025.
+
+- Togo's presentation says the Social Registry of Individuals and Households (RSPM) was in development and initial integration in 2025, using the e-ID as its unique key ([source, 2025](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
+
 ### Cameroon: Unplaced
 
 Nothing held since 2023 names a public register using the national ID number, so no stage is set.
@@ -162,11 +200,11 @@ Nothing held since 2023 names a public register using the national ID number, so
 
 Not established: Nothing held since October 2023 says whether public registers use the national ID number.
 
-### Benin: No evidence
+### Ethiopia: Unplaced
 
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
+Nothing held since 2023 names a public register using the national ID number, so no stage is set.
 
-Not established: Nothing held says whether public registers use the national ID number.
+Not established: Nothing held since October 2023 says whether public registers use the national ID number.
 
 ### Burkina Faso: No evidence
 
@@ -234,12 +272,6 @@ Nothing held names a public register using the national ID number or says there 
 
 Not established: Nothing held says whether public registers use the national ID number.
 
-### Ethiopia: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
 ### Gabon: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
@@ -253,12 +285,6 @@ Nothing held names a public register using the national ID number or says there 
 Not established: Nothing held says whether public registers use the national ID number.
 
 ### Kenya: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
-### Lesotho: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
 
@@ -300,12 +326,6 @@ Nothing held names a public register using the national ID number or says there 
 
 Not established: Nothing held says whether public registers use the national ID number.
 
-### Rwanda: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
 ### Senegal: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
@@ -318,12 +338,6 @@ Nothing held names a public register using the national ID number or says there 
 
 Not established: Nothing held says whether public registers use the national ID number.
 
-### Somalia: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
 ### South Sudan: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
@@ -331,18 +345,6 @@ Nothing held names a public register using the national ID number or says there 
 Not established: Nothing held says whether public registers use the national ID number.
 
 ### Sudan: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
-### Togo: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
-### Tunisia: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
 

@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://catholicradionetwork.org/2026/08/04/immigration-directorate-launches-school-based-national-id-registration-for-examination-candidates/>).
 
-***Noted, not assessed***. [Directorate of Civil Registry, Nationality, Passports and Immigration digital registry](<https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/>); [DTM biometric registration](<https://reliefweb.int/attachments/f69f5563-7a0a-42ba-9885-fa1839a1b4a5/ZM_CFM_2026_SSD_Q2_FINAL.pdf>).
+***Noted, not assessed***. [Directorate of Civil Registry, Nationality, Passports and Immigration digital registry](<https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/>); [DTM biometric registration](<https://reliefweb.int/attachments/f69f5563-7a0a-42ba-9885-fa1839a1b4a5/ZM_CFM_2026_SSD_Q2_FINAL.pdf>); [Civil servant biometric registration (World Bank supported)](<https://www.sudanspost.com/south-sudan-begins-biometric-registration-to-curb-ghost-workers-exposing-gaps-in-digital-id-systems/>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

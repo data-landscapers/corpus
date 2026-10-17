@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-02-bfa-burkina24-oni-banfora-cnib",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "ONI's director general cites the latest census, RGPH 2019, as the population base, giving 12,477,149 inhabitants aged 15 and over.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "RGPH 2019",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2019",
+   "country_label": "RGPH 2019",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

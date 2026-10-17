@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-07-dza-jeune-independant-centre-national-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Le Jeune Indépendant says the state's centre, inaugurated 5 July 2026 by President Tebboune, serves administrations and companies as clients.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Le Jeune Indépendant presents the centre as Algeria's national sovereign cloud inaugurated by the President.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Le Jeune Indépendant says the centre, inaugurated 5 July 2026, serves administrations and companies as clients and is built to centralise state databases such as civil status, justice, tax and health.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Centre national des services numériques",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numériques",
+   "country_label": "Algérie",
+   "class": "datacentre",
+   "platform": "sovereign cloud, Algiers (Mohammadia) mirrored with Blida",
+   "owner": "state",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": "Only one facility holds Tier III."
+}

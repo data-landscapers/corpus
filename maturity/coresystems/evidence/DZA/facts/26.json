@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-dza-sentinelle-sigb-premiere-phase-deploiement",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates.",
+   "as_of": "2024-11-29",
+   "date_precision": "day",
+   "system": "Système Intégré de Gestion Budgétaire (SIGB)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système Intégré de Gestion Budgétaire (SIGB)",
+   "country_label": "SIGB",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

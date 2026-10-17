@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-gha-onix-infrastructure-solar-farm-power-water",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "secured",
+   "fact": "Onix Data Centres says its Accra facility, with Module 1 fully operational, takes its power from its own 2,200-panel solar farm (640 kW peak) by day and the grid at night, with 3 x 456 kW generators as backup.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Onix Data Centre, Accra",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Data Centre",
+   "country_label": "Onix data centre, Accra",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix Data Centres",
+   "tiers": "Tier IV (claimed, Uptime Institute)"
+  }
+ ],
+ "note": "No PUE and no water use figure stated; groundwater by reverse osmosis is a source, not a published usage figure."
+}

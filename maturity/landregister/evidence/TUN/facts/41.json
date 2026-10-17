@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deck lists land property among sectors with generalised information systems, which remain siloed.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "land property information system",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

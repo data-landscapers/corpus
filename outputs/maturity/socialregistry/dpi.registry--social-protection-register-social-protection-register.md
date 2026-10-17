@@ -1,6 +1,6 @@
 # Social protection register: social protection register
 
-*As at 2026-09-30.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Union's Protocol on Social Protection asks states for a social regis
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 11 |
+| 5 Leading | 4 |
+| 4 Operating | 12 |
 | 3 Established | 14 |
-| 2 Nascent | 15 |
+| 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 11 |
 
 ## Countries
+
+### Congo: 5 Leading
+
+The social registry was linked to the national ID in 2024.
+
+- Article 8 of the arrete says the registre social unique holds data from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
 
 ### Cote d'Ivoire: 5 Leading
 
@@ -62,11 +68,11 @@ Two or more programmes used the social registry in 2026; a link to the national 
 
 - The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
 
-### Congo: 4 Operating
+### DR Congo: 4 Operating
 
 Two or more programmes used the social registry in 2026; a link to the national ID is not known.
 
-- The minister says that thanks to the RSU the assistance programmes, universal health insurance, social safety nets and insertion projects, now have a common source of information ([source, 2026-04-10](https://affaires-sociales.gouv.cg/2026/04/14/le-registre-social-unique-du-congo-dispose-dun-siege-approprie/)).
+- MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
 
 ### Egypt: 4 Operating
 
@@ -112,9 +118,16 @@ Two or more programmes used the social registry in 2025; a link to the national 
 
 ### Morocco: 4 Operating
 
-Two or more programmes used the social registry in 2024; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; a link to the national ID is not known.
 
+- The author says the Registre social unifié index is used in targeting beneficiaries of social programmes (plural, unnamed) ([source, 2026-10-12](https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/)).
 - The Ministry of Interior document says the RSU is used to improve targeting of social protection programmes (plural) and that the RNP is used by social protection programmes ([source, 2024-10-23](https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social)).
+
+### Senegal: 4 Operating
+
+Two or more programmes used the social registry in 2023; a link to the national ID is not known.
+
+- DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves ([source, 2023-11](https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf)).
 
 ### Angola: 3 Established
 
@@ -147,6 +160,12 @@ A social registry was in service in 2026; its use by two or more programmes is n
 
 - President Guelleh said a mapping of poverty and precariousness was established in particular thanks to the social registry, and that State responses were tailored using this methodology (ADDS report) ([source, 2026-01-29](https://www.adds.dj/en/president-guelleh-reiterates-his-commitment-to-dedicating-a-central-component-of-his-policy-to-the-fight-against-poverty/)).
 - President Guelleh said that for the first time a mapping of poverty and precariousness was established notably thanks to the registre social, enabling targeted public policies (Ministry of Social Affairs and Solidarity page) ([source, 2026-01-29](https://sociales.gouv.dj/Articles/DetailArticles/452)).
+
+### Libya: 3 Established
+
+A social registry was in service in 2023; its use by two or more programmes is not known.
+
+- UNICEF Libya announced that the Tripoli-based government, with UN agencies, has launched the Unified Social Registry to identify and target those in need for social protection programmes ([source, 2023-10-23](https://libyaherald.com/2023/10/unicef-helps-launch-libyas-unified-social-registry-for-children)).
 
 ### Madagascar: 3 Established
 
@@ -187,13 +206,6 @@ A social registry was in service in 2026; its use by two or more programmes is n
 - Sao Tome and Principe's Cadastro Social Unico, set up by Decreto-Lei 16/2018 and regulated by Decreto-Lei 3/2023, was expanded by a data update from 8,000 to more than 12,500 households, the prime minister said (RSTP) ([source, 2026-08-26](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/)).
 - The Direcao da Protecao Social says about 12,500 households, 25% of the population, are registered in the Cadastro Social Unico, a system built to identify and target support to vulnerable families ([source, 2026-08-03](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/)).
 
-### Senegal: 3 Established
-
-A social registry was in service in 2026; its use by two or more programmes is not known.
-
-- The Council of Ministers communique reported by APS says the update and extension of the Registre National Unique to one million households was completed early in 2026, covering 996,194 households against 545,000 before ([source, 2026-01](https://aps.sn/le-premier-ministre-annonce-un-renforcement-des-initiatives-de-protection-sociale/)).
-- ANSD's catalogue says the Registre national unique was institutionalised by decree 2021-1052 of 2 August 2021, and the 2025 update survey covered all regions in March 2025 ([source, 2025-03](http://anads.ansd.sn/index.php/catalog/337)).
-
 ### Somalia: 3 Established
 
 A social registry was in service in 2025; its use by two or more programmes is not known.
@@ -226,12 +238,6 @@ A social registry was under way in 2026; none in service is on record.
 
 - La Gazette des Comores reports that the Registre social unique continues to be set up in Comoros, with 62,000 households registered, per the World Bank representative ([source, 2026-07-10](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html)).
 
-### DR Congo: 2 Nascent
-
-A social registry was under way in 2025; none in service is on record.
-
-- Decree n°25/041 of 4 December 2025 creates the Registre Social Unique (RSU), a socio-economic database to harmonise targeting of poor and vulnerable households, centralising beneficiaries' biographic, demographic and biometric data, managed by a steering committee and a technical management unit ([source, 2025-12-04](https://leganews.pro/articles/019d2bef-1d56-70af-a0b8-79e76597706d)).
-
 ### Eswatini: 2 Nascent
 
 A social registry was under way in 2026; none in service is on record.
@@ -251,13 +257,6 @@ A social registry was under way in 2026; none in service is on record.
 A social registry was under way in 2024; none in service is on record.
 
 - The Ministry of Gender, Youth and Social Development, with EU financing and UNICEF technical assistance, issued a Request for Proposals for the NISSA social registry and MISSA, closing 12 August 2024 ([source, 2024-08-12](https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and)).
-
-### Libya: 2 Nascent
-
-A social registry was under way in 2025; none in service is on record.
-
-- LANA reports that on 23 June 2025 Prime Minister Dabaiba approved the draft Unified Social Registry document, a project relying on a unified database of citizens' social and economic information to identify those eligible for support ([source, 2025-06-23](https://lana.gov.ly/post.php?lang=en&id=335111)).
-- LANA reports that on 22 June 2025 Prime Minister Dabaiba approved the draft Unified Social Registry document, built on a unified database of citizens' social and economic information with a classification system by income, health status and family size and periodic data updates ([source, 2025-06-22](https://lana.gov.ly/post.php?id=335044&lang=en)).
 
 ### Mozambique: 2 Nascent
 

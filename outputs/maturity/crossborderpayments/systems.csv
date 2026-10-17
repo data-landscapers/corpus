@@ -72,6 +72,8 @@ EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wal
 ETH,PAPSS,Ethiopia,crossborder,,Afreximbank,,2026-10-04-mobile-money-wallets-set-to-link-with-papss
 ETH,PAPSS,ETH,crossborder,Pan-African Payment and Settlement System,Afreximbank with the African Union,,2026-09-30-eth-fsxbusiness-ethiopia-joins-papss-31st-member
 ETH,National Digital Payment Strategy 2026-2030,Ethiopia,other,,Government of Ethiopia / NBE,,2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030
+ETH,PAPSS,Ethiopia,crossborder,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-16-itweb-ethiopia-cross-border-payments-papss
+ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026
 GAB,GIMAC,CEMAC,crossborder,,,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
 GAB,GIMACPAY,Gabon,crossborder,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,CLIKPAY,Gabon,crossborder,,,,2026-05-08-uncdf-clikpay-gabon-fintech-capital
@@ -90,8 +92,8 @@ GMB,PAPSS,Gambia,crossborder,pan-African payment and settlement system,Pan-Afric
 GMB,Yonna Global Wallet,Gambia,crossborder,mobile wallet,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app
 GMB,PAPSS,Gambia,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,PAPSS,Guinea-Bissau,crossborder,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
-GNB,PI-SPI,GNB,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+GNB,PI-SPI,GNB,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 GNB,PI-SPI,UEMOA,other,Plateforme interopérable du Système de paiement instantané,BCEAO,"banks, e-money, payment and microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 GNQ,PAPSS,Equatorial Guinea,crossborder,,Afreximbank,,2026-07-08-beac-joins-papss
 GNQ,BANGE MOBILE GE,Equatorial Guinea,other,mobile app,BANGE,,2026-02-12-bange-mobile-ge-app-reg
@@ -122,7 +124,7 @@ MLI,Wave Mobile Money,Mali,other,,Wave,,2025-05-29 TerraPay enables cross-border
 MLI,TerraPay network,Mali,crossborder,TerraPay,TerraPay,,2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali
 MLI,PI-SPI,Mali,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-liste-participants-pi-spi
 MLI,Orange Finances Mobiles Mali,Mali,other,mobile money,Orange,,2026-04-02-bceao-liste-participants-pi-spi
-MLI,PI-SPI,MLI,,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
+MLI,PI-SPI,MLI,other,instant payment switch,BCEAO,"banks, e-money issuers, payment institutions",2026-09-30-bceao-liste-participants-pi-spi-30-septembre-2026
 MLI,Télépaiement (DGI),Mali,other,bank transfers,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
 MOZ,SADC-RTGS,Mozambique,crossborder,hosted by the South African Reserve Bank,SADC Committee of Central Bank Governors,,2026-10-01-moz-360mz-sadc-real-time-payments
 MOZ,SADC-RTGS,SADC (15 participating countries),crossborder,,South African Reserve Bank,,2026-07-27-sadc-rtgs-angolan-kwanza

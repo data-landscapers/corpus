@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-21-nga-wuzup-oadc-lagos-dedicated-transmission-line",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Open Access Data Centres' Lekki, Lagos facility, operating about 1.5 MW since roughly two months before the report, is described by its CEO as Tier III-certified and supporting cloud services, content delivery and enterprise connectivity.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "OADC Lagos data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Lagos data centre",
+   "country_label": "Open Access Data Centres, Lekki",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres (WIOCC Group)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

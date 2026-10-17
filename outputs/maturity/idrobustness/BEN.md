@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Registre national des personnes physiques (RNPP)](<https://lanationbenin.bj/actualites/interoperabilite-avec-le-registre-national-des-personnes-physiques-des-structures-publiques-et-privees-entretenues-sur-les-avantages>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

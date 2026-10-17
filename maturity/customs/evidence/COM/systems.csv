@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 COM,SYDONIA World,Comoros,customs,ASYCUDA World,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
 COM,Guichet Unique du Commerce Exterieur,Comoros,customs,,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
+COM,SYDONIA,Comoros,customs,,Direction generale des douanes,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+COM,SIGIT,Comoros,other,,Direction generale des impots,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+COM,SYDONIA,SYDONIA,customs,,Comoros Ministry of Finance,,2023-12-07-afd-com-2023-pagf-si

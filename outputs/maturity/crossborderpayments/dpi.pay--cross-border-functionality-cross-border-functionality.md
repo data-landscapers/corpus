@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 23 |
+| 4 Operating | 24 |
 | 3 Established | 5 |
-| 2 Nascent | 9 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 9 |
@@ -138,6 +138,13 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Equatorial Guinea is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - BEAC joined PAPSS, announced by Afreximbank on 9 July 2026, and CEMAC banks are to be connected to it by end-2026 ([source, 2026-07-09](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+
+### Ethiopia: 4 Operating
+
+The country took part in a regional payment system in 2026; cross-border volumes are not reported.
+
+- ITWeb Africa reports Ethiopia has joined PAPSS, enabling financial institutions across the country to connect and take part in instant cross-border payments with counterparts across Africa ([source, 2026-10-15](https://www.itweb.africa/article/ethiopia-modernises-cross-border-payments-via-papss/RgeVDMPR3w9vKJN3)).
+- Afreximbank's release says Ethiopia has officially joined the PAPSS network, enabling Ethiopian financial institutions to connect and make cross-border payments with institutions across Africa ([source, 2026-10-15](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)).
 
 ### Gabon: 4 Operating
 
@@ -276,13 +283,6 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Low-value transactions within the Common Monetary Area (Eswatini, South Africa, Lesotho, Namibia) are migrating from domestic electronic funds transfer rails to the Transactions Cleared on an Immediate Basis payment scheme, per ITWeb Africa ([source, 2026-07-21](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO)).
-
-### Ethiopia: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- FSX Business reports Ethiopia became the 31st PAPSS member country and four Ethiopian banks have begun the regulatory process to join, awaiting National Bank of Ethiopia no-objection letters, with no bank yet operational ([source, 2026-09-30](https://www.fsxbusiness.com/ethiopia-joins-papss)).
-- The National Digital Payment Strategy 2026-2030 proposes enabling low-value outbound cross-border transfers via cards, wallets and digital banking for the first time (FMC/ENA/Shega) ([source, 2025-12-09](https://www.ena.et/web/eng/ethiopia-ndps-2026-2030)).
 
 ### Libya: 2 Nascent
 

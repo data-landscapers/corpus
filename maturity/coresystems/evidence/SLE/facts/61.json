@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-sle-mof-dfmst-tier-iii-data-centre-co-location",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The page lists IFMIS as a system the DFMST supports but does not state it is in use across central government."
+}

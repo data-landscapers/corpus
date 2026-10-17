@@ -9,7 +9,7 @@ TUN,Mobile ID,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,DigiGO,Tunisia,other,,,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,Registre National des Entreprises online services,Tunisia,other,,Registre National des Entreprises,,2026-04-30-tunisie-rne-full-digital-mobile-id
 TUN,National Business Register (RNE) digital platform,Tunisia,other,electronic platform,National Business Register,,2026-04-27-africanmanager-national-business-register-digital
-TUN,Online tax identification card issuance,Tunisia,,,"General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",,2026-04-27-africanmanager-national-business-register-digital
+TUN,Online tax identification card issuance,Tunisia,other,,"General Directorate of Taxes and IT Center of the Ministry of Finance, with the Register",,2026-04-27-africanmanager-national-business-register-digital
 TUN,digital identity,Tunisia,other,,,,2026-04-27-africanmanager-national-business-register-digital
 TUN,E-Houwiya,Tunisia,other,mobile ID with X.509 certificate,ICT ministry with National Digital Certification Agency and National Computer Center,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
 TUN,E-Bawaba,Tunisia,other,government portal,,,2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)
@@ -23,8 +23,12 @@ TUN,E-Bawaba,Tunisia,other,government portal,,,2025-03-01 Tunisia drives digitiz
 TUN,E-CNAM,Tunisia,other,government portal,,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,Uqudo identity verification,Tunisia,other,document verification against MRZ for KYC/AML,Uqudo,,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,National Business Register remote declaration platform,Tunisia,other,,National Business Register,,2026-02-13-jort-019-declaration-existence-societes-distance
-TUN,electronic tax identification card,Tunisia,,,"Ministry of Finance, sealed by the National Agency for Electronic Certification",,2026-02-13-jort-019-declaration-existence-societes-distance
+TUN,electronic tax identification card,Tunisia,other,,"Ministry of Finance, sealed by the National Agency for Electronic Certification",,2026-02-13-jort-019-declaration-existence-societes-distance
 TUN,e-Houwiya,Tunisia,authentication,,,,2026-09-18-tun-directinfo-ministere-agriculture-adopte-identite-numerique-e-houwiya
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
 TUN,Digital identity (Khadamet),Tunisia,authentication,Khadamet mobile app,Ministry of Communication Technologies,,2026-08-31-lapresse-tunisia-khadamet-launch
+TUN,E-Houwiya,E-Houwiya,authentication,,Ministry of the Interior,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,TunTrust,ANCE/TunTrust,authentication,,ANCE,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,Mobile ID,Tunisia,authentication,mobile phone,,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
+TUN,Vie scolaire,Vie scolaire,other,,Centre national des technologies de l'education,,2026-08-21-tun-lapresse-vie-scolaire-inscription

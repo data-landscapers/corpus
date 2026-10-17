@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Bilhete de Identidade (BI),AGO,other,,Ministry of Justice and Human Rights,,2026-08-24-angola-med-matricula-escolas-sem-bi
 AGO,Bilhete de Identidade,Angola,other,civil identity database,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
+AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2025-04-11-ago-angop-mais-15-milhoes-possuem-bi
 BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,ANIP national ID (fID),Benin,other,,ANIP,,2026-02-02 Benin reports 75% of identification services accessed through digital platforms
@@ -20,6 +21,8 @@ CMR,BUNEC civil status registration,Cameroon,other,,BUNEC,,2026-08-31-cameroon-b
 CMR,BUNEC civil registration digital system,Cameroon,other,,BUNEC,,2026-01-13 Cameroon intros digital system for civil documents
 CMR,BUNEC civil registration digital system,Cameroon,other,,BUNEC,,2026-01-12-councils-begin-issuance-digital-birth-certificates-biometricupdate
 CMR,New generation national ID card,Cameroon,other,Augentic,DGSN,"national ID, residence, refugee and disability cards",2025-03-05-issuance-of-new-national-id-card-takes-off-biometricupdate
+CMR,Fichier national de l'état civil,CMR,other,,MINDDEVEL,,2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu
+CMR,NIPU,CMR,birthnumber,,,,2025-05-01-cmr-minddevel-id4africa-loi-2024-016-etat-civil-nipu
 COD,RDC-Pass,COD,other,,Ministry of Digital Economy,,2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle
 COG,SIFEC,Congo,other,,ACSI,,2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation
 COG,SIFEC,Congo,other,,ACSI,,2026-02-20-cog-sifec-cloture-recommandations-mfbpp
@@ -60,7 +63,9 @@ LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-leso
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 MAR,MOSIP-based national ID,Morocco,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
+MAR,civil and social digital identifier,Morocco,birthnumber,,,,2024-01-01-mar-crvslaws-birth-registration-id-services
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
+MDG,Prodigy NUI,MDG,other,,Ministry of National Education,,2026-02-25-mdg-2424mg-nui-eleves-atsimondrano
 MOZ,e-SIRCEV,MOZ,other,,Direccao Nacional dos Registos e Notariado,,2024-01-01-e-sircev-portal
 MOZ,Bilhete de Identidade (BI),Mozambique,other,,,,2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027
 MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and eSIM",ATDI,3,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
@@ -68,6 +73,7 @@ MRT,Houwiyeti,Mauritania,other,mobile application,Agence nationale du registre d
 MRT,Khadamati,Mauritania,other,mobile application,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Registre national de la population,MRT,other,,Ministry of Interior,"biometric enrolment, permanent public service",2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent
 MRT,Registre National Biométrique des Populations,Mauritania,other,,State civil registration structure,,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques
+MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MUS,Mobile digital ID,Mauritius,other,mobile,,,2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate
 MUS,Mauritius National Identity Card (MNIC 3.0),Mauritius,other,,Government of Mauritius,smart ID card; Mobile ID app in development,2025-02-06 Smart and Mobile ID in Mauritius - Recommendations for a Balanced Approach
 MWI,National ID (National Registration Bureau),Malawi,other,,National Registration Bureau,,2026-01-16-birth-registration-campaign-4.6m-children-malawi24
@@ -78,6 +84,7 @@ MWI,National Identity Card,Malawi,other,,National Registration Bureau,,2026-09-1
 MWI,Nzika Digital ID Wallet,Malawi,other,,National Registration Bureau,,2026-09-16-mwi-undp-nzika-digital-id-wallet-national-id-expiry-removed
 MWI,National Identity system,Malawi,other,,,,2026-07-10-macra-undp-ai-digital-id-collaboration-itweb
 MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
+MWI,Centralised Civil Registration and Vital Statistics System (CRVS),Malawi CRVS,other,,National Registration Bureau,,2024-11-06-mwi-egpaf-value-of-a-birth-certificate
 NAM,e-ID,Namibia,other,,Ministry of Home Affairs,,2026-09-16-nam-nampa-government-targets-legal-identity-for-all-by-2030
 NAM,e-ID card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-07-29-namibian-home-affairs-clarifies-eid-costs
 NER,Niger national e-ID card,Niger,other,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport
@@ -97,10 +104,13 @@ STP,sistema de identidade digital,Sao Tome and Principe,other,,,,2026-05-14-afap
 SWZ,National Population Register (NPR),Eswatini,other,,Government of Eswatini,,2025-06-28-digital-eswatini-project-pid
 SYC,National Population Database / Identity Card,Seychelles,other,,Department of Immigration and Civil Status,,2026-01-01-ics-civil-status-division
 TCD,national biometric register,Chad,other,,ANATS,,2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants
+TCD,TASDJIL,Chad,birthnumber,TASDJIL,Technidev and ANATS,hospital desk,2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres
 TGO,MOSIP-based digital ID,Togo,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
+TUN,Identifiant Unique du Citoyen (IUC),IUC,birthnumber,,Ministry of the Interior,,2026-05-01-tun-id4africa-iuc-country-playbook
+TUN,Identifiant Unique Citoyen (IUC) register,Tunisia,other,,Ministry of the Interior,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
 TZA,Jamii Namba,Tanzania,other,,NIDA,,2026-08-19-tanzania-dira2050-security-digital-identity
 TZA,Jamii Namba,Tanzania,birthnumber,,NIDA,,2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba
 TZA,Jamii Namba,Tanzania,birthnumber,,NIDA,,2026-05-09-jamii-namba-children-pilot-set-for-rollout

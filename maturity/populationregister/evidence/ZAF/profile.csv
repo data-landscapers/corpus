@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,population,register,coverage,inservice,2026-10-01,ZAF-001;ZAF-003;ZAF-005;ZAF-009;ZAF-011,ZAF-002=underway;ZAF-007=underway;ZAF-008=underway;ZAF-010=underway,
+ZAF,population,register,coverage,inservice,2026-10-01,ZAF-001;ZAF-003;ZAF-005;ZAF-009;ZAF-011;ZAF-013;ZAF-014,ZAF-002=underway;ZAF-007=underway;ZAF-008=underway;ZAF-010=underway,
 ZAF,population,vital,coverage,updated,2026-04-08,ZAF-004,,
 ZAF,population,used,coverage,source,2026-10-01,ZAF-006;ZAF-012,,

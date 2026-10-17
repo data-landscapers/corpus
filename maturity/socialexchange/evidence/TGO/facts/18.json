@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Togo's presentation says the RSPM was being integrated in 2025 to link socio-economic data across institutions through the e-ID, over the RSIA.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RSPM",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSPM",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

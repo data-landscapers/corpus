@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-05-lbr-newspublictrust-nir-mobile-teams",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "The NIR says its API connects the Liberia Revenue Authority with new taxpayers wanting a TIN.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "NIR API to LRA",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

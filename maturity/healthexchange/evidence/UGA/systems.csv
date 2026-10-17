@@ -2,10 +2,10 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,OpenHIM,Uganda,exchange,OpenHIM,Ministry of Health (handed over by Makerere University MakSPH-METS),national,2026-04-01-mak-transitions-digital-health-systems-assets
 UGA,DHIS2,Uganda,other,DHIS2,Ministry of Health,national,2026-04-01-mak-transitions-digital-health-systems-assets
 UGA,UgandaEMR,Uganda,other,,Ministry of Health,,2026-04-01-mak-transitions-digital-health-systems-assets
-UGA,National Data Warehouse,Uganda,,,,national,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,National Data Warehouse,Uganda,other,,,national,2026-04-01-mak-transitions-digital-health-systems-assets
 UGA,eIDSR,Uganda,other,,Ministry of Health,,2026-04-01-mak-transitions-digital-health-systems-assets
 UGA,Viral Load Information System,Uganda,other,,Ministry of Health,national,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
 UGA,mTrac,Uganda,other,,Ministry of Health,,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
 UGA,eHMIS,Uganda,other,,Ministry of Health,national,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
 UGA,National Laboratory Data Repository,Uganda,exchange,,Ministry of Health,national,2026-02-05-national-laboratory-data-repository-health
-UGA,National Health Data Warehouse,Uganda,,,Ministry of Health,national,2026-02-05-national-laboratory-data-repository-health
+UGA,National Health Data Warehouse,Uganda,other,,Ministry of Health,national,2026-02-05-national-laboratory-data-repository-health

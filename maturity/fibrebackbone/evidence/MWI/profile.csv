@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,backbone,reach,coverage,every-region,2025-10,MWI-004,MWI-003=in-service;MWI-001=building;MWI-002=building,
+MWI,backbone,reach,coverage,every-region,2025-10,MWI-004,MWI-005=in-service;MWI-003=in-service;MWI-001=building;MWI-002=building,
 MWI,backbone,access,coverage,,,,,nothing held

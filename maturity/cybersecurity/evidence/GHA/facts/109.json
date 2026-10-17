@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The op-ed says the Cyber Security Authority, led by Dr Albert Antwi-Boasiako, coordinates national cyber defence under the Cybersecurity Act of 2020.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident, designation or figures stated."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-16-zwe-businesstimes-zb-smile-cash-250k",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Business Times reports ZB Financial Holdings launched Smile Cash, an in-house mobile wallet usable by app or USSD, and the Smile&Pay merchant gateway, at about US$250,000 investment.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "Smile Cash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smile Cash",
+   "country_label": "Smile Cash",
+   "class": "retail",
+   "platform": "app and USSD wallet",
+   "owner": "ZB Financial Holdings",
+   "tiers": ""
+  },
+  {
+   "system": "Smile&Pay",
+   "country_label": "Smile&Pay",
+   "class": "other",
+   "platform": "payment gateway",
+   "owner": "ZB Financial Holdings",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

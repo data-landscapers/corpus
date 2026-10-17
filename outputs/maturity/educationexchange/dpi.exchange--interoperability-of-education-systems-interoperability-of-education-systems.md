@@ -23,10 +23,10 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 | 5 Leading | 5 |
 | 4 Operating | 2 |
 | 3 Established | 6 |
-| 2 Nascent | 11 |
+| 2 Nascent | 12 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 25 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -109,6 +109,12 @@ Two education systems exchanged data in 2025; a shared learner identifier is not
 Two education systems exchanged data in 2026; a shared learner identifier is not known.
 
 - The ministry spokesperson says the Early Warning System is now integrated into EMIS and runs under the National Case Management System alongside the Ministry of Public Service, Labour and Social Welfare, generating real-time lists of absent learners ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
+
+### Angola: 2 Nascent
+
+A link between education systems was under way in 2025; none in service is on record.
+
+- LBC, the contractor, says the SIETP technical-vocational education system was designed for integration with SIGE, Angola's Education Information and Management System; no go-live of the link is stated ([source, 2025-05-09](https://lbc-global.com/en/retfop-um-ponto-de-viragem-no-ensino-tecnico-profissional-angolano/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -211,12 +217,6 @@ Nothing held since 2023 names education systems exchanging data, so no stage is 
 Not established: Nothing held since October 2023 names education systems exchanging data.
 
 ### Algeria: No evidence
-
-Nothing held names education systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names education systems exchanging data, or says there is none.
-
-### Angola: No evidence
 
 Nothing held names education systems exchanging data or says there is none, so no stage is set.
 

@@ -1,7 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Backup Data Center do INFOSI,Angola,backupsite,,INFOSI,,2026-08-25-angop-infosi-backup-data-center-requalificacao
-AGO,Data Center e Cloud do Governo (Camama),Angola,,,Government of Angola,,2026-08-25-angop-infosi-backup-data-center-requalificacao
+AGO,Data Center e Cloud do Governo (Camama),Angola,other,,Government of Angola,,2026-08-25-angop-infosi-backup-data-center-requalificacao
 AGO,centro de backup da cloud do Governo,Angola,backupsite,,INFOSI,,2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks
-AGO,data center do Governo (Camama),Angola,,,Government of Angola,,2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks
+AGO,data center do Governo (Camama),Angola,other,,Government of Angola,,2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks
 AGO,Backup Data Center do INFOSI,Angola,backupsite,,INFOSI,,2026-08-25-infosi-e-fadcom-firmam-parceria-para-estagios-no-data-center
 AGO,Centro Nacional de Dados,Angola,other,,INFOSI,,2021-05-31-decreto-presidencial-135-21-estatuto-organico-do-infosi

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-05-lbr-newspublictrust-nir-mobile-teams",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The NIR and the finance ministry built an interface to audit the government payroll against the registry as new employees join, shared with the audit and civil service agencies.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "National Biometric Identification System",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "The NIR says a 2018 payroll cleanup using registry attributes found only 60,000 of about 80,000 payroll names showed up.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National Biometric Identification System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Biometric Identification System",
+   "country_label": "NBIS",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

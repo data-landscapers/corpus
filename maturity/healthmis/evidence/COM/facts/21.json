@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre Électronique de Vaccination (REV)",
+   "country_label": "Electronic vaccination registry",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la Santé et de la Protection Sociale",
+   "tiers": ""
+  },
+  {
+   "system": "Plateforme de Surveillance des Maladies Évitables par la Vaccination (MEV)",
+   "country_label": "Vaccine-preventable disease surveillance platform",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la Santé et de la Protection Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes vaccination registry, surveillance and dashboard tools validated before national rollout; it names no national routine health management reporting system."
+}

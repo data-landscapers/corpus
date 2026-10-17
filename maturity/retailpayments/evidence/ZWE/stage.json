@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "4",
-   "service": "inservice",
-   "interop": "interop",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-004;ZWE-002",
-   "gaps": "No source held since October 2023 says a national switch connects wallets and bank accounts.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "4",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-004;ZWE-002",
+      "gaps": "No source held since October 2023 says a national switch connects wallets and bank accounts.",
+      "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

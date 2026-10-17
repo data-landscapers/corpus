@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-11-ben-beninwebtv-liste-electorale-provisoire-anip",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP says the provisional electoral list is extracted directly from the Fichier National de l'État Civil, the same database used to issue the national identity card and the IFU tax identifier.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Liste Électorale Informatisée Provisoire",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

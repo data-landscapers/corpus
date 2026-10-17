@@ -2,4 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MOZ,Cedsif Secondary Data Center,Mozambique,backupsite,,"Cedsif, IP",,2026-07-24-cedsif-tender-ups-batteries-secondary-data-center
 MOZ,UPS battery supply facility (tendered),Mozambique,other,,"Cedsif, IP",,2026-07-24-cedsif-tender-ups-batteries-secondary-data-center
 MOZ,Bubble Cloud Availability Zones,Mozambique,other,"commercial cloud, two sites about 20 km apart, places not stated",Bubble Cloud Mozambique,,2026-07-24-bubble-cloud-two-availability-zones-mozambique
-MOZ,Rede Única Nacional (SIMOrede),Mozambique,,national payments network,Banco de Moçambique (operated by SIMOrede),,2026-06-16-banco-mocambique-aviso-2-gbm-2026-rede-unica-pagamentos
+MOZ,Rede Única Nacional (SIMOrede),Mozambique,other,national payments network,Banco de Moçambique (operated by SIMOrede),,2026-06-16-banco-mocambique-aviso-2-gbm-2026-rede-unica-pagamentos

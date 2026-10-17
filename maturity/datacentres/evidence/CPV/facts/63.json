@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-17-cpv-balai-data-center-estado-fotovoltaico-40pct",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center do Estado",
+   "country_label": "Data Center do Estado",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centre described as serving state platforms; no statement that it rents to outside organisations, no Tier or cloud region."
+}

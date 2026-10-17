@@ -16,7 +16,7 @@ DZA,2,building,,DZA-001
 EGY,no evidence,,,
 ERI,no evidence,,,
 ETH,3,in-service,,ETH-001
-GAB,3,in-service,,GAB-002;GAB-005
+GAB,3,in-service,,GAB-001;GAB-012
 GHA,no evidence,,,
 GIN,4,every-region,,GIN-002
 GMB,3,in-service,,GMB-001;GMB-004
@@ -26,7 +26,7 @@ KEN,4,every-region,,KEN-010
 LBR,3,in-service,,LBR-002
 LBY,no evidence,,,
 LSO,2,building,,LSO-001
-MAR,no evidence,,,
+MAR,3,in-service,,MAR-001
 MDG,3,in-service,,MDG-001;MDG-002
 MLI,no evidence,,,
 MOZ,3,in-service,,MOZ-001
@@ -45,11 +45,11 @@ SSD,2,building,,SSD-001
 STP,no evidence,,,
 SWZ,2,building,,SWZ-002;SWZ-003
 SYC,no evidence,,,
-TCD,3,in-service,,TCD-003;TCD-001
+TCD,3,in-service,,TCD-002;TCD-003
 TGO,3,in-service,,TGO-001
 TUN,3,in-service,,TUN-001
 TZA,5,every-region,open,TZA-012;TZA-010
-UGA,3,in-service,,UGA-009;UGA-010
+UGA,3,in-service,,UGA-001;UGA-009
 ZAF,3,in-service,,ZAF-001;ZAF-003
 ZMB,3,in-service,,ZMB-003;ZMB-001
 ZWE,3,in-service,,ZWE-001;ZWE-006

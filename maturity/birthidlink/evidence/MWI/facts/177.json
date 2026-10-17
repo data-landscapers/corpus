@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-10-mwi-times-nrb-targets-8000-children",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "NRB Secretary Mphatso Sambo told Parliament that between April 2024 and February 2025 NRB integrated electronic birth and death registration systems with the national ID system.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Registration and Identification System (NRIS)",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "events",
+   "value": "both",
+   "fact": "NRB Secretary Mphatso Sambo said both the electronic birth and the electronic death registration systems were integrated with the national ID system between April 2024 and February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Registration and Identification System (NRIS)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

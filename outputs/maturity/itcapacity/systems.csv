@@ -3,8 +3,9 @@ AGO,Portal do Censo 2024,Portal do Censo 2024,staff,web portal,INE,,2026-07-02-i
 AGO,INE Angola,INE Angola,staff,mobile app,INE,,2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel
 AGO,AGT in-house AI system,AGT in-house AI system,staff,machine learning,AGT,,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 AGO,SIGFE,SIGFE,other,,,,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
-AGO,CAPI/CATI census platform,CAPI/CATI census platform,,computer-assisted interviewing,INE,,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos
+AGO,CAPI/CATI census platform,CAPI/CATI census platform,other,computer-assisted interviewing,INE,,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos
 BDI,Système Intégré de Gestion des Finances Publiques (SIGFP),SIGFP,other,,"Ministère des Finances, du Budget et de l'Économie Numérique",,2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
+BDI,SETIC,Secrétariat Exécutif des Technologies de l'Information et de la Communication,staff,,Government of Burundi,,2026-10-16-bdi-setic-services-institutions-publiques
 BEN,"ASIN electronic signature, encryption and secure messaging","Electronic signature, encryption and secure messaging",staff,,ASIN (Agence des Systèmes d'Information et du Numérique),national,2026-07-08-dgpr-asin-formation-300-policiers
 BEN,Programme de Renforcement des Structures Centrales de Gouvernance (PRSCG) national network,BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
 BEN,National data centre (PRSCG),BEN,other,,Government of Benin,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
@@ -17,21 +18,21 @@ BFA,e-conseil des ministres,BFA,staff,,ANPTIC,,2024-01-30-anptic-nos-realisation
 BFA,passif-immobilier.anagrasc.gov.bf,BFA,staff,,ANAGRASC,,2026-09-03-bfa-burkina-faso-lancement-dune-plateforme-pour-le-recensement-d
 BFA,RESINA,BFA,staff,,ANPTIC,,2026-08-10-burkina-izai-toe-souverainete-numerique
 BFA,G-Cloud,BFA,staff,,ANPTIC,,2026-08-05-burkina-g-cloud-portal
-BFA,SIGASPE,BFA,,Oracle,,,2026-08-05-burkina-g-cloud-portal
+BFA,SIGASPE,BFA,other,Oracle,,,2026-08-05-burkina-g-cloud-portal
 BFA,RESINA,Reseau Informatique National de l'Administration,other,,ANPTIC,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,G-Cloud,G-Cloud,other,,ANPTIC,,2026-08-02-100-visages-du-burkina-digital-michael-folane
-BFA,RESINA,ANPTIC traffic RESINA to PAV/BFIX,,,ANPTIC,,2025-12-27-bfa-lf-2026-volume-integral-companion
-BFA,PACTDIGITAL,PACTDIGITAL,,,,,2025-12-27-bfa-lf-2026-volume-integral-companion
+BFA,RESINA,ANPTIC traffic RESINA to PAV/BFIX,other,,ANPTIC,,2025-12-27-bfa-lf-2026-volume-integral-companion
+BFA,PACTDIGITAL,PACTDIGITAL,other,,,,2025-12-27-bfa-lf-2026-volume-integral-companion
 BFA,G-Cloud,G-Cloud,other,private cloud,ANPTIC,,2024-01-31-bfa-anptic-g-cloud-projet
-BFA,data.gov.bf,Open data portal,,,ANPTIC,,2019-01-01-ogp-bf0011-donnees-ministeres-format-ouvert
-BFA,eBurkina shared digital platform,eBurkina,,,ANPTIC,,2017-01-31-bfa-iati-44000-p155645-burkina-faso-egovernment-project
+BFA,data.gov.bf,Open data portal,other,,ANPTIC,,2019-01-01-ogp-bf0011-donnees-ministeres-format-ouvert
+BFA,eBurkina shared digital platform,eBurkina,other,,ANPTIC,,2017-01-31-bfa-iati-44000-p155645-burkina-faso-egovernment-project
 BFA,Burkina Open Data Initiative (BODI) central platform,Burkina Faso,other,open data platform,Ministry of Digital Economy (project under it); ANPTIC executing agency,,2015-11-10-bfa-mdenp-arrete-bodi-open-data-initiative
 BFA,E-conseil,Burkina Faso,staff,paperless Council of Ministers,ANPTIC,,2014-06-05-bfa-burkina24-open-data-platform-launch
 BFA,Burkina Open Data Initiative (BODI) platform,Burkina Faso,other,open data platform,,,2014-06-05-bfa-burkina24-open-data-platform-launch
 BFA,Lanaya,Lanaya,staff,,Treasury (Direction generale du Tresor et de la comptabilite publique),,2026-04-06-tresor-public-lanaya-e-bdt-plateformes
 BFA,e-BDT,e-BDT,staff,,Treasury (Direction generale du Tresor et de la comptabilite publique),,2026-04-06-tresor-public-lanaya-e-bdt-plateformes
-BFA,Lanaya,Lanaya,,,Treasury,,2026-04-03-lanaya-e-bdt-plateformes-tresor-public
-BFA,e-BDT,e-BDT,,,Treasury,,2026-04-03-lanaya-e-bdt-plateformes-tresor-public
+BFA,Lanaya,Lanaya,other,,Treasury,,2026-04-03-lanaya-e-bdt-plateformes-tresor-public
+BFA,e-BDT,e-BDT,other,,Treasury,,2026-04-03-lanaya-e-bdt-plateformes-tresor-public
 BFA,e-Dimaakia,e-Dimaakia,other,,Ministry of Economy and Finance,,2026-03-26-e-dimaakia-plateforme-missions-officielles
 BFA,Modular datacenters of the public administration,Modular datacenters of the public administration,other,,Ministry of Digital Transition,,2026-01-25-gouvernement-inaugure-deux-datacenters
 BFA,National mini data centres,National mini data centres,other,,Ministry of Digital Transition,,2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres
@@ -66,9 +67,10 @@ CMR,Learning Management System (MINFOPRA-KOICA project),Cameroon,other,LMS,MINFO
 COD,Kinshasa government network (GovNet pilot),Kinshasa government network,other,,,,2025-07-18-worldbank-ptn-rdc-mission-appui-aide-memoire
 COG,portail e-douanes,e-douanes,other,,Direction générale des douanes et des droits indirects,,2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi
 COG,Déclaration préalable à l'importation (DPI),DPI,other,,Direction générale des douanes et des droits indirects,,2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi
-COM,Government portal (digital administration platform),Comoros government portal,,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
-COM,Interoperability and data-exchange platform,Comoros,,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
-COM,National data centre,Comoros,,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COG,gouvernement.cg,Congo,other,,Aden,,2024-12-30-cog-adiac-aden-documents-cadres
+COM,Government portal (digital administration platform),Comoros government portal,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,Interoperability and data-exchange platform,Comoros,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,National data centre,Comoros,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
 CPV,SOC and CSIRT RTPE,SOC and CSIRT RTPE,staff,,NOSi,,2025-10-30-governo-lanca-soc-csirt-rtpe-nosi-expressodasilhas
 CPV,"NOSi housing, IaaS, PaaS, SaaS services",NOSi cloud services,staff,,NOSi,,2024-01-01-cpv-nosi-plano-anual-atividades-orcamento-2024-source
 CPV,eleicoes.cv results portal,eleicoes.cv,staff,,NOSi,,2026-05-27-nosi-relatorio-preliminar-causas-de-ordem-tecnica-anacao
@@ -86,18 +88,18 @@ CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national
 CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national,2025-01-01-cpv-2025-nosi-protocolos
 CPV,"NOSi, E.P.E.",NOSi,staff,,Government of Cabo Verde (state company),national,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source
 CPV,RTPE,RTPE,other,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
-CPV,SIJ,SIJ,,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
-CPV,Consular Portal,Consular Portal,,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,SIJ,SIJ,,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,IGRP,IGRP,,open-source microservices framework,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,SIJ,SIJ,other,,NOSi,,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
+CPV,Consular Portal,Consular Portal,other,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,SIJ,SIJ,other,,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
+CPV,IGRP,IGRP,other,open-source microservices framework,NOSi,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
 CPV,NOSiAkademia,NOSiAkademia,other,,,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
 CPV,WebLab,WebLab,other,,,,2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)
-CPV,RTPE,RTPE,,State's Private Technological Network,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,Government Data Center,Government Data Center,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,IGRPWeb,IGRPWeb,,open-source framework,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,Consular Portal,Consular Portal,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,SNIAC,SNIAC,,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
-CPV,NOSi-CA,NOSi-CA,,PKI,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,RTPE,RTPE,other,State's Private Technological Network,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Government Data Center,Government Data Center,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,IGRPWeb,IGRPWeb,other,open-source framework,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Consular Portal,Consular Portal,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,SNIAC,SNIAC,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,NOSi-CA,NOSi-CA,other,PKI,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,NOSiAkademia,NOSiAkademia,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,WebLab,WebLab,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,NOSi Akademia,NOSi Akademia,other,,,,2026-03-11-cpv-governo-dispoe-10-milhoes-de-contos-para-investir-no-digital
@@ -108,22 +110,23 @@ CPV,"National Health System digitalisation (unique patient code, e-prescriptions
 CPV,SIMPle,Cabo Verde,other,,Government / municipalities,municipal,2025-11-11-cpv-governo-investe-125-mil-contos-na-modernizacao-digital-dos-municipios
 CPV,SOC and CSIRT of the RTPE,SOC e CSIRT da RTPE,staff,,"NOSi, E.P.E.",,2025-10-30-cabo-verde-nosi-lancamento-soc-e-csirt-rtpe
 CPV,SOC and CSIRT of the RTPE,SOC e CSIRT da RTPE,staff,,NOSi,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
-CPV,RTPE,Rede Tecnologica Privativa do Estado,,,,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
-CPV,"SIMple (update of SIM, Sistema de Informacao Municipal)",SIMple,,,,,2025-02-01-cpv-encontro-de-trabalho-no-ambito-da-implementacao-do-projeto-simple
+CPV,RTPE,Rede Tecnologica Privativa do Estado,other,,,,2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe
+CPV,"SIMple (update of SIM, Sistema de Informacao Municipal)",SIMple,other,,,,2025-02-01-cpv-encontro-de-trabalho-no-ambito-da-implementacao-do-projeto-simple
 CPV,Open Data Portal,Cabo Verde,staff,,Ministry of State Modernization and Public Administration; NOSi,,2024-01-01-cabo-verde-commitment-cv0004
-CPV,NOSI data centre,NOSI,,,NOSI,,2024-01-01-cabo-verde-e-sao-tome-e-principe-assinam-protocolos-para-informatizar-a-justica
+CPV,NOSI data centre,NOSI,other,,NOSI,,2024-01-01-cabo-verde-e-sao-tome-e-principe-assinam-protocolos-para-informatizar-a-justica
 CPV,SIGE,Sistema Integrado de Gestão Escolar,staff,,Ministry of Education; built by NOSi,,2019-02-01-cabo-verde-minedu-sige-sistema-integrado-gestao-escolar
 CPV,National data center / eGovernment platform,Cabo Verde,other,Huawei eGovernment cloud,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,IGRP,Cabo Verde,staff,application development platform,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
-CPV,Medical Information System (SIS),Cabo Verde,,,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,Medical Information System (SIS),Cabo Verde,other,,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,State Data Center (Achada Grande),Cabo Verde,other,,Government of Cabo Verde,,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
 CPV,Pan-African e-Network,Cabo Verde,other,fibre and satellite,TCIL and NOSi,,2010-07-29-cabo-verde-pan-african-e-network-inaugurado-na-praia
 CPV,SOC and CSIRT within RTPE,Cabo Verde national SOC and CSIRT,other,,,,2025-10-31 Cabo Verde launches national SOC and CSIRT
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2026-03-26-dji-ansie-comptes-financiers-2024-companion
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2025-06-16-dji-ansie-budget-previsionnel-2025-companion
-DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,,,Government of Djibouti,,2024-01-30-dji-ansie-budget-previsionnel-2024-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2026-03-26-dji-ansie-comptes-financiers-2024-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2025-06-16-dji-ansie-budget-previsionnel-2025-companion
+DJI,ANSIE (Agence Nationale des Systèmes d'Information de l'État),Agence Nationale des Systèmes d'Information de l'État,other,,Government of Djibouti,,2024-01-30-dji-ansie-budget-previsionnel-2024-companion
 DJI,national data exchange layer,national data exchange layer,other,,ANSIE,,2023-04-30-ega-djibouti-digital-interoperability-platform
 DJI,X-Road secure data exchange,Djibouti,other,X-Road,ANSIE,,2021-12-31-ega-public-administration-modernisation-djibouti
+DJI,ANSIE,Agence Nationale des Systemes d'Information de l'Etat,staff,,State,,2023-11-14-dji-presidence-cm-ansie-tarification
 DZA,Dzair Digital Services,Algeria,other,national digital services portal,Haut Commissariat a la Numerisation,,2026-09-19-dza-elmoudjahid-hcn-verification-documents-electroniques
 DZA,Electronic document verification mechanism,Algeria,staff,,Haut Commissariat a la Numerisation,,2026-09-19-dza-elmoudjahid-hcn-verification-documents-electroniques
 DZA,Dzair Digital Services,Algeria,other,national digital services portal (dzds.dz),Haut-Commissariat a la Numerisation,,2026-07-07-dza-aps-dzds-portail-national
@@ -133,16 +136,17 @@ EGY,NOSI digital transformation system (pensions),NOSI digital transformation sy
 EGY,e-Finance government payments network,e-Finance,staff,,e-Finance (state-owned enterprise),,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
 EGY,Unified National Registry,Unified National Registry,staff,,Administrative Control Authority,,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
 EGY,Takaful and Karama beneficiary database,TKP database,other,,Ministry of Social Solidarity,,2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19
-ETH,Fayda national ID,Ethiopia national ID,,,NIDP,,2025-10-03 Zambia plans domestic digital ID development with help from international partners
+ETH,Fayda national ID,Ethiopia national ID,other,,NIDP,,2025-10-03 Zambia plans domestic digital ID development with help from international partners
 ETH,livestock information systems,Ethiopia livestock information systems,other,,,,2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development
-GAB,Integrated human resources management system (Single Master File migration),Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
-GAB,Government interoperability platform,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
-GAB,National Digital Identity System,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
-GAB,Government messaging system,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+ETH,Ergamail,Ergamail,staff,government email client,INSA,,2025-07-08-eth-ebr-insa-local-platforms
+GAB,Integrated human resources management system (Single Master File migration),Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,Government interoperability platform,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,National Digital Identity System,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,Government messaging system,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,Fichier unique de référence (FUR),Gabon,staff,,Ministry of Public Service,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
-GAB,Système intégré de gestion des ressources humaines de l'État (SIGRH),Gabon,,,Ministry of Public Service,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
-GAB,Portail gouvernemental des services (PGS),Gabon,,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
-GAB,GED (electronic document management),Gabon,,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
+GAB,Système intégré de gestion des ressources humaines de l'État (SIGRH),Gabon,other,,Ministry of Public Service,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
+GAB,Portail gouvernemental des services (PGS),Gabon,other,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
+GAB,GED (electronic document management),Gabon,other,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
 GAB,KEWA,KEWA,staff,online exam results platform,ANINF,,2026-06-27-gabon-cep-2026-kewa-publication-resultats-aninf
 GAB,e-Gabon,GAB,other,,,,2026-06-22-gabon-aninf-worldbank-progress-review
 GAB,Gabon Digital,GAB,other,,,,2026-06-22-gabon-aninf-worldbank-progress-review
@@ -160,8 +164,8 @@ GAB,Government messaging system,Government messaging system,other,,ANINF,,2026-0
 GAB,Electronic document management platform (GED),Electronic document management platform (GED),other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
 GAB,GED,GED,staff,,ANINF,,2026-09-17-techafricanews-gabon-electronic-document-management
 GAB,GED,GED,staff,,ANINF,,2026-09-16-gabonreview-ged-basculement-administration-numerique
-GAB,"National data centre, Nkok",Gabon national data centre,,,,,2026-09-09-gab-agenceecofin-900000-alertes-intrusion-cybersecurite
-GAB,Digital driving licence registration system,Gabon digital driving licence,,,"Ministry of Digital Economy, Digitalisation and Innovation",,2026-09-01-techafricanews-gabon-makokou-wifi-driving-licence
+GAB,"National data centre, Nkok",Gabon national data centre,other,,,,2026-09-09-gab-agenceecofin-900000-alertes-intrusion-cybersecurite
+GAB,Digital driving licence registration system,Gabon digital driving licence,other,,"Ministry of Digital Economy, Digitalisation and Innovation",,2026-09-01-techafricanews-gabon-makokou-wifi-driving-licence
 GAB,Makokou public Wi-Fi,Makokou public Wi-Fi,other,,ANINF,,2026-09-01-techafricanews-gabon-makokou-wifi-driving-licence
 GAB,eGabon-SIS,eGabon-SIS,other,,Ministry of Health,,2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis
 GAB,e-Gabon-SIS,e-Gabon-SIS,other,,"Ministry of Health; World Bank financed, led by Gabon Digital group with ANINF support",about ten hospitals and health centres in pilot,2025-07-03-gab-gabon-digitalisation-du-systeme-de-sante-dix-structures-hospitalieres
@@ -173,15 +177,15 @@ GAB,Financial data visualization platform (VDRF),VDRF,other,,ANINF / Gabon Digit
 GAB,Government Portal,Government Portal,other,,ANINF / Gabon Digital,,2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
 GAB,Fichier unique de référence (FUR),Fichier unique de référence,staff,"packaged software (progiciel), about twenty years old",Ministry of the Civil Service; ANINF technical teams,,2026-08-26-gabonreview-fur-carrieres-soldes-fonctionnaires
 GAB,Réseau de l'Administration Gabonaise (RAG),RAG,staff,government fibre network,ANINF,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
-GAB,VECTIS,VECTIS,,budget execution system,Ministry of Budget,central level only; document says in-house capacities to manage it are limited,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,VECTIS,VECTIS,other,budget execution system,Ministry of Budget,central level only; document says in-house capacities to manage it are limited,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,X-Gest,X-Gest,other,school management information system,Ministry of Education,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,e-education applications,e-education,staff,applications developed and managed by private providers,Ministry of Education; ANINF support,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GHA,Ghana Electronic Document Wallet (GEDW),Ghana Electronic Document Wallet Ecosystem,other,PKI-based digital credential layer,National Information Technology Agency (NITA),,2026-06-26-nita-gedw-stakeholder-engagement
 GHA,National Identification System,National Identification System (Ghana Card),staff,,National Identification Authority,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,National Identification System,"National Identification System (Ghana Card, National Identity Register)",staff,,National Identification Authority,,2021-10-05-nia-about-us-mandate-act-707
-GIN,FUGAS (fichier unique de gestion administrative et de la solde),FUGAS,,,Direction generale de la Fonction publique,,2026-08-26-africaguinee-ministere-modernisation-nominations-ande
-GIN,State intranet,State intranet,,,ANDE,,2022-04-12-ande-missions-et-attributions
-GIN,Integrated financial and administrative management system,Integrated state financial/administrative system,,,ANDE,,2022-04-12-ande-missions-et-attributions
+GIN,FUGAS (fichier unique de gestion administrative et de la solde),FUGAS,other,,Direction generale de la Fonction publique,,2026-08-26-africaguinee-ministere-modernisation-nominations-ande
+GIN,State intranet,State intranet,other,,ANDE,,2022-04-12-ande-missions-et-attributions
+GIN,Integrated financial and administrative management system,Integrated state financial/administrative system,other,,ANDE,,2022-04-12-ande-missions-et-attributions
 GNB,SIGDAJ,Guinea-Bissau,staff,,Ministry of Justice and Human Rights,,2023-03-09-undp-e-justice-guinea-bissau-learning-what-works
 GNB,DHIS2 justice adaptation,Guinea-Bissau,other,DHIS2,,,2023-03-09-undp-e-justice-guinea-bissau-learning-what-works
 GNB,SIGDAJ,Guinea-Bissau,staff,,Ministry of Justice and Human Rights,,2023-03-03-undp-e-justice-guinea-bissau
@@ -195,10 +199,11 @@ KEN,Digital Literacy Programme Phase II,Kenya,other,,ICT Authority,,2026-09-16-t
 KEN,Digital Superhighway,Kenya,other,,ICT Authority,,2026-09-04-kenya-ag-opinion-digital-superhighway-quashed
 KEN,Digital Superhighway,Kenya,other,,ICT Authority,,2026-09-07-kenya-cofek-high-court-quashes-ag-opinion-nightigale
 KEN,Digital Superhighway,Kenya,other,,ICT Authority,,2026-09-02-nation-africa-ruto-fibre-optic-network-plan-falters
-KEN,National ICT Broadband Backbone,NICTBB,,,ICT Authority,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
-LBR,Online police clearance system,Police clearance platform,,,Liberia National Police,,2026-10-08-lbr-police-online-clearance-us200k
-LBR,National E-Procurement platform,E-Procurement platform,,,,,2026-08-12-liberia-sierra-leone-digital-transformation-cooperation
-LBR,Electronic Government Procurement (e-GP) system,e-GP,,,Public Procurement and Concessions Commission,,2026-08-07-liberias-e-gp-system-becomes-regional-model
+KEN,National ICT Broadband Backbone,NICTBB,other,,ICT Authority,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+KEN,AfyaKE,AfyaKE,other,,Murang'a County Government,county,2026-10-16-nation-afyake-shutdown-65000-patient-records-kangata-duale
+LBR,Online police clearance system,Police clearance platform,other,,Liberia National Police,,2026-10-08-lbr-police-online-clearance-us200k
+LBR,National E-Procurement platform,E-Procurement platform,other,,,,2026-08-12-liberia-sierra-leone-digital-transformation-cooperation
+LBR,Electronic Government Procurement (e-GP) system,e-GP,other,,Public Procurement and Concessions Commission,,2026-08-07-liberias-e-gp-system-becomes-regional-model
 LBR,Online police clearance platform,Police clearance platform,staff,Liberia National Police website,Liberia National Police,,2026-05-04-liberia-lnp-lra-online-police-clearance-platform-gnn
 LBY,electronic archiving system,"Electronic archiving system, Ministry of Technical and Vocational Education",staff,,Ministry of Technical and Vocational Education,,2026-09-23-lby-lana-technical-education-e-archiving
 LSO,Interim CSIRT,Lesotho,other,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
@@ -208,12 +213,12 @@ LSO,LesComCSIRT,Lesotho,other,,"Ministry of Information, Communications, Science
 MDG,e-GP Madagascar,e-GP Madagascar,other,,Government of Madagascar (PRODIGY),,2025-08-14-prodigy-egp-redesign-capacity-strengthening
 MLI,Government Intranet,Intranet de l'administration,staff,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Single-window portal of public services,Guichet unique,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
-MLI,Government messaging system,messagerie gouvernementale,,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Government messaging system,messagerie gouvernementale,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,.ml country-code domain registry,point ML,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
-MLI,Government messaging system,messagerie gouvernementale,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
-MLI,Administration intranet network,réseau intranet de l'Administration,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
-MLI,COCCASFR platform,COCCASFR,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
-MLI,Point ML,point ML,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Government messaging system,messagerie gouvernementale,other,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Administration intranet network,réseau intranet de l'Administration,other,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,COCCASFR platform,COCCASFR,other,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Point ML,point ML,other,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
 MLI,Administration intranet,réseau intranet de l'administration,staff,,AGETIC,,2025-12-29-agetic-conseil-administration-orientations-strategiques
 MLI,Guichet unique,plateforme du Guichet unique,other,,AGETIC,,2025-12-29-agetic-conseil-administration-orientations-strategiques
 MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,"fibre-optic backbone, 3,500+ km",SMTD-SA,,2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin
@@ -222,9 +227,9 @@ MLI,AGETIC data centre,AGETIC data centre,staff,"IaaS, SaaS, backup, DR site",AG
 MLI,SMTD data centre,SMTD data centre,other,"colocation, IaaS, SaaS, backup",Societe malienne de transmission et de diffusion (SMTD),Tier III upgrade in progress,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MOZ,Huawei-built data centre (Mozambique),Huawei-built data centre,other,data centre,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 MOZ,CloudGov,CloudGov,staff,"file storage, sharing and synchronisation",INAGE,public administration institutions,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
-MOZ,e-SNGD,Sistema Nacional de Gestao Documental,,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
-MOZ,GovNET,Rede Electronica do Governo,,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
-MOZ,MoRENet,MoRENet,,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
+MOZ,e-SNGD,Sistema Nacional de Gestao Documental,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
+MOZ,GovNET,Rede Electronica do Governo,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
+MOZ,MoRENet,MoRENet,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
 MRT,Plateforme numerique des services consulaires,Mauritania consular services platform,other,,Ministry of Foreign Affairs,,2026-07-29-mauritania-two-consular-digital-platforms-gulf-maldives
 MRT,Communautes,Mauritania Communautes platform,other,,Ministry of Foreign Affairs,,2026-07-29-mauritania-two-consular-digital-platforms-gulf-maldives
 MRT,Khadematy,Khadematy,other,,,,2026-08-19-lequotidien-concours-recrutement-390-agents-numerise
@@ -235,7 +240,7 @@ MRT,Houwiyeti,Houwiyeti,other,,,,2026-02-25-mauritanie-conseil-ministres-decret-
 MRT,Plateforme de la commission nationale des concours,Plateforme de la commission nationale des concours,other,,Commission nationale des concours,,2026-02-25-mauritanie-conseil-ministres-decret-concours-numeriques-ia-recrutement-3000-agents
 MUS,centralised online CSA content filtering service,MUS,other,,ICTA,,2025-03-24-icta-mauritius-telecommunication-directive-2-of-2025
 MUS,CHiLi eKYC portal,MUS,other,,Mahanagar Telephone Mauritius Ltd,,2024-01-01 eKYC Steps for Mauritian Citizen (SIM Re-Registration)
-MUS,Price Monitoring and Control Application,Price Monitoring and Control Application,,,Mauritius Research and Innovation Council; Ministry of Commerce and Consumer Protection,,2025-04-25-digital-government-transformation-strategy-progress-update
+MUS,Price Monitoring and Control Application,Price Monitoring and Control Application,other,,Mauritius Research and Innovation Council; Ministry of Commerce and Consumer Protection,,2025-04-25-digital-government-transformation-strategy-progress-update
 MWI,ITAS II,Integrated Tax Administration System II,staff,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,Government Wide Area Network (GWAN),GWAN,other,,"Department of eGovernment, Ministry of ICT",,2026-03-06-dmap-accelerates-digital-transformation-ai-public-service
 MWI,Bomalathu eServices Portal,Bomalathu eServices Portal,other,,"Government of Malawi, via DMAP",,2026-03-06-dmap-accelerates-digital-transformation-ai-public-service
@@ -243,12 +248,13 @@ MWI,MAREN national research repository (edurepo.maren.ac.mw),MAREN repository,ot
 MWI,"National data centre, Lilongwe",National data centre,other,,,,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
 MWI,Bomalathu data-exchange platform,Bomalathu,other,,,,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
 MWI,eProcurement system Phase 1,eProcurement,other,,,,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
-MWI,Lilongwe national data centre,National data centre,,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
-MWI,Bomalathu data-exchange platform,Bomalathu,,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
-MWI,eProcurement Phase 1,eProcurement,,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
+MWI,Lilongwe national data centre,National data centre,other,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
+MWI,Bomalathu data-exchange platform,Bomalathu,other,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
+MWI,eProcurement Phase 1,eProcurement,other,,,,2017-06-05-wb-mwi-001-digital-malawi-program-phase-i-malawi
 NAM,X-Road / UXP interoperability solution,Namibia,other,UXP (Cybernetica),,,2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia
 NAM,Office of the Prime Minister ICT systems and network,Namibia,staff,,Office of the Prime Minister,,2022-01-01-opm-it-customer-service-charter-namibia
 NAM,Namibia Integrated Employment Information System (NIEIS),Namibia,other,,Ministry of Justice and Labour Relations,,2025-10-20-mol-nieis-rfp-employment-information-system
+NAM,Integrated Financial Management System (IFMS),IFMS,other,,Ministry of Finance,,2025-06-13-nam-cpbn-eoi-ifms-support-five-years
 NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-31-niger-sigrhep-biometrie-fonction-publique
 NER,Solde2Budget,Solde2Budget,other,,,,2026-07-31-niger-sigrhep-biometrie-fonction-publique
 NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
@@ -256,7 +262,7 @@ NER,SIGRHEP,SIGRHEP,other,,Ministere de la Fonction publique,,2026-07-27-niger-s
 NGA,GBB paperless approval platform,GBB paperless approval platform,staff,,Galaxy Backbone,,2026-10-11-nga-thisday-galaxy-backbone-digitalised-mdas
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal
 NGA,Government Service Portal,Government Service Portal,staff,,Galaxy Backbone,,2026-07-28-nigeria-unveils-unified-government-service-platform
-NGA,Nigerian Digital Exchange,Nigerian Digital Exchange,,,,,2026-07-28-nigeria-unveils-unified-government-service-platform
+NGA,Nigerian Digital Exchange,Nigerian Digital Exchange,other,,,,2026-07-28-nigeria-unveils-unified-government-service-platform
 NGA,Smart Police Station,Smart Police Station,other,,Galaxy Backbone,,2026-06-11-galaxy-backbone-nptf-smart-police-station-gombe
 NGA,Galaxy Cloud Platform (GxCP),Galaxy Cloud Platform (GxCP),other,,Galaxy Backbone,,2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups
 NGA,1Government Cloud (1Gov),1Gov,staff,"sovereign cloud with GovDrive, GovECMS, GovMail, GovE-Sign",Galaxy Backbone Limited,federal,2025-09-10-1gov-cloud-galaxy-backbone
@@ -268,87 +274,92 @@ NGA,Data Recovery and Business Continuity center (Kano),Kano DC,other,Tier IV da
 NGA,Federal public service personnel and payroll system,payroll,staff,,Galaxy Backbone Limited,federal,2019-06-03-galaxy-backbone-mandate
 NGA,Government gateway and national portal,gateway,staff,,Galaxy Backbone Limited,federal,2019-06-03-galaxy-backbone-mandate
 NGA,SolutionLens,SolutionLens,staff,,Anambra State ICT Agency,state,2026-10-09-nga-anambrastate-ict-agency-information-ministry-deepen-digital-collaboration
-NGA,Galaxy Backbone Abuja national shared services data centre,,,,Galaxy Backbone,,2026-07-07 CBN's local data order puts Nigeria's data centres to test
+NGA,Galaxy Backbone Abuja national shared services data centre,,other,,Galaxy Backbone,,2026-07-07 CBN's local data order puts Nigeria's data centres to test
 NGA,1-Gov.net,Nigeria,staff,,Galaxy Backbone,,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
 NGA,National Shared Services Centre,Nigeria,staff,,Galaxy Backbone,,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
 NGA,Huawei-built data centre (Nigeria),Nigeria,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
-RWA,Irembo,Irembo,,,,,2026-10-09-cybersecurity-rwandans-urged-to-protect-private-data
-RWA,Data Sharing Platform,Data Sharing Platform,,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
-RWA,Shared Government Data Hub,Shared Government Data Hub,,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
-RWA,Irembo,Irembo,,,,,2026-08-26-indiplomacy-smart-africa-singapore-digital-transformation-exchange
+NGA,Galaxy Backbone,Galaxy Backbone,staff,,Federal Government of Nigeria,,2024-12-16-nga-technologytimes-galaxy-backbone-fibre-dr-enugu
+RWA,Irembo,Irembo,other,,,,2026-10-09-cybersecurity-rwandans-urged-to-protect-private-data
+RWA,Data Sharing Platform,Data Sharing Platform,other,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Shared Government Data Hub,Shared Government Data Hub,other,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Irembo,Irembo,other,,,,2026-08-26-indiplomacy-smart-africa-singapore-digital-transformation-exchange
 RWA,IremboGov,IremboGov,other,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
 RWA,Single Digital Identity (SDID),SDID,other,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
 RWA,RNDPS 2.0 (eKash),eKash,other,Mojaloop,RSwitch,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
-RWA,Electronic Billing Machine (EBM),EBM,,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
-RWA,Telemo e-procurement,Telemo,,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
+RWA,Electronic Billing Machine (EBM),EBM,other,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
+RWA,Telemo e-procurement,Telemo,other,,,,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy
 RWA,AWS Outposts,AWS Outposts,other,AWS,Amazon Web Services,,2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews
 RWA,eKash,eKash,other,,National Bank of Rwanda; RISA,,2026-03-09-rwanda-national-dpi-strategy-launch-2026
-RWA,Digital identity,Digital identity,,,,,2026-03-09-rwanda-national-dpi-strategy-launch-2026
+RWA,Digital identity,Digital identity,other,,,,2026-03-09-rwanda-national-dpi-strategy-launch-2026
 RWA,eKash,eKash,other,Mojaloop,National Bank of Rwanda; RISA; RSwitch; Access to Finance Rwanda,,2025-12-05-rwanda-ekash-national-launch
 RWA,Shared Government Data Hub,Shared Government Data Hub,other,,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
 RWA,Data Interoperability Platform,Data Interoperability Platform,other,,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
-RWA,ESB,ESB,,,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
+RWA,ESB,ESB,other,,RISA,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
 RWA,Data Sharing Platform,Data Sharing Platform,other,,RISA,,2025-10-27 Introduction to the Rwanda National Data Sharing Policy
-RWA,National Health Intelligence Centre,National Health Intelligence Centre,,,RISA,,2025-10-13-dpi-health-africa-healthtech-summit-2025
-RWA,National data sharing platform,National data sharing platform,,,RISA,,2025-09-27-data-sharing-platform-2026-newtimes
-RWA,E-Ubuzima,E-Ubuzima,,,,,2025-07-09-rdap-fast-track-2026-newtimes
-RWA,Building Permit Management Information System,Building Permit Management Information System,,,,,2025-07-09-rdap-fast-track-2026-newtimes
-RWA,GovNet,GovNet,,,RISA,,2025-07-09-rdap-fast-track-2026-newtimes
-RWA,Public Key Infrastructure,Public Key Infrastructure,,,,,2025-07-09-rdap-fast-track-2026-newtimes
-RWA,RNDPS 2.0 (eKash),RNDPS 2.0 (eKash),,Mojaloop,RSwitch,,2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash
+RWA,National Health Intelligence Centre,National Health Intelligence Centre,other,,RISA,,2025-10-13-dpi-health-africa-healthtech-summit-2025
+RWA,National data sharing platform,National data sharing platform,other,,RISA,,2025-09-27-data-sharing-platform-2026-newtimes
+RWA,E-Ubuzima,E-Ubuzima,other,,,,2025-07-09-rdap-fast-track-2026-newtimes
+RWA,Building Permit Management Information System,Building Permit Management Information System,other,,,,2025-07-09-rdap-fast-track-2026-newtimes
+RWA,GovNet,GovNet,other,,RISA,,2025-07-09-rdap-fast-track-2026-newtimes
+RWA,Public Key Infrastructure,Public Key Infrastructure,other,,,,2025-07-09-rdap-fast-track-2026-newtimes
+RWA,RNDPS 2.0 (eKash),RNDPS 2.0 (eKash),other,Mojaloop,RSwitch,,2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash
 RWA,National Population Registry (NPR),National Population Registry,other,,NIDA,,"2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)"
+RWA,Gov.rw multi-tenant TYPO3 platform,Gov.rw,staff,TYPO3,RISA,,2024-02-01-rwa-fosdem-typo3-collaborative-gov-websites
 SEN,PRODAP,PRODAP,other,,Sénégal Numérique S.A.,,2026-09-30-sen-kfw-prodap-progress-review
 SEN,Identity card and passport production,Identity cards and passports,staff,,Ministry of Interior,,2026-09-30-sen-vipeoples-passports-id-cards-national-expertise
 SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,staff,,Sénégal Numérique SA,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
 SEN,TeleDAc,TeleDAc,staff,,Sénégal Numérique SA,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
-SEN,Unified State Personnel File,Unified State Personnel File,,,,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,Unified State Personnel File,Unified State Personnel File,other,,,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
 SEN,SENUM information systems,SENUM information systems,staff,,Sénégal Numérique SA,,2026-02-13-enqueteplus-senum-tentatives-cyberattaques
 SEN,SenGec,SenGec,other,electronic mail management platform,Senegal Numerique SA,communes,2024-02-12-senum-ams-informatisation-des-mairies
 SEN,Diamniadio National Datacenter,Datacenter National de Diamniadio,other,hosting of commune data,Senegal Numerique SA,communes,2024-02-12-senum-ams-informatisation-des-mairies
 SEN,IGC (PKI) electronic certificate service,Infrastructure de Gestion des Cles,staff,public key infrastructure,ADIE / Senegal Numerique SA,administration,2022-01-01-senum-adie-securite-igc-certificats-electroniques
 SEN,CSIRT ADIE/SN,CSIRT ADIE/SN,staff,incident response team for the administrative intranet,ADIE / Senegal Numerique SA,administration,2022-01-01-senum-adie-securite-igc-certificats-electroniques
 SEN,PSSIS,Portail de Securite des Systemes d'Information du Senegal,other,security information portal,ADIE / Senegal Numerique SA,,2022-01-01-senum-adie-securite-igc-certificats-electroniques
-SEN,Messagerie gouvernementale,Messagerie gouvernementale,,,ADIE / Senegal Numerique SA,,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,Messagerie gouvernementale,Messagerie gouvernementale,other,,ADIE / Senegal Numerique SA,,2022-01-01-senum-adie-securite-igc-certificats-electroniques
 SEN,Senegal national fibre-optic backbone (Senegal Numerique),Senegal,other,fibre-optic backbone,Senegal Numerique SA,,2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin
 SEN,Senegal national fibre-optic backbone (SENUM SA),Senegal,other,fibre-optic backbone,Senegal Numerique SA,,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
 SEN,Systeme de gestion du foncier (SGF),SGF,other,"land management digital platform, a project",Direction du Cadastre,,2026-09-08-sen-aps-mutualisation-donnees-geospatiales-interoperabilite
-SEN,Centralised national and consular civil-status database,Centralised national and consular civil-status database,,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
-SEN,Civil-status management software,Civil-status management software,,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
+SEN,Centralised national and consular civil-status database,Centralised national and consular civil-status database,other,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
+SEN,Civil-status management software,Civil-status management software,other,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
 SEN,TeleDAc,TeleDAc,staff,,Sénégal Numérique SA,,2026-09-03-senum-teledac-dematerialisation-actes-administratifs
 SEN,Sénégal Numérique national portal,Sénégal Numérique national portal,staff,,Sénégal Numérique SA,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
-SEN,SEN-CSU platform,SEN-CSU platform,,,SEN-CSU,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
-SEN,Espaces Sénégal Services,Espaces Sénégal Services,,,Sénégal Numérique SA,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
+SEN,SEN-CSU platform,SEN-CSU platform,other,,SEN-CSU,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
+SEN,Espaces Sénégal Services,Espaces Sénégal Services,other,,Sénégal Numérique SA,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
 SEN,e-Sénégal,e-Sénégal,staff,,Sénégal Numérique SA,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
-SEN,GovStack,GovStack,,,Sénégal Numérique SA,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
+SEN,GovStack,GovStack,other,,Sénégal Numérique SA,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
 SEN,PRODAP,PRODAP,other,,Sénégal Numérique SA,,2026-04-25-aps-prodap-phase-pilote-mbour-six-communes
 SEN,Diamniadio National Datacenter (DND),Diamniadio National Datacenter,other,,Government of Senegal,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 SEN,"SENUM datacenter (Orana, Technopole, Diamniadio)",SENUM datacenter,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,Government messaging,Government messaging,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,SENGEC SENCOLLAB,SENGEC SENCOLLAB,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,E-conf,E-conf,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
-SEN,Sénégal Services,Sénégal Services,,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,Sénégal Services,Sénégal Services,other,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,staff,,ADIE / Sénégal Numérique SA,,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
-SEN,Sénégal Services,Espaces Sénégal Services,,,ADIE,,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
+SEN,Sénégal Services,Espaces Sénégal Services,other,,ADIE,,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
 SEN,cloud souverain (JOJ Dakar 2026),Senegal sovereign cloud,staff,Alibaba,"Ministry of Communication, Telecommunications and Digital",,2026-04-24-aps-formation-100-ingenieurs-cloud-computing
-SLE,e-Cabinet,Sierra Leone,,,MoCTI Directorate of Technology,,2024-04-17-sierra-leone-mocti-directorate-of-technology
-SLE,e-Parliament,Sierra Leone,,,MoCTI Directorate of Technology,,2024-04-17-sierra-leone-mocti-directorate-of-technology
+SEN,SENUM SA,Sénégal Numérique S.A.,other,,state,,2026-10-14-tra-senum-hosts-central-african-agency-digital-transformation
+SLE,e-Cabinet,Sierra Leone,other,,MoCTI Directorate of Technology,,2024-04-17-sierra-leone-mocti-directorate-of-technology
+SLE,e-Parliament,Sierra Leone,other,,MoCTI Directorate of Technology,,2024-04-17-sierra-leone-mocti-directorate-of-technology
+SLE,IFMIS,IFMIS,other,,Ministry of Finance DFMST,,2026-10-16-sle-mof-dfmst-tier-iii-data-centre-co-location
 SSD,e-Government system,South Sudan,staff,,"Ministry of Information, Communication Technology and Postal Services",,2023-09-06-empowering-digital-transformation-e-government-south-sudan
 STP,Sistema de Registo de Embarcações de Pesca,STP,other,Android application feeding a central database,Direção das Pescas e Aquicultura,,2026-05-08-sao-tome-telanon-fao-sistema-registo-embarcacoes-formacao
 SWZ,Digital Eswatini Project,Digital Eswatini Project,other,,Ministry of ICT with World Bank financing,,2026-09-24-swz-positivenews-change-readiness-digital-eswatini
 SWZ,Digital Eswatini Project,Digital Eswatini Project,other,,Ministry of ICT with World Bank loan,,2026-06-24-ict-trains-change-agents-e1-2bn-digitization
 SWZ,Ministries' ICT systems supported by RSTP,Ministries' ICT systems,staff,,Ministries; RSTP,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
 SYC,Ease of Doing Business Portal,Seychelles,other,,"Ministry of Investment, Entrepreneurship & Industry",,2025-12-01-ntb-ease-of-doing-business-portal-award
-SYC,Human Resource Management System (HRMS),Seychelles,,,Department of Information Communications Technology,,2025-12-01-ntb-ease-of-doing-business-portal-award
-SYC,Integrated Financial Management Information System (IFMIS),Seychelles,,,"Ministry of Finance, Economic Planning Trade & Investment",,2025-12-01-ntb-ease-of-doing-business-portal-award
+SYC,Human Resource Management System (HRMS),Seychelles,other,,Department of Information Communications Technology,,2025-12-01-ntb-ease-of-doing-business-portal-award
+SYC,Integrated Financial Management Information System (IFMIS),Seychelles,other,,"Ministry of Finance, Economic Planning Trade & Investment",,2025-12-01-ntb-ease-of-doing-business-portal-award
 SYC,Electronic Government Network,Seychelles,staff,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
-SYC,SeyID,Seychelles,,,,,2025-06-17-national-assembly-dict-egn-visit
+SYC,SeyID,Seychelles,other,,,,2025-06-17-national-assembly-dict-egn-visit
+SYC,Digital Human Resource Management System (HRMS),HRMS,other,,Department of Public Administration,,2026-10-14-syc-statehouse-digital-hrms-2027
 TCD,SIGPTS,Chad,staff,IDEMIA,,,2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report
 TCD,RNBP identity verification mobile application,Chad,staff,,ANATS,,2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report
 TGO,ATD low-code/no-code integration platforms,ATD low-code/no-code platforms,staff,low-code/no-code,Agence Togo Digital,,2026-09-04-togo-atd-cadre-digitalisation-services-publics-gouvernance
 TGO,Alfresco,Alfresco electronic document management,other,Alfresco,Ministère des Finances et du Budget,,2026-04-29-togofirst-ministere-finances-numerisation-archives-ged-alfresco
 TUN,Cloud privé du Centre National de l'Informatique,Cloud privé pour le CNI,other,private cloud,Centre National de l'Informatique,national,2026-01-05-tunisie-afdb-cni-cloud-prive-attribution
 TUN,E-Houwiya,E-Houwiya,other,mobile digital ID,Ministry of Communication Technologies,national,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
-TUN,Subsidies Compensation Platform,Subsidies Compensation Platform,,,,national,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
+TUN,Subsidies Compensation Platform,Subsidies Compensation Platform,other,,,national,2025-03-01 Tunisia drives digitization agenda forward while navigating risks
 TUN,Centre National de Backup,Centre National de Backup (CNBU),staff,datacenter,Centre National de l'Informatique,national,2016-01-01-tunisie-cni-centre-national-backup-continuite-activite
 TUN,RNIA and government Intranet,RNIA / Intranet gouvernemental,staff,,Centre National de l'Informatique,,2026-06-18-cni-historique-missions
 TUN,National applications backup centre,centre de backup,staff,,Centre National de l'Informatique,,2026-06-18-cni-historique-missions
@@ -357,35 +368,35 @@ TZA,MUVU Cooperative Management System,MUVU,staff,,e-Government Authority with C
 TZA,Fertiliser Information System,FIS,staff,,e-Government Authority with Tanzania Fertiliser Regulatory Authority,,2026-08-04-ega-tanzania-digital-farming-cooperatives
 TZA,Government Mailing System,GMS,staff,,e-Government Authority,,2026-08-04-ega-tanzania-digital-farming-cooperatives
 TZA,e-Office,e-Office,staff,,e-Government Authority,,2026-08-04-ega-tanzania-digital-farming-cooperatives
-TZA,Tanzania Enterprise Service Bus (GovESB),GovESB,,,,,2024-02-07-tanzania-ai-e-government-platforms
+TZA,Tanzania Enterprise Service Bus (GovESB),GovESB,other,,,,2024-02-07-tanzania-ai-e-government-platforms
 TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone,other,,TTCL,,2026-07-23-ttcl-dit-nictbb-training
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGPass,UGPass,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
-UGA,National Land Information System,National Land Information System,,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,NIPX,NIPX,other,,"neutral, not government-owned",,2026-04-14-nipx-launch
-UGA,UGHub,UGHub,,national data integration platform,,,2026-03-13-service-uganda-centres-groundbreaking
-UGA,UGPass,UGPass,,authentication and e-signature platform,NITA-U,,2025-08-28-nita-u-ugpass-ceo-breakfast
+UGA,UGHub,UGHub,other,national data integration platform,,,2026-03-13-service-uganda-centres-groundbreaking
+UGA,UGPass,UGPass,other,authentication and e-signature platform,NITA-U,,2025-08-28-nita-u-ugpass-ceo-breakfast
 UGA,NITA-U National Data Centre,National Data Centre,staff,government data centre,NITA-U,,2025-06-19-nita-u-national-data-centre-service
 UGA,National Data Centre,National Data Centre,staff,government data centre,NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
-UGA,UGhub,UGhub,,"whole-of-government integration platform, 151 entities",NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
+UGA,UGhub,UGhub,other,"whole-of-government integration platform, 151 entities",NITA-U,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Parish Development Model Information System,PDMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Integrated Health Management Information System,IHMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Education Management Information System,EMIS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Electronic Document and Records Management System,EDRMS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
 UGA,Online Business Registration Services System,OBRS,other,,,,2025-03-01-moict-ministerial-policy-statement-fy2025-26
-UGA,UGHub,UGHub,,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
-UGA,UGPass,UGPass,,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGHub,UGHub,other,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGPass,UGPass,other,,,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
 UGA,National data centre,National data centre,staff,,NITA-U,,2015-06-10-uga-gazette-nita-u-egovernment-regulations
 UGA,National Data Centre,National Data Centre,staff,,NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,National Backbone Infrastructure,National Backbone Infrastructure,staff,,NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in
-UGA,UGHub,UGHub,,national data integration platform,,,2026-09-26-uga-digital-services-agent-permission-layer
+UGA,UGHub,UGHub,other,national data integration platform,,,2026-09-26-uga-digital-services-agent-permission-layer
 UGA,U-Learn Platform,U-Learn,other,,NITA-U with Ministry of Education and Sports,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
-UGA,Uganda Human Rights Commission Case Management System,UHRC Case Management System,,,Uganda Human Rights Commission,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
-UGA,Electronic Government Procurement (e-GP),e-GP,,,,,2026-06-13-ppda-iso27001-certification
-UGA,Electronic Investors Protection Portal,Electronic Investors Protection Portal,,,State House Investors Protection Unit (SHIPU),,2026-06-10-nakalema-meets-trade-minister-huawei-executives
+UGA,Uganda Human Rights Commission Case Management System,UHRC Case Management System,other,,Uganda Human Rights Commission,,2026-08-12-uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cas
+UGA,Electronic Government Procurement (e-GP),e-GP,other,,,,2026-06-13-ppda-iso27001-certification
+UGA,Electronic Investors Protection Portal,Electronic Investors Protection Portal,other,,State House Investors Protection Unit (SHIPU),,2026-06-10-nakalema-meets-trade-minister-huawei-executives
 UGA,NITA-U National Data Centre,National Data Centre,staff,,NITA-U,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
 UGA,Firewall-as-a-Service (FWaaS),FWaaS,staff,,NITA-U,,2026-02-02-nita-u-fwaas-introduction
 UGA,National IP Peering Exchange (NIPX),National IP Peering Exchange,other,,NITA-U,,2025-10-17-nipx-establishment-peering-policy
@@ -398,11 +409,11 @@ UGA,National Transmission Backbone and e-Government Infrastructure Project Phase
 UGA,Unified Messaging and Collaboration System (UMCS),UMCS,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 UGA,Whole-of-Government integration and data-sharing platform,,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 UGA,National Data Centre,NDC,staff,,NITA-U,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Parish Development Model Information System,PDMIS,,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Electronic Document and Records Management System,EDRMS,,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Online Business Registration System,OBRS,,,URSB,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Education Management Information System,EMIS,,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
-UGA,Electronic Government Procurement,E-GP,,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Parish Development Model Information System,PDMIS,other,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Electronic Document and Records Management System,EDRMS,other,,MoICT&NG,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Online Business Registration System,OBRS,other,,URSB,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Education Management Information System,EMIS,other,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,Electronic Government Procurement,E-GP,other,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
 ZAF,Microsoft Sentinel TDR solution,Road Accident Fund,staff,Microsoft Sentinel,Road Accident Fund,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,SAPS incident management solution,SAPS,staff,,SAPS,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,Votaquotes e-procurement,Electoral Commission,other,,Electoral Commission,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
@@ -422,34 +433,34 @@ ZMB,Government Wide Area Network (GWAN),Zambia,other,fibre-optic network,SMART Z
 ZMB,SmartCare Pro,Zambia,other,,,,2026-07-08-smart-zambia-expands-digital-infrastructure
 ZMB,ZNSDI GeoPortal,Zambia,other,,,,2026-07-08-smart-zambia-expands-digital-infrastructure
 ZMB,National Artificial Intelligence Data Centre,Zambia,other,,SMART Zambia with Huawei,,2026-05-27-zambia-huawei-smart-zambia-ai-data-centre
-ZMB,SMART Zambia e-Government Division,ZMB,,,SMART Zambia,,2026-05-07-zambia-targets-full-digitalisation-smart-zambia
+ZMB,SMART Zambia e-Government Division,ZMB,other,,SMART Zambia,,2026-05-07-zambia-targets-full-digitalisation-smart-zambia
 ZMB,government network (e-government),ZMB,staff,,SMART Zambia Institute,,2026-03-25-zanis-smart-zambia-digital-infrastructure-investment
 ZMB,Zambia Police Service LAN and Last Mile Connectivity Project,ZMB,other,,SMART Zambia Institute,,2026-02-03-smart-zambia-police-digitalisation-40-stations
 ZMB,"Smart Zambia Project (national data centre, broadband, e-government)",ZMB,other,,Government of Zambia,Huawei main contractor; Phase II cancelled 2022,2025-11-02-georgetown-aci-china-question-zambia-smart-zambia-project
-ZMB,Helium Platform,Helium Platform,,Helium,,,2025-10-09-smart-zambia-partnerships-inq-mezzanine-visa
-ZMB,Constituency Development Fund Management Information System (CDF-MIS),CDF-MIS,,,Ministry of Local Government and Rural Development,,2025-09-04-smart-zambia-2000-ict-devices-local-government-techafricanews
-ZMB,MOSIP,MOSIP,,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
-ZMB,SmartCarePro,SmartCarePro,,,,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
+ZMB,Helium Platform,Helium Platform,other,Helium,,,2025-10-09-smart-zambia-partnerships-inq-mezzanine-visa
+ZMB,Constituency Development Fund Management Information System (CDF-MIS),CDF-MIS,other,,Ministry of Local Government and Rural Development,,2025-09-04-smart-zambia-2000-ict-devices-local-government-techafricanews
+ZMB,MOSIP,MOSIP,other,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
+ZMB,SmartCarePro,SmartCarePro,other,,,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
 ZMB,Government Service Bus,Government Service Bus,staff,,SMART Zambia Institute,,2024-07-09-zambia-government-service-bus-services-update
 ZMB,Citizens Support Portal,Citizens Support Portal,staff,,SMART Zambia Institute,,2024-07-09-zambia-government-service-bus-services-update
 ZMB,Contract Tracking System,Contract Tracking System,staff,,SMART Zambia Institute,,2024-07-09-zambia-government-service-bus-services-update
-ZMB,SmartCare Pro,SmartCare Pro,,,,,2024-07-09-zambia-government-service-bus-services-update
+ZMB,SmartCare Pro,SmartCare Pro,other,,,,2024-07-09-zambia-government-service-bus-services-update
 ZMB,Government Wide Area Network (GWAN),GWAN,staff,,Smart Zambia Institute,,2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly
 ZMB,ZamPortal / Government Service Bus,ZamPortal,staff,,Smart Zambia Institute,,2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly
 ZMB,Government Wide Area Network,Government WAN,staff,,Smart Zambia Institute,,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
 ZMB,Zambia National Data Centre,ZNDC,other,,,Tier 3,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
 ZMB,eVisa system,eVisa,other,,Department of Immigration,,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
-ZMB,Zambia Social Protection Information System,,,,,,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
+ZMB,Zambia Social Protection Information System,,other,,,,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
 ZMB,ZICTA National Data Center,National Data Center,other,Huawei,ZICTA,,2017-10-26-huawei-new-ict-helps-build-smart-zambia
 ZMB,ZICTA National Data Center,National Data Center,other,Huawei,ZICTA,,2015-01-01-eximbank-cn-zmb-001-china-eximbank-provides-654-million-loan
 ZMB,GZA Monitoring Dashboard,GZA Monitoring Dashboard,staff,,Smart Zambia Institute,,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda
-ZMB,National Farmer Registry,National Farmer Registry,,,,,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda
-ZMB,e-Farmer Input Support Programme,e-FISP,,,,,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda
+ZMB,National Farmer Registry,National Farmer Registry,other,,,,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda
+ZMB,e-Farmer Input Support Programme,e-FISP,other,,,,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda
 ZMB,ZamPass,ZamPass,staff,open-source identity solution,Smart Zambia Institute,,2026-08-29-zambia-zampass-about
-ZMB,SmartCare Pro,SmartCare Pro,,,,,2026-08-17-zambia-ai-sovereignty-conditions-china-cooperation
+ZMB,SmartCare Pro,SmartCare Pro,other,,,,2026-08-17-zambia-ai-sovereignty-conditions-china-cooperation
 ZMB,Data Protection Compliance Management System,Data Protection Compliance Management System,staff,,Data Protection Commission,,2026-08-10-zambia-dzap-data-protection-compliance-system
-ZMB,ZamConnect,ZamConnect,,Government Service Bus,,,2026-08-10-zambia-dzap-data-protection-compliance-system
-ZMB,ZamPay,ZamPay,,Government Service Bus,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamConnect,ZamConnect,other,Government Service Bus,,,2026-08-10-zambia-dzap-data-protection-compliance-system
+ZMB,ZamPay,ZamPay,other,Government Service Bus,,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,Government Wide Area Network (GWAN),Zambia,staff,,SMART Zambia Institute,,2026-08-05-zambia-border-connectivity-gwan-upgrade
 ZMB,GovLink,Zambia,staff,private 4G network,SMART Zambia Institute,,2026-07-16-zambia-govlink-private-4g-itweb
 ZMB,SmartCare Pro,Zambia,staff,electronic health record,Ministry of Health,,2026-07-16-zambia-govlink-private-4g-itweb
@@ -458,9 +469,9 @@ ZMB,National AI data centre,Zambia,other,,SMART Zambia Institute with Huawei,,20
 ZMB,SmartCare 2.0 Hospital Edition,Zambia,staff,electronic health record,Ministry of Health,,2026-04-28-zambia-smartcare-2-0-ndola-pilot
 ZMB,National digital ID system,Zambia,other,,SMART Zambia Institute,,2026-03-24 Zambia seeks partner for national digital ID system
 ZMB,PACRA form builder and case management system,PACRA systems overhaul,other,,Patents and Companies Registration Agency,,2026-03-06-openownership-pacra-partnership
-ZMB,One Government Network,One Government Network,,,Smart Zambia Institute,,2026-02-25-dzap-prepurchase-bulk-international-bandwidth-rfb
-ZMB,Online Passport Application and Payment System,Online Passport Application System,,,Smart Zambia Institute,,2026-01-08 Zambia unveils online passport application system
-ZMB,ZISPIS,ZISPIS,,,Ministry of Community Development and Social Services,,2025-11-13-zambias-community-development-ministry-unveils-three-digital-strategies
+ZMB,One Government Network,One Government Network,other,,Smart Zambia Institute,,2026-02-25-dzap-prepurchase-bulk-international-bandwidth-rfb
+ZMB,Online Passport Application and Payment System,Online Passport Application System,other,,Smart Zambia Institute,,2026-01-08 Zambia unveils online passport application system
+ZMB,ZISPIS,ZISPIS,other,,Ministry of Community Development and Social Services,,2025-11-13-zambias-community-development-ministry-unveils-three-digital-strategies
 ZMB,ZamPortal,Government e-services Portal (ZamPortal),other,,,,2025-10-30-zambia-ethiopia-digital-id-cooperation-wb-blog
 ZMB,ZILAS,Zambia Integrated Land Administration System,staff,Government Service Bus,Ministry of Lands and Natural Resources,,2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)
 ZMB,Government Service Bus,Government Service Bus,other,,,,2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)
@@ -469,8 +480,9 @@ ZMB,ZILAS,Zambia Integrated Land Administration System,staff,web and mobile,Mini
 ZMB,Government Service Bus,gsb.gov.zm,staff,,SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
 ZMB,Government Service Bus (Zamportal),Zamportal,other,,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
 ZMB,Smart Zambia Phase 1 national data centre,National Data Centre,other,Huawei,Government of Zambia,,2015-01-05-zmb-lusakatimes-huawei-smart-zambia-phase-1-contract-single-sourced
-ZMB,SMART Office Management System,SMART Office Management System,,,SMART Zambia Institute (coordinator named); Cabinet Office handover,,2026-09-05-efficacynews-zacl-smart-office-adoption
+ZMB,SMART Office Management System,SMART Office Management System,other,,SMART Zambia Institute (coordinator named); Cabinet Office handover,,2026-09-05-efficacynews-zacl-smart-office-adoption
 ZMB,Property Management Information System (PMIS),PMIS,other,integrated with ZamPortal and ZamPay,"Ministry of Infrastructure, Housing and Urban Development",,2026-05-13-zambia-launches-pmis-property-management
+ZMB,Lipila,Lipila,other,,Hobbiton Technologies,,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls
 ZWE,ZRP ICT infrastructure,ZRP ICT infrastructure,staff,,Zimbabwe Republic Police ICT Directorate,,2024-03-14-zwe-zrp-support-sections-ict-directorate
 ZWE,Citizen Engagement and Scoring Platform,Citizen Engagement and Scoring Platform,other,,Ministry of Local Government and Public Works (launched by the President),,2026-06-19-hit-lads-africa-citizen-engagement-platform
 ZWE,Government Internet Service Provider (GISP),GISP,staff,,Government of Zimbabwe,,2026-01-01-zwe-gisp-about

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-som-id4africa-somali-digital-identity-playbook",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA says 1.4M+ people were registered as of March 2026 after a foundational ID mass registration pilot launched in August 2025, with 70 registration centres.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA national ID platform",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "NIRA lists fraud reduction via biometric de-duplication among the early results of the national ID.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "NIRA national ID platform",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

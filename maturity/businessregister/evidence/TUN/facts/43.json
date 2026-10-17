@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-05-tun-usembassy-fast-pfmis-project",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The U.S. Embassy's USAID project page lists among achievements that it developed and launched the RNE (National Business Register) website portal and created an online registration platform for businesses.",
+   "as_of": "2024-08-05",
+   "date_precision": "day",
+   "system": "RNE (National Business Register) portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNE (National Business Register)",
+   "country_label": "Registre National des Entreprises",
+   "class": "business",
+   "platform": "website portal with online registration platform",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

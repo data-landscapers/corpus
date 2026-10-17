@@ -37,6 +37,9 @@ COG,Sydonia,Sydonia,customs,,"Ministere des Finances, du Budget et du Portefeuil
 COG,Fouta,Fouta national switch,other,,"Ministere des Finances, du Budget et du Portefeuille public",,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COM,SYDONIA World,Comoros,customs,ASYCUDA World,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
 COM,Guichet Unique du Commerce Exterieur,Comoros,customs,,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
+COM,SYDONIA,Comoros,customs,,Direction generale des douanes,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+COM,SIGIT,Comoros,other,,Direction generale des impots,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+COM,SYDONIA,SYDONIA,customs,,Comoros Ministry of Finance,,2023-12-07-afd-com-2023-pagf-si
 CPV,SYDONIA World,Cabo Verde,customs,SYDONIA World 4.4.0 (UNCTAD),DGA / DNRE,,2026-07-09-cabo-verde-ugpe-upgrade-sydonia-world-4-4-0-modernizacao-aduaneira
 CPV,Single Window for Foreign Trade,Cabo Verde,customs,,,,2026-07-09-cabo-verde-ugpe-upgrade-sydonia-world-4-4-0-modernizacao-aduaneira
 DZA,Sigad,Algeria,customs,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation

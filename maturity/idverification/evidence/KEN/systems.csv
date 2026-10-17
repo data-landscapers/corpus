@@ -1,14 +1,14 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 KEN,SIM card registration,Kenya,relying,,Communications Authority of Kenya (regulator); mobile operators,,2025-06-09 Kenya Refugees Can Now Register SIM Cards Using Refugee ID
 KEN,Smile ID identity verification,Kenya,relying,,Smile ID (Smile Identity),,2023-01-01-norrsken22-reg-smileid-2023-norrsken22-co-leads-smile-id-series-b
-KEN,SIM registration (KYC),Kenya,,,Mobile network operators under the Communications Authority of Kenya,,2026-10-07-sim-deactivation-now-backed-by-law-ca-says
-KEN,SIM registration (KYC),Kenya,,,Mobile network operators under the Communications Authority of Kenya,,2026-09-01-ca-kenya-draft-safeguards-deactivation-recycling-inactive-numbers
+KEN,SIM registration (KYC),Kenya,other,,Mobile network operators under the Communications Authority of Kenya,,2026-10-07-sim-deactivation-now-backed-by-law-ca-says
+KEN,SIM registration (KYC),Kenya,other,,Mobile network operators under the Communications Authority of Kenya,,2026-09-01-ca-kenya-draft-safeguards-deactivation-recycling-inactive-numbers
 KEN,Maisha Integrated Population Register (IPRS),Kenya,other,,State Department for Immigration and Citizen Services,,2026-08-30-integrated-population-registration-service
 KEN,Kenya CRVS-National ID integration,Kenya,relying,,Civil Registration Services,,2026-07-18-kenya-crvs-national-id-integration-egmrg
 KEN,IPRS,Kenya,other,,,,2026-07-18-kenya-crvs-national-id-integration-egmrg
 KEN,Starlink Internet Services Kenya,Kenya,relying,,Starlink,,2026-06-19-kenya-starlink-25000-subscribers
 KEN,Huduma card,Kenya,other,,,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
-KEN,National digital registry for farmers,Kenya,,,,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
+KEN,National digital registry for farmers,Kenya,other,,,,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind
 KEN,"National Population Data Management (NPDM), formerly IPRS / Maisha Integrated Population Register",Kenya,other,,State Department for Immigration and Citizen Services,,2025-09-01-npdm-formerly-iprs
 KEN,Maisha Integrated Database eKYC layer,Kenya,relying,Maisha Integrated Database,State Department for Immigration and Citizen Services,,2024-01-01-kenya-country-presentation-id4africa-2024
 KEN,Maisha Card,Kenya,relying,electronic National Identity Card,State Department for Immigration and Citizen Services,,2024-01-01-kenya-country-presentation-id4africa-2024
@@ -18,4 +18,4 @@ KEN,Huduma Namba,Kenya,other,,,,2021-08-30 31 First we must build Infrastructure
 KEN,PAPSS,KEN,other,Pan-African Payment and Settlement System,Afreximbank,,2026-09-18-papss-security-data-governance-dailycircular
 KEN,Social Health Authority (SHA) system,Kenya,relying,,Social Health Authority,,2026-06-15-expands-digital-id-minors-health-biometricupdate
 KEN,Maisha Namba,Kenya,other,,,,2026-06-15-expands-digital-id-minors-health-biometricupdate
-KEN,Biometric Health Identification (BHI),Kenya,,,Ministry of Health,,2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification
+KEN,Biometric Health Identification (BHI),Kenya,other,,Ministry of Health,,2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification

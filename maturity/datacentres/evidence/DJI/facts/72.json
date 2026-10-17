@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-25-dji-rtd-parc-technologique-to7-centre-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "RTD reports President Guelleh inaugurated the private TO7 Network technology park, put into service that day, which includes a data centre hosting IT equipment and data for all digital sectors, in partnership with Wingu Africa.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "TO7 Network data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TO7 Network technology park data centre",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TO7 Network (private), partner Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

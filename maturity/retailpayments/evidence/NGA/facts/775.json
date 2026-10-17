@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-techcabal-onafriq-shuts-nigeria-agent-banking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Baxi",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "agent banking network",
+   "owner": "Onafriq",
+   "tiers": ""
+  }
+ ],
+ "note": "Agent banking and A2A transfer growth only; no mobile money or e-money service, interoperability or national switch stated."
+}

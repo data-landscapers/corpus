@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "underway",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001;TGO-002",
-   "gaps": "No source held since October 2023 says a registry or programme exchanges data in use.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-008;TGO-001",
+      "gaps": "No source held since October 2023 says a registry or programme exchanges data in use.",
+      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
+      "as_at": "2026-10-17"
+    }
+  ]
 }

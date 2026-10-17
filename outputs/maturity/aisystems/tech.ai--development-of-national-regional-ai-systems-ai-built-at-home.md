@@ -224,8 +224,8 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 
 A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
 
-- KNUST researchers developed SignTalk-Gh, an AI system trained on Ghanaian Sign Language datasets that translates sign to text and audio and back for doctor-patient consultations, funded via the RAIL AI4SD project ([source, 2026-09-23](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare)).
-- Minister Samuel Nartey George says Cabinet has approved US$250 million for a National AI and Computing Centre, described as a funded programme currently being implemented, to give researchers, start-ups and universities access to high-performance computing ([source, 2026-09-15](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/)).
+- Communications minister Sam George said the government has committed US$250 million to the first phase of a national AI compute centre, within US$270 million for AI infrastructure and an AI fund ([source, 2026-10-15](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)).
+- Communications Minister Sam George tasked KNUST experts to lead development of a Twi language model, with other universities to lead models for other Ghanaian languages, as the government decided national language models must be built locally ([source, 2026-10-12](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/)).
 
 ### Kenya: 2 Nascent
 

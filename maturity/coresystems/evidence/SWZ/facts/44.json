@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-swz-mof-ifmis-quality-assurance-tor",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS implementation began 2 May 2024 and is not yet in use; a terms of reference."
+}

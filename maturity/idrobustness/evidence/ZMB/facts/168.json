@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-28-zmb-dailynation-govt-digitises-nrcs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Department of National Registration has opened enrolment into INRIS to upgrade the National Registration Card, with the new card to carry one-to-one biometric validation; card issuance is yet to be detailed.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
