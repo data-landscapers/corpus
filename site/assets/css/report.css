@@ -595,6 +595,31 @@ a.badge:hover::after { opacity: 1; }
 .monthly-subnav a { font-family: inherit; font-size: 0.85rem; font-weight: 400; text-transform: none; letter-spacing: 0; }
 .monthly-subnav .article-toc__sep { font-size: 0.85rem; }
 
+/* The monthly's head pins under the site chrome (Bill, 2026-10-17): the
+   place's reports, the title with its PDF button, the sections bar and the rule
+   under it. `report-head.js` adds the class once it has measured the chrome,
+   and moves jumped-to headings down to clear the head. */
+.report-head { background: var(--paper); margin-bottom: 1.25rem; }
+.report-head .report-family { margin-top: 0; padding-top: 2rem; }
+.report-head .article-header { border-bottom: none; margin-bottom: 0.5rem; padding-bottom: 0.5rem; }
+.report-head__row { align-items: center; }
+.report-head__row .article-header__title { margin-bottom: 0; }
+.report-head .feedback-ask { float: none; margin: 0 0.5rem 0 0; }
+.report-head .monthly-toc { margin-bottom: 0; }
+.report-head-sticky .report-head { position: sticky; top: var(--report-head-top, 0px); z-index: 50; }
+.report-head-sticky .report-head .report-family { padding-top: 0.75rem; }
+.report-head-sticky .article-body :is(h2, h3, h4) { scroll-margin-top: var(--report-head-clear); }
+/* A phone keeps the head short enough to pin: each bar scrolls sideways on one
+   line, as the Corpus nav does, and the ask comes off (the colophon has it). */
+@media (max-width: 640px) {
+  .report-head .report-siblings, .report-head .monthly-toc { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; }
+  .report-head .article-header__title { font-size: 1.3rem; }
+  .report-head .feedback-ask { display: none; }
+}
+@media print {
+  .report-head .report-family { padding-top: 0; }
+}
+
 /* One story: the reports of one development, oldest first, under the name of
    the ledger row they moved. A rule down the left holds the cards together
    so the next story visibly starts afresh. */

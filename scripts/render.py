@@ -520,15 +520,10 @@ TEMPLATE = """<!DOCTYPE html>
         <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
       </div>
 
-      {pre_header}<header class="article-header{header_mod}">
-{kicker}        {feedback}
-        <h1 class="article-header__title">{h1}</h1>
-        <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="{edition}">{byline}</div>
-          <div class="article-header__actions screen-only">{download}</div>
-        </div>
+      {head_open}{pre_header}<header class="article-header{header_mod}">
+{kicker}{header_inner}
       </header>
-
+{head_close}
       <div class="article-body">
 {body}
       </div>
@@ -536,8 +531,8 @@ TEMPLATE = """<!DOCTYPE html>
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">{edition_display}</dd>
-{current_row}{colophon_rows}
+          <dt>Edition</dt><dd class="edition"{edition_attr}>{edition_display}</dd>
+{about_rows}{current_row}{colophon_rows}
 {feedback_row}          <dt>Licence</dt><dd><a href="{licence_url}">{licence}</a></dd>
         </dl>
 {colophon_notes}
@@ -938,13 +933,54 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         if not absolute:
             current_row += archive_picker(archive or [], edition)
 
+    # **A place monthly's head sticks, and its byline and standfirst go to the colophon** *(Bill,
+    # 2026-10-17)*. A reader landed on a story deep in the page could not see which country it
+    # was or reach another section, so everything down to the rule under the sections bar pins
+    # under the site chrome, and the two lines that only describe the document make way for it.
+    # `data-edition` moves with the edition onto the colophon, where `editions.py` still finds it.
+    fb = feedback(h1 or title, url_html)
+    head_open = head_close = edition_attr = about_rows = ""
+    if kind == "monthly" and pre_header:
+        lead = re.match(r'\A\s*<div class="report-standfirst">(.*?)</div>\s*', html_body, re.S)
+        if lead:
+            html_body = html_body[lead.end():]
+        toc = re.search(r'<nav class="article-toc monthly-toc".*?</nav>\s*', html_body, re.S)
+        if toc:
+            html_body = html_body[:toc.start()] + html_body[toc.end():]
+        head_open = '<div class="report-head">\n'
+        head_close = (toc.group(0).rstrip() + "\n" if toc else "") + "</div>\n"
+        header_inner = (
+            '        <div class="article-header__meta report-head__row">\n'
+            f'          <h1 class="article-header__title">{h1 or title}</h1>\n'
+            f'          <div class="article-header__actions screen-only">{fb}{download}</div>\n'
+            "        </div>")
+        edition_attr = f' data-edition="{edition}"'
+        compiled = re.sub(r"^compiled\s+", "", subtitle)
+        about_rows = f"          <dt>Compiled</dt><dd>{compiled[:1].upper()}{compiled[1:]}</dd>\n"
+        if lead:
+            scope = re.sub(r"<[^>]+>", "", lead.group(1)).strip()
+            about_rows += f"          <dt>Coverage</dt><dd>{scope}</dd>\n"
+        if not absolute:
+            js = SITE / "assets" / "js" / "report-head.js"
+            page_script = (f'<script src="{up}assets/js/report-head.js'
+                           f'{asset_version(js)}" defer></script>')
+    else:
+        header_inner = (
+            f"        {fb}\n"
+            f'        <h1 class="article-header__title">{h1 or title}</h1>\n'
+            '        <div class="article-header__meta">\n'
+            f'          <div class="article-header__byline" data-edition="{edition}">{byline}</div>\n'
+            f'          <div class="article-header__actions screen-only">{download}</div>\n'
+            "        </div>")
+
     # Built once. The meta tag takes it escaped for an attribute; the structured data takes it
     # as it is, because JSON has its own escaping and a `&amp;` inside a JSON string would be
     # the entity itself rather than the ampersand it stands for.
     description = describe(md_path, kind, title, subtitle)
 
     doc = TEMPLATE.format(
-        feedback=feedback(h1 or title, url_html),
+        header_inner=header_inner, head_open=head_open, head_close=head_close,
+        edition_attr=edition_attr, about_rows=about_rows,
         feedback_row=feedback_row(h1 or title, url_html),
         title=title,
         download=download,
