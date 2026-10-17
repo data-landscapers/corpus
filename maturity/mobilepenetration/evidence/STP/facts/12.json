@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-10-stp-ine-itu-umc-workshop-presentation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Households with a mobile phone",
+   "country_label": "87.1% of households, MICS6 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a household figure for 2019; no share of people owning a phone."
+}

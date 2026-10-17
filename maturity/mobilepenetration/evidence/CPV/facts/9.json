@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-cpv-id4africa-digital-identity-public-infra",
+ "facts": [],
+ "systems": [
+  {
+   "system": "mobile penetration",
+   "country_label": "~130%",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "~130% is a subscription-style rate, not ownership."
+}

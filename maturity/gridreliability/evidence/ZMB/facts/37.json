@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-24-zmb-capacity-tower-sector-energy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Load shedding",
+   "country_label": "12 hours a day from June 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "ZESCO",
+   "tiers": ""
+  }
+ ],
+ "note": "Hours of load shedding only, no outage count."
+}

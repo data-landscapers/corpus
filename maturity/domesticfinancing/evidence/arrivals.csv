@@ -20,7 +20,7 @@ CIV,70,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 CMR,26,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 CMR,27,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrument,2026-10-17
 CMR,28,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
-COD,46,2026-10-13-cod-agenceecofin-microsites-amn-fdsu-couverture-rurale,2026-10-17,,
+COD,46,2026-10-13-cod-agenceecofin-microsites-amn-fdsu-couverture-rurale,2026-10-17,nothing,2026-10-17
 COD,47,2026-07-01-cod-adn-politique-sectorielle-economie-numerique,2026-10-17,instrument,2026-10-17
 COD,48,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 COD,49,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
@@ -32,7 +32,7 @@ COM,18,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-
 COM,19,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 CPV,37,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 CPV,38,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrument,2026-10-17
-DJI,18,2023-11-14-dji-presidence-cm-ansie-tarification,2026-10-17,,
+DJI,18,2023-11-14-dji-presidence-cm-ansie-tarification,2026-10-17,nothing,2026-10-17
 DJI,19,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 DZA,27,2014-01-01-mar-worldbank-mena-broadband-annexes,2026-10-17,instrument,2026-10-17
 DZA,28,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
@@ -46,7 +46,7 @@ ETH,33,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrume
 ETH,34,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 GAB,17,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 GAB,18,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
-GHA,67,2026-10-14-tan-ghana-gifec-rural-telephony-sekyere-afram-plains,2026-10-17,,
+GHA,67,2026-10-14-tan-ghana-gifec-rural-telephony-sekyere-afram-plains,2026-10-17,nothing,2026-10-17
 GHA,68,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 GHA,69,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrument,2026-10-17
 GHA,70,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
@@ -67,7 +67,7 @@ LSO,34,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 MAR,20,2014-01-01-mar-worldbank-mena-broadband-annexes,2026-10-17,instrument,2026-10-17
 MAR,21,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 MAR,22,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
-MDG,21,2026-10-16-gsma-madagascar-digital-reforms-africa-spectrum-policy,2026-10-17,,
+MDG,21,2026-10-16-gsma-madagascar-digital-reforms-africa-spectrum-policy,2026-10-17,nothing,2026-10-17
 MDG,22,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 MDG,23,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 MLI,31,2025-06-01-mli-hse-e-gouvernance-mali-2025,2026-10-17,instrument,2026-10-17
@@ -76,9 +76,9 @@ MLI,33,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 MOZ,38,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 MOZ,39,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrument,2026-10-17
 MOZ,40,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
-MUS,21,2024-11-07-mus-icta-public-consultations,2026-10-17,,
+MUS,21,2024-11-07-mus-icta-public-consultations,2026-10-17,nothing,2026-10-17
 MUS,22,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
-MWI,51,2025-01-20-mwi-techafrica-airtel-international-fibre-links,2026-10-17,,
+MWI,51,2025-01-20-mwi-techafrica-airtel-international-fibre-links,2026-10-17,nothing,2026-10-17
 MWI,52,2025-07-02-mwi-ogp-national-action-plan-2026-2029,2026-10-17,instrument,2026-10-17
 MWI,53,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 MWI,54,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrument,2026-10-17
@@ -87,7 +87,7 @@ NAM,41,2026-07-31-xaf-eca-statcom-crvs-implementation-report,2026-10-17,instrume
 NAM,42,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 NER,23,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 NER,24,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
-NGA,52,2026-08-12-nga-vanguard-npc-unicef-birth-registration,2026-10-17,,
+NGA,52,2026-08-12-nga-vanguard-npc-unicef-birth-registration,2026-10-17,nothing,2026-10-17
 NGA,53,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17
 NGA,54,2025-08-22-xaf-atu-ixp-assessment,2026-10-17,instrument,2026-10-17
 RWA,37,2026-10-16-xaf-gsma-spectrum-policy-in-africa,2026-10-17,instrument,2026-10-17

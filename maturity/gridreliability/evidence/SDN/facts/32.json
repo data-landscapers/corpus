@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-29-sdn-radiotamazuj-port-sudan-power-outages",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Port Sudan power cuts",
+   "country_label": "up to 6 hours a day, 12-13 hours in places (Port Sudan, April 2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Hours of cuts in one city, no national outage count."
+}

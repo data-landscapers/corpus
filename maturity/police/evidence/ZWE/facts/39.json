@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-13-zwe-zimbabwesituation-electronic-traffic-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Traffic Management System",
+   "country_label": "ETMS",
+   "class": "other",
+   "platform": "cameras, ANPR, central databases",
+   "owner": "Zimbabwe Republic Police",
+   "tiers": "national"
+  }
+ ],
+ "note": "Traffic enforcement system only; no station-level record of reports or cases is stated."
+}

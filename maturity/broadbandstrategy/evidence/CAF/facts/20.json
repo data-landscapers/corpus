@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central African Backbone (CAB)",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "fibre backbone",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document names no national broadband plan; the Central African Backbone is a fibre project."
+}
