@@ -442,22 +442,36 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
 FAMILY = (("status", "Status"), ("monthly", "Monthly"), ("progress", "Progress"),
-          ("finance", "Finance"), ("hosting", "Institution hosting"))
+          ("finance", "Finance"), ("hosting", "Institution hosting"), ("maturity", "Maturity"))
 FAMILY_PAGES = {"status", "monthly", "finance"}
+
+
+def family_page(unit: str, kind: str) -> tuple[str, Path]:
+    """A place report's address and the file that serves it. The maturity report is built by
+    `maturity-site.py` under `/maturity/countries/`, and joins the family *(Bill, 2026-10-17)*."""
+    if kind == "maturity":
+        return (f"{SITE_BASE}/maturity/countries/{unit.lower()}/",
+                SITE / "maturity" / "countries" / unit.lower() / "index.html")
+    return f"{SITE_BASE}/reports/{unit}/{unit}-{kind}.html", SITE / "reports" / unit / f"{unit}-{kind}.html"
 
 
 def report_family(md_path: Path, kind: str, meta: dict) -> str:
     unit = (meta.get("place") or "").strip()
     if kind not in FAMILY_PAGES or not unit or tree_of(md_path) != "reports":
         return ""
+    return family_bar(unit, kind)
+
+
+def family_bar(unit: str, kind: str) -> str:
+    """The kicker and the place's other reports, for any page of the family."""
     import bulletin                      # the one map of place names the boxes use too
     name = bulletin.place_names().get(unit, unit)
     family = "Region reports" if unit.startswith("X") else "Country reports"
     sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
     links = f"\n{sep}\n".join(
-        f'<a href="{SITE_BASE}/reports/{unit}/{unit}-{k}.html">{label}</a>'
+        f'<a href="{family_page(unit, k)[0]}">{label}</a>'
         for k, label in FAMILY
-        if k != kind and (SITE / "reports" / unit / f"{unit}-{k}.html").exists())
+        if k != kind and family_page(unit, k)[1].exists())
     return ('<div class="report-family">\n'
             f'<div class="report-family__kicker">{family}: {name}</div>\n'
             f'<nav class="article-toc report-siblings" aria-label="Other reports for {name}">\n'

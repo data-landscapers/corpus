@@ -304,6 +304,13 @@
   color: var(--ink-faint);
 }
 .mat-report__ind { scroll-margin-top: calc(var(--header-h) + 3rem); margin-top: 1.4rem; }
+/* Under the place report's head (corpus.css, Bill 2026-10-17): the head's rule closes it, so
+   the first chapter carries none; the greyed items take the bars' type; an indicator jumped to
+   from the map clears the pinned head. */
+.mat-report .article-body > .mat-report__chapter:first-child { margin-top: 0; padding-top: 0; border-top: none; }
+.mat-report .monthly-toc .mat-toc__off { font-size: .68rem; letter-spacing: .02em; }
+.mat-report .monthly-subnav .mat-toc__off { font-family: inherit; font-size: .85rem; font-weight: 400; text-transform: none; letter-spacing: 0; }
+.report-head-sticky .mat-report__ind { scroll-margin-top: var(--report-head-clear); }
 .mat-report__ind h4 { font-size: 1.05rem; }
 .mat-report__ind:target h4 { color: var(--accent); }
 .mat-report__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; font-size: .82rem; color: var(--ink-light); }

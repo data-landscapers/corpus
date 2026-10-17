@@ -239,3 +239,49 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
    from the browser that would action a mailto, and the colophon is where that
    document already says how to cite and licence it. */
 @media print { .feedback-ask { display: none; } }
+
+/* ── A PLACE REPORT'S HEAD (Bill, 2026-10-16/17) ──
+   The place's reports, the title with its actions, the sections bar, and
+   the subjects under each heading — every country report wears it, the
+   rendered ones (`report.css`) and the maturity report (`maturity.css`). */
+/* The place's reports, above the title: a kicker, a rule, the links, a rule. */
+.report-family { margin-top: 2rem; }
+.report-family__kicker {
+  font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--ink-faint);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.6rem; margin-bottom: 0.7rem;
+}
+.report-siblings { margin: 0; }
+.monthly-toc { margin-bottom: 1.5rem; gap: 0.4rem 0.35rem; }
+/* Tighter than the house bar so all ten sections hold one line at desktop
+   width; a phone still wraps them. */
+.monthly-toc a { letter-spacing: 0.02em; font-size: 0.68rem; }
+.monthly-subnav { border-bottom: none; padding-bottom: 0; margin: -0.2rem 0 1rem; gap: 0.15rem 0.6rem; }
+.monthly-subnav a { font-family: inherit; font-size: 0.85rem; font-weight: 400; text-transform: none; letter-spacing: 0; }
+.monthly-subnav .article-toc__sep { font-size: 0.85rem; }
+
+/* The monthly's head pins under the site chrome (Bill, 2026-10-17): the
+   place's reports, the title with its PDF button, the sections bar and the rule
+   under it. `report-head.js` adds the class once it has measured the chrome,
+   and moves jumped-to headings down to clear the head. */
+.report-head { background: var(--paper); margin-bottom: 1.25rem; }
+.report-head .report-family { margin-top: 0; padding-top: 2rem; }
+.report-head .article-header { border-bottom: none; margin-bottom: 0.5rem; padding-bottom: 0.5rem; }
+.report-head__row { align-items: center; }
+.report-head__row .article-header__title { margin-bottom: 0; }
+.report-head .feedback-ask { float: none; margin: 0 0.5rem 0 0; }
+.report-head .monthly-toc { margin-bottom: 0; }
+.report-head-sticky .report-head { position: sticky; top: var(--report-head-top, 0px); z-index: 50; }
+.report-head-sticky .report-head .report-family { padding-top: 0.75rem; }
+.report-head-sticky .article-body :is(h2, h3, h4) { scroll-margin-top: var(--report-head-clear); }
+/* A phone keeps the head short enough to pin: each bar scrolls sideways on one
+   line, as the Corpus nav does, and the ask comes off (the colophon has it). */
+@media (max-width: 640px) {
+  .report-head .report-siblings, .report-head .monthly-toc { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; }
+  .report-head .article-header__title { font-size: 1.3rem; }
+  .report-head .feedback-ask { display: none; }
+}
+@media print {
+  .report-head .report-family { padding-top: 0; }
+}

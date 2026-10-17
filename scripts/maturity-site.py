@@ -13,8 +13,9 @@ the studies' issued files — every `outputs/maturity/{id}/assessment.csv`, `{IS
 own: `maturity.json` carries everything it shows, and `site/assets/js/maturity-map.js` draws it.
 
 **Soft launch** *(Bill, 2026-10-09)*. Every page carries `noindex` and the *Under construction*
-band, and nothing links to them; `sitemap.py` already leaves a `noindex` page out. Draft stages
-are shown. Launch is `LAUNCHED = True` here, which drops the band and the noindex and cuts the
+band; `sitemap.py` already leaves a `noindex` page out. Draft stages are shown. **The country
+reports came out of hiding on 2026-10-17** *(Bill)*: they lost the band and joined the place's
+report bar, so each country's other reports link to them; they keep `noindex` until launch. Launch is `LAUNCHED = True` here, which drops the band and the noindex and cuts the
 downloads, and the menu entry in data-landscapers `_data/site_menu.yml`.
 
 **Downloads wait for launch** *(Bill)*. A dated CSV once downloaded is kept for ever (`design.md`
@@ -50,7 +51,8 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, foot, ga, script, styles  # noqa: E402
+from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from render import family_bar  # noqa: E402
 import editions  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -523,10 +525,10 @@ def slug(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
-def toc(label: str, items: list[tuple[str, str | None]]) -> str:
+def toc(label: str, items: list[tuple[str, str | None]], cls: str = "article-toc") -> str:
     """A jump bar in the house idiom (`.article-toc`): `(text, anchor)`, and an item with no anchor
     is printed greyed out and unlinked, as the map's dropdowns grey what is not yet studied."""
-    return (f'    <nav class="article-toc" aria-label="{label}">\n      '
+    return (f'    <nav class="{cls}" aria-label="{label}">\n      '
             + '\n      <span class="article-toc__sep" aria-hidden="true">&middot;</span>\n      '.join(
                 f'<a href="#{a}">{html.escape(t)}</a>' if a else f'<span class="mat-toc__off">{html.escape(t)}</span>'
                 for t, a in items) + "\n    </nav>")
@@ -539,8 +541,9 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
     parts, chapters = [], {}
     for t in data["topics"]:
         chapters.setdefault(t["group"], []).append(t)
-    parts.append(toc("Chapters", [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
-                                  for c, ts in chapters.items()]))
+    bar = toc("Sections in this report",
+              [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
+               for c, ts in chapters.items()], "article-toc monthly-toc")
     for t in data["topics"]:
         studied = [i for i in t["indicators"] if i["studied"]]
         if not studied:
@@ -549,8 +552,9 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
         if t is first:
             parts.append(f'    <h2 class="mat-report__chapter" id="chapter-{slug(t["group"])}">'
                          f'{html.escape(t["group"])}</h2>')
-            parts.append(toc("Topics", [(o["name"], f"topic-{slug(o['name'])}" if o["studied"] else None)
-                                        for o in chapters[t["group"]]]))
+            parts.append(toc(f"Topics under {html.escape(t['group'])}",
+                             [(o["name"], f"topic-{slug(o['name'])}" if o["studied"] else None)
+                              for o in chapters[t["group"]]], "article-toc monthly-subnav"))
         parts.append(f'    <h3 class="mat-report__topic" id="topic-{slug(t["name"])}">{html.escape(t["name"])}</h3>')
         for i in studied:
             iid = i["id"]
@@ -569,19 +573,31 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
 {md(bodies.get(iid, "*Nothing held for this country yet.*"))}
       </div>
     </section>''')
+    # **Headed as the place's other reports are** *(Bill, 2026-10-17)*: the family bar, the title
+    # with its actions and the sections bar, pinned under the site chrome by `report-head.js`. The
+    # map stands where the others' PDF button does. No Under construction band.
+    canonical = f"{SITE_BASE}/maturity/countries/{iso3.lower()}/"
+    actions = (feedback(f"{name} — Maturity Assessment", canonical)
+               + '<a href="../../" class="btn btn--accent">Map</a>')
     body = f"""  <div class="container mat-report">
-    <header class="article-header">
-      <p class="mat-report__kicker"><a href="../../">Maturity Assessment</a></p>
-      <h1 class="article-header__title">{html.escape(name)}</h1>
-    </header>
+      <div class="report-head">
+{family_bar(iso3, "maturity")}<header class="article-header">
+        <div class="article-header__meta report-head__row">
+          <h1 class="article-header__title">Maturity Assessment</h1>
+          <div class="article-header__actions screen-only">{actions}</div>
+        </div>
+      </header>
+{bar}
+      </div>
     <article class="article-body">
 {chr(10).join(parts)}
     </article>
   </div>"""
     return page(title=f"{name} — Maturity Assessment",
                 description=f"{name}: stage, summary and evidence for each studied maturity indicator.",
-                canonical=f"{SITE_BASE}/maturity/countries/{iso3.lower()}/", depth=3, body=body,
-                body_class="mat-report-page", sheets=("maturity.css",))
+                canonical=canonical, depth=3, body=body, body_class="mat-report-page", band=False,
+                active="countries",
+                sheets=("maturity.css",), scripts=script("report-head.js", 3))
 
 
 METHOD_CHAPTER = "Method"
