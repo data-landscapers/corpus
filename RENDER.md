@@ -113,8 +113,8 @@ Stale place or topic labels mean `outputs/vocab/` wants refreshing from OSINT's 
 ## Step 4 — build the country, region and topic pages
 
 ```bash
-python scripts/country.py         # every country -> site/countries/{ISO}/index.html (+ finance.html, budgets.html)
-python scripts/region.py          # every region  -> site/countries/{X__}/index.html (+ finance.html)
+python scripts/country.py         # every country -> site/countries/{ISO}/ finance tables + CSVs; index.html forwards to News
+python scripts/region.py          # every region  -> site/countries/{X__}/finance.html + CSVs; index.html forwards to News
 python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html
 ```
 

@@ -1271,9 +1271,9 @@ def render_monthly(unit, today, month, end=None):
     # frontmatter title keeps it, because it is the browser tab, the PDF and the search result.
     pretty = month_span(start, end, short=True)
     if not changed:
-        out = front(f"{name} — monthly update, {pretty}", today, unit, 0, not_held,
+        out = front(f"{name} — News, {pretty}", today, unit, 0, not_held,
                     period=f"{start} to {CLOSE}") + [
-            f"# Monthly update, {pretty}",
+            f"# News, {pretty}",
             "",
             f"*Nothing moved. No system or instrument on {name}'s ledger took a new position from "
             f"a source published between {start} and {CLOSE}. An absence of movement is a finding "
@@ -1287,9 +1287,9 @@ def render_monthly(unit, today, month, end=None):
     # at all *(Bill, 2026-08-14)*: the monthly reports what moved, and a heading over nothing is
     # a finding about the window rather than the place.
     body, items = monthly_body(unit, changed, ordered, subj, start, end)
-    out = front(f"{name} — monthly update, {pretty}", today, unit, len(changed), not_held,
+    out = front(f"{name} — News, {pretty}", today, unit, len(changed), not_held,
                 period=f"{start} to {CLOSE}") + [
-        f"# Monthly update, {pretty}",
+        f"# News, {pretty}",
         "",
         # **The window is described, not dated** *(Bill, 2026-08-25)*: the dates are already in
         # the title and `period:`, and this is the sentence the country page's blurb agrees with.

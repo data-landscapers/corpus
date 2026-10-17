@@ -34,7 +34,7 @@ page is right today and needs no rewrite when the file lands.
 country and region boxes sum to more than the document total — they measure
 coverage, not documents, and the caveat travels with them on the page.
 
-Country and topic boxes link to `{SITE_BASE}/countries/{ISO3}/` and
+Country and region boxes link to the place's news page (`box_href`), and topic boxes to
 `{SITE_BASE}/topics/{slug-with-hyphens}/` regardless of whether those pages exist yet —
 pull exhaustively, publish selectively (documentation/design.md §8): the box is accurate
 about what the base holds even before the page that would serve it is
@@ -161,12 +161,20 @@ def e(s: str) -> str:
     return html.escape(str(s))
 
 
+def box_href(code: str) -> str:
+    """Where a place box goes: **the top of that place's news page** *(Bill, 2026-10-16)*. Not a
+    section inside it: a reader landing mid-page would not see that they had changed country.
+    Every box on the site uses it since the country pages retired *(Bill, 2026-10-17)*; the two
+    regions that issue no reports go to the catalogue cut to them."""
+    if (OUTPUTS / "reports" / code / f"{code}-monthly.md").exists():
+        return f"{SITE_BASE}/reports/{code}/{code}-monthly.html"
+    return f"{SITE_BASE}/catalogue/#places={code}"
+
+
 def country_boxes(by_place: dict[str, int]) -> str:
     """Shaded by volume, so an uneven base looks uneven at a glance rather than
-    presenting as even coverage. Every box links to its country page whether or
-    not that page is built yet (documentation/design.md §8: pull exhaustively, publish
-    selectively) — a live link that 404s until the page lands is accurate about
-    what the base holds; hiding it would not be. Labelled with the short name
+    presenting as even coverage. Every box links to the country's news page
+    (`box_href`). Labelled with the short name
     (Bill, 2026-08-11); the ISO3 survives as a `title` attribute. Sorted by
     that displayed name, not the code (Bill, 2026-08-11) — a code-sorted grid
     of names reads as shuffled once the box no longer shows the code."""
@@ -174,7 +182,7 @@ def country_boxes(by_place: dict[str, int]) -> str:
                    key=lambda c: COUNTRY_NAMES.get(c, c))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
-        f'<a class="box" href="{SITE_BASE}/countries/{c}/" title="{c}"'
+        f'<a class="box" href="{box_href(c)}" title="{c}"'
         f' style="--fill:{by_place[c] / top:.3f}">'
         f'<span class="box__k">{e(COUNTRY_NAMES.get(c, c))}</span>'
         f'<span class="box__n">{by_place[c]:,}</span></a>'
@@ -185,18 +193,11 @@ def region_boxes(by_place: dict[str, int]) -> str:
     """Same shape as country_boxes, over the `X`-prefixed region and bloc
     codes rather than countries (Bill, 2026-08-11, item 8).
 
-    **The box opens the region's own page, not the catalogue** *(2026-09-02)*.
-    It opened the catalogue filtered to that place from 2026-08-21 to today,
-    because nothing had ever written a `/countries/{code}/` tree for a region
-    and all eight boxes 404'd against it — `country.py` built the 54 countries
-    only, and `RENDER.md` Step 4 said in as many words that regions did not get
-    a country-style page. `scripts/region.py` now builds one, in the same
-    `site/countries/` directory the country pages already live in, so the box
-    can link there like a country box does."""
+    The box opens the region's news page, like a country box (`box_href`)."""
     codes = sorted(c for c in by_place if c.startswith("X"))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
-        f'<a class="box" href="{SITE_BASE}/countries/{c}/" title="{c}"'
+        f'<a class="box" href="{box_href(c)}" title="{c}"'
         f' style="--fill:{by_place[c] / top:.3f}">'
         f'<span class="box__k">{e(REGION_NAMES.get(c, c))}</span>'
         f'<span class="box__n">{by_place[c]:,}</span></a>'

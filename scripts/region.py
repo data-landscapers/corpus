@@ -6,6 +6,9 @@ report."
     python scripts/region.py            builds every region
     python scripts/region.py XAF        builds one
 
+**The region page is retired with the country page** *(Bill, 2026-10-17)*: `index.html`
+forwards to the region's news page, and the finance table and CSVs stay.
+
 A region issues one document, not four (`REPORT-REGION.md`): a monthly
 update, never a status report and never a per-place
 budget line — so there is no `{code}-status.md` to open the way `country.py`
@@ -38,7 +41,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, feedback, foot, ga, script, styles  # noqa: E402
 import country  # noqa: E402 — the per-page machinery this reuses wholesale
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -62,27 +65,16 @@ CHROME = chrome("countries", depth=2)
 FOOT = foot(depth=2)
 
 
-# Same shape as country.py's COUNTRY template, with one crumb-level change:
-# the nav section a region belongs to is "Countries & Regions", not
-# "Countries", so the finance sub-page's breadcrumb says so rather than
-# naming the section a region is not a member of.
-# The place page is `country.py`'s. The copy that stood here was **byte-identical** to
-# `COUNTRY` — 61 lines, not one of them different — so it was purely a second place for
-# the same page to be edited, and the finance template beside it shows what that costs.
-# `common` already supplies `iso=code`, which is the only thing the two pass differently.
-REGION = country.COUNTRY
-
 # The finance page is `country.py`'s, with `unit="place"`. It was a copy of that
 # template differing in three lines of wording until 2026-09-09; the header there
-# records what the copy cost. This module already takes `FINANCE_BLOCK`, `pivot`,
-# `report_rows` and `report_editions` from the same place, for the same reason.
+# records what the copy cost.
 FINANCE = country.FINANCE
 
 
 def build(code: str) -> list[Path]:
     name = REGION_NAMES.get(code, code)
     fin = country.finance(code)
-    n_place, n_all, cat_cols, cat_rows = country.catalogue(code)
+    _, _, cat_cols, cat_rows = country.catalogue(code)
     built = date.today().isoformat()
 
     out_dir = OUT / code
@@ -94,6 +86,7 @@ def build(code: str) -> list[Path]:
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=CHROME, foot=FOOT,
         built=built, fin_n=len(fin),
+        parent=country.place_url(code),      # a region has no finance report to name
     )
 
     csv_names: dict[str, str] = {}
@@ -102,25 +95,10 @@ def build(code: str) -> list[Path]:
         ys = [y for y in (country.year(r.get("start_year")) for r in fin) if y is not None]
         amounts = [float(r["commitment_usd_m"]) for r in fin if r.get("commitment_usd_m")]
         csv_names = country.publish_finance_csvs(code, out_dir, cols)
-        finance_section = country.FINANCE_BLOCK.format(
-            name=name, iso=code, pivot=country.pivot(fin), cutoff=country.FINANCE_CUTOFF,
-            fin_n=len(fin), ncols=len(cols), **csv_names)
     else:
         cols, ys, amounts = [], [], []
-        finance_section = country.FINANCE_EMPTY.format(name=name)
 
-    (out_dir / "index.html").write_text(external_links(REGION.format(
-        feedback=feedback(name, f"{SITE_BASE}/countries/{code}/"),
-        cat_csv=cat_csv,
-        jsonld=country.catalogue_dataset(code, name, out_dir, cat_csv, cat_rows),
-        catalogue_intro=copy_inline("country", "catalogue-intro",
-                                    sources=f"{n_place:,}", name=name),
-        budget_section=country.BUDGET_EMPTY.format(
-            intro=copy_inline("country", "budget-intro")),
-        reports=country.report_rows(country.report_editions(code), code),
-        finance_section=finance_section,
-        styles=styles(2, "country.css"), ga=ga(),
-        **common)), encoding="utf-8")
+    country.retire_page(out_dir, code)
 
     written = [out_dir / "index.html", out_dir / cat_csv]
 

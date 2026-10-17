@@ -49,9 +49,9 @@ L1 = {"infra": "ICT Infrastructure", "dpi": "Digital public infrastructure",
       "tech": "Technology", "geopol": "Geopolitics", "capacity": "Capacity",
       "digital": "Digitalisation", "data": "Data", "finance": "Finance"}
 
-KINDS = (("monthly", "Monthly update",
+KINDS = (("monthly", "News",
           "What moved this month, place by place — every block carried from that place&rsquo;s own "
-          "monthly update."),)
+          "news page."),)
 
 
 def front_matter(path: Path) -> dict:
@@ -233,7 +233,7 @@ def main() -> int:
             continue
         cat = L1.get(slug.split(".")[0], slug.split(".")[0])
         write(path, label[slug],
-              f"{label[slug]} across Africa: monthly updates compiled place by place from the "
+              f"{label[slug]} across Africa: news compiled place by place from the "
               f"Data Landscapers base.",
               e(label[slug]),
               f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '

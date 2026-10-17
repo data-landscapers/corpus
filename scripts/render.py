@@ -58,7 +58,7 @@ LICENCE, LICENCE_URL = "CC BY 4.0", "https://creativecommons.org/licenses/by/4.0
 # kicker used to be.
 KIND_LABEL = {
     "status": "Status report",
-    "monthly": "Monthly update",
+    "monthly": "News",               # the monthly update, renamed (Bill, 2026-10-17)
     # The hyperscaler scan's country fact sheet, published by `hyperscaler-publish.py` from
     # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30).
     "hosting": "Institution hosting",
@@ -338,7 +338,7 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # in it. Built here rather than in the source, because the status report is authored by hand
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
-FAMILY = (("status", "Status"), ("monthly", "Monthly"),
+FAMILY = (("status", "Status"), ("monthly", "News"),
           ("finance", "Finance"), ("hosting", "Institution hosting"), ("maturity", "Maturity"))
 FAMILY_PAGES = {"status", "monthly", "finance"}
 
@@ -835,7 +835,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         until = bulletin_editions.expires_on(edition)
         current_row += (
             f'          <dt>Retention</dt><dd>Kept until {until}. Older bulletins: the '
-            f'<a href="{SITE_BASE}/countries/">country pages</a> and the monthly reports.</dd>\n')
+            f'<a href="{SITE_BASE}/countries/">country and region news</a>.</dd>\n')
         # **Not in the PDF.** The control needs a script to do anything and the PDF runs none,
         # so it renders `hidden` there for ever — and a `<dt>Earlier editions</dt>` with nothing
         # beside it is the same fault as the download button that named a file nobody cut.

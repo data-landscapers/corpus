@@ -8,7 +8,7 @@ The second paragraph of *How to read these* carries a `{base}` link and has not 
 
 ## how-to-read
 
-The monthly update is a **derived view**. Every paragraph in it was written for, and checked in, the report of the place it appears under — nothing is written at the topic level, and no fact reaches this page that is not already sourced on the sentence that carries it. Its sections are places, in alphabetical order.
+The news page is a **derived view**. Every paragraph in it was written for, and checked in, the report of the place it appears under — nothing is written at the topic level, and no fact reaches this page that is not already sourced on the sentence that carries it. Its sections are places, in alphabetical order.
 
 ## no-documents
 

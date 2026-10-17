@@ -15,8 +15,8 @@ the page lands in `reports/` rather than `countries/`. *All finance* is the same
 pivot over both sets of rows added together: budget lines at their counted US dollar value by
 the year the fiscal year starts in, commitments by the year they were made.
 
-The download links are the ones the country page is serving, read off it, so the report never
-names a CSV edition the country page did not publish; a page with none gets no download button.
+The download links are the ones the table pages are serving, read off them, so the report never
+names a CSV edition `country.py` did not publish; a country with none gets no download button.
 """
 from __future__ import annotations
 
@@ -33,17 +33,21 @@ COUNTRIES = c.SITE / "countries"
 
 
 def absolute(block: str, iso: str) -> str:
-    """The country page's relative links, made to work from `reports/{ISO3}/` and from a PDF."""
+    """The table pages' relative links, made to work from `reports/{ISO3}/` and from a PDF.
+
+    The CSVs are read off the table pages that serve them, since the country page that also
+    listed them is retired (`country.retire_page`)."""
     base = f"{c.SITE_BASE}/countries/{iso}"
-    served = (COUNTRIES / iso / "index.html")
-    page = served.read_text(encoding="utf-8") if served.exists() else ""
+    page = "".join(p.read_text(encoding="utf-8")
+                   for p in (COUNTRIES / iso / n for n in ("finance.html", "budgets.html"))
+                   if p.exists())
     published = re.findall(r'href="([^"/]+\.csv)" download', page)
 
     def fix(m: re.Match) -> str:
         stem = m.group(1)[:-4]                       # `KEN-nonstate`, `KEN-budgets`
         served = [p for p in published if p == f"{stem}.csv" or p.startswith(f"{stem}-")]
         if not served:
-            return ""            # a CSV the country page is not offering: no button
+            return ""            # a CSV no table page is offering: no button
         return f'<a class="btn btn--accent" href="{base}/{served[0]}"{m.group(2)}'
 
     block = re.sub(r'<a class="btn btn--accent" href="([^"/]+\.csv)"([^>]*>.*?</a>)', fix, block)

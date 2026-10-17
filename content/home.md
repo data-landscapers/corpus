@@ -27,15 +27,15 @@ You can subscribe to customised weekly news updates that will be delivered every
 
 ## countries-intro
 
-For each country three reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of the digital transformation landscape, The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Non-state Finance Report*** lists all known financial commitments made since 2015. A fourth report on state budgeting and expenditure is outstanding.
+For each country three reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of the digital transformation landscape, The ***News*** page references all new content published since the beginning of the last calendar month. The ***Non-state Finance Report*** lists all known financial commitments made since 2015. A fourth report on state budgeting and expenditure is outstanding.
 
 ## regions-intro
 
-Content that covers regions or regional institutions rather than named countries is delivered in a ***Monthly Update*** for each of the five geographic regions as well as Sub-Saharan Africa, Africa, and relevant Global information. It references all new content published since the beginning of the last calendar month.
+Content that covers regions or regional institutions rather than named countries is delivered in a ***News*** page for each of the five geographic regions as well as Sub-Saharan Africa, Africa, and relevant Global information. It references all new content published since the beginning of the last calendar month.
 
 ## topics-intro
 
-All documents in the repository are classified according to a [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) of 40 topics and 123 indicators. A ***Monthly Update*** is delivered for each of the topics. It references all new content published since the beginning of the last calendar month, reproduced from the country reports.
+All documents in the repository are classified according to a [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) of 40 topics and 123 indicators. A ***News*** page is delivered for each of the topics. It references all new content published since the beginning of the last calendar month, reproduced from the country reports.
 
 ## finance-intro
 

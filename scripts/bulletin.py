@@ -154,7 +154,7 @@ from pathlib import Path
 from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from home import COUNTRY_NAMES, REGION_NAMES  # noqa: E402
+from home import COUNTRY_NAMES, REGION_NAMES, box_href  # noqa: E402
 from scope_lib import in_remit  # noqa: E402
 import osint_lib  # noqa: E402
 import taxonomy_lib  # noqa: E402
@@ -547,15 +547,6 @@ def place_boxes(row: dict, names: dict[str, str]) -> str:
         f'<a class="wip-item-card__status wip-item-card__status--active country-box"'
         f' href="{box_href(c)}" title="{c}">{names.get(c, c)}</a>'
         for c in boxed(row, names))
-
-
-def box_href(code: str) -> str:
-    """Where a place box goes: **the top of that place's monthly** *(Bill, 2026-10-16)*. Not a
-    section inside it: a reader landing mid-page would not see that they had changed country.
-    A place with no monthly keeps its country page."""
-    if (OUTPUTS / "reports" / code / f"{code}-monthly.md").exists():
-        return f"{SITE_BASE}/reports/{code}/{code}-monthly.html"
-    return f"{SITE_BASE}/countries/{code}/"
 
 
 def head_line(row: dict, names: dict[str, str]) -> str:

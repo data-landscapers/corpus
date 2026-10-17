@@ -2,7 +2,7 @@ Building a site of this nature has involved a lot more than a simple request to 
 
 On the evening of 29 August 2026, a Somali news site reported that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.
 
-The next day it was a linked claim in three Corpus documents: a line in Somalia's monthly update, a row in its progress report, and an entry in that day's bulletin. This is what happened in between.
+The next day it was a linked claim in three Corpus documents: a line in Somalia's news page, a row in its progress report, and an entry in that day's bulletin. This is what happened in between.
 
 ## Systematic discovery
 
@@ -86,7 +86,7 @@ Most sources move nothing, and that is the point of a record layer: a report on 
 
 ## Different outputs for different needs
 
-The monthly update is a slice of the ledger: it renders the rows that moved in the last month. A month in which nothing moved still issues a monthly that says so. (The progress report, a second slice that compared each indicator across twelve months, retired on 17 October 2026; the maturity assessment replaced it.) The **status report** answers *where is this now*: for most countries it is authored from sources the repository will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
+The news page (called the monthly update until 17 October 2026) is a slice of the ledger: it renders the rows that moved in the last month. A month in which nothing moved still issues a news page that says so. (The progress report, a second slice that compared each indicator across twelve months, retired on 17 October 2026; the maturity assessment replaced it.) The **status report** answers *where is this now*: for most countries it is authored from sources the repository will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
 The **bulletin** has no ledger and selects on a window of *publication* — today and yesterday, or today alone from 18:00 — — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 

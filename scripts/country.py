@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
-"""country.py — the country page (documentation/design.md §3).
+"""country.py — a country's finance table pages and CSVs (documentation/design.md §3).
 
     python scripts/country.py            builds every country
     python scripts/country.py KEN        builds one
+
+**The country page itself is retired** *(Bill, 2026-10-17)*: `index.html` is a stub forwarding
+to the country's news page (`retire_page`), and the history below is of the page it was. What
+stays is `finance.html`, `budgets.html`, `all-finance.html` and the CSVs, which the finance
+report links and readers cite.
 
 Promoted from prototypes/build-country-page.py once Bill approved the KEN
 mock-up (2026-08-11 commit "Country page: add nav, drop crumb, stat-bar in
@@ -71,7 +76,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, feedback, foot, ga, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -130,33 +135,6 @@ FULL_NAMES = {
     "ZWE": "Zimbabwe",
 }
 
-KIND = {
-    "status": ("Status report", copy_inline("country", "report-status")),
-    "monthly": ("Monthly update", copy_inline("country", "report-monthly")),
-    # The hyperscaler scan's fact sheet (`hyperscaler-publish.py`, Bill 2026-09-30).
-    "hosting": ("Institution hosting", copy_inline("country", "report-hosting")),
-    # Budgets and non-state finance in one report (`finance-report.py`, Bill 2026-10-16).
-    "finance": ("Finance", copy_inline("country", "report-finance")),
-}
-
-# The status report changes shape when `STATUS-INIT` has run on a country: a table of ledger rows
-# becomes a narrative answering 37 questions about where the country actually stands, and the old
-# blurb would describe the wrong document to a reader deciding whether to open it.
-BASELINE_BLURB = copy_inline("country", "report-status-baseline")
-
-# The field dictionary used to be generated here, from a FIELDS list duplicating the
-# schema FINANCE-COMPILE.md defines. Retired 2026-08-19 (Bill): one hand-maintained
-# file at site/metadata/non-state-finance-metadata.csv now serves every table, so the
-# schema is stated once rather than in fifty-four generated copies plus a Python list
-# that had already drifted from its stated authority — its definitions for instrument,
-# status and beneficiary_type each cited FINANCE-COMPILE.md for vocabularies that file
-# does not contain.
-
-csv.field_size_limit(10 ** 9)
-
-
-# ── reading upstream ──────────────────────────────────────────────
-
 def frontmatter(text: str) -> dict:
     if not text.startswith("---"):
         return {}
@@ -210,45 +188,6 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
             "csv_edition": edition, "csv_bytes": len(body),
             "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
                                                 editions.digest(body))}
-
-
-def report_editions(iso: str) -> list[dict]:
-    """The published editions, read off each rendered page's own byline.
-
-    **Read off the page, not off the PDF on disk** *(2026-09-09)*. This globbed
-    `site/reports/{iso}/{iso}-*.pdf` and took the newest, on the premise that the retained
-    artefact is the record of what is published. That stopped being true on 2026-09-08, when
-    the editions moved to R2 and `--prune-local` began deleting the local copy: from the first
-    render in which a document was not re-cut, the glob matched nothing and this returned an
-    empty list — so every country and region page printed *No reports are yet published for
-    this place* while all three reports sat rendered in the directory next to it.
-
-    The HTML is never pruned and carries the edition it is offering in `data-edition`, so it
-    answers the same question and cannot go missing. `editions.edition_on_page` is the read,
-    shared with `topic-page.py`, which had the identical fault.
-
-    The PDF name is derived rather than looked up: `render.py` names it
-    `{unit}-{kind}-{edition}.pdf` and the Worker serves it from the bucket at the path it had
-    under `site/`, so the link resolves whether or not the file is in the tree. The HTML
-    permalink carries no edition — it is always the current document (Bill, 2026-08-13)."""
-    rows = []
-    for kind in ("status", "monthly", "finance", "hosting"):
-        html_name = f"{iso}-{kind}.html"
-        edition = editions.edition_on_page(SITE / "reports" / iso / html_name)
-        if edition is None:
-            continue
-        rows.append({
-            "kind": kind, "label": KIND[kind][0], "blurb": KIND[kind][1],
-            "edition": edition, "html": html_name,
-            "pdf": f"{iso}-{kind}-{edition}.pdf",
-        })
-    return rows
-
-
-def report_meta(iso: str, kind: str) -> dict:
-    for f in (OUTPUTS / "reports" / iso).glob(f"{iso}-{kind}*.md"):
-        return frontmatter(f.read_text(encoding="utf-8"))
-    return {}
 
 
 def catalogue(iso: str) -> tuple[int, int, list[str], list[dict]]:
@@ -439,146 +378,42 @@ def pivot(rows: list[dict], year_col: str = "start_year", amount=usd_m,
 # component, which applies them by column name rather than by position.
 
 
-# `period_label()` and its month names retired 2026-08-25 (Bill). The row printed the window a
-# second time — "Edition of 2026-08-25 · July 2026 · 102 tracked" against a document whose own
-# title is "monthly update, July 2026", and "2025-08-01 – 2026-08-25" against a progress report
-# that says the same in its heading. The blurb beside it now carries the window in words ("since
-# the beginning of last month"), which is what a reader choosing between four documents needs;
-# the exact dates belong in the document, not in the index to it.
-
-
-def tracked(iso: str) -> tuple[str, str]:
-    """Systems and instruments on this unit's ledger, and how many are ***Not held***.
-
-    **Read from `ledger.csv`, not from the status report's frontmatter** *(2026-08-15)*. It was
-    taken from the status report because that was where a ledger count happened to be written
-    down; but the quantity is a property of the ledger, and once `STATUS-INIT` has run on a unit
-    its status report is a narrative baseline that carries no such count. Taking it from the
-    document would have emptied this tile on every country as initialisation reached it — quietly,
-    because the read already had an em-dash fallback and would not have failed.
-
-    Measures are excluded, exactly as `report-render.py` excludes them: a measure moves but has no
-    current state to inventory, so it is not a system or an instrument and the tile does not say
-    it is."""
-    path = OUTPUTS / "reports" / iso / "ledger.csv"
-    if not path.exists():
-        return "&mdash;", ""
-    with open(path, encoding="utf-8-sig", newline="") as fh:
-        rows = [r for r in csv.DictReader(fh) if (r.get("kind") or "instrument") != "measure"]
-    held = sum(1 for r in rows if (r.get("status") or "").split(",")[0].strip() == "Not held")
-    return f"{len(rows):,}", (f"{held:,}" if held else "")
-
-
-def report_rows(rows: list[dict], iso: str) -> str:
-    n_tracked, n_not_held = tracked(iso)
-    out = []
-    for r in rows:
-        meta = report_meta(iso, r["kind"])
-        counts = ""
-        if r["kind"] == "status" and meta.get("built_by") == "STATUS-INIT":
-            # The baseline is not a ledger view, so a ledger count would describe the wrong
-            # document. Its own scale is the question set it answers and the evidence behind it.
-            counts = (f'{meta.get("sections_written", "&mdash;")} sections'
-                      + (f', {meta["sources_cited"]} sources'
-                         if meta.get("sources_cited") else ""))
-            r = {**r, "blurb": BASELINE_BLURB}
-        elif meta.get("ledger_rows"):
-            # **The not-held count comes off the row** *(Bill, 2026-08-25)*. It is a fact about
-            # the ledger's own completeness, which belongs inside the document where the marked
-            # rows are visible and countable; on an index row it was a number with nothing to
-            # attach to and read as a defect notice on the report a reader had not yet opened.
-            counts = f'{meta["ledger_rows"]} sources tracked'
-        out.append(f"""
-      <div class="report-row">
-        <div class="report-row__main">
-          <div class="report-row__kind">{r['label']}</div>
-          <div class="report-row__blurb">{r['blurb']}</div>
-          <div class="report-row__meta byline">Edition of <span class="mono">{r['edition']}</span>
-            {' &nbsp;·&nbsp; ' + counts if counts else ''}</div>
-        </div>
-        <div class="report-row__acts">
-          <a class="btn" href="../../reports/{iso}/{r['html']}">Read</a>
-          <a class="btn btn--accent" href="../../reports/{iso}/{r['pdf']}">&darr; PDF</a>
-        </div>
-      </div>""")
-    if not out:
-        return f'<p class="table-note">{copy_inline("country", "no-reports")}</p>'
-    return "\n".join(out)
-
-
 # ── chrome (site header/footer — matches scripts/home.py exactly) ────
+
+def place_url(code: str) -> str:
+    """Where a place's name leads now its page is retired: its news page *(Bill, 2026-10-17)*,
+    or the catalogue cut to it for the two regions that issue no reports. `home.box_href`
+    is the one statement of that rule."""
+    from home import box_href
+    return box_href(code)
+
+
+def retire_page(out_dir: Path, code: str) -> None:
+    """**The place page is retired; its address forwards to the place's news** *(Bill,
+    2026-10-17)*. The page was an index to the reports, which the news page's report bar now
+    carries. The table pages and CSVs beside it stay, because their addresses are cited; a stub
+    rather than a deletion, because `/countries/{code}/` is linked from pages already out."""
+    url = place_url(code)
+    (out_dir / "index.html").write_text(f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Moved — Data Landscapers</title>
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={url}">
+<link rel="canonical" href="{url}">
+</head>
+<body>
+<p>This page has moved <a href="{url}">here</a>.</p>
+</body>
+</html>
+""", encoding="utf-8", newline="")
+
 
 CHROME = chrome("countries", depth=2)
 
 FOOT = foot(depth=2)
 
-
-COUNTRY = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{name} — Data Landscapers</title>
-<meta name="description" content="{name}: digital transformation and data governance. Reports, sources and non-state finance, from the Data Landscapers base.">
-<link rel="canonical" href="{base}/countries/{iso}/">
-{styles}
-<link rel="icon" href="{favicon}" type="image/svg+xml">
-<meta property="og:title" content="{name} — Data Landscapers">
-<meta property="og:description" content="{name}: digital transformation and data governance, from the Data Landscapers base.">
-<meta property="og:url" content="{base}/countries/{iso}/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Data Landscapers">
-{jsonld}
-{ga}
-</head>
-<body>
-<div class="site-wrap">
-
-{chrome}
-
-  <main id="main">
-  <div class="container">
-
-    <header class="article-header article-header--norule">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a></div>
-      {feedback}
-      <h1 class="article-header__title">{name}</h1>
-      <div class="article-header__byline">{iso} &nbsp;·&nbsp; last updated {built}</div>
-    </header>
-
-    <h2 class="section-heading">Reports</h2>
-{reports}
-
-    <h2 class="section-heading">Public budgeting and expenditure</h2>
-{budget_section}
-
-    <h2 class="section-heading">Non-state finance</h2>
-{finance_section}
-
-    <h2 class="section-heading">Catalogue</h2>
-    <p>{catalogue_intro}</p>
-    <div class="table-acts">
-      <a class="btn" href="{base}/catalogue/#places={iso}">Browse {name} in the catalogue &rarr;</a>
-      <a class="btn btn--accent" href="{cat_csv}" download>&darr; {name} catalogue CSV</a>
-    </div>
-
-    <div class="colophon">
-      <strong>About this page</strong>
-      <dl>
-        <dt>Last updated</dt><dd class="mono">{built}</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-  </div>
-  </main>
-
-{foot}
-
-</div>
-</body>
-</html>
-"""
 
 FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in millions of US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year. A commitment that is only partly digital, or whose scope is unclear, counts at 50% of its amount; one where digital is incidental to another purpose is left out.</p>
 
@@ -684,7 +519,7 @@ FINANCE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">Non-state finance</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
@@ -768,7 +603,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">National budget</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {bud_n} budget lines &nbsp;·&nbsp; fiscal years {yr}</div>
@@ -960,7 +795,7 @@ ALL_FINANCE_PAGE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">All finance</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {n} rows &nbsp;·&nbsp; US${total}m</div>
@@ -1073,57 +908,10 @@ def finance_field_dictionary() -> list[dict]:
         return structured_data.fields_from(list(csv.DictReader(fh)))
 
 
-def catalogue_dataset(code: str, name: str, out_dir: Path, cat_csv: str,
-                      rows: list[dict]) -> str:
-    """The place's cut of the catalogue, described as a dataset *(Bill, 2026-09-20)*.
-
-    **This page is the landing page for `{CODE}-catalogue.csv`**, and a reader arriving from
-    Google Dataset Search is looking for exactly that: what is in the table, how much of it,
-    over what years, under what licence, and where to get it. The page has always said so in
-    prose; this says it where a dataset search reads.
-
-    **A slice says it is one.** `isPartOf` names the whole catalogue, so 62 place cuts are one
-    dataset with 62 subsets rather than 62 tables that happen to share a schema and look, to
-    anything indexing them, like duplicates of each other — which is the shape that gets a
-    site's entries suppressed rather than listed.
-
-    Every value is measured off what was just written rather than written down: the count and
-    the date span off the rows in the cut, the size off the file on disk, the columns off the
-    published field dictionary. A hand-kept figure in a `<head>` is one that stops being true
-    on the next sweep and that nobody is ever going to read to notice."""
-    csv_path = out_dir / cat_csv
-    return structured_data.dataset(
-        name=f"Data Landscapers Corpus catalogue — {name}",
-        description=copy_md("country", "dataset-description", name=name),
-        url=f"{SITE_BASE}/countries/{code}/",
-        csv_url=f"{SITE_BASE}/countries/{code}/{cat_csv}",
-        csv_bytes=csv_path.stat().st_size,
-        records=len(rows),
-        fields=field_dictionary(),
-        entity=structured_data.place(code, name),
-        temporal=structured_data.span([(r.get("published") or "")[:10] for r in rows]),
-        part_of=f"{SITE_BASE}/catalogue/")
-
-
-def field_dictionary() -> list[dict]:
-    """`variableMeasured` for a catalogue cut, from the dictionary every one of these pages
-    already links as *what each column means*, so the two cannot drift.
-
-    `check_metadata()` below stops the build when the file is missing, so by the time this is
-    called it is there — the guard is for a caller that has not run that check."""
-    fd = SITE / "metadata" / "catalogue-metadata.csv"
-    if not fd.exists():
-        return []
-    with open(fd, encoding="utf-8-sig", newline="") as fh:
-        return structured_data.fields_from(list(csv.DictReader(fh)))
-
-
 def build(iso: str) -> list[Path]:
     name = FULL_NAMES.get(iso, iso)
-    meta = frontmatter((OUTPUTS / "reports" / iso / f"{iso}-status.md")
-                       .read_text(encoding="utf-8"))
     fin = finance(iso)
-    n_place, n_all, cat_cols, cat_rows = catalogue(iso)
+    _, _, cat_cols, cat_rows = catalogue(iso)
     built = date.today().isoformat()
 
     out_dir = OUT / iso
@@ -1135,6 +923,8 @@ def build(iso: str) -> list[Path]:
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=CHROME, foot=FOOT,
         built=built, fin_n=len(fin),
+        # The crumb's place link: the country page it named is retired (`retire_page`).
+        parent=f"{SITE_BASE}/reports/{iso}/{iso}-finance.html",
     )
 
     csv_names: dict[str, str] = {}
@@ -1148,31 +938,14 @@ def build(iso: str) -> list[Path]:
         # be guessing at it, and a download link is the one thing on the page that cannot be
         # approximately right.
         csv_names = publish_finance_csvs(iso, out_dir, cols)
-        finance_section = FINANCE_BLOCK.format(
-            name=name, iso=iso, pivot=pivot(fin), cutoff=FINANCE_CUTOFF,
-            fin_n=len(fin), ncols=len(cols), **csv_names)
     else:
         cols, ys, amounts = [], [], []
-        finance_section = FINANCE_EMPTY.format(name=name)
 
     bud_cols, bud = budgets(iso)
     if bud:
         bud_pub = publish_budget_csv(iso, out_dir)     # before the pages, which link it by name
-        budget_block = budget_section(name, bud_cols, bud, bud_pub["csv_name"])
-    else:
-        budget_block = BUDGET_EMPTY.format(intro=copy_inline("country", "budget-intro"))
 
-    (out_dir / "index.html").write_text(external_links(COUNTRY.format(
-        feedback=feedback(name, f"{SITE_BASE}/countries/{iso}/"),
-        cat_csv=cat_csv,
-        jsonld=catalogue_dataset(iso, name, out_dir, cat_csv, cat_rows),
-        catalogue_intro=copy_inline("country", "catalogue-intro",
-                                    sources=f"{n_place:,}", name=name),
-        budget_section=budget_block,
-        reports=report_rows(report_editions(iso), iso),
-        finance_section=finance_section,
-        styles=styles(2, "country.css"), ga=ga(),
-        **common)), encoding="utf-8")
+    retire_page(out_dir, iso)
 
     written = [out_dir / "index.html", out_dir / cat_csv]
 

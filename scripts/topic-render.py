@@ -158,7 +158,7 @@ def build_monthly(subject, label, today):
     places = [u for u, _ in carried]
     out = [
         "---",
-        f"title: {label} — monthly update, {span_label(period)}",
+        f"title: {label} — News, {span_label(period)}",
         f"compiled: {today}",
         f"period: {period}",
         f"subject: {subject}",
@@ -166,10 +166,10 @@ def build_monthly(subject, label, today):
         rr.PENDING,
         "---",
         "",
-        f"# {label}: monthly update, {span_label(period)}",
+        f"# {label}: News, {span_label(period)}",
         "",
         f"*{len(places)} places. Every block below is carried verbatim from that place's own "
-        f"monthly update, where it was written, sourced and checked; nothing is written here.*",
+        f"news page, where it was written, sourced and checked; nothing is written here.*",
     ]
     if not one_window:
         out += ["", "*The place reports do not share one window; the period above is the range "
