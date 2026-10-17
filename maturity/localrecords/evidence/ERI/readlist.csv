@@ -1,6 +1,7 @@
-n,slice,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
-,,ERI,status,dpi.pay,,outputs/reports/ERI/ERI-status.md,,Digital Payments and Fintech,,,status,,0,284
-,,ERI,status,dpi.registry,,outputs/reports/ERI/ERI-status.md,,Registries,,,status,,0,360
-,,ERI,status,dpi.mis,,outputs/reports/ERI/ERI-status.md,,Sectoral management information systems,,,status,,0,296
-,,ERI,status,digital.localgov,,outputs/reports/ERI/ERI-status.md,,Digitalisation of sub-national government,,,status,,0,95
-1,1,ERI,raw,2023-03-01-govtech-maturity-index-2022-regional-brief-afe,passages,scripts/.workroot/study/localrecords/passages/ERI/2023-03-01-govtech-maturity-index-2022-regional-brief-afe.md,https://documents1.worldbank.org/curated/en/099040723102011827/pdf/P169482059758a0cd095d709f59c065838e.pdf,"GovTech Maturity Index, 2022 Update — Regional Brief: East and Southern Africa",2023-03-01,XSS;ETH;KEN;MUS;RWA;TZA;UGA;ZAF;ZMB,regional,lgrcis;local government revenue,2,760
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,ERI,status,dpi.pay,,outputs/reports/ERI/ERI-status.md,,Digital Payments and Fintech,,,status,,0,284
+,,,,ERI,status,dpi.registry,,outputs/reports/ERI/ERI-status.md,,Registries,,,status,,0,360
+,,,,ERI,status,dpi.mis,,outputs/reports/ERI/ERI-status.md,,Sectoral management information systems,,,status,,0,296
+,,,,ERI,status,digital.localgov,,outputs/reports/ERI/ERI-status.md,,Digitalisation of sub-national government,,,status,,0,95
+1,1,,,ERI,raw,2023-03-01-govtech-maturity-index-2022-regional-brief-afe,passages,scripts/.workroot/study/localrecords/passages/ERI/2023-03-01-govtech-maturity-index-2022-regional-brief-afe.md,https://documents1.worldbank.org/curated/en/099040723102011827/pdf/P169482059758a0cd095d709f59c065838e.pdf,"GovTech Maturity Index, 2022 Update — Regional Brief: East and Southern Africa",2023-03-01,XSS;ETH;KEN;MUS;RWA;TZA;UGA;ZAF;ZMB,regional,lgrcis;local government revenue,2,760
+2,2,new,instrument,ERI,raw,2024-06-27-eri-afdb-estap-ipr-june-2024,passages,scripts/.workroot/study/localrecords/passages/2024-06-27-eri-afdb-estap-ipr-june-2024.md,https://www.afdb.org/sites/default/files/documents/projects-and-operations/eritrea_-_strengthening_tax_administration_project_estap_-_p-er-k00-002_-_ipr_june_2024.pdf,Eritrea - Strengthening Tax Administration Project (ESTAP) - P-ER-K00-002 - Implementation Progress and Results Report (IPR) June 2024,2024-06-27,ERI,subject+considered,revenue administration system,1,522

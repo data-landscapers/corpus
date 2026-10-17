@@ -348,7 +348,7 @@ def renumber(existing: list[dict], rows: list[dict], mark: str) -> None:
     for r in rows:
         r["pass"] = mark
     number([], rows, max([int(r["n"]) for r in raw] or [0]),
-           max([int(r["slice"]) for r in raw] or [0]))
+           max([int(r["slice"]) for r in raw if r.get("slice")] or [0]))   # a carried row has no call
 
 
 def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],

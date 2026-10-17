@@ -2,7 +2,7 @@
 r"""study-update.py — keeping a finished maturity study current: the work order, the log and the rotation.
 
     python scripts/study-update.py order                   what arrived and is unread, by study and country; exit 1 if nothing
-    python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed
+    python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed|instrument|old|capped
     python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder --note "..."
     python scripts/study-update.py next [--poll]           tonight's indicator for a whole reassessment; exit 1 if none is owed
     python scripts/study-update.py done STUDY KEY          stamp an indicator's whole reassessment
@@ -58,10 +58,12 @@ ROTATION = os.path.join(study_lib.CORPUS, "logs", "maturity-review.csv")
 ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed"]
 HISTORY_FIELDS = ["date", "iso3", "indicator_id", "kind", "from", "to", "sources", "note"]
 KINDS = ("fact", "review", "ladder")
-OUTCOMES = ("nothing", "fact", "reassessed")
+OUTCOMES = ("nothing", "fact", "reassessed",
+            "instrument", "old", "capped")   # closed unread by `study-arrivals.py` (Bill, 2026-10-17)
 # Bill, 2026-10-11: the update is not run until every indicator has had its first study, so
 # the quota goes on building them. `list`, `order` and `next` name nothing while this is True.
-HELD = True
+# Lifted 2026-10-17 (Bill): every indicator has its first study.
+HELD = False
 MIN_GAP_DAYS = 30          # an indicator is not reassessed whole twice inside this
 SEARCH_EVERY_DAYS = 365
 
