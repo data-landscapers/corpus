@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-10-16
+compiled: 2026-10-17
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 238
+sources_cited: 239
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -424,7 +424,7 @@ The American presence in Togo's digital sector runs through a university researc
 ### China activities
 <!-- geopol.china -->
 
-Togo's one standing Chinese digital instrument is a [strategic partnership protocol concluded with Huawei in the margins of the China-Africa forum in September 2024, signed for Togo by the trade minister to strengthen cooperation in information and communication technology](https://www.republiquetogolaise.com/tic/0909-9696-numerique-le-togo-et-huawei-scellent-un-partenariat-strategique) — its text unpublished, with no amount, scope or timetable stated. No Chinese-financed digital infrastructure project in Togo is on the public record. The only later engagement is a capacity visit: Togolese officials [toured China's G60 science and technology corridor on 31 July 2026 during a seminar run by the Chinese commerce ministry](https://territoire.gouv.tg/seminaire-en-chine-les-cadres-togolais-decouvrent-le-modele-dinnovation-du-corridor-scientifique-et-technologique-g60/), with partnerships, internships and training named as prospects and nothing signed.
+Togo's one standing Chinese digital instrument is a [strategic partnership protocol concluded with Huawei in the margins of the China-Africa forum in September 2024, signed for Togo by the trade minister to strengthen cooperation in information and communication technology](https://www.republiquetogolaise.com/tic/0909-9696-numerique-le-togo-et-huawei-scellent-un-partenariat-strategique) — its text unpublished, with no amount, scope or timetable stated. No Chinese-financed digital infrastructure project in Togo is on the public record. Later engagement has been broad rather than digital-specific. Togolese officials [toured China's G60 science and technology corridor on 31 July 2026 during a seminar run by the Chinese commerce ministry](https://territoire.gouv.tg/seminaire-en-chine-les-cadres-togolais-decouvrent-le-modele-dinnovation-du-corridor-scientifique-et-technologique-g60/), and [the thirteen accords signed in Beijing on 15 October 2026 include a commitment to deepen cooperation on digital commerce and supply chains, a customs Authorised Economic Operator protocol between the revenue office and China's customs administration, and partnerships between China Media Group and the state broadcaster](https://presidenceduconseil.gouv.tg/2026/10/16/togo-chine-de-nouveaux-accords-multisectoriels-pour-renforcer-le-partenariat-bilateral/); none of the texts is published.
 
 ### EU activities
 <!-- geopol.eu -->

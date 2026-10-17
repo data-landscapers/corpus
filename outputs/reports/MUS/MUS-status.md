@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-16
+compiled: 2026-10-17
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 152
+sources_cited: 153
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -138,7 +138,7 @@ The government told Parliament in August 2026 that it was [consulting to recruit
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-Cabinet [noted on 22 May 2026 the promulgation of Critical Information Infrastructure Designation Regulations, in force from 1 June 2026](https://lexpress.mu/node/558304), closing a gap in which [the state could prosecute cybercriminals but had no framework for designating and regulating operators of critical systems](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m). The first phase covers [five sectors — financial services and banking, the public service, ICT and broadcasting, energy and water, and transport](https://lexpress.mu/node/558304) — and [operators have twelve months from entry into force to comply](https://lexpress.mu/node/558304). [Designation runs through the National Cybersecurity Committee in consultation with the sector regulators, with owners bound by confidentiality and authorised-access directives](https://lexpress.mu/node/558304); [the Committee holds enforcement authority alongside law enforcement agencies](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m), and [non-compliance carries up to 25 years' imprisonment and fines of up to Rs 2 million](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m).
+Cabinet [noted on 22 May 2026 the promulgation of Critical Information Infrastructure Designation Regulations, in force from 1 June 2026](https://lexpress.mu/node/558304), closing a gap in which [the state could prosecute cybercriminals but had no framework for designating and regulating operators of critical systems](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m). The first phase covers [five sectors — financial services and banking, the public service, ICT and broadcasting, energy and water, and transport](https://lexpress.mu/node/558304) — and [operators have twelve months from entry into force to comply](https://lexpress.mu/node/558304). [Designation runs through the National Cybersecurity Committee in consultation with the sector regulators, with owners bound by confidentiality and authorised-access directives](https://lexpress.mu/node/558304); [the Committee holds enforcement authority alongside law enforcement agencies](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m), and [non-compliance carries up to 25 years' imprisonment and fines of up to Rs 2 million](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m) (2026).
 
 The parent statute is [the Cybersecurity and Cybercrime Act 2021](https://ncb.govmu.org/ncb/legislations/THE%20CYBERSECURITY%20AND%20CYBERCRIME%20ACT%202021.pdf) and the standing policy [the National Cyber Security Strategy 2023-2026, published through CERT-MU](https://cert-mu.govmu.org/cert-mu/wp-content/uploads/2023/11/Policies-and-Legislation.pdf). Mauritius sits in [the top 'role-modelling' tier of the ITU's Global Cybersecurity Index 2024, reserved for states with an overall score of at least 95 out of 100](https://www.itu.int/pub/D-HDB-GCI.01-2024).
 
@@ -364,7 +364,7 @@ No Gulf state, Gulf-based operator or Gulf investor held a position in Mauritius
 
 Mauritians can pay directly on India's payment rails: [the UPI-RuPay arrangement agreed in February 2024 is Mauritius's first bilateral cross-border payments agreement](https://lexpress.mu/node/554033), and the domestic rail now runs into India's: [MauCAS is joined to the Unified Payments Interface network-to-network, with QR payments settling in Indian rupees through a designated settlement bank](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf).
 
-The same relationship is now reaching the cable layer. [Mauritius's move to join the America-India Connect subsea cable programme followed discussions between Prime Minister Ramgoolam and Prime Minister Modi at the AI Impact Summit in New Delhi in February 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), and [was announced on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Payments interoperability and onward capacity are two of the more durable forms of foreign presence: neither is a building, and both are hard to unwind once traffic depends on them.
+The same relationship is now reaching the cable layer. [Mauritius's move to join the America-India Connect subsea cable programme followed discussions between Prime Minister Ramgoolam and Prime Minister Modi at the AI Impact Summit in New Delhi in February 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), and [was announced on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Payments interoperability and onward capacity are two of the more durable forms of foreign presence: neither is a building, and both are hard to unwind once traffic depends on them. The services layer has a softer tie: [the state IT company State Informatics Limited signed a memorandum with Tata Consultancy Services on 15 October 2026 to develop digital solutions, transfer skills and modernise public- and private-sector services](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique), with no sum or timetable stated.
 
 ### Digital sovereignty
 <!-- geopol.sovereignty -->
