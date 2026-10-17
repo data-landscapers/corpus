@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: BFA
 ledger_rows: 39
 not_held: 8
-record: f3275fc305db
+record: 3f0f1bb107c8
 ---
 
 # News, Sep – Oct 2026
@@ -313,6 +313,14 @@ Burkina Faso's national identification office ONI began special operations to is
 **[ID Day 2026 : l'ONI ouvre plusieurs sites d'enrôlement à Ouagadougou face à l'affluence pour la CIB-AES](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/)** — FasoAmazone, 15 September 2026
 
 Burkina Faso's national identification office opened nine extra enrolment sites across Ouagadougou for the Sahel alliance biometric identity card after heavy demand at its main centre. Cards are promised within 48 hours during the special operation, which runs to International Identity Day on 16 September; no enrolment figures are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Désormais, la Gendarmerie nationale produit les CIB-AES et légalise les documents administratifs](https://aconews.net/burkina-faso-desormais-la-gendarmerie-nationale-produit-les-cib-aes-et-legalise-les-documents-administratifs/)** — Aconews, 16 October 2026
+
+Gendarmerie brigades join enrolment network; birth extract or nationality certificate still required.
 
 </div>
 

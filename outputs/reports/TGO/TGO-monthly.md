@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: TGO
-ledger_rows: 53
+ledger_rows: 54
 not_held: 19
-record: 0b8fa4906f0b
+record: bffebbe81e9c
 ---
 
 # News, Sep – Oct 2026
@@ -28,6 +28,8 @@ record: 0b8fa4906f0b
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -818,6 +820,14 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Le Togo collecte des données en éwé, kabyè et moba pour entraîner ses futurs modèles d’IA](https://www.agenceecofin.com/actualites/1610-142485-le-togo-collecte-des-donnees-en-ewe-kabye-et-moba-pour-entrainer-ses-futurs-modeles-d-ia)** — Agence Ecofin, 16 October 2026
+
+Official launch October 2026; three-year programme; per language 50 audio hours, 6,000 sentence pairs, 500 speakers.
+
+</div>
+
 </div>
 
 ## Capacity
@@ -836,7 +846,7 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 
 <div class="bulletin-item" markdown="1">
 
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
@@ -967,6 +977,28 @@ Togo's statistics institute INSEED is running a national household living-condit
 **[Technologies spatiales : Le Togo et le Kirghizistan lancent une coopération](https://togopresse.tg/technologies-spatiales-le-togo-et-le-kirghizistan-lancent-une-cooperation/)** — Togo-Presse, 4 October 2026
 
 Togo's digital minister Cina Lawson announced on 1 October 2026 a space cooperation with Kyrgyzstan, which is to supply earth-observation data for agriculture, strategic-minerals exploration and green energy, train local staff and transfer the technology to use it. Joint development and launch of future spacecraft is under consideration. No cost or timetable is given.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+</nav>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chinese digital or technology cooperation instrument</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo-Chine : une douzaine d'accords multisectoriels signés à Pékin pour renforcer le partenariat bilatéral](https://presidenceduconseil.gouv.tg/2026/10/16/togo-chine-de-nouveaux-accords-multisectoriels-pour-renforcer-le-partenariat-bilateral/)** — Présidence du Conseil (Togo), 16 October 2026
+
+13 accords of 15 Oct 2026: digital-commerce cooperation, OTR customs AEO, CMG-TVT media, Global Security Initiative.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MWI
-ledger_rows: 43
+ledger_rows: 45
 not_held: 32
-record: 97c63013fe98
+record: 36811478893c
 ---
 
 # News, Sep – Oct 2026
@@ -718,6 +718,20 @@ A World Bank team reviewed progress on Malawi's electronic procurement system MA
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Content Delivery and Monetization Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposals: consultancy services for a content delivery application (MACRA)](https://macra.mw/wp-content/uploads/2026/10/MACRA-36X6.pdf)** — Malawi Communications Regulatory Authority (MACRA), 14 October 2026
+
+Ref MACRA/IPDC/BROAD-CDA/2026/10/01; OTT, DRM and royalty tracking for creators; proposals open 3 Nov 2026.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -770,6 +784,8 @@ Malawi Police officers were trained to identify, preserve and analyse digital ev
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -813,6 +829,22 @@ Malawi's regulator backed AI-powered crime cameras for Blantyre after meeting ci
 **[Malawi's Telecoms Regulator Proposes AI Surveillance Network for Blantyre](https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/)** — iAfrica.com, 28 September 2026
 
 Malawi's communications regulator recommended AI surveillance cameras for Blantyre under its Smart City Surveillance Initiative, a pilot combining number-plate recognition, traffic monitoring and a central command centre at four sites. No cost, supplier, timeline or rules on footage have been published, and the country has no AI policy yet.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PayChangu</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
+
+Licence PSP-003/26 issued 30 Sep 2026 under Payment Systems Act 2016; mobile money, card and bank aggregation.
 
 </div>
 

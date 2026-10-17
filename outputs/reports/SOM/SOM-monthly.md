@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: SOM
 ledger_rows: 18
 not_held: 2
-record: 3e8fd9f842c9
+record: 2fe0eafa8197
 ---
 
 # News, Sep – Oct 2026

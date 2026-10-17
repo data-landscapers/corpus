@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MUS
-ledger_rows: 25
+ledger_rows: 27
 not_held: 7
-record: a865c6dfdc91
+record: 85eff7761649
 ---
 
 # News, Sep – Oct 2026
@@ -248,7 +248,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 <div class="bulletin-item" markdown="1">
 
-**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
@@ -380,7 +380,7 @@ Mauritius's digital driving licence takes legal effect on 1 January 2027, after 
 
 <div class="bulletin-item" markdown="1">
 
-**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
 
@@ -427,6 +427,20 @@ Mauritius opened online applications for the State Age Pension from 7 October 20
 **[«Water Tank and Water Pump Grant Scheme» : Les demandes d’aide pour les réservoirs d’eau bientôt en ligne](https://lexpress.mu/s/les-demandes-daide-pour-les-reservoirs-deau-bientot-en-ligne-563523)** — L'Express (Maurice), 12 October 2026
 
 Mauritius's ICT ministry says it is building an online application platform with the Central Water Authority for a household water tank and pump grant announced on 9 October. Access terms are to follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Safe City camera network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 16 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2016%20October%20%202026.pdf)** — Office of the Prime Minister, Mauritius, 16 October 2026
+
+Riot damage to 162 Safe City cameras on 75 sites; MRA-ATAF Digital Tax Administration Conference 19-21 Oct 2026.
 
 </div>
 
@@ -552,6 +566,8 @@ The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 Sep
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
 <a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#india-activities">India activities</a>
 </nav>
 
 ### US / hyperscaler activities
@@ -565,6 +581,22 @@ The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 Sep
 **[Cloud, données et IA : Mauritius Telecom et AWS mobilisent les entreprises publiques](https://lexpress.mu/node/563331)** — L'Express (Maurice), 7 October 2026
 
 Mauritius Telecom and Amazon Web Services brought more than 125 delegates from state-owned enterprises to an executive workshop on cloud, data and AI at Ebene on 6 October, to identify uses in public services.
+
+</div>
+
+</div>
+
+### India activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">State Informatics-Tata Consultancy Services memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Partenariat SIL–TCS : Maurice accélère sa transformation numérique](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique)** — Top FM, 16 October 2026
+
+MoU signed 15 Oct 2026; skills transfer, public and private service modernisation; no sum stated; ICT minister Ramtohul.
 
 </div>
 

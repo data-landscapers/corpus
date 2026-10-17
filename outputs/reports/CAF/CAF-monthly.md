@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: CAF
-ledger_rows: 18
+ledger_rows: 19
 not_held: 4
-record: 558f44832668
+record: 2e21c11ee933
 ---
 
 # News, Sep – Oct 2026
@@ -223,6 +223,20 @@ A fire damaged part of the data-processing centre of the Central African Republi
 **[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">POST CASH national fintech platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ELABORATION DU CAHIER DE CHARGE FONCTIONNEL ET TECHNIQUE PLATE FORME FINTEC](https://www.ungm.org/Public/Notice/318521)** — United Nations Development Programme (UNDP) via UNGM, 16 October 2026
+
+UNDP seeks consultant to specify national POST CASH fintech platform; 30 working days in Bangui, bids by 25 Oct 2026.
 
 </div>
 

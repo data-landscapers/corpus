@@ -3,9 +3,9 @@ title: Senegal — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: SEN
-ledger_rows: 58
+ledger_rows: 60
 not_held: 3
-record: 1fcf345e6d71
+record: 9ca7915f29d4
 ---
 
 # News, Sep – Oct 2026
@@ -556,7 +556,7 @@ Senegal held 29.7% of electronic money outstanding in the West African Economic 
 
 <div class="bulletin-item" markdown="1">
 
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
@@ -633,6 +633,20 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 **[GREEN](https://senprof.education.sn/GUIDES%20ET%20DOCUMENTATIONS/GUIDE%20GREEN)** — SIMEN — Système d'Information et de Management de l'Éducation nationale, Ministère de l'Éducation nationale du Sénégal, 3 September 2026
 
 Senegal's education ministry says it has completed nationwide rollout of the education identifier (IEN), a unique alphanumeric number for every teacher and pupil, issued at enrolment through the GREEN module of its SIMEN information system. Head teachers enrol staff and pupils. The guide is undated and describes Excel import and export rather than links to other systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-OSC platform for NGOs and associations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Les ONG et associations invitées à s’inscrire sur la plateforme numérique e-OSC - APS](https://aps.sn/les-ong-et-associations-invitees-a-sinscrire-sur-la-plateforme-numerique-e-osc/)** — Agence de Presse Sénégalaise (APS), 16 October 2026
+
+Registry of zones, projects, funding and beneficiaries; prepares online NGO approval and association recognition.
 
 </div>
 
@@ -729,6 +743,20 @@ Senegal officially launched two judicial digital platforms at the Lat Dior court
 **[Senegal sets sights on Azerbaijan's ASAN Khidmet model rollout](https://www.trend.az/azerbaijan/society/4220630.html)** — Trend News Agency, 4 September 2026
 
 Senegal plans to open a single public-services centre on Azerbaijan's ASAN Khidmet model within three to four months, its civil service minister Mamadou Lamine Diante said in Baku on 4 September 2026. He spoke at the signing of a memorandum between his ministry and the Organisation of Islamic Cooperation's Islamic Labour Centre.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public procurement platform APPEL</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GÉNÉRALISATION APPEL ET ACCÈS AUX OPPORTUNITÉS DE LA PLATEFORME :L’ARCOP accélère la préparation des entreprises](https://arcop.sn/2026/10/16/generalisation-appel-et-acces-aux-opportunites-de-la-plateforme-larcop-accelere-la-preparation-des-entreprises/)** — Autorité de Régulation de la Commande Publique (ARCOP), 16 October 2026
+
+2027 procurement plans on APPEL by 1 Dec 2026; 325+ contracting authorities in training; OPTIC firms briefed.
 
 </div>
 
