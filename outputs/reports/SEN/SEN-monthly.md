@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: SEN
 ledger_rows: 58
 not_held: 3
-record: 106c32a6386e
+record: 1fcf345e6d71
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -168,7 +168,7 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Critical information infrastructure bill</p>
+<p class="monthly-story__name">Critical-infrastructure protection legal framework</p>
 
 <div class="bulletin-item" markdown="1">
 
