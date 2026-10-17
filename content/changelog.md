@@ -5,6 +5,7 @@
 - The top of each country and region monthly update, status report and finance report, down to its contents bar, now stays on screen as you scroll, with the PDF button beside the title. The edition date, compiler and coverage moved to the box at the foot of the page.
 - Each country's Institution hosting report is renamed Online hosting, titled web and email hosting, and now opens like the country's other reports, with the same sticky heading and contents bar. Its edition is unchanged.
 - Each country's Maturity Assessment report now opens like its other reports and is listed with them as Maturity. It no longer carries the Under construction notice.
+- A place's reports are now listed in the order News, Status, Maturity, Finance, Online hosting, and each report has a Change country menu beside the country's name. It opens the same report for another country, or another region on a region's page.
 - The Maturity Assessment now updates from the news: 810 stories published since each indicator was assessed were read, and 253 country assessments moved. Each move is shown with its date and the source behind it.
 
 ## 16 October 2026

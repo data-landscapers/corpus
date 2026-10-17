@@ -339,8 +339,9 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # in it. Built here rather than in the source, because the status report is authored by hand
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
-FAMILY = (("status", "Status"), ("monthly", "News"),
-          ("finance", "Finance"), ("hosting", "Online hosting"), ("maturity", "Maturity"))
+# In reading order *(Bill, 2026-10-17)*.
+FAMILY = (("monthly", "News"), ("status", "Status"), ("maturity", "Maturity"),
+          ("finance", "Finance"), ("hosting", "Online hosting"))
 FAMILY_PAGES = {"status", "monthly", "finance", "hosting"}
 
 
@@ -371,9 +372,33 @@ def family_bar(unit: str, kind: str) -> str:
         for k, label in FAMILY
         if k != kind and family_page(unit, k)[1].exists())
     return ('<div class="report-family">\n'
-            f'<div class="report-family__kicker">{family}: {name}</div>\n'
+            f'<div class="report-family__kicker"><span>{family}: {name}</span>'
+            f'{place_switch(unit, kind)}</div>\n'
             f'<nav class="article-toc report-siblings" aria-label="Other reports for {name}">\n'
             f'{links}\n</nav>\n</div>\n')
+
+
+def place_switch(unit: str, kind: str) -> str:
+    """"Change country" on the kicker's right *(Bill, 2026-10-17)*: the same report for each
+    other place of the family that has one, by name. Regions list regions, countries countries."""
+    import bulletin
+    from html import escape
+    region = unit.startswith("X")
+    opts = []
+    for code, name in sorted(bulletin.place_names().items(), key=lambda kv: kv[1]):
+        if code.startswith("X") != region:
+            continue
+        url, path = family_page(code, kind)
+        if code != unit and not path.exists():
+            continue
+        sel = " selected" if code == unit else ""
+        opts.append(f'<option value="{url}"{sel}>{escape(name)}</option>')
+    if len(opts) < 2:
+        return ""
+    label = "Change region" if region else "Change country"
+    return (f'<label class="place-switch screen-only">{label} '
+            '<select onchange="if (this.value) location.href = this.value">'
+            + "".join(opts) + "</select></label>")
 
 
 def contents_bar(html: str) -> str:
