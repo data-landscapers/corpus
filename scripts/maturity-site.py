@@ -12,11 +12,12 @@ the studies' issued files — every `outputs/maturity/{id}/assessment.csv`, `{IS
 `{indicator_id}.md` — and from `lookups/indicators.csv`. The map page holds no content of its
 own: `maturity.json` carries everything it shows, and `site/assets/js/maturity-map.js` draws it.
 
-**Soft launch** *(Bill, 2026-10-09)*. Every page carries `noindex` and the *Under construction*
-band; `sitemap.py` already leaves a `noindex` page out. Draft stages are shown. **The country
-reports came out of hiding on 2026-10-17** *(Bill)*: they lost the band and joined the place's
-report bar, so each country's other reports link to them; they keep `noindex` until launch. Launch is `LAUNCHED = True` here, which drops the band and the noindex and cuts the
-downloads, and the menu entry in data-landscapers `_data/site_menu.yml`.
+**Soft launch** *(Bill, 2026-10-09)*. Every page carried `noindex` and the *Under construction*
+band. Draft stages are shown. **The country reports came out of hiding on 2026-10-17** *(Bill)*:
+they lost the band and joined the place's report bar, and every page dropped `noindex` the same
+day (`INDEXED`), because a search engine takes days to act on it. Launch is `LAUNCHED = True`
+here, which drops the remaining bands and cuts the downloads, and the menu entry in
+data-landscapers `_data/site_menu.yml`.
 
 **Downloads wait for launch** *(Bill)*. A dated CSV once downloaded is kept for ever (`design.md`
 §9), so no draft is offered as one. Until launch the buttons are shown disabled, and the files they
@@ -71,8 +72,10 @@ GEO = ROOT / "lookups" / "africa.geojson"
 GEO_TOLERANCE = 0.02
 
 LAUNCHED = False
+# Indexed ahead of launch (Bill, 2026-10-17): it takes days to take effect.
+INDEXED = True
 # Before launch the reports and the methodology page carry the Under construction band; the map carries
-# the words in its title instead, so the map page keeps its full depth (Bill, 2026-10-09). noindex stays.
+# the words in its title instead, so the map page keeps its full depth (Bill, 2026-10-09).
 SHOW_BAND = True
 
 # The scale: documentation/archived/maturity-assessment.md §3, the instruments-and-systems column.
@@ -453,7 +456,7 @@ def page(*, title, description, canonical, depth, body, body_class, sheets=(), s
          active=None, band: bool = True, head: str = "") -> str:
     """`band=False` for the map, which says *Under construction* in its title instead (Bill, 2026-10-09).
     `head` is the map's `dl-artefact` lines once it publishes editions."""
-    robots = "" if LAUNCHED else '<meta name="robots" content="noindex">\n'
+    robots = "" if LAUNCHED or INDEXED else '<meta name="robots" content="noindex">\n'
     band = UNDER_CONSTRUCTION if band and SHOW_BAND and not LAUNCHED else ""
     return external_links(
         HEAD.format(title=html.escape(title), description=html.escape(description), robots=robots, head=head,

@@ -241,10 +241,66 @@
   <url><loc>https://corpus.data-landscapers.io/finance/budgets/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/finance/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/ago/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/bdi/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/ben/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/bfa/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/bwa/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/caf/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/civ/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/cmr/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/cod/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/cog/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/com/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/cpv/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/dji/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/dza/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/egy/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/eri/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/eth/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gab/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gha/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gin/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gmb/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gnb/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/gnq/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/ken/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/lbr/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/lby/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/lso/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mar/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mdg/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mli/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/moz/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mrt/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mus/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/mwi/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/nam/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/ner/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/nga/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/rwa/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/sdn/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/sen/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/sle/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/som/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/ssd/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/stp/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/swz/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/syc/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/tcd/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/tgo/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/tun/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/tza/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/uga/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/zaf/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/zmb/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/countries/zwe/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/maturity/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/methodology/changelog/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/methodology/document-lifecycle/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/methodology/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/methodology/lookups/</loc></url>
+  <url><loc>https://corpus.data-landscapers.io/methodology/maturity/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/methodology/process-inventory/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/progress/countries/</loc></url>
   <url><loc>https://corpus.data-landscapers.io/progress/</loc></url>
