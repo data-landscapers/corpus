@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: BEN
 ledger_rows: 35
 not_held: 4
-record: 4753b4709ce7
+record: 4aafc5da0e42
 ---
 
 # News, Sep – Oct 2026
@@ -279,6 +279,14 @@ Benin's identification agency opened online renewal of the biometric identity ca
 **[Digitalisation de la preuve de vie : Le Ministère de l’Économie et des Finances simplifie la démarche](https://www.gouv.bj/article/3686/digitalisation-preuve-ministere-economie-finances-simplifie-demarche/)** — Gouvernement de la République du Bénin, 3 October 2026
 
 Benin's Ministry of Economy and Finance announced on 3 October 2026 that pensioners can complete their annual proof of life from a smartphone. After identifying with their personal identification number (NPI) and pension booklet number, they verify their fingerprints in an app and receive confirmation by SMS or email. Biometric kiosks in some public places offer an alternative.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin launches app letting public-sector retirees provide proof of life remotely](https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely)** — Ecofin Agency, 17 October 2026
+
+FNRB pensioners verify by fingerprint via app or kiosk; campaign 15 Oct-15 Nov 2026, open to retirees abroad.
 
 </div>
 

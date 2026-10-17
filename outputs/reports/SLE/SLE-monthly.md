@@ -3,9 +3,9 @@ title: Sierra Leone — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: SLE
-ledger_rows: 30
+ledger_rows: 31
 not_held: 5
-record: 9f6c872db768
+record: ed28e794c24b
 ---
 
 # News, Sep – Oct 2026
@@ -213,6 +213,8 @@ Sierra Leone's communications ministry confirmed that 44 website addresses, one 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -263,6 +265,22 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 **[NRA Prepares to Launch Digital Customs System at Jendema Border](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/)** — Sierraloaded, 6 October 2026
 
 Sierra Leone's revenue authority has begun consultations with security agencies and local stakeholders at the Jendema border crossing as it prepares to launch the ASYCUDA World customs system there. The system will automate import, export and transit procedures; no launch date is given.
+
+</div>
+
+</div>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity card issuance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Must Act on Tripartite Recommendation 15: Make National Identity Cards Affordable for Sierra Leoneans | OWLPRESS](https://owlpress-sl.com/government-must-act-on-tripartite-recommendation-15-make-national-identity-cards-affordable-for-sierra-leoneans/)** — Owlpress, 15 October 2026
+
+NCRA card fee rose from NLe 145 to NLe 165 on 23 Feb 2026; MP proposes NLe 50 to spare separate voter IDs.
 
 </div>
 
@@ -530,7 +548,7 @@ The Center for Information Privacy, Human-Centered Technology and Ethics Researc
 
 <div class="bulletin-item" markdown="1">
 
-**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Global Development Network kicks off deployment of its five-country DPI Inclusivity Survey](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/)** — Global Development Network — Inclusive Digital Transformation Hub, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The Global Development Network has begun fieldwork on a five-country DPI Inclusivity Survey covering Sierra Leone and Ghana alongside Chile, Bangladesh and Indonesia, with partner teams at the Institute for Development and the University of Ghana. Running to April and engaging more than 5,000 households, it asks whether digital identity and digital payment systems leave people feeling more economically, socially and politically included, rather than measuring registration and access.
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: GMB
 ledger_rows: 48
 not_held: 2
-record: 057221713b11
+record: 81f947903daa
 ---
 
 # News, Sep – Oct 2026

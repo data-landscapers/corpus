@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: CMR
 ledger_rows: 34
 not_held: 4
-record: e6f9fb39d888
+record: b71c9fc765c4
 ---
 
 # News, Sep – Oct 2026
@@ -430,7 +430,15 @@ The youth ministry signed a three-year renewable partnership with a company on 1
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">AILGLES biometric payroll system</p>
+<p class="monthly-story__name">AIGLES biometric payroll system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AIGLES AT E-GOVA: CAMEROON'S ANSWER TO A PAPERLESS AND CASHLESS AFRICA](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2390-aigles-at-e-gova-cameroon-s-answer-to-a-paperless-and-cashless-africa-2)** — Ministry of Public Service and Administrative Reform (MINFOPRA), Cameroon, 16 October 2026
+
+Minister Joseph Le at E-GOVA: AIGLES over 80% deployed, one system for 250,000-plus public servants' careers and pay.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 

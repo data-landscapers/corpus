@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: TUN
 ledger_rows: 60
 not_held: 5
-record: de47f22267d3
+record: eb1fd7b3794f
 ---
 
 # News, Sep – Oct 2026
@@ -230,7 +230,7 @@ The Arab ICT Organisation and Tunisia's communication technologies ministry open
 
 <div class="bulletin-item" markdown="1">
 
-**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
@@ -1095,6 +1095,14 @@ Tunisia's National Statistics Council reviewed the statistics institute's develo
 **[Usages des TIC en Tunisie : Un taux d’accès de 85,9 %, une consommation nocturne et la primauté du Sud](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/)** — L'Echo Tunisien, 1 October 2026
 
 Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, puts the national internet access rate at 85.9% in its latest ICT use barometer, reported on 1 October 2026. Use is 99.2% among 18–24 year-olds and 54.1% among 60–70 year-olds, and ranges from 69.1% in the lowest-income households to 95.9% in the highest. The barometer's fieldwork date is not given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : près de 86 % des 10-70 ans sont connectés et près d’un internaute sur deux utilise l’IA](https://www.leconomistemaghrebin.com/2026/10/16/86pc-10-70-ans-tunisie-connectes/)** — L'Économiste Maghrébin Tunisie, 16 October 2026
+
+AI apps used by 47.9% of internet users, ChatGPT 96.3% of them; fieldwork 15 May-10 June 2026; up 10.9 points on 2023.
 
 </div>
 

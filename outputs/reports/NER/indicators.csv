@@ -391,7 +391,7 @@ dpi.mis--education,Movement,"The [2024-2025 basic-education yearbook was authori
 
 The higher-education subsector runs the same chain: the [2024-2025 yearbook](2025-12-03-mesri-niger-annuaire-superieur-2024-2025) reports a census of 216 establishments at 100% declared coverage, captured from spreadsheet returns and loaded into the same platform, following the [2023-2024 edition authorised in September 2025](2025-09-22-mesri-niger-annuaire-superieur-2023-2024).
 
-No completeness or timeliness measure for the school census is published.",NER-dpi.mis-stateduc2,3,NER-dpi.mis-stateduc2,,,,,,,2026-08-31,0,annual school census and yearbook published; no individual-level records
+No completeness or timeliness measure for the school census is published.",NER-dpi.mis-stateduc2|NER-dpi.mis-dune-rh,3,NER-dpi.mis-stateduc2,,,,,,,2026-08-31,0,annual school census and yearbook published; no individual-level records
 dpi.mis--social-protection,Movement,"An [emergency response manual was adopted in October 2025](2026-02-11-worldbank-cerp-project-paper-niger) for crisis delivery through the safety-net chain, and the [2011 policy is under revision](2025-09-04-lesahel-atelier-revision-pnps).","The [manual adopted on 22 October 2025](2026-02-11-worldbank-cerp-project-paper-niger) sets activation, implementation, eligibility, procurement and monitoring arrangements for crisis and emergency response delivered through the social safety-net unit's delivery chain, with payments made by digital or manual channels.
 
 A [roadmap workshop opened on 3 September 2025](2025-09-04-lesahel-atelier-revision-pnps) to revise the 2011 national social protection policy, framed around a data-driven, evidence-based national system.

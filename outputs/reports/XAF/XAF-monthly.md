@@ -3,9 +3,9 @@ title: Africa — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: XAF
-ledger_rows: 104
+ledger_rows: 105
 not_held: 3
-record: 3fcf39b60184
+record: 17c66d74584f
 ---
 
 # News, Sep – Oct 2026
@@ -604,7 +604,7 @@ Participants on AFRINIC's Resource Policy Discussion mailing list debated whethe
 
 <div class="bulletin-item" markdown="1">
 
-**[How an ITU security lab advances trust in digital financial services](https://www.itu.int/hub/2026/09/how-an-itu-security-lab-advances-trust-in-digital-financial-services/)** — International Telecommunication Union (ITU), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[How an ITU security lab advances trust in digital financial services](https://www.itu.int/hub/2026/09/how-an-itu-security-lab-advances-trust-in-digital-financial-services/)** — International Telecommunication Union (ITU), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The International Telecommunication Union says its Digital Financial Services Security Lab has assisted more than 20 countries in Africa, the Caribbean and Latin America to test mobile payment apps for security. Its guidelines for regulators have been adopted by the southern and east African regulators' associations, CRASA and EACO; the central African body is considering them and the West African one has a draft.
 
@@ -754,7 +754,7 @@ The African Union's development agency launched and chairs an AI policy workstre
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa Economic Update, October 2026: Building AI Readiness](https://www.tralac.org/documents/resources/africa/8051-africa-economic-update-october-2026-world-bank/file.html)** — World Bank, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[Africa Economic Update, October 2026: Building AI Readiness](https://www.tralac.org/documents/resources/africa/8051-africa-economic-update-october-2026-world-bank/file.html)** — World Bank, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The World Bank's Africa Economic Update for October 2026 focuses on readiness for artificial intelligence. It puts Sub-Saharan Africa's share of global data-centre capacity at 0.6%, counts 39 countries with data-protection laws, and scores the region at 41.6 on AI governance against 52.6 globally. It forecasts 2026 growth of 4.3%.
 
@@ -762,7 +762,7 @@ The World Bank's Africa Economic Update for October 2026 focuses on readiness fo
 
 <div class="bulletin-item" markdown="1">
 
-**[World Bank raises Africa’s 2026 growth forecast, urges AI investments](https://www.cnbcafrica.com/2026/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments)** — Reuters via CNBC Africa, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[World Bank raises Africa’s 2026 growth forecast, urges AI investments](https://www.cnbcafrica.com/2026/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments)** — Reuters via CNBC Africa, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The World Bank's October Africa Economic Update urges Sub-Saharan governments to invest in AI for productivity and jobs, pointing to low-cost applications on affordable devices, shared data centres and stronger data-protection laws. It puts the region's 2026 growth at 4.3%, 0.3 of a point above its April forecast.
 
@@ -860,7 +860,7 @@ A pan-African operator has earmarked US$1.1 billion for expanding and upgrading 
 
 <div class="bulletin-item" markdown="1">
 
-**[GSMA Warns of Growing AI Divide as Smartphone Costs Rise in Emerging Markets](https://techafricanews.com/2026/09/15/gsma-ai-divide-smartphone-costs-emerging-markets/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[GSMA Warns of Growing AI Divide as Smartphone Costs Rise in Emerging Markets](https://techafricanews.com/2026/09/15/gsma-ai-divide-smartphone-costs-emerging-markets/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 An industry association's 2026 connectivity report warns of a divide between artificial intelligence haves and have-nots: more than 3.4 billion people do not use mobile internet although over 90 per cent of them live inside mobile broadband coverage, with smartphone affordability the obstacle.
 
@@ -1502,7 +1502,7 @@ AfricaNenda says its payments regulation initiative with the African Union Commi
 
 <div class="bulletin-item" markdown="1">
 
-**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
 
@@ -1516,7 +1516,7 @@ The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financ
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
@@ -1530,7 +1530,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
@@ -1762,7 +1762,7 @@ Nearly 50 women cybersecurity professionals from across Africa met in Addis Abab
 
 <div class="bulletin-item" markdown="1">
 
-**[African telecom regulators convene in Nairobi to strengthen cooperation on emerging digital challenges](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/)** — iPRIS, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African telecom regulators convene in Nairobi to strengthen cooperation on emerging digital challenges](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/)** — iPRIS, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 A European-funded regulatory capacity programme is holding its eighth cohort in Nairobi from 5 to 9 October. Regulators from Liberia, Mauritius, Namibia, Sierra Leone, Tanzania and Zimbabwe are taking part with three regional regulators' associations.
 
@@ -1792,7 +1792,7 @@ Figures from the UN Economic Commission for Africa's Economic Report on Africa 2
 
 <div class="bulletin-item" markdown="1">
 
-**[GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar](https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar](https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The GSMA released its State of Mobile Internet Connectivity Report 2026 in New York on 15 September 2026, saying more than 3.4 billion people still do not use mobile internet. By end-2025 an entry-level smartphone cost the poorest fifth in Sub-Saharan Africa 76% of average monthly income, and memory prices more than doubled between late 2025 and early 2026, driven by demand for AI data centres.
 
@@ -1800,7 +1800,7 @@ The GSMA released its State of Mobile Internet Connectivity Report 2026 in New Y
 
 <div class="bulletin-item" markdown="1">
 
-**[The State of Mobile Internet Connectivity 2026](https://www.gsma.com/somic/wp-content/uploads/2026/09/The-State-of-Mobile-Internet-Connectivity-2026.pdf)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[The State of Mobile Internet Connectivity 2026](https://www.gsma.com/somic/wp-content/uploads/2026/09/The-State-of-Mobile-Internet-Connectivity-2026.pdf)** — GSMA, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The GSMA's State of Mobile Internet Connectivity 2026 finds 4.8 billion people, 59% of the world, use mobile internet on their own device. Sub-Saharan Africa has the lowest rate at 25%, with a 66% usage gap and a 9% coverage gap. Its survey puts mobile internet use in Senegal at 87% of urban and 75% of rural adults.
 
@@ -2000,7 +2000,7 @@ WIOCC's own announcement of the US$300 million subscription agreement sets out t
 
 <div class="bulletin-item" markdown="1">
 
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
@@ -2141,6 +2141,20 @@ The European Investment Bank and the European Commission launched Boost Ventures
 **[African Development Bank and UNDP Advance AI 10 Billion Initiative to Turn Africa’s AI Potential into Productivity](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-undp-advance-ai-10-97520)** — African Development Bank, 14 October 2026
 
 The African Development Bank and UNDP said the AI 10 Billion Initiative has moved to delivery after a UNDP mission to the Bank in Abidjan. It is to start in five countries and reach 20 by the end of 2027, arranging US$1 billion a year for ten years; no country, contributor or committed sum is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IFC sustainability-linked loan to WIOCC (WIOCC VII)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[53707 - WIOCC VII Debt (IFC Summary of Investment Information)](https://disclosures.ifc.org/project-detail/SII/53707/wiocc-vii-debt)** — International Finance Corporation (IFC), 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Up to US$35m A/B sustainability-linked loan pending, board 13 Nov 2026; US$577m project; Lagos metro fibre, data centres.
 
 </div>
 

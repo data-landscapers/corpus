@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: ZMB
-ledger_rows: 42
+ledger_rows: 43
 not_held: 41
-record: 100e5b4ad1d9
+record: 17beb1c1a8db
 ---
 
 # News, Sep – Oct 2026
@@ -651,6 +651,20 @@ The UN Development Programme's Africa bureau published lessons on 17 September 2
 **[Zambia Pilots AI Career Guidance Platform to Bridge Youth Skills Gap](https://techafricanews.com/2026/10/12/zambia-ai-career-guidance-platform-youth-skills-gap/)** — Tech Africa News, 12 October 2026
 
 Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence career-guidance platform, in the technical and vocational training system under a World Bank-backed skills project. The pilot is expected to reach more than 17,000 young people, and feedback is to decide any wider rollout.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI pilot on Lusaka's non-revenue water</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lusaka's water is about to get smarter](https://www.undp.org/zambia/news/lusakas-water-about-get-smarter)** — United Nations Development Programme (Zambia), 14 October 2026
+
+Prototype non-revenue-water platform on in-country compute; utility data kept under national control; MOU pending.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Namibia — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: NAM
-ledger_rows: 33
+ledger_rows: 34
 not_held: 9
-record: 1f3be990e602
+record: d06873f75b3d
 ---
 
 # News, Sep – Oct 2026
@@ -623,6 +623,20 @@ Namibia's Cabinet has directed the Office of the Prime Minister and the ICT mini
 **[NAMFISA launches FinTech Square 2026 event to accelerate local innovation](https://economist.com.na/namfisa-launches-fintech-square-2026-event-to-accelerate-local-innovation/)** — Namibia Economist, 18 September 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank of Namibia FinTech Youth Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Namibia Targets Youth-led Fintech Businesses to Drive Jobs](https://businesspulse360.com/article/namibia-s-youth-led-fintech-startups-could-unlock-new-economic-opportunities)** — Business Pulse 360°, 14 October 2026
+
+BoN FinTech Youth Programme pitched at FinTech Square, Windhoek, 14 Oct 2026; skills, regulation, market access.
 
 </div>
 

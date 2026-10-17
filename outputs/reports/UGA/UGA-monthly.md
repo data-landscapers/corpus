@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: UGA
 ledger_rows: 69
 not_held: 11
-record: bc3d22408eda
+record: 16ffc31e98cd
 ---
 
 # News, Sep – Oct 2026
@@ -165,6 +165,14 @@ The Uganda Communications Commission said on 13 October 2026 that about 4,000 un
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">E-commerce trust mark and online consumer redress</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MINISTRY OF TRADE TO INTRODUCE DIGITAL MARK FOR ONLINE CONSUMER PROTECTION](https://www.mediacentre.go.ug/release?slug=ministry-of-trade-to-introduce-digital-mark-for-online-consumer-protection)** — Uganda Media Centre, 15 October 2026
+
+Ministry-certified stamp for online sellers due within months; database to trace the legal entity behind a sale.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -810,6 +818,14 @@ Uganda's parliamentary Physical Infrastructure Committee ordered two directors o
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Audit Russian digital number plate firm – MPs ask Auditor General](https://www.watchdoguganda.com/news/20261016/199568/audit-russian-digital-number-plate-firm-mps-ask-auditor-general.html)** — Watchdog Uganda, 16 October 2026
+
+Brief due within a week; AG got the agreement only 13 Oct; Presidency calls it an investor-financed pilot.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1216,7 +1232,7 @@ Makerere University and Japan's international cooperation agency explored streng
 
 <div class="bulletin-item" markdown="1">
 
-**[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
 
@@ -1224,7 +1240,7 @@ The GSMA published research on 10 September 2026 on refugee women's mobile use, 
 
 <div class="bulletin-item" markdown="1">
 
-**[Digital inclusion for refugee women must go beyond connectivity: GSMA](https://www.biometricupdate.com/202609/digital-inclusion-for-refugee-women-must-go-beyond-connectivity-gsma)** — Biometric Update, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Digital inclusion for refugee women must go beyond connectivity: GSMA](https://www.biometricupdate.com/202609/digital-inclusion-for-refugee-women-must-go-beyond-connectivity-gsma)** — Biometric Update, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 GSMA research finds identity rules for SIM registration push refugee women in Ethiopia and Tanzania to register lines in others' names, limiting control of mobile money and communication. In Uganda about 25% of refugee women use the internet against 50% of men.
 

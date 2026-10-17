@@ -3,9 +3,9 @@ title: Cote d'Ivoire — News, Sep – Oct 2026
 compiled: 2026-10-17
 period: 2026-09-01 to 2026-10-17
 place: CIV
-ledger_rows: 42
+ledger_rows: 43
 not_held: 10
-record: edb1e38cbefc
+record: 508bf897af59
 ---
 
 # News, Sep – Oct 2026
@@ -451,6 +451,20 @@ Côte d'Ivoire launched a feasibility study in Abidjan on 5 October 2026 for a n
 **[Connexion des Trésors Publics à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'Union Economique et Monétaire Ouest Africaine](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)** — BCEAO, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Central Bank of West African States announced on 8 October 2026 that WAEMU public treasuries are being connected to its PI-SPI instant payment platform, to send and receive salaries, grants, subsidies and taxes whatever the counterpart's account. Côte d'Ivoire's treasury already makes regular bulk payments through it; the others are being integrated progressively.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PUSH payments platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RCI : PUSH veut digitaliser 3 000 Mds F de flux financiers](https://fr.apanews.net/cote-divoire/rci-push-veut-digitaliser-3-000-mds-f-de-flux-financiers/)** — APAnews, 15 October 2026
+
+Deals with BNI, Ecobank, Versus Bank and Orange Money; 700,000 accounts, 1.2m cocoa-producer accounts opened.
 
 </div>
 

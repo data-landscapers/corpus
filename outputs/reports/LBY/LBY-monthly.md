@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: LBY
-ledger_rows: 36
+ledger_rows: 37
 not_held: 4
-record: ea864f651acc
+record: b348996e3eac
 ---
 
 # News, Sep – Oct 2026
@@ -35,12 +35,30 @@ record: ea864f651acc
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Policy for Open Data and Artificial Intelligence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الهيئة العامة للمعلومات تبحث مع ممثلي مراكز المعلومات والتوثيق القطاعية مسودة السياسة الوطنية للبيانات المفتوحة والذكاء الاصطناعي - gia](https://www.gia.gov.ly/2026/10/15/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%85%d9%85%d8%ab%d9%84%d9%8a/)** — General Information Authority (Libya), 15 October 2026
+
+National survey of government bodies to shape final draft; ESCWA expert briefs on practice; meeting of 14 Oct 2026.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 

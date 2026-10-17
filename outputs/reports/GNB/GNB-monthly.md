@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: GNB
 ledger_rows: 8
 not_held: 2
-record: 870a3d56503f
+record: f8e55b4b5da5
 ---
 
 # News, Sep – Oct 2026

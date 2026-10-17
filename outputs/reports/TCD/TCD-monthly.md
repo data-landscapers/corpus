@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: TCD
 ledger_rows: 32
 not_held: 22
-record: 7b4796ea06b7
+record: 85d5c226eb78
 ---
 
 # News, Sep – Oct 2026

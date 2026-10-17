@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: 90df841ce1cb
+record: daa9936de2a4
 ---
 
 # News, Sep – Oct 2026

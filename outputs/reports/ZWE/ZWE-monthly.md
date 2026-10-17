@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: ZWE
-ledger_rows: 39
+ledger_rows: 40
 not_held: 7
-record: 5070dc144305
+record: b432906c3744
 ---
 
 # News, Sep – Oct 2026
@@ -175,6 +175,20 @@ Zimbabwe's telecoms regulator POTRAZ held a national workshop on guidelines unde
 **[POTRAZ Joins Continental Partners to Commemorate Inaugural Africa Data Protection Day](https://technomag.co.zw/potraz-joins-continental-partners-to-commemorate-inaugural-africa-data-protection-day/)** — TechnoMag, 22 September 2026
 
 Zimbabwe's regulator POTRAZ, which acts as the country's data protection authority, marked the first Africa Data Protection Day on 21 September. The day commemorates the 2016 founding of the Network of African Data Protection Authorities, which now has 34 members and in which POTRAZ is second vice-president.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Convention on Mutual Administrative Assistance in Tax Matters</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimra, ATAF Vic-Falls Indaba advances regional Tax Transparency agenda](https://www.heraldonline.co.zw/zimra-ataf-vic-falls-indaba-advances-regional-tax-transparency-agenda/)** — The Herald, 15 October 2026
+
+Treaty deposit 31 Aug 2026, in force 1 Jan 2027; ZIMRA formalising EOI unit, readying peer review and automatic exchange.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GNQ
-ledger_rows: 16
+ledger_rows: 17
 not_held: 6
-record: ec5d3bf2ca13
+record: 23aff276c3a2
 ---
 
 # News, Sep – Oct 2026
@@ -221,12 +221,30 @@ Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, named on X the
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Modernisation of the document centre's identity and passport technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Vicepresidente de la República impulsa la modernización del sistema informático de CNEDOGE](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_de_la_republica_impulsa_la_modernizacion_del_sistema_informatico_de_cnedoge)** — guineaecuatorialpress.com, 16 October 2026
+
+Kit installed 2017-18 deteriorating; CETIS to assess; new ID and passport designs; backups for embassies.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 

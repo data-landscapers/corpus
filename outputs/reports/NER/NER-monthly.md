@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: NER
-ledger_rows: 18
+ledger_rows: 19
 not_held: 1
-record: 1ea8d94a55b4
+record: 346d2e15b8ae
 ---
 
 # News, Sep – Oct 2026
@@ -239,6 +239,8 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -327,6 +329,22 @@ Niger opened public enrolment for the Alliance of Sahel States biometric passpor
 **[Guichet Unique Automobile: SONILOGA ouvre le paiement de ses prestations à Airtel Money](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money)** — ActuNiger, 2 October 2026
 
 The operator of Niger's vehicle one-stop shop began accepting Airtel Money for some of its services on 1 October, through an app or an offline USSD code. The transport ministry presented it as a way to trace public revenue.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DUNE-RH education human resources platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Niger : Ministère de l'Éducation Nationale : Niamey](https://wassika.com/niger-ministere-de-leducation-nationale/)** — Wassika, 15 October 2026
+
+Education ministry reviews DUNE-RH HR platform, e-learning tools, data security and 2025-26 statistical yearbook.
 
 </div>
 
