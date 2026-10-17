@@ -578,29 +578,78 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
     </section>''')
     # **Headed as the place's other reports are** *(Bill, 2026-10-17)*: the family bar, the title
     # with its actions and the sections bar, pinned under the site chrome by `report-head.js`. The
-    # map stands where the others' PDF button does. No Under construction band.
+    # PDF button stands where the others' does *(Bill, 2026-10-17)*. No Under construction band.
     canonical = f"{SITE_BASE}/maturity/countries/{iso3.lower()}/"
-    actions = (feedback(f"{name} — Maturity Assessment", canonical)
-               + '<a href="../../" class="btn btn--accent">Map</a>')
-    body = f"""  <div class="container mat-report">
+    article = "\n".join(parts)
+    rec = hashlib.sha1(article.encode("utf-8")).hexdigest()[:12]
+    edition, cut = report_edition(iso3, rec)
+    pdf_url = f"{SITE_BASE}/reports/{iso3}/{iso3}-maturity-{edition}.pdf"
+
+    def build(for_pdf: bool) -> str:
+        actions = (feedback(f"{name} — Maturity Assessment", canonical)
+                   + f'<a href="{pdf_url}" class="btn btn--accent">&darr; PDF</a>')
+        body = f"""  <div class="container mat-report">
+      <div class="print-masthead">
+        <img src="../../../assets/logo.png" alt="Data Landscapers">
+        <div class="tagline">Mapping Africa&rsquo;s data landscape</div>
+      </div>
       <div class="report-head">
 {family_bar(iso3, "maturity")}<header class="article-header">
         <div class="article-header__meta report-head__row">
           <h1 class="article-header__title">Maturity Assessment</h1>
           <div class="article-header__actions screen-only">{actions}</div>
         </div>
+        <div class="article-header__byline mat-report__edition" data-edition="{edition}">{name} &middot; edition of {edition}</div>
       </header>
 {bar}
       </div>
     <article class="article-body">
-{chr(10).join(parts)}
+{article}
     </article>
   </div>"""
-    return page(title=f"{name} — Maturity Assessment",
-                description=f"{name}: stage, summary and evidence for each studied maturity indicator.",
-                canonical=canonical, depth=3, body=body, body_class="mat-report-page", band=False,
-                active="countries",
-                sheets=("maturity.css",), scripts=script("report-head.js", 3))
+        return page(title=f"{name} — Maturity Assessment",
+                    description=f"{name}: stage, summary and evidence for each studied maturity indicator.",
+                    canonical=canonical, depth=3, body=body, body_class="mat-report-page", band=False,
+                    active="countries", head=f'<meta name="dl-record" content="{rec}">\n',
+                    sheets=("report.css", "maturity.css") if for_pdf else ("maturity.css",),
+                    scripts="" if for_pdf else script("report-head.js", 3))
+
+    if cut:
+        write_pdf(iso3, edition, build(True), canonical)
+    return build(False)
+
+
+PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
+
+
+def report_edition(iso3: str, rec: str) -> tuple[str, bool]:
+    """The PDF edition a country's maturity report offers, and whether this run cuts it.
+
+    A dated edition is never revised (design.md §9), so a new one is cut only when the report's
+    content moves: `rec` digests the article, not the chrome, so a redesign cuts nothing. The
+    served page records both, and is what survives `r2-sync.py --prune-local`."""
+    prior = OUT / "countries" / iso3.lower() / "index.html"
+    held = editions.edition_on_page(prior)
+    if held and prior.exists():
+        m = PRIOR_RECORD.search(prior.read_text(encoding="utf-8"))
+        if m and m.group(1) == rec:
+            return held, False
+    out_dir = SITE / "reports" / iso3
+    return editions.next_edition(out_dir, f"{iso3}-maturity", date.today().isoformat(),
+                                 current=held), True
+
+
+def write_pdf(iso3: str, edition: str, page_html: str, canonical: str) -> None:
+    """Beside the place's other report PDFs, under `reports/`, where `r2-sync.py` and the Worker
+    already take dated editions. Relative links are made absolute: a PDF has no site around it."""
+    from urllib.parse import urljoin
+    from weasyprint import HTML  # imported late: only a cut needs it
+    page_html = re.sub(r'(<a\b[^>]*?\bhref=")(?!https?:|mailto:|#)([^"]*)"',
+                       lambda m: f'{m.group(1)}{urljoin(canonical, m.group(2))}"', page_html)
+    out = SITE / "reports" / iso3 / f"{iso3}-maturity-{edition}.pdf"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    base = (OUT / "countries" / iso3.lower()).as_uri() + "/"
+    HTML(string=page_html, base_url=base).write_pdf(out)
 
 
 METHOD_CHAPTER = "Method"

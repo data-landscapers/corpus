@@ -323,3 +323,16 @@
 .mat-method__ind h4 { font-size: 1.05rem; }
 .mat-method__ind:target h4 { color: var(--accent); }
 .mat-method td:first-child { white-space: nowrap; }
+
+/* ---------- the country report's PDF (Bill, 2026-10-17) ----------
+   `maturity-site.py` prints the page with `report.css` for its fonts and
+   pages; the masthead and the edition line are for paper only, and the bars
+   that jump around a screen are not. */
+.mat-report .print-masthead, .mat-report__edition { display: none; }
+@media print {
+  .mat-report .print-masthead { display: flex; }
+  .mat-report__edition { display: block; font-family: var(--mono); font-size: .72rem; color: var(--ink-faint); }
+  .corpus-nav, .report-siblings, .monthly-toc, .monthly-subnav { display: none; }
+  .mat-report .report-head { position: static; background: none; }
+  .mat-report .report-family__kicker { border-bottom: none; }
+}

@@ -202,7 +202,7 @@ python scripts/methodology.py     # -> site/methodology/ + its four annexes
 python scripts/maturity-site.py   # -> site/maturity/ + site/methodology/maturity/
 ```
 
-Writes no edition; safe to run alone after an edit to `content/`.
+`methodology.py` writes no edition. `maturity-site.py` cuts a country's dated maturity PDF under `reports/{ISO3}/` when its content moves, so after it runs Step 6b again if `git status` shows a new `-maturity-` PDF.
 
 ## Step 6d — the sitemap
 
