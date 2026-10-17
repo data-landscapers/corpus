@@ -200,6 +200,15 @@ try:
     check("its note resolved, it is spent",
           lp.verdict("maturity-study-done", str(r / "prepared" / "maturity-study-done"),
                      str(r), src)[0], "spent")
+
+    print("\nthe nightly rebuild's folder is closed by the pull, whatever note its brief names")
+    pulled = item(r, "maturity-study-rebuilt", closer="the pull. Under the standing notes-for-osint 150.")
+    waiting = item(r, "maturity-study-waiting", closer="the pull. Under the standing notes-for-osint 150.")
+    io.open(waiting / "READY", "w", encoding="utf-8").write("")
+    check("READY still there, it waits for the pull",
+          lp.verdict("maturity-study-waiting", str(waiting), str(r), src)[0], "live")
+    check("READY gone, it is spent",
+          lp.verdict("maturity-study-rebuilt", str(pulled), str(r), src)[0], "spent")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 

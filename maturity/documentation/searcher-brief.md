@@ -15,7 +15,8 @@ status: first used for maturity study health, task H5
 A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 1. Read `maturity/{id}/study.json` and the study file it names: the typology, the aspects, the ladders.
-2. Read `maturity/{id}/evidence/{ISO3}/profile.csv`. **A row with text in `gap` is what you search for**; rows with a value are what is already held. Read `evidence.csv` beside it for the held facts.
+2. Read `maturity/{id}/evidence/{ISO3}/profile.csv`. **A row with text in `gap` is what you search for**; rows with a value are what is already held. Read `evidence.csv` beside it for the held facts. **A first-pass study has neither**: the gaps are each cell's `gaps` in `stage.json`, and the held facts its `stage_sources` and `note`.
+3. **A sub-indicator named by the parent** is the only one searched.
 
 ## Search
 

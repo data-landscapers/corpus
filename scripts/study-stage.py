@@ -5,6 +5,7 @@ r"""study-stage.py — a maturity study's search: fetch the leads, then stage wh
     python scripts/study-stage.py health stage         # the parent: decisions into prepared\
     python scripts/study-stage.py health stage --dry   # the counts, nothing written
     python scripts/study-stage.py health ready --note 231
+    python scripts/study-stage.py health ready --rebuild --lint "..."   # the nightly rebuild's delivery
 
 `maturity/documentation/maturity-study-method.md` §5. A searcher finds leads and judges them;
 **no body passes through a model on its way to the handover.** That is the rule the
@@ -36,7 +37,10 @@ records, all metadata, in `maturity/{id}/search/`:
 
 **`ready`** writes `BRIEF.md` with its `Closed by:` line and then `READY`, last. OSINT's
 cycle pulls a folder that carries `READY`, so this is the delivery and is a step of its own:
-it is run after `lint-staged-queue.py` has been read and Bill has the count.
+it is run after `lint-staged-queue.py` has been read and Bill has the count. **The nightly
+rebuild delivers without either** *(Bill, 2026-10-17; `notes-for-osint` 237 is the standing
+announcement)*: `--rebuild` writes `Closed by: the pull`, which `lint-prepared.py` reads as
+spent once OSINT's pull has taken `READY` away.
 
 A decision may say `"body_completeness": "excerpt"` where the fetch gave an abstract or a
 part; otherwise the file says `full`. Frontmatter carries what a searcher established from the page and nothing guessed:
@@ -384,7 +388,7 @@ def stage(study: dict, study_id: str, share: str, today: str, dry: bool) -> int:
     return 1 if problems else 0
 
 
-def ready(study: dict, study_id: str, share: str, note: str, lint: str) -> int:
+def ready(study: dict, study_id: str, share: str, note: str, lint: str, rebuild: bool = False) -> int:
     folder = prepared_dir(study_id, share)
     staged = study_lib.read_csv(os.path.join(search_dir(study_id), "staged.csv"))
     files = sorted({s["file"] for s in staged})
@@ -399,7 +403,9 @@ def ready(study: dict, study_id: str, share: str, note: str, lint: str) -> int:
              f"**This folder is evidence for maturity study `{study_id}`, not general ingest.** "
              f"CORPUS reviewed what `raw/` holds on the study's sub-indicators across 54 countries, "
              f"searched for what was missing and selected these {len(files)} documents.", "",
-             f"**Closed by:** notes-for-osint {note}", "",
+             ("**Closed by:** the pull. Delivered by CORPUS's nightly maturity rebuild under the "
+              "standing notes-for-osint 237; spent once OSINT's pull has removed `READY`."
+              if rebuild else f"**Closed by:** notes-for-osint {note}"), "",
              "**Selection rule.** A fetched document is here when its body states a dated fact, on "
              "an aspect the study had no dated fact for, that nothing held states. There is no "
              "numeric cap. Bodies are verbatim from the fetch, copied by script.", "",
@@ -410,7 +416,8 @@ def ready(study: dict, study_id: str, share: str, note: str, lint: str) -> int:
         fh.write("\n".join(lines))
     with io.open(os.path.join(folder, "READY"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write("")
-    print(f"study-stage: BRIEF.md and READY written; {len(files)} documents delivered under note {note}.")
+    print(f"study-stage: BRIEF.md and READY written; {len(files)} documents delivered "
+          f"{'by the nightly rebuild' if rebuild else f'under note {note}'}.")
     return 0
 
 
@@ -421,6 +428,7 @@ def main(argv=None) -> int:
     ap.add_argument("iso", nargs="?")
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--note", help="ready: the notes-for-osint number announcing the delivery")
+    ap.add_argument("--rebuild", action="store_true", help="ready: the nightly rebuild's delivery, no note of its own")
     ap.add_argument("--lint", default="", help="ready: the staging lint's result line, for the brief")
     ap.add_argument("--share", default=status_lib.EXCHANGE)
     a = ap.parse_args(argv)
@@ -459,10 +467,10 @@ def main(argv=None) -> int:
         return 0
     if a.command == "stage":
         return stage(study, a.study, a.share, today, a.dry)
-    if not a.note or not a.lint:
-        print("study-stage: ready needs --note and --lint.")
+    if not (a.note or a.rebuild) or not a.lint:
+        print("study-stage: ready needs --note or --rebuild, and --lint.")
         return 2
-    return ready(study, a.study, a.share, a.note, a.lint)
+    return ready(study, a.study, a.share, a.note, a.lint, a.rebuild)
 
 
 if __name__ == "__main__":

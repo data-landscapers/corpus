@@ -84,9 +84,17 @@ def main() -> int:
         check("one row per indicator of an issued study", [r["key"] for r in su.rotation(str(root), rot)], ["hmis", "emr"])
         check("an attended daytime cycle owes none", run("next", now=dt.datetime(2026, 10, 10, 14, 0)), 1)
         check("a night cycle owes one", run("next"), 0)
+        import contextlib, io
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
+            run("next")
+        check("and names two, as the unit review does", len(out.getvalue().strip().splitlines()), su.PER_NIGHT)
         check("from /poll it is owed by day too", run("next", "--poll", now=dt.datetime(2026, 10, 10, 14, 0)), 0)
-        run("done", "t", "emr"); run("done", "t", "hmis")
+        run("done", "t", "emr", "--minutes", "41", "--tokens", "18.2", "--staged", "37"); run("done", "t", "hmis")
         check("done stamps the day", {r["last_reviewed"] for r in su.rotation(str(root), rot)}, {"2026-10-10"})
+        check("done keeps what the rebuild cost",
+              [(r["minutes"], r["tokens"], r["staged"]) for r in su.rotation(str(root), rot) if r["key"] == "emr"],
+              [("41", "18.2", "37")])
         check("none is owed while all are inside the gap", run("next", now=dt.datetime(2026, 10, 20, 23, 0)), 1)
         check("and one is owed once the gap has run",
               run("next", now=night + dt.timedelta(days=su.MIN_GAP_DAYS)), 0)

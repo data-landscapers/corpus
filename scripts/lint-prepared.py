@@ -198,6 +198,12 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
     if not closer:
         return "unresolved", ("no `Closed by:` in a brief. Name the job, note or review line that "
                               "retires it, so a later run can tell spent from waiting")
+    # The nightly maturity rebuild has no note of its own *(Bill, 2026-10-17)*: its folder is spent
+    # when OSINT's pull has taken `READY`, and `study-stage.py ready` writes the brief beside it.
+    if closer.lower().startswith("the pull"):
+        if os.path.exists(os.path.join(path, "READY")):
+            return "live", "the nightly rebuild's delivery, waiting for OSINT's pull"
+        return "spent", "the nightly rebuild's delivery, pulled"
     # A folder named for what it holds rather than for a number: a maturity study's evidence,
     # `maturity-study-health/`, is retired by the note that announced it.
     nm = REF_NOTE.search(closer)

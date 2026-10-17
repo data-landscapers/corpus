@@ -4,6 +4,7 @@ r"""study-tokens.py — what a session spent, counted from its transcripts.
     python scripts/study-tokens.py                       # the newest session
     python scripts/study-tokens.py 565a5703              # one session, by the start of its id
     python scripts/study-tokens.py 565a5703 1683ae4b     # several, summed
+    python scripts/study-tokens.py --total               # the newest session's total in millions, alone
 
 `maturity/documentation/maturity-study-method.md` §0. **A study is sized by the week's quota
 it consumes** *(Bill, 2026-10-11)*, and the only record of that is the transcript Claude Code
@@ -64,6 +65,8 @@ def main(argv=None) -> int:
     ap.add_argument("session", nargs="*", help="the start of a session id; default the newest")
     ap.add_argument("--project", default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                     help="the project's working directory; default this repository")
+    ap.add_argument("--total", action="store_true",
+                    help="print the total in millions and nothing else, for a before-and-after difference")
     a = ap.parse_args(argv)
 
     base = project_dir(a.project)
@@ -95,6 +98,9 @@ def main(argv=None) -> int:
                 f"output {d[KINDS[3]] / 1e6:.1f}M")
 
     total = {k: thread[k] + agents[k] for k in KINDS}
+    if a.total:
+        print(f"{sum(total.values()) / 1e6:.1f}")
+        return 0
     print(f"study-tokens: {len(picked)} session(s), {len(each)} agent(s)")
     print(line("thread", thread))
     print(line("agents", agents))

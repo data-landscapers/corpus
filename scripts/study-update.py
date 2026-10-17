@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-r"""study-update.py — keeping a finished maturity study current: the work order, the log and the rotation.
+r"""study-update.py — keeping a finished maturity study current: the work order, the log and the rebuild.
 
     python scripts/study-update.py order                   what arrived and is unread, by study and country; exit 1 if nothing
     python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed|instrument|old|capped
     python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder --note "..."
-    python scripts/study-update.py next [--poll]           tonight's indicator for a whole reassessment; exit 1 if none is owed
-    python scripts/study-update.py done STUDY KEY          stamp an indicator's whole reassessment
-    python scripts/study-update.py list                    the rotation, most overdue first
+    python scripts/study-update.py next [--poll]           tonight's two indicators to rebuild; exit 1 if none is owed
+    python scripts/study-update.py done STUDY KEY --minutes N --tokens M --staged N
+                                                           stamp an indicator's rebuild and what it cost
+    python scripts/study-update.py list                    the control list, most overdue first
 
 `MATURITY-UPDATE.md` is the procedure; this is its mechanical half *(Bill, 2026-10-09)*.
 
@@ -15,7 +16,7 @@ documents the study's own term test now admits and the list does not hold, and e
 `maturity/{id}/evidence/arrivals.csv`. `order` prints the entries still open. `close` records
 what reading one came to: `nothing`, a `fact` added to `evidence.csv`, or a fact that called for
 the cell to be `reassessed`. It is the same set difference BUILD stages 4 and 4b work, and like
-them it never looks back, which is what the rotation is for.
+them it never looks back, which is what the rebuild is for.
 
 **The log.** `outputs/maturity/{id}/history.csv` holds every reassessment of a cell, whether or
 not the stage moved *(Bill)*. `log` is run after the cell's `stage.json` is rewritten and before
@@ -25,18 +26,19 @@ not the stage moved *(Bill)*. `log` is run after the cell's `stage.json` is rewr
 
 - `fact`   — a new fact; a change of stage is a **move**, shown under *Stage last moved* and in
   the changes box;
-- `review` — the rotation's whole reassessment; a change is shown as *Reassessed*, not as movement;
+- `review` — the rebuild's whole reassessment; a change is shown as *Reassessed*, not as movement;
 - `ladder` — a rung was rewritten; likewise *Reassessed*.
 
-**The rotation is by indicator** *(Bill, 2026-10-09)*: a whole reassessment reads all 54
-countries side by side against the one ladder, which a country at a time cannot do.
-`logs/maturity-review.csv` holds one row per sub-indicator of every issued study, with the date
-of its last whole reassessment. `next` names the one reassessed longest ago, never-reassessed
-first, on `unit-review.py`'s own test of whether a cycle is unattended; and it names none while
-every indicator has been reassessed inside `MIN_GAP_DAYS`, so two indicators are not worked on
-alternate nights for ever. An indicator joins when its study has an issued `assessment.csv`.
+**The rebuild is by indicator** *(Bill, 2026-10-09)*: a whole reassessment reads all 54
+countries side by side against the one ladder, which a country at a time cannot do. **Two a
+night** *(Bill, 2026-10-17, as the unit review takes two units)*. `logs/maturity-review.csv` is
+the control list: one row per sub-indicator of every issued study, the date of its last
+rebuild, and what that rebuild cost in minutes, tokens (millions) and documents staged for
+OSINT. `next` names the `PER_NIGHT` rebuilt longest ago, never-rebuilt first, on
+`unit-review.py`'s own test of whether a cycle is unattended; it names none rebuilt inside
+`MIN_GAP_DAYS`. An indicator joins when its study has an issued `assessment.csv`.
 
-**The rotation searches** *(Bill, 2026-10-11)*, and stamps `searched`; the yearly line is the backstop. `order` and `next` print a line for any study whose
+**The rebuild searches** *(Bill, 2026-10-11)*, and stamps `searched`; the yearly line is the backstop. `order` and `next` print a line for any study whose
 `study.json` -> `searched` is more than a year old; the runbook says what to do with it.
 
 Exit: 0 done or work printed, 1 nothing owed, 2 a file or an argument is wrong.
@@ -55,7 +57,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_lib  # noqa: E402
 
 ROTATION = os.path.join(study_lib.CORPUS, "logs", "maturity-review.csv")
-ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed"]
+ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed", "minutes", "tokens", "staged"]
+COST_FIELDS = ROTATION_FIELDS[4:]
 HISTORY_FIELDS = ["date", "iso3", "indicator_id", "kind", "from", "to", "sources", "note"]
 KINDS = ("fact", "review", "ladder")
 OUTCOMES = ("nothing", "fact", "reassessed",
@@ -65,6 +68,7 @@ OUTCOMES = ("nothing", "fact", "reassessed",
 # Lifted 2026-10-17 (Bill): every indicator has its first study.
 HELD = False
 MIN_GAP_DAYS = 30          # an indicator is not reassessed whole twice inside this
+PER_NIGHT = 2              # indicators rebuilt a night (Bill, 2026-10-17)
 SEARCH_EVERY_DAYS = 365
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -117,12 +121,12 @@ def search_due(root: str | None = None, today: dt.date | None = None) -> list[st
 def rotation(root: str | None = None, path: str | None = None) -> list[dict]:
     """The rotation reconciled against the studies issued: a new indicator joins unreviewed."""
     path = path or ROTATION
-    held = {(r["study"], r["key"]): r.get("last_reviewed", "") for r in study_lib.read_csv(path)}
-    for d in held.values():
-        if d:
-            dt.date.fromisoformat(d)
+    held = {(r["study"], r["key"]): r for r in study_lib.read_csv(path)}
+    for r in held.values():
+        if r.get("last_reviewed"):
+            dt.date.fromisoformat(r["last_reviewed"])
     return [{"study": s, "key": sub["key"], "indicator_id": sub["indicator_id"],
-             "last_reviewed": held.get((s, sub["key"]), "")}
+             **{f: held.get((s, sub["key"]), {}).get(f, "") for f in ["last_reviewed", *COST_FIELDS]}}
             for s in studies(root) for sub in study_lib.load(s, root)["sub_indicators"]]
 
 
@@ -175,6 +179,9 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
     n.add_argument("--poll", action="store_true", help="the cycle was started by /poll")
     d = sp.add_parser("done")
     d.add_argument("study"); d.add_argument("key")
+    d.add_argument("--minutes", default="", help="wall-clock minutes the rebuild took")
+    d.add_argument("--tokens", default="", help="millions of tokens, thread and agents (study-tokens.py --total)")
+    d.add_argument("--staged", default="", help="documents staged for OSINT")
     sp.add_parser("list")
     a = ap.parse_args(argv)
     now = now or dt.datetime.now()
@@ -230,13 +237,14 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
         if not rows:
             print("not owed: no study has an issued assessment")
             return 1
-        first = overdue(rows)[0]
-        if first["last_reviewed"] and \
-                (now.date() - dt.date.fromisoformat(first["last_reviewed"])).days < MIN_GAP_DAYS:
-            print(f"not owed: every indicator was reassessed inside {MIN_GAP_DAYS} days")
+        owed = [r for r in overdue(rows) if not r["last_reviewed"] or
+                (now.date() - dt.date.fromisoformat(r["last_reviewed"])).days >= MIN_GAP_DAYS][:PER_NIGHT]
+        if not owed:
+            print(f"not owed: every indicator was rebuilt inside {MIN_GAP_DAYS} days")
             return 1
-        print(f"{first['study']}\t{first['key']}\t{first['indicator_id']}\t"
-              f"last reassessed {first['last_reviewed'] or 'never'}")
+        for r in owed:
+            print(f"{r['study']}\t{r['key']}\t{r['indicator_id']}\t"
+                  f"last rebuilt {r['last_reviewed'] or 'never'}")
         for line in search_due(root, now.date()):
             print(line)
         return 0
@@ -244,16 +252,18 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
     if a.cmd == "done":
         hit = [r for r in rows if r["study"] == a.study and r["key"] == a.key]
         if not hit:
-            print(f"study-update: {a.study} {a.key} is not in the rotation")
+            print(f"study-update: {a.study} {a.key} is not in the control list")
             return 2
-        hit[0]["last_reviewed"] = now.date().isoformat()
+        hit[0].update(last_reviewed=now.date().isoformat(), **{f: getattr(a, f) for f in COST_FIELDS})
         study_lib.write_csv(path, ROTATION_FIELDS, rows)
-        print(f"{a.study} {a.key} reassessed {hit[0]['last_reviewed']}")
+        print(f"{a.study} {a.key} rebuilt {hit[0]['last_reviewed']}")
         return 0
 
     study_lib.write_csv(path, ROTATION_FIELDS, rows)
     for r in overdue(rows):
-        print(f"{r['study']}  {r['key']}  {r['last_reviewed'] or 'never'}  {r['indicator_id']}")
+        cost = ", ".join(f"{f} {r[f]}" for f in COST_FIELDS if r[f])
+        print(f"{r['study']}  {r['key']}  {r['last_reviewed'] or 'never'}  {r['indicator_id']}"
+              + (f"  ({cost})" if cost else ""))
     return 0
 
 
