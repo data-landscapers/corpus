@@ -3,9 +3,9 @@ title: DR Congo — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: COD
-ledger_rows: 58
+ledger_rows: 59
 not_held: 7
-record: f45b6706b86f
+record: 00ece1251afa
 ---
 
 # News, Sep – Oct 2026
@@ -887,6 +887,20 @@ The governor of DR Congo's central bank, André Wameso, told the Central Bank of
 **[RDC : Claude, l'assistant d'IA d'Anthropic, désormais officiellement accessible](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible)** — wearetech.africa, 23 September 2026
 
 DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic's Claude is now officially available in the country, both the consumer service and commercial API access. Users had previously reached it through VPNs; the communiqué gave no terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial intelligence strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stratégie Nationale de l'Intelligence Artificielle de la République Démocratique du Congo (draft technique) : Faire de l'intelligence artificielle un moteur de progrès technique et de diversification économique, horizon 2030](https://adn.cd/fr/public/uploads/documents/strate-gie-nationale-de-l-intelligence-artificielle---draft-technque-20261006134923-ea7dd935.pdf)** — Ministère de l'Économie Numérique / Agence pour le Développement du Numérique (ADN), RDC, 6 October 2026
+
+Technical draft to 2030: 4 pillars, 11 axes, 44 objectives, 176 actions; annual AI report from 2027, 15% local content.
 
 </div>
 
