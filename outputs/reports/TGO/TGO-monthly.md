@@ -3,9 +3,9 @@ title: Togo — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: TGO
-ledger_rows: 54
-not_held: 19
-record: f4ca98d04471
+ledger_rows: 55
+not_held: 18
+record: 4eee635c1603
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: f4ca98d04471
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -300,6 +302,28 @@ Togo's 12th national Internet Governance Forum was held in Lomé on 19 June 2026
 
 </div>
 
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Increased Digital Connectivity and Electricity Access project (IDEA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Launches Tender for 5,200 Smart Meter Devices for State Power Utility](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility)** — Togo First, 21 September 2026
+
+Togo's energy ministry launched an international tender for 5,200 smart-metering devices for the state power utility CEET, reported on 21 September 2026: 1,200 modems for medium-voltage meters and 4,000 data concentrators for low-voltage meters. It is financed under the World Bank's US$200m IDA-backed IDEA project, and bids are due on 28 October 2026. CEET's losses are put at nearly 16%.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -334,11 +358,11 @@ Summarised under [Standards](#standards).
 
 <p class="monthly-story__name">CEET smart-metering system</p>
 
-<div class="bulletin-item" markdown="1">
+<div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Togo Launches Tender for 5,200 Smart Meter Devices for State Power Utility](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility)** — Togo First, 21 September 2026
 
-Togo's energy ministry launched an international tender for 5,200 smart-metering devices for the state power utility CEET, reported on 21 September 2026: 1,200 modems for medium-voltage meters and 4,000 data concentrators for low-voltage meters. It is financed under the World Bank's US$200m IDA-backed IDEA project, and bids are due on 28 October 2026. CEET's losses are put at nearly 16%.
+Summarised under [New investments](#new-investments).
 
 </div>
 

@@ -3,9 +3,9 @@ title: Namibia — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: NAM
-ledger_rows: 34
+ledger_rows: 36
 not_held: 9
-record: dc1ac83410c0
+record: 00015a1f586c
 ---
 
 # News, Sep – Oct 2026
@@ -398,13 +398,27 @@ WayaMe is the public name for Namibia's new instant payment system, operated by 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Social grant beneficiaries locked out of the payment system</p>
+<p class="monthly-story__name">Cash social grant payments through NamPost</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[NamPost grant system faces scrutiny, elderly left stranded](https://www.namibian.com.na/nampost-grant-system-faces-scrutiny-elderly-left-stranded/)** — The Namibian, 7 September 2026
 
 Retired Namibian MP Elifas Dingara called on the government and Namibia Post Limited, which pays social cash grants, to address failures in the grant payment system. He said elderly beneficiaries had travelled long distances and queued only to find their names missing at payment points. He asked for answers on missing beneficiaries, delayed and unpaid grants, and complaint timeframes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social grant beneficiaries locked out of the payment system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[NamPost grant system faces scrutiny, elderly left stranded](https://www.namibian.com.na/nampost-grant-system-faces-scrutiny-elderly-left-stranded/)** — The Namibian, 7 September 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
@@ -539,6 +553,20 @@ Innovate4Water, a research project led by the Namibia University of Science and 
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank and regulator shared artificial-intelligence programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BANK OF NAMIBIA, CRAN LAUNCH AI PROGRAMME](https://www.nbcnews.na/node/118797)** — Namibian Broadcasting Corporation, 1 September 2026
+
+Agencies to jointly procure AI hardware and agents, with use cases in licensing, procurement and scam reporting.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

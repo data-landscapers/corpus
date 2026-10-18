@@ -3,9 +3,9 @@ title: Seychelles — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SYC
-ledger_rows: 11
+ledger_rows: 12
 not_held: 6
-record: 7ee3a143b76b
+record: fe48748ddacd
 ---
 
 # News, Sep – Oct 2026
@@ -129,6 +129,20 @@ The African Development Bank's board approved a US$34 million loan to Seychelles
 **[Seychelles: African Development Bank approves $34 million loan to strengthen public services, private sector growth and climate resilience](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 23 September 2026
 
 The African Development Bank approved a US$34 million loan to Seychelles on 22 September 2026 for the third and final phase of its Economic Resilience and Green Recovery Support Programme. The phase supports electronic invoicing for tax, a national e-procurement system and a one-stop investment portal, and brings the bank's financing across the three phases to US$84 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank Transformative and Resilient Inclusive Digital Economy project (P519389)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Initial Project Information Document (PID) - Seychelles Transformative and Resilient Inclusive Digital Economy - P519389](http://documents.worldbank.org/curated/en/099100726053521931)** — World Bank, 7 October 2026
+
+US$25m IBRD concept: inter-island fibre, shared e-government and AI services, digital skills; approval due Dec 2026.
 
 </div>
 
