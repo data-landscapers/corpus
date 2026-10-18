@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-22-gab-dgi-guide-adhesion-immatriculation-etax",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Direction Générale des Impôts' e-tax guide says taxpayers can start registration online through the 'Je m'immatricule' button, with a taxpayer number (NIF) held by enrolled taxpayers and DGI agents completing checks at a tax office.",
+       "as_of": "2025-10-22",
+       "date_precision": "day",
+       "system": "e-tax",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-tax",
+       "country_label": "Gabon",
+       "class": "tax",
+       "platform": "e-tax.dgi.ga",
+       "owner": "Direction Générale des Impôts",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

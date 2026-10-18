@@ -1,6 +1,6 @@
 iso3,stage,number,national,complete,stage_sources
 AGO,3,inservice,,,AGO-001;AGO-005
-BDI,no evidence,,,,
+BDI,2,underway,,,BDI-001
 BEN,2,underway,,,BEN-001;BEN-002
 BFA,no evidence,,,,
 BWA,4,inservice,national,,BWA-002
@@ -35,7 +35,7 @@ MUS,no evidence,,,,
 MWI,3,inservice,,,MWI-001;MWI-002
 NAM,no evidence,,,,
 NER,2,underway,,,NER-001
-NGA,3,inservice,,,NGA-001
+NGA,3,inservice,,,NGA-003;NGA-001
 RWA,2,underway,,,RWA-001;RWA-002
 SDN,no evidence,,,,
 SEN,no evidence,,,,

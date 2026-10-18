@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The PEO allows property transfers to be carried out through the platform, with the integrated participation of the Notary, the Land Registry (Conservatoria do Registo Predial), the municipal council and the Cadastre services (INGT).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plataforma Empresa Online (PEO)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Empresa Online (PEO)",
+   "country_label": "Cabo Verde",
+   "class": "land",
+   "platform": "PEO",
+   "owner": "Governo de Cabo Verde",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

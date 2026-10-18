@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CIV,My Signal,Côte d'Ivoire,other,mobile app and web platform,Union fédérale des consommateurs de Côte d'Ivoire (UFC-CI),,2026-07-31-cote-divoire-ufc-my-signal-consumer-platform
+CIV,OQSF-CI (Observatory of the quality of financial services),Cote d'Ivoire,protection,,,,2022-09-01-civ-cgap-dfs-consumer-risks-survey
+CIV,Banking Commission,Cote d'Ivoire,protection,,BCEAO,second recourse,2022-09-01-civ-cgap-dfs-consumer-risks-survey
+CIV,OQSF-CI,Côte d'Ivoire,protection,"green line 2722 490 490, email, edufina.oqsfci.org",State of Côte d'Ivoire (Ministry of Finance),,2025-07-05-civ-infocentrale-oqsf-plateformes-plaintes

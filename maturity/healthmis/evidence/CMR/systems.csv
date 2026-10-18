@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,DHIS2,DHIS2,other,DHIS2,,,2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon
+CMR,DHIS2,Cameroun,hmis,DHIS2,Ministere de la Sante Publique,"facilities, districts, regions, national",2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022
+CMR,EWARS,Cameroun,other,EWARS,Ministere de la Sante Publique,districts,2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022

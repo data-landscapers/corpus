@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The NPC chairman said newborns can now receive a NIN at birth, the NIN being the national identification number.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

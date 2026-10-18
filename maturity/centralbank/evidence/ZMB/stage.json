@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "no evidence",
-   "mandate": "",
-   "switch": "",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says what the central bank does over payments.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-003",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-centralbank.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

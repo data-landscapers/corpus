@@ -17,14 +17,14 @@ EGY,2,inuse,,inuse,,,EGY-003
 ERI,no evidence,,,,,,
 ETH,2,inuse,,,,,ETH-001
 GAB,4,inuse,inuse,inuse,live,,GAB-004;GAB-003;GAB-001
-GHA,3,inuse,inuse,inuse,,,GHA-002;GHA-003;GHA-008
+GHA,5,inuse,inuse,inuse,,published,GHA-012;GHA-002;GHA-003
 GIN,no evidence,,,,,,
 GMB,2,inuse,none,,,published,GMB-002
 GNB,no evidence,,,,,,
 GNQ,2,inuse,,,,,GNQ-001
 KEN,2,inuse,inuse,,,,KEN-007
 LBR,2,inuse,inuse,,,,LBR-003
-LBY,no evidence,,,,,,
+LBY,unplaced,,inuse,,,,
 LSO,2,inuse,,inuse,,,LSO-001
 MAR,no evidence,,,,,,
 MDG,no evidence,,,,,,
@@ -39,7 +39,7 @@ NGA,5,inuse,,inuse,live,published,NGA-005;NGA-004;NGA-001
 RWA,5,inuse,,,live,published,RWA-002;RWA-004;RWA-003
 SDN,4,,,inuse,live,,SDN-002;SDN-001
 SEN,no evidence,,,,,,
-SLE,2,inuse,inuse,,,,SLE-003
+SLE,5,inuse,inuse,,,published,SLE-006;SLE-001;SLE-003
 SOM,3,inuse,inuse,inuse,,,SOM-004;SOM-001;SOM-002
 SSD,2,inuse,inuse,,,,SSD-002
 STP,no evidence,,,,,,

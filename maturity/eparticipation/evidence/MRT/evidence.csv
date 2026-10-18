@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MRT-001,MRT,eparticipation,online,asked,"The Autorite de Regulation published a public consultation on national roaming, February-March 2023, taking responses by email among other routes until 22 March 2023.",2023-02,month,Consultation publique sur l'itinerance nationale,eparticipation,2023-02-01-mrt-are-consultation-itinerance-nationale,https://are.mr/pdfs/cp_roam_2023_fr.pdf

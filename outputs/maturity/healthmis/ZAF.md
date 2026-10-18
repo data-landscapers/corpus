@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether health reporting runs through a national information system.
+***Not held***. Nothing held since October 2023 says whether a health information system is under way or in service.

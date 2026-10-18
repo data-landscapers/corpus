@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-com-pfss-tms-55000-menages-mobile-banking",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The PFSS-RRC says the World Bank-backed Mayendeleyo social cash transfer phase launched on 20 September 2026 pays 55,000 households through the mobile-banking operators Mvula and Huri Money.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Mayendeleyo social cash transfers",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mayendeleyo social cash transfers (PFSS-RRC)",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of the Union of the Comoros with World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

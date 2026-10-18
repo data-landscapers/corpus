@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "no evidence",
-   "registration": "",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether refugees or displaced people are registered or can use digital services.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "3",
+      "registration": "documented",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001;LBY-004",
+      "gaps": "No source held since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "First pass: counted from the four questions by study-ladder-refugees.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

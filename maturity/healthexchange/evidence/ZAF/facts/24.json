@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-zaf-pmg-nw4628-hprs-biometric",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Minister of Health says the PHC electronic medical record system is integrated with programmes such as the Central Chronic Medicines Dispensing and Distribution, while EMR adoption is still phased.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "EMR and CCMDD integration",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

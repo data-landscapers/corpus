@@ -1,0 +1,17 @@
+{
+ "slug": "2022-10-04-bdi-burunditimes-travel-document-applications-online",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Burundi's Immigration Authority announced a website on 4 October 2022 through which passports, laissez-passer and visas are now requested online.",
+   "as_of": "2022-10-04",
+   "date_precision": "day",
+   "system": "Immigration Authority travel document website",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

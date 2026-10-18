@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-25-ken-businessdaily-kra-itax-icms-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Business Daily reports taxpayers file annual income tax returns on iTax, the electronic tax system, which crashed at the 30 June 2025 deadline.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "iTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

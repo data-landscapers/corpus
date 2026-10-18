@@ -20,13 +20,13 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 27 |
+| 5 Leading | 28 |
 | 4 Operating | 15 |
-| 3 Established | 6 |
+| 3 Established | 9 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 4 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -210,6 +210,12 @@ The central bank took part in a regional or continental payment system in 2025.
 
 - The Bank of Uganda's annual report shows East African Payment System inflows of UGX 1.3 trillion, up 17%, in FY2024/25 ([source, 2025](https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6)).
 
+### Zambia: 5 Leading
+
+The central bank took part in a regional or continental payment system in 2024.
+
+- The report states Zambian commercial banks process payments through the SADC Real Time Gross Settlement System (ZAR13.4 billion paid and ZAR13.9 billion received in 2024) ([source, 2024](https://www.boz.zm/sites/default/files/2026-01/2024NPSAnnualReport_0.pdf)).
+
 ### Cape Verde: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
@@ -326,6 +332,12 @@ The central bank licensed payment providers in 2026; a national switch it overse
 - The Bank of Botswana licenses electronic payment services: under the amended regulations in force since 2 April 2026 no one may operate one without its licence, on pain of a P1 million fine or five years in prison ([source, 2026-04-02](https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news)).
 - The Bank of Botswana says the Electronic Payment Services (Amendment) Regulations, 2026, in effect since 2 April 2026, set out the entities that may be licensed to offer electronic payment services and the licensing and market-entry requirements ([source, 2026-04-02](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf)).
 
+### Eritrea: 3 Established
+
+The central bank licensed payment providers in 2025; a national switch it oversees is not known.
+
+- Himbol's guide says Himbol, which runs the M-Nakfa mobile wallet and remittance payout, operates under the supervision and licensing of the Bank of Eritrea ([source, 2025](https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf)).
+
 ### Ghana: 3 Established
 
 The central bank licensed payment providers in 2026; a national switch it oversees is not known.
@@ -338,12 +350,25 @@ The central bank licensed payment providers in 2026; a national switch it overse
 
 - The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
+### Sao Tome and Principe: 3 Established
+
+The central bank licensed payment providers in 2025; a national switch it oversees is not known.
+
+- The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025) ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
+
 ### Seychelles: 3 Established
 
 The central bank licensed payment providers in 2025; a national switch it oversees is not known.
 
 - Daba Finance says Fusepay operates in Seychelles with a Payment Service Provider licence and central bank approval ([source, 2025-11](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform)).
 - The Central Bank of Seychelles gave Fusepay final approval to operate as a licensed Payment Service Provider ([source, 2025-11-14](https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles)).
+
+### South Sudan: 3 Established
+
+The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+
+- The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
+- The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
 
 ### Sudan: 3 Established
 
@@ -363,27 +388,3 @@ The central bank's payments mandate was being set up in 2026; no licensing is on
 The central bank's payments mandate was being set up in 2026; no licensing is on record.
 
 - The Herald reports the Reserve Bank of Zimbabwe oversees mobile money by directive: a 2021 directive enforced one line, one wallet, and the February 2026 Monetary Policy Statement directed operators to verify customers by 30 June 2026 ([source, 2026-06-30](https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/)).
-
-### Eritrea: No evidence
-
-Nothing held names the central bank's role over payments or says there is none, so no stage is set.
-
-Not established: Nothing held says what the central bank does over payments.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names the central bank's role over payments or says there is none, so no stage is set.
-
-Not established: Nothing held says what the central bank does over payments.
-
-### South Sudan: No evidence
-
-Nothing held names the central bank's role over payments or says there is none, so no stage is set.
-
-Not established: Nothing held says what the central bank does over payments.
-
-### Zambia: No evidence
-
-Nothing held names the central bank's role over payments or says there is none, so no stage is set.
-
-Not established: Nothing held says what the central bank does over payments.

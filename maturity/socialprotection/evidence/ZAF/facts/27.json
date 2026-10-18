@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-02-zaf-dsdnews-ijs-nispis-mous",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "DSD News reports that the Department of Social Development has signed MoUs with government departments to develop and implement the National Integrated Social Protection Information System (NISPIS), an electronic data management system integrating data from several sectors to improve targeting of social protection.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "NISPIS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NISPIS",
+   "country_label": "South Africa",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Department of Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

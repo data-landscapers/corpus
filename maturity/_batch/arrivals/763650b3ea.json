@@ -1,0 +1,6 @@
+{"slug":"2024-12-01-ken-ca-kdhs-2022-ict-analytical-fact-sheet","studies":{
+"censuses":{"countries":{"KEN":{"facts":[{"sub_indicator":"census","aspect":"survey","value":"published","fact":"The Communications Authority of Kenya published in December 2024 an analytical fact sheet of ICT uptake from the 2022 Kenya Demographic and Health Survey.","as_of":"2024-12","date_precision":"month","system":"KDHS 2022","class":"census"}],"systems":[{"system":"Kenya Demographic and Health Survey","country_label":"KDHS 2022","class":"census","platform":"","owner":"KNBS","tiers":""}],"note":""}}},
+"digitaldivides":{"countries":{"KEN":{"facts":[{"sub_indicator":"ruralaccess","aspect":"measured","value":"measured","fact":"The 2022 KDHS fact sheet gives internet use in the past 12 months, aged 15-49, as 80.0% of urban and 40.7% of rural men and 67.7% of urban and 27.9% of rural women.","as_of":"2022","date_precision":"year","system":"KDHS 2022","class":"ruralaccess"}],"systems":[],"note":""}}},
+"internetusage":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Internet use is given by sex for ages 15-49 only, with no all-population share."}}},
+"mobilepenetration":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Phone ownership is given by sex for ages 15-49 only, with no share of people aged 10 and over."}}}
+}}

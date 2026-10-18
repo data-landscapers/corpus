@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-24-bfa-mtdpce-dematerialisation-chaine-penale",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial-chain project is not yet a service people can use online."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the justice ministry's IT director presenting progress but states no staff running or building a system."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "underway",
+       "fact": "The digital transition ministry says a 2025-2027 project to digitise the criminal and administrative chains of judicial procedure is under way under PACT DIGITAL, with a development team operational and first works in progress.",
+       "as_of": "2025-06-24",
+       "date_precision": "day",
+       "system": "dematerialisation de la chaine penale",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dématérialisation de la chaîne pénale",
+       "country_label": "Dématérialisation de la chaîne pénale",
+       "class": "justice",
+       "platform": "",
+       "owner": "Ministère de la Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-27-tun-webdo-relance-couverture-zones-blanches",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Webdo reports that the Ministry of Communication Technologies launched national tender 02/2025 to extend telecom and broadband coverage to 103 white zones in 15 governorates.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "White zones tender 02/2025",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Webdo reports that the 2017 white-zones project, with Tunisie Telecom alone, connected 94 white zones, 164 schools and 59 health centres, benefiting over 180,000 citizens.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "White zones project 2017",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

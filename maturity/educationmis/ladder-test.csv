@@ -2,18 +2,18 @@ iso3,stage,system,learners,linked,stage_sources
 AGO,2,underway,,,AGO-001;AGO-002
 BDI,2,underway,,,BDI-003;BDI-001
 BEN,3,inservice,,,BEN-001
-BFA,no evidence,,,,
-BWA,no evidence,,,,
+BFA,3,inservice,,,BFA-002
+BWA,unplaced,,,,
 CAF,unplaced,,,,
 CIV,2,underway,,,CIV-001;CIV-002
 CMR,2,underway,,,CMR-001;CMR-002
 COD,2,underway,,,COD-001
 COG,2,underway,,,COG-001
-COM,no evidence,,,,
+COM,unplaced,,,,
 CPV,2,underway,,,CPV-001;CPV-003
 DJI,2,underway,,,DJI-001
-DZA,no evidence,,,,
-EGY,no evidence,,,,
+DZA,2,underway,,,DZA-001
+EGY,4,inservice,individual,,EGY-003
 ERI,2,underway,,,ERI-001
 ETH,3,inservice,,,ETH-003
 GAB,2,underway,,,GAB-001;GAB-002
@@ -27,28 +27,28 @@ LBR,3,inservice,,,LBR-006
 LBY,2,underway,,,LBY-001
 LSO,3,inservice,,,LSO-001
 MAR,3,inservice,,,MAR-001
-MDG,no evidence,,,,
+MDG,2,underway,,,MDG-002
 MLI,3,inservice,,,MLI-001
 MOZ,3,inservice,,,MOZ-004;MOZ-003
 MRT,no evidence,,,,
 MUS,no evidence,,,,
 MWI,4,inservice,individual,,MWI-001
 NAM,3,inservice,,,NAM-001
-NER,no evidence,,,,
+NER,unplaced,,,,
 NGA,3,inservice,,,NGA-003
-RWA,no evidence,,,,
+RWA,2,underway,,,RWA-001
 SDN,2,underway,,,SDN-001;SDN-002
-SEN,no evidence,,,,
+SEN,unplaced,,,,
 SLE,2,underway,,,SLE-004;SLE-003
 SOM,3,inservice,,,SOM-004;SOM-003
-SSD,no evidence,,,,
+SSD,unplaced,,,,
 STP,2,underway,,,STP-001
 SWZ,5,inservice,individual,linked,SWZ-004
 SYC,2,underway,,,SYC-001
 TCD,3,inservice,,,TCD-003
 TGO,3,inservice,,,TGO-001;TGO-002
 TUN,no evidence,,,,
-TZA,no evidence,,,,
+TZA,5,inservice,individual,linked,TZA-003
 UGA,5,inservice,individual,linked,UGA-004
 ZAF,4,inservice,individual,,ZAF-002
 ZMB,2,underway,,,ZMB-001

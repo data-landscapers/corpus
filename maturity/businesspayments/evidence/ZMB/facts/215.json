@@ -1,0 +1,46 @@
+{
+ "slug": "2024-11-23-zmb-zambiamonitor-zppa-egp-sanctions-tenders",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ZPPA acting director-general Justin Matimuna said 14,732 tenders from 431 procuring entities were published on the E-GP system in the third quarter of 2024.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "E-GP",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "ZPPA said use of the E-GP system is mandated under Section 16 of the Public Procurement Act and directed that all public procurement be conducted exclusively on the platform.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "E-GP",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ZPPA said 14,732 tenders from 431 procuring entities were published on E-GP in the third quarter of 2024.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "E-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Government Procurement (E-GP)",
+   "country_label": "Zambia",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ZPPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

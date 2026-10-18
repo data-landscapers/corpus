@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-05-tza-ega-e-mrejesho-un-public-service-award",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The e-Government Authority says it designed and built the e-Mrejesho system, used by all government institutions, with the President's Office Public Service Management.",
+   "as_of": "2024-07-05",
+   "date_precision": "day",
+   "system": "e-Mrejesho",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Mrejesho",
+   "country_label": "e-Mrejesho",
+   "class": "other",
+   "platform": "USSD *152*00#, mobile app, web",
+   "owner": "e-Government Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

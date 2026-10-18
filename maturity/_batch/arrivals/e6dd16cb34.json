@@ -1,0 +1,4 @@
+{"slug":"2025-12-21-mar-le360-dgm-observation-aux-alertes","studies":{
+"agrisatellite":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Article covers weather forecasting only, no farming use of satellite data."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"The Amtar supercomputer is named for weather forecasting, not AI."}}},
+"metsatellite":{"countries":{"MAR":{"facts":[{"sub_indicator":"metsat","aspect":"stream","value":"inservice","fact":"Morocco's Direction generale de la meteorologie (DGM) says its observation draws on satellite images refreshed every ten minutes to track weather systems.","as_of":"2025-12-21","date_precision":"day","system":"DGM satellite imagery","class":"metsat"}],"systems":[{"system":"Amtar supercomputer","country_label":"Morocco","class":"other","platform":"high-performance computer","owner":"DGM","tiers":""}],"note":""}}}}}

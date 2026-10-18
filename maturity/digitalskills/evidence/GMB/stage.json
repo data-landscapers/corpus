@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001;GMB-002",
-   "gaps": "No source held since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001;GMB-003",
+      "gaps": "No source held since October 2023 says: is one in service and counted.",
+      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

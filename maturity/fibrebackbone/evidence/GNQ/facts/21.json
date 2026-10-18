@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-18-guinea-ecuatorial-gabon-acuerdos-telecomunicaciones-roaming-cero-cab4",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CAB-4",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "fibre optic interconnection with Gabon, part of the CEMAC subregional ring",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "CAB-4 is a cross-border interconnection with Gabon, which regionalinfrastructure assesses; no domestic backbone stated."
+}

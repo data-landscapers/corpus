@@ -1,0 +1,7 @@
+{"slug": "2025-01-01-lby-metac-fy25-capacity-development-customs-asycuda", "studies": {
+"censuses": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Mentions only a 2022 Economic Survey (an economic survey, not a census or household survey)."}}},
+"customs": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The IMF METAC says its August-September 2024 mission helped Libya Customs develop a National Standard Operating Procedure documenting the new automated clearing process using ASYCUDA World.", "as_of": "2024-09", "date_precision": "month", "system": "ASYCUDA World", "class": "customs"}
+], "systems": [{"system": "ASYCUDA World", "country_label": "ASYCUDA World", "class": "customs", "platform": "ASYCUDA World", "owner": "Libyan Customs Authority", "tiers": ""}], "note": ""}}},
+"qualitystandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing about national standards for information technology or data."}}}
+}}

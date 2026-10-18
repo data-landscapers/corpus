@@ -1,0 +1,6 @@
+{"slug": "2026-01-25-tza-dailynews-idras-compliance", "studies": {
+"localrecords": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document concerns the national tax authority's system and says nothing of local government records."}}},
+"taxadmin": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "The Tanzania Revenue Authority's Integrated Domestic Revenue Administration System (IDRAS) was scheduled to launch on 9 February 2026, replacing separate VAT and other platforms with one system handling registration, return filing, payments, objections and sales monitoring, per the Commissioner for Domestic Revenue.", "as_of": "2026-01-25", "date_precision": "day", "system": "IDRAS", "class": "taxsystem"}
+], "systems": [{"system": "Integrated Domestic Revenue Administration System (IDRAS)", "country_label": "Tanzania", "class": "taxsystem", "platform": "", "owner": "Tanzania Revenue Authority", "tiers": ""}], "note": ""}}}
+}}

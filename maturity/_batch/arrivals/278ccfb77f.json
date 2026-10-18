@@ -1,0 +1,100 @@
+{
+ "slug": "2024-07-05-tza-ega-e-mrejesho-un-public-service-award",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "e-Mrejesho is a complaints channel, not a government service."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an ISO/IEC 27001 certificate held by e-GA, which places nothing."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "The e-Government Authority says it designed and built the e-Mrejesho system, used by all government institutions, with the President's Office Public Service Management.",
+       "as_of": "2024-07-05",
+       "date_precision": "day",
+       "system": "e-Mrejesho",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Mrejesho",
+       "country_label": "e-Mrejesho",
+       "class": "feedback",
+       "platform": "USSD *152*00#, mobile app, web",
+       "owner": "e-Government Authority",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only ISO certificates held by e-GA; no national standard or body stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The e-Government Authority says the e-Mrejesho system is available by USSD, mobile app and website for citizens to send feedback, complaints or compliments to government institutions.",
+       "as_of": "2024-07-05",
+       "date_precision": "day",
+       "system": "e-Mrejesho",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The e-Government Authority says e-Mrejesho lets citizens reach all government institutions, transfers a misdirected complaint between institutions and allows appeal to a higher level.",
+       "as_of": "2024-07-05",
+       "date_precision": "day",
+       "system": "e-Mrejesho",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Mrejesho",
+       "country_label": "e-Mrejesho",
+       "class": "feedback",
+       "platform": "USSD *152*00#, mobile app, web",
+       "owner": "e-Government Authority",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

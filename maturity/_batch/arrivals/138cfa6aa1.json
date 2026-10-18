@@ -1,0 +1,44 @@
+{
+ "slug": "2023-01-01-sle-eueom-final-report-general-elections",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The EU EOM says that since the 2016 National Civil Registration Act citizens are added to the voter register only if already in the civil register, which is used to extract voters' data, and that NCRA and ECSL registered 3,374,258 voters jointly from 3 September to 4 October 2022.",
+       "as_of": "2022-10",
+       "date_precision": "month",
+       "system": "voter register",
+       "class": "electoral"
+      },
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The EU EOM says the ECSL captured voters' data and pictures by software, provided political parties an electronic copy of the final voter lists with names and pictures on 8 June 2023, and developed an application for voters to verify their data.",
+       "as_of": "2023-06-08",
+       "date_precision": "day",
+       "system": "voter register",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "voter register",
+       "country_label": "Sierra Leone",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Electoral Commission for Sierra Leone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

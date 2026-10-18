@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MDG-001,MDG,eparticipation,online,standing,"The National Assembly's Consultations Publiques portal lists several citizen consultations open to contributions, including the Electoral Code reform (13 February to 13 March 2026) and an environment bill.",2026-10-17,day,parlement.mg Consultations Publiques,eparticipation,2026-10-17-mdg-parlement-consultations-publiques-portal,https://parlement.mg/consultations/

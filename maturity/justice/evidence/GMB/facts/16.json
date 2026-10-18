@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-23-gmb-thepoint-judiciary-usaid-case-management-pilot",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Office of the Chief Justice said the electronic Case Management System developed with ABA ROLI support is in its pilot phase; online payment of court fees is expected.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "electronic Case Management System",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic Case Management System",
+   "country_label": "The Gambia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of the Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{"slug": "2023-11-13-gab-techies-dgdi-portail-reclamations", "studies": {
+"authentication": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Portal renews documents online; says nothing of authentication, e-signature or PKI."}}},
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"egovservices": {"countries": {"GAB": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Techies reports Gabon's DGDI inaugurated an e-services portal where citizens can renew passports, national ID cards and residence permits online (three services named).", "as_of": "2023-11-13", "date_precision": "day", "system": "DGDI e-services portal (edgdi.dgdi.ga)", "class": "eservices"}], "systems": [{"system": "DGDI e-services portal", "country_label": "Gabon", "class": "eservices", "platform": "edgdi.dgdi.ga", "owner": "Direction Generale de la Documentation et de l'Immigration (DGDI)", "tiers": "Espace Renouvellement; Espace Reclamation"}], "note": ""}}},
+"feedbackportals": {"countries": {"GAB": {"facts": [{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "Techies reports the DGDI portal includes an Espace Reclamation, an online space to file and follow complaints, newly inaugurated; no case numbers are given.", "as_of": "2023-11-13", "date_precision": "day", "system": "DGDI portal Espace Reclamation", "class": "feedback"}], "systems": [{"system": "DGDI portal Espace Reclamation", "country_label": "Gabon", "class": "feedback", "platform": "edgdi.dgdi.ga", "owner": "DGDI", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Mentions ID card renewal only; nothing on the ID system's build, biometrics or certification."}}}
+}}

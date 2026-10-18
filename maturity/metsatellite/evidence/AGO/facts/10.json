@@ -1,0 +1,26 @@
+{
+ "slug": "2019-01-01-ago-mfi-inamet-pmi-modernization-project",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "Meteo-France International's project page says the 2019-2022 PMI turnkey modernisation for INAMET (EUR 60m) includes a satellite data reception system to receive the EUMETCast data flow.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "EUMETCast reception system, PMI Project",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETCast reception system (PMI Project)",
+   "country_label": "Angola",
+   "class": "metsat",
+   "platform": "EUMETCast",
+   "owner": "INAMET",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

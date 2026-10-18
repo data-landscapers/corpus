@@ -1,0 +1,18 @@
+{"slug": "2024-07-03-sen-orbit-taux-inclusion-financiere-bceao", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document gives inclusion figures only; no licensing, switch or regional link is stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentslaw": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "BCEAO national director François Sène says the regulatory framework governing electronic money was renovated in 2015 in the Union (UEMOA), which includes Senegal.", "as_of": "2015", "date_precision": "year", "system": "BCEAO e-money regulatory framework", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023, up from 61.90% in 2016.", "as_of": "2023", "date_precision": "year", "system": "BCEAO financial inclusion rate", "class": "survey"},
+{"sub_indicator": "uptake", "aspect": "target", "value": "target", "fact": "BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023.", "as_of": "2023", "date_precision": "year", "system": "BCEAO financial inclusion rate", "class": "survey"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "BCEAO's national director says the e-money utilisation rate in Senegal rose from 26.40% in 2016 to 59.86% in 2023.", "as_of": "2023", "date_precision": "year", "system": "monnaie électronique", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

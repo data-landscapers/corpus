@@ -1,55 +1,55 @@
 iso3,stage,channel,reach,results,stage_sources
 AGO,no evidence,,,,
 BDI,no evidence,,,,
-BEN,no evidence,,,,
-BFA,no evidence,,,,
-BWA,no evidence,,,,
+BEN,2,underway,,,BEN-001;BEN-002
+BFA,2,underway,,,BFA-001
+BWA,unplaced,,,,
 CAF,no evidence,,,,
-CIV,no evidence,,,,
-CMR,no evidence,,,,
+CIV,unplaced,,,,
+CMR,unplaced,,,,
 COD,2,underway,,,COD-001
 COG,no evidence,,,,
 COM,2,underway,,,COM-001
-CPV,no evidence,,,,
+CPV,unplaced,,,,
 DJI,2,underway,,,DJI-001
-DZA,no evidence,,,,
+DZA,2,underway,,,DZA-002;DZA-003
 EGY,5,inservice,wide,published,EGY-003
 ERI,no evidence,,,,
-ETH,no evidence,,,,
-GAB,no evidence,,,,
+ETH,2,underway,,,ETH-001;ETH-002
+GAB,2,underway,,,GAB-001
 GHA,2,underway,,,GHA-001
 GIN,no evidence,,,,
-GMB,no evidence,,,,
+GMB,2,underway,,,GMB-002
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,no evidence,,,,
-LBR,no evidence,,,,
-LBY,no evidence,,,,
-LSO,no evidence,,,,
-MAR,no evidence,,,,
-MDG,no evidence,,,,
+GNQ,unplaced,,,,
+KEN,2,underway,,,KEN-001
+LBR,2,underway,,,LBR-001;LBR-002
+LBY,2,underway,,,LBY-001;LBY-002
+LSO,2,underway,,,LSO-001
+MAR,5,inservice,wide,published,MAR-003;MAR-006
+MDG,2,underway,,,MDG-001
 MLI,no evidence,,,,
-MOZ,no evidence,,,,
-MRT,no evidence,,,,
-MUS,no evidence,,,,
-MWI,no evidence,,,,
-NAM,no evidence,,,,
-NER,no evidence,,,,
+MOZ,2,underway,,,MOZ-001
+MRT,5,inservice,wide,published,MRT-002
+MUS,unplaced,,,,
+MWI,2,underway,,,MWI-001
+NAM,2,underway,,,NAM-001
+NER,unplaced,,,,
 NGA,4,inservice,wide,,NGA-002
 RWA,2,underway,,,RWA-001
-SDN,no evidence,,,,
+SDN,2,underway,,,SDN-001
 SEN,2,underway,,,SEN-001
 SLE,no evidence,,,,
 SOM,2,underway,,,SOM-001
 SSD,unplaced,,,,
 STP,no evidence,,,,
-SWZ,no evidence,,,,
-SYC,no evidence,,,,
-TCD,no evidence,,,,
-TGO,no evidence,,,,
-TUN,no evidence,,,,
-TZA,no evidence,,,,
+SWZ,2,underway,,,SWZ-001
+SYC,unplaced,,,,
+TCD,2,underway,,,TCD-001
+TGO,2,underway,,,TGO-001;TGO-002
+TUN,2,underway,,,TUN-001
+TZA,4,inservice,wide,,TZA-004
 UGA,no evidence,,,,
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
-ZWE,no evidence,,,,
+ZAF,5,inservice,wide,published,ZAF-003
+ZMB,2,underway,,,ZMB-001
+ZWE,2,underway,,,ZWE-001

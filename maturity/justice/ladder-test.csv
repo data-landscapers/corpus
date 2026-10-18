@@ -1,55 +1,55 @@
 iso3,stage,cases,filing,public,stage_sources
-AGO,no evidence,,,,
-BDI,unplaced,,,,
-BEN,no evidence,,,,
-BFA,no evidence,,,,
+AGO,2,underway,,,AGO-001
+BDI,2,underway,,,BDI-001;BDI-002
+BEN,4,inservice,online,,BEN-004
+BFA,2,underway,,,BFA-001
 BWA,2,underway,,,BWA-001
 CAF,no evidence,,,,
 CIV,2,underway,,,CIV-001;CIV-002
-CMR,no evidence,,,,
+CMR,unplaced,,,,
 COD,3,inservice,,,COD-002
 COG,no evidence,,,,
 COM,no evidence,,,,
-CPV,no evidence,,,,
+CPV,3,inservice,,,CPV-001
 DJI,2,underway,,,DJI-001
 DZA,5,inservice,online,open,DZA-001
 EGY,3,inservice,,,EGY-001;EGY-002
-ERI,no evidence,,,,
-ETH,no evidence,,,,
+ERI,unplaced,,,,
+ETH,2,underway,,,ETH-001
 GAB,no evidence,,,,
 GHA,2,underway,,,GHA-001
-GIN,no evidence,,,,
-GMB,no evidence,,,,
+GIN,5,inservice,online,open,GIN-001
+GMB,4,inservice,online,,GMB-004
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,no evidence,,,,
+GNQ,2,underway,,,GNQ-001
+KEN,4,inservice,online,,KEN-003;KEN-001
 LBR,2,underway,,,LBR-001
 LBY,no evidence,,,,
-LSO,no evidence,,,,
-MAR,no evidence,,,,
-MDG,no evidence,,,,
+LSO,2,underway,,,LSO-001;LSO-002
+MAR,4,inservice,online,,MAR-003
+MDG,3,inservice,,,MDG-001
 MLI,2,underway,,,MLI-001
 MOZ,no evidence,,,,
 MRT,no evidence,,,,
-MUS,no evidence,,,,
+MUS,unplaced,,,,
 MWI,3,inservice,,,MWI-002
-NAM,no evidence,,,,
+NAM,2,underway,,,NAM-001;NAM-002
 NER,no evidence,,,,
 NGA,3,inservice,,,NGA-001
 RWA,3,inservice,,,RWA-001
-SDN,no evidence,,,,
+SDN,unplaced,,,,
 SEN,3,inservice,,,SEN-004
-SLE,no evidence,,,,
+SLE,unplaced,,,,
 SOM,3,inservice,,,SOM-001
 SSD,no evidence,,,,
-STP,no evidence,,,,
+STP,2,underway,,,STP-001
 SWZ,2,underway,,,SWZ-001;SWZ-002
-SYC,no evidence,,,,
+SYC,4,inservice,online,,SYC-001;SYC-002
 TCD,2,underway,,,TCD-001
-TGO,no evidence,,,,
-TUN,no evidence,,,,
-TZA,no evidence,,,,
-UGA,no evidence,,,,
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
+TGO,5,inservice,online,open,TGO-001
+TUN,2,underway,,,TUN-001
+TZA,3,inservice,,,TZA-003
+UGA,5,inservice,online,open,UGA-009
+ZAF,4,inservice,online,,ZAF-005;ZAF-003
+ZMB,2,underway,,,ZMB-001
 ZWE,5,inservice,online,open,ZWE-004

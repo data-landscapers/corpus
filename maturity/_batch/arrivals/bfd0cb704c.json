@@ -1,0 +1,133 @@
+{
+ "slug": "2026-04-23-moz-mznews-atdi-huawei-ai-mou",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "ATDI, IP and Huawei Technologies Mozambique signed an MoU that provides for creating Portuguese-language AI models adapted to Mozambique, per ATDI's own note.",
+       "as_of": "2026-04-23",
+       "date_precision": "day",
+       "system": "Portuguese-language models under ATDI-Huawei MoU",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ATDI-Huawei MoU on AI",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "ATDI, IP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no delivered thing or rule that answers this study."
+    }
+   }
+  }
+ }
+}

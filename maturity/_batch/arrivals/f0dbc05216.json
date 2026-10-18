@@ -1,0 +1,44 @@
+{
+ "slug": "2025-08-11-eth-ena-digital-procurement-308-billion-birr",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Federal Public Procurement and Property Authority said the electronic procurement system was implemented across 169 federal budgetary institutions and 93 branch offices in EFY 2017.",
+       "as_of": "2025-08-11",
+       "date_precision": "day",
+       "system": "electronic procurement system",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The Authority said 308.75 billion Birr of procurement went through the electronic system in EFY 2017 (300 billion by bidding, 8.75 billion by price quotation), after 65 percent of procurement in 2016.",
+       "as_of": "2025-08-11",
+       "date_precision": "day",
+       "system": "electronic procurement system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on government services online."
+    }
+   }
+  }
+ }
+}

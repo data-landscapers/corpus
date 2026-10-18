@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-21-nga-punch-cash-transfer-nin-bvn-cbn-payment",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The National Social Register used for cash transfers requires a NIN, and beneficiaries without one are disqualified, says the minister's media aide.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "National Social Register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

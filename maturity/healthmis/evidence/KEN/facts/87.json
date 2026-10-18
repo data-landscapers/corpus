@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-18-ken-moh-digital-health-reform-cihis-17-counties",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Cabinet Secretary said the Comprehensive Integrated Health Information System is operational in 17 counties, with rollout to Homabay, Kisumu, Nakuru, Lamu and others in the coming weeks.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "Comprehensive Integrated Health Information System",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

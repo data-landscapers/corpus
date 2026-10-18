@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+RWA-001,RWA,ruralaccess,measured,measured,The National Institute of Statistics of Rwanda's EICV5 household survey (2016/17) gives home internet access of 38.1% of urban households against 12.2% of rural households.,2017,year,EICV5,ruralaccess,2018-01-01-rwa-nisr-ict-household-internet-access-urban-rural,https://statistics.gov.rw/statistical-publications/ict-water-sanitation-energy-tourism-and-transport/ict

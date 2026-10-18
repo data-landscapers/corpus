@@ -1,0 +1,35 @@
+{
+ "slug": "2026-06-01-zaf-kzn-court-online-directives-2026",
+ "studies": {
+  "justice": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "inservice",
+       "fact": "The KwaZulu-Natal Division's Directive 1 of 2026 governs case numbers allocated and documents uploaded to virtual court files on Court Online and CaseLines.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Court Online / CaseLines",
+       "class": "justice"
+      },
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "The directive requires process to be uploaded for issuing on Court Online and supporting documents uploaded once the case number is allocated, by legal practitioners and litigants.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Court Online",
+       "class": "justice"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

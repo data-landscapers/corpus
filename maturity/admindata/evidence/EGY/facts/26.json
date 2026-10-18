@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-egy-emis-moete-statistical-yearbook-2024-2025",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The education ministry's statistical yearbook for 2024/25, drawn from its central database covering all elements of the education process, reports schools, classes, pupils, exam results and teachers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Annual Statistical Yearbook 2024/2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

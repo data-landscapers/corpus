@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZWE-001,ZWE,uptake,share,half,"The FinScope Zimbabwe 2022 Consumer Survey (3,000 interviews, April-May 2022, commissioned by the Reserve Bank of Zimbabwe) states that 70% of adults have a transactional account, either a bank or a mobile money account.",2022-05,month,FinScope Consumer Survey Zimbabwe 2022,survey,2022-12-01-zwe-finmark-finscope-consumer-2022-report,https://finmark.org.za/Publications/FinScope_Consumer_Zimbabwe_2022_Report.pdf

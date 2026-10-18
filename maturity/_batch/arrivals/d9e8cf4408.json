@@ -1,0 +1,63 @@
+{
+ "slug": "2025-01-01-bdi-ai4d-mpox-ai-surveillance-pilot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for BDI."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for BDI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The AI4Mpox Burundi team is piloting an AI-powered early-warning dashboard in three health districts of Bujumbura.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "AI4Mpox Burundi early-warning dashboard",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The AI4Mpox Burundi team developed a machine-learning-ready epidemiological dataset and is piloting an AI early-warning dashboard.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "AI4Mpox Burundi",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

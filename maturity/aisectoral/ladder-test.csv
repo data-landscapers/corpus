@@ -1,55 +1,55 @@
 iso3,stage,use,sectors,results,stage_sources
 AGO,2,underway,,,AGO-001
-BDI,no evidence,,,,
+BDI,2,underway,,,BDI-001
 BEN,2,underway,,,BEN-001;BEN-003
 BFA,no evidence,,,,
-BWA,2,underway,,,BWA-001
-CAF,no evidence,,,,
-CIV,no evidence,,,,
+BWA,2,underway,,,BWA-001;BWA-002
+CAF,2,underway,,,CAF-001
+CIV,3,inservice,,,CIV-001
 CMR,3,inservice,,,CMR-001;CMR-002
-COD,no evidence,,,,
+COD,5,inservice,several,reported,COD-004
 COG,no evidence,,,,
 COM,2,underway,,,COM-001
 CPV,no evidence,,,,
 DJI,3,inservice,,,DJI-001
 DZA,2,underway,,,DZA-002;DZA-003
 EGY,3,inservice,,,EGY-001
-ERI,no evidence,,,,
-ETH,2,underway,,,ETH-001;ETH-002
+ERI,unplaced,,,,
+ETH,3,inservice,,,ETH-003
 GAB,no evidence,,,,
-GHA,unplaced,,,,
+GHA,3,inservice,,,GHA-002
 GIN,no evidence,,,,
-GMB,no evidence,,,,
+GMB,3,inservice,,,GMB-001;GMB-002
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,no evidence,,,,
+GNQ,2,underway,,,GNQ-001
+KEN,3,inservice,,,KEN-003
 LBR,2,underway,,,LBR-001
 LBY,no evidence,,,,
-LSO,no evidence,,,,
-MAR,no evidence,,,,
+LSO,2,underway,,,LSO-001
+MAR,2,underway,,,MAR-001;MAR-002
 MDG,3,inservice,,,MDG-001
 MLI,no evidence,,,,
-MOZ,no evidence,,,,
+MOZ,2,underway,,,MOZ-001
 MRT,3,inservice,,,MRT-002;MRT-001
 MUS,2,underway,,,MUS-001
-MWI,no evidence,,,,
+MWI,3,inservice,,,MWI-003;MWI-004
 NAM,2,underway,,,NAM-002;NAM-001
-NER,2,underway,,,NER-001
-NGA,no evidence,,,,
+NER,3,inservice,,,NER-002
+NGA,3,inservice,,,NGA-001
 RWA,2,underway,,,RWA-001
 SDN,no evidence,,,,
-SEN,no evidence,,,,
-SLE,no evidence,,,,
+SEN,3,inservice,,,SEN-002
+SLE,5,inservice,several,reported,SLE-002
 SOM,3,inservice,,,SOM-001
 SSD,no evidence,,,,
 STP,no evidence,,,,
 SWZ,2,underway,,,SWZ-001
-SYC,2,underway,,,SYC-001;SYC-003
+SYC,3,inservice,,,SYC-004
 TCD,no evidence,,,,
 TGO,3,inservice,,,TGO-002
 TUN,3,inservice,,,TUN-003
-TZA,no evidence,,,,
+TZA,5,inservice,several,reported,TZA-002
 UGA,2,underway,,,UGA-001
-ZAF,no evidence,,,,
-ZMB,2,underway,,,ZMB-001
+ZAF,5,inservice,several,reported,ZAF-005;ZAF-003
+ZMB,5,inservice,several,reported,ZMB-004
 ZWE,5,inservice,several,reported,ZWE-002

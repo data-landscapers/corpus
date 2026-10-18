@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-bwa-dailynews-government-to-enable-innovators",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The Botswana Digital and Innovation Hub financed startup IoT Communications through the Botswana Innovation Fund, which the founder put at P1 million.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Botswana Innovation Fund",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Innovation Fund",
+   "country_label": "Botswana",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Botswana Digital and Innovation Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

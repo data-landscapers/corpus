@@ -1,0 +1,14 @@
+{"slug": "2024-12-23-mar-lavieeco-pnhd-phase1-99pct-rural-zones", "studies": {
+"broadbandstrategy": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Minister Amal El Fallah Seghrouchni told parliament that a second phase of the national broadband plan (PNHD) has been launched to serve 1,800 rural zones by 2026.", "as_of": "2024-12-23", "date_precision": "day", "system": "Plan national du haut et du très haut débit (PNHD)", "class": "plan"},
+{"sub_indicator": "plan", "aspect": "delivery", "value": "reported", "fact": "The minister reported that PNHD phase one covered over 10,640 rural zones between 2018 and 2024, about 99 per cent of its target.", "as_of": "2024-12-23", "date_precision": "day", "system": "Plan national du haut et du très haut débit (PNHD)", "class": "plan"},
+{"sub_indicator": "plan", "aspect": "delivery", "value": "funded", "fact": "The minister said PNHD phase two is carried out with the support of the Universal Telecommunications Service Fund.", "as_of": "2024-12-23", "date_precision": "day", "system": "Plan national du haut et du très haut débit (PNHD)", "class": "plan"}
+], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The minister said over 10,640 rural zones were covered by 2G, 3G and 4G services between 2018 and 2024 under PNHD phase one, and that phase two will serve 1,800 poorly covered rural zones by 2026 with universal service fund support.", "as_of": "2024-12-23", "date_precision": "day", "system": "Plan national du haut et du très haut débit (PNHD)", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The universal service fund is said to support PNHD phase two but no amount, rise or statement on domestic financing is given."}}},
+"satellitebroadband": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The minister said any customer in areas without terrestrial broadband can get financial support of up to 2,500 dirhams per subscription to satellite internet from an approved provider under the VSAT initiative.", "as_of": "2024-12-23", "date_precision": "day", "system": "VSAT initiative", "class": "satellite"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-30-lso-govls-national-contact-centre-pro-workshop",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Ministry of Communications said the National Contact Centre takes citizens' complaints through agents who pass them to ministry PROs, who must report back to the centre within 3 days, and it will serve as a feedback mechanism for government.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "National Contact Centre",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Contact Centre",
+   "country_label": "Lesotho",
+   "class": "feedback",
+   "platform": "telephone and email",
+   "owner": "Ministry of Communications, Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

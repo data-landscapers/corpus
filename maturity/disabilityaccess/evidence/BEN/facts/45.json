@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-31-ben-lanation-classes-numeriques-handicap",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "La Nation reports the government set up three digital classrooms for visually impaired learners (Cotonou-Sègbèya, Parakou, and one other) with screen readers, braille printers and braille displays, and 31 pupils of CEG Sègbèya trained at Sègbèya in 2023-2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Classes numériques pour personnes handicapées visuelles",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-31-cmr-bantugazette-aigles-platform-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AIGLES",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "government software",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  }
+ ],
+ "note": "AIGLES is described as administrative and financial procedure software, with no citizen-facing service stated."
+}

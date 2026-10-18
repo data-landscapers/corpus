@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "5",
       "services": "inservice",
-      "gateway": "",
-      "usage": "",
+      "gateway": "single",
+      "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No source held since October 2023 says one national portal carries several ministries' services with shared sign-in.",
+      "stage_sources": "KEN-004",
+      "gaps": "",
       "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

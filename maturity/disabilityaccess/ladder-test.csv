@@ -1,23 +1,23 @@
 iso3,stage,rule,delivered,audit,stage_sources
 AGO,no evidence,,,,
 BDI,unplaced,,,,
-BEN,no evidence,,,,
+BEN,4,inforce,delivered,,BEN-001
 BFA,2,underway,,,BFA-001
-BWA,no evidence,,,,
+BWA,unplaced,,,,
 CAF,no evidence,,,,
-CIV,no evidence,,,,
-CMR,unplaced,,,,
+CIV,4,inforce,delivered,,CIV-003
+CMR,2,underway,,,CMR-003
 COD,4,inforce,delivered,,COD-001
 COG,no evidence,,,,
 COM,1,none,,,COM-001
 CPV,no evidence,,,,
-DJI,no evidence,,,,
-DZA,no evidence,,,,
+DJI,unplaced,,,,
+DZA,3,inforce,,,DZA-002
 EGY,4,inforce,delivered,,EGY-001;EGY-003
 ERI,no evidence,,,,
-ETH,no evidence,,,,
+ETH,unplaced,,,,
 GAB,no evidence,,,,
-GHA,no evidence,,,,
+GHA,4,inforce,delivered,,GHA-004
 GIN,2,underway,,,GIN-001
 GMB,2,underway,,,GMB-001
 GNB,no evidence,,,,
@@ -31,24 +31,24 @@ MDG,2,underway,,,MDG-001
 MLI,no evidence,,,,
 MOZ,3,inforce,,,MOZ-001
 MRT,no evidence,,,,
-MUS,no evidence,,,,
-MWI,no evidence,,,,
-NAM,no evidence,,,,
+MUS,1,none,,,MUS-003
+MWI,3,inforce,,,MWI-003
+NAM,1,none,,,NAM-002
 NER,no evidence,,,,
 NGA,5,inforce,delivered,published,NGA-001;NGA-003
-RWA,no evidence,,,,
-SDN,no evidence,,,,
+RWA,3,inforce,,,RWA-001
+SDN,unplaced,,,,
 SEN,1,none,,,SEN-001
 SLE,4,inforce,delivered,,SLE-001
 SOM,2,underway,,,SOM-001
 SSD,2,underway,,,SSD-001
-STP,no evidence,,,,
+STP,2,underway,,,STP-001
 SWZ,4,inforce,delivered,,SWZ-001
 SYC,no evidence,,,,
-TCD,no evidence,,,,
-TGO,no evidence,,,,
+TCD,unplaced,,,,
+TGO,unplaced,,,,
 TUN,4,inforce,delivered,,TUN-001
-TZA,4,inforce,delivered,,TZA-003
+TZA,5,inforce,delivered,published,TZA-005
 UGA,4,inforce,delivered,,UGA-001;UGA-002
 ZAF,2,underway,,,ZAF-002;ZAF-001
 ZMB,4,inforce,delivered,,ZMB-001

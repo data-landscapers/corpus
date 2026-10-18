@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-12-mar-barlamantoday-customs-ai-pilots",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Morocco's Customs and Indirect Taxes Administration has implemented pilot projects using machine learning on customs declarations to identify fraud risks, with further testing underway, per the budget minister's written answer.",
+   "as_of": "2024-08-12",
+   "date_precision": "day",
+   "system": "customs fraud-risk machine-learning pilots",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

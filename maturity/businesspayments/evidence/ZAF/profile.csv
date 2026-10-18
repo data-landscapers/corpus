@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,business,system,coverage,inservice,2024-08,ZAF-001;ZAF-002;ZAF-004,,
+ZAF,business,endtoend,coverage,,,,,nothing held
+ZAF,business,reported,coverage,reported,2024-08,ZAF-003,,

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-30-nga-etn-firs-banks-close-accounts-taxpro-max",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The article states TaxPro Max, the FIRS digital tax administration platform, enables taxpayer registration and filing of returns in a fully automated environment.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "TaxPro Max",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "FIRS directed that all tax payments must originate from assessments on TaxPro Max, which the article says handles payment processing.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "TaxPro Max",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaxPro Max",
+   "country_label": "TaxPro Max",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "FIRS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

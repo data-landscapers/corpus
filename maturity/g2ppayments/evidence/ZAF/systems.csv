@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,SRD application and payment system,South Africa,g2p,,SASSA,,2025-02-26-zaf-parliament-sassa-srd-system-findings
+ZAF,SASSA social grants,South Africa,g2p,bank account EFT,SASSA,,2026-01-01-zaf-sassa-you-and-your-grant-booklet-2026

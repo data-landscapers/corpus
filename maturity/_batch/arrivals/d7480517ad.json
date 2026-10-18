@@ -1,0 +1,7 @@
+{"slug": "2024-06-14-gnb-unfpa-social-register-roadmap", "studies": {
+"censuses": {"countries": {"GNB": {"facts": [{"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "The President of the National Statistics Institute said the social registry data will enrich statistics and the 4th general population and housing census to be held in 2025.", "as_of": "2024-06-14", "date_precision": "day", "system": "4th general population and housing census", "class": "census"}], "systems": [{"system": "4th general population and housing census 2025", "country_label": "RGPH-4 2025", "class": "census", "platform": "", "owner": "National Statistics Institute", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Workshop validated a social registry concept and roadmap, not a named digital law or policy."}}},
+"socialexchange": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No link between systems is stated."}}},
+"socialprotection": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No programme management information system is stated."}}},
+"socialregistry": {"countries": {"GNB": {"facts": [], "systems": [{"system": "Social Register", "country_label": "Guinea-Bissau Social Register", "class": "social", "platform": "", "owner": "Ministry of Women, Family and Social Solidarity (DGISS), UNFPA lead agency", "tiers": ""}], "note": "Only a concept and roadmap were validated; no procurement, pilot or population is stated."}}}
+}}

@@ -1,0 +1,42 @@
+{
+ "slug": "2023-11-24-moz-kabum-plataforma-registo-empresas",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Kabum Digital says mobile wallets are used to pay for services such as electricity, water, television and broadcasting fees, naming M-Pesa (Vodacom), Emola (Movitel) and Mkesh (TMcel).",
+   "as_of": "2023-11-24",
+   "date_precision": "day",
+   "system": "M-Pesa; Emola; Mkesh",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Vodacom",
+   "tiers": ""
+  },
+  {
+   "system": "Emola",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Movitel",
+   "tiers": ""
+  },
+  {
+   "system": "Mkesh",
+   "country_label": "Mozambique",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "TMcel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

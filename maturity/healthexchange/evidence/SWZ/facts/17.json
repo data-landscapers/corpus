@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-28-swz-state-dept-health-service-delivery-cmis",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The US State Department report says Eswatini's CMIS works through its own data capture as well as interoperability with other relevant systems, and over 90 percent of HIV commodity consumption data is sourced from it.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Client management information system (CMIS)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

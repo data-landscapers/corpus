@@ -1,0 +1,160 @@
+{
+ "slug": "2026-07-24-bfa-worldbank-ppsas-burkina-rsu-sig",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Burkina Faso."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The World Bank's PPSAS page says the new PARPS project (approved June 2026) includes the continued roll-out (\"poursuite du déploiement\") of the Registre social unique (RSU).",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Registre social unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique (RSU)",
+       "country_label": "Registre social unique (RSU)",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

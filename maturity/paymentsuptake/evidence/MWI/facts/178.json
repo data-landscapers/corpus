@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-21-mwi-nation-banks-respond-digital-services-findex",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The World Bank's Global Findex 2025 report indicates that 50 percent of Malawian adults had a financial account in 2024, as reported by the Bankers Association of Malawi's chief executive.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-09-23-moz-clubofmozambique-incm-thinklab-incubator",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions a digital transformation strategy only in passing; no standing, text or period."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "ThinkLab is a regulator's own incubator; no startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "INCM launched the ThinkLab incubator in Maputo, whose first cycle took 12 startups in health, transport, finance, IT and AI, Club of Mozambique reports.",
+       "as_of": "2025-09-23",
+       "date_precision": "day",
+       "system": "ThinkLab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ThinkLab",
+       "country_label": "Mozambique",
+       "class": "hub",
+       "platform": "",
+       "owner": "INCM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

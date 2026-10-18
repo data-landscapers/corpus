@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-14-tgo-assemblee-loi-justice-commerciale-digitale",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The National Assembly adopted a law on 14 August 2026 that aims to complete the digitalisation of judicial procedures through the commercial courts' electronic platform and online hearings.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "plateforme électronique des juridictions commerciales",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

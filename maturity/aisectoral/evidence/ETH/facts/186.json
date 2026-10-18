@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-19-eth-addisfortune-ecourt-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Addis Fortune reports the Federal Supreme Court's automatic transcription software, developed with the Ethiopian Artificial Intelligence Institute, was delivered for 15.8 million Br, with five smart courtrooms installed at the Federal Supreme Court and ten more in the Federal High and First Instance Courts.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "automatic transcription technology",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "automatic transcription technology",
+   "country_label": "Automatic transcription technology",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Federal Supreme Court",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

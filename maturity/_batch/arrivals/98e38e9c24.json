@@ -1,0 +1,34 @@
+{
+ "slug": "2021-01-19-cpv-provedor-justica-casa-cidadao-eparticipa",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Ombudsman and Casa do Cidadao signed a service-level agreement on 19 January that makes the eparticipa.gov.cv platform available for citizens' complaints, reports and suggestions to the Ombudsman, plus a free green line; no case numbers are given.",
+       "as_of": "2021-01-19",
+       "date_precision": "day",
+       "system": "eParticipa",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eParticipa",
+       "country_label": "Cabo Verde",
+       "class": "feedback",
+       "platform": "eparticipa.gov.cv",
+       "owner": "Casa do Cidadao",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

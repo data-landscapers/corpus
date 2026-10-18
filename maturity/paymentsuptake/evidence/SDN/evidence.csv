@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,uptake,share,below,"The FinScope National Financial Inclusion Survey of 9,337 Sudanese adults (June-July 2021) found 15% banked, while 11% of adults used mobile money and only 2% were registered.",2021-07,month,FinScope Sudan 2021 National Financial Inclusion Survey,survey,2024-06-27-sdn-worldbank-national-financial-inclusion-survey-2021,https://documents1.worldbank.org/curated/en/099062724163528803/pdf/P171371-b16fcc1b-668c-4b48-9a13-0b32a10f69ce.pdf

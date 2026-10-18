@@ -1,0 +1,13 @@
+{"slug": "2026-07-26-dza-interlignes-dme-deploiement-69-wilayas", "studies": {
+"health": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Interlignes reports Algeria's health minister said the electronic medical record was designed and developed entirely by engineers of the health ministry's information systems directorate.", "as_of": "2026-07-25", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "Interlignes reports the health ministry launched a national deployment plan for the electronic medical record, aiming at over 2,500 health structures in all 69 wilayas.", "as_of": "2026-07-25", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "Interlignes reports the first phase selected over 200 trainers from ten pilot wilayas to pass the system on to health establishments.", "as_of": "2026-07-25", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Interlignes reports the health minister opened the first training week of the national electronic medical record deployment plan in Algiers.", "as_of": "2026-07-25", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"}
+], "systems": [{"system": "Dossier medical electronique", "country_label": "DME", "class": "emr", "platform": "", "owner": "Ministry of Health, information systems directorate", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document is about the electronic medical record, not routine aggregate reporting to the ministry."}}},
+"itcapacity": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Interlignes reports the health minister said the electronic medical record was entirely designed and developed by engineers and staff of the ministry's information systems directorate.", "as_of": "2026-07-25", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "staff"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on schools."}}}
+}}

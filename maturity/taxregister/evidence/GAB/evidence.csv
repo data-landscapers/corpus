@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,taxpayers,register,inservice,"The Direction Générale des Impôts' e-tax guide says taxpayers can start registration online through the 'Je m'immatricule' button, with a taxpayer number (NIF) held by enrolled taxpayers and DGI agents completing checks at a tax office.",2025-10-22,day,e-tax,tax,2025-10-22-gab-dgi-guide-adhesion-immatriculation-etax,https://e-tax.dgi.ga/_espaces/ECONTRIBUABLEDGIGA/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf

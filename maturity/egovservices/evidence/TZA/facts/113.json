@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-30-tza-ega-elimu-serikali-mtandao-kwa-viziwi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "e-GA says citizens can obtain various government services through the mGov mobile system by dialling *152*00#, and a CHAVITA board member says it let Deaf people pay electricity and water bills by phone.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "mGov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mGov",
+   "country_label": "Mfumo wa Huduma za Serikali kupitia Simu ya Mkononi (mGov)",
+   "class": "eservices",
+   "platform": "USSD *152*00#",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  },
+  {
+   "system": "e-Mrejesho",
+   "country_label": "e-Mrejesho",
+   "class": "other",
+   "platform": "USSD, mobile app, web",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

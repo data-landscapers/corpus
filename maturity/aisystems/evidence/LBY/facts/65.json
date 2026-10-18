@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-lby-lana-audit-bureau-diwan-bot",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Audit Bureau head said Diwan Bot, an institutional AI model, was designed and developed entirely by young national talent in a project begun at the start of 2026; no release is stated.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Diwan Bot",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diwan Bot",
+   "country_label": "Diwan Bot",
+   "class": "other",
+   "platform": "",
+   "owner": "Libyan Audit Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

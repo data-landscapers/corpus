@@ -1,0 +1,44 @@
+{
+ "slug": "2020-09-14-gin-guineenews-lancement-portail-etax",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Budget Minister said pilot firms had already begun filing declarations online on the e Tax portal launched 14 September 2020.",
+       "as_of": "2020-09-14",
+       "date_precision": "day",
+       "system": "e Tax",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The Budget Minister said pilot firms were paying online through e Tax, with GNF 45bn declared and paid online by 11 September 2020.",
+       "as_of": "2020-09-14",
+       "date_precision": "day",
+       "system": "e Tax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e Tax",
+       "country_label": "e Tax",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction Nationale des Impots",
+       "tiers": "large and medium firms from 1 January 2021"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

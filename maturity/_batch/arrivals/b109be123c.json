@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-01-ner-ansi-175-cadres-maec-formes-gec-messagerie",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "ANSI ran a three-day training for 175 foreign ministry (MAEC) staff on the government's professional email and electronic mail-management (GEC) platforms.",
+       "as_of": "2025-12-02",
+       "date_precision": "day",
+       "system": "Messagerie Professionnelle and Gestion Electronique du Courrier (GEC)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gestion Electronique du Courrier (GEC)",
+       "country_label": "Niger",
+       "class": "other",
+       "platform": "",
+       "owner": "ANSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

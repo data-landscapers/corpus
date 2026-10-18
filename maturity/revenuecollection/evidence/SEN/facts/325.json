@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGID says SENTAX is its platform for online filing and payment (télépaiement) of taxes, mandatory for all declarations and payments of Large Enterprise Directorate taxpayers from 1 September 2026.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SENTAX",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "sentax.dgid.sn",
+   "owner": "Direction générale des Impôts et des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

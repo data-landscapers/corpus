@@ -1,0 +1,17 @@
+{
+ "slug": "2017-07-29-civ-douanes-interconnexion-ghana",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "Ivorian customs says the first pilot phase of the customs interconnection with Ghana, funded by the World Bank, was launched in Accra on 28 July 2017, with a data-exchange demonstration and a single declaration crossing the border at the pilot site.",
+   "as_of": "2017-07-28",
+   "date_precision": "day",
+   "system": "Cote d'Ivoire-Ghana customs interconnection",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

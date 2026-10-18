@@ -1,0 +1,54 @@
+{
+ "slug": "2021-06-01-nga-firs-public-notice-taxpro-max",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "FIRS says TaxPro-Max enables registration, filing and payment of taxes.",
+       "as_of": "2021-06",
+       "date_precision": "month",
+       "system": "TaxPro-Max",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "FIRS says TaxPro-Max enables payment of taxes and that taxpayers cannot pay without the Document Identity Number it generates.",
+       "as_of": "2021-06",
+       "date_precision": "month",
+       "system": "TaxPro-Max",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "FIRS says that from 7 June 2021 TaxPro-Max is the channel for filing all Naira-denominated tax returns, with manual returns uploaded by FIRS staff.",
+       "as_of": "2021-06-07",
+       "date_precision": "day",
+       "system": "TaxPro-Max",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaxPro-Max",
+       "country_label": "TaxPro-Max",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Federal Inland Revenue Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

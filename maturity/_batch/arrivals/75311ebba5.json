@@ -1,0 +1,8 @@
+{"slug": "2025-06-13-zaf-pmg-nw3370-dsti-startup-support", "studies": {
+"itcapacity": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Innovation Bridge Platform", "country_label": "Innovation Bridge Platform", "class": "other", "platform": "digital marketplace", "owner": "Department of Science, Technology and Innovation", "tiers": ""}], "note": "The platform is being rolled out by the DSTI but the reply does not say who builds or runs it."}}},
+"nonstatefinance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Calls the Innovation Fund a public private partnership but gives no private amount."}}},
+"startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Names a youth venture-building pilot and an Innovation Fund but no startup law, labelling or fund investments counted."}}},
+"techhubs": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Minister's reply says the Regional Innovation Support Platform has regional innovation hubs providing tailored support and resources for young innovators, with no incubation cohort described.", "as_of": "2025-06-13", "date_precision": "day", "system": "Regional Innovation Support Platform", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

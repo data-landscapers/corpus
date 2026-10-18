@@ -1,0 +1,44 @@
+{
+ "slug": "2024-02-01-tza-soff-country-hydromet-diagnostics",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The DMI peer review for SOFF says the Tanzania Meteorological Authority relies on EUMETSAT satellite imagery and radars, which are particularly beneficial for nowcasting, to deliver its forecasts.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "EUMETSAT satellite imagery",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The DMI peer review says the Tanzania Meteorological Authority holds ISO 9001:2015 certification for its aeronautical meteorological services only, successfully re-audited in January 2024.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "TMA Quality Management System for Aeronautical Meteorological Services",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETSAT satellite imagery",
+   "country_label": "Tanzania",
+   "class": "metsat",
+   "platform": "EUMETSAT",
+   "owner": "Tanzania Meteorological Authority (user)",
+   "tiers": ""
+  },
+  {
+   "system": "Weather radars",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Tanzania Meteorological Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The impact-based forecasts are not said to draw on satellite data, so no warnings fact."
+}

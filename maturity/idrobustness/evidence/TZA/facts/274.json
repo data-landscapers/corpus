@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA says it issues national IDs to citizens, legal residents and refugees, with the NIN issued within 72 hours and 27.1 million adults covered.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National ID (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

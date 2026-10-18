@@ -1,0 +1,94 @@
+{
+ "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no training, payment, or system status; only an interface with the NIU ID number."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGFIP",
+       "country_label": "SIGFIP",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "E-TAX",
+       "country_label": "E-TAX",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Names SIGFIP and E-TAX only as systems being interfaced with the NIU; no in-use, outage or renewal statement."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SYDONIA",
+       "country_label": "SYDONIA",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "SYDONIA named only as being interfaced with the NIU; no statement on declarations processing."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no training, payment, or system status; only an interface with the NIU ID number."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "NIU is required for tax payment, but no electronic payment is stated."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "E-TAX",
+       "country_label": "E-TAX",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "E-TAX named only as being interfaced with the NIU; no filing or payment statement."
+    }
+   }
+  }
+ }
+}

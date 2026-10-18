@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-30-nam-bon-trade-verification-system",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Bank of Namibia says its Trade Verification System, live since 16 October 2023, is integrated with the Namibia Revenue Agency's Automated System for Customs Data (ASYCUDA), through which customs declarations are made.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trade Verification System",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Namibia and NamRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

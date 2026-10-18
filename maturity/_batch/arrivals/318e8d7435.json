@@ -1,0 +1,23 @@
+{
+ "slug": "2017-06-30-mus-mauritiuslii-lavims-project-implementation-act",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital cadastral database (DCDB) / LAVIMS",
+       "country_label": "Mauritius",
+       "class": "land",
+       "platform": "",
+       "owner": "Ministry of Housing and Lands",
+       "tiers": ""
+      }
+     ],
+     "note": "The Act only provides that a DCDB shall be set up; it does not state it is under way or in service."
+    }
+   }
+  }
+ }
+}

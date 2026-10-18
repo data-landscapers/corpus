@@ -1,0 +1,17 @@
+{
+ "slug": "2022-06-16-som-worldbank-going-digital-business-owners",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The World Bank says Somalia's government officially launched an online business registration and licensing system in March 2022 after a 12-month pilot.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Somalia Business Registration and Licensing System",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

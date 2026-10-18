@@ -1,0 +1,92 @@
+{
+ "slug": "2026-08-27-sen-dgid-communique-sentax",
+ "studies": {
+  "police": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique concerns tax administration and states nothing on police."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The DGID's communique of 27 August 2026 says the SENTAX platform replaces ETAX for online payment (telepaiement) of taxes by Large Enterprises Directorate taxpayers.",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "SENTAX",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The DGID says SENTAX now replaces ETAX for online filing of returns by Large Enterprises Directorate taxpayers.",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "SENTAX",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The DGID says SENTAX lets Large Enterprises Directorate taxpayers pay taxes online (telepaiement).",
+       "as_of": "2026-08-27",
+       "date_precision": "day",
+       "system": "SENTAX",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "The DGID says use of SENTAX becomes mandatory for all declarations and payments of Large Enterprises Directorate taxpayers from 1 September 2026, and paper returns are no longer accepted by that directorate.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "SENTAX",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SENTAX",
+       "country_label": "Senegal",
+       "class": "taxsystem",
+       "platform": "online platform sentax.dgid.sn",
+       "owner": "Direction generale des Impots et des Domaines",
+       "tiers": "Large Enterprises Directorate (DGE) taxpayers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique names no taxpayer register or taxpayer number."
+    }
+   }
+  }
+ }
+}

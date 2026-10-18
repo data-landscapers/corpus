@@ -1,0 +1,13 @@
+{"slug": "2024-09-16-lso-newsday-rsl-automatic-compliance-project", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The AI named sits inside the tax authority's compliance system, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Revenue Services Lesotho says its Automatic Compliance Project, built with the Land Administration Authority, will use data analytics and artificial intelligence to automate collection, processing and verification of tax information, in phases starting with PAYE pre-population.", "as_of": "2024-09-16", "date_precision": "day", "system": "Automatic Compliance Project (ACP)", "class": "sectorai"}],
+"systems": [{"system": "Automatic Compliance Project (ACP)", "country_label": "Lesotho", "class": "sectorai", "platform": "", "owner": "Revenue Services Lesotho with Land Administration Authority", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in Lesotho is described."}}},
+"landregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The Land Administration Authority appears only as a payroll-data partner in a tax project; no land register is described."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The project covers PAYE return filing; no electronic payment or share is stated."}}},
+"taxadmin": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "LAA's Director General says the Automatic Compliance Project is already in use, with RSL retrieving PAYE files as early as August 2024, and that taxpayers can file returns from home on pre-populated PAYE forms.", "as_of": "2024-08", "date_precision": "month", "system": "Automatic Compliance Project (ACP)", "class": "taxsystem"}],
+"systems": [{"system": "Automatic Compliance Project (ACP)", "country_label": "Lesotho", "class": "taxsystem", "platform": "", "owner": "Revenue Services Lesotho", "tiers": ""}], "note": ""}}}
+}}

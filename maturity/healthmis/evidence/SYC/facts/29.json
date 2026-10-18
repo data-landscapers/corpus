@@ -1,0 +1,15 @@
+{
+ "slug": "2019-12-16-syc-nation-his-contract-manorama",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Health Information System",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "Manorama Infosolutions",
+   "owner": "Health Care Agency",
+   "tiers": ""
+  }
+ ],
+ "note": "Contract is for a hospital patient-record system, not routine aggregate reporting, and is dated 2019."
+}

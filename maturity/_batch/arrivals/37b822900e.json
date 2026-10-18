@@ -1,0 +1,79 @@
+{
+ "slug": "2025-06-13-gnq-ahoraeg-ia-gestion-administrativa-opinion",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion column only recommends rules; none stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The column says the Ministry of Health had just launched 'Chatbot Guinea Salud', a virtual assistant for public queries.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Chatbot Guinea Salud",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Chatbot Guinea Salud",
+       "country_label": "Equatorial Guinea",
+       "class": "govai",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The chatbot answers public queries; no diagnosis, score or forecast is stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI strategy mentioned."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI development or computing stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No consultation on a digital law or policy stated."
+    }
+   }
+  }
+ }
+}

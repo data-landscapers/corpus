@@ -1,0 +1,291 @@
+{
+ "slug": "2023-11-24-moz-kabum-plataforma-registo-empresas",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Kabum Digital reports that Mozambique's registry and notary service (SRN) launched an online platform, utente.srn.gov.mz, where companies can be registered remotely, with payment by M-Pesa or bank.",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Portal SRN (utente.srn.gov.mz)",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "owners",
+       "value": "recorded",
+       "fact": "Kabum Digital says users of the SRN portal can submit a list of beneficial owners (lista de beneficiários efectivos) as one of the filing actions.",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Portal SRN (utente.srn.gov.mz)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal SRN",
+       "country_label": "Mozambique",
+       "class": "business",
+       "platform": "utente.srn.gov.mz",
+       "owner": "Serviço de Registo e Notariado",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "Kabum Digital says the SRN online portal lets users carry out civil registrations including requesting certificates, name changes and birth registration (registo de nascimento).",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Portal SRN (utente.srn.gov.mz)",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Kabum Digital says mobile wallets are used to pay for services such as electricity, water, television and broadcasting fees, naming M-Pesa (Vodacom), Emola (Movitel) and Mkesh (TMcel).",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "M-Pesa; Emola; Mkesh",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-Pesa",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Vodacom",
+       "tiers": ""
+      },
+      {
+       "system": "Emola",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Movitel",
+       "tiers": ""
+      },
+      {
+       "system": "Mkesh",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "TMcel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Kabum Digital says company registration on the SRN portal is paid electronically by M-Pesa mobile wallet or bank.",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Portal SRN payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    }
+   }
+  }
+ }
+}

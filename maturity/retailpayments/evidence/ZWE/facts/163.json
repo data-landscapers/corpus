@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-02-zwe-econet-free-remittance-corridors",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Econet Wireless Zimbabwe describes an EcoCash wallet in use, with an agent network and cash-out, reachable by dialling *153#.",
+   "as_of": "2024-05-02",
+   "date_precision": "day",
+   "system": "EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

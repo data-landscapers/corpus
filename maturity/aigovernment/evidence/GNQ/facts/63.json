@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-13-gnq-ahoraeg-ia-gestion-administrativa-opinion",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The column says the Ministry of Health had just launched 'Chatbot Guinea Salud', a virtual assistant for public queries.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Chatbot Guinea Salud",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chatbot Guinea Salud",
+   "country_label": "Equatorial Guinea",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

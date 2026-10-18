@@ -1,0 +1,52 @@
+{
+ "slug": "2023-11-13-som-somalidispatch-unified-social-registry-launch",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a welfare system and registry but no programme management system, enrolment or payments."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "Somalia's Prime Minister unveiled the Social Welfare System of the Unified Social Registry and urged aid agencies to use the government's registry to avoid duplication.",
+       "as_of": "2023-11-13",
+       "date_precision": "day",
+       "system": "Unified Social Registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Social Registry",
+       "country_label": "Somalia",
+       "class": "social",
+       "platform": "",
+       "owner": "Office of the Prime Minister",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

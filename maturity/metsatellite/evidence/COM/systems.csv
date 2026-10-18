@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 COM,WIS2Box,COM,other,,ANACM,,2026-02-23-meteocomores-atelier-transformation-digitale-wigos-wis2
 COM,ClimWeb,COM,other,,ANACM,,2026-02-23-meteocomores-atelier-transformation-digitale-wigos-wis2
 COM,PUMA,COM,other,,,,2024-07-01-country-hydromet-diagnostics-comores-anacm
+COM,EUMETCast via Synergie and PUMA stations,Comoros,metsat,Synergie software (Meteo-France),ANACM / SMC,,2019-11-04-com-wmo-anacm-previsions-operationnelles-alertes

@@ -2,6 +2,6 @@
 
 ## Tax register
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [GOV.CV](<https://www.gov.cv/nif-pessoa-singular>).
 
-***Not held***. Nothing held says how taxpayers are registered.
+***Not held***. Nothing held since October 2023 says whether taxpayers are registered on computer.

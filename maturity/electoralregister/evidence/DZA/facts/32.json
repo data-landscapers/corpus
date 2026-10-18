@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-dza-ouest-tribune-anie-plateforme-numerique-listes",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Ouest Tribune reports that ANIE's interim president Karim Khalfan launched a digital platform for revising and tracking electoral lists in Oran on 27 October 2025, Oran being the pilot site before generalisation nationwide.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "ANIE plateforme numérique de révision des listes électorales",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIE plateforme numérique de révision et de suivi des listes électorales",
+   "country_label": "Algérie",
+   "class": "electoral",
+   "platform": "online platform with central database",
+   "owner": "ANIE",
+   "tiers": "pilot in Oran"
+  }
+ ],
+ "note": ""
+}

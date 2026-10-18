@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,business,system,coverage,inservice,2022,NER-001;NER-004,NER-003=underway,nothing dated since 2023-10-18
+NER,business,endtoend,coverage,endtoend,2017-03-27,NER-002,,nothing dated since 2023-10-18
+NER,business,reported,coverage,,,,,nothing held

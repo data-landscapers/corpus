@@ -1,0 +1,63 @@
+{
+ "slug": "2024-03-11-lby-gia-updated-government-tenders-platform-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The General Information Authority head announced the updated government tenders and procurement platform had started operating.",
+       "as_of": "2024-02-13",
+       "date_precision": "day",
+       "system": "Government Tenders and Procurement Platform",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Tenders and Procurement Platform",
+       "country_label": "Government Tenders and Procurement Platform",
+       "class": "procurement",
+       "platform": "",
+       "owner": "General Information Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "built",
+       "value": "live",
+       "fact": "The General Information Authority thanked its own engineer and technical team who designed and developed the updated tenders platform, which went live.",
+       "as_of": "2024-02-13",
+       "date_precision": "day",
+       "system": "Government Tenders and Procurement Platform",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

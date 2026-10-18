@@ -1,0 +1,10 @@
+{"slug": "2025-01-05-stp-telanon-sao-plataforma-financeira-digital", "studies": {
+"businesspayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"STP": {"facts": [], "systems": [], "note": "The central bank is only thanked for its support; no mandate, licence, switch or regional link is stated."}}},
+"consumerprotection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Sao Send is described as an international remittance solution with no corridor named."}}},
+"g2ppayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"STP": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"STP": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "GTI Holdings launched the Sao digital financial platform in Sao Tome and Principe, with a mobile wallet, a prepaid card, POS payments and agents, and its commercial director said the platform already supports agents.", "as_of": "2025-01-05", "date_precision": "day", "system": "Sao", "class": "retail"}], "systems": [{"system": "Sao", "country_label": "Sao Tome and Principe", "class": "retail", "platform": "Sao Wallet, Sao Agents, Sao POS, Sao Card, Sao Send", "owner": "GTI Holdings", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment; bill payment through agents names no state revenue."}}}
+}}

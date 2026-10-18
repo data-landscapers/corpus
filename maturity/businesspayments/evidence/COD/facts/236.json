@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-cod-armp-operationnalisation-sigmap-vpm-budget",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ARMP says SIGMAP, the platform to dematerialise public procurement, is not yet in production: training of trainers, users and administrators comes first, after a decree on electronic procurement (14 October 2024) and a roadmap adopted 18 October 2024.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "SIGMAP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAP (Système Intégré de Gestion des Marchés Publics)",
+   "country_label": "DR Congo",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ARMP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

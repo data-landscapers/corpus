@@ -1,0 +1,146 @@
+{
+ "slug": "2026-09-21-sle-truthmedia-ag-no-ai-specific-statute-unesco-riyadh",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Attorney-General Alpha Sesay told the 4th UNESCO Global Forum on the Ethics of AI that Sierra Leone has \"no AI-specific statute at all\".",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "AI-specific statute",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "Attorney-General Alpha Sesay said Sierra Leone has no enacted data protection law and its data protection framework \"remains at Bill stage\".",
+       "as_of": "2026-09-15",
+       "date_precision": "day",
+       "system": "data protection framework (Bill)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The embassy's account lists an Electronic Transactions Act among Sierra Leone's enacted legislation, and says it is currently under review.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "Electronic Transactions Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  }
+ }
+}

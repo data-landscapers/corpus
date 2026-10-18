@@ -1,0 +1,32 @@
+{
+ "slug": "2024-10-24-gnq-oficinainfo-portal-anticorrupcion",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Portal anticorrupcion",
+       "country_label": "Equatorial Guinea",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "Prime Minister's office, CNIAPGE",
+       "tiers": ""
+      }
+     ],
+     "note": "Anti-corruption reporting portal for corruption and abuses, not complaints about public services."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on refugees or displaced people."
+    }
+   }
+  }
+ }
+}

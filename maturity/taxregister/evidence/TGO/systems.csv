@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TGO,SIG Recettes,Togo,other,application with geolocation,"communes of Doufelgou 1 and Sotouboua 2, supported by GIZ ProDeG IV",local,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des
+TGO,nif.otr.tg,Togo,tax,web,OTR,individual taxpayers,2023-12-20-tgo-otr-creation-nif-en-ligne
+TGO,NIF particulier platform,nif.otr.tg,tax,nif.otr.tg,Office Togolais des Recettes,individuals,2025-01-01-tgo-otr-actu-18-janvier-juin-2025

@@ -1,0 +1,7 @@
+{"slug":"2026-09-23-bdi-pafen-ddp-e-gp-deploiement","studies":{
+"businesspayments":{"countries":{"BDI":{"facts":[{"sub_indicator":"business","aspect":"system","value":"underway","fact":"PAFEN issued on 23 September 2026 a World Bank-financed request for proposals to design, build and deploy an end-to-end electronic public procurement (e-GP) system for Burundi, proposals due 13 November 2026.","as_of":"2026-09-23","date_precision":"day","system":"e-GP","class":"procurement"}],"systems":[{"system":"e-GP","country_label":"e-GP","class":"procurement","platform":"custom open-source","owner":"Ministry of Finance, Budget and Digital Economy / ARMP","tiers":""}],"note":""}}},
+"businessregister":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Notice concerns public procurement only; no business register stated."}}},
+"egovservices":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Notice is a procurement tender for a back-office system; no citizen-facing online service stated."}}},
+"idmaintenance":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Notice does not mention a national ID system."}}},
+"itcapacity":{"countries":{"BDI":{"facts":[],"systems":[],"note":"A supplier will build the e-GP alongside ARMP's team with skills transfer, which is a contractor build; no government-run or government-built system is stated."}}},
+"police":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Notice does not mention police."}}}}}

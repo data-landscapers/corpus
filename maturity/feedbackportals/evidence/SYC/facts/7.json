@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-syc-ogp-e-engagement-portal-syc0004",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The IRM progress report says the e-Engagement portal commitment was not started, with project planning to continue in 2022 and implementation hoped for 2023 pending budget approval.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "E-Engagement Portal",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Engagement Portal",
+   "country_label": "Seychelles",
+   "class": "feedback",
+   "platform": "web portal",
+   "owner": "Department of Information Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

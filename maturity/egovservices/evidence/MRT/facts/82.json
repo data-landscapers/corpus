@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-04-mrt-ami-lancement-services-numeriques-apim",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The government launched on 4 April 2025 the 'Mes services' portal and app with two services, online company creation and investment-code accreditation requests.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "Mes services (APIM)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mes services",
+   "country_label": "Mauritanie",
+   "class": "eservices",
+   "platform": "mobile app and portal",
+   "owner": "APIM",
+   "tiers": "identity check through Mon Identité"
+  }
+ ],
+ "note": ""
+}

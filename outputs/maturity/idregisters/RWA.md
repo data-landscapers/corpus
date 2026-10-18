@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification](<https://www.api.ippis.rw/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Register keyed on ID.** [The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification](<https://www.api.ippis.rw/>). [The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list](<https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Main registers.** No source held since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://www.api.ippis.rw/>).
 

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-07-02-cod-acp-upgi-colloque-politique-numerique",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "The Universite panafricaine de gouvernance et innovations held a colloquium on AI with the Observatoire de gouvernance research centre and the University of Kinshasa, and it recommended a national digital policy.",
+       "as_of": "2023-07-02",
+       "date_precision": "day",
+       "system": "UPGI colloquium",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UPGI",
+       "country_label": "DR Congo",
+       "class": "research",
+       "platform": "",
+       "owner": "Universite panafricaine de gouvernance et innovations",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

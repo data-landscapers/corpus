@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-20-tcd-tchadinfos-e-tax-experts-comptables",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The director general of taxes says E-Tax lets taxpayers pay all taxes and duties they owe online, and that the DGI is interconnected with eight banks.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "revenue",
+   "platform": "online portal",
+   "owner": "Direction generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

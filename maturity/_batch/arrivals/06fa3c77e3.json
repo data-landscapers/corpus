@@ -1,0 +1,40 @@
+{"slug": "2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting", "studies": {
+"addressregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No addressing system is stated."}}},
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No exchange between the civil registry and the ID system is stated."}}},
+"businessregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No business register is stated."}}},
+"civilregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The civil registry is said to cover 100% of newborns but is not stated to be digital."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No data protection law is stated."}}},
+"electoralregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No electoral register is stated."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Transfer programmes are named but no payment channel is stated."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The ID4Africa slide gives 31 million citizens holding the electronic national identity card against a total Moroccan population of 36.6 million, about 85%.", "as_of": "2025-05-22", "date_precision": "day", "system": "Electronic National Identity Card", "class": "idsystem"}
+], "systems": [
+{"system": "Electronic National Identity Card", "country_label": "Morocco", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No number given at birth is stated."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The slide labels a MOSIP use case but does not state who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The ID4Africa slide lists the electronic national identity card as a key identification system in Morocco since 1977, held by 31 million citizens.", "as_of": "2025-05-22", "date_precision": "day", "system": "Electronic National Identity Card", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No system checking people against the ID is stated."}}},
+"landregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No land register is stated."}}},
+"populationregister": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The ID4Africa slide lists the National Registry of Population (RNP) as in place since 2022, with 22 million citizens and resident foreigners of all ages.", "as_of": "2022", "date_precision": "year", "system": "National Registry of Population (RNP)", "class": "population"}
+], "systems": [
+{"system": "National Registry of Population (RNP)", "country_label": "Morocco", "class": "population", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"registry": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No digital entry of births or deaths at local civil registration offices is stated."}}},
+"socialexchange": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The ID4Africa slide lists health insurance for vulnerable groups, direct cash transfer, higher education scholarship and health insurance for non-covered groups as achievements under the RNP-RSU system.", "as_of": "2024-01", "date_precision": "month", "system": "RNP-RSU", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "RNP-RSU is a targeting registry; no programme management information system is stated."}}},
+"socialregistry": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The ID4Africa slide dates the National System for Identifying and Targeting Beneficiaries of Social Programs (RNP-RSU) to December 2022 as a reform achievement.", "as_of": "2022-12", "date_precision": "month", "system": "RNP-RSU", "class": "social"},
+{"sub_indicator": "social", "aspect": "programmes", "value": "several", "fact": "The ID4Africa slide lists health insurance for vulnerable groups (11 million beneficiaries), direct cash transfer (3.9 million households), the Minhaty scholarship and health insurance for non-covered groups as achievements under RNP-RSU.", "as_of": "2024-01", "date_precision": "month", "system": "RNP-RSU", "class": "social"}
+], "systems": [
+{"system": "RNP-RSU", "country_label": "Morocco", "class": "social", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"taxregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No taxpayer register is stated."}}}
+}}

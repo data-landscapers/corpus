@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Bilhete de Identidade / civil identity database,Angola,other,,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
 AGO,Bilhete de Identidade,Angola,other,,Ministerio da Justica e dos Direitos Humanos,,2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento
 AGO,Bilhete de Identidade (BI),AGO,other,,Ministry of Justice and Human Rights,,2026-08-24-angola-med-matricula-escolas-sem-bi
+AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationale d'identification des personnes (ANIP),,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
@@ -27,6 +28,7 @@ COG,Carte nationale d'identite informatisee et securisee,COG,other,,Ministry of 
 CPV,Autentika,Cabo Verde,other,electronic identity management and authentication platform,State of Cabo Verde,email and password; CMDCV; CNI smart card,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,smart card,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Chave Movel Digital de Cabo Verde (CMDCV),Cabo Verde,other,mobile digital key,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
+DZA,Registre national de l'Etat civil,Algeria,register,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,National ID System (national number project),EGY,other,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
 ERI,Eritrean National ID,ERI,other,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id

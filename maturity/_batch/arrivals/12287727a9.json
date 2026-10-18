@@ -1,0 +1,6 @@
+{"slug": "2025-05-26-gnq-realeg-justicia-cniapge-modernizar-registro-civil", "studies": {
+"birthidlink": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"civilregister": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "Registro Civil", "country_label": "Guinea Ecuatorial", "class": "civil", "platform": "digital platform", "owner": "Ministerio de Justicia / CNIAPGE", "tiers": ""}], "note": "A digital Registro Civil platform is named, but coverage, offices and events registered are not stated."}}},
+"idfrombirth": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"registry": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "Registro Civil", "country_label": "Guinea Ecuatorial", "class": "civil", "platform": "digital platform", "owner": "Ministerio de Justicia / CNIAPGE", "tiers": ""}], "note": "Platform upgrade requested; no office coverage or point of entry stated."}}}
+}}

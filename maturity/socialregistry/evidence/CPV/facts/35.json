@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-20-cpv-governo-csu-mecanismo-reclamacoes-16-programas",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Cabo Verde minister says the Cadastro Social Único, implemented in 2017, is in use, with about 59% of households and 66% of the population classified and validated nationally.",
+   "as_of": "2024-02-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único (CSU)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff.",
+   "as_of": "2024-02-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único (CSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "Cabo Verde",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Family, Inclusion and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

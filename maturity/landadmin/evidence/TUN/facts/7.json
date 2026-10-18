@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-23-tun-mdeaf-transition-numerique-registre-foncier",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Minister of State Domains says the national land office (ONPF) has finished installing its comprehensive IT system for its services and rolled it out to all its regional offices.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "ONPF comprehensive IT system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONPF IT system and cpf.gov.tn site",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "cpf.gov.tn",
+   "owner": "Office National de la Propriété Foncière",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

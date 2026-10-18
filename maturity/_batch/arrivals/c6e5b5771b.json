@@ -1,0 +1,13 @@
+{"slug": "2024-10-11-cmr-guardianpost-coleps-sensitisation-campaign", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Cameroon's Ministry of Public Contracts said an Electronic Certificate, used mainly to authenticate the identity of individuals or legal persons using the COLEPS e-procurement platform, is acquired by users, who were being trained on it from 10 October 2024.", "as_of": "2024-10-10", "date_precision": "day", "system": "Electronic Certificate (COLEPS)", "class": "authentication"}
+], "systems": [
+{"system": "Electronic Certificate (COLEPS)", "country_label": "Cameroon", "class": "authentication", "platform": "COLEPS", "owner": "Ministry of Public Contracts", "tiers": ""},
+{"system": "COLEPS", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "Ministry of Public Contracts", "tiers": ""}
+], "note": ""}}},
+"businesspayments": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Minister Ibrahim Talba Malla said Cameroon's online e-procurement system COLEPS, piloted from 2019, is in use, with a nationwide stakeholder training campaign launched on 10 October 2024 and awards given to ministries for using it.", "as_of": "2024-10-10", "date_precision": "day", "system": "COLEPS", "class": "procurement"}
+], "systems": [
+{"system": "COLEPS", "country_label": "Cameroon", "class": "procurement", "platform": "COLEPS", "owner": "Ministry of Public Contracts", "tiers": ""}
+], "note": "Award targets (80%, 90%) and the 11 to 24 ministries extension are commitments, not reported use; no end-to-end or required-of-all statement."}}}
+}}

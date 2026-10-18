@@ -1,0 +1,34 @@
+{
+ "slug": "2023-02-17-tun-decret-2023-160-ugpo-systeme-douanier",
+ "studies": {
+  "customs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Decree 2023-160 creates a finance-ministry unit to run the project to acquire, develop and put into operation a new customs information system, with a three-year first stage covering development and testing.",
+       "as_of": "2023-02-17",
+       "date_precision": "day",
+       "system": "nouveau système d'information douanier",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "nouveau système d'information douanier",
+       "country_label": "Tunisie",
+       "class": "customs",
+       "platform": "",
+       "owner": "Ministry of Finance / Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

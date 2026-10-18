@@ -1,0 +1,42 @@
+{
+ "slug": "2025-03-11-bfa-alt-question-orale-ia-usage",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Digital Transition Minister Aminata Zerbo/Sabane told parliament her department is finalising three major projects: the Djam platform, a chatbot on electronic communications regulation and a chatbot on Burkina Faso's legislative texts.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Djam platform; chatbots on communications regulation and legislative texts",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djam platform",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "Chatbot on electronic communications regulation",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "Chatbot on legislative texts",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

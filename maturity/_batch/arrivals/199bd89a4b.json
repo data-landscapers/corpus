@@ -1,0 +1,114 @@
+{
+ "slug": "2024-09-16-tgo-rtg-reformes-digitalisation-titre-foncier-nup",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Togo Officiel says the DGDN, the business formalities centre (CFE) and the commercial register (RCCM) are now connected so users can do several procedures through one channel, notably company creation.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "CFE / RCCM",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "owners",
+       "value": "recorded",
+       "fact": "Togo Officiel says a database of companies' beneficial owners has been created to identify who really owns a company.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Beneficial owners database",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RCCM",
+       "country_label": "Togo",
+       "class": "business",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Togo Officiel says citizens can complete all cadastre procedures for a land title remotely through an online portal, and ARCEP launched an e-services platform for declarations, approvals and equipment certification.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Online land title portal; ARCEP e-services platform",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Togo Officiel says the process of obtaining land titles is fully dematerialised through an online portal handling all cadastre procedures.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Online land title portal",
+       "class": "landmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Togo Officiel says land title procedures are fully dematerialised, with all cadastre procedures done remotely via an online portal.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Online land title portal",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "Togo Officiel says citizens can now carry out all cadastre procedures for a land title remotely through an online portal.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Online land title portal",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

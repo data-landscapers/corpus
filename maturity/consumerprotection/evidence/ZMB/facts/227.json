@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-zmb-zambiamonitor-boz-emoney-unwarranted-charges",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Zambia issued directives on 14 September 2024 prohibiting unwarranted electronic money charges (wallet deposits, merchant and bill payments, failed transactions, balance inquiries, statements), with fines up to K200,000 or up to two years' imprisonment for violating Electronic Money Institutions, Zambia Monitor reports.",
+   "as_of": "2024-09-14",
+   "date_precision": "day",
+   "system": "Bank of Zambia electronic money charges directives",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

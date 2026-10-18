@@ -10,7 +10,7 @@ CMR,2,underway,,,CMR-001
 COD,no evidence,,,,
 COG,5,inservice,shared,linked,COG-003
 COM,no evidence,,,,
-CPV,4,inservice,shared,,CPV-001
+CPV,4,inservice,shared,,CPV-001;CPV-003
 DJI,2,underway,,,DJI-003;DJI-002
 DZA,2,underway,,,DZA-001
 EGY,4,inservice,shared,,EGY-003
@@ -24,7 +24,7 @@ GNB,no evidence,,,,
 GNQ,no evidence,,,,
 KEN,4,inservice,shared,,KEN-001;KEN-004
 LBR,4,inservice,shared,,LBR-005;LBR-002
-LBY,no evidence,,,,
+LBY,2,underway,,,LBY-001
 LSO,3,inservice,,,LSO-002
 MAR,4,inservice,shared,,MAR-003;MAR-001
 MDG,2,underway,,,MDG-001
@@ -35,7 +35,7 @@ MUS,4,inservice,shared,,MUS-002;MUS-003
 MWI,4,inservice,shared,,MWI-002
 NAM,3,inservice,,,NAM-003;NAM-001
 NER,unplaced,,,,
-NGA,2,underway,,,NGA-001
+NGA,3,inservice,,,NGA-002
 RWA,5,inservice,shared,linked,RWA-009;RWA-004
 SDN,3,inservice,,,SDN-001
 SEN,3,inservice,,,SEN-005

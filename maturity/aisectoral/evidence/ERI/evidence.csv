@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,sectorai,use,underway,"Delft Imaging's February 2020 magazine piece says Eritrea's Ministry of Health is joining forces with Delft Imaging and Thirona to use the offline CAD4TB chest X-ray AI to screen for TB, with no screening figures given.",2020-02,month,CAD4TB,sectorai,2020-03-06-eri-delft-cad4tb-moh-tb-screening,https://delft.care/healthcare-radius/

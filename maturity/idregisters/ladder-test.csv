@@ -1,7 +1,7 @@
 iso3,stage,register,several,matching,stage_sources
 AGO,3,inservice,,,AGO-001;AGO-003
 BDI,no evidence,,,,
-BEN,3,inservice,,,BEN-001
+BEN,3,inservice,,,BEN-003;BEN-001
 BFA,no evidence,,,,
 BWA,3,inservice,,,BWA-001
 CAF,no evidence,,,,
@@ -13,7 +13,7 @@ COM,no evidence,,,,
 CPV,no evidence,,,,
 DJI,2,underway,,,DJI-001
 DZA,3,inservice,,,DZA-002;DZA-001
-EGY,3,inservice,,,EGY-001;EGY-002
+EGY,3,inservice,,,EGY-001;EGY-003
 ERI,no evidence,,,,
 ETH,unplaced,,,,
 GAB,no evidence,,,,
@@ -25,7 +25,7 @@ GNQ,no evidence,,,,
 KEN,no evidence,,,,
 LBR,3,inservice,,,LBR-001;LBR-004
 LBY,2,underway,,,LBY-005
-LSO,3,inservice,,,LSO-001
+LSO,3,inservice,,,LSO-001;LSO-002
 MAR,no evidence,,,,
 MDG,no evidence,,,,
 MLI,no evidence,,,,
@@ -35,8 +35,8 @@ MUS,3,inservice,,,MUS-002;MUS-001
 MWI,4,inservice,several,,MWI-002
 NAM,5,inservice,several,reported,NAM-003
 NER,no evidence,,,,
-NGA,3,inservice,,,NGA-004
-RWA,3,inservice,,,RWA-001
+NGA,3,inservice,,,NGA-004;NGA-007
+RWA,3,inservice,,,RWA-001;RWA-002
 SDN,no evidence,,,,
 SEN,no evidence,,,,
 SLE,2,underway,,,SLE-002;SLE-001

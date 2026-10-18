@@ -1,0 +1,77 @@
+{
+ "slug": "2023-11-19-som-sonna-cabinet-approves-crvs-bill",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill approval only; no statistics published or work on records stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no link between civil register and ID."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill approved; digital services only promised, no system stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth mentioned."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Promise of digitalised services, no office connection stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register mentioned."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill approved; digitalised local services only promised, no office entry stated."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The bill is a civil registration law, not a statistics law."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2020-06-01-swz-unicef-health-client-feedback-mechanism",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Ministry of Health with UNICEF launched the Client Satisfaction and Feedback Mechanism on 1 June 2020, which prompts health clients for feedback on satisfaction, waiting time and other service variables; no case numbers are given.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Client Satisfaction and Feedback Mechanism",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Client Satisfaction and Feedback Mechanism",
+   "country_label": "Eswatini",
+   "class": "feedback",
+   "platform": "linked to Client Management and Information System",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

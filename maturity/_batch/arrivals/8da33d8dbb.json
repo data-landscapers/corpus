@@ -1,0 +1,44 @@
+{
+ "slug": "2020-08-21-mus-ppo-directive-47-mandatory-e-ps",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Procurement Policy Office Directive No 47 says the 55 listed public bodies must undertake all their procurement through the e-Procurement System.",
+       "as_of": "2020-08-21",
+       "date_precision": "day",
+       "system": "e-Procurement System",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The directive gives effect to mandatory use of the e-Procurement System by all public bodies, with other bodies to be fully on board by 31 December 2020, and paper only for exceptions such as minor works.",
+       "as_of": "2020-08-21",
+       "date_precision": "day",
+       "system": "e-Procurement System",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Procurement System",
+       "country_label": "Mauritius",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Procurement Policy Office",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

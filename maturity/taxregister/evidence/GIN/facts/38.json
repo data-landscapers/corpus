@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Direction generale des impots announced on 21 June 2025 that tax registration in Guinea is done exclusively online, with APIP's portal collecting the data and the eTax portal completing it.",
+   "as_of": "2025-06-21",
+   "date_precision": "day",
+   "system": "SYNERGUI-SAFIG 2 / eTax",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYNERGUI-SAFIG 2",
+   "country_label": "Guinee",
+   "class": "tax",
+   "platform": "SYNERGUI portal and eTax portal",
+   "owner": "DGI with APIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -15,3 +15,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,unplaced,2,SOM-002,Arrivals added SOM-002; stage unplaced -> 2.
 2026-10-17,SSD,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,unplaced,2,SSD-004,Arrivals added SSD-003; SSD-004; stage unplaced -> 2.
 2026-10-17,ZWE,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,unplaced,3,ZWE-004,Arrivals added ZWE-004; stage unplaced -> 3.
+2026-10-18,BWA,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,3,3,BWA-002;BWA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GNB,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,3,3,GNB-001;GNB-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GNQ,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,2,2,GNQ-001;GNQ-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,KEN,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,no evidence,unplaced,,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,5,5,MAR-001;MAR-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,4,4,NAM-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,2,2,NGA-003;NGA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,3,3,SEN-001;SEN-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,3,3,TZA-002;TZA-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,data.statistics--censuses-and-surveys-censuses-and-surveys,fact,5,5,ZMB-007;ZMB-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.

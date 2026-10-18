@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-sle-uadf-launch-rural-telephony-project",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Universal Access Development Fund's CEO says its Rural Telephony Project, launched across five rural communities, has connected approximately 47,700 people across 114 rural and remote localities, with over 30 schools and about 10 health centres served.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Rural Telephony Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rural Telephony Project",
+   "country_label": "Sierra Leone",
+   "class": "ruralaccess",
+   "platform": "VSAT, microwave and fibre links with five towers",
+   "owner": "Universal Access Development Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -8,6 +8,6 @@
 
 **Share reported.** No source held since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://www.echoroukonline.com/bank-cards-and-transfers-introduced-for-tax-payments>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Fada El Djazair](<https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/>).
 
 ***Not held***. No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.

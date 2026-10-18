@@ -1,0 +1,27 @@
+{
+ "slug": "2018-12-04-gnb-voa-guinea-bissau-naturalizes-senegalese-refugees",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "VOA reports UNHCR began registering the nearly 10,000 Senegalese refugees in Guinea-Bissau in 2018, after the government announced it would grant them citizenship.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "refugee registration for national ID",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "VOA reports 333 Senegalese refugees in Pelundo were getting national ID cards on the same day.",
+   "as_of": "2018-12-04",
+   "date_precision": "day",
+   "system": "national ID card",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

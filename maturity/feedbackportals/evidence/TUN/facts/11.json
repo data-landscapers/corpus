@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-tun-letemps-e-mouaten-plateforme-citoyenne",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Presidency of the Government says it launched the online platform e-Mouaten (e-people.gov.tn), through which citizens report in real time obstacles met with the administration and follow the handling of their requests, with no case figures given.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "e-Mouaten",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Mouaten",
+   "country_label": "Tunisia",
+   "class": "feedback",
+   "platform": "web portal (www.e-people.gov.tn)",
+   "owner": "Presidency of the Government",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 DZA,Sigad,Algeria,customs,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,guichet electronique unique for foreign-trade authorisations,Algeria,other,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,AAPI investment guichet unique,Algeria,other,,AAPI,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
+DZA,ALCES,Algeria,customs,UNI-PASS,Algerian Customs,,2023-07-06-dza-cupia-alces-launch
+DZA,ALCES,Algeria,customs,,Algerian customs,,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations

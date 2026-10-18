@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-10-zwe-asycuda-electronic-single-window-live",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "ZIMRA, per ASYCUDA, launched an ASYCUDA-based electronic Single Window through which traders obtain clearances from ZIMRA and other government agencies.",
+   "as_of": "2022-06-10",
+   "date_precision": "day",
+   "system": "Zimbabwe Electronic Single Window (ASYCUDA)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Electronic Single Window",
+   "country_label": "Zimbabwe",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "ZIMRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

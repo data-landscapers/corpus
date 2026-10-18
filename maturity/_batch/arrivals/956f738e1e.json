@@ -1,0 +1,44 @@
+{
+ "slug": "2021-06-14-ner-finances-lancement-e-sisic",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Finance Ministry says e-SISIC, a Direction Generale des Impots service, lets taxpayers declare taxes electronically and has been operational since September 2019.",
+       "as_of": "2021-06-14",
+       "date_precision": "day",
+       "system": "e-SISIC",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The Finance Ministry says e-SISIC lets taxpayers pay taxes electronically, by bank direct debit ordered on the portal.",
+       "as_of": "2021-06-14",
+       "date_precision": "day",
+       "system": "e-SISIC",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-SISIC",
+       "country_label": "e-SISIC",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

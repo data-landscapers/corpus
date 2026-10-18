@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-05-civ-cipesa-digital-inclusion-disabilities",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "A ministry speaker said Law No 2024-352 of 6 June 2024 on electronic communications contains measures to enable inclusive access for persons with disabilities, though implementation has been slow.",
+   "as_of": "2024-06-06",
+   "date_precision": "day",
+   "system": "Law No 2024-352 on electronic communications",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "CIPESA says the Ministry of Digital Transition and Digitalization is reviewing its digital transition policy with a focus on prioritising persons with disabilities.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Digital transition policy review",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

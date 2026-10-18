@@ -1,0 +1,41 @@
+{
+ "slug": "2024-08-05-zwe-techzim-national-venture-capital-fund",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only state funds and a call for private co-investors; no private amount stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Venture Capital Fund",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": "National Venture Capital Fund launched 2021 but unfunded and has financed no one; no startup law or strategy stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  }
+ }
+}

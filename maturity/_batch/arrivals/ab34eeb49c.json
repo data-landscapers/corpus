@@ -1,0 +1,72 @@
+{
+ "slug": "2025-09-04-mar-aujourdhui-chikaya-1-6-million-plaintes",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a complaints portal is described, which is not a government service portal."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "Statistics on Chikaya.ma show over 1,677,000 complaints filed since the January 2018 launch, 111,945 of them from January to 3 September 2025.",
+       "as_of": "2025-09-03",
+       "date_precision": "day",
+       "system": "Chikaya.ma",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The portal gives access to 38 government departments, 116 public institutions and 1,590 local authorities.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "Chikaya.ma",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "results",
+       "value": "published",
+       "fact": "Chikaya.ma statistics give 1,406,000 complaints processed (65.46%), an average processing time of 12 days and 60.94% positive feedback.",
+       "as_of": "2025-09-03",
+       "date_precision": "day",
+       "system": "Chikaya.ma",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Chikaya.ma",
+       "country_label": "Morocco",
+       "class": "feedback",
+       "platform": "national complaints portal",
+       "owner": "Ministry of Digital Transition and Administration Reform",
+       "tiers": "38 departments, 116 public institutions, 1,590 local authorities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Local authorities appear only as bodies reachable by complaints; no office connection is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Ministry of Information and Digitalization, through MACRA, invited the public to a hybrid consultation meeting, in Lilongwe or online by Teams, on three named draft ETCA regulations whose drafts were linked by QR code.",
+   "as_of": "2024-02-21",
+   "date_precision": "day",
+   "system": "Hybrid public stakeholder consultation meeting on ETCA Regulations (Teams)",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

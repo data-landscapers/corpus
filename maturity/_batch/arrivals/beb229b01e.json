@@ -1,0 +1,44 @@
+{
+ "slug": "2020-08-10-lso-moha-nicr-database-pensions-service-delivery",
+ "studies": {
+  "populationregister": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Ministry of Home Affairs says its National Identity and Civil Registry (NICR) database is in use, verifying the existence of pensioners for the Ministry of Finance.",
+       "as_of": "2020-08-10",
+       "date_precision": "day",
+       "system": "NICR",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "From 10 August 2020 the Finance Ministry's automated old-age pension payments in Qacha's Nek rely on Home Affairs verifying pensioners against the NICR database and national ID.",
+       "as_of": "2020-08-10",
+       "date_precision": "day",
+       "system": "NICR",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NICR (National Identity and Civil Registry)",
+       "country_label": "Lesotho",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

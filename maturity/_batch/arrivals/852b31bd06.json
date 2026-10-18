@@ -1,0 +1,44 @@
+{
+ "slug": "2018-01-01-sen-education-simen-identifiant-education-nationale",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Senegal's education ministry describes SIMEN, a renewed unified education information system, as being built, with four components including software engineering and infrastructure.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "SIMEN",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "The ministry says a unique identifier (IEN) is attributed to each education staff member and to pupils, teachers and parents, and gives access to the information system.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "SIMEN",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIMEN",
+       "country_label": "Senegal",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministère de l'Éducation nationale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2021-01-01-gmb-openimis-nafa-quick-cash-transfer",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "openIMIS says household registration, enrollment and payment for the Nafa Quick cash transfer, run by the National Nutrition Agency, were managed on a management information system built on openIMIS by 2M Corp.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "openIMIS",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "openIMIS says the Nafa Quick payroll of beneficiaries and payments was sent electronically to Payment Service Providers through their APIs.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "openIMIS",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "openIMIS",
+       "country_label": "Nafa Quick",
+       "class": "socialmis",
+       "platform": "openIMIS",
+       "owner": "National Nutrition Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,SISIC,Systeme Informatise de Suivi des Impots et des Contribuables,tax,,Direction Generale des Impots,large-taxpayer directorate,2018-02-01-ner-minfin-dgi-sisic-note-information

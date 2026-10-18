@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-17-dza-cnrc-portail-creation-entreprise-accueil",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The CNRC portal lets entrepreneurs create a company online without visiting the administrations, with a single registration to all of them.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Portail de création d'entreprise (CNRC)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The CNRC says the single registration gives the firm a common identification number, issued within three days of approval by CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Portail de création d'entreprise (CNRC)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail de création d'entreprise",
+   "country_label": "Algérie",
+   "class": "business",
+   "platform": "",
+   "owner": "CNRC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

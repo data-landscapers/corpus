@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "UNCDF says mobile money in Niger is used to pay bills, electricity in particular.",
+   "as_of": "2024-01-08",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

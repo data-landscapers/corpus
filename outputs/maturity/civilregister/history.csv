@@ -19,3 +19,16 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,dpi.registry--civil-register-civil-register,fact,2,3,TUN-004;TUN-005,Arrivals added TUN-004; TUN-005; stage 2 -> 3.
 2026-10-17,ZAF,dpi.registry--civil-register-civil-register,fact,no evidence,2,ZAF-001,Arrivals added ZAF-001; stage no evidence -> 2.
 2026-10-17,ZMB,dpi.registry--civil-register-civil-register,fact,4,4,ZMB-002,Arrivals added ZMB-003; stage unchanged.
+2026-10-18,BDI,dpi.registry--civil-register-civil-register,fact,2,2,BDI-001;BDI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CAF,dpi.registry--civil-register-civil-register,fact,2,2,CAF-005;CAF-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CMR,dpi.registry--civil-register-civil-register,fact,2,2,CMR-001;CMR-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,dpi.registry--civil-register-civil-register,fact,2,2,COG-001;COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,dpi.registry--civil-register-civil-register,fact,4,4,ETH-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,GNQ,dpi.registry--civil-register-civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.registry--civil-register-civil-register,fact,2,3,MOZ-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.registry--civil-register-civil-register,fact,2,2,NGA-001;NGA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.registry--civil-register-civil-register,fact,2,3,SEN-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SOM,dpi.registry--civil-register-civil-register,fact,4,4,SOM-007;SOM-009,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SYC,dpi.registry--civil-register-civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.registry--civil-register-civil-register,fact,4,4,TZA-003;TZA-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--civil-register-civil-register,review,2,2,ZAF-001;ZAF-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,landmis,system,inservice,"ANCFCC's e-Foncier, built on LOGICF (land titles), SIGEST (requisitions), SICAD (cadastral registers) and CADGIS (cadastral plans), gives users online services for registrations, certificates and titles; its status reads Completed.",2013,year,e-Foncier,landmis,2013-01-01-mar-itu-wsis-ancfcc-e-foncier,https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1270127883
+MAR-002,MAR,landmis,system,inservice,ANCFCC states 76% of notarial deed filings with the land agency are made online.,2026,year,ANCFCC e-services,landmis,2026-01-01-mar-ancfcc-chiffres-cles,https://www.ancfcc.gov.ma/chiffrecles/

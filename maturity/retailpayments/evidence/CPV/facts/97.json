@@ -1,0 +1,26 @@
+{
+ "slug": "2021-09-30-cpv-balai-estudo-moeda-eletronica-makeba",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A study presented at a Banco de Cabo Verde forum names one operator already in the e-money market, Banco BAI/Makeba, while recommending against building a new e-money entity from scratch.",
+   "as_of": "2021-09-30",
+   "date_precision": "day",
+   "system": "Makeba",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Makeba",
+   "country_label": "Cabo Verde",
+   "class": "retail",
+   "platform": "",
+   "owner": "Banco BAI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

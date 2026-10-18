@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NER,SIGMAP-Niger,Niger,procurement,sigmap.marchespublics.ne,DGCMP/OB,,2026-02-25-ner-lesahel-digitalisation-marches-publics
+NER,système de dématérialisation des marchés publics et des délégations de service public,Niger,procurement,,"DGCMP/OB, Ministère des Finances",,2022-06-09-ner-marchespublics-dematerialisation-modules
+NER,SIGMAP,Niger,procurement,Portail des marchés publics,"DGCMP/EF, Ministry of Finance",,2016-11-02-ner-minfin-lancement-sigmap-discours

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-19-swz-edn-ers-tax-filing-season-taxease",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Finance Minister Neal Rijkenberg said that by 12 September 2024 taxpayers had filed 54,842 returns (38,900 PAYE, 11,466 VAT, 368 corporate income tax, 3,108 personal income tax) on the ERS TaxEase platform, introduced in March 2024 to replace the legacy eTax system.",
+   "as_of": "2024-09-12",
+   "date_precision": "day",
+   "system": "TaxEase",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaxEase",
+   "country_label": "Eswatini",
+   "class": "taxsystem",
+   "platform": "digital platform",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  },
+  {
+   "system": "eTax",
+   "country_label": "Eswatini",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Eswatini Revenue Service",
+   "tiers": "legacy"
+  }
+ ],
+ "note": ""
+}

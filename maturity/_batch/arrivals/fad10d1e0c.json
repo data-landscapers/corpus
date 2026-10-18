@@ -1,0 +1,17 @@
+{"slug": "2026-10-17-dza-cnrc-portail-creation-entreprise-accueil", "studies": {
+"authentication": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on authentication."}}},
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on civil register and ID links."}}},
+"businessregister": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The CNRC portal lets entrepreneurs create a company online without visiting the administrations, with a single registration to all of them.", "as_of": "2026-10-17", "date_precision": "day", "system": "Portail de création d'entreprise (CNRC)", "class": "business"},
+{"sub_indicator": "business", "aspect": "shared", "value": "shared", "fact": "The CNRC says the single registration gives the firm a common identification number, issued within three days of approval by CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS.", "as_of": "2026-10-17", "date_precision": "day", "system": "Portail de création d'entreprise (CNRC)", "class": "business"}
+], "systems": [{"system": "Portail de création d'entreprise", "country_label": "Algérie", "class": "business", "platform": "", "owner": "CNRC", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The CNRC says the company-creation portal gives access to an electronic exchange platform between CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS.", "as_of": "2026-10-17", "date_precision": "day", "system": "Portail de création d'entreprise (CNRC)", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on ID coverage."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on ID system operation."}}},
+"idregisters": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The common number is a firm identifier, not the national ID number."}}},
+"idrobustness": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page states nothing on the national ID system."}}},
+"taxadmin": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Page covers tax registration at company creation only, not filing or payment."}}}
+}}

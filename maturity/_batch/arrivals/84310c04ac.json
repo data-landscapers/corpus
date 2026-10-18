@@ -1,0 +1,52 @@
+{
+ "slug": "2025-10-17-sle-sierraloaded-wangov-guinea-border",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "WanGov only lets users pay for business registration online; online registration itself is not stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Sierraloaded reports WanGov, deployed at the Gbalamuya border post by the Road Safety Authority and Korlie Ltd, lets people pay online for government services including business registration, permits and licences, with documents collected at the border; no count of services is given.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "WanGov",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WanGov",
+       "country_label": "Sierra Leone",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Sierra Leone Road Safety Authority / Korlie Ltd",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Online payment for government services is named, but no mobile money or e-money service."
+    }
+   }
+  }
+ }
+}

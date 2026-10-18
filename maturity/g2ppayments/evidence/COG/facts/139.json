@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-cog-worldbank-lisungi-refugee-women-cash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank says the government-launched Lisungi project introduced digital payments via mobile money for its cash transfers, and that its delivery systems were institutionalized in the National Safety Net Program.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "Lisungi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

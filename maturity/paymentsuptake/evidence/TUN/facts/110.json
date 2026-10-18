@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-tun-worldbank-ifc-inclusion-financiere",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The IFC report says the World Bank's Findex 2021 puts account ownership among Tunisian adults at 37%, unchanged from 2017.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Global Findex 2021",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "D17 mobile wallet",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "La Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

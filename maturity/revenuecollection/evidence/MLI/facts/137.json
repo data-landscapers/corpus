@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-mli-apanews-quatre-plateformes-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "APAnews reports the Prime Minister said on 27 May 2025 that the land system SIF/GUF, being finalised, would include online payments for land procedures from July, with a pilot in Bamako.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "SIF/GUF",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIF/GUF",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Primature",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

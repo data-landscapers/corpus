@@ -1,0 +1,223 @@
+{
+ "slug": "2025-06-17-swz-esccom-notice-5-2025-retire-2g-3g",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "answered",
+       "fact": "ESCCOM's final decision on retiring 2G and 3G networks says it issued the proposed decision for public consultation on 9 November 2024, received stakeholder comments, summarised them and set out its response, extending the timelines by two years.",
+       "as_of": "2025-06-17",
+       "date_precision": "day",
+       "system": "ESCCOM Notice 5/2025 on retiring 2G and 3G",
+       "class": "consultation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ESCCOM 2G and 3G retirement decision",
+       "country_label": "Eswatini",
+       "class": "other",
+       "platform": "",
+       "owner": "Eswatini Communications Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice states nothing this study asks for Eswatini."
+    }
+   }
+  }
+ }
+}

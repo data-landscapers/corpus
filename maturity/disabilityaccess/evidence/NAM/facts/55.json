@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-nam-paradigm-londa-2023-country-report",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Paradigm Initiative's LONDA 2023 report says explicit details on digital inclusion of persons with disabilities are not available beyond a vague reference in the 2019 Broadband Policy, and that the National Disability Act of 2004 does not mention the internet or digitisation.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National Disability Act 2004",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

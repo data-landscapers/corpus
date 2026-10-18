@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-27-som-goobolabs-whisper-som-small-release",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Goobo Labs of Mogadishu released whisper-som-small, a Somali speech-recognition checkpoint fine-tuned on 320 hours of Somali audio from its SomNLP-STT-Corpus, reporting 11.4% word error rate on its own radio test set.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "whisper-som-small",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "whisper-som-small",
+   "country_label": "Somalia",
+   "class": "localai",
+   "platform": "Hugging Face; fine-tuned from OpenAI Whisper-small",
+   "owner": "Goobo Labs",
+   "tiers": ""
+  },
+  {
+   "system": "SomNLP-STT-Corpus",
+   "country_label": "Somalia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Goobo Labs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

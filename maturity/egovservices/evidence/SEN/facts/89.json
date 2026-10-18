@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SENTAX",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "sentax.dgid.sn",
+   "owner": "Direction générale des Impôts et des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": "Tax agency platform only; no multi-service government portal stated."
+}

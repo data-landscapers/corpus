@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-03-ssd-radioyei-end-cash-salary-payments",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Ministry of Finance and Planning held a meeting in Juba on implementing a government resolution requiring all civil servant salaries to be paid through individual bank accounts, with senior officials saying the shift is already underway in many institutions but no mandatory date set.",
+   "as_of": "2025-08-02",
+   "date_precision": "day",
+   "system": "civil servant salary payment through bank accounts",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-03-31-caf-gufe-faq-nif-at-registration",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The GUFE business one-stop shop's FAQ says the NIF (tax identification number) is issued automatically by GUFE at company registration.",
+   "as_of": "2022-03-31",
+   "date_precision": "day",
+   "system": "NIF",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUFE",
+   "country_label": "Guichet Unique de Formalités des Entreprises",
+   "class": "other",
+   "platform": "",
+   "owner": "GUFE RCA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

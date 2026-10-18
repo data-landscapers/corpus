@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-05-stp-informea-resolution-39-2024-entrepreneurship-strategy",
+ "studies": {
+  "startups": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Resolution No. 39/2024 approves the National Strategy for Entrepreneurship in Sao Tome and Principe, 2024-2030, covering regulation, skills, innovation and access to finance.",
+       "as_of": "2024-12-05",
+       "date_precision": "day",
+       "system": "National Strategy for Entrepreneurship 2024-2030",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about hubs."
+    }
+   }
+  }
+ }
+}

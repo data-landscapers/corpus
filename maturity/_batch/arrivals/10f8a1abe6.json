@@ -1,0 +1,14 @@
+{
+ "slug": "2023-07-24-gha-graphic-newborns-ghana-card-database-integration",
+ "studies": {
+  "populationregister": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Says birth, NIA and health databases were integrated and a test newborn number issued; does not call the NIA database a population register."
+    }
+   }
+  }
+ }
+}

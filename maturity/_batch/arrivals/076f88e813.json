@@ -1,0 +1,11 @@
+{"slug": "2024-02-09-mdg-madagascarnewsroom-thunes-mvola-remittance", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document calls MVola the first e-money institution in 2018 but names no central bank licensing or oversight."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document states nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Madagascar Newsroom reports that since mid-January 2024 Orange Money Europe app users in Germany, Belgium, Spain, France, Italy and the Netherlands can send money to MVola accounts in Madagascar via the Thunes aggregator, received instantly in ariary.", "as_of": "2024-01", "date_precision": "month", "system": "MVola", "class": "crossborder"}], "systems": [{"system": "MVola", "country_label": "Madagascar", "class": "retail", "platform": "mobile money", "owner": "Telma", "tiers": ""}, {"system": "Thunes", "country_label": "Madagascar", "class": "crossborder", "platform": "remittance aggregator", "owner": "Thunes", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document names no law or rules on e-money."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document gives a Telma customer figure, not a survey of adults with accounts."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Madagascar Newsroom reports that MVola, launched in 2010, is a mobile money service for more than 10 million Telma customers, with a cash point network for withdrawals.", "as_of": "2024-02-09", "date_precision": "day", "system": "MVola", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

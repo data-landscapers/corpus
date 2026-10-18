@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-ssd-radioyei-boss-emoney-rules",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Radio Yei reports that consumer protection rules have taken effect in South Sudan under the amended Electronic Money Regulation, covering banks and non-bank e-money issuers, including availability, user notice of disruptions and record keeping.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Electronic Money Regulation 2017 Amendment 2025",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

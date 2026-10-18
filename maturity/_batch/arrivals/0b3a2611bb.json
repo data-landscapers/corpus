@@ -1,0 +1,8 @@
+{"slug": "2025-03-26-zwe-technomag-ict-innovation-fund", "studies": {
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on digital-skills training for civil servants."}}},
+"digitaldivides": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a nationwide 80% high-speed access target for 2030 is stated, with no rural programme or rural and urban figures."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Permanent Secretary Beaula Chirume of the Ministry of ICT said the government is scaling up digital literacy programmes through Smart Zimbabwe 2030.", "as_of": "2025-03-26", "date_precision": "day", "system": "Smart Zimbabwe 2030", "class": "publicskills"}], "systems": [{"system": "Smart Zimbabwe 2030", "country_label": "Zimbabwe", "class": "publicskills", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing stated on schools, internet in schools or the curriculum."}}},
+"startups": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A National ICT Innovation Fund is announced as a plan, with no startup law or strategy stated and no startups financed."}}},
+"techhubs": {"countries": {"ZWE": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Permanent Secretary Beaula Chirume said the government is scaling tech hubs nationwide through Smart Zimbabwe 2030, naming no hub or programme.", "as_of": "2025-03-26", "date_precision": "day", "system": "Smart Zimbabwe 2030", "class": "hub"}], "systems": [], "note": ""}}}
+}}

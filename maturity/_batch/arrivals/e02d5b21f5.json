@@ -1,0 +1,16 @@
+{"slug":"2026-04-01-uga-ppda-press-statement-e-gp-rollout-july-2026","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[
+{"sub_indicator":"business","aspect":"system","value":"inservice","fact":"Uganda's PPDA says the e-GP system, introduced in 2021, is an online platform managing public procurement, and by 2025 its deployment had expanded to 36 procuring and disposing entities.","as_of":"2025","date_precision":"year","system":"e-GP","class":"procurement"},
+{"sub_indicator":"business","aspect":"endtoend","value":"endtoend","fact":"Uganda's PPDA says e-GP automates the entire procurement cycle from planning, bid advertisement and submission to contract award, invoicing and payment processing, though deployed in 36 entities as of 2025 with a national rollout planned for 1 July 2026.","as_of":"2026-04","date_precision":"month","system":"e-GP","class":"procurement"}],
+"systems":[{"system":"e-GP","country_label":"Electronic Government Procurement (e-GP)","class":"procurement","platform":"egpuganda.go.ug","owner":"PPDA with Ministry of Finance and NITA-U","tiers":"central"}],"note":""}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on the central bank's payments role."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection in digital finance."}}},
+"coresystems":{"countries":{"UGA":{"facts":[],"systems":[{"system":"IFMS","country_label":"Integrated Financial Management System","class":"other","platform":"","owner":"","tiers":""}],"note":"IFMS is named only as integrated with e-GP for supplier payments; no statement that it is in use across central government."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on payments to people."}}},
+"itcapacity":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document does not say who builds or runs e-GP beyond naming NITA-U as a collaborator; no in-house capacity stated."}}},
+"localgov":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states no office connection for local governments."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document gives no survey of account holding."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on retail digital payments."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"URA is named only for tax verification from e-GP; no electronic tax payment stated."}}}
+}}

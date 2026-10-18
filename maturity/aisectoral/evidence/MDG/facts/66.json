@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Newsmada says Madagascar's Customs has used AI since 2022 to analyse data, strengthen controls and anticipate risks.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Customs AI data analysis and risk",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Customs AI for data analysis and risk",
+   "country_label": "Madagascar",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Madagascar Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

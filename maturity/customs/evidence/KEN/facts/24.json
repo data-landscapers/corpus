@@ -1,0 +1,44 @@
+{
+ "slug": "2021-02-23-ken-feaffa-mombasa-paperless-icms-tradenet",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Freight Logistics Magazine reports iCMS clears import and export cargo at JKIA, Moi and Eldoret airports, and KRA fully rolled out motor vehicle and bulk cargo clearance at Mombasa in November 2020.",
+   "as_of": "2021-02-23",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Freight Logistics Magazine reports KenTrade's TradeNet is fully integrated with iCMS, with 35 partner government agencies registered and releases sent from TradeNet to iCMS automatically.",
+   "as_of": "2021-02-23",
+   "date_precision": "day",
+   "system": "TradeNet",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iCMS",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "TradeNet",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "KenTrade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

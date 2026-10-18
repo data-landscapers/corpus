@@ -44,7 +44,7 @@ SOM,5,independent,open,SOM-005;SOM-006
 SSD,2,one,,SSD-001
 STP,2,one,,STP-002;STP-001
 SWZ,3,two,,SWZ-002
-SYC,3,two,,SYC-002
+SYC,3,two,,SYC-004;SYC-002
 TCD,2,one,,TCD-001
 TGO,3,two,,TGO-006
 TUN,5,independent,open,TUN-012;TUN-005

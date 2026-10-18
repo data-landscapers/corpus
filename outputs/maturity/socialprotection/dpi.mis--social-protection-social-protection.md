@@ -20,13 +20,13 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 11 |
-| 3 Established | 5 |
-| 2 Nascent | 2 |
-| 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 34 |
+| 5 Leading | 2 |
+| 4 Operating | 16 |
+| 3 Established | 12 |
+| 2 Nascent | 3 |
+| 1 Absent | 1 |
+| Unplaced | 8 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -35,6 +35,12 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 One information system served several social programmes in 2025.
 
 - The document says KSEIP 2 strengthens cash transfer delivery through the CCTP-MIS, and that the CCTP comprises the Older Persons, Orphans and Vulnerable Children, and Severe Disabilities cash transfers ([source, 2025-08](https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf)).
+
+### Uganda: 5 Leading
+
+One information system served several social programmes in 2024.
+
+- The MGLSD feasibility report says the MISs of various programmes are linked to the National Single Registry, which provides an integrated beneficiary management platform ([source, 2024-07](https://socialprotection.go.ug/wp-content/uploads/2025/02/Feasibility-Report-for-Ugandas-Social-Registry.pdf)).
 
 ### Burundi: 4 Operating
 
@@ -47,6 +53,13 @@ A social programme's system paid beneficiaries electronically in 2026; one syste
 A social programme's system paid beneficiaries electronically in 2025; one system serving several programmes is not known.
 
 - The World Bank project paper says ASNEIP is scaling up its digital government-to-person payment system and 9,337 beneficiaries had received digital payments by April 2025 ([source, 2025-04](https://documents1.worldbank.org/curated/en/099082625105536477/pdf/BOSIB-c1db46ff-563d-4cc3-b382-1eb9e5eb6876.pdf)).
+
+### Comoros: 4 Operating
+
+A social programme's system paid beneficiaries electronically in 2026; one system serving several programmes is not known.
+
+- The PFSS-RRC says the programme's payments to beneficiaries are made by the mobile-banking operators Mvula and Huri Money ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
+- The World Bank mid-term aide-memoire reports 41,703 beneficiaries receiving payments by mobile money, and says ARIEP beneficiaries hold accounts with Sanduk and are all paid by bank transfer ([source, 2025-04](https://pfss-comores.org/ressources/download/8)).
 
 ### Congo: 4 Operating
 
@@ -73,6 +86,18 @@ A social programme's system paid beneficiaries electronically in 2025; one syste
 
 - The World Bank restructuring paper says 252 woredas use electronic payments and bank accounts are opened for 1.3 million beneficiary households ([source, 2025-10](https://documents1.worldbank.org/curated/en/099102025134040722/pdf/P172479-f2834346-c6c0-4568-a19e-46544cf006e6.pdf)).
 
+### Guinea: 4 Operating
+
+A social programme's system paid beneficiaries electronically in 2023; one system serving several programmes is not known.
+
+- ANIES reports that under the Nafa project it opened electronic wallet accounts for women household heads, issued phones and SIM cards, and pays them monthly through five contracted payment operators, and plans to keep this mobile-money payment arrangement for the Food Shock Window transfers ([source, 2023](https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf)).
+
+### Madagascar: 4 Operating
+
+A social programme's system paid beneficiaries electronically in 2024; one system serving several programmes is not known.
+
+- The FID terms of reference say the unconditional cash transfer programme in Antananarivo and its suburbs pays by mobile money, with funds sent to beneficiaries' mobile money accounts, or by paying agents using QR codes where there is no network coverage ([source, 2024-12-16](https://www.fid.mg/wp-content/uploads/2024/12/DG_24035_TDR_ASSCA_TMNC_161224_sans-collecte_apres_obs_BM_VF.pdf)).
+
 ### Malawi: 4 Operating
 
 A social programme's system paid beneficiaries electronically in 2025; one system serving several programmes is not known.
@@ -91,13 +116,25 @@ A social programme's system paid beneficiaries electronically in 2025; one syste
 A social programme's system paid beneficiaries electronically in 2026; one system serving several programmes is not known.
 
 - The Imo State governor welcomed the transition from physical cash disbursement to direct bank account payments under the federal HoPE-CT programme, which the minister said pays verified beneficiaries from the National Social Register linked to NIN ([source, 2026-06-04](https://fmino.gov.ng/fg-disburses-n6-6-billion-to-over-278000-imo-beneficiaries-under-empowerment-programme/)).
-- The World Bank report says the National Social Safety Net Program-Scale Up payment mechanism is fully digital, with all cash transfers going directly to verified, biometrically backed beneficiary-owned accounts, 100 percent of households as of July 2025 ([source, 2025-07-04](https://documents1.worldbank.org/curated/en/099090325094525591/txt/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.txt)).
+- NSIPA lists digital payments via bank accounts and wallets under the restructuring of NASSP-SU ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
 
 ### Sao Tome and Principe: 4 Operating
 
 A social programme's system paid beneficiaries electronically in 2025; one system serving several programmes is not known.
 
 - The World Bank project paper says the additional financing continues an electronic cash-transfer payment system for beneficiaries, built through a partnership with a financial institution ([source, 2025-09-12](https://documents1.worldbank.org/curated/en/099091725161547918/txt/BOSIB-92986af7-9307-44ac-b3b9-5f75cb4949c8.txt)).
+
+### South Africa: 4 Operating
+
+A social programme's system paid beneficiaries electronically in 2025; one system serving several programmes is not known.
+
+- SASSA told the committee it uses banking checks to prevent fraudulent grant payments and that only fully FICA-compliant bank accounts are now used for grant payments ([source, 2025-11-19](https://pmg.org.za/committee-meeting/42085/)).
+
+### Tanzania: 4 Operating
+
+A social programme's system paid beneficiaries electronically in 2026; one system serving several programmes is not known.
+
+- TASAF's handbook says PSSN III benefits are paid bimonthly through banks and mobile money operators, with payment instructions from the TASAF MIS routed via the Government electronic Payment Gateway (GePG) ([source, 2026-03](https://www.tasaf.go.tz/uploads/documents/sw-1776692069-PAYMENT%20PROCESS%20HANDBOOK.pdf)).
 
 ### Tunisia: 4 Operating
 
@@ -111,11 +148,54 @@ A social programme was run on an information system in 2024; electronic payment 
 
 - The World Bank reports that as of end-June 2024, 1.6 million households had been registered in the Kwenda programme Management Information System, which runs the Kwenda cash transfer ([source, 2024-06](https://documents1.worldbank.org/curated/en/099102524042530084/pdf/P169779177dc6e0f518d2610fb44ed3049d.pdf)).
 
+### Benin: 3 Established
+
+A social programme was run on an information system in 2025; electronic payment from it is not known.
+
+- Sambieni, Gnammou and Bourgeois state that the ARCH health insurance (AM-ARCH) in Benin uses digital solutions dedicated to managing memberships and benefits, with beneficiaries holding an insurance card, though effectiveness depends on digital infrastructure, especially in rural areas ([source, 2025-04-09](https://doi.org/10.3917/afco1.279.0039)).
+
+### Cape Verde: 3 Established
+
+A social programme was run on an information system in 2025; electronic payment from it is not known.
+
+- Decreto-Lei n.º 3/2025 (republishing Lei 38/VIII/2013, art. 41) requires offices outside the central service to register social pension applications in the 'aplicativo informático' used to manage the pension within 24 hours, and art. 47 enters approved pensioners in the database of the non-contributory pensions system, run by the CNPS ([source, 2025-02-03](https://boe.incv.cv/Bulletins/DownloadAct?id=73659)).
+
+### Eswatini: 3 Established
+
+A social programme was run on an information system in 2026; electronic payment from it is not known.
+
+- The Deputy Prime Minister's Office says elderly and disability grant applications are verified and processed on systems managed with the Royal Science and Technology Park, which were suffering technical faults delaying applicants being added to the beneficiaries list ([source, 2026-01-15](https://eswatinipositivenews.online/dpmo-moves-to-resolve-technical-issues-affecting-social-grants/)).
+
 ### Ghana: 3 Established
 
 A social programme was run on an information system in 2026; electronic payment from it is not known.
 
 - The terms of reference list LEAP, Labour Intensive Public Works, Productive Inclusion, the Ghana School Feeding Programme and the Capitation Grant among the ministry's existing Management Information Systems, currently integrated peer-to-peer ([source, 2026-08-29](https://www.mogcsp.gov.gh/?mdocs-file=8618)).
+
+### Lesotho: 3 Established
+
+A social programme was run on an information system in 2024; electronic payment from it is not known.
+
+- The document says tablets and laptops will support the operations and management of the existing NISSA and MISSA systems used for the Child Grants Programme ([source, 2024-06-20](https://www.eeas.europa.eu/delegations/lesotho/eu-and-unicef-provide-new-resources-government-enhance-child-well-being-and-social-services-lesotho_en)).
+
+### Libya: 3 Established
+
+A social programme was run on an information system in 2026; electronic payment from it is not known.
+
+- Libya's Ministry of Social Affairs says families in the wife-and-children grant programme registered and updated their data through the ministry's electronic platforms, and arrears are paid only to beneficiaries whose data were completed and approved ([source, 2026-06-21](https://lana.gov.ly/post.php?id=359914&lang=ar)).
+
+### Mauritania: 3 Established
+
+A social programme was run on an information system in 2026; electronic payment from it is not known.
+
+- A World Bank SASPP policy note says Mauritania's Tekavoul national safety-net programme runs on its own information system (the Tekavoul information system), whose limited interoperability with the Social Registry delayed the beneficiary list renewal, while the programme made quarterly cash transfers to nearly 138,000 households in June 2026 ([source, 2026-06](https://documents1.worldbank.org/curated/en/099229507202629093/pdf/IDU-435478dd-a19c-4ed7-ba75-1aa272bee8b2.pdf)).
+- Taazour's delegate general says it has a digital database of over 1.5 million citizens and an advanced digital platform through which it provides social assistance to beneficiaries ([source, 2024-09-09](https://ami.mr/fr/archives/253780)).
+
+### Rwanda: 3 Established
+
+A social programme was run on an information system in 2024; electronic payment from it is not known.
+
+- The plan says the Monitoring and Evaluation Information System (MEIS) serves as a beneficiary registry giving real-time information on who receives what support, and is the source cited for VUP beneficiary counts for 2023-2024 ([source, 2024](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/STRATEGIES/Sector_Strategic_Plans_Abridged_2024_2029/Social_Protection/Final_and_validated_SPSSP.pdf)).
 
 ### Senegal: 3 Established
 
@@ -142,13 +222,67 @@ A programme management information system was under way in 2025; none in service
 
 - The World Bank's September 2025 infographic lists a 'nouveau système de gestion des beneficiaires intégrant le MGP' (new beneficiary management system incorporating the complaints mechanism) among Chad's adaptive social protection system strengthening under the PFSAP 2025-2030 ([source, 2025-09](https://documents1.worldbank.org/curated/en/099735205212519675/pdf/IDU-f63a01b3-734b-45cc-bdf8-323adb04c51d.pdf)).
 
+### Equatorial Guinea: 2 Nascent
+
+A programme management information system was under way in 2025; none in service is on record.
+
+- ISSA says INSESO's paperless project to digitise its files has been piloted on family allowance files, cutting processing from two days to 20 minutes ([source, 2025](https://www.issa.int/gp/285301)).
+
 ### Zambia: 2 Nascent
 
 A programme management information system was under way in 2025; none in service is on record.
 
 - The World Bank project paper says procurement of a GBV management information system, to be integrated with the GBV call center and possibly other programme MISs and the national Social Registry, is on-going under GEWEL 2 ([source, 2025-11-10](https://documents1.worldbank.org/curated/en/099111025101519517/pdf/P181391-34653b79-f98e-4c0c-a842-18e4bab01cb6.pdf)).
 
+### Botswana: 1 Absent
+
+A 2024 source says social programmes are administered on paper.
+
+- The IMF says Botswana has no single fully operational electronic registry of beneficiaries or joint information management system across its 30 programmes, so targeting and selection frequently require extensive paperwork ([source, 2024-09-10](https://www.elibrary.imf.org/view/journals/002/2024/287/article-A002-en.xml)).
+
+### DR Congo: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Gambia: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Liberia: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
 ### Namibia: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Sierra Leone: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Sudan: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Togo: Unplaced
+
+Nothing held since 2023 names a social programme management information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social programme runs on an information system.
+
+### Zimbabwe: Unplaced
 
 Nothing held since 2023 names a social programme management information system, so no stage is set.
 
@@ -160,25 +294,7 @@ Nothing held names a social programme management information system or says ther
 
 Not established: Nothing held says how social programmes are administered.
 
-### Benin: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Botswana: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
 ### Burkina Faso: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Cape Verde: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 
@@ -190,25 +306,7 @@ Nothing held names a social programme management information system or says ther
 
 Not established: Nothing held says how social programmes are administered.
 
-### Comoros: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### DR Congo: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
 ### Djibouti: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Equatorial Guinea: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 
@@ -220,25 +318,7 @@ Nothing held names a social programme management information system or says ther
 
 Not established: Nothing held says how social programmes are administered.
 
-### Eswatini: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
 ### Gabon: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Gambia: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Guinea: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 
@@ -250,37 +330,7 @@ Nothing held names a social programme management information system or says ther
 
 Not established: Nothing held says how social programmes are administered.
 
-### Lesotho: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Liberia: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Libya: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Madagascar: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
 ### Mali: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Mauritania: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 
@@ -304,55 +354,7 @@ Nothing held names a social programme management information system or says ther
 
 Not established: Nothing held says how social programmes are administered.
 
-### Rwanda: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Sierra Leone: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
 ### Somalia: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### South Africa: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Sudan: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Tanzania: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Togo: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Uganda: No evidence
-
-Nothing held names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing held says how social programmes are administered.
-
-### Zimbabwe: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 

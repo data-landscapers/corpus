@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-gin-anm-imagerie-satellitaire",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming use of satellite data is stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "Guinea's national meteorological agency publishes on its site Meteosat Second Generation products, including dust RGB, a thunderstorm nowcasting product and precipitation maps, from Meteosat SEVIRI image data.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Meteosat Second Generation products",
+       "class": "metsat"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite broadband sale is stated."
+    }
+   }
+  }
+ }
+}

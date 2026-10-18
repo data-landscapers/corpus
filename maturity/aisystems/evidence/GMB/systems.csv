@@ -1,1 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,"Mandinka, Wolof and Fula language datasets",Gambian local language datasets,localai,LingoAI stack,Jokkolabs Banjul and LingoAI,,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets
+GMB,Mandinka-English machine translation model,The Gambia,localai,HuggingFace,Jollof Lab,,2026-04-10-gmb-jollof-lab-mandinka-translation-model

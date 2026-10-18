@@ -1,0 +1,89 @@
+{
+ "slug": "2026-06-22-sle-penn-today-healthcare-logistics-ai",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI tool is inside health supply management, a sector system."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Penn Today reports Sierra Leone's government scaled a machine-learning medicine demand forecasting and allocation tool nationwide, now supporting over 70 products, with ownership fully transferred to the government.",
+       "as_of": "2026-06-22",
+       "date_precision": "day",
+       "system": "Medicine allocation decision-support system",
+       "class": "sectorai"
+      },
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "results",
+       "value": "reported",
+       "fact": "Penn Today reports a pilot in five districts found a 19% increase in consumption of allocated medical products in treated areas, published in Nature.",
+       "as_of": "2026-06-22",
+       "date_precision": "day",
+       "system": "Medicine allocation decision-support system",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Medicine allocation decision-support system",
+       "country_label": "Sierra Leone medicine allocation tool",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Government of Sierra Leone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Built by Penn researchers; no development or AI computing stated in the country."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a census or survey."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes a medicine allocation tool, not routine health reporting."
+    }
+   }
+  }
+ }
+}

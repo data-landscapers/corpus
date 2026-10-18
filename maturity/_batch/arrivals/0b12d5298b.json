@@ -1,0 +1,5 @@
+{"slug": "2013-04-05-mus-megamu-e-judiciary-commercial-online", "studies": {
+"justice": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "justice", "aspect": "filing", "value": "online", "fact": "Chief Justice Bernard Sik Yuen launched the first phase of the E-Judiciary service at the Supreme Court on 4 April 2013, letting lawyers submit documents and enter commercial cases online, with family and criminal cases to follow.", "as_of": "2013-04-04", "date_precision": "day", "system": "E-Judiciary", "class": "justice"}
+], "systems": [{"system": "E-Judiciary", "country_label": "E-Judiciary", "class": "justice", "platform": "", "owner": "Judiciary of Mauritius", "tiers": "Supreme Court"}], "note": ""}}}
+}}

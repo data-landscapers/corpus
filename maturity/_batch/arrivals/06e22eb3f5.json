@@ -1,0 +1,68 @@
+{
+ "slug": "2024-12-19-tza-citizen-tech-teacher-shortage",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher ICT training only; no civil-service digital-skills programme stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital divide mentioned, but no rural connection programme, site count or rural/urban internet use stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for secondary teachers and school equipment; no public digital-skills programme or measured share."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local government office connection stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only school electricity shares (61.9%, 72.2%); no rural population access figure."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of secondary schools with internet; equipment distribution only, and ICT integration is a strategy pillar, not a stated compulsory subject."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM graduate share or research and education network stated."
+    }
+   }
+  }
+ }
+}

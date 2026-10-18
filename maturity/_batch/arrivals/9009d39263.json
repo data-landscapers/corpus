@@ -1,0 +1,90 @@
+{
+ "slug": "2025-07-02-rwa-unicef-sdms-school-data-management",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statistics published from administrative records are stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national digital strategy is described."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "UNICEF says it has supported MINEDUC for over five years to move the EMIS from paper to a fully digital web-based system, with the SDMS operational as a component of the envisioned digital EMIS.",
+       "as_of": "2025-07-02",
+       "date_precision": "day",
+       "system": "School Data Management System (SDMS)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "School Data Management System (SDMS)",
+       "country_label": "SDMS",
+       "class": "emis",
+       "platform": "web-based",
+       "owner": "MINEDUC with UNICEF and GPE support",
+       "tiers": "school, district, ministry"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P",
+       "fact": "UNICEF describes head teachers at primary schools using the operational SDMS to record and update student information in real time, including pupils registered for primary-leaving examinations.",
+       "as_of": "2025-07-02",
+       "date_precision": "day",
+       "system": "School Data Management System (SDMS)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "School Data Management System (SDMS)",
+       "country_label": "SDMS",
+       "class": "emis",
+       "platform": "web-based",
+       "owner": "MINEDUC with UNICEF and GPE support",
+       "tiers": "school, district, ministry"
+      }
+     ],
+     "note": "No attendance, results or share of schools stated."
+    }
+   }
+  }
+ }
+}

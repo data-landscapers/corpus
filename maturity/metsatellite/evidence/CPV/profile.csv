@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,metsat,stream,coverage,inservice,2023-09,CPV-001,,nothing dated since 2023-10-18
+CPV,metsat,warnings,coverage,issued,2023-09,CPV-002,,nothing dated since 2023-10-18
+CPV,metsat,certified,coverage,,,,,nothing held

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,socialmis,system,coverage,inservice,2025-11-19,ZAF-001;ZAF-003,ZAF-002=underway,
+ZAF,socialmis,payments,coverage,electronic,2025-11-19,ZAF-004,,
+ZAF,socialmis,integrated,coverage,,,,,nothing held

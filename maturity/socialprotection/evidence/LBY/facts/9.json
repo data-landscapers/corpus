@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-21-lby-lana-wife-children-grant-arrears",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Libya's Ministry of Social Affairs says families in the wife-and-children grant programme registered and updated their data through the ministry's electronic platforms, and arrears are paid only to beneficiaries whose data were completed and approved.",
+   "as_of": "2026-06-21",
+   "date_precision": "day",
+   "system": "ministry electronic platforms",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ministry electronic platforms (unnamed)",
+   "country_label": "Libya",
+   "class": "socialmis",
+   "platform": "online platforms",
+   "owner": "Ministry of Social Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

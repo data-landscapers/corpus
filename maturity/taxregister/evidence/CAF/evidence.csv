@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CAF-001,CAF,taxpayers,shared,shared,The GUFE business one-stop shop's FAQ says the NIF (tax identification number) is issued automatically by GUFE at company registration.,2022-03-31,day,NIF,tax,2022-03-31-caf-gufe-faq-nif-at-registration,https://gufe-rca.org/actualites-annonces/faq/

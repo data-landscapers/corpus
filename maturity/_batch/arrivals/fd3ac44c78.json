@@ -1,0 +1,13 @@
+{"slug":"2026-06-18-nam-economist-itas-deadline-extended","studies":{
+"coresystems":{"countries":{"NAM":{"facts":[{"sub_indicator":"core","aspect":"revenue","value":"inuse","fact":"NamRA says its Integrated Tax Administration System (ITAS) is in use for taxpayers' returns, with key functions restored but intermittent slowness remaining, and it extended the filing deadline from 30 June to 31 August 2026.","as_of":"2026-06-18","date_precision":"day","system":"ITAS","class":"core"}],"systems":[{"system":"ITAS (Integrated Tax Administration System)","country_label":"Integrated Tax Administration System","class":"core","platform":"","owner":"Namibia Revenue Agency","tiers":""}],"note":""}}},
+"customs":{"countries":{"NAM":{"facts":[],"systems":[],"note":"ASYCUDA data integration into ITAS is mentioned as restored, but no statement on customs declaration processing."}}},
+"educationexchange":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern education."}}},
+"educationmis":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern education."}}},
+"egovservices":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a tax authority's own system is described; not a government services portal."}}},
+"health":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern health."}}},
+"healthmis":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern health."}}},
+"police":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern police."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Mentions bank statement reconciliation and cash office reconciliation but does not state that taxes are paid electronically."}}},
+"schools":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document does not concern schools."}}},
+"taxadmin":{"countries":{"NAM":{"facts":[{"sub_indicator":"taxsystem","aspect":"filing","value":"inservice","fact":"NamRA says taxpayers file returns through its ITAS portal, which has faults but is partly restored, and it extended the filing deadline from 30 June to 31 August 2026.","as_of":"2026-06-18","date_precision":"day","system":"ITAS","class":"taxsystem"}],"systems":[{"system":"ITAS (Integrated Tax Administration System)","country_label":"Integrated Tax Administration System","class":"taxsystem","platform":"","owner":"Namibia Revenue Agency","tiers":""}],"note":""}}}
+}}

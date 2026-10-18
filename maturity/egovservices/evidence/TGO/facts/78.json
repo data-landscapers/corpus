@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-16-tgo-rtg-reformes-digitalisation-titre-foncier-nup",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Togo Officiel says citizens can complete all cadastre procedures for a land title remotely through an online portal, and ARCEP launched an e-services platform for declarations, approvals and equipment certification.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Online land title portal; ARCEP e-services platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2026-01-01-gin-guineegouv-guinee-connect-portail",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Information portal; no online service stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Guinée Connect",
+       "country_label": "Guinée Connect",
+       "class": "other",
+       "platform": "app",
+       "owner": "Government of Guinea",
+       "tiers": "national"
+      }
+     ],
+     "note": "Guinée Connect takes questions to ministers and consultations, not complaints about public services."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a growth figure for mobile internet users, no share of population."
+    }
+   }
+  }
+ }
+}

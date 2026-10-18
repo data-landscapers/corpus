@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-nam-newera-ndp6-national-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NDP6 includes gender-responsive and youth-focused digital training programmes as part of its digital package.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NDP6",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

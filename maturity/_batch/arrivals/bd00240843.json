@@ -1,0 +1,9 @@
+{"slug": "2025-05-26-mar-industries-ai-framework-law-draft-minister", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The framework bill is described in general terms; no harm from AI is named as addressed by a draft rule."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "States no AI system used in public administration."}}},
+"ailaw": {"countries": {"MAR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Digital-transition minister Amal El Fallah Seghrouchni said on 23 May 2025 that her department has drawn up, with stakeholders, a draft framework law on AI setting principles, compliance obligations, regulation mechanisms and ethical guarantees.", "as_of": "2025-05-23", "date_precision": "day", "system": "Draft framework law on artificial intelligence", "class": "law"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "States no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "States no AI model, dataset or computing built in the country."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Mentions personal data protection only as a theme of a future AI law; states nothing on a data protection law."}}},
+"interoperabilitylaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "States nothing on public bodies sharing data."}}}
+}}

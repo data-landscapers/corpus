@@ -1,0 +1,16 @@
+{"slug":"2025-09-19-egy-elwatannews-nea-voter-database-national-id","studies":{
+"authentication":{"countries":{"EGY":{"facts":[],"systems":[],"note":"The document states no authentication service; the app login by phone number is not one."}}},
+"birthidlink":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on civil register and ID exchange."}}},
+"electoralregister":{"countries":{"EGY":{"facts":[
+{"sub_indicator":"electoral","aspect":"roll","value":"inservice","fact":"Egypt's National Elections Authority announced it had officially completed updating the voter database.","as_of":"2025-09-19","date_precision":"day","system":"voter database","class":"electoral"},
+{"sub_indicator":"electoral","aspect":"checked","value":"open","fact":"The National Elections Authority says voters can check their electoral status through its new mobile app (Google Play, App Store) or its website by entering the 14-digit national number.","as_of":"2025-09-19","date_precision":"day","system":"National Elections Authority app and website lookup","class":"electoral"},
+{"sub_indicator":"electoral","aspect":"linked","value":"linked","fact":"The National Elections Authority says the update included reviewing voter entries and linking them to the national number to prevent duplicates or errors.","as_of":"2025-09-19","date_precision":"day","system":"voter database","class":"electoral"}],
+"systems":[{"system":"National Elections Authority voter database","country_label":"Egypt","class":"electoral","platform":"","owner":"National Elections Authority","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"EGY":{"facts":[
+{"sub_indicator":"registers","aspect":"register","value":"inservice","fact":"The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number.","as_of":"2025-09-19","date_precision":"day","system":"voter database","class":"register"}],
+"systems":[],"note":""}}},
+"idrobustness":{"countries":{"EGY":{"facts":[],"systems":[],"note":"The document describes no ID system itself, only its number's use by the voter roll."}}}
+}}

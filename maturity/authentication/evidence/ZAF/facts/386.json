@@ -1,0 +1,6 @@
+{
+ "slug": "2025-02-26-zaf-parliament-sassa-srd-system-findings",
+ "facts": [],
+ "systems": [],
+ "note": "Only an OTP login to the SRD application, a programme's own login; no authentication service."
+}

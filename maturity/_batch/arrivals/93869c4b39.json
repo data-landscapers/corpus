@@ -1,0 +1,79 @@
+{
+ "slug": "2026-02-17-mdg-prea-e-gp-impulsion-banque-mondiale",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No authentication service stated."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "PREA says on 17 February 2026 that the e-Government Procurement strategy is validated and an implementation firm is about to be deployed, with iteration 1 of the e-GP going live in 2026.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Madagascar",
+       "class": "procurement",
+       "platform": "e-procurement",
+       "owner": "PREA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a strengthened legal base for e-signature is mentioned, with no named law or date."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No online government service stated."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No interoperability framework stated."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Interoperability is named only as a strengthened legal base, with no instrument or date."
+    }
+   }
+  }
+ }
+}

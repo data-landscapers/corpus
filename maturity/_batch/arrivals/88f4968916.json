@@ -1,0 +1,14 @@
+{
+ "slug": "2026-04-28-eswatini-commissions-starlink-satellite-gateway",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about a Starlink internet gateway, not a weather service's satellite data."
+    }
+   }
+  }
+ }
+}

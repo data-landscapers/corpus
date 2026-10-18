@@ -1,0 +1,72 @@
+{
+ "slug": "2025-10-17-sen-arcop-appel-le-clic-de-la-transparence",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ARCOP says the APPEL e-procurement platform, inaugurated on 14 October 2025, combines strong authentication, data encryption and electronic signature and timestamping.",
+       "as_of": "2025-10-14",
+       "date_precision": "day",
+       "system": "APPEL",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APPEL",
+       "country_label": "Senegal",
+       "class": "procurement",
+       "platform": "e-procurement platform",
+       "owner": "ARCOP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ARCOP says it inaugurated the APPEL electronic public procurement platform on 14 October 2025, where tender notices are published, tender files sent to the DCMP and bids submitted online.",
+       "as_of": "2025-10-14",
+       "date_precision": "day",
+       "system": "APPEL",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APPEL",
+       "country_label": "Senegal",
+       "class": "procurement",
+       "platform": "e-procurement platform",
+       "owner": "ARCOP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no e-commerce or electronic transactions law."
+    }
+   }
+  }
+ }
+}

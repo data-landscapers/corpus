@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-03-guinea-ecuatorial-estudio-mason-cable-submarino-medusa-bome",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Medusa submarine cable landing at Bome",
+       "country_label": "Equatorial Guinea",
+       "class": "other",
+       "platform": "submarine cable",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Study of a Medusa sea-cable landing at Bome; only a vague statement of work to improve fibre quality nationwide, no contract or in-service link stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-29-mdg-ugd-avis-dp028-idms-identite-unique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The PRODIGY project, IDA-financed, issued a tender on 29 March 2024 for a turnkey IDMS solution for the deduplication and management of unique identity in Madagascar, proposals due 29 April 2024.",
+   "as_of": "2024-03-29",
+   "date_precision": "day",
+   "system": "IDMS (PRODIGY)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDMS (PRODIGY)",
+   "country_label": "IDMS",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "PRODIGY / Unite de Gouvernance Digitale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

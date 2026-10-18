@@ -1,0 +1,25 @@
+{
+ "slug": "2023-01-01-nam-nbc-passports-permits-applications-online",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "NBC reports Namibia's Ministry of Home Affairs launched online applications, payment and SMS tracking for passports and short-term work visas at eservices.mhaiss.gov.na.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "eservices.mhaiss.gov.na",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

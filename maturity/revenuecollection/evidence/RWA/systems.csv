@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
+RWA,M-Declaration,Rwanda,revenue,mobile dial-in,Rwanda Revenue Authority,,2013-12-31-rwa-worldbank-m-declaration-small-businesses
+RWA,e-filing,Rwanda,revenue,online,Rwanda Revenue Authority,,2013-12-31-rwa-worldbank-m-declaration-small-businesses
+RWA,tax e-services,Rwanda,revenue,,Rwanda Revenue Authority,,2023-07-06-rwa-ictd-electronic-tax-administration

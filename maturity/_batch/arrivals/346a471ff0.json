@@ -1,0 +1,83 @@
+{
+ "slug": "2025-07-20-zaf-sanews-auto-assessed-filing-season",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "SARS says an AI Virtual Assistant is available 24/7 on its website to answer taxpayers' queries.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "SARS AI Virtual Assistant",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "SARS says machine learning and AI models manage the risk of impermissible or fraudulent refunds on returns submitted online.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "SARS machine learning and AI risk models",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "SARS says individual taxpayers file returns via eFiling and the SARS MobiApp from 21 July to 20 October 2025, with an outcome in under five seconds for most online returns.",
+       "as_of": "2025-07-21",
+       "date_precision": "day",
+       "system": "SARS eFiling and MobiApp",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

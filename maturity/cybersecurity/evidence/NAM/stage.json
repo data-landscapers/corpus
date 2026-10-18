@@ -1,18 +1,19 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "5",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-003;NAM-018;NAM-017",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "5",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-003;NAM-018;NAM-001",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

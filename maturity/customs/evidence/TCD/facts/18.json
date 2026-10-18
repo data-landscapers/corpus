@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-08-tcd-tchadinfos-telepaiement-obligatoire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sydoniaworld",
+   "country_label": "Tchad",
+   "class": "customs",
+   "platform": "",
+   "owner": "Direction generale des douanes",
+   "tiers": ""
+  }
+ ],
+ "note": "Names Sydoniaworld only for payment integration; no statement on declaration processing."
+}

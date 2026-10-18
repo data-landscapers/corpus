@@ -1,0 +1,34 @@
+{
+ "slug": "2016-01-01-civ-douanes-positionnement-informatique",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Ivorian customs says SYDAM World moved in 2014 to version 2, based on ASYCUDA World, with electronic payment, data exchange and interoperability services.",
+       "as_of": "2014",
+       "date_precision": "year",
+       "system": "SYDAM World v2",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDAM World",
+       "country_label": "Cote d'Ivoire",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "Direction Generale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

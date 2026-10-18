@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-caf-wearetech-russie-former-fonctionnaires",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The digital economy ministry signed a renewable five-year cooperation agreement with HSE University, Moscow, on 9 October 2026 to strengthen civil servants' digital governance skills, per the ministry's statement.",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "CAR-HSE University agreement",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

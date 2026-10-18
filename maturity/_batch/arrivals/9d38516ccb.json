@@ -1,0 +1,10 @@
+{"slug": "2024-12-31-ben-lanation-classes-numeriques-handicap", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document says nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states no AI system in government administration."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states no AI tool in a public sector system; it only notes AI's promise for assistive technology."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states no AI model, dataset or AI computing built or hosted in Benin."}}},
+"disabilityaccess": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "La Nation reports the government set up three digital classrooms for visually impaired learners (Cotonou-Sègbèya, Parakou, and one other) with screen readers, braille printers and braille displays, and 31 pupils of CEG Sègbèya trained at Sègbèya in 2023-2024.", "as_of": "2024", "date_precision": "year", "system": "Classes numériques pour personnes handicapées visuelles", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document gives no figure for secondary schools with internet and says nothing on a compulsory digital curriculum."}}}
+}}

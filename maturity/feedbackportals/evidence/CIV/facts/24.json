@@ -1,0 +1,26 @@
+{
+ "slug": "2019-02-07-civ-abidjannet-portail-citoyen-milie",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Prime Minister Amadou Gon Coulibaly launched the Portail du Citoyen Miliê on 7 February 2019, a platform to collect, process and manage the concerns of users of the administration; no case numbers are given.",
+   "as_of": "2019-02-07",
+   "date_precision": "day",
+   "system": "Miliê",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Miliê",
+   "country_label": "Côte d'Ivoire",
+   "class": "feedback",
+   "platform": "web portal",
+   "owner": "Ministry of Administrative Modernisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

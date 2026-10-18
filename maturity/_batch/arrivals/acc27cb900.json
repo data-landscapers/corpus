@@ -1,0 +1,32 @@
+{
+ "slug": "2025-06-02-moz-mctd-310-escolas-internet-9300-computadores",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant digital training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only school connectivity and computers; no skills programme for the public."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Counts of schools connected (210 of unspecified level), no secondary-school share or compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

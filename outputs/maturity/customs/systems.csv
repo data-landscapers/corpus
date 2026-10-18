@@ -4,8 +4,20 @@ AGO,Janela Unica do Comercio Externo (JUCE),Angola,other,,Ministry of Industry a
 AGO,Janela Unica Portuaria (JUP),Angola,other,,,,2026-07-28-angola-arccla-logistics-single-window-integration
 AGO,Janela Unica Logistica (JUL),Angola,other,,ARCCLA,,2026-07-28-angola-arccla-logistics-single-window-integration
 AGO,Janela Unica de Concessao de Direitos Fundiarios (JUCDF),Angola,other,,MINJUSDH / IGCA,,2025-09-16-lancamento-da-janela-unica-de-concessao-de-direitos-fundiarios
+AGO,ASYCUDA ASY5,ASY5,customs,ASYCUDA Cloud Framework,"Angola customs, with UNCTAD ASYCUDA Programme",,2026-01-01-ago-asycuda-operational-launch-asy5
+AGO,ASYCUDA World,Angola,customs,ASYCUDA World,AGT,,2024-06-01-ago-agt-folha-tributaria-72-facilitacao-comercio
 BDI,Guichet Unique Electronique (GUE),Burundi,customs,,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
 BDI,ASYCUDA,Burundi,customs,ASYCUDA World,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
+BEN,Webb Customs,Benin,customs,Webb Fontaine,Benin customs,"ports, airports, land borders",2025-04-15-ben-webbfontaine-national-rollout-customs-system
+BEN,Guichet Unique du Commerce Extérieur,Benin,customs,Webb Fontaine,,,2025-04-15-ben-webbfontaine-national-rollout-customs-system
+BEN,GUCE Benin,Benin,customs,Webb Fontaine,Government of Benin / Customs,,2023-07-21-ben-douanes-official-delivery-guce-benin
+BEN,GUCE,Bénin,customs,Webb Fontaine,Direction Générale des Douanes,,2021-08-04-ben-douanes-guce-cap-du-milliard-e-payement
+BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2018-05-16-bfa-otr-togo-burkina-transit-interconnection
+BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2019-11-25-bfa-economistefaso-sydonia-world-online
+BFA,Sylvie 2,Burkina Faso,customs,,Direction generale des douanes / SOGESY,,2025-02-18-bfa-jumelages-sylvie-2-launch
+BFA,SYDONIA,Burkina Faso,customs,,Direction generale des douanes,,2025-02-18-bfa-jumelages-sylvie-2-launch
+BWA,National Single Window,Botswana,customs,,BURS,"implementation commenced, expected December 2027",2024-02-05-bwa-dailynews-burs-ebilling-single-window
+BWA,Customs Management System (CMS),Botswana,customs,,Botswana Unified Revenue Service,"declaration processing, single window OGA module",2022-02-24-bwa-wco-burs-data-driven-customs
 CAF,SYDONIA World,Central African Republic,customs,SYDONIA World,customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CAF,SIGMAT,Central African Republic,other,,CEMAC,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CAF,Sydonia World,CAF,customs,ASYCUDA World,Direction Generale des Douanes et des Droits Indirects,national,2024-06-24-caf-mfb-discours-ministre-digitalisation-ecadastre
@@ -20,6 +32,9 @@ CAF,Sydonia World,Sydonia World,customs,ASYCUDA World,Douane centrafricaine,nati
 CIV,GUCE CI (Guichet Unique du Commerce Extérieur),Côte d'Ivoire,other,,"GUCE CI, state body",,2026-05-12-guce-connect-digitalisation-commerce-exterieur-linfodrome
 CIV,Port Community System (PCS),Côte d'Ivoire,other,GUCE CI platform,GUCE CI,,2026-05-12-guce-connect-digitalisation-commerce-exterieur-linfodrome
 CIV,GUCE-CI platform,Côte d'Ivoire,other,,GUCE-CI,,2025-12-23-guce-ci-dgi-echange-donnees-fratmat
+CIV,SYDAM World,Cote d'Ivoire,customs,ASYCUDA World,Direction Generale des Douanes,,2016-01-01-civ-douanes-positionnement-informatique
+CIV,GUCE,Côte d'Ivoire,customs,GUCE web portal,GUCE CI,"pre-clearance, customs clearance, logistics, finance modules",2022-01-01-civ-guce-terms-of-use-modules
+CIV,SYDAM,Côte d'Ivoire,customs,,Customs (DGD),,2022-01-01-civ-guce-terms-of-use-modules
 CMR,Guce (Guichet unique des opérations du commerce extérieur),Cameroon,customs,,,,2026-07-30-cameroon-audit-chamber-forests-mines-customs-single-window-do-not-interoperate
 CMR,CAMCIS,Cameroon,customs,CAMCIS,Cameroon Customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CMR,SIGMAT,Cameroon,other,,CEMAC,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
@@ -42,9 +57,12 @@ COM,SIGIT,Comoros,other,,Direction generale des impots,,2024-01-02-com-gazette-i
 COM,SYDONIA,SYDONIA,customs,,Comoros Ministry of Finance,,2023-12-07-afd-com-2023-pagf-si
 CPV,SYDONIA World,Cabo Verde,customs,SYDONIA World 4.4.0 (UNCTAD),DGA / DNRE,,2026-07-09-cabo-verde-ugpe-upgrade-sydonia-world-4-4-0-modernizacao-aduaneira
 CPV,Single Window for Foreign Trade,Cabo Verde,customs,,,,2026-07-09-cabo-verde-ugpe-upgrade-sydonia-world-4-4-0-modernizacao-aduaneira
+DJI,Sydonia World,Djibouti,customs,Sydonia World,DGDDI,,2025-02-01-dji-dgddi-plan-strategique-2025-2029
 DZA,Sigad,Algeria,customs,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,guichet electronique unique for foreign-trade authorisations,Algeria,other,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,AAPI investment guichet unique,Algeria,other,,AAPI,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
+DZA,ALCES,Algeria,customs,UNI-PASS,Algerian Customs,,2023-07-06-dza-cupia-alces-launch
+DZA,ALCES,Algeria,customs,,Algerian customs,,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations
 EGY,Nafeza,Egypt,customs,,,national,2026-09-28-egy-enterpriseam-ain-sokhna-nafeza
 EGY,"Nafith truck-management yard system, Ain Sokhna",Egypt,other,,SCZone / Nafith Egypt,port,2026-09-28-egy-enterpriseam-ain-sokhna-nafeza
 EGY,Nafeza,Egypt,customs,,Ministry of Finance,national,2026-09-14-egy-enterpriseam-nafeza-overland-freight-trade-digitization
@@ -82,6 +100,14 @@ GNQ,SYDONIA,Equatorial Guinea,customs,SYDONIA,General Directorate of Customs (DG
 GNQ,SAGE,Equatorial Guinea,other,SAGE,State Treasury,,2026-09-15-pamfp-mobilization-of-non-oil-revenues
 KEN,RECTS,Kenya,other,,Kenya Revenue Authority,,2026-09-16-xea-thestar-rects-multi-vendor-cargo-tracking
 KEN,Regional Electronic Cargo Tracking System (RECTS),KEN,other,,Kenya Revenue Authority,,2026-09-11-ken-kra-public-notice-approved-vendors-rects-multi-vendor-eseals
+KEN,iCMS,Integrated Customs Management System,customs,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
+KEN,iCMS,Kenya,customs,,Kenya Revenue Authority,,2022-05-11-ken-kra-icms-containerised-cargo-simba-ends
+KEN,Simba,Kenya,customs,,Kenya Revenue Authority,legacy,2022-05-11-ken-kra-icms-containerised-cargo-simba-ends
+KEN,iCMS,Kenya,customs,,Kenya Revenue Authority,,2021-02-23-ken-feaffa-mombasa-paperless-icms-tradenet
+KEN,TradeNet,Kenya,customs,,KenTrade,,2021-02-23-ken-feaffa-mombasa-paperless-icms-tradenet
+KEN,Integrated Customs Management System (iCMS),Kenya,customs,,Kenya Revenue Authority,,2019-06-13-ken-kra-icms-implementation-cargo-clearance
+KEN,NESWS / Trade Facilitation Platform,Kenya,customs,,KenTrade,,2024-03-01-ken-kentrade-strategic-plan-2023-2028
+KEN,iCMS,Kenya,customs,,KRA,,2024-03-01-ken-kentrade-strategic-plan-2023-2028
 LBR,ASYCUDA,Automated System for Customs Data,customs,ASYCUDA 4.4,Liberia Revenue Authority,major customs and border locations,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit
 LBR,LITAS,Liberia Integrated Tax Administration System,other,,Liberia Revenue Authority,regional tax offices,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit
 LBR,ASYCUDA World,Liberia,customs,ASYCUDA World,,,2026-08-27-liberianinvestigator-liberia-launches-digital-collateral-registry-to-curb-duplicate
@@ -91,16 +117,42 @@ LBR,National Electronic Single Window,National Electronic Single Window,customs,
 LBR,ASYCUDA,Liberia,customs,ASYCUDA,Liberia Revenue Authority,,2026-08-20-smart-news-lra-unveils-new-strategic-plan-liberia
 LBR,LITAS,Liberia,other,,Liberia Revenue Authority,,2026-08-20-smart-news-lra-unveils-new-strategic-plan-liberia
 LBR,National Single Window System (NSW),Liberia,customs,,Liberia Revenue Authority,"LRA, MOA, MOCI, LISA",2026-06-09-liberia-moci-special-procurement-notice-ict-infrastructure-nsw
+LBY,ASYCUDA,Libya,customs,UNCTAD ASYCUDA,Customs Authority,,2025-08-25-lby-libyaherald-asycuda-full-launch
+LBY,ASYCUDA World,ASYCUDA World,customs,ASYCUDA World,Libyan Customs Authority,,2025-01-01-lby-metac-fy25-capacity-development-customs-asycuda
+LBY,customs declaration e-portal,Libya,customs,,Customs Authority,,2023-09-21-lby-libyaherald-customs-declaration-e-portal-pilot
+LBY,ASYCUDA World,Libya,customs,ASYCUDA World 4.3.3,Libyan Customs Administration,Port of Tripoli pilot,2022-09-01-lby-imf-asycuda-world-review-lca
 LSO,Lesotho National Single Window (LNSW),Lesotho,customs,,Revenue Services Lesotho,national,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
 LSO,OBFC business registration portal,Lesotho,other,,One-Stop Business Facilitation Centre,national,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
 LSO,Lesotho National Single Window,Lesotho,customs,,Revenue Services Lesotho,national,2026-08-25-swazi24-lesotho-national-single-window-launch
 LSO,ASYCUDA World,Lesotho,customs,ASYCUDA World,Revenue Services Lesotho,national,2026-08-25-swazi24-lesotho-national-single-window-launch
 LSO,Trade Facilitation Single Window,Lesotho,customs,,,national,2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window
 LSO,Business Facilitation Single Window at the OBFC,Lesotho,other,,One Stop Business Facilitation Centre,national,2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window
+MAR,BADR,Morocco,customs,,Customs and Indirect Taxes Administration,,2024-08-12-mar-barlamantoday-customs-ai-pilots
+MAR,PortNet,Maroc,customs,Guichet Unique du Commerce Extérieur,PORTNET S.A.,,2022-05-01-mar-anp-adii-note-bad-electronique-portnet
+MAR,BADR,Maroc,customs,,ADII,,2017-07-01-mar-adii-communique-portnet-resultats-controle
+MAR,PortNet,Maroc,customs,,,,2017-07-01-mar-adii-communique-portnet-resultats-controle
+MAR,BADR,Maroc,customs,,Douane marocaine,,2021-02-24-mar-wco-dematerialisation-douane-maroc
 MDG,Maritime Single Window,Madagascar,other,,APMF,,2026-08-07-madagascar-maritime-single-window-indonesia-financing
 MDG,Maritime Single Window,Madagascar,other,,APMF,,2026-07-27-indo-aid-mdg-2026-maritime-single-window
+MDG,Sydonia++,Madagascar,customs,UNCTAD ASYCUDA,Direction Générale des Douanes,,2020-12-22-mdg-douanes-nouvelle-technologie-sydonia-tradenet
+MDG,TradeNet,Madagascar,customs,,,,2020-12-22-mdg-douanes-nouvelle-technologie-sydonia-tradenet
+MDG,SYDONIA,Madagascar,customs,ASYCUDA,Madagascar customs,,2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement
+MDG,TradeNet,Madagascar,customs,,Malagasy Community Network Services S.A.,,2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement
+MDG,système automatisé de dédouanement,Madagascar,customs,,Direction Générale des Douanes,,2023-01-01-mdg-douanes-code-art-84-88-declaration-electronique
+MLI,Sydonia World,Mali,customs,ASYCUDA World,Direction generale des douanes du Mali,,2018-12-31-mli-douanes-migration-sydoniaworld
+MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,MCNet,,2013-01-31-moz-mcnet-balanco-jue-2012
+MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,Alfandegas de Mocambique,,2012-09-03-moz-verdade-jue-obrigatoria
+MRT,SYDONIA World,Mauritanie,customs,ASYCUDA World (UNCTAD),Direction Generale des Douanes,,2026-01-01-mrt-douanes-guide-procedures-dedouanement
 MUS,Customs Management System,Mauritius,customs,MRA private cloud,Mauritius Revenue Authority,,2026-01-20-wco-study-mission-cloud-computing-mauritius-customs
 MUS,MauPass,Mauritius,other,,,,2024-01-01-maupass
+MWI,Malawi National Single Window (NSW),Malawi,customs,,Ministry of Trade and Industry,,2025-05-20-mwi-satcp-national-single-window-launch
+MWI,ASYCUDA World,Malawi,other,ASYCUDA World,Malawi Revenue Authority,,2025-05-20-mwi-satcp-national-single-window-launch
+MWI,ASYCUDA World,Malawi,customs,ASYCUDA World 4.4,Malawi Revenue Authority,,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade
+MWI,ASYCUDA,Malawi,customs,ASYCUDA,,,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai
+MWI,ASYCUDAWorld 4.3.3,Malawi,customs,ASYCUDAWorld,Malawi Revenue Authority,,2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi
+NAM,ASYCUDAWorld 4.4.1,ASYCUDAWorld,customs,UNCTAD ASYCUDA,Namibia Revenue Agency,,2026-05-19-nam-observer-namra-customs-11-versions-behind
+NAM,ASYCUDAWorld 4.4.1,ASYCUDAWorld,customs,ASYCUDA,Namibia Revenue Agency,,2026-05-05-nam-newera-namra-asycudaworld-upgrade
+NAM,Trade Verification System,Namibia,other,,Bank of Namibia and NamRA,,2023-10-30-nam-bon-trade-verification-system
 NER,GUCE-Niger,Niger,customs,,,,2026-06-12-lesahel-dvt-lancement-campagne
 NER,Dossier virtuel de transaction (DVT),Niger,customs,GUCE-Niger,Direction générale des douanes,,2026-06-12-lesahel-dvt-lancement-campagne
 NER,GUCE-Niger,Niger,customs,Webb Fontaine LPCO 2,,,2025-10-09-anp-webbfontaine-guce-progres
@@ -112,10 +164,14 @@ NGA,NICIS II,Nigeria,customs,,Nigeria Customs Service,,2025-03-10-wto-ncs-digita
 NGA,Trade Information Portal,Nigeria,other,,Nigeria Customs Service,,2025-03-10-wto-ncs-digitalization-in-nigeria-customs-service-2025-03-12-pdf
 NGA,National Single Window,Nigeria,customs,,,,2025-01-29-national-single-window-2025
 NGA,National Single Window,Nigeria,customs,,,,2026-10-05-nga-stakeholders-seek-legal-framework-to-make-nigerias-digital-port-systems-work
+NGA,B'Odogwu,Nigeria,customs,,Nigeria Customs Service,,2025-08-25-nga-thenation-bodogwu-national-single-window
+NGA,National Single Window,Nigeria,customs,,Federal Government,,2025-08-25-nga-thenation-bodogwu-national-single-window
+NGA,B'Odogwu,Nigeria,customs,"Unified Customs Management System, web-based",Nigeria Customs Service,,2025-01-07-nga-businessday-bodogwu-ucms-ai
 RWA,Rwanda Electronic Single Window System (Single Transaction Portal),Rwanda,customs,,Rwanda Revenue Authority,,2026-02-24-rra-customs-appeals-electronic-stp
 RWA,ASYCUDA World,Rwanda,customs,ASYCUDA,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
 RWA,E-Tax,Rwanda,other,,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
 RWA,EBM2,Rwanda,other,,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
+RWA,ASYCUDA World,Rwanda,customs,ASYCUDA World,Rwanda Revenue Authority,,2024-01-01-rwa-unctad-digital-cross-border-trade-project
 SDN,ASYCUDA,Sudan,customs,ASYCUDA,Sudan Customs Authority,,2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry
 SDN,Baladna,Sudan,other,,civil registry,,2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry
 SDN,ASYCUDA,Sudan,customs,ASYCUDA,Sudan Customs,,2025-06-18 ASYCUDA customs system reactivated at Gezira state customs after war damage (SUNA)
@@ -129,13 +185,20 @@ SLE,ASYCUDA World,Sierra Leone,customs,ASYCUDA World,National Revenue Authority,
 SLE,ASYCUDA World,Sierra Leone,customs,ASYCUDA World,National Revenue Authority,,2026-07-10-sierra-leone-acc-report-nra-asycuda-part1
 SLE,ASYCUDA World,Sierra Leone,customs,ASYCUDA World,National Revenue Authority,,2026-01-21-sierra-leone-unctad-asycuda-system-upgrade-commitment
 SLE,ASYCUDA World,ASYCUDA World system of the Customs Department,customs,ASYCUDA World,Customs Department,national,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SOM,SOMCAS,Somalia,customs,,Mogadishu Customs,,2024-01-01-som-mof-somali-customs-strategic-plan-2024-27
+SOM,PCMIS,Somalia,customs,,Mogadishu Customs,,2024-01-01-som-mof-somali-customs-strategic-plan-2024-27
+SOM,SOMCAS,Somalia,customs,,Ministry of Finance,,2025-08-07-som-shabelle-mof-uk-visit-mogadishu-port-somcas
 SSD,E-Customs,E-Customs,customs,,South Sudan Revenue Authority,national,2025-09-26-ssra-pushes-digital-reforms-transparency-efficiency
 SSD,e-Customs,e-Customs,other,,South Sudan Revenue Authority,,2026-10-15-ssd-ssra-zambian-delegation-digital-tax
 SSD,SSCAFFA,SSCAFFA,other,,South Sudan Revenue Authority,,2026-10-15-ssd-ssra-zambian-delegation-digital-tax
+STP,ASYCUDAWorld 4.4,STP,customs,ASYCUDAWorld,Customs Directorate,,2025-06-01-stp-asycuda-asycudaworld-4-4-migration
+STP,Sydonia World 4.4.0,Sao Tome and Principe,customs,ASYCUDA World (UNCTAD),Autoridade Geral Aduaneira,,2025-05-27-stp-rstp-aga-sydonia-world-4-4
 SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,Eswatini Revenue Service,,2026-06-20-ers-fnb-complete-real-time-customs-payment-integration
 SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,,,2024-01-01-eswatini-tin-registration-procedure
+SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,Eswatini Revenue Service,,2026-06-12-swz-ers-integrated-payment-solution-fnb
 SYC,ASYCUDA World,Seychelles,customs,ASYCUDA World 4.4.1,Seychelles Revenue Commission (Customs Division),seaport and airport cargo,2026-03-14-src-asycuda-441-upgrade
 SYC,ASYCUDA,Seychelles,customs,ASYCUDA,Seychelles Revenue Commission,,2024-06-05-src-customs-epayment-launch
+SYC,Port Victoria Management Information System,Seychelles,customs,,,,2026-02-23-syc-undp-sdglocalaction-victoria-ai-services
 TCD,SYDONIA World,Chad,customs,SYDONIA World,customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 TCD,SIGMAT,Chad,other,,CEMAC,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 TGO,SYDONIA,Togo,customs,SYDONIA,OTR,,2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers
@@ -145,9 +208,21 @@ TGO,Gest Exo,Togo,other,,OTR,,2025-09-30-togo-otr-plateforme-gest-exo-exoneratio
 TGO,GUCE,Togo,other,,OTR,,2025-12-11-togo-otr-code-26-zone-franche-manifestes-guce
 TGO,SYDONIA,Togo,customs,SYDONIA,OTR,,2025-09-12-togo-otr-avis-013-2025-champ-bloquant-tarifs-preferentiels-sydonia
 TGO,SIGMAT,Togo,other,,ECOWAS,,2026-08-14-togo-ghana-ecowas-enbic-sigmat-border-interoperability
+TUN,nouveau système d'information douanier,Tunisie,customs,,Ministry of Finance / Customs,,2023-02-17-tun-decret-2023-160-ugpo-systeme-douanier
+TUN,SINDA 2,Tunisia,customs,,Tunisian Customs,,2025-11-12-tun-lapresse-sinda-2-operationnel-2026
 TZA,Zanzibar Single Window System,Tanzania (Zanzibar),customs,,Tanzania Revenue Authority,Zanzibar,2026-06-05-tra-zanzibar-single-window-launch
 TZA,Tanzania Electronic Single Window System,Tanzania (Mainland),customs,,,Mainland,2026-06-05-tra-zanzibar-single-window-launch
 TZA,Criminal Justice Single Window System,Tanzania,other,,Ministry of Constitution and Legal Affairs,,2026-04-24-criminal-justice-single-window-system
 UGA,ASYCUDA World,Uganda,customs,ASYCUDA World,Uganda Revenue Authority,,2024-06-24-ura-asycudaworld
+ZAF,Single Window Portal,South Africa,customs,,SARS,,2023-10-05-zaf-sars-customs-single-window-solution
+ZAF,SARS customs management system,South Africa,customs,,SARS,,2013-08-22-zaf-sars-customs-modernisation-implementation
+ZMB,ASYCUDAWorld,Zambia,customs,ASYCUDAWorld (UNCTAD),Zambia Revenue Authority,,2025-12-16-zmb-tma-asycudaworld-upgrade-agreement
+ZMB,ASYCUDA World,Zambia,customs,ASYCUDA World,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization
+ZMB,Zambia Electronic Single Window (ZESW),Zambia,customs,,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization
 ZWE,COMESA Electronic Single Window System,Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
 ZWE,COMESA Electronic Certificate of Origin (e-CO),Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
+ZWE,Zimbabwe Electronic Single Window,Zimbabwe,customs,,ZIMRA,,2023-01-01-zwe-zimra-electronic-single-window-system
+ZWE,Zimbabwe Electronic Single Window,Zimbabwe,customs,ASYCUDA,ZIMRA,,2022-06-10-zwe-asycuda-electronic-single-window-live
+ZWE,ASYCUDA World,ASYCUDA World,customs,ASYCUDA World,ZIMRA,,2025-07-14-zwe-newziana-gvt-modernise-customs
+ZWE,Electronic Single Window System,Electronic Single Window System,customs,,,,2025-07-14-zwe-newziana-gvt-modernise-customs
+ZWE,ASYCUDA,Zimbabwe,customs,ASYCUDA 4.4.0,ZIMRA,,2024-08-17-zwe-zimra-asycuda-upgrade-notice-62

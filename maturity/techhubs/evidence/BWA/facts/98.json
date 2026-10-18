@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-bwa-dailynews-government-to-enable-innovators",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Deputy Permanent Secretary thanked the Botswana Digital and Innovation Hub for supporting businesses through its innovation programme, acceleration programme, commercialisation and funding, and its board member described its incubation of IoT Communications.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Botswana Digital and Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Digital and Innovation Hub",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

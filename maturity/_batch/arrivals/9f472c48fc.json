@@ -1,0 +1,11 @@
+{"slug":"2025-05-27-stp-rstp-aga-sydonia-world-4-4","studies":{
+"businesspayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on the central bank."}}},
+"consumerprotection":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"customs":{"countries":{"STP":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"The General Customs Authority (AGA) officially launched Sydonia World 4.4.0 on 23 May 2025, a customs management system implemented simultaneously across the national territory, financed by the AfDB under the CAPEM project with UNCTAD technical support.","as_of":"2025-05-23","date_precision":"day","system":"Sydonia World 4.4.0","class":"customs"}],"systems":[{"system":"Sydonia World 4.4.0","country_label":"Sao Tome and Principe","class":"customs","platform":"ASYCUDA World (UNCTAD)","owner":"Autoridade Geral Aduaneira","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document gives no account-ownership survey figure."}}},
+"retailpayments":{"countries":{"STP":{"facts":[],"systems":[],"note":"Document states nothing on mobile money or retail payments."}}},
+"revenuecollection":{"countries":{"STP":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"The Minister of State, Economy and Finance said the new Sydonia introduced real-time electronic payments with direct integration with national banks, for customs revenue.","as_of":"2025-05-23","date_precision":"day","system":"Sydonia World 4.4.0 electronic payment","class":"revenue"}],"systems":[],"note":""}}}
+}}

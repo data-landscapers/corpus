@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-30-mar-telquel-dossier-judiciaire-electronique",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Morocco's justice minister says electronic payment of court fees, by bank card or other channels, is already in effect.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "online court fee payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

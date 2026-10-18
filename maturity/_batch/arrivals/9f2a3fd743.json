@@ -1,0 +1,141 @@
+{
+ "slug": "2025-07-08-tcd-tchadinfos-telepaiement-obligatoire",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sydoniaworld",
+       "country_label": "Tchad",
+       "class": "customs",
+       "platform": "",
+       "owner": "Direction generale des douanes",
+       "tiers": ""
+      }
+     ],
+     "note": "Names Sydoniaworld only for payment integration; no statement on declaration processing."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Finance minister Tahir Hamid Nguilin's 3 July 2025 circular says the tax and customs directorates have integrated E-tax and Sydoniaworld with banks and mobile operators so taxpayers can pay online, and orders telepayment platforms into service by 15 July 2025, after which only telepayment is admitted for collecting customs and tax revenue.",
+       "as_of": "2025-07-03",
+       "date_precision": "day",
+       "system": "E-tax; Sydoniaworld telepayment platforms",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-tax",
+       "country_label": "Tchad",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      },
+      {
+       "system": "Sydoniaworld",
+       "country_label": "Tchad",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction generale des douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "E-tax",
+       "country_label": "Tchad",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": "E-tax named only for bank integration; filing and in-service payment not stated."
+    }
+   }
+  }
+ }
+}

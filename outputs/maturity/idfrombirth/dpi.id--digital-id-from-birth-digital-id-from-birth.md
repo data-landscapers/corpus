@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 30 |
+| No evidence | 29 |
 
 ## Countries
 
@@ -88,8 +88,9 @@ Children were given a unique ID number at birth registration in 2024, at least i
 
 ### Nigeria: 3 Established
 
-Children were given a unique ID number at birth registration in 2024, at least in part of the country.
+Children were given a unique ID number at birth registration in 2025, at least in part of the country.
 
+- The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Over 15,000 children registered in Jigawa have birth certificates processed for NIN generation, the chairman said ([source, 2025-09-16](http://www.nationalpopulation.gov.ng/news/npc-chairman-joins-stakeholders-to-celebrate-the-7th-national-day-of-identity-in-abuja)).
 - The NPC's Assistant Director of Civil Registration says a unique NIN is now generated for each child during birth registration and tied to the mother ([source, 2024-09-26](https://blueprint.ng/birth-registration-npc-introduces-nin-integration-for-newborns-linked-to-mothers/)).
 
 ### Uganda: 3 Established
@@ -105,6 +106,12 @@ A unique number at birth was provided for or piloted in 2026; none given in serv
 
 - ANIP director Aristide Adjinacou says the single-desk pilot in ten health facilities registered over 13,000 births in six months (over 76%), with the aim that every child receive a personal identification number (NPI) and birth certificate in the first days of life ([source, 2026-02](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
 - Benin piloted from October 2025 a digital civil registration that issues a newborn a Personal Identification Number on registration, supported by UNICEF and WURI ([source, 2025-10](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms)).
+
+### Burundi: 2 Nascent
+
+A unique number at birth was provided for or piloted in 2024; none given in service is on record.
+
+- Burundi Eco reports interior ministry officials announced in July 2024 that under ID for D each person's prints and name are recorded electronically from birth and given a unique lifelong ID number ([source, 2024-07](https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/)).
 
 ### Cameroon: 2 Nascent
 
@@ -183,12 +190,6 @@ Nothing held since 2023 names a unique number given at birth, so no stage is set
 Not established: Nothing held since October 2023 says whether a birth is given an identity number.
 
 ### Burkina Faso: No evidence
-
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing held says whether a birth is given an identity number.
-
-### Burundi: No evidence
 
 Nothing held names a unique number given at birth or says there is none, so no stage is set.
 

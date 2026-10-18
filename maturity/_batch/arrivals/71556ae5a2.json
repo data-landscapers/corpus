@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-09-cpv-bo-portaria-33-2026-emolumentos-peo",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Portaria 33/2026 of the Ministry of Justice sets fees for incorporating, amending and dissolving companies electronically through the single Plataforma Empresa Online, payable only online, in force on the platform's public availability.",
+       "as_of": "2026-04-09",
+       "date_precision": "day",
+       "system": "Plataforma Empresa Online (PEO)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plataforma Empresa Online (PEO)",
+       "country_label": "Cabo Verde",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministério da Justiça",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  }
+ }
+}

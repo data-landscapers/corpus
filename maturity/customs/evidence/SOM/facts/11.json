@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-01-som-mof-somali-customs-strategic-plan-2024-27",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Finance plan says Mogadishu Customs introduced electronic customs systems, SOMCAS implemented in February 2022 alongside the current Port Customs Management Information System (PCMIS).",
+   "as_of": "2022-02",
+   "date_precision": "month",
+   "system": "SOMCAS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOMCAS",
+   "country_label": "Somalia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Mogadishu Customs",
+   "tiers": ""
+  },
+  {
+   "system": "PCMIS",
+   "country_label": "Somalia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Mogadishu Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

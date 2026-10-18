@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-01-ben-dgi-guide-eservices-immatriculation",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The DGI guide says a person can register for tax online on the e-services portal and the IFU number is generated instantly.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "IFU",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "The DGI guide says the applicant enters their NPI and birth date and personal data is retrieved automatically from ANIP before the IFU is issued.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "IFU",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-services Bénin",
+   "country_label": "Bénin",
+   "class": "tax",
+   "platform": "web portal",
+   "owner": "Direction Générale des Impôts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

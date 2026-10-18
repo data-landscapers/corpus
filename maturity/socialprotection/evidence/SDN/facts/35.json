@@ -1,0 +1,36 @@
+{
+ "slug": "2021-04-25-sdn-altaghyeer-sfsp-electronic-registration",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Altaghyeer reports the Thamarat executive unit finished technical preparations to launch online family registration on the programme website the following week, per the Ministry of Finance.",
+   "as_of": "2021-04-25",
+   "date_precision": "day",
+   "system": "Thamarat family registration website",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "Altaghyeer reports Thamarat adopted electronic methods to pay monthly support through bank account, electronic wallet and mobile banking.",
+   "as_of": "2021-04-25",
+   "date_precision": "day",
+   "system": "Thamarat",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Thamarat registration website",
+   "country_label": "Sudanese Families Support Program",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

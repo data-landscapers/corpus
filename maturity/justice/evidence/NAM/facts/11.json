@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-16-nam-judiciary-ug-eccmis-benchmarking-visit",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Uganda Judiciary reports that Namibia is preparing to roll out its own Integrated Electronic Case Management System (IECMS), and a 15-member Namibian delegation benchmarked Uganda's ECCMIS in May 2025.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "IECMS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "country_label": "Namibia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "unplaced",
-   "rule": "",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether a rule on harms from AI is drafted or in force.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "5",
+      "rule": "inforce",
+      "authority": "designated",
+      "enforced": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-003",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-zaf-pmg-nw3803-srd-biometric-verification",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Minister of Social Development says SRD grant payments run through beneficiary bank accounts, with accounts lacking biometric FICA verification placed in a 'referred' status that blocks further payments.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "SASSA Social Relief of Distress grant",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

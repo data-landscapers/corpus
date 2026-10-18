@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-20-cod-eastafrican-ai-cuts-exam-marking-time",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Education minister Raissa Malu told the Council of Ministers on 15 August 2025 that an AI system automated exam-paper marking in 2025, with results published three days after the exams.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "AI exam marking system",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Minister Malu reported AI exam processing cut processing time by 30-40 percent, raised speed tenfold, and lifted scanning from 8-10 to 80-100 papers a minute.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "AI exam marking system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

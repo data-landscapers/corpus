@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "no evidence",
-   "system": "",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether health reporting runs through a national information system.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

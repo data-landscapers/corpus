@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-04-mrt-ami-lancement-services-numeriques-apim",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The ministers launched APIM digital services on 4 April 2025 letting investors create companies online through the 'Mes services' portal.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "Mes services (APIM)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "Mes services (APIM)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mes services",
+   "country_label": "Mauritanie",
+   "class": "business",
+   "platform": "mobile app and portal (App Store, Play Store)",
+   "owner": "APIM",
+   "tiers": "sign-in verified through the Mon Identité app"
+  }
+ ],
+ "note": ""
+}

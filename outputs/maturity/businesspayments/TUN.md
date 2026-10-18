@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. [PAPSS](<https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/>).
 
-***Not held***. Nothing held names a government e-procurement system, or says there is none.
+***Not held***. Nothing held since October 2023 says whether government e-procurement is under way or in service.

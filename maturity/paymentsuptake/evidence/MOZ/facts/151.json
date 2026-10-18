@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-moz-bancomoc-relatorio-inclusao-financeira-2025",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The Banco de Moçambique report, citing the World Bank Global Findex Database 2025 (face-to-face survey in Mozambique 15 October to 16 December 2024, excluding Cabo Delgado and some districts, 11% of the population), says 46% of adults hold an electronic money account and 25% a traditional bank account.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Global Findex Database 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Global Findex Database 2025",
+   "country_label": "Mozambique",
+   "class": "survey",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

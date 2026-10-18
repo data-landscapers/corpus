@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-dza-lnr-electronic-land-booklet-2025",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Domaine national director general says the directorate runs a programme for complete digitisation of State domain, cadastre and land conservation services, with new services to be added to the Fada El Djazair portal.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Domaine national digitisation programme",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fada El Djazair",
+   "country_label": "Algeria",
+   "class": "landmis",
+   "platform": "web portal",
+   "owner": "Direction Generale du Domaine national",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

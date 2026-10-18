@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,taxpayers,register,underway,"The tax directorate says its computerised taxpayer tracking system SISIC was deployed at the large-taxpayer directorate on 19 February 2018, applying to March 2018 declarations, with online services still to come.",2018-02-19,day,SISIC,tax,2018-02-01-ner-minfin-dgi-sisic-note-information,https://finances.gouv.ne/index.php/communiques-de-presse/469-note-d-information-a-l-attention-des-usagers-des-services-de-la-direction-generale-des-impots

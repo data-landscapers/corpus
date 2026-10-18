@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-11-egy-vetogate-real-estate-registry-online-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Vetogate reports the Digital Egypt platform offers real estate registration and notarisation services online, including powers of attorney, transaction lookup and office booking, some still needing a visit.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-28-itwebza-saicta-industry-connect-ict-jobs-portal",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Industry Connect",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "Angular, Supabase, Xneelo",
+       "owner": "SAICTA",
+       "tiers": ""
+      }
+     ],
+     "note": "A jobs portal launch; no employment share or youth unemployment figure."
+    }
+   }
+  }
+ }
+}

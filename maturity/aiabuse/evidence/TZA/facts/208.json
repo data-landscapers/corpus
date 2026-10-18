@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-tza-micit-draft-guidelines-secure-ethical-ai",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Ministry of Communication and Information Technology published draft guidelines for the secure and ethical use of AI, covering bias, privacy and accountability, pending a firmer legal framework it says is being worked on.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Guidelines for the Secure and Ethical Use of Artificial Intelligence in Tanzania (Draft Version One)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guidelines for the Secure and Ethical Use of Artificial Intelligence in Tanzania (Draft)",
+   "country_label": "Tanzania",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "MICIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

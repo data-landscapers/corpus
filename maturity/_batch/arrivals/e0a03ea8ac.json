@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-23-mus-mpsar-e-newsletter-public-service-day",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Information Technology, Communication and Innovation says its Digital Leadership Training for civil officers and National Digital Literacy Campaign equip public officers, with no number trained given.",
+       "as_of": "2025-06-23",
+       "date_precision": "day",
+       "system": "Digital Leadership Training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Leadership Training",
+       "country_label": "Mauritius",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of Information Technology, Communication and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

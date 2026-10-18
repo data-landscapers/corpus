@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-19-eth-addisfortune-ecourt-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "ICMIS and ERMS",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

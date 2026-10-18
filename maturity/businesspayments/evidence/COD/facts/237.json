@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-19-cod-armp-dgcmp-concertation-sigmap",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ARMP says the SIGMAP e-procurement platform, launched in August 2022, has not reached production because of obstacles, and pilot procurement cells were equipped via World Bank projects (meeting of 17 March 2026).",
+   "as_of": "2026-03-17",
+   "date_precision": "day",
+   "system": "SIGMAP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAP",
+   "country_label": "DR Congo",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ARMP / DGCMP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

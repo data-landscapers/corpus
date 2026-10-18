@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The deck gives Tanzania's population as 61.7 million from the 2022 census.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

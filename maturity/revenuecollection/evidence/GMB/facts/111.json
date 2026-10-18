@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-07-gmb-foroyaa-nhrc-court-automation-case-management",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The NHRC's 2024 report says the Judiciary's Case Management System includes e-payment for filing processes.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Case Management System",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

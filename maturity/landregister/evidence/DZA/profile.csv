@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,land,register,coverage,underway,2026-01-11,DZA-001,,
-DZA,land,national,coverage,,,,,nothing held
-DZA,land,online,coverage,,,,,nothing held
+DZA,land,register,coverage,inservice,2025-03-11,DZA-003;DZA-006,DZA-002=underway;DZA-001=underway,
+DZA,land,national,coverage,nationwide,2025-03-11,DZA-004,,
+DZA,land,online,coverage,online,2025-03-11,DZA-005,,

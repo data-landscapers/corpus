@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-01-mli-orange-money-conditions-generales-utilisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "mobile money (USSD, app)",
+   "owner": "Orange Finances Mobiles Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "A provider's own terms and complaints channel; no regulator's rule, complaints body or enforcement is stated."
+}

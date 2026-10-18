@@ -1,0 +1,63 @@
+{
+ "slug": "2025-09-13-mdg-newsmada-reformes-foncieres-systeme-information",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The land services director general (DGSF) says a land information system, aimed at digitising and centralising land documents and data nationwide under PNF II, will be operational soon.",
+       "as_of": "2025-09-12",
+       "date_precision": "day",
+       "system": "Système d'information foncière",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système d'information foncière",
+       "country_label": "Madagascar",
+       "class": "landmis",
+       "platform": "",
+       "owner": "DGSF, Ministère de la Décentralisation et de l'Aménagement du Territoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The DGSF says PNF II aims at digitising and centralising land documents and data nationwide, in a land information system that will be operational soon.",
+       "as_of": "2025-09-12",
+       "date_precision": "day",
+       "system": "Système d'information foncière",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système d'information foncière",
+       "country_label": "Madagascar",
+       "class": "landmis",
+       "platform": "",
+       "owner": "DGSF, Ministère de la Décentralisation et de l'Aménagement du Territoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

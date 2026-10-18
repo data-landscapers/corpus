@@ -10,10 +10,10 @@ CMR,no evidence,,,,
 COD,5,inservice,updated,source,COD-004
 COG,no evidence,,,,
 COM,no evidence,,,,
-CPV,no evidence,,,,
+CPV,unplaced,,,,
 DJI,3,inservice,,,DJI-001
-DZA,unplaced,,,,
-EGY,no evidence,,,,
+DZA,5,inservice,updated,source,DZA-004
+EGY,unplaced,,,,
 ERI,no evidence,,,,
 ETH,no evidence,,,,
 GAB,no evidence,,,,
@@ -23,11 +23,11 @@ GMB,no evidence,,,,
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
 KEN,5,inservice,updated,source,KEN-002
-LBR,no evidence,,,,
+LBR,2,underway,,,LBR-001
 LBY,no evidence,,,,
-LSO,no evidence,,,,
+LSO,unplaced,,,,
 MAR,5,inservice,updated,source,MAR-003
-MDG,no evidence,,,,
+MDG,2,underway,,,MDG-001
 MLI,3,inservice,,,MLI-002;MLI-001
 MOZ,3,inservice,,,MOZ-001
 MRT,3,inservice,,,MRT-001;MRT-002

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-08-tcd-tchadinfos-telepaiement-obligatoire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-tax",
+   "country_label": "Tchad",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": "E-tax named only for bank integration; filing and in-service payment not stated."
+}

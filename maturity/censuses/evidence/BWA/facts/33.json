@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-28-bwa-dailynews-smartbots-schools-connected",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Minister Segokgo, reported by BOPA, cites the 2022 census as the source of Botswana's population figure, so a census was counted in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2022 census",
+   "country_label": "Census 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

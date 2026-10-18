@@ -1,0 +1,26 @@
+{
+ "slug": "2023-05-25-tun-justice-gov-tn-jshare-launch",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Minister of Justice authorised on 25 May 2023 the pilot of the Jshare platform for electronic exchange of civil court documents in a number of model courts, with training of judges, lawyers and clerks to start.",
+   "as_of": "2023-05-25",
+   "date_precision": "day",
+   "system": "Jshare",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jshare",
+   "country_label": "Tunisie",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "model courts"
+  }
+ ],
+ "note": ""
+}

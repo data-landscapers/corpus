@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MRT-001,MRT,taxpayers,register,inservice,Since 4 April 2025 a tax registration can be obtained through the APIM 'Mes services' portal as part of company creation.,2025-04-04,day,Mes services (APIM),tax,2025-04-04-mrt-ami-lancement-services-numeriques-apim,https://ami.mr/fr/archives/268316
+MRT-002,MRT,taxpayers,shared,shared,"The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation.",2025-04-04,day,Mes services (APIM),tax,2025-04-04-mrt-ami-lancement-services-numeriques-apim,https://ami.mr/fr/archives/268316

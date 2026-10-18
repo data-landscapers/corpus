@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-11-cod-minedu-ai-state-exam-correction",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The education ministry inaugurated a modernised State Exam grading centre in Kinshasa on 10 April 2025 running the AI-using software Snote Manager to process test items.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "Snote Manager",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

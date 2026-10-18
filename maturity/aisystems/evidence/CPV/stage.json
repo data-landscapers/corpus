@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "localai",
-   "stage": "2",
-   "build": "underway",
-   "compute": "",
-   "shared": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "localai",
+      "stage": "3",
+      "build": "inservice",
+      "compute": "",
+      "shared": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-002",
+      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "First pass: counted from the four questions by study-ladder-aisystems.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

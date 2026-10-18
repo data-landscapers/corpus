@@ -1,0 +1,34 @@
+{
+ "slug": "2021-01-01-tun-cres-identification-menages-pauvres-ciblage",
+ "studies": {
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The CRES-World Bank summary says the Ministry of Social Affairs' AMEN Social household database holds complete information on only 13% of the population (436,000 households) after five years, with the proxy-means score still to be applied to it.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "AMEN Social database (enquete sociale)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AMEN Social database",
+       "country_label": "Tunisia",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

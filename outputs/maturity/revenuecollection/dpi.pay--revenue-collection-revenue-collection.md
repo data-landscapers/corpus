@@ -22,11 +22,11 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 25 |
-| 2 Nascent | 7 |
+| 3 Established | 37 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 14 |
+| Unplaced | 2 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -89,6 +89,12 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 - SIRATPay, run by SIRAT SA with the ministries of Living Environment and of Economy and Finance, lets Benin motorists pay road tolls and penalties remotely without cash, per Fraternité ([source, 2026-03-19](https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/)).
 - The Senegalese finance minister said PI-SPI, launched 30 September 2025, facilitates payments of taxes, duties and fees among other operations ([source, 2025-09-30](https://lanation.bj/economie/lancement-du-systeme-de-paiement-instantane-interoperable-la-pi-spi-une-solution-rapide-et-inclusive-au-profit-des-citoyens-uemoa)).
 
+### Botswana: 3 Established
+
+Some taxes or fees could be paid electronically in 2024; the main taxes and duties are not known.
+
+- Finance minister Peggy Serame listed online tax filing and electronic payment among BURS e-services in operation ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
+
 ### Burkina Faso: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
@@ -110,6 +116,12 @@ Some taxes or fees could be paid electronically in 2025; the main taxes and duti
 - The Ministry of Finance's Tresor Pay lets citizens pay non-tax revenues online by mobile money, bank card or Campost counters, and a Prime Minister's order of 28 May 2025 requires departments to use it exclusively within three months ([source, 2025-05-28](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues)).
 - AfricaNenda says GIMACPAY enables tax payments and e-government services, and the treasury of Cameroon is the only treasury connected to date ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
+### Cape Verde: 3 Established
+
+Some taxes or fees could be paid electronically in 2024; the main taxes and duties are not known.
+
+- The DNRE says tax returns are submitted and the taxes paid electronically through its portal, with the deadline moved from 31 May to 14 June 2024 after an outage was cleared ([source, 2024-05-28](https://www.mf.gov.cv/web/dnre/-/funcionamento-do-portal)).
+
 ### Central African Republic: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
@@ -122,6 +134,7 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
 - Tchadinfos says digitalisation of public revenue limits fraud and speeds the entry of funds into the State's coffers ([source, 2026-09-04](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/)).
+- The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments ([source, 2025-08-29](https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/)).
 
 ### Congo: 3 Established
 
@@ -134,7 +147,15 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
+- The BCEAO says Treasuries connected to PI-SPI can receive taxes and duties from any account, and Cote d'Ivoire's Treasury has met all PI-SPI requirements ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
 - Clotchor Secongo says his digital solutions, including the Treasury's TresorPay e-payment platform, have improved some municipal revenues in 75 local authorities in Cote d'Ivoire; the source is his own note to the newspaper ([source, 2026-03-26](https://www.fratmat.info/article/2640916/societe/collectivites-territoriales-clotchor-secongo-developpe-un-systeme-pour-digitaliser-les-services)).
+
+### Eswatini: 3 Established
+
+Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
+
+- The Eswatini Revenue Service launched its Integrated Payment Solution with FNB Eswatini on 12 June 2026, so customs duties and import VAT can be paid through the bank; domestic tax payments are the next phase ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
+- Eswatini Positive News reports the Eswatini Revenue Service launched the Tax Ease portal, working from 4 March 2024, with integrated payments for taxpayers to pay their taxes ([source, 2024-03-04](https://eswatinipositivenews.com/ers-launches-tax-portal/)).
 
 ### Ethiopia: 3 Established
 
@@ -163,6 +184,12 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 - The CORIS MONEY distributor network of 150 agents in Conakry is stated to handle payments of taxes, per the French outlet mediaguinee cited in the article ([source, 2026-02-18](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/)).
 - Guinea launched Tresor Pay on 22 December 2025 so users can pay administrative fees and charges owed to the state by mobile phone ([source, 2025-12-22](https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments)).
 
+### Kenya: 3 Established
+
+Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
+
+- Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic ([source, 2025-07-01](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+
 ### Liberia: 3 Established
 
 Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
@@ -188,12 +215,50 @@ Some taxes or fees could be paid electronically in 2025; the main taxes and duti
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
 - The Mauritius Revenue Authority states that VAT charged or collected by foreign digital-service suppliers must be remitted electronically to the MRA, and lists online VAT registration, electronic submission of VAT returns and electronic payment of VAT due as available facilities from 1 January 2026 ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
+- The Mauritius Judiciary says registered online users of the e-Judiciary system can top up their account, used for court filing fees, by credit card (module implemented 28 February 2022) and by MauCAS QR code or account transfer (from 23 October 2023) ([source, 2023-10-23](https://ejudiciary.govmu.org/)).
+
+### Mozambique: 3 Established
+
+Some taxes or fees could be paid electronically in 2023; the main taxes and duties are not known.
+
+- Kabum Digital says company registration on the SRN portal is paid electronically by M-Pesa mobile wallet or bank ([source, 2023-11-24](https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/)).
+
+### Namibia: 3 Established
+
+Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
+
+- NamRA says domestic taxes are paid by electronic fund transfer to its Bank of Namibia accounts after liabilities are confirmed on the ITAS portal, and customs payments can also be made by EFT, alongside cash and card at its offices ([source, 2025-05-12](https://www.namra.org.na/documents/cms/uploaded/namra-communique-wagon--newsletterjanuary--march-99188d048f.pdf)).
 
 ### Niger: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
 - The Niger Direction Générale des Impôts states that its e-sisic portal for electronic declaration and payment of taxes has been operational since 13 September 2019 ([source, 2026-08-05](https://finances.gouv.ne/index.php/communiques-de-presse/666-communique-de-la-direction-generale-des-impots-relatif-a-la-declaration-et-au-paiement-des-impots-et-taxes-par-voie-electronique)).
+
+### Nigeria: 3 Established
+
+Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
+
+- FIRS states all tax and levy collections must be processed through assessments raised on the TaxPro Max platform, which handles payment processing and receipts ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
+
+### Sao Tome and Principe: 3 Established
+
+Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
+
+- The Minister of State, Economy and Finance said the new Sydonia introduced real-time electronic payments with direct integration with national banks, for customs revenue ([source, 2025-05-23](https://rstp.st/2025/05/27/autoridade-geral-aduaneira-avanca-na-reforma-digital-com-nova-versao-do-sydonia-world/)).
+
+### Senegal: 3 Established
+
+Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
+
+- Wave is used to pay for transport tickets (BRT, TER) and at public health establishments, according to economist Seydou Bocoum ([source, 2026-10-10](https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html)).
+- The DGID says SENTAX is its platform for online filing and payment (télépaiement) of taxes, mandatory for all declarations and payments of Large Enterprise Directorate taxpayers from 1 September 2026 ([source, 2026-09-01](https://www.dgid.sn/sentax)).
+
+### Seychelles: 3 Established
+
+Some taxes or fees could be paid electronically in 2024; the main taxes and duties are not known.
+
+- The SRC says from January 2024 taxpayers are to pay by bank transfer or at SRC offices, sending the payment slip, return form and proof of payment by email ([source, 2024-03-04](https://src.gov.sc/src-introduces-dedicated-return-forms-and-tax-payment-slip-to-replace-the-business-activity-statement/)).
 
 ### Sierra Leone: 3 Established
 
@@ -207,6 +272,12 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 
 - The Central Bank says SIPS supports payments to government ([source, 2026-07-27](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx)).
 - SONNA reports SIPS currently carries payments made to government ([source, 2026-07-26](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network)).
+
+### South Africa: 3 Established
+
+Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
+
+- SARS says Customs and Excise clients declaring goods electronically must use the SARS eFiling service to make payments, and Personal Income Tax and Travellers' payments can be made on the SARS MobiApp ([source, 2026-10-17](https://www.sars.gov.za/guide-to-sars-payment-rules/)).
 
 ### South Sudan: 3 Established
 
@@ -233,6 +304,7 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 
 Some taxes or fees could be paid electronically in 2026; the main taxes and duties are not known.
 
+- The national administrative services portal says citizens can pay fines (Ministry of Finance) online or by USSD ([source, 2026-10-17](https://services.gov.tn/finances/)).
 - Parents paid school registration fees remotely through La Poste Tunisienne e-Dinar wallets and D17, and about 287,300 students (about 76%) completed remote university registration by electronic payment by end-September 2026 ([source, 2026-09](https://www.lapresse.tn/2026/10/09/numerisation-la-poste-tunisienne-valide-plus-de-18-million-dinscriptions-scolaires-et-universitaires-en-ligne/)).
 
 ### Uganda: 3 Established
@@ -242,18 +314,18 @@ Some taxes or fees could be paid electronically in 2026; the main taxes and duti
 - Toll fees at the Busega, Kajjansi and Mpala plazas on the Kampala-Entebbe Expressway can now be paid by mobile money, launched with the Ministry of Works and Transport, per Tech Africa News ([source, 2026-09-25](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/)).
 - MTN Mobile Money and the Uganda Revenue Authority announced an enhanced URA tax and government payment menu on *165*18#, live nationwide ([source, 2025-12-23](https://www.mtn.co.ug/newsbusiness/mtn-momo-and-ura-enhance-digital-tax-services-for-ugandans-on-165/)).
 
+### Zimbabwe: 3 Established
+
+Some taxes or fees could be paid electronically in 2025; the main taxes and duties are not known.
+
+- Justice Minister Ziyambi Ziyambi said applicants on the DLAP can pay deed fees electronically under the Gazette's Fourth Schedule or by the manual process in the Second Schedule ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
+- ZIMRA Public Notice 75 of 2024 says taxpayers file returns online through the Self-Service Portal and pay VAT, PAYE, income, withholding and presumptive taxes into the ZIMRA bank account by cash deposit or bank transfer from linked bank accounts, posted in TaRMS ([source, 2024-10-07](https://www.zimra.co.zw/public-notices?download=4100%3Apublic-notice-75-of-2024-submission-of-outstanding-returns-and-payment-of-tax)).
+
 ### Angola: 2 Nascent
 
 Electronic payment of taxes or fees was under way in 2026; none in service is on record.
 
 - The KWiK roadmap foresees payments to the State, among other functions, through the Multicaixa network ([source, 2026-01-29](https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/)).
-
-### Botswana: 2 Nascent
-
-Electronic payment of taxes or fees was under way in 2026; none in service is on record.
-
-- Andersen says Botswana's tax rules in force from 1 July 2026 make electronic billing and invoicing mandatory and support tax administration with digital filing, with compliance deadlines still to apply ([source, 2026-07-01](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/)).
-- The Ministry of Finance, as reported on 2025-10-31, seeks P4.13 billion for the Botswana Unified Revenue Service in the NDP 12 programme, with projects including the rollout of electronic VAT invoicing and digital taxation for online services ([source, 2025-10-31](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/)).
 
 ### Comoros: 2 Nascent
 
@@ -286,18 +358,19 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 Electronic payment of taxes or fees was under way in 2026; none in service is on record.
 
 - The Malawi Police Service introduced an electronic payment system for traffic fines, scheduled to become operational at Police Headquarters and the six police regions from the week of 4 September 2026, payable through commercial banks ([source, 2026-09](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2)).
+- UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees ([source, 2023-10-20](https://asycuda.org/en/asycudaworld-upgrade-in-malawi/)).
 
-### Senegal: Unplaced
+### Ghana: Unplaced
 
 Nothing held since 2023 names electronic payment of taxes or fees, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxes or fees can be paid electronically.
 
-### Cape Verde: No evidence
+### Rwanda: Unplaced
 
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
+Nothing held since 2023 names electronic payment of taxes or fees, so no stage is set.
 
-Not established: Nothing held says how taxes and fees are paid.
+Not established: Nothing held since October 2023 says whether taxes or fees can be paid electronically.
 
 ### Equatorial Guinea: No evidence
 
@@ -306,72 +379,6 @@ Nothing held names electronic payment of taxes or fees or says there is none, so
 Not established: Nothing held says how taxes and fees are paid.
 
 ### Eritrea: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Eswatini: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Ghana: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Kenya: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Mozambique: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Namibia: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Nigeria: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Rwanda: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Seychelles: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### South Africa: No evidence
-
-Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes and fees are paid.
-
-### Zimbabwe: No evidence
 
 Nothing held names electronic payment of taxes or fees or says there is none, so no stage is set.
 

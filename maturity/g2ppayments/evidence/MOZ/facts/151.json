@@ -1,0 +1,26 @@
+{
+ "slug": "2023-09-20-moz-worldbank-g2px-gradual-transition",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "World Bank says over 200,000 PASD-PE beneficiaries were paid digitally by March 2023, into M-Pesa mobile money accounts through the government's automated payment system (SPA).",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "PASD-PE",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PASD-PE",
+   "country_label": "Post-Emergency Direct Social Assistance Program",
+   "class": "g2p",
+   "platform": "SPA, M-Pesa wallets",
+   "owner": "INAS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

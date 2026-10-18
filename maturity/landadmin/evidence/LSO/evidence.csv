@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,landmis,system,underway,"Spatial Dimension says the Land Administration Authority is implementing Landfolio as the registry component of its new Integrated Land Information System, replacing legacy systems including SOLA.",2020-01-16,day,Integrated Land Information System (Landfolio),landmis,2020-01-16-lso-spatialdimension-laa-implements-landfolio,https://www.spatialdimension.com/articles/lesotho-land-administration-authority-laa-implements-landfolio/

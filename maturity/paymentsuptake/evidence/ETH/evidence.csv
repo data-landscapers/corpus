@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,uptake,share,quarter,"The paper, citing Global Findex data, says account ownership among Ethiopian adults rose from 22% in 2014 and 35% in 2017 to 49% in 2024.",2024,year,Global Findex,survey,2025-11-21-eth-ijrsi-determinants-financial-inclusion-findex-2025,https://doi.org/10.51244/ijrsi.2025.1210000333

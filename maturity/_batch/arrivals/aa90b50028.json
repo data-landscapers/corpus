@@ -1,0 +1,8 @@
+{"slug": "2026-08-25-ken-kahawatungu-ombudsman-complaints-2025", "studies": {
+"accesstoinformationlaw": {"countries": {"KEN": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Commission on Administrative Justice (Ombudsman) says it will engage 54 public institutions to strengthen compliance with the Access to Information (ATI) Act, 2016, and says many institutions do not routinely publish information the Act requires.", "as_of": "2026-08-25", "date_precision": "day", "system": "Access to Information Act, 2016", "class": "law"}], "systems": [], "note": "The 813 complaints are administrative-justice complaints, not stated to be requests under the ATI Act; no figure for ATI requests."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Complaints against public institutions only; nothing on digital financial services."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on persons with disabilities or digital accessibility."}}},
+"feedbackportals": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Ombudsman complaint figures with no digital channel named."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Engagement is with public institutions only; no digital law or policy and no outside participants."}}},
+"refugees": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on refugees or displaced people."}}}
+}}

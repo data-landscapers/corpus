@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "no evidence",
-   "corridor": "",
-   "regional": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a cross-border digital payment channel, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "unplaced",
+      "corridor": "",
+      "regional": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a cross-border digital payment channel is in service.",
+      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

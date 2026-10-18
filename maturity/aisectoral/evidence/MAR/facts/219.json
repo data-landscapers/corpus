@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-23-mar-adii-ia-analyse-risques-douaniers",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Morocco's customs administration (ADII), with the World Customs Organization and Swiss SECO, launched a project on 19 May 2025 to integrate AI into customs risk analysis and targeting, and a first technical mission ran 19-23 May 2025 assessing current capacity.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "AI integration in customs risk analysis and targeting project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI customs risk analysis and targeting project",
+   "country_label": "Maroc",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Administration des Douanes et Impôts Indirects",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

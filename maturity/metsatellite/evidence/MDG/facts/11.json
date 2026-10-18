@@ -1,0 +1,26 @@
+{
+ "slug": "2019-01-01-mdg-wmo-tc-monitoring-forecasting-wfo-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "Madagascar's forecasting office (WFO) presents a PUMA 2015 station (recently upgraded) and says it uses MSG-3 IODC satellite imagery to detect and analyse deep convection in tropical cyclone monitoring.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "PUMA 2015 station",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA 2015 station",
+   "country_label": "Madagascar",
+   "class": "metsat",
+   "platform": "MSG-3 IODC imagery",
+   "owner": "Direction Generale de la Meteorologie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

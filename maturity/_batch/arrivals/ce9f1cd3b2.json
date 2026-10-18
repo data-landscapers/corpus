@@ -1,0 +1,7 @@
+{"slug": "2025-10-02-sle-mocti-ai-readiness-assessment", "studies": {
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Readiness assessment post; no AI harm rule stated."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No sector AI system stated."}}},
+"aistrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a forthcoming strategy mentioned and a readiness assessment (other); no drafting stated."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated; the assessment only evaluates compute."}}}
+}}

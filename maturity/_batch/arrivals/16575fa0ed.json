@@ -1,0 +1,117 @@
+{
+ "slug": "2025-05-29-ssd-itweb-mtn-momo-onafriq-remittances",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for South Sudan."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "MTN MoMo / Onafriq inbound remittances",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo / Onafriq remittance corridors",
+       "country_label": "South Sudan",
+       "class": "crossborder",
+       "platform": "mobile money",
+       "owner": "MTN South Sudan; Onafriq",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ITWeb Africa reports South Sudan MTN MoMo users can now receive money from 15 countries, so the MTN mobile money service is in service.",
+       "as_of": "2025-05-29",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo",
+       "country_label": "South Sudan",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "MTN South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

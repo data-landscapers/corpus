@@ -1,0 +1,6 @@
+{"slug": "2026-10-15-gab-gabon24-rsu-manuel-procedures", "studies": {
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The article says nothing on national ID enrolment or birth and death registration."}}},
+"socialexchange": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No data link between systems is stated; the workshop only drafts a procedures manual."}}},
+"socialprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No programme management system is named as procured, built or in service; only a planned harmonised procedure and common enrolment form."}}},
+"socialregistry": {"countries": {"GAB": {"facts": [], "systems": [{"system": "Registre social unique (RSU)", "country_label": "Gabon", "class": "social", "platform": "", "owner": "Ministere des Affaires sociales", "tiers": ""}], "note": "The RSU is described as to be deployed; the article states no procurement, pilot or population, only a six-day manual-drafting workshop opened 14 October 2026."}}}
+}}

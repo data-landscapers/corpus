@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-12-tcd-libertechnologies-lancement-e-visa",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Vendor Liber Technologies says the finance minister launched the e-Visa.td portal on 11 December 2024, making visa applications digital.",
+       "as_of": "2024-12-11",
+       "date_precision": "day",
+       "system": "e-Visa.td",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Visa portal is a border system, out of scope; no station record stated."
+    }
+   }
+  }
+ }
+}

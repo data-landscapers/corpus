@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "2",
-      "system": "underway",
-      "endtoend": "",
-      "reported": "",
+      "stage": "5",
+      "system": "inservice",
+      "endtoend": "endtoend",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-001",
-      "gaps": "Nothing held says government tenders are already published or bid online through APPEL; its general use is targeted for January 2027.",
-      "note": "ARCOP is still deploying APPEL and training contracting authorities ahead of generalisation in January 2027, so e-procurement is under way. No source held says tenders run on it in service, which stage 3 needs.",
+      "stage_sources": "SEN-005",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
       "as_at": "2026-10-18"
     }
   ]

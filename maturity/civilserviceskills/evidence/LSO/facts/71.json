@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-17-lso-govls-cyber-security-training-government-officials",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Information, Communications, Science, Technology and Innovation officially began a cyber security training workshop for government officials, run with Tethics.",
+   "as_of": "2023-08-17",
+   "date_precision": "day",
+   "system": "Cyber Security Training workshop",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Training workshop",
+   "country_label": "Lesotho",
+   "class": "csskills",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

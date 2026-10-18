@@ -1,0 +1,8 @@
+{"slug": "2024-08-07-eth-psi-it-governance-public-sector-policy-intervention", "studies": {
+"civilserviceskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Mentions staff digital literacy only as a gap; no training programme stated."}}},
+"digitalskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on public digital-skills programmes or measured skills."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Mentions the digital transformation agenda only in passing; no strategy status, text, plan or reporting stated."}}},
+"internationalstandards": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+"policyresearch": {"countries": {"ETH": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "Researchers from the Policy Studies Institute, Addis Ababa University and Ethiopian IT Park presented findings of a research project on IT governance in Ethiopian public sectors on 7 August 2024.", "as_of": "2024-08-07", "date_precision": "day", "system": "IT Governance in Ethiopian Public Sectors research project", "class": "research"}], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on schools or curriculum."}}}
+}}

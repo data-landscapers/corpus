@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-26-gha-ppa-clarification-ghaneps-contracts",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Public Procurement Authority says 3205 tenders had been published on GHANEPS by 23 April 2024.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "GHANEPS",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The Public Procurement Authority says 5048 contracts had been awarded in GHANEPS from 3205 published tenders as of 23 April 2024, 64 per cent of the tenders being requests for quotations.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "GHANEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GHANEPS",
+   "country_label": "Ghana Electronic Procurement System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

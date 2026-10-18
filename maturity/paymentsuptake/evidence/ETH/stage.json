@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "2",
+      "share": "quarter",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001",
+      "gaps": "No source held since October 2023 says: do over half hold one.",
+      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

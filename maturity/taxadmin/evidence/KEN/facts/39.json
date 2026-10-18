@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-ken-kra-ruto-hails-ai-led-reforms",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "KRA Commissioner General Humphrey Wattanga said a Kenyan can file returns through the USSD code *222*5# and KRA services are also on WhatsApp.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "KRA USSD and WhatsApp filing",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KRA USSD *222*5# and WhatsApp",
+   "country_label": "Kenya",
+   "class": "taxsystem",
+   "platform": "USSD, WhatsApp",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

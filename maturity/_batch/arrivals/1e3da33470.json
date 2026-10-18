@@ -1,0 +1,34 @@
+{
+ "slug": "2022-03-29-egy-ahram-5-steps-electronic-property-registration",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "The head of the Real Estate Publicity and Notarisation Authority says property registration applications can be submitted manually or electronically through an electronic application, with documents uploaded online.",
+       "as_of": "2022-03-29",
+       "date_precision": "day",
+       "system": "Electronic property registration application",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic property registration application",
+       "country_label": "Egypt",
+       "class": "land",
+       "platform": "",
+       "owner": "Real Estate Publicity and Notarisation Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

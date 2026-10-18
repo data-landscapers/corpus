@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-17-zaf-sarb-nps-regulation-page",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The SARB lists a 2026 draft directive on issuing and acquiring payments for offshore merchants with a comment template, comments due on 17 July 2026; the page does not say how comments were submitted.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "SARB consultation documents",
+   "class": "eparticipation"
+  },
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "published",
+   "value": "published",
+   "fact": "The SARB page links a consultation feedback note with detailed responses to comments received on the draft guidance note to Directive 1 of 2022, second round of consultation, hosted on the FIC website.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "SARB consultation documents",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

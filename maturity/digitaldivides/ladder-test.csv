@@ -1,53 +1,53 @@
 iso3,stage,programme,measured,narrow,stage_sources
-AGO,2,underway,,,AGO-001
+AGO,3,delivering,,,AGO-003
 BDI,2,underway,,,BDI-001;BDI-002
-BEN,no evidence,,,,
+BEN,unplaced,,,,
 BFA,4,delivering,measured,,BFA-003
-BWA,3,delivering,,,BWA-003
+BWA,3,delivering,,,BWA-003;BWA-005
 CAF,2,underway,,,CAF-001;CAF-002
 CIV,4,delivering,measured,,CIV-006
 CMR,2,underway,,,CMR-001
 COD,2,underway,,,COD-001;COD-008
 COG,3,delivering,,,COG-002;COG-007
 COM,no evidence,,,,
-CPV,no evidence,,,,
+CPV,5,delivering,measured,narrow,CPV-002
 DJI,2,underway,,,DJI-001
 DZA,2,underway,,,DZA-003;DZA-002
-EGY,no evidence,,,,
+EGY,3,delivering,,,EGY-001
 ERI,no evidence,,,,
 ETH,2,underway,,,ETH-001;ETH-002
-GAB,2,underway,,,GAB-001
+GAB,2,underway,,,GAB-003;GAB-001
 GHA,3,delivering,,,GHA-009;GHA-004
 GIN,2,underway,,,GIN-001
-GMB,no evidence,,,,
+GMB,2,underway,,,GMB-001
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,no evidence,,,,
+GNQ,2,underway,,,GNQ-002
+KEN,2,underway,,,KEN-002
 LBR,2,underway,,,LBR-001
-LBY,no evidence,,,,
+LBY,unplaced,,,,
 LSO,2,underway,,,LSO-001
-MAR,no evidence,,,,
+MAR,4,delivering,measured,,MAR-001
 MDG,3,delivering,,,MDG-003
 MLI,2,underway,,,MLI-001;MLI-002
 MOZ,3,delivering,,,MOZ-005
-MRT,no evidence,,,,
-MUS,no evidence,,,,
+MRT,3,delivering,,,MRT-001;MRT-002
+MUS,unplaced,,,,
 MWI,3,delivering,,,MWI-004
 NAM,3,delivering,,,NAM-005;NAM-007
 NER,3,delivering,,,NER-003
-NGA,2,underway,,,NGA-003;NGA-002
-RWA,no evidence,,,,
-SDN,no evidence,,,,
+NGA,3,delivering,,,NGA-004
+RWA,unplaced,,,,
+SDN,2,underway,,,SDN-001
 SEN,2,underway,,,SEN-003;SEN-001
-SLE,no evidence,,,,
+SLE,3,delivering,,,SLE-001;SLE-002
 SOM,4,delivering,measured,,SOM-001
 SSD,2,underway,,,SSD-001
 STP,no evidence,,,,
 SWZ,2,underway,,,SWZ-002;SWZ-001
 SYC,no evidence,,,,
 TCD,2,underway,,,TCD-001
-TGO,no evidence,,,,
-TUN,no evidence,,,,
+TGO,unplaced,,,,
+TUN,2,underway,,,TUN-001
 TZA,3,delivering,,,TZA-001
 UGA,2,underway,,,UGA-003;UGA-004
 ZAF,2,underway,,,ZAF-001;ZAF-002

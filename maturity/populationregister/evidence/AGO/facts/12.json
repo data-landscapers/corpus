@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-01-ago-angolex-lei-8-15-registo-eleitoral-oficioso-republicacao",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Base de Dados dos Cidadãos Maiores (BDCM)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  },
+  {
+   "system": "Base de Dados do Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "The law governs the electoral register of adult citizens (BDCM), fed from the identity-card database; it does not say either serves as a population register."
+}

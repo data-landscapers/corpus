@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-13-rwa-ocp-umucyo-open-contracting-portal",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Open Contracting Partnership says Rwanda's Umucyo e-procurement system is used by all national and local government agencies.",
+   "as_of": "2024-11-13",
+   "date_precision": "day",
+   "system": "Umucyo",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "Open Contracting Partnership says Umucyo is used by all national and local government agencies for almost all procurement procedures.",
+   "as_of": "2024-11-13",
+   "date_precision": "day",
+   "system": "Umucyo",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2017-12-12-sdn-tpra-ibsar-project",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "delivered",
+       "value": "delivered",
+       "fact": "Sudan's Telecommunications and Postal Regulatory Authority says the first phase of its Ibsar Project, computer and internet training for visually impaired and low-vision people, was inaugurated on 12 December 2017.",
+       "as_of": "2017-12-12",
+       "date_precision": "day",
+       "system": "Ibsar Project",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ibsar Project",
+       "country_label": "Sudan",
+       "class": "accessibility",
+       "platform": "",
+       "owner": "Telecommunications and Postal Regulatory Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-07-20-mwi-jh-digital-rights-policy-gaps",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "Jimmy Kainja of the University of Malawi published a study in the Journal of Humanities on legal and policy gaps affecting digital rights in Malawi.",
+       "as_of": "2023-07-20",
+       "date_precision": "day",
+       "system": "University of Malawi",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "University of Malawi",
+       "country_label": "Malawi",
+       "class": "research",
+       "platform": "",
+       "owner": "University of Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

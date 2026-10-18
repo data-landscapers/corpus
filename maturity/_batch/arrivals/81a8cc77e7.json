@@ -1,0 +1,19 @@
+{"slug": "2026-07-02-cmr-undp-premier-acte-naissance-digitalise-est", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system stated."}}},
+"civilregister": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "UNDP says it supported digitalisation of civil registration in 18 communes of the Far North, North-West and South-West, and on 5 June 2026 deployed the SIGEC civil-status system at Bertoua city hall, producing the East Region's first digitised birth certificate, with seven East communes covered by the project.", "as_of": "2026-06-05", "date_precision": "day", "system": "SIGEC (Systeme Integre de Gestion de l'Etat Civil)", "class": "civil"}
+], "systems": [{"system": "SIGEC", "country_label": "Cameroun", "class": "civil", "platform": "", "owner": "BUNEC", "tiers": "communes"}], "note": ""}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID stated."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No national ID system operation or ownership stated."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No register keyed on a national ID number stated."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Digital equipment and the SIGEC application for communes are equipment and application classes; no office connection stated."}}},
+"populationregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No population register stated."}}},
+"registry": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNDP says the first digitised birth certificate of the East Region was printed at Bertoua city hall on 5 June 2026 after SIGEC was deployed there and agents trained.", "as_of": "2026-06-05", "date_precision": "day", "system": "SIGEC", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "offices", "value": "count:18", "fact": "UNDP says it has already supported digitalisation of civil registration in 18 communes of the Far North, North-West and South-West regions, with seven East communes now added.", "as_of": "2026-07-02", "date_precision": "day", "system": "SIGEC", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNDP says the East Region digital legal identity project is funded by the governments of Korea and Denmark.", "as_of": "2026-07-02", "date_precision": "day", "system": "SIGEC", "class": "civil"}
+], "systems": [{"system": "SIGEC", "country_label": "Cameroun", "class": "civil", "platform": "", "owner": "BUNEC", "tiers": "communes"}], "note": ""}}}
+}}

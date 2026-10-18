@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-09-ner-marchespublics-dematerialisation-modules",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Niger's Finance Ministry and procurement regulator validated on 7 June 2022 a software-modules report under a consultant study to deliver a roadmap and an IT system dematerialising at least two steps of public procurement.",
+   "as_of": "2022-06-07",
+   "date_precision": "day",
+   "system": "système de dématérialisation des marchés publics et des délégations de service public",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "système de dématérialisation des marchés publics et des délégations de service public",
+   "country_label": "Niger",
+   "class": "procurement",
+   "platform": "",
+   "owner": "DGCMP/OB, Ministère des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

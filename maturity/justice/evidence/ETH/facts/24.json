@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-19-eth-addisfortune-ecourt-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Addis Fortune reports the Federal Supreme Court plans pilots of its eCourt system from September 2025 and full rollout by August 2026, with INSA building the Integrated Court Management Information System (ICMIS) and an Electronic Records Management System, for about 2.2 billion Br.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Integrated Court Management Information System (ICMIS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

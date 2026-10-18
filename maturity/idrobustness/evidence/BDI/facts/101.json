@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-08-bdi-abp-validation-etude-systeme-identification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Niteretse says a digital identity system is being tested in pilot communes, and a government-commissioned study checks it is inclusive, safe and reliable.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "digital identity system in pilot communes",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "none",
+   "fact": "Minister Niteretse says the current system does not allow unique identification of persons.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "current identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital identity system in pilot communes",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

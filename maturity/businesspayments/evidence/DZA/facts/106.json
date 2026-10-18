@@ -1,0 +1,26 @@
+{
+ "slug": "2021-12-23-dza-mf-lancement-portail-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Algerian Finance Ministry officially launched an electronic public procurement portal on 23 December 2021 for the electronic distribution and exchange of procurement documents and information, with procurement to be dematerialised progressively.",
+   "as_of": "2021-12-23",
+   "date_precision": "day",
+   "system": "portail électronique dédié aux marchés publics (marches-publics.gov.dz)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail électronique dédié aux marchés publics",
+   "country_label": "Algérie",
+   "class": "procurement",
+   "platform": "marches-publics.gov.dz",
+   "owner": "Ministère des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

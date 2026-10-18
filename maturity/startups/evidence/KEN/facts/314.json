@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-ken-msme-start-up-bill-2024",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "The State Department for MSMEs Development posts the text of a Start-up Bill, 2024, which would make Kenya Industrial Estates the body that labels start-ups, incubators and accelerators and would provide tax reliefs and funds for start-ups; the text is a bill, not an enacted act.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Start-up Bill, 2024",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Start-up Bill, 2024",
+   "country_label": "Kenya",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "State Department for MSMEs Development; Kenya Industrial Estates as labelling institution",
+   "tiers": "start-up maturity framework tiers"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-ssd-itweb-mtn-momo-onafriq-remittances",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "MTN MoMo / Onafriq inbound remittances",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo / Onafriq remittance corridors",
+   "country_label": "South Sudan",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "MTN South Sudan; Onafriq",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

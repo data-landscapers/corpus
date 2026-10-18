@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-17-dza-cnrc-portail-creation-entreprise-accueil",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The CNRC says the company-creation portal gives access to an electronic exchange platform between CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Portail de création d'entreprise (CNRC)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

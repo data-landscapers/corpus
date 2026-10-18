@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-09-tgo-rtg-plateforme-denonciation-forces-ordre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National electronic portal of public services",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "national e-services portal",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "The portal is named as host only; no service or count is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-cod-path-snapiform-ai-health-data-reporting",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PATH states DRC health zone staff enter HMIS reports into DHIS2, the digital health reporting platform, about half a million pages a month across the country.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DRC",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

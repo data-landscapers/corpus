@@ -1,0 +1,61 @@
+{
+ "slug": "2025-02-12-bwa-gsw-first-setswana-ai",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government user named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector system named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Two Botswana developers, Kitso Speaks and Glen Mokoka, built an AI system that understands and communicates in standard Setswana, trained on a dataset they collected, per Global South World relaying the Guardian Sun.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Setswana AI",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Private innovators; no government staff."
+    }
+   }
+  }
+ }
+}

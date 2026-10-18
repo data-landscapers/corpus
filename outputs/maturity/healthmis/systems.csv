@@ -9,6 +9,11 @@ BDI,SIDAinfo,Burundi,other,,,electronic medical records,2026-02-06-state-bdi-afg
 BDI,eLMIS,Burundi,other,,,pharmacy management,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,Ibipimo,Burundi,other,,,lab management,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2 (MININTER),Burundi,other,DHIS2,Ministère de l'Intérieur,communes to central,2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees
+BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministry of Public Health",,2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2
+BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministère de la Santé Publique et de la Lutte contre le Sida","community, health facility, district, province, central",2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis
+BDI,"Open Clinic, SidaInfo",Burundi,other,,some hospitals,hospital,2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis
+BDI,DHIS2,Burundi,hmis,DHIS2,"Ministere de la Sante Publique, DSNIS","community, health centre, district, province, national",2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024
+BDI,SIDA Info,Burundi,other,,,,2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024
 BEN,National Health Management and Information System (NHMIS),Benin,hmis,DHIS2,Ministry of Health,"health zones, facilities",2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2
 BEN,LabBook,Benin,other,LabBook 3.6,Fondation Merieux,laboratories,2026-03-26-labbook-3-6-dhis2
 BEN,DHIS2,DHIS2 national (SNIGS),other,DHIS2,,,2026-03-03-ben-iaso-georegistre-carte-sanitaire
@@ -29,12 +34,16 @@ CAF,DHIS2 vaccination microplanning,microplanification de la vaccination dans DH
 CIV,SIGSANTE (DHIS2),Côte d'Ivoire,hmis,DHIS2,"Health Information Directorate (DIS), Ministry of Health",national,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire
 CIV,mHealth community platform,Côte d'Ivoire,other,mHealth (TICANALYSE),mHealth Africa,community,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire
 CMR,DHIS2,DHIS2,other,DHIS2,,,2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon
+CMR,DHIS2,Cameroun,hmis,DHIS2,Ministere de la Sante Publique,"facilities, districts, regions, national",2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022
+CMR,EWARS,Cameroun,other,EWARS,Ministere de la Sante Publique,districts,2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022
 COD,DHIS2 Tracker (Ebola configuration),DRC,other,DHIS2,Ministry of Health with HISP DRC,provincial response teams,2026-06-02-dhis2-africa-cdc-ebola-outbreak-response-toolkit
 COD,national DHIS2 system,DRC,hmis,DHIS2,,"health facilities, health zones, province",2026-04-22-dhis2-community-surveillance-mpox-sud-kivu
 COD,Mpox surveillance mobile/web app connected to DHIS2,"South Kivu, DRC",other,"Flutter/Vue.js, ODK, DHIS2 REST API",Provincial Health Division Sud-Kivu,3 health zones,2026-04-22-dhis2-community-surveillance-mpox-sud-kivu
 COD,DHIS2 (national HMIS),DRC,hmis,DHIS2,Ministry of Health,"zonal, provincial, national",2025-12-22-dhis2-drc-ebola-response-2025
 COD,DHIS2 EVD Tracker,DRC,other,DHIS2 Tracker,Ministry of Health with HISP DRC and RTI,national,2025-12-22-dhis2-drc-ebola-response-2025
 COD,eIDSR on national DHIS2 platform,DRC,hmis,DHIS2,"Ministry of Public Health, DSNIS and Directorate of Disease Surveillance","health centre, health zone, province",2024-07-01-rti-real-time-disease-surveillance-drc
+COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
+COG,DHIS-2,Congo,hmis,DHIS2,Ministère de la Santé et de la Population,52 health districts to central,2022-08-12-cog-santetropicale-formation-cadres-dhis2
 COM,DHIS2,Comoros national HMIS,hmis,DHIS2,Ministry of Health,national,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2 Climate & Health instance,Comoros,other,DHIS2,Ministry of Health,testing instance,2026-07-01-dhis2-comores-climate-health-country-profile
 COM,DHIS2,Comoros national DHIS2 platform,hmis,DHIS2,Ministry of Health,facility,2025-10-31-dhis2-comores-supply-chain-management-open-msupply
@@ -91,6 +100,8 @@ LBR,HMIS/DHIS2 at its national health data warehouse,Liberia,hmis,DHIS2,Ministry
 LBR,eIDSR/IDSR,Liberia,other,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
 LBR,mSupply,Liberia,other,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
 LBR,DHIS2,DHIS2,other,DHIS2,Ministry of Health,,2025-09-04-lbr-thenews-africa-cdc-hie-maturity-assessment
+LBR,DHIS2-based health management information system (NHMIS),Liberia,hmis,DHIS2,Ministry of Health,"facility, county, national",2026-04-03-lbr-mdpi-digital-vaccination-registry-dhis2
+LBR,DHIS2-based Digital Vaccination Registry (Electronic Immunization Registry),Liberia,other,DHIS2,Ministry of Health,19 pilot facilities in three counties,2026-04-03-lbr-mdpi-digital-vaccination-registry-dhis2
 LBY,DHIS2,Libya,hmis,DHIS2,Ministry of Health,national and regional,2025-11-07-libya-who-national-digital-health-system
 LBY,Health Number System,Libya,other,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 LSO,LOMSHA,Lesotho,other,,Ministry of Finance and Development Planning PMU / NAC,,2026-08-16-selibeng-consultant-strengthen-nac-capacity-coordinate-national
@@ -210,6 +221,7 @@ UGA,eIDSR,Uganda,other,,Ministry of Health,,2026-04-01-mak-transitions-digital-h
 UGA,DHIS2,MoH District Health Information Software,hmis,DHIS2,"Ministry of Health, Division of Health Information",national,2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october
 UGA,eCHIS,electronic Community Health Information System,other,,"Ministry of Health, Community Health Department","community, six-district pilot",2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october
 UGA,NIRA CRVS system,NIRA civil registration platform,other,,NIRA,national,2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october
+ZAF,DHIS,South Africa,hmis,DHIS,National Department of Health,,2011-07-01-zaf-ndoh-dhmis-policy
 ZMB,DHIS2,Zambia,hmis,DHIS2,Ministry of Health,"facility, district, province, national",2025-01-01-zmb-zambia-analysis-of-reproductive-maternal-newborn-child-and-adolescent
 ZMB,DHIS2-based health management information system,Zambia,hmis,DHIS2,Ministry of Health,national,2025-04-01-zambia-digital-health-case-study
 ZMB,SmartCare / SmartCare Pro,Zambia,other,,Ministry of Health,877 health facilities,2025-04-01-zambia-digital-health-case-study

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-27-cog-worldbank-lisungi-refugee-women-cash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank says the single social registry built under Lisungi currently holds information on 852,149 households and remains a tool for coordinating social programmes.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "single social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "single social registry",
+   "country_label": "Congo",
+   "class": "social",
+   "platform": "",
+   "owner": "Government of Congo (National Safety Net Program)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

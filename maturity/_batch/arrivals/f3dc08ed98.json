@@ -1,0 +1,115 @@
+{
+ "slug": "2025-11-26-syc-judiciary-e-service-platform-launch",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "The Seychelles Judiciary launched its e-Service Platform, phase one, letting legal practitioners file written submissions and upload documents online, with card payment and digital receipts; built by vendor Switch.",
+       "as_of": "2025-11-26",
+       "date_precision": "day",
+       "system": "Judiciary e-Service Platform",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Judiciary e-Service Platform",
+       "country_label": "Judiciary e-Service Platform",
+       "class": "justice",
+       "platform": "Switch (vendor-built)",
+       "owner": "Judiciary of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

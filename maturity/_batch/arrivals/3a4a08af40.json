@@ -1,0 +1,72 @@
+{
+ "slug": "2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "President Chakwera launched the Malawi Business Registration System (MBRS) on 29 February 2024, which he said will streamline business registration; online registration is not stated.",
+       "as_of": "2024-02-29",
+       "date_precision": "day",
+       "system": "Malawi Business Registration System (MBRS)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi Business Registration System (MBRS)",
+       "country_label": "Malawi",
+       "class": "business",
+       "platform": "",
+       "owner": "Government of Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no citizen-facing online service."
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "President Chakwera launched the Land Information Management System (LIMS) on 29 February 2024; the article does not say transactions are processed in it.",
+       "as_of": "2024-02-29",
+       "date_precision": "day",
+       "system": "Land Information Management System (LIMS)",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land Information Management System (LIMS)",
+       "country_label": "Malawi",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Government of Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

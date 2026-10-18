@@ -1,0 +1,83 @@
+{
+ "slug": "2025-05-23-tun-mdeaf-transition-numerique-registre-foncier",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Minister of State Domains says the national land office (ONPF) has finished installing its comprehensive IT system for its services and rolled it out to all its regional offices.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "ONPF comprehensive IT system",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONPF IT system and cpf.gov.tn site",
+       "country_label": "Tunisia",
+       "class": "land",
+       "platform": "cpf.gov.tn",
+       "owner": "Office National de la Propriété Foncière",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Minister of State Domains says the ONPF has finished installing its comprehensive IT system and extended it to all its regional offices.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "ONPF comprehensive IT system",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "national",
+       "value": "nationwide",
+       "fact": "The Minister says the ONPF's IT system has been generalised to all its regional administrations.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "ONPF comprehensive IT system",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "The Minister says ONPF publicity services are now delivered online, including certificates of ownership, co-ownership, non-ownership and registration, via the updated cpf.gov.tn site.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "cpf.gov.tn",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONPF IT system and cpf.gov.tn site",
+       "country_label": "Tunisia",
+       "class": "land",
+       "platform": "cpf.gov.tn",
+       "owner": "Office National de la Propriété Foncière",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

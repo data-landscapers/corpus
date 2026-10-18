@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-12-nam-namra-communique-wagon-vol18",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "NamRA says domestic taxes are paid by electronic fund transfer to its Bank of Namibia accounts after liabilities are confirmed on the ITAS portal, and customs payments can also be made by EFT, alongside cash and card at its offices.",
+       "as_of": "2025-05-12",
+       "date_precision": "day",
+       "system": "ITAS / EFT payments",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Namibia",
+       "class": "revenue",
+       "platform": "",
+       "owner": "NamRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-13-ken-undp-validates-training-blueprint-public-service",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNDP Kenya says a digital and AI skilling programme for public servants, led by the Government of Kenya with UNDP and Microsoft and implemented by the Kenya School of Government, was first launched in December 2024 and its four-level curriculum was validated at a workshop on 30 July 2025.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Africa Centre of Competence for Digital and AI Skilling",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Centre of Competence for Digital and AI Skilling",
+   "country_label": "Kenya",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Kenya School of Government",
+   "tiers": "Foundations, Application, Management, Leadership"
+  }
+ ],
+ "note": ""
+}

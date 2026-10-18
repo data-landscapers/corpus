@@ -1,0 +1,44 @@
+{
+ "slug": "2022-07-06-gha-authorea-nwcsaf-high-impact-weather-forecasting",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The preprint says the Ghana Meteorological Agency's existing dish receives EUMETSAT MSG data for NWCSAF processing with 15-minute latency, and that Ghana was first of the African SWIFT partners to operationalise NWCSAF for in-country nowcasting.",
+       "as_of": "2022-07-06",
+       "date_precision": "day",
+       "system": "NWCSAF",
+       "class": "metsat"
+      },
+      {
+       "sub_indicator": "metsat",
+       "aspect": "warnings",
+       "value": "issued",
+       "fact": "The authors say that after NWCSAF and impact-based forecasting were introduced GMet intensified dissemination of regular nowcasts and impact-based forecasts to major stakeholders for early warning, while integrating KNUST and GMet NWCSAF resources was still underway.",
+       "as_of": "2022-07-06",
+       "date_precision": "day",
+       "system": "NWCSAF",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NWCSAF",
+       "country_label": "Ghana",
+       "class": "metsat",
+       "platform": "EUMETSAT MSG via Atlantic Bird 2, Tellicast",
+       "owner": "GMet and KNUST",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

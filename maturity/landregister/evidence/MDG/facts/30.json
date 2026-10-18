@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-05-mdg-newsmada-propfr-giz-politique-fonciere",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Newsmada reports ProPFR digitised land data in the Analamanga region and piloted an interconnected land information system linking topographic circumscriptions and land offices.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Système d'information foncière interconnecté",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système d'information foncière interconnecté (pilot)",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "ProPFR (GIZ)",
+   "tiers": "topographic circumscriptions, land offices"
+  }
+ ],
+ "note": ""
+}

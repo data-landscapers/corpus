@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-gab-agp-cgi-agents-communication-ia",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "On 7 September 2026 the Centre Gabonais de l'Innovation ran an introductory AI-tools session for over forty agents of the Ministry of Communication and Media, ahead of the RCAPE programme planning to train 500 state agents by December 2026.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "RCAPE (Centre Gabonais de l'Innovation)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RCAPE",
+   "country_label": "Gabon",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Centre Gabonais de l'Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

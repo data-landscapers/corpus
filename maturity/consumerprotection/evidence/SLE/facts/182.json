@@ -1,0 +1,27 @@
+{
+ "slug": "2021-03-12-sle-uncdf-bsl-consumer-protection-journey",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "UNCDF says the Bank of Sierra Leone decided in February 2020 on standalone financial consumer protection guidelines for all regulated institutions, drafted and reviewed with UNCDF from April to June 2020, with public consultation still to come.",
+   "as_of": "2021-03-12",
+   "date_precision": "day",
+   "system": "Financial consumer protection guidelines",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "UNCDF says Bank of Sierra Leone mobile money service providers are subject to certain disclosure and transparency requirements, and consumer protection elements are in its mobile money and agent guidelines.",
+   "as_of": "2021-03-12",
+   "date_precision": "day",
+   "system": "Mobile money guidelines",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

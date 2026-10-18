@@ -1,0 +1,25 @@
+{
+ "slug": "2017-09-12-ago-bna-aviso-7-17-servicos-pagamentos",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "BNA Aviso 7/17 sets transparency, information and contract rules for payment service users and requires providers to follow financial consumer protection rules, in force 30 days after publication.",
+       "as_of": "2017-09-12",
+       "date_precision": "day",
+       "system": "Aviso n.º 7/17",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

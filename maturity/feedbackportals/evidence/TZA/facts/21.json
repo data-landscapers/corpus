@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-05-tza-ega-e-mrejesho-un-public-service-award",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The e-Government Authority says the e-Mrejesho system is available by USSD, mobile app and website for citizens to send feedback, complaints or compliments to government institutions.",
+   "as_of": "2024-07-05",
+   "date_precision": "day",
+   "system": "e-Mrejesho",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The e-Government Authority says e-Mrejesho lets citizens reach all government institutions, transfers a misdirected complaint between institutions and allows appeal to a higher level.",
+   "as_of": "2024-07-05",
+   "date_precision": "day",
+   "system": "e-Mrejesho",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Mrejesho",
+   "country_label": "e-Mrejesho",
+   "class": "feedback",
+   "platform": "USSD *152*00#, mobile app, web",
+   "owner": "e-Government Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

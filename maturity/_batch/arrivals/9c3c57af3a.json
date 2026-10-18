@@ -1,0 +1,23 @@
+{
+ "slug": "2021-04-19-caf-wfp-analyse-satellitaire-surfaces-cultivees",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "WFP satellite analysis of cropped areas",
+       "country_label": "Central African Republic",
+       "class": "other",
+       "platform": "high-resolution satellite imagery",
+       "owner": "World Food Programme",
+       "tiers": ""
+      }
+     ],
+     "note": "WFP's own satellite analysis of cropped area in 7 sub-prefectures; no government or national service is stated."
+    }
+   }
+  }
+ }
+}

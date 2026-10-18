@@ -1,0 +1,25 @@
+{
+ "slug": "2026-07-30-mwi-sars-mra-automatic-exchange-customs-info",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "The SARS-MRA arrangement, applicable on signature on 30 July 2026, provides for automatic exchange of customs declaration and transit data between the two authorities' automated customs systems, using a unique consignment reference.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "Arrangement for the Automatic Exchange of Customs Information",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

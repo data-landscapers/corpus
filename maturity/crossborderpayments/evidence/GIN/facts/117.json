@@ -1,0 +1,26 @@
+{
+ "slug": "2022-12-12-gin-guineematin-orange-money-transfert-international",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Guineematin reports Orange Finances Mobiles Guinée launched on 12 December 2022 outbound international transfers from Orange Money accounts to Mali, Senegal, Côte d'Ivoire, Liberia, Sierra Leone and Ghana, in partnership with BNB Transfert Corp, which holds a BCRG transfer licence.",
+   "as_of": "2022-12-12",
+   "date_precision": "day",
+   "system": "Orange Money international transfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Orange Money",
+   "class": "crossborder",
+   "platform": "USSD *144# and app",
+   "owner": "Orange Finances Mobiles Guinée",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

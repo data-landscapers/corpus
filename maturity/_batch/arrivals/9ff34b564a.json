@@ -1,0 +1,54 @@
+{
+ "slug": "2025-02-17-gin-apip-guichet-unique-creation-entreprise",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "APIP says its one-stop shop for business creation delivers the RCCM trade-register number in 72 hours and registers company deeds and trade names.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "Guichet unique de la création d'entreprise (APIP)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet unique de la création d'entreprise",
+       "country_label": "Guinée",
+       "class": "business",
+       "platform": "",
+       "owner": "APIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "APIP says its one-stop shop issues the NIF tax number together with the RCCM at business creation, within 72 hours.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "NIF issued at APIP one-stop shop",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

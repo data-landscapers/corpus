@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-13-nga-punch-customs-deploy-ai-revenue",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Nigeria Customs Service Comptroller-General Adewale Adeniyi says it has deployed AI-enabled scanners that guide image analysts to predict the nature of imported items.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "AI-enabled scanning systems",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

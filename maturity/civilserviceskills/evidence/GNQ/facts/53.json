@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-16-gnq-realeg-cniapge-forma-funcionarios-gex",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "CNIAPGE began on 15 July 2025 a 10-day training for more than 50 Primatura officials on the GEX case-file platform, to be extended to ministerial departments.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "CNIAPGE GEX training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

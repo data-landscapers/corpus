@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mdg-liam-malagasy-large-language-model-project",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "LIAM, the Madagascar AI laboratory, states its project is to develop a Malagasy-language large language model to be accessible through an API.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Grand modèle de langage en langue malgache",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

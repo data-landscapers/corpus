@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "GRA Deputy Commissioner Elsie Appau-Klu says the Ghana Revenue Authority is using AI and machine learning to identify anomalies in tax filings, expose suspicious trade activities and trigger targeted audits.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "GRA AI and machine learning tax analytics",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GRA AI and machine learning analytics",
+   "country_label": "Ghana",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

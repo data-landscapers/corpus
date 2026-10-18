@@ -1,6 +1,6 @@
 # Consumer protection: consumer protection
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 5 |
-| 3 Established | 9 |
-| 2 Nascent | 1 |
-| 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 36 |
+| 5 Leading | 3 |
+| 4 Operating | 7 |
+| 3 Established | 15 |
+| 2 Nascent | 3 |
+| 1 Absent | 1 |
+| Unplaced | 10 |
+| No evidence | 15 |
 
 ## Countries
+
+### Eswatini: 5 Leading
+
+Enforcement of consumer protection in digital finance was reported in 2024.
+
+- The World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before ([source, 2024-10](https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf)).
 
 ### Nigeria: 5 Leading
 
@@ -49,6 +55,12 @@ A body took complaints about digital financial services in 2025; enforcement is 
 
 - A client who feels wronged may complain to the Commission bancaire and obtain mediation through the OQSF, the observatory created by decree 2020-291 and made operational in October 2024, per Fraternite ([source, 2025-07](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/)).
 
+### Cote d'Ivoire: 4 Operating
+
+A body took complaints about digital financial services in 2025; enforcement is not reported.
+
+- The OQSF-CI executive secretary says consumers can bring complaints on financial services to the Observatoire through a green line, an email address and a website, and that financial mediation is part of its consumer-protection mission ([source, 2025-07-03](https://infocentrale.net/2025/07/05/entretien-zoom-sur-les-plateformes-digitales-pour-saisir-loqsf-en-cote-divoire/)).
+
 ### Rwanda: 4 Operating
 
 A body took complaints about digital financial services in 2026; enforcement is not reported.
@@ -60,6 +72,12 @@ A body took complaints about digital financial services in 2026; enforcement is 
 A body took complaints about digital financial services in 2025; enforcement is not reported.
 
 - The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
+
+### Seychelles: 4 Operating
+
+A body took complaints about digital financial services in 2025; enforcement is not reported.
+
+- The regulations give every financial consumer the right to complain to the Competent Authority (the Central Bank of Seychelles or the Financial Services Authority) against a provider's decision, which must investigate and determine within 30 business days; providers must run their own complaint units and answer within 21 business days ([source, 2025-01-01](https://www.gazette.sc/sites/default/files/2025-01/SI%20110%202024%20-%20Financial%20Consumer%20Protection%20%28Complaint%20Handling%29%20Regulations%202024.pdf)).
 
 ### Tanzania: 4 Operating
 
@@ -79,17 +97,35 @@ Consumer-protection rules for digital finance were in force in 2026; a complaint
 
 - The Bank of Botswana says the Electronic Payment Services (Amendment) Regulations, 2026, in effect since 2 April 2026, include market conduct obligations and provisions on dormant and unclaimed funds to enhance consumer protection ([source, 2026-04-02](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf)).
 
+### Burkina Faso: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
+
+- The report says BCEAO Instruction n°001-01-2024 on payment services in the UEMOA requires electronic money issuers to operate complaint-handling systems for clients and merchants, with set resolution deadlines and tracking ([source, 2024](https://www.finances.gov.bf/fileadmin/user_upload/storage/Etude_diagnostique_mecanismes_de_recours_interne_des_PSF_Rapport_Final.pdf)).
+
 ### Chad: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
 
 - To keep its licence Moov Money Tchad must ring-fence client funds, meet solvency norms and run regular cybersecurity audits, per the article on the CEMAC payment-institution rules ([source, 2026-07-29](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/)).
 
+### Egypt: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
+
+- The Central Bank of Egypt's instructions of 7 May 2024 set minimum requirements for complaint handling by banks, covering complaints about banks, outsourcing providers, payment service providers and agents contracted by the bank ([source, 2024-05-07](https://www.cbe.org.eg/ar/laws-regulations/regulations/regulations-book/book-14/chapter-2)).
+
 ### Ethiopia: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
 
 - The National Bank of Ethiopia states that financial institutions are required to inform customers about fraud risks and their responsibilities in safeguarding financial instruments under Articles 5.1.7 and 5.2.8 of Financial Consumer Protection Directive No. FCP/01/2020, and instructs banks, payment instrument issuers and microfinance institutions to run a fraud awareness campaign ([source, 2026-03-25](https://nbe.gov.et/announcements/)).
+
+### Gambia: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2023; a complaints body is not known.
+
+- The Gambia Competition and Consumer Protection Commission's study says the Regulation for the Provision of Retail Payment Service 2023 requires payment service providers to give a clear description of services, rates, terms, conditions and charges, and repealed the 2011 mobile money regulation ([source, 2023](https://gcc.gm/wp-content/uploads/2025/03/DRAFT-Digital-Market-Study-Report-final-FOR-VALIDATION1.pdf)).
 
 ### Ghana: 3 Established
 
@@ -110,6 +146,12 @@ Consumer-protection rules for digital finance were in force in 2026; a complaint
 
 - E-money institutions are legally required to run a 24/7 customer service handling complaints on loss, theft, fraud and unauthorised transactions, with oral complaints confirmed in writing within five working days, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
+### Malawi: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
+
+- The Reserve Bank of Malawi issued a directive setting complaint-handling procedures for banks and other financial service providers, with resolution within 2 to 30 days, no fees to customers and penalties up to K50 million per institution and K10 million per board or management member ([source, 2024-11-20](https://times.mw/reserve-bank-of-malawi-tightens-grip-on-financial-sector/)).
+
 ### Mozambique: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
@@ -122,11 +164,30 @@ Consumer-protection rules for digital finance were in force in 2026; a complaint
 
 - The Bank of Namibia's PSD-1 determination, effective 6 January 2026, carries user protection requirements for payment service providers (paragraphs 10.4 and 16 in its arrangement of paragraphs) ([source, 2026-01-06](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/31/313b4ab5-b138-45d3-b526-28959686db96.pdf)).
 
+### South Sudan: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
+
+- Radio Yei reports that consumer protection rules have taken effect in South Sudan under the amended Electronic Money Regulation, covering banks and non-bank e-money issuers, including availability, user notice of disruptions and record keeping ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
+- The Bank of South Sudan issued a notice covering consumer protection for banks, microfinance institutions and digital financial service providers, requiring clear fee and loan disclosure, complaint contacts and no harassment or fraudulent deductions ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
+
 ### Tunisia: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
 
 - Central Bank of Tunisia Circular No. 2024-2 of 29 January 2024 governs the information given to clients about the marketing and pricing of financial products and services, including remote operations ([source, 2024-01-29](https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/)).
+
+### Zambia: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
+
+- The Bank of Zambia issued directives on 14 September 2024 prohibiting unwarranted electronic money charges (wallet deposits, merchant and bill payments, failed transactions, balance inquiries, statements), with fines up to K200,000 or up to two years' imprisonment for violating Electronic Money Institutions, Zambia Monitor reports ([source, 2024-09-14](https://www.zambiamonitor.com/bank-of-zambia-cracks-down-on-unwarranted-charges-for-electronic-money-services/)).
+
+### Gabon: 2 Nascent
+
+Consumer-protection rules for digital finance were being drafted in 2023; none in force is on record.
+
+- UNCDF's November 2023 diagnostic says a new regulation on digital financial consumer protection, revising the one in force in Gabon since 2011, is expected, and that CEMAC mediation regulations are nearly finalised in most member countries but still need approval in each ([source, 2023-11](https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2023-diagnostic-gabon-finalpdf&id=20054)).
 
 ### Somalia: 2 Nascent
 
@@ -134,31 +195,79 @@ Consumer-protection rules for digital finance were being drafted in 2025; none i
 
 - The National Payment System Bill, passed by the House of the People, is stated to ensure consumer protection; it awaits the Senate ([source, 2025-11-08](https://golekaab.so/en/bill/15)).
 
-### Seychelles: Unplaced
+### South Africa: 2 Nascent
+
+Consumer-protection rules for digital finance were being drafted in 2025; none in force is on record.
+
+- The FSCA's 2025 Regulation Plan says that, with the SARB National Payment System Department's draft Directive X of 2025 (14 March 2025) proposing a payment-provider authorisation framework, the FSCA will in the coming year develop a draft Conduct Standard applicable to payment services activities, timed with the NPSD ([source, 2025](https://www2.fsca.co.za/Regulatory%20Frameworks/Regulatory%20Frameworks%20Documents/2025%20FSCA%203-year%20Regulation%20Plan.pdf)).
+
+### Niger: 1 Absent
+
+A 2024 source says no consumer-protection rules apply to digital financial services.
+
+- UNCDF states Niger's consumer protection texts need updating because they do not cover digital finance, and that practically no legal recourse exists for consumers of digital financial services ([source, 2024-01-08](https://www.uncdf.org/fr/article/8603/vers-une-meilleure-protection-des-consommateurs-au-niger)).
+
+### Angola: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Burundi: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Congo: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Guinea: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Liberia: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Libya: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Morocco: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Sao Tome and Principe: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Sierra Leone: Unplaced
+
+Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Uganda: Unplaced
 
 Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
 
 ### Algeria: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Angola: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Burkina Faso: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Burundi: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
 
@@ -188,18 +297,6 @@ Nothing held names consumer-protection rules for digital finance or says there i
 
 Not established: Nothing held says whether consumer-protection rules apply to digital finance.
 
-### Congo: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Cote d'Ivoire: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
 ### DR Congo: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
@@ -207,12 +304,6 @@ Nothing held names consumer-protection rules for digital finance or says there i
 Not established: Nothing held says whether consumer-protection rules apply to digital finance.
 
 ### Djibouti: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Egypt: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
 
@@ -230,30 +321,6 @@ Nothing held names consumer-protection rules for digital finance or says there i
 
 Not established: Nothing held says whether consumer-protection rules apply to digital finance.
 
-### Eswatini: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Gabon: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Gambia: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Guinea: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
 ### Guinea-Bissau: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
@@ -261,24 +328,6 @@ Nothing held names consumer-protection rules for digital finance or says there i
 Not established: Nothing held says whether consumer-protection rules apply to digital finance.
 
 ### Lesotho: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Liberia: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Libya: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Malawi: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
 
@@ -302,55 +351,7 @@ Nothing held names consumer-protection rules for digital finance or says there i
 
 Not established: Nothing held says whether consumer-protection rules apply to digital finance.
 
-### Morocco: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Niger: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Sierra Leone: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### South Africa: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### South Sudan: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
 ### Togo: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Uganda: No evidence
-
-Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing held says whether consumer-protection rules apply to digital finance.
-
-### Zambia: No evidence
 
 Nothing held names consumer-protection rules for digital finance or says there is none, so no stage is set.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-17-mar-aljarida24-hcp-census-internet-use-by-sex",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "HCP reported from the 2024 census that 70.2% of urban and 40.4% of rural residents aged 15 and over used the internet in the three months before the census.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "RGPH 2024",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

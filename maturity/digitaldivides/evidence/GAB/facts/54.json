@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-27-gab-legabonais-doumba-100-jours-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Marc Alexandre Doumba said the government intends to accelerate deployment of the universal service to open up rural zones and improve connectivity in the interior.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "service universel",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

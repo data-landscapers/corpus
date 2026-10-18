@@ -1,0 +1,54 @@
+{
+ "slug": "2024-09-22-dza-algerieaujourdhui-alces-168000-declarations",
+ "studies": {
+  "customs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Algeria's customs director general says the new customs information system ALCES, in service since November 2023 at land, sea and air border customs offices, had recorded 168,000 detailed declarations by September 2024, 70% of filings, the rest on the old SIGAD system.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "ALCES",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ALCES",
+       "country_label": "Algeria",
+       "class": "customs",
+       "platform": "",
+       "owner": "Algerian customs",
+       "tiers": ""
+      }
+     ],
+     "note": "Interconnection with ministries under the single window is in trials, not in service."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "Algeria's customs director general says a digital platform linking the customs system to the information systems of ministries issuing licences and certificates is being built, with trials in July 2024 on documents of the commerce, agriculture and industry ministries and other administrations to follow in the first half of 2025.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "customs interconnection platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

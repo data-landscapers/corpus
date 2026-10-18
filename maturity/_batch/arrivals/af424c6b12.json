@@ -1,0 +1,173 @@
+{
+ "slug": "2025-09-01-egy-comcec-mcit-decent-life-rural-accessibility",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MCIT says participants in its Decent Life digital-skills workshops included government officials, among other groups.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Digital Knowledge and Competencies",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "MCIT's Decent Life phase one reports 1,180,723 buildings covered by fibre, 1,409 new cell sites built and 576 upgraded, and mobile coverage completed in 901 of 1,164 villages.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Decent Life Project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Decent Life Project",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "MCIT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "MCIT's Decent Life digital knowledge and competencies programme has improved the digital skills of 164,840 citizens of a 218,155 target (85.80%).",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Digital Knowledge and Competencies",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Decent Life Project",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "MCIT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Egypt."
+    }
+   }
+  }
+ }
+}

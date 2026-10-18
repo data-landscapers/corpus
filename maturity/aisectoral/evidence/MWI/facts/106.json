@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-mwi-crews-ai-ew4all-pilot-note",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The CREWS Action presentation note describes a USD 250,000 pilot, May to October 2025, to deploy and test MET Norway's Bris AI weather prediction system in the forecasting workflow of Malawi's Department of Climate Change and Meteorological Services.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Bris AI-WP / forecast-in-a-box",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bris AI weather prediction model (forecast-in-a-box)",
+   "country_label": "Malawi",
+   "class": "sectorai",
+   "platform": "forecast-in-a-box at DCCMS",
+   "owner": "MET Norway with DCCMS, implemented via WMO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

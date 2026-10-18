@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "no evidence",
-   "register": "",
-   "shared": "",
-   "nationalid": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how taxpayers are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "unplaced",
+      "register": "",
+      "shared": "",
+      "nationalid": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether taxpayers are registered on computer.",
+      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

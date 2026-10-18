@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-12-tun-lapresse-sinda-2-operationnel-2026",
+ "studies": {
+  "customs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Customs spokesman Chokri Jarraya said on 12 November 2025 that the SINDA 2 customs system will be ready in 2026, with the first applications entering service at the end of 2025.",
+       "as_of": "2025-11-12",
+       "date_precision": "day",
+       "system": "SINDA 2",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SINDA 2",
+       "country_label": "Tunisia",
+       "class": "customs",
+       "platform": "",
+       "owner": "Tunisian Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated by the document for this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-03-cpv-imij-sniac-projeto-operacional",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "IMIJ's project page says the SNIAC national system is operational and provides digital authentication and certification services alongside issuing the national ID card and e-passport.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC",
+   "country_label": "Sistema Nacional de Identificação e Autenticação Civil",
+   "class": "authentication",
+   "platform": "",
+   "owner": "IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

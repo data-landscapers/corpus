@@ -1,0 +1,60 @@
+{
+ "slug": "2025-01-01-rwa-rra-tax-handbook-2025",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Rwanda Revenue Authority's 2025 Tax Handbook says taxpayers declare taxes online or by phone using E-Tax, M-Declaration and the Local Government Taxes (LGT) system, and that E-Tax was introduced in 2012.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The Rwanda Revenue Authority's 2025 Tax Handbook says that after declaring, taxes are paid using E-Payment, Online Banking, MTN Mobile Money and Mobicash.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "E-Payment",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Rwanda",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "M-Declaration",
+   "country_label": "Rwanda",
+   "class": "taxsystem",
+   "platform": "mobile",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Local Government Taxes (LGT) system",
+   "country_label": "Rwanda",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Invoicing System (EIS) / EBM",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement that online filing is mandatory or the share of returns filed online."
+}

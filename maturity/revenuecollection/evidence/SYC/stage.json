@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "no evidence",
-   "payment": "",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how taxes and fees are paid.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

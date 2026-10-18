@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-tcd-wearetech-adetic-2ie-former-cadres-numerique",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Chad's ADETIC signed a framework accord with 2iE Ouagadougou to train Chadian public cadres in artificial intelligence and emerging technologies, as We are Tech Africa reports.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "ADETIC-2iE framework accord",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ADETIC-2iE framework accord",
+   "country_label": "ADETIC-2iE framework accord",
+   "class": "csskills",
+   "platform": "",
+   "owner": "ADETIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

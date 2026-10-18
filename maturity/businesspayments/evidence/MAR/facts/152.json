@@ -1,0 +1,36 @@
+{
+ "slug": "2023-05-15-mar-worldbank-blog-dematerialisation-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A World Bank blog says Morocco launched in 2007 a portal for electronic tenders, bid submission and reverse auctions, and from 2020 to 2022 required all bidders to use the public procurement portal.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "public procurement portal",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "A World Bank blog says the share of bids submitted electronically in Morocco rose from 15% in December 2019 to 68% in June 2022.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "public procurement portal",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "public procurement portal",
+   "country_label": "Morocco",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Trésorerie Générale du Royaume",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

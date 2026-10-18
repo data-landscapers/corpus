@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-gmb-localenlp-sovereign-nlp-pilot",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "LocaleNLP says it has executive authorization from The Gambia's Minister of Communications for a pilot of Wolof and Mandinka speech and translation tools, aimed at integration into the National e-Government iPortal so citizens can use services by voice (vendor's claim only).",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "LocaleNLP voice pilot for the National e-Government iPortal",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LocaleNLP Wolof/Mandinka voice pilot",
+   "country_label": "The Gambia",
+   "class": "govai",
+   "platform": "National e-Government iPortal",
+   "owner": "LocaleNLP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

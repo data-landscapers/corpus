@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,EUMETCast (MSG/MTG),Rwanda,metsat,EUMETCast,METEO Rwanda,,2026-07-13-rwa-undp-ai-ml-weather-feasibility-study
+RWA,EUMETSAT ground-based satellite receiver,Rwanda,metsat,EUMETSAT,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
+RWA,PUMA system (ECMWF products),Rwanda,other,PUMA,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics

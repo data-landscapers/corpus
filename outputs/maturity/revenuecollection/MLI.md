@@ -8,6 +8,6 @@
 
 **Share reported.** [The ministry reported nearly FCFA 200 million collected for local authorities through digital payment between July 2024 and May 2026](<https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/>). [The DGI director-general says electronic receipts reached 300 billion FCFA in 2024, 30% of receipts against 2% in 2022 and up 34% on 2023](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
 
-***Noted, not assessed***. [Sigtas](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
+***Noted, not assessed***. [Sigtas](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>); [SIF/GUF](<https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/>).
 
 ***Not held***. Nothing further is asked of this indicator.

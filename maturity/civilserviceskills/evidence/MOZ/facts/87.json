@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-13-moz-oeconomico-digitalizacao-7033-funcionarios-formados",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The article says 7,033 public servants (3,746 women, 3,287 men) have been trained in digital skills under the Public Administration Reform and Modernisation Programme.",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Programa de Reforma e Modernizacao da Administracao Publica",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

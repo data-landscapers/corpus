@@ -1,0 +1,34 @@
+{
+ "slug": "2020-08-01-cpv-cnps-rsi-emergencial-3600-beneficiarios",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Government says the emergency RSI expansion covers all extremely poor households with children registered in the Cadastro Social Único (6,388 beneficiaries in all), and from August 2020 RSI payments are run through a digital management app with payment approval direct with the Ministry of Finance.",
+   "as_of": "2020-08",
+   "date_precision": "month",
+   "system": "Rendimento Social de Inclusão Emergencial",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rendimento Social de Inclusão (RSI)",
+   "country_label": "Cabo Verde",
+   "class": "g2p",
+   "platform": "RSI management app",
+   "owner": "Centro Nacional de Prestações Sociais",
+   "tiers": ""
+  },
+  {
+   "system": "Cadastro Social Único",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

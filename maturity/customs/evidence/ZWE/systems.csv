@@ -1,3 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZWE,COMESA Electronic Single Window System,Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
 ZWE,COMESA Electronic Certificate of Origin (e-CO),Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
+ZWE,Zimbabwe Electronic Single Window,Zimbabwe,customs,,ZIMRA,,2023-01-01-zwe-zimra-electronic-single-window-system
+ZWE,Zimbabwe Electronic Single Window,Zimbabwe,customs,ASYCUDA,ZIMRA,,2022-06-10-zwe-asycuda-electronic-single-window-live
+ZWE,ASYCUDA World,ASYCUDA World,customs,ASYCUDA World,ZIMRA,,2025-07-14-zwe-newziana-gvt-modernise-customs
+ZWE,Electronic Single Window System,Electronic Single Window System,customs,,,,2025-07-14-zwe-newziana-gvt-modernise-customs
+ZWE,ASYCUDA,Zimbabwe,customs,ASYCUDA 4.4.0,ZIMRA,,2024-08-17-zwe-zimra-asycuda-upgrade-notice-62

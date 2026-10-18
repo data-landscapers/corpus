@@ -1,0 +1,17 @@
+{
+ "slug": "2019-01-01-bfa-ogp-bf0005-complaints-mechanism",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Burkina Faso's 2017-2019 OGP commitment BF0005 plans complaint-recording mechanisms in 5 ministerial departments and an online platform to collect complaints directly; the IRM review lists completion as pending.",
+   "as_of": "2019-01-01",
+   "date_precision": "day",
+   "system": "Registration and Complaints Handling Mechanism (BF0005)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-20-lso-eeas-nissa-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The EU/UNICEF-backed Ntlafatsa Bana project (2023-2026) aims to improve Child Grants Programme delivery by shifting towards digital payments and digitalising payments to beneficiaries, and the Ministry of Gender, Youth and Social Development is transitioning to digital payments.",
+   "as_of": "2024-06-20",
+   "date_precision": "day",
+   "system": "Child Grants Programme",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Child Grants Programme",
+   "country_label": "Lesotho",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

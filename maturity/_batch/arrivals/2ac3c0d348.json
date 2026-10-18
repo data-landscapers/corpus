@@ -1,0 +1,59 @@
+{
+ "slug": "2025-02-21-caf-developmentaid-pgnsp-numerisation-livre-foncier",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice procures a feasibility study for digitising land titles; no land system is procured, piloted or in service."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice procures a feasibility study for digitising the 15,000 titles; no digitisation or register is under way or in service."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "World Bank grant to the state; no private money stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on electronic payment of revenue."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Names e.Tax software only as a link target; says nothing on filing or payment."
+    }
+   }
+  }
+ }
+}

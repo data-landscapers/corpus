@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-13-zaf-pmg-nw3370-dsti-startup-support",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Minister's reply says the Regional Innovation Support Platform has regional innovation hubs providing tailored support and resources for young innovators, with no incubation cohort described.",
+   "as_of": "2025-06-13",
+   "date_precision": "day",
+   "system": "Regional Innovation Support Platform",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

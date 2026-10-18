@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-15-gnq-oficinainfo-consejo-hacienda-plan-choque-tributario",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Ministry of Finance board on 15 November 2024 took up and adopted, subject to recommendations, a draft decree providing for the 5th General Population and Housing Census, presented by INEGE's deputy director general.",
+   "as_of": "2024-11-15",
+   "date_precision": "day",
+   "system": "V Censo General de Poblacion y Viviendas",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "V Censo General de Poblacion y Viviendas",
+   "country_label": "Census 5 (planned)",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2020-08-20-bwa-dailynews-burs-tax-return-threshold-efiling",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "BURS's acting commissioner general urged individuals required to file returns to e-file on its e-services website or mobile app (MTax), with the 2020 filing season running to 30 November.",
+   "as_of": "2020-08-20",
+   "date_precision": "day",
+   "system": "BURS e-services and MTax App",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTax App",
+   "country_label": "Botswana",
+   "class": "taxsystem",
+   "platform": "mobile",
+   "owner": "Botswana Unified Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

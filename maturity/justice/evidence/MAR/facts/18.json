@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-30-mar-telquel-dossier-judiciaire-electronique",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Morocco's justice minister says an electronic judicial case file, to digitise all case files of every type and jurisdiction, is being prepared.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "dossier judiciaire électronique",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "dedicated lawyers' filing platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier judiciaire électronique",
+   "country_label": "Morocco",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

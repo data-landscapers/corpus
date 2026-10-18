@@ -1,0 +1,72 @@
+{
+ "slug": "2026-01-01-egy-itida-startup-ecosystem-report-2026",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The report says Egypt launched the National Startup Charter in February 2026, giving a formal startup definition, a certification pathway and a unified policy framework separate from SME regulation, and commits USD 1 billion in financing.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National Startup Charter",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The report lists Law No. 6/2025 as establishing a simplified startup tax regime.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Law No. 6/2025",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "The report says many startups obtained the official \"startup label\" through standard and fast-track application processes, and names Flend and Olive Finance as Egypt's first nationally certified startups.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Startup Charter startup label",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The report says Egypt Ventures, the sovereign VC vehicle, has deployed investments across 22 companies to date, and that the MSMEDA Fund of Funds co-invests alongside private VCs with capital deployment ongoing.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Egypt Ventures; MSMEDA Fund of Funds",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Startup Charter",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministerial Group for Entrepreneurship",
+   "tiers": "startup definition, certification (label), USD 1B financing"
+  },
+  {
+   "system": "Egypt Ventures",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "sovereign VC"
+  },
+  {
+   "system": "MSMEDA Fund of Funds",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "MSMEDA",
+   "tiers": "fund of funds"
+  }
+ ],
+ "note": ""
+}

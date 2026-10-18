@@ -1,0 +1,77 @@
+{
+ "slug": "2025-11-20-tgo-ecofin-togo-ai-agents-schools-government",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulation of AI is mentioned only as a needed framework, no rule or draft stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a plan to deploy an AI agent in schools; no government body use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The schools AI agent is a stated plan, not piloted or built."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "A regional AI compute cluster is only called for, no builder, funder or site named."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "A Tier III+ data centre is called operational, but the document does not say it rents to others."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule, plan or hosting of state data is stated; only a call for a data framework."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre in eleven municipalities is for schools and health centres, not municipal offices."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The Tier III+ data centre's owner and hire are not stated."
+    }
+   }
+  }
+ }
+}

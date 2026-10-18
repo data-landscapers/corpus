@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,protection,rules,coverage,inforce,2022-05-01,SYC-001,,nothing dated since 2023-10-16
-SYC,protection,redress,coverage,,,,,nothing held
+SYC,protection,rules,coverage,inforce,2025-01-01,SYC-001;SYC-002,,
+SYC,protection,redress,coverage,redress,2025-01-01,SYC-003,,
 SYC,protection,enforced,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-17-zaf-sarb-nps-regulation-page",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The South African Reserve Bank's National Payment System Department says it regulates payment systems, third-party payment providers and e-money providers, with access to the payment system by designation or authorisation under the National Payment System Act 78 of 1998 and its directives.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "National Payment System Department",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "Notice 2024 of 2022 records the SARB revoking the designation of SIRESS and designating the SADC Real Time Gross Settlement System (SADC-RTGS) as a designated settlement system.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SADC-RTGS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "SADC Real Time Gross Settlement System",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2020-03-17-bwa-dailynews-lekgetho-live-tax-system",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "A BURS official says the new Lekgetho Live system, from 1 April 2020, accepts manual schedules only for fewer than 10 payees and strictly online submission for more than 10.",
+       "as_of": "2020-04-01",
+       "date_precision": "day",
+       "system": "Lekgetho Live",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lekgetho Live",
+       "country_label": "Botswana",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Botswana Unified Revenue Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

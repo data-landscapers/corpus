@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,taxsystem,filing,coverage,inservice,2021-06-14,NER-001,,nothing dated since 2023-10-18
+NER,taxsystem,payment,coverage,electronic,2021-06-14,NER-002,,nothing dated since 2023-10-18
+NER,taxsystem,uptake,coverage,,,,,nothing held

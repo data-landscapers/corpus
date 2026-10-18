@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-31-tza-unicef-smartwasomi-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SmartWASOMI",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education, Airtel Tanzania, UNICEF",
+   "tiers": ""
+  }
+ ],
+ "note": "SmartWASOMI connects schools only, a programme for schools and not for rural areas generally; no rural and urban use figures."
+}

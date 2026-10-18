@@ -1,0 +1,99 @@
+{
+ "slug": "2026-06-01-lby-lana-audit-bureau-diwan-bot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rules or authority against AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Diwan Bot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Diwan Bot",
+       "country_label": "Diwan Bot",
+       "class": "govai",
+       "platform": "",
+       "owner": "Libyan Audit Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Diwan Bot is for audit oversight, not a listed sector's public system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The Audit Bureau head said Diwan Bot, an institutional AI model, was designed and developed entirely by young national talent in a project begun at the start of 2026; no release is stated.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Diwan Bot",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Diwan Bot",
+       "country_label": "Diwan Bot",
+       "class": "govai",
+       "platform": "",
+       "owner": "Libyan Audit Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general reference to international standards for audit institutions; no IT or data standard named."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Diwan Bot is said built by national talent, not stated to be Audit Bureau staff; Athar's builder not stated."
+    }
+   }
+  }
+ }
+}

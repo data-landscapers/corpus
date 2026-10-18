@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,g2p,payment,inservice,"Direct social aid has been paid since end December 2023, with government and central bank requiring payment only into payment or bank accounts, not cash (Médias24).",2023-12,month,aides sociales directes,g2p,2024-02-20-mar-medias24-aides-sociales-directes-etablissements-paiement,https://medias24.com/2024/02/20/aides-sociales-directes-les-premiers-retours-dexperience-du-secteur-des-etablissements-de-paiement/

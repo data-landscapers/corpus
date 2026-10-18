@@ -1,0 +1,13 @@
+{"slug": "2026-01-18-tcd-tribuneechos-mathu-gouvernance-fonciere-giraf", "studies": {
+"businessregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on business registration."}}},
+"civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on civil registration."}}},
+"electoralregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on the voters' roll."}}},
+"landadmin": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "A Land at Scale pilot with Oxfam, Kadaster International and FAO equips the cadastre directorate with tablets and GNSS receivers in two pilot zones, N'Djamena 7th arrondissement and Linia, and the data collected will feed the base of the land one-stop shop (GIRAF), the ministry (MATUH) saying it is not a land registration.", "as_of": "2026-01-18", "date_precision": "day", "system": "Guichet Unique du Foncier (GIRAF)", "class": "landmis"}
+], "systems": [{"system": "Guichet Unique du Foncier (GIRAF)", "country_label": "Tchad", "class": "landmis", "platform": "", "owner": "Ministere de l'Amenagement du Territoire, de l'Urbanisme et de l'Habitat", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"TCD": {"facts": [], "systems": [{"system": "Guichet Unique du Foncier (GIRAF)", "country_label": "Tchad", "class": "other", "platform": "", "owner": "Ministere de l'Amenagement du Territoire, de l'Urbanisme et de l'Habitat", "tiers": ""}], "note": "The document says the pilot is not a land registration; it states no digital title register or cadastre in service or being digitised."}}},
+"populationregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on a population register."}}},
+"registry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on civil registration offices."}}},
+"socialregistry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on a social registry."}}},
+"taxregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states nothing on a taxpayer register."}}}
+}}

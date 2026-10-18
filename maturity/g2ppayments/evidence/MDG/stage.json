@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "no evidence",
-   "payment": "",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how government pays people.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "2",
+      "payment": "underway",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source held since October 2023 says: does one government programme pay people digitally.",
+      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

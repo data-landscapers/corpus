@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,land,register,coverage,underway,2026-10,CIV-001,,
+CIV,land,register,coverage,inservice,2023-11-02,CIV-002,CIV-001=underway,
 CIV,land,national,coverage,,,,,nothing held
-CIV,land,online,coverage,,,,,nothing held
+CIV,land,online,coverage,online,2023-11-02,CIV-003,,

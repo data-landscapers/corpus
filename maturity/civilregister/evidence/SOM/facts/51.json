@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-24-som-nadra-crmvs-system-handed-over",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "NADRA says it handed the Civil Registration Management and Vital Statistics (CRMVS) System over to the Government of Somalia on 30 November 2024, with no rollout to offices stated.",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "Civil Registration Management and Vital Statistics (CRMVS) System",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registration Management and Vital Statistics (CRMVS) System",
+   "country_label": "CRMVS",
+   "class": "civil",
+   "platform": "NADRA-developed",
+   "owner": "Ministry of Interior, Federal Affairs & Reconciliation (MOIFAR)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

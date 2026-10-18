@@ -1,0 +1,34 @@
+{
+ "slug": "2021-07-16-gab-anpi-gni-bilan-annuel",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "ANPI-Gabon's annual report says all company creation and fee-payment procedures are dematerialised on the Guichet Numérique de l'Investissement, with 7,146 files submitted and paid from June 2020 to May 2021.",
+       "as_of": "2021-05",
+       "date_precision": "month",
+       "system": "Guichet Numérique de l'Investissement (GNI)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet Numérique de l'Investissement (GNI)",
+       "country_label": "Gabon",
+       "class": "business",
+       "platform": "Clikafrik",
+       "owner": "ANPI-Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

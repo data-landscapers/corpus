@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-12-sen-arcop-appel-premiers-resultats",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ARCOP says the APPEL e-procurement platform, launched in pilot on 14 October 2025, has had 15 procedures launched, nine with electronic opening of bids, and publishes procurement plans, tenders and bid openings online.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "APPEL",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ARCOP gives figures for APPEL: nearly 400 registered suppliers, over 80 procurement plans published for 2025 and since January 2026, and 15 procedures launched, nine with electronic opening of bids.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "APPEL",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL",
+   "country_label": "Senegal",
+   "class": "procurement",
+   "platform": "dematerialised public procurement platform with API gateway and microservices",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

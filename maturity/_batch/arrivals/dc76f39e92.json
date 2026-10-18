@@ -1,0 +1,61 @@
+{
+ "slug": "2026-01-01-gnb-cfe-sobre-nos-centro-formalizacao-empresas",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The Centro de Formalização de Empresas is described as an autonomous public one-stop shop (guiché único) under the Ministry of Economy for company creation and registration formalities, with online company registration still only planned.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Centro de Formalização de Empresas (CFE)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centro de Formalização de Empresas (CFE)",
+       "country_label": "Guiné-Bissau",
+       "class": "business",
+       "platform": "cfe.gw",
+       "owner": "Ministério da Economia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for this country."
+    }
+   }
+  }
+ }
+}

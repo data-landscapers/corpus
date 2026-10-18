@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-sle-ayvnews-nib-one-stop-digital-business-platform",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Chief Minister Sengeh said the National Investment Board's One-Stop Digital Business Service Platform, built through a joint venture, is nearly complete and expected to be operational by November 2026, cutting business registration from about 24 hours to minutes.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "One-Stop Digital Business Service Platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One-Stop Digital Business Service Platform",
+   "country_label": "Sierra Leone",
+   "class": "business",
+   "platform": "online business platform",
+   "owner": "National Investment Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

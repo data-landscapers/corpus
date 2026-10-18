@@ -1,0 +1,7 @@
+{"slug": "2026-06-01-lby-unhcr-annual-results-report-2025-libya", "studies": {"refugees": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNHCR's Annual Results Report 2025 says it had registered 108,455 refugees and asylum-seekers individually in Libya (40,699 of them new in 2025), with biometric enrolment of 41,157 people aged five and over, and issued asylum-seeker and refugee certificates.", "as_of": "2025-12", "date_precision": "month", "system": "UNHCR registration", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "registration", "value": "none", "fact": "UNHCR says Libyan authorities do not recognise its registration documents, authority registration in Alkufra was suspended between August and November 2025, and most Sudanese refugees in the east remain undocumented.", "as_of": "2025-12", "date_precision": "month", "system": "Security Registration Card", "class": "displaced"}
+], "systems": [
+{"system": "UNHCR individual registration and biometric enrolment", "country_label": "Libya", "class": "displaced", "platform": "", "owner": "UNHCR", "tiers": ""},
+{"system": "Security Registration Card", "country_label": "Libya", "class": "displaced", "platform": "", "owner": "Security Registration Committee (eastern authorities)", "tiers": ""}
+], "note": ""}}}}}

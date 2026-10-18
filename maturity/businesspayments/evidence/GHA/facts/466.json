@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-23-gha-ppa-mandatory-use-ghaneps",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Public Procurement Authority says GHANEPS, launched 30 April 2019, had been rolled out to 869 public entities in all 16 regions by September 2023.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "GHANEPS",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "The Public Procurement Authority says the grace period has ended and it is now mandatory for all public entities to use GHANEPS for their procurement activities.",
+   "as_of": "2023-11-23",
+   "date_precision": "day",
+   "system": "GHANEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GHANEPS",
+   "country_label": "Ghana Electronic Procurement System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

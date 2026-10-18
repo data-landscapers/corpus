@@ -1,0 +1,36 @@
+{
+ "slug": "2023-06-20-sle-worldbank-safety-nets-restructuring-paper",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank restructuring paper says the Safety Nets Project run by NaCSA established a management information system, the SP Registry for Integrated National Targeting, and 100,695 households received regular cash transfers.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "SP Registry for Integrated National Targeting",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The World Bank says the project established an electronic payments system, with a payment service provider delivering transfers to beneficiaries.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "Safety Nets Project electronic payments system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SP Registry for Integrated National Targeting",
+   "country_label": "Sierra Leone",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "NaCSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

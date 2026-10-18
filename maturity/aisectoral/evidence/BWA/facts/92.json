@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-23-bwa-gazette-moh-pilots-digital-health-ai",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Health Minister Stephen Modise said trial systems incorporating AI have been approved under the Ministry of Health's digital health pilot.",
+   "as_of": "2025-02-23",
+   "date_precision": "day",
+   "system": "Ministry of Health digital health pilot",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

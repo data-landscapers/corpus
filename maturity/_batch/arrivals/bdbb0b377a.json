@@ -1,0 +1,77 @@
+{
+ "slug": "2025-12-01-ner-ansi-sfn-confiance-protection-usagers",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a survey-findings workshop report; it states no rule, system, body or figure that answers this study."
+    }
+   }
+  }
+ }
+}

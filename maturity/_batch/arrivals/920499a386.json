@@ -1,0 +1,68 @@
+{
+ "slug": "2024-07-03-com-gazette-comoriens-formes-chine-transformation-numerique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in Comoros stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "A 15-day course for 20 telecoms-ministry staff held at CIFAL Shanghai is training abroad, not a government programme for civil servants."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No hosting or cloud policy stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-20-zaf-sanews-auto-assessed-filing-season",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "SARS says an AI Virtual Assistant is available 24/7 on its website to answer taxpayers' queries.",
+   "as_of": "2025-07-20",
+   "date_precision": "day",
+   "system": "SARS AI Virtual Assistant",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

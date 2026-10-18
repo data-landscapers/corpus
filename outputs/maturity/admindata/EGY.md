@@ -2,7 +2,7 @@
 
 ## Statistics from administrative data
 
-**Statistics from records published or in preparation.** No source held reports statistics from administrative records published, or work towards them, since October 2023. The nearest held fact: [The presentation states CAPMAS produces annual as well as monthly reports of births and deaths](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-egypt_crvs_transformation_journey.pdf>). Two facts are held on the country's statistics from administrative records, all given here: no news story or official notice read for this study says more, and the yearbooks and reports themselves were not read.
+**Statistics from records published or in preparation.** [The education ministry's statistical yearbook for 2024/25, drawn from its central database covering all elements of the education process, reports schools, classes, pupils, exam results and teachers](<https://emis.gov.eg/statistics/books/2024-2025/main_book2024.html>). Three facts are held on the country's statistics from administrative records, all given here: no news story or official notice read for this study says more, and the yearbooks and reports themselves were not read. None of them says whether other ministries publish statistics from their own records.
 
 **Vital statistics published.** [Egypt's presentation states CAPMAS, the national statistics office, directly updates the monthly and annual reports of births and deaths from the central civil registration database](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-egypt_crvs_transformation_journey.pdf>).
 

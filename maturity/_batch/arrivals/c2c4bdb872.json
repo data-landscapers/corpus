@@ -1,0 +1,34 @@
+{
+ "slug": "2014-12-01-egy-ema-wmo-rtc-cairo-training-book",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The Egyptian Meteorological Authority's training book lists Meteosat Second Generation (MSG) and HRPT satellite reception among the remote sensing facilities available in the Authority, and trains forecasters to use satellite images in forecasting.",
+       "as_of": "2014-12",
+       "date_precision": "month",
+       "system": "Meteosat Second Generation (MSG) and HRPT units",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MSG and HRPT units",
+       "country_label": "Egypt",
+       "class": "metsat",
+       "platform": "MSG; HRPT",
+       "owner": "Egyptian Meteorological Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "ISO 9001:2008 is stated for the WMO RTC Cairo training centre, not the forecasting service."
+    }
+   }
+  }
+ }
+}

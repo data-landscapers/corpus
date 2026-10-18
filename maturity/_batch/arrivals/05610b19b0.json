@@ -1,0 +1,8 @@
+{"slug": "2024-01-01-bwa-smartbots-eu-support-digital-transformation", "studies": {
+"civilserviceskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Names leadership training and e-learning for intergovernmental cooperation but does not say digital-skills training for civil servants."}}},
+"digitalskills": {"countries": {"BWA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "SmartBots (Government of Botswana) says the ongoing EU-funded programme, started August 2024, includes targeted programmes that enhance digital skills for women and youth entrepreneurs.", "as_of": "2024-08", "date_precision": "month", "system": "EU Support to Digital Transformation in Botswana", "class": "publicskills"}], "systems": [{"system": "EU Support to Digital Transformation in Botswana", "country_label": "Botswana", "class": "other", "platform": "SmartBots", "owner": "Expertise France with HAUS and ESTDEV, funded by the EU and the French Ministry for Europe and Foreign Affairs", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Mentions digital-by-default strategies as a support area only; no national strategy stated."}}},
+"interoperability": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Says the action supports interoperability frameworks, but no framework is stated as being drafted or adopted."}}},
+"policyresearch": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No local research institution named."}}},
+"publicconsultation": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Stakeholder engagement is mentioned with no named digital law or policy put to outside parties."}}}
+}}

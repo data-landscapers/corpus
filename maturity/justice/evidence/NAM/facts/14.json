@@ -1,0 +1,36 @@
+{
+ "slug": "2018-04-11-nam-nacm-namibia-ejustice-nomination",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The NACM nomination describes Namibia eJustice as a fully implemented end-to-end electronic filing and case management system for the Supreme Court and High Court civil stream.",
+   "as_of": "2018-04-11",
+   "date_precision": "day",
+   "system": "Namibia eJustice",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The nomination says Namibia eJustice connects the Supreme Court and High Court with legal practitioners for e-filing and commencement of case files.",
+   "as_of": "2018-04-11",
+   "date_precision": "day",
+   "system": "Namibia eJustice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Namibia eJustice",
+   "country_label": "Namibia",
+   "class": "justice",
+   "platform": "web (ejustice.moj.na)",
+   "owner": "Office of the Judiciary",
+   "tiers": "Supreme Court, High Court"
+  }
+ ],
+ "note": ""
+}

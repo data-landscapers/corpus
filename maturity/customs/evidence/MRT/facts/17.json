@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mrt-douanes-guide-procedures-dedouanement",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Mauritania's customs guide says import and export declarations are registered and printed in SYDONIA World, which also runs risk circuits, liquidation and payment receipts.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "Mauritanie",
+   "class": "customs",
+   "platform": "ASYCUDA World (UNCTAD)",
+   "owner": "Direction Generale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

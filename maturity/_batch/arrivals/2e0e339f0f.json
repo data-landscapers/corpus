@@ -1,0 +1,9 @@
+{"slug":"2025-07-31-tcd-wearetech-adetic-2ie-former-cadres-numerique","studies":{
+"aiabuse":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document states no AI system in use in administration."}}},
+"aisectoral":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document states no AI tool in a sector's public system."}}},
+"aisystems":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document states no AI model, dataset or computing built in Chad."}}},
+"civilserviceskills":{"countries":{"TCD":{"facts":[{"sub_indicator":"csskills","aspect":"training","value":"underway","fact":"Chad's ADETIC signed a framework accord with 2iE Ouagadougou to train Chadian public cadres in artificial intelligence and emerging technologies, as We are Tech Africa reports.","as_of":"2025-07-31","date_precision":"day","system":"ADETIC-2iE framework accord","class":"csskills"}],"systems":[{"system":"ADETIC-2iE framework accord","country_label":"ADETIC-2iE framework accord","class":"csskills","platform":"","owner":"ADETIC","tiers":""}],"note":""}}},
+"itcapacity":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document is about training agreements; it states nothing on who runs government systems."}}},
+"schoolinternet":{"countries":{"TCD":{"facts":[],"systems":[],"note":"The document states no school internet figure or secondary curriculum."}}}
+}}

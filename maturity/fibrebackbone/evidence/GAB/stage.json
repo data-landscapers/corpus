@@ -1,16 +1,17 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "3",
-   "reach": "in-service",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-002;GAB-005",
-   "gaps": "No source held says the backbone reaches every province or region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "3",
+      "reach": "in-service",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001;GAB-012",
+      "gaps": "No source held says the backbone reaches every province or region.",
+      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

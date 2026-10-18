@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "no evidence",
-   "online": "",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the public takes part in making policy online.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "unplaced",
+      "online": "",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether the government has asked the public for views online.",
+      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

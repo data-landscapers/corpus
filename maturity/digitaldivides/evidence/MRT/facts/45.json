@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-17-mrt-itu-are-fonds-service-universel-realisations",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "ARE says the universal service fund's southern and south-eastern border project brought 144 new radio sites and benefits more than 400 localities, and the northern project 19 radio sites with 2G coverage over nearly 600 km.",
+   "as_of": "2025-02-17",
+   "date_precision": "day",
+   "system": "Fonds de service universel",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

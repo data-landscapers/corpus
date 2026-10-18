@@ -1,0 +1,72 @@
+{
+ "slug": "2026-01-19-mdg-midi-madagasikara-data-center-souverain",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated priority to create a sovereign data centre; no hosting or cloud policy being drafted."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre for hire in service is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "The digital ministry lists adoption of a personal data protection law among its priority works.",
+       "as_of": "2026-01-19",
+       "date_precision": "day",
+       "system": "personal data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The digital minister says creating a sovereign, secure national data centre to host public data is among the ministry's priorities.",
+       "as_of": "2026-01-19",
+       "date_precision": "day",
+       "system": "national sovereign data centre",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A national data centre is a priority only; none stated in service."
+    }
+   }
+  }
+ }
+}

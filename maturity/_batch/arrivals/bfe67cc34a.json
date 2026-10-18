@@ -1,0 +1,246 @@
+{
+ "slug": "2024-01-18-dza-lnr-merad-registre-national-etat-civil",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Interior Ministry communique says generalisation of the national identification number and access to Registre national de l'Etat civil data gave nearly 111 million consultations by 23 ministries and public bodies in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Registre national de l'Etat civil",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national de l'Etat civil",
+       "country_label": "Algeria",
+       "class": "register",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Interior Ministry says production of secure documents passed 7 million biometric documents, including 4.3 million electronic biometric identity cards, with the national identification number generalised.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "carte d'identité biométrique électronique",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "carte d'identité biométrique électronique",
+       "country_label": "Algeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Interior Ministry says the Registre national de l'Etat civil is in use, with access to its data giving nearly 111 million consultations in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Registre national de l'Etat civil",
+       "class": "population"
+      },
+      {
+       "sub_indicator": "population",
+       "aspect": "used",
+       "value": "source",
+       "fact": "The Interior Ministry says 23 ministries and public bodies drew on Registre national de l'Etat civil data in 2023, nearly 111 million consultations.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Registre national de l'Etat civil",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national de l'Etat civil",
+       "country_label": "Algeria",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Algeria."
+    }
+   }
+  }
+ }
+}

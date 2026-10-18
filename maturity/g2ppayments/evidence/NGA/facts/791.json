@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-nga-nsipa-about-nassco-national-social-register",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "NSIPA lists digital payments via bank accounts and wallets, with payment duration cut from 6 months to 3.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NSR cash transfer payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

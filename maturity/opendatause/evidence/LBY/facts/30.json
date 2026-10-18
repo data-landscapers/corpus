@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-lby-gia-gender-comparison-2025-dataset",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The General Authority for Communications and Informatics lists the 2025 gender comparison dataset as an XLSX resource with a download option on its open-data platform, created 29 September 2026.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Libya open data platform",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Libya open data platform",
+   "country_label": "opendata.gia.gov.ly",
+   "class": "open",
+   "platform": "",
+   "owner": "General Authority for Communications and Informatics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

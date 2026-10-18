@@ -1,0 +1,70 @@
+{
+ "slug": "2025-01-31-nam-nust-pocket-bot-chatbot-efficacy-thesis",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "A NUST master's thesis evaluates the government's Pocket Guide 2.0 Pocket Bot AI chatbot as a digital self-service tool for civil servants, based on interviews with 20 civil servants who used it.",
+       "as_of": "2025-01-31",
+       "date_precision": "day",
+       "system": "Pocket Bot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pocketbot",
+       "country_label": "Namibia",
+       "class": "govai",
+       "platform": "e-Pocket Guide 2.0",
+       "owner": "Office of the Prime Minister",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "General administration chatbot, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Evaluates a chatbot, not digital-skills training."
+    }
+   }
+  }
+ }
+}

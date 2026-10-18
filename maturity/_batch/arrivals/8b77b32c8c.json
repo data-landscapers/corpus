@@ -1,0 +1,196 @@
+{
+ "slug": "2025-08-28-nam-newera-nampost-grant-payments",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "NamPost says it will pay National Social Welfare Cash Grants from October 2025 to recipients registered on virtual cash grant accounts, with a Digital Grant Account sponsored by the Ministry of Finance planned for early 2026.",
+       "as_of": "2025-08-28",
+       "date_precision": "day",
+       "system": "NamPost Digital Grant Account",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NamPost grant payments",
+       "country_label": "Namibia",
+       "class": "g2p",
+       "platform": "NamPost branches and mobile teams",
+       "owner": "NamPost",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  }
+ }
+}

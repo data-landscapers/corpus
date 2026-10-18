@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-17-gin-apip-guichet-unique-creation-entreprise",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "APIP says its one-stop shop issues the NIF tax number together with the RCCM at business creation, within 72 hours.",
+   "as_of": "2025-02-17",
+   "date_precision": "day",
+   "system": "NIF issued at APIP one-stop shop",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

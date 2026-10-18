@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-bfa-alt-question-orale-ia-usage",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "Minister Aminata Zerbo/Sabane told parliament the national backbone now offers robust connectivity across the whole territory.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "national backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

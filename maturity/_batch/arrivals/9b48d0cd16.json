@@ -1,0 +1,44 @@
+{
+ "slug": "2020-11-03-ago-angop-bna-portal-consumidor-reclamacoes",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "Banco Nacional de Angola says Aviso 12/2016 sets rules and procedures for marketing financial products and services, including those of payment-service providers, as consumer-protection conduct supervision.",
+       "as_of": "2016-09-05",
+       "date_precision": "day",
+       "system": "Aviso n.\u00ba 12/2016",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "Banco Nacional de Angola launched the complaints-management module of its Portal do Consumidor Banc\u00e1rio for non-bank financial institutions, payment-service providers among them, to register and process consumer complaints.",
+       "as_of": "2020-11-03",
+       "date_precision": "day",
+       "system": "Portal do Consumidor Banc\u00e1rio",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal do Consumidor Banc\u00e1rio",
+       "country_label": "Angola",
+       "class": "protection",
+       "platform": "online portal",
+       "owner": "Banco Nacional de Angola",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

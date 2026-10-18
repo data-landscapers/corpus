@@ -1,0 +1,9 @@
+{"slug": "2025-04-01-zaf-dpsa-digital-skills-microsoft-nsg-agreement", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document covers AI training for public servants, not an AI system in use in administration."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or computing built or hosted in the country."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Department of Public Service and Administration reports that the National School of Government and Microsoft South Africa signed a memorandum of agreement aiming to train 100,000 public servants in digital literacy, AI and cybersecurity on NSG Learner Management Platforms.", "as_of": "2025-03-31", "date_precision": "day", "system": "Microsoft-NSG memorandum of agreement", "class": "csskills"}], "systems": [{"system": "NSG Learner Management Platforms", "country_label": "South Africa", "class": "csskills", "platform": "NSG Learner Management Platforms", "owner": "National School of Government", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only Microsoft's own pledge to train one million people is mentioned; no government programme for the public or measured share."}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document says nothing on schools or curriculum."}}}
+}}

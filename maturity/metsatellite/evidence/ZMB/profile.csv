@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,metsat,stream,coverage,inservice,2025-10-02,ZMB-001,,
+ZMB,metsat,warnings,coverage,,,,,nothing held
+ZMB,metsat,certified,coverage,,,,,nothing held

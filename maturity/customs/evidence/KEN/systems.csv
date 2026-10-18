@@ -1,3 +1,11 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 KEN,RECTS,Kenya,other,,Kenya Revenue Authority,,2026-09-16-xea-thestar-rects-multi-vendor-cargo-tracking
 KEN,Regional Electronic Cargo Tracking System (RECTS),KEN,other,,Kenya Revenue Authority,,2026-09-11-ken-kra-public-notice-approved-vendors-rects-multi-vendor-eseals
+KEN,iCMS,Integrated Customs Management System,customs,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
+KEN,iCMS,Kenya,customs,,Kenya Revenue Authority,,2022-05-11-ken-kra-icms-containerised-cargo-simba-ends
+KEN,Simba,Kenya,customs,,Kenya Revenue Authority,legacy,2022-05-11-ken-kra-icms-containerised-cargo-simba-ends
+KEN,iCMS,Kenya,customs,,Kenya Revenue Authority,,2021-02-23-ken-feaffa-mombasa-paperless-icms-tradenet
+KEN,TradeNet,Kenya,customs,,KenTrade,,2021-02-23-ken-feaffa-mombasa-paperless-icms-tradenet
+KEN,Integrated Customs Management System (iCMS),Kenya,customs,,Kenya Revenue Authority,,2019-06-13-ken-kra-icms-implementation-cargo-clearance
+KEN,NESWS / Trade Facilitation Platform,Kenya,customs,,KenTrade,,2024-03-01-ken-kentrade-strategic-plan-2023-2028
+KEN,iCMS,Kenya,customs,,KRA,,2024-03-01-ken-kentrade-strategic-plan-2023-2028

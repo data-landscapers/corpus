@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eri-himbol-customers-partners-guide-m-nakfa",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Himbol's guide says Himbol, which runs the M-Nakfa mobile wallet and remittance payout, operates under the supervision and licensing of the Bank of Eritrea.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "M-Nakfa",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2019-01-01-egy-shalakany-cbe-bank-customer-protection-rules",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Shalakany says the CBE's customer-rights instructions of 19 February 2019 apply to banks and providers such as mobile payment companies, with compliance due by February 2020.",
+   "as_of": "2019-02-19",
+   "date_precision": "day",
+   "system": "Instructions for the protection of the rights of bank customers",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "Shalakany says banks must run a complaints unit whose decisions bind service providers, replying within 15 days, and customers may escalate to the CBE.",
+   "as_of": "2019-02-19",
+   "date_precision": "day",
+   "system": "Instructions for the protection of the rights of bank customers",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

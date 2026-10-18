@@ -1,0 +1,153 @@
+{
+ "slug": "2025-02-26-zaf-parliament-sassa-srd-system-findings",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an OTP login to the SRD application, a programme's own login; no authentication service."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Portfolio Committee on Social Development says SASSA administers the SRD application and payment system, which uses a mobile money service to pay grants.",
+       "as_of": "2025-02-26",
+       "date_precision": "day",
+       "system": "SRD application and payment system",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SRD application and payment system",
+       "country_label": "South Africa",
+       "class": "g2p",
+       "platform": "",
+       "owner": "SASSA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Portfolio Committee on Social Development says SASSA runs the SRD grant application and payment system, which a review rated at medium threat level.",
+       "as_of": "2025-02-26",
+       "date_precision": "day",
+       "system": "SRD application and payment system",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SRD application and payment system",
+       "country_label": "South Africa",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "SASSA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

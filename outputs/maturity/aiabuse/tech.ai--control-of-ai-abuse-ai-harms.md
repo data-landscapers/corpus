@@ -1,6 +1,6 @@
 # Control of AI abuse: AI harms
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 6 |
-| 3 Established | 8 |
-| 2 Nascent | 8 |
+| 3 Established | 9 |
+| 2 Nascent | 12 |
 | 1 Absent | 7 |
-| Unplaced | 1 |
-| No evidence | 24 |
+| Unplaced | 0 |
+| No evidence | 19 |
 
 ## Countries
+
+### Benin: 5 Leading
+
+A rule or body against harms from AI was enforced in 2026.
+
+- La Nation reports that a learner prosecuted for circulating retouched photographs of his teacher was heard by the CRIET on 8 October 2026 ([source, 2026-10-08](https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir)).
 
 ### Chad: 4 Operating
 
@@ -116,6 +122,13 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 
 - The Ministry of ICT permanent secretary says Uganda is still developing a dedicated AI legal framework but existing laws already apply, and election misconduct is unlawful online, with misuse of AI to mislead carrying consequences ([source, 2026-01-02](https://ict.go.ug/media/news/safeguarding-our-democracy-in-the-age-of-artificial-intelligence-ai)).
 
+### Zambia: 3 Established
+
+A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
+
+- Zambia Police Service spokesperson Godfrey Chilabi said creating and spreading false, manipulated or misleading content through computer systems, which he applied to AI-generated content, is an offence under the Cyber Crimes Act No. 4 of 2025 ([source, 2026-06-22](https://www.zambiamonitor.com/zambia-police-warn-against-ai-generated-fake-content-targeting-officials/)).
+- The Zambia Cyber Security Agency said creating, altering or sharing misleading AI-generated audio, video and images may be an offence under Section 19 of the Cyber Crimes Act No. 4 of 2025, with a fine up to K280,000 and 2 to 7 years in prison ([source, 2026-05-08](https://zambia24.com/2026/05/08/misleading-online-content-risks-jail-term/)).
+
 ### Algeria: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
@@ -140,6 +153,12 @@ A rule or authority on harms from AI was being drafted in 2025; none in force is
 
 - The Ministry of Transport, Telecommunications and AI Systems is drafting an AI law (anteproyecto) that would make ANIAD, the national AI and data authority, an autonomous state body supervised by the ministry, as reported on 27 August 2025 ([source, 2025-08-27](https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/)).
 
+### Ethiopia: 2 Nascent
+
+A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
+
+- Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill ([source, 2026-05](https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0)).
+
 ### Ghana: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
@@ -158,6 +177,25 @@ A 2026 Senate bill would create an AI Commissioner, but a committee advised agai
 A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
 
 - SMEX reports that Libya's National Charter for AI Ethics (adopted 1 June 2026) proposes a national oversight body for AI ethics, to be created by the Council of Ministers, to supervise compliance, approve high-risk systems and keep a registry of compliance certifications ([source, 2026-06-01](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
+
+### Morocco: 2 Nascent
+
+A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
+
+- The Mouvement populaire group in the House of Representatives tabled a private member's bill regulating AI use that bars AI on social media from spreading false news, abusive speech or fabricated images and videos, bans unacceptable-risk systems from the market, and sets fines of MAD 50,000-500,000 and prison of 6 months to 5 years ([source, 2025-01-07](https://www.intelligencia.ma/politique-19/500322.html)).
+- Private member's bill no 53, tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group, aims to prevent malicious uses of content generation such as deepfakes and would create a National Artificial Intelligence Agency ([source, 2024-04-17](https://www.lebrief.ma/projet-loi-agence-nationale-ia-100156120/)).
+
+### South Sudan: 2 Nascent
+
+A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
+
+- Digital Rights Frontlines says South Sudan's Cybercrimes and Computer Misuse Bill 2024 aims to address emerging threats from artificial intelligence and carries proposed AI provisions that need clarity on bias prevention and misuse of automated systems ([source, 2025-10-22](https://www.digitalrights.ngo/post/striking-the-right-balance-south-sudan-s-cybercrimes-and-computer-misuse-bill)).
+
+### Tanzania: 2 Nascent
+
+A rule or authority on harms from AI was being drafted in 2024; none in force is on record.
+
+- The Ministry of Communication and Information Technology published draft guidelines for the secure and ethical use of AI, covering bias, privacy and accountability, pending a firmer legal framework it says is being worked on ([source, 2024-06](https://www.mawasiliano.go.tz/uploads/documents/sw-1749982790-Guidelines%20for%20AI%20ethical%20USE%20Guideline%20MICIT%202025ver.pdf)).
 
 ### Tunisia: 2 Nascent
 
@@ -210,12 +248,6 @@ A 2026 source says nothing addresses harms from AI.
 
 - MISA Zimbabwe says the national AI strategy has no direct legal force and that enforceable legal safeguards on AI are missing, with legislation still to be drafted ([source, 2026-06-23](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/)).
 
-### Benin: Unplaced
-
-Nothing held since 2023 names a rule or authority against harms from AI, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a rule on harms from AI is drafted or in force.
-
 ### Botswana: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
@@ -253,12 +285,6 @@ Nothing held names a rule or authority against harms from AI or says there is no
 Not established: Nothing held says whether anything addresses harms from AI.
 
 ### Eswatini: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Ethiopia: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
 
@@ -306,12 +332,6 @@ Nothing held names a rule or authority against harms from AI or says there is no
 
 Not established: Nothing held says whether anything addresses harms from AI.
 
-### Morocco: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
 ### Niger: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
@@ -336,25 +356,7 @@ Nothing held names a rule or authority against harms from AI or says there is no
 
 Not established: Nothing held says whether anything addresses harms from AI.
 
-### South Sudan: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Tanzania: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
 ### Togo: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Zambia: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
 

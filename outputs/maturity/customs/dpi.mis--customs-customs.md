@@ -20,13 +20,13 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 9 |
-| 3 Established | 13 |
-| 2 Nascent | 5 |
+| 5 Leading | 6 |
+| 4 Operating | 12 |
+| 3 Established | 24 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 22 |
+| Unplaced | 5 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -53,6 +53,24 @@ Customs exchanged data electronically with another country in 2026.
 Customs exchanged data electronically with another country in 2025.
 
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
+
+### Kenya: 5 Leading
+
+Customs exchanged data electronically with another country in 2025.
+
+- Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them ([source, 2025-08-25](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+
+### Malawi: 5 Leading
+
+Customs exchanged data electronically with another country in 2026.
+
+- The SARS-MRA arrangement, applicable on signature on 30 July 2026, provides for automatic exchange of customs declaration and transit data between the two authorities' automated customs systems, using a unique consignment reference ([source, 2026-07-30](https://www.sars.gov.za/wp-content/uploads/Legal/Agreements/CMAA/Legal-IntA-CMAA-2026-01-Arrangement-between-SARS-and-Malawi-Revenue-Authority-for-the-Automatic-of-Exchange-of-Customs-Information-30-July-2026.pdf)).
+
+### Burkina Faso: 4 Operating
+
+A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
+
+- The Direction generale des douanes and SOGESY launched Sylvie 2 on 17 February 2025, the electronic single window for import and export clearance, running since 2016 and collecting documents from technical administrations and private bodies ([source, 2025-02-17](https://jumelages-partenariats.com/actualites.php?n=22833)).
 
 ### Burundi: 4 Operating
 
@@ -115,6 +133,44 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 - The article says the Tanzania Electronic Single Window System has already been established on Mainland Tanzania to connect traders, customs authorities and regulatory agencies ([source, 2026-06-05](https://doingbusiness.co.tz/tra-rolls-out-zanzibar-single-window-to-streamline-trade-and-customs-procedures)).
 - The Tanzania Revenue Authority launched the Zanzibar Single Window System at a ceremony on 2 June 2026, a digital platform for customs clearance bringing various government agencies under one electronic gateway ([source, 2026-06-02](https://doingbusiness.co.tz/tra-rolls-out-zanzibar-single-window-to-streamline-trade-and-customs-procedures)).
 
+### Zambia: 4 Operating
+
+A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
+
+- The Zambia Revenue Authority says the Zambian Electronic Single Window has an enhanced e-bond module and the 2025 BMTF Act mandates electronic information exchange among all participating agencies through it ([source, 2026-06-23](https://mag.wcoomd.org/magazine/wco-news-110-issue-2-2026/integrity-zambia/)).
+- A British High Commission official said the upgraded ASYCUDA Single Window will improve coordination across agencies and shorten clearance times ([source, 2025-12-16](https://trademarkafrica.com/zambia-sets-course-for-faster-trade-as-customs-system-upgrade-agreement-is-signed/)).
+
+### Zimbabwe: 4 Operating
+
+A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
+
+- The Finance Permanent Secretary said an Electronic Single Window System integrates regulatory agencies in customs clearance, and port health, the National Ozone Unit and the Radiation Protection Authority of Zimbabwe have subscribed to it ([source, 2025-07-14](https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/)).
+
+### Algeria: 3 Established
+
+Customs declarations were processed electronically in 2024; a single window is not on record.
+
+- Algeria's customs director general says the new customs information system ALCES, in service since November 2023 at land, sea and air border customs offices, had recorded 168,000 detailed declarations by September 2024, 70% of filings, the rest on the old SIGAD system ([source, 2024-09](https://lalgerieaujourdhui.dz/les-douanes-optent-pour-un-nouveau-systeme/)).
+
+### Angola: 3 Established
+
+Customs declarations were processed electronically in 2026; a single window is not on record.
+
+- UNCTAD's ASYCUDA Programme reports Angola launched ASY5 operationally on 5 January 2026 in Lobito, with a shipping agent lodging a cargo manifest and a customs broker lodging the first export declaration in the live system ([source, 2026-01-05](https://asycuda.org/en/angola-marks-the-operational-launch-of-asy5-the-5th-generation-of-asycuda-customs-management-software/)).
+- AGT's customs department says Angola uses the Sistema Automatizado de Procedimentos Aduaneiros, run on ASYCUDA World, from cargo manifest submission to release from temporary storage, including payments and refunds ([source, 2024-06](https://www.ucm.minfin.gov.ao/cs/groups/public/documents/document/aw40/mziw/~edisp/minfin4320326.pdf)).
+
+### Benin: 3 Established
+
+Customs declarations were processed electronically in 2025; a single window is not on record.
+
+- Webb Fontaine says it completed migration of Benin's national Customs Management System from ASYCUDA to Webb Customs, fully operational at all sea ports, airports and land border offices, with over 100,000 declarations processed ([source, 2025-04-15](https://webbfontaine.com/news/webb-fontaine-successfully-completes-national-rollout-of-customs-management-systems-in-benin)).
+
+### Botswana: 3 Established
+
+Customs declarations were processed electronically in 2024; a single window is not on record.
+
+- Finance minister Peggy Serame said BURS continues to optimise e-services including online customs declarations ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
+
 ### Comoros: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -128,6 +184,12 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - L'Economie reports that from 3 August 2026 importers declare on Sydonia and pay customs duties online via Fouta, doing declaration, payment and receipt online in under five minutes, per ministry IT director Elenga Ngaporo Okina ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
 
+### Djibouti: 3 Established
+
+Customs declarations were processed electronically in 2023; a single window is not on record.
+
+- Djibouti Customs says it processed 205,678 declarations in 2023, of which transit declarations were routed to yellow, blue, green and red lanes, with selectivity to be extended to other regimes in 2025 ([source, 2023](https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf)).
+
 ### Eritrea: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -140,6 +202,7 @@ Customs declarations were processed electronically in 2026; a single window is n
 Customs declarations were processed electronically in 2026; a single window is not on record.
 
 - The Eswatini Revenue Service says customs payments made through FNB Eswatini now show almost instantly on ASYCUDA, so traders can process their customs declarations more quickly ([source, 2026-06-20](https://independentnews.co.sz/44878/business/ers-fnb-complete-real-time-customs-payment-integration/)).
+- The Eswatini Revenue Service says customs payments through FNB now reflect in near real time in its ASYCUDA customs system, completing the integration on 12 June 2026 ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
 
 ### Ghana: 3 Established
 
@@ -161,11 +224,49 @@ Customs declarations were processed electronically in 2026; a single window is n
 - The LRA Corporate Strategic Plan 2025-2029 says ASYCUDA has played a pivotal role in augmenting customs operations and tables its status as extended to Freeport of Liberia, RIA and Buchanan ([source, 2026-08-20](https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf)).
 - LRA Commissioner General James Dorbor Jallah said ASYCUDA has been deployed to 11 of 17 Customs Business Offices ([source, 2026-08-20](https://smartnewsliberia.com/lra-unveils-new-strategic-plan-as-liberia-moves-toward-historic-us1-billion-revenue-mark/)).
 
+### Libya: 3 Established
+
+Customs declarations were processed electronically in 2024; a single window is not on record.
+
+- The IMF METAC says its August-September 2024 mission helped Libya Customs develop a National Standard Operating Procedure documenting the new automated clearing process using ASYCUDA World ([source, 2024-09](https://www.imfmetac.org/content/dam/METAC/Countries-Activities/FY25/Libya.pdf)).
+
+### Madagascar: 3 Established
+
+Customs declarations were processed electronically in 2023; a single window is not on record.
+
+- The Customs Code (art. 87, as amended by the 2023 finance law) requires declarations at customs offices equipped with computer systems to be lodged electronically, and art. 88 refers to an automated clearance system ([source, 2023](https://www.douanes.gov.mg/code/titre-iv-operations-de-dedouanement/chapitre-premier-declaration-en-detail/section-i-caractere-obligatoire-de-la-declaration-en-detail/)).
+
 ### Mauritius: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
 
 - A WCO Smart Customs Project mission of 12-16 January 2026 found the Mauritius Revenue Authority hosts critical systems such as the Customs Management System on a private cloud, supporting risk management and border control ([source, 2026-01](https://scp.wcoomd.org/study-mission-cloud-computing-hosted-mauritius-customs)).
+
+### Morocco: 3 Established
+
+Customs declarations were processed electronically in 2024; a single window is not on record.
+
+- The Ministry of Economy and Finance has rolled out the BADR system for customs clearance, and the customs IT system is integrated with key partners in the foreign trade chain, per the budget minister ([source, 2024-08-12](https://barlamantoday.com/2024/08/12/minister-morocco-to-use-ai-to-enhanced-public-services/)).
+
+### Namibia: 3 Established
+
+Customs declarations were processed electronically in 2026; a single window is not on record.
+
+- NamRA upgraded and rolled out ASYCUDAWorld version 4.4.1 on 5 May 2026, and Commissioner Sam Shivute says it processed N$18 billion of goods between 5 and 17 May and handles all trade-related transactions, with declarations submitted online ([source, 2026-05-05](https://observer24.com.na/namra-says-old-customs-system-was-11-versions-behind/)).
+- NamRA, reported by New Era on 2026-05-05, put the upgraded ASYCUDAWorld 4.4.1 into effect that day, with transit, warehousing, export and similar declarations accepted online only ([source, 2026-05-05](https://neweralive.na/namra-upgrades-asycudaworld-system-and-implements-new-procedures/)).
+
+### Rwanda: 3 Established
+
+Customs declarations were processed electronically in 2024; a single window is not on record.
+
+- UNCTAD describes ASYCUDA World as Rwanda's system for processing international trade transactions ([source, 2024](https://unctad.org/project/amplifying-digital-opportunities-cross-border-trade)).
+
+### Sao Tome and Principe: 3 Established
+
+Customs declarations were processed electronically in 2025; a single window is not on record.
+
+- The General Customs Authority (AGA) officially launched Sydonia World 4.4.0 on 23 May 2025, a customs management system implemented simultaneously across the national territory, financed by the AfDB under the CAPEM project with UNCTAD technical support ([source, 2025-05-23](https://rstp.st/2025/05/27/autoridade-geral-aduaneira-avanca-na-reforma-digital-com-nova-versao-do-sydonia-world/)).
+- UNCTAD's ASYCUDA Programme reports that STP Customs completed migration to ASYCUDAWorld 4.4, live on 1 May 2025, replacing ASYCUDAWorld 4.2 in use since 2011 ([source, 2025-05-01](https://asycuda.org/en/sao-tome-and-principe-leverages-asycuda-to-enhance-customs-efficiency-and-compliance/)).
 
 ### Seychelles: 3 Established
 
@@ -223,146 +324,50 @@ An automated customs system was under way in 2025; none in service is on record.
 
 - The Port Autonome de Dakar and the Direction générale des Douanes announced a pilot phase from 2 January 2026 of electronic exchange of Bons à Délivrer via the electronic port single window, following a June 2025 data-exchange protocol with GAINDE 2000 ([source, 2025-11-07](https://lesoleil.sn/actualites/economie/dedouanement-le-port-de-dakar-entame-une-etape-decisive-de-sa-transformation-digitale/)).
 
+### Somalia: 2 Nascent
+
+An automated customs system was under way in 2025; none in service is on record.
+
+- Shabelle Media reports Somalia's finance minister and the UK ambassador reviewed progress in implementing digital customs systems at Mogadishu Port, centred on the UK-supported SOMCAS online platform ([source, 2025-08-07](https://shabellemedia.com/somalia-finance-minister-uk-ambassador-visit-mogadishu-port-to-review-revenue-reform-efforts/)).
+
 ### South Sudan: 2 Nascent
 
 An automated customs system was under way in 2025; none in service is on record.
 
 - One Citizen Daily reports the SSRA review of its E-Customs reform, which aims to digitise import-export procedures, noting strides in automating customs clearance alongside limited infrastructure and staff capacity gaps ([source, 2025-09-25](https://www.onecitizendaily.com/index.php/2025/09/26/ssra-pushes-digital-reforms-to-boost-transparency-efficiency/)).
 
-### Rwanda: Unplaced
+### Tunisia: 2 Nascent
+
+An automated customs system was under way in 2025; none in service is on record.
+
+- Customs spokesman Chokri Jarraya said on 12 November 2025 that the SINDA 2 customs system will be ready in 2026, with the first applications entering service at the end of 2025 ([source, 2025-11-12](https://www.lapresse.tn/2025/11/12/douane-le-systeme-informatique-sinda-2-operationnel-a-partir-de-2026-2/)).
+
+### Cote d'Ivoire: Unplaced
 
 Nothing held since 2023 names an automated customs system, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
 
-### Algeria: No evidence
+### Mali: Unplaced
 
-Nothing held names an automated customs system or says there is none, so no stage is set.
+Nothing held since 2023 names an automated customs system, so no stage is set.
 
-Not established: Nothing held says how customs declarations are processed.
+Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
 
-### Angola: No evidence
+### Mauritania: Unplaced
 
-Nothing held names an automated customs system or says there is none, so no stage is set.
+Nothing held since 2023 names an automated customs system, so no stage is set.
 
-Not established: Nothing held says how customs declarations are processed.
+Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
 
-### Benin: No evidence
+### Mozambique: Unplaced
 
-Nothing held names an automated customs system or says there is none, so no stage is set.
+Nothing held since 2023 names an automated customs system, so no stage is set.
 
-Not established: Nothing held says how customs declarations are processed.
+Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
 
-### Botswana: No evidence
+### South Africa: Unplaced
 
-Nothing held names an automated customs system or says there is none, so no stage is set.
+Nothing held since 2023 names an automated customs system, so no stage is set.
 
-Not established: Nothing held says how customs declarations are processed.
-
-### Burkina Faso: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Cote d'Ivoire: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Djibouti: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Kenya: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Libya: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Madagascar: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Malawi: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Mali: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Mauritania: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Morocco: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Mozambique: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Namibia: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Somalia: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### South Africa: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Tunisia: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Zambia: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
-
-### Zimbabwe: No evidence
-
-Nothing held names an automated customs system or says there is none, so no stage is set.
-
-Not established: Nothing held says how customs declarations are processed.
+Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.

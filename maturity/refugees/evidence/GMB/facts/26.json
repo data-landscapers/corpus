@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gmb-unhcr-rimap-gambia-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR's country page says the Government of the Gambia has engaged in regional initiatives to integrate forcibly displaced and stateless individuals into national digital identity systems.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "national digital identity systems",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

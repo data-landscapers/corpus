@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-bwa-giga-school-connectivity-botswana",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Giga says Starlink launched services in Botswana in early 2024, offering satellite internet at about USD 48 a month for 150 Mbps.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Botswana",
+   "class": "satellite",
+   "platform": "low-orbit satellite",
+   "owner": "",
+   "tiers": "150 Mbps at about USD 48 a month"
+  }
+ ],
+ "note": ""
+}

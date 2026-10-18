@@ -1,0 +1,34 @@
+{
+ "slug": "2018-06-20-eri-shabait-augmenting-martyrs-trust-fund",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "none",
+       "fact": "The Ministry of Information (Shabait) says Martyrs' Trust Fund grants are paid monthly in cash by the National Insurance Corporation of Eritrea through 15 permanent and 37 mobile payment stations.",
+       "as_of": "2018-06-20",
+       "date_precision": "day",
+       "system": "Martyrs' Trust Fund",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Martyrs' Trust Fund",
+       "country_label": "Eritrea",
+       "class": "g2p",
+       "platform": "payment stations",
+       "owner": "Ministry of Labour and Human Welfare",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

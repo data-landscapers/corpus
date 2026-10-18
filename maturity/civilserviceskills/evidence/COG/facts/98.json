@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-cog-acsi-competences-numeriques-agents-dgcpp",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Agence Congolaise des Systemes d'Information, under its office-skills training programme for staff of public administrations, scheduled a session for staff of the Direction Generale des Comptes Publics et du Patrimoine from 23 March to 17 April 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "ACSI secretarial and office-software training programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACSI programme de formations en secretariat et bureautique",
+   "country_label": "Congo",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Agence Congolaise des Systemes d'Information",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

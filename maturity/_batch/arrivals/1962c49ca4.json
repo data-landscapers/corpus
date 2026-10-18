@@ -1,0 +1,185 @@
+{
+ "slug": "2026-09-21-com-pfss-tms-55000-menages-mobile-banking",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The PFSS-RRC says the World Bank-backed Mayendeleyo social cash transfer phase launched on 20 September 2026 pays 55,000 households through the mobile-banking operators Mvula and Huri Money.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "Mayendeleyo social cash transfers",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mayendeleyo social cash transfers (PFSS-RRC)",
+       "country_label": "Comoros",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Government of the Union of the Comoros with World Bank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The PFSS-RRC names Mvula and Huri Money as mobile-banking operators that make the transfer payments to households in Comoros.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "Mvula and Huri Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The PFSS-RRC says the Mayendeleyo transfer programme digitalises identification, registration and follow-up of beneficiary households.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "Mayendeleyo social cash transfers",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "The PFSS-RRC says the programme's payments to beneficiaries are made by the mobile-banking operators Mvula and Huri Money.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "Mayendeleyo social cash transfers",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mayendeleyo social cash transfers (PFSS-RRC)",
+       "country_label": "Comoros",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Government of the Union of the Comoros with World Bank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The PFSS-RRC says the extension aims to improve crisis response through the operationalisation of the Registre Social Unique.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "Registre Social Unique",
+       "class": "social"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

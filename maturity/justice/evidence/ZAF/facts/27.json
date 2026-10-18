@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-16-zaf-doj-court-online-go-live-gqeberha",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Deputy Minister Andries Nel said Court Online, an integrated end-to-end digital case management solution, went live at the Eastern Cape Division of the High Court in Gqeberha on 16 July 2025.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Court Online",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Nel said the Gauteng Division of the High Court implemented an electronic case management and litigation system after a pilot that began in the third term of 2019.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "electronic case management and litigation system",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "Nel said Court Online, now live for the Eastern Cape High Court, is powered by Microsoft for e-filing and case management.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Court Online",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Court Online",
+   "country_label": "South Africa",
+   "class": "justice",
+   "platform": "Microsoft (e-filing and case management), CaseLines (evidence handling)",
+   "owner": "Department of Justice and Constitutional Development",
+   "tiers": "High Courts"
+  }
+ ],
+ "note": ""
+}

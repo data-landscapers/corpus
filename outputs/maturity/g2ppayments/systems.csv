@@ -1,5 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,KWENDA,Angola,g2p,"partner bank accounts, ATMs and branches",FAS - Instituto de Desenvolvimento Local,,2025-01-11-ago-fas-kwenda-transferencia-contas-cabinda
+AGO,Kwenda,Programa Kwenda,g2p,"electronic card, mobile money",FAS,,2023-08-16-ago-angop-kwenda-44-mil-millones-modalidades
 BDI,Merankabandi,Burundi,g2p,mobile phone,Government of Burundi with World Bank and WFP,,2025-09-22-sos-medias-burundi-fin-merankabandi-transferts-monetaires-refugies
 BEN,GBESSOKE (Programme de Filets de Protection Sociale Productifs),Benin,g2p,secured SIM cards,Ministere des Affaires Sociales et de la Microfinance,,2025-09-22-gbessoke-transferts-monetaires-demarrage
 BEN,ARCH,Benin,other,,Ministere des Affaires Sociales et de la Microfinance,,2025-09-22-gbessoke-transferts-monetaires-demarrage
@@ -11,6 +13,7 @@ BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,20
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+BFA,Projet Filets Sociaux,Burkina Faso,g2p,mobile money,"government, World Bank supported",,2023-12-12-bfa-findev-paiements-sociaux-mobile-money
 BWA,SmartSwitch Botswana,Botswana,g2p,biometric smart card on UEPS,Lesaka Technologies,,2025-05-29 Biometric payment card system pushing financial inclusion in Botswana
 BWA,SmartSwitch Botswana,Botswana,g2p,biometric smart card on UEPS,Lesaka Technologies,,2025-05-28-smartswitch-75000-beneficiaries-techafricanews
 BWA,Universal Electronic Payment System (UEPS),Botswana,other,,SmartSwitch Botswana,,2025-05-28-smartswitch-75000-beneficiaries-techafricanews
@@ -18,6 +21,7 @@ CAF,NDOYE social safety net payment platform,Central African Republic,g2p,,Unite
 CAF,Patapaye,Central African Republic,g2p,mobile money,Government,,2024-12-20-caf-worldbank-pgnsp-isr-simba
 CAF,SIMBA,Central African Republic,other,government financial management system,Ministry of Finance and Budget,,2024-12-20-caf-worldbank-pgnsp-isr-simba
 CIV,PI-SPI,WAEMU,other,interoperable instant payment platform,BCEAO,,2026-10-08-xwa-bceao-communique-connexion-tresors-publics-pi-spi
+CIV,Programme Filets Sociaux Productifs (PFSP),Cote d'Ivoire,g2p,mobile money,Government of Cote d'Ivoire,,2026-01-27-civ-apif-rapport-inclusion-financiere-2024
 CMR,Projet Filets Sociaux Adaptatifs et d'Inclusion Economique (PFS-AIE),Cameroon,g2p,,MINEPAT,,2026-07-21-armp-pfs-aie-digital-payment-contracts-zones-1-3
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 COD,paie de proximite,RDC,g2p,CADECO branches and ATMs,CADECO / Comite de suivi de la paie,,2026-07-24-actualitecd-cadeco-csp-paie-proximite-milieu-rural
@@ -26,12 +30,20 @@ COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inc
 COG,Programme National de Filets Sociaux,Congo,other,,Ministère des Affaires Sociales,"conditional cash transfers, income-generating transfers, social pension, top-up social aid",2024-08-16-lancement-programme-national-filets-sociaux-congo
 COG,Registre Social Unique,Congo,other,,,,2024-08-16-lancement-programme-national-filets-sociaux-congo
 COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
+COG,Lisungi,Congo,g2p,Banque Postale du Congo; mobile money,Ministry of Social Affairs and Humanitarian Action,,2020-06-11-cog-worldbank-lisungi-covid-pad
+COG,Registre Social Unique (RSU),Congo,other,,Ministry of Social Affairs and Humanitarian Action,,2020-06-11-cog-worldbank-lisungi-covid-pad
 COM,Msaanda,Comoros,g2p,mobile banking,PFSS-RRC (World Bank-financed),,2026-03-12-africa24-pfss-msaanda-filets-sociaux-40000-menages
 COM,"PFSS-RRC (Projet Filets Sociaux de Sécurité Résilients et Réactifs aux Chocs, P179291)",Comores,g2p,,"Union des Comores / UGP-FSS, financed by World Bank IDA",,2025-12-05-pfss-rrc-aide-memoire-mission-decembre-2025
+COM,Mayendeleyo social cash transfers (PFSS-RRC),Comoros,other,,Government of the Union of the Comoros with World Bank,,2026-09-21-com-pfss-tms-55000-menages-mobile-banking
+CPV,Rendimento Social de Inclusão (RSI),Cabo Verde,g2p,RSI management app,Centro Nacional de Prestações Sociais,,2020-08-01-cpv-cnps-rsi-emergencial-3600-beneficiarios
+CPV,Cadastro Social Único,Cabo Verde,other,,,,2020-08-01-cpv-cnps-rsi-emergencial-3600-beneficiarios
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+DZA,Allocation chomage,Allocation chomage,g2p,CCP postal accounts,Ministry of Labour / Algerie Poste,,2023-04-19-dza-lejourdalgerie-allocation-chomage-ccp
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
+EGY,Meeza card,Egypt,g2p,Meeza,National Organisation for Social Insurance (NOSI),,2022-06-02-egy-ahram-pensioners-enter-digital-age
+ERI,Martyrs' Trust Fund,Eritrea,g2p,payment stations,Ministry of Labour and Human Welfare,,2018-06-20-eri-shabait-augmenting-martyrs-trust-fund
 ETH,Unified interoperable government payments framework,Ethiopia,g2p,EthSwitch,"Ministry of Finance, National Bank of Ethiopia",,2026-07-17-ethiopia-nationwide-rollout-interoperable-government-payments
 ETH,National Digital Payments Strategy,Ethiopia,other,,,,2026-07-17-ethiopia-nationwide-rollout-interoperable-government-payments
 GAB,CNSS single-entitlement benefit payments,Gabon,g2p,"bank transfer, Mobile Money",CNSS,,2025-12-19-cnss-paiement-3010-droits-uniques-mobile-money
@@ -65,13 +77,20 @@ LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-
 LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,mobile money,Lesotho,other,,,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
 LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
+LSO,Child Grants Programme,Lesotho,g2p,,"Ministry of Gender, Youth and Social Development",,2024-06-20-lso-eeas-nissa-digital-payments
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+MAR,aides sociales directes,Maroc,g2p,payment and bank accounts,government,"payment institutions with agent networks (Cash Plus, Wafacash, Damane Cash, Barid Cash, Chaabi Cash, Al Filahi Cash)",2024-02-20-mar-medias24-aides-sociales-directes-etablissements-paiement
 MDG,e-poketra,Madagascar,g2p,Visa,Paositra Malagasy,,2026-04-10-e-poketra-decret-abroge-lexpress
+MDG,PGP platform,Madagascar,g2p,PGP,Fonds d'Intervention pour le Développement (FID),,2025-07-30-mdg-fid-paiement-transferts-fsp-qr-code-pgp
+MDG,Plateforme de gestion de paiement (PGP),Madagascar,g2p,QR codes and mobile money,Fonds d'Intervention pour le Developpement (FID),,2022-09-01-mdg-fid-fiche-technique-fiavota
 MLI,CMSS digital pension payment,Mali,g2p,,Caisse Malienne de Securite Sociale,,2026-07-28-mali-digitalisation-sante-developpement-social-cmss
 MLI,CMSS digital pension payment,Mali,g2p,,CMSS,,2026-07-30-sante-le-mali-accelere-la-digitalisation-de-ses-services-publics
 MLI,Jigisemeyiri Project,Mali,g2p,,Government of Mali with World Bank,,2023-11-29-worldbank-dfs-inclusion-growth-mali
+MLI,Jigisemejiri Emergency Social Safety Net Program,Mali,g2p,mobile money,Government of Mali,,2023-12-12-mli-worldbank-jigisemejiri-mobile-money-pilot
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,PASD-PE,Programa de Apoio Social Directo Pos-Emergencia,g2p,"M-PESA wallets, Offline Payment Application",INAS-IP,,2022-09-01-moz-ipcig-inas-registration-payments-emergency
+MOZ,PASD-PE,Post-Emergency Direct Social Assistance Program,g2p,"SPA, M-Pesa wallets",INAS,,2023-09-20-moz-worldbank-g2px-gradual-transition
 MRT,TEKAVOUL,Mauritania,g2p,,Taazour (Delegation Generale a la Solidarite Nationale et a la Lutte contre l'Exclusion),regular conditional transfers; Tekavoul Choc temporary unconditional transfers,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,Registre Social,Mauritania,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MWI,SCTP and CS-EPWP e-payments,Malawi,g2p,"e-wallets via TNM, Airtel, FDH, Standard Bank, Wealthnet Finance (Kaku Pay), NBS Bank",NLGFC,,2025-03-21-ssrlp-inspire-o-aide-memoire
@@ -86,14 +105,17 @@ NAM,Instant Payment Programme,Namibia,g2p,national instant payment network (UPI-
 NAM,Instant Payment Solution (IPS),IPS,g2p,,Instant Payment Namibia,,2026-06-15-fact-sheet-namibias-instant-payment-solution-ips
 NAM,Instant Payment Programme,Namibia,g2p,national instant payment network (UPI-enabled),Instant Payments Namibia,,2026-06-18-namibia-g2p-instant-payment-platform-live
 NAM,Instant Payment Programme,Namibia,g2p,national instant payment network (UPI-enabled),Instant Payments Namibia,,2026-06-17-namibia-bank-windhoek-first-g2p-instant-payment
+NAM,NamPost grant payments,Namibia,g2p,NamPost branches and mobile teams,NamPost,,2025-08-28-nam-newera-nampost-grant-payments
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 NGA,Government-to-Person (G2P) Solution for Direct Benefits Transfer,Nigeria,g2p,,Federal Ministry of Humanitarian Affairs and Poverty Reduction,,2026-07-29-doro-unified-g2p-digital-payment-workshop
 NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
+NGA,Conditional Cash Transfer,Nigeria,g2p,,Federal Ministry of Humanitarian Affairs and Poverty Alleviation; paid by the Central Bank of Nigeria,,2023-10-21-nga-punch-cash-transfer-nin-bvn-cbn-payment
 RWA,VUP Digital Payment,Rwanda,g2p,"Umurenge SACCO accounts, *541#",LODA,,2025-08-30-rwanda-loda-vup-digital-payments
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 SDN,SANAD Emergency Crisis Response Safety Net Project,Sudan,other,,World Bank financed; targeting and registration by WFP and UNICEF,,2025-09-19-sudan-sanad-safety-net-project-isr
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
+SDN,Sudan Family Support Program (Thamarat),Sudan,g2p,cash cards,"Government of Sudan (Ministries of Finance and Economic Planning, Social Development, Interior)",,2021-03-18-sdn-worldbank-family-support-program-thamarat
 SEN,Wave,Senegal,other,mobile money,Wave,,2026-09-02-aps-css-paiement-prestations-sociales-wave
 SEN,Registre national unique (RNU),SEN,other,,Government of Senegal,,2026-06-17-aps-rnu-extension-996194-menages
 SEN,Programme national de bourses de sécurité familiale,SEN,other,,Government of Senegal,,2026-06-17-aps-rnu-extension-996194-menages
@@ -102,6 +124,7 @@ SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-est
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
+SEN,bourses de securite familiale,Senegal,g2p,mobile money operators,"Ministere de la Famille, de l'Action sociale et des Solidarites",,2026-10-01-sen-aps-bourses-securite-familiale-mobile-money
 SLE,PSSNYE Economic Inclusion Grants,Sierra Leone,g2p,Afri-money,NaCSA,,2026-07-06-sierra-leone-nacsa-economic-inclusion-grants-falaba-afrimoney
 SOM,BOOST-You (Building Opportunities and Outcomes in Social Protection and Youth Employment),SOM,other,,Ministry of Labor and Social Affairs,,2026-05-13-somalia-boost-you-additional-financing-project-paper
 SOM,Social Protection Delivery System (SPDS),SOM,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
@@ -125,6 +148,8 @@ SWZ,Social Grant Disbursement System,Eswatini,g2p,,Deputy Prime Minister's Offic
 SWZ,MoMo,Eswatini,other,mobile money,,,2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly
 SYC,REPAIR post-disaster cash transfers,Seychelles,g2p,ASP beneficiary registry and payment systems,Agency for Social Protection,,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments
 SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
+SYC,Social Welfare Information System (SWISS),Seychelles,other,,Agency for Social Protection,,2021-04-01-syc-employment-asp-budget-eliminate-cash-payment
+SYC,Agency for Social Protection benefit payments,Seychelles,g2p,,Agency for Social Protection,,2020-11-01-syc-employment-francourt-asp-visit-bank-transfers
 TCD,Airtel Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
 TCD,Moov Money,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
 TCD,Konoom,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
@@ -146,6 +171,8 @@ UGA,Zaidi,Uganda,other,,Government of Uganda,,2026-09-18-uga-kampalareport-paris
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,SRD application and payment system,South Africa,g2p,,SASSA,,2025-02-26-zaf-parliament-sassa-srd-system-findings
+ZAF,SASSA social grants,South Africa,g2p,bank account EFT,SASSA,,2026-01-01-zaf-sassa-you-and-your-grant-booklet-2026
 ZMB,Social Cash Transfer,Zambia,g2p,payment service providers (mobile),Ministry of Community Development and Social Services,,2026-08-22-zambiamonitor-social-cash-transfer-july-august-2026
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZMB,Social Cash Transfer,Zambia,other,,Ministry of Community Development and Social Services,,2026-07-31-civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd

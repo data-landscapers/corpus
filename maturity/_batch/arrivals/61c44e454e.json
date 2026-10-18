@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-zmb-ati-zambia-digitalisation-drm-case-study",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The ATI case study says Taxpayer Identification Number (TPIN) registrations nearly doubled in 2024, reaching 554,411, on the Zambia Revenue Authority's digital platforms.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "TPIN",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaxOnApp",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "smartphone app",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

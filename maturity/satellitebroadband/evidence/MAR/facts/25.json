@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-23-mar-lavieeco-pnhd-phase1-99pct-rural-zones",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The minister said any customer in areas without terrestrial broadband can get financial support of up to 2,500 dirhams per subscription to satellite internet from an approved provider under the VSAT initiative.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "VSAT initiative",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

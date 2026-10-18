@@ -40,6 +40,7 @@ CAF,CEMAC-Data,CEMAC-Data regional platform (planned),other,,CEMAC Commission,,2
 CAF,Portail Open Data de la République centrafricaine (ODP-RCA),Portail Open Data de la République centrafricaine,open,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
 CAF,Archives nationales de données,Archives nationales de données,other,,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
 CAF,REDATAM,REDATAM platform,other,REDATAM,,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,ICASEES data page,icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale,open,website,ICASEES,,2026-08-05-caf-icasees-education-nationale-annuaires
 CIV,Géoportail d'urbanisme du Grand Abidjan,Géoportail du Grand Abidjan (no address given),other,geoportal,"Ministère de l'Urbanisme, du Logement et du Cadre de vie (with JICA)",,2026-06-11-geoportail-grand-abidjan-ville-intelligente-fratmat
 CIV,portail Open Data de la Côte d'Ivoire,portail open data,other,,,national,2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5
 CIV,"Engagement 6 : promotion de l'open data (hackathons, renforcement de capacités, campagne digitale)",Engagement 6 du PAN 2024-2026,other,,"CICG (responsible), June 2026 end",national,2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5
@@ -145,6 +146,8 @@ LBY,National Data Distributor (LY-NDEX),National Data Distributor (LY-NDEX),othe
 LBY,LY-GOVREP,LY-GOVREP (national platform for Libyan government reports),other,,General Information Authority with the Cabinet Inspection and Follow-Up Department,,2025-07-20 Libya's GIA launches national government-reports platform LY-GOVREP
 LBY,Open Data Platform,Open Data Platform (opendata.gia.gov.ly),other,,General Information Authority (GIA),national,2026-02-11-gia-open-data-platform-91-datasets
 LBY,National system for the digital mineral map of Libya (trial version),Digital mineral map of Libya,other,SQL database with digital geological maps,Ministry of Industry and Minerals,,2026-08-13-libya-digital-mineral-map-trial-launch
+LBY,Libya open data platform,opendata.gia.gov.ly,open,,General Authority for Communications and Informatics,,2026-09-29-lby-gia-gender-comparison-2025-dataset
+LBY,Open data platform (opendata.gia.gov.ly),opendata.gia.gov.ly,open,,General Authority for Communications and Informatics,,2026-09-29-lby-gia-ict-workforce-indicator-2025
 LSO,Lesotho Open Data Initiative (LODI),Lesotho Open Data Initiative,other,,civil society,,2021-09-01-lesotho-data-use-statistical-capacity-assessment
 MAR,data.gov.ma,data.gov.ma,other,CKAN,,national,2025-01-03-add-base-de-donnees-startups-marocaines
 MAR,data.gov.ma national open data portal,portail national des donnees ouvertes,other,,Agence de Developpement du Digital (ADD),national; ministries and public bodies publish through designated Open Data Officers and Data Managers,2026-08-08-data-gov-ma-gouvernance-plan-actions-national-open-data

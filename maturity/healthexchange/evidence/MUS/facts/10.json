@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-29-mus-undp-one-patient-one-record-launch",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "UNDP says Mauritius launched the Rs 600 million two-phase 'One Patient, One Record' e-health project on 27 January 2024, with emphasis on health information exchange systems among providers, first results due at Jawaharlal Nehru Hospital from August 2024.",
+   "as_of": "2024-01-27",
+   "date_precision": "day",
+   "system": "One Patient, One Record",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Patient, One Record",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health and Wellness",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

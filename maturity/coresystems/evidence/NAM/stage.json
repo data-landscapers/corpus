@@ -1,19 +1,20 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "unplaced",
-   "finance": "",
-   "revenue": "inuse",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "unplaced",
+      "finance": "",
+      "revenue": "inuse",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
+      "note": "Counted from the four questions by study-ladder-coresystems.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

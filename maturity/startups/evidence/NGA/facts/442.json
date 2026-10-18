@@ -1,0 +1,26 @@
+{
+ "slug": "2022-10-21-nga-gazette-nigeria-startup-act-2022",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Nigeria Startup Act, 2022 (Act No. 32), assented to by the President on 19 October 2022 and published in the Official Gazette of 21 October 2022, establishes the National Council for Digital Innovation and Entrepreneurship, a startup label, a Startup Portal and a Startup Investment Seed Fund.",
+   "as_of": "2022-10-19",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act, 2022",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Investment Seed Fund",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Sovereign Investment Authority (fund manager)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

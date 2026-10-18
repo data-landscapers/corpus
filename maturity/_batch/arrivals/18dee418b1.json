@@ -1,0 +1,164 @@
+{
+ "slug": "2025-07-21-mwi-nation-banks-respond-digital-services-findex",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "The World Bank's Global Findex 2025 report indicates that 50 percent of Malawian adults had a financial account in 2024, as reported by the Bankers Association of Malawi's chief executive.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Global Findex 2025",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The document says cashing outlets for Airtel Money and TNM Mpamba have spread, per a University of Malawi lecturer.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Airtel Money; TNM Mpamba",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Bankers Association of Malawi's chief executive says integration with the National Switch has enabled wallet-to-bank and bank-to-wallet transfers.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "National Switch",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The Bankers Association of Malawi's chief executive says the National Switch connects banks and wallets for transfers in both directions.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "National Switch",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Switch",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  }
+ }
+}

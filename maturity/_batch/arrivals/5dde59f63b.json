@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-01-mli-agefau-renforcement-capacites-collectivites-bureautique",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "AGEFAU financed the launch on 1 September 2026 of office-software and collaborative-tools training run by the Centre de Formation des Collectivités Territoriales for 504 elected officials and staff of 126 communes, whose first session drew 84 participants from 21 communes.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "Centre de Formation des Collectivités Territoriales training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 200 million FCFA convention funds training; no state budget line for digital programmes or statement on domestic financing."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Training for commune staff is capacity, not an office connection."
+    }
+   }
+  }
+ }
+}

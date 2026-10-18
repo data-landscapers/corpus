@@ -1,1 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
+ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai

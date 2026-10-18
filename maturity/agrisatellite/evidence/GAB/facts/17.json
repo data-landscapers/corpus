@@ -1,0 +1,17 @@
+{
+ "slug": "2022-04-14-gab-pouvoirs-afrique-statistiques-agricoles-satellite",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Pouvoirs d'Afrique reports, citing FAO, that Gabon's statistics directorate will use European Space Agency Earth-observation imagery to produce national seasonal crop maps for agricultural statistics.",
+   "as_of": "2022-04-14",
+   "date_precision": "day",
+   "system": "ESA Earth-observation agricultural statistics, Gabon",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

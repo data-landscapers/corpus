@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001",
-      "gaps": "No source held since October 2023 says: is one delivering, with sites counted.",
+      "stage_sources": "AGO-003",
+      "gaps": "No source held since October 2023 gives internet use in rural and in urban areas.",
       "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

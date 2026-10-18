@@ -1,0 +1,17 @@
+{
+ "slug": "2022-03-10-egy-ahram-unified-tax-registration-number",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Finance Minister Maait says each taxpayer has one unified tax registration number covering all taxes, through which up to 49 e-returns are filed online, with Cairo 4 district online since January 2022.",
+   "as_of": "2022-03-10",
+   "date_precision": "day",
+   "system": "Unified tax registration number",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

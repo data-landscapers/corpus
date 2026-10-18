@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-mli-securite-gouv-digitalisation-paiements-services",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Mali's Ministry of Security says digital payment of road traffic fines and fees for documents issued at police stations and gendarmerie brigades was launched on 19 July 2024 and is now a reality, after successful tests.",
+   "as_of": "2024-07-19",
+   "date_precision": "day",
+   "system": "digitalisation des moyens de paiement",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitalisation des moyens de paiement dans les services publics",
+   "country_label": "Mali",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

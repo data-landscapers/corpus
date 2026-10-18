@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-tza-tsa-startup-ecosystem-status-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "The Tanzania Startup Association reports that in 2024 Tanzania advanced preparations for its first National Startup Policy, coordinated by the Ministry of Communications and Information Technology, with the drafting phase under way and consultations still to begin.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Startup Policy and Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Venture Capital Fund",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance with regulators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

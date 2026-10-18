@@ -1,0 +1,25 @@
+{
+ "slug": "2025-08-08-mwi-gazette-tax-admin-electronic-system-rules",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Tax Administration (Electronic System) Rules, 2025, made 4 August 2025 by the Commissioner General, require taxpayers to be registered electronically and the Commissioner General to keep an electronic register of taxpayers.",
+       "as_of": "2025-08-04",
+       "date_precision": "day",
+       "system": "MRA electronic register",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

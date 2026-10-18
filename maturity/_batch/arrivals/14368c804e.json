@@ -1,0 +1,126 @@
+{
+ "slug": "2024-12-06-ken-undp-africa-centre-competence-digital-ai-skilling",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Kenya School of Government's director general says the first cohort of civil servants is already training at the newly launched Africa Centre of Competence for Digital and AI Skilling, with UNDP, Microsoft and Google, aiming at 100,000 civil servants in the first phase.",
+       "as_of": "2024-12-06",
+       "date_precision": "day",
+       "system": "Africa Centre of Competence for Digital and AI Skilling",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Africa Centre of Competence for Digital and AI Skilling",
+       "country_label": "Kenya",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Kenya School of Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Government of Kenya, UNDP and Konza Technopolis launched the timbuktoo GreenTech Hub, hosted at Konza Technopolis, on 6 December 2024; no programme or cohort is described.",
+       "as_of": "2024-12-06",
+       "date_precision": "day",
+       "system": "timbuktoo GreenTech Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "timbuktoo GreenTech Hub",
+       "country_label": "Kenya",
+       "class": "hub",
+       "platform": "",
+       "owner": "Konza Technopolis",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

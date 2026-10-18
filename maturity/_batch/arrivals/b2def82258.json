@@ -1,0 +1,61 @@
+{
+ "slug": "2024-09-22-cog-dgpme-chatbot-ia-experimentation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The DGPME says it opened an AI-based interactive information platform on the business-support schemes to users for testing, ahead of launching its chatbot.",
+       "as_of": "2024-09-22",
+       "date_precision": "day",
+       "system": "DGPME AI information platform and chatbot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGPME AI information platform and chatbot",
+       "country_label": "Congo",
+       "class": "govai",
+       "platform": "",
+       "owner": "Direction Generale des Petites et Moyennes Entreprises",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A general information chatbot, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No local development stated; builder not named."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2022-03-16-stp-di-sistema-informacao-tributaria-sit-iva",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIT-IVA",
+       "country_label": "São Tomé e Príncipe",
+       "class": "other",
+       "platform": "",
+       "owner": "Direcção dos Impostos",
+       "tiers": ""
+      }
+     ],
+     "note": "Source reports a VAT tax information system under development (delivery due Aug 2022), with no taxpayer register or number named."
+    }
+   }
+  }
+ }
+}

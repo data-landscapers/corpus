@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 5 |
 | 4 Operating | 1 |
-| 3 Established | 23 |
-| 2 Nascent | 7 |
+| 3 Established | 28 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 18 |
+| Unplaced | 7 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -54,11 +54,24 @@ Government payments to people were checked against the national ID or social reg
 
 - The ministry's verification exercise checked grant beneficiaries' identities against the national population register administered by home affairs, and some records did not match ([source, 2026-09-08](https://www.namibiansun.com/local-news/5-700-grant-beneficiaries-still-locked-out-of-payment-system-nmh017779-1-21902)).
 
+### Nigeria: 5 Leading
+
+Government payments to people were checked against the national ID or social registry in 2024.
+
+- The World Bank says payments to recipients' bank accounts are made after validating individuals through the NIN or BVN, and low NIN/BVN coverage among the poor slowed the rollout ([source, 2024-10-08](https://nairametrics.com/2024/10/20/over-4-million-households-benefit-from-fgs-cash-transfer-lowest-in-southeast-report/)).
+- Beneficiaries are matched on NIN and BVN with in-person verification and biometrics, and those without a NIN and BVN are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
+
 ### Senegal: 4 Operating
 
 Two or more main government payment streams were digital in 2025; checks against the ID are not known.
 
 - The DGCPT says SenTrésor pays salaries and allowances, pensions, scholarships and social aid, and names village chiefs, students and salaried staff as beneficiaries ([source, 2025-06-02](https://www.sentresor.org/sentresor-la-plateforme-de-paiements-digitaux-lancee/)).
+
+### Angola: 3 Established
+
+A government programme paid people digitally in 2025; a second main stream is not known.
+
+- FAS, the Kwenda programme's implementer, says that from 10 January 2025 Kwenda social cash transfers were paid directly into 91 Cabinda households' personal bank accounts, collected at ATMs and partner bank branches ([source, 2025-01-10](https://fasangola.com/pt/2025/01/11/kwenda-avanca-com-transferencia-monetaria-as-contas-pessoais-dos-beneficiarios-em-cabinda/)).
 
 ### Benin: 3 Established
 
@@ -92,8 +105,21 @@ A government programme paid people digitally in 2026; a second main stream is no
 
 A government programme paid people digitally in 2026; a second main stream is not known.
 
+- The PFSS-RRC says the World Bank-backed Mayendeleyo social cash transfer phase launched on 20 September 2026 pays 55,000 households through the mobile-banking operators Mvula and Huri Money ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
 - Africa24 TV says the Msaanda social cash transfers under the World Bank-financed PFSS-RRC (2023-2027) pay each beneficiary up to 75,000 KMF via mobile banking, reaching 40,010 households ([source, 2026-03](https://africa24tv.com/comores-financement-des-filets-sociaux-plus-de-40-000-menages-vulnerables-beneficiaires/)).
-- The World Bank/Government mission aide-memoire on the PFSS-RRC social safety net project says the use of electronic payments, with digitalised operations and a digitised monitoring system, contributed to the success of the project's interventions ([source, 2025-12](https://pfss-comores.org/ressources/download/9)).
+
+### Congo: 3 Established
+
+A government programme paid people digitally in 2025; a second main stream is not known.
+
+- The World Bank says the government-launched Lisungi project introduced digital payments via mobile money for its cash transfers, and that its delivery systems were institutionalized in the National Safety Net Program ([source, 2025-03-27](https://www.worldbank.org/en/news/feature/2025/03/27/afw-refugee-women-in-congo-are-planting-the-seeds-for-change-with-cash-transfers)).
+
+### Cote d'Ivoire: 3 Established
+
+A government programme paid people digitally in 2026; a second main stream is not known.
+
+- The BCEAO says the Treasury of Cote d'Ivoire, having met all PI-SPI requirements, regularly makes bulk payments through the platform, which lets Treasuries send salaries, grants and subsidies to any account ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
+- APIF's 2024 report says the government's Programme Filets Sociaux Productifs pays quarterly allowances to rural households by mobile phone into e-money accounts, with 230,000 active beneficiaries and 130,000 new mobile money accounts opened in 2024 ([source, 2024](https://apif.finances.gouv.ci/images/app/publications/364/rapport-if-2024com.pdf)).
 
 ### Egypt: 3 Established
 
@@ -146,6 +172,12 @@ A government programme paid people digitally in 2026; a second main stream is no
 - The Caisse Malienne de Securite Sociale pays pensions by mobile payment, which the article calls a success, and is now digitalising bank payment of pensions ([source, 2026-07-27](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/)).
 - The Caisse malienne de sécurité sociale has paid pensions by mobile since 2019, and its application pays pensions below FCFA 50,000 by mobile; a bank-payment pilot with the Banque de Développement du Mali was judged conclusive in July 2026 ([source, 2026-07-27](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/)).
 
+### Morocco: 3 Established
+
+A government programme paid people digitally in 2023; a second main stream is not known.
+
+- Direct social aid has been paid since end December 2023, with government and central bank requiring payment only into payment or bank accounts, not cash (Médias24) ([source, 2023-12](https://medias24.com/2024/02/20/aides-sociales-directes-les-premiers-retours-dexperience-du-secteur-des-etablissements-de-paiement/)).
+
 ### Rwanda: 3 Established
 
 A government programme paid people digitally in 2025; a second main stream is not known.
@@ -172,6 +204,13 @@ A government programme paid people digitally in 2026; a second main stream is no
 
 - The Central Bank says SIPS supports government disbursements to citizens ([source, 2026-07-27](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx)).
 - SONNA reports SIPS currently carries disbursements made by government to citizens ([source, 2026-07-26](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network)).
+
+### South Africa: 3 Established
+
+A government programme paid people digitally in 2025; a second main stream is not known.
+
+- The Minister of Social Development says SRD grant payments run through beneficiary bank accounts, with accounts lacking biometric FICA verification placed in a 'referred' status that blocks further payments ([source, 2025-07-01](https://pmg.org.za/committee-question/31120/)).
+- The Portfolio Committee on Social Development says SASSA administers the SRD application and payment system, which uses a mobile money service to pay grants ([source, 2025-02-26](https://www.parliament.gov.za/press-releases/media-statement-committee-welcomes-findings-sassas-srd-grant-payment-system)).
 
 ### Tanzania: 3 Established
 
@@ -250,42 +289,62 @@ Digital government payments to people were under way in 2025; none in service is
 Digital government payments to people were under way in 2025; none in service is on record.
 
 - The UN in Lesotho says the Government, led by the Ministry of Gender, Youth and Social Development with EU, UNICEF and World Bank support, is transitioning Child Grants Programme payments from third-party cash-in-transit to mobile payments through selected mobile network providers ([source, 2025-01](https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025)).
+- The EU/UNICEF-backed Ntlafatsa Bana project (2023-2026) aims to improve Child Grants Programme delivery by shifting towards digital payments and digitalising payments to beneficiaries, and the Ministry of Gender, Youth and Social Development is transitioning to digital payments ([source, 2024-06-20](https://www.eeas.europa.eu/delegations/lesotho/eu-and-unicef-provide-new-resources-government-enhance-child-well-being-and-social-services-lesotho_en)).
 
-### Cote d'Ivoire: Unplaced
+### Madagascar: 2 Nascent
+
+Digital government payments to people were under way in 2025; none in service is on record.
+
+- The Fonds d'Intervention pour le Développement, under the World Bank-financed Projet Filets de Sécurité et de Résilience, opened a consultation on 30 July 2025 (bids due 19 August 2025) for payment services for the FSP cash transfers by QR code on the PGP platform, in two lots covering six communes of Benenitra district ([source, 2025-07-30](https://www.fid.mg/services-pour-le-paiement-des-transferts-monetaires-du-programme-fsp-par-qr-code-sur-la-plateforme-pgp-n03-dc-fid-dru-fsr-25-19-08-2025/)).
+
+### South Sudan: 2 Nascent
+
+Digital government payments to people were under way in 2025; none in service is on record.
+
+- The Ministry of Finance and Planning held a meeting in Juba on implementing a government resolution requiring all civil servant salaries to be paid through individual bank accounts, with senior officials saying the shift is already underway in many institutions but no mandatory date set ([source, 2025-08-02](https://radioyei.org/news/business/banking-and-finance/government-races-to-end-cash-salary-payments/)).
+- The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts ([source, 2024-09-19](https://nation.africa/africa/news/south-sudan-tests-cashless-pay-to-civil-servants-4767684)).
+
+### Algeria: Unplaced
 
 Nothing held since 2023 names digital government payments to people, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether government pays people digitally.
 
-### Algeria: No evidence
+### Burkina Faso: Unplaced
 
-Nothing held names digital government payments to people or says there is none, so no stage is set.
+Nothing held since 2023 names digital government payments to people, so no stage is set.
 
-Not established: Nothing held says how government pays people.
+Not established: Nothing held since October 2023 says whether government pays people digitally.
 
-### Angola: No evidence
+### Cape Verde: Unplaced
 
-Nothing held names digital government payments to people or says there is none, so no stage is set.
+Nothing held since 2023 names digital government payments to people, so no stage is set.
 
-Not established: Nothing held says how government pays people.
+Not established: Nothing held since October 2023 says whether government pays people digitally.
 
-### Burkina Faso: No evidence
+### Eritrea: Unplaced
 
-Nothing held names digital government payments to people or says there is none, so no stage is set.
+Nothing held since 2023 names digital government payments to people, so no stage is set.
 
-Not established: Nothing held says how government pays people.
+Not established: Nothing held since October 2023 says whether government pays people digitally.
 
-### Cape Verde: No evidence
+### Mozambique: Unplaced
 
-Nothing held names digital government payments to people or says there is none, so no stage is set.
+Nothing held since 2023 names digital government payments to people, so no stage is set.
 
-Not established: Nothing held says how government pays people.
+Not established: Nothing held since October 2023 says whether government pays people digitally.
 
-### Congo: No evidence
+### Seychelles: Unplaced
 
-Nothing held names digital government payments to people or says there is none, so no stage is set.
+Nothing held since 2023 names digital government payments to people, so no stage is set.
 
-Not established: Nothing held says how government pays people.
+Not established: Nothing held since October 2023 says whether government pays people digitally.
+
+### Sudan: Unplaced
+
+Nothing held since 2023 names digital government payments to people, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether government pays people digitally.
 
 ### Djibouti: No evidence
 
@@ -299,67 +358,13 @@ Nothing held names digital government payments to people or says there is none, 
 
 Not established: Nothing held says how government pays people.
 
-### Eritrea: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Madagascar: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
 ### Mauritius: No evidence
 
 Nothing held names digital government payments to people or says there is none, so no stage is set.
 
 Not established: Nothing held says how government pays people.
 
-### Morocco: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Mozambique: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
 ### Niger: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Nigeria: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Seychelles: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### South Africa: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### South Sudan: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
-
-### Sudan: No evidence
 
 Nothing held names digital government payments to people or says there is none, so no stage is set.
 

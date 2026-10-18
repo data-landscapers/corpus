@@ -1,0 +1,25 @@
+{
+ "slug": "2020-01-16-uga-independent-ict-ministry-addressing-budget",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "The Independent reports Uganda's ICT Ministry seeking UGX 92 billion to assign addresses to all locations and link them to the national ID database, and says house numbering, street naming and postal codes are already happening in Uganda.",
+       "as_of": "2020-01-16",
+       "date_precision": "day",
+       "system": "National addressing project (ICT Ministry)",
+       "class": "address"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

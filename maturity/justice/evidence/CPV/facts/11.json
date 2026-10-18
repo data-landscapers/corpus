@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-28-cpv-bo-lei-38-x-2024-sij",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Law 38/X/2024 says the Justice Information System (SIJ) has been phased in for over a decade to support electronic handling of cases in the courts, though its mass use in courts has been hindered.",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "SIJ",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIJ",
+   "country_label": "Cabo Verde",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "courts, prosecution, criminal police"
+  }
+ ],
+ "note": ""
+}

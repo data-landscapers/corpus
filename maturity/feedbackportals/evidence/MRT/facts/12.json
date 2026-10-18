@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-21-mrt-ami-ain-96pct-plaintes-traitees",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The Minister of Digital Transformation says the Ain app, launched in October 2024, had recorded about 9,000 requests and complaints on access to basic services by May 2025.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Ain",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "The minister states 96% of requests and complaints on Ain have been processed, the other 4% being in progress, and that 52% of citizens rating the service call it good quality.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "Ain",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ain",
+   "country_label": "Mauritanie",
+   "class": "feedback",
+   "platform": "app",
+   "owner": "Ministry of Digital Transformation and Administrative Modernisation",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

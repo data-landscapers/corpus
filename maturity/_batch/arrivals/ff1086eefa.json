@@ -1,0 +1,70 @@
+{
+ "slug": "2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The procurement assistant is general administration, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI master's course is named; no model, dataset or computing."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "ANSIE presented a virtual assistant for the public procurement platform at a UNDP-backed AI meeting; no service date or users are given.",
+       "as_of": "2025-06-30",
+       "date_precision": "day",
+       "system": "assistant virtuel pour la plateforme des march\u00e9s publics",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Assistant virtuel, plateforme des march\u00e9s publics",
+       "country_label": "Djibouti",
+       "class": "govai",
+       "platform": "public procurement platform",
+       "owner": "ANSIE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

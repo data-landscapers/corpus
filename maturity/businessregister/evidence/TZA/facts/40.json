@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-tza-brela-usajili-wa-kampuni-online",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "BRELA's service page sets out a 10-step company registration through its online registration system (ORS), with payment by mobile or bank.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "BRELA Online Registration System (ORS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BRELA Online Registration System (ORS)",
+   "country_label": "Tanzania",
+   "class": "business",
+   "platform": "",
+   "owner": "BRELA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

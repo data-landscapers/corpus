@@ -1,0 +1,26 @@
+{
+ "slug": "2023-04-30-mdg-instat-annuaire-statistique-education-2022-2023",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "INSTAT reports the education ministry's planning directorate collected the 2022-2023 annual school census from schools, entered it in statistical software developed by the ministry's DTIC, and published the national yearbook.",
+   "as_of": "2023-04-30",
+   "date_precision": "day",
+   "system": "logiciel d'application statistique (DTIC)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "logiciel d'application statistique",
+   "country_label": "logiciel d'application statistique développé par la DTIC",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of National Education (DTIC)",
+   "tiers": "CISCO, DREN, central"
+  }
+ ],
+ "note": ""
+}

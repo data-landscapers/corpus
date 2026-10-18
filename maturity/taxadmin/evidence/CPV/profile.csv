@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,taxsystem,filing,coverage,inservice,2024-05-28,CPV-001,,
+CPV,taxsystem,payment,coverage,electronic,2019-02-11,CPV-002,,nothing dated since 2023-10-18
+CPV,taxsystem,uptake,coverage,,,,,nothing held

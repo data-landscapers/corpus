@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-gmb-gna-moi-ai-fact-checking-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI-powered fact-checking and verification system",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "WhatsApp line",
+   "owner": "Ministry of Information, Media and Broadcasting Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a response centre, not a rule or a designated authority on AI harms."
+}

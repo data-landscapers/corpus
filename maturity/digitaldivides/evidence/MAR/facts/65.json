@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mar-mtnra-connectivite-service-universel-pnhd",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The ministry states that the universal service programme PNHD1 had covered 10,620 localities with 4G by end March 2024, and that over 2,500 VSAT access points had been subsidised by end 2022.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Plan national du haut débit (PNHD1) / Service universel des télécommunications",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether a public sector's system uses AI.
+***Not held***. Nothing held since October 2023 says whether an AI tool is in service in a public sector's system.

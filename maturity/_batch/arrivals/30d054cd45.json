@@ -1,0 +1,133 @@
+{
+ "slug": "2024-06-03-lso-undp-e-service-outlet-model",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "UNDP and Lesotho's communications ministry launched the E-Service Outlet Model, in which internet and print shops and mobile money agents help people reach government e-service platforms, such as registering a business or obtaining a trader's licence, without visiting offices.",
+       "as_of": "2024-06-03",
+       "date_precision": "day",
+       "system": "E-Service Outlet Model",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Service Outlet Model",
+       "country_label": "Lesotho",
+       "class": "eservices",
+       "platform": "internet and print shops and mobile money agents",
+       "owner": "Ministry of Information, Communications, Science, Technology and Innovation with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  }
+ }
+}

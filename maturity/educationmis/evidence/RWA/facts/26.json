@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-02-rwa-unicef-sdms-school-data-management",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "UNICEF says it has supported MINEDUC for over five years to move the EMIS from paper to a fully digital web-based system, with the SDMS operational as a component of the envisioned digital EMIS.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "School Data Management System (SDMS)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "School Data Management System (SDMS)",
+   "country_label": "SDMS",
+   "class": "emis",
+   "platform": "web-based",
+   "owner": "MINEDUC with UNICEF and GPE support",
+   "tiers": "school, district, ministry"
+  }
+ ],
+ "note": ""
+}

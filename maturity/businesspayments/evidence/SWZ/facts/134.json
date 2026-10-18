@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-swz-positivenews-pac-e-gp-under-expenditure",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Auditor General told the Public Accounts Committee that of E18.8 million appropriated for the Eswatini Electronic Government Procurement System only E1.1 million was released and E500 000 spent, while the Finance Principal Secretary said the project is now implemented.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Eswatini Electronic Government Procurement System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Electronic Government Procurement System",
+   "country_label": "Eswatini Electronic Government Procurement System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

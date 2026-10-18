@@ -1,0 +1,44 @@
+{
+ "slug": "2023-10-09-tgo-togofirst-tribunal-commerce-visioconference",
+ "studies": {
+  "justice": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "inservice",
+       "fact": "Togo First reports the Lomé commercial court runs SYSCOM, a centralised system for commercial procedures covering case registration of summonses and filings.",
+       "as_of": "2023-10-09",
+       "date_precision": "day",
+       "system": "SYSCOM",
+       "class": "justice"
+      },
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "The Lomé commercial court president says SYSCOM lets internal and external users file documents and requests electronically and receive electronic notification of decisions.",
+       "as_of": "2023-10-09",
+       "date_precision": "day",
+       "system": "SYSCOM",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYSCOM",
+       "country_label": "Togo",
+       "class": "justice",
+       "platform": "",
+       "owner": "Tribunal de commerce de Lomé",
+       "tiers": "Lomé commercial court, Lomé appeal court"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

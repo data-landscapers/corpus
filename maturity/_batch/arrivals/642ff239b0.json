@@ -1,0 +1,52 @@
+{
+ "slug": "2024-10-22-eth-moj-eaii-integrated-criminal-justice-system",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for ETH."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice-sector system, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Ministry of Justice and the Ethiopian AI Institute signed a work contract to develop an integrated criminal justice system, which the AI Institute is to deliver within one year, and the state minister says the justice system must be supported by AI.",
+       "as_of": "2024-10-22",
+       "date_precision": "day",
+       "system": "Integrated Criminal Justice System",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "A justice information system, not an AI model, dataset or AI computing."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,4 @@
+{"slug":"2024-07-02-nga-punch-crop-watch-launch","studies":{
+"agrisatellite":{"countries":{"NGA":{"facts":[{"sub_indicator":"agrisat","aspect":"service","value":"inservice","fact":"Punch reports that NASRDA launched Crop Watch in Abuja, a satellite-based agricultural monitoring system using remote sensing and ground data to evaluate crop growth and yield, with UNCTAD and the Chinese Academy of Sciences.","as_of":"2024-07-02","date_precision":"day","system":"Crop Watch","class":"agrisat"}],"systems":[{"system":"Crop Watch","country_label":"Nigeria","class":"agrisat","platform":"remote sensing and ground observation","owner":"NASRDA","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The language model mentioned is a Chinese Academy of Sciences plan, not built in Nigeria."}}},
+"policyresearch":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No local research institution on digital policy is named."}}}}}

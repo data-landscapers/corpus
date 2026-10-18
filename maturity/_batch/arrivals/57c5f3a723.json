@@ -1,0 +1,34 @@
+{
+ "slug": "2018-04-10-mli-dgi-comment-obtenir-nif",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The tax directorate page says a tax identification number is obtained by application at a tax centre, the investment promotion agency or online, with the NIF card ready within 48 hours.",
+       "as_of": "2018-04-10",
+       "date_precision": "day",
+       "system": "NIF",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIF",
+       "country_label": "Numero d'Identification Fiscal",
+       "class": "tax",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

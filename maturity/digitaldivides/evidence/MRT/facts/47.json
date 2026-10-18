@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-28-mrt-ami-couverture-zones-frontalieres-sud-axe-1",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "President Ghazouani oversaw the groundbreaking of axis 1 (N'Diago to Ould Yengé, 740 km) of a southern border-zone coverage project, to reach over 241 villages and 200,000 inhabitants through 42 new solar sites and 60 upgraded operator sites, financed by the universal access fund and Huawei, per the telecoms minister.",
+   "as_of": "2023-12-28",
+   "date_precision": "day",
+   "system": "southern border zones communication coverage project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "southern border zones communication coverage project",
+   "country_label": "Mauritania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

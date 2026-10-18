@@ -1,6 +1,6 @@
 # Use of open data: use of open data
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 3 |
 | 4 Operating | 5 |
-| 3 Established | 8 |
-| 2 Nascent | 26 |
+| 3 Established | 7 |
+| 2 Nascent | 27 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
+
+### Central African Republic: 5 Leading
+
+Reuse of the government's published data is on record in 2026.
+
+- The ICASEES page shows download counts per file, for example 165 downloads of the 2015-2025 key indicators file and 147 of the 2021-2022 yearbook ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
 
 ### Liberia: 5 Leading
 
@@ -78,12 +84,6 @@ Several public bodies published data for download in 2026; no reuse of it is on 
 Government data was published under an open licence on the Plateforme de Données Ouvertes (INSBU) in 2025; several publishing bodies are not on record.
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
-
-### Central African Republic: 3 Established
-
-Government data was published under an open licence on the Open Data Portal (ODP) in 2026; several publishing bodies are not on record.
-
-- ICASEES confirmed at a regional meeting that a new open licence is integrated on its Open Data portal and institutional website ([source, 2026-06](https://www.icasees.org/index.php/actualites/364-icasees-participation-de-la-republique-centrafricaine-a-la-reunion-regionale-de-suivi-des-mises-a-jour-odin-odp)).
 
 ### Madagascar: 3 Established
 
@@ -249,6 +249,12 @@ Government data was published for download on the NSA Central Data Catalog (NADA
 
 - The Namibia Statistics Agency runs a NADA microdata catalogue (microdata.nsanamibia.com) listing 16 Namibian studies, most marked Open data access, including the 2023 census PUMS last modified 21 July 2026; the document is a capture dated 9 August 2026 ([source, 2026-08-09](https://nsa.org.na/data-portals/)).
 
+### Rwanda: 2 Nascent
+
+Government data was published for download on the RPPA open contracting portal in 2024; no open licence is on record.
+
+- The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API ([source, 2024-11-12](https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/)).
+
 ### Seychelles: 2 Nascent
 
 Government data was published for download on a government site in 2026; no open licence is on record.
@@ -337,12 +343,6 @@ Nothing held says whether a public body publishes data for anyone to download, s
 Not established: Nothing held names government data published for download, or says there is none.
 
 ### Gabon: No evidence
-
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
-
-Not established: Nothing held names government data published for download, or says there is none.
-
-### Rwanda: No evidence
 
 Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
 

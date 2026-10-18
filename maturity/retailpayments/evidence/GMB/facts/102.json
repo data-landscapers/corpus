@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-30-gmb-mansabanko-nawec-app-complaints",
+ "facts": [],
+ "systems": [
+  {
+   "system": "APS Wallet",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "wallet",
+   "owner": "APS Wallet",
+   "tiers": ""
+  }
+ ],
+ "note": "The app pays utility bills through APS Wallet, but the document does not say the wallet is a licensed mobile money service in service."
+}

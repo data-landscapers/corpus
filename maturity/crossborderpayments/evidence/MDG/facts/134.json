@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-26-mdg-expression-mfs-africa-mvola-remittances",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MFS Africa went live as the first aggregator with MVola in Madagascar, carrying inbound remittances from Europe, the US and the UK and MNO-to-MNO transfers from the rest of Africa.",
+   "as_of": "2023-10-26",
+   "date_precision": "day",
+   "system": "MFS Africa-MVola integration",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Telma Madagascar",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

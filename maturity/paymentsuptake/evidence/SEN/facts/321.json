@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-03-sen-orbit-taux-inclusion-financiere-bceao",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023, up from 61.90% in 2016.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "BCEAO financial inclusion rate",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "BCEAO financial inclusion rate",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

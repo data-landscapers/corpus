@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GHA,E-VAT,Ghana,other,GRA e-invoicing platform,Ghana Revenue Authority,standalone or integrated with existing invoicing,2026-01-01-gra-e-vat-electronic-invoicing-act-1151
+GHA,Ghana.gov,Ghana,revenue,,Ghana Revenue Authority,,2021-04-21-gha-gra-cashless-policy
+GHA,ITAPS,Ghana,revenue,,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation
+GHA,Paperless Port System,Ghana,other,GCNet,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation

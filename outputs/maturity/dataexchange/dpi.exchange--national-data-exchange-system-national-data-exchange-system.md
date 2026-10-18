@@ -24,9 +24,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 4 Operating | 4 |
 | 3 Established | 10 |
 | 2 Nascent | 18 |
-| 1 Absent | 3 |
+| 1 Absent | 4 |
 | Unplaced | 4 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -80,8 +80,8 @@ Ten or more bodies or systems were connected to the government exchange platform
 
 A government data exchange platform was in service in 2026; how many systems it connects is not known.
 
+- The CNRC says the company-creation portal gives access to an electronic exchange platform between CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS ([source, 2026-10-17](https://sidjilcom-entreprise.cnrc.dz/acceuil)).
 - El Chaab's dossier says the national interoperability system lets ministries such as health, justice and interior coordinate without duplicating data, relying on data classification and indexing references ([source, 2026-09](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/)).
-- The expert lists, among official figures, the launch of a secure data exchange platform and the national digital services portal, giving no description of bodies connected; as_of is the document's published date ([source, 2026-08-20](https://elmasdareliktissadi.dz/?p=44354)).
 
 ### Cape Verde: 3 Established
 
@@ -273,6 +273,12 @@ A 2025 source says government systems have no data exchange platform.
 
 - The World Bank ISR for the RISE project records no interoperability across the GamSR, the education management information systems, CRVS and the health insurance system at baseline (January 2024) and a current value of 0 at 25 November 2025, against a target of at least 3 systems interoperable by October 2028; one instance is being verified ([source, 2025-11-25](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf)).
 
+### Seychelles: 1 Absent
+
+A 2026 source says government systems have no data exchange platform.
+
+- The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services ([source, 2026-10-07](http://documents.worldbank.org/curated/en/099100726053521931)).
+
 ### Somalia: 1 Absent
 
 A 2026 source says government systems have no data exchange platform.
@@ -359,12 +365,6 @@ Nothing held names a government data exchange platform or says there is none, so
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Mauritania: No evidence
-
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing held names a government data exchange platform, or says there is none.
-
-### Seychelles: No evidence
 
 Nothing held names a government data exchange platform or says there is none, so no stage is set.
 

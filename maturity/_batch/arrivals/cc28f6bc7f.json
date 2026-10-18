@@ -1,0 +1,14 @@
+{
+ "slug": "2022-01-26-zaf-sars-data-for-trade-efficiency",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Release says over 99% of truck manifests are reported electronically and a Single Window with Transnet is being implemented, but states no declaration system in service and no single window delivered."
+    }
+   }
+  }
+ }
+}

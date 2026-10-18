@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-18-bdi-burundi-eco-digitalisation-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Burundi Eco reports the ID for D digitalisation, announced July 2024, will also cover payment of taxes, fines and duties through an electronic e-payment model.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "e-payment under ID for D",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

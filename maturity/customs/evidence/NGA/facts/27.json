@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-25-nga-thenation-bodogwu-national-single-window",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Nigeria Customs Comptroller-General Adewale Adeniyi says the B'Odogwu customs system is a flagship project with phased improvements and continuous upgrades.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "B'Odogwu",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "B'Odogwu",
+   "country_label": "Nigeria",
+   "class": "customs",
+   "platform": "",
+   "owner": "Nigeria Customs Service",
+   "tiers": ""
+  },
+  {
+   "system": "National Single Window",
+   "country_label": "Nigeria",
+   "class": "customs",
+   "platform": "",
+   "owner": "Federal Government",
+   "tiers": ""
+  }
+ ],
+ "note": "National Single Window is planned for Q1 2026, not in service; no window fact."
+}

@@ -1,3 +1,20 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,BWA,include.access--citizen-participation-in-policy-online-participation-in-policy,fact,2,2,BWA-001;BWA-002,Arrivals added BWA-002; stage unchanged.
 2026-10-17,GHA,include.access--citizen-participation-in-policy-online-participation-in-policy,fact,2,2,GHA-002;GHA-001,Arrivals added GHA-002; stage unchanged.
+2026-10-18,CIV,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,4,CIV-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COD,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,COD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ETH,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBR,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,4,LBR-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,3,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,MUS-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,MWI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NER,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,NER-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,RWA,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,RWA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SOM,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SWZ,include.access--citizen-participation-in-policy-online-participation-in-policy,review,no evidence,2,SWZ-001;SWZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,include.access--citizen-participation-in-policy-online-participation-in-policy,fact,no evidence,2,ZAF-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.

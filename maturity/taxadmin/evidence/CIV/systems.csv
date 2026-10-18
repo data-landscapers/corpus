@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,e-impots,Cote d'Ivoire,taxsystem,e-impots.gouv.ci,Direction Generale des Impots,companies,2018-03-19-civ-cgeci-portail-e-impots-formation
+CIV,DGI mobile,Cote d'Ivoire,taxsystem,mobile,Direction Generale des Impots,synthetic tax and property tax payers,2018-03-19-civ-cgeci-portail-e-impots-formation
+CIV,télé-déclaration / télépaiement,Côte d'Ivoire,taxsystem,,Direction Générale des Impôts,,2023-11-02-civ-finances-fiscalite-interieure-reformes

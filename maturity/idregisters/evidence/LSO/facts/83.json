@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-16-lso-publiceye-iec-re-registration-national-id",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The IEC said its voter re-registration uses National Identification Cards as the sole form of identification, with registration open to all citizens aged 18 and above under the National Identity Card Act.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "IEC voter re-registration",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

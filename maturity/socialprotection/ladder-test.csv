@@ -1,16 +1,16 @@
 iso3,stage,system,payments,integrated,stage_sources
 AGO,3,inservice,,,AGO-001
 BDI,4,inservice,electronic,,BDI-005
-BEN,no evidence,,,,
+BEN,3,inservice,,,BEN-001
 BFA,no evidence,,,,
-BWA,no evidence,,,,
+BWA,1,none,,,BWA-001
 CAF,no evidence,,,,
 CIV,4,inservice,electronic,,CIV-001
 CMR,4,inservice,electronic,,CMR-001
-COD,no evidence,,,,
+COD,unplaced,,,,
 COG,4,inservice,electronic,,COG-001
-COM,no evidence,,,,
-CPV,no evidence,,,,
+COM,4,inservice,electronic,,COM-002;COM-004
+CPV,3,inservice,,,CPV-001
 DJI,no evidence,,,,
 DZA,no evidence,,,,
 EGY,4,inservice,electronic,,EGY-001;EGY-003
@@ -18,38 +18,38 @@ ERI,no evidence,,,,
 ETH,4,inservice,electronic,,ETH-003
 GAB,no evidence,,,,
 GHA,3,inservice,,,GHA-002
-GIN,no evidence,,,,
-GMB,no evidence,,,,
+GIN,4,inservice,electronic,,GIN-001
+GMB,unplaced,,,,
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
+GNQ,2,underway,,,GNQ-001
 KEN,5,inservice,electronic,several,KEN-003
-LBR,no evidence,,,,
-LBY,no evidence,,,,
-LSO,no evidence,,,,
+LBR,unplaced,,,,
+LBY,3,inservice,,,LBY-001
+LSO,3,inservice,,,LSO-002
 MAR,no evidence,,,,
-MDG,no evidence,,,,
+MDG,4,inservice,electronic,,MDG-001
 MLI,no evidence,,,,
 MOZ,4,inservice,electronic,,MOZ-005
-MRT,no evidence,,,,
+MRT,3,inservice,,,MRT-002;MRT-001
 MUS,no evidence,,,,
 MWI,4,inservice,electronic,,MWI-002;MWI-006
 NAM,unplaced,,,,
 NER,no evidence,,,,
-NGA,4,inservice,electronic,,NGA-003;NGA-001
-RWA,no evidence,,,,
-SDN,no evidence,,,,
+NGA,4,inservice,electronic,,NGA-003;NGA-005
+RWA,3,inservice,,,RWA-001
+SDN,unplaced,,,,
 SEN,3,inservice,,,SEN-001
-SLE,no evidence,,,,
+SLE,unplaced,,,,
 SOM,no evidence,,,,
 SSD,3,inservice,,,SSD-001;SSD-003
 STP,4,inservice,electronic,,STP-002
-SWZ,no evidence,,,,
+SWZ,3,inservice,,,SWZ-001
 SYC,3,inservice,,,SYC-001
 TCD,2,underway,,,TCD-001
-TGO,no evidence,,,,
+TGO,unplaced,,,,
 TUN,4,inservice,electronic,,TUN-003
-TZA,no evidence,,,,
-UGA,no evidence,,,,
-ZAF,no evidence,,,,
+TZA,4,inservice,electronic,,TZA-002
+UGA,5,inservice,electronic,several,UGA-002
+ZAF,4,inservice,electronic,,ZAF-004
 ZMB,2,underway,,,ZMB-001
-ZWE,no evidence,,,,
+ZWE,unplaced,,,,

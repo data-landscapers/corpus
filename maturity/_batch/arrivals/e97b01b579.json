@@ -1,0 +1,34 @@
+{
+ "slug": "2021-11-04-tgo-worldbank-idea-esrs-digital-connectivity",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The World Bank concept-stage review says the proposed US$200m IDEA project, with the Government of Togo as borrower, would finance least-cost subsidy reverse auctions for private deployment of digital infrastructure in unserved or underserved rural areas.",
+       "as_of": "2021-11-04",
+       "date_precision": "day",
+       "system": "Togo Increased Digital Connectivity and Electricity Access (IDEA) project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo Increased Digital Connectivity and Electricity Access (IDEA) project",
+       "country_label": "Togo",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Ministry of Energy and Mines (implementing agency)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

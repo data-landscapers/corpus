@@ -1,0 +1,26 @@
+{
+ "slug": "2019-05-03-gnq-unicef-ce-impresionada-registro-nacimientos",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNICEF Equatorial Guinea says the SIREC digital birth registration system, running since late 2018, lets all Malabo residents register births fully digitally, with extension to the continental region aimed for 2019 and national coverage later.",
+   "as_of": "2019-05-03",
+   "date_precision": "day",
+   "system": "SIREC (Sistema Informático del Registro Civil)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIREC",
+   "country_label": "Guinea Ecuatorial",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministerio de Justicia, Culto e Instituciones Penitenciarias with CNIAPGE",
+   "tiers": "Malabo"
+  }
+ ],
+ "note": ""
+}

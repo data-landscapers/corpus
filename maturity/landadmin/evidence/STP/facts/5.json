@@ -1,0 +1,17 @@
+{
+ "slug": "2022-07-20-stp-ua-sirp-sistema-informacao-registo-propriedade",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "none",
+   "fact": "A Universidade de Aveiro dissertation abstract says property registration in Sao Tome and Principe is still done on paper, in books more than two centuries old.",
+   "as_of": "2022-07-20",
+   "date_precision": "day",
+   "system": "paper property registry",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Business register
 
-**Online registration.** [CAFI Managing Director Chaba Mokuku said a Business Facilitation Single Window at the One Stop Business Facilitation Centre (OBFC), designed to simplify business registration and licensing, has been deployed and is to be launched by the end of 2025 or early 2026](<https://lestimes.com/?p=89016>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online registration.** [CAFI Managing Director Chaba Mokuku said a Business Facilitation Single Window at the One Stop Business Facilitation Centre (OBFC), designed to simplify business registration and licensing, has been deployed and is to be launched by the end of 2025 or early 2026](<https://lestimes.com/?p=89016>). [Revenue Services Lesotho says businesses can contact the One Stop Business Facilitation Centre at the Ministry of Trade, Industry and Small Business for help registering with RSL, and that companies register first with the relevant ministries and then obtain a TIN from RSL](<https://www.rsl.org.ls/sites/default/files/2025-06/Guide%20on%20Tax%20Registration.pdf>).
 
 **Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://lestimes.com/?p=89016>).
 

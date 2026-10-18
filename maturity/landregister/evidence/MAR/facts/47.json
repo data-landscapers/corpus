@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-25-mar-ledesk-conservation-fonciere-paiement-electronique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANCFCC electronic management of property registration (decree 2.18.181)",
+   "country_label": "Morocco",
+   "class": "land",
+   "platform": "",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states electronic payment of fees, not that the register is digital or that applications are online."
+}

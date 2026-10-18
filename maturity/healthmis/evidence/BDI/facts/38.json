@@ -1,0 +1,34 @@
+{
+ "slug": "2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Burundi's health ministry guide states that the data produced by all health facilities are entered in DHIS2 and are accessible to districts, provinces and the central level, with the national health information directorate (DSNIS) administering DHIS2.",
+   "as_of": "2022-01",
+   "date_precision": "month",
+   "system": "DHIS2 (Système National d'Information Sanitaire)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "DSNIS, Ministère de la Santé Publique et de la Lutte contre le Sida",
+   "tiers": "community, health facility, district, province, central"
+  },
+  {
+   "system": "Open Clinic, SidaInfo",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "some hospitals",
+   "tiers": "hospital"
+  }
+ ],
+ "note": "No link to another health system is stated as in place (interoperability is only intended) and no reporting-rate figure is given."
+}

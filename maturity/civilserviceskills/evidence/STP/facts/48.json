@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-10-stp-telanon-workshop-seguranca-informacao-administracao",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Téla Nón reports that a workshop on information security was held in the capital with public administration staff taking part, and the national director of public administration says staff handling the planned civil-service personnel database must be trained.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "Information security workshop for public administration staff",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

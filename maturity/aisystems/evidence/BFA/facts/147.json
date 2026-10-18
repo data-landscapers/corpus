@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Specialists at CITADEL, Virtual University of Burkina, developed a Mooré-to-French and French-to-Mooré translation tool, shown in a live demonstration on 21 October 2025.",
+   "as_of": "2025-10-21",
+   "date_precision": "day",
+   "system": "CITADEL Mooré-French translation tool",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CITADEL Mooré-French translation tool",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "",
+   "owner": "CITADEL, Virtual University of Burkina",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

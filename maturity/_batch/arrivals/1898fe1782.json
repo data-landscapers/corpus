@@ -1,0 +1,12 @@
+{"slug":"2026-04-30-gmb-mansabanko-nawec-app-complaints","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No financial consumer rules or redress body stated."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Diaspora bill payment is mentioned but no corridor or channel is named."}}},
+"feedbackportals":{"countries":{"GMB":{"facts":[{"sub_indicator":"feedback","aspect":"channel","value":"underway","fact":"NAWEC, the national water and electricity company, launched a mobile app on which customers can lodge complaints and report faults in real time with photos, though no complaint numbers are given.","as_of":"2026-04-30","date_precision":"day","system":"NAWEC mobile app","class":"feedback"}],"systems":[{"system":"NAWEC mobile app","country_label":"The Gambia","class":"feedback","platform":"mobile app","owner":"NAWEC","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No survey figure on account ownership."}}},
+"refugees":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on refugees or displaced people."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[],"systems":[{"system":"APS Wallet","country_label":"The Gambia","class":"other","platform":"wallet","owner":"APS Wallet","tiers":""}],"note":"The app pays utility bills through APS Wallet, but the document does not say the wallet is a licensed mobile money service in service."}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Utility bill payments to NAWEC are not taxes, duties or state fees."}}}
+}}

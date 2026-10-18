@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-18-zwe-herald-egp-system-revolutionises-procurement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Herald reports PRAZ's electronic Government Procurement (e-GP) system became operational on 1 January 2024, with bidders submitting documents online.",
+       "as_of": "2024-01-01",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic Government Procurement (e-GP)",
+       "country_label": "Zimbabwe",
+       "class": "procurement",
+       "platform": "",
+       "owner": "PRAZ",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Procurement system only; no citizen or business government service portal stated."
+    }
+   }
+  }
+ }
+}

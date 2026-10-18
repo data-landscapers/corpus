@@ -1,0 +1,126 @@
+{
+ "slug": "2023-10-26-mdg-expression-mfs-africa-mvola-remittances",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No central bank role stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on consumer protection."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "MFS Africa went live as the first aggregator with MVola in Madagascar, carrying inbound remittances from Europe, the US and the UK and MNO-to-MNO transfers from the rest of Africa.",
+       "as_of": "2023-10-26",
+       "date_precision": "day",
+       "system": "MFS Africa-MVola integration",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "Telma Madagascar",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments stated."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No law or rules stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share of adults stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MVola, Telma's mobile money service launched in 2010, is in service for bill and merchant payments and peer-to-peer transactions, with over 10 million mobile money accounts in Madagascar.",
+       "as_of": "2023-10-26",
+       "date_precision": "day",
+       "system": "MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "Telma Madagascar",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No tax or fee payment stated."
+    }
+   }
+  }
+ }
+}

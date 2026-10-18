@@ -1,0 +1,54 @@
+{
+ "slug": "2024-08-28-swz-eseparc-digital-readiness-assessment",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2028",
+       "fact": "ESEPARC says the country's Digitalisation Strategy covers 2024-2028 and that the E-Gov Director said the Digital Readiness Assessment is to operationalise it.",
+       "as_of": "2024-08-28",
+       "date_precision": "day",
+       "system": "Digitalisation Strategy (2024-2028)",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digitalisation Strategy (2024-2028)",
+       "country_label": "Eswatini",
+       "class": "national",
+       "platform": "",
+       "owner": "Ministry of ICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "ESEPARC, a local policy research centre, with the Ministry of ICT and UNDP launched a Digital Readiness Assessment survey running 21 August to 13 September 2024.",
+       "as_of": "2024-08-21",
+       "date_precision": "day",
+       "system": "Digital Readiness Assessment",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

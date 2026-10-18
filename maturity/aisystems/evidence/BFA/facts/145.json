@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-bfa-alt-question-orale-ia-usage",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The minister said the PACDIGITAL project, run by the Ministry of Digital Transition, provides substantial funding to set up AI centres of excellence and study grants.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "PACDIGITAL AI centres of excellence",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mus-nadc-cannabis-policy-submission-portal",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The National Agency for Drug Control runs the National Submission Portal for Cannabis Policy Reform, collecting public comments and proposals online until 21 June 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Submission Portal for Cannabis Policy Reform",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Submission Portal for Cannabis Policy Reform",
+   "country_label": "Mauritius",
+   "class": "eparticipation",
+   "platform": "consultations.nadc.mu",
+   "owner": "National Agency for Drug Control",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

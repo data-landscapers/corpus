@@ -1,0 +1,25 @@
+{
+ "slug": "2022-08-01-nga-unhcr-gcr-nigeria-thematic-factsheet",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "UNHCR states refugees in Nigeria can enrol in the national identity management system to obtain identity documents.",
+       "as_of": "2022-08",
+       "date_precision": "month",
+       "system": "national identity management system",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

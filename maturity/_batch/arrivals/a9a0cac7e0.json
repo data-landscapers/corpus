@@ -1,0 +1,134 @@
+{
+ "slug": "2024-12-28-mrt-ami-couverture-zones-frontalieres-phases-2-3",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "AMI reports phase 1 of the border-zone electronic communication coverage project, launched in December 2023 across 42 solar sites, benefited over 85,000 citizens.",
+       "as_of": "2024-12-28",
+       "date_precision": "day",
+       "system": "Projet de couverture integrale des services de communication electronique dans les zones frontalieres",
+       "class": "ruralaccess"
+      },
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "AMI reports President Ghazouani laid the foundation stone on 28 December 2024 for phases 2 and 3 of the project, covering 964 km, 100 sites and 21 transport sites in the southern and south-eastern border zones.",
+       "as_of": "2024-12-28",
+       "date_precision": "day",
+       "system": "Projet de couverture integrale des services de communication electronique dans les zones frontalieres",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Projet de couverture integrale des services de communication electronique dans les zones frontalieres",
+       "country_label": "Mauritania",
+       "class": "ruralaccess",
+       "platform": "fibre optic backbone with solar-powered coverage sites and radio links",
+       "owner": "Ministry of Digital Transformation and Regulatory Authority",
+       "tiers": "phases 1 to 3"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "slug": "2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document does not mention the civil register or birth records."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "Justice Minister Marcy Lopes says the citizens database is interlinked with the ID database, allowing information exchange to update the electoral register and to regularise voter-card holders without an ID.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "States about 16 million citizens (14 million adults) in the ID database but gives no population or share to compare."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document does not mention numbers given at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document does not say who operates, maintains or owns the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Justice Minister Marcy Lopes says the ID database exchanges information with the citizens database to update the electoral register, and is integrated with the Interior Ministry, prison services and migration service.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Justice Minister Marcy Lopes says the Bilhete de Identidade database holds about 16 million citizens, 14 million of them adults, and the card carries a microchip with data verifiable electronically.",
+       "as_of": "2026-07-01",
+       "date_precision": "day",
+       "system": "Bilhete de Identidade",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bilhete de Identidade",
+       "country_label": "Angola",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": "Document names no population register; the citizens database is not described as one."
+    }
+   }
+  }
+ }
+}

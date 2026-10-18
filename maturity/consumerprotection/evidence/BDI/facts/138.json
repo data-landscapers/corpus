@@ -1,0 +1,36 @@
+{
+ "slug": "2019-07-12-bdi-burundieco-brb-reglement-protection-consommateurs",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Burundi Eco reports that the central bank's Regulation No 001/2019 on protection of consumers of financial products and services is in place and applies to licensed providers including electronic money issuers, per the BRB's head of financial inclusion.",
+   "as_of": "2019-07-12",
+   "date_precision": "day",
+   "system": "Regulation No 001/2019",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The article headlines the Bank of the Republic of Burundi as arbiter between consumers and financial providers, and says the regulation seeks effective complaint-handling mechanisms at providers.",
+   "as_of": "2019-07-12",
+   "date_precision": "day",
+   "system": "Regulation No 001/2019",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regulation No 001/2019",
+   "country_label": "Burundi",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": "No enforcement or complaint figures are stated."
+}

@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,Data Processing and Forecasting System (DPFS),Tanzania,other,"statistical and NWP techniques, SYNERGIE, WRF and HRM models",Tanzania Meteorological Authority,,2025-03-01-tza-nao-performance-audit-meteorological-services
+TZA,EUMETSAT satellite imagery,Tanzania,metsat,EUMETSAT,Tanzania Meteorological Authority (user),,2024-02-01-tza-soff-country-hydromet-diagnostics
+TZA,Weather radars,Tanzania,other,,Tanzania Meteorological Authority,,2024-02-01-tza-soff-country-hydromet-diagnostics

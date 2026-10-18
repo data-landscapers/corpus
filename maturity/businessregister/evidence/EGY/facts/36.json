@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-03-egy-ahram-tasis-sharikat-mansa-electroniya",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Investment and Foreign Trade says that from 3 August 2025 applications to incorporate all limited liability companies are accepted only on the GAFI electronic portal.",
+   "as_of": "2025-08-03",
+   "date_precision": "day",
+   "system": "GAFI electronic portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAFI electronic portal",
+   "country_label": "Egypt",
+   "class": "business",
+   "platform": "GAFI portal",
+   "owner": "General Authority for Investment and Free Zones",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-08-nam-namibian-world-bank-end-to-end-e-gp",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "World Bank procurement expert Devesh Mishra said Namibia's existing e-procurement portal is in use but only by a few public entities (less than 5%).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "e-procurement portal",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Mishra gave a figure for use: the existing e-procurement portal is used by less than 5% of public entities.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "e-procurement portal",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

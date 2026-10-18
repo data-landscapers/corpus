@@ -1,0 +1,173 @@
+{
+ "slug": "2024-08-12-mar-barlamantoday-customs-ai-pilots",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "AI uses named are in customs and tax, a sector system; the tax AI support is only planned."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Morocco's Customs and Indirect Taxes Administration has implemented pilot projects using machine learning on customs declarations to identify fraud risks, with further testing underway, per the budget minister's written answer.",
+       "as_of": "2024-08-12",
+       "date_precision": "day",
+       "system": "customs fraud-risk machine-learning pilots",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Economy and Finance has rolled out the BADR system for customs clearance, and the customs IT system is integrated with key partners in the foreign trade chain, per the budget minister.",
+       "as_of": "2024-08-12",
+       "date_precision": "day",
+       "system": "BADR",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BADR",
+       "country_label": "Morocco",
+       "class": "customs",
+       "platform": "",
+       "owner": "Customs and Indirect Taxes Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Morocco's General Directorate of Taxes measures include digitising tax return submissions and developing electronic payment systems, per the budget minister's written answer.",
+       "as_of": "2024-08-12",
+       "date_precision": "day",
+       "system": "tax electronic payment systems",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

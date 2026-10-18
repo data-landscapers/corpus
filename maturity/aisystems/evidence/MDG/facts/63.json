@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CEDIA (Centre d'Excellence des Donnees et de l'Intelligence Artificielle)",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Madagascar Customs",
+   "tiers": ""
+  }
+ ],
+ "note": "No model, dataset or AI computing is stated as built or hosted; CEDIA is described only as a bridge between administration and university."
+}

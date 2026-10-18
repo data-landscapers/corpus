@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-03-sen-orbit-taux-inclusion-financiere-bceao",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BCEAO's national director says the e-money utilisation rate in Senegal rose from 26.40% in 2016 to 59.86% in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "monnaie électronique",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

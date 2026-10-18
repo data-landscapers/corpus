@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Institut Pasteur de Bangui says its MEDICINE project will develop AI-based diagnostic aid tools for fever in under-fives, over four years from August 2024.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "MEDICINE",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

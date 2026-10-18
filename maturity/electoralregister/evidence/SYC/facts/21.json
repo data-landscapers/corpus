@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-14-syc-nation-ecs-encourages-online-registration",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Electoral Commission of Seychelles says voters can use its new Online Voter Registration system at ecs.sc to check their registration status or register, transfer, correct, change name or object.",
+   "as_of": "2025-07-13",
+   "date_precision": "day",
+   "system": "Online Voter Registration",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Voter Registration",
+   "country_label": "Seychelles",
+   "class": "electoral",
+   "platform": "ecs.sc",
+   "owner": "Electoral Commission of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

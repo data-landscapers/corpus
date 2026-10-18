@@ -1,0 +1,142 @@
+{
+ "slug": "2024-12-17-ken-ca-kdhs-2022-ict-uptake-electricity",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on e-procurement."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "survey",
+       "value": "published",
+       "fact": "The Communications Authority and KNBS released an analytical report on ICT uptake based on the 2022 Kenya Demographic and Health Survey, covering 42,022 households in 1,692 clusters.",
+       "as_of": "2024-12-17",
+       "date_precision": "day",
+       "system": "Kenya Demographic and Health Survey 2022",
+       "class": "survey"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kenya Demographic and Health Survey",
+       "country_label": "KDHS 2022",
+       "class": "survey",
+       "platform": "",
+       "owner": "KNBS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on the central bank's payments role."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on consumer protection rules or redress for digital finance."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on cross-border payments."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only daily-use shares among users and household figures; no share of all people using the internet in rural and urban areas, and no programme counted."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on government payments to people."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only household internet use by electricity status and daily-use shares; no national share of people using the internet."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only household phone ownership and subscriptions per 100; no share of people owning a phone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share of adults with an account; mobile money penetration figure is not that."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on retail payment services beyond a mobile money penetration figure with no service detail."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on tax or fee payment."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity access figure stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-06-02-mar-h24info-chikaya-75pc-seghrouchni",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "Minister Seghrouchni told parliament the national complaints portal Chikaya.ma recorded about 176,000 complaints in 2024 and over 186,000 in 2023.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The minister said the portal gives access to 38 government departments, 116 public institutions and companies, and 1,590 local authorities.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "The minister said the portal has processed 75% of the complaints it received since launch.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chikaya.ma",
+   "country_label": "Morocco",
+   "class": "feedback",
+   "platform": "national complaints portal",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": "38 departments, 116 public institutions, 1,590 local authorities"
+  }
+ ],
+ "note": ""
+}

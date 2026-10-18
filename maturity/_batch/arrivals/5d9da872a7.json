@@ -1,0 +1,5 @@
+{"slug":"2024-09-26-dji-d-money-lancement-nouvelle-plateforme","studies":{
+"disabilityaccess":{"countries":{"DJI":{"facts":[],"systems":[],"note":"The article speaks of financial accessibility for all, not persons with disabilities."}}},
+"egovservices":{"countries":{"DJI":{"facts":[],"systems":[],"note":"A private-sector style payments app; no government service is stated as available online."}}},
+"retailpayments":{"countries":{"DJI":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Djibouti Telecom's D-Money officially launched its new smartphone application on 26 September 2024, open to all Djiboutians since 21 September, for money transfers, bill payment and online purchases of services.","as_of":"2024-09-26","date_precision":"day","system":"D-Money","class":"retail"}],"systems":[{"system":"D-Money","country_label":"D-Money","class":"retail","platform":"smartphone app","owner":"Djibouti Telecom","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Bill payment is mentioned without naming any tax, duty or government fee."}}}}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-12-mar-barlamantoday-customs-ai-pilots",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Morocco's General Directorate of Taxes measures include digitising tax return submissions and developing electronic payment systems, per the budget minister's written answer.",
+   "as_of": "2024-08-12",
+   "date_precision": "day",
+   "system": "tax electronic payment systems",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

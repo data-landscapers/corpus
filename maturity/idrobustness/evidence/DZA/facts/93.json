@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-18-dza-lnr-merad-registre-national-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Interior Ministry says production of secure documents passed 7 million biometric documents, including 4.3 million electronic biometric identity cards, with the national identification number generalised.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "carte d'identité biométrique électronique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "carte d'identité biométrique électronique",
+   "country_label": "Algeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

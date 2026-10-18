@@ -1,0 +1,42 @@
+{
+ "slug": "2025-06-18-bdi-wearetech-mediabox-edrms-dtfcn",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Mediabox announced on 17 June 2025 the commissioning of an EDRMS at the land titles directorate DTFCN, interconnected with the Building Permit System (first titles) and the Property Management System (title updates: transfers, corrections, mortgages), forming an integrated digital ecosystem.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Property Management System (PMS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EDRMS",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "Mediabox",
+   "owner": "DTFCN",
+   "tiers": "staff-only"
+  },
+  {
+   "system": "Building Permit System (BPS)",
+   "country_label": "Burundi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  },
+  {
+   "system": "Property Management System (PMS)",
+   "country_label": "Burundi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

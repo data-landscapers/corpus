@@ -5,3 +5,18 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MAR,dpi.registry--social-protection-register-social-protection-register,fact,4,4,MAR-004;MAR-007,Arrivals added MAR-008; stage unchanged.
 2026-10-17,SEN,dpi.registry--social-protection-register-social-protection-register,fact,3,4,SEN-005,Arrivals added SEN-004; SEN-005; stage 3 -> 4.
 2026-10-17,TGO,dpi.registry--social-protection-register-social-protection-register,fact,3,3,TGO-001,Arrivals added TGO-002; stage unchanged.
+2026-10-18,BEN,dpi.registry--social-protection-register-social-protection-register,fact,2,2,BEN-001;BEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BFA,dpi.registry--social-protection-register-social-protection-register,fact,3,3,BFA-003;BFA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,dpi.registry--social-protection-register-social-protection-register,fact,5,5,COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COM,dpi.registry--social-protection-register-social-protection-register,fact,2,2,COM-002;COM-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.registry--social-protection-register-social-protection-register,fact,4,4,CPV-003;CPV-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,dpi.registry--social-protection-register-social-protection-register,fact,4,4,MAR-004;MAR-007,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,MRT,dpi.registry--social-protection-register-social-protection-register,fact,3,3,MRT-002;MRT-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,dpi.registry--social-protection-register-social-protection-register,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NER,dpi.registry--social-protection-register-social-protection-register,fact,3,3,NER-003;NER-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.registry--social-protection-register-social-protection-register,fact,5,5,NGA-006;NGA-008,Stage 4c: 4 news arrival(s) read; restaged from every row held.
+2026-10-18,SOM,dpi.registry--social-protection-register-social-protection-register,fact,3,3,SOM-001;SOM-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TUN,dpi.registry--social-protection-register-social-protection-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.registry--social-protection-register-social-protection-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--social-protection-register-social-protection-register,review,no evidence,2,ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZWE,dpi.registry--social-protection-register-social-protection-register,fact,2,2,ZWE-001;ZWE-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.

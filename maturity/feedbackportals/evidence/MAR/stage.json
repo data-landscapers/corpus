@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "no evidence",
-   "channel": "",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether people can complain about public services online.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "5",
+      "channel": "inservice",
+      "reach": "wide",
+      "results": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-003;MAR-006",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

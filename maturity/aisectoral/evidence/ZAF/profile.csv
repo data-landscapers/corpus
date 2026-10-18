@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,sectorai,use,coverage,inservice,2025-07-20,ZAF-001;ZAF-002;ZAF-004,,
+ZAF,sectorai,sectors,coverage,,,,,nothing held
+ZAF,sectorai,results,coverage,reported,2025-03,ZAF-003;ZAF-005,,

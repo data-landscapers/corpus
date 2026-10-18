@@ -1,0 +1,44 @@
+{
+ "slug": "2025-08-29-tcd-tchadinfos-campagne-e-tax",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Director General of Taxes said that through E-Tax, launched in 2022, taxpayers can declare their taxes online.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The Director General of Taxes said that through E-Tax taxpayers can pay their taxes online, with banks and mobile operators facilitating electronic payments.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "taxsystem",
+   "platform": "E-Tax",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  },
+  {
+   "system": "Facturation electronique normalisee (FEN)",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

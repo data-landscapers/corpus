@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-zwe-newziana-dlap-title-deed-platform",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Justice Minister Ziyambi Ziyambi announced in a Government Gazette notice the launch of the Digital Land Administration Platform (DLAP), described as a computerized land administration system for online processing of documents and deeds.",
+   "as_of": "2025-05-30",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform (DLAP)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Land Administration Platform (DLAP)",
+   "country_label": "Zimbabwe",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Justice, Legal and Parliamentary Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

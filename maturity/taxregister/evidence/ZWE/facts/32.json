@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-zwe-zimra-tarms-release-2-live",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ZIMRA says TaRMS Taxpayer Registration launched on 12 October 2023 and 103,859 taxpayers had registered by early 2024 (36,745 new, 67,114 on-boarded).",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "TaRMS",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+   "class": "tax",
+   "platform": "",
+   "owner": "Zimbabwe Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

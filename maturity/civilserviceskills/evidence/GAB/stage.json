@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "2",
+      "training": "underway",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-002;GAB-001",
+      "gaps": "No source held since October 2023 says: is a standing programme in service.",
+      "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

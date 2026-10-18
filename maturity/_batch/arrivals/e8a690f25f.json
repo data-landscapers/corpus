@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-11-moz-pwc-tax-administration-individual",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "PwC's page, last reviewed 11 August 2026, says the Mozambique Tax Authority's eDeclara\u00e7\u00e3o platform takes online income tax returns and the Contribuinte Portal takes monthly VAT returns, with manual filing also allowed.",
+       "as_of": "2026-08-11",
+       "date_precision": "day",
+       "system": "eDeclara\u00e7\u00e3o and Contribuinte Portal",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "PwC says taxpayers registered on the online platform generate a reference number there and pay VAT, employment-income PIT and CIT through their commercial bank.",
+       "as_of": "2026-08-11",
+       "date_precision": "day",
+       "system": "eDeclara\u00e7\u00e3o and Contribuinte Portal",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eDeclara\u00e7\u00e3o",
+       "country_label": "Mozambique",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Autoridade Tribut\u00e1ria de Mo\u00e7ambique",
+       "tiers": ""
+      },
+      {
+       "system": "Contribuinte Portal",
+       "country_label": "Mozambique",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Autoridade Tribut\u00e1ria de Mo\u00e7ambique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

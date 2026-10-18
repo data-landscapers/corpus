@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-01-mar-ancfcc-chiffres-cles",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANCFCC states it holds 7.7 million land titles and 260 million land and cadastral documents digitised.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ANCFCC land and cadastre records",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "ANCFCC states national territory is covered by digital cadastral maps.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ANCFCC digital cadastral maps",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "ANCFCC states 86% of its 3 million users are online, including 76% of notarial deed filings and 95% of certificates issued.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ANCFCC e-services",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCFCC e-services",
+   "country_label": "Morocco",
+   "class": "land",
+   "platform": "",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

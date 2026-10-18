@@ -1,9 +1,14 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Conecta Angola,Angola,ruralaccess,,GGPEN,,2023-10-12-ago-angop-angosat2-internet-150-zonas-reconditas
+AGO,Conecta Angola,Angola,ruralaccess,Angosat-2 satellite,MINTTICS,,2024-10-02-ago-minttics-angosat2-300-mil-angolanos-conecta
 BDI,universal service fund,Burundi,ruralaccess,,Government of Burundi,,2026-08-27-number-of-internet-users-in-burundi-is-low-says-arct
 BDI,Fonds de Service Universel des TIC (FSU),Burundi,other,,Government of Burundi,,2026-07-01-bdi-2026-fsu-connectivite-institutions
 BDI,PAFEN,Burundi,ruralaccess,,SETIC,,2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi
 BDI,PAFEN,Burundi,ruralaccess,,Government of Burundi,,2026-03-03-lumitel-bdi-pafen-4g-rural
 BDI,Fonds de Service Universel des TIC (FSU),Burundi,ruralaccess,,"Burundi Ministry of Finance, Budget and Digital Economy",national,2025-07-01-bdi-2025-fsu-villages-numeriques
+BDI,PAFEN (Project to Support the Foundations of the Digital Economy),Burundi,other,,"Ministry of Communication, Information Technologies and Media; World Bank financed",,2024-09-20-bdi-abp-pafen-digital-economy-launch
+BEN,Points Numériques Communautaires and bornes WiFi,PNC,ruralaccess,,ABSU-CEP,,2021-04-15-ben-innovation-43-pnc-43-bornes-wifi
+BEN,PITN2R,Projet Intégré de Transformation Numérique des Régions Rurales,ruralaccess,,Ministry of Digital Affairs and Ministry of Agriculture,,2020-12-19-ben-gouv-pitn2r-lancement-regions-rurales
 BFA,PactDigital,Burkina Faso,ruralaccess,,"Ministry of Digital Transition, Posts and Electronic Communications",national,2026-07-13-pactdigital-1000-white-zones-2026
 BFA,Fonds pour l'Accès et le Service Universel (FASU),Burkina Faso,ruralaccess,,"Ministry of Digital Transition, Posts and Electronic Communications",national,2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027
 BFA,PACTDIGITAL,Burkina Faso,ruralaccess,,"Ministry of Digital Transition, Posts and Electronic Communications",national,2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027
@@ -15,6 +20,8 @@ BFA,Zéro zone blanche,Burkina Faso,ruralaccess,,"Ministry of Digital Transition
 BFA,FASU,Burkina Faso,other,,,,2026-02-19-zero-zone-blanche-66-localites-tannounyan
 BWA,Village Connectivity Project,Botswana,ruralaccess,,Ministry of Communications and Innovation,,2026-05-08-botswana-huawei-ict-congress-2026-itweb
 BWA,Universal Access and Service Fund (UASF),Botswana,ruralaccess,,BOCRA (Secretariat),,2025-03-01-uasf-annual-report-2024-25
+BWA,BoFiNet,Botswana,ruralaccess,national broadband provider,Government of Botswana,,2025-05-22-bwa-giga-school-connectivity-botswana
+BWA,village connectivity project,Village connectivity project,ruralaccess,,"Ministry of Communications, Knowledge and Technology",,2024-08-28-bwa-dailynews-smartbots-schools-connected
 CAF,fonds de service universel,Central African Republic,ruralaccess,,ARCEP / CDCE,,2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin
 CAF,fonds du service universel,Central African Republic,ruralaccess,,CDCE / ARCEP,,2025-07-11-rca-fonds-service-universel-cdce-lancement
 CAF,Moov Africa 4G+ roll-out,"operator commercial roll-out, Bangui first",other,4G+,Moov Africa Centrafrique,,2025-07-28-caf-ecomatin-moov-20-milliards-4g-bangui
@@ -51,6 +58,7 @@ CPV,Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (
 DJI,Universal Service Fund,Djibouti,ruralaccess,,ARMD / MC-PT,,2026-04-23-armd-universal-service-fund-feedback
 DZA,Fonds d'appui du service universel de la poste et du service universel des communications électroniques,DZA,ruralaccess,,Multisectoral commission / Ministry of Post and Telecommunications,,2026-09-13-dza-mpt-arrete-calendrier-adjudication-service-universel
 DZA,Fonds d'appui du service universel de la poste et du service universel des communications électroniques,DZA,ruralaccess,,State,,2026-09-30-dza-algerian-business-mobilis-4g-201-sites-27-milliards
+EGY,Decent Life Project,Egypt,other,,MCIT,,2025-09-01-egy-comcec-mcit-decent-life-rural-accessibility
 ETH,Universal Access Fund,Ethiopia,ruralaccess,,,,2026-03-01-telecom-tax-universal-access-fund-reporter
 ETH,Universal Service Fund,Ethiopia,ruralaccess,,Ethiopian Communications Authority,,2025-06-30-wb-empowering-ethiopians-digital-foundations
 ETH,Next Horizon: Digital & Beyond 2028 Strategy rural connectivity programme,Ethiopia,other,,Ethio Telecom,,2026-07-31-ethio-telecom-rural-digital-access
@@ -65,7 +73,9 @@ GIN,Universal Service Fund (ANSUTEN),Guinea,ruralaccess,,ANSUTEN,,2025-07-22-med
 GIN,National GIS of white zones,Guinea,other,SFM Technologies GIS with dashboards,ANSUTEN,,2025-07-22-mediaguinee-ansuten-rural-coverage-2030
 GNB,Fundo de Acesso Universal (FAU),Guinea-Bissau,other,,Ministry of Transport and Communications / ARN,,2025-10-30-guinebissau-wardip-revisao-quadro-legal-acesso-servico-universal
 KEN,Universal Service Fund,Kenya,other,,Kenya telecom regulator,,2026-09-10-ictworks-fcdo-digital-development-strategy-funding-gap
+KEN,Universal Service Fund,Kenya,ruralaccess,,Communications Authority of Kenya,,2023-01-01-ken-ca-universal-service-fund-strategy-2023-2027
 LBR,Universal Access Fund,Liberia,ruralaccess,Starlink satellite,"Universal Access Fund, Liberia Telecommunications Authority",,2025-10-20-liberia-uaf-starlink-installed-vahun-district-lofa
+LBY,Next Generation Broadband Network (NGBN),Libya,other,fiber backbone,Hatif Libya (LPTIC subsidiary),,2022-11-01-lby-usaid-deca-digital-ecosystem-assessment
 LSO,Universal Service Fund (USF),Lesotho,other,,Lesotho Communications Authority,,2026-07-01-lca-strategic-plan-2026-2029
 LSO,Community Digital Inclusion Model,Lesotho,other,,Universal Service Fund,,2025-11-20-meaningful-connectivity-pathway-to-economic-opportunity-moorosi
 LSO,Universal Service Fund (USF),Lesotho,ruralaccess,,Lesotho Communications Authority,,2026-02-25-lca-annual-report-2024-25
@@ -83,6 +93,10 @@ MOZ,Rural Connectivity Project,Mozambique,ruralaccess,,INCM / FSAU,,2025-08-26-r
 MOZ,Rural Connectivity Project,Mozambique,ruralaccess,,FSAU / INCM,,2026-08-18-agenceecofin-mozambique-300-localites-services-telecoms
 MOZ,GovNet,Mozambique,other,,government,,2026-06-17-eu-team-europe-digital-transformation-mozambique
 MRT,Fonds d'accès universel aux services (FAUS),Mauritanie,other,,Government of Mauritania,,2026-07-31-emergence-conseil-ministres-nouveau-decret-gestion-faus-tresor-public
+MRT,Projet de couverture integrale des services de communication electronique dans les zones frontalieres,Mauritania,ruralaccess,fibre optic backbone with solar-powered coverage sites and radio links,Ministry of Digital Transformation and Regulatory Authority,phases 1 to 3,2024-12-28-mrt-ami-couverture-zones-frontalieres-phases-2-3
+MRT,southern border zones communication coverage project,Mauritania,ruralaccess,,Ministry of Digital Transformation,,2023-12-28-mrt-ami-couverture-zones-frontalieres-sud-axe-1
+MRT,WARCIP,Mauritanie,other,fibre-optic backbone,Government of Mauritania with World Bank (IDA),,2022-12-16-mrt-banquemondiale-warcip-resultats-haut-debit
+MUS,Universal Service Fund,Mauritius,ruralaccess,,ICT Authority,,2022-06-01-mus-icta-wsis-statement-bridging-digital-divides
 MWI,Digital Malawi Acceleration Project (DMAP),Malawi,ruralaccess,,MACRA,,2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews
 MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews
 MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-09-09-mwi-ecofin-macra-rural-networks-usage-gap
@@ -91,6 +105,7 @@ MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-09-04-ecofinagency-ma
 MWI,Digital Malawi Acceleration Project (DMAP),Malawi,ruralaccess,,Ministry of ICT / World Bank,,2026-09-03-malawi-world-bank-dmap-accountability-review
 MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-09-03-malawi-world-bank-dmap-accountability-review
 MWI,Last Mile Rural Connectivity Project,Malawi,ruralaccess,,Ministry of ICT,,2026-09-03-techafricanews-malawi-36th-rural-tower
+MWI,Connect-a-School,Malawi,other,,Macra (Universal Service Fund),,2024-09-16-mwi-times-rural-schools-miss-out-ict-revolution
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2026-09-01-nam-usf-annual-report-2025-companion
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,"Phase 1, Phase 2",2026-04-09-telecom-namibia-cran-usf-phase2-agreement
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2025-03-19-thebrief-namibia-universal-service-fund-launch-n145-million-seed-funding
@@ -108,10 +123,14 @@ NGA,Universal Service Provision Fund (USPF),Nigeria,ruralaccess,,NCC,national,20
 NGA,Nigeria Learning Passport,Nigeria,other,Microsoft,UNICEF with Federal Government,"national, state",2026-09-17-nga-vanguard-unicef-learning-passport-oyo
 NGA,Distributed Access through Renewable Energy Scale-Up (DARES),Nigeria,ruralaccess,,"Federal Government, World Bank, REA",national,2026-09-15-punch-hotspot-world-bank-500-communities
 NGA,National Universal Communications Access Programme (NUCAP),Nigeria,ruralaccess,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-10-16-fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians
+NGA,Generation Unlimited Nigeria (GenU 9JA),Nigeria,ruralaccess,,"UNICEF, Federal Ministry of Education, Airtel, ATC Nigeria, IHS",,2025-02-07-nga-unicef-connecting-every-child-digital-learning
+SDN,Universal Service Fund,Sudan,ruralaccess,,TPRA,,2023-04-01-sdn-paradigm-londa-2022-sudan-universal-service
 SEN,FDSUT,SEN,other,,,,2026-09-11-sen-vibractu-starlink-fracture-numerique-sane
 SEN,New Deal Technologique,SEN,ruralaccess,Starlink satellite kits,"Ministry of Communication, Telecommunications and Digital Affairs",,2026-04-11-lesoleil-alioune-sall-kolda-starlink
 SEN,Fonds de développement du service universel des télécommunications (FDSUT),Senegal,other,,,,2026-09-11-sen-ecofin-cour-supreme-suspension-starlink-sonatel
 SEN,Fonds de développement du service universel des télécommunications (FDSUT),Senegal,other,,,,2026-09-09-sonatel-starlink-senegal-licence-suspension
+SLE,Universal Access Development Fund (UADF),Sierra Leone,ruralaccess,,UADF,,2025-08-28-sle-premiernews-uadf-levy-rural-ict-expansion
+SLE,Rural Telephony Project,Sierra Leone,ruralaccess,"VSAT, microwave and fibre links with five towers",Universal Access Development Fund,,2024-07-01-sle-uadf-launch-rural-telephony-project
 SOM,Somalia National Digital Inclusion Policy,Somalia,ruralaccess,,Ministry of Communications and Technology,,2025-08-01-somalia-digital-inclusion-policy
 SSD,NCA 2026 digital transformation agenda,South Sudan,ruralaccess,,National Communication Authority,,2026-01-05-rural-connectivity-child-online-safety-2026-onecitizendaily
 SSD,Universal Service and Access Fund,South Sudan,other,,"Ministry of Information, Communication Technology and Postal Services",,2026-06-29-ict-ministry-staff-china-digital-training
@@ -123,12 +142,16 @@ SWZ,Eswatini Digital Project,Eswatini,ruralaccess,,Ministry of ICT,,2026-06-23-e
 SWZ,Starlink Satellite Gateway,Eswatini,ruralaccess,low Earth orbit satellite,Government of Eswatini,,2026-04-28-eswatini-commissions-starlink-satellite-gateway
 TCD,Digital Transformation Support Project (PATN),Chad,ruralaccess,,Ministry of Telecommunications / World Bank,,2026-06-04-agenceecofin-chad-500-underserved-areas-world-bank-connectivity
 TCD,Central African Regional Digital Integration Program (CARDIP),Chad,other,,World Bank,,2026-06-04-agenceecofin-chad-500-underserved-areas-world-bank-connectivity
+TGO,Togo Increased Digital Connectivity and Electricity Access (IDEA) project,Togo,ruralaccess,,Ministry of Energy and Mines (implementing agency),,2021-11-04-tgo-worldbank-idea-esrs-digital-connectivity
+TUN,White zones project (Zones blanches),Tunisia,ruralaccess,,Ministry of Communication Technologies; Tunisie Telecom,,2022-06-24-tun-economistemaghrebin-cloture-zones-blanches
+TUN,Projet de couverture des zones blanches,Tunisie,ruralaccess,3G/4G mobile networks of public telecom operators,Ministere des Technologies de la Communication,"94 priority delegations minimum, 112 maximum; 46 communes in 15 governorates",2021-10-01-tun-mtc-rap-2020-mission-tic
 TZA,Universal Communications Service Access Fund (UCSAF),Tanzania,ruralaccess,,Government of Tanzania,,2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania
 TZA,National ICT Broadband Backbone,Tanzania,other,,Ministry of Communication and Information Technology,,2026-06-19-liquid-tanzania-government-align-digital-transformation
 UGA,Uganda Communications Universal Service and Access Fund (UCUSAF),Uganda,ruralaccess,,Uganda Communications Commission,national,2026-06-24-mtn-ucusaf-contribution
 UGA,Uganda Communications Universal Service and Access Fund (UCUSAF),Uganda,ruralaccess,,Uganda Communications Commission,national,2026-05-18-airtel-ucc-contribution
 UGA,Uganda Communications Universal Service and Access Fund (UCUSAF) Programme,Uganda,ruralaccess,,Uganda Communications Commission,national,2026-07-31-uganda-atc-contributes-universal-service-fund-ucusaf
 UGA,UCUSAF,Uganda,ruralaccess,,Uganda Communications Universal Service and Access Fund,,2026-06-07-digital-inclusion-uganda-telecoms-safaricom-vodacom
+UGA,UCUSAF,Uganda,ruralaccess,,Uganda Communications Commission,,2025-03-11-uga-parliament-ict-access-funding
 ZAF,SA Connect,South Africa,ruralaccess,,government,,2026-10-10-zaf-sundaytimes-usaasa-needy-person-digital-subsidy-consultation
 ZAF,needy person digital subsidy consultation (Electronic Communications Act s. 88),South Africa,other,,Usaasa,,2026-10-10-zaf-sundaytimes-usaasa-needy-person-digital-subsidy-consultation
 ZAF,Universal Service and Access Fund (USAF),South Africa,ruralaccess,,USAASA,,2026-10-05-usaasa-usaf-manual-approved

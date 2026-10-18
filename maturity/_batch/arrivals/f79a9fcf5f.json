@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-24-mrt-mtnima-sigmap-comite-pilotage",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The digital ministry's steering committee reviewed progress on SIGMAP, the national public procurement system, which it says will start taking ministries' procurement plans on 15 December 2025, with full launch planned for early 2026.",
+       "as_of": "2025-11-24",
+       "date_precision": "day",
+       "system": "SIGMAP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAP",
+       "country_label": "Mauritania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a procurement system, not a citizen or business service portal."
+    }
+   }
+  }
+ }
+}

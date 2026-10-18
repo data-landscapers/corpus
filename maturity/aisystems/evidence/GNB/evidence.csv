@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNB-001,GNB,localai,build,inservice,"Rowe, Gow-Smith and Hepple introduce a new machine translation dataset for Guinea-Bissau Creole (Kiriol) of around 40 thousand parallel sentences with English and Portuguese, and train transformer models on it.",2025-04-03,day,Kiriol machine translation dataset,localai,2025-04-03-gnb-arxiv-kiriol-machine-translation-dataset,https://arxiv.org/abs/2504.02674

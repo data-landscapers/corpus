@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-27-sen-dgid-communique-sentax",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGID's communique of 27 August 2026 says the SENTAX platform replaces ETAX for online payment (telepaiement) of taxes by Large Enterprises Directorate taxpayers.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

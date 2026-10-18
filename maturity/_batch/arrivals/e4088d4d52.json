@@ -1,0 +1,16 @@
+{"slug": "2026-08-25-gin-actuguinee-ifi-protection-consommateurs", "studies": {
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document is about client protection in inclusive finance; nothing on e-procurement."}}},
+"centralbank": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document says the BCRG supervises inclusive financial institutions but does not state it licenses payment providers or oversees a switch."}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The article by lawyer Me Fode Mourana Soumah says the BCRG adopted instruction I/DGSIF/DSIMF/006/2018 setting consumer-protection standards for inclusive financial institutions, which include e-money institutions, requiring displayed fees, written contracts, plain language and client data access.", "as_of": "2018", "date_precision": "year", "system": "BCRG instruction I/DGSIF/DSIMF/006/2018", "class": "protection"}
+], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article says law L/2017/031/AN of 4 July 2017 on Inclusive Financial Institutions defines licensed institutions, including e-money institutions (EME), serving people outside the traditional banking circuit.", "as_of": "2017-07-04", "date_precision": "day", "system": "Law L/2017/031/AN on Institutions Financieres Inclusives", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The article says the 2017 law counts licensed e-money institutions (EME), microfinance institutions and postal financial services as inclusive financial institutions.", "as_of": "2017-07-04", "date_precision": "day", "system": "Law L/2017/031/AN on Institutions Financieres Inclusives", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No survey figure on account holding."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "E-money institutions are named only as a category; no service in operation is stated."}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

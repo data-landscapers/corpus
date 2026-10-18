@@ -1,0 +1,61 @@
+{
+ "slug": "2025-10-01-civ-fratmat-adressage-abidjan-fin-31-decembre",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "The director of addressing at the Ministry of Construction, Housing and Urban Planning said on 30 September 2025 that addressing of the Abidjan district (about 17,000 roads identified, 500,000 entities to receive addresses, FCFA 12bn project financed by the World Bank and the State) is due to finish on 31 December 2025 and is being duplicated nationally, with about fifteen cities to be addressed by 2030.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "projet d'adressage (référentiel unique d'adresse)",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "projet d'adressage (référentiel unique d'adresse)",
+       "country_label": "Côte d'Ivoire",
+       "class": "address",
+       "platform": "",
+       "owner": "Ministère de la Construction, du Logement et de l'Urbanisme",
+       "tiers": "Abidjan district"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's question."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's question."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's question."
+    }
+   }
+  }
+ }
+}

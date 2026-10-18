@@ -1,0 +1,72 @@
+{
+ "slug": "2026-06-24-sle-calabash-mbsse-edith-ai-platform",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on rules or authority for AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Ministry of Basic and Senior Secondary Education developed EDITH, an AI system for ministry officials' information-management tasks, by March 2026, and is preparing handover to its IT Department from pilot status.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "EDITH",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EDITH",
+       "country_label": "Sierra Leone",
+       "class": "govai",
+       "platform": "",
+       "owner": "Ministry of Basic and Senior Secondary Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "EDITH is an information tool for ministry officials, general administration, not a diagnosis, score or forecast in a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "EDITH was developed by Sierra Leonean AI specialist Mohamed Alpha for the education ministry with a GBP 50,000 EdTech Hub support package, and is being prepared for handover, not yet released.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "EDITH",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

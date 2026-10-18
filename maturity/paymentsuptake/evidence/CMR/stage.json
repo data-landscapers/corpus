@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "3",
+      "share": "half",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No survey held since October 2023 puts adults with an account at 79% or more.",
+      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

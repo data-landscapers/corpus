@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25-mar-ledesk-conservation-fonciere-paiement-electronique",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Le Desk reports that Morocco's land conservation agency (ANCFCC) accepts electronic payment of property-registration fees for deposit or registration requests from 14 April 2025.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "ANCFCC electronic payment of registration fees",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCFCC electronic payment of registration fees",
+   "country_label": "Morocco",
+   "class": "revenue",
+   "platform": "",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-bdi-ai4d-mpox-ai-surveillance-pilot",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The AI4Mpox Burundi team is piloting an AI-powered early-warning dashboard in three health districts of Bujumbura.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "AI4Mpox Burundi early-warning dashboard",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

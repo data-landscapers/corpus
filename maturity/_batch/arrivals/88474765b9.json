@@ -1,0 +1,61 @@
+{
+ "slug": "2025-01-22-ben-fraternite-uac-inscriptions-handicap",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says existing texts lack specific digital accessibility provisions; nothing delivered or audited by a government body."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Since academic year 2024-2025 enrolment at the Universite d'Abomey-Calavi is exclusively online through a student portal where students create an account, download a pre-registration form and book an appointment.",
+       "as_of": "2024-12-27",
+       "date_precision": "day",
+       "system": "etudiant.uac.bj",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "etudiant.uac.bj",
+       "country_label": "Benin",
+       "class": "eservices",
+       "platform": "web portal",
+       "owner": "Universite d'Abomey-Calavi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

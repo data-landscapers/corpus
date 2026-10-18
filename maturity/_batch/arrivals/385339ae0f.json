@@ -1,0 +1,43 @@
+{
+ "slug": "2025-06-24-ben-armp-aoi-solution-e-procurement",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "On 24 June 2025 the ARMP launched an international open tender to acquire and deploy an electronic public-procurement solution covering the cycle from planning to execution, bids due 6 August 2025.",
+       "as_of": "2025-06-24",
+       "date_precision": "day",
+       "system": "Solution de gestion electronique de la commande publique",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Solution de gestion electronique de la commande publique",
+       "country_label": "Benin",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARMP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice is about e-procurement, nothing on schools."
+    }
+   }
+  }
+ }
+}

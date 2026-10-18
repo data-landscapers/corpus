@@ -1,0 +1,70 @@
+{
+ "slug": "2025-10-14-tgo-arcop-passation-electronique-e-gp-atelier",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ARCOP reports a World Bank-backed (PMADS) e-GP digitalisation of public procurement, with a preparatory workshop on 30 September-1 October 2025 on the e-GP strategy, phases and action plan.",
+       "as_of": "2025-10-01",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Togo",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARCOP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only procurement texts are mentioned, no e-commerce or e-transactions law."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

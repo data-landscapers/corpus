@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "unplaced",
+      "research": "",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a local institution researches digital policy.",
+      "note": "First pass: counted from the four questions by study-ladder-policyresearch.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

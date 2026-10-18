@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-24-egy-ahram-narss-satellite-receiving-station",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sentinel 1-3 receiving station (NARSS)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "Sentinel",
+   "owner": "NARSS",
+   "tiers": ""
+  }
+ ],
+ "note": "The station belongs to NARSS and receives Sentinel earth-observation data; the met authority is only agreed to receive its output, not stated as receiving or using it."
+}

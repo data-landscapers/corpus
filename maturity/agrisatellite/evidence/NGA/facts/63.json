@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-27-nga-fmafs-eudr-nasrda-mou",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Agriculture Ministry signed an MoU with NASRDA under which, the minister said, NASRDA will provide satellite imagery and real-time monitoring for a national framework on produce traceability and farmland monitoring.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "National Framework for Agricultural Produce Traceability and Farmland Monitoring",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-05-01-sle-nra-online-tin-application",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The National Revenue Authority says it completed rollout of TIN issuance on its online platform in the Integrated Tax Administration System (ITAS), with individuals and businesses applying remotely from 15 May 2023.",
+       "as_of": "2023-05-15",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Integrated Tax Administration System",
+       "class": "tax",
+       "platform": "NRA website",
+       "owner": "National Revenue Authority",
+       "tiers": "domestic tax"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

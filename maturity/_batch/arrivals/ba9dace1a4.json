@@ -1,0 +1,34 @@
+{
+ "slug": "2017-10-12-mdg-lexxika-arrete-25508-nif-identifiant-unique",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "A finance ministry arrete of 12 October 2017 makes the online tax number (NIF online), issued by the tax directorate, the single identifier across all ministry departments and checked in public procurement.",
+       "as_of": "2017-10-12",
+       "date_precision": "day",
+       "system": "NIF online",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIF online",
+       "country_label": "Numero d'Immatriculation Fiscale en ligne",
+       "class": "tax",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

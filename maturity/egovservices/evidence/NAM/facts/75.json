@@ -1,0 +1,17 @@
+{
+ "slug": "2018-11-09-nam-newera-govt-moves-to-curb-bureaucracy",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Prime Minister Saara Kuugongelwa-Amadhila told Parliament she had launched an online death-registration service under Home Affairs, and listed eleven other implemented online systems including online visa and permits, business registration and deeds registration, at various stages of implementation.",
+   "as_of": "2018-11",
+   "date_precision": "month",
+   "system": "online death registration and other online services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

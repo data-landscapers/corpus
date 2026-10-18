@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-22-zmb-zambiamonitor-police-ai-fake-content",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "Zambia Police Service spokesperson Godfrey Chilabi said creating and spreading false, manipulated or misleading content through computer systems, which he applied to AI-generated content, is an offence under the Cyber Crimes Act No. 4 of 2025.",
+       "as_of": "2026-06-22",
+       "date_precision": "day",
+       "system": "Cyber Crimes Act No. 4 of 2025",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Police warning on AI fakes; no government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No station record system stated."
+    }
+   }
+  }
+ }
+}

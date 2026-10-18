@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether government bodies use AI.
+***Not held***. Nothing held since October 2023 says whether a government body uses an AI system.

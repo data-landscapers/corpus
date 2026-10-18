@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNB-001,GNB,metsat,stream,inservice,"INM-GB states it completed installation of a CLIMSA/PUMA2025 station on 21-25 August 2026, tested and accepted, receiving EUMETSAT Meteosat Third Generation data in near real time at up to 10-minute intervals.",2026-08-25,day,CLIMSA/PUMA2025,metsat,2026-09-08-gnb-inm-nova-estacao-climsa-puma2025,https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/

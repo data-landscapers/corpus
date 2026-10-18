@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-sen-aps-bourses-securite-familiale-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Senegal's government pays family security grants of CFA140,000 per household for 2026 through mobile money operators, so mobile money services are in operation (APS, 2026-10-01).",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

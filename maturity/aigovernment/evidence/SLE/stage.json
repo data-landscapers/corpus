@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "2",
+      "use": "underway",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001",
+      "gaps": "No source held since October 2023 says: is an ai system in service in administration.",
+      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

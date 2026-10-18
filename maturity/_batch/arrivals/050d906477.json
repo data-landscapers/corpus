@@ -1,0 +1,10 @@
+{"slug":"2026-07-03-lso-lena-sakoane-judiciary-electronic-filing","studies":{
+"disabilityaccess":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Only physical court-building accessibility is stated; nothing on digital accessibility."}}},
+"educationexchange":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on education systems."}}},
+"educationmis":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on education systems."}}},
+"health":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on health systems."}}},
+"healthmis":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on health systems."}}},
+"justice":{"countries":{"LSO":{"facts":[{"sub_indicator":"justice","aspect":"cases","value":"underway","fact":"Chief Justice Sakoane said on 3 July 2026 that the Judiciary is implementing digital systems, including electronic filing of court documents, with the Ministry of Information.","as_of":"2026-07-03","date_precision":"day","system":"electronic filing of court documents","class":"justice"}],"systems":[{"system":"electronic filing of court documents","country_label":"Lesotho","class":"justice","platform":"","owner":"Judiciary, with Ministry of Information","tiers":""}],"note":""}}},
+"schools":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on school systems."}}},
+"taxadmin":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Document says nothing on tax systems."}}}
+}}

@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "4",
-   "access": "licensed",
-   "breadth": "several",
-   "reuse": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-003",
-   "gaps": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "access": "licensed",
+      "breadth": "several",
+      "reuse": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-003",
+      "gaps": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
+      "note": "Counted from the four questions by study-ladder-opendatause.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

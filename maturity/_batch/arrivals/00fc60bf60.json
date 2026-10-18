@@ -1,0 +1,83 @@
+{
+ "slug": "2024-03-04-syc-src-dedicated-return-forms-payment-slip",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The SRC says from January 2024 taxpayers are to pay by bank transfer or at SRC offices, sending the payment slip, return form and proof of payment by email.",
+       "as_of": "2024-03-04",
+       "date_precision": "day",
+       "system": "Bank transfer",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The SRC says it has started migrating to a new online tax platform, with payment advise numbers to be activated when the new tax portal goes live.",
+       "as_of": "2024-03-04",
+       "date_precision": "day",
+       "system": "New online tax portal",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-service / e-gov platform",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "",
+       "owner": "SRC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "The SRC says it has started migration to its new upcoming online tax platform, with the new tax portal not yet live.",
+       "as_of": "2024-03-04",
+       "date_precision": "day",
+       "system": "New online tax portal",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "none",
+       "fact": "The SRC says taxpayers lodge monthly returns on dedicated per-tax paper return forms with a payment slip, and the e-service platform has been closed to taxpayers lodging returns from January 2024 onwards.",
+       "as_of": "2024-03-04",
+       "date_precision": "day",
+       "system": "Dedicated return forms",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-service / e-gov platform",
+       "country_label": "Seychelles",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "SRC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

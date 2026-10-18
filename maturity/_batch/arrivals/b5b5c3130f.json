@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-22-stp-glebatv-portal-dos-contratos-publicos",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The government officially launched the Portal dos Contratos Públicos, described as the country's first electronic platform of its kind, centralising procurement notices, contracts and tender plans.",
+       "as_of": "2025-11-22",
+       "date_precision": "day",
+       "system": "Portal dos Contratos Públicos",
+       "class": "procurement"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on government services online."
+    }
+   }
+  }
+ }
+}

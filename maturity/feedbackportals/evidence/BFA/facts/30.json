@@ -1,0 +1,26 @@
+{
+ "slug": "2019-03-05-bfa-sidwaya-plateforme-plaintes-usagers",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Burkina Faso's public-service ministry officially launched on 5 March 2019 a complaints and suggestions system for users of ministries, including the online form at plaintes.gov.bf, with a 10-day response deadline; no case numbers are given.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "plaintes.gov.bf",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plaintes.gov.bf",
+   "country_label": "Burkina Faso",
+   "class": "feedback",
+   "platform": "web portal",
+   "owner": "Ministry of Public Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

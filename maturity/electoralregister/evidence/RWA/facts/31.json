@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The High Commission of Rwanda in Nigeria says voters in the diaspora can check where they are registered, and change their polling station, on the National Electoral Commission site amatora.nec.gov.rw using their ID number and mother's name.",
+   "as_of": "2024-05-18",
+   "date_precision": "day",
+   "system": "amatora.nec.gov.rw",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list, with the polling location taken from the place the ID was requested.",
+   "as_of": "2024-05-18",
+   "date_precision": "day",
+   "system": "voters' list",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "amatora.nec.gov.rw",
+   "country_label": "Rwanda",
+   "class": "electoral",
+   "platform": "",
+   "owner": "National Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

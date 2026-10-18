@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-08-egy-mped-startup-charter-policies-procedures",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Minister of Planning, Economic Development and International Cooperation says the Egypt Startup Charter includes more than 80 policies and procedures currently being implemented, with an action plan built from over 500 recommendations.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "Egypt Startup Charter",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt Startup Charter",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Planning, Economic Development and International Cooperation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

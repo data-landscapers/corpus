@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-14-tgo-fullnews-cfetogo-online-business-registration",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The article says administrative fees for company registration are paid online via the CFE site, by Flooz, Tmoney, Mastercard or Visa, and cites electronic payment of public services as part of the digital strategy.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "cfetogo.tg",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

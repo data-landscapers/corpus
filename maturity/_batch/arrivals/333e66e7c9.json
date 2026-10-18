@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-01-dza-alger16-ecole-algerienne-mue-numerique",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an aim to improve school statistics; nothing published or under way is stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Plans to complete database links and a more integrated information system; no system, census or learner records stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about police."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet share or compulsory digital subject stated; tablets for primary schools only."
+    }
+   }
+  }
+ }
+}

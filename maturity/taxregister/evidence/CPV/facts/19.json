@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-cpv-govcv-nif-pessoa-singular",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The GOV.CV portal page says a tax identification number (NIF) can be requested online through the portal or app, first issue free, issued within up to 2 working days.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "NIF via GOV.CV",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GOV.CV",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "GOV.CV portal and app",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

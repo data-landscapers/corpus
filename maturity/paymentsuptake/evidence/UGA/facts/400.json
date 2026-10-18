@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-uga-finscope-uganda-2023-survey-report",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "FinScope Uganda 2023 reports that 64% of adults are registered for mobile money with a SIM card, up from 46% in 2018.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Uganda 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FinScope Uganda",
+   "country_label": "Uganda",
+   "class": "survey",
+   "platform": "",
+   "owner": "Bank of Uganda / FSD Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

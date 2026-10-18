@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-21-com-pfss-tms-55000-menages-mobile-banking",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The PFSS-RRC says the Mayendeleyo transfer programme digitalises identification, registration and follow-up of beneficiary households.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Mayendeleyo social cash transfers",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The PFSS-RRC says the programme's payments to beneficiaries are made by the mobile-banking operators Mvula and Huri Money.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Mayendeleyo social cash transfers",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mayendeleyo social cash transfers (PFSS-RRC)",
+   "country_label": "Comoros",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Government of the Union of the Comoros with World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

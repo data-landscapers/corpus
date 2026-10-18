@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-24-zmb-itu-zamstats-2025-ict-survey-highlights",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The 2025 ICT survey drew its sample from the 2022 Census frame, so a census was counted in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "ZamStats presented highlights of the 2025 National Survey on Access and Usage of ICTs, a household survey of 32,500 individuals targeted in 325 enumeration areas.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "National Survey on Access and Usage of ICTs 2025",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-04-sle-statehouse-digital-innovation-summit-2025",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Minister Salamatu Bah said the ministry created the \"One Government Platform\", a centralized one-stop portal allowing citizens to access all government services and information.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "One Government Platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Government Platform",
+   "country_label": "Sierra Leone",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

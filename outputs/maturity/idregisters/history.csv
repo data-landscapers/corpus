@@ -10,3 +10,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,STP,dpi.id--use-by-other-systems-use-by-other-systems,fact,2,2,STP-001;STP-002,Arrivals added STP-003; stage unchanged.
 2026-10-17,TGO,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,2,TGO-001,Arrivals added TGO-001; stage no evidence -> 2.
 2026-10-17,TUN,dpi.id--use-by-other-systems-use-by-other-systems,fact,no evidence,3,TUN-001,Arrivals added TUN-001; TUN-002; stage no evidence -> 3.
+2026-10-18,AGO,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,AGO-001;AGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,DZA-002;DZA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,EGY-001;EGY-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBR,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,LBR-001;LBR-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LSO,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,LSO-001;LSO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,NGA-004;NGA-007,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,RWA,dpi.id--use-by-other-systems-use-by-other-systems,fact,3,3,RWA-001;RWA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.

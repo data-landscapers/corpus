@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-03-gha-nca-idpd-2025-assistive-technology",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Minister announced that the One Million Coders Programme, to roll out in 2026, has reserved 50,000 fully funded training allocations for persons with disabilities.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

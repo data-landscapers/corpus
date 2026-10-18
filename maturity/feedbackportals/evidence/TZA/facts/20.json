@@ -1,0 +1,36 @@
+{
+ "slug": "2022-12-15-tza-ega-e-mrejesho-suluhisho-kero",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "e-GA states its e-Mrejesho system, on web, app and USSD *152*00#, lets citizens send complaints and comments directly to the relevant institution or ministry and follow them up, anonymously if they choose.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "e-Mrejesho",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "e-GA's director general says e-Mrejesho connects all government institutions, which can exchange the complaints and opinions citizens submit.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "e-Mrejesho",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Mrejesho",
+   "country_label": "Tanzania",
+   "class": "feedback",
+   "platform": "web, app, USSD",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

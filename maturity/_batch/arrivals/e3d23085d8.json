@@ -1,0 +1,42 @@
+{
+ "slug": "2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Ministerial arrete 36657/2015 requires all clearance exchanges at computerised customs offices to be transmitted electronically through the customs system, comprising SYDONIA and the TradeNet platform.",
+       "as_of": "2015-12-22",
+       "date_precision": "day",
+       "system": "SYDONIA and TradeNet",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA",
+       "country_label": "Madagascar",
+       "class": "customs",
+       "platform": "ASYCUDA",
+       "owner": "Madagascar customs",
+       "tiers": ""
+      },
+      {
+       "system": "TradeNet",
+       "country_label": "Madagascar",
+       "class": "customs",
+       "platform": "",
+       "owner": "Malagasy Community Network Services S.A.",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

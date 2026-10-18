@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001;ZWE-002",
-   "gaps": "No source held since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "2",
+      "registry": "underway",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001;ZWE-002",
+      "gaps": "No source held since October 2023 says: is a social registry in service.",
+      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

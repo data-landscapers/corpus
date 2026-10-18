@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-zaf-sarb-nps-regulation-page",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Notice 2024 of 2022 records the SARB designating the SADC Real Time Gross Settlement System (SADC-RTGS) as a designated settlement system in place of SIRESS.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "SADC Real Time Gross Settlement System",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

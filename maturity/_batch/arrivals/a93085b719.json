@@ -1,0 +1,146 @@
+{
+ "slug": "2024-10-16-lso-publiceye-iec-re-registration-national-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's question for Lesotho."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The IEC's spokesman said Section 16 of the National Identity Card Act 9 of 2011 makes all citizens aged 18 and above eligible to register.",
+       "as_of": "2011",
+       "date_precision": "year",
+       "system": "National Identity Card Act 9 of 2011",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The IEC said its re-registration campaign uses National Identification Cards as the sole form of identification for voters, including those previously registered on other documents.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "IEC voter re-registration",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IEC online voter registration portal",
+       "country_label": "Lesotho",
+       "class": "electoral",
+       "platform": "IEC website",
+       "owner": "Independent Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The IEC said its voter re-registration uses National Identification Cards as the sole form of identification, with registration open to all citizens aged 18 and above under the National Identity Card Act.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "IEC voter re-registration",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

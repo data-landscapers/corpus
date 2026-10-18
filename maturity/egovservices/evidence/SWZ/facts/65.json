@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-swz-esnews-bika-transport-reporting-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BIKA Platform",
+   "country_label": "BIKA",
+   "class": "other",
+   "platform": "web/app reporting platform",
+   "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+   "tiers": ""
+  }
+ ],
+ "note": "BIKA is a transport complaints and incident reporting channel, not a service applied for or paid online."
+}

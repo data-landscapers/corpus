@@ -1,19 +1,20 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "5",
-   "finance": "inuse",
-   "revenue": "inuse",
-   "payroll": "inuse",
-   "renewed": "live",
-   "architecture": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-004;ZWE-002;ZWE-006",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "5",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "inuse",
+      "renewed": "live",
+      "architecture": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-004;ZWE-002;ZWE-006",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-coresystems.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

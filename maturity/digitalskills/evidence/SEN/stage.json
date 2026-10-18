@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "no evidence",
-   "training": "",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the public is taught digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002",
+      "gaps": "No source held since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

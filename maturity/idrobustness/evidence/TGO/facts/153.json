@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-07-tgo-rtg-identification-biometrique-savanes",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The national biometric mass enrolment campaign (e-ID Togo), launched in late November 2024 by the Agence nationale d'identification, was extended in the Savanes region to 13 February 2025 and is planned to last at least eight months, spreading to other regions.",
+   "as_of": "2025-02-07",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Agence nationale d'identification (ANID)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

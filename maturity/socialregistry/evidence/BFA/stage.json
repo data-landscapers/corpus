@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-003;BFA-001",
-   "gaps": "No source held since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-003;BFA-001",
+      "gaps": "No source held since October 2023 says two or more programmes use the social registry.",
+      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

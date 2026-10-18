@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,uptake,share,below,"The UNDP South Sudan Accelerator Lab report states that in 2021 less than 6% of the adult population held an account, with mobile money account penetration under one per cent.",2021,year,adult account ownership,survey,2024-10-01-ssd-undp-digital-mobile-wallet-financial-inclusion,https://www.undp.org/sites/g/files/zskgke326/files/2025-02/dmw_analysis_report_south_sudan_jpa.pdf

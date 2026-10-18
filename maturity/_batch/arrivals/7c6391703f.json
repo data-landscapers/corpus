@@ -1,0 +1,34 @@
+{
+ "slug": "2023-04-19-lbr-farsight-lra-itas-press-release",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "inservice",
+       "value": "inservice",
+       "fact": "Farsight's press release says the LRA launched ITAS on 19 April 2023 for digital registration, online filing and payment, and that over 8,500 taxpayers were already registered in the pilot.",
+       "as_of": "2023-04-19",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Liberia Integrated Tax Administrative System",
+       "class": "tax",
+       "platform": "Farsight Africa / ArabSoft",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{"slug": "2024-07-23-gmb-gra-tin-e-registration-brochure", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Portal login for TIN registration only; no identity authentication service stated."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document does not mention civil register or birth records."}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No statement on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "National ID is only one accepted document for TIN registration; the register is not stated to be keyed on it."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [], "systems": [], "note": "National ID is named only as a registration document; nothing on the ID system itself."}}},
+"taxregister": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "The Gambia Revenue Authority brochure describes online TIN e-registration through its web portal, with an instant e-acknowledgement and a printable TIN certificate on approval.", "as_of": "2024-07", "date_precision": "month", "system": "GRA TIN e-registration platform", "class": "tax"},
+{"sub_indicator": "taxpayers", "aspect": "shared", "value": "shared", "fact": "The brochure lists customs transactions (imports and exports) among the uses of the TIN, alongside tax filing and payment.", "as_of": "2024-07", "date_precision": "month", "system": "Tax Identification Number (TIN)", "class": "tax"}
+], "systems": [{"system": "GRA TIN e-registration platform", "country_label": "Gambia", "class": "tax", "platform": "GRA web portal", "owner": "Gambia Revenue Authority", "tiers": ""}], "note": ""}}}
+}}

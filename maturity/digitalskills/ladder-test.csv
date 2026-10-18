@@ -1,6 +1,6 @@
 iso3,stage,training,measured,half,stage_sources
 AGO,2,underway,,,AGO-002;AGO-001
-BDI,no evidence,,,,
+BDI,2,underway,,,BDI-001;BDI-002
 BEN,2,underway,,,BEN-001
 BFA,2,underway,,,BFA-001
 BWA,4,inservice,measured,,BWA-002
@@ -13,13 +13,13 @@ COM,no evidence,,,,
 CPV,2,underway,,,CPV-003;CPV-002
 DJI,2,underway,,,DJI-004;DJI-005
 DZA,2,underway,,,DZA-001
-EGY,2,underway,,,EGY-001;EGY-002
+EGY,3,inservice,,,EGY-003;EGY-004
 ERI,no evidence,,,,
 ETH,3,inservice,,,ETH-004
 GAB,2,underway,,,GAB-001
 GHA,3,inservice,,,GHA-009;GHA-007
 GIN,2,underway,,,GIN-001
-GMB,2,underway,,,GMB-001;GMB-002
+GMB,2,underway,,,GMB-001;GMB-003
 GNB,2,underway,,,GNB-002;GNB-001
 GNQ,no evidence,,,,
 KEN,3,inservice,,,KEN-004
@@ -38,11 +38,11 @@ NER,3,inservice,,,NER-003
 NGA,2,underway,,,NGA-005;NGA-006
 RWA,2,underway,,,RWA-001
 SDN,no evidence,,,,
-SEN,no evidence,,,,
+SEN,3,inservice,,,SEN-002
 SLE,4,inservice,measured,,SLE-002
 SOM,2,underway,,,SOM-001
 SSD,2,underway,,,SSD-001;SSD-002
-STP,no evidence,,,,
+STP,2,underway,,,STP-003
 SWZ,3,inservice,,,SWZ-003;SWZ-007
 SYC,no evidence,,,,
 TCD,2,underway,,,TCD-002;TCD-003

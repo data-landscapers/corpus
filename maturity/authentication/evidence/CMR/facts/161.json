@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-11-cmr-guardianpost-coleps-sensitisation-campaign",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Cameroon's Ministry of Public Contracts said an Electronic Certificate, used mainly to authenticate the identity of individuals or legal persons using the COLEPS e-procurement platform, is acquired by users, who were being trained on it from 10 October 2024.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "Electronic Certificate (COLEPS)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Certificate (COLEPS)",
+   "country_label": "Cameroon",
+   "class": "authentication",
+   "platform": "COLEPS",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  },
+  {
+   "system": "COLEPS",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

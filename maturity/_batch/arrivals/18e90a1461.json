@@ -1,0 +1,34 @@
+{
+ "slug": "2021-09-27-uga-cioafrica-kcca-city-address-model",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "inservice",
+       "fact": "Kampala Capital City Authority launched its City Address Model, and its records show over 340,000 properties given house numbers and over 7,500 roads named (CIO Africa).",
+       "as_of": "2021-09-27",
+       "date_precision": "day",
+       "system": "City Address Model (CAM)",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "City Address Model (CAM)",
+       "country_label": "Uganda",
+       "class": "address",
+       "platform": "",
+       "owner": "Kampala Capital City Authority",
+       "tiers": "city"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

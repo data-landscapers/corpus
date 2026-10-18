@@ -1,0 +1,53 @@
+{
+ "slug": "2024-04-16-zmb-zppa-circular-13-mandatory-egp",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Zambia Public Procurement Authority's circular says procurement is carried out on the e-GP system from 16 April 2024.",
+       "as_of": "2024-04-16",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Zambia Public Procurement Authority directs all procuring entities to run all procurements of goods, works or services on e-GP, except listed methods.",
+       "as_of": "2024-04-16",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Local authorities are addressees of the e-GP circular only; no office connection is stated."
+    }
+   }
+  }
+ }
+}

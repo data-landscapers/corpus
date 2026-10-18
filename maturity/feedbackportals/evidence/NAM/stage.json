@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "feedback",
-   "stage": "no evidence",
-   "channel": "",
-   "reach": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether people can complain about public services online.",
-   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "feedback",
+      "stage": "2",
+      "channel": "underway",
+      "reach": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-001",
+      "gaps": "No source held since October 2023 says: is one in service with cases on record.",
+      "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

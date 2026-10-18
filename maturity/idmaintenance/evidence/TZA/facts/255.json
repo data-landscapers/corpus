@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIDA, a government institution under the Ministry of Home Affairs, says it registers people, issues national IDs and maintains the national digital registry.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "National ID Data Base",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

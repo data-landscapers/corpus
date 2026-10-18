@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-03-moz-clubofmoz-e-procurement-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The government launched the project to set up an e-GP platform under the GEPRES project, said to cover planning to payment; Finance Minister Carla Louveira launched it.",
+       "as_of": "2025-04-02",
+       "date_precision": "day",
+       "system": "e-GP (GEPRES)",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP (GEPRES)",
+       "country_label": "Mozambique",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on criticism, cuts or punishment."
+    }
+   }
+  }
+ }
+}

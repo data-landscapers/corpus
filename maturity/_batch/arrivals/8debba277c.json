@@ -1,0 +1,196 @@
+{
+ "slug": "2026-08-24-ben-decryptage-8400-nouveaux-refugies-6-mois",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Decryptage reports that UNHCR and the Beninese authorities are working on the biometric integration of displaced people into the national register of natural persons (RNPP), with SP-CNRA annexes opened at Natitingou and Kandi, while 16,463 recognised refugees lack valid ID cards and about 12,400 asylum-seekers await formal registration.",
+       "as_of": "2026-08-24",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques (RNPP)",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques (RNPP)",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Benin."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-11-cmr-guardianpost-coleps-sensitisation-campaign",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Minister Ibrahim Talba Malla said Cameroon's online e-procurement system COLEPS, piloted from 2019, is in use, with a nationwide stakeholder training campaign launched on 10 October 2024 and awards given to ministries for using it.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "COLEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "COLEPS",
+   "country_label": "Cameroon",
+   "class": "procurement",
+   "platform": "COLEPS",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  }
+ ],
+ "note": "Award targets (80%, 90%) and the 11 to 24 ministries extension are commitments, not reported use; no end-to-end or required-of-all statement."
+}

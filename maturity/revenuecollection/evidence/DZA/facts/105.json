@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-dza-lnr-electronic-land-booklet-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Direction Generale du Domaine national's director general says procedures are dematerialised, notably allowing electronic payment of fees for land services.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Electronic payment of land service fees",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fada El Djazair",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Direction Generale du Domaine national",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

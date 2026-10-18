@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-09-stp-rstp-estrategia-nacional-empreendedorismo-draft",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The article says the government, with partners, has created a network of business incubators, with no programme or cohort described.",
+   "as_of": "2024-06-09",
+   "date_precision": "day",
+   "system": "rede de incubadora de empresas",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

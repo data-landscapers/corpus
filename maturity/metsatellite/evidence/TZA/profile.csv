@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TZA,metsat,stream,coverage,inservice,2025-03,TZA-001;TZA-002,,
+TZA,metsat,warnings,coverage,,,,,nothing held
+TZA,metsat,certified,coverage,certified,2024-01,TZA-003,,

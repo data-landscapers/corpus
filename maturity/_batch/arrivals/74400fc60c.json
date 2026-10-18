@@ -1,0 +1,25 @@
+{
+ "slug": "2020-01-01-mwi-unhcr-malawi-fact-sheet-december-2019",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR reports the National Registration Bureau announced plans to register and issue ID cards to refugees and asylum-seekers in Malawi.",
+       "as_of": "2019-12",
+       "date_precision": "month",
+       "system": "NRB national ID",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

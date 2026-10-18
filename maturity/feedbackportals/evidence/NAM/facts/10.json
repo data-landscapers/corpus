@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-18-nam-futuremedia-walvis-bay-ovakalimo",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Walvis Bay Municipality launched Ovakalimo (ovakalimo.org), an online platform where residents report service issues with a photo, are routed to the municipal department and can track status, per spokesperson Anita Kaihiva.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Ovakalimo",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ovakalimo",
+   "country_label": "Namibia",
+   "class": "feedback",
+   "platform": "ovakalimo.org",
+   "owner": "Walvis Bay Municipality",
+   "tiers": "municipal"
+  }
+ ],
+ "note": ""
+}

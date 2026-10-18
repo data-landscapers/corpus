@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CPV-001,CPV,population,register,underway,"Law 43/VIII/2013 creates the SNIAC, a central national civil identification system with a database of citizens, resident foreigners and stateless residents, fed from civil registry acts including births and deaths.",2013-09-17,day,SNIAC,population,2013-09-17-cpv-bo-lei-43-viii-2013-sniac,https://www.gov.cv/documents/d/guest/lei-n-43-viii-2013-cria-e-regula-sniac

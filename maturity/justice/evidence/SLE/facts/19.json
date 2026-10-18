@@ -1,0 +1,26 @@
+{
+ "slug": "2017-10-31-sle-unsl-justice-goes-mobile-case-app",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "UN Sierra Leone says the Judiciary and UNDP launched a case-management app in April 2017, piloted in Freetown and Makeni magistrate and High Courts and set to expand to Bo and Kenema.",
+   "as_of": "2017-04",
+   "date_precision": "month",
+   "system": "case-management app",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "case-management app",
+   "country_label": "Sierra Leone",
+   "class": "justice",
+   "platform": "tablet app, works offline",
+   "owner": "Judiciary of Sierra Leone",
+   "tiers": "magistrate and High Courts"
+  }
+ ],
+ "note": ""
+}

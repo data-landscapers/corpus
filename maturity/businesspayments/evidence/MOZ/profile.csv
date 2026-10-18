@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,business,system,coverage,inservice,2021-03-12,MOZ-003,MOZ-002=underway;MOZ-001=underway,
+MOZ,business,endtoend,coverage,,,,,nothing held
+MOZ,business,reported,coverage,,,,,nothing held

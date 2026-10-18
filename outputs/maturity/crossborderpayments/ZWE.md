@@ -2,6 +2,12 @@
 
 ## Cross-border functionality
 
-***Noted, not assessed***. None held.
+**Corridor in service.** [EcoCash launched an outbound international money transfer service from Zimbabwe to bank accounts and mobile wallets in countries including South Africa, Zambia, Kenya (M-Pesa) and China (Alipay), with all South African banks activated, per the company statement reported by NewsDay](<https://www.newsday.co.zw/southerneye/business/article/200041920/ecocash-launches-international-money-transfers-from-zimbabwe-to-other-countries>). [Econet Wireless Zimbabwe says that from 2 May 2024 people in the UK and South Africa can send money free of charge via Sasai Money Transfer into EcoCash US dollar wallets in Zimbabwe](<https://www.econet.co.zw/zimbabwe-econet-opens-first-free-remittance-corridors-to-zimbabwe/>).
 
-***Not held***. Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+**Regional system.** [Afreximbank's Peter Olowononi says Zimbabwe processes $5.8 million a month through PAPSS, which also clears Chinese currency via a CIPS link](<https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/>).
+
+**Volumes reported.** [The IMF-World Bank report, citing World Bank Remittance Prices Worldwide, says sending remittances from South Africa to Zimbabwe cost an average 12.7 percent in Q1 2024](<https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf>). [Afreximbank's Olowononi cites Zimbabwe statistics of $5.8 million a month through PAPSS](<https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/>).
+
+***Noted, not assessed***. [TCIB](<https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf>); [EcoCash](<https://www.econet.co.zw/zimbabwe-econet-opens-first-free-remittance-corridors-to-zimbabwe/>).
+
+***Not held***. Nothing further is asked of this indicator.

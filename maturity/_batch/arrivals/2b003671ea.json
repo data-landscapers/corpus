@@ -1,0 +1,7 @@
+{"slug": "2026-04-15-mus-statsmauritius-annual-survey-schools-methodology", "studies": {
+"censuses": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Describes a school survey, not a population census or household survey."}}},
+"digitalskills": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Says nothing about digital skills of the public."}}},
+"educationmis": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Annual Survey in Schools", "country_label": "Annual Survey in Schools 2025", "class": "other", "platform": "Microsoft Excel and Access", "owner": "Ministry of Education and Human Resource with Statistics Mauritius", "tiers": ""}], "note": "Annual school questionnaire by e-mail and post processed in Excel and Access; the document does not describe an education information system."}}},
+"schoolinternet": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No internet share for secondary schools or curriculum statement; ICT facilities are only listed as a questionnaire topic."}}},
+"schools": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Annual Survey in Schools", "country_label": "Annual Survey in Schools 2025", "class": "census", "platform": "Microsoft Excel and Access", "owner": "Ministry of Education and Human Resource with Statistics Mauritius", "tiers": "1,409 institutions; pre-primary, primary, secondary, specialised, post-secondary"}], "note": "Once-a-year school questionnaire returning counts, so a census; no per-learner record kept by schools is described."}}}
+}}

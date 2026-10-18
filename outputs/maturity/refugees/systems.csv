@@ -5,6 +5,8 @@ BDI,Merankabandi,Burundi,other,,"Government of Burundi, World Bank, WFP",,2025-0
 BDI,Unified Social Registry,Burundi,other,,Government of Burundi,,2026-05-01-worldbank-building-burundi-national-social-protection-systems
 BDI,CORE-MIS,Burundi,other,open-source MIS,Government of Burundi,,2026-05-01-worldbank-building-burundi-national-social-protection-systems
 BDI,CORE-MIS,Burundi,other,openIMIS,Government of Burundi,,2026-01-01 Burundi's growing social protection system now runs on openIMIS
+BEN,Registre national des personnes physiques (RNPP),Benin,other,,,,2026-08-24-ben-decryptage-8400-nouveaux-refugies-6-mois
+BEN,SP-CNRA registration process,Benin,displaced,,"National Commission for Refugees and Stateless Persons (SP-CNRA), Ministry of the Interior and Security",,2025-01-01-ben-unhcr-rimap-benin
 BFA,Registres d'etat civil numerises,Burkina Faso,other,,Ministere de l'Administration territoriale et de la Mobilite,30 communes,2026-02-02-contrat-objectifs-121000-actes-etat-civil-deplaces
 BFA,Registre Social Unique,Burkina Faso,other,,,,2026-07-15-worldbank-new-financing-economic-opportunities-social-protection
 BFA,IDP database,Burkina Faso,displaced,,,,2026-07-15-worldbank-new-financing-economic-opportunities-social-protection
@@ -42,6 +44,11 @@ KEN,Refugee Identity Card,Kenya,displaced,,Department of Refugee Services,,2026-
 LBR,National Identification Registry,Liberia,other,,National Identification Registry,,2026-06-24-liberia-lina-lrrrc-rebrands-to-ramco-expanded-mandate
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry,,2026-03-04-liberia-lrrrc-nir-lis-mou-refugee-biometric-id
 LBY,e-Wallet for foreign residents and workers,Libya,other,e-wallet,Bank of Commerce and Development,,2026-03-16-bank-of-commerce-and-development-first-e-wallet-expat-residents-workers
+LBY,UNHCR individual registration and biometric enrolment,Libya,displaced,,UNHCR,,2026-06-01-lby-unhcr-annual-results-report-2025-libya
+LBY,Security Registration Card,Libya,displaced,,Security Registration Committee (eastern authorities),,2026-06-01-lby-unhcr-annual-results-report-2025-libya
+LBY,"UNHCR registration, Sarraj Registration Centre, Tripoli (proGres)",Libya,displaced,proGres,UNHCR,,2025-05-28-lby-unhcr-annual-results-report-2024-libya
+LBY,Registration Security Card (Alkufra),Libya,displaced,,East-based Libyan authorities,,2025-05-28-lby-unhcr-annual-results-report-2024-libya
+LBY,Libya Appointment and Services System (LASS),Libya,other,,UNHCR,,2025-05-28-lby-unhcr-annual-results-report-2024-libya
 LSO,Refugee identity card and travel document issuance (Office of the Commissioner for Refugees),Lesotho,displaced,,Ministry of Home Affairs,,2026-08-22-lestimes-refugees-trapped-lesotho-id-freeze
 LSO,MOSIP-based national digital identity ecosystem,Lesotho,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 MAR,UNHCR registration in Morocco,Morocco,displaced,,UNHCR,,2026-01-29-unhcr-morocco-country-page
@@ -55,6 +62,8 @@ MRT,SIGE-R,Mauritania,other,,UNHCR / Ministry of Education,,2026-01-01-unhcr-hod
 MRT,Social Registry,Mauritania,other,,Taazour,,2024-09-05-mauritania-adaptive-social-protection
 MRT,National Identification Number (NNI),Mauritania,displaced,,ANRPTS,,2024-03-01-unhcr-mauritania-factsheet-march-2024
 MRT,EMIS,Mauritania,other,,Ministry of Education,,2024-03-01-unhcr-mauritania-factsheet-march-2024
+MRT,Registre social,Mauritania,other,,Government of Mauritania,,2025-02-04-mrt-worldbank-saspp-country-work-mauritania
+MUS,UNHCR remote registration of asylum-seekers,Mauritius,displaced,,UNHCR,,2025-05-28-unhcr-south-africa-mco-annual-results-report-2024
 NAM,Cash-Based Interventions (MTC mobile money),Namibia,displaced,MTC Namibia mobile money,UNHCR with government of Namibia,Osire settlement,2025-02-01 Cash-Based Interventions provide a ray of hope for refugees in Namibia amid severe drought and funding shortages
 NAM,National Population Registration System (NPRS),Namibia,other,e-NPRS,"Ministry of Home Affairs, Immigration, Safety and Security",,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs
 NER,passeport biométrique AES,Niger,other,"biometric enrolment kits, online pre-enrolment via Amana, Nita and Airtel Money",Ministère de l'Intérieur / Direction de la Surveillance du Territoire,national,2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes

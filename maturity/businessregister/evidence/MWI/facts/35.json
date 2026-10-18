@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "President Chakwera launched the Malawi Business Registration System (MBRS) on 29 February 2024, which he said will streamline business registration; online registration is not stated.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "Malawi Business Registration System (MBRS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Business Registration System (MBRS)",
+   "country_label": "Malawi",
+   "class": "business",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SEN,RIICE (Remote Sensing-based Information and Insurance for Crops in emerging Economies),Senegal,other,"Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA crop growth model","IRRI, ISRA and sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
+SEN,IPAR,Senegal,research,,Initiative Prospective Agricole et Rurale,,2023-06-26-sen-ipar-ai-strategy-working-groups

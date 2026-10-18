@@ -1,0 +1,71 @@
+{
+ "slug": "2024-07-16-zaf-sars-filing-season-2024",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "AI named is inside tax administration, a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Auto Assessment and Filing Season are described, but online filing and payment are not stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "SARS says it applies artificial intelligence and machine learning to about 150 million third-party data records to auto-assess taxpayers and runs each outcome through fraud detection.",
+       "as_of": "2024-07-16",
+       "date_precision": "day",
+       "system": "SARS Auto Assessment and fraud detection",
+       "class": "sectorai"
+      },
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "results",
+       "value": "reported",
+       "fact": "SARS reports over 5 million taxpayers auto-assessed in 14 days, 99.13% accepting the outcome, and R100 billion of impermissible refunds prevented last year.",
+       "as_of": "2024-07-16",
+       "date_precision": "day",
+       "system": "SARS Auto Assessment and fraud detection",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

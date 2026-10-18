@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-04-gin-judicalex-ministre-visite-tribunal-commerce",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Judicalex, the operator of the Conakry commercial court's digitisation platform, says digitisation projects for the RCCM and other requests are in development for the coming months.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "RCCM digitisation",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

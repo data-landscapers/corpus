@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-25-gin-actuguinee-ifi-protection-consommateurs",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The article by lawyer Me Fode Mourana Soumah says the BCRG adopted instruction I/DGSIF/DSIMF/006/2018 setting consumer-protection standards for inclusive financial institutions, which include e-money institutions, requiring displayed fees, written contracts, plain language and client data access.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "BCRG instruction I/DGSIF/DSIMF/006/2018",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

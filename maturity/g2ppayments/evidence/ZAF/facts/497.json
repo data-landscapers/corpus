@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-26-zaf-parliament-sassa-srd-system-findings",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Portfolio Committee on Social Development says SASSA administers the SRD application and payment system, which uses a mobile money service to pay grants.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "SRD application and payment system",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SRD application and payment system",
+   "country_label": "South Africa",
+   "class": "g2p",
+   "platform": "",
+   "owner": "SASSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

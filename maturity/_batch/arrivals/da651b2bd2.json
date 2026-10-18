@@ -1,0 +1,12 @@
+{"slug": "2025-10-22-nam-thebrief-namibians-emergency-funds-findex", "studies": {
+"businesspayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "uptake", "aspect": "share", "value": "half", "fact": "World Bank lead economist Leora Klapper says 73% of Namibian adults now own a financial account, citing Global Findex 2025 figures as reported by The Brief.", "as_of": "2025-10-22", "date_precision": "day", "system": "Global Findex", "class": "survey"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only a general remark on mobile money accounts; no Namibian service, licence or switch is stated."}}},
+"revenuecollection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document says nothing on tax or fee payment."}}}
+}}

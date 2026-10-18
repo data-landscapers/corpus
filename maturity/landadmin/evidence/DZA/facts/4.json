@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-14-dza-elwatan-land-registry-one-stop-shop",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Algeria's finance minister told the National People's Assembly on 12 December 2024 that digitising the land file, archives and documents in the land conservation offices has given automated, secured management of all land transactions.",
+   "as_of": "2024-12-12",
+   "date_precision": "day",
+   "system": "land conservation digitised land file",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitised land file (fichier foncier)",
+   "country_label": "Algeria",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "land conservation offices and cadastre"
+  }
+ ],
+ "note": "The single window ordered in each office coordinates services; the source does not say it joins systems."
+}

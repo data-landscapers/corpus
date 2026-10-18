@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,sectorai,use,underway,The AI4Mpox Burundi team is piloting an AI-powered early-warning dashboard in three health districts of Bujumbura.,2025,year,AI4Mpox Burundi early-warning dashboard,sectorai,2025-01-01-bdi-ai4d-mpox-ai-surveillance-pilot,https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network

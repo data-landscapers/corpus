@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether people can complain about public services online.
+***Not held***. Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-lso-lestimes-moorosi-digitisation-interview",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Minister Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway so citizens can pay for services digitally instead of cash.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "electronic payment gateway",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

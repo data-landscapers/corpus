@@ -1,0 +1,15 @@
+{"slug": "2025-06-18-bdi-wearetech-mediabox-edrms-dtfcn", "studies": {
+"civilserviceskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Training of land agents is named only as a condition of success, not as delivered."}}},
+"digitalskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on teaching the public digital skills."}}},
+"egovservices": {"countries": {"BDI": {"facts": [], "systems": [{"system": "EDRMS", "country_label": "Burundi", "class": "other", "platform": "Mediabox", "owner": "Direction des titres fonciers et du cadastre national", "tiers": "staff-only"}], "note": "The EDRMS is staff-only, not a public portal; no online citizen service stated."}}},
+"landadmin": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "Mediabox announced on 17 June 2025 the commissioning of an EDRMS at the land titles directorate DTFCN, interconnected with the Building Permit System (first titles) and the Property Management System (title updates: transfers, corrections, mortgages), forming an integrated digital ecosystem.", "as_of": "2025-06-17", "date_precision": "day", "system": "Property Management System (PMS)", "class": "landmis"}
+], "systems": [
+{"system": "EDRMS", "country_label": "Burundi", "class": "other", "platform": "Mediabox", "owner": "DTFCN", "tiers": "staff-only"},
+{"system": "Building Permit System (BPS)", "country_label": "Burundi", "class": "landmis", "platform": "", "owner": "DTFCN", "tiers": ""},
+{"system": "Property Management System (PMS)", "country_label": "Burundi", "class": "landmis", "platform": "", "owner": "DTFCN", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "The article says the DTFCN uses a Property Management System that handles updates to existing titles (transfers, corrections, mortgages) and a Building Permit System that handles issuing first titles, both interconnected with the new EDRMS.", "as_of": "2025-06-17", "date_precision": "day", "system": "Property Management System (PMS)", "class": "land"}
+], "systems": [
+{"system": "Property Management System (PMS)", "country_label": "Burundi", "class": "land", "platform": "", "owner": "DTFCN", "tiers": ""}], "note": ""}}}
+}}

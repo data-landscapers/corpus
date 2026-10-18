@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-08-sdn-sudanplatform-khartoum-whatsapp-complaints",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "A Khartoum State government committee met telecom companies to allocate unified WhatsApp numbers for citizen complaints and proposed adding a call centre, with companies ready to supply the numbers.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "Khartoum State WhatsApp complaints service",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khartoum State WhatsApp complaints service",
+   "country_label": "Sudan",
+   "class": "feedback",
+   "platform": "WhatsApp",
+   "owner": "Khartoum State government",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

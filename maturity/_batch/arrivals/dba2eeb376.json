@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-swz-akvo-droughtmap-hub-handbook",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The handbook says the Eswatini DroughtMap Hub, run with the National Drought Management Center, Ministry of Agriculture and Meteorological Service, computes a Combined Drought Indicator from CHIRPS and MODIS satellite data and publishes it per inkhundla in a public area.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Eswatini DroughtMap Hub",
+       "class": "agrisat"
+      },
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "published",
+       "value": "scheduled",
+       "fact": "The handbook says the Combined Drought Indicator is computed automatically each month for the previous month, then reviewed, validated and published.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Eswatini DroughtMap Hub",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini DroughtMap Hub",
+       "country_label": "Eswatini",
+       "class": "agrisat",
+       "platform": "GeoNode, Django and NextJS web app",
+       "owner": "National Drought Management Center, Ministry of Agriculture, Eswatini Meteorological Service",
+       "tiers": "public area for visitors; admin and reviewer areas"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

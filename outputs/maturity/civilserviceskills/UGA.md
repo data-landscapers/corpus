@@ -2,6 +2,12 @@
 
 ## Civil service digital skills
 
+**Training for civil servants.** [The MoFPED monitoring report says the Uganda Institute of Information and Communications Technology (UICT) trained 2,268 Government officers in FY 2024/25 in areas including Digital Leadership, Data Science and Analytics, and Digital Literacy and General ICT Awareness](<https://www.finance.go.ug/sites/default/files/reports/Digital%20Transformation%20Annual%20Monitoring%20FY2024-25%20Report.pdf>). [Uganda's Ministry of ICT and National Guidance held a five-day ICDL-aligned digital skills training (Computer and Online Essentials, Digital Marketing) for communication officers from government MDAs, with further ICDL modules set for July 2025](<https://ict.go.ug/media/news/government-communicators-strengthen-digital-skills-through-icdl-training>).
+
+**Across government.** No source held since October 2023 says digital-skills training reaches civil servants across government. The nearest held fact: [the one given above](<https://www.finance.go.ug/sites/default/files/reports/Digital%20Transformation%20Annual%20Monitoring%20FY2024-25%20Report.pdf>).
+
+**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://www.finance.go.ug/sites/default/files/reports/Digital%20Transformation%20Annual%20Monitoring%20FY2024-25%20Report.pdf>).
+
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether civil servants are trained in digital skills.
+***Not held***. No source held since October 2023 says digital-skills training reaches civil servants across government.

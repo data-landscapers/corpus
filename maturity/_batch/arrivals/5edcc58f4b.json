@@ -1,0 +1,44 @@
+{
+ "slug": "2020-10-01-ben-gouv-tout-savoir-ifu",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The government guide says individuals apply for the 13-digit IFU taxpayer number exclusively on the online platform ifu.impots.bj, with a certificate downloadable on approval.",
+       "as_of": "2020-10",
+       "date_precision": "month",
+       "system": "IFU",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "The guide says sole traders and companies being created are registered for the IFU at the business formalities one-stop shop (GUFE) of APIEx.",
+       "as_of": "2020-10",
+       "date_precision": "month",
+       "system": "IFU",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFU",
+       "country_label": "Bénin",
+       "class": "tax",
+       "platform": "ifu.impots.bj",
+       "owner": "Direction générale des impôts",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "slug": "2024-01-01-rwa-unctad-digital-cross-border-trade-project",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "UNCTAD describes ASYCUDA World as Rwanda's system for processing international trade transactions.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "UNCTAD says it will work with MINICOM and Rwanda Revenue Authority to optimize ASYCUDA World's selectivity/risk modules and activate import clearance.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Rwanda",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "Rwanda Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for Rwanda that answers the study."
+    }
+   }
+  }
+ }
+}

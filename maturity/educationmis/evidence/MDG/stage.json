@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "no evidence",
-   "system": "",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the education ministry holds its statistics in an information system.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "system": "underway",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-002",
+      "gaps": "No source held since October 2023 says: is the school census run through it.",
+      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

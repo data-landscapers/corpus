@@ -1,0 +1,70 @@
+{
+ "slug": "2024-10-06-tgo-ticinfos-ai-strategy-consultation-call",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Tic Infos reports Togo's digital-economy ministry launched a call for AI experts to take part in drafting a national AI strategy, with registrations open to 18 October.",
+       "as_of": "2024-10-06",
+       "date_precision": "day",
+       "system": "national AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  }
+ }
+}

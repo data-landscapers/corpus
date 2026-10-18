@@ -20,13 +20,13 @@ The Kampala Convention asks for registers and documents for internally displaced
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 4 |
 | 4 Operating | 6 |
-| 3 Established | 15 |
-| 2 Nascent | 8 |
+| 3 Established | 17 |
+| 2 Nascent | 9 |
 | 1 Absent | 5 |
-| Unplaced | 2 |
-| No evidence | 15 |
+| Unplaced | 5 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -42,6 +42,12 @@ The number of refugees or displaced people using digital services was published 
 The number of refugees or displaced people using digital services was published in 2023.
 
 - UNHCR states the number of refugees in the camp with access to financial products, including bank accounts, rose from 2,400 in 2022 to 5,600 in 2023 ([source, 2023](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf)).
+
+### Nigeria: 5 Leading
+
+The number of refugees or displaced people using digital services was published in 2026.
+
+- NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000 ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
 
 ### Somalia: 5 Leading
 
@@ -142,11 +148,24 @@ Refugees or displaced people were registered and documented in 2026; their acces
 
 - UNHCR Egypt states 1,100,600 refugees and asylum-seekers were registered with it as of 30 April 2026, Sudanese over three-quarters ([source, 2026-04-30](https://data.unhcr.org/en/documents/download/122361)).
 
+### Libya: 3 Established
+
+Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
+
+- UNHCR's Annual Results Report 2025 says it had registered 108,455 refugees and asylum-seekers individually in Libya (40,699 of them new in 2025), with biometric enrolment of 41,157 people aged five and over, and issued asylum-seeker and refugee certificates ([source, 2025-12](https://www.unhcr.org/us/sites/en-us/files/2026-06/unhcr-annual-results-report-2025-libya_6.pdf)).
+- UNHCR reports it had registered a cumulative 79,019 refugees and asylum-seekers in Libya by the end of 2024, 36,159 of them new in 2024, at its Tripoli registration centre, with documentation (a UNHCR refugee certificate) issued to them ([source, 2024-12](https://www.unhcr.org/uk/sites/uk/files/2025-06/Libya%20ARR%202024_65.pdf)).
+
 ### Mali: 3 Established
 
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - UNHCR Mali reports that between April and June 2026 4,950 people were registered and enrolled biometrically by the CNCR and UNHCR, and 17,806 refugee ID cards were distributed ([source, 2026-06](https://reliefweb.int/attachments/71934176-0890-4bed-8159-9c9c145773bc/Operational%20Update%20UNHCR_%20Mali_%20Q2-%202026.pdf)).
+
+### Mauritius: 3 Established
+
+Refugees or displaced people were registered and documented in 2024; their access to digital services is not on record.
+
+- UNHCR's 2024 results report says 79 refugees and asylum-seekers were registered individually in Mauritius, by remote registration, and protection documents were issued to them ([source, 2024](https://www.unhcr.org/sites/default/files/2025-06/South%20Africa%20MCO%20ARR%202024.pdf)).
 
 ### Morocco: 3 Established
 
@@ -178,6 +197,13 @@ Refugees or displaced people were registered and documented in 2025; their acces
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - UNHCR says that by 31 March 2026, 22,474 individuals and 7,746 births were registered through mobile and continuous registration in Uganda ([source, 2026-03-31](https://data.unhcr.org/en/documents/download/123053)).
+
+### Benin: 2 Nascent
+
+Registration or a digital service for refugees or displaced people was under way in 2026; documents issued are not on record.
+
+- Decryptage reports that UNHCR and the Beninese authorities are working on the biometric integration of displaced people into the national register of natural persons (RNPP), with SP-CNRA annexes opened at Natitingou and Kandi, while 16,463 recognised refugees lack valid ID cards and about 12,400 asylum-seekers await formal registration ([source, 2026-08-24](https://decryptage.bj/2026/08/24/deplacements-forces-le-benin-accueille-8-400-nouveaux-refugies-en-6-mois/)).
+- UNHCR's RIMAP page says the National Commission for Refugees and Stateless Persons (SP-CNRA) oversees the registration process, which is currently being piloted in the north-western regions ([source, 2025](https://rimap.unhcr.org/countries/benin)).
 
 ### Cameroon: 2 Nascent
 
@@ -269,6 +295,24 @@ Nothing held since 2023 names registration of refugees and displaced people, so 
 
 Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
+### Gambia: Unplaced
+
+Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+
+### Guinea-Bissau: Unplaced
+
+Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+
+### Malawi: Unplaced
+
+Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+
 ### South Africa: Unplaced
 
 Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
@@ -281,12 +325,6 @@ Nothing held names registration of refugees and displaced people or says there i
 
 Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
 
-### Benin: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
 ### Cape Verde: No evidence
 
 Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
@@ -294,42 +332,6 @@ Nothing held names registration of refugees and displaced people or says there i
 Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
 
 ### Gabon: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Gambia: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Guinea-Bissau: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Libya: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Malawi: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Mauritius: No evidence
-
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
-
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
-
-### Nigeria: No evidence
 
 Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
 

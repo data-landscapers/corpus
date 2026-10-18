@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-12-egy-businessmen-itda-tax-number-commercial-registry",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Internal Trade Development Authority says six new services were added to the Digital Egypt platform, bringing Commercial Registry services available online to 20, including a digital trade name reservation service launched with GAFI.",
+   "as_of": "2025-07-12",
+   "date_precision": "day",
+   "system": "Commercial Registry",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commercial Registry",
+   "country_label": "Egypt",
+   "class": "business",
+   "platform": "Digital Egypt platform",
+   "owner": "Internal Trade Development Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether civil servants are trained in digital skills.
+***Not held***. Nothing held since October 2023 says whether civil servants are trained in digital skills.

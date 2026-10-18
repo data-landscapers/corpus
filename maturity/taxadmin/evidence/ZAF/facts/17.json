@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-20-zaf-sanews-auto-assessed-filing-season",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "SARS says individual taxpayers file returns via eFiling and the SARS MobiApp from 21 July to 20 October 2025, with an outcome in under five seconds for most online returns.",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "SARS eFiling and MobiApp",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

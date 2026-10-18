@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-29-ssd-jakony-digital-money-operators-rules",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction.",
+   "as_of": "2025-09-29",
+   "date_precision": "day",
+   "system": "Bank of South Sudan regulatory notice",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

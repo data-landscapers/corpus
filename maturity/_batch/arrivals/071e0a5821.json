@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-02-som-spaceinafrica-scaa-satellite-weather-system",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Agricultural planning is only a hoped-for further use of the aviation weather system."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The SCAA says it launched a satellite weather system with an MTG receiver in Mogadishu giving near real-time data for monitoring and forecasting, replacing a decade-old platform.",
+       "as_of": "2025-07-02",
+       "date_precision": "day",
+       "system": "MTG receiver and PUMA-2025 workstation",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTG receiver and PUMA-2025 workstation",
+       "country_label": "Somalia",
+       "class": "metsat",
+       "platform": "ClimSA",
+       "owner": "Somali Civil Aviation Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

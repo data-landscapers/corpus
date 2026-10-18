@@ -1,3 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 DJI,SYRAD,Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+DJI,D-Money,D-Money,retail,smartphone app,Djibouti Telecom,,2024-09-26-dji-d-money-lancement-nouvelle-plateforme
+DJI,D-Money,Djibouti,retail,mobile money wallet and app,Djibouti Telecom,,2020-11-04-dji-mcpt-lancement-d-money
+DJI,D-Money,Djibouti,retail,mobile money,Djibouti Telecom,,2023-02-01-dji-uncdf-remittance-diagnostic
+DJI,WAAFI,Djibouti,retail,"mobile service for bill payment, sending and receiving money",,,2023-02-01-dji-uncdf-remittance-diagnostic

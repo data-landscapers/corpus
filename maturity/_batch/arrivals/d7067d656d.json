@@ -1,0 +1,23 @@
+{
+ "slug": "2025-04-01-zaf-pmg-nw866-school-ict-connectivity",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "School device and connectivity provision only; no rural programme or rural/urban use figure."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No SDG 4.a.1 share of secondary schools with internet and no compulsory-curriculum statement."
+    }
+   }
+  }
+ }
+}

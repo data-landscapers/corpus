@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "socialmis",
-   "stage": "no evidence",
-   "system": "",
-   "payments": "",
-   "integrated": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how social programmes are administered.",
-   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "socialmis",
+      "stage": "3",
+      "system": "inservice",
+      "payments": "",
+      "integrated": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002;MRT-001",
+      "gaps": "No source held since October 2023 says the programme's system pays beneficiaries electronically.",
+      "note": "First pass: counted from the four questions by study-ladder-socialprotection.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

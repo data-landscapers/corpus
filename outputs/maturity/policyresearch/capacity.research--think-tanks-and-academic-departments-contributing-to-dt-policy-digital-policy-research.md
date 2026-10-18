@@ -22,11 +22,11 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 8 |
-| 2 Nascent | 2 |
+| 3 Established | 19 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 42 |
+| Unplaced | 8 |
+| No evidence | 19 |
 
 ## Countries
 
@@ -43,12 +43,74 @@ Local research fed a digital policy process in 2026; a standing role is not on r
 
 - CIPESA submitted recommendations to the national taskforce developing Uganda's AI and Emerging Technologies Strategy, in response to the Ministry of ICT and National Guidance process ([source, 2026-05-11](https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/)).
 
+### Algeria: 3 Established
+
+A local institution published research on digital policy in 2025; a part in a policy process is not on record.
+
+- CARE, an Algiers-based think tank, published an independent analysis of Algeria's National Digital Transformation Strategy 2025-2030, assessing its five pillars, 25 objectives and indicators ([source, 2025-05-22](https://care.dz/en/espace-presse/sntn-20252030-care-livre-une-analyse-sans-detour-pour-un-numerique-algerien-ambitieux-et-credible-art712)).
+- CARE, an Algiers-based think tank, published a study evaluating Algeria's e-Algeria digital strategy and proposing orientations for the 2024-2028 strategy ([source, 2024-01-27](https://care.dz/en/espace-presse/construire-la-nouvelle-strategie-de-transformation-numerique-de-lalgerie-sur-quelle-base-art679)).
+
+### Angola: 3 Established
+
+A local institution published research on digital policy in 2024; a part in a policy process is not on record.
+
+- An article in the INSUTEC journal, co-authored by an INSUTEC researcher and an Agencia de Protecao de Dados official, analyses legal, technological and institutional challenges of personal data protection in Angola ([source, 2024](https://revista.insutec.ao/index.php/fct/article/download/110/253?inline=1)).
+
+### Burundi: 3 Established
+
+A local institution published research on digital policy in 2023; a part in a policy process is not on record.
+
+- Authors from the Universite du Burundi published a study in the Open Journal of Social Sciences surveying 343 students on ICT services and e-learning in Burundian higher education ([source, 2023-11](https://doi.org/10.4236/jss.2023.1111019)).
+
 ### Cameroon: 3 Established
 
 A local institution published research on digital policy in 2026; a part in a policy process is not on record.
 
 - Digital Empowerment Gateway published Policy Brief 01 from its ongoing research on digital governance and evidence ecosystem development in Cameroon ([source, 2026-09-30](https://www.linkedin.com/pulse/beyond-infrastructure-why-cameroons-digital-challenge-frankline-ojong-0mxqf/)).
 - Nkafu Policy Institute published a policy brief on AI and the future of work in Cameroon, recommending four pillars of action to the Government of Cameroon ([source, 2026-01-06](https://nkafu.org/ai-and-the-future-of-work-in-cameroon-preparing-the-workforce-for-emerging-opportunities/)).
+
+### Chad: 3 Established
+
+A local institution published research on digital policy in 2023; a part in a policy process is not on record.
+
+- A researcher at the Université de Moundou (Chad) published a journal article, based on 15 interviews and 220 surveys of municipal councillors and service heads in Chadian communes, on managing the digitalisation of municipal services ([source, 2023-12-20](https://zenodo.org/records/10408841)).
+
+### Ghana: 3 Established
+
+A local institution published research on digital policy in 2024; a part in a policy process is not on record.
+
+- The African Center for Economic Transformation, Accra, published a working paper on digitalization in Ghana with recommendations to policymakers, written by its Senior Manager for Infrastructure and Innovation and a consultant ([source, 2024-01-11](https://www.swp-berlin.org/assets/afrika/publications/MTA_working_paper/MTA_WP_2024_ACET_Digitalization_in_Ghana.pdf)).
+
+### Lesotho: 3 Established
+
+A local institution published research on digital policy in 2025; a part in a policy process is not on record.
+
+- The National University of Lesotho published a 2025 thesis by Sephoso on e-commerce legislation, data privacy and cybersecurity in Lesotho ([source, 2025-05-10](https://tml.nul.ls/items/91d7139a-e56f-433c-8e2b-bef2259bf72c)).
+
+### Libya: 3 Established
+
+A local institution published research on digital policy in 2024; a part in a policy process is not on record.
+
+- The ANNIR initiative, with Internet Society Libya, published working-group policy briefs on cybersecurity, digital rights and personal data privacy in Libya, developed with academics, civil society and several government institutions ([source, 2024-10](https://annir.ly/assets/policy-reform/[ar]-working-groups-policy-briefs-outcomes---may-5.pdf)).
+
+### Mali: 3 Established
+
+A local institution published research on digital policy in 2026; a part in a policy process is not on record.
+
+- Issoufou Coulibaly, a teacher at the Institut Zayed des Sciences Economiques et Juridiques in Bamako, published a study of Mali's digital regulation (cybercrime law 2019-056 and the HAC) based on a survey and expert interviews ([source, 2026-02](https://edition-efua.acaref.net/wp-content/uploads/sites/6/2026/02/6-Issoufou-COULIBALY.pdf)).
+- Internet Society Mali lists published studies from 2023 to 2025 on internet exchange points, internet resilience, digital sovereignty, cybersecurity and operator prices ([source, 2025](https://isoc.ml/publications/)).
+
+### Mauritania: 3 Established
+
+A local institution published research on digital policy in 2025; a part in a policy process is not on record.
+
+- A paper published 2025-10-29 by authors including Dah Abdellahi Bellahi of the Universite de Nouakchott analyses Mauritania's e-government and digital transformation through the EGDI, E-Participation, NRI and IDI indices ([source, 2025-10-29](https://doi.org/10.48374/imist.prsm/ame-v8i1.61127)).
+
+### Morocco: 3 Established
+
+A local institution published research on digital policy in 2024; a part in a policy process is not on record.
+
+- The Royal Institute for Strategic Studies (IRES) published its Exponentialite Annual Survey Paper 2024, covering cloud computing and Morocco's 2030 digital strategy and recommending a comprehensive digital policy ([source, 2024-09-30](https://www.ires.ma/iip/en/annual-survey-paper/exponentialite-asp-2024-english-version/)).
 
 ### Nigeria: 3 Established
 
@@ -64,9 +126,10 @@ A local institution published research on digital policy in 2024; a part in a po
 
 ### Somalia: 3 Established
 
-A Somali university published research on AI governance and digital rights in 2026; whether local researchers advise government is not known.
+A local institution published research on digital policy in 2026; a part in a policy process is not on record.
 
 - SONSA published a 20-page research report on AI and digital rights in Somalia carried out by Capital University of Somalia, analysing government policies and private sector practices ([source, 2026-10-15](https://sonsaplatform.org/artificial-intelligence-and-digital-rights-in-somalia)).
+- SIDRA Institute, a Garowe-based think tank, published Policy Brief 26 on cybersecurity in Somalia by its researcher Abdi Omar Bile ([source, 2025-12](https://sidrainstitute.org/wp-content/uploads/2025/12/SIDRA-Cyberescurity-Policy-brief-1.pdf)).
 
 ### South Africa: 3 Established
 
@@ -79,6 +142,13 @@ A local institution published research on digital policy in 2026; a part in a po
 A local institution published research on digital policy in 2026; a part in a policy process is not on record.
 
 - ISTinaD, described as a Sudan-based research institute, published a policy brief by Elaf Alnayer on 22 March 2026 examining Sudan's financial technology ecosystem through the Digital Public Infrastructure framework, with recommendations for policymakers ([source, 2026-03-22](https://istinad.org/policy-paper-digital-payment-technology-in-sudan/)).
+
+### Tanzania: 3 Established
+
+A local institution published research on digital policy in 2025; a part in a policy process is not on record.
+
+- Doreen F. Mwamlangala of the Open University of Tanzania published a doctrinal study in the African Journal of Law and Practice on higher learning institutions' compliance with Tanzania's Personal Data Protection Act, finding compliance extremely low ([source, 2025-09-23](https://doi.org/10.61538/afjlp.v1i2.1791)).
+- Tech & Media Convergency (TMC), with the Internet Governance Tanzania Working Group of 25 organisations, published the April 2025 report 'The State of Internet Governance and Analysis on Emerging Digital Threats in Tanzania' covering 2024, part of its Tanzania State of Internet Governance Series ([source, 2025-04](https://tmc.co.tz/wp-content/uploads/2025/04/REPORT-The-State-of-Internet-Governance-and-Analysis-on-Emerging-Digital-Threats-in-Tanzania-.pdf?download=10506)).
 
 ### Zambia: 3 Established
 
@@ -105,25 +175,80 @@ Research on digital policy had begun in 2025; published research by a local inst
 
 - Reporting says CITADEL, the AI-for-development centre of excellence at the Université Virtuelle du Burkina Faso, received about CAD 1 million from IDRC for a second, research/action-oriented phase (CITADEL 2.0) starting April 2025 ([source, 2025-04](https://lefaso.net/spip.php?article137461)).
 
-### Algeria: No evidence
+### DR Congo: 2 Nascent
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Research on digital policy had begun in 2025; published research by a local institution is not on record.
 
-Not established: Nothing held says whether local institutions research digital policy.
+- The ACP reports that the CES-UDPS (the UDPS scientific elite corps) held a scientific morning in Kinshasa on valuing Congolese data for locally adapted AI solutions, with Prof. Elysee Ilunga of ISTA speaking ([source, 2025-09-11](https://acp.cd/science-sante-environnement/kinshasa-sengager-dans-la-numerisation-des-services-publics-une-recommandation-dune-matinee-scientifique/)).
+- The Centre de recherche en sciences humaines (CRESH) in Kinshasa held a conference on digital technology and development in the Congolese context, including digital sovereignty, on 26 July 2024 ([source, 2024-07-26](https://www.reporter.cd/le-numerique-et-le-developpement-de-la-rdc-au-coeur-dun-debat-scientifique-au-centre-de-recherche-en-sciences-humaines-cresh/)).
 
-### Angola: No evidence
+### Eswatini: 2 Nascent
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Research on digital policy had begun in 2024; published research by a local institution is not on record.
 
-Not established: Nothing held says whether local institutions research digital policy.
+- ESEPARC, a local policy research centre, with the Ministry of ICT and UNDP launched a Digital Readiness Assessment survey running 21 August to 13 September 2024 ([source, 2024-08-21](https://www.separc.co.sz/2024/08/28/eswatini-embarks-on-a-digital-revolution-unveiling-the-digital-readiness-assessment/)).
+
+### Ethiopia: 2 Nascent
+
+Research on digital policy had begun in 2024; published research by a local institution is not on record.
+
+- Researchers from the Policy Studies Institute, Addis Ababa University and Ethiopian IT Park presented findings of a research project on IT governance in Ethiopian public sectors on 7 August 2024 ([source, 2024-08-07](https://psi.org.et/index.php/blog/324-it-governance-in-ethiopian-public-sectors-the-need-for-policy-intervention)).
+
+### Madagascar: 2 Nascent
+
+Research on digital policy had begun in 2025; published research by a local institution is not on record.
+
+- Newsmada reports that Customs and the University of Antananarivo's EGS faculty held a conference on data sovereignty and AI with researchers, and that Customs set up CEDIA as a bridge turning university research into operational solutions ([source, 2025-08-21](https://newsmada.com/2025/08/22/gestion-des-donnees-donnees-ia-et-souverainete-madagascar-engage-le-debat/)).
+
+### Cote d'Ivoire: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Gambia: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Malawi: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Mauritius: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Namibia: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Senegal: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### South Sudan: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+
+### Tunisia: Unplaced
+
+Nothing held since 2023 names research on digital policy, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
 
 ### Botswana: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Burundi: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
@@ -141,12 +266,6 @@ Nothing held names research on digital policy or says there is none, so no stage
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### Chad: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Comoros: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
@@ -154,18 +273,6 @@ Nothing held names research on digital policy or says there is none, so no stage
 Not established: Nothing held says whether local institutions research digital policy.
 
 ### Congo: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Cote d'Ivoire: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### DR Congo: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
@@ -195,31 +302,7 @@ Nothing held names research on digital policy or says there is none, so no stage
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### Eswatini: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Ethiopia: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Gabon: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Gambia: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Ghana: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
@@ -237,67 +320,13 @@ Nothing held names research on digital policy or says there is none, so no stage
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### Lesotho: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Liberia: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### Libya: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Madagascar: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Malawi: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Mali: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Mauritania: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Mauritius: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Morocco: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Mozambique: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Namibia: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
@@ -321,37 +350,13 @@ Nothing held names research on digital policy or says there is none, so no stage
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### Senegal: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Seychelles: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 
 Not established: Nothing held says whether local institutions research digital policy.
 
-### South Sudan: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Tanzania: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
 ### Togo: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Tunisia: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 

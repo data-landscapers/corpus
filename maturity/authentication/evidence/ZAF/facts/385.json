@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-zaf-pmg-nw3803-srd-biometric-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Minister of Social Development says SASSA requires an electronic Know Your Client (eKYC) process with compulsory biometric verification for flagged SRD grant records, and biometric verification has been mandatory for all new SRD applications since 6 June 2025.",
+   "as_of": "2025-06-06",
+   "date_precision": "day",
+   "system": "SASSA eKYC biometric verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SASSA eKYC biometric verification",
+   "country_label": "South Africa",
+   "class": "authentication",
+   "platform": "",
+   "owner": "SASSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

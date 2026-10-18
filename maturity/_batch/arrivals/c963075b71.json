@@ -1,0 +1,14 @@
+{
+ "slug": "2026-07-09-getesa-huawei-contrato-optimizacion-red-telefonica",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Network-optimisation contract with Huawei; no backbone build or fibre reach stated."
+    }
+   }
+  }
+ }
+}

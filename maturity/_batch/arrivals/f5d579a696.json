@@ -1,0 +1,44 @@
+{
+ "slug": "2022-02-02-tun-mediateur-statistiques-petitions",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The Médiateur Administratif says citizens can submit petitions through its website, a mobile app and its social network, and that 95 petitions came in through electronic channels in 2020.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Médiateur Administratif electronic channels",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "results",
+       "value": "published",
+       "fact": "The Médiateur Administratif publishes statistics from its 2020 annual report on files handled centrally, with 51% answered, 49% unanswered and 38% still being followed up, broken down by type of body.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Médiateur Administratif statistics",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Médiateur Administratif website and mobile app",
+       "country_label": "Tunisie",
+       "class": "feedback",
+       "platform": "web, mobile app",
+       "owner": "Médiateur Administratif",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

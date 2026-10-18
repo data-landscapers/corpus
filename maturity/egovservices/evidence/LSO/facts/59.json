@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-24-lso-lesothotribune-e-services-platform-phase-one",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-services platform",
+   "country_label": "Lesotho",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "First phase was a validation exercise before going live; no service stated as usable online."
+}

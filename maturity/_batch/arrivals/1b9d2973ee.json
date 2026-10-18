@@ -1,0 +1,11 @@
+{"slug": "2024-06-27-mli-mcenma-semaine-numerique-cloture-startup-act", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a recommendation to regulate AI; no harm rule, draft or authority stated."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"ailaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Regulating AI is only a recommendation of the event; no draft text named."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "E-signature promotion in the AES is only a recommendation; no service stated."}}},
+"ecommercelaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No e-commerce or e-transactions law stated."}}},
+"startups": {"countries": {"MLI": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "At the closing of the 2nd Semaine du Numerique on 27 June 2024, Minister Alhamdou Ag Ilyene mentioned the imminent adoption of the Startup Act (Loi sur les Startups) and an upcoming monitoring framework for young startups.", "as_of": "2024-06-27", "date_precision": "day", "system": "Startup Act (Loi sur les Startups)", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Startup prize contest mentioned; no hub, incubator or park stated."}}}
+}}

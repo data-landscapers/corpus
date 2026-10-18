@@ -1,0 +1,36 @@
+{
+ "slug": "2023-07-21-ben-douanes-official-delivery-guce-benin",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Benin Customs says the GUCE single window, operational since 2018, handles import declarations with online issue of agencies' authorisations, licences and certificates, and was officially handed to government on 21 July 2023.",
+   "as_of": "2023-07-21",
+   "date_precision": "day",
+   "system": "GUCE Benin",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Benin Customs says the GUCE lets it process customs declarations and electronic payment of import and export declarations.",
+   "as_of": "2023-07-21",
+   "date_precision": "day",
+   "system": "GUCE Benin",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE Benin",
+   "country_label": "Benin",
+   "class": "customs",
+   "platform": "Webb Fontaine",
+   "owner": "Government of Benin / Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

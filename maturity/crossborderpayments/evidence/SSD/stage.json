@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "no evidence",
-   "corridor": "",
-   "regional": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a cross-border digital payment channel, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "3",
+      "corridor": "inservice",
+      "regional": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-04-01-gin-anasa-atlas-zonage-agro-ecologique",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The ANASA atlas, for the Ministry of Agriculture, mapped Guinea's land cover for 2005, 2015 and 2020 from SPOT and Sentinel-2 satellite images and put agricultural land potential at 13.7 million hectares.",
+   "as_of": "2023-04-01",
+   "date_precision": "day",
+   "system": "Atlas du Zonage Agro-Ecologique de la Guinee",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Atlas du Zonage Agro-Ecologique de la Guinee",
+   "country_label": "Guinea",
+   "class": "agrisat",
+   "platform": "atlas",
+   "owner": "ANASA, Cirad, IGN FI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

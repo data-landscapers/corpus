@@ -1,0 +1,36 @@
+{
+ "slug": "2023-09-15-zaf-businesstech-sars-payment-rules-update",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "BusinessTech reports SARS says taxpayers pay through eFiling or EFT to public beneficiary IDs covering customs, excise, income tax, PAYE, provisional tax, VAT and dividends tax, and that Customs and Excise clients declaring goods electronically must use eFiling to pay.",
+   "as_of": "2023-09-15",
+   "date_precision": "day",
+   "system": "SARS eFiling",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "BusinessTech reports SARS says taxpayers pay through eFiling or EFT to public beneficiary IDs covering customs, excise, income tax, PAYE, provisional tax, VAT and dividends tax, and that Customs and Excise clients declaring goods electronically must use eFiling to pay.",
+   "as_of": "2023-09-15",
+   "date_precision": "day",
+   "system": "SARS eFiling",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eFiling",
+   "country_label": "South Africa",
+   "class": "revenue",
+   "platform": "",
+   "owner": "SARS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

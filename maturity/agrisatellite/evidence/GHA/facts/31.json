@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-gha-servir-gmet-craft-yield-forecast",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "SERVIR West Africa and the University of Florida report that GMet successfully tested initial operational capability of CRAFT for district-level maize yield hindcasts in Ghana, linking earth-observation crop type maps to production forecasts, with operationalising the service listed as a next step.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CRAFT",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

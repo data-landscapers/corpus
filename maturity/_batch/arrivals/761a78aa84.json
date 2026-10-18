@@ -1,0 +1,11 @@
+{"slug":"2025-04-04-mus-cbrd-guidelines-incorporation-registration","studies":{
+"authentication":{"countries":{"MUS":{"facts":[],"systems":[],"note":"The guidelines state no authentication service."}}},
+"birthidlink":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"businessregister":{"countries":{"MUS":{"facts":[{"sub_indicator":"business","aspect":"registration","value":"inservice","fact":"The Corporate and Business Registration Department's April 2025 online guide describes incorporating companies and registering businesses through online forms with documents uploaded.","as_of":"2025-04-04","date_precision":"day","system":"Corporate and Business Registration Department online registration","class":"business"}],"systems":[{"system":"Corporate and Business Registration Department online registration","country_label":"Mauritius","class":"business","platform":"","owner":"Corporate and Business Registration Department","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Nothing on who runs the ID system."}}},
+"idregisters":{"countries":{"MUS":{"facts":[],"systems":[],"note":"The form asks applicants for a national identification number, but does not say the register is keyed on it."}}},
+"idrobustness":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Nothing on the national ID system itself."}}},
+"localgov":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Nothing on local government."}}}
+}}

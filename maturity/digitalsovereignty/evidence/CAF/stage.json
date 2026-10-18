@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "no evidence",
-   "rule": "",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the state keeps its data and systems under its own control.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "1",
+      "rule": "none",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001",
+      "gaps": "No source held since October 2023 says: is control of state data a stated goal.",
+      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

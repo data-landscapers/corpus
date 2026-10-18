@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "unplaced",
-   "system": "",
-   "endtoend": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service.",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "3",
+      "system": "inservice",
+      "endtoend": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-002",
+      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.",
+      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

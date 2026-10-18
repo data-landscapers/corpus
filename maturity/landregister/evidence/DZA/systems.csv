@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 DZA,AMLAK,Algeria,land,,General Directorate of National Land Domain (DGDN),,2026-01-12-electronic-land-titles-amlak--wearetech
 DZA,Système national d'information agricole,Algeria,other,,"Ministry of Agriculture, Rural Development and Fisheries",,2026-06-01-national-agricultural-information-system-elmoudjahid
+DZA,Amlak,Algeria,land,,Direction generale du Domaine national,,2026-02-25-dza-ecotimes-cadastral-digitisation
+DZA,Fada El Djazair,Algeria,land,web portal,Direction Generale du Domaine national,,2025-03-11-dza-lnr-electronic-land-booklet-2025
+DZA,digitised land file (fichier foncier),Algeria,land,,Ministry of Finance,land conservation offices and cadastre,2024-12-14-dza-elwatan-land-registry-one-stop-shop

@@ -1,0 +1,34 @@
+{
+ "slug": "2021-02-04-lby-libyaherald-e-company-registry-launch",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "The Libya Herald reports the Tripoli Ministry of Economy launched its electronic commercial (company) registry system, linked to regional registers.",
+       "as_of": "2021-02-03",
+       "date_precision": "day",
+       "system": "electronic commercial (company) registry",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic commercial (company) registry",
+       "country_label": "Libya",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministry of Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-21-lso-gazette-high-court-civil-litigation-rules-ejustice",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The High Court Civil Litigation Rules 2024 (Legal Notice 65) define e-justice as an internet-based system for delivering process and maintaining court case files, with registered users, and leave the date it comes into operation to a Chief Justice notice in the Gazette.",
+   "as_of": "2024-06-21",
+   "date_precision": "day",
+   "system": "e-justice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-justice",
+   "country_label": "Lesotho",
+   "class": "justice",
+   "platform": "internet-based",
+   "owner": "High Court of Lesotho",
+   "tiers": "High Court"
+  }
+ ],
+ "note": ""
+}

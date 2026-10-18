@@ -1,0 +1,151 @@
+{
+ "slug": "2025-07-28-ner-banquemondiale-ppsas-niger",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite data only targeted a drought cash-transfer response, not a farming service."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The World Bank's PPSAS says it contributed to setting up Niger's Registre Social Unifié.",
+       "as_of": "2025-07-28",
+       "date_precision": "day",
+       "system": "Registre Social Unifié",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unifié",
+       "country_label": "Niger",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

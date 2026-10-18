@@ -2,7 +2,7 @@
 
 ## Interoperability of health systems
 
-**Health systems exchanging data.** [The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List](<https://pmg.org.za/committee-question/38770/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited included, and the systems themselves were not examined.
+**Health systems exchanging data.** [The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List](<https://pmg.org.za/committee-question/38770/>). [The Minister of Health says the PHC electronic medical record system is integrated with programmes such as the Central Chronic Medicines Dispensing and Distribution, while EMR adoption is still phased](<https://pmg.org.za/committee-question/31749/>).
 
 **Exchange across the health system.** No source held since October 2023 says three or more health systems exchange data, or a national exchange is in service. The nearest held fact: [the one given above](<https://pmg.org.za/committee-question/38770/>).
 

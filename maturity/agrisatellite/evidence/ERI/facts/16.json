@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-19-eri-fao-locust-early-warning-training",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO's Desert Locust Information Service trained national locust information officers including from this country in Rome on tools including Google Earth Engine satellite image analysis.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "FAO DLIS training",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

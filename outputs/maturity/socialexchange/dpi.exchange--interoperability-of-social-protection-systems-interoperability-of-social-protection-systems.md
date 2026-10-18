@@ -22,11 +22,11 @@ The African Union's Protocol on Social Protection asks for a social protection i
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 15 |
-| 3 Established | 8 |
+| 3 Established | 9 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -66,6 +66,7 @@ Two or more programmes shared one social registry in 2026; links to another sect
 Two or more programmes shared one social registry in 2026; links to another sector are not known.
 
 - The Government of Cabo Verde states that the Cadastro Social Único is the base of the country's social support system, and that a registered eligible household can access targeted support including cash transfers, food security support and resilience programmes ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
+- The Cabo Verde minister says about 16 social programmes draw beneficiaries from the single social registry (CSU) ([source, 2024-02-20](https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/)).
 
 ### Egypt: 4 Operating
 
@@ -159,6 +160,12 @@ A social protection system exchanged data in 2026; a registry shared by programm
 - The finance and gender ministries confirmed in a joint notice that 15,825 old-age grants were suspended because beneficiary names were unverified in the National Population Registry System, so the grant beneficiary list is checked against the population registry ([source, 2026-06](https://www.namibian.com.na/system-says-no-to-hungry-pensioners/)).
 - The first live government-to-person grant payments went through Namibia's instant payment network on 17 June 2026, to beneficiaries in the Marginalised Beneficiaries grant category, via Bank Windhoek, in a controlled go-live ([source, 2026-06-17](https://technews.com.na/2026/06/17/namibia-moves-government-grant-payments-onto-instant-payment-network/)).
 
+### Nigeria: 3 Established
+
+A social protection system exchanged data in 2025; a registry shared by programmes is not known.
+
+- NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
+
 ### Senegal: 3 Established
 
 A social protection system exchanged data in 2023; a registry shared by programmes is not known.
@@ -250,6 +257,12 @@ A link between social protection systems was under way in 2026; none in service 
 
 - Gabonreview reports that on 28 April 2026 the DGI, CNSS and CNAMGS launched work on a single monthly wage declaration on one form accessible simultaneously by all three, with operation targeted for July 2026 ([source, 2026-04-28](https://www.gabonreview.com/dus-un-tournant-numerique-pour-la-transparence-salariale-au-gabon/)).
 
+### Libya: 2 Nascent
+
+A link between social protection systems was under way in 2025; none in service is on record.
+
+- On 10 July 2025 Libya's Ministry of Social Affairs (Minister Wafaa al-Kilani) followed up activation of the electronic link of the wife-and-children grant project, built with the Civil Status Authority, to keep data accurate and stop delays and duplicate payments ([source, 2025-07-10](https://lana.gov.ly/post.php?id=336411&lang=ar)).
+
 ### Madagascar: 2 Nascent
 
 A link between social protection systems was under way in 2026; none in service is on record.
@@ -262,12 +275,6 @@ A link between social protection systems was under way in 2026; none in service 
 
 - Mozambique's disaster agency INGD says its WFP-funded Beneficiary and Humanitarian Assistance Management System (SGBAH), in field pilot and validated ahead of an October 2026 national launch, will be interoperable with the database of the social action institute INAS, which runs support programmes for vulnerable households ([source, 2026-08-12](https://www.biometricupdate.com/202608/mozambiques-digital-humanitarian-response-system-set-for-october-launch)).
 - Mozambique's INGD says its digital register of humanitarian aid recipients, being tested in Beira and due to launch in October 2026 at a WFP-stated cost of about 20 million meticais, is to interoperate with the database of the social action institute INAS so the two show who has received food aid ([source, 2026-08-09](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/)).
-
-### Nigeria: 2 Nascent
-
-A link between social protection systems was under way in 2026; none in service is on record.
-
-- The Federal Ministry of Humanitarian Affairs and Poverty Reduction flagged off the One Humanitarian - One Poverty Response System on 25 March 2026, centred on a Unified National Register, and committed to integrating all existing programmes into it; no programme link in service is stated ([source, 2026-03-25](https://fmino.gov.ng/fg-flags-off-one-humanitarian-one-poverty-response-system-with-un-and-other-partners/)).
 
 ### Sierra Leone: 2 Nascent
 
@@ -337,12 +344,6 @@ Nothing held names social protection systems exchanging data or says there is no
 Not established: Nothing held names social protection systems exchanging data, or says there is none.
 
 ### Guinea-Bissau: No evidence
-
-Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names social protection systems exchanging data, or says there is none.
-
-### Libya: No evidence
 
 Nothing held names social protection systems exchanging data or says there is none, so no stage is set.
 

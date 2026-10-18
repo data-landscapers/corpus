@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "no evidence",
-   "cases": "",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how courts manage their cases.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "4",
+      "cases": "inservice",
+      "filing": "online",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-004",
+      "gaps": "No source held since October 2023 says judgments are published or case status can be looked up online.",
+      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

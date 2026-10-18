@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-21-ago-sjasc-new-technologies-public-management-barrier",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The article says Simplifica 1.0 (2021) and 2.0 (2023), reached through www.sepe.gov.ao, carry services for certificates, registrations, authorizations and licensing, with digital use compulsory or priority.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Simplifica / SEPE",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Simplifica 1.0 and 2.0",
+       "country_label": "Angola",
+       "class": "eservices",
+       "platform": "www.sepe.gov.ao",
+       "owner": "State Reform Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

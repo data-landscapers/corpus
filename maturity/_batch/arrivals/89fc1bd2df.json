@@ -1,0 +1,54 @@
+{
+ "slug": "2020-01-01-tun-oecd-improving-e-procurement-tuneps",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The OECD says TUNEPS runs e-bidding, e-contracting, e-catalogue and an e-shopping mall for tenders and small purchases.",
+       "as_of": "2019-09",
+       "date_precision": "month",
+       "system": "TUNEPS",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The OECD says e-bidding covers the process from procurement plan to selection of the winning bid, e-contracting covers contract signature, and TUNEPS use has been mandatory for all contracting authorities since September 2019.",
+       "as_of": "2019-09",
+       "date_precision": "month",
+       "system": "TUNEPS",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The OECD, citing TUNEPS, gives 2014-2019 totals of 1,032 registered public buyers, 7,037 suppliers, 3,350 procurement procedures and 6,400 e-shopping mall procedures.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "TUNEPS",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TUNEPS",
+       "country_label": "Tunisia",
+       "class": "procurement",
+       "platform": "built with KOICA on Korea's KONEPS",
+       "owner": "HAICOP",
+       "tiers": "e-bidding, e-contracting, e-catalogue, e-shopping mall"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

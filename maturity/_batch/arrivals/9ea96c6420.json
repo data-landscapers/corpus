@@ -1,0 +1,61 @@
+{
+ "slug": "2026-04-10-gmb-jollof-lab-mandinka-translation-model",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Jollof Lab says it released an open-source Mandinka-English translation model on HuggingFace, fine-tuned from NLLB-200 on a curated corpus of 5,797 sentence pairs, with BLEU 21.12 (developer's LinkedIn post).",
+       "as_of": "2026-04-10",
+       "date_precision": "day",
+       "system": "Mandinka-English machine translation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mandinka-English machine translation model",
+       "country_label": "The Gambia",
+       "class": "localai",
+       "platform": "HuggingFace",
+       "owner": "Jollof Lab",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

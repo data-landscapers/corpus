@@ -1,0 +1,23 @@
+{
+ "slug": "2024-05-15-dji-wearetech-e-cabinet-e-building-permit",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-Building Permit",
+       "country_label": "Djibouti",
+       "class": "eservices",
+       "platform": "online portal",
+       "owner": "Ministry of Digital Economy and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": "e-Cabinet and e-Building Permit are announced as upcoming launches; no delivered service stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-16-sen-aps-force-n-100000-jeunes-formes-numerique",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The FORCE-N programme, launched in 2021 by the Universite numerique Cheikh Hamidou Kane and the Mastercard Foundation, has according to its director trained more than 100,000 young people in certified digital-trade courses across the 14 regions.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "FORCE-N",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FORCE-N",
+   "country_label": "Senegal",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Universite numerique Cheikh Hamidou Kane with Mastercard Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

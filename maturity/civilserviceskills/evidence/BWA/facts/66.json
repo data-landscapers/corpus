@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-18-bwa-dailynews-botswana-charts-new-path",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Vice President Ndaba Gaolathe said plans were underway to introduce AI capacity-building programmes for the civil service.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "AI capacity-building programmes for the civil service",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

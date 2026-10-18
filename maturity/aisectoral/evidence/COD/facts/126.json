@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-cod-path-snapiform-ai-health-data-reporting",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "PATH, with the Ministry of Health, piloted SnapiForm, an AI tool reading paper health registers into DHIS2, in 12 DRC health zones for several months; PATH reports reporting time fell from over two hours to about 15 minutes.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "SnapiForm",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SnapiForm",
+   "country_label": "DRC",
+   "class": "sectorai",
+   "platform": "Telegram mini-app with DHIS2",
+   "owner": "PATH (MACEPA) with the Ministry of Health",
+   "tiers": "health zone"
+  }
+ ],
+ "note": ""
+}

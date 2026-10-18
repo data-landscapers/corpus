@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "1",
+      "share": "below",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source held since October 2023 says: does a quarter of adults hold an account.",
+      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

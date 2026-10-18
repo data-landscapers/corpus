@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-ner-nigerdiaspora-portail-public-services-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Nigerdiaspora reports that ANSI, under the Presidency, evolved the Portail Public du Niger on 16 July 2025, integrating administrative services online gradually, with several functions already available and more to come in the following months.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Portail Public du Niger",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail Public du Niger",
+   "country_label": "Niger",
+   "class": "eservices",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

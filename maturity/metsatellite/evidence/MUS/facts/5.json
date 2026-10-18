@@ -1,0 +1,44 @@
+{
+ "slug": "2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Mauritius Meteorological Services report that imagery from NOAA polar-orbiting satellites and Meteosat is received at the MMS with hourly coverage, that the Meteosat Second Generation system is operational, and that animated satellite data plays a key role in evaluating storm intensification.",
+   "as_of": "2008-01",
+   "date_precision": "month",
+   "system": "Meteosat Second Generation (MSG) and NOAA HRPT reception",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "The Mauritius Meteorological Services report that its cyclone warnings, with track and intensity, are prepared using satellite animation and Dvorak intensity estimates from satellite imagery, and were issued as numbered Class I to IV bulletins during the 2006-2007 season.",
+   "as_of": "2007-03",
+   "date_precision": "month",
+   "system": "MMS tropical cyclone warning system",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOAA HRPT reception",
+   "country_label": "Mauritius",
+   "class": "metsat",
+   "platform": "HRPT",
+   "owner": "Mauritius Meteorological Services",
+   "tiers": ""
+  },
+  {
+   "system": "Meteosat Second Generation (MSG)",
+   "country_label": "Mauritius",
+   "class": "metsat",
+   "platform": "Meteosat/RETIM",
+   "owner": "Mauritius Meteorological Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

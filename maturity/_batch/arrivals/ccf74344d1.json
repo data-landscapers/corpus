@@ -1,0 +1,14 @@
+{"slug": "2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"egovservices": {"countries": {"BEN": {"facts": [], "systems": [{"system": "e-services Bénin (e-services.impots.bj)", "country_label": "Bénin", "class": "other", "platform": "DGI tax portal", "owner": "Direction générale des impôts", "tiers": ""}], "note": "The portal is the tax authority's own; the mention of service-public.bj gives no count or detail."}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Direction générale des impôts launched its e-services portal on 23 May 2024, letting Cotonou small businesses and individuals pay land taxes and file online, with rollout to Abomey-Calavi and other towns promised.", "as_of": "2024-05-23", "date_precision": "day", "system": "e-services Bénin", "class": "revenue"}
+], "systems": [{"system": "e-services Bénin (e-services.impots.bj)", "country_label": "Bénin", "class": "revenue", "platform": "DGI tax portal", "owner": "Direction générale des impôts", "tiers": "Pro, Particuliers, Expert-Comptable"}], "note": ""}}},
+"taxadmin": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Direction générale des impôts says its e-services portal, launched 23 May 2024 in Cotonou for small businesses and individuals, lets taxpayers declare income online.", "as_of": "2024-05-23", "date_precision": "day", "system": "e-services Bénin", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The Direction générale des impôts describes the e-services portal as a portal for online declaration and payment (télépaiement) of taxes, with land taxes payable online, since 23 May 2024.", "as_of": "2024-05-23", "date_precision": "day", "system": "e-services Bénin", "class": "taxsystem"}
+], "systems": [{"system": "e-services Bénin (e-services.impots.bj)", "country_label": "Bénin", "class": "taxsystem", "platform": "DGI tax portal", "owner": "Direction générale des impôts", "tiers": "Pro, Particuliers, Expert-Comptable"}], "note": ""}}}
+}}

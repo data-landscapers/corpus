@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-27-tgo-auxnouvelles-inam-plateforme-plaintes",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The national health insurance institute INAM announced on 27 March 2026 the launch of an online platform, plaintes.inam.tg, for insured people and partners to file and track complaints, beside counters and a toll-free line 8220; no case count is given.",
+       "as_of": "2026-03-27",
+       "date_precision": "day",
+       "system": "plaintes.inam.tg",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "plaintes.inam.tg",
+       "country_label": "Togo",
+       "class": "feedback",
+       "platform": "web",
+       "owner": "INAM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for the country."
+    }
+   }
+  }
+ }
+}

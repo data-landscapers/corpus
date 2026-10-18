@@ -1,0 +1,36 @@
+{
+ "slug": "2013-01-31-moz-mcnet-balanco-jue-2012",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "MCNet says the JUE had by December 2012 submitted and cleared 100,000 declarations since starting in September 2011, at 52 customs offices, terminals and border posts.",
+   "as_of": "2012-12",
+   "date_precision": "month",
+   "system": "Janela Unica Electronica (JUE)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "MCNet says commercial banks take part through the JUE in collecting USD 450 million in customs duties, and trained users include clearing agents, shipping and port company staff and bank staff.",
+   "as_of": "2012-12",
+   "date_precision": "month",
+   "system": "Janela Unica Electronica (JUE)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Janela Unica Electronica (JUE)",
+   "country_label": "Mozambique",
+   "class": "customs",
+   "platform": "",
+   "owner": "MCNet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

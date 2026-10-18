@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-03-tcd-portail-td-lancement-e-notaire",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Finance Minister officially launched the e-Notaire online platform for notarial services on 3 December 2024, with demonstrations; no usage figures given.",
+       "as_of": "2024-12-03",
+       "date_precision": "day",
+       "system": "e-Notaire",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Notaire",
+       "country_label": "Tchad",
+       "class": "eservices",
+       "platform": "online platform",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

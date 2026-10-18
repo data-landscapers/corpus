@@ -1,0 +1,11 @@
+{"slug":"2023-10-24-lbr-lastmile-ecbis-pilot","studies":{
+"coresystems":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on finance, revenue or payroll systems."}}},
+"educationexchange":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on education."}}},
+"educationmis":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on education."}}},
+"health":{"countries":{"LBR":{"facts":[],"systems":[{"system":"eCBIS (electronic Community-Based Information System)","country_label":"eCBIS","class":"community","platform":"OpenSRP2 (built by Ona)","owner":"ministry","tiers":""}],"note":"eCBIS is a community health worker system piloted from September 2023 in four counties; community class is noted, not assessed, and no HMIS or EMR is described."}}},
+"healthmis":{"countries":{"LBR":{"facts":[],"systems":[{"system":"eCBIS (electronic Community-Based Information System)","country_label":"eCBIS","class":"other","platform":"OpenSRP2 (built by Ona)","owner":"ministry","tiers":""}],"note":"eCBIS serves community health workers in a pilot; it is not the national facility and district reporting system."}}},
+"justice":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on courts."}}},
+"police":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on police."}}},
+"schools":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on schools."}}},
+"taxadmin":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about health; nothing on tax."}}}
+}}

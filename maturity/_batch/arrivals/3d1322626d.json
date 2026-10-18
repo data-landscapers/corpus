@@ -1,0 +1,34 @@
+{
+ "slug": "2017-10-24-gab-ageos-comifac-observation-spatiale",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "AGEOS, Gabon's space-data agency, lists mapping of land suitable for agriculture from satellite imagery among its fields of intervention.",
+       "as_of": "2017-10-24",
+       "date_precision": "day",
+       "system": "AGEOS",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AGEOS",
+       "country_label": "Gabon",
+       "class": "agrisat",
+       "platform": "satellite reception station and geoportal",
+       "owner": "AGEOS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

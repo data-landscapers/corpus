@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-24-nam-ippr-data-protection-surveillance",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The Institute for Public Policy Research (IPPR) published a piece on its site on data protection and surveillance, and says it commissioned an October 2022 assessment of Namibia's digital rights landscape.",
+   "as_of": "2023-08-24",
+   "date_precision": "day",
+   "system": "IPPR",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPPR",
+   "country_label": "Namibia",
+   "class": "research",
+   "platform": "",
+   "owner": "Institute for Public Policy Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

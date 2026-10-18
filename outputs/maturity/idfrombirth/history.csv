@@ -9,3 +9,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TCD,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,3,TCD-001,Arrivals added TCD-001; stage no evidence -> 3.
 2026-10-17,TUN,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,4,TUN-002,Arrivals added TUN-001; TUN-002; TUN-003; stage no evidence -> 4.
 2026-10-17,ZMB,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,2,ZMB-001,Arrivals added ZMB-001; stage no evidence -> 2.
+2026-10-18,BDI,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,no evidence,2,BDI-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,3,3,NGA-003;NGA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.id--digital-id-from-birth-digital-id-from-birth,fact,2,2,TZA-007;TZA-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.

@@ -1,0 +1,34 @@
+{
+ "slug": "2022-01-13-civ-abidjannet-cicg-outil-numerique-administration",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The CICG release names the citizen portal Miliê as an interactive platform for collecting, processing and managing users' concerns, and separately says the Observatoire du Service Public recorded over 30,000 user concerns from February 2017 to 2021, without tying that count to the portal.",
+       "as_of": "2022-01-13",
+       "date_precision": "day",
+       "system": "Miliê",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Miliê",
+       "country_label": "Côte d'Ivoire",
+       "class": "feedback",
+       "platform": "portal",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

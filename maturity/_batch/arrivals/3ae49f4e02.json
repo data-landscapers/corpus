@@ -1,0 +1,15 @@
+{"slug": "2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter", "studies": {
+"civilserviceskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Mentions the digital unit's own staff skills only, no civil-service training programme."}}},
+"digitalskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No programme teaching the public digital skills or measured skills share is stated."}}},
+"digitalstrategy": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only a passing mention of a digital transformation roadmap; no strategy is described."}}},
+"egovservices": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Public Digital reports Madagascar's Digital Governance Unit built the multi-channel public services portal Torolalana, whose in-person channel Mahatoky has been piloted in 4 post offices, supports 400 processes and holds 206 citizen accounts, with transactional services still to be added to the informative ones offered.", "as_of": "2024-02", "date_precision": "month", "system": "Torolalana", "class": "eservices"}
+], "systems": [
+{"system": "Torolalana", "country_label": "Torolalana", "class": "eservices", "platform": "multi-channel portal (digital, telephone, post-office counter)", "owner": "Digital Governance Unit, Ministry of Digital Development", "tiers": "digital channel, telephone channel, physical channel (Mahatoky)"},
+{"system": "Mahatoky", "country_label": "Mahatoky", "class": "eservices", "platform": "agent-operated helpdesk in post offices", "owner": "Digital Governance Unit with Paositra Malagasy", "tiers": "pilot in 4 post offices"}
+], "note": ""}}},
+"itcapacity": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team.", "as_of": "2024-02", "date_precision": "month", "system": "Digital Governance Unit", "class": "staff"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Land titles are mentioned only as a slow process; no land register system is described."}}}
+}}

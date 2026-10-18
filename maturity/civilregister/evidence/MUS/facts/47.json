@@ -1,0 +1,15 @@
+{
+ "slug": "2021-09-03-mus-pmo-cabinet-mokloud-online-birth-certificates",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MoKloud",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Online issue of birth certificate copies is document delivery, not digital registration of births."
+}

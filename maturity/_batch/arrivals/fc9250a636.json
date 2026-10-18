@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-05-gab-gabonmediatime-libreville-reprise-adressage",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "Libreville's municipal street naming and door numbering, halted at the end of 2021, has resumed, with 5,000 of 60,000 door numbers placed, funded by AIMF and the EU.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Libreville addressing project",
+       "class": "address"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Addressing is not an office connection."
+    }
+   }
+  }
+ }
+}

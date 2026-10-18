@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-13-tza-citizen-nest-e-procurement-savings",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NeST, rolled out on 1 July 2023, has run 130,032 tenders for ministries, departments and agencies, according to PPRA director general Dennis Simba.",
+   "as_of": "2023-07-01",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "PPRA director general Dennis Simba said NeST had handled 130,032 tenders worth Sh14.9 trillion.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NeST",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National e-Procurement System of Tanzania (NeST)",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-06-ken-undp-africa-centre-competence-digital-ai-skilling",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Government of Kenya, UNDP and Konza Technopolis launched the timbuktoo GreenTech Hub, hosted at Konza Technopolis, on 6 December 2024; no programme or cohort is described.",
+   "as_of": "2024-12-06",
+   "date_precision": "day",
+   "system": "timbuktoo GreenTech Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "timbuktoo GreenTech Hub",
+   "country_label": "Kenya",
+   "class": "hub",
+   "platform": "",
+   "owner": "Konza Technopolis",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

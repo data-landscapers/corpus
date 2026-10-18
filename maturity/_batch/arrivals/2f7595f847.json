@@ -1,0 +1,13 @@
+{"slug": "2024-07-15-bdi-adb-procedure-creation-easybusiness", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Email verification for a platform account only; no authentication service for identity stated."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document does not mention civil register or ID linkage."}}},
+"businessregister": {"countries": {"BDI": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Agence de Développement du Burundi describes company and sole-trader registration, with commercial register fees of 100,000 FBU for a person and 200,000 FBU for a company, done online through the easybusiness.bi platform.", "as_of": "2024-07-15", "date_precision": "day", "system": "easybusiness.bi", "class": "business"}], "systems": [{"system": "easybusiness.bi", "country_label": "Burundi", "class": "business", "platform": "", "owner": "Agence de Développement du Burundi", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "ID card is only a document required of the applicant; no register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "ID card is named as a required document only; nothing on the ID system."}}},
+"police": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schoolinternet": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxregister": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Tax number (NIF) is only listed as a required document for companies; no register or shared number stated."}}}
+}}

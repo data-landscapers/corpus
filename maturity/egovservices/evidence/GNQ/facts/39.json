@@ -1,0 +1,17 @@
+{
+ "slug": "2021-06-18-gnq-ahoraeg-funcion-publica-tramitacion-internet",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Ministry of Public Service launched online processing through its website of civil-service requests (trienio recognition, civil-servant card issue or renewal, certificate of non-separation), with UNDP support, per AhoraEG.",
+   "as_of": "2021-06-17",
+   "date_precision": "day",
+   "system": "Public Service ministry online procedures",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

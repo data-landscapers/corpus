@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-zaf-pmg-nw4628-hprs-biometric",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Minister of Health says biometric verification in the Health Patient Registration System is being implemented with Home Affairs to give real-time identity verification against National Population Register data, with biometrics live in 249 facilities.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "HPRS biometric verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Health Patient Registration System (HPRS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "National Department of Health",
+   "tiers": "facilities"
+  }
+ ],
+ "note": ""
+}

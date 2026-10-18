@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Gabonese government announced on 15 July 2025 the launch of Missamou, an NLP chatbot on Facebook Messenger answering citizens' questions on official news, public services and administrative procedures 24 hours a day from official databases.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Missamou",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Missamou",
+   "country_label": "Missamou",
+   "class": "govai",
+   "platform": "Facebook Messenger",
+   "owner": "Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

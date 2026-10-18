@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-21-zwe-herald-10000-register-egp-platform",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Herald reports the electronic Government Procurement (eGP) system, launched in October 2023, was in use by 31 March 2024, with PRAZ saying it automates bid submission, evaluation and communication.",
+   "as_of": "2024-03-31",
+   "date_precision": "day",
+   "system": "electronic Government Procurement (eGP) System",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "PRAZ chief executive Clever Ruswa says over 9,900 suppliers and over 380 procuring entities had registered on the eGP platform by 31 March 2024.",
+   "as_of": "2024-03-31",
+   "date_precision": "day",
+   "system": "electronic Government Procurement (eGP) System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic Government Procurement (eGP) System",
+   "country_label": "eGP",
+   "class": "procurement",
+   "platform": "eGP platform",
+   "owner": "Procurement Regulatory Authority of Zimbabwe (PRAZ)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-18-zmb-mots-ai-increases-zra-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ZRA Commissioner General Dingani Banda says AI helps ZRA detect importer and exporter fraud automatically, and an AI Unit is set up at ZRA headquarters.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "ZRA AI fraud detection",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Minister Felix Mutati says AI raised ZRA's capacity to collect revenue by 60 percent in the past two years (a claim without source in the article).",
+   "as_of": "2024-06-18",
+   "date_precision": "day",
+   "system": "ZRA AI fraud detection",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZRA AI fraud detection",
+   "country_label": "Zambia",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

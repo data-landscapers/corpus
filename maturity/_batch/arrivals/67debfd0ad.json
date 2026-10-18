@@ -1,0 +1,25 @@
+{
+ "slug": "2025-11-14-sdn-allafrica-sudan-customs-arado-it-training",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Sudan Customs and ARADO concluded their third course on IT applications in customs work, with 21 customs officers at colonel rank receiving completion certificates.",
+       "as_of": "2025-11-14",
+       "date_precision": "day",
+       "system": "ARADO IT applications in customs course",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

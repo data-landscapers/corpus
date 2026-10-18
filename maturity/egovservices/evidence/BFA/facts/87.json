@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-23-bfa-faso7-secop-lancement",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Minister of Economy and Finance launched SECOP on 23 June 2025, a portal through which firms request and receive administrative certificates (tax, CNSS, trade-register, non-bankruptcy and others) remotely.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "SECOP",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SECOP",
+   "country_label": "SECOP",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

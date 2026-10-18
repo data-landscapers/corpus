@@ -1,0 +1,56 @@
+{
+ "slug": "2026-06-01-uga-judiciary-insider-issue-25",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Judiciary of Uganda says its Electronic Court Case Management Information System (ECCMIS) had expanded to 31 court stations across five rollout clusters by July 2025, after going live on 1 March 2022.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Judiciary's FY2024/25 performance report says ECCMIS was rolled out to 23 courts that year and is operational in 11.5 percent of courts.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Judiciary says ECCMIS gave litigants 24-hour access to e-filing and that cases are filed and fees paid online, per the Permanent Secretary to the Judiciary.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "The Judiciary describes a litigant at Jinja High Court checking updates on her case file on her phone through ECCMIS.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "ECCMIS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECCMIS (Electronic Court Case Management Information System)",
+   "country_label": "Uganda",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Uganda",
+   "tiers": "31 court stations by July 2025"
+  }
+ ],
+ "note": ""
+}

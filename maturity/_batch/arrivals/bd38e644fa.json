@@ -1,0 +1,52 @@
+{
+ "slug": "2026-01-01-uga-mwe-forecasting-services-satellite-station",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming use of satellite data stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only GTS meteorological exchange is described, not a government data exchange platform."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The Ministry of Water and Environment page says the National Meteorological Centre has a Synergie system receiving satellite imagery in twelve infra-red and visible channels, plus an MDD system receiving satellite data and NWP products.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Synergie",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Synergie",
+       "country_label": "Synergie satellite imagery reception system",
+       "class": "metsat",
+       "platform": "",
+       "owner": "National Meteorological Centre, Ministry of Water and Environment",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

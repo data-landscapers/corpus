@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-13-civ-afor-signature-electronique-certificats-fonciers",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AFOR reports that on 12 March 2026 the prefect of the Moronou region electronically signed the first five rural land certificates under PRESFOR, the first in Cote d'Ivoire.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "electronic signature of rural land certificates (PRESFOR)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

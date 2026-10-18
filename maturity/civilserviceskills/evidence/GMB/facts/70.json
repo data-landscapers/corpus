@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17-gmb-techafrica-smart-africa-digital-academy",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Gambia's Ministry of Communications and Digital Economy signed a framework agreement with Smart Africa to implement the Smart Africa Digital Academy, which will train policymakers and public sector leaders among others, per TechAfrica News.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Smart Africa Digital Academy (SADA) The Gambia",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Digital Academy (SADA) The Gambia",
+   "country_label": "The Gambia",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Economy with Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

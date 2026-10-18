@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-13-moz-oeconomico-digitalizacao-7033-funcionarios-formados",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Americo Muchanga said the Mozambique Digital Certification System (SCDM), launched in 2023, has 500 active digital signatures.",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The article says the SCDM covers public and private institutions, with the Attorney General's Office, the Ministry of Education and Culture and Eduardo Mondlane University newly joined, and more than 500 institutions signing documents through it.",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "country_label": "Mozambique",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

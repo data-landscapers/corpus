@@ -1,0 +1,52 @@
+{
+ "slug": "2025-02-01-zmb-judiciary-annual-report-2022",
+ "studies": {
+  "justice": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "none",
+       "fact": "The Judiciary of Zambia's 2022 annual report says operationalisation of its case management system remained in limbo because funds for customising the software were unavailable, with registries brimming with paper.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Case Management System",
+       "class": "justice"
+      },
+      {
+       "sub_indicator": "justice",
+       "aspect": "public",
+       "value": "open",
+       "fact": "The Judiciary's 2022 annual report says it continued uploading decisions of the superior courts, cause lists, notices and press statements to its website.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Judiciary website",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Case Management System",
+       "country_label": "Zambia",
+       "class": "justice",
+       "platform": "",
+       "owner": "Judiciary of Zambia",
+       "tiers": ""
+      },
+      {
+       "system": "HP Records Manager (Electronic Record Management System)",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "HP Records Manager",
+       "owner": "Judiciary of Zambia",
+       "tiers": "19 computerised registries"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

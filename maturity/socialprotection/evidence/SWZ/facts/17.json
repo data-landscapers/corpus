@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-swz-eswatinipositivenews-dpmo-social-grants-system",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Deputy Prime Minister's Office says elderly and disability grant applications are verified and processed on systems managed with the Royal Science and Technology Park, which were suffering technical faults delaying applicants being added to the beneficiaries list.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "DPMO social grants application system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DPMO social grants application system",
+   "country_label": "Eswatini",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Office of the Deputy Prime Minister",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

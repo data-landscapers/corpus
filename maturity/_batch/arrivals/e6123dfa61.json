@@ -1,0 +1,14 @@
+{"slug": "2024-09-09-gmb-standard-ceesay-govt-building-capacities", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Digital ID is only a future intention (there will be a time), nothing delivered."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businessregister": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Business registration appears only as one item of a planned application app; no register stated."}}},
+"civilregister": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Birth certificate appears only as an application item of a planned app; no civil register system stated."}}},
+"civilserviceskills": {"countries": {"GMB": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Information minister Ismaila Ceesay, at a graduation of Immigration officers who completed the Advanced Diploma in Computer Networking at Suitin Institute, said government is committed to building civil servants' technology capacities.", "as_of": "2024-09-09", "date_precision": "day", "system": "Advanced Diploma in Computer Networking (Suitin Institute)", "class": "csskills"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"GMB": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Minister Ceesay said government is working on a one-stop-shop government service platform, starting with ID card application, birth certificate, business registration, passport and driver's licence applications, through an app.", "as_of": "2024-09-09", "date_precision": "day", "system": "one-stop-shop government service platform", "class": "eservices"}], "systems": [{"system": "one-stop-shop government service platform", "country_label": "Gambia", "class": "eservices", "platform": "app", "owner": "Government of The Gambia", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only says new ID cards being printed are digital; no unique-identity system, biometrics or certification stated."}}},
+"registry": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No local civil registration office entry stated."}}}
+}}

@@ -1,0 +1,62 @@
+{
+ "slug": "2026-06-11-ken-thestar-all-procurement-through-egp-july-1",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Star reports the e-GP system has been rolled out and covers tender advertisement, bid submission, evaluation and contract award.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "Treasury Cabinet Secretary John Mbadi said in the 2026/27 Budget Statement that all procurement by government entities will go through e-GP from 1 July 2026, a platform covering the whole cycle from tender advertisement to contract management.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Electronic Government Procurement system",
+       "class": "procurement",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No national digital strategy stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Procurement platform only, not services for citizens or businesses."
+    }
+   }
+  }
+ }
+}

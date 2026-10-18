@@ -1,0 +1,25 @@
+{
+ "slug": "2021-08-09-ago-angop-revisao-codigo-postal",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "none",
+       "fact": "Angola's telecommunications minister said, as reported by ANGOP, that no postal code exists, a Codigo de Enderecamento Postal is only under study, and some streets are unnamed and residences unnumbered.",
+       "as_of": "2021-08-09",
+       "date_precision": "day",
+       "system": "Codigo de Enderecamento Postal (CEP)",
+       "class": "address"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

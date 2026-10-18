@@ -1,0 +1,34 @@
+{
+ "slug": "2019-03-08-cpv-dnre-novo-meio-pagamento-impostos-online",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The DNRE with the Casa do Cidadao made bank-card payment of taxes online available on the citizen portal from 11 February 2019, producing the DUC payment document and taking payment, 24 hours a day.",
+       "as_of": "2019-02-11",
+       "date_precision": "day",
+       "system": "portal do cidadao DUC payment",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal do Cidadao online tax payment (DUC)",
+       "country_label": "Cabo Verde",
+       "class": "taxsystem",
+       "platform": "www.portondinosilhas.cv",
+       "owner": "DNRE with Casa do Cidadao",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

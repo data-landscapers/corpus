@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-21-cog-fasuce-evaluation-semestrielle-2024-2025",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "FASUCE's director said 20 of 44 targeted rural localities were now connected (45.45%), giving 19,498 citizens access to digital services.",
+   "as_of": "2024-12-21",
+   "date_precision": "day",
+   "system": "FASUCE",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

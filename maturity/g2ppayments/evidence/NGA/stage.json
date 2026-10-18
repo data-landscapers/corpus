@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "no evidence",
-   "payment": "",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how government pays people.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "5",
+      "payment": "inservice",
+      "streams": "several",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002;NGA-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

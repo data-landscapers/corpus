@@ -1,0 +1,70 @@
+{
+ "slug": "2025-01-09-tgo-rtg-plateforme-denonciation-forces-ordre",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National electronic portal of public services",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "national e-services portal",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": "The portal is named as host only; no service or count is stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Ministry of Security launched an online platform on the national public-services portal for citizens to report abuses by security forces, with complainants told of follow-up; no case count is given.",
+       "as_of": "2025-01-09",
+       "date_precision": "day",
+       "system": "Security forces complaints platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Security forces complaints platform",
+       "country_label": "Togo",
+       "class": "feedback",
+       "platform": "national electronic public-services portal",
+       "owner": "Ministry of Security and Civil Protection",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

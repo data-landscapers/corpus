@@ -2,6 +2,6 @@
 
 ## Customs
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Maritime single window (planned)](<https://amam.gov.mr/mission-devaluation-de-lomi/>).
 
-***Not held***. Nothing held says how customs declarations are processed.
+***Not held***. Nothing held since October 2023 says whether customs declarations are processed electronically.

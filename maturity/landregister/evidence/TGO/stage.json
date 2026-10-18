@@ -9,10 +9,10 @@
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-002",
+      "stage_sources": "TGO-002;TGO-004",
       "gaps": "",
       "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

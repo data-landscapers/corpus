@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-16-mdg-fid-tdr-assca-tmnc-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The FID terms of reference say the unconditional cash transfer programme in Antananarivo and its suburbs pays by mobile money, with funds sent to beneficiaries' mobile money accounts, or by paying agents using QR codes where there is no network coverage.",
+   "as_of": "2024-12-16",
+   "date_precision": "day",
+   "system": "TMNC cash transfer programme (FID)",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Registre Social Unique",
+   "class": "other",
+   "platform": "",
+   "owner": "FID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

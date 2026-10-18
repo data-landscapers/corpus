@@ -1,0 +1,53 @@
+{
+ "slug": "2025-02-01-nga-unctad-cropwatch-food-security",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "UNCTAD says Nigeria, with NASRDA as lead partner, has used the CropWatch cloud system since 2021 for crop condition, acreage and yield assessments and pest and drought early warnings.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "CropWatch",
+       "class": "agrisat"
+      },
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "published",
+       "value": "scheduled",
+       "fact": "UNCTAD says CropWatch work in Nigeria feeds a quarterly bulletin informing government policy, with the January to April 2024 bulletin reporting rainfall 64% below the 15-year norm.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "CropWatch quarterly bulletin",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NiMet is named only as a collaborator; no satellite reception or use by the weather service is stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution on digital policy is stated."
+    }
+   }
+  }
+ }
+}

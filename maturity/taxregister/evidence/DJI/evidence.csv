@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,taxpayers,shared,shared,"The guide says the Guichet Unique automatically passes the registration file to the tax directorate (DGI), which assigns the taxpayer number (NIF) as a step of business creation.",2026-01,month,Numero d'Identification Fiscale (NIF),tax,2026-01-01-dji-entreprendre-guide-createur-entreprise,https://entreprendre.dj/portals/g2b/guide

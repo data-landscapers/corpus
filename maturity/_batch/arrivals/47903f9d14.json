@@ -1,0 +1,153 @@
+{
+ "slug": "2025-09-04-lby-libyaobserver-commercial-registry-e-payment",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The Libya Observer reports the economy minister and the head of the Commercial Registry Authority reviewed the electronic system for the commercial registry, including integration of data on public, private and joint companies and foreign branches.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "electronic system for the commercial registry",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Commercial registry electronic system",
+       "country_label": "Libya",
+       "class": "business",
+       "platform": "",
+       "owner": "Commercial Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Libya Observer reports the economy minister and the Commercial Registry Authority discussed the rollout of an e-payment system for fees and the issuance of digital receipts.",
+       "as_of": "2025-09-04",
+       "date_precision": "day",
+       "system": "e-payment system for fees",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fee e-payment system",
+       "country_label": "Libya",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Commercial Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  }
+ }
+}

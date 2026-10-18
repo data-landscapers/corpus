@@ -1,0 +1,204 @@
+{
+ "slug": "2025-08-01-zaf-pmg-nw4628-hprs-biometric",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Minister of Health says biometric verification in the Health Patient Registration System is being implemented with Home Affairs to give real-time identity verification against National Population Register data, with biometrics live in 249 facilities.",
+       "as_of": "2025-08-01",
+       "date_precision": "day",
+       "system": "HPRS biometric verification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Patient Registration System (HPRS)",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "National Department of Health",
+       "tiers": "facilities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "POPIA is named only as legislation the initiatives follow; no standing, authority or application is stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The Minister of Health says the Department is phasing in an electronic medical record system for Primary Health Care to create longitudinal patient records across public facilities as it is adopted at facility level.",
+       "as_of": "2025-08-01",
+       "date_precision": "day",
+       "system": "Electronic medical record (EMR) system for PHC",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic medical record (EMR) system for Primary Health Care",
+       "country_label": "South Africa",
+       "class": "emr",
+       "platform": "",
+       "owner": "National Department of Health",
+       "tiers": "T3;T4"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "The Minister of Health says the PHC electronic medical record system is integrated with programmes such as the Central Chronic Medicines Dispensing and Distribution, while EMR adoption is still phased.",
+       "as_of": "2025-08-01",
+       "date_precision": "day",
+       "system": "EMR and CCMDD integration",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The patient registration and EMR systems are not the national routine reporting system."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Biometric checks described belong to a health patient registration system, not the national ID system."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Minister of Health says the Health Patient Registration System's biometric verification is being implemented with Home Affairs for real-time identity verification against National Population Register data.",
+       "as_of": "2025-08-01",
+       "date_precision": "day",
+       "system": "HPRS verification against National Population Register",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Patient Registration System (HPRS)",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "National Department of Health",
+       "tiers": "facilities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Minister of Health says Home Affairs holds a National Population Register whose data is used for real-time identity verification of patients.",
+       "as_of": "2025-08-01",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "South Africa",
+       "class": "population",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-caf-civipol-modero-etat-civil-rnec",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Civipol's MODERO project (EUR 8 million, January 2025 to December 2028) states it supports digitisation of registers, consolidation of the national civil status register (RNEC) and development of a civil status management solution in the Central African Republic.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Registre national de l'état civil (RNEC)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de l'état civil (RNEC)",
+   "country_label": "Central African Republic",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

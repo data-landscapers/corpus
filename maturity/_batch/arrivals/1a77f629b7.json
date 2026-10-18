@@ -1,0 +1,77 @@
+{
+ "slug": "2025-04-01-gin-csig-dounia-1-donnees-numeriques-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states no AI harm rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only opportunities in sectors named, no tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an intention to lay groundwork for a strategy; no drafting stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No model, dataset or compute stated."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an absence of clear data governance frameworks but no policy or drafting statement."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research workshop, centre or publication stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Event reflects on strategy prerequisites; no named law or policy put to outsiders."
+    }
+   }
+  }
+ }
+}

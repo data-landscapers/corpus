@@ -1,0 +1,34 @@
+{
+ "slug": "2019-11-22-com-afd-pgec-projet-gouvernance-education",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The AFD-funded PGEC project, running 2019-2024 with the education ministry, lists deployment and operationalisation of the Système d'Information et de Gestion de l'Education (SIGE) among its impacts.",
+       "as_of": "2019-11-22",
+       "date_precision": "day",
+       "system": "SIGE",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Comoros",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministère de l'Éducation Nationale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

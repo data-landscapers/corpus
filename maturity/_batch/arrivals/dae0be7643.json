@@ -1,0 +1,5 @@
+{"slug": "2004-01-01-cog-eumetsat-6th-user-forum-africa-brazzaville-puma", "studies": {
+"metsatellite": {"countries": {"COG": {"facts": [
+{"sub_indicator": "metsat", "aspect": "stream", "value": "inservice", "fact": "A PUMA receiving station for Meteosat Second Generation data, installed at Maya-Maya international airport, Brazzaville, was inaugurated by Prime Minister Isidore Mvouba at the opening of the 6th EUMETSAT User Forum in Africa, per EUMETSAT's report.", "as_of": "2004-09-27", "date_precision": "day", "system": "PUMA receiving station", "class": "metsat"}
+], "systems": [{"system": "PUMA receiving station (MTAP/PUMA)", "country_label": "Republic of Congo", "class": "metsat", "platform": "Meteosat Second Generation via EUMETCast", "owner": "National Meteorological Services, Republic of Congo", "tiers": ""}], "note": ""}}}
+}}

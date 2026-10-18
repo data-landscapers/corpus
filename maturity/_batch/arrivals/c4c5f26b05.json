@@ -1,0 +1,142 @@
+{
+ "slug": "2025-01-01-civ-cepici-reformes-climat-des-affaires",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "CEPICI states that firms can be created online through the E-Entreprise platform on the 225Invest portal, where creators complete their formalities.",
+       "as_of": "2025-01-01",
+       "date_precision": "day",
+       "system": "E-Entreprise",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "CEPICI states that since 2018 the Identifiant Unique (IDU) is operational, one number registering a firm with the commercial register, the tax authority and the social security fund (CNPS).",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Identifiant Unique (IDU)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Entreprise (225Invest portal)",
+       "country_label": "Cote d'Ivoire",
+       "class": "business",
+       "platform": "225Invest",
+       "owner": "CEPICI",
+       "tiers": ""
+      },
+      {
+       "system": "Identifiant Unique (IDU)",
+       "country_label": "Cote d'Ivoire",
+       "class": "business",
+       "platform": "",
+       "owner": "CEPICI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for CIV."
+    }
+   }
+  }
+ }
+}

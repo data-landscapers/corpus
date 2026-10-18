@@ -1,0 +1,25 @@
+{
+ "slug": "2025-12-01-eri-up-irrigated-area-monitoring-sentinel2",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "A study funded by Eritrea's Ministry of Agriculture through the IFAD-supported IADP mapped irrigated land in Dighe and Gala Nefhi from Sentinel-2 imagery for 2015-2024.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Irrigated area monitoring, Dighe and Gala Nefhi",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

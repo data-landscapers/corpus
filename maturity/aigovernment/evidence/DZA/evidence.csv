@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DZA-001,DZA,govai,use,inservice,"Algeria's Ministry of Higher Education and Scientific Research launched on 29 April 2025 the Private Digital Adviser, an LLM-based conversational system answering queries on all the ministry's regulatory documents.",2025-04-29,day,Private Digital Adviser,govai,2025-04-30-dza-univ-khenchela-mesrs-ai-digital-adviser,https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/

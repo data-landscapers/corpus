@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-11-stp-di-mais-uma-fase-sit-iva",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The Direcção dos Impostos says NOSi is developing the SIT-IVA VAT tax information system, with its first release validated by tax testers and a second release due in May 2022.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "SIT-IVA",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIT-IVA",
+   "country_label": "São Tomé and Príncipe",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direcção dos Impostos",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

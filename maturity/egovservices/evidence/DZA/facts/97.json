@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-19-dza-mpt-autonomisation-besoins-specifiques",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Ministry of Post and Telecommunications says the Algerie Poste ECCP app offers online account consultation, statement download, Edahabia card request and tracking, SMS notification subscription and chequebook ordering.",
+   "as_of": "2023-12-19",
+   "date_precision": "day",
+   "system": "ECCP",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECCP",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "app",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

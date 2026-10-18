@@ -1,0 +1,44 @@
+{
+ "slug": "2021-08-04-ben-douanes-guce-cap-du-milliard-e-payement",
+ "studies": {
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Benin Customs says clearance at the port of Cotonou and at land borders now runs through GUCE, with Hilacondji clearance dematerialised and cut from 18 steps to 10.",
+       "as_of": "2021-07-29",
+       "date_precision": "day",
+       "system": "GUCE",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Benin Customs says GUCE is the single platform for international trade operations, connecting all administrations and technical directorates, with more than 2,000 users.",
+       "as_of": "2021-07-29",
+       "date_precision": "day",
+       "system": "GUCE",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE",
+       "country_label": "Bénin",
+       "class": "customs",
+       "platform": "Webb Fontaine",
+       "owner": "Direction Générale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

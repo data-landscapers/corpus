@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-30-zmb-zambiamonitor-energy-crisis-stalls-inris",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Home Affairs Minister Jack Mwiimbu said the energy crisis is hindering the rollout of the Integrated National Registration Information System (INRIS), particularly in rural areas.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Integrated National Registration Information System (INRIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs and Internal Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

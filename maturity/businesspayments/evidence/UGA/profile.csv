@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,business,system,coverage,inservice,2026-07-20,UGA-001;UGA-003;UGA-005,,
+UGA,business,endtoend,coverage,endtoend,2026-08-05,UGA-002;UGA-004,,
+UGA,business,reported,coverage,reported,2026-04-17,UGA-006,,

@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "no evidence",
-   "registration": "",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how firms are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "2",
+      "registration": "underway",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source held since October 2023 says: can firms register online.",
+      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

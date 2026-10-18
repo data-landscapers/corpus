@@ -1,147 +1,32 @@
 {
  "slug": "2026-10-16-lbr-liberiapublicradio-senate-review-52m-digital-id-concession",
  "studies": {
-  "admindata": {
+  "populationregister": {
    "countries": {
     "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "authentication": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "birthidlink": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "businessregister": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "LBR": {
-     "facts": [],
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Liberia's Senate sent to committee President Boakai's proposed US$52 million concession with OeSD International GmbH for a National Identification Central Digital Civil Registry and Vital Statistics System, to hold a single national database of identity records, ahead of a ratification vote.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "NIDCRVS",
+       "class": "population"
+      }
+     ],
      "systems": [
       {
-       "system": "NIDCRVS (OeSD International GmbH concession)",
-       "country_label": "National Identification Central Digital Civil Registry and Vital Statistics System",
-       "class": "other",
+       "system": "NIDCRVS",
+       "country_label": "Liberia",
+       "class": "population",
        "platform": "",
        "owner": "Government of Liberia",
        "tiers": ""
       }
      ],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "NIDCRVS (OeSD International GmbH concession)",
-       "country_label": "National Identification Central Digital Civil Registry and Vital Statistics System",
-       "class": "other",
-       "platform": "",
-       "owner": "Government of Liberia",
-       "tiers": ""
-      }
-     ],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "idverification": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "nonstatefinance": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "NIDCRVS (OeSD International GmbH concession)",
-       "country_label": "National Identification Central Digital Civil Registry and Vital Statistics System",
-       "class": "other",
-       "platform": "",
-       "owner": "Government of Liberia",
-       "tiers": ""
-      }
-     ],
-     "note": "Proposed US$52m concession only referred to Senate committees for review before ratification; nothing signed, delivered or financed."
+     "note": ""
     }
    }
   }

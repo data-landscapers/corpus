@@ -8,3 +8,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SEN,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,SEN-002;SEN-003,Arrivals added SEN-004; stage unchanged.
 2026-10-17,TCD,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,TCD-002;TCD-003,Arrivals added TCD-003; stage unchanged.
 2026-10-18,NGA,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,3,4,NGA-001;NGA-004;NGA-024,Arrivals added NGA-024: NIMC says the national identity database is hosted and run in Nigeria; stage 3 to 4.
+2026-10-18,CAF,geopol.sovereignty--digital-sovereignty-control-of-state-data,review,no evidence,1,CAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,GAB-001;GAB-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,geopol.sovereignty--digital-sovereignty-control-of-state-data,review,no evidence,2,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NAM,geopol.sovereignty--digital-sovereignty-control-of-state-data,review,unplaced,2,NAM-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

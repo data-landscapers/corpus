@@ -1,0 +1,34 @@
+{
+ "slug": "2023-09-18-tgo-weforum-lawson-novissi-social-information-system",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Minister Cina Lawson writes that Togo is establishing an Interoperable Social Information System with a social registry and a direct payment platform built on NOVISSI.",
+       "as_of": "2023-09-18",
+       "date_precision": "day",
+       "system": "Interoperable Social Information System",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NOVISSI",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "USSD",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

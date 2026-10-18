@@ -1,0 +1,10 @@
+{"slug": "2024-11-28-civ-apif-risques-sfn-2022-2024-protection", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [{"system": "OQSF CI (Observatoire de la Qualité des Services Financiers)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A user-risk survey and workshop only; no rules, complaints body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No share of adults with an account is given; the survey covers mobile money users only."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "A CGAP/OQSF CI/APIF survey of 10-29 August 2024 reports mobile money users in Côte d'Ivoire using deposit and withdrawal services (97%), bill payment (44%) and merchant payment (22%).", "as_of": "2024-08", "date_precision": "month", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "Côte d'Ivoire", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

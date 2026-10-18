@@ -1,0 +1,16 @@
+{"slug": "2025-01-22-syc-ntb-land-valuation-system-tender", "studies": {
+"businessregister": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Mentions business registration only as a bidder eligibility condition."}}},
+"coresystems": {"countries": {"SYC": {"facts": [], "systems": [{"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "", "tiers": ""}], "note": "IFMIS is named only as a system the new LVS is to interface with; no statement of use across central government."}}},
+"educationexchange": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about education."}}},
+"educationmis": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about education."}}},
+"health": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about health."}}},
+"healthmis": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about health."}}},
+"itcapacity": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only a contractor build, with training of in-house IT and DICT staff for first and second level support; nothing states staff run a system today."}}},
+"justice": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about courts."}}},
+"landadmin": {"countries": {"SYC": {"facts": [{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "The Lands Department, with the Department of Information Communications Technology, invited tenders on 22 January 2025 for the design, development and supply of an online Land Valuation System, to interface with the National Population Database, SeyID, the Registration Division, the Seychelles Planning Authority and IFMIS, with delivery within six months of award.", "as_of": "2025-01-22", "date_precision": "day", "system": "Land Valuation System (LVS)", "class": "landmis"}], "systems": [{"system": "Land Valuation System (LVS)", "country_label": "LVS", "class": "landmis", "platform": "online software, supplier to be selected", "owner": "Lands Department, Ministry of Lands and Housing", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about police records."}}},
+"populationregister": {"countries": {"SYC": {"facts": [], "systems": [], "note": "National Population Database is named only as a system to interface with; the document does not state what it is or that it is a register in service."}}},
+"schools": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Not about schools."}}},
+"taxadmin": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Tax is mentioned only as a bidder eligibility condition."}}},
+"taxregister": {"countries": {"SYC": {"facts": [], "systems": [], "note": "TIN is mentioned only as a bidder eligibility condition."}}}
+}}

@@ -1,0 +1,34 @@
+{
+ "slug": "2022-05-11-ken-kra-icms-containerised-cargo-simba-ends",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "KRA says it has piloted all Customs modules on the integrated Customs Management System (iCMS) and from 6 May 2022 will no longer process entries lodged on Simba other than petroleum, ex-warehouse and CKD motorcycle entries.",
+   "as_of": "2022-05-06",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iCMS",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Simba",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": "legacy"
+  }
+ ],
+ "note": ""
+}

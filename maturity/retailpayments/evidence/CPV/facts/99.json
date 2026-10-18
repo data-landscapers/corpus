@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Televinti4 mobile app, launched in 2021 and run by SISP, lets users make transfers, QR Code and Token payments, pay bills and top up phones, and about 15,600 people use it, under 5% of roughly 329,000 Vinti4 network users, per Expresso das Ilhas.",
+   "as_of": "2024-03-03",
+   "date_precision": "day",
+   "system": "Televinti4",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Televinti4",
+   "country_label": "Cabo Verde",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "SISP",
+   "tiers": ""
+  },
+  {
+   "system": "Vinti4 network",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "card network",
+   "owner": "SISP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-01-mus-icta-wsis-statement-bridging-digital-divides",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ICTA's chairman says the Universal Service Fund it manages has funded satellite links to Rodrigues and Agalega and a mobile network on Agalega since 2017, to connect unserved and underserved areas.",
+   "as_of": "2022-06-01",
+   "date_precision": "day",
+   "system": "Mauritius Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund",
+   "country_label": "Mauritius",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "ICT Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

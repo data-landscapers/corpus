@@ -1,0 +1,79 @@
+{
+ "slug": "2025-04-16-mli-imedias-mali-digital-accelerateur",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministry programme with funding and mentoring is described, but no startup act, label or fund investment is stated; PNDEN is a digital economy policy."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Mali's Ministry of Communication and Digital Economy launched the Mali Digital Acc\u00e9l\u00e9rateur, a programme offering startups training, mentoring, financial support and investor networking, with no cohort of startups named.",
+       "as_of": "2025-04-16",
+       "date_precision": "day",
+       "system": "Mali Digital Acc\u00e9l\u00e9rateur",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mali Digital Acc\u00e9l\u00e9rateur",
+       "country_label": "Mali",
+       "class": "hub",
+       "platform": "",
+       "owner": "Minist\u00e8re de la Communication et de l'\u00e9conomie num\u00e9rique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

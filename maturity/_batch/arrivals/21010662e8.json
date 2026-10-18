@@ -1,0 +1,44 @@
+{
+ "slug": "2022-08-19-tza-nrd-unified-registry-of-beneficiaries",
+ "studies": {
+  "socialregistry": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "NRD Companies' case study says TASAF's Unified Registry of Beneficiaries was built, with all targeting information migrated from the CB-CCT MIS and users from different organisations able to extract beneficiary lists.",
+       "as_of": "2022-08-19",
+       "date_precision": "day",
+       "system": "Unified Registry of Beneficiaries (URB)",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "NRD Companies says the URB is linked with NIDA for cross-checking person identity.",
+       "as_of": "2022-08-19",
+       "date_precision": "day",
+       "system": "Unified Registry of Beneficiaries (URB)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Registry of Beneficiaries (URB)",
+       "country_label": "Tanzania",
+       "class": "social",
+       "platform": "internet and mobile applications, open API",
+       "owner": "TASAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Institut Pasteur de Bangui announced on 1 August 2024 the four-year MEDICINE project to build AI-assisted fever diagnostic tools for health centres and community health workers, starting with an exploratory phase.",
+   "as_of": "2024-08-01",
+   "date_precision": "day",
+   "system": "MEDICINE",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEDICINE",
+   "country_label": "Central African Republic",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Institut Pasteur de Bangui",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -11,3 +11,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,STP,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,no evidence,2,STP-002,Arrivals added STP-002; stage no evidence -> 2.
 2026-10-17,SWZ,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,no evidence,2,SWZ-001,Arrivals added SWZ-004; SWZ-005; SWZ-006; stage no evidence -> 2.
 2026-10-17,SYC,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,no evidence,2,SYC-001,Arrivals added SYC-002; SYC-003; stage no evidence -> 2.
+2026-10-18,DJI,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,2,2,DJI-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,2,2,DZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,5,5,ETH-016;ETH-003;ETH-015,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,5,5,NAM-003;NAM-018;NAM-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,STP,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,2,2,STP-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,infra.cybersec--national-cybersecurity-readiness-national-cyber-response,fact,2,3,ZMB-011;ZMB-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-15-bdi-adb-procedure-creation-easybusiness",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Agence de Développement du Burundi describes company and sole-trader registration, with commercial register fees of 100,000 FBU for a person and 200,000 FBU for a company, done online through the easybusiness.bi platform.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "easybusiness.bi",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "easybusiness.bi",
+   "country_label": "Burundi",
+   "class": "business",
+   "platform": "",
+   "owner": "Agence de Développement du Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

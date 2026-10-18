@@ -1,0 +1,43 @@
+{
+ "slug": "2024-07-05-nga-nitda-startup-labelling-committee-inaugurated",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Committee and forum are set up or have met; neither is said to have given a view on a named digital law."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "NITDA says the Nigeria Startup Act was enacted on 19 October 2022, with a Startup Label granting eligible startups its benefits.",
+       "as_of": "2022-10-19",
+       "date_precision": "day",
+       "system": "Nigeria Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Incubator representatives sit on the committee; no hub or programme is described."
+    }
+   }
+  }
+ }
+}

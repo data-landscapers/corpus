@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-syc-worldbank-pid-inclusive-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The World Bank project information document says Seychelles has strong international connectivity through three submarine cables.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

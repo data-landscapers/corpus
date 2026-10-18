@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-18-bdi-burundi-eco-digitalisation-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Burundi Eco reports interior ministry officials announced in July 2024 the ID for D project to digitise civil status, in which from birth fingerprints and names are recorded electronically and each person gets a lifelong unique ID number.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "ID for D (Identite pour le Developpement)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ID for D",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior, Community Development and Public Security",
+   "tiers": "funded under PAFEN (World Bank, USD 92 million)"
+  }
+ ],
+ "note": ""
+}

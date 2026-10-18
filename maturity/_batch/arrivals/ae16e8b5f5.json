@@ -1,0 +1,59 @@
+{
+ "slug": "2026-01-08-gmb-alkamba-gra-ai-tax-system-plans",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on rules or authority for AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes a revenue authority's tax system, not AI in general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The GRA AI tax system is described only as planned, with no pilot or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built or hosted in the country is stated."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A National Single Window is named only as part of announced plans, not as delivered or under installation."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "E-invoicing and digital tax stamps are announced or track products; no electronic payment of taxes is stated."
+    }
+   }
+  }
+ }
+}

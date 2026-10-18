@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "ZamPortal says the Government Service Bus is a national platform that digitally integrates all government institutions, departments and agencies, deployed by the SMART Zambia Institute's Electronic Government Division.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "Government Service Bus (GSB)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus (GSB)",
+   "country_label": "Government Service Bus",
+   "class": "exchange",
+   "platform": "GSB",
+   "owner": "Electronic Government Division, SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

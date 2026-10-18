@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-11-gnq-realeg-pnud-material-informatico-poder-judicial",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema digital para la gestión de casos judiciales",
+   "country_label": "Guinea Ecuatorial",
+   "class": "justice",
+   "platform": "",
+   "owner": "Corte Suprema de Justicia / PNUD project",
+   "tiers": "all instances (planned)"
+  }
+ ],
+ "note": "The document only says a case management system 'se implementará'; the delivery was IT equipment, so nothing is under way or in service."
+}

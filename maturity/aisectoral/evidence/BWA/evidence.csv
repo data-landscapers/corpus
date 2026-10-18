@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 BWA-001,BWA,sectorai,use,underway,Assistant Minister Shawn Nthaile said government is piloting AI for health diagnostics in remote areas.,2025-08-13,day,AI health diagnostics pilot,sectorai,2025-08-13-bwa-ai-policy-final-stage,https://dailynews.gov.bw/news-detail/88106
+BWA-002,BWA,sectorai,use,underway,Health Minister Stephen Modise said trial systems incorporating AI have been approved under the Ministry of Health's digital health pilot.,2025-02-23,day,Ministry of Health digital health pilot,sectorai,2025-02-23-bwa-gazette-moh-pilots-digital-health-ai,https://www.thegazette.news/news/moh-pilots-digital-health-ecosystem/

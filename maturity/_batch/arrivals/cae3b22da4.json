@@ -1,0 +1,53 @@
+{
+ "slug": "2025-08-29-ken-kna-treasury-fast-track-egp-rollout",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Treasury Cabinet Secretary John Mbadi says the e-GP system, launched on 1 July 2025, is operational across ministries, departments, agencies, county governments and state corporations.",
+       "as_of": "2025-08-29",
+       "date_precision": "day",
+       "system": "Electronic Government Procurement (e-GP)",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "Mbadi says there will be no exemptions in use of the e-GP system across ministries, departments, agencies, counties and state corporations.",
+       "as_of": "2025-08-29",
+       "date_precision": "day",
+       "system": "Electronic Government Procurement (e-GP)",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Government Procurement (e-GP)",
+       "country_label": "Kenya",
+       "class": "procurement",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": "national and county"
+      }
+     ],
+     "note": "Registration counts given, no tender or value figure."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Counties' budgets are being integrated into e-GP, but no office connection is stated."
+    }
+   }
+  }
+ }
+}

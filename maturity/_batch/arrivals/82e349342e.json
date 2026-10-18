@@ -1,0 +1,14 @@
+{
+ "slug": "2025-11-08 Digital 2026 - Equatorial Guinea (DataReportal)",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile and internet-user statistics only; no fibre backbone stated."
+    }
+   }
+  }
+ }
+}

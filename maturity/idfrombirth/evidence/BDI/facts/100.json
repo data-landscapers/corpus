@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-18-bdi-burundi-eco-digitalisation-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Burundi Eco reports interior ministry officials announced in July 2024 that under ID for D each person's prints and name are recorded electronically from birth and given a unique lifelong ID number.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "ID for D (Identite pour le Developpement)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

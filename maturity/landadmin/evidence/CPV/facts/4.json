@@ -1,0 +1,36 @@
+{
+ "slug": "2022-01-01-cpv-mf-mindelo-cadastre-surveyors-tor",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The INGT terms of reference state LMITS is an installed platform, working in an integrated way with information from municipalities, land registries, notaries and INGT, and supporting property transactions.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "LMITS",
+   "class": "landmis"
+  },
+  {
+   "sub_indicator": "landmis",
+   "aspect": "joined",
+   "value": "joined",
+   "fact": "The terms of reference state LMITS holds the physical and legal information on each property, including georeferenced parcels, in a single database.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "LMITS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LMITS (Land Management Information and Transaction System)",
+   "country_label": "Cabo Verde",
+   "class": "landmis",
+   "platform": "",
+   "owner": "INGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

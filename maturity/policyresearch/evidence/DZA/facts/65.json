@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-dza-care-analysis-sntn-2025-2030",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "CARE, an Algiers-based think tank, published an independent analysis of Algeria's National Digital Transformation Strategy 2025-2030, assessing its five pillars, 25 objectives and indicators.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "CARE (Circle for Action and Reflection around Enterprise)",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CARE (Circle for Action and Reflection around Enterprise)",
+   "country_label": "Algeria",
+   "class": "research",
+   "platform": "care.dz",
+   "owner": "CARE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

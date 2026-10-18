@@ -8,6 +8,6 @@
 
 **Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/>).
 
-***Noted, not assessed***. [Fonds de Service Universel des TIC (FSU)](<https://armp.gov.bi/archives/10856>).
+***Noted, not assessed***. [Fonds de Service Universel des TIC (FSU)](<https://armp.gov.bi/archives/10856>); [PAFEN (Project to Support the Foundations of the Digital Economy)](<https://en.abpinfo.bi/official-launch-of-the-project-to-support-the-foundations-of-the-digital-economy-in-burundi/>).
 
 ***Not held***. No source held since October 2023 says: is one delivering, with sites counted.

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-29-ner-adn-rayuwa-ai-platform-training",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rayuwa",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "Android app (Play Store)",
+   "owner": "Agence de Developpement Numerique (ADN)",
+   "tiers": ""
+  }
+ ],
+ "note": "Rayuwa is an agro-hydro-meteorological advisory platform for producers, a sector tool rather than AI for general administration."
+}

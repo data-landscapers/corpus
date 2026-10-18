@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-lso-lena-sakoane-judiciary-electronic-filing",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Chief Justice Sakoane said on 3 July 2026 that the Judiciary is implementing digital systems, including electronic filing of court documents, with the Ministry of Information.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "electronic filing of court documents",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic filing of court documents",
+   "country_label": "Lesotho",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary, with Ministry of Information",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

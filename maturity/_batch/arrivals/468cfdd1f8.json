@@ -1,0 +1,7 @@
+{"slug": "2025-02-16-ben-dpiafrica-doton-adjarra-plaintes", "studies": {
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document mentions encrypted data in an app but names no data protection law."}}},
+"eparticipation": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document describes a complaints and suggestions app, not consultation on a draft law or policy."}}},
+"feedbackportals": {"countries": {"BEN": {"facts": [{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "The commune of Adjarra launched the Doton mobile app on 14 February 2025 for citizens to file complaints and suggestions about communal services, with status tracking and a dedicated unit in the town hall, but the article gives no count of complaints received.", "as_of": "2025-02-14", "date_precision": "day", "system": "Doton", "class": "feedback"}], "systems": [{"system": "Doton", "country_label": "Benin", "class": "feedback", "platform": "mobile app", "owner": "Commune of Adjarra", "tiers": "commune"}], "note": ""}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document describes a citizen app and a renovated website, not an office connection."}}},
+"publicconsultation": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document concerns a complaints app, not consultation on a digital law or policy."}}}
+}}

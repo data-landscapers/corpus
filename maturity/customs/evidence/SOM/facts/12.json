@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-07-som-shabelle-mof-uk-visit-mogadishu-port-somcas",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Shabelle Media reports Somalia's finance minister and the UK ambassador reviewed progress in implementing digital customs systems at Mogadishu Port, centred on the UK-supported SOMCAS online platform.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "SOMCAS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOMCAS",
+   "country_label": "Somalia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

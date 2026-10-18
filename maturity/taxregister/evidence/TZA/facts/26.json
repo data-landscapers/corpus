@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "NIDA lists online TIN registration among the services delivered through its consent-based eKYC.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Online Company & TIN Registration",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

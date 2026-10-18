@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-27-civ-apif-rapport-inclusion-financiere-2024",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "APIF's 2024 report says the government's Programme Filets Sociaux Productifs pays quarterly allowances to rural households by mobile phone into e-money accounts, with 230,000 active beneficiaries and 130,000 new mobile money accounts opened in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Programme Filets Sociaux Productifs (PFSP)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme Filets Sociaux Productifs (PFSP)",
+   "country_label": "Cote d'Ivoire",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-10-28-dza-echodalgerie-portail-doleances-mediateur",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "L'Echo d'Algerie reports the Mediator of the Republic officially launched on 2023-10-28 an electronic portal for grievance registers and correspondence with ministries, to feed a national complaints database; the Algiers delegation had received 1,877 requests by 30 September 2023, not stated to be through the portal.",
+   "as_of": "2023-10-28",
+   "date_precision": "day",
+   "system": "portail electronique des registres de doleances",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail electronique des registres de doleances",
+   "country_label": "Algeria",
+   "class": "feedback",
+   "platform": "",
+   "owner": "Mediateur de la Republique",
+   "tiers": ""
+  },
+  {
+   "system": "Nechki application",
+   "country_label": "Algeria",
+   "class": "feedback",
+   "platform": "app",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

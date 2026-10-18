@@ -1,0 +1,44 @@
+{
+ "slug": "2020-06-11-cog-worldbank-lisungi-covid-pad",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The World Bank appraisal says the Government has contracted payment agencies (Airtel Mobile Money, la Poste Mobile of SOPECO, Banque Postale du Congo, Charden Farell) and the emergency cash transfers to about 200,000 households will use digital payments to mobile phones where possible.",
+   "as_of": "2020-06-11",
+   "date_precision": "day",
+   "system": "Lisungi Emergency Cash Transfers",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "none",
+   "fact": "The World Bank appraisal says Lisungi cash transfer beneficiaries are as of now paid in cash at Banque Postale du Congo branches, with no ATM card provided.",
+   "as_of": "2020-06-11",
+   "date_precision": "day",
+   "system": "Lisungi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lisungi",
+   "country_label": "Congo",
+   "class": "g2p",
+   "platform": "Banque Postale du Congo; mobile money",
+   "owner": "Ministry of Social Affairs and Humanitarian Action",
+   "tiers": ""
+  },
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Social Affairs and Humanitarian Action",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

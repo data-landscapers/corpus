@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ID4Africa slide lists the electronic national identity card as a key identification system in Morocco since 1977, held by 31 million citizens.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "Electronic National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

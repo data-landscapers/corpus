@@ -1,0 +1,128 @@
+{
+ "slug": "2024-11-19-cpv-mf-nosi-ai-financial-accounting-app",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is mentioned."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Ministry of Finance says an AI application for financial and accounting management, built by NOSi with SINTAXY to automate NOSi's accounting system and meant for public and private entities, was launched on 19 November 2024.",
+       "as_of": "2024-11-19",
+       "date_precision": "day",
+       "system": "AI financial and accounting management application",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NOSi and SINTAXY AI financial and accounting management application",
+       "country_label": "AI financial and accounting app",
+       "class": "govai",
+       "platform": "",
+       "owner": "NOSi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI app is for general financial management, not a named public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The Ministry of Finance says an AI application for financial and accounting management, developed by NOSi with the national company SINTAXY, was launched in Cabo Verde on 19 November 2024.",
+       "as_of": "2024-11-19",
+       "date_precision": "day",
+       "system": "AI financial and accounting management application",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NOSi and SINTAXY AI financial and accounting management application",
+       "country_label": "AI financial and accounting app",
+       "class": "localai",
+       "platform": "",
+       "owner": "NOSi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a pillar of public digital services is stated, with no service named."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "NOSi co-developed the app with a private company; no statement of staff running systems for government or a build by government staff alone."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No shared regional link or facility is mentioned."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Ministry of Finance says the NOSi Innovation Lab was inaugurated on 19 November 2024, with a mission to foster public-private synergies and digital products for export; no startup programme is stated.",
+       "as_of": "2024-11-19",
+       "date_precision": "day",
+       "system": "NOSi Innovation Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

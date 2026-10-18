@@ -1,0 +1,53 @@
+{
+ "slug": "2025-03-17-moz-wmo-life-saving-early-warning-systems",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Early warning for cyclones; no farming use stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "WMO says Mozambique's meteorological warnings are based on forecasts using satellite imagery and surface observation data.",
+       "as_of": "2025-03-17",
+       "date_precision": "day",
+       "system": "Mozambique early warning system",
+       "class": "metsat"
+      },
+      {
+       "sub_indicator": "metsat",
+       "aspect": "warnings",
+       "value": "issued",
+       "fact": "WMO says meteorological warnings based on satellite-aided forecasts were disseminated through community radio and volunteers, and ahead of Cyclone Freddy in 2023.",
+       "as_of": "2025-03-17",
+       "date_precision": "day",
+       "system": "Mozambique early warning system",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mozambique early warning system",
+       "country_label": "Mozambique",
+       "class": "metsat",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

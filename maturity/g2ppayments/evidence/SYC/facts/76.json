@@ -1,0 +1,26 @@
+{
+ "slug": "2021-04-01-syc-employment-asp-budget-eliminate-cash-payment",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "none",
+   "fact": "The Agency for Social Protection lists eliminating cash payment to welfare and benefit recipients, and a computerised system for collection and payments, among its objectives for the next three years, so cash payment continues.",
+   "as_of": "2021-04",
+   "date_precision": "month",
+   "system": "Agency for Social Protection benefit payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Welfare Information System (SWISS)",
+   "country_label": "Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Agency for Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

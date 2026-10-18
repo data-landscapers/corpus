@@ -1,0 +1,14 @@
+{
+ "slug": "2026-01-01-itax",
+ "studies": {
+  "customs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax portal page for iTax; says nothing of customs clearance."
+    }
+   }
+  }
+ }
+}

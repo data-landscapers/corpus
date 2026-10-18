@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-09-mdg-madagascarnewsroom-thunes-mvola-remittance",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Madagascar Newsroom reports that MVola, launched in 2010, is a mobile money service for more than 10 million Telma customers, with a cash point network for withdrawals.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "MVola",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

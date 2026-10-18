@@ -20,13 +20,13 @@ The AU Digital Education Strategy asks for education management information syst
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 4 |
-| 3 Established | 14 |
-| 2 Nascent | 18 |
+| 5 Leading | 3 |
+| 4 Operating | 5 |
+| 3 Established | 15 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 15 |
+| Unplaced | 6 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -36,11 +36,23 @@ Learner records were linked to the national ID or another government system in 2
 
 - The page subtitle says aggregate and individual EMIS data are connected to national identity ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
 
+### Tanzania: 5 Leading
+
+Learner records were linked to the national ID or another government system in 2025.
+
+- PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
+
 ### Uganda: 5 Leading
 
 Learner records were linked to the national ID or another government system in 2026.
 
 - The brief says the DHIS2-Ed system was linked to the Ministry of Health's eIDSR platform for school-based surveillance indicators and collates examination data ([source, 2026-04](https://website.hispuganda.org/pdfs/PolicybriefPDHIS2EdTermlySchoolReportinUganda.pdf)).
+
+### Egypt: 4 Operating
+
+The education information system held a record for each learner in 2025; a link to the national ID is not on record.
+
+- The chapter says the Digital Identity Project records and stores data on students (attainment, attendance, tablet use, health) in central secured databases ([source, 2025](https://books.openbookpublishers.com/10.11647/obp.0489/ch23.xhtml)).
 
 ### Gambia: 4 Operating
 
@@ -71,6 +83,12 @@ The education information system held a record for each learner in 2026; a link 
 The school census was run through an education information system in 2026; a record for each learner is not on record.
 
 - The EducMaster portal of Benin's education ministries says the SIGE produces statistical reports and national indicators by department, with 1,804,826 learners, 63,305 teachers and 17,330 schools on the platform ([source, 2026-08-28](https://educmaster.bj/)).
+
+### Burkina Faso: 3 Established
+
+The school census was run through an education information system in 2024; a record for each learner is not on record.
+
+- IIEP says it supported integrating education-in-emergencies data into Burkina Faso's SIGE, which let the education ministry update the results of the annual school census and keep central government informed of school reopenings (ministry official Benjamin Kohoun, 2024) ([source, 2024-09-06](https://www.iiep.unesco.org/fr/articles/proteger-leducation-contre-les-attaques-les-donnees-esu-au-burkina-faso)).
 
 ### Chad: 3 Established
 
@@ -154,6 +172,12 @@ The school census was run through an education information system in 2026; a rec
 
 - The Ministry of Primary and Secondary Education's EMIS Report, cited by NewZimbabwe, shows 39,736 learners dropped out in 2025 (13,032 primary, 26,704 secondary), so the ministry publishes national education statistics through its EMIS ([source, 2026-06-15](https://www.newzimbabwe.com/zimbabwe-targets-to-re-enrol-out-of-school-learners-as-40000-dropped-out-in-2025-alone/)).
 - Kuyenda Collective says Zimbabwe has adopted an EMIS that is used to collect, store and manage education data including enrolment, teacher numbers and educational facilities, though most rural schools lack access to feed it in real time ([source, 2025](https://www.kuyendacollective.org/article/investing-in-education-management-information-systems-emis/)).
+
+### Algeria: 2 Nascent
+
+An education information system was under way in 2024; a school census run through it is not on record.
+
+- The education ministry says an updated 2025 version of the national education sector information system is being prepared, to be ready in March 2025, after a nationwide evaluation ([source, 2024-11-16](https://elwatan.dz/numerisation-dans-le-secteur-de-leducation-lancement-des-demain-dun-vaste-processus-devaluation/)).
 
 ### Angola: 2 Nascent
 
@@ -240,6 +264,18 @@ An education information system was under way in 2024; a school census run throu
 
 - The Ministry of Education, supported by UNICEF Libya, launched the Education Management Information System (EMIS), after a pilot phase for 205 educational institutions and training of thirty staff of the Information and Documentation Center and the Planning and Strategies Department, per the ministry's statement and Undersecretary Masouda Al-Aswad ([source, 2024-07-28](https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef)).
 
+### Madagascar: 2 Nascent
+
+An education information system was under way in 2024; a school census run through it is not on record.
+
+- Madagascar's authorities launched at a 15-17 July 2024 workshop in Toamasina the digitisation of schools, starting in Atsinanana, covering data collection and a pupil register, with the education ministry planning extension to other regions ([source, 2024-07-15](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/madagascar-met-ses-ecoles-au-numerique)).
+
+### Rwanda: 2 Nascent
+
+An education information system was under way in 2025; a school census run through it is not on record.
+
+- UNICEF says it has supported MINEDUC for over five years to move the EMIS from paper to a fully digital web-based system, with the SDMS operational as a component of the envisioned digital EMIS ([source, 2025-07-02](https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes)).
+
 ### Sao Tome and Principe: 2 Nascent
 
 An education information system was under way in 2026; a school census run through it is not on record.
@@ -272,49 +308,43 @@ An education information system was under way in 2024; a school census run throu
 
 - The World Bank aide memoire says technical assistance to review the Teaching Council of Zambia teacher database is now being considered within the context of the broader EMIS reform, indicating an EMIS reform is under way ([source, 2024-12](https://documents1.worldbank.org/curated/en/099021225061032211/pdf/P158570-11946392-8c6c-476e-ae1a-9b7ba1b4bf11.pdf)).
 
+### Botswana: Unplaced
+
+Nothing held since 2023 names a national education information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+
 ### Central African Republic: Unplaced
 
 Nothing held since 2023 names a national education information system, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
 
-### Algeria: No evidence
+### Comoros: Unplaced
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing held since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
 
-### Botswana: No evidence
+### Niger: Unplaced
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing held since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
 
-### Burkina Faso: No evidence
+### Senegal: Unplaced
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing held since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
 
-### Comoros: No evidence
+### South Sudan: Unplaced
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing held since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Egypt: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
 
 ### Equatorial Guinea: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Madagascar: No evidence
 
 Nothing held names a national education information system or says there is none, so no stage is set.
 
@@ -327,36 +357,6 @@ Nothing held names a national education information system or says there is none
 Not established: Nothing held says whether the education ministry holds its statistics in an information system.
 
 ### Mauritius: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Niger: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Rwanda: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Senegal: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### South Sudan: No evidence
-
-Nothing held names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
-
-### Tanzania: No evidence
 
 Nothing held names a national education information system or says there is none, so no stage is set.
 

@@ -8,6 +8,6 @@
 
 **Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://techafricanews.com/2026/09/03/malawi-activates-36th-rural-telecom-tower-digital-connectivity/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Connect-a-School](<https://times.mw/wired-for-inequality-rural-schools-miss-out-on-malawis-ict-revolution/>).
 
 ***Not held***. No source held since October 2023 gives internet use in rural and in urban areas.

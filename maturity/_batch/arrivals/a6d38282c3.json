@@ -1,0 +1,54 @@
+{
+ "slug": "2025-12-16-zmb-tma-asycudaworld-upgrade-agreement",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ZRA, UNCTAD and TradeMark Africa signed an agreement on 16 December 2025 for an 18-month, UK-funded project to upgrade and stabilise the ASYCUDAWorld customs system.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ZRA Commissioner General Dingani Banda said ASYCUDA is deeply integrated with internal and external systems and is handling rising declaration volumes, with delays at borders.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "A British High Commission official said the upgraded ASYCUDA Single Window will improve coordination across agencies and shorten clearance times.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "ASYCUDA Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDAWorld",
+       "country_label": "Zambia",
+       "class": "customs",
+       "platform": "ASYCUDAWorld (UNCTAD)",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

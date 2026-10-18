@@ -1,0 +1,34 @@
+{
+ "slug": "2023-06-05-zmb-lusakatimes-zilas-title-deeds-processed",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Lands Minister Elijah Muchima said the Ministry moved to the new Zambia Integrated Land Administration System (ZILAS) on 17 May 2023 and that over 300,000 title deeds had been processed on it, with over one million accounts recorded.",
+   "as_of": "2023-06-05",
+   "date_precision": "day",
+   "system": "ZILAS",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZILAS",
+   "country_label": "Zambia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands and Natural Resources",
+   "tiers": ""
+  },
+  {
+   "system": "ZILMIS",
+   "country_label": "Zambia",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands and Natural Resources",
+   "tiers": "replaced by ZILAS"
+  }
+ ],
+ "note": ""
+}

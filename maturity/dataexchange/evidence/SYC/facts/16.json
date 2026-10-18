@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-syc-worldbank-pid-inclusive-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "none",
+   "fact": "The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "interoperability layer",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-01-uga-ppda-press-statement-e-gp-rollout-july-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMS",
+   "country_label": "Integrated Financial Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMS is named only as integrated with e-GP for supplier payments; no statement that it is in use across central government."
+}

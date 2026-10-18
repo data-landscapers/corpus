@@ -16,7 +16,7 @@ DZA,2,strategy,,,,DZA-002
 EGY,2,strategy,,,,EGY-003
 ERI,unplaced,,,,,
 ETH,5,body,responded,designated,published,ETH-016;ETH-003;ETH-015
-GAB,2,body,,,,GAB-001
+GAB,4,body,,designated,,GAB-006;GAB-001
 GHA,5,body,responded,designated,published,GHA-043;GHA-002;GHA-042
 GIN,2,body,,,,GIN-004
 GMB,2,body,,,,GMB-001
@@ -42,7 +42,7 @@ SEN,4,body,,designated,,SEN-006;SEN-002
 SLE,3,body,responded,,,SLE-003;SLE-001
 SOM,2,body,,,,SOM-001
 SSD,2,body,,,,SSD-001
-STP,2,strategy,,,,STP-002
+STP,2,strategy,,,,STP-003
 SWZ,2,body,,,,SWZ-001
 SYC,2,body,,,,SYC-001
 TCD,2,body,,,,TCD-015
@@ -51,5 +51,5 @@ TUN,5,body,responded,,published,TUN-004;TUN-010;TUN-003
 TZA,2,body,,,,TZA-003
 UGA,4,body,,designated,,UGA-005;UGA-001
 ZAF,2,body,,,,ZAF-001
-ZMB,2,body,,,,ZMB-006
+ZMB,3,body,responded,,,ZMB-011;ZMB-006
 ZWE,2,body,,,,ZWE-002

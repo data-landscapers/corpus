@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-01-cmr-nkafu-need-for-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "The Nkafu Policy Institute brief says Cameroon has not adopted a Startup Act but that a startup law has been in preparation since July 2021 at the Ministry in charge of Telecommunications, its elements not publicly available.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Cameroon Startup Act bill",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

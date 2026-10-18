@@ -1,0 +1,202 @@
+{
+ "slug": "2026-05-27-gab-legabonais-doumba-100-jours-startup-act",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "A national data centre is a project being accelerated, not one in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "A national data centre is a project being accelerated, not one in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Gabon."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Minister Marc Alexandre Doumba said the government intends to accelerate deployment of the universal service to open up rural zones and improve connectivity in the interior.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "service universel",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Minister Doumba announced acceleration of the project to build a high-security national data centre and said he wants state and citizen data stored exclusively on national territory.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "Data Center national de haute sécurité",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives no budget amount, fund or levy for digital programmes."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Minister Doumba said the government is working to progressively end cash payments for administrative and judicial acts, through generalised Mobile Money and a single public administration portal.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "portail unique de l'administration publique",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "portail unique de l'administration publique",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Minister Doumba announced the coming finalisation of a Gabonese Start-up Act offering tax advantages, financing facilities and co-working spaces to young tech entrepreneurs.",
+       "as_of": "2026-05-27",
+       "date_precision": "day",
+       "system": "Start-up Act gabonais",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Co-working spaces are named only as a planned Start-up Act measure; no hub or park is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-tza-repoa-data-protection-platform-workers",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The brief is published by REPOA with the University of Dodoma, Tanzanian institutions, and reviews data protection for platform workers in Tanzania.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "REPOA",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

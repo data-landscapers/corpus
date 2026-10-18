@@ -1,6 +1,6 @@
 # Health: health information system
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Leading | 13 |
 | 4 Operating | 8 |
-| 3 Established | 14 |
+| 3 Established | 16 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 10 |
+| Unplaced | 2 |
+| No evidence | 5 |
 
 ## Countries
+
+### Burundi: 5 Leading
+
+The reporting rate of the national health information system was published in 2024.
+
+- The Annuaire 2024 publishes a national average completeness of 99.6 percent for community (GASC) monthly reports entered in DHIS2 in 2024, with a district-by-district table ([source, 2024](https://ahofiles.afro.who.int/afahobckpcontainer/production/files/Annuaire_des_Statistiques_Sanitaires_2024_VF.pdf)).
 
 ### Central African Republic: 5 Leading
 
@@ -177,6 +183,12 @@ A national health information system was in service in 2026; links to other heal
 - Enabel's article states Burkina Faso has a structured, decentralised national health information system (SNIS) that collects routine data across the whole territory, with district data quality control done in DHIS2 ([source, 2026-07](https://open.enabel.be/en/BFA/2798/3690/u/analyse-et-utilisation-des-donnees-sanitaires-les-districts-de-dedougou-et-de-tenkodogo-renforcent-leurs-capacites-pour-mieux-decider-et-mieux-agir.html)).
 - Africa Frontline First says Burkina Faso's national health information system runs on DHIS2 as the National Health Management Information System known as ENDOS, into which community health worker data is to be integrated ([source, 2025-09](https://africafrontlinefirst.org/2025/09/29/burkina-faso-is-scaling-up-digital-community-health-systems-through-a-national-roadmap/)).
 
+### Congo: 3 Established
+
+A national health information system was in service in 2023; links to other health systems are not on record.
+
+- HISP West and Central Africa says Congo's national health information system runs on DHIS2, which gives real-time data feed from 52 health districts to the central level ([source, 2023-10](https://hispwca.org/hispwca/?p=996)).
+
 ### Djibouti: 3 Established
 
 A national health information system was in service in 2026; links to other health systems are not on record.
@@ -201,6 +213,12 @@ A national health information system was in service in 2024; links to other heal
 A national health information system was in service in 2025; links to other health systems are not on record.
 
 - The Ministry of Health's PASA2 page says SNIS data is entered on the DHIS2 platform, with 77 solar systems installed in 7 regions and 33 health districts to power data entry and 21 facilities given internet and computers ([source, 2025](https://pasa2.sante.gov.gn/activite-cle/gestion-analyse-et-validation-des-donnees-snis-dhis2/)).
+
+### Liberia: 3 Established
+
+A national health information system was in service in 2026; links to other health systems are not on record.
+
+- The Vaccines (MDPI) article by CDC, Ministry of Health and UNICEF authors states that monthly datasets from all health facilities offering vaccination are aggregated at county level and entered by data officers into Liberia's DHIS2-based health management information system managed by the Ministry of Health, which supplies national reports ([source, 2026-04-03](https://www.mdpi.com/2076-393X/14/4/323)).
 
 ### Libya: 3 Established
 
@@ -305,37 +323,25 @@ A health information system was under way in 2026; a national one in service is 
 
 - Santé Mag reports the health ministry (MSPS) runs DHIS2 as its national platform for collecting, managing and analysing health data, used in several national public health programmes including HIV and tuberculosis, and is auditing it from July to September 2026 ([source, 2026-08-10](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/)).
 
+### Cameroon: Unplaced
+
+Nothing held since 2023 names a national health information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a health information system is under way or in service.
+
+### South Africa: Unplaced
+
+Nothing held since 2023 names a national health information system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a health information system is under way or in service.
+
 ### Algeria: No evidence
 
 Nothing held names a national health information system or says there is none, so no stage is set.
 
 Not established: Nothing held says whether health reporting runs through a national information system.
 
-### Burundi: No evidence
-
-Nothing held names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether health reporting runs through a national information system.
-
-### Cameroon: No evidence
-
-Nothing held names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether health reporting runs through a national information system.
-
-### Congo: No evidence
-
-Nothing held names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether health reporting runs through a national information system.
-
 ### Eswatini: No evidence
-
-Nothing held names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether health reporting runs through a national information system.
-
-### Liberia: No evidence
 
 Nothing held names a national health information system or says there is none, so no stage is set.
 
@@ -348,12 +354,6 @@ Nothing held names a national health information system or says there is none, s
 Not established: Nothing held says whether health reporting runs through a national information system.
 
 ### Seychelles: No evidence
-
-Nothing held names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether health reporting runs through a national information system.
-
-### South Africa: No evidence
 
 Nothing held names a national health information system or says there is none, so no stage is set.
 

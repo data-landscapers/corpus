@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,land,register,coverage,inservice,2025-06-17,BDI-002,BDI-003=underway;BDI-001=underway;BDI-004=underway,
+BDI,land,register,coverage,inservice,2025-06-17,BDI-002;BDI-006,BDI-003=underway;BDI-005=underway;BDI-001=underway;BDI-004=underway,
 BDI,land,national,coverage,,,,,nothing held
 BDI,land,online,coverage,,,,,nothing held

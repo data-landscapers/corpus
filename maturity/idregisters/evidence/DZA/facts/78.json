@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-18-dza-lnr-merad-registre-national-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Interior Ministry communique says generalisation of the national identification number and access to Registre national de l'Etat civil data gave nearly 111 million consultations by 23 ministries and public bodies in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Registre national de l'Etat civil",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de l'Etat civil",
+   "country_label": "Algeria",
+   "class": "register",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

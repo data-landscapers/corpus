@@ -5,3 +5,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,LSO,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,4,5,LSO-005;LSO-004,Arrivals added LSO-003; LSO-004; LSO-005; stage 4 -> 5.
 2026-10-17,MUS,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,no evidence,4,MUS-002,Arrivals added MUS-001; MUS-002; stage no evidence -> 4.
 2026-10-17,MWI,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,no evidence,4,MWI-002,Arrivals added MWI-001; MWI-002; stage no evidence -> 4.
+2026-10-18,AGO,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,3,3,AGO-005;AGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CAF,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,3,3,CAF-003;CAF-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,5,5,EGY-002;EGY-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,no evidence,2,NGA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SWZ,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,fact,5,5,SWZ-009;SWZ-003,Stage 4c: 3 news arrival(s) read; restaged from every row held.

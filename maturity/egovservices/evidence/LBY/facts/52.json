@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-03-lby-alwasat-e-services-package-launch",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Al Wasat reports the interior ministry of the Government of National Unity announced on 3 March 2024 the launch of a package of government e-services, including the start of an e-government portal project, with the Hawiyati portal still to be launched.",
+   "as_of": "2024-03-03",
+   "date_precision": "day",
+   "system": "e-government portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-government portal",
+   "country_label": "Libya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Interior, GNU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

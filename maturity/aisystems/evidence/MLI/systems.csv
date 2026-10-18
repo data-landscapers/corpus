@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
+MLI,African Next Voices Bambara dataset (AFVoices) and ASR models,Mali,localai,Hugging Face,RobotsMali AI4D Lab,,2025-11-26-mli-robotsmali-african-next-voices-bambara
+MLI,Nyana-Eval,Mali,localai,Hugging Face,RobotsMali,,2025-11-26-mli-robotsmali-african-next-voices-bambara

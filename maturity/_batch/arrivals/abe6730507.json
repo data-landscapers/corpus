@@ -1,0 +1,162 @@
+{
+ "slug": "2026-07-22-mwi-nation-mra-digital-tax-stamps-ai",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Malawi Revenue Authority's Kalondola digital excise tax stamp platform is supported by analytics and artificial intelligence to detect anomalies and flag risks, as reported by Nation Online on 22 July 2026.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Kalondola",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kalondola",
+       "country_label": "Malawi",
+       "class": "sectorai",
+       "platform": "SICPA digital tax stamps",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Since February 2025 Kalondola has been linked to Asycuda, described as the customs clearance system, so imports in specified categories must meet stamp requirements at entry points.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "ASYCUDA",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA",
+       "country_label": "Malawi",
+       "class": "customs",
+       "platform": "ASYCUDA",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Malawi."
+    }
+   }
+  }
+ }
+}

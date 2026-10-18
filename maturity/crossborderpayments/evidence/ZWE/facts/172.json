@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-02-zwe-econet-free-remittance-corridors",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Econet Wireless Zimbabwe says that from 2 May 2024 people in the UK and South Africa can send money free of charge via Sasai Money Transfer into EcoCash US dollar wallets in Zimbabwe.",
+   "as_of": "2024-05-02",
+   "date_precision": "day",
+   "system": "Sasai Money Transfer to EcoCash",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash",
+   "country_label": "EcoCash",
+   "class": "other",
+   "platform": "mobile wallet",
+   "owner": "Econet Wireless Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

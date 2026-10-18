@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-22-lbr-libinvestigator-pmis-citizen-sms-feedback",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The performance tracking system is not a service portal."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Cabinet Director General said citizens would submit feedback on government performance through a short SMS reporting system alongside the new Performance Management Information System.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "Citizen SMS reporting system",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Performance Management Information System",
+       "country_label": "Liberia",
+       "class": "other",
+       "platform": "national platform",
+       "owner": "Executive Mansion",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

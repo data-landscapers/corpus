@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-eth-kas-ai-cybersecurity-mapping-interface",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Draft AI Proclamation",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft AI Proclamation",
+   "country_label": "Ethiopia",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Ethiopian Artificial Intelligence Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

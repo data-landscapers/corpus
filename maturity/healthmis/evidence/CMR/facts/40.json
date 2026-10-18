@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-08-cmr-minsante-registres-ameliores-dhis2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Cameroun",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "MINSANTE",
+   "tiers": ""
+  }
+ ],
+ "note": "Pilot planned April-May 2025 and entry into force June 2025 are plans, not delivered."
+}

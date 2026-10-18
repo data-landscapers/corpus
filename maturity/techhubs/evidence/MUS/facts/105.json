@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-mus-mric-national-sme-incubator-scheme",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "MRIC says its government-initiated National SME Incubator Scheme, operational since December 2017, works with 6 accredited private-sector incubators running pre-incubation, incubation and acceleration phases, with 50 start-ups produced and 65 ongoing projects as of October 2024.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "National SME Incubator Scheme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National SME Incubator Scheme",
+   "country_label": "Mauritius",
+   "class": "hub",
+   "platform": "",
+   "owner": "Mauritius Research and Innovation Council",
+   "tiers": "pre-incubation, incubation, acceleration"
+  }
+ ],
+ "note": ""
+}

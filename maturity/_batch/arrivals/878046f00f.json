@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-08-openzambia-zambia-and-us-sign-five-year-health-mou-and-data-sharing-agreement-ope",
+ "studies": {
+  "datatransfers": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Government-to-government data sharing agreement, not a rule on sending personal data abroad."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions only expanding digital systems to detect health threats; no national health information system described."
+    }
+   }
+  }
+ }
+}

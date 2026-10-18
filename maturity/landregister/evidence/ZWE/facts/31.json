@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-03-zwe-newziana-dlap-title-deed-platform",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Zimbabwe launched the Digital Land Administration Platform for electronic processing of title deeds, per a Government Gazette notice announced by Justice Minister Ziyambi Ziyambi.",
+   "as_of": "2025-05-30",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform (DLAP)",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Justice Minister Ziyambi Ziyambi said the DLAP enables farmers and landowners to apply for title deeds online, alongside the manual process.",
+   "as_of": "2025-05-30",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform (DLAP)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Land Administration Platform (DLAP)",
+   "country_label": "Zimbabwe",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Justice, Legal and Parliamentary Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-25-ken-kna-ombudsman-pasha-complaints-app",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Commission on Administrative Justice chair says the Commission, with the Ministry of Public Service, is developing an app, to be launched as the PASHA Ombudsman platform, for the public to file complaints about public-sector service.",
+   "as_of": "2023-11-25",
+   "date_precision": "day",
+   "system": "PASHA Ombudsman platform",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PASHA Ombudsman platform",
+   "country_label": "Kenya",
+   "class": "feedback",
+   "platform": "app",
+   "owner": "Commission on Administrative Justice",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-01-mwi-finmark-finscope-consumer-malawi-2023",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The FinScope Consumer Survey Malawi 2023 findings report (FinMark Trust, 3,000 adults) says about two in every three adults (69%) currently use mobile money, up from 3% in 2014, and that 13% of adults are banked.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope Consumer Survey Malawi 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TNM Mpamba",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

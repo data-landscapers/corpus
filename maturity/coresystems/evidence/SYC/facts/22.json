@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-22-syc-ntb-land-valuation-system-tender",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Financial Management Information System (IFMIS)",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS is named only as a system the new LVS is to interface with; no statement of use across central government."
+}

@@ -8,6 +8,6 @@
 
 **Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://taazour.mr/archives/7559>).
 
-***Noted, not assessed***. [BDS-MAC](<https://www.informea.org/en/content/legislation/decret-ndeg2025-162-du-15-octobre-2025-portant-creation-dune-base-de-donnees>); [TEKAVOUL](<https://faolex.fao.org/docs/pdf/mau229659.pdf>).
+***Noted, not assessed***. [BDS-MAC](<https://www.informea.org/en/content/legislation/decret-ndeg2025-162-du-15-octobre-2025-portant-creation-dune-base-de-donnees>); [TEKAVOUL](<https://faolex.fao.org/docs/pdf/mau229659.pdf>); [Registre biométrique national (ANRPTS)](<https://procedures.gov.mr/fr/procedure/1105>).
 
 ***Not held***. No source held since October 2023 says two or more programmes use the social registry.

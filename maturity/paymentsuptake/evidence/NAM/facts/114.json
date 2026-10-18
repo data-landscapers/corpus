@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-nam-nsa-namibia-financial-inclusion-survey-2025",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The Namibia Statistics Agency's 2025 Namibia Financial Inclusion Survey (fieldwork October-November 2025) finds 75.6 percent of adults aged 15 and over hold a bank account, with 18.3 percent holding a smart card account.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Namibia Financial Inclusion Survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

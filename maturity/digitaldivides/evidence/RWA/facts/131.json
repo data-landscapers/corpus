@@ -1,0 +1,17 @@
+{
+ "slug": "2018-01-01-rwa-nisr-ict-household-internet-access-urban-rural",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "The National Institute of Statistics of Rwanda's EICV5 household survey (2016/17) gives home internet access of 38.1% of urban households against 12.2% of rural households.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "EICV5",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

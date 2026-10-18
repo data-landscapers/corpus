@@ -1,0 +1,144 @@
+{
+ "slug": "2023-12-20-tgo-otr-creation-nif-en-ligne",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Togo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The OTR presented on 18 December 2023 the OTR TVM smartphone app for paying the motor vehicle tax (TVM) remotely, to be operational from 2 January 2024.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "OTR TVM",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OTR TVM",
+       "country_label": "Togo",
+       "class": "revenue",
+       "platform": "smartphone app",
+       "owner": "OTR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The OTR says individual taxpayers can now create or recover their tax identification number (NIF) online at nif.otr.tg, presented 18 December 2023.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "nif.otr.tg",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "nif.otr.tg",
+       "country_label": "Togo",
+       "class": "tax",
+       "platform": "web",
+       "owner": "OTR",
+       "tiers": "individual taxpayers"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

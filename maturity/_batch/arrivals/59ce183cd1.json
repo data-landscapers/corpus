@@ -1,0 +1,23 @@
+{
+ "slug": "2023-12-07-gmb-nsps-gamsr-implementation-handbook",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Gambia Social Registry (GamSR)",
+       "country_label": "The Gambia",
+       "class": "other",
+       "platform": "",
+       "owner": "National Social Protection Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": "The handbook describes a social registry, not a programme management information system."
+    }
+   }
+  }
+ }
+}

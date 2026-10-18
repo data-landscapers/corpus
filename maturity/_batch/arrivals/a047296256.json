@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-20-lbr-geezliberia-citizens-feedback-2424",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Cabinet Director Nathaniel Kawbo announced President Boakai's 'Citizens Feedback' platform under the 2026 Performance Contract, taking public reports on officials and stalled projects by SMS to shortcode 2424 on Orange and Lonestar.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "Citizens Feedback (shortcode 2424)",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Citizens Feedback",
+       "country_label": "Liberia",
+       "class": "feedback",
+       "platform": "SMS shortcode 2424",
+       "owner": "Executive Mansion",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about an SMS feedback channel; states nothing on debate, cuts or punishment."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,InfoTA / InfoTF / LogiComm / LogiCivil / LogiPénal,Madagascar,justice,,Ministry of Justice,courts,2026-06-04-mdg-lexpress-gestion-affaires-judiciaires-numerise
+MDG,ILO,Madagascar,justice,,NFD project / Ministry of Justice,administrative tribunals,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf
+MDG,LogiPénal,Madagascar,justice,,NFD project / Ministry of Justice,first-instance courts,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf
+MDG,InfoTF,Madagascar,justice,,NFD project / Ministry of Justice,financial tribunals,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf

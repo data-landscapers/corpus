@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "4",
-   "training": "inservice",
-   "reach": "wide",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-003",
-   "gaps": "No source held since October 2023 gives the share of the civil service trained in digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "4",
+      "training": "inservice",
+      "reach": "wide",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003",
+      "gaps": "No source held since October 2023 gives the share of the civil service trained in digital skills.",
+      "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

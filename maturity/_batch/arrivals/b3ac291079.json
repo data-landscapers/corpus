@@ -1,0 +1,19 @@
+{"slug": "2023-12-19-dza-mpt-autonomisation-besoins-specifiques", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No consumer-protection rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"disabilityaccess": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "The Ministry of Post and Telecommunications says it launched national contests in 2021 and 2022 for software and mobile apps for people with specific needs (sign-language apps in 2022) and gives technical support to the winning projects so they can be offered free.", "as_of": "2022", "date_precision": "year", "system": "Concours national de developpement de logiciels et d'applications mobiles pour les personnes a besoins specifiques", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The Ministry of Post and Telecommunications says the Algerie Poste ECCP app offers online account consultation, statement download, Edahabia card request and tracking, SMS notification subscription and chequebook ordering.", "as_of": "2023-12-19", "date_precision": "day", "system": "ECCP", "class": "eservices"}
+], "systems": [{"system": "ECCP", "country_label": "Algeria", "class": "eservices", "platform": "app", "owner": "Algerie Poste", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Ministry of Post and Telecommunications says Algerie Poste's BaridiMob app, with over 5 million downloads, lets users transfer money between accounts and top up mobile credit for the three operators.", "as_of": "2023-12-19", "date_precision": "day", "system": "BaridiMob", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The Ministry of Post and Telecommunications says it is consolidating interoperability between Algerie Poste's payment platform and the banks', so Edahabia card holders can carry out operations at bank counters.", "as_of": "2023-12-19", "date_precision": "day", "system": "Algerie Poste payment platform / Edahabia", "class": "retail"}
+], "systems": [{"system": "BaridiMob", "country_label": "Algeria", "class": "retail", "platform": "app", "owner": "Algerie Poste", "tiers": ""}, {"system": "Edahabia", "country_label": "Algeria", "class": "retail", "platform": "card", "owner": "Algerie Poste", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only utility and telecom bill payment stated, not taxes or state fees."}}}
+}}

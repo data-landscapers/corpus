@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-sen-arcop-appel-le-clic-de-la-transparence",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ARCOP says the APPEL e-procurement platform, inaugurated on 14 October 2025, combines strong authentication, data encryption and electronic signature and timestamping.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "APPEL",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "e-procurement platform",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

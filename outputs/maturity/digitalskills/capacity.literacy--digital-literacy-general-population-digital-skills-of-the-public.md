@@ -1,6 +1,6 @@
 # Digital literacy (general population): digital skills of the public
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -22,11 +22,11 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 11 |
-| 2 Nascent | 28 |
+| 3 Established | 13 |
+| 2 Nascent | 30 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 9 |
+| Unplaced | 0 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -66,6 +66,13 @@ The share of people with basic digital skills was measured in 2025, below half.
 A national digital-skills programme had trained a stated number of people by 2025; a measured share with skills is not on record.
 
 - Femintech, an institution launched in 2017 with partners including Unicef, teaches digital literacy, AI and programming, and about a thousand girls have received the training since its start (Femintech's outgoing president) ([source, 2025-11-04](https://actualite.cd/2025/11/05/formation-numerique-en-rdc-femintech-octroie-41-brevets-aux-nouveaux-formes-en)).
+
+### Egypt: 3 Established
+
+A national digital-skills programme had trained a stated number of people by 2025; a measured share with skills is not on record.
+
+- The Ministry of Communications and Information Technology says its "Digital Egypt Generations" initiatives (Cubs, Juniors, Pioneers, Builders) trained about 156,000 people in 2025 and about 277,000 since launch through the end of 2025 ([source, 2025-12](https://egyptinnovate.com/en/news/eng-raafat-hendy-277000-trainees-empowered-through-digital-egypt-generations-initiatives)).
+- MCIT's Decent Life digital knowledge and competencies programme has improved the digital skills of 164,840 citizens of a 218,155 target (85.80%) ([source, 2025-09](https://www.comcec.org/wp-content/uploads/2025/09/4.-Egypt-Presentation-on-Rural-Accessibility.pdf)).
 
 ### Eswatini: 3 Established
 
@@ -117,6 +124,12 @@ A national digital-skills programme had trained a stated number of people by 202
 
 - Niger Digital Day's focal point says it trained more than 300 young people in 6 regions in 2025 and will cover all 8 regions this year ([source, 2025](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/)).
 
+### Senegal: 3 Established
+
+A national digital-skills programme had trained a stated number of people by 2026; a measured share with skills is not on record.
+
+- The FORCE-N programme, launched in 2021 by the Universite numerique Cheikh Hamidou Kane and the Mastercard Foundation, has according to its director trained more than 100,000 young people in certified digital-trade courses across the 14 regions ([source, 2026-06-16](https://aps.sn/force-n-plus-de-100-mille-jeunes-formes-dans-les-metiers-du-numerique-en-cinq-ans-responsable/)).
+
 ### South Africa: 3 Established
 
 A national digital-skills programme had trained a stated number of people by 2026; a measured share with skills is not on record.
@@ -154,6 +167,13 @@ A national digital-skills programme was under way in 2025; how many it trained i
 A national digital-skills programme was under way in 2023; how many it trained is not on record.
 
 - The World Bank appraisal document (2023-12-22) for PACTDIGITAL includes a US$22.00m component on developing digital skills and a project aim to increase access to digital skills programs ([source, 2023-12-22](https://projects.worldbank.org/en/projects-operations/project-detail/P177022)).
+
+### Burundi: 2 Nascent
+
+A national digital-skills programme was under way in 2025; how many it trained is not on record.
+
+- The ministry in charge of the digital economy, with UN Women Burundi and Belgian funding, launched phase III of the AGCCI coding camps on 25 September 2025, training 102 girls aged 17-25 from all provinces in digital literacy and coding, with telecentres supported at Bubanza, Kirundo and Ruyigi ([source, 2025-09-25](https://abpinfo.bi/2025/09/30/la-promotion-des-competences-numeriques-des-jeunes-filles-burundaises-une-priorite/)).
+- The PAFEN project launched 12 September 2024 includes development of digital skills for the population among its priority components, per its coordinator ([source, 2024-09-12](https://en.abpinfo.bi/official-launch-of-the-project-to-support-the-foundations-of-the-digital-economy-in-burundi/)).
 
 ### Cameroon: 2 Nascent
 
@@ -212,7 +232,7 @@ A national digital-skills programme was under way in 2025; how many it trained i
 A national digital-skills programme was under way in 2026; how many it trained is not on record.
 
 - MoTIE signed MoUs with three training institutions to deliver a three-year WARDIP digital skills programme for thousands of Gambians, particularly youth, women and persons with disabilities ([source, 2026-09-29](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/)).
-- The Ministry of Communications and Digital Economy, with the Digital Cooperation Organization and national partners, launched the WE-Elevate Project to improve digital skills of women-owned micro, small and medium enterprises across the country ([source, 2025-10-28](https://www.kerrfatou.com/government-launches-we-elevate-project-to-empower-women-in-the-digital-economy/)).
+- The Gambia's Ministry of Communications and Digital Economy and Smart Africa signed a framework agreement to implement the Smart Africa Digital Academy, which will provide digital training for youth and women among others, per TechAfrica News ([source, 2025-12-17](https://techafricanews.com/2025/12/17/the-gambia-partners-with-smart-africa-to-launch-digital-skills-academy/)).
 
 ### Guinea: 2 Nascent
 
@@ -281,6 +301,12 @@ A national digital-skills programme was under way in 2025; how many it trained i
 
 - The New Times reports the World Bank-funded Digital Acceleration Project will expand the Digital Ambassadors Programme to all 2,148 cells to train citizens to use digital devices and services, per RISA's briefing to lawmakers ([source, 2025-07-07](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026)).
 
+### Sao Tome and Principe: 2 Nascent
+
+A national digital-skills programme was under way in 2025; how many it trained is not on record.
+
+- SEGIB reports a triangular cooperation project (Portugal, Argentina, the Autonomous Government of Principe) has started for Principe island, with digital classrooms in schools and adult training centres as two of four identified projects; Principe only, not stated as delivered ([source, 2025-06-24](https://segib.org/pt/digitalizacao-que-cruza-oceanos-a-cooperacao-triangular-que-impulsiona-a-digitalizacao-em-uma-pequena-ilha-africana/)).
+
 ### Somalia: 2 Nascent
 
 A national digital-skills programme was under way in 2025; how many it trained is not on record.
@@ -315,18 +341,6 @@ A national digital-skills programme was under way in 2026; how many it trained i
 - SMART Zambia Institute with the ITU handed ICT equipment to the Mukwela Youth Resource Centre in Kalomo to become a Digital Transformation Centre for digital-skills training of young people ([source, 2026-08-10](https://techafricanews.com/2026/08/12/smart-zambia-and-itu-equip-kalomo-youth-centre-to-advance-digital-inclusion/)).
 - SMART Zambia Institute, with the ITU and the Ministry of Youth, Sport and Arts, runs the Digital Transformation Centres Initiative to equip young people and women with digital skills, and has handed ICT equipment to the Mpika Youth Resource Centre with more handovers planned ([source, 2026-08-05](https://techafricanews.com/2026/08/05/smart-zambia-and-itu-equip-mpika-youth-resource-centre-to-boost-digital-skills/)).
 
-### Egypt: Unplaced
-
-Nothing held since 2023 names a national digital-skills programme, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a national digital-skills programme is under way or in service.
-
-### Burundi: No evidence
-
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the public is taught digital skills.
-
 ### Comoros: No evidence
 
 Nothing held names a national digital-skills programme or says there is none, so no stage is set.
@@ -340,18 +354,6 @@ Nothing held names a national digital-skills programme or says there is none, so
 Not established: Nothing held says whether the public is taught digital skills.
 
 ### Eritrea: No evidence
-
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the public is taught digital skills.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the public is taught digital skills.
-
-### Senegal: No evidence
 
 Nothing held names a national digital-skills programme or says there is none, so no stage is set.
 

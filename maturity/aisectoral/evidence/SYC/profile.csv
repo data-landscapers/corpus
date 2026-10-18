@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,sectorai,use,coverage,underway,2026-07-31,SYC-001;SYC-002;SYC-003,,
+SYC,sectorai,use,coverage,inservice,2026-02-23,SYC-004,SYC-001=underway;SYC-003=underway;SYC-002=underway,
 SYC,sectorai,sectors,coverage,,,,,nothing held
 SYC,sectorai,results,coverage,,,,,nothing held

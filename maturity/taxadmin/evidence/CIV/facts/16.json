@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-02-civ-finances-fiscalite-interieure-reformes",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The finance ministry says online tax filing (télé-déclaration) has been in operation in Côte d'Ivoire since 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "télé-déclaration",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The finance ministry says online payment of taxes and duties (télépaiement) has been in operation since 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "télépaiement",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "télé-déclaration / télépaiement",
+   "country_label": "Côte d'Ivoire",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction Générale des Impôts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

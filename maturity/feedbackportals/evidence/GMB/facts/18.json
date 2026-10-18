@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-30-gmb-mansabanko-nawec-app-complaints",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "NAWEC, the national water and electricity company, launched a mobile app on which customers can lodge complaints and report faults in real time with photos, though no complaint numbers are given.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "NAWEC mobile app",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAWEC mobile app",
+   "country_label": "The Gambia",
+   "class": "feedback",
+   "platform": "mobile app",
+   "owner": "NAWEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

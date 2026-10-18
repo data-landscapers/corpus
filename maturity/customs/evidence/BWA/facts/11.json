@@ -1,0 +1,46 @@
+{
+ "slug": "2022-02-24-bwa-wco-burs-data-driven-customs",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "BURS's Principal Officer for Customs Reforms says a new integrated Customs Management System replaced ASYCUDA++ in 2017 and clears declarations after online payment through the declaration processing platform.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Customs Management System (CMS)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "BURS says the CMS provides a Single Window through its Other Government Agencies module, with the Botswana Bureau of Standards enrolled and other agencies at testing stage.",
+   "as_of": "2022-02-24",
+   "date_precision": "day",
+   "system": "CMS Single Window (OGA module)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "BURS says its CMS exchanges data with the South Africa Revenue Service and the Zambia Revenue Authority under WCO Data Model and Unique Consignment Reference arrangements, with Zambia exchange part of the One Stop Border Post project.",
+   "as_of": "2022-02-24",
+   "date_precision": "day",
+   "system": "Customs Management System (CMS)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Customs Management System (CMS)",
+   "country_label": "Botswana",
+   "class": "customs",
+   "platform": "",
+   "owner": "Botswana Unified Revenue Service",
+   "tiers": "declaration processing, single window OGA module"
+  }
+ ],
+ "note": ""
+}

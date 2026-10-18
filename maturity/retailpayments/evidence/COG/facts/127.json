@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-cog-worldbank-lisungi-refugee-women-cash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank says Lisungi cash transfers were paid to beneficiaries by mobile money, which it says reduced corruption risk.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

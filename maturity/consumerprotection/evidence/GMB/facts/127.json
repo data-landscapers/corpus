@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-01-gmb-gccpc-digital-market-study-report",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Gambia Competition and Consumer Protection Commission's study says the Regulation for the Provision of Retail Payment Service 2023 requires payment service providers to give a clear description of services, rates, terms, conditions and charges, and repealed the 2011 mobile money regulation.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Regulation for the Provision of Retail Payment Service 2023",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Gambia Competition and Consumer Protection Commission's study says the Consumer Protection Act 2014 requires alternative dispute resolution for consumer claims and set up a Consumer Protection Tribunal with unlimited jurisdiction over claims including digital transactions.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Consumer Protection Tribunal",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regulation for the Provision of Retail Payment Service 2023",
+   "country_label": "The Gambia",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of The Gambia",
+   "tiers": ""
+  },
+  {
+   "system": "Consumer Protection Tribunal",
+   "country_label": "The Gambia",
+   "class": "protection",
+   "platform": "",
+   "owner": "Gambia Competition and Consumer Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "No fine, sanction or complaint figures under these rules are stated, and no draft financial consumer rules are described."
+}

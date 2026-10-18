@@ -8,6 +8,6 @@
 
 **National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/>).
 
-***Noted, not assessed***. [My Baobab](<https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/>).
+***Noted, not assessed***. [My Baobab](<https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/>); [MVola](<https://expression.africa/madagascar-mfs-africa-partners-with-mvola-paving-way-for-financial-inclusion/>).
 
 ***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.

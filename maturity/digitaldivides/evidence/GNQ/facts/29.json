@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-03-gnq-oficinainfo-huawei-red-cobertura-interior",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Vice-President ordered Huawei to draw up a project to improve telephone and internet coverage nationwide, including more interior coverage and a basic network covering 100% of the territory, and gave ministries and operators a week to assess it before approving a first phase; the press office links poor coverage to the urban-rural digital gap.",
+   "as_of": "2023-11-03",
+   "date_precision": "day",
+   "system": "Huawei network improvement proposal",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

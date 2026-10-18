@@ -1,0 +1,34 @@
+{
+ "slug": "2013-11-06-zmb-parliament-postal-addressing-statement",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "The Transport minister told parliament that ZICTA's National Addressing and Postal Code System Project, begun in August 2012, was in its pilot phase in Lusaka and Livingstone areas, with national rollout planned to 2018 and a national addressing database being built.",
+       "as_of": "2013-11-06",
+       "date_precision": "day",
+       "system": "National Addressing and Postal Code System Project",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Addressing and Postal Code System Project",
+       "country_label": "Zambia",
+       "class": "address",
+       "platform": "national addressing database with GIS module",
+       "owner": "ZICTA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

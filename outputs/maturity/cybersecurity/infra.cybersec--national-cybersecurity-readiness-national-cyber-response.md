@@ -22,8 +22,8 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 6 |
-| 3 Established | 4 |
-| 2 Nascent | 35 |
+| 3 Established | 5 |
+| 2 Nascent | 34 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -75,7 +75,7 @@ The national cyber body published a count of incidents handled for a period to 2
 
 - NAM-CSIRT's Q2 2026 newsletter reports 513,921 cyber vulnerabilities and 161,547 cyber events detected in April-June 2026, up 39.8% and 56.7% on the previous quarter. (Reported by The Namibian, 2026-09-20.) ([source, 2026-06-30](https://www.namibian.com.na/hackers-hit-ndf-ransomhouse-threatens-state-secrets/)).
 - NAM-CSIRT issued a public advisory urging stronger data protection and responsible handling of data leaked in cyber incidents ([source, 2026-09-30](https://economist.com.na/nam-csirt-calls-for-heightened-data-protection-and-governance-amid-rising-cyber-risks/)).
-- NAM-CSIRT is stated to be housed at the Communications Regulatory Authority of Namibia (CRAN) and to have issued an advisory ([source, 2026-09-30](https://economist.com.na/nam-csirt-calls-for-heightened-data-protection-and-governance-amid-rising-cyber-risks/)).
+- NAM-CSIRT, the national cyber security incident response team housed at CRAN, is stated to exist and operate: a new Executive took over on 1 October 2026 to lead national incident response, with CRAN's CEO as Head of NAM-CSIRT ([source, 2026-10-01](https://technews.com.na/2026/10/03/cran-appoints-cornelia-shipindo-to-lead-namibias-cyber-incident-response/)).
 
 ### Togo: 5 Leading
 
@@ -163,6 +163,13 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 
 - NatCA, the telecom regulator, issued a public notice on 30 July 2026 acknowledging ongoing cybersecurity incidents, saying it coordinates a response and advising the public on precautions; no incident detail is given ([source, 2026-07-30](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/)).
 - The National Cyber Security Coordination Centre (NC3) is stated to exist and to have developed, with MoCTI, draft sector-specific critical information infrastructure protection plans for energy, health, education and defence and security, presented for validation on 2026-08-26 ([source, 2026-08-26](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/)).
+
+### Zambia: 3 Established
+
+The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
+
+- ZCSA issued a public advisory warning of rising social media misuse, including scams, false information and deepfakes, and urging verification before sharing ([source, 2026-05-08](https://zambia24.com/2026/05/08/misleading-online-content-risks-jail-term/)).
+- The article describes the Zambia Cyber Security Agency (ZCSA) as operating and issuing a public advisory; it is dated by the article's publication, 2026-08-27 ([source, 2026-08-27](https://zedgossip.net/zcsa-warns-zambians-against-rising-disinformation-amid-election-tensions/)).
 
 ### Algeria: 2 Nascent
 
@@ -324,7 +331,7 @@ The country had a national cyber body by 2026; no incident response by a nationa
 
 The country had a cybersecurity strategy by 2025; no incident response by a national body is known since 2023.
 
-- AGER states that implementation of the National Cybersecurity Strategy of Sao Tome and Principe (2024-2028) with its annexed action plan is under way, while submitting both to a 30-day public consultation; the page is undated and its date is the published date, 2025-09 ([source, 2025-09](https://www.ager.st/index.php/pt/actualidades/19-annonces/106-estrategia-nacional-de-ciberseguranca-de-sao-tome-e-principe)).
+- AGER lists the National Cybersecurity Strategy (2024-2029) among São Tomé and Príncipe's existing actions on universal and meaningful connectivity ([source, 2025-11](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe-AGER.pdf)).
 
 ### Seychelles: 2 Nascent
 
@@ -361,12 +368,6 @@ The country had a national cyber body by 2026; no incident response by a nationa
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
 
 - The Minister states Tanzania, through TCRA, established TZ-CERT under the Electronic and Postal Communications Act, 2010, and that it monitors, detects and responds to cybersecurity threats ([source, 2026-05-13](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf)).
-
-### Zambia: 2 Nascent
-
-The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
-
-- The article describes the Zambia Cyber Security Agency (ZCSA) as operating and issuing a public advisory; it is dated by the article's publication, 2026-08-27 ([source, 2026-08-27](https://zedgossip.net/zcsa-warns-zambians-against-rising-disinformation-amid-election-tensions/)).
 
 ### Zimbabwe: 2 Nascent
 

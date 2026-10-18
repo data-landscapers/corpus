@@ -1,7 +1,7 @@
 iso3,stage,registration,access,counted,stage_sources
 AGO,3,documented,,,AGO-001
 BDI,3,documented,,,BDI-001
-BEN,no evidence,,,,
+BEN,2,underway,,,BEN-001;BEN-002
 BFA,4,documented,open,,BFA-004
 BWA,3,documented,,,BWA-001
 CAF,3,documented,,,CAF-001
@@ -19,23 +19,23 @@ ETH,5,documented,open,counted,ETH-006;ETH-009
 GAB,no evidence,,,,
 GHA,4,documented,open,,GHA-001
 GIN,2,underway,,,GIN-001
-GMB,no evidence,,,,
-GNB,no evidence,,,,
+GMB,unplaced,,,,
+GNB,unplaced,,,,
 GNQ,1,none,,,GNQ-001
 KEN,4,documented,open,,KEN-001
 LBR,2,underway,,,LBR-001;LBR-002
-LBY,no evidence,,,,
+LBY,3,documented,,,LBY-001;LBY-004
 LSO,1,none,,,LSO-001
 MAR,3,documented,,,MAR-001
 MDG,1,none,,,MDG-001
 MLI,3,documented,,,MLI-001
 MOZ,3,documented,,,MOZ-003
 MRT,5,documented,open,counted,MRT-005
-MUS,no evidence,,,,
-MWI,no evidence,,,,
+MUS,3,documented,,,MUS-001
+MWI,unplaced,,,,
 NAM,2,underway,,,NAM-001
 NER,2,underway,,,NER-001;NER-002
-NGA,no evidence,,,,
+NGA,5,documented,open,counted,NGA-003
 RWA,4,documented,open,,RWA-002;RWA-004
 SDN,3,documented,,,SDN-002
 SEN,2,underway,,,SEN-001

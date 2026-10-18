@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-05-sen-rts-anec-daf-interoperabilite-rnec",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "RTS reports that ANEC (civil status agency) and DAF (identity file directorate) signed an interoperability protocol to exchange civil-status and biometric identity data.",
+   "as_of": "2025-07-05",
+   "date_precision": "day",
+   "system": "ANEC-DAF interoperability protocol",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

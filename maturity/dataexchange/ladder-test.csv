@@ -12,7 +12,7 @@ COG,2,underway,,,COG-001
 COM,2,underway,,,COM-001;COM-002
 CPV,3,inservice,,,CPV-001
 DJI,2,underway,,,DJI-003
-DZA,3,inservice,,,DZA-004;DZA-002
+DZA,3,inservice,,,DZA-008;DZA-004
 EGY,4,inservice,wide,,EGY-002;EGY-004
 ERI,unplaced,,,,
 ETH,2,underway,,,ETH-001;ETH-003
@@ -44,7 +44,7 @@ SOM,1,none,,,SOM-001;SOM-002
 SSD,no evidence,,,,
 STP,2,underway,,,STP-001;STP-003
 SWZ,no evidence,,,,
-SYC,no evidence,,,,
+SYC,1,none,,,SYC-001
 TCD,no evidence,,,,
 TGO,2,underway,,,TGO-001
 TUN,5,inservice,wide,reported,TUN-010

@@ -1,1 +1,14 @@
-{"slug": "2026-03-06-nation-starlink-cleared-for-takeoff", "studies": {"internationalbandwidth": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Satellite ISP licence; no fibre route stated."}}}}}
+{
+ "slug": "2026-03-06-nation-starlink-cleared-for-takeoff",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about a Starlink ISP licence, not a weather service's satellite data."
+    }
+   }
+  }
+ }
+}

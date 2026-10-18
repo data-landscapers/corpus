@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,localai,build,underway,"ATDI, IP and Huawei Technologies Mozambique signed an MoU that provides for creating Portuguese-language AI models adapted to Mozambique, per ATDI's own note.",2026-04-23,day,Portuguese-language models under ATDI-Huawei MoU,localai,2026-04-23-moz-mznews-atdi-huawei-ai-mou,https://mznews.co.mz/en/atdi-e-huawei-firmam-parceria-estrategica-para-acelerar-a-inteligencia-artificial-em-mocambique/

@@ -1,0 +1,12 @@
+{"slug": "2024-03-04-moz-aics-govnet-plus-encerramento-formacao-tic", "studies": {
+"civilserviceskills": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "At the GovNet Plus closing ceremony INAGE reported that 1,352 state administration employees received ICT training, covering office applications, email, internet and cybersecurity, in a project funded by Italy's AICS.", "as_of": "2024-03-04", "date_precision": "day", "system": "GovNet Plus", "class": "csskills"}],
+"systems": [{"system": "GovNet Plus", "country_label": "Mozambique", "class": "csskills", "platform": "", "owner": "INAGE", "tiers": "district administrations"}], "note": ""}}},
+"digitalskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only civil-servant ICT training is stated; nothing on a programme for the public or a measured share."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "GOVNET is a government network, not an online service for citizens; no service is stated."}}},
+"localgov": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "connection", "aspect": "connected", "value": "institutional", "fact": "INAGE said 88 institutions were connected to the GOVNET government network in 32 districts under the Italian-funded GovNet Plus project, which extended connectivity to district level by wireless antenna links.", "as_of": "2024-03-04", "date_precision": "day", "system": "GOVNET", "class": "connection"},
+{"sub_indicator": "connection", "aspect": "authorities", "value": "count:32", "fact": "INAGE said GovNet Plus connected 88 institutions to GOVNET in 32 districts, and the minister said the platform is present in 963 public institutions across 141 districts.", "as_of": "2024-03-04", "date_precision": "day", "system": "GOVNET", "class": "connection"}],
+"systems": [{"system": "GOVNET", "country_label": "Mozambique", "class": "connection", "platform": "wireless antenna links", "owner": "INAGE", "tiers": "district"}], "note": ""}}},
+"schoolinternet": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on schools or the secondary curriculum."}}}
+}}

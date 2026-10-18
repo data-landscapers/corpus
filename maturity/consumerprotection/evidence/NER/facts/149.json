@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "none",
+   "fact": "UNCDF states Niger's consumer protection texts need updating because they do not cover digital finance, and that practically no legal recourse exists for consumers of digital financial services.",
+   "as_of": "2024-01-08",
+   "date_precision": "day",
+   "system": "Niger consumer protection texts",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Observatoire de la Qualité des Services Financiers (OQSF-NE)",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Niger",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

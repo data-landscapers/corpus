@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-18-dza-lnr-merad-registre-national-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Interior Ministry says the Registre national de l'Etat civil is in use, with access to its data giving nearly 111 million consultations in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Registre national de l'Etat civil",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The Interior Ministry says 23 ministries and public bodies drew on Registre national de l'Etat civil data in 2023, nearly 111 million consultations.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Registre national de l'Etat civil",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de l'Etat civil",
+   "country_label": "Algeria",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

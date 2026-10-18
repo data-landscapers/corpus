@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-06-dji-lanation-centre-services-citoyens",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The government inaugurated a Citizen Services Centre in Djibouti city that gives access to digital services through the e-administration platform www.egouv.dj.",
+   "as_of": "2023-08-03",
+   "date_precision": "day",
+   "system": "egouv.dj",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "egouv.dj",
+   "country_label": "Djibouti",
+   "class": "eservices",
+   "platform": "www.egouv.dj",
+   "owner": "Government of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

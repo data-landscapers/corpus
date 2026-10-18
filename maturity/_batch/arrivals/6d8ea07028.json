@@ -1,0 +1,136 @@
+{
+ "slug": "2024-02-05-bwa-dailynews-burs-ebilling-single-window",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Finance minister Peggy Serame said BURS continues to optimise e-services including online customs declarations.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "BURS online customs declarations",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "Serame said BURS's Systems Connectivity and Data Exchange programme with Zambia, for customs and tax data, was completed in May 2023.",
+       "as_of": "2023-05",
+       "date_precision": "month",
+       "system": "BURS-ZRA Systems Connectivity and Data Exchange",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Single Window",
+       "country_label": "Botswana",
+       "class": "customs",
+       "platform": "",
+       "owner": "BURS",
+       "tiers": "implementation commenced, expected December 2027"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Finance minister Peggy Serame listed online tax filing and electronic payment among BURS e-services in operation.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "BURS e-services",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

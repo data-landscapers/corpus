@@ -1,0 +1,17 @@
+{
+ "slug": "2017-07-01-gnb-unhcr-guinea-bissau-factsheet-july-2017",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "A June 2017 UNHCR verification exercise in 11 villages registered 2,860 Senegalese refugees (1,710 newly) and gave them refugee ID cards, and over 300 refugee children received birth certificates.",
+   "as_of": "2017-06",
+   "date_precision": "month",
+   "system": "refugee ID cards",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

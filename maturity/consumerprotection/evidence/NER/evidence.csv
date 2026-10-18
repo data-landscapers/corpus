@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,protection,rules,none,"UNCDF states Niger's consumer protection texts need updating because they do not cover digital finance, and that practically no legal recourse exists for consumers of digital financial services.",2024-01-08,day,Niger consumer protection texts,protection,2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger,https://www.uncdf.org/fr/article/8603/vers-une-meilleure-protection-des-consommateurs-au-niger

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-09-19-egy-elwatannews-nea-voter-database-national-id",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Egypt's National Elections Authority announced it had officially completed updating the voter database.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "voter database",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The National Elections Authority says voters can check their electoral status through its new mobile app (Google Play, App Store) or its website by entering the 14-digit national number.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "National Elections Authority app and website lookup",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The National Elections Authority says the update included reviewing voter entries and linking them to the national number to prevent duplicates or errors.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "voter database",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Elections Authority voter database",
+   "country_label": "Egypt",
+   "class": "electoral",
+   "platform": "",
+   "owner": "National Elections Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

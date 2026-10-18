@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,taxpayers,register,inservice,"The tax directorate page says a tax identification number is obtained by application at a tax centre, the investment promotion agency or online, with the NIF card ready within 48 hours.",2018-04-10,day,NIF,tax,2018-04-10-mli-dgi-comment-obtenir-nif,https://www.dgi.gouv.ml/comment-obtenir-un-numero-didentification-fiscal-nif/

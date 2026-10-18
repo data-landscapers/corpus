@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,"Somali National Artificial Intelligence Center (SNAIC), Somali National University",Somalia,other,,Somali National University,,2026-07-15-somali-national-university-snaic-launch
+SOM,whisper-som-small,Somalia,localai,Hugging Face; fine-tuned from OpenAI Whisper-small,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release
+SOM,SomNLP-STT-Corpus,Somalia,localai,,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release
+SOM,Natural Language Processing for Somalia,Somalia,localai,,SIMAD AI Institute,,2026-01-09-som-simad-ai-institute-somali-nlp-project

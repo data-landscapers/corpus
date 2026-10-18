@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BFA-001,BFA,landmis,system,underway,"The DGI working paper says SYC@D, launched on 29 December 2021, and SIEBI are not yet deployed on DGI servers, and that eCADASTRE, migrating from SIEBI, is in production works and could be used during 2022.",2022-11-24,day,eCADASTRE,landmis,2022-11-24-bfa-dgi-atelier-modernisation-cadastre,http://www.app.impots.gov.bf/doc/cadgi22/docs/DOC_ATELIER_1_CA-DGI_2022.pdf

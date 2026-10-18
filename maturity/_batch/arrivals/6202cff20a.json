@@ -1,0 +1,83 @@
+{
+ "slug": "2024-10-07-zwe-zimra-notice-75-outstanding-returns-payment",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "ZIMRA Public Notice 75 of 2024 says taxpayers file VAT, PAYE, income, withholding and presumptive tax returns online in its Tax Revenue Management System (TaRMS), which charges penalties automatically and issues tax clearance certificates automatically.",
+       "as_of": "2024-10-07",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaRMS",
+       "country_label": "Tax Revenue Management System",
+       "class": "core",
+       "platform": "",
+       "owner": "Zimbabwe Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers national tax administration only; nothing on local government revenue records."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "ZIMRA Public Notice 75 of 2024 says taxpayers file returns online through the Self-Service Portal and pay VAT, PAYE, income, withholding and presumptive taxes into the ZIMRA bank account by cash deposit or bank transfer from linked bank accounts, posted in TaRMS.",
+       "as_of": "2024-10-07",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ZIMRA Public Notice 75 of 2024 says taxpayers are held in TaRMS under a Taxpayer Identity Number (TIN) that banks validate against payments, with tax clearance certificates issued automatically.",
+       "as_of": "2024-10-07",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

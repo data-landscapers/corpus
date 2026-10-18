@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-13-nga-punch-customs-deploy-ai-revenue",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on rules or authority for AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only customs AI, a sector system, and a training; no general administration AI stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Nigeria Customs Service Comptroller-General Adewale Adeniyi says it has deployed AI-enabled scanners that guide image analysts to predict the nature of imported items.",
+       "as_of": "2026-04-13",
+       "date_precision": "day",
+       "system": "AI-enabled scanning systems",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built or hosted in Nigeria is stated."
+    }
+   }
+  }
+ }
+}

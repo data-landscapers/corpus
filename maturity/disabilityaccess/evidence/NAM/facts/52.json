@@ -1,0 +1,17 @@
+{
+ "slug": "2021-01-01-nam-springer-egov-web-accessibility-visually-impaired",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "audit",
+   "value": "published",
+   "fact": "The chapter reports testing selected Namibian government websites with Lighthouse, WAVE, the W3C validator, ChromeVox and an alt-text tester, finding the automatic tools gave varied and inconclusive results.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Namibian government websites accessibility test",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

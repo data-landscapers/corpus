@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "The French Treasury note says Djibouti has no specific AI policy or regulatory framework yet.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

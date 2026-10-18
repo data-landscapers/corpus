@@ -1,0 +1,52 @@
+{
+ "slug": "2022-01-01-civ-guce-terms-of-use-modules",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "GUCE CI's terms of use say its e-DAU module lets customs agents enter and submit detailed customs declarations through the GUCE platform, partially used since 2016 because operators may also lodge declarations directly with SYDAM.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "e-DAU / SYDAM",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "GUCE CI's terms of use describe GUCE as a transactional single-window web portal where operators meet import, export and transit formalities, with customs clearance modules (e-DAU, e-Risk) alongside technical-ministry pre-clearance modules.",
+       "as_of": "2022-01",
+       "date_precision": "year",
+       "system": "GUCE",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE",
+       "country_label": "Côte d'Ivoire",
+       "class": "customs",
+       "platform": "GUCE web portal",
+       "owner": "GUCE CI",
+       "tiers": "pre-clearance, customs clearance, logistics, finance modules"
+      },
+      {
+       "system": "SYDAM",
+       "country_label": "Côte d'Ivoire",
+       "class": "customs",
+       "platform": "",
+       "owner": "Customs (DGD)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

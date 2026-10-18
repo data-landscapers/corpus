@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-02-zmb-parliament-seasonal-forecast-statement",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "Zambia's Minister of Green Economy and Environment told the National Assembly that the government's investment in meteorological capability includes new high-performance computing facilities and advanced satellite receiving systems.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "advanced satellite receiving systems",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "advanced satellite receiving systems",
+   "country_label": "Zambia",
+   "class": "metsat",
+   "platform": "",
+   "owner": "Zambia Meteorological Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

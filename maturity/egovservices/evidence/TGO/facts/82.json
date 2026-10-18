@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-tgo-togopresse-digitalisation-ministeres-ia",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "On 5 November 2025 Togo launched a digitalisation programme at the energy ministry, with 31 services of five entities under its authority listed as a pilot, to be digitised so citizens can reach them online, per Togo-Presse reporting minister Cina Lawson.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Ministry digitalisation programme (energy ministry pilot)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry digitalisation programme",
+   "country_label": "Togo",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation; Agence Togo Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

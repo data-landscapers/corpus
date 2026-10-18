@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-19-cpv-mf-nosi-ai-financial-accounting-app",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Ministry of Finance says an AI application for financial and accounting management, built by NOSi with SINTAXY to automate NOSi's accounting system and meant for public and private entities, was launched on 19 November 2024.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "AI financial and accounting management application",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi and SINTAXY AI financial and accounting management application",
+   "country_label": "AI financial and accounting app",
+   "class": "govai",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

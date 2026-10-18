@@ -1,0 +1,34 @@
+{
+ "slug": "2023-05-28-eri-fig-recent-developments-cadastral-activities",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Director General of Eritrea's Cadastral Office says it has begun transforming the manual registration system into a digital one except for the spatial part, with digitising old records delayed by equipment procurement.",
+       "as_of": "2023-05",
+       "date_precision": "month",
+       "system": "Cadastral Office registration system",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastral Office registration system",
+       "country_label": "Eritrea",
+       "class": "land",
+       "platform": "",
+       "owner": "Cadastral Office, Ministry of Land, Water and Environment",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

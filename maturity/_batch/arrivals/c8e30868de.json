@@ -1,0 +1,35 @@
+{
+ "slug": "2024-03-04-lbr-lta-qos-regulation-consultation-final-report",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The Liberia Telecommunications Authority says it published its draft QoS Regulations and a consultation notice on the Executive Mansion website on 26 March 2021 for public consultation.",
+       "as_of": "2021-03-26",
+       "date_precision": "day",
+       "system": "LTA QoS regulations consultation",
+       "class": "eparticipation"
+      },
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "published",
+       "value": "published",
+       "fact": "The Liberia Telecommunications Authority issued a final report of 4 March 2024 setting out the inputs received on its draft QoS Regulations and its decision on each.",
+       "as_of": "2024-03-04",
+       "date_precision": "day",
+       "system": "LTA QoS consultation final report",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

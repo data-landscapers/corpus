@@ -1,0 +1,26 @@
+{
+ "slug": "2022-11-10-cod-coref-lancement-sigmap",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "COREF reports the President launched the SIGMAP public procurement management system, developed by the Budget Ministry, on 29 August 2022 and asked government to extend it to all other public entities under the 2010 procurement law.",
+   "as_of": "2022-08-29",
+   "date_precision": "day",
+   "system": "SIGMAP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAP",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Budget with COREF and ARMP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

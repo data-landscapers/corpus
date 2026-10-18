@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,metsat,stream,coverage,inservice,2024-11-06,ZAF-001,,
+ZAF,metsat,warnings,coverage,,,,,nothing held
+ZAF,metsat,certified,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-26-mdg-expression-mfs-africa-mvola-remittances",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MVola, Telma's mobile money service launched in 2010, is in service for bill and merchant payments and peer-to-peer transactions, with over 10 million mobile money accounts in Madagascar.",
+   "as_of": "2023-10-26",
+   "date_precision": "day",
+   "system": "MVola",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Telma Madagascar",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

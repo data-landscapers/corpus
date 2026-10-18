@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,metsat,stream,coverage,inservice,2019-11-04,COM-001,,nothing dated since 2023-10-18
+COM,metsat,warnings,coverage,issued,2019-11-04,COM-002,,nothing dated since 2023-10-18
+COM,metsat,certified,coverage,,,,,nothing held

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-26-egy-egypttoday-cbe-financial-inclusion-74-8-percent",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The Central Bank of Egypt says 74.8 percent of Egyptians aged 15 and above were actively using financial accounts at the close of 2024, up from 70.7 percent in 2023.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CBE financial inclusion rate",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

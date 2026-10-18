@@ -1,0 +1,44 @@
+{
+ "slug": "2023-10-17-tza-dailynews-judiciary-e-cms-start",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Acting Chief Registrar says the Judiciary's Case Management System (JSDS2) has been in place since 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "JSDS2",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Judiciary says the new Electronic Case Management System (e-CMS), now fully built to replace JSDS2, has been in trial in all courts since 2 October 2023, with use to start on 1 November 2023.",
+   "as_of": "2023-10-02",
+   "date_precision": "day",
+   "system": "e-CMS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JSDS2",
+   "country_label": "Tanzania",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Tanzania",
+   "tiers": "national"
+  },
+  {
+   "system": "e-CMS",
+   "country_label": "Tanzania",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Tanzania",
+   "tiers": "all courts"
+  }
+ ],
+ "note": ""
+}

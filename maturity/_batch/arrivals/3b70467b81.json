@@ -1,0 +1,8 @@
+{"slug": "2025-05-23-mar-adii-ia-analyse-risques-douaniers", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Press release on a customs AI project; states nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The only AI named is in customs risk analysis, a sector system, so not general administration."}}},
+"ailaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No law, draft or binding rule on AI is stated."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Morocco's customs administration (ADII), with the World Customs Organization and Swiss SECO, launched a project on 19 May 2025 to integrate AI into customs risk analysis and targeting, and a first technical mission ran 19-23 May 2025 assessing current capacity.", "as_of": "2025-05-19", "date_precision": "day", "system": "AI integration in customs risk analysis and targeting project", "class": "sectorai"}], "systems": [{"system": "AI customs risk analysis and targeting project", "country_label": "Maroc", "class": "sectorai", "platform": "", "owner": "Administration des Douanes et Impôts Indirects", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or AI computing is stated."}}},
+"customs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The release describes an AI risk-targeting project, not a declaration-processing system, single window or data exchange."}}}
+}}

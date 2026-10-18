@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The IDSC policy perspective says different projects are proceeding on the use of AI in different governmental entities, in health, water management, agriculture and Arabic NLP.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

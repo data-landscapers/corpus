@@ -1,0 +1,61 @@
+{
+ "slug": "2024-07-08-zmb-szi-citizens-support-portal-developed",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The chatbot is one feedback channel, not stated as AI in a body's own work; no other AI named."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The portal takes feedback and complaints, not transactions; no service is stated online."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "SMART Zambia Institute says it has developed the Citizens Support Services Portal, taking complaints with a tracking number through portal, SMS, WhatsApp, app and chatbot channels, with the official launch date still to be announced.",
+       "as_of": "2024-07-08",
+       "date_precision": "day",
+       "system": "Citizens Support Services Portal",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Citizens Support Services Portal",
+       "country_label": "Citizens Support Portal",
+       "class": "feedback",
+       "platform": "portal, email, SMS, voice, WhatsApp, Facebook, mobile app, chatbot",
+       "owner": "SMART Zambia Institute (E-Government Division, Office of the President)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The portal is stated developed but not live, so no in-house build gone live is stated."
+    }
+   }
+  }
+ }
+}

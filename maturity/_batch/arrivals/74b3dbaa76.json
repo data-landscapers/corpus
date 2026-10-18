@@ -1,0 +1,34 @@
+{
+ "slug": "2021-10-01-swz-ctcn-uav-satellite-agri-monitoring",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "An RCMRD report for Eswatini's National Disaster Management Agency (CTCN-funded) says crop monitoring pilots combining drones and Sentinel-2 imagery were run at four sites in April 2021, and a satellite-based maize yield model was applied nationally for 2020.",
+       "as_of": "2021-04",
+       "date_precision": "month",
+       "system": "NDMA UAV and satellite crop monitoring pilot",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NDMA UAV and satellite crop monitoring pilot",
+       "country_label": "Eswatini",
+       "class": "agrisat",
+       "platform": "Sentinel-2, MODIS, drones",
+       "owner": "National Disaster Management Agency with RCMRD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

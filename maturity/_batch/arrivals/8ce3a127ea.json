@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-17-mdg-parlement-consultations-publiques-portal",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "The National Assembly's Consultations Publiques portal lists several citizen consultations open to contributions, including the Electoral Code reform (13 February to 13 March 2026) and an environment bill.",
+       "as_of": "2026-10-17",
+       "date_precision": "day",
+       "system": "parlement.mg Consultations Publiques",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Consultations Publiques",
+       "country_label": "MDG",
+       "class": "eparticipation",
+       "platform": "parlement.mg",
+       "owner": "Assemblee nationale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on cuts, punishment or criticism."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed consultations (electoral code, environment, budget) are not digital laws or policies."
+    }
+   }
+  }
+ }
+}

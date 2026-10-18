@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-22-ssd-drf-cybercrimes-bill-ai-provisions",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Digital Rights Frontlines says South Sudan's Cybercrimes and Computer Misuse Bill 2024 aims to address emerging threats from artificial intelligence and carries proposed AI provisions that need clarity on bias prevention and misuse of automated systems.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "Cybercrimes and Computer Misuse Bill 2024",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

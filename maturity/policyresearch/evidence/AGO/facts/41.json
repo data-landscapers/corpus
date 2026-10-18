@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-ago-insutec-desafios-protecao-dados-pessoais",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "An article in the INSUTEC journal, co-authored by an INSUTEC researcher and an Agencia de Protecao de Dados official, analyses legal, technological and institutional challenges of personal data protection in Angola.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "INSUTEC",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INSUTEC",
+   "country_label": "Angola",
+   "class": "research",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

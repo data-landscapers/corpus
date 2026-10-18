@@ -1,0 +1,124 @@
+{
+ "slug": "2024-10-23-lso-lestimes-iec-emis-tender-battle",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "The Independent Electoral Commission issued an open tender in May 2024 for an Electoral Management Information System to register electors, and awarded the contract to Waymark Infotech, which Laxton contests in the High Court; the IEC says the current register dates from 2001.",
+       "as_of": "2024-10-23",
+       "date_precision": "day",
+       "system": "Electoral Management Information System",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electoral Management Information System",
+       "country_label": "Lesotho",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Independent Electoral Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks (its EMIS is the electoral management system)."
+    }
+   }
+  }
+ }
+}

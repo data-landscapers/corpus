@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The French Treasury note says the Djibouti Data Centre, built in 2013 by Wingu, is a neutral data centre next to the cable landing station.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Djibouti Data Centre (DDC)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The French Treasury note says Wingu inaugurated a new Tier 3 data centre at the TO7 technology park in November 2024.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Wingu TO7 data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Data Centre (DDC)",
+   "country_label": "Djibouti Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu",
+   "tiers": ""
+  },
+  {
+   "system": "Wingu TO7 data centre",
+   "country_label": "TO7 technology park data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": ""
+}

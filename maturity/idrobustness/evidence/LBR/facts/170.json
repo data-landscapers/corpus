@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-27-lbr-csa-csa-nir-data-sharing-mou",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document describes the National Identification Registry as holding unique National Identification Numbers and running an e-verification platform, with the 27 May 2024 MoU to issue biometric cards carrying the NIN to civil servants.",
+   "as_of": "2024-05-27",
+   "date_precision": "day",
+   "system": "National Identification Number (NIR)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-12-12-gab-spin-hotspots-wifi-etablissements-scolaires",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Pilot Wi-Fi hotspots in four schools only; a schools-only programme is not a rural access programme."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "SPIN states that the Backbone National Gabonais fibre optic network supports the Wi-Fi hotspots put into service 9-11 December 2024 in schools at Bakoumba, Bongoville and Léconi (Haut-Ogooué) and Oyem (Woleu-Ntem).",
+       "as_of": "2024-12-11",
+       "date_precision": "day",
+       "system": "Backbone National Gabonais",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Backbone National Gabonais (BNG)",
+       "country_label": "Gabon",
+       "class": "backbone",
+       "platform": "fibre optic",
+       "owner": "SPIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of secondary schools with internet and no curriculum statement; four pilot hotspots only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2024-07-24-mli-douanes-interconnexion-systemes-aes",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "An MoU and framework instruction to interconnect AES customs systems were signed; no system in service or exchange is stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs data interconnection only; no digital link or facility named."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs MoU is not a digital law text."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs systems interconnection MoU is not a digital policy agreement as defined."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated by the document for this study."
+    }
+   }
+  }
+ }
+}

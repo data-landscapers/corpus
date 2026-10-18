@@ -1,0 +1,26 @@
+{
+ "slug": "2020-07-03-stp-stppress-digitalizacao-registo-predial",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Justice Minister launched a USD 500,000 World Bank-backed project to digitise and catalogue the land and vehicle registry, with digitisation equipment handed over.",
+   "as_of": "2020-07-03",
+   "date_precision": "day",
+   "system": "Registo predial e automovel digitisation project",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registo predial e automovel digitisation project",
+   "country_label": "Sao Tome and Principe",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Justice (DGRN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

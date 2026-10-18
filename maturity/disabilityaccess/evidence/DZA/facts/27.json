@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-19-dza-mpt-autonomisation-besoins-specifiques",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of Post and Telecommunications says it launched national contests in 2021 and 2022 for software and mobile apps for people with specific needs (sign-language apps in 2022) and gives technical support to the winning projects so they can be offered free.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Concours national de developpement de logiciels et d'applications mobiles pour les personnes a besoins specifiques",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

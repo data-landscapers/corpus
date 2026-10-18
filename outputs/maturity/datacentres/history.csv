@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
 2026-10-17,TGO,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,3,3,TGO-002,Arrivals added TGO-017; stage unchanged.
 2026-10-17,TUN,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,TUN-003;TUN-005,Arrivals added TUN-024; stage unchanged.
+2026-10-18,DJI,infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service,fact,4,4,DJI-017;DJI-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.

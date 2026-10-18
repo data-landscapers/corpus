@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-gin-sgg-avant-projets-commentaires-public",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "standing",
+       "fact": "The Secretariat General of the Government's web page lists draft texts, including the revised labour code bill, with a comment button and counts of comments received (2 and 9 on two drafts).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SGG avant-projets pour commentaires du public",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Avant-projets disponibles pour commentaires du public",
+       "country_label": "GIN",
+       "class": "eparticipation",
+       "platform": "sgg.gov.gn",
+       "owner": "Secretariat General du Gouvernement",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The only named draft, the labour code, is not digital."
+    }
+   }
+  }
+ }
+}

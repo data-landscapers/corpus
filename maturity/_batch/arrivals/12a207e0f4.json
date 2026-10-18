@@ -1,0 +1,11 @@
+{"slug":"2025-03-25-mar-ledesk-conservation-fonciere-paiement-electronique","studies":{
+"businesspayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not about public procurement."}}},
+"centralbank":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No consumer rules or redress stated."}}},
+"crossborderpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No cross-border payment stated."}}},
+"g2ppayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Payments to government, not to people."}}},
+"landregister":{"countries":{"MAR":{"facts":[],"systems":[{"system":"ANCFCC electronic management of property registration (decree 2.18.181)","country_label":"Morocco","class":"land","platform":"","owner":"ANCFCC","tiers":""}],"note":"Document states electronic payment of fees, not that the register is digital or that applications are online."}}},
+"paymentsuptake":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No survey figure stated."}}},
+"retailpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Payment to government for fees, no mobile money or wallet service stated."}}},
+"revenuecollection":{"countries":{"MAR":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Le Desk reports that Morocco's land conservation agency (ANCFCC) accepts electronic payment of property-registration fees for deposit or registration requests from 14 April 2025.","as_of":"2025-04-14","date_precision":"day","system":"ANCFCC electronic payment of registration fees","class":"revenue"}],"systems":[{"system":"ANCFCC electronic payment of registration fees","country_label":"Morocco","class":"revenue","platform":"","owner":"ANCFCC","tiers":""}],"note":""}}}
+}}

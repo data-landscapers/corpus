@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "3",
-   "service": "inservice",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-005;EGY-006",
-   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "3",
+      "service": "inservice",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-005;EGY-006",
+      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2020-06-01-eth-ijcsns-web-accessibility-government-websites",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "audit",
+   "value": "published",
+   "fact": "An academic study in IJCSNS (June 2020) tested 38 Ethiopian federal government homepages against WCAG 2.0 AA with four automated tools and found none met the minimum accessibility conformance, with 3 sites having over 100 errors in the TAW results.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Web accessibility evaluation of Ethiopian federal government websites",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ago-asycuda-operational-launch-asy5",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNCTAD's ASYCUDA Programme reports Angola launched ASY5 operationally on 5 January 2026 in Lobito, with a shipping agent lodging a cargo manifest and a customs broker lodging the first export declaration in the live system.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "ASYCUDA ASY5",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA ASY5",
+   "country_label": "ASY5",
+   "class": "customs",
+   "platform": "ASYCUDA Cloud Framework",
+   "owner": "Angola customs, with UNCTAD ASYCUDA Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

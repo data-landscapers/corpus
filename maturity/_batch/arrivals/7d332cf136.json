@@ -1,0 +1,61 @@
+{
+ "slug": "2024-07-22-lso-rsl-tender-generative-ai-crm",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Revenue Services Lesotho invited proposals for supply and delivery of a generative AI customer relationship management system, closing 9 August 2024.",
+       "as_of": "2024-07-22",
+       "date_precision": "day",
+       "system": "Generative AI CRM",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Generative AI CRM (tender)",
+       "country_label": "Lesotho",
+       "class": "govai",
+       "platform": "",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "A client-service CRM tender; no diagnosis, score or forecast in a sector system is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "A purchase of a supplier's system; no local development stated."
+    }
+   }
+  }
+ }
+}

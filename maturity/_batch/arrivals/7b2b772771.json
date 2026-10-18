@@ -1,0 +1,11 @@
+{"slug":"2024-09-30-zmb-zambiamonitor-energy-crisis-stalls-inris","studies":{
+"authentication":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Summit agenda mentions citizen authentication only as a topic; no service stated."}}},
+"birthidlink":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No link between civil register and ID stated."}}},
+"eparticipation":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"E-participation named only as a summit topic."}}},
+"idcoverage":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Operator or maintainer of the system not stated."}}},
+"idregisters":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"ZMB":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Home Affairs Minister Jack Mwiimbu said the energy crisis is hindering the rollout of the Integrated National Registration Information System (INRIS), particularly in rural areas.","as_of":"2024-09-30","date_precision":"day","system":"Integrated National Registration Information System (INRIS)","class":"idsystem"}],"systems":[{"system":"Integrated National Registration Information System (INRIS)","country_label":"Zambia","class":"idsystem","platform":"","owner":"Ministry of Home Affairs and Internal Security","tiers":""}],"note":""}}},
+"populationregister":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"INRIS is not described as a population register."}}}
+}}

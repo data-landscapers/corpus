@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-19-ago-angop-sncp-plataforma-contratacao",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The SNCP director says public contracting entities publish their procedures and annual plans on the Portal de Compras Públicas, per ANGOP.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Portal de Compras Públicas",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

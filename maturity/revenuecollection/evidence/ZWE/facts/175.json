@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-01-zwe-zimra-tarms-single-account-payments",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "ZIMRA says it is introducing TaRMS for domestic taxes, under which taxpayers pay by bank transfer or deposit into a ZIMRA single account at their chosen bank, validated by the bank through its integration with TaRMS; customs payments stay on the old platform.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "TaRMS (ZIMRA Single Account)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe",
+   "class": "revenue",
+   "platform": "",
+   "owner": "ZIMRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

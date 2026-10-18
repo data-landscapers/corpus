@@ -1,0 +1,34 @@
+{
+ "slug": "2020-01-01-mwi-macra-universal-service-consultations",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Malawi's MACRA proposed a Connectivity for Persons with Disability Project under the Universal Service Fund for 2020/21, to promote internet access and use of assistive technologies, and called for stakeholder input by 28 August 2020.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Connectivity for Persons with Disability Project",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Connectivity for Persons with Disability Project",
+       "country_label": "Malawi",
+       "class": "accessibility",
+       "platform": "",
+       "owner": "Malawi Communications Regulatory Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

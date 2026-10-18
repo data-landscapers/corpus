@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-04-mrt-worldbank-saspp-country-work-mauritania",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank says Mauritania's social registry, updated and expanded with project support, included more than 305,000 of the poorest households as of November 2024, above its 200,000 objective.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Registre social",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social",
+   "country_label": "Mauritania",
+   "class": "social",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  },
+  {
+   "system": "Tekavoul",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

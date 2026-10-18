@@ -1,0 +1,25 @@
+{
+ "slug": "2023-05-01-som-heritage-digital-id-report",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "The Heritage Institute for Policy Studies published in May 2023 'Digital ID: Prospects and Challenges for Somalia', an interview- and document-based study finding legal and infrastructure readiness inadequate.",
+       "as_of": "2023-05",
+       "date_precision": "month",
+       "system": "Heritage Institute for Policy Studies",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

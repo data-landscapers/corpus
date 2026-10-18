@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-zaf-dpsa-digital-skills-microsoft-nsg-agreement",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Department of Public Service and Administration reports that the National School of Government and Microsoft South Africa signed a memorandum of agreement aiming to train 100,000 public servants in digital literacy, AI and cybersecurity on NSG Learner Management Platforms.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Microsoft-NSG memorandum of agreement",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSG Learner Management Platforms",
+   "country_label": "South Africa",
+   "class": "csskills",
+   "platform": "NSG Learner Management Platforms",
+   "owner": "National School of Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

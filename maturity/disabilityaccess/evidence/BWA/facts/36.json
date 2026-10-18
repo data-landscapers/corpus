@@ -1,0 +1,17 @@
+{
+ "slug": "2023-06-18-bwa-dailynews-assistive-tech-schools",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Assistant Minister Mabuse Pule said the government had provided special needs learners with assistive technologies including braille note takers, text magnifiers and auto acoustic devices for hearing impairment testing.",
+   "as_of": "2023-06-18",
+   "date_precision": "day",
+   "system": "assistive technologies for special needs learners",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

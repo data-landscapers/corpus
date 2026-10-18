@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,taxsystem,filing,coverage,inservice,2026-09-01,SEN-001;SEN-004;SEN-007,,
+SEN,taxsystem,payment,coverage,electronic,2026-09-01,SEN-002;SEN-005;SEN-008,,
+SEN,taxsystem,uptake,coverage,most,2026-10-01,SEN-003;SEN-006;SEN-009,,

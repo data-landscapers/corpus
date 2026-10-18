@@ -1,0 +1,59 @@
+{
+ "slug": "2025-07-17-moz-intic-ia-onde-estamos",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no government body using AI."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Legislation on AI is only a stated priority, no draft named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "AI uses in health and agriculture are named without saying a public system runs them."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A national AI strategy is only a stated priority, no drafting begun."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "MozGPT is a customised ChatGPT, no local build, compute or dataset stated."
+    }
+   }
+  }
+ }
+}

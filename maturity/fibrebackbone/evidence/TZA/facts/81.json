@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-28-tza-tanzaniainvest-president-samia-performance-speech",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "President Samia said the National ICT Backbone expanded from 8,319 km to 13,820 km, connecting 109 districts.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "National ICT Backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Backbone",
+   "country_label": "Tanzania",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

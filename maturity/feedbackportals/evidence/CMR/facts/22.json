@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-25-cmr-digitalbusiness-minfopra-portail-services",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The MINFOPRA minister said users' concerns are handled by phone and WhatsApp through green number 1522, and announced plans to interact with users through a chat or forum, with no case counts given.",
+   "as_of": "2022-06-23",
+   "date_precision": "day",
+   "system": "MINFOPRA Call Center 1522",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MINFOPRA Call Center 1522",
+   "country_label": "Cameroun",
+   "class": "feedback",
+   "platform": "phone, WhatsApp",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

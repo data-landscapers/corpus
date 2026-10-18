@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,taxsystem,filing,coverage,inservice,2025,RWA-001,,
+RWA,taxsystem,payment,coverage,electronic,2025,RWA-002,,
+RWA,taxsystem,uptake,coverage,,,,,nothing held

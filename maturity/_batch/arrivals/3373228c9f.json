@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-22-som-moct-website-development-training-molsa",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Communications and Technology inaugurated a website development and design training for employees of the Ministry of Labour and Social Affairs.",
+       "as_of": "2024-06-22",
+       "date_precision": "day",
+       "system": "Website development training program",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Website development training program",
+       "country_label": "Somalia",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of Communications and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

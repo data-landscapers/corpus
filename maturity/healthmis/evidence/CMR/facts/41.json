@@ -1,0 +1,54 @@
+{
+ "slug": "2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Cameroon's Ministry of Public Health annual bulletin reports 2022 weekly reports from health facilities across the country's regions and districts received in the DHIS2, with 83.7% of health districts meeting the 90% completeness norm.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The Ministry of Public Health bulletin gives cumulative 2022 DHIS2 completeness of facility reports as 86.25% and timeliness as 76.6%, against 77.37% and 62.1% in 2021 (DHIS2 extract of 16 January 2023).",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The bulletin's event-based surveillance table reports 94.0% of detected signals integrated into the DHIS2 in 2022, tying disease surveillance signals to the DHIS2.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Cameroun",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministere de la Sante Publique",
+   "tiers": "facilities, districts, regions, national"
+  },
+  {
+   "system": "EWARS",
+   "country_label": "Cameroun",
+   "class": "other",
+   "platform": "EWARS",
+   "owner": "Ministere de la Sante Publique",
+   "tiers": "districts"
+  }
+ ],
+ "note": ""
+}

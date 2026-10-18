@@ -158,6 +158,7 @@ DZA,Information Systems Security Agency (ASSI),Algeria,response,,Ministry of Nat
 DZA,National Council for Information Systems Security,Algeria,other,,Presidency,,2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews
 DZA,National Authority for the Prevention and Combating of ICT-Related Crimes,Algeria,other,,,,2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews
 DZA,CERIST,Centre de Recherche sur l'Information Scientifique et Technique,other,,state research centre,,2025-11-01-algeria-russia-cybersecurity-mou-elmoudjahid
+DZA,Agence de la securite des systemes d'information (ASSI),ASSI,response,,,,2025-04-27-dza-maghrebinfo-saadaoui-transformation-numerique
 EGY,EG-CERT (Egyptian Computer Emergency Readiness Team),Egypt,response,,NTRA,,2024-09-18-tra-egypt-tier1-itu-cybersecurity-index
 EGY,National Cybersecurity Strategy 2023-2027,Egypt,response,,,,2024-09-18-tra-egypt-tier1-itu-cybersecurity-index
 EGY,Supreme Cybersecurity Council,Egypt,response,,Egypt,,2026-09-27-egy-technotime-cybersecurity-digital-sovereignty-arab-security-conference
@@ -188,6 +189,7 @@ ETH,Information Network Security Administration (INSA),Ethiopia,response,,Govern
 ETH,Information Network Security Administration (INSA),Ethiopia,other,,Government of Ethiopia,,2025-12-01-eth-nbe-national-digital-payments-strategy-2026-2030-draft
 ETH,Information Network Security Administration (INSA),INSA,other,,,,2026-04-24-eth-insa-cybersecurity-standards-approved
 ETH,Ethio-CERT,Ethio-CERT,response,,INSA,,2026-10-15-ethiopia-launches-seventh-national-cybersecurity-month-to-strengthen-d
+ETH,Cybersecurity Policy,Ethiopia,response,,Council of Ministers,,2024-06-28-eth-ethiopianmonitor-council-approves-ai-policy
 GAB,ANINF,Gabon,other,,Gabon government,,2026-10-08-gabon-cybersecurite-attaques-ia-kaspersky-libreville
 GAB,CSIRT (Computer Attack Warning and Response Centre),Gabon CSIRT,response,,,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
 GAB,ANINF,Agence nationale des infrastructures numériques et des fréquences,response,,Gabon,,2026-09-10-gab-gabonreview-aninf-alertes-polemique-clarification
@@ -363,6 +365,7 @@ NAM,Namibia national CIRT,Namibia national CIRT,response,,,,2018-09-13-sadc-medi
 NAM,Namibia Cybersecurity Incident Response Team (Nam-CSIRT),Namibia,response,,CRAN,,2025-10-03-namibia-nsfaf-data-breach-calls-data-protection-law
 NAM,NAM-CSIRT,Namibia,response,,Communications Regulatory Authority of Namibia (CRAN),,2025-08-07-cran-integrated-annual-report-2025
 NAM,NAM-CSIRT,Namibia,response,,Communications Regulatory Authority of Namibia (CRAN),,2025-07-24-nam-csirt-cybersecurity-bi-annual-statistics-report-2025
+NAM,Nam-CSIRT,Namibia Cybersecurity Incident Response Team,response,,,,2025-08-01-nam-newera-ndp6-national-data-centre
 NER,"centre national de cyber-sécurité (CNAC), with a Security Operations Centre and a CERT",Centre national de cyber-sécurité (CNAC),response,,Ministry of Communication and New Information Technologies,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
 NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,State,,2025-07-25-africacert-handshake-symposium-niamey-lesahel
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
@@ -449,6 +452,7 @@ STP,CERT-STP (Centro Nacional de Resposta a Incidentes de Cibersegurança),STP,r
 STP,Comité Nacional de Cibersegurança,STP,other,,to be set by Council of Ministers resolution,,2023-12-15-stp-estrategia-nacional-ciberseguranca-texto-integral
 STP,CSIRT (Computer Security Incident Response Team),STP,response,,STP Digital project (World Bank),,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
 STP,CSIRT (Computer Security Incident Response Team),STP,response,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Estratégia Nacional de Cibersegurança (2024–2029),Estratégia Nacional de Cibersegurança (2024–2029),response,,,,2025-11-01-stp-ager-itu-conectividade-universal-significativa
 SWZ,ESCCOM Cybersecurity Agency (National Cybersecurity Agency),ESCCOM Cybersecurity Agency,response,IRIS (proof of concept),Eswatini Communications Commission,national,2026-10-08-swz-escom-national-cyber-drill-eswatini-cyber-resilience
 SWZ,National Cyber Incident Response Team,National Cyber Incident Response Team,response,,,national,2026-10-01-independentnews-minister-savannah-launches-cybersecurity-awareness-month
 SWZ,National Cybersecurity Strategy,National Cybersecurity Strategy,other,,Ministry of ICT,"review begun 2026-10-01, adoption not stated",2026-10-01-independentnews-minister-savannah-launches-cybersecurity-awareness-month
@@ -531,6 +535,7 @@ ZMB,Zambia Cyber Security Agency (ZCSA),Zambia Cyber Security Agency (ZCSA),resp
 ZMB,Zambia Cyber Security Agency,Zambia,response,,Office of the President,national,2025-04-15-zambia-cyber-security-act-no-3-of-2025
 ZMB,Zambia Cyber Incident Response Team,Zambia,response,,Zambia Cyber Security Agency,national,2025-04-15-zambia-cyber-security-act-no-3-of-2025
 ZMB,Sectoral cyber incident response teams,Zambia,other,,"sector institutions, overseen by the Agency",sector,2025-04-15-zambia-cyber-security-act-no-3-of-2025
+ZMB,Zambia Cyber Security Agency,ZCSA,response,,Government of Zambia,,2026-05-08-zmb-zambia24-zcsa-ai-content-advisory
 ZWE,National CIRT (ITU project 9ZIM17008),Zimbabwe national CIRT at POTRAZ,response,,POTRAZ,,2026-08-08-itu-project-9zim17008-zimbabwe-national-cirt-establishment
 ZWE,National Cybersecurity Authority of Zimbabwe (proposed),National Cybersecurity Authority,response,,Ministry of ICT,,2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising
 ZWE,"National Cyber Incident Response Team (CIRT), to be operationalised within 12 months",National CIRT,response,,,,2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising

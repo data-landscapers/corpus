@@ -1,1 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,MESSIR SAT,Cabo Verde,metsat,EUMETSAT Meteosat MSG reception at Ilha do Sal,INMG,,2023-12-01-cpv-knmi-inmg-country-hydromet-diagnostics
+CPV,PUMA,Cabo Verde,metsat,EUMETSAT data reception,INMG,,2023-12-01-cpv-knmi-inmg-country-hydromet-diagnostics

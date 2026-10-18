@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,KWENDA,Angola,g2p,"partner bank accounts, ATMs and branches",FAS - Instituto de Desenvolvimento Local,,2025-01-11-ago-fas-kwenda-transferencia-contas-cabinda
+AGO,Kwenda,Programa Kwenda,g2p,"electronic card, mobile money",FAS,,2023-08-16-ago-angop-kwenda-44-mil-millones-modalidades

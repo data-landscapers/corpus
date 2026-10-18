@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-17-sdn-sudanhorizon-e-procurement-design-complete",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister of State at Finance Mohamed Nour Abdel-Daim announced on 17 March 2026 that design of the national electronic procurement system, including a government tender platform, is complete and preparations are underway to launch it.",
+   "as_of": "2026-03-17",
+   "date_precision": "day",
+   "system": "national electronic procurement system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National electronic procurement system",
+   "country_label": "Sudan",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

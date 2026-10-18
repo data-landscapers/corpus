@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "3",
-   "service": "sale",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-002",
-   "gaps": "No source held says services on two different satellite networks are on sale.",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "3",
+      "service": "sale",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-002",
+      "gaps": "No source held says services on two different satellite networks are on sale.",
+      "note": "Counted from the four questions by study-ladder-satellitebroadband.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

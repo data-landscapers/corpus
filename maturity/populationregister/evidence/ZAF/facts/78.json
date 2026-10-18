@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-14-zaf-pmg-nw7076-population-register-measures",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs's reply treats the National Population Register as the current register, with registered South Africans put by the questioner at around 80%.",
+   "as_of": "2025-12-14",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Home Affairs says it is designing and developing a new Intelligent National Population Register to replace the current one, supported by a multi-modal ABIS.",
+   "as_of": "2025-12-14",
+   "date_precision": "day",
+   "system": "Intelligent National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

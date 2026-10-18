@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COG-001,COG,metsat,stream,inservice,"A PUMA receiving station for Meteosat Second Generation data, installed at Maya-Maya international airport, Brazzaville, was inaugurated by Prime Minister Isidore Mvouba at the opening of the 6th EUMETSAT User Forum in Africa, per EUMETSAT's report.",2004-09-27,day,PUMA receiving station,metsat,2004-01-01-cog-eumetsat-6th-user-forum-africa-brazzaville-puma,https://www-cdn.eumetsat.int/files/2020-04/pdf_conf_6auf_report_en.pdf

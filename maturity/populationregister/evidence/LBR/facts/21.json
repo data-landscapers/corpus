@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-lbr-liberiapublicradio-senate-review-52m-digital-id-concession",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Liberia's Senate sent to committee President Boakai's proposed US$52 million concession with OeSD International GmbH for a National Identification Central Digital Civil Registry and Vital Statistics System, to hold a single national database of identity records, ahead of a ratification vote.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "NIDCRVS",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDCRVS",
+   "country_label": "Liberia",
+   "class": "population",
+   "platform": "",
+   "owner": "Government of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

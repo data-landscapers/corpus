@@ -1,0 +1,26 @@
+{
+ "slug": "2022-07-29-bwa-mmegi-parly-launches-bwspeaks",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Mmegi reports Parliament launched BW Speaks, an online platform for citizens to voice issues to MPs and be responded to, on 28 July 2022.",
+   "as_of": "2022-07-28",
+   "date_precision": "day",
+   "system": "BW Speaks",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BW Speaks",
+   "country_label": "Botswana",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Parliament of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

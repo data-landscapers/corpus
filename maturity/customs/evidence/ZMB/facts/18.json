@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-23-zmb-wco-integrity-customs-modernization",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Zambia Revenue Authority says it deployed ASYCUDA World and integrated an air cargo module in November 2023, enabling automated declaration and clearance of air cargo, in use since 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Zambia Revenue Authority says the Zambian Electronic Single Window has an enhanced e-bond module and the 2025 BMTF Act mandates electronic information exchange among all participating agencies through it.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Zambia Electronic Single Window (ZESW)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "Zambia",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Zambia Electronic Single Window (ZESW)",
+   "country_label": "Zambia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

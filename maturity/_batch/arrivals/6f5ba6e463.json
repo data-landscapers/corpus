@@ -1,0 +1,25 @@
+{
+ "slug": "2023-04-05-gnq-identic-annobon-internet-alta-velocidad",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "IDENTIC News reports that GITGE, the state telecom infrastructure manager, connected the island province of Annobon to the national fibre-optic network by submarine cable from Sao Tome, announced 3 April 2023.",
+       "as_of": "2023-04-03",
+       "date_precision": "day",
+       "system": "National fibre-optic network (GITGE)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LSO,Voter Registration Management System,LSO,electoral,outsourced software; IEC holds no source key,Independent Electoral Commission,,2024-01-01-lso-undp-voter-registration-roundtable
+LSO,Electoral Management Information System,Lesotho,electoral,,Independent Electoral Commission,,2024-10-23-lso-lestimes-iec-emis-tender-battle
+LSO,IEC online voter registration portal,Lesotho,electoral,IEC website,Independent Electoral Commission,,2024-10-16-lso-publiceye-iec-re-registration-national-id
+LSO,Mobile Registration Unit,Lesotho,electoral,,Independent Electoral Commission,,2024-01-01-lso-comsec-cog-report-lesotho-general-elections-2022

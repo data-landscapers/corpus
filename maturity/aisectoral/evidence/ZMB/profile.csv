@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,sectorai,use,coverage,underway,2026-03-09,ZMB-001,,
+ZMB,sectorai,use,coverage,inservice,2024-06,ZMB-003,ZMB-002=underway;ZMB-001=underway,
 ZMB,sectorai,sectors,coverage,,,,,nothing held
-ZMB,sectorai,results,coverage,,,,,nothing held
+ZMB,sectorai,results,coverage,reported,2024-06-18,ZMB-004,,

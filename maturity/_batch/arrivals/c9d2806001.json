@@ -1,0 +1,44 @@
+{
+ "slug": "2023-05-11-lbr-fpa-citizens-feedback-mechanism-rollout",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "FrontPageAfrica reports IDAD, with UNDP funding, began a ten-county awareness rollout of the Citizens Feedback Mechanism, a national SMS (short code 2424) and web platform for citizens to report on public service delivery; no case numbers are given.",
+       "as_of": "2023-05-11",
+       "date_precision": "day",
+       "system": "Citizens Feedback Mechanism",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The article describes the Citizens Feedback Mechanism as a national platform through which citizens' messages are channelled to the concerned Ministries, Agencies or Commissions.",
+       "as_of": "2023-05-11",
+       "date_precision": "day",
+       "system": "Citizens Feedback Mechanism",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Citizens Feedback Mechanism",
+       "country_label": "Liberia",
+       "class": "feedback",
+       "platform": "SMS short code 2424 and web portal",
+       "owner": "Government of Liberia",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

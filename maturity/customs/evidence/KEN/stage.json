@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "no evidence",
-   "system": "",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how customs declarations are processed.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "5",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "exchange",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-005",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

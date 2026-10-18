@@ -1,0 +1,15 @@
+{"slug": "2025-01-11-ago-fas-kwenda-transferencia-contas-cabinda", "studies": {
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "FAS, the Kwenda programme's implementer, says that from 10 January 2025 Kwenda social cash transfers were paid directly into 91 Cabinda households' personal bank accounts, collected at ATMs and partner bank branches.", "as_of": "2025-01-10", "date_precision": "day", "system": "KWENDA", "class": "g2p"}
+], "systems": [{"system": "KWENDA", "country_label": "Angola", "class": "g2p", "platform": "partner bank accounts, ATMs and branches", "owner": "FAS - Instituto de Desenvolvimento Local", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on local government office connection."}}},
+"paymentslaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on a payments law or e-money rules."}}},
+"paymentsuptake": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document gives no survey figure on adults with an account."}}},
+"retailpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only a government-to-people payment is described, which is not retail payments."}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on revenue collection."}}},
+"socialprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document names no management information system; it describes only payment of transfers."}}}
+}}

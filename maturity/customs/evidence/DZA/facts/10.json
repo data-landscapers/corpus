@@ -1,0 +1,26 @@
+{
+ "slug": "2023-07-06-dza-cupia-alces-launch",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "CUPIA says it launched ALCES, an automated customs clearance system based on Korea's UNI-PASS, in major customs centres including the Port of Algiers and Algiers airport.",
+   "as_of": "2023-07-06",
+   "date_precision": "day",
+   "system": "ALCES",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ALCES",
+   "country_label": "Algeria",
+   "class": "customs",
+   "platform": "UNI-PASS",
+   "owner": "Algerian Customs",
+   "tiers": ""
+  }
+ ],
+ "note": "Single window is described as underway, targeted March 2024; not in service."
+}

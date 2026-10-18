@@ -1,0 +1,52 @@
+{
+ "slug": "2024-05-10-gmb-thepoint-gppa-egp-regulations-validation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only draft e-GP regulations and consultancies are described; no e-procurement system is said to be procured, built or in service."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on citizen or business government services online."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on international standards."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Gambia Public Procurement Authority held an external stakeholder validation of the draft e-Government Procurement Regulations on 9 May 2024; its director general says the draft was consulted on with public and private stakeholders.",
+       "as_of": "2024-05-09",
+       "date_precision": "day",
+       "system": "e-GP Regulations validation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

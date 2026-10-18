@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-gin-guineegouv-guinee-connect-portail",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Guinée Connect",
+   "country_label": "Guinée Connect",
+   "class": "other",
+   "platform": "app",
+   "owner": "Government of Guinea",
+   "tiers": "national"
+  }
+ ],
+ "note": "Guinée Connect takes questions to ministers and consultations, not complaints about public services."
+}

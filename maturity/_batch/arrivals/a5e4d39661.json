@@ -1,0 +1,14 @@
+{"slug":"2023-12-03-mus-bizweek-financial-inclusion-bank-accounts","studies":{
+"businesspayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Only says the Bank of Mauritius has a separate National Payments law to regulate and oversee payment practices; no licensing, switch or regional link stated."}}},
+"consumerprotection":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No consumer-protection rule for digital finance stated."}}},
+"crossborderpayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No cross-border channel stated."}}},
+"dataprotectionlaw":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Mentions a data protection officers forum only; no law stated."}}},
+"dataprotectionreadiness":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No data protection law, authority or practice stated."}}},
+"g2ppayments":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"MUS":{"facts":[{"sub_indicator":"uptake","aspect":"share","value":"half","fact":"The 2021 COMESA report, cited by the article, puts bank account holding among Mauritian adults at 90% nationally and mobile account holding at 6%.","as_of":"2021","date_precision":"year","system":"COMESA special report on financial inclusion 2021","class":"survey"}],"systems":[],"note":""}}},
+"retailpayments":{"countries":{"MUS":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The article, citing the 2021 COMESA report, states mobile account holding in Mauritius is at 6% of adults, so mobile accounts are in use.","as_of":"2021","date_precision":"year","system":"mobile accounts","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No electronic tax or fee payment stated."}}},
+"startups":{"countries":{"MUS":{"facts":[],"systems":[],"note":"Only FSC fintech regulations (crowdfunding, peer-to-peer lending) named; no startup law, strategy or fund."}}},
+"techhubs":{"countries":{"MUS":{"facts":[],"systems":[],"note":"No hub or park stated."}}}
+}}

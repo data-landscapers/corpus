@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-bwa-cipa-beneficial-ownership",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "CIPA states all registered companies must give it beneficial ownership information under the Companies (Amendment) Act 2018, and that it is to maintain the register; filing was extended from 16 March to 30 September 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CIPA beneficial ownership register",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

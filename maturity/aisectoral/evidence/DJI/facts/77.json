@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-06-dji-lanation-forum-ia-strategie-2026-2030",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CorridorVision",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Port Corridor Road (DPCR)",
+   "tiers": ""
+  }
+ ],
+ "note": "CorridorVision monitors road infrastructure under a corridor operator; no public sector system is stated."
+}

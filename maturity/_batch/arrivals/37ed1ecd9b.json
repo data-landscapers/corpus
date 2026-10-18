@@ -1,0 +1,205 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a data sharing API but does not say it authenticates identity."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "NIDA says the Jamii Number is issued once in a lifetime and deactivated at death, with a CRVS-ID data sharing API fully operational.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Jamii Number",
+       "class": "crvslink"
+      },
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "NIDA says the NIDA-RITA merger announced in 2023 is to be completed from 2026.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "NIDA-RITA merger",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The deck gives Tanzania's population as 61.7 million from the 2022 census.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Census 2022",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "NIDA says eRITA issues a birth certificate in 48 hours, with online applications and digitized records, and 9.4 million under-5s registered.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "eRITA",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that data protection laws came after the systems; no law is named."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The 87% (27.1 million) is of adults 18 and over, not the whole population."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "none",
+       "fact": "NIDA says the national ID is issued only from age 18, leaving children without an identity number for nearly two decades.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "National ID (NIN)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on who operates, maintains or owns the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names services drawing on the ID API but no public register keyed on the number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIDA says it issues national IDs to citizens, legal residents and refugees, with the NIN issued within 72 hours and 27.1 million adults covered.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "National ID (NIN)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 70.2% internet penetration without saying it is a share of people who use the internet."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 113% mobile penetration, a subscription count."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register named."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists refugees among those NIDA issues IDs to, with no number stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Does not say births or deaths are entered digitally at the local registration office."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2021-03-09-ben-acotonou-tribunal-commerce-cotonou-plateforme",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "La Nation reports that on 8 March 2021 the Cotonou commercial court launched a platform on which lawyers and bailiffs enrol cases and pay fees online.",
+   "as_of": "2021-03-08",
+   "date_precision": "day",
+   "system": "Tribunal de commerce de Cotonou platform",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "La Nation reports the Cotonou commercial court platform lets the public check a case's status online and the site lets users download court decisions.",
+   "as_of": "2021-03-08",
+   "date_precision": "day",
+   "system": "Tribunal de commerce de Cotonou platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tribunal de commerce de Cotonou platform",
+   "country_label": "Benin",
+   "class": "justice",
+   "platform": "web (tribunalcommercecotonou.bj)",
+   "owner": "Tribunal de commerce de Cotonou",
+   "tiers": "commercial court"
+  }
+ ],
+ "note": ""
+}

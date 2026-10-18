@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-30-moz-dhis2-chap-malaria-forecast-pilots",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "HISP UiO says that in early 2024 Mozambique had two climate-based malaria forecasting efforts, a Ministry of Health and CHAI early-warning dashboard pilot in DHIS2 and the national public health institute's models run manually, neither yet in routine use.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Malaria early-warning dashboard pilot",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malaria early-warning dashboard pilot",
+       "country_label": "early-warning dashboard",
+       "class": "sectorai",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health with Saudigitus and CHAI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

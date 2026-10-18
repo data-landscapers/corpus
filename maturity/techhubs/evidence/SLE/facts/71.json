@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-01-sle-farmerline-mocti-mou-krio-language-model",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Farmerline says the government has launched the Modern Tech City project, aimed at fostering innovation and providing an environment for startups and tech entrepreneurs.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Modern Tech City",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

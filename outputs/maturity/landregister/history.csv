@@ -3,3 +3,25 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,ETH,dpi.registry--land-register-land-register,fact,5,5,ETH-002,Arrivals added ETH-005; stage unchanged.
 2026-10-17,TGO,dpi.registry--land-register-land-register,fact,2,5,TGO-002,Arrivals added TGO-002; stage 2 -> 5.
 2026-10-17,TUN,dpi.registry--land-register-land-register,fact,2,3,TUN-004,Arrivals added TUN-004; stage 2 -> 3.
+2026-10-18,AGO,dpi.registry--land-register-land-register,fact,4,4,AGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BDI,dpi.registry--land-register-land-register,fact,3,3,BDI-002;BDI-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,dpi.registry--land-register-land-register,fact,unplaced,5,CIV-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,CMR,dpi.registry--land-register-land-register,fact,2,2,CMR-004;CMR-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.registry--land-register-land-register,fact,2,2,CPV-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.registry--land-register-land-register,fact,2,5,DZA-005,Stage 4c: 5 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,dpi.registry--land-register-land-register,review,no evidence,3,EGY-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ERI,dpi.registry--land-register-land-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,dpi.registry--land-register-land-register,fact,2,2,GAB-003;GAB-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBY,dpi.registry--land-register-land-register,fact,no evidence,2,LBY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LSO,dpi.registry--land-register-land-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,dpi.registry--land-register-land-register,fact,unplaced,5,MAR-008,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 3 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.registry--land-register-land-register,fact,no evidence,2,MDG-002;MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MOZ,dpi.registry--land-register-land-register,review,no evidence,5,MOZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.registry--land-register-land-register,fact,3,3,MRT-005;MRT-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,dpi.registry--land-register-land-register,fact,no evidence,3,NAM-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NER,dpi.registry--land-register-land-register,fact,2,2,NER-004;NER-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,STP,dpi.registry--land-register-land-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.registry--land-register-land-register,fact,5,5,TGO-002;TGO-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,TUN,dpi.registry--land-register-land-register,fact,3,5,TUN-006;TUN-009,Stage 4c: 5 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--land-register-land-register,fact,no evidence,3,ZAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,dpi.registry--land-register-land-register,fact,5,5,ZWE-004;ZWE-009,Stage 4c: 2 news arrival(s) read; restaged from every row held.

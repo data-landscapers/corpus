@@ -25,8 +25,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 3 Established | 3 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
-| No evidence | 19 |
+| Unplaced | 8 |
+| No evidence | 18 |
 
 ## Countries
 
@@ -165,7 +165,7 @@ The government budgets and pays through a computer system by 2026; the tax syste
 
 The government budgets and pays through a computer system by 2026; whether tax and payroll do too is not known.
 
-- A KRA public notice of 2026-08-31 states suppliers to government entities submit invoices for payment processing through IFMIS, and that eTIMS was integrated with IFMIS by KRA and the National Treasury ([source, 2026-08-31](https://www.kra.go.ke/news-center/public-notices/2388-implementation-of-the-etims-%E2%80%93-ifmis-integration)).
+- An opinion piece by a named policy analyst calls IFMIS a nationally governed platform to which county revenue systems are meant to connect, and reports the Auditor-General's 2025 finding that Trans Nzoia's system was not yet connected to it ([source, 2026-10-09](https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512)).
 
 ### Lesotho: 2 Nascent
 
@@ -245,6 +245,12 @@ The government's financial system is out of action; none says it is back, so no 
 
 Not established: A source held says the government's financial system is out of action; none says it is back.
 
+### Libya: Unplaced
+
+No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+
+Not established: No source held from 2023 or later says the government's financial management system is in use.
+
 ### Mali: Unplaced
 
 No source held from 2023 or later says the government's financial system is in use, so no stage is set.
@@ -306,12 +312,6 @@ Nothing held says whether the government's finance, tax or payroll systems are i
 Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
 
 ### Guinea-Bissau: No evidence
-
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
-
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
-
-### Libya: No evidence
 
 Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 

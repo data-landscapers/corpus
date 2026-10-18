@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The IMF-World Bank report, citing World Bank Remittance Prices Worldwide, says sending remittances from South Africa to Zimbabwe cost an average 12.7 percent in Q1 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "South Africa-Zimbabwe remittance corridor",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TCIB",
+   "country_label": "SADC regional FPS",
+   "class": "other",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": "Report says TCIB uptake in the corridor is slow and cash dominates; it does not say Zimbabwe takes part in a regional system or that a digital corridor is in service."
+}

@@ -1,0 +1,11 @@
+{"slug": "2025-08-27-tza-huria-egov-websites-wcag-2-2-accessibility", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on authentication services."}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on a civil register and ID link."}}},
+"disabilityaccess": {"countries": {"TZA": {"facts": [{"sub_indicator": "accessibility", "aspect": "audit", "value": "published", "fact": "A study by Catherine G. Mkude of the Open University of Tanzania evaluated 42 Tanzanian e-government websites against WCAG 2.2 using SortSite, finding an average of 3.64 pages per site with accessibility errors, mostly Level A, with the National Identification Authority portal fully compliant and the NHIF service portal widely non-conformant.", "as_of": "2025-08-27", "date_precision": "day", "system": "WCAG 2.2 audit of 42 e-government websites", "class": "accessibility"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document gives only a count of over 500 websites and national digital services, not services completed online or a portal."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing on the ID system's operation, biometrics or certification."}}}
+}}

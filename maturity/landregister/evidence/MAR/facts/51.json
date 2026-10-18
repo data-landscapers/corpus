@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-17-mar-medias24-consultation-en-ligne-documents-fonciers",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANCFCC director general's circular says notaries can consult documents in the agency's electronic database from 15 January 2024.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "ANCFCC electronic platform",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Notaries consult land documents online through a dedicated space on the ANCFCC electronic platform, for a fee.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "ANCFCC electronic platform",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCFCC electronic platform",
+   "country_label": "MAR",
+   "class": "land",
+   "platform": "ANCFCC online platform",
+   "owner": "ANCFCC",
+   "tiers": "notaries"
+  }
+ ],
+ "note": ""
+}

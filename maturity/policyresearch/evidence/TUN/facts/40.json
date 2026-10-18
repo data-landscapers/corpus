@@ -1,0 +1,26 @@
+{
+ "slug": "2017-01-01-tun-cemi-personal-data-protection-european-standards",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The Centre des Etudes Mediterraneennes et Internationales (CEMI), Tunis, published policy paper 1/2017 by Chawki Gaddes on the Tunisian process to raise personal data protection to European standards.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "CEMI policy paper 1/2017",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEMI (Centre des Etudes Mediterraneennes et Internationales)",
+   "country_label": "Tunisia",
+   "class": "research",
+   "platform": "policy papers",
+   "owner": "CEMI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

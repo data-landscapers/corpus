@@ -1,0 +1,34 @@
+{
+ "slug": "2022-03-10-ner-worldbank-satellite-drought-response",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The World Bank says the Government of Niger used FAO WRSI satellite early-warning data in 2021, for the first time and as a pilot, to identify drought-affected areas and trigger cash transfers to about 15,400 households in four communes.",
+       "as_of": "2021-11",
+       "date_precision": "month",
+       "system": "WRSI drought trigger, Programme Pilote de Reponse a la Secheresse",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WRSI drought trigger (Programme Pilote de Reponse a la Secheresse)",
+       "country_label": "Niger",
+       "class": "agrisat",
+       "platform": "FEWS NET website",
+       "owner": "Government of Niger, Wadata Talaka",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

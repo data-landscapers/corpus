@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,authentication,service,coverage,inservice,2026-08-29,DZA-002;DZA-003;DZA-006;DZA-008;DZA-009;DZA-010,DZA-001=underway;DZA-007=underway,
+DZA,authentication,service,coverage,inservice,2026-08-29,DZA-002;DZA-003;DZA-006;DZA-008;DZA-009;DZA-010;DZA-011,DZA-001=underway;DZA-007=underway,
 DZA,authentication,reach,coverage,several,2024-12,DZA-005,,
 DZA,authentication,remote,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Direction générale des impôts launched its e-services portal on 23 May 2024, letting Cotonou small businesses and individuals pay land taxes and file online, with rollout to Abomey-Calavi and other towns promised.",
+   "as_of": "2024-05-23",
+   "date_precision": "day",
+   "system": "e-services Bénin",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-services Bénin (e-services.impots.bj)",
+   "country_label": "Bénin",
+   "class": "revenue",
+   "platform": "DGI tax portal",
+   "owner": "Direction générale des impôts",
+   "tiers": "Pro, Particuliers, Expert-Comptable"
+  }
+ ],
+ "note": ""
+}

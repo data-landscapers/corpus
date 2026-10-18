@@ -1,0 +1,23 @@
+{
+ "slug": "2022-02-21-gnb-orange-rural-coverage-1000-villages",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Orange Bissau rural coverage extension",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "Orange Bissau",
+       "tiers": ""
+      }
+     ],
+     "note": "Operator's own commercial roll-out of 150 sites to 1,000+ villages; no government or universal service fund part stated."
+    }
+   }
+  }
+ }
+}

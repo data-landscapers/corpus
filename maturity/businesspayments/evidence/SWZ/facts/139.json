@@ -1,0 +1,17 @@
+{
+ "slug": "2022-07-01-swz-afdb-pptap-appraisal-report",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "none",
+   "fact": "The AfDB appraisal report lists lack of adoption of the e-GP system among Eswatini's main procurement constraints, says the 2020 e-GP strategy is finalised and Cabinet-approved but not adopted, and says the Government Tender Board and ESPPRA lack IT tools and operate manually.",
+   "as_of": "2022-07",
+   "date_precision": "month",
+   "system": "e-GP system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2022-03-31-nga-wto-ncs-advanced-technologies-ai",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Nigeria Customs Service says it uses AI in some processes, including an AI/machine-learning Smart Fraud Detection model in NICIS that helps officers assess declaration risk, an AI HS-code search and an AI vehicle valuation system.",
+       "as_of": "2022-03-31",
+       "date_precision": "day",
+       "system": "NICIS Smart Fraud Detection",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NICIS Smart Fraud Detection",
+       "country_label": "Smart Fraud Detection",
+       "class": "sectorai",
+       "platform": "NICIS",
+       "owner": "Nigeria Customs Service",
+       "tiers": ""
+      },
+      {
+       "system": "VIN Valuation system",
+       "country_label": "VIN Valuation system",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Nigeria Customs Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

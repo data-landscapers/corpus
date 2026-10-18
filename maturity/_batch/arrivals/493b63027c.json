@@ -1,0 +1,142 @@
+{
+ "slug": "2024-09-19-ssd-nation-cashless-pay-civil-servants",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "A circular only encourages cashless payment; it states no payments mandate or oversight."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts.",
+       "as_of": "2024-09-19",
+       "date_precision": "day",
+       "system": "cashless civil-service salary payment",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "mobile phone penetration 22 percent (2.3 million people)",
+       "country_label": "22 percent, 2.3 million people",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The 22 percent phone penetration figure has no stated age range or survey basis."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No account-holding survey figure; only a less-than-10-percent formal access remark."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  }
+ }
+}

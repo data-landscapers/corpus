@@ -1,0 +1,107 @@
+{
+ "slug": "2025-04-09-ken-treasury-launch-egp-system",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Kenya's National Treasury Cabinet Secretary launched the e-GP system on 7 April 2025, with suppliers to submit bids online and manage contracts through a digital module.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "Electronic Government Procurement System",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Treasury says all ministries, departments, agencies and county governments must onboard the e-GP platform from April 2025 and only procurements processed through it will be sanctioned and paid.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "Electronic Government Procurement System",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Government Procurement System (e-GP)",
+       "country_label": "Kenya",
+       "class": "procurement",
+       "platform": "",
+       "owner": "The National Treasury",
+       "tiers": "national and county"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

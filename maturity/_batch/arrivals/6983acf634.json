@@ -1,0 +1,35 @@
+{
+ "slug": "2026-01-01-mus-cbrd-annual-report-2024-2025",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "CBRD's annual report counts 8,565 companies incorporated online in 2024/25 (for example 868 online against 318 at the office in July 2024).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "CBRIS",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "CBRD says VAT registration is performed through CBRIS at the same time as company incorporation, whenever applicable, since May 2021.",
+       "as_of": "2021-05",
+       "date_precision": "month",
+       "system": "CBRIS",
+       "class": "business"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

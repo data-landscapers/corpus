@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-15-lby-libyaherald-commercial-registry-unctad-training",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Libya Herald reports a UNCTAD-built e-single window for company registration, of which online trade-name search is the first of seven procedures, is being developed with EU and Expertise France support.",
+   "as_of": "2023-02-15",
+   "date_precision": "day",
+   "system": "e-single window for company registration",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-single window for company registration",
+   "country_label": "Libya",
+   "class": "business",
+   "platform": "UNCTAD e-registration tool",
+   "owner": "Commercial Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

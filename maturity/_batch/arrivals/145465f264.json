@@ -1,0 +1,34 @@
+{
+ "slug": "2022-11-01-zaf-treasury-scm-instruction-09-etender-mandatory",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "National Treasury's SCM Instruction 09 of 2022/23 requires departments, constitutional institutions and Schedule 2 and 3 public entities to publish open competitive bids, amendments, cancellations and awards on the e-Tender Portal from 1 November 2022.",
+       "as_of": "2022-11-01",
+       "date_precision": "day",
+       "system": "e-Tender Portal",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Tender Portal",
+       "country_label": "South Africa",
+       "class": "procurement",
+       "platform": "",
+       "owner": "National Treasury, Office of the Chief Procurement Officer",
+       "tiers": "national and provincial departments, PFMA entities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

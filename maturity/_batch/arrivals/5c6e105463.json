@@ -1,0 +1,41 @@
+{
+ "slug": "2025-11-17-gha-citinewsroom-gra-ai-customs-classification",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "GRA only intends to introduce an AI customs system; no pilot or service stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

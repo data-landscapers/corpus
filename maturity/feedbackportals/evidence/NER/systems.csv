@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,"Mécanisme de Gestion des Plaintes (MGP) du PGRP, comité régional de Diffa",NER,other,,"PGRP, Ministère de l'Économie et des Finances",regional,2026-06-23-pgrp-diffa-mecanisme-gestion-plaintes
+NER,Mediator complaints platform,Niger,feedback,online platform,Mediateur de la Republique,,2021-09-17-ner-aniamey-mediateur-plateforme-reclamations

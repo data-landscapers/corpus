@@ -1,0 +1,50 @@
+{
+ "slug": "2022-11-24-bfa-dgi-atelier-modernisation-cadastre",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The DGI working paper says SYC@D, launched on 29 December 2021, and SIEBI are not yet deployed on DGI servers, and that eCADASTRE, migrating from SIEBI, is in production works and could be used during 2022.",
+       "as_of": "2022-11-24",
+       "date_precision": "day",
+       "system": "eCADASTRE",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYC@D",
+       "country_label": "Burkina Faso",
+       "class": "landmis",
+       "platform": "web application",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      },
+      {
+       "system": "eCADASTRE",
+       "country_label": "Burkina Faso",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      },
+      {
+       "system": "SIGU",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

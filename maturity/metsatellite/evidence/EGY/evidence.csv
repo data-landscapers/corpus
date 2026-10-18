@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+EGY-001,EGY,metsat,stream,inservice,"The Egyptian Meteorological Authority's training book lists Meteosat Second Generation (MSG) and HRPT satellite reception among the remote sensing facilities available in the Authority, and trains forecasters to use satellite images in forecasting.",2014-12,month,Meteosat Second Generation (MSG) and HRPT units,metsat,2014-12-01-egy-ema-wmo-rtc-cairo-training-book,http://ema.gov.eg/pdf/Training%20book-may%202014_final%201-8.pdf

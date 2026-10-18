@@ -15,6 +15,7 @@ BWA,UniPod Botswana,Botswana,hub,,,,2026-08-03-botswana-startup-ecosystem-report
 BWA,Botswana Innovation Hub,Botswana,hub,,,,2026-04-27-64m-botswana-tech-fund-southern-africa
 BWA,Scalar Botswana Innovation Program,Botswana,hub,,Botswana Innovation Fund and Scalar International,,2026-03-18-botswana-scalar-innovation-accelerator-brief-wearetech
 BWA,Scalar Botswana Innovation Program,Botswana,hub,,Botswana Innovation Fund and Scalar International,,2026-03-17-scalar-botswana-innovation-program-150m-fund-techcabal
+BWA,Botswana Digital and Innovation Hub,Botswana,hub,,,,2025-02-19-bwa-dailynews-government-to-enable-innovators
 CAF,Fondation Bangui Hub,République Centrafricaine,hub,,Fondation Bangui Hub,,2025-01-01-bangui-hub-a-propos
 CAF,centre de formation digitale de Bangui,République centrafricaine,hub,,,,2024-04-05-afdb-centre-formation-digitale-bangui
 CAF,"Centre de formation digitale et incubateur start-up, Université de Bangui",Centrafrique,hub,,"Government of CAR, funded by EU and AfDB",,2024-01-16-centrafrique-centre-formation-digital-incubateur-universite-bangui
@@ -26,6 +27,8 @@ CMR,Douala Tech Park,Cameroon,hub,,Institut JFN,,2025-07-01-algeria-cameroon-inn
 CMR,ActivSpaces,Cameroon,hub,,,,2025-07-01-algeria-cameroon-innovation-hubs--techcabal
 CMR,Orange Fab,Cameroon,hub,,Orange,,2025-07-01-algeria-cameroon-innovation-hubs--techcabal
 COD,Technopark de Kinshasa,Kinshasa,hub,,Ministry of Digital Economy,,2026-10-08-cod-actu7-kibassa-skolkovo-technopark-kinshasa
+COD,Silikin Village,DRC,hub,,Texaf Group,,2025-08-10-cod-ecofin-silikin-village-interview
+COD,Silikin Village,COD,hub,,Texaf Digital,,2024-10-11-cod-bankable-silikin-village-inaugurated
 COG,Incubateur de l'Université Marien Ngouabi,Congo,hub,,Université Marien Ngouabi,,2026-03-09-brazzaville-prochaine-frontiere-tech-africaine
 COG,Fondation BantuHub,Republic of Congo,hub,,Fondation BantuHub,,2025-12-22-congo-vc-fund-startup-odds
 COG,Yasika,Congo,hub,,Eni/Joule,,2026-05-08-yasika-second-edition-bootcamp-brazzaville
@@ -67,11 +70,18 @@ GMB,The Disruptive Lab,Gambia,hub,,The Disruptive Lab,,2026-01-01-afrilabs-hub-d
 GMB,Gambia Tech Project,Gambia,hub,,French Embassy and Alliance of Banjul,,2026-01-01-afrilabs-hub-directory-gambia
 GMB,Startup Incubator Gambia,Gambia,hub,,Startup Incubator Center,,2026-01-01-afrilabs-hub-directory-gambia
 GMB,Jokkolabs,Gambia,hub,,Jokkolabs,,2026-01-01-afrilabs-hub-directory-gambia
+GMB,The Hub,Gambia,hub,,"Beran Dondeh Gillen (CEO, co-founder)",,2024-04-25-gmb-wearetech-the-hub-incubation
+GMB,Jokkolabs Banjul,Jokkolabs Banjul,hub,,Jokkolabs network,,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets
 GNB,Orange Digital Center Guiné-Bissau,Guinea-Bissau,hub,,Orange,,2026-04-30-orange-bissau-odc-programa-incubacao-aceleracao-startups
 GNB,Incubadora InoDevGB,Guinea-Bissau,hub,,NGO InoDevGB,national,2025-09-25-guinebissau-ang-incubadora-inodevgb
 GNB,InnovaLab,Guinea-Bissau,hub,,InnovaLab,,2026-01-01-innovalab-gw-homepage
 GNB,Kau Criar,Guinea-Bissau,hub,,"Impact Hub Bissau (temporary management), initiated by UNDP",,2023-12-18-undp-kau-criar-innovation-hub-guinea-bissau
+GNQ,IDENTIC incubation programme,Guinea Ecuatorial,hub,,Fundacion IDENTIC,,2026-03-05-gnq-identic-programa-incubacion-seis-proyectos
+GNQ,Dreams Hub,GNQ,hub,,Dreams Hub,,2025-03-05-gnq-africanian-dreams-hub-andge
+GNQ,Guinea ON,Equatorial Guinea,hub,,UNDP and Ministry of Telecommunications,,2023-05-04-gnq-un-guinea-on-startup-incubator
+GNQ,Dreams Hub,Equatorial Guinea,hub,,Dreams Hub Research and Innovation Center,,2022-07-31-gnq-africanian-dreams-hub-incubator-opens
 KEN,Konza Technopolis,Kenya,hub,,Konza Technopolis Development Authority,,2026-08-18-aws-konza-hybrid-cloud
+KEN,timbuktoo GreenTech Hub,Kenya,hub,,Konza Technopolis,,2024-12-06-ken-undp-africa-centre-competence-digital-ai-skilling
 LBR,LiYEPA,Liberia,hub,,iCampus Liberia with UNDP,,2026-07-01-undp-liberia-liyepa-accelerator-launch-icampus
 LBY,University of Benghazi business incubator,Libya,hub,,University of Benghazi,,2026-07-30-ikhtitam-musabaqat-nawat-lil-mashruat-al-taqniyya-2026
 LBY,Gharyan University Entrepreneurship and Innovation Centre,Libya,hub,,Gharyan University,,2026-02-13-jamiat-gharyan-solidworks-markaz-al-riyada-wal-ibtikar
@@ -93,16 +103,19 @@ MLI,DoniLab,Mali,hub,,DoniLab,,2026-01-01-afrilabs-mali-hubs
 MLI,DiaspoHub,Mali,hub,,DiaspoHub,,2026-01-01-afrilabs-mali-hubs
 MLI,Jokkolabs Mali,Mali,hub,,Jokkolabs Mali,,2026-01-01-afrilabs-mali-hubs
 MLI,Mali Business Innovation and Incubation Centre (Nyetaa Mali),Mali,hub,,Mali Business Innovation and Incubation Centre (Nyetaa Mali),,2026-01-01-afrilabs-mali-hubs
+MLI,Mali Digital Accélérateur,Mali,hub,,Ministère de la Communication et de l'économie numérique,,2025-04-16-mli-imedias-mali-digital-accelerateur
 MOZ,Thinklab do INCM,Moçambique,hub,,INCM (Autoridade Reguladora das Comunicações),,2026-05-29-incm-thinklab-expansao-nacional
 MOZ,Maluana Science and Technology Park,Mozambique,hub,,ENPCT,,2024-11-29-unctad-sti-parks-mozambique-assessment
 MOZ,UEM tech business incubator (Innovation Space),Mozambique,hub,,Eduardo Mondlane University,,2024-11-29-unctad-sti-parks-mozambique-assessment
 MOZ,VaMozDIGITAL!,Mozambique,other,,AICS with the European Union,,2026-08-08-aics-vamozdigital-programme-mozambique
+MOZ,ThinkLab,Mozambique,hub,,INCM,,2025-09-23-moz-clubofmozambique-incm-thinklab-incubator
 MRT,Nouakchott Innovation Lab,Mauritania,hub,,,,2026-09-25-mrt-webmanagercenter-fintech-regional-lab
 MRT,BCM Fintech Program,Mauritania,other,,Banque Centrale de Mauritanie,,2026-09-25-mrt-webmanagercenter-fintech-regional-lab
 MUS,Turbine,Mauritius,hub,,,"pre-incubation, incubation, acceleration",2024-04-27-mauritius-ecosystem-feature
 MUS,La Plage Factory,Mauritius,hub,,,,2024-04-27-mauritius-ecosystem-feature
 MUS,Mauritius Startup Incubator,Mauritius,hub,,,,2024-04-27-mauritius-ecosystem-feature
 MUS,AI Innovation Lab,Mauritius,hub,,"Ministry of Information Technology, Communication and Innovation with STEMpower",,2026-08-21-cajnews-mauritius-ai-innovation-lab-stempower
+MUS,National SME Incubator Scheme,Mauritius,hub,,Mauritius Research and Innovation Council,"pre-incubation, incubation, acceleration",2024-10-01-mus-mric-national-sme-incubator-scheme
 MWI,mHub,Malawi,hub,,,,2024-03-02-malawi-tech-ecosystem-feature
 MWI,Ntha Foundation,Malawi,other,,Ntha Foundation,,2024-03-02-malawi-tech-ecosystem-feature
 MWI,Malawi Internet Exchange (MIX),Malawi,other,,MISPA,,2024-11-14-mispa-malawi-internet-exchange-mix
@@ -152,6 +165,8 @@ SYC,"Business, Technology & Innovation Incubator (BTI)",Seychelles,hub,,SeyCCAT 
 SYC,COMFWB Seychelles Incubation and Innovation Hub,Seychelles,hub,,COMESA Federation of Women in Business,national,2026-07-21-statehouse-comfwb-innovation-hub-groundbreaking
 SYC,UniSey Centre for Innovation,UniSey Centre for Innovation (UCI),hub,,University of Seychelles,,2025-09-18-unisey-centre-for-innovation
 TCD,Centre d'innovation technologique de N'Djamena (CIT-N'Dj),Tchad,hub,,Secretariat general de la Presidence,,2025-10-30-centre-innovation-technologique-ndjamena-lance
+TCD,WenakLabs,Chad,hub,,,,2025-09-19-tcd-toumai-journee-startups-tchad-connexion-2030
+TCD,Tcharay HUB,Chad,hub,,,,2025-09-19-tcd-toumai-journee-startups-tchad-connexion-2030
 TGO,Djanta Tech Hub,Togo,hub,,Ministere de l'Efficacite du service public et de la Transformation numerique,,2026-05-08-togo-inauguration-djanta-tech-hub
 TGO,Djanta Tech Hub,Togo,hub,,Government of Togo with Co-Creation Hub,,2026-03-01-togo-s-quiet-rise-as-a-startup-contender
 TGO,WoeLab,Togo,hub,,,,2026-03-01-togo-s-quiet-rise-as-a-startup-contender

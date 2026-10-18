@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-08-zmb-zambia24-zcsa-ai-content-advisory",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Zambia Cyber Security Agency (ZCSA) acts as the national agency under the Cyber Security Act No. 3 of 2025, issuing a public advisory on online misuse.",
+   "as_of": "2026-05-08",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ZCSA issued a public advisory warning of rising social media misuse, including scams, false information and deepfakes, and urging verification before sharing.",
+   "as_of": "2026-05-08",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Cyber Security Agency",
+   "country_label": "ZCSA",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

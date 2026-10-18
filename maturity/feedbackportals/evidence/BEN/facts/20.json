@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-16-ben-dpiafrica-doton-adjarra-plaintes",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The commune of Adjarra launched the Doton mobile app on 14 February 2025 for citizens to file complaints and suggestions about communal services, with status tracking and a dedicated unit in the town hall, but the article gives no count of complaints received.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Doton",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Doton",
+   "country_label": "Benin",
+   "class": "feedback",
+   "platform": "mobile app",
+   "owner": "Commune of Adjarra",
+   "tiers": "commune"
+  }
+ ],
+ "note": ""
+}

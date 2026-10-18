@@ -1,0 +1,44 @@
+{
+ "slug": "2017-07-01-mar-adii-communique-portnet-resultats-controle",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ADII says detailed declarations are registered on its BADR system, which sends data automatically to the industry ministry through PortNet, now at all import clearance offices.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "BADR",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "ADII says the PortNet foreign-trade single window carries ministry authorisations and conformity-check results to customs by EDI, generalised to all import offices.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "PortNet",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BADR",
+   "country_label": "Maroc",
+   "class": "customs",
+   "platform": "",
+   "owner": "ADII",
+   "tiers": ""
+  },
+  {
+   "system": "PortNet",
+   "country_label": "Maroc",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

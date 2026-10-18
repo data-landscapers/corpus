@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Electronic Government Division of the SMART Zambia Institute deployed the Government Service Bus and ZamPortal, which host government services across institutions.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "ZamPortal",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

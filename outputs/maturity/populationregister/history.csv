@@ -7,3 +7,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MRT,dpi.registry--population-register-population-register,fact,3,3,MRT-001;MRT-002,Arrivals added MRT-004; stage unchanged.
 2026-10-17,TUN,dpi.registry--population-register-population-register,fact,2,5,TUN-004,Arrivals added TUN-002; TUN-003; TUN-004; stage 2 -> 5.
 2026-10-17,ZAF,dpi.registry--population-register-population-register,fact,5,5,ZAF-012;ZAF-006,Arrivals added ZAF-013; ZAF-014; stage unchanged.
+2026-10-18,CPV,dpi.registry--population-register-population-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.registry--population-register-population-register,review,unplaced,5,DZA-004,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.registry--population-register-population-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBR,dpi.registry--population-register-population-register,review,no evidence,2,LBR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.registry--population-register-population-register,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,dpi.registry--population-register-population-register,fact,5,5,MAR-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.registry--population-register-population-register,review,no evidence,2,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--population-register-population-register,fact,5,5,ZAF-012;ZAF-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.

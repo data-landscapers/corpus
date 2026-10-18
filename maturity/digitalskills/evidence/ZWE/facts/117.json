@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-zwe-technomag-ict-innovation-fund",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Permanent Secretary Beaula Chirume of the Ministry of ICT said the government is scaling up digital literacy programmes through Smart Zimbabwe 2030.",
+   "as_of": "2025-03-26",
+   "date_precision": "day",
+   "system": "Smart Zimbabwe 2030",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Zimbabwe 2030",
+   "country_label": "Zimbabwe",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

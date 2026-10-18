@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-tza-repoa-data-protection-platform-workers",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The REPOA brief says the Personal Data Protection Act No. 11 of 2022 gives data subjects rights including objection to automated decision-making.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Personal Data Protection Act No. 11 of 2022",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

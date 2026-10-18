@@ -1,0 +1,38 @@
+{
+  "slug": "2023-11-02-civ-finances-fiscalite-interieure-reformes",
+  "studies": {
+    "businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+    "centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on the central bank."}}},
+    "consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+    "crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+    "eparticipation": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on online participation."}}},
+    "g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+    "landregister": {"countries": {"CIV": {
+      "facts": [
+        {"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "The finance ministry says the Livre Foncier Electronique (LIFE) is an application letting notaries consult land titles online.", "as_of": "2023-11-02", "date_precision": "day", "system": "Livre Foncier Electronique (LIFE)", "class": "land"},
+        {"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "The finance ministry says notaries can consult land titles online through LIFE, with access to be extended to banks and others in the land chain.", "as_of": "2023-11-02", "date_precision": "day", "system": "Livre Foncier Electronique (LIFE)", "class": "land"}
+      ],
+      "systems": [
+        {"system": "Livre Foncier Electronique (LIFE)", "country_label": "Côte d'Ivoire", "class": "land", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "notaries"}
+      ],
+      "note": ""}}},
+    "localrecords": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No local government revenue record stated."}}},
+    "paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+    "retailpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on retail digital payments."}}},
+    "revenuecollection": {"countries": {"CIV": {
+      "facts": [
+        {"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The finance ministry says online filing and online payment of taxes and duties (télé-déclaration, télépaiement) have been in operation in Côte d'Ivoire since 2017.", "as_of": "2017", "date_precision": "year", "system": "télé-déclaration et télépaiement", "class": "revenue"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "taxadmin": {"countries": {"CIV": {
+      "facts": [
+        {"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The finance ministry says online tax filing (télé-déclaration) has been in operation in Côte d'Ivoire since 2017.", "as_of": "2017", "date_precision": "year", "system": "télé-déclaration", "class": "taxsystem"},
+        {"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The finance ministry says online payment of taxes and duties (télépaiement) has been in operation since 2017.", "as_of": "2017", "date_precision": "year", "system": "télépaiement", "class": "taxsystem"}
+      ],
+      "systems": [
+        {"system": "télé-déclaration / télépaiement", "country_label": "Côte d'Ivoire", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

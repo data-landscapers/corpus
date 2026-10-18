@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-17-egy-ahram-real-estate-registry-complex-alamein",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ahram Online reports that the Real Estate Registry and Notarization Complex in New Alamein was inaugurated on 2025-07-17 with an integration system between the Justice and Housing ministries in 16 new-city registry offices, which register land, building and unit transactions with electronic tools for processing.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Real Estate Registry and New Urban Communities Authority integration system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

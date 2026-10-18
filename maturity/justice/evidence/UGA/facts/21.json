@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-16-nam-judiciary-ug-eccmis-benchmarking-visit",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Judiciary of Uganda reports that its Electronic Court Case Management Information System (ECCMIS) is implemented, with progress in automating lower courts and a tailored version in the Anti-Corruption Division.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Court Case Management Information System (ECCMIS)",
+   "country_label": "Uganda",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Uganda",
+   "tiers": "lower courts and Anti-Corruption Division"
+  }
+ ],
+ "note": ""
+}

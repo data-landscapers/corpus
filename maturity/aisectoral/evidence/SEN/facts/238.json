@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-31-sen-impact-dgid-datamining-ia-fiscale",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The DGID says its Datamining project uses data analysis and AI for tax anomaly and fraud detection, with a data-science cell and the ASREF app tracking intelligence use.",
+   "as_of": "2025-01-30",
+   "date_precision": "day",
+   "system": "Datamining project (DGID), ASREF",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datamining project",
+   "country_label": "Sénégal",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  },
+  {
+   "system": "ASREF",
+   "country_label": "Sénégal",
+   "class": "other",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

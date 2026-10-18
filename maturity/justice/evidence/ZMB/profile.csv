@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,justice,cases,coverage,underway,2025-01-20,ZMB-001,ZMB-002=none,
+ZMB,justice,filing,coverage,,,,,nothing held
+ZMB,justice,public,coverage,open,2022,ZMB-003,,nothing dated since 2023-10-18

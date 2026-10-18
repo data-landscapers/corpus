@@ -1,0 +1,44 @@
+{
+ "slug": "2022-05-25-ken-kna-ombudsman-cmis-portal-launch",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The Commission on Administrative Justice launched the public portal of its Complaints Management Information System on 24 May 2022, said it had used the system fully for complaint handling since 1 April 2022, held over 6,000 active complaints and had processed over 493 through it.",
+       "as_of": "2022-05-24",
+       "date_precision": "day",
+       "system": "Complaints Management Information System (CMIS)",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The Commission chair said complainants can lodge complaints against public entities through CMIS from anywhere in the country.",
+       "as_of": "2022-05-24",
+       "date_precision": "day",
+       "system": "Complaints Management Information System (CMIS)",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Complaints Management Information System (CMIS)",
+       "country_label": "Kenya",
+       "class": "feedback",
+       "platform": "web portal",
+       "owner": "Commission on Administrative Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

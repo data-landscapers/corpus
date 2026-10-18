@@ -1,0 +1,62 @@
+{
+ "slug": "2026-01-01-zmb-boz-nps-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Zambia issued fourteen designation certificates to payment service providers in 2024 (seven payment aggregators, six electronic money issuers, one money transfer operator) and revoked four.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Designation of payment service providers",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Zambia says it oversees the national payment systems, including the National Financial Switch, which processed K131.9 billion and 140,496,750 transactions in 2024 with 34 participants live.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Financial Switch",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The report states Zambian commercial banks process payments through the SADC Real Time Gross Settlement System (ZAR13.4 billion paid and ZAR13.9 billion received in 2024).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "SADC-RTGS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIPSS",
+   "country_label": "ZIPSS",
+   "class": "other",
+   "platform": "RTGS",
+   "owner": "Bank of Zambia",
+   "tiers": ""
+  },
+  {
+   "system": "National Financial Switch",
+   "country_label": "NFS",
+   "class": "other",
+   "platform": "",
+   "owner": "ZECHL",
+   "tiers": ""
+  },
+  {
+   "system": "SADC-RTGS",
+   "country_label": "SADC-RTGS",
+   "class": "other",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

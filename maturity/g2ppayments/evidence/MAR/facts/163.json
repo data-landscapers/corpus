@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-20-mar-medias24-aides-sociales-directes-etablissements-paiement",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Direct social aid has been paid since end December 2023, with government and central bank requiring payment only into payment or bank accounts, not cash (Médias24).",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "aides sociales directes",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "aides sociales directes",
+   "country_label": "Maroc",
+   "class": "g2p",
+   "platform": "payment and bank accounts",
+   "owner": "government",
+   "tiers": "payment institutions with agent networks (Cash Plus, Wafacash, Damane Cash, Barid Cash, Chaabi Cash, Al Filahi Cash)"
+  }
+ ],
+ "note": ""
+}

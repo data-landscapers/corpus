@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-mdg-fid-paiement-transferts-fsp-qr-code-pgp",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Fonds d'Intervention pour le Développement, under the World Bank-financed Projet Filets de Sécurité et de Résilience, opened a consultation on 30 July 2025 (bids due 19 August 2025) for payment services for the FSP cash transfers by QR code on the PGP platform, in two lots covering six communes of Benenitra district.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "PGP platform (FSP QR-code payments)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PGP platform",
+   "country_label": "Madagascar",
+   "class": "g2p",
+   "platform": "PGP",
+   "owner": "Fonds d'Intervention pour le Développement (FID)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

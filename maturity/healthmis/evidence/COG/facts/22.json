@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-25-cog-hispwca-suivi-vaccinal-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "HISP West and Central Africa says Congo's national health information system runs on DHIS2, which gives real-time data feed from 52 health districts to the central level.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

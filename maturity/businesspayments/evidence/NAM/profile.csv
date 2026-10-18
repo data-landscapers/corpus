@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,business,system,coverage,inservice,2025-05,NAM-001;NAM-003;NAM-005,,
+NAM,business,endtoend,coverage,endtoend,2025-05-27,NAM-002;NAM-006,,
+NAM,business,reported,coverage,reported,2025-05,NAM-004,,

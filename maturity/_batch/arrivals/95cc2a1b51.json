@@ -1,0 +1,9 @@
+{"slug": "2025-05-10-lso-nul-ecommerce-legislation-data-privacy-thesis", "studies": {
+"dataprotectionlaw": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The abstract discusses data privacy in e-commerce but states nothing about a general data protection law."}}},
+"ecommercelaw": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "A National University of Lesotho thesis by Sephoso (2025) is titled as studying the 'absence of electronic commerce legislation' in Lesotho.", "as_of": "2025-05-10", "date_precision": "day", "system": "", "class": "law"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "The National University of Lesotho published a 2025 thesis by Sephoso on e-commerce legislation, data privacy and cybersecurity in Lesotho.", "as_of": "2025-05-10", "date_precision": "day", "system": "National University of Lesotho", "class": "research"}
+], "systems": [], "note": ""}}}
+}}

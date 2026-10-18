@@ -1,0 +1,17 @@
+{
+ "slug": "2018-09-28-eri-csdila-cadastral-template",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Cadastral Office says it currently only issues parcel identification numbers and registers land use, and is preparing a database for a land information system.",
+   "as_of": "2018-09-28",
+   "date_precision": "day",
+   "system": "Land information system",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

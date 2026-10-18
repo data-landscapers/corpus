@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,metsat,stream,coverage,inservice,2026,UGA-001,,
+UGA,metsat,warnings,coverage,,,,,nothing held
+UGA,metsat,certified,coverage,,,,,nothing held

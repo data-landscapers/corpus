@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "NIDA says eRITA issues a birth certificate in 48 hours, with online applications and digitized records, and 9.4 million under-5s registered.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eRITA",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

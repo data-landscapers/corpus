@@ -1,0 +1,13 @@
+{"slug": "2025-04-15-ben-webbfontaine-national-rollout-customs-system", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government body's use of AI is stated; AI is only a description of the vendor."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The customs system is not said to use AI in Benin."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing in Benin is stated."}}},
+"customs": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "Webb Fontaine says it completed migration of Benin's national Customs Management System from ASYCUDA to Webb Customs, fully operational at all sea ports, airports and land border offices, with over 100,000 declarations processed.", "as_of": "2025-04-15", "date_precision": "day", "system": "Webb Customs", "class": "customs"},
+{"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "Webb Fontaine says it launched Benin's Guichet Unique du Commerce Extérieur (Single Window) in 2018, and that the government is interconnecting the Single Window, Port Community System, Electronic Cargo Tracking and the Customs Management System.", "as_of": "2018", "date_precision": "year", "system": "Guichet Unique du Commerce Extérieur", "class": "customs"}
+], "systems": [
+{"system": "Webb Customs", "country_label": "Benin", "class": "customs", "platform": "Webb Fontaine", "owner": "Benin customs", "tiers": "ports, airports, land borders"},
+{"system": "Guichet Unique du Commerce Extérieur", "country_label": "Benin", "class": "customs", "platform": "Webb Fontaine", "owner": "", "tiers": ""}
+], "note": "No electronic exchange of declaration data with another country's customs is stated."}}}
+}}

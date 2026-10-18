@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-01-sle-farmerline-mocti-mou-krio-language-model",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Farmerline says a five-year MoU signed with the Ministry of Communication, Technology and Innovation on 12 June 2024 commits it to use high-resolution satellite imagery for boundary delineation, tree counting, deforestation tracking and monitoring illegal mining, for better decisions in agriculture.",
+   "as_of": "2024-06-12",
+   "date_precision": "day",
+   "system": "Farmerline-MoCTI satellite imagery work",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

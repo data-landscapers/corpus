@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-26-dza-interlignes-dme-deploiement-69-wilayas",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Interlignes reports the health minister said the electronic medical record was entirely designed and developed by engineers and staff of the ministry's information systems directorate.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Dossier medical electronique (DME)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

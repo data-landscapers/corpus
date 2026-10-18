@@ -1,0 +1,26 @@
+{
+ "slug": "2016-03-04-zwe-techzim-zimconnect-online-company-registration",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Techzim says the Ministry of ICT's ZimConnect site, launched in 2016, offers visa applications, company registration, name change, deeds search, investment and mining licences and liquor licensing online, with electronic payment via Paynow; a commenter says company registration was still in testing.",
+   "as_of": "2016-03-04",
+   "date_precision": "day",
+   "system": "ZimConnect",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZimConnect",
+   "country_label": "Zimbabwe",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

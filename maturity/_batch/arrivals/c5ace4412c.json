@@ -1,0 +1,165 @@
+{
+ "slug": "2025-12-03-gha-nca-idpd-2025-assistive-technology",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Minister announced that the One Million Coders Programme, to roll out in 2026, has reserved 50,000 fully funded training allocations for persons with disabilities.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "One Million Coders Programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "One Million Coders Programme",
+       "country_label": "Ghana",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Communication, Digital Technology and Innovations",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The Minister of Communication, Digital Technology and Innovations promised to improve accessibility on all government digital platforms by following standards such as WCAG.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "Government digital platforms accessibility commitment",
+       "class": "accessibility"
+      },
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The NCA said it is designing, with device makers and dealers, a new minimum specification for terminal devices for Ghana by 2026 that requires an accessibility feature before type approval.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "Terminal device minimum specification",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The NCA held an inaugural stakeholder engagement with mobile terminal device manufacturers and dealers to design a new minimum specification for terminal devices.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Terminal device minimum specification",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ghana."
+    }
+   }
+  }
+ }
+}

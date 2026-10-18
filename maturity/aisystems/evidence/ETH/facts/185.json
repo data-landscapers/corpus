@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-19-eth-addisfortune-ecourt-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Addis Fortune reports the Ethiopian Artificial Intelligence Institute developed automatic court transcription software with the Federal Supreme Court, delivered for 15.8 million Br.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "automatic transcription technology",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

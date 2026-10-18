@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17-ben-gouvbj-meteo-benin-systeme-satellitaire-eumetsat",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "The Beninese government says a new PUMA station for processing Meteosat Third Generation data would be installed in Benin during the 16th EUMETSAT User Forum in Cotonou, 16-20 September 2024.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "PUMA station (Meteosat Third Generation)",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA station",
+   "country_label": "Benin",
+   "class": "metsat",
+   "platform": "Meteosat Third Generation",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-16-gnq-realeg-cniapge-forma-funcionarios-gex",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The article says the GEX case-file platform was developed by CNIAPGE's own technical team, and CNIAPGE's Deploy department staff run its training for the Prime Minister's office.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "GEX",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "CNIAPGE, the national centre for computerising public administration, is rolling GEX out to the Primatura at the Prime Minister's request, with ministerial departments to follow.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "CNIAPGE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GEX",
+   "country_label": "Gestion de Expedientes",
+   "class": "staff",
+   "platform": "",
+   "owner": "CNIAPGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

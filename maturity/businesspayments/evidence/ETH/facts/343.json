@@ -1,0 +1,46 @@
+{
+ "slug": "2022-09-03-eth-addisfortune-automated-public-procurement",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Addis Fortune reports the Public Procurement & Property Authority piloted electronic government procurement with nine federal agencies and made it compulsory for 72 agencies in August 2022.",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "electronic-government procurement (e-GP)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "Addis Fortune reports the Authority is automating the end-to-end process, with procurement plans, tendering, bid evaluations and award notices communicated through the portal, compulsory for 72 of 174 federal agencies.",
+   "as_of": "2022-09-03",
+   "date_precision": "day",
+   "system": "electronic-government procurement (e-GP)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Addis Fortune reports no more than 2,200 suppliers are listed on the e-procurement system against 50,000 on the manual federal scheme.",
+   "as_of": "2022-09-03",
+   "date_precision": "day",
+   "system": "electronic-government procurement (e-GP)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic-government procurement (e-GP)",
+   "country_label": "Ethiopia",
+   "class": "procurement",
+   "platform": "built by Perago Information Systems",
+   "owner": "Public Procurement & Property Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

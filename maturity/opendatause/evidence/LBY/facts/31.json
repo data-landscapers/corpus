@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-lby-gia-ict-workforce-indicator-2025",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The General Authority for Communications and Informatics lists its 2025 ICT workforce indicator as a downloadable XLSX dataset on its open data platform, created 2026-09-29.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Open data platform of the General Authority for Communications and Informatics",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open data platform (opendata.gia.gov.ly)",
+   "country_label": "opendata.gia.gov.ly",
+   "class": "open",
+   "platform": "",
+   "owner": "General Authority for Communications and Informatics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

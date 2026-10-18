@@ -1,0 +1,26 @@
+{
+ "slug": "2013-09-17-cpv-bo-lei-43-viii-2013-sniac",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Law 43/VIII/2013 creates the SNIAC, a central national civil identification system with a database of citizens, resident foreigners and stateless residents, fed from civil registry acts including births and deaths.",
+   "as_of": "2013-09-17",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC",
+   "country_label": "Sistema Nacional de Identificação e Autenticação Civil",
+   "class": "population",
+   "platform": "central civil identification database with PKI",
+   "owner": "Conselho de Gestão (coordinated by the registry and identification ministry)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

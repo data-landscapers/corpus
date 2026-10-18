@@ -1,0 +1,43 @@
+{
+ "slug": "2024-07-12-caf-oubanguimedias-ndoba-startup-ikoue-guarantee-fund",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Finance Minister Hervé Ndoba said the state is perfecting the legal and regulatory framework of the startup ecosystem and announced a guarantee fund for startups and SMEs coming soon.",
+       "as_of": "2024-07-10",
+       "date_precision": "day",
+       "system": "legal and regulatory framework for startups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": "Guarantee fund is announced only, not set up."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Ikouē is described as a startup with training programmes, not as a hub or incubator."
+    }
+   }
+  }
+ }
+}

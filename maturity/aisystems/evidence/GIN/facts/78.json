@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-gin-lelynx-dounia-supercalculateur-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Rose Pola Pricemou said the science and innovation policy provides, through the Cite des sciences et de l'innovation, for AI laboratories and a sovereign data centre, whose data would be processed by the 'projet de supercalculateur'.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "projet de supercalculateur",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "projet de supercalculateur",
+   "country_label": "Guinea",
+   "class": "localai",
+   "platform": "",
+   "owner": "Cite des sciences et de l'innovation de Guinee",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

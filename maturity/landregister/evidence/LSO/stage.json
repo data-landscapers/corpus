@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "no evidence",
-   "register": "",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how land rights are recorded.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "unplaced",
+      "register": "",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether land rights are registered digitally.",
+      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

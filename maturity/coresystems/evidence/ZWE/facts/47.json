@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-07-zwe-zimra-notice-75-outstanding-returns-payment",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "ZIMRA Public Notice 75 of 2024 says taxpayers file VAT, PAYE, income, withholding and presumptive tax returns online in its Tax Revenue Management System (TaRMS), which charges penalties automatically and issues tax clearance certificates automatically.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Tax Revenue Management System",
+   "class": "core",
+   "platform": "",
+   "owner": "Zimbabwe Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-10-21-nga-punch-cash-transfer-nin-bvn-cbn-payment",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Nigeria pays Conditional Cash Transfer beneficiaries directly, with bulk payments to five million households due to begin the week after the article and verified households already receiving payment alerts, says the minister's media aide.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Conditional Cash Transfer",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Beneficiaries are matched on NIN and BVN with in-person verification and biometrics, and those without a NIN and BVN are disqualified, says the minister's media aide.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Conditional Cash Transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Conditional Cash Transfer",
+   "country_label": "Nigeria",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Federal Ministry of Humanitarian Affairs and Poverty Alleviation; paid by the Central Bank of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

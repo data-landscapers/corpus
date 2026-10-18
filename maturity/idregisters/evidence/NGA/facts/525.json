@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-nga-nsipa-about-nassco-national-social-register",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Social Register (NSR)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,landmis,system,inservice,"The paper states SiGIT, Mozambique's land information management system, had processed 1,375,586 individual parcels and 826 community delimitations in the national land cadastre up to March 2020.",2020-03,month,SiGIT,landmis,2021-08-04-moz-mdpi-land-fit-for-purpose-sigit,https://www.mdpi.com/2073-445X/10/8/818
+MOZ-002,MOZ,landmis,tax,linked,"The paper states SiGIT incorporated land legislation into its workflows for all land administration processes from registration to taxation, including transmission of rights.",2021-08-04,day,SiGIT,landmis,2021-08-04-moz-mdpi-land-fit-for-purpose-sigit,https://www.mdpi.com/2073-445X/10/8/818

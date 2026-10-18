@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a public sector's system uses AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

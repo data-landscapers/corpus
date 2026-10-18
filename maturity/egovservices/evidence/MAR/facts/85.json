@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-02-mar-mwn-chikaya-163694-complaints-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Chikaya.ma",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "national web platform",
+   "owner": "Ministry of Digital Transition",
+   "tiers": "national"
+  }
+ ],
+ "note": "Chikaya.ma is a complaints channel, not a transactional service; the document names no online service or gateway."
+}

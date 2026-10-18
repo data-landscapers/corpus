@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "3",
-   "register": "inservice",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-005",
-   "gaps": "No source held since October 2023 says the digital land register covers the whole country.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "3",
+      "register": "inservice",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-005;MRT-006",
+      "gaps": "No source held since October 2023 says the digital land register covers the whole country.",
+      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

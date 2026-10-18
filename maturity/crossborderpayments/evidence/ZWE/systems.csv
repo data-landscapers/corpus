@@ -2,3 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZWE,PAPSS,Pan-African Payment and Settlement System,crossborder,Afreximbank clearing,Afreximbank,,2026-10-08-zwe-herald-papss-5-8-million-a-month-afreximbank-ceo-roundtable
 ZWE,SADC-RTGS,Zimbabwe,crossborder,RTGS,South African Reserve Bank (operator),,2026-07-29-sadc-rtgs-currencies-centralbanking
 ZWE,PAPSS,Zimbabwe,crossborder,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey
+ZWE,EcoCash International Money Transfer,Zimbabwe,crossborder,USSD *151#,EcoCash,,2025-05-14-zwe-newsday-ecocash-international-money-transfers
+ZWE,TCIB,SADC regional FPS,other,,SADC,,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic
+ZWE,EcoCash,EcoCash,other,mobile wallet,Econet Wireless Zimbabwe,,2024-05-02-zwe-econet-free-remittance-corridors

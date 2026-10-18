@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MRT,Fonds d'accès universel aux services (FAUS),Mauritanie,other,,Government of Mauritania,,2026-07-31-emergence-conseil-ministres-nouveau-decret-gestion-faus-tresor-public
+MRT,Projet de couverture integrale des services de communication electronique dans les zones frontalieres,Mauritania,ruralaccess,fibre optic backbone with solar-powered coverage sites and radio links,Ministry of Digital Transformation and Regulatory Authority,phases 1 to 3,2024-12-28-mrt-ami-couverture-zones-frontalieres-phases-2-3
+MRT,southern border zones communication coverage project,Mauritania,ruralaccess,,Ministry of Digital Transformation,,2023-12-28-mrt-ami-couverture-zones-frontalieres-sud-axe-1
+MRT,WARCIP,Mauritanie,other,fibre-optic backbone,Government of Mauritania with World Bank (IDA),,2022-12-16-mrt-banquemondiale-warcip-resultats-haut-debit

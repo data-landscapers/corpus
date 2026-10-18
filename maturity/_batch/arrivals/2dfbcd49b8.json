@@ -1,0 +1,10 @@
+{"slug":"2025-05-14-zwe-newsday-ecocash-international-money-transfers","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document states nothing on the central bank's role."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"EcoCash launched an outbound international money transfer service from Zimbabwe to bank accounts and mobile wallets in countries including South Africa, Zambia, Kenya (M-Pesa) and China (Alipay), with all South African banks activated, per the company statement reported by NewsDay.","as_of":"2025-05-14","date_precision":"day","system":"EcoCash International Money Transfer","class":"crossborder"}],"systems":[{"system":"EcoCash International Money Transfer","country_label":"Zimbabwe","class":"crossborder","platform":"USSD *151#","owner":"EcoCash","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document gives no survey of adults with accounts."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"NewsDay describes EcoCash as Zimbabwe's largest fintech platform whose customers can now send money abroad directly from their EcoCash wallet to bank accounts or mobile wallets.","as_of":"2025-05-14","date_precision":"day","system":"EcoCash","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payments."}}}
+}}

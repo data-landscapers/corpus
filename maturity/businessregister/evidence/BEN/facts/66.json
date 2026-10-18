@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-ben-apiex-guide-pratique-formalisation",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "APIEx's guide says companies are registered in the RCCM entirely online through www.monentreprise.bj, with QR-coded electronic certificates issued in three working hours.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "monentreprise.bj",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "APIEx's guide lists among the certificates the platform issues the RCCM extract, the IFU tax identifier attestation and the CNSS employer number notification.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "monentreprise.bj",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "monentreprise.bj",
+   "country_label": "Benin",
+   "class": "business",
+   "platform": "www.monentreprise.bj",
+   "owner": "APIEx",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

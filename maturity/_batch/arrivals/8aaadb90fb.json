@@ -1,0 +1,14 @@
+{
+ "slug": "2026-03-24-cran-rejects-starlink-licence-namibian",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about a Starlink telecoms licence refusal, not a weather service's satellite data."
+    }
+   }
+  }
+ }
+}

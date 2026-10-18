@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-28-cpv-dnre-funcionamento-portal-declaracoes",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DNRE says tax returns are submitted electronically through its portal, with the deadline moved from 31 May to 14 June 2024 after an outage was cleared.",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "portondinosilhas.gov.cv",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portondinosilhas.gov.cv",
+   "country_label": "Cabo Verde",
+   "class": "taxsystem",
+   "platform": "web portal",
+   "owner": "Direção Nacional das Receitas de Estado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

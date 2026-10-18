@@ -49,6 +49,7 @@ COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inc
 COG,DigiTransfer,Republic of Congo,crossborder,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
 COG,DigiTransfer,Republic of Congo,crossborder,,DigiPay Group,,2026-05-28-belmoney-digipay-digitransfer-remittances-connectingafrica
 COM,PAPSS,Comoros,crossborder,Pan-African Payment and Settlement System,Afreximbank / African Union,,2024-08-23 Central Bank of Comoros commences PAPSS implementation
+CPV,Makeba,Makeba,other,"mobile app, QR codes",Makeba (US fintech),,2022-01-01-cpv-ifad-remitscope-cabo-verde-diagnostic
 DJI,IGAD payment interoperability regulatory framework,IGAD region,crossborder,,IGAD,,2026-02-11-igad-tor-payments-interoperability-framework
 DJI,SantimPay-Meras Djibouti partnership,DJI,crossborder,,SantimPay Financial Solutions; Meras Djibouti,,2025-09-21-santimpay-meras-djibouti-partnership
 DJI,PAPSS,Djibouti,crossborder,,,,2024-01-01-siips-2024-djibouti-excerpt
@@ -88,6 +89,7 @@ GHA,e-cedi,Ghana,other,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transactio
 GHA,Digital Credit Service Providers Directive,Ghana,other,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
 GIN,PAPSS,Guinea,other,,,possible future link,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,crossborder,Mojaloop,BCRG,,2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
+GIN,Orange Money,Orange Money,crossborder,USSD *144# and app,Orange Finances Mobiles Guinée,,2022-12-12-gin-guineematin-orange-money-transfert-international
 GMB,PAPSS,Gambia,crossborder,pan-African payment and settlement system,Pan-African Payment and Settlement System,,2026-04-01-papss-list-of-live-commercial-banks-april-2026
 GMB,Yonna Global Wallet,Gambia,crossborder,mobile wallet,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app
 GMB,PAPSS,Gambia,crossborder,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
@@ -120,6 +122,9 @@ MAR,PAPSS,Morocco,crossborder,,Afreximbank,,2025-07-07-papss-bank-al-maghrib-adh
 MAR,PAPSS,Morocco,crossborder,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 MAR,PAPSS,Morocco,crossborder,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 MDG,MVola,Madagascar,other,mobile wallet,Axian Digibank & Fintech,,2025-11-27-mastercard-axian-partnership
+MDG,MVola,Madagascar,other,mobile money,Telma Madagascar,,2023-10-26-mdg-expression-mfs-africa-mvola-remittances
+MDG,MVola,Madagascar,other,mobile money,Telma,,2024-02-09-mdg-madagascarnewsroom-thunes-mvola-remittance
+MDG,Thunes,Madagascar,crossborder,remittance aggregator,Thunes,,2024-02-09-mdg-madagascarnewsroom-thunes-mvola-remittance
 MLI,Wave Mobile Money,Mali,other,,Wave,,2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali
 MLI,TerraPay network,Mali,crossborder,TerraPay,TerraPay,,2025-05-29 TerraPay enables cross-border remittances for Wave Mobile Money users in Mali
 MLI,PI-SPI,Mali,other,regional instant payment platform,BCEAO,,2026-04-02-bceao-liste-participants-pi-spi
@@ -131,6 +136,7 @@ MOZ,SADC-RTGS,SADC (15 participating countries),crossborder,,South African Reser
 MOZ,SADC-RTGS,Mozambique,crossborder,,South African Reserve Bank,,2026-06-01-sadc-rtgs-settlement-statistics-june-2026
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MRT,Bankily,Bankily,crossborder,,Banque Populaire de Mauritanie,,2023-08-28-mrt-bpm-partenariat-remitly-bankily
 MUS,MauCAS-UPI link,Mauritius,crossborder,,Bank of Mauritius,,2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience
 MUS,REPSS,Mauritius,crossborder,,COMESA,,2026-10-13-xss-bis-thakoor-cross-border-payments-necessity-africa-resilience
 MUS,SADC-RTGS,Mauritius,crossborder,RTGS,South African Reserve Bank (operator),,2026-07-29-sadc-rtgs-currencies-centralbanking
@@ -163,6 +169,7 @@ RWA,SWIFT,global,other,payment messaging network,,,2026-09-22-rwa-ktpress-bank-k
 RWA,Rwanda-Tanzania Instant Payment System Proof of Concept,Rwanda,crossborder,,EU-EAC DEEP Programme,,2026-08-29-eac-rwanda-tanzania-cybersecurity-instant-payments
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
+SDN,electronic payment framework linked to Saudi mobile banking apps,Sudan,crossborder,,"Ministry of Finance, with Ministry of Digital Transformation and Telecommunications",,2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework
 SEN,Sendwave Wallet,Senegal,crossborder,,,,2026-10-10-osiris-sen-pi-spi-orange-money-bocoum
 SEN,PI-SPI,Senegal,crossborder,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -174,6 +181,7 @@ SLE,PAPSS,Sierra Leone,crossborder,continental payment rail,Pan-African Payment 
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,PAPSS,Somalia,crossborder,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+SSD,MTN MoMo / Onafriq remittance corridors,South Sudan,crossborder,mobile money,MTN South Sudan; Onafriq,,2025-05-29-ssd-itweb-mtn-momo-onafriq-remittances
 SWZ,Transactions Cleared on an Immediate Basis,Eswatini,crossborder,,,,2026-07-21-egypt-eswatini-deepen-banking-cooperation
 SWZ,PAPSS,Eswatini,crossborder,,,accession under discussion,2026-07-21-egypt-eswatini-deepen-banking-cooperation
 SYC,AfCFTA Digital Trade Corridor,Seychelles,other,PAPSS,AfCFTA Secretariat and Quest Ghana,,2026-08-31-afcfta-quest-ghana-digital-trade-corridor
@@ -213,6 +221,7 @@ ZAF,CIPS,South Africa,crossborder,,People's Bank of China system,,2026-09-10-tec
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,SADC-RTGS,SADC Real Time Gross Settlement System,crossborder,,,,2026-10-17-zaf-sarb-nps-regulation-page
 ZMB,CIPS,Cross-Border Interbank Payment System,crossborder,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZMB,SADC-RTGS,Zambia,crossborder,RTGS,South African Reserve Bank (operator),,2026-07-29-sadc-rtgs-currencies-centralbanking
 ZMB,TCIB,Zambia,other,SADC,SADC,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
@@ -220,3 +229,6 @@ ZMB,COMESA Digital Retail Payment Platform,Zambia,crossborder,,COMESA,,2025-03-0
 ZWE,PAPSS,Pan-African Payment and Settlement System,crossborder,Afreximbank clearing,Afreximbank,,2026-10-08-zwe-herald-papss-5-8-million-a-month-afreximbank-ceo-roundtable
 ZWE,SADC-RTGS,Zimbabwe,crossborder,RTGS,South African Reserve Bank (operator),,2026-07-29-sadc-rtgs-currencies-centralbanking
 ZWE,PAPSS,Zimbabwe,crossborder,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey
+ZWE,EcoCash International Money Transfer,Zimbabwe,crossborder,USSD *151#,EcoCash,,2025-05-14-zwe-newsday-ecocash-international-money-transfers
+ZWE,TCIB,SADC regional FPS,other,,SADC,,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic
+ZWE,EcoCash,EcoCash,other,mobile wallet,Econet Wireless Zimbabwe,,2024-05-02-zwe-econet-free-remittance-corridors

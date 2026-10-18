@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,retail,service,coverage,inservice,2026-08-31,TGO-002;TGO-006;TGO-007;TGO-008;TGO-009;TGO-011;TGO-012,,
+TGO,retail,service,coverage,inservice,2026-08-31,TGO-002;TGO-006;TGO-007;TGO-008;TGO-009;TGO-011;TGO-012;TGO-014,,
 TGO,retail,interop,coverage,interop,2026-06-24,TGO-001;TGO-003;TGO-004;TGO-005;TGO-010;TGO-013,,
 TGO,retail,switch,coverage,,,,,nothing held

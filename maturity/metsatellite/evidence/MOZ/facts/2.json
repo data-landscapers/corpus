@@ -1,0 +1,36 @@
+{
+ "slug": "2023-09-11-moz-worldbank-sistema-alerta-antecipado-salva-vidas",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The World Bank reports that Mozambique's national meteorology institute INAM produces its weather warnings from satellite images, radar and observation-network data.",
+   "as_of": "2023-09-11",
+   "date_precision": "day",
+   "system": "INAM early warning system",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "The World Bank reports that INAM issues weather warnings based on satellite images, radar and network data, which the Instituto de Comunicação Social then relays through 70 community radios and community brigades.",
+   "as_of": "2023-09-11",
+   "date_precision": "day",
+   "system": "INAM early warning system",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de alerta antecipado",
+   "country_label": "Moçambique",
+   "class": "metsat",
+   "platform": "satellite imagery, radar and observation network",
+   "owner": "INAM (with INGD and ICS)",
+   "tiers": "warning by INAM; dissemination by ICS radios and brigades; coordination by INGD"
+  }
+ ],
+ "note": ""
+}

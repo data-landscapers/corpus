@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-bdi-indundi-plateforme-e-gp-2027",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The finance minister said the e-GP e-procurement platform, set up by the Ministry of Finance, Budget and Digital Economy, is due to enter into force from 2027.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "e-GP",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Finance, Budget and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

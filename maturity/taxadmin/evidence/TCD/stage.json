@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "unplaced",
-   "filing": "",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether tax returns can be filed online.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-005;TCD-007",
+      "gaps": "No source held since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

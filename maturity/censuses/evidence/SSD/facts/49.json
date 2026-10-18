@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-02-ssd-ilo-labour-force-migration-survey-pretest",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Labour Force and Migration Survey 2025/26",
+   "country_label": "LFMS 2025/26",
+   "class": "other",
+   "platform": "CAPI tablets",
+   "owner": "NBS with ILO",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a pre-test of a forthcoming survey; no census and no published survey results are stated."
+}

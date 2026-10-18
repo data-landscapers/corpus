@@ -1,0 +1,42 @@
+{
+ "slug": "2022-11-11-gha-routledge-digitalisation-revenue-mobilisation",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The chapter says GRA's ITAPS, introduced in 2019, facilitates online payment and record keeping for domestic taxes by taxpayers.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "ITAPS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAPS",
+       "country_label": "Ghana",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ghana Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "Paperless Port System",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "GCNet",
+       "owner": "Ghana Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

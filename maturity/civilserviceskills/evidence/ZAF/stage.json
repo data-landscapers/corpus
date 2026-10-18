@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "csskills",
-      "stage": "2",
-      "training": "underway",
+      "stage": "3",
+      "training": "inservice",
       "reach": "",
       "share": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002",
-      "gaps": "No source held since October 2023 says: is a standing programme in service.",
+      "stage_sources": "ZAF-003",
+      "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
       "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

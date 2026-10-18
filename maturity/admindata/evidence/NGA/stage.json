@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "admin",
-   "stage": "no evidence",
-   "use": "",
-   "vital": "",
-   "series": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names statistics drawn from administrative records, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "admin",
+      "stage": "2",
+      "use": "preparing",
+      "vital": "",
+      "series": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001",
+      "gaps": "No source held reports statistics from administrative records published since October 2023.",
+      "note": "Counted from the four questions by study-ladder-admindata.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

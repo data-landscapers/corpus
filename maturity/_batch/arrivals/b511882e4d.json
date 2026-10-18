@@ -1,0 +1,15 @@
+{"slug": "2026-10-17-zaf-sars-guide-to-payment-rules", "studies": {
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states nothing on public procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Foreign payments to SARS by SWIFT are bank transfers to the tax authority, not a digital corridor or regional system."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document covers payments to government, not government payments to people."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no mobile money or retail payment service rules or status."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "SARS says Customs and Excise clients declaring goods electronically must use the SARS eFiling service to make payments, and Personal Income Tax and Travellers' payments can be made on the SARS MobiApp.", "as_of": "2026-10-17", "date_precision": "day", "system": "SARS eFiling", "class": "revenue"}
+], "systems": [
+{"system": "SARS eFiling", "country_label": "South Africa", "class": "revenue", "platform": "eFiling", "owner": "South African Revenue Service", "tiers": ""},
+{"system": "SARS MobiApp", "country_label": "South Africa", "class": "revenue", "platform": "mobile app", "owner": "South African Revenue Service", "tiers": ""}
+], "note": ""}}}
+}}

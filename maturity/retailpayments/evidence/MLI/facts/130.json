@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-12-mli-worldbank-jigisemejiri-mobile-money-pilot",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank blog says access to mobile phones and the use of mobile money is already widespread in the Mopti region, with mobile money agents available in most villages.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

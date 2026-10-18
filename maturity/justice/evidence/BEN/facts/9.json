@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-29-ben-lamarina-interconnexion-juridictions",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "La Marina BJ reports that Benin's e-justice project, an information system for managing criminal and civil procedures, was at the stage of a technical feasibility study due to start in October 2024, with a consultancy to be named by September 2024.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "e-justice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-justice",
+   "country_label": "Bénin",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice; Agence nationale d'équipement et du patrimoine immobilier",
+   "tiers": "110 judicial sites planned"
+  }
+ ],
+ "note": ""
+}

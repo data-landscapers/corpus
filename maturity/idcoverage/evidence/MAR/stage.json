@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "no evidence",
-   "share": "",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held counts the people holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source held since October 2023 counts 99.9% of the population or more holding a national ID.",
+      "note": "First pass: counted from the four questions by study-ladder-idcoverage.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

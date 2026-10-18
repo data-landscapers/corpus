@@ -1,0 +1,8 @@
+{"slug": "2023-10-25-cog-hispwca-suivi-vaccinal-dhis2", "studies": {
+"health": {"countries": {"COG": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "HISP West and Central Africa says Congo adopted DHIS2 in October 2018 with technical and financial support from partners such as GAVI and HISP Togo.", "as_of": "2018-10", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+], "systems": [{"system": "DHIS2", "country_label": "SNIS (DHIS2)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"COG": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "HISP West and Central Africa says Congo's national health information system runs on DHIS2, which gives real-time data feed from 52 health districts to the central level.", "as_of": "2023-10", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+], "systems": [], "note": ""}}}
+}}

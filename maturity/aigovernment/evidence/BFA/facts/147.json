@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool.",
+   "as_of": "2025-10-21",
+   "date_precision": "day",
+   "system": "Mooré-French translation tool (Ministry-RTB AI partnership)",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mooré-French translation tool",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition / RTB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

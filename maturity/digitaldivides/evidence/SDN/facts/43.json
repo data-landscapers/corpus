@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-17-sdn-tpra-universal-service-fund-purposes",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "TPRA states the Universal Service Fund exists to provide telecom services in remote areas, bridge the digital divide and spread communications and postal services in rural areas, with power to set plans and programmes.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

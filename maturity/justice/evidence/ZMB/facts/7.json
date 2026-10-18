@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-20-zmb-synergy-judiciary-ecms",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Synergy International Systems says the Judiciary of Zambia is developing, with Treasury funding, an Electronic Case Management System to connect the Supreme, Constitutional, Appeal, High and Subordinate Courts, and that it currently relies on manual processes.",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "Electronic Case Management System (ECMS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Case Management System (ECMS)",
+   "country_label": "Zambia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Zambia",
+   "tiers": "Supreme, Constitutional, Appeal, High and Subordinate Courts"
+  }
+ ],
+ "note": ""
+}

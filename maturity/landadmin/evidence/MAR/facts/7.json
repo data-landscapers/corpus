@@ -1,0 +1,26 @@
+{
+ "slug": "2013-01-01-mar-itu-wsis-ancfcc-e-foncier",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANCFCC's e-Foncier, built on LOGICF (land titles), SIGEST (requisitions), SICAD (cadastral registers) and CADGIS (cadastral plans), gives users online services for registrations, certificates and titles; its status reads Completed.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "e-Foncier",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Foncier",
+   "country_label": "Morocco",
+   "class": "landmis",
+   "platform": "LOGICF, SIGEST, SICAD, CADGIS",
+   "owner": "ANCFCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

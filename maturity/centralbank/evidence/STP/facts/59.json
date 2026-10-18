@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-20-stp-rstp-bcstp-comunicado-licenciamento-ip",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025).",
+   "as_of": "2025-01-20",
+   "date_precision": "day",
+   "system": "payment institution licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

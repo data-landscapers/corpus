@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-ssd-mogei-national-education-census-report-2021",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of General Education and Instruction says its Data and Statistics Unit operates the Education Management Information System and ran the 2021 education census, with the second wholly ministry-run exercise through EMIS (the first was 2018), covering more than 90% of schools and publishing national education statistics.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS)",
+   "country_label": "South Sudan",
+   "class": "emis",
+   "platform": "Kobo Humanitarian online server for 2021 census tablet collection",
+   "owner": "Ministry of General Education and Instruction, Data and Statistics Unit",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

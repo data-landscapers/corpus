@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-eri-geezlab-glare-eritrean-language-ai-research",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "TiNC24 and TiPOSC24 corpora",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "GeezLab lists Dahlak LMs, a family of language models trained on Eritrean languages, as in progress.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Dahlak LMs",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dahlak LMs",
+   "country_label": "Eritrea",
+   "class": "localai",
+   "platform": "research.geezlab.com",
+   "owner": "GeezLab (GLaRe)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

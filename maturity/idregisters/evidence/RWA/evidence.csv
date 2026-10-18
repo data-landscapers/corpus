@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 RWA-001,RWA,registers,register,inservice,The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification.,2026-10-16,day,IPPIS,register,2026-10-16-rwa-ippis-developer-api,https://www.api.ippis.rw/
+RWA-002,RWA,registers,register,inservice,The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list.,2024-05-18,day,voters' list,register,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration,https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150

@@ -9,3 +9,15 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,dpi.id--authentication-authentication,fact,5,5,SOM-008;SOM-011,Arrivals added SOM-016; SOM-017; stage unchanged.
 2026-10-17,STP,dpi.id--authentication-authentication,fact,2,2,STP-002;STP-001,Arrivals added STP-003; stage unchanged.
 2026-10-17,TUN,dpi.id--authentication-authentication,fact,4,5,TUN-017,Arrivals added TUN-015; TUN-016; TUN-017; TUN-018; TUN-019; TUN-020; TUN-021; stage 4 -> 5.
+2026-10-18,AGO,dpi.id--authentication-authentication,fact,3,3,AGO-004;AGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,dpi.id--authentication-authentication,fact,4,4,CIV-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CMR,dpi.id--authentication-authentication,fact,3,3,CMR-001;CMR-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.id--authentication-authentication,fact,5,5,CPV-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.id--authentication-authentication,fact,4,4,DZA-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,dpi.id--authentication-authentication,fact,3,3,EGY-005;EGY-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBR,dpi.id--authentication-authentication,fact,3,3,LBR-002;LBR-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MOZ,dpi.id--authentication-authentication,fact,2,4,MOZ-007,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.id--authentication-authentication,fact,4,4,NGA-005;NGA-003,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.id--authentication-authentication,fact,3,3,SEN-002;SEN-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.id--authentication-authentication,fact,4,4,TZA-008;TZA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.id--authentication-authentication,fact,4,4,ZAF-007;ZAF-013,Stage 4c: 2 news arrival(s) read; restaged from every row held.

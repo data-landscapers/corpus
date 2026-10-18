@@ -1,0 +1,25 @@
+{
+ "slug": "2025-03-14-mar-ompic-generalisation-creation-entreprise-en-ligne",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "OMPIC states its electronic company-creation platform is now in service nationwide, with over 12,000 firms created electronically since the February 2023 Rabat pilot.",
+       "as_of": "2025-03-14",
+       "date_precision": "day",
+       "system": "directentreprise.ma electronic company creation platform",
+       "class": "business"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

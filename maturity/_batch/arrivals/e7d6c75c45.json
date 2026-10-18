@@ -1,0 +1,44 @@
+{
+ "slug": "2021-08-04-moz-mdpi-land-fit-for-purpose-sigit",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The paper states SiGIT, Mozambique's land information management system, had processed 1,375,586 individual parcels and 826 community delimitations in the national land cadastre up to March 2020.",
+       "as_of": "2020-03",
+       "date_precision": "month",
+       "system": "SiGIT",
+       "class": "landmis"
+      },
+      {
+       "sub_indicator": "landmis",
+       "aspect": "tax",
+       "value": "linked",
+       "fact": "The paper states SiGIT incorporated land legislation into its workflows for all land administration processes from registration to taxation, including transmission of rights.",
+       "as_of": "2021-08-04",
+       "date_precision": "day",
+       "system": "SiGIT",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SiGIT",
+       "country_label": "Mozambique",
+       "class": "landmis",
+       "platform": "ISO 19152 LADM-based back office with mobile and cloud apps",
+       "owner": "National Directorate of Land; lifecycle run by EXI Lda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

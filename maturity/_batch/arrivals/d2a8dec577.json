@@ -1,0 +1,35 @@
+{
+ "slug": "2026-09-01-civ-artci-neutralite-du-net-contribution-moov",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "ARTCI ran a public consultation from 6 July to 6 August 2026 on draft net-neutrality guidelines, with the consultation document available on its website and responses taken by email.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "ARTCI consultation publique sur la neutralité du Net",
+       "class": "eparticipation"
+      },
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "published",
+       "value": "published",
+       "fact": "ARTCI published operators' responses to the net-neutrality consultation, including Moov Africa CI's contribution, on its website in September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "ARTCI consultation publique sur la neutralité du Net",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

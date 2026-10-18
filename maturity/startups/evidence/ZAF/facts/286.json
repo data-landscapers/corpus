@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-zaf-govza-dsti-innovation-fund",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "funded",
+   "value": "funded",
+   "fact": "The DSTI says its public Innovation Fund has supported 12 venture capital firms and around 96 technology investment opportunities and enterprises, giving catalytic risk capital to early-stage startups and tech-enabled SMEs.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Innovation Fund",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

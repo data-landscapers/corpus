@@ -1,0 +1,43 @@
+{
+ "slug": "2024-12-21-cog-fasuce-evaluation-semestrielle-2024-2025",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "FASUCE's director said 20 of 44 targeted rural localities were now connected (45.45%), giving 19,498 citizens access to digital services.",
+       "as_of": "2024-12-21",
+       "date_precision": "day",
+       "system": "FASUCE",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Disability access is stated only as an aim of the programme; nothing delivered."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Multimedia rooms in four lycees are a connectivity programme, no school internet share or compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-17-gha-geoglam-geomaize-yield",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "GEOGLAM's account by the project leads says the Ghana Space Science and Technology Institute and VITO are building the GEOMAIZE maize yield estimation from Sentinel-2 time series, with Ghana having a foundation for an operational pipeline.",
+       "as_of": "2026-03-17",
+       "date_precision": "day",
+       "system": "GEOMAIZE",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GEOMAIZE",
+       "country_label": "GEOMAIZE",
+       "class": "agrisat",
+       "platform": "",
+       "owner": "Ghana Space Science and Technology Institute with VITO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no such thing for this country."
+    }
+   }
+  }
+ }
+}

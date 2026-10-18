@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "no evidence",
-   "programme": "",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether rural areas are being connected or how far rural internet use lags urban.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "4",
+      "programme": "delivering",
+      "measured": "measured",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
+      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-10-bwa-imf-reforming-social-security-system",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "none",
+   "fact": "The IMF says Botswana has no single fully operational electronic registry of beneficiaries or joint information management system across its 30 programmes, so targeting and selection frequently require extensive paperwork.",
+   "as_of": "2024-09-10",
+   "date_precision": "day",
+   "system": "",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Social Registry (SSR)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Local Government and Rural Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,55 +1,55 @@
 iso3,stage,registration,shared,owners,stage_sources
-AGO,no evidence,,,,
-BDI,unplaced,,,,
-BEN,no evidence,,,,
+AGO,unplaced,,,,
+BDI,3,inservice,,,BDI-002
+BEN,4,inservice,shared,,BEN-003
 BFA,2,underway,,,BFA-001
-BWA,no evidence,,,,
+BWA,3,inservice,,,BWA-002
 CAF,2,underway,,,CAF-001
-CIV,no evidence,,,,
+CIV,3,inservice,,,CIV-002
 CMR,2,underway,,,CMR-001
 COD,2,underway,,,COD-003;COD-001
 COG,3,inservice,,,COG-001
 COM,no evidence,,,,
-CPV,no evidence,,,,
-DJI,no evidence,,,,
-DZA,no evidence,,,,
-EGY,no evidence,,,,
+CPV,3,inservice,,,CPV-001
+DJI,3,inservice,,,DJI-002
+DZA,4,inservice,shared,,DZA-002
+EGY,3,inservice,,,EGY-003;EGY-002
 ERI,no evidence,,,,
 ETH,3,inservice,,,ETH-001
-GAB,no evidence,,,,
+GAB,unplaced,,,,
 GHA,2,underway,,,GHA-001
-GIN,no evidence,,,,
+GIN,2,underway,,,GIN-002;GIN-003
 GMB,2,underway,,,GMB-001
-GNB,no evidence,,,,
-GNQ,no evidence,,,,
+GNB,unplaced,,,,
+GNQ,2,underway,,,GNQ-001
 KEN,3,inservice,,,KEN-002
 LBR,2,underway,,,LBR-001
-LBY,no evidence,,,,
-LSO,2,underway,,,LSO-001
-MAR,no evidence,,,,
+LBY,2,underway,,,LBY-001
+LSO,2,underway,,,LSO-001;LSO-002
+MAR,3,inservice,,,MAR-002
 MDG,5,inservice,shared,recorded,MDG-003;MDG-004
 MLI,2,underway,,,MLI-001
-MOZ,no evidence,,,,
-MRT,no evidence,,,,
-MUS,unplaced,,,,
-MWI,no evidence,,,,
+MOZ,5,inservice,shared,recorded,MOZ-002
+MRT,4,inservice,shared,,MRT-002
+MUS,3,inservice,,,MUS-003;MUS-002
+MWI,2,underway,,,MWI-001
 NAM,1,none,,,NAM-001
 NER,no evidence,,,,
 NGA,5,inservice,shared,recorded,NGA-001;NGA-002
 RWA,3,inservice,,,RWA-001;RWA-002
 SDN,no evidence,,,,
 SEN,3,inservice,,,SEN-001
-SLE,no evidence,,,,
+SLE,3,inservice,,,SLE-003
 SOM,3,inservice,,,SOM-001
 SSD,3,inservice,,,SSD-001
 STP,unplaced,,,,
 SWZ,3,inservice,,,SWZ-001
 SYC,unplaced,,,,
 TCD,2,underway,,,TCD-001;TCD-002
-TGO,5,inservice,shared,recorded,TGO-002
+TGO,5,inservice,shared,recorded,TGO-002;TGO-005
 TUN,4,inservice,shared,,TUN-003
-TZA,no evidence,,,,
+TZA,3,inservice,,,TZA-002
 UGA,3,inservice,,,UGA-002;UGA-003
 ZAF,5,inservice,shared,recorded,ZAF-001;ZAF-002
 ZMB,2,underway,,,ZMB-001
-ZWE,no evidence,,,,
+ZWE,3,inservice,,,ZWE-001

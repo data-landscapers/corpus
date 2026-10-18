@@ -1,0 +1,241 @@
+{
+ "slug": "2026-10-07-syc-worldbank-pid-inclusive-digital-economy",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "none",
+       "fact": "The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "interoperability layer",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The World Bank project information document refers to the Seychelles Data Protection Act 2023 and says the Information Commission was created under it.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Data Protection Act 2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The World Bank project information document says the Information Commission, created under the Data Protection Act 2023, is under-resourced.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "Information Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Information Commission",
+       "country_label": "Seychelles",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SeyID",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "The World Bank project information document says Seychelles has strong international connectivity through three submarine cables.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "submarine cables",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "estimate:87",
+       "fact": "The World Bank project information document says internet use in Seychelles reached 87 percent in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "internet use",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "none",
+       "fact": "The World Bank project information document says Seychelles has no tech hubs or incubators.",
+       "as_of": "2026-10-07",
+       "date_precision": "day",
+       "system": "tech hubs",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

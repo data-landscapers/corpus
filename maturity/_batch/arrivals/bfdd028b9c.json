@@ -1,0 +1,115 @@
+{
+ "slug": "2024-09-20-cog-sacer-sifec-digitalisation-etat-civil",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only online authentication of birth certificates is mentioned, not of a person's identity."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID system is stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "On 16 September 2024 the Interior ministry's adviser presented to Brazzaville district mayors the progress of the Sifec project to digitalise birth, marriage and death records, launched two years earlier.",
+       "as_of": "2024-09-16",
+       "date_precision": "day",
+       "system": "Système intégré des faits d'état civil (Sifec)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système intégré des faits d'état civil (Sifec)",
+       "country_label": "Congo",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Interior, Decentralisation and Local Development; Acsi presented it",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID enrolment figure."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No register keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on the national ID system."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register named."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not say where records are entered, nor offices covered."
+    }
+   }
+  }
+ }
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,sectorai,use,coverage,underway,2026-10-12,GHA-001,,
+GHA,sectorai,use,coverage,inservice,2025-05-22,GHA-002,GHA-001=underway,
 GHA,sectorai,sectors,coverage,,,,,nothing held
 GHA,sectorai,results,coverage,,,,,nothing held

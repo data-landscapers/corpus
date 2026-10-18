@@ -1,14 +1,14 @@
 iso3,stage,system,linked,completeness,stage_sources
 AGO,3,inservice,,,AGO-001
-BDI,no evidence,,,,
+BDI,5,inservice,linked,published,BDI-004
 BEN,3,inservice,,,BEN-001
 BFA,3,inservice,,,BFA-001;BFA-002
 BWA,3,inservice,,,BWA-001
 CAF,5,inservice,linked,published,CAF-003
 CIV,4,inservice,linked,,CIV-002
-CMR,no evidence,,,,
+CMR,unplaced,,,,
 COD,5,inservice,linked,published,COD-005
-COG,no evidence,,,,
+COG,3,inservice,,,COG-001
 COM,4,inservice,linked,,COM-003
 CPV,2,underway,,,CPV-001
 DJI,3,inservice,,,DJI-001
@@ -23,7 +23,7 @@ GMB,2,underway,,,GMB-001
 GNB,4,inservice,linked,,GNB-004
 GNQ,2,underway,,,GNQ-001;GNQ-003
 KEN,2,underway,,,KEN-001;KEN-002
-LBR,no evidence,,,,
+LBR,3,inservice,,,LBR-001
 LBY,3,inservice,,,LBY-001
 LSO,2,underway,,,LSO-001
 MAR,2,underway,,,MAR-001
@@ -50,6 +50,6 @@ TGO,4,inservice,linked,,TGO-003
 TUN,no evidence,,,,
 TZA,3,inservice,,,TZA-003;TZA-001
 UGA,5,inservice,linked,published,UGA-004
-ZAF,no evidence,,,,
+ZAF,unplaced,,,,
 ZMB,5,inservice,linked,published,ZMB-002
 ZWE,5,inservice,linked,published,ZWE-004

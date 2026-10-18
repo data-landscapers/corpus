@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-ken-businessdaily-kra-itax-icms-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Business Daily reports KRA runs iTax, the electronic tax system, which crashed on the 30 June 2025 return deadline and was back in use with a five-day extension; KRA says it is upgrading its back end.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "iTax",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iTax",
+   "country_label": "iTax",
+   "class": "core",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

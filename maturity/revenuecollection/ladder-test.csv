@@ -3,53 +3,53 @@ AGO,2,underway,,,AGO-001
 BDI,3,inservice,,,BDI-004;BDI-002
 BEN,3,inservice,,,BEN-001;BEN-002
 BFA,3,inservice,,,BFA-003;BFA-004
-BWA,2,underway,,,BWA-001;BWA-002
+BWA,3,inservice,,,BWA-004
 CAF,3,inservice,,,CAF-002;CAF-001
 CIV,3,inservice,,,CIV-001;CIV-002
 CMR,3,inservice,,,CMR-001;CMR-003
 COD,2,underway,,,COD-001;COD-002
 COG,3,inservice,,,COG-001;COG-003
 COM,2,underway,,,COM-001;COM-002
-CPV,no evidence,,,,
+CPV,3,inservice,,,CPV-001
 DJI,2,underway,,,DJI-001
 DZA,3,inservice,,,DZA-001;DZA-004
 EGY,5,inservice,main,reported,EGY-008
 ERI,no evidence,,,,
 ETH,3,inservice,,,ETH-003
 GAB,3,inservice,,,GAB-002;GAB-003
-GHA,no evidence,,,,
+GHA,unplaced,,,,
 GIN,3,inservice,,,GIN-002;GIN-001
 GMB,3,inservice,,,GMB-001;GMB-002
 GNB,2,underway,,,GNB-001
 GNQ,no evidence,,,,
-KEN,no evidence,,,,
+KEN,3,inservice,,,KEN-001
 LBR,3,inservice,,,LBR-005;LBR-002
 LBY,3,inservice,,,LBY-002;LBY-001
 LSO,4,inservice,main,,LSO-002
 MAR,5,inservice,main,reported,MAR-004
 MDG,3,inservice,,,MDG-002
 MLI,5,inservice,main,reported,MLI-002;MLI-004
-MOZ,no evidence,,,,
+MOZ,3,inservice,,,MOZ-001
 MRT,5,inservice,main,reported,MRT-002;MRT-007
-MUS,3,inservice,,,MUS-001
-MWI,2,underway,,,MWI-001
-NAM,no evidence,,,,
+MUS,3,inservice,,,MUS-001;MUS-003
+MWI,2,underway,,,MWI-001;MWI-002
+NAM,3,inservice,,,NAM-002
 NER,3,inservice,,,NER-001;NER-002
-NGA,no evidence,,,,
-RWA,no evidence,,,,
+NGA,3,inservice,,,NGA-002
+RWA,unplaced,,,,
 SDN,3,inservice,,,SDN-004;SDN-001
-SEN,3,inservice,,,SEN-001
+SEN,3,inservice,,,SEN-001;SEN-002
 SLE,3,inservice,,,SLE-001
 SOM,3,inservice,,,SOM-001;SOM-002
 SSD,3,inservice,,,SSD-002;SSD-003
-STP,no evidence,,,,
-SWZ,no evidence,,,,
-SYC,no evidence,,,,
-TCD,3,inservice,,,TCD-007
+STP,3,inservice,,,STP-001
+SWZ,3,inservice,,,SWZ-001;SWZ-002
+SYC,3,inservice,,,SYC-001
+TCD,3,inservice,,,TCD-007;TCD-010
 TGO,5,inservice,main,reported,TGO-003
-TUN,3,inservice,,,TUN-001
+TUN,3,inservice,,,TUN-002;TUN-001
 TZA,3,inservice,,,TZA-001;TZA-002
 UGA,3,inservice,,,UGA-001;UGA-004
-ZAF,no evidence,,,,
+ZAF,3,inservice,,,ZAF-001
 ZMB,5,inservice,main,reported,ZMB-002;ZMB-004
-ZWE,no evidence,,,,
+ZWE,3,inservice,,,ZWE-002;ZWE-003

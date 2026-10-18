@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MAR,feedback,channel,coverage,inservice,2025,MAR-001;MAR-004;MAR-007,,
+MAR,feedback,reach,coverage,wide,2025,MAR-002;MAR-005;MAR-008,,
+MAR,feedback,results,coverage,published,2025,MAR-003;MAR-006;MAR-009,,

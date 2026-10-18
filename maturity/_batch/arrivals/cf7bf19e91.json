@@ -1,0 +1,155 @@
+{
+ "slug": "2024-10-09-eth-ena-digital-id-registration-campaign-addis",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an aim to digitise life events by integration; no event, office or method stated as in service."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The National Identification Program and the Addis Ababa Civil Registration and Residency Services Agency say the Fayda digital ID is being integrated with Addis Ababa's civil registration system to digitise life events from birth to death.",
+       "as_of": "2024-10-09",
+       "date_precision": "day",
+       "system": "Fayda Digital ID",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda Digital ID",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Addis Ababa Civil Registration and Residency Services Agency says its civil registration is being integrated with the digital ID to digitise life events from birth to death.",
+       "as_of": "2024-10-09",
+       "date_precision": "day",
+       "system": "Addis Ababa civil registration system",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National Identification Program opened a month-long Fayda digital ID registration drive across Addis Ababa's 11 sub-cities and 119 districts, collecting biometric data to give each person a unique verified identification.",
+       "as_of": "2024-10-09",
+       "date_precision": "day",
+       "system": "Fayda Digital ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda Digital ID",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

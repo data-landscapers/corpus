@@ -1,0 +1,44 @@
+{
+ "slug": "2020-01-08-lbr-cbl-consumer-protection-market-conduct-regulation",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Central Bank of Liberia issued Regulation CBL/RSD/004/2020 on consumer protection and market conduct on 8 January 2020, taking effect on Gazette publication, applying to all regulated financial institutions and including e-banking security duties and digital credit disclosure rules (credit up to US$33).",
+   "as_of": "2020-01-08",
+   "date_precision": "day",
+   "system": "Regulations Concerning Consumer Protection and Market Conduct (CBL/RSD/004/2020)",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The regulation requires each financial institution to run a consumer help desk and lets a dissatisfied consumer escalate to the Consumer Protection Unit of the Central Bank of Liberia's Regulation and Supervision Department, which must respond within one month.",
+   "as_of": "2020-01-08",
+   "date_precision": "day",
+   "system": "Consumer Protection Unit, Central Bank of Liberia",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regulations Concerning Consumer Protection and Market Conduct (CBL/RSD/004/2020)",
+   "country_label": "Liberia",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "Consumer Protection Unit",
+   "country_label": "Liberia",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": "The regulation provides for fines of at least LRD 100,000 but reports none imposed, so no enforced fact."
+}

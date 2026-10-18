@@ -1,0 +1,34 @@
+{
+ "slug": "2019-04-22-eri-fig-mandatory-cadastral-registration",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Cadastral Office director general says a modern database has been designed and become operational, replacing manual record keeping, though spatial data is not integrated with textual data.",
+       "as_of": "2019-04",
+       "date_precision": "month",
+       "system": "Eritrean cadastre database",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eritrean cadastre database",
+       "country_label": "Eritrea",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Cadastral Office, Ministry of Land, Water and Environment",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,18 +1,19 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "4",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "live",
-   "cadre": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-025;ZMB-001;ZMB-013",
-   "gaps": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "cadre": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-025;ZMB-001;ZMB-013",
+      "gaps": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

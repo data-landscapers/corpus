@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-mar-dgi-impot-sur-les-societes-declaration-electronique",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Corporate tax summary; nothing on local government."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Passages state no electronic filing or payment."
+    }
+   }
+  }
+ }
+}

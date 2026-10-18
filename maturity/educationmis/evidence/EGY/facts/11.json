@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-egy-obp-zayed-digital-transformation-edtech",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The chapter says the Digital Transformation of the Education Ministry (MOETE) connects governorates, districts and schools by digitalising administrative processes and collecting, storing and organising individual-level data about students, teachers and assets.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital Transformation of the MOETE",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "The chapter says the Digital Identity Project records and stores data on students (attainment, attendance, tablet use, health) in central secured databases.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital Identity Project",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Identity Project",
+   "country_label": "Egypt",
+   "class": "emis",
+   "platform": "",
+   "owner": "MOETE",
+   "tiers": ""
+  },
+  {
+   "system": "Egyptian Knowledge Bank LMS",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

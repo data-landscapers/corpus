@@ -1,0 +1,26 @@
+{
+ "slug": "2023-07-01-civ-uvci-politique-digitalisation-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "Two Universite Virtuelle de Cote d'Ivoire authors published an article on the digitalisation of public services and its governance implications.",
+   "as_of": "2023-07-01",
+   "date_precision": "day",
+   "system": "Universite Virtuelle de Cote d'Ivoire",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universite Virtuelle de Cote d'Ivoire",
+   "country_label": "Cote d'Ivoire",
+   "class": "research",
+   "platform": "",
+   "owner": "UVCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

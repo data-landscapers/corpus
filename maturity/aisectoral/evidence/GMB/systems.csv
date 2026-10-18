@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
+GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
+GMB,TITA App,The Gambia,sectorai,mobile app with admin panel,MoHERST; developed by TITA Universal Services Ltd.,"students, lecturers (Lecti), management (TITA Admin Panel)",2025-04-25-gmb-kerrfatou-moherst-tita-ai-app

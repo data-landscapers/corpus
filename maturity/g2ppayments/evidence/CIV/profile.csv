@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,g2p,payment,coverage,inservice,2026-10-08,CIV-001,,
+CIV,g2p,payment,coverage,inservice,2026-10-08,CIV-001;CIV-002,,
 CIV,g2p,streams,coverage,,,,,nothing held
 CIV,g2p,linked,coverage,,,,,nothing held

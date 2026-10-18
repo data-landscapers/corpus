@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-28-caf-oubangui-cnss-plateforme-teledeclaration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNSS teledeclaration platform",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "",
+   "owner": "Caisse Nationale de Sécurité Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": "Social security employer declarations only; no tax or multi-service government portal stated."
+}

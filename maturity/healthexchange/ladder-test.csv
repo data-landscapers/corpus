@@ -20,9 +20,9 @@ GAB,2,underway,,,GAB-001
 GHA,2,underway,,,GHA-001
 GIN,3,inservice,,,GIN-001
 GMB,2,underway,,,GMB-001
-GNB,no evidence,,,,
+GNB,3,inservice,,,GNB-001
 GNQ,no evidence,,,,
-KEN,3,inservice,,,KEN-001
+KEN,3,inservice,,,KEN-001;KEN-004
 LBR,no evidence,,,,
 LBY,3,inservice,,,LBY-001
 LSO,3,inservice,,,LSO-004;LSO-003
@@ -31,7 +31,7 @@ MDG,2,underway,,,MDG-001
 MLI,3,inservice,,,MLI-001;MLI-003
 MOZ,3,inservice,,,MOZ-002
 MRT,2,underway,,,MRT-001
-MUS,no evidence,,,,
+MUS,2,underway,,,MUS-001
 MWI,2,underway,,,MWI-001;MWI-002
 NAM,1,none,,,NAM-001;NAM-002
 NER,4,inservice,wide,,NER-002
@@ -43,13 +43,13 @@ SLE,3,inservice,,,SLE-001
 SOM,3,inservice,,,SOM-002;SOM-001
 SSD,3,inservice,,,SSD-001
 STP,2,underway,,,STP-001
-SWZ,3,inservice,,,SWZ-003;SWZ-001
+SWZ,3,inservice,,,SWZ-005;SWZ-003
 SYC,no evidence,,,,
 TCD,2,underway,,,TCD-001
 TGO,2,underway,,,TGO-001
 TUN,5,inservice,wide,linked,TUN-001;TUN-008
 TZA,4,inservice,wide,,TZA-005
 UGA,3,inservice,,,UGA-001;UGA-003
-ZAF,2,underway,,,ZAF-001
+ZAF,2,underway,,,ZAF-001;ZAF-002
 ZMB,3,inservice,,,ZMB-001
 ZWE,3,inservice,,,ZWE-004

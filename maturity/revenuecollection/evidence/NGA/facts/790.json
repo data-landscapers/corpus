@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-30-nga-etn-firs-banks-close-accounts-taxpro-max",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "FIRS states all tax and levy collections must be processed through assessments raised on the TaxPro Max platform, which handles payment processing and receipts.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "TaxPro Max",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaxPro Max",
+   "country_label": "TaxPro Max",
+   "class": "revenue",
+   "platform": "",
+   "owner": "FIRS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

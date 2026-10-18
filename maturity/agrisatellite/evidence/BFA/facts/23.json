@@ -1,0 +1,26 @@
+{
+ "slug": "2023-05-01-bfa-gwp-alerte-precoce-secheresse",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Burkina Faso's national drought forecasting and early-warning process (climatology directorate, May 2023 GWP presentation) uses NDVI and VCI vegetation indices among its drought indicators, with agricultural alert thresholds by climate zone, and the country has one satellite-image reception station.",
+   "as_of": "2023-05-01",
+   "date_precision": "day",
+   "system": "Processus de prévision, de surveillance et d'alerte précoce à la sécheresse",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Processus de prévision, de surveillance et d'alerte précoce à la sécheresse",
+   "country_label": "Burkina Faso",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "Direction de la Climatologie, du Réseau et de la Recherche Opérationnelle (DCRO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

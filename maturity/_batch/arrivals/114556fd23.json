@@ -1,0 +1,73 @@
+{
+ "slug": "2024-03-20-tcd-tchadinfos-e-tax-experts-comptables",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The director general of taxes says E-Tax lets taxpayers pay all taxes and duties they owe online, and that the DGI is interconnected with eight banks.",
+       "as_of": "2024-03-20",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Tax",
+       "country_label": "Chad",
+       "class": "revenue",
+       "platform": "online portal",
+       "owner": "Direction generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The DGI says E-Tax is a platform for online registration, filing (teledeclaration) and payment, where returns, payment orders and receipts can be issued and downloaded online.",
+       "as_of": "2024-03-20",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The DGI says E-Tax allows taxpayers to pay online all taxes they owe, and it is interconnected with eight banks.",
+       "as_of": "2024-03-20",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Tax",
+       "country_label": "Chad",
+       "class": "taxsystem",
+       "platform": "online portal",
+       "owner": "Direction generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

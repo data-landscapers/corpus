@@ -1,55 +1,55 @@
 iso3,stage,system,endtoend,reported,stage_sources
-AGO,no evidence,,,,
-BDI,no evidence,,,,
-BEN,no evidence,,,,
-BFA,no evidence,,,,
-BWA,no evidence,,,,
+AGO,3,inservice,,,AGO-001
+BDI,2,underway,,,BDI-001;BDI-002
+BEN,5,inservice,endtoend,reported,BEN-004
+BFA,unplaced,,,,
+BWA,2,underway,,,BWA-001
 CAF,no evidence,,,,
-CIV,no evidence,,,,
-CMR,no evidence,,,,
-COD,no evidence,,,,
-COG,no evidence,,,,
-COM,no evidence,,,,
+CIV,unplaced,,,,
+CMR,5,inservice,endtoend,reported,CMR-003
+COD,2,underway,,,COD-001;COD-002
+COG,2,underway,,,COG-001
+COM,2,underway,,,COM-001
 CPV,2,underway,,,CPV-002
-DJI,no evidence,,,,
-DZA,no evidence,,,,
+DJI,unplaced,,,,
+DZA,3,inservice,,,DZA-001
 EGY,no evidence,,,,
 ERI,no evidence,,,,
-ETH,no evidence,,,,
-GAB,no evidence,,,,
-GHA,no evidence,,,,
+ETH,5,inservice,endtoend,reported,ETH-004
+GAB,2,underway,,,GAB-002
+GHA,5,inservice,endtoend,reported,GHA-002
 GIN,3,inservice,,,GIN-001;GIN-002
-GMB,unplaced,,,,
+GMB,3,inservice,,,GMB-002
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,no evidence,,,,
+GNQ,2,underway,,,GNQ-001
+KEN,4,inservice,endtoend,,KEN-002;KEN-004
 LBR,2,underway,,,LBR-001
-LBY,no evidence,,,,
+LBY,5,inservice,endtoend,reported,LBY-002
 LSO,no evidence,,,,
-MAR,no evidence,,,,
-MDG,no evidence,,,,
-MLI,no evidence,,,,
-MOZ,no evidence,,,,
-MRT,no evidence,,,,
-MUS,no evidence,,,,
-MWI,5,inservice,endtoend,reported,MWI-004
-NAM,no evidence,,,,
-NER,no evidence,,,,
-NGA,no evidence,,,,
-RWA,no evidence,,,,
-SDN,no evidence,,,,
-SEN,no evidence,,,,
+MAR,unplaced,,,,
+MDG,2,underway,,,MDG-001
+MLI,unplaced,,,,
+MOZ,2,underway,,,MOZ-002;MOZ-001
+MRT,5,inservice,endtoend,reported,MRT-002
+MUS,5,inservice,endtoend,reported,MUS-007
+MWI,5,inservice,endtoend,reported,MWI-002;MWI-004
+NAM,5,inservice,endtoend,reported,NAM-004
+NER,unplaced,,,,
+NGA,2,underway,,,NGA-002
+RWA,4,inservice,endtoend,,RWA-003
+SDN,2,underway,,,SDN-001
+SEN,5,inservice,endtoend,reported,SEN-005
 SLE,2,underway,,,SLE-001
-SOM,no evidence,,,,
-SSD,no evidence,,,,
-STP,no evidence,,,,
-SWZ,no evidence,,,,
+SOM,unplaced,,,,
+SSD,2,underway,,,SSD-001
+STP,3,inservice,,,STP-001
+SWZ,2,underway,,,SWZ-001
 SYC,2,underway,,,SYC-001
 TCD,2,underway,,,TCD-001
-TGO,no evidence,,,,
-TUN,no evidence,,,,
-TZA,no evidence,,,,
-UGA,no evidence,,,,
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
-ZWE,no evidence,,,,
+TGO,2,underway,,,TGO-001
+TUN,unplaced,,,,
+TZA,5,inservice,endtoend,reported,TZA-002
+UGA,5,inservice,endtoend,reported,UGA-006
+ZAF,5,inservice,endtoend,reported,ZAF-003
+ZMB,5,inservice,endtoend,reported,ZMB-003
+ZWE,5,inservice,endtoend,reported,ZWE-002

@@ -1,0 +1,32 @@
+{
+ "slug": "2025-05-29-gmb-standard-startup-edge-coaching-ends",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Startup Edge is French Embassy-funded coaching with grants, not a Gambian state law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Startup Edge",
+       "country_label": "GMB",
+       "class": "other",
+       "platform": "",
+       "owner": "Alliance Francaise and Gambia Tech Project",
+       "tiers": ""
+      }
+     ],
+     "note": "Startup Edge is a coaching programme, not a named hub or park."
+    }
+   }
+  }
+ }
+}

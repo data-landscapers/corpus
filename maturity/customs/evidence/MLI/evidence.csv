@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,customs,system,inservice,"Mali's customs directorate reports that offices continued to be switched into production on SYDONIAWorld in 2017-2018, with the international transit module and a direct-removal procedure in operation.",2018-12-31,day,Sydonia World,customs,2018-12-31-mli-douanes-migration-sydoniaworld,https://douanes.gouv.ml/migration-sydoniaworld

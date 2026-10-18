@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-12-gab-spin-hotspots-wifi-etablissements-scolaires",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "SPIN states that the Backbone National Gabonais fibre optic network supports the Wi-Fi hotspots put into service 9-11 December 2024 in schools at Bakoumba, Bongoville and Léconi (Haut-Ogooué) and Oyem (Woleu-Ntem).",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "Backbone National Gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone National Gabonais (BNG)",
+   "country_label": "Gabon",
+   "class": "backbone",
+   "platform": "fibre optic",
+   "owner": "SPIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

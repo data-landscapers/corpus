@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,authentication,service,coverage,inservice,2024-05,LBR-002;LBR-007;LBR-008,LBR-006=underway;LBR-009=underway;LBR-001=underway;LBR-005=underway;LBR-003=underway;LBR-004=underway,
+LBR,authentication,service,coverage,inservice,2024-05,LBR-002;LBR-007;LBR-008;LBR-010,LBR-006=underway;LBR-009=underway;LBR-001=underway;LBR-005=underway;LBR-003=underway;LBR-004=underway,
 LBR,authentication,reach,coverage,,,,,nothing held
 LBR,authentication,remote,coverage,,,,,nothing held

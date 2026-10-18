@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-12-rwa-cma-intermediary-platform-regulation-comments",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Capital Market Authority invited the public to read the draft regulation governing intermediary service platform operators on its website and send comments by email by 24 February 2026.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "CMA website and email comments",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

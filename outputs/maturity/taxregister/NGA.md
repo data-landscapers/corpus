@@ -2,7 +2,7 @@
 
 ## Tax register
 
-**Computerised register.** [The Nigeria Revenue Service article says a system-generated 13-digit Tax ID is automatically generated when a new company registers, and existing businesses retrieve theirs from the NRS Portal](<https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/>). 4 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Computerised register.** [The Nigeria Revenue Service article says a system-generated 13-digit Tax ID is automatically generated when a new company registers, and existing businesses retrieve theirs from the NRS Portal](<https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/>). [TaxPro Max, the exclusive channel for taxpayer transactions with FIRS, enables taxpayer registration](<https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/>).
 
 **Shared with firms or customs.** [A company's CAC RC number functions as its NRS identifier and the NRS database is integrated with the CAC from 1 January 2026, so no separate TIN application is needed](<https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/>).
 

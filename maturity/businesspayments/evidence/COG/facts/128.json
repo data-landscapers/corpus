@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-cog-aci-validation-dao-plateforme-dematerialisation",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A 4 June 2026 workshop led by the Pagir coordinator validated the draft bidding document to recruit a firm to design, develop and deploy a national public-procurement e-platform, with a World Bank-recruited consultant.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "National public procurement dematerialisation platform",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National public procurement dematerialisation platform",
+   "country_label": "Congo",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Pagir",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

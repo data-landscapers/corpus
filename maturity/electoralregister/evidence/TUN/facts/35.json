@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-13-tun-economistemaghrebin-isie-mise-a-jour",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place.",
+   "as_of": "2023-11-13",
+   "date_precision": "day",
+   "system": "ISIE voter registration check (service 195 / SMS)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ISIE voter register update (touenssa.isie.tn)",
+   "country_label": "Tunisia",
+   "class": "electoral",
+   "platform": "",
+   "owner": "ISIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

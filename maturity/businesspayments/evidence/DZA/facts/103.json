@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-08-dza-tsa-portail-electronique-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TSA reports Algeria has officially launched the electronic public procurement portal under law 23-12 of 5 August 2023, where firms download tender documents free and submit bids.",
+   "as_of": "2026-03-08",
+   "date_precision": "day",
+   "system": "Portail des marches publics",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

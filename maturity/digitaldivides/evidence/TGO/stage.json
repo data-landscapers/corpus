@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "ruralaccess",
-   "stage": "no evidence",
-   "programme": "",
-   "measured": "",
-   "narrow": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether rural areas are being connected or how far rural internet use lags urban.",
-   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "ruralaccess",
+      "stage": "unplaced",
+      "programme": "",
+      "measured": "",
+      "narrow": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a programme to connect rural areas is under way.",
+      "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

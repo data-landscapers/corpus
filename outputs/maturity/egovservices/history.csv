@@ -9,3 +9,34 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,RWA,dpi.govtech--e-government-services-government-services-online,fact,3,3,RWA-002;RWA-004,Arrivals added RWA-004; stage unchanged.
 2026-10-17,SOM,dpi.govtech--e-government-services-government-services-online,fact,no evidence,2,SOM-001,Arrivals added SOM-001; stage no evidence -> 2.
 2026-10-17,TUN,dpi.govtech--e-government-services-government-services-online,fact,2,4,TUN-004,Arrivals added TUN-003; TUN-004; TUN-005; TUN-006; stage 2 -> 4.
+2026-10-18,AGO,dpi.govtech--e-government-services-government-services-online,review,unplaced,2,AGO-001;AGO-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BDI,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BEN,dpi.govtech--e-government-services-government-services-online,fact,3,3,BEN-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,BFA,dpi.govtech--e-government-services-government-services-online,fact,3,3,BFA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CMR,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DJI,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.govtech--e-government-services-government-services-online,fact,5,5,DZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,dpi.govtech--e-government-services-government-services-online,fact,3,3,EGY-001,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,dpi.govtech--e-government-services-government-services-online,review,unplaced,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,dpi.govtech--e-government-services-government-services-online,fact,2,2,GAB-001;GAB-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GMB,dpi.govtech--e-government-services-government-services-online,fact,2,2,GMB-001;GMB-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GNB,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNQ,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,dpi.govtech--e-government-services-government-services-online,fact,3,5,KEN-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBR,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,dpi.govtech--e-government-services-government-services-online,review,no evidence,2,LBY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.govtech--e-government-services-government-services-online,review,2,2,LSO-001;LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,dpi.govtech--e-government-services-government-services-online,fact,3,3,MAR-002;MAR-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.govtech--e-government-services-government-services-online,review,no evidence,2,MDG-001;MDG-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MLI,dpi.govtech--e-government-services-government-services-online,review,no evidence,2,MLI-002;MLI-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.govtech--e-government-services-government-services-online,fact,2,2,MRT-002;MRT-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,dpi.govtech--e-government-services-government-services-online,fact,no evidence,3,NAM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NER,dpi.govtech--e-government-services-government-services-online,review,unplaced,2,NER-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.govtech--e-government-services-government-services-online,review,no evidence,3,SLE-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SOM,dpi.govtech--e-government-services-government-services-online,review,2,2,SOM-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TCD,dpi.govtech--e-government-services-government-services-online,review,no evidence,2,TCD-002;TCD-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.govtech--e-government-services-government-services-online,fact,3,3,TGO-002;TGO-006,Stage 4c: 4 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.govtech--e-government-services-government-services-online,fact,2,3,TZA-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.govtech--e-government-services-government-services-online,fact,3,3,ZAF-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,dpi.govtech--e-government-services-government-services-online,review,no evidence,5,ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZWE,dpi.govtech--e-government-services-government-services-online,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

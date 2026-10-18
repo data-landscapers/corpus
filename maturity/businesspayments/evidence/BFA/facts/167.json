@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-23-bfa-faso7-secop-lancement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SECOP (Système électronique de délivrance des pièces administratives et de la commande publique)",
+   "country_label": "SECOP",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "SECOP only delivers administrative certificates to bidders; a full e-procurement platform is only promised for coming months, no tender or bid system is stated."
+}

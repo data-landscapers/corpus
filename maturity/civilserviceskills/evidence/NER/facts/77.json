@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-ner-lesahel-formation-justice-gestion-electronique-documents",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Justice and ANSI launched a training of Justice ministry officials on managing mail and documents electronically through the GED platform.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "GED platform training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GED platform training",
+   "country_label": "Niger",
+   "class": "csskills",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

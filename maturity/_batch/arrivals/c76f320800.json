@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-01-ago-agt-folha-tributaria-72-facilitacao-comercio",
+ "studies": {
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "AGT's customs department says Angola uses the Sistema Automatizado de Procedimentos Aduaneiros, run on ASYCUDA World, from cargo manifest submission to release from temporary storage, including payments and refunds.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Angola",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": "Single window is described as institutionalised by decree with actions still under way, not in service."
+    }
+   }
+  }
+ }
+}

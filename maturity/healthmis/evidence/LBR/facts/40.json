@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 is named, but the document does not say facilities across the country report through it."
+}

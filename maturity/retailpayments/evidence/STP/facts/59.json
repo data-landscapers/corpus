@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-05-stp-telanon-sao-plataforma-financeira-digital",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "GTI Holdings launched the Sao digital financial platform in Sao Tome and Principe, with a mobile wallet, a prepaid card, POS payments and agents, and its commercial director said the platform already supports agents.",
+   "as_of": "2025-01-05",
+   "date_precision": "day",
+   "system": "Sao",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sao",
+   "country_label": "Sao Tome and Principe",
+   "class": "retail",
+   "platform": "Sao Wallet, Sao Agents, Sao POS, Sao Card, Sao Send",
+   "owner": "GTI Holdings",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

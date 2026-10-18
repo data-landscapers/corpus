@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,PASD-PE,Programa de Apoio Social Directo Pos-Emergencia,g2p,"M-PESA wallets, Offline Payment Application",INAS-IP,,2022-09-01-moz-ipcig-inas-registration-payments-emergency
+MOZ,PASD-PE,Post-Emergency Direct Social Assistance Program,g2p,"SPA, M-Pesa wallets",INAS,,2023-09-20-moz-worldbank-g2px-gradual-transition

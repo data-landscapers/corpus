@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "admin",
-   "stage": "5",
-   "use": "published",
-   "vital": "published",
-   "series": "annual",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-006;SWZ-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "admin",
+      "stage": "5",
+      "use": "published",
+      "vital": "published",
+      "series": "annual",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-009;SWZ-003",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-admindata.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

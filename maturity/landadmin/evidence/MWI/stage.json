@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "3",
-   "system": "inservice",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001",
-   "gaps": "No source held since October 2023 says the land system joins records to survey maps or valuation.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "3",
+      "system": "inservice",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001",
+      "gaps": "No source held since October 2023 says the land system joins records to survey maps or valuation.",
+      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

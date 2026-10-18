@@ -1,0 +1,180 @@
+{
+ "slug": "2024-06-20-lso-eeas-nissa-digital-payments",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The EU/UNICEF-backed Ntlafatsa Bana project (2023-2026) aims to improve Child Grants Programme delivery by shifting towards digital payments and digitalising payments to beneficiaries, and the Ministry of Gender, Youth and Social Development is transitioning to digital payments.",
+       "as_of": "2024-06-20",
+       "date_precision": "day",
+       "system": "Child Grants Programme",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Child Grants Programme",
+       "country_label": "Lesotho",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Ministry of Gender, Youth and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of Gender, Youth and Social Development has initiated a process to upgrade the National Information System for Social Assistance (NISSA) and the Management Information System for Social Assistance (MISSA) while transitioning to digital payments.",
+       "as_of": "2024-06-20",
+       "date_precision": "day",
+       "system": "MISSA",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The document says tablets and laptops will support the operations and management of the existing NISSA and MISSA systems used for the Child Grants Programme.",
+       "as_of": "2024-06-20",
+       "date_precision": "day",
+       "system": "MISSA",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MISSA",
+       "country_label": "Lesotho",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Ministry of Gender, Youth and Social Development",
+       "tiers": ""
+      },
+      {
+       "system": "NISSA",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Gender, Youth and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-26-dji-primature-lancement-plateforme-creation-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Prime Minister states that with the platform launched on 26 January 2026 a person can create a company entirely online.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "national online company creation platform",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

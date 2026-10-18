@@ -3,3 +3,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MWI,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,3,MWI-001,Arrivals added MWI-006; stage unchanged.
 2026-10-17,ZWE,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,3,ZWE-012,Arrivals added ZWE-039; stage unchanged.
 2026-10-18,MUS,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,review,no evidence,2,MUS-001,"Housekeeping 20: restated from the ledger; ICTA's head said in August 2026 that OneWeb is authorised and operating through its local partner, so a provider is licensed"
+2026-10-18,BEN,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,3,3,BEN-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,BWA,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,4,4,BWA-003;BWA-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale,fact,1,3,MAR-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.

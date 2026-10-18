@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,Smart City Surveillance Initiative,Malawi,other,"AI-powered surveillance cameras, number plate recognition, central command centre",MACRA,city,2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre
 MWI,Smart City Surveillance Initiative,Malawi,other,AI-powered smart cameras,MACRA,city,2026-09-28-mwi-macra-blantyre-smart-city-surveillance
+MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,sectorai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note
+MWI,PlantVillage,"PlantVillage AI app, Malawi",sectorai,mobile app,PlantVillage,,2026-08-06-mwi-nation-ai-bridges-extension-gap
+MWI,Kalondola,Malawi,sectorai,SICPA digital tax stamps,Malawi Revenue Authority,,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai

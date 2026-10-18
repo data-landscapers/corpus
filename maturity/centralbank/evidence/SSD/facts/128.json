@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-ssd-radioyei-boss-emoney-rules",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Electronic Money Regulation 2017 Amendment 2025",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

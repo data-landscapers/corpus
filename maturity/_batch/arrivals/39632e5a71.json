@@ -1,0 +1,14 @@
+{
+ "slug": "2026-08-04-dhis2-togo-climate-health-country-profile",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Health information profile; states nothing on tax filing or payment."
+    }
+   }
+  }
+ }
+}

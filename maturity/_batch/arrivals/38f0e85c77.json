@@ -1,0 +1,23 @@
+{
+ "slug": "2023-08-04-lso-govls-social-grants-mobile-payment",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "M-Pesa and EcoCash social grant payments",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "Department of Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": "Grant payments move to mobile money, but no programme management information system is named."
+    }
+   }
+  }
+ }
+}

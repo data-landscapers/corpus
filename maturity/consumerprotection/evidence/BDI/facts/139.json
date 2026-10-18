@@ -1,0 +1,36 @@
+{
+ "slug": "2020-05-29-bdi-brb-circulaire-01-2020-sanctions-protection",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of the Republic of Burundi's circular of 29 May 2020 sets sanctions for breaches of Regulation 001/2019 on consumer protection for financial products and services, whose breach categories include digital financial services.",
+   "as_of": "2020-05-29",
+   "date_precision": "day",
+   "system": "Circulaire N° 01/2020 (sanctions matrix under Règlement N° 001/2019)",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The circular's sanctions matrix requires providers to notify complainants in writing that they may appeal to the central bank and to send the BRB quarterly reports on consumer complaints.",
+   "as_of": "2020-05-29",
+   "date_precision": "day",
+   "system": "Circulaire N° 01/2020 (sanctions matrix under Règlement N° 001/2019)",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Circulaire N° 01/2020 (sanctions matrix under Règlement N° 001/2019)",
+   "country_label": "Burundi",
+   "class": "protection",
+   "platform": "",
+   "owner": "Banque de la République du Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": "Matrix sets penalties; no fine actually imposed is reported."
+}

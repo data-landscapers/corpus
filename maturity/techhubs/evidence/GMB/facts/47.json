@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-25-gmb-wearetech-the-hub-incubation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "We are Tech Africa says The Hub, a Banjul technology incubator established in October 2019, offers incubation programs, training, acceleration sessions and mentorship, and has supported over 194 entrepreneurs.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "The Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The Hub",
+   "country_label": "Gambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Beran Dondeh Gillen (CEO, co-founder)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

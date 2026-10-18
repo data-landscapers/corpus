@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-25-gmb-kerrfatou-moherst-tita-ai-app",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TITA mobile app",
+   "country_label": "The Gambia",
+   "class": "other",
+   "platform": "mobile app with admin panel",
+   "owner": "TITA Universal Services Ltd. (Nigeria), launched by MoHERST",
+   "tiers": "students, lecturers, institution management"
+  }
+ ],
+ "note": "The app is for tertiary institutions' academic scheduling; the document does not say a government body uses it for its own work."
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "4",
-   "use": "inservice",
-   "bodies": "several",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-002",
-   "gaps": "No source held since October 2023 says the government has issued rules or a register for its own use of AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-002",
+      "gaps": "No source held since October 2023 says the government has issued rules or a register for its own use of AI.",
+      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

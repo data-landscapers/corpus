@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-14-zwe-newsday-ecocash-international-money-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NewsDay describes EcoCash as Zimbabwe's largest fintech platform whose customers can now send money abroad directly from their EcoCash wallet to bank accounts or mobile wallets.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

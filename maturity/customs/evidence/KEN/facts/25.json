@@ -1,0 +1,26 @@
+{
+ "slug": "2019-06-13-ken-kra-icms-implementation-cargo-clearance",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kenya Revenue Authority says import declaration forms, sea manifests, bonds, cargo declarations and exemptions are submitted through iCMS at Mombasa, ICD Nairobi and border stations for cargo arriving or exiting from 7 July 2019.",
+   "as_of": "2019-07-07",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Customs Management System (iCMS)",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Data exchange described is with cargo handlers, not another country's customs."
+}

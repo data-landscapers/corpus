@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-17-gnq-realeg-identic-camara-ley-startups",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "none",
+       "fact": "Real Equatorial Guinea reports IDENTIC and the Bioko Chamber of Commerce stressed the need for legislation specific to startups and digital entrepreneurship and agreed to take proposals to the Senate.",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about hubs."
+    }
+   }
+  }
+ }
+}

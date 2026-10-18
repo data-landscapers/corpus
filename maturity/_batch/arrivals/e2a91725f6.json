@@ -1,0 +1,224 @@
+{
+ "slug": "2025-08-01-nam-newera-ndp6-national-data-centre",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the Access to Information Act's implementation will support digital efforts; no standing or oversight stated."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "New Era reports NDP6 names the Namibia Cybersecurity Incident Response Team (Nam-CSIRT) as coordinating cyber defence and detecting, analysing and mitigating threats, with its capacity to be strengthened.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Nam-CSIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nam-CSIRT",
+       "country_label": "Namibia Cybersecurity Incident Response Team",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "National Data Centre is planned only; no data centre for hire stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "NDP6 says underserved areas will receive broadband infrastructure, ICT-equipped schools and community internet centres to reduce the urban-rural divide.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "NDP6",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "NDP6 includes gender-responsive and youth-focused digital training programmes as part of its digital package.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "NDP6",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "NDP6 plans a National Data Centre to store government information and keep critical national data hosted within Namibia.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "National Data Centre",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "NDP6",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "survey:53",
+       "fact": "The NDP6 implementation plan gives current internet usage as 53% of the population, targeting 90% by 2030.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NDP6 IMEP",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "National Data Centre is planned only; not stated in service."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  }
+ }
+}

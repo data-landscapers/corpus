@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-08-bwa-dailynews-ppra-no-e-procurement",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "none",
+   "fact": "Botswana's PPRA chief executive said at a media briefing \"We do not have an e-procurement system. Everything is manual.\"",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "",
+   "class": ""
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The PPRA said it is working with the Ministry of Finance to develop a national e-procurement system for real-time tracking of tenders.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "national e-procurement system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

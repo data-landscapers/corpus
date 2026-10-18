@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-08-dza-tsa-portail-electronique-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TSA reports that the newly launched public procurement portal offers electronic signature of documents under law 26-02 of 17 February 2026 on trust services.",
+   "as_of": "2026-03-08",
+   "date_precision": "day",
+   "system": "public procurement portal e-signature",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail des marches publics",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "e-procurement portal",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

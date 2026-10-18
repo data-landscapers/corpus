@@ -1,0 +1,62 @@
+{
+ "slug": "2025-04-01-swz-worldbank-fsap-consumer-protection-note",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The World Bank FSAP note says the Central Bank of Eswatini's 2019 Mobile Money Transfer Practice Note sets limited consumer-protection and conduct requirements for mobile money providers, which banks and mobile money providers have generally been complying with.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Mobile Money Transfer (MMT) Practice Note No.1/2019/NPSS",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The World Bank FSAP note says a CBE Ombudsman and an FSRA Ombudsman have been in place for several years taking complaints about credit, transaction and savings products, the CBE one without finalized procedural rules.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CBE Ombudsman and FSRA Ombudsman",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CBE Ombudsman and FSRA Ombudsman",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money Transfer (MMT) Practice Note No.1/2019/NPSS",
+   "country_label": "Eswatini",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  },
+  {
+   "system": "CBE Ombudsman",
+   "country_label": "Eswatini",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  },
+  {
+   "system": "FSRA Ombudsman",
+   "country_label": "Eswatini",
+   "class": "protection",
+   "platform": "",
+   "owner": "Financial Services Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

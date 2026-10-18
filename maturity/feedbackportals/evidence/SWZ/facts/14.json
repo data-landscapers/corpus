@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-swz-esnews-bika-transport-reporting-platform",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The National Road Transport Council chairperson announced on 2026-09-21 the rollout of BIKA, an official real-time platform where the public report corruption, abuse and other problems on public and freight transport, anonymously if wanted and tracked by a reference ID, with no case numbers given.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "BIKA Platform",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BIKA Platform",
+   "country_label": "BIKA",
+   "class": "feedback",
+   "platform": "web/app reporting platform",
+   "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+   "tiers": "national; police, fire and emergency service and Anti-Corruption Commission linked"
+  }
+ ],
+ "note": ""
+}

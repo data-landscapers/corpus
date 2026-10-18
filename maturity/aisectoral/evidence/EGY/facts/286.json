@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The IDSC policy perspective says AI projects are proceeding in governmental entities on health, water management and agriculture, with no tool stated in service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

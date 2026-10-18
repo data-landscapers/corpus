@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-mahakim-portail-suivi-dossiers",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Ministry of Justice says lawyers can pay judicial fees electronically through its Mahakim exchange platform, and professionals pay property-agency registration fees online.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Mahakim.ma",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

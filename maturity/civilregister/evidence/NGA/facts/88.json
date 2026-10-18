@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The NPC chairman said the e-CRVS system integrates birth registration with health facilities across several states, with over 15,000 children registered in Jigawa alone.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "e-CRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-CRVS",
+   "country_label": "e-CRVS",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

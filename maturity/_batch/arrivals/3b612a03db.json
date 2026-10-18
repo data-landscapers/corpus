@@ -1,0 +1,12 @@
+{"slug":"2024-09-03-cpv-imij-sniac-projeto-operacional","studies":{
+"authentication":{"countries":{"CPV":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"IMIJ's project page says the SNIAC national system is operational and provides digital authentication and certification services alongside issuing the national ID card and e-passport.","as_of":"2024","date_precision":"year","system":"Sistema Nacional de Identificação e Autenticação Civil (SNIAC)","class":"authentication"}],"systems":[{"system":"SNIAC","country_label":"Sistema Nacional de Identificação e Autenticação Civil","class":"authentication","platform":"","owner":"IMIJ","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"CPV":{"facts":[],"systems":[],"note":"The page names no link between the civil register and the ID system."}}},
+"idcoverage":{"countries":{"CPV":{"facts":[],"systems":[],"note":"It counts cards issued (215,189 ID cards), not people enrolled or a share of the population."}}},
+"idfrombirth":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing stated about a number at birth."}}},
+"idmaintenance":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Lists the entities involved but does not say who operates, maintains or owns the system."}}},
+"idregisters":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"CPV":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"IMIJ's project page says the SNIAC national identification system is operational and issues the national ID card (215,189 issued by Q2 2021), the e-passport and the foreign residents' permit.","as_of":"2024","date_precision":"year","system":"Sistema Nacional de Identificação e Autenticação Civil (SNIAC)","class":"idsystem"}],"systems":[],"note":""}}},
+"itcapacity":{"countries":{"CPV":{"facts":[],"systems":[],"note":"NOSI is listed as an involved entity but the page does not say what it or government staff do."}}},
+"police":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Police named only as an involved entity; no station records stated."}}},
+"populationregister":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No population register is named."}}}
+}}

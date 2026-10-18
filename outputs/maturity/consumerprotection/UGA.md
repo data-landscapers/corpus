@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether consumer-protection rules apply to digital finance.
+***Not held***. Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.

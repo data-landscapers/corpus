@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-17-nam-namibian-e-justice-supreme-court",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The article describes Uganda's ECCMIS as a platform enabling real-time case tracking and data management, whose knowledge Namibia is sharing under an agreement.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{"slug": "2025-05-20-dza-lavoiedalgerie-reforme-etat-civil-numerisation", "studies": {
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Plans a unified national civil-status database but states no link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A draft civil-status law on digitisation and a planned unified database; no digital registration system procured, piloted or in service is stated."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Mentions protecting civil-status data in general terms; no data protection law is stated."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No ID number given at birth is mentioned."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Police station records are not mentioned."}}},
+"registry": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a draft law and a planned database; no office-level digital entry of births or deaths is stated."}}}
+}}

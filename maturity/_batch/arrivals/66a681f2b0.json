@@ -1,0 +1,52 @@
+{
+ "slug": "2024-12-16-lby-lana-gptc-tawasul-complaints-platform",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The General Authority for Communications and Informatics announced the Tawasul platform to receive citizens' complaints about telecom services, count and track them with operators and let citizens follow resolution.",
+       "as_of": "2024-12-16",
+       "date_precision": "day",
+       "system": "Tawasul",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tawasul",
+       "country_label": "Libya",
+       "class": "feedback",
+       "platform": "web platform",
+       "owner": "General Authority for Communications and Informatics",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on refugees or displaced people."
+    }
+   }
+  }
+ }
+}

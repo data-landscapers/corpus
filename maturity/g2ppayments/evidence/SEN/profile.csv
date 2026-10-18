@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,g2p,payment,coverage,inservice,2026-10-10,SEN-002;SEN-004,SEN-001=underway,
+SEN,g2p,payment,coverage,inservice,2026-10-10,SEN-002;SEN-004;SEN-005,SEN-001=underway,
 SEN,g2p,streams,coverage,several,2025-06-02,SEN-003,,
 SEN,g2p,linked,coverage,,,,,nothing held

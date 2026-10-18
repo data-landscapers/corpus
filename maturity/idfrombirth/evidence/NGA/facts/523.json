@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Over 15,000 children registered in Jigawa have birth certificates processed for NIN generation, the chairman said.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN at birth via e-CRVS",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-CRVS",
+   "country_label": "e-CRVS",
+   "class": "other",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-15-zaf-pmg-nw4757-nsg-digital-skills-public-servants",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Minister of Public Service and Administration's written reply says the National School of Government's free online digital courses (AI Fluency, Cyber Security Awareness, Mobile Digital Literacy, Digital Art of Facilitation) had trained 4,725 public servants.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "NSG free online digital training programmes",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSG free online digital training programmes",
+   "country_label": "NSG online digital courses",
+   "class": "csskills",
+   "platform": "online",
+   "owner": "National School of Government",
+   "tiers": "AI fluency, cyber awareness, mobile digital literacy, facilitation"
+  }
+ ],
+ "note": ""
+}

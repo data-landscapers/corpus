@@ -1,0 +1,26 @@
+{
+ "slug": "2021-03-12-moz-ufsa-concurso-por-lances-e-sistafe",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UFSA says the Ministry of Economy and Finance launched the Concurso por Lances e-auction procurement mode on 12 March 2021, run on the e-SISTAFE platform, with a first live tender of nine bidders.",
+   "as_of": "2021-03-12",
+   "date_precision": "day",
+   "system": "e-SISTAFE",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SISTAFE",
+   "country_label": "Mozambique",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (CEDSIF, DNPE)",
+   "tiers": "Concurso por Lances"
+  }
+ ],
+ "note": ""
+}

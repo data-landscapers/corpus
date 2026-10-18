@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-swz-esccom-notice-12-2024-legacy-networks-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Eswatini's Communications Commission published General Notice 12/2024 with a proposed decision to retire 2G and 3G networks, available on its website, and invited written comments by email to legal@esccom.org.sz by 9 December 2024.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "ESCCOM legacy networks consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

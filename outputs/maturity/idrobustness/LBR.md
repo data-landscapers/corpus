@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en>).
 
-***Noted, not assessed***. [National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)](<https://www.thenewdawnliberia.com/house-scrutinizes-us52m-national-id-deal/>); [NIDCRVS](<https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html>).
+***Noted, not assessed***. [National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)](<https://www.thenewdawnliberia.com/house-scrutinizes-us52m-national-id-deal/>); [NIDCRVS](<https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html>); [NIDCRVS (OeSD International GmbH concession)](<https://liberiapublicradio.com/2026/10/16/liberian-senate-orders-review-of-us52-million-digital-identity-concession-agreement/>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

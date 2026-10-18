@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TUN-001,TUN,uptake,share,quarter,"The IFC report says the World Bank's Findex 2021 puts account ownership among Tunisian adults at 37%, unchanged from 2017.",2021,year,Global Findex 2021,survey,2022-01-01-tun-worldbank-ifc-inclusion-financiere,https://documents1.worldbank.org/curated/en/099040002202354875/pdf/IDU010adfdbe08bd3044f808e620311d82b11461.pdf

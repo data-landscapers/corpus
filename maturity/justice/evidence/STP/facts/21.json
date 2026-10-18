@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-22-stp-rstp-digitalizacao-justica-sinergy",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Justice Policy director says the ministry is working with the company Sinergy on a reform so court case processing can be done by electronic means.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "justice"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

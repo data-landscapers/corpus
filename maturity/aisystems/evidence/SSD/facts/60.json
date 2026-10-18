@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-20-ssd-eyeradio-yogage-ai-juba-arabic-dataset",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Go Girl ICT Initiative, led by executive director Eva Yayi Mawa, is leading research under the YoGage AI project on Juba Arabic, and says dialectal variation and inconsistent pronunciation make it hard to standardize a training dataset.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "YoGage AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "YoGage AI",
+   "country_label": "South Sudan",
+   "class": "localai",
+   "platform": "Juba Arabic dataset for AI",
+   "owner": "Go Girl ICT Initiative",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2022-10-20-dza-algerie-eco-satellites-perimetres-irrigues",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Algeria's agriculture minister announced that from December 2022 a census of irrigated cereal perimeters would use satellite images, plus 100 drones in some wilayas.",
+   "as_of": "2022-10-20",
+   "date_precision": "day",
+   "system": "Satellite census of irrigated cereal perimeters",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

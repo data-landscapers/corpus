@@ -1,0 +1,44 @@
+{
+ "slug": "2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The government says a single online return for payroll tax and social security contributions was launched on 3 February 2020 on the eservices.impots.bj platform.",
+       "as_of": "2020-02-03",
+       "date_precision": "day",
+       "system": "eservices.impots.bj",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The government says the single payroll tax and social security contribution return is followed by online payment on the e-services platform, launched 3 February 2020.",
+       "as_of": "2020-02-03",
+       "date_precision": "day",
+       "system": "eservices.impots.bj",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eservices.impots.bj",
+       "country_label": "Benin",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

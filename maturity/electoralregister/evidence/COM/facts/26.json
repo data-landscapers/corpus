@@ -1,0 +1,26 @@
+{
+ "slug": "2015-01-01-com-undp-modernisation-fichier-electoral-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The UNDP project page says a biometric electoral file for the Union of the Comoros has been built, 70% of voting-age citizens were enrolled, and the voter list used in the 2015 elections came from it.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Fichier électoral biométrique",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier électoral biométrique",
+   "country_label": "Comoros",
+   "class": "electoral",
+   "platform": "biometric (fingerprints and facial image); National Electoral Data Processing Centre (CNTDE)",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

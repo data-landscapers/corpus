@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The French Treasury note says the data centre operator also runs the Djibouti Internet Exchange (DjIX), a neutral and independent exchange point.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DjIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DjIX",
+   "country_label": "Djibouti Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Wingu (DDC)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

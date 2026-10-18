@@ -1,0 +1,25 @@
+{
+ "slug": "2023-02-01-mrt-are-consultation-itinerance-nationale",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "The Autorite de Regulation published a public consultation on national roaming, February-March 2023, taking responses by email among other routes until 22 March 2023.",
+       "as_of": "2023-02",
+       "date_precision": "month",
+       "system": "Consultation publique sur l'itinerance nationale",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

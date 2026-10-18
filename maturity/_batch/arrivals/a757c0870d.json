@@ -1,0 +1,44 @@
+{
+ "slug": "2023-10-13-cmr-dayspring-tax-incentives-innovative-startups",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Dayspring Law Firm states Cameroon's General Tax Code gives eligible innovative ICT start-ups a five-year full tax exemption then a further five years of reduced company tax (15%) and a 30% research tax credit.",
+       "as_of": "2023-10-13",
+       "date_precision": "day",
+       "system": "General Tax Code innovative start-up incentives",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "Dayspring Law Firm states start-ups must be approved by state-approved management centres, usually business incubators, before they can benefit from the tax incentives.",
+       "as_of": "2023-10-13",
+       "date_precision": "day",
+       "system": "State-approved management centres",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "General Tax Code innovative start-up incentives",
+       "country_label": "Cameroon",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": "incubation phase 0-5 years; operational phase 5-10 years"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-zwe-msd-newsletter-puma-2025-installation",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Zimbabwe Meteorological Services Department's newsletter says the PUMA 2025 station for METEOSAT Third Generation was installed with reception confirmed satisfactory and the station 'fully operational and capable of receiving satellite data', with an EUMETCAST licence request submitted.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "PUMA 2025",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA 2025",
+   "country_label": "Zimbabwe",
+   "class": "metsat",
+   "platform": "METEOSAT Third Generation receiving station",
+   "owner": "Meteorological Services Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

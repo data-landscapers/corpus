@@ -1,0 +1,198 @@
+{
+ "slug": "2023-12-12-bfa-findev-paiements-sociaux-mobile-money",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "FinDev Gateway says that since 2018 payments of the Burkina Faso Projet Filets Sociaux, the national social safety net system supported by the World Bank, have been made to mobile money accounts, after earlier cash payments, reaching over a million people by end 2022.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Projet Filets Sociaux",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Projet Filets Sociaux",
+       "country_label": "Burkina Faso",
+       "class": "g2p",
+       "platform": "mobile money",
+       "owner": "government, World Bank supported",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "FinDev Gateway says social safety net beneficiaries in Burkina Faso receive and use mobile money accounts, with payments made to them since 2018.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  }
+ }
+}

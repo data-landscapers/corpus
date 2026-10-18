@@ -1,0 +1,15 @@
+{
+ "slug": "2020-08-01-dji-worldbank-pnsf-expansion-pmt-registre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national social registry",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "SEAS",
+   "tiers": ""
+  }
+ ],
+ "note": "PNSF and PASS use the social registry for targeting; no programme management information system is described."
+}

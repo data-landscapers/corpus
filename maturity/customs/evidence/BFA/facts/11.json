@@ -1,0 +1,36 @@
+{
+ "slug": "2018-05-16-bfa-otr-togo-burkina-transit-interconnection",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Togo's Office Togolais des Recettes says transit declarations from Lome to Bingo Burkina are registered on Togo's Sydonia World since 11 May 2018.",
+   "as_of": "2018-05-11",
+   "date_precision": "day",
+   "system": "Sydonia World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "Togo's Office Togolais des Recettes says those transit declarations are transmitted automatically to Burkina Faso's Sydonia World since 11 May 2018.",
+   "as_of": "2018-05-11",
+   "date_precision": "day",
+   "system": "Sydonia World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia World",
+   "country_label": "Burkina Faso",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Direction generale des douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-ago-ciam-decreto-188-24-nip",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Presidential Decree 188/24 sets rules for a 14-digit property identification number (NIP) assigned by the Serviço Central de Cadastro, requires registration in the Sistema Integrado de Cadastro Predial, and gives holders of existing land titles six months to submit them.",
+   "as_of": "2024-08-26",
+   "date_precision": "day",
+   "system": "Sistema Integrado de Cadastro Predial",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Cadastro Predial",
+   "country_label": "Angola",
+   "class": "land",
+   "platform": "",
+   "owner": "Serviço Central de Cadastro",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

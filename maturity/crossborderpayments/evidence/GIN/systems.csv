@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GIN,PAPSS,Guinea,other,,,possible future link,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,crossborder,Mojaloop,BCRG,,2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
+GIN,Orange Money,Orange Money,crossborder,USSD *144# and app,Orange Finances Mobiles Guinée,,2022-12-12-gin-guineematin-orange-money-transfert-international

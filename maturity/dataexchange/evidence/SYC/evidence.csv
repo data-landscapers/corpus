@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,exchange,platform,none,The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services.,2026-10-07,day,interoperability layer,exchange,2026-10-07-syc-worldbank-pid-inclusive-digital-economy,http://documents.worldbank.org/curated/en/099100726053521931

@@ -1,0 +1,26 @@
+{
+ "slug": "2017-02-24-sdn-persons-with-disability-national-act-2017",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Sudan's Persons with Disability National Act 2017, in force on signature, provides for sign language with on-screen text in media programmes and for building designs that enable access to electronic services.",
+   "as_of": "2017-02-24",
+   "date_precision": "day",
+   "system": "Persons with Disability National Act, 2017",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Persons with Disability National Act, 2017",
+   "country_label": "Sudan",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "National Council for Persons with Disability",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

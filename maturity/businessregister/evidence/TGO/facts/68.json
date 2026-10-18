@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-16-tgo-rtg-reformes-digitalisation-titre-foncier-nup",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Togo Officiel says the DGDN, the business formalities centre (CFE) and the commercial register (RCCM) are now connected so users can do several procedures through one channel, notably company creation.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "CFE / RCCM",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "Togo Officiel says a database of companies' beneficial owners has been created to identify who really owns a company.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Beneficial owners database",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RCCM",
+   "country_label": "Togo",
+   "class": "business",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-09-21-zmb-airtel-fibre-optic-network-k324m",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no share of people using the internet."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A fibre asset transfer between operators; no local government office is named."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no price of mobile data."
+    }
+   }
+  }
+ }
+}

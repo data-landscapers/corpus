@@ -1,0 +1,43 @@
+{
+ "slug": "2024-10-11-cod-bankable-silikin-village-inaugurated",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, strategy or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Bankable reports Silikin Village in Kinshasa was inaugurated on 10 October 2024 and offers training and incubation programmes for startups.",
+       "as_of": "2024-10-10",
+       "date_precision": "day",
+       "system": "Silikin Village",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Silikin Village",
+       "country_label": "COD",
+       "class": "hub",
+       "platform": "",
+       "owner": "Texaf Digital",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

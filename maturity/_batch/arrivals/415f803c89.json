@@ -1,0 +1,83 @@
+{
+ "slug": "2026-03-08-dza-tsa-portail-electronique-marches-publics",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TSA reports that the newly launched public procurement portal offers electronic signature of documents under law 26-02 of 17 February 2026 on trust services.",
+       "as_of": "2026-03-08",
+       "date_precision": "day",
+       "system": "public procurement portal e-signature",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail des marches publics",
+       "country_label": "Algeria",
+       "class": "procurement",
+       "platform": "e-procurement portal",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "TSA reports Algeria has officially launched the electronic public procurement portal under law 23-12 of 5 August 2023, where firms download tender documents free and submit bids.",
+       "as_of": "2026-03-08",
+       "date_precision": "day",
+       "system": "Portail des marches publics",
+       "class": "procurement"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "TSA cites law 26-02 of 17 February 2026 setting general rules on trust services for electronic transactions and identification, under which the procurement portal's electronic signature operates.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "Law 26-02 on trust services",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The only service named is the procurement portal, which is the procurement study's, not a general government services portal."
+    }
+   }
+  }
+ }
+}

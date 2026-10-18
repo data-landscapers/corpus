@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CIV-001,CIV,business,system,inservice,"The Budget Ministry launched operation of online public procurement through SIGOMAP on 25 July 2023, where firms consult tender notices, acquire tender files and submit bids online.",2023-07-25,day,SIGOMAP,procurement,2023-07-25-civ-mbpe-dematerialisation-marches-publics,https://budget.gouv.ci/357-about-actualites.html

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Digital Governance Unit",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

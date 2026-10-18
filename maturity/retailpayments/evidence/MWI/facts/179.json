@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-21-mwi-nation-banks-respond-digital-services-findex",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The document says cashing outlets for Airtel Money and TNM Mpamba have spread, per a University of Malawi lecturer.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Airtel Money; TNM Mpamba",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Bankers Association of Malawi's chief executive says integration with the National Switch has enabled wallet-to-bank and bank-to-wallet transfers.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Switch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bankers Association of Malawi's chief executive says the National Switch connects banks and wallets for transfers in both directions.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Switch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Switch",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

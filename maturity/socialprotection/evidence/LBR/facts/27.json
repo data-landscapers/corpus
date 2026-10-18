@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-24-lbr-worldbank-icr-inclusive-growth-dpo",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank ICR records, as a prior action of the second Inclusive Growth DPO, that the Ministry of Gender, Children and Social Protection had operationalized an Integrated Management Information System (IMIS), evidenced by a user acceptance test and MIS deployment notes.",
+   "as_of": "2021-06",
+   "date_precision": "month",
+   "system": "IMIS",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "integrated",
+   "value": "several",
+   "fact": "The World Bank ICR says the Ministry of Gender, Children and Social Protection's IMIS was operationalized to implement and coordinate the social programs of participating institutions.",
+   "as_of": "2021-06",
+   "date_precision": "month",
+   "system": "IMIS",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IMIS",
+   "country_label": "Liberia",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Household Social Registry",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

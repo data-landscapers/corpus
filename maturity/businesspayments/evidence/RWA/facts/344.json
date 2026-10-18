@@ -1,0 +1,26 @@
+{
+ "slug": "2016-09-22-rwa-rppa-e-procurement-call-for-bidders",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The RPPA Director General said the Umucyo e-procurement system was launched on 27 June 2016 in 8 pilot government institutions, with all government institutions to use it from April 2017.",
+   "as_of": "2016-06-27",
+   "date_precision": "day",
+   "system": "Umucyo e-Procurement System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Umucyo e-Procurement System",
+   "country_label": "Rwanda",
+   "class": "procurement",
+   "platform": "www.umucyo.gov.rw",
+   "owner": "Rwanda Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

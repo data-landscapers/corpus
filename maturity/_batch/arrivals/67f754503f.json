@@ -1,0 +1,43 @@
+{
+ "slug": "2025-12-04-sen-arcop-appel-caravane-nationale-pole-sud",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ARCOP launched on 4 December 2025 the territorial rollout of the APPEL platform (achatspublics.sn), a three-month caravan enrolling contracting authorities and training users, saying all procedures will be fully dematerialised at the end.",
+       "as_of": "2025-12-04",
+       "date_precision": "day",
+       "system": "APPEL",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APPEL",
+       "country_label": "Senegal",
+       "class": "procurement",
+       "platform": "achatspublics.sn",
+       "owner": "ARCOP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national ID enrolment."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-01-01-swz-cbe-market-conduct-consumer-protection-unit", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Page is about market conduct supervision; no procurement stated."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Page says the Central Bank supervises payment service providers' conduct but does not state licensing, a switch or regional links."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Central Bank of Eswatini says a consumer unsatisfied with a financial institution's response to a complaint can escalate it to the CBE's Ombudsman, and that the Market Conduct and Consumer Protection Unit supervises institutions including mobile money service providers.", "as_of": "2026", "date_precision": "year", "system": "CBE Ombudsman / Market Conduct and Consumer Protection Unit", "class": "protection"}], "systems": [{"system": "Market Conduct and Consumer Protection Unit", "country_label": "Eswatini", "class": "protection", "platform": "", "owner": "Central Bank of Eswatini", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No cross-border payment channel stated."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"idverification": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only a generic mention of KYC documents; no check against a national ID stated."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Mobile money scam advice names MTN and Eswatini Mobile services but gives no licensing, interoperability or switch statement."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

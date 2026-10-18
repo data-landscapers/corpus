@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "no evidence",
-   "cases": "",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how courts manage their cases.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-003",
+      "gaps": "No source held since October 2023 says cases can be filed with the courts online.",
+      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

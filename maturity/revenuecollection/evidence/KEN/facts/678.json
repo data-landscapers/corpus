@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-25-ken-businessdaily-kra-itax-icms-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "iTax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-16-gab-infosgabon-mbova-plateforme-dialogue-national",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Gabon's Ministry of Institutional Reform, through ANINF, opened the Mbova online platform on 16 October 2023 to take citizens' proposals for the national dialogue, open until 30 November 2023.",
+   "as_of": "2023-10-16",
+   "date_precision": "day",
+   "system": "Mbova",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mbova",
+   "country_label": "Gabon",
+   "class": "eparticipation",
+   "platform": "online platform",
+   "owner": "ANINF for the Ministry of Institutional Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

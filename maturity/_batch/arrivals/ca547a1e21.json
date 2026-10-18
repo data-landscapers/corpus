@@ -1,0 +1,52 @@
+{
+ "slug": "2025-11-01-zwe-herald-social-registry-ziso-nears-completion",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Says donors and departments will contribute data, but names no link in use or being built to ID, payments or programmes."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes the registry only; no programme management system named."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The Herald reports the Zimbabwe Social Registry (ZISO) software is 85 percent complete per a Public Service ministry official, with a questionnaire to be piloted in four or five districts before data is uploaded.",
+       "as_of": "2025-11-01",
+       "date_precision": "day",
+       "system": "Zimbabwe Social Registry (ZISO)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zimbabwe Social Registry (ZISO)",
+       "country_label": "Zimbabwe",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Public Service, Labour and Social Welfare",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

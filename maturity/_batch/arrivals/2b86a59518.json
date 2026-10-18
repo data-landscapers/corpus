@@ -1,0 +1,61 @@
+{
+ "slug": "2025-10-10-eth-techreviewafrica-eaii-customs-systems-chatbot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The customs chatbot sits inside a sector system, which this study excludes."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Ethiopian Institute of Artificial Intelligence inaugurated customs systems for the Customs Commission, including a passenger risk management system and a licensing system with a chatbot serving the Commission's services in four languages (TechReviewAfrica).",
+       "as_of": "2025-10-10",
+       "date_precision": "day",
+       "system": "Ethiopian Customs Commission digital systems",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Customs warehouse and agent licensing system with multilingual chatbot",
+       "country_label": "Ethiopia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ethiopian Customs Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Systems are described as digital systems built by the AI Institute; no AI model, dataset or AI computing is named."
+    }
+   }
+  }
+ }
+}

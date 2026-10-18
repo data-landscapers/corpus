@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-18-mdg-wearetech-ecoles-au-numerique",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Madagascar's authorities launched at a 15-17 July 2024 workshop in Toamasina the digitisation of schools, starting in Atsinanana, covering data collection and a pupil register, with the education ministry planning extension to other regions.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "school digitisation project (Atsinanana)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "school digitisation project (Atsinanana)",
+       "country_label": "Madagascar",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministere de l'Education nationale / Unite de Gouvernance Digitale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

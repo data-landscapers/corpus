@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The government launched the Egypt Digital Platform in 2022, which delivers about 170 government services.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Egypt Digital Platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt Digital Platform",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

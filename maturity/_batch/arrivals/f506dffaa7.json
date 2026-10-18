@@ -1,0 +1,34 @@
+{
+ "slug": "2018-07-08-nga-thisday-bpp-unveils-e-gp",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "THISDAY reports the Bureau of Public Procurement has begun implementing a unified e-Government Procurement system for all federal public procurement, in phases.",
+       "as_of": "2018-07-08",
+       "date_precision": "day",
+       "system": "e-Government Procurement (e-GP)",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Database of Contractors, Consultants and Service Providers (ND-CCSP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Bureau of Public Procurement",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

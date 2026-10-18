@@ -1,0 +1,7 @@
+{"slug": "2023-12-20-tcd-unimoundou-digitalisation-services-municipaux", "studies": {
+"digitalstrategy": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The article studies municipal digitalisation management and names no national digital strategy."}}},
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "It surveys Chadian communes on digitalisation management and states nothing on office connection."}}},
+"policyresearch": {"countries": {"TCD": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "A researcher at the Université de Moundou (Chad) published a journal article, based on 15 interviews and 220 surveys of municipal councillors and service heads in Chadian communes, on managing the digitalisation of municipal services.", "as_of": "2023-12-20", "date_precision": "day", "system": "Université de Moundou", "class": "research"}], "systems": [], "note": ""}}},
+"startups": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The article says nothing on startups."}}},
+"techhubs": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The article says nothing on hubs or parks."}}}
+}}

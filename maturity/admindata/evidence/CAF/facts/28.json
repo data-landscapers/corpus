@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-caf-icasees-education-nationale-annuaires",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "ICASEES lists education statistical yearbooks for 2015-16 through 2024-25 as downloadable files, most dated 5 August 2026.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Annuaire statistique de l'education, ICASEES",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

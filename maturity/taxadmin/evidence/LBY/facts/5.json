@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-lby-imf-tar-tax-administration-digitalization-kontaktu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kontaktu",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "IMF open-source tax filing and payment platform",
+   "owner": "IMF",
+   "tiers": ""
+  }
+ ],
+ "note": "Kontaktu is offered as an option and Libya's current filing and payment status is not stated; no deployment or procurement in Libya is recorded."
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2023-11-25-ken-kna-ombudsman-pasha-complaints-app",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaint-handling seminars for public officers are not digital-skills training."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "General public-service ombudsman; nothing on digital financial services."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Commission on Administrative Justice chair says the Commission, with the Ministry of Public Service, is developing an app, to be launched as the PASHA Ombudsman platform, for the public to file complaints about public-sector service.",
+       "as_of": "2023-11-25",
+       "date_precision": "day",
+       "system": "PASHA Ombudsman platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PASHA Ombudsman platform",
+       "country_label": "Kenya",
+       "class": "feedback",
+       "platform": "app",
+       "owner": "Commission on Administrative Justice",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  }
+ }
+}

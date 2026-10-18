@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-17-zwe-zimra-asycuda-upgrade-notice-62",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ZIMRA says it is upgrading ASYCUDA from version 4.3.2 to 4.4.0 in phases, the first phase rolling out on 18 August 2024.",
+   "as_of": "2024-08-18",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ZIMRA says its ASYCUDA system is at version 4.3.2 and the first upgrade phase migrates the current operational modules.",
+   "as_of": "2024-08-17",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA",
+   "country_label": "Zimbabwe",
+   "class": "customs",
+   "platform": "ASYCUDA 4.4.0",
+   "owner": "ZIMRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

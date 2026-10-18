@@ -1,0 +1,134 @@
+{
+ "slug": "2026-08-05-uga-monitor-firms-lose-out-egp-online",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the eGP 2.0 procurement platform is described, which is procurement, not a citizen or business services portal."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NIRA is used only to verify suppliers' compliance inside e-GP; no register is said to be keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Finance and PPDA rolled out eGP 2.0 to another 100 public entities on 20 July 2026, bringing the total using the platform to 136, and entities already migrated may not advertise tenders in newspapers (Daily Monitor, citing PPDA and the Acting Accountant General).",
+       "as_of": "2026-07-20",
+       "date_precision": "day",
+       "system": "eGP 2.0",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Acting Accountant General said under eGP 2.0 suppliers submit bids, receive notifications and sign contracts electronically, with registration mandatory for firms seeking government business and all 441 procuring entities to migrate by 2029.",
+       "as_of": "2026-08-05",
+       "date_precision": "day",
+       "system": "eGP 2.0",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eGP 2.0",
+       "country_label": "Uganda",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance, Planning and Economic Development and PPDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

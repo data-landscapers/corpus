@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-15-cod-wmo-mettelsat-systeme-observation",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The WMO-hosted METTELSAT document says the agency has PUMA 2015 and MESSIR NEO equipment connected to the EUMETCast Africa data stream to receive satellite images and regional and global model data.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "PUMA 2015 / MESSIR NEO EUMETCast reception",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

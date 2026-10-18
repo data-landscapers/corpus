@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-stp-asycuda-asycudaworld-4-4-migration",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNCTAD's ASYCUDA Programme reports that STP Customs completed migration to ASYCUDAWorld 4.4, live on 1 May 2025, replacing ASYCUDAWorld 4.2 in use since 2011.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "ASYCUDAWorld",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDAWorld 4.4",
+   "country_label": "STP",
+   "class": "customs",
+   "platform": "ASYCUDAWorld",
+   "owner": "Customs Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

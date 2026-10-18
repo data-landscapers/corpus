@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-zwe-zimra-tarms-release-2-live",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ZIMRA says the TaRMS Payments Management and Return Management modules were launched on 6 December 2023.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Zimbabwe Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

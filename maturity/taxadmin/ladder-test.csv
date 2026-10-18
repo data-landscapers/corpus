@@ -1,55 +1,55 @@
 iso3,stage,filing,payment,uptake,stage_sources
 AGO,no evidence,,,,
 BDI,2,underway,,,BDI-001
-BEN,no evidence,,,,
-BFA,no evidence,,,,
-BWA,no evidence,,,,
+BEN,4,inservice,electronic,,BEN-002
+BFA,unplaced,,,,
+BWA,3,inservice,,,BWA-001
 CAF,4,inservice,electronic,,CAF-006;CAF-011
-CIV,no evidence,,,,
+CIV,unplaced,,,,
 CMR,2,underway,,,CMR-001
 COD,3,inservice,,,COD-001;COD-003
 COG,4,inservice,electronic,,COG-002;COG-005
 COM,2,underway,,,COM-001;COM-002
-CPV,no evidence,,,,
+CPV,3,inservice,,,CPV-001
 DJI,2,underway,,,DJI-001;DJI-002
 DZA,5,inservice,electronic,most,DZA-003
 EGY,4,inservice,electronic,,EGY-002
-ERI,no evidence,,,,
+ERI,unplaced,,,,
 ETH,3,inservice,,,ETH-003;ETH-004
 GAB,4,inservice,electronic,,GAB-002
 GHA,4,inservice,electronic,,GHA-003;GHA-007
-GIN,no evidence,,,,
+GIN,unplaced,,,,
 GMB,2,underway,,,GMB-001;GMB-003
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
 KEN,3,inservice,,,KEN-001;KEN-002
 LBR,4,inservice,electronic,,LBR-003
-LBY,no evidence,,,,
-LSO,4,inservice,electronic,,LSO-002
+LBY,2,underway,,,LBY-001
+LSO,4,inservice,electronic,,LSO-004;LSO-002
 MAR,4,inservice,electronic,,MAR-002
 MDG,2,underway,,,MDG-001
 MLI,4,inservice,electronic,,MLI-003
-MOZ,no evidence,,,,
+MOZ,4,inservice,electronic,,MOZ-003
 MRT,4,inservice,electronic,,MRT-002
 MUS,5,inservice,electronic,most,MUS-003
 MWI,2,underway,,,MWI-001
-NAM,3,inservice,,,NAM-001
-NER,no evidence,,,,
-NGA,no evidence,,,,
-RWA,no evidence,,,,
+NAM,3,inservice,,,NAM-002;NAM-001
+NER,unplaced,,,,
+NGA,4,inservice,electronic,,NGA-005
+RWA,4,inservice,electronic,,RWA-002
 SDN,no evidence,,,,
-SEN,no evidence,,,,
+SEN,5,inservice,electronic,most,SEN-006;SEN-003
 SLE,4,inservice,electronic,,SLE-002
 SOM,2,underway,,,SOM-001
 SSD,4,inservice,electronic,,SSD-002;SSD-001
-STP,no evidence,,,,
-SWZ,no evidence,,,,
-SYC,no evidence,,,,
-TCD,unplaced,,,,
+STP,unplaced,,,,
+SWZ,4,inservice,electronic,,SWZ-003
+SYC,2,underway,,,SYC-001
+TCD,4,inservice,electronic,,TCD-005;TCD-007
 TGO,5,inservice,electronic,most,TGO-003
-TUN,no evidence,,,,
-TZA,2,underway,,,TZA-001
+TUN,unplaced,,,,
+TZA,2,underway,,,TZA-002;TZA-001
 UGA,2,underway,,,UGA-001
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
+ZAF,3,inservice,,,ZAF-002;ZAF-001
+ZMB,unplaced,,,,
 ZWE,3,inservice,,,ZWE-001

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-05-caf-icasees-education-nationale-annuaires",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "ICASEES's education data page offers yearbook and key-indicator files for download, each marked licence CC BY 4.0.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "icasees.org education nationale data page",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "reuse",
+   "value": "reused",
+   "fact": "The ICASEES page shows download counts per file, for example 165 downloads of the 2015-2025 key indicators file and 147 of the 2021-2022 yearbook.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "icasees.org education nationale data page",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICASEES data page",
+   "country_label": "icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale",
+   "class": "open",
+   "platform": "website",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": "Only one publishing body is named."
+}

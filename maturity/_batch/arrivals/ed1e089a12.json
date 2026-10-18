@@ -1,0 +1,126 @@
+{
+ "slug": "2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "UNCTAD's ASYCUDA Programme says ASYCUDAWorld 4.3.3 was rolled out by the Malawi Revenue Authority in Blantyre on 20 October 2023, and MRA's Dedza station manager says it is used to process imports and exports and to declare goods.",
+       "as_of": "2023-10-20",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld 4.3.3",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDAWorld 4.3.3",
+       "country_label": "Malawi",
+       "class": "customs",
+       "platform": "ASYCUDAWorld",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees.",
+       "as_of": "2023-10-20",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld 4.3.3",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2020-03-04-ago-lexao-decreto-64-20-formulario-unico-gue",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Presidential Decree 64/20 creates a single company-incorporation form at the Guiché Único da Empresa, applying to companies incorporated there in person or online.",
+       "as_of": "2020-03-04",
+       "date_precision": "day",
+       "system": "Guiché Único da Empresa",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guiché Único da Empresa",
+       "country_label": "Angola",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministry of Justice and Human Rights",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

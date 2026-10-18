@@ -1,0 +1,44 @@
+{
+ "slug": "2013-08-22-zaf-sars-customs-modernisation-implementation",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "SARS says a new customs management system, replacing some 26 legacy and paper-based systems, was fully operational from 18 August 2013 for all commercial cross-border trade.",
+       "as_of": "2013-08-18",
+       "date_precision": "day",
+       "system": "SARS customs management system",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "SARS says it has implemented an interface system with Mozambique's customs and that discussions are under way with Zimbabwe.",
+       "as_of": "2013-08-22",
+       "date_precision": "day",
+       "system": "SARS customs management system",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SARS customs management system",
+       "country_label": "South Africa",
+       "class": "customs",
+       "platform": "",
+       "owner": "SARS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

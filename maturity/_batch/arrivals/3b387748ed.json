@@ -1,0 +1,23 @@
+{
+ "slug": "2023-05-31-lso-wfp-gis-platform-launch",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "WFP-facilitated GIS platform",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "GIS dashboards",
+       "owner": "Office of the Prime Minister",
+       "tiers": ""
+      }
+     ],
+     "note": "The GIS platform is described with maps, dashboards and drones; no satellite or remote-sensing data is stated."
+    }
+   }
+  }
+ }
+}

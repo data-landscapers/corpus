@@ -287,8 +287,9 @@ Two or more fibre routes abroad by 2025; whether two are independent of each oth
 
 ### Seychelles: 3 Established
 
-Two or more fibre routes abroad by 2022; whether two are independent of each other is not known.
+Two or more fibre routes abroad by 2026; whether two are independent of each other is not known.
 
+- The World Bank project information document says Seychelles has strong international connectivity through three submarine cables ([source, 2026-10-07](http://documents.worldbank.org/curated/en/099100726053521931)).
 - SCS states PEACE is Seychelles' second submarine fibre cable landing, in service from 16 November 2022 alongside the SEAS cable commissioned over ten years earlier, giving two submarine routes; the SEAS landing station is not named ([source, 2022-11-16](https://www.nation.sc/articles/16417/seychelles-achieves-security-in-international-connectivity-peace-operational-in-seychelles)).
 
 ### Sierra Leone: 3 Established

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BFA-001,BFA,electoral,roll,inservice,"The AU-OIF audit committee reports Burkina Faso's biometric electoral file stands at 6,490,926 electors after the 2020 exceptional revision.",2020-10-21,day,Fichier électoral biométrique,electoral,2020-10-21-bfa-au-audit-fichier-electoral-biometrique,https://au.int/fr/pressreleases/20201021/communique-de-presse-audit-fichier-electoral-burkina-faso

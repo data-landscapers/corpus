@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-01-ssd-cga-mis-institutional-capacity-assessment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SSSNP MIS",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "UNOPS, to be handed to MGCSW",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes the Safety Net Project's own MIS beneficiary database (120,000 households), one programme's list, not a national social registry."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2013-07-29-zmb-tcs-taxonline-contract",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "Tata Consultancy Services announced a three-year contract from the Zambia Revenue Authority for an integrated multi-tax system (TaxOnline) with a 24/7 taxpayer portal for e-services, covering VAT, income tax, PAYE and others.",
+       "as_of": "2013-07-29",
+       "date_precision": "day",
+       "system": "TaxOnline",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaxOnline",
+       "country_label": "Zambia",
+       "class": "taxsystem",
+       "platform": "TCS tax framework",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-07-27-cod-reporter-cresh-numerique-developpement",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a conference's general remarks and a proposal to host national data at home; no government policy or hosting stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions a sector strategy to 2025 and a Plan national du numerique without adoption, scope or text stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "The Centre de recherche en sciences humaines (CRESH) in Kinshasa held a conference on digital technology and development in the Congolese context, including digital sovereignty, on 26 July 2024.",
+       "as_of": "2024-07-26",
+       "date_precision": "day",
+       "system": "CRESH",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No government consultation on a named digital law or policy is stated."
+    }
+   }
+  }
+ }
+}

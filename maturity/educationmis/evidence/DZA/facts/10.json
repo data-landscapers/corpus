@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-18-dza-elwatan-numerisation-education-evaluation",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The education ministry says an updated 2025 version of the national education sector information system is being prepared, to be ready in March 2025, after a nationwide evaluation.",
+   "as_of": "2024-11-16",
+   "date_precision": "day",
+   "system": "système d'information pour le secteur de l'éducation nationale",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "système d'information pour le secteur de l'éducation nationale",
+   "country_label": "Algeria",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministère de l'Éducation nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-nam-fig-mazambani-communal-land-administration-nclas",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "NCLAS",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NCLAS",
+   "country_label": "NCLAS 2",
+   "class": "land",
+   "platform": "web-based, server-based",
+   "owner": "Ministry of Agriculture, Water and Land Reform",
+   "tiers": "Communal Land Boards"
+  }
+ ],
+ "note": ""
+}

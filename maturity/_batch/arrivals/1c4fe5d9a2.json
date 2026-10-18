@@ -1,0 +1,15 @@
+{"slug":"2026-01-01-dji-entreprendre-guide-createur-entreprise","studies":{
+"addressregister":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"authentication":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"birthidlink":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"businessregister":{"countries":{"DJI":{"facts":[{"sub_indicator":"business","aspect":"registration","value":"underway","fact":"The entreprendre.dj guide says firms register in the commercial register (RCS) through the ANPI one-stop counter (Guichet Unique), in 72 hours at 23,000 FDJ; it does not say registration is online.","as_of":"2026-01","date_precision":"month","system":"Guichet Unique ANPI / RCS","class":"business"}],"systems":[{"system":"Guichet Unique ANPI / Registre du Commerce (RCS)","country_label":"Djibouti","class":"business","platform":"entreprendre.dj portal","owner":"ODPIC / ANPI","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idfrombirth":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idmaintenance":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idregisters":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idrobustness":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"police":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"startups":{"countries":{"DJI":{"facts":[{"sub_indicator":"startuppolicy","aspect":"labelled","value":"labelled","fact":"The guide says an innovative, high-growth firm can apply for the Startup label to obtain reinforced tax and social advantages.","as_of":"2026-01","date_precision":"month","system":"label Startup","class":"startuppolicy"}],"systems":[],"note":""}}},
+"taxregister":{"countries":{"DJI":{"facts":[{"sub_indicator":"taxpayers","aspect":"shared","value":"shared","fact":"The guide says the Guichet Unique automatically passes the registration file to the tax directorate (DGI), which assigns the taxpayer number (NIF) as a step of business creation.","as_of":"2026-01","date_precision":"month","system":"Numero d'Identification Fiscale (NIF)","class":"tax"}],"systems":[],"note":""}}},
+"techhubs":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}}
+}}

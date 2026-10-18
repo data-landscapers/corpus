@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 24 |
-| 3 Established | 5 |
-| 2 Nascent | 8 |
+| 3 Established | 7 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
-| No evidence | 9 |
+| Unplaced | 3 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -71,6 +71,12 @@ Cross-border digital payment volumes or costs were reported in 2026.
 Cross-border digital payment volumes or costs were reported in 2025.
 
 - EAPS inflows were UGX 1.3 trillion, up 17%, in FY2024/25, per the Bank of Uganda report ([source, 2025](https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6)).
+
+### Zimbabwe: 5 Leading
+
+Cross-border digital payment volumes or costs were reported in 2024.
+
+- The IMF-World Bank report, citing World Bank Remittance Prices Worldwide, says sending remittances from South Africa to Zimbabwe cost an average 12.7 percent in Q1 2024 ([source, 2024-03](https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf)).
 
 ### Botswana: 4 Operating
 
@@ -246,6 +252,13 @@ A cross-border digital payment corridor was in service in 2026; a regional payme
 - Standard Bank says it has expanded access to China's CIPS, settling cross-border payments directly in RMB, to clients in Lesotho among others ([source, 2026-07-27](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/)).
 - TechCabal reports Lesotho migrant workers in South Africa send money home to Lesotho through the fintech Mukuru, after tighter South African banking rules ([source, 2026-06-12](https://techcabal.com/2026/06/12/south-africa-remittance-rules-migrants/)).
 
+### Madagascar: 3 Established
+
+A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+
+- Madagascar Newsroom reports that since mid-January 2024 Orange Money Europe app users in Germany, Belgium, Spain, France, Italy and the Netherlands can send money to MVola accounts in Madagascar via the Thunes aggregator, received instantly in ariary ([source, 2024-01](https://www.madagascarnewsroom.com/2024/02/thunes-partenaire-remittance-mvola.html)).
+- MFS Africa went live as the first aggregator with MVola in Madagascar, carrying inbound remittances from Europe, the US and the UK and MNO-to-MNO transfers from the rest of Africa ([source, 2023-10-26](https://expression.africa/madagascar-mfs-africa-partners-with-mvola-paving-way-for-financial-inclusion/)).
+
 ### Morocco: 3 Established
 
 A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
@@ -257,6 +270,12 @@ A cross-border digital payment corridor was in service in 2025; a regional payme
 A cross-border digital payment corridor was in service in 2026; a regional payment system link is not known.
 
 - Bank of Kigali, per its own announcement reported by KT Press, became a direct participant in China's CIPS under an agreement signed 2026-09-08, giving direct renminbi clearing and settlement for Rwanda-China payments without several intermediary banks ([source, 2026-09-08](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/)).
+
+### South Sudan: 3 Established
+
+A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+
+- ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
 
 ### Zambia: 3 Established
 
@@ -302,6 +321,12 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 
 - PAPSS lists Somalia as 'live soon' as a participant country, not yet in service ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
+### Sudan: 2 Nascent
+
+A cross-border digital payment corridor was under way in 2026; none in service is on record.
+
+- Sudan's Finance Ministry says it is finalising an electronic payment framework connecting to mobile banking apps in Saudi Arabia, built with the Ministry of Digital Transformation and Telecommunications, to route diaspora remittances through regulated channels (State Minister Mohamed Nour Abdel Daim, Jeddah) ([source, 2026-08-29](https://africa.businessinsider.com/local/lifestyle/war-torn-sudan-plans-banking-app-to-bring-millions-in-remittances-home-from-citizens/mtdf2c9)).
+
 ### Tanzania: 2 Nascent
 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
@@ -315,7 +340,19 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 
 - PAPSS lists Tunisia as 'live soon' as a participant country, not yet in service ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
-### Zimbabwe: Unplaced
+### Cape Verde: Unplaced
+
+Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+
+### Guinea: Unplaced
+
+Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+
+### Mauritania: Unplaced
 
 Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
 
@@ -327,49 +364,13 @@ Nothing held names a cross-border digital payment channel or says there is none,
 
 Not established: Nothing held names a cross-border digital payment channel, or says there is none.
 
-### Cape Verde: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
 ### Eritrea: No evidence
 
 Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
 
 Not established: Nothing held names a cross-border digital payment channel, or says there is none.
 
-### Guinea: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
-### Madagascar: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
-### Mauritania: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
 ### Sao Tome and Principe: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
-### South Sudan: No evidence
-
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
-
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
-
-### Sudan: No evidence
 
 Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
 

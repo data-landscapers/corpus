@@ -1,0 +1,59 @@
+{
+ "slug": "2026-06-25-ssd-onecitizen-juba-county-digital-land-registration",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "States only a plan: the commissioner directed engineers to design a single land system; nothing built or in service."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "States only a plan: the commissioner directed engineers to design a single land system; nothing built or in service."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

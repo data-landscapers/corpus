@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-11-ago-fas-kwenda-transferencia-contas-cabinda",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "FAS, the Kwenda programme's implementer, says that from 10 January 2025 Kwenda social cash transfers were paid directly into 91 Cabinda households' personal bank accounts, collected at ATMs and partner bank branches.",
+   "as_of": "2025-01-10",
+   "date_precision": "day",
+   "system": "KWENDA",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KWENDA",
+   "country_label": "Angola",
+   "class": "g2p",
+   "platform": "partner bank accounts, ATMs and branches",
+   "owner": "FAS - Instituto de Desenvolvimento Local",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

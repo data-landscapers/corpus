@@ -1,0 +1,23 @@
+{
+ "slug": "2024-07-02-cmr-minader-cropwatch-country-profile",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MINADER says crop monitoring is in its infancy and plantations use aerial images only; no satellite use by a service, study or pilot is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no consultation on a digital law or policy."
+    }
+   }
+  }
+ }
+}

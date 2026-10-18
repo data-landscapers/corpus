@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-20-cog-sacer-sifec-digitalisation-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "On 16 September 2024 the Interior ministry's adviser presented to Brazzaville district mayors the progress of the Sifec project to digitalise birth, marriage and death records, launched two years earlier.",
+   "as_of": "2024-09-16",
+   "date_precision": "day",
+   "system": "Système intégré des faits d'état civil (Sifec)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système intégré des faits d'état civil (Sifec)",
+   "country_label": "Congo",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Interior, Decentralisation and Local Development; Acsi presented it",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2018-01-01-mus-mhl-cadastre-unit-lavims",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Housing and Lands says the whole land transaction process has been computerized in an integrated LAVIMS system, with the Cadastre Unit fully operational since April 2012.",
+       "as_of": "2012-04",
+       "date_precision": "month",
+       "system": "LAVIMS",
+       "class": "landmis"
+      },
+      {
+       "sub_indicator": "landmis",
+       "aspect": "joined",
+       "value": "joined",
+       "fact": "LAVIMS links a digital cadastral database, a valuation of all residential and commercial sites and a parcel-based deeds registration system, and the Cadastre Unit links registered deeds to digital cadastre parcels.",
+       "as_of": "2012-04",
+       "date_precision": "month",
+       "system": "LAVIMS",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LAVIMS",
+       "country_label": "Mauritius",
+       "class": "landmis",
+       "platform": "digital cadastral database, valuation, deeds registration",
+       "owner": "Ministry of Housing and Lands",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

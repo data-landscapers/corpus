@@ -1,0 +1,34 @@
+{
+ "slug": "2021-11-04-lso-fao-land-cover-eo-training",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "FAO trained Lesotho national institutions, with Ministry of Agriculture staff attending, to produce annual national land cover maps from Earth observation data, which the document says will help monitor cropland and plan grazing; the land cover dashboard is a prototype.",
+       "as_of": "2021-11-04",
+       "date_precision": "day",
+       "system": "FAO land cover mapping, Lesotho",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FAO land cover mapping and dashboard",
+       "country_label": "Lesotho",
+       "class": "agrisat",
+       "platform": "web GIS dashboard (prototype)",
+       "owner": "FAO with Ministry of Water ICM Unit",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

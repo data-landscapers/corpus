@@ -1,0 +1,106 @@
+{
+ "slug": "2024-07-19-mli-bamada-lancement-digitalisation-services-publics",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Bamada.net report says that on 19 July 2024 the President launched digitalisation of public services in Mali, so that ID card fees, police fines and civil-status acts can be paid by mobile phone, first in Bamako, with extension to the regions and embassies and later to taxes and public procurement.",
+       "as_of": "2024-07-19",
+       "date_precision": "day",
+       "system": "digitalisation des moyens de paiement et des services publics de l'Etat",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mali."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil-status acts payable by phone is a certificate service, noted, not assessed; no office-level entry is stated."
+    }
+   }
+  }
+ }
+}

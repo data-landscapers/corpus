@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-03-mus-bizweek-financial-inclusion-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The 2021 COMESA report, cited by the article, puts bank account holding among Mauritian adults at 90% nationally and mobile account holding at 6%.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "COMESA special report on financial inclusion 2021",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

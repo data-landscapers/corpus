@@ -10,11 +10,11 @@ CMR,5,inservice,interop,national,CMR-016
 COD,4,inservice,interop,,COD-009;COD-011
 COG,5,inservice,interop,national,COG-014
 COM,5,inservice,interop,national,COM-003;COM-006
-CPV,no evidence,,,,
-DJI,no evidence,,,,
+CPV,3,inservice,,,CPV-002
+DJI,3,inservice,,,DJI-001
 DZA,4,inservice,interop,,DZA-005;DZA-010
 EGY,5,inservice,interop,national,EGY-009
-ERI,3,inservice,,,ERI-001
+ERI,3,inservice,,,ERI-001;ERI-002
 ETH,5,inservice,interop,national,ETH-012;ETH-005
 GAB,5,inservice,interop,national,GAB-013
 GHA,4,inservice,interop,,GHA-003
@@ -32,7 +32,7 @@ MLI,4,inservice,interop,,MLI-009;MLI-011
 MOZ,5,inservice,interop,national,MOZ-003;MOZ-022
 MRT,5,inservice,interop,national,MRT-005
 MUS,4,inservice,interop,,MUS-003;MUS-002
-MWI,4,inservice,interop,,MWI-010
+MWI,5,inservice,interop,national,MWI-017
 NAM,4,inservice,interop,,NAM-001
 NER,4,inservice,interop,,NER-008;NER-004
 NGA,5,inservice,interop,national,NGA-002
@@ -41,8 +41,8 @@ SDN,4,inservice,interop,,SDN-005
 SEN,4,inservice,interop,,SEN-001;SEN-006
 SLE,5,inservice,interop,national,SLE-004
 SOM,5,inservice,interop,national,SOM-014;SOM-019
-SSD,3,inservice,,,SSD-001;SSD-002
-STP,no evidence,,,,
+SSD,3,inservice,,,SSD-006;SSD-001
+STP,3,inservice,,,STP-001
 SWZ,5,inservice,interop,national,SWZ-003;SWZ-008
 SYC,2,underway,,,SYC-001
 TCD,5,inservice,interop,national,TCD-017

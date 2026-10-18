@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-14-dji-jo-decret-2023-038-portail-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Decree 2023-038/PRE institutes the public procurement e-portal, hosted by the CNMP and secured by ANSIE, and requires contracting authorities to publish tender notices, tender documents and cancellations on it.",
+   "as_of": "2023-02-14",
+   "date_precision": "day",
+   "system": "portail électronique des Marchés Publics",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail électronique des Marchés Publics",
+   "country_label": "Djibouti",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Commission Nationale des Marchés Publics",
+   "tiers": "all contracting authorities"
+  }
+ ],
+ "note": ""
+}

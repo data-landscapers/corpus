@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-gnb-zenysis-minsap-health-intelligence-ai-mou",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The press release says the NIA national health data warehouse currently integrates data from different DHIS2 instances, program systems and partner datasets (child health, TB, malaria, HIV, facility readiness) for cross-program analysis without modifying the source systems.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "NIA",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Nacional de Integração e Análise de Dados (NIA)",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "Zenysis",
+   "owner": "MINSAP / INASA",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

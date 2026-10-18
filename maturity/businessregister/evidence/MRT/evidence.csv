@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MRT-001,MRT,business,registration,inservice,The ministers launched APIM digital services on 4 April 2025 letting investors create companies online through the 'Mes services' portal.,2025-04-04,day,Mes services (APIM),business,2025-04-04-mrt-ami-lancement-services-numeriques-apim,https://ami.mr/fr/archives/268316
+MRT-002,MRT,business,shared,shared,"Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure.",2025-04-04,day,Mes services (APIM),business,2025-04-04-mrt-ami-lancement-services-numeriques-apim,https://ami.mr/fr/archives/268316

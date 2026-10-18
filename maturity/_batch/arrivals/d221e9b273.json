@@ -1,0 +1,44 @@
+{
+ "slug": "2018-06-20-tun-wmc-tuneps-obligatoire-septembre-2018",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "TUNEPS director Sonia Ben Salem said 1,975 suppliers and 314 public buyers had already joined the TUNEPS online public procurement system.",
+       "as_of": "2018-06-19",
+       "date_precision": "day",
+       "system": "TUNEPS",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "Ben Salem said that from 1 September 2018 all ministries, non-administrative public enterprises and public establishments must conclude their public contracts through TUNEPS.",
+       "as_of": "2018-06-19",
+       "date_precision": "day",
+       "system": "TUNEPS",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TUNEPS",
+       "country_label": "Tunisia",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

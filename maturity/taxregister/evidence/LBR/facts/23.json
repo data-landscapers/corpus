@@ -1,0 +1,15 @@
+{
+ "slug": "2023-04-20-lbr-analyst-lra-launches-litas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LITAS",
+   "country_label": "Liberia Integrated Tax Administration System",
+   "class": "tax",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

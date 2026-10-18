@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-09-gab-union-anuttc-land-file-digitisation",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ANUTTC has for nearly six months been scanning all freehold-transfer land files, with its IT directorate building applications alongside the Gargantua software.",
+   "as_of": "2024-07-09",
+   "date_precision": "day",
+   "system": "Gargantua",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gargantua",
+   "country_label": "Gabon",
+   "class": "land",
+   "platform": "software",
+   "owner": "ANUTTC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

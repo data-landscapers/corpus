@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-06-mwi-nation-ai-bridges-extension-gap",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Nation Online reports the Ministry of Agriculture, Water and Irrigation has piloted the Malawi Digital Plant Health Services project since 2022, built around the AI-powered PlantVillage app.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Malawi Digital Plant Health Services",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Nation Online reports lead farmers have used the AI PlantVillage app since 2023 to photograph crops and get written pest advisories, with data monitored by government experts through an AI observatory at the Department of Agriculture Extension Services and the Dedza district office.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "PlantVillage app / AI observatory",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PlantVillage",
+   "country_label": "PlantVillage AI app, Malawi",
+   "class": "sectorai",
+   "platform": "mobile app",
+   "owner": "PlantVillage",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

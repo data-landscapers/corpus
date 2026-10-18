@@ -1,3 +1,27 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,GHA,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,2,2,GHA-001;GHA-002,Arrivals added GHA-007; stage unchanged.
 2026-10-17,MAR,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,4,4,MAR-007,Arrivals added MAR-008; MAR-009; stage unchanged.
+2026-10-18,BDI,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,3,3,BDI-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BFA,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,2,2,BFA-001;BFA-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,BWA,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,BWA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CAF,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,3,3,CAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COD,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,2,3,COD-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,2,3,CPV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ERI,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ETH,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,3,3,ETH-001;ETH-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GIN,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,2,GIN-001;GIN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GMB,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,GMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNB,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,GNB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,3,3,LBY-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,2,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MLI,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,MLI-002;MLI-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,2,MOZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,4,4,MWI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NER,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,NER-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,SDN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,3,3,SEN-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SLE,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,no evidence,2,SLE-002;SLE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SOM,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,3,SOM-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,2,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SWZ,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,review,no evidence,2,SWZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,tech.ai--development-of-national-regional-ai-systems-ai-built-at-home,fact,2,3,TZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.

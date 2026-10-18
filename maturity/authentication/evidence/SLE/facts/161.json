@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-04-sle-sierraloaded-wangov-app-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WanGov",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Registration needs an existing ID and phone number; no authentication service is described."
+}

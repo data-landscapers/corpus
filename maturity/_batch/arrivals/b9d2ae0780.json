@@ -1,0 +1,44 @@
+{
+ "slug": "2023-06-26-sen-ipar-ai-strategy-working-groups",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "policy",
+       "value": "contributed",
+       "fact": "IPAR says it took part in the ministry's 21-22 June 2023 Dakar workshops on Senegal's national AI strategy, in two working groups, and helped draft the strategy's summary document.",
+       "as_of": "2023-06-22",
+       "date_precision": "day",
+       "system": "IPAR",
+       "class": "research"
+      },
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "IPAR says its DUA project produced a policy paper proposing AI regulation and a mapping report on AI governance.",
+       "as_of": "2023-06-26",
+       "date_precision": "day",
+       "system": "IPAR",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IPAR",
+       "country_label": "Senegal",
+       "class": "research",
+       "platform": "",
+       "owner": "Initiative Prospective Agricole et Rurale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-mli-agefau-renforcement-capacites-collectivites-bureautique",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "AGEFAU financed the launch on 1 September 2026 of office-software and collaborative-tools training run by the Centre de Formation des Collectivités Territoriales for 504 elected officials and staff of 126 communes, whose first session drew 84 participants from 21 communes.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Centre de Formation des Collectivités Territoriales training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

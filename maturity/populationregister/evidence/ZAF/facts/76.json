@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-zaf-pmg-nw4628-hprs-biometric",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Health says Home Affairs holds a National Population Register whose data is used for real-time identity verification of patients.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

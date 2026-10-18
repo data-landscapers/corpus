@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-19-mdg-midi-madagasikara-data-center-souverain",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The digital minister says creating a sovereign, secure national data centre to host public data is among the ministry's priorities.",
+   "as_of": "2026-01-19",
+   "date_precision": "day",
+   "system": "national sovereign data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

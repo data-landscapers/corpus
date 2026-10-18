@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-syc-undp-sdglocalaction-victoria-ai-services",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "UNDP says AI virtual agents are being deployed by public agencies in Victoria, Seychelles, across web, SMS and voice channels to give policy information.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "AI virtual agents",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI virtual agents",
+   "country_label": "Seychelles",
+   "class": "govai",
+   "platform": "web, SMS, voice",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

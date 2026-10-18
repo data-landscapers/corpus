@@ -2,11 +2,11 @@
 
 ## Tax
 
-**Online filing.** [The DGI says Simpl modules (TVA, IS, IR) let taxpayers file returns online (teledeclarations)](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Online filing.** [The DGI says Simpl modules (TVA, IS, IR) let taxpayers file returns online (teledeclarations)](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>). [The Direction Generale des Impots says firms file corporate tax, income tax and VAT returns online through its SIMPL-IS, SIMPL-IR and SIMPL-TVA teleservices, with 15,200 taxpayers already enrolled (2016, before the three-year window)](<https://article19.ma/accueil/archives/35106>).
 
-**Electronic payment.** [The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>).
+**Electronic payment.** [The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>). [The Direction Generale des Impots says tax payments (telepaiements) for corporate tax, income tax and VAT are made through the SIMPL teleservices (2016, before the three-year window)](<https://article19.ma/accueil/archives/35106>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>).
+**Mostly online.** [The Direction Generale des Impots says electronic filing and payment of corporate tax, income tax and VAT become mandatory for all firms from 1 January 2017, except those on the flat-rate income tax regime (2017, before the three-year window)](<https://article19.ma/accueil/archives/35106>).
 
 ***Noted, not assessed***. None held.
 

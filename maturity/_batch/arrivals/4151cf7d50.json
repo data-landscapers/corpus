@@ -1,0 +1,14 @@
+{"slug":"2025-08-10-cod-ecofin-silikin-village-interview","studies":{
+"businesspayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Interview states nothing on e-procurement."}}},
+"centralbank":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on the central bank or payments oversight."}}},
+"consumerprotection":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"COD":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"retailpayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on mobile money or retail payments."}}},
+"revenuecollection":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}},
+"startups":{"countries":{"COD":{"facts":[],"systems":[],"note":"Names no startup law, strategy or public fund; Silikin is privately backed by Texaf with donor support."}}},
+"techhubs":{"countries":{"COD":{"facts":[
+{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"Silikin Village in Kinshasa, backed by the Texaf Group, says it has supported over 300 project leaders and entrepreneurs in five years and is launching the 'Grow & Help Grow' acceleration programme, whose first cohort of five tech entrepreneurs will run nine months.","as_of":"2025-08-10","date_precision":"day","system":"Silikin Village","class":"hub"}
+],"systems":[{"system":"Silikin Village","country_label":"DRC","class":"hub","platform":"","owner":"Texaf Group","tiers":""}],"note":""}}}
+}}

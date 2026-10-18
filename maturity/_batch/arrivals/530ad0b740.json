@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-25-nga-fmino-bpp-digital-submission-portal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BPP Digital Submission Portal",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Bureau of Public Procurement",
+       "tiers": ""
+      }
+     ],
+     "note": "The portal takes MDAs' requests to the BPP (no-objection certificates, clarifications); it does not run tenders or pay suppliers."
+    }
+   }
+  }
+ }
+}

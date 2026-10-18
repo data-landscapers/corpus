@@ -1,0 +1,32 @@
+{
+ "slug": "2026-08-12-mrt-onanor-enquete-publique-projets-normes",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Public enquiry on standards; the notice does not say drafts are posted online."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Standards enquiry names no digital standard."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice names no IT or data standard and does not say ONANOR was set up by law."
+    }
+   }
+  }
+ }
+}

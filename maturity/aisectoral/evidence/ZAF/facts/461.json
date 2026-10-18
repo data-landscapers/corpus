@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-20-zaf-sanews-auto-assessed-filing-season",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "SARS says machine learning and AI models manage the risk of impermissible or fraudulent refunds on returns submitted online.",
+   "as_of": "2025-07-20",
+   "date_precision": "day",
+   "system": "SARS machine learning and AI risk models",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

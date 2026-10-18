@@ -1,0 +1,26 @@
+{
+ "slug": "2023-04-21-syc-sna-finance-ministry-online-feedback",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Seychelles News Agency reports the finance ministry set up an online feedback form at finance.gov.sc for itself and its agencies, explained to the press on 19 April 2023, routed to one email address with acknowledgement due in two days.",
+   "as_of": "2023-04-19",
+   "date_precision": "day",
+   "system": "Finance ministry online feedback form",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Finance ministry online feedback form",
+   "country_label": "Seychelles",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Ministry of Finance, National Planning and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

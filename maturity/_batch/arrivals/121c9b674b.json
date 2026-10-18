@@ -1,0 +1,11 @@
+{"slug": "2025-07-17-egy-ahram-real-estate-registry-complex-alamein", "studies": {
+"dataexchange": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Ahram Online reports that on 2025-07-17 the PM inaugurated an integration system, run through the G2G digital hub, linking the Justice Ministry's Real Estate Registry and Notarization Authority with the Housing Ministry's New Urban Communities Authority across 16 real estate registry offices in new cities.", "as_of": "2025-07-17", "date_precision": "day", "system": "G2G digital hub", "class": "exchange"}
+], "systems": [{"system": "G2G digital hub", "country_label": "Egypt", "class": "exchange", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"landadmin": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "Ahram Online reports that the Real Estate Registry and Notarization Complex in New Alamein was inaugurated on 2025-07-17 with an integration system between the Justice and Housing ministries in 16 new-city registry offices, which register land, building and unit transactions with electronic tools for processing.", "as_of": "2025-07-17", "date_precision": "day", "system": "Real Estate Registry and New Urban Communities Authority integration system", "class": "landmis"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document concerns real estate registration, not civil registration."}}},
+"socialregistry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing about a social registry."}}},
+"taxregister": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing about a taxpayer register."}}}
+}}

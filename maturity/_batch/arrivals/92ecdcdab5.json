@@ -1,0 +1,34 @@
+{
+ "slug": "2023-01-01-mdg-douanes-code-art-84-88-declaration-electronique",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Customs Code (art. 87, as amended by the 2023 finance law) requires declarations at customs offices equipped with computer systems to be lodged electronically, and art. 88 refers to an automated clearance system.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "système automatisé de dédouanement",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "système automatisé de dédouanement",
+       "country_label": "Madagascar",
+       "class": "customs",
+       "platform": "",
+       "owner": "Direction Générale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

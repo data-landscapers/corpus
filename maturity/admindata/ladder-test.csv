@@ -1,10 +1,10 @@
 iso3,stage,use,vital,series,stage_sources
-AGO,3,published,,,AGO-003;AGO-002
+AGO,3,published,,,AGO-005;AGO-003
 BDI,3,published,,,BDI-001;BDI-002
 BEN,no evidence,,,,
 BFA,no evidence,,,,
 BWA,4,published,published,,BWA-002
-CAF,3,published,,,CAF-002
+CAF,3,published,,,CAF-003;CAF-002
 CIV,4,published,published,,CIV-001
 CMR,3,published,,,CMR-001
 COD,no evidence,,,,
@@ -35,7 +35,7 @@ MUS,4,published,published,,MUS-002
 MWI,4,published,published,,MWI-002
 NAM,4,published,published,,NAM-001
 NER,no evidence,,,,
-NGA,no evidence,,,,
+NGA,2,preparing,,,NGA-001
 RWA,4,published,published,,RWA-002
 SDN,no evidence,,,,
 SEN,2,preparing,,,SEN-001
@@ -43,7 +43,7 @@ SLE,2,preparing,,,SLE-001
 SOM,no evidence,,,,
 SSD,3,published,,,SSD-001;SSD-002
 STP,unplaced,,,,
-SWZ,5,published,published,annual,SWZ-006;SWZ-003
+SWZ,5,published,published,annual,SWZ-009;SWZ-003
 SYC,4,published,published,,SYC-001
 TCD,3,published,,,TCD-002
 TGO,3,published,,,TGO-001

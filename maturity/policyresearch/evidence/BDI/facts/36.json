@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-31-bdi-aerc-curdes-digital-financial-services-workshop",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "AERC reports that CURDES, the University of Burundi's research centre, held a workshop on 25 August 2023 in Bujumbura presenting three research papers on mobile money and financial inclusion to the central bank, finance ministry and banks.",
+   "as_of": "2023-08-25",
+   "date_precision": "day",
+   "system": "CURDES",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CURDES",
+   "country_label": "Burundi",
+   "class": "research",
+   "platform": "",
+   "owner": "University of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

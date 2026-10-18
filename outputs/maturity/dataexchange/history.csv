@@ -7,3 +7,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,1,1,SOM-001;SOM-002,Arrivals added SOM-002; stage unchanged.
 2026-10-17,TGO,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,no evidence,2,TGO-001,"Arrivals added TGO-001, TGO-002; TGO-002 removed at the top-stage check: 15 institutions in a pilot phase, not wide reach; stage no evidence -> 2."
 2026-10-17,TUN,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,3,5,TUN-010,Arrivals added TUN-009; TUN-010; TUN-011; stage 3 -> 5.
+2026-10-18,CIV,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,3,3,CIV-003;CIV-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,3,3,DZA-008;DZA-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,4,4,EGY-002;EGY-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SYC,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,no evidence,1,SYC-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,dpi.exchange--national-data-exchange-system-national-data-exchange-system,fact,4,4,ZMB-010;ZMB-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.

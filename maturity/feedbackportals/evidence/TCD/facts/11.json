@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-06-tcd-ndjampost-justice-online-complaints-platform",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Ministry of Justice and Human Rights, with UNDP, is preparing an online platform for filing complaints and requests, and its procedure-mapping committee met for the first time on 6 June 2024; nothing is built.",
+   "as_of": "2024-06-06",
+   "date_precision": "day",
+   "system": "online complaints and requests platform",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "online complaints and requests platform",
+   "country_label": "Chad",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

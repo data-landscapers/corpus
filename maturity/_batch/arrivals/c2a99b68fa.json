@@ -1,0 +1,34 @@
+{
+ "slug": "2018-07-09-nam-economist-meteorological-equipment-donation",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The Namibia Economist reports that China's donation handed over in July 2018 included an FY-3 meteorological satellite data collecting and processing system and an FY-3 satellite information processing and application system.",
+       "as_of": "2018-07-05",
+       "date_precision": "day",
+       "system": "FY-3 satellite data collecting and processing system",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FY-3 satellite data collecting and processing system",
+       "country_label": "Namibia",
+       "class": "metsat",
+       "platform": "FY-3",
+       "owner": "Namibia Meteorological Service",
+       "tiers": ""
+      }
+     ],
+     "note": "Early warning system described as not yet operational; no warnings fact."
+    }
+   }
+  }
+ }
+}

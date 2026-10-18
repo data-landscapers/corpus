@@ -1,0 +1,157 @@
+{
+ "slug": "2025-07-19-eth-addisfortune-ecourt-ethiopia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question for Ethiopia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Addis Fortune reports the Federal Supreme Court's automatic transcription software, developed with the Ethiopian Artificial Intelligence Institute, was delivered for 15.8 million Br, with five smart courtrooms installed at the Federal Supreme Court and ten more in the Federal High and First Instance Courts.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "automatic transcription technology",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "automatic transcription technology",
+       "country_label": "Automatic transcription technology",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Federal Supreme Court",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Addis Fortune reports the Ethiopian Artificial Intelligence Institute developed automatic court transcription software with the Federal Supreme Court, delivered for 15.8 million Br.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "automatic transcription technology",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "ICMIS and ERMS",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "underway",
+       "fact": "Addis Fortune reports the Federal Supreme Court plans pilots of its eCourt system from September 2025 and full rollout by August 2026, with INSA building the Integrated Court Management Information System (ICMIS) and an Electronic Records Management System, for about 2.2 billion Br.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Integrated Court Management Information System (ICMIS)",
+       "class": "justice"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

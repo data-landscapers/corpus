@@ -1,0 +1,53 @@
+{
+ "slug": "2025-04-29-nga-nan-nitda-startup-consultative-forum",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Committee and forum are set up or have met; neither is said to have given a view on a named digital law."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "NAN reports the Nigerian Startup Act was signed into law on 19 October 2022, with NITDA as its implementing secretariat.",
+       "as_of": "2022-10-19",
+       "date_precision": "day",
+       "system": "Nigeria Startup Act",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act.",
+       "as_of": "2025-04-29",
+       "date_precision": "day",
+       "system": "Nigeria Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Incubators and hubs are named as forum members only; no hub or programme is described."
+    }
+   }
+  }
+ }
+}

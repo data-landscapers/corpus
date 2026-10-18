@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-ken-ca-kdhs-2022-ict-analytical-fact-sheet",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Communications Authority of Kenya published in December 2024 an analytical fact sheet of ICT uptake from the 2022 Kenya Demographic and Health Survey.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "KDHS 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Demographic and Health Survey",
+   "country_label": "KDHS 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "KNBS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

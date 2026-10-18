@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-10-mli-cea-bertrand-promesses-numeriques-foncier-bamako",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The SPRDF announced it would digitise all parcels in Mali under the NINACAD national cadastral identifier, deployed first around Bamako, and in January 2023 claimed 648,057 parcels online.",
+       "as_of": "2023-01",
+       "date_precision": "month",
+       "system": "NINACAD",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NINACAD",
+       "country_label": "Mali",
+       "class": "landmis",
+       "platform": "web portal and phone app",
+       "owner": "SPRDF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

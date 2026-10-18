@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-tcd-tchadinfos-campagne-e-tax",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "revenue",
+   "platform": "E-Tax",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

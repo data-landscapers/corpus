@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-sen-dgid-fiche-obtenir-un-ninea",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NINEA",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": "NINEA is a directory of taxpayers, establishments and associations, but the sheet does not say it is computerised, shared with customs, or tied to the national ID."
+}

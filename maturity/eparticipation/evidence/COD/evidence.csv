@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,eparticipation,online,asked,"ARPTC opened a public consultation on 5G implementation from 3 March to 2 April 2025, with the 24-question questionnaire downloadable from its website and responses sent by email.",2025-03-03,day,ARPTC 5G public consultation questionnaire,eparticipation,2025-03-03-cod-arptc-questionnaire-consultation-publique-5g,https://arptc.gouv.cd/app/uploads/2025/03/Questionnaire_Consultation-publique_RDC_V7_010325.pdf

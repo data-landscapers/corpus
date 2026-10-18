@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNCTAD's ASYCUDA Programme says ASYCUDAWorld 4.3.3 was rolled out by the Malawi Revenue Authority in Blantyre on 20 October 2023, and MRA's Dedza station manager says it is used to process imports and exports and to declare goods.",
+   "as_of": "2023-10-20",
+   "date_precision": "day",
+   "system": "ASYCUDAWorld 4.3.3",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDAWorld 4.3.3",
+   "country_label": "Malawi",
+   "class": "customs",
+   "platform": "ASYCUDAWorld",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

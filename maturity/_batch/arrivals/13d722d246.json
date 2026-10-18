@@ -1,0 +1,44 @@
+{
+ "slug": "2025-04-10-moz-worldbank-ieg-icr-review-land-administration-project",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The World Bank IEG review says the land information system SIGIT was upgraded, operational and available when the project closed, and that 1,283,171 DUATs were recorded in it.",
+       "as_of": "2024-03-29",
+       "date_precision": "day",
+       "system": "SIGIT",
+       "class": "land"
+      },
+      {
+       "sub_indicator": "land",
+       "aspect": "online",
+       "value": "online",
+       "fact": "The World Bank IEG review says SIGIT included a web portal that enabled public access to the national cadastre land data.",
+       "as_of": "2024-03-29",
+       "date_precision": "day",
+       "system": "SIGIT",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGIT",
+       "country_label": "Mozambique",
+       "class": "land",
+       "platform": "",
+       "owner": "National Land Directorate (MTA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

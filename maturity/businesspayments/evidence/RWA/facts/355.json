@@ -1,0 +1,46 @@
+{
+ "slug": "2021-11-01-rwa-rppa-umucyo-user-satisfaction-survey",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The RPPA survey says Umucyo was rolled out to all government institutions in 2017 and is used by about 200 procuring entities and over 5,000 bidders.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "Umucyo",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "The RPPA survey says Umucyo covers planning, bidding, awarding, contracting, purchasing and contract management, and law 62/2018 requires all public procurement to use it unless RPPA authorises otherwise.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "Umucyo",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The RPPA survey reports about 200 procuring entities and over 5,000 bidders on Umucyo and an overall user satisfaction of 79.5%.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "Umucyo",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Umucyo",
+   "country_label": "Rwanda",
+   "class": "procurement",
+   "platform": "",
+   "owner": "RPPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

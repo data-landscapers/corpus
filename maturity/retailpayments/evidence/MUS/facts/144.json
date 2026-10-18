@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-03-mus-bizweek-financial-inclusion-bank-accounts",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article, citing the 2021 COMESA report, states mobile account holding in Mauritius is at 6% of adults, so mobile accounts are in use.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "mobile accounts",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

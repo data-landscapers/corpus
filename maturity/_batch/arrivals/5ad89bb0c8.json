@@ -1,0 +1,348 @@
+{
+ "slug": "2026-06-30-eth-unesco-ai-ram-country-profile",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "UNESCO's readiness profile lists the Freedom of the Mass Media and Access to Information Proclamation among Ethiopia's legal instruments and says it predates widespread AI deployment.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "Freedom of the Mass Media and Access to Information Proclamation",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No source line says a rule or authority addresses AI harms; it says only that liability for AI-induced harm has no binding law."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "UNESCO's readiness profile says Ethiopia's legal framework is not AI-specific and it has no binding legislation on public procurement of AI, algorithmic transparency or liability for AI-induced harm.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Speech translation for health is named as an innovation, not as in service in a public system."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "UNESCO's profile says Ethiopia has adopted a National Artificial Intelligence Policy and developed a National AI Strategy.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Policy",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "UNESCO's profile says the Ethiopian Artificial Intelligence Institute holds a statutory mandate to formulate, draft and monitor national AI policies and coordinate implementation across government.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "Ethiopian Artificial Intelligence Institute",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Policy",
+       "country_label": "Ethiopia",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Government of Ethiopia",
+       "tiers": ""
+      },
+      {
+       "system": "Ethiopian Artificial Intelligence Institute",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Ethiopia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Multilingual translation systems are named without saying who built them or that they are released."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "UNESCO's profile lists the Personal Data Protection Proclamation among the instruments shaping Ethiopia's legal framework.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "Personal Data Protection Proclamation",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The 12.1% figure is a gender gap in internet access, not in internet use."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "graduates",
+       "aspect": "stem",
+       "value": "official:11.2",
+       "fact": "UNESCO's profile says only 11.2% of Ethiopia's graduates are in STEM.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "UNESCO readiness assessment",
+       "class": "stemgraduates"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  }
+ }
+}

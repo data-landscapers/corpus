@@ -1,0 +1,34 @@
+{
+ "slug": "2021-01-01-civ-cepici-creation-entreprise-en-ligne-e-entreprise",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "CEPICI says it launched the online company-creation service E-ENTREPRISE in October 2018, via the 225invest.ci portal.",
+       "as_of": "2018-10",
+       "date_precision": "month",
+       "system": "E-ENTREPRISE",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-ENTREPRISE",
+       "country_label": "Cote d'Ivoire",
+       "class": "business",
+       "platform": "225invest.ci",
+       "owner": "CEPICI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

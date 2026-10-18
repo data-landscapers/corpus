@@ -1,0 +1,53 @@
+{
+ "slug": "2024-07-01-bfa-snv-garbal-satellite-agrifood",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "SNV says its GARBAL call service, run since 2015 with the Ministry of Animal Resources and ANAM, integrates satellite data with weather station and government data to advise farmers and herders.",
+       "as_of": "2024-07-01",
+       "date_precision": "day",
+       "system": "GARBAL",
+       "class": "agrisat"
+      },
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "reach",
+       "value": "counted",
+       "fact": "SNV says GARBAL has over 260,000 unique users and about 2 million calls, and 1,105,000 people were mobilised.",
+       "as_of": "2024-07-01",
+       "date_precision": "day",
+       "system": "GARBAL",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GARBAL",
+       "country_label": "Burkina Faso",
+       "class": "agrisat",
+       "platform": "call centre and IVR with Orange Burkina Faso",
+       "owner": "SNV",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "ANAM is named only as a supporter of the GARBAL data mix; no national forecast use stated."
+    }
+   }
+  }
+ }
+}

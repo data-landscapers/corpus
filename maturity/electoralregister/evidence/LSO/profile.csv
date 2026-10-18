@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,electoral,roll,coverage,inservice,2023-09,LSO-001,,nothing dated since 2023-10-17
+LSO,electoral,roll,coverage,inservice,2023-09,LSO-001;LSO-004,LSO-002=underway,
 LSO,electoral,checked,coverage,,,,,nothing held
-LSO,electoral,linked,coverage,,,,,nothing held
+LSO,electoral,linked,coverage,linked,2024-10,LSO-003;LSO-005,,

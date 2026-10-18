@@ -1,0 +1,195 @@
+{
+ "slug": "2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "The NPC chairman said NPC is training data officers in advanced analytics to support the publication of vital statistics.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "NPC data officer training",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a PKI day theme but states no authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Per the NPC chairman, birth certificates in Jigawa are processed for NIN generation.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "NIN-e-CRVS integration",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-CRVS",
+       "country_label": "e-CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only talks with NIMC on a biometric exercise for the upcoming census; no mapping, funding or date."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The NPC chairman said the e-CRVS system integrates birth registration with health facilities across several states, with over 15,000 children registered in Jigawa alone.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "e-CRVS",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-CRVS",
+       "country_label": "e-CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No enrolment count or share stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Over 15,000 children registered in Jigawa have birth certificates processed for NIN generation, the chairman said.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "NIN at birth via e-CRVS",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-CRVS",
+       "country_label": "e-CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or owns the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the NIN stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NPC chairman said newborns can now receive a NIN at birth, the NIN being the national identification number.",
+       "as_of": "2025-09-16",
+       "date_precision": "day",
+       "system": "NIN",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No population register named."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no local office digital entry; health-facility registration in Jigawa is described without saying where the record is made."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-22-dza-algerieaujourdhui-alces-168000-declarations",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Algeria's customs director general says a digital platform linking the customs system to the information systems of ministries issuing licences and certificates is being built, with trials in July 2024 on documents of the commerce, agriculture and industry ministries and other administrations to follow in the first half of 2025.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "customs interconnection platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

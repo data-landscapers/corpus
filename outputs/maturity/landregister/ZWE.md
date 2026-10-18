@@ -6,7 +6,7 @@
 
 **Nationwide.** No source held since October 2023 says the digital land register covers the whole country. The nearest held fact: [The Permanent Secretary said conveyancers submit the title deed information through the DLAP system to the Deeds Registry for processing, after which a securitised title deed is issued](<https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide>).
 
-**Online services.** [The Permanent Secretary said conveyancers submit the title deed information through the DLAP system to the Deeds Registry for processing, after which a securitised title deed is issued](<https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide>). [The eCadastre portal states property can be searched online from anywhere, with property cards available after payment, and surveyors can e-lodge surveys](<http://www.zimcadastre.co.zw/>).
+**Online services.** [The Permanent Secretary said conveyancers submit the title deed information through the DLAP system to the Deeds Registry for processing, after which a securitised title deed is issued](<https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide>). [Justice Minister Ziyambi Ziyambi said the DLAP enables farmers and landowners to apply for title deeds online, alongside the manual process](<https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/>).
 
 ***Noted, not assessed***. None held.
 

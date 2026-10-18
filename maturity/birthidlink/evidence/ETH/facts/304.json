@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-06-eth-ebc-addis-ai-civil-registration-system",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The EBC reports the new Addis Ababa system is set to create interoperability between sectors including Health, Immigration, Courts and the National ID Program.",
+   "as_of": "2025-12-06",
+   "date_precision": "day",
+   "system": "AI-enriched integrated digital civil registration and resident services system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-enriched integrated digital civil registration and resident services system",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Addis Ababa City Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

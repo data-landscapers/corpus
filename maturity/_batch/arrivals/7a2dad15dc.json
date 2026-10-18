@@ -1,0 +1,32 @@
+{
+  "slug": "2025-03-14-tgo-fullnews-cfetogo-online-business-registration",
+  "studies": {
+    "businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+    "businessregister": {"countries": {"TGO": {"facts": [
+      {"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Full-News article says firms can check name availability, file statutes, pay fees and receive registration documents online through the CFE site cfetogo.tg, in under four hours, with online payment since 2019.", "as_of": "2025-03-14", "date_precision": "day", "system": "cfetogo.tg (Centre de Formalites des Entreprises)", "class": "business"}
+    ], "systems": [
+      {"system": "cfetogo.tg", "country_label": "Togo", "class": "business", "platform": "CFE website", "owner": "Centre de Formalites des Entreprises (CFE)", "tiers": ""}
+    ], "note": ""}}},
+    "centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing about the central bank's role."}}},
+    "consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document names no cross-border payment channel; the card payment option is not a named corridor."}}},
+    "egovservices": {"countries": {"TGO": {"facts": [
+      {"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The article says business registration, including payment of administrative fees, can be completed online through the CFE portal cfetogo.tg, launched under economic reforms.", "as_of": "2025-03-14", "date_precision": "day", "system": "cfetogo.tg", "class": "eservices"}
+    ], "systems": [
+      {"system": "cfetogo.tg", "country_label": "Togo", "class": "eservices", "platform": "CFE website", "owner": "Centre de Formalites des Entreprises (CFE)", "tiers": ""}
+    ], "note": ""}}},
+    "g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+    "paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document gives no survey of adults with accounts."}}},
+    "retailpayments": {"countries": {"TGO": {"facts": [
+      {"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "CFE director Samuel Sanwogou says firms have been able to pay registration fees through Flooz and Tmoney online payment means since February 2019.", "as_of": "2019-02", "date_precision": "month", "system": "Flooz and Tmoney", "class": "retail"}
+    ], "systems": [
+      {"system": "Flooz", "country_label": "Togo", "class": "retail", "platform": "", "owner": "", "tiers": ""},
+      {"system": "Tmoney", "country_label": "Togo", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+    ], "note": ""}}},
+    "revenuecollection": {"countries": {"TGO": {"facts": [
+      {"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The article says administrative fees for company registration are paid online via the CFE site, by Flooz, Tmoney, Mastercard or Visa, and cites electronic payment of public services as part of the digital strategy.", "as_of": "2025-03-14", "date_precision": "day", "system": "cfetogo.tg", "class": "revenue"}
+    ], "systems": [], "note": ""}}},
+    "startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document mentions a startup founder only as a user; no startup law or fund."}}},
+    "techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document names no hub, incubator or park."}}}
+  }
+}

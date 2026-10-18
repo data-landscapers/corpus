@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-07-dza-asal-cropwatch-remote-sensing-agriculture",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Algerian Space Agency (ASAL) says it works with the Ministry of Agriculture on pilot satellite mapping of cereals (Sidi Bel Abbes, Sentinel-2 NDVI time series) and of potatoes (Mostaganem), and plans to customise CropWatch for these two pilot zones.",
+   "as_of": "2023-08-07",
+   "date_precision": "day",
+   "system": "ASAL remote-sensing agriculture pilots / CropWatch",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASAL remote-sensing agriculture pilots / CropWatch",
+   "country_label": "Algeria",
+   "class": "agrisat",
+   "platform": "Sentinel-2, CropWatch",
+   "owner": "Agence Spatiale Algérienne with Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

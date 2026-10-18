@@ -1,0 +1,34 @@
+{
+ "slug": "2022-06-24-tun-economistemaghrebin-cloture-zones-blanches",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "delivering",
+       "fact": "The communications technologies ministry announced the close of its white zones project, in which Tunisie Telecom, funded by the Communications Development Fund with TND 38 million, covered 94 sectors in 47 delegations across 15 governorates and 180,000 inhabitants.",
+       "as_of": "2022-06-24",
+       "date_precision": "day",
+       "system": "White zones project (Zones blanches)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "White zones project (Zones blanches)",
+       "country_label": "Tunisia",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Ministry of Communication Technologies; Tunisie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

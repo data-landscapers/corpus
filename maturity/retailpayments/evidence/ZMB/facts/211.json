@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-zmb-zambiamonitor-boz-emoney-unwarranted-charges",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Zambia Monitor reports e-money wallets in service in September 2024, with deposits, merchant payments, bill payments and balance inquiries subject to Bank of Zambia directives on charges.",
+   "as_of": "2024-09-14",
+   "date_precision": "day",
+   "system": "electronic money services",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

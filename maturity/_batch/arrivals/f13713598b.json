@@ -1,0 +1,95 @@
+{
+ "slug": "2026-01-01-sen-dgid-fiche-obtenir-un-ninea",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a procedure sheet for obtaining a NINEA and states nothing on this study."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NINEA",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "DGID",
+       "tiers": ""
+      }
+     ],
+     "note": "NINEA is a directory of taxpayers, establishments and associations, but the sheet does not say it is computerised, shared with customs, or tied to the national ID."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,business,system,coverage,inservice,2024-03-31,ZWE-001;ZWE-003,,
+ZWE,business,endtoend,coverage,,,,,nothing held
+ZWE,business,reported,coverage,reported,2024-03-31,ZWE-002,,

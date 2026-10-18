@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "accessibility",
-   "stage": "unplaced",
-   "rule": "",
-   "delivered": "",
-   "audit": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
-   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "accessibility",
+      "stage": "2",
+      "rule": "underway",
+      "delivered": "",
+      "audit": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-003",
+      "gaps": "No source held since October 2023 says: is a rule in force.",
+      "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

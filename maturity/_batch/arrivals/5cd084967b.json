@@ -1,0 +1,34 @@
+{
+ "slug": "2018-02-01-ner-minfin-dgi-sisic-note-information",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The tax directorate says its computerised taxpayer tracking system SISIC was deployed at the large-taxpayer directorate on 19 February 2018, applying to March 2018 declarations, with online services still to come.",
+       "as_of": "2018-02-19",
+       "date_precision": "day",
+       "system": "SISIC",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SISIC",
+       "country_label": "Systeme Informatise de Suivi des Impots et des Contribuables",
+       "class": "tax",
+       "platform": "",
+       "owner": "Direction Generale des Impots",
+       "tiers": "large-taxpayer directorate"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

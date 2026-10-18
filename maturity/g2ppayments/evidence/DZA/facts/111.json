@@ -1,0 +1,26 @@
+{
+ "slug": "2023-04-19-dza-lejourdalgerie-allocation-chomage-ccp",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Labour minister Bentaleb says over 1.9 million jobseekers receive a DA 15,000 monthly unemployment allowance paid into CCP postal accounts, staggered 26-28 of the month by account number.",
+   "as_of": "2023-04-19",
+   "date_precision": "day",
+   "system": "Allocation chomage (CCP)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Allocation chomage",
+   "country_label": "Allocation chomage",
+   "class": "g2p",
+   "platform": "CCP postal accounts",
+   "owner": "Ministry of Labour / Algerie Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

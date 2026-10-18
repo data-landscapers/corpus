@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-ner-adn-rayuwa-ai-platform-training",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ADN says Rayuwa, an AI platform with a text and voice assistant, image-based crop disease diagnosis and location-based forecasts, is free on the Play Store, and that technical staff of the national meteorology, water resources and plant protection directorates were trained on 27-28 August 2025 and given administrator accounts to manage its content.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Rayuwa",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rayuwa",
+   "country_label": "Niger",
+   "class": "sectorai",
+   "platform": "Android app (Play Store)",
+   "owner": "Agence de Developpement Numerique (ADN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

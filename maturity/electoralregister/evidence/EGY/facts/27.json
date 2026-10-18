@@ -1,0 +1,17 @@
+{
+ "slug": "2017-08-01-egy-nea-law-198-2017-national-election-authority",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Law 198/2017 tasks the National Election Authority with preparing the voter database based on national identification number data and keeping it updated and cleaned.",
+   "as_of": "2017-08-01",
+   "date_precision": "day",
+   "system": "Voter database",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

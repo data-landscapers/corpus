@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-21-zwe-herald-10000-register-egp-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "electronic Government Procurement (eGP) System",
+   "country_label": "eGP",
+   "class": "other",
+   "platform": "eGP platform",
+   "owner": "PRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "eGP is a procurement system for suppliers and buying entities, not a citizen or business service gateway."
+}

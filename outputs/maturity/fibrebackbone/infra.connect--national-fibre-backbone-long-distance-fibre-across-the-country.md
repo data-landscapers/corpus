@@ -1,6 +1,6 @@
 # National fibre backbone: long-distance fibre across the country
 
-*As at 2026-10-17.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 6 |
-| 3 Established | 29 |
+| 4 Operating | 7 |
+| 3 Established | 28 |
 | 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -42,6 +42,12 @@ Backbone fibre reached every region by 2025, and other operators buy capacity on
 Backbone fibre reached every province or region by 2023; whether other operators buy capacity on it is not known.
 
 - Matias Borges, national director of telecommunications at MINTTICS, said in a May 2023 interview that Angola's terrestrial fibre network exceeds 22,000 km and connects all provincial and communal capitals; no date for the connection is given, so the article date is used ([source, 2023-05-17](https://minttics.gov.ao/ao/noticias/matias-borges-dois-novos-projectos-vao-garantir-a-expansao-dos-servicos-de-comunicacoes-nos-municipios-e-nas-comunas/)).
+
+### Burkina Faso: 4 Operating
+
+Backbone fibre reached every province or region by 2025; whether other operators buy capacity on it is not known.
+
+- Minister Aminata Zerbo/Sabane told parliament the national backbone now offers robust connectivity across the whole territory ([source, 2025-03-11](https://an.bf/127)).
 
 ### Burundi: 4 Operating
 
@@ -80,13 +86,6 @@ Backbone fibre linked the capital to other regions by 2026; whether it reaches e
 
 - BoFiNet reported at its 13 August 2026 AGM 99.7% service availability across its national fibre backbone (News&All Botswana report, no regions or km given) ([source, 2026-08-13](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/)).
 - Communications minister David Tshere said approximately 16,000 km of fibre optic cable is already laid across Botswana, linking the country internally and to South Africa, Namibia, Zimbabwe and Zambia; the document gives no towns or regions and does not say 'lit' or name the owner (published date used as as_of) ([source, 2026-03-09](https://dailynews.gov.bw/news-detail/90463)).
-
-### Burkina Faso: 3 Established
-
-Backbone fibre linked the capital to other regions by 2025; whether it reaches every region is not known.
-
-- The ministry's 2025 results say the national fibre-optic network was expanded to more than 11,292 km (We Are Tech Africa reporting) ([source, 2025](https://www.wearetech.africa/en/fils-uk/news/public-management/burkina-faso-earmarks-109-4mln-for-digital-projects-in-2026)).
-- The document states the SMART Burkina project, about 800 km of fibre connecting 22 major cities across Burkina Faso, was completed in August 2025, citing a SASAC report ([source, 2025-08](https://www.bu.edu/gdp/files/2022/11/GCI_PB_012_EN_FIN.pdf)).
 
 ### Cameroon: 3 Established
 
@@ -144,8 +143,8 @@ Backbone fibre linked the capital to other regions by 2026; whether it reaches e
 
 Backbone fibre linked the capital to other regions by 2026; whether it reaches every region is not known.
 
-- GabonReview reports the national backbone in operation at 1,782 km of fibre, with a state official citing about 2,000 km today; places not listed ([source, 2026-09-14](https://www.gabonreview.com/backbone-national-gabon-fiber-prend-les-commandes-et-promet-1-651-km-de-fibre-en-plus/)).
-- GabonReview reports the existing national backbone at 1,769 km, owned by SPIN and operated until the delegation to Bouygues Energies & Services-Axione expired on 15 Nov 2026 (as stated); places not listed ([source, 2026-09-14](https://www.gabonreview.com/gabon-fiber-vers-une-connectivite-plus-etendue-plus-performante-et-plus-accessible/)).
+- L'Union reports the 196 km Fougamou-Mouila section (Ngounie province), built and pre-financed by Moov Africa Gabon Telecom, now connects Fougamou and Mouila to the national backbone; it is the first segment of phase 1 of the extension, ceded to the State by a convention signed at Mouila (dated 'yesterday' in a 7 Oct 2026 article) ([source, 2026-10-06](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique)).
+- SPIN states the 196 km Lambarene-Mouila fibre section, first segment of phase 1 of the national backbone extension, was commissioned on 6 October 2026, connecting Fougamou and Mouila to the national network ([source, 2026-10-06](https://spin.ga/backbone-national-gabonais-196-km-de-fibre-optique/)).
 
 ### Gambia: 3 Established
 

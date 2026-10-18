@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-gnq-minsabs-odepac-quejas-denuncias",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ODEPAC",
+   "country_label": "Guinea Ecuatorial",
+   "class": "other",
+   "platform": "ministry website page",
+   "owner": "Ministerio de Sanidad y Bienestar Social",
+   "tiers": ""
+  }
+ ],
+ "note": "The page says ODEPAC receives complaints and reports but does not state a digital channel, a launch or case numbers."
+}

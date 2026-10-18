@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-sen-dgid-paiement-impots-max-it",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGID announces that taxpayers can now pay all taxes, duties, fees and charges through Orange's MAX IT mobile app, under the menu 'FAY SAMA IMPOT'.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "MAX IT (FAY SAMA IMPOT)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAX IT",
+   "country_label": "Senegal",
+   "class": "revenue",
+   "platform": "mobile app",
+   "owner": "Orange (Sonatel)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-20-tgo-otr-creation-nif-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The OTR says individual taxpayers can now create or recover their tax identification number (NIF) online at nif.otr.tg, presented 18 December 2023.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "nif.otr.tg",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "nif.otr.tg",
+   "country_label": "Togo",
+   "class": "tax",
+   "platform": "web",
+   "owner": "OTR",
+   "tiers": "individual taxpayers"
+  }
+ ],
+ "note": ""
+}

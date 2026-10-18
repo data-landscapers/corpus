@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-rwa-undp-ai-ml-weather-feasibility-study",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The UNDP/Neuralio feasibility study says METEO RWANDA receives satellite data from EUMETSAT's Meteosat Second and Third Generation via EUMETCast, with imagery as often as every 15 minutes, used mainly as static images (JPEG cloud maps) by forecasters.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "EUMETCast reception of Meteosat MSG/MTG",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETCast (MSG/MTG)",
+   "country_label": "Rwanda",
+   "class": "metsat",
+   "platform": "EUMETCast",
+   "owner": "METEO Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

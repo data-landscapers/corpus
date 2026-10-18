@@ -1,0 +1,26 @@
+{
+ "slug": "2023-07-06-rwa-ictd-electronic-tax-administration",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ICTD says electronic tax filing and tax payment systems have been mandatory in Rwanda since 2015, with e-service take-up among surveyed income-taxpayers reaching 90 per cent by two years into the pandemic.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "tax e-services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "tax e-services",
+   "country_label": "Rwanda",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

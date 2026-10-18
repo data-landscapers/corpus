@@ -106,8 +106,8 @@ Two data centres for hire at Tier III or above in service by 2024.
 
 Two data centres for hire at Tier III or above in service by 2024.
 
+- The French Treasury note says Wingu inaugurated a new Tier 3 data centre at the TO7 technology park in November 2024 ([source, 2024-11](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
 - The operator, Wingu.Africa, describes the newly launched T07 Technology Park data centre in Djibouti as a Tier 3 certified data centre; the certifying body is not named ([source, 2024-11-26](https://africa.hyperscalers.news/news/wingu-africa-launches-tier-iii-data-center-in-djibouti/)).
-- Djibouti Telecom's own page, as summarised in the capture's header, describes a Tier-3 data centre (DDC) with colocation, operator-stated rather than certified; the page body shown names the Ras Dika data centre; no opening date, so the page date is used ([source, 2024-07](https://international.djiboutitelecom.dj/)).
 
 ### Ethiopia: 4 Operating
 

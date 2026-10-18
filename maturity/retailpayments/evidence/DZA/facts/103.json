@@ -1,0 +1,44 @@
+{
+ "slug": "2023-12-19-dza-mpt-autonomisation-besoins-specifiques",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Post and Telecommunications says Algerie Poste's BaridiMob app, with over 5 million downloads, lets users transfer money between accounts and top up mobile credit for the three operators.",
+   "as_of": "2023-12-19",
+   "date_precision": "day",
+   "system": "BaridiMob",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Ministry of Post and Telecommunications says it is consolidating interoperability between Algerie Poste's payment platform and the banks', so Edahabia card holders can carry out operations at bank counters.",
+   "as_of": "2023-12-19",
+   "date_precision": "day",
+   "system": "Algerie Poste payment platform / Edahabia",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BaridiMob",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "app",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  },
+  {
+   "system": "Edahabia",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "card",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

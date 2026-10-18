@@ -1,0 +1,17 @@
+{
+ "slug": "2023-06-23-mwi-malawi24-nrb-confiscates-national-ids-from-refugees",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "The NRB principal secretary said nine national IDs issued illegally to refugees were confiscated, and that the Registration Act has no mandate to register refugees.",
+   "as_of": "2023-06-22",
+   "date_precision": "day",
+   "system": "national ID",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

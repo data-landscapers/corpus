@@ -1,0 +1,290 @@
+{
+ "slug": "2026-05-14-lso-lestimes-moorosi-digitisation-interview",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Minister Moorosi says the Cyber Security Bill and Computer Crimes Bill, split from one bill, are being finalised before returning to Parliament.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "Cyber Security Bill and Computer Crimes Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Minister Nthati Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway, 'almost done'.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "integrated online services platform",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "integrated online services platform",
+       "country_label": "Lesotho",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Information, Communications, Science, Technology and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Minister Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway so citizens can pay for services digitally instead of cash.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "electronic payment gateway",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Lesotho."
+    }
+   }
+  }
+ }
+}

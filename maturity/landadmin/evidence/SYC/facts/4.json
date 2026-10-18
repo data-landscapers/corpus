@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-22-syc-ntb-land-valuation-system-tender",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Lands Department, with the Department of Information Communications Technology, invited tenders on 22 January 2025 for the design, development and supply of an online Land Valuation System, to interface with the National Population Database, SeyID, the Registration Division, the Seychelles Planning Authority and IFMIS, with delivery within six months of award.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "Land Valuation System (LVS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Valuation System (LVS)",
+   "country_label": "LVS",
+   "class": "landmis",
+   "platform": "online software, supplier to be selected",
+   "owner": "Lands Department, Ministry of Lands and Housing",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

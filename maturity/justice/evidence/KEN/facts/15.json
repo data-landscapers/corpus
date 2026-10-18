@@ -1,0 +1,52 @@
+{
+ "slug": "2024-11-01-ken-judiciary-sojar-2023-24-popular-version",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Judiciary of Kenya's SOJAR 2023-24 says its internal Case Tracking System automates registry operations including case registration, fee assessment, cause list preparation and court orders, and helps courts track cases and manage schedules.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Case Tracking System",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "E-filing system",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Case Tracking System",
+   "country_label": "Kenya",
+   "class": "justice",
+   "platform": "",
+   "owner": "The Judiciary of Kenya",
+   "tiers": "all courts"
+  },
+  {
+   "system": "E-filing system",
+   "country_label": "Kenya",
+   "class": "justice",
+   "platform": "",
+   "owner": "The Judiciary of Kenya",
+   "tiers": "all court stations"
+  },
+  {
+   "system": "Cause Lists Portal",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "The Judiciary of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

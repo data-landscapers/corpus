@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,uptake,share,coverage,half,2023,MWI-002,MWI-001=quarter,
+MWI,uptake,target,coverage,,,,,nothing held
+MWI,uptake,payments,coverage,,,,,nothing held

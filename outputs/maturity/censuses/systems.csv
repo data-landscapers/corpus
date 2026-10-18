@@ -50,6 +50,7 @@ BWA,Census 2011,Census 2011,census,,,,2019-08-01-bwa-botswana-his-indicators
 BWA,MICS2 2000,MICS2 2000,survey,,,,2019-08-01-bwa-botswana-his-indicators
 BWA,DHS 1988,DHS 1988,survey,,,,2019-08-01-bwa-botswana-his-indicators
 BWA,2025 Inbound Visitor Survey,Inbound Visitor Survey 2025,other,,Ministry of Environment and Tourism,,2026-07-08-tourism-satellite-account-inbound-visitor-survey
+BWA,2022 census,Census 2022,census,,,,2024-08-28-bwa-dailynews-smartbots-schools-connected
 CAF,RGPH-4,RGPH-4,census,CSPro,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
 CAF,EHCVM2,EHCVM2,survey,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
 CAF,ECTI (informal cross-border trade survey),ECTI,other,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
@@ -181,6 +182,7 @@ GNB,RGPH 2019,RGPH 2019,census,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-
 GNB,IHCVF 2018,IHCVF 2018,survey,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
 GNB,MICS-6 2018,MICS-6 2018,survey,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
 GNB,RGAP 2019,RGAP 2019,other,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
+GNB,4th general population and housing census 2025,RGPH-4 2025,census,,National Statistics Institute,,2024-06-14-gnb-unfpa-social-register-roadmap
 GNQ,5th RGPH,RGPH-5,census,,INEGE,,2026-08-28-bdi-gnq-cooperation-sud-sud-recensement-numerique
 GNQ,CGPV-V,V Censo General de Población y Vivienda 2027,census,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
 GNQ,CGA-I,I Censo General Agropecuario,other,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
@@ -197,10 +199,13 @@ GNQ,CGPV-V (V Censo General de Poblacion y Vivienda),CGPV-V (RGPH-5),census,,INE
 GNQ,CGA-I (I Censo General Agropecuario),CGA-I,other,,INEGE,,2026-08-20-inege-comite-cientifico-censo-decreto-25-2025-resolucion-006-2025
 GNQ,INSESO pensioner census 2024,Pensioner census 2024,other,,INSESO,,2025-09-16-inseso-comparecencia-camara-diputados
 GNQ,Censo Electoral 2022,Electoral census 2022,other,,Ministerio del Interior y Corporaciones Locales,,2022-04-05-decreto-34-2022-levantamiento-censo-electoral
+GNQ,V Censo General de Poblacion y Viviendas,Census 5 (planned),census,,INEGE,,2024-11-15-gnq-oficinainfo-consejo-hacienda-plan-choque-tributario
 KEN,Kenya Mini Demographic and Health Survey (KMDHS) 2025/2026,KMDHS 2025/2026,survey,,KNBS with Ministry of Health,,2025-10-29-kmdhs-2025-2026-fieldwork-launch
 KEN,Kenya Demographic and Health Survey (KDHS) 2022,KDHS 2022,survey,,,,2025-10-29-kmdhs-2025-2026-fieldwork-launch
 KEN,National survey on child online protection and safety,CA/UoN child online safety survey 2026,other,,Communications Authority of Kenya with University of Nairobi IDS,,2026-09-09-techafricanews-kenya-child-online-protection-survey
 KEN,Population and Housing Census,Kenya Population and Housing Census,census,,Kenya National Bureau of Statistics,,2006-09-08-kenya-statistics-act-2006
+KEN,Kenya Demographic and Health Survey,KDHS 2022,census,,KNBS,,2024-12-01-ken-ca-kdhs-2022-ict-analytical-fact-sheet
+KEN,Kenya Demographic and Health Survey,KDHS 2022,survey,,KNBS,,2024-12-17-ken-ca-kdhs-2022-ict-uptake-electricity
 LBR,Liberia Annual Agricultural Survey 2024 (LAAS),LAAS 2024,other,,LISGIS,,2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use
 LBR,Liberia Agriculture Census 2024,LAC 2024,other,,LISGIS,,2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use
 LBR,Annual School Census,School census 2025/2026,other,,Ministry of Education,,2026-03-30-liberia-moe-launches-2025-2026-national-school-census
@@ -236,6 +241,7 @@ MAR,Enquete nationale sur la famille,Enquete nationale sur la famille,survey,,HC
 MAR,Enquete sur le niveau de vie des menages,Enquete niveau de vie des menages,survey,,HCP,,2025-10-21-hcp-jms-2025-allocution
 MAR,Recensement de la population et de l'habitat,Recensement de la population et de l'habitat,census,,HCP Direction de la statistique,,2018-04-06-hcp-direction-de-la-statistique-missions
 MAR,Enquete nationale sur l'emploi,Enquete nationale sur l'emploi,survey,,HCP Direction de la statistique,,2018-04-06-hcp-direction-de-la-statistique-missions
+MAR,RGPH 2024,RGPH 2024,census,,High Commission for Planning (HCP),,2024-12-17-mar-aljarida24-hcp-census-internet-use-by-sex
 MDG,RGPH 3,RGPH-3,census,,INSTAT,,2026-08-09-madagascar-instat-microdata-platform
 MDG,ERISC Ménages,ERISC Ménages 2020-2022,survey,,INSTAT,,2026-08-09-madagascar-instat-microdata-platform
 MDG,RGPH-3 2018,RGPH-3 2018,census,,INSTAT,,2025-08-07-presentation-plateforme-microdonnees-instat-rgph3
@@ -332,6 +338,7 @@ NAM,2011 National Population and Housing Census,PHC 2011,census,,Namibia Statist
 NAM,2023 census,Census 2023,census,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,Demographic and Health Survey 2013,DHS 2013,survey,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,2023 Population and Housing Census,PHC 2023,census,digital enumeration,Namibia Statistics Agency,,2026-07-30-namibia-bon-nsa-statistics-awareness-day-admin-records-ai
+NAM,Population and Housing Census,Census 2023,census,,NSA,,2024-05-20-nam-fig-mazambani-communal-land-administration-nclas
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2026-07-29-lesahel-diffa-chefs-traditionnels-5e-rgph
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-10-09-niger-lesahel-synpis-congres-recensement
 NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
@@ -375,6 +382,7 @@ SEN,RGPH-5,RGPH-5,census,,ANSD,,2026-08-05-senegal-civil-registration-digitaliza
 SEN,EDS Continue 2023,DHS 2023,survey,,,,2026-08-05-senegal-civil-registration-digitalization-anec
 SEN,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
 SEN,national business census,business census 2026,other,,ANSD,,2026-07-01-gpsdd-midn-dakar-peer-exchange
+SEN,RGPH-5,RGPH-5 2023,census,,,,2025-07-18-sen-rewmi-entics-femmes-plus-connectees
 SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-13-sle-sierra-leone-counts-down-to-first-fully-digital-census
 SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-12-sle-2026-census-budget-rises-from-7-million-to-nearly-60-million
 SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed

@@ -1,0 +1,25 @@
+{
+ "slug": "2022-05-05-eri-shabait-training-technology-information-system",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Eritrea's Central Region administration held a one-month training on technology and information systems for 40 sub-zonal administrators and managing directors, concluding 5 May 2022.",
+       "as_of": "2022-05-05",
+       "date_precision": "day",
+       "system": "Central Region technology and information system training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

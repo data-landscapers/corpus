@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-14-bdi-primature-rppcub-2026-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RPPCUB 2026",
+   "country_label": "RPPCUB 2026 (urban property-owner census)",
+   "class": "other",
+   "platform": "",
+   "owner": "INSBU with DTFCN",
+   "tiers": ""
+  }
+ ],
+ "note": "The RPPCUB is a census of urban property owners, not a population and housing census or household survey."
+}

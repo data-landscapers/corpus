@@ -15,7 +15,7 @@ DJI,3,inservice,,,DJI-001;DJI-002
 DZA,3,inservice,,,DZA-002;DZA-003
 EGY,2,underway,,,EGY-002
 ERI,no evidence,,,,
-ETH,2,underway,,,ETH-002
+ETH,2,underway,,,ETH-004;ETH-002
 GAB,2,underway,,,GAB-001
 GHA,3,inservice,,,GHA-001
 GIN,3,inservice,,,GIN-006;GIN-004
@@ -35,10 +35,10 @@ MUS,3,inservice,,,MUS-001
 MWI,4,inservice,both,,MWI-005;MWI-003
 NAM,no evidence,,,,
 NER,2,underway,,,NER-002;NER-003
-NGA,3,inservice,,,NGA-001;NGA-003
+NGA,3,inservice,,,NGA-001;NGA-005
 RWA,3,inservice,,,RWA-001;RWA-002
 SDN,2,underway,,,SDN-001
-SEN,2,underway,,,SEN-001
+SEN,2,underway,,,SEN-001;SEN-002
 SLE,3,inservice,,,SLE-006;SLE-001
 SOM,2,underway,,,SOM-001;SOM-003
 SSD,3,inservice,,,SSD-002
@@ -48,7 +48,7 @@ SYC,unplaced,,,,
 TCD,3,inservice,,,TCD-005
 TGO,2,underway,,,TGO-001
 TUN,3,inservice,,,TUN-002;TUN-003
-TZA,2,underway,,,TZA-003;TZA-004
+TZA,3,inservice,,,TZA-005
 UGA,3,inservice,,,UGA-003;UGA-004
 ZAF,2,underway,,,ZAF-001
 ZMB,3,inservice,,,ZMB-002

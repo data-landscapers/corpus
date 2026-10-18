@@ -1,0 +1,44 @@
+{
+ "slug": "2018-03-23-dza-algerieeco-meteorologie-service-economie",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "inservice",
+       "fact": "The minister said the Office national de la Meteorologie was equipped with two satellite-image reception systems at Oran and Constantine.",
+       "as_of": "2018-03",
+       "date_precision": "month",
+       "system": "satellite image reception systems, Oran and Constantine",
+       "class": "metsat"
+      },
+      {
+       "sub_indicator": "metsat",
+       "aspect": "certified",
+       "value": "certified",
+       "fact": "The minister said ONM obtained ISO 9001 (2008 version) certification for its meteorological assistance activities.",
+       "as_of": "2018-03",
+       "date_precision": "month",
+       "system": "ISO 9001:2008 certificate",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Satellite image reception systems (Oran, Constantine)",
+       "country_label": "Algeria",
+       "class": "metsat",
+       "platform": "",
+       "owner": "Office national de la Meteorologie",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-07-nga-unicef-connecting-every-child-digital-learning",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "UNICEF says the GenU 9JA partnership with the Federal Ministry of Education, Airtel, ATC and IHS has extended internet infrastructure to 1,187 underserved communities.",
+   "as_of": "2025-02-07",
+   "date_precision": "day",
+   "system": "Generation Unlimited Nigeria (GenU 9JA)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Generation Unlimited Nigeria (GenU 9JA)",
+   "country_label": "Nigeria",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "UNICEF, Federal Ministry of Education, Airtel, ATC Nigeria, IHS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

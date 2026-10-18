@@ -1,0 +1,43 @@
+{
+ "slug": "2025-08-19-mwi-techafricanews-macra-communications-act-comments",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Comments invited by email, post and in person; no online posting stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "MACRA called on stakeholders and the public, including industry, consumer groups, academia and civil society, to submit comments on the review of the Communications Act by 5 September 2025, through its Digital Laws Taskforce.",
+       "as_of": "2025-08-19",
+       "date_precision": "day",
+       "system": "MACRA Communications Act review call for comments",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a statistics law."
+    }
+   }
+  }
+ }
+}

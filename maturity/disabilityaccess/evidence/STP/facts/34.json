@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-stp-ager-itu-conectividade-universal-significativa",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "AGER observes an absence of specific actions on accessibility in São Tomé and Príncipe's digital policy actions.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

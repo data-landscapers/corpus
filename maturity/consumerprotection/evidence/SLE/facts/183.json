@@ -1,0 +1,27 @@
+{
+ "slug": "2022-01-01-sle-bsl-nsfi-2022-2026",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Bank of Sierra Leone strategy says BSL has a process for tracking complaints and redressals, with its Consumer Protection Section holding commercial bank complaint data and mobile money providers reporting complaints to BSL.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "BSL Consumer Protection Section",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Bank of Sierra Leone strategy reports complaints tracked from mobile money providers in a period ending 2021: 12,993 cash reversals, 5,748 fraud, 1,793 PIN resets and 498 account unlocks.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "BSL complaints tracking",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

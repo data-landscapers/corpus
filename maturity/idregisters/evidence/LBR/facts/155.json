@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-27-lbr-csa-csa-nir-data-sharing-mou",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The CSA and NIR agreed on 27 May 2024 to put National Identification Numbers on the civil-service ID cards for all 103 government spending entities and to use NIR verification to clean up the government payroll.",
+   "as_of": "2024-05-27",
+   "date_precision": "day",
+   "system": "CSA-NIR MoU",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

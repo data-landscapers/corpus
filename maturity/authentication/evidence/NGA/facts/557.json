@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC's director-general says Nigeria's identity system enables real-time authentication across sectors and processes about 3.3 million verification requests daily.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "NIMC identity verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIMC's director-general says the identity ecosystem enables identity verification and real-time authentication across sectors, with about 3.3 million verification requests daily.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "NIMC identity verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Person Identification Verification Service (PIVS)",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "NIN Mobile App",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

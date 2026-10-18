@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-20-ken-kra-ruto-hails-ai-led-reforms",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "President Ruto said Kenya Revenue Authority's Customs Department piloted AI-powered risk engines, followed by its highest-ever monthly customs revenue of KSh 85 billion.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "AI-powered risk engines",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "President Ruto said Kenya is among the earliest Sub-Saharan countries to have integrated AI-powered risk engines into tax compliance at KRA.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "AI-powered risk engines",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-powered risk engines",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

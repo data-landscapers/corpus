@@ -1,0 +1,34 @@
+{
+ "slug": "2019-07-24-gin-guineelex-arrete-nifp",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "A budget ministry arrete of 24 July 2019 makes the national register of active permanent tax numbers the sole reference for taxpayers dealing with customs, public procurement, the budget and the treasury.",
+       "as_of": "2019-07-24",
+       "date_precision": "day",
+       "system": "NIFp",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIFp",
+       "country_label": "Numero d'Identification Fiscale Permanent",
+       "class": "tax",
+       "platform": "",
+       "owner": "Administration Fiscale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

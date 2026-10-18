@@ -21,12 +21,12 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 7 |
-| 3 Established | 21 |
-| 2 Nascent | 4 |
-| 1 Absent | 4 |
+| 4 Operating | 8 |
+| 3 Established | 23 |
+| 2 Nascent | 3 |
+| 1 Absent | 3 |
 | Unplaced | 3 |
-| No evidence | 15 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -59,6 +59,13 @@ Government staff built a system that went live in 2026; no career structure for 
 
 - The platform developed by LRA programmers was launched at Liberia National Police Headquarters on Friday 1 May 2026, replacing a manual process; the document is dated 3 May ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 - The online police clearance platform was developed by Liberia Revenue Authority programmers, and the LRA's Management Information Services Division described it as showing local professionals' technical expertise ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
+
+### Libya: 4 Operating
+
+Government staff built a system that went live in 2024; no career structure for government IT staff is known.
+
+- The General Information Authority thanked its own engineer and technical team who designed and developed the updated tenders platform, which went live ([source, 2024-02-13](https://www.gia.gov.ly/2024/03/11/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%8a%d8%b9%d9%84%d9%86-%d8%a8%d8%af%d8%a1/)).
+- Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
 
 ### Nigeria: 4 Operating
 
@@ -121,11 +128,18 @@ A government technology body runs systems for the rest of government by 2023; no
 
 - The Council of Ministers examined a draft decree pricing the services ANSIE provides under agreement to public and parapublic institutions, including hosting, dedicated applications, technical assistance and network security support, and says ANSIE has offered such services since its creation ([source, 2023-11-14](https://www.presidence.dj/conseil-des-ministres/2023-11-14)).
 
+### Equatorial Guinea: 3 Established
+
+A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
+
+- CNIAPGE, the national centre for computerising public administration, is rolling GEX out to the Primatura at the Prime Minister's request, with ministerial departments to follow ([source, 2025-07-15](https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/)).
+- The article says the GEX case-file platform was developed by CNIAPGE's own technical team, and CNIAPGE's Deploy department staff run its training for the Prime Minister's office ([source, 2025-07-15](https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/)).
+
 ### Ethiopia: 3 Established
 
 A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
 
-- Ethiopian Business Review reports INSA says it has developed government systems, including the Ergamail email client deployed across federal institutions and the electronic tax system used by the Ethiopian Revenues and Customs Authority ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
+- Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
 - INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
 
 ### Gabon: 3 Established
@@ -141,6 +155,12 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
 - Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers ([source, 2026-10-16](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)).
+
+### Madagascar: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
 
 ### Mali: 3 Established
 
@@ -212,8 +232,8 @@ A government technology body runs systems for the rest of government by 2026; no
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
 
-- NITA-U's director of e-government services says NITA-U is the agency coordinating IT across the public sector and has almost certainly been involved in building or supporting the systems behind any digital government service, with infrastructure and platforms for ministries, agencies and local governments ([source, 2026-09-16](https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026)).
-- NITA-U's own UGPass technical lead and director of e-government services describe running UGHub and UGPass and developing a digital signature service on UGPass ([source, 2026-09-16](https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026)).
+- NITA-U manages UGHub, which connects the NIRA registry to more than 150 ministries, departments and agencies, per a NITA-U IT professional ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
+- A NITA-U IT professional said UGHub is a national data integration platform managed by NITA-U, using infrastructure developed by NITA-U ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
 
 ### Zimbabwe: 3 Established
 
@@ -239,18 +259,6 @@ Government staff run or maintain systems by 2023; no body is known to serve the 
 Government staff run or maintain systems by 2026; no body is known to serve the rest of government.
 
 - NOSI states its own specialists are working round the clock, with the implementing company, the project consultant and the data centre, to fix slow performance in its digital transformation system, live since 24 February 2026 ([source, 2026-04-22](https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx)).
-
-### Libya: 2 Nascent
-
-Government staff run or maintain systems by 2026; no body is known to serve the rest of government.
-
-- Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
-
-### Equatorial Guinea: 1 Absent
-
-A 2026 source says a government body relies on outside suppliers to run its systems.
-
-- The Vice-President is reported instructing state company GETESA to present a restructuring plan so its own staff progressively take over maintenance work, cutting costs of external contracting; the network's maintenance is thus currently contracted out ([source, 2026-07-03](https://www.guineaecuatorialpress.com/noticias/getesa_presenta_su_plan_de_accion_estrategico_2026-2030)).
 
 ### Eswatini: 1 Absent
 
@@ -325,12 +333,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Lesotho: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Madagascar: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

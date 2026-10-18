@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Gambia Revenue Authority now uses the Rental Tax Compliance System's ML-estimated rental values and compliance risk scores to prioritise property owner records for audit and visit, per the DIAL case study.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "Rental Tax Compliance System (rTCS)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rental Tax Compliance System (rTCS)",
+   "country_label": "Rental Tax Compliance System",
+   "class": "sectorai",
+   "platform": "RippleNami ML model",
+   "owner": "Ministry of Finance and Economic Affairs / Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

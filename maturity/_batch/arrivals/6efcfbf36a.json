@@ -1,0 +1,180 @@
+{
+ "slug": "2024-12-03-gha-acet-equitable-data-ecosystem-ai-development",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forthcoming AI policy is mentioned, with no drafting reported."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The article says the Ghana Data Protection Commission, under the Ministry of Communications and Digitalisation, recently held a validation workshop for the Ghana Data Strategy.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Ghana Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Data Protection Commission",
+       "country_label": "Ghana",
+       "class": "authority",
+       "platform": "",
+       "owner": "Ministry of Communications and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The article says the Ghana Data Protection Commission, under the Ministry of Communications and Digitalisation, recently held a validation workshop for the Ghana Data Strategy.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Ghana Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article gives about 70 percent internet penetration with no ITU, survey or press-statement source, so not a usable figure."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article does not say ACET is a local institution; workshop co-convened with a foreign consultancy."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  }
+ }
+}

@@ -2,12 +2,15 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,plataforma digital,Angola,land,,Executivo / AGT,,2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis
 AGO,IGCA cadastre system,Angola,land,ArcGIS Pro and ArcGIS Enterprise,IGCA,"national, 18 province offices",2024-01-01-angola-modernizes-land-administration-gis-cadastre-management
 AGO,CRP registration system,Angola,land,,Conservatoria do Registo Predial (MINJUS),22 registry offices,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management
+AGO,Sistema Integrado de Cadastro Predial,Angola,land,,Serviço Central de Cadastro,,2024-08-26-ago-ciam-decreto-188-24-nip
 BDI,titre foncier électronique sécurisé,BDI,land,,Direction des Titres fonciers et du Cadastre national,,2026-04-01-titres-fonciers-securises-mesure-couteuse-precipitee
 BDI,Property Management System (PMS),BDI,land,,DTFCN,,2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform
 BDI,Building Permit System (BPS),BDI,land,,DTFCN,,2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform
 BDI,Electronic Document and Records Management System (EDRMS),BDI,other,,DTFCN,,2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform
 BDI,RPPCUB-2026,BDI,land,Web SIG,INSBU,,2026-07-16-abp-lancement-recensement-proprietaires-centres-urbains-rppcub-2026
 BDI,titre foncier électronique sécurisé,BDI,land,,,,2026-02-09-burundi-ordonnance-550-540-998-titre-foncier-electronique-securise
+BDI,RPPCUB 2026,RPPCUB 2026 digital land register,land,,DTFCN with INSBU,six urban communes in first phase,2026-07-14-bdi-primature-rppcub-2026-launch
+BDI,Property Management System (PMS),Burundi,land,,DTFCN,,2025-06-18-bdi-wearetech-mediabox-edrms-dtfcn
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-09-04-ben-cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-b
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-04-22-cadastre-porto-novo-pays-bas
@@ -27,24 +30,34 @@ CAF,E-cadastre,Central African Republic,land,,Ministère des Finances et du Budg
 CAF,E-cadastre,Central African Republic,land,,Ministère des Finances et du Budget,,2024-04-08-caf-undp-2024-digitalisation-administration-publique-phase-2
 CIV,e-Cadastre,Cote d'Ivoire,land,,Direction generale des Impots,,2026-10-09-civ-koaci-journees-foncieres-cadastre-numerique
 CIV,e-mining cadastre,Cote d'Ivoire,other,Landfolio,"Ministry of Mines, Petroleum and Energy",,2025-09-23-e-mining-cadastre-portal-wearetech
+CIV,Livre Foncier Electronique (LIFE),Côte d'Ivoire,land,,Direction Générale des Impôts,notaries,2023-11-02-civ-finances-fiscalite-interieure-reformes
 CMR,Digital land file system (Douala City Council),Cameroon,land,,Communauté urbaine de Douala,city,2026-05-07-leconomie-douala-digital-land-registry-possession-certificate
 CMR,Cadastre National numérique (Modernisation du cadastre programme),Cameroon,land,,"Ministry of Domains, Cadastre and Land Affairs",national,2025-11-26-cmr-2026-37-380
 CMR,Cadastre National numérique (Modernisation du cadastre programme),Cameroon,land,,"Ministry of Domains, Cadastre and Land Affairs",national,2024-12-23-cmr-2025-37-026
 CMR,Cadastre National numérique (Modernisation du cadastre programme),Cameroon,land,,"Ministry of Domains, Cadastre and Land Affairs",national,2023-12-19-cmr-2024-37-026
+CMR,Système d'Information Foncière (SIF),Cameroun,land,,Ministère de l'Habitat et du Développement Urbain,Yaounde and Douala,2026-06-04-cmr-armp-sif-yaounde-douala-prequalification
 COD,digital cadastre (numérisation du cadastre),DR Congo,land,,Ministère des Affaires foncières,,2026-10-08-cod-acp-digitalisation-secteur-foncier
 COD,national Land Registry (digital transformation),DR Congo,land,,Ministry of Land Affairs,,2026-08-11-apanews-land-registry-digitalisation-inaco
 COD,projet pilote de dématérialisation (cellule de numérisation),DR Congo,land,,Ministère des Affaires Foncières,7 pilot Kinshasa land districts,2026-06-12-affaires-foncieres-plan-foncier-national-2026-2040
 CPV,Cadastro Social Único (CSU),Cabo Verde,other,data consultation application,Government of Cabo Verde,,2025-12-17-cabo-verde-csu-consulta-directa-de-dados-elimina-declaracoes-papel
 CPV,SIMple (Territory Management modules),Cabo Verde,land,,"Government of Cabo Verde, Special Projects Management Unit (Ministry of Finance)",municipal,2025-01-01-tor-simple-territory-management
 CPV,SIM 2.0 (Municipal Information System),Cabo Verde,other,,Municipalities,municipal,2025-01-01-tor-simple-territory-management
+CPV,Plataforma Empresa Online (PEO),Cabo Verde,land,PEO,Governo de Cabo Verde,national,2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online
 DJI,Registre national des personnes physiques,DJI,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DZA,AMLAK,Algeria,land,,General Directorate of National Land Domain (DGDN),,2026-01-12-electronic-land-titles-amlak--wearetech
 DZA,Système national d'information agricole,Algeria,other,,"Ministry of Agriculture, Rural Development and Fisheries",,2026-06-01-national-agricultural-information-system-elmoudjahid
+DZA,Amlak,Algeria,land,,Direction generale du Domaine national,,2026-02-25-dza-ecotimes-cadastral-digitisation
+DZA,Fada El Djazair,Algeria,land,web portal,Direction Generale du Domaine national,,2025-03-11-dza-lnr-electronic-land-booklet-2025
+DZA,digitised land file (fichier foncier),Algeria,land,,Ministry of Finance,land conservation offices and cadastre,2024-12-14-dza-elwatan-land-registry-one-stop-shop
+EGY,Electronic property registration application,Egypt,land,,Real Estate Publicity and Notarisation Authority,,2022-03-29-egy-ahram-5-steps-electronic-property-registration
+EGY,Real Estate Registry and Notarization Authority G2G integration,Egypt,land,G2G digital hub,Ministry of Justice,,2025-01-01-egy-ahramonline-new-alamein-real-estate-registry-complex
+ERI,Cadastral Office registration system,Eritrea,land,,"Cadastral Office, Ministry of Land, Water and Environment",,2023-05-28-eri-fig-recent-developments-cadastral-activities
 ETH,eLand,Ethiopia,land,CRPRS cloud platform,eLand Platform,city,2025-01-01-land-et-digital-land-platform
 ETH,National Rural Land Administration Information System (NRLAIS),Ethiopia,land,,Ministry of Agriculture,rural,2024-01-01-reila-advancing-sustainable-land-management-ethiopia
 ETH,National Rural Land Administration Information System (NRLAIS),Ethiopia,land,,Ministry of Agriculture,rural,2024-05-30-moa-e-services-nrlais
 GAB,ANUTTC land title and cadastre chain,Gabon,other,,"ANUTTC, Housing, Economy and Finance, and Justice ministries",,2025-12-02-gabon-cadastre-digitalisation-land-title
 GAB,Ogooué,Gabon,land,application,"Ministry of Housing, Habitat, Urbanism and Cadastre",,2026-05-06-agp-gabon-foncier-digitalisation-cadastre-application-ogooue
+GAB,Gargantua,Gabon,land,software,ANUTTC,,2024-07-09-gab-union-anuttc-land-file-digitisation
 GHA,Enterprise Land Information System (ELIS),Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
 GHA,Ghana Enterprise Land Information System (GELIS),Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
 GHA,Lands Commission Online Services Portal,Ghana,land,,Lands Commission,,2026-06-08-ghana-digitise-land-registry-system-underwhelming
@@ -65,8 +78,17 @@ LBR,Liberia Land Information System,Liberia,land,,Liberia Land Authority,,2025-1
 LBR,CBL enhanced collateral registry,Liberia,other,,Central Bank of Liberia,,2026-09-04-liberia-collateral-registry-training-interoperability
 LBR,Real Property Valuation Software and Mobile App,Liberia,land,mobile app,Liberia Land Authority with Liberia Revenue Authority,,2026-02-23-liberia-lla-lra-real-property-valuation-software-nimba-fpa
 LBY,"Real Estate Registration Authority, Benghazi branch",Libya,other,,Real Estate Registration Authority,,2026-04-25-lana-tafil-juzii-lilsijil-alaqari-banghazi
+LBY,Real Estate Registration Authority electronic archiving,Libya,land,,Ministry of Justice,,2024-01-08-lby-alwasat-real-estate-registry-e-archiving-85pct
+LBY,Real estate e-archiving project,Libya,land,cloud data servers,Real Estate Registration Authority,,2022-09-26-lby-aladel-real-estate-e-archiving-tripoli-complete
+LSO,Lease Management System and land information system,Lesotho,land,FAO SOLA,Land Administration Authority,,2013-05-06-lso-fig-reforming-land-administration-lesotho
 MAR,ANCFCC digital cadastral maps,Morocco,land,,ANCFCC,,2026-01-01-ancfcc-chiffres-cles
+MAR,ANCFCC e-services,Morocco,land,,ANCFCC,,2026-01-01-mar-ancfcc-chiffres-cles
+MAR,ANCFCC information system,Maroc,land,,ANCFCC,,2024-12-25-mar-ancfcc-conseil-administration-communique
+MAR,ANCFCC electronic platform,MAR,land,ANCFCC online platform,ANCFCC,notaries,2024-01-17-mar-medias24-consultation-en-ligne-documents-fonciers
+MDG,Système d'information foncière,Madagascar,other,,"DGSF, Ministère de la Décentralisation et de l'Aménagement du Territoire",,2025-09-13-mdg-newsmada-reformes-foncieres-systeme-information
+MDG,Système d'information foncière interconnecté (pilot),Madagascar,other,,ProPFR (GIZ),"topographic circumscriptions, land offices",2026-01-05-mdg-newsmada-propfr-giz-politique-fonciere
 MOZ,Sistema digital para emissão do DUAT,Mozambique,land,,"Ministério da Agricultura, Ambiente e Pescas",,2026-04-23-governo-digitalizar-emissao-duat
+MOZ,SIGIT,Mozambique,land,,National Land Directorate (MTA),,2025-04-10-moz-worldbank-ieg-icr-review-land-administration-project
 MRT,référentiel national numérique cadastral,Mauritanie,land,,government,,2026-08-28-kassataya-mauritanie-le-numerique-comme-instrument-de-depossession-silencieuse
 MRT,المرجع الوطني الرقمي للبيانات العقارية والمساحية (Référentiel national numérique des données foncières et cadastrales),Mauritania,land,,"Ministry of Land Affairs, State Property and Land Reform",,2026-08-27-ami-conseil-ministres-cadastre-numerique-casier-judiciaire
 MRT,référentiel national numérique des données cadastrales,Mauritanie,land,,ministère chargé des Domaines,,2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire
@@ -76,7 +98,12 @@ MRT,EL MOUHAFID,Mauritania,land,,land ministry,,2026-01-23-mrt-ministere-domaine
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MWI,Land Information Management System (LIMS),Malawi,land,web-based,"Ministry of Lands, Housing and Urban Development","Lands, Surveys and Physical Planning departments",2026-08-04-malawi-reviews-digital-land-workflows
 MWI,Land Information Management System (LIMS),Malawi,land,,Ministry of Lands,"Departments of Lands, Surveys and Physical Planning",2025-01-01-land-information-management-system-lims
+NAM,NCLAS,NCLAS 2,land,"web-based, server-based","Ministry of Agriculture, Water and Land Reform",Communal Land Boards,2024-05-20-nam-fig-mazambani-communal-land-administration-nclas
+NAM,NCLAS,Namibia,land,ArcGIS,"Ministry of Agriculture, Water and Land Reform",communal land,2023-05-01-nam-fig-land-administration-rural-development-namibia
+NAM,Deeds Registry,Namibia,other,,,"freehold, manual",2023-05-01-nam-fig-land-administration-rural-development-namibia
 NER,E-Cadastre / NIPU (Numéro d'Identification Parcellaire Unique),Niger,land,NIPU platform,"ANSI (delegated technical lead), Ministère de l'Urbanisme et de l'Habitat",,2025-12-17-ansi-digitalisation-foncier-conpec-nipu
+NER,E-Cadastre,Niger,other,,Ministère de l'Urbanisme et de l'Habitat with ANSI,,2025-11-01-ner-nouvelledafrique-e-cadastre-niger
+NER,E-Cadastre,Niger,land,,Ministere de l'Urbanisme et de l'Habitat,,2026-06-23-ner-lesahel-ministre-urbanisme-bilan-e-cadastre
 NGA,national digital land information system,NGA,land,,Federal Ministry of Housing and Urban Development,federal,2025-03-20-fg-land-information-system-digitisation
 NGA,Compensation and Valuation System (CVS),NGA,other,,"KADGIS, Kaduna State",state,2025-02-04-kaduna-land-administration-software
 RWA,Irembo,Rwanda,other,portal,,,2026-02-18-rwanda-land-disputes-ease-boundary-errors
@@ -99,6 +126,7 @@ SLE,Land Management Information System (LMIS),Sierra Leone,land,,"Ministry of La
 SLE,Land Information System,Sierra Leone,land,,"Ministry of Lands, Housing and Country Planning",,2024-04-10-sierra-leone-land-administration-project-isr-seq-4
 SSD,digital land registration and management system,Central Equatoria State,land,,Central Equatoria State government,state,2026-07-08-central-equatoria-digital-land-registration-advance
 SSD,Land Registry,South Sudan,land,,"Ministry of Lands, Housing and Urban Development",national,2025-07-29-ministry-of-lands-set-to-finalise-land-policies
+STP,Sistema Integrado do Registo de Propriedade,Sao Tome and Principe,land,,,,2020-02-17-stp-miranda-informatizacao-registo-propriedade
 SWZ,Deeds Registry computerised registers and imaged records,Eswatini,land,local network with work stations,"Deeds Registry, Ministry of Natural Resources and Energy",national,2026-08-29-gov-sz-deeds-registry
 SWZ,Ardhisasa,Kenya,other,,State Department for Lands and Physical Planning,,2025-08-25-eswatini-delegation-kenya-lands-benchmarking
 TCD,système d'information urbain et foncier,TCD,land,,"Ministère de l'Aménagement du Territoire, de l'Urbanisme et de l'Habitat",,2025-12-06-atpe-modernisation-fonciere-accord-geo-consult
@@ -108,6 +136,8 @@ TGO,cadastre (digital database of georeferenced land titles),Togo,land,digital d
 TUN,Système d'Informations Foncières de la Tunisie,Tunisie,land,Samsung C&T Consortium,Office de la Topographie et du Cadastre (OTC),24 arrondissements,2025-05-26-tunisie-lancement-projet-systeme-informations-foncieres-samsung-ct
 TUN,Géoportail cadastral de la Tunisie,Tunisie,land,Web-SIG,Office de la Topographie et du Cadastre (OTC),"regional, by arrondissement",2025-01-01-tunisie-otc-geoportail-cadastral
 TUN,unified database of state properties,Tunisia,land,,Ministry of State Domains and Land Affairs,,2025-11-13-tunisie-webdo-biens-publics-carte-fonciere-numerique
+TUN,digital land register,Tunisia,land,,Office de la propriete fonciere,,2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier
+TUN,ONPF IT system and cpf.gov.tn site,Tunisia,land,cpf.gov.tn,Office National de la Propriété Foncière,,2025-05-23-tun-mdeaf-transition-numerique-registre-foncier
 TZA,e-Ardhi,Tanzania,land,digital land-administration platform,"Ministry of Lands, Housing and Human Settlements Development",national,2026-09-20-tza-tanzaniainvest-e-ardhi-sign-land-titles-any-region
 TZA,Ardhi Kiganjani,Tanzania,other,ILMIS-based mobile platform,"Ministry of Lands, Housing and Human Settlements Development",,2026-09-20-tza-tanzaniainvest-e-ardhi-sign-land-titles-any-region
 TZA,National Land Data Infrastructure (NLDI),Tanzania,land,national land database,"Ministry of Lands, Housing and Human Settlements Development",national,2026-09-11-tanzaniainvest-nldi-national-land-database-digital-land-services
@@ -120,6 +150,7 @@ UGA,blockchain-based land records system,Uganda,land,blockchain,"Ministry of Lan
 UGA,digital land registry for government land,Uganda,land,GIS,Uganda Land Commission,,2026-03-10-ubc-govt-digital-land-registry-rollout
 UGA,Uganda National Land Information System (UGNLIS),Uganda,land,public portal,"Ministry of Lands, Housing and Urban Development",,2025-08-29-gcic-landowners-receive-freehold-titles
 ZAF,Mining Cadastre System,South Africa,other,,Department of Mineral and Petroleum Resources,,2025-11-25-parliament-mining-cadastre-system-pilot
+ZAF,electronic Deeds Registration System (eDRS),South Africa,land,eDRS Information Provisioning Module,Department of Land Reform and Rural Development,,2025-11-26-zaf-pmg-nw6636-edrs-deeds-registered
 ZMB,National Land Titling Project (NLTP),Zambia,other,,Ministry of Lands and Natural Resources,,2026-01-08-fixing-land-records-central-zambia-development-agenda
 ZMB,ZILAS (Zambia Integrated Land Administration System),Zambia,land,Government Service Bus (gsb.gov.zm),SMART Zambia Institute,,2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)
 ZMB,ZILAS (Zambia Integrated Land Administration System),Zambia,land,Government Service Bus,SMART Zambia Institute,,2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)
@@ -129,3 +160,4 @@ ZWE,Presidential Deeds Digitisation Programme,Zimbabwe,land,,"Ministry of Justic
 ZWE,Digital Land Administration Platform (DLAP),Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",,2026-05-04-zimbabwe-title-deeds-validation-nationwide
 ZWE,Digital Land Administration Platform (DLAP),Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs / Deeds Registry",,2026-04-07-title-deed-validation-reissuance-pilot-madzima
 ZWE,Zimbabwe eCadastre,Zimbabwe,land,,Department of the Surveyor General,,2026-01-01-zimbabwe-ecadastre-portal
+ZWE,Digital Land Administration Platform (DLAP),Zimbabwe,land,,"Ministry of Justice, Legal and Parliamentary Affairs",,2025-06-03-zwe-newziana-dlap-title-deed-platform

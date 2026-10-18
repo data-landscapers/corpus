@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-21-mus-defimedia-liste-electorale-verifier-inscrire",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Electoral Commissioner's office says voters can check the electoral register online at electoral.govmu.org or by SMS, using their national identity card number, as well as at 43 registration centres and by phone, during the 16-30 May 2024 registration.",
+   "as_of": "2024-05-21",
+   "date_precision": "day",
+   "system": "electoral register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electoral register",
+   "country_label": "Mauritius",
+   "class": "electoral",
+   "platform": "electoral.govmu.org online search and SMS 789",
+   "owner": "Electoral Commissioner's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

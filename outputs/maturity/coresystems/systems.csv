@@ -217,6 +217,7 @@ KEN,CountyPro,CountyPro,other,,Kiambu County,county,2018-01-01-ken-automation-fo
 KEN,E-Jiji Pay,E-Jiji Pay,other,,Nairobi County,county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
 KEN,Broadcast Logger,Broadcast Logger,other,,Communications Authority of Kenya; Kenya Film Classification Board,,2026-07-27-ca-kenya-kfcb-broadcast-logger-monitoring-training
 KEN,"Integrated, Control and Communication Centre (IC3)",IC3,other,,National Police Service,,2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv
+KEN,iTax,iTax,core,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -231,6 +232,7 @@ LBY,LYPay,LYPay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,OnePay,OnePay,other,,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,LYPay,LYPay,other,,,,2026-02-21-cbl-epayment-2025-stats-313bn-alwasat
 LBY,Integrated Financial Management and Information System (IFMIS),IFMIS,other,,Ministry of Finance,,2024-04-02-lby-afdb-gpn-si-ifmis
+LBY,Unified Tax System,المنظومة الضريبية الموحدة,other,,Libyan Tax Authority,,2025-12-13-lby-lana-unified-tax-system-launch
 LSO,"Integrated Financial Management Information System (Epicor 10.2, upgrade to Epicor Kinetic planned)",IFMIS,core,Epicor,Ministry of Finance and Development Planning,"all ministries and councils, foreign missions",2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor
 LSO,"Digital Signature Service, EPM Payment Gateway, X-Road data exchange platform",MICSTI government technology stack,other,X-Road,MICSTI,,2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor
 LSO,Integrated Financial Management Information System,IFMIS,core,,Ministry of Finance and Development Planning,,2023-03-06-worldbank-lesotho-public-sector-foundations-pid
@@ -298,6 +300,7 @@ NAM,Integrated Beneficiary Registry (IBR),Namibia,other,,"Ministry of Gender Equ
 NAM,GIPF database,Namibia,other,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
 NAM,SSC database,Namibia,other,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
 NAM,Veteran Affairs System,Namibia,other,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
+NAM,ITAS (Integrated Tax Administration System),Integrated Tax Administration System,core,,Namibia Revenue Agency,,2026-06-18-nam-economist-itas-deadline-extended
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
@@ -476,3 +479,5 @@ ZWE,Tax and Revenue Management System (TaRMS),TaRMS,core,,Zimbabwe Revenue Autho
 ZWE,Fiscalisation Data Management System (FDMS),FDMS,other,,Zimbabwe Revenue Authority,,2025-12-01-zimra-public-notice-63-tarms-fdms-integration
 ZWE,Public Financial Management System (PFMS),PFMS,core,"Enterprise Resource Planning platform (SAP modules FI, MM, SD listed in acronyms)",Ministry of Finance (Treasury),Ministries and Commissions,2025-09-01-zwe-auditor-general-appropriation-accounts-2023
 ZWE,BEAM Management Information System,BEAM MIS,other,,"Ministry of Public Service, Labour and Social Welfare",one ministry's programme; payments recorded in Microsoft Excel after password loss; replacement being tested,2025-09-01-zwe-auditor-general-appropriation-accounts-2023
+ZWE,TaRMS,Tax Revenue Management System,core,,Zimbabwe Revenue Authority,,2024-10-07-zwe-zimra-notice-75-outstanding-returns-payment
+ZWE,TaRMS,Zimbabwe Revenue Authority Tax and Revenue Management System,core,,Zimbabwe Revenue Authority,,2024-03-01-zwe-zimra-tarms-release-2-live

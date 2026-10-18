@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-30-mar-lematin-arrete-dematerialisation-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Arrete 1692-23, in force 1 September 2023, provides that bids are filed and withdrawn electronically through the public procurement portal, with electronic opening and evaluation, per Le Matin.",
+   "as_of": "2023-09-01",
+   "date_precision": "day",
+   "system": "portail des marches publics",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail des marches publics",
+   "country_label": "Maroc",
+   "class": "procurement",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

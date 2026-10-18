@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,E-Tax,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,M-Declaration,Rwanda,taxsystem,mobile,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,Local Government Taxes (LGT) system,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,Electronic Invoicing System (EIS) / EBM,Rwanda,other,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025

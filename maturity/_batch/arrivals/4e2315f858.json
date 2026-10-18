@@ -1,0 +1,72 @@
+{
+ "slug": "2025-10-27-ben-armp-dematerialisation-commande-publique",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ARMP says the SIGMaP web platform for public procurement has run since 2015, and 757 calls to tender were published on it in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "SIGMaP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ARMP says the e-procurement platform is still being acquired and implemented, under Decree 2025-169 of 9 April 2025, with training of public buyers running 6 October to 28 November 2025.",
+       "as_of": "2025-10-06",
+       "date_precision": "day",
+       "system": "e-procurement platform",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "A 2024 evaluation cited by ARMP found that of 757 calls published in 2023 on SIGMaP only 21 reached the automatic contract page.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "SIGMaP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMaP",
+       "country_label": "Benin",
+       "class": "procurement",
+       "platform": "web",
+       "owner": "ARMP",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Communes are named only as trainees; no office connection is stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "CREFCoP is a procurement training centre; no digital policy research is stated."
+    }
+   }
+  }
+ }
+}

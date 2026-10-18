@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-25-dji-presidence-conseil-ministres-rapport-cnmp-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Portail \u00e9lectronique informationnel des March\u00e9s Publics",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "",
+       "owner": "Commission Nationale des March\u00e9s Publics",
+       "tiers": ""
+      }
+     ],
+     "note": "The 2023 portal is described as informational and the national e-procurement platform is only at the stage of reflection for launch by 2027, so no tender, bid or figure for an e-procurement system is stated."
+    }
+   }
+  }
+ }
+}

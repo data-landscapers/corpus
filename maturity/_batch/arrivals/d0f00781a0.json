@@ -1,0 +1,11 @@
+{"slug":"2025-12-17-ner-lesahel-atelier-risques-sfn","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document says nothing on e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document names no central bank mandate, licensing, switch or regional link for Niger (BCEAO appears only as a statistics source)."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document mentions regulation and data protection risks only in general terms; no rules, complaints body or enforcement stated."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document says nothing on cross-border digital payments."}}},
+"dataprotectionlaw":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document names data protection only as a risk area; no law or authority stated."}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"Only a count of mobile money accounts is given, not a survey share of adults."}}},
+"retailpayments":{"countries":{"NER":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The BCEAO 2024 financial inclusion dashboard, cited by the PVI coordinator, counts 9,746,822 mobile money accounts created in Niger, 4.53% of them active, and 530,557 person-to-person transfer transactions.","as_of":"2024","date_precision":"year","system":"mobile money","class":"retail"}],"systems":[{"system":"mobile money","country_label":"Niger","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document says nothing on electronic payment of taxes or fees."}}}
+}}

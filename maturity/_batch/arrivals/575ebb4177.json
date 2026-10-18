@@ -1,0 +1,8 @@
+{"slug": "2026-07-28-bwa-ssrn-sectoral-mapping-draft-ai-policy", "studies": {
+"aiabuse": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The abstract mentions ethical AI governance in a draft policy but states no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Abstract states no government use of AI."}}},
+"aisectoral": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Abstract maps a draft policy across sectors but states no AI tool in a public sector system."}}},
+"aistrategy": {"countries": {"BWA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "A Parliament of Botswana researcher writes that the Government of Botswana is advancing toward finalizing its first National Artificial Intelligence Policy, which the brief calls the draft AI Policy.", "as_of": "2026-07-28", "date_precision": "day", "system": "National Artificial Intelligence (AI) Policy", "class": "strategy"}], "systems": [{"system": "National Artificial Intelligence (AI) Policy (draft)", "country_label": "Botswana", "class": "strategy", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Abstract states no AI model, dataset or computing built or hosted in Botswana."}}},
+"policyresearch": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Author is a Parliament of Botswana staff member, not a think tank or university; no research institution is named."}}}
+}}

@@ -1,0 +1,46 @@
+{
+ "slug": "2020-09-09-mus-mazavaroo-csu-835pct-plaintes-traitees",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The Citizen Support Unit online complaints portal, launched 28 April 2017, lets citizens register and track complaints at www.csu.mu, and the Prime Minister told Parliament on 28 July 2020 that 83.5% of requests and complaints were handled over three years.",
+   "as_of": "2020-07-28",
+   "date_precision": "day",
+   "system": "Citizen Support Unit (CSU)",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The Prime Minister says the Citizen Support Unit portal links the public to about 320 institutions including ministries, departments, local authorities and parastatals.",
+   "as_of": "2020-07-28",
+   "date_precision": "day",
+   "system": "Citizen Support Unit (CSU)",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "The Prime Minister told Parliament that 83.5% of requests and complaints to the Citizen Support Unit were handled in three years.",
+   "as_of": "2020-07-28",
+   "date_precision": "day",
+   "system": "Citizen Support Unit (CSU)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citizen Support Unit (CSU)",
+   "country_label": "Mauritius",
+   "class": "feedback",
+   "platform": "www.csu.mu, customised free software by Mauritius Telecom",
+   "owner": "Prime Minister's Office",
+   "tiers": "35 Citizen Advice Bureaux, 95 Citizen Support Corners"
+  }
+ ],
+ "note": ""
+}

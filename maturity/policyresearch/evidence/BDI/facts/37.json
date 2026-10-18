@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-01-bdi-ojss-digital-in-higher-education-burundi",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "Authors from the Universite du Burundi published a study in the Open Journal of Social Sciences surveying 343 students on ICT services and e-learning in Burundian higher education.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Universite du Burundi",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

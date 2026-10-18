@@ -1,0 +1,34 @@
+{
+ "slug": "2023-04-20-lbr-analyst-lra-launches-litas",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "inservice",
+       "value": "inservice",
+       "fact": "The Analyst reports the LRA officially launched LITAS, with online registration and filing, on 19 April 2023 after a pilot from 2021, with rollout to all tax offices in the 15 counties to follow.",
+       "as_of": "2023-04-19",
+       "date_precision": "day",
+       "system": "LITAS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LITAS",
+       "country_label": "Liberia Integrated Tax Administration System",
+       "class": "tax",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

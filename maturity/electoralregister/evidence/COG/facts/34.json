@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-04-cog-horizonafricain-revision-listes-electorales",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "none",
+   "fact": "L'Horizon Africain's Jean-Clotaire Diatou writes that the September-October 2025 revision of the electoral lists is done manually, without the biometrics the government had promised for the 2026 presidential election.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "liste électorale (révision manuelle)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "L'Horizon Africain reports that from 1 September to 30 October 2025 Congolese of voting age are called to check their names on the electoral lists at district and arrondissement town halls and register if absent, under an interior ministry order of 8 August 2025.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "liste électorale",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "liste électorale",
+   "country_label": "Congo",
+   "class": "electoral",
+   "platform": "manual lists",
+   "owner": "Ministère de l'intérieur et de la décentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

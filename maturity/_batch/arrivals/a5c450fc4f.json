@@ -1,0 +1,171 @@
+{
+ "slug": "2023-11-08-nga-npc-tinubu-launches-ecrvs-vitalreg",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "agrisatellite": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "The National Population Commission chairman is quoted as saying it has made substantial progress toward the first digital population and housing census, with enumeration area demarcation done, and President Tinubu pledged support for the next census.",
+       "as_of": "2023-11-08",
+       "date_precision": "day",
+       "system": "Digital population and housing census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "President Tinubu launched the VitalReg electronic civil registration and vital statistics system on 8 November 2023, implemented by the National Population Commission under a public-private partnership with Barnksforte Technologies and UNICEF support; no offices or coverage are stated.",
+       "as_of": "2023-11-08",
+       "date_precision": "day",
+       "system": "VitalReg (e-CRVS)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VitalReg (e-CRVS)",
+       "country_label": "VitalReg e-CRVS",
+       "class": "civil",
+       "platform": "",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for NGA."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "VitalReg (e-CRVS)",
+       "country_label": "VitalReg e-CRVS",
+       "class": "other",
+       "platform": "",
+       "owner": "National Population Commission",
+       "tiers": ""
+      }
+     ],
+     "note": "VitalReg is launched but the document does not say births or deaths are entered digitally at local offices."
+    }
+   }
+  }
+ }
+}

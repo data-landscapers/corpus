@@ -1,0 +1,26 @@
+{
+ "slug": "2022-03-02-uga-judiciary-launches-eccmis",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Judiciary of Uganda says ECCMIS went live on 1 March 2022 in seven courts, automating and tracking a court case's life cycle and replacing the former CCAS.",
+   "as_of": "2022-03-01",
+   "date_precision": "day",
+   "system": "ECCMIS",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECCMIS",
+   "country_label": "Uganda",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Uganda",
+   "tiers": "Supreme Court, Court of Appeal/Constitutional Court, High Court divisions, Mengo Chief Magistrates Court"
+  }
+ ],
+ "note": ""
+}

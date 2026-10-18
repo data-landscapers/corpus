@@ -2,12 +2,12 @@
 
 ## Government services online
 
-**Services online.** [Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to](<https://eservices.rsl.org.ls/ereg/public/individualform>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Services online.** [Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to](<https://eservices.rsl.org.ls/ereg/public/individualform>). [Minister Nthati Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway, 'almost done'](<https://lestimes.com/?p=90492>). [UNDP and Lesotho's communications ministry launched the E-Service Outlet Model, in which internet and print shops and mobile money agents help people reach government e-service platforms, such as registering a business or obtaining a trader's licence, without visiting offices](<https://www.undp.org/lesotho/news/undp-launched-e-service-outlet-model>).
 
 **Single gateway.** No source held since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://eservices.rsl.org.ls/ereg/public/individualform>).
 
 **Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://eservices.rsl.org.ls/ereg/public/individualform>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [e-Taxation system](<https://newsdayonline.co.ls/rsl-implements-e-taxation-system/>).
 
 ***Not held***. No source held since October 2023 says: are ten or more services online.

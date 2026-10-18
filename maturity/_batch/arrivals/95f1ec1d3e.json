@@ -1,0 +1,44 @@
+{
+ "slug": "2020-03-01-lby-cbl-electronic-payment-services-regulation",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The National Payments Council's March 2020 e-payment services regulation, issued under the Central Bank of Libya, has a consumer protection chapter requiring e-payment and mobile-wallet providers to give clear written service information, non-misleading advertising and call-centre support.",
+       "as_of": "2020-03",
+       "date_precision": "month",
+       "system": "Electronic Payment Services Regulation",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "The regulation requires provider contracts to give contact details for the provider's complaints unit and the relevant Central Bank of Libya unit, where a complaint is unresolved or the customer is dissatisfied, and to let customers complain free of charge.",
+       "as_of": "2020-03",
+       "date_precision": "month",
+       "system": "Electronic Payment Services Regulation",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic Payment Services Regulation",
+       "country_label": "Libya",
+       "class": "protection",
+       "platform": "",
+       "owner": "Central Bank of Libya (National Payments Council)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

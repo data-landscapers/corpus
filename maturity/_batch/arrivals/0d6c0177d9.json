@@ -1,0 +1,10 @@
+{"slug": "2024-12-22-som-cbc-karaar-digital-address-pilots", "studies": {
+"addressregister": {"countries": {"SOM": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "CBC reports that Edmonton-based Karaar Digital Address has run multiple test pilots of a digital system assigning verifiable addresses to properties in Somalia, including in Merca, and has signed memorandums of understanding with four states and regions.", "as_of": "2024-12-22", "date_precision": "day", "system": "Karaar Digital Address", "class": "address"}], "systems": [{"system": "Karaar Digital Address", "country_label": "Karaar Digital Address (KDA) pilots", "class": "address", "platform": "digital address system", "owner": "Karaar Digital Address (Edmonton-based startup)", "tiers": ""}], "note": ""}}},
+"censuses": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing about a census or household survey."}}},
+"populationregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing about a population register."}}},
+"registry": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing about civil registration."}}},
+"socialregistry": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing about a social registry."}}},
+"startups": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states no startup law, strategy or public fund for Somalia."}}},
+"taxregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing about a tax register."}}},
+"techhubs": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document names no hub, incubator or park in Somalia."}}}
+}}

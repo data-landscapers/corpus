@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-23-gmb-gra-tin-e-registration-brochure",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Gambia Revenue Authority brochure describes online TIN e-registration through its web portal, with an instant e-acknowledgement and a printable TIN certificate on approval.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "GRA TIN e-registration platform",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The brochure lists customs transactions (imports and exports) among the uses of the TIN, alongside tax filing and payment.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Tax Identification Number (TIN)",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GRA TIN e-registration platform",
+   "country_label": "Gambia",
+   "class": "tax",
+   "platform": "GRA web portal",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

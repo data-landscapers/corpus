@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-22-lso-rsl-tender-generative-ai-crm",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Revenue Services Lesotho invited proposals for supply and delivery of a generative AI customer relationship management system, closing 9 August 2024.",
+   "as_of": "2024-07-22",
+   "date_precision": "day",
+   "system": "Generative AI CRM",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Generative AI CRM (tender)",
+   "country_label": "Lesotho",
+   "class": "govai",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

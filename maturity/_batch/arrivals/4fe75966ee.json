@@ -1,0 +1,32 @@
+{
+ "slug": "2024-06-03-gha-fourthestate-free-wifi-no-internet-schools",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no share of people using the internet."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Concerns schools, not local government offices."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "A connectivity programme with no share of secondary schools stated; no compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

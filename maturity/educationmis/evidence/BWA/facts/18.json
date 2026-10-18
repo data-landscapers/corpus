@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-bwa-statsbots-secondary-schools-stats-brief-2022",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Statistics Botswana's brief says the 2022 Annual School Census was carried out by the Education Management Information Systems (EMIS) unit in the Ministry of Education and Skills Development, and the ministry's education statistics were published from it.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Education Management Information Systems (EMIS) unit, Annual School Census",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Education Management Information Systems (EMIS) unit",
+   "country_label": "Botswana",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education and Skills Development, Department of Educational Planning and Research Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

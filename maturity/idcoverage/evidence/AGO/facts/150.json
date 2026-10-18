@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": "States about 16 million citizens (14 million adults) in the ID database but gives no population or share to compare."
+}

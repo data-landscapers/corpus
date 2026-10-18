@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TGO-001,TGO,electoral,roll,underway,"ATOP reports that ZETES/SNEDAI is training data-entry operators on the software of biometric kits to enrol voters in the CENI's 2025 revision of the electoral lists, with 5,200 operators to be deployed.",2025-03-21,day,electoral roll revision biometric kits,electoral,2025-03-22-tgo-atop-revision-listes-kits-biometriques,https://atop.tg/revision-des-listes-electorales-la-premiere-vague-des-operateurs-de-saisie-en-formation/

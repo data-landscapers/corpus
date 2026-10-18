@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-15-zmb-zambiamonitor-zicta-revokes-zedmobile-licences",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Licence revocation only; nothing on local government offices."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No data price or income share stated."
+    }
+   }
+  }
+ }
+}

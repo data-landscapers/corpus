@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "no evidence",
-   "census": "",
-   "results": "",
-   "survey": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a population census or a household survey, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "unplaced",
+      "census": "",
+      "results": "",
+      "survey": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.",
+      "note": "Counted from the four questions by study-ladder-censuses.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

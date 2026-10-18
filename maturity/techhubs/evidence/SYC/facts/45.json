@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-23-syc-undp-sdglocalaction-victoria-ai-services",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "UNDP says the Seychelles Innovation Hub, established in 2018, supports startups and pilot projects, with no programme or cohort described.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Seychelles Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

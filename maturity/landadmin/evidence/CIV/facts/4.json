@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-13-civ-afor-signature-electronique-certificats-fonciers",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "AFOR reports that the Bongouanou sub-prefectural land committee examined and validated five rural land certificate files on 12 March 2026 using digital maps and geospatial data, and the certificates were signed electronically.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "PRESFOR dematerialised rural land securing procedure",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PRESFOR dematerialised procedure",
+   "country_label": "Cote d'Ivoire",
+   "class": "landmis",
+   "platform": "",
+   "owner": "AFOR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

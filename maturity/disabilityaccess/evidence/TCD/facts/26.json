@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-20-tcd-un-crpd-initial-report-chad",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Chad's State report to the CRPD Committee says article 32 of Act No. 007/PR/2007 requires the State, local authorities and public and private bodies to work to adapt the environment and communication and information systems so persons with disabilities can access services.",
+   "as_of": "2007-05-09",
+   "date_precision": "day",
+   "system": "Act No. 007/PR/2007 on the protection of persons with disabilities",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Chad's State report says Decree No. 1521/PR/MFPPESN/2019 (articles 21-22) requires public transport agencies to provide sign language support for hard-of-hearing persons and information in Braille for persons with visual impairments.",
+   "as_of": "2019-09-11",
+   "date_precision": "day",
+   "system": "Decree No. 1521/PR/MFPPESN/2019 implementing Act No. 007/PR/2007",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Act No. 007/PR/2007 on the protection of persons with disabilities",
+   "country_label": "Chad",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

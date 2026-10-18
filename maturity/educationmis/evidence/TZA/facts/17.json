@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-14-tza-poralg-sis-privacy-policy-prem-number",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM).",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "School Information System (SIS)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "School Information System (SIS)",
+   "country_label": "Tanzania",
+   "class": "emis",
+   "platform": "web and app (sis.tamisemi.go.tz)",
+   "owner": "PO-RALG (TAMISEMI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

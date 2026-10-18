@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "2",
+      "research": "begun",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source held since October 2023 says: does a local institution publish on it.",
+      "note": "First pass: counted from the four questions by study-ladder-policyresearch.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

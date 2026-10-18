@@ -1,0 +1,26 @@
+{
+ "slug": "2022-12-22-tcd-journaldutchad-guichet-unique-foncier-giraf",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Land minister Mahamat Assileck Halata said on 21 December 2022 that GIRAF, the online land-document processing system, was fully restored and operational, allowing the land one-stop shop to reopen.",
+   "as_of": "2022-12-21",
+   "date_precision": "day",
+   "system": "GIRAF",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIRAF",
+   "country_label": "Tchad",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministere de l'Amenagement du territoire, de l'habitat et de l'urbanisme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

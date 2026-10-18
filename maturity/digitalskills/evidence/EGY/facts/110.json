@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-egy-comcec-mcit-decent-life-rural-accessibility",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "MCIT's Decent Life digital knowledge and competencies programme has improved the digital skills of 164,840 citizens of a 218,155 target (85.80%).",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Digital Knowledge and Competencies",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decent Life Project",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

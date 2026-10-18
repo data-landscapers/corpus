@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-17-ken-ca-kdhs-2022-ict-uptake-electricity",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Communications Authority and KNBS released an analytical report on ICT uptake based on the 2022 Kenya Demographic and Health Survey, covering 42,022 households in 1,692 clusters.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "Kenya Demographic and Health Survey 2022",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Demographic and Health Survey",
+   "country_label": "KDHS 2022",
+   "class": "survey",
+   "platform": "",
+   "owner": "KNBS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

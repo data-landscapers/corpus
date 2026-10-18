@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-15-mdg-ugd-torolalana-portal-releases",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The UGD release log says Torolalana became an informational and transactional portal in v2.0.0, integrating services of public services and State bodies, with no count given.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Torolalana",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Torolalana",
+       "country_label": "Madagascar",
+       "class": "eservices",
+       "platform": "portal",
+       "owner": "Unite de Gouvernance Digitale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mar-mtnra-connectivite-service-universel-pnhd",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The ministry states that under the VSAT initiative citizens and firms in areas without terrestrial coverage can take a satellite internet subscription subsidised 50 per cent by the universal service fund up to 2,500 DH, with over 2,500 access points subsidised by end 2022.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "VSAT initiative",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

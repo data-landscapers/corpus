@@ -1,0 +1,26 @@
+{
+ "slug": "2016-03-12-sdn-sudantribune-hawsabat-qada",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Sudan's Judicial Authority said on 12 March 2016 it would start implementing an e-portal and court computerisation project from the following Monday, first phase costed at USD 600,000, with a Supreme Court case-flow system and later extension to all civil and criminal courts.",
+   "as_of": "2016-03-12",
+   "date_precision": "day",
+   "system": "Judicial e-portal and computerisation project",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Judicial e-portal and computerisation project",
+   "country_label": "البوابة الإلكترونية وحوسبة العمل القضائي",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judicial Authority of Sudan",
+   "tiers": "Supreme Court first, then all courts"
+  }
+ ],
+ "note": ""
+}

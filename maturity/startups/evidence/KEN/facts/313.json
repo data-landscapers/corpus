@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-ken-kenia-kenya-innovation-outlook-2024",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "KeNIA's Kenya Innovation Outlook 2024 says the Startup Bill has been in parliamentary debate since 2021 and is not yet approved or enacted, and that the government missed its April 2024 enactment target.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Startup Bill",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Bill",
+   "country_label": "Kenya",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Parliament of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

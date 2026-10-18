@@ -1,0 +1,42 @@
+{
+ "slug": "2025-04-03-sdn-wmo-advancing-early-warnings-sudan",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no such thing for this country."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no such thing for this country."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no such thing for this country."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite data access is named only for the WMO programme across Africa, not for Sudan."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite data access is named only for the WMO programme across Africa, not for South Sudan."
+    }
+   }
+  }
+ }
+}

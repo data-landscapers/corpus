@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SYC,REPAIR post-disaster cash transfers,Seychelles,g2p,ASP beneficiary registry and payment systems,Agency for Social Protection,,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments
 SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
+SYC,Social Welfare Information System (SWISS),Seychelles,other,,Agency for Social Protection,,2021-04-01-syc-employment-asp-budget-eliminate-cash-payment
+SYC,Agency for Social Protection benefit payments,Seychelles,g2p,,Agency for Social Protection,,2020-11-01-syc-employment-francourt-asp-visit-bank-transfers

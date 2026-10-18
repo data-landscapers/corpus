@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Plataforma Empresa Online (PEO), of the Cabo Verde government, offers company creation online as one package, including formalisation with the Commercial Registry (DGRNI), plus changes to company data and requests for dissolution.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plataforma Empresa Online (PEO)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The PEO company-creation package covers commercial registry formalisation, obtaining the Tax Identification Number (NIF) from DNRE and enrolment with social security (INPS) in one process.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plataforma Empresa Online (PEO)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Empresa Online (PEO)",
+   "country_label": "Cabo Verde",
+   "class": "business",
+   "platform": "PEO",
+   "owner": "Governo de Cabo Verde",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

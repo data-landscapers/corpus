@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-zaf-sars-client-information-system",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "SARS says its Client Information System, implemented in 2014, lets taxpayers register for and maintain tax and customs registrations in one consolidated profile, with additional registrations done on eFiling or at a branch.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Client Information System",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Client Information System",
+   "country_label": "South Africa",
+   "class": "tax",
+   "platform": "SARS eFiling and branches",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

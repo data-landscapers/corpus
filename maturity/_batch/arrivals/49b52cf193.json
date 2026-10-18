@@ -1,0 +1,34 @@
+{
+ "slug": "2023-01-01-syc-unctad-national-entrepreneurship-strategy",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "none",
+       "fact": "UNCTAD's Seychelles National Entrepreneurship Strategy says there is no stand-alone Entrepreneurship Policy or Act and proposes only to consider introducing a Start-Up Act defining innovative start-ups.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "National Entrepreneurship Strategy",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Entrepreneurship Strategy",
+       "country_label": "Seychelles",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Investment, Entrepreneurship and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

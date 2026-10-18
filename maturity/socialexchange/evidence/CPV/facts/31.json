@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-20-cpv-governo-csu-mecanismo-reclamacoes-16-programas",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The Cabo Verde minister says about 16 social programmes draw beneficiaries from the single social registry (CSU).",
+   "as_of": "2024-02-20",
+   "date_precision": "day",
+   "system": "Cadastro Social Único (CSU)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cadastro Social Único (CSU)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Family, Inclusion and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

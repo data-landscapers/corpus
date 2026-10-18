@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The PEO company-creation package includes obtaining the Tax Identification Number (NIF) from DNRE, and the platform interoperates with the tax administration.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plataforma Empresa Online (PEO)",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The NIF is obtained within the same PEO package as commercial registry formalisation and social security enrolment.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plataforma Empresa Online (PEO)",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

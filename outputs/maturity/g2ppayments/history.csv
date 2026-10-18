@@ -1,3 +1,25 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,CAF,dpi.pay--g2p-functionality-g2p-functionality,fact,3,3,CAF-001;CAF-003,Arrivals added CAF-003; stage unchanged.
 2026-10-17,EGY,dpi.pay--g2p-functionality-g2p-functionality,fact,no evidence,3,EGY-001,Arrivals added EGY-001; stage no evidence -> 3.
+2026-10-18,AGO,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,3,AGO-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BFA,dpi.pay--g2p-functionality-g2p-functionality,fact,no evidence,unplaced,,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,dpi.pay--g2p-functionality-g2p-functionality,review,unplaced,3,CIV-001;CIV-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COG,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,3,COG-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COM,dpi.pay--g2p-functionality-g2p-functionality,fact,3,3,COM-003;COM-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.pay--g2p-functionality-g2p-functionality,review,3,3,EGY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ERI,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.pay--g2p-functionality-g2p-functionality,fact,2,2,LSO-001;LSO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,3,MAR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,2,MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MLI,dpi.pay--g2p-functionality-g2p-functionality,fact,3,3,MLI-001;MLI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MOZ,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.pay--g2p-functionality-g2p-functionality,fact,5,5,MRT-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,dpi.pay--g2p-functionality-g2p-functionality,fact,5,5,NAM-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,5,NGA-002;NGA-004,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,dpi.pay--g2p-functionality-g2p-functionality,fact,4,4,SEN-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SSD,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,2,SSD-001;SSD-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SYC,dpi.pay--g2p-functionality-g2p-functionality,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.pay--g2p-functionality-g2p-functionality,fact,no evidence,3,ZAF-002;ZAF-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.

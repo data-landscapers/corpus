@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-07-gnq-ahoraeg-csj-pnud-acuerdo-digitalizacion",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The Supreme Court and UNDP signed an agreement to implement digital governance systems in the Supreme Court and the Malabo and Bata provincial courts, and the Court paid 90 million FCFA as an initial contribution toward IT equipment to digitise case files.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "court digitalisation programme",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "court digitalisation programme",
+   "country_label": "Guinea Ecuatorial",
+   "class": "justice",
+   "platform": "",
+   "owner": "Corte Suprema de Justicia with UNDP",
+   "tiers": "Supreme Court, Malabo and Bata provincial courts"
+  }
+ ],
+ "note": ""
+}

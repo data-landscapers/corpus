@@ -1,0 +1,171 @@
+{
+ "slug": "2025-08-12-ken-ca-urban-rural-divide-housing-survey-ict",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural/urban split given only for mobile ownership; internet use is given nationally and by county, not by rural and urban."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender figures are for mobile ownership and use, not internet use."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "survey:35.0",
+       "fact": "The Communications Authority and KNBS report from the 2023/24 Kenya Housing Survey says about 35.0 per cent of Kenyans use the internet.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Kenya Housing Survey 2023/24 ICT analytical report",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "ownership",
+       "aspect": "owners",
+       "value": "survey:53.7",
+       "fact": "The Communications Authority and KNBS report from the 2023/24 Kenya Housing Survey says 53.7 per cent of Kenyans aged three and above own a mobile phone (urban 64.6, rural 48.6).",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Kenya Housing Survey 2023/24 ICT analytical report",
+       "class": "ownership"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  }
+ }
+}

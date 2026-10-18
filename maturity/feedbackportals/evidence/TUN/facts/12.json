@@ -1,0 +1,26 @@
+{
+ "slug": "2019-01-01-tun-ogp-e-people-complaints-platform-tn0030",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Tunisia's e-people civil petition and corruption reporting platform was in a pilot phase linked to ten government bodies, with no reports yet available, per the IRM.",
+   "as_of": "2019-01-01",
+   "date_precision": "day",
+   "system": "e-people",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-people",
+   "country_label": "Tunisia",
+   "class": "feedback",
+   "platform": "web portal",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

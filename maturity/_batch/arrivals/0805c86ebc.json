@@ -1,0 +1,34 @@
+{
+ "slug": "2022-01-01-dji-worldbank-feuille-de-route-hydromet-alerte-precoce",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "metsat",
+       "aspect": "stream",
+       "value": "none",
+       "fact": "The World Bank roadmap says Djibouti's national meteorological agency (ANM) has a Meteosat Second Generation receiving station with PUMA workstations that is currently out of service, and proposes modernising the station and antenna.",
+       "as_of": "2022-01-01",
+       "date_precision": "day",
+       "system": "MSG receiving station (PUMA)",
+       "class": "metsat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MSG receiving station / PUMA workstation",
+       "country_label": "Djibouti",
+       "class": "metsat",
+       "platform": "Meteosat Second Generation, EUMETSAT PUMA",
+       "owner": "ANM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

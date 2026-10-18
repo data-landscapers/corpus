@@ -1,0 +1,34 @@
+{
+ "slug": "2023-06-01-gab-gabonreview-gni-module-bancaire",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Gabonreview reports ANPI-Gabon has digitalised the company-creation process on the Guichet Numérique de l'Investissement, launched three years earlier, and added a bank module on 1 June 2023.",
+       "as_of": "2023-06-01",
+       "date_precision": "day",
+       "system": "Guichet Numérique de l'Investissement (GNI)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet Numérique de l'Investissement (GNI)",
+       "country_label": "Gabon",
+       "class": "business",
+       "platform": "Clikafrik",
+       "owner": "ANPI-Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

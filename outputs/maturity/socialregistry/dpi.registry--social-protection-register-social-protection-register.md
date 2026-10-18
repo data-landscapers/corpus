@@ -1,6 +1,6 @@
 # Social protection register: social protection register
 
-*As at 2026-10-17.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -23,10 +23,10 @@ The African Union's Protocol on Social Protection asks states for a social regis
 | 5 Leading | 4 |
 | 4 Operating | 12 |
 | 3 Established | 14 |
-| 2 Nascent | 13 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 11 |
+| Unplaced | 3 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -47,7 +47,7 @@ The social registry was linked to the national ID in 2026.
 The social registry was linked to the national ID in 2026.
 
 - NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing ([source, 2026-05-07](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/)).
-- The World Bank report says a NIN validation drive for households in the Social Register began April 7 with NIMC, with over 6.7 million households visited and over 9 million NINs being verified ([source, 2025-09-03](https://documents1.worldbank.org/curated/en/099090325094525591/txt/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.txt)).
+- NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
 
 ### Rwanda: 5 Leading
 
@@ -67,6 +67,7 @@ Two or more programmes used the social registry in 2026; a link to the national 
 Two or more programmes used the social registry in 2026; a link to the national ID is not known.
 
 - The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
+- The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff ([source, 2024-02-20](https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/)).
 
 ### DR Congo: 4 Operating
 
@@ -195,8 +196,9 @@ A social registry was in service in 2026; its use by two or more programmes is n
 
 ### Niger: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2026; its use by two or more programmes is not known.
 
+- The Registre Social Unifié-Niger, run from the Prime Minister's office, is described as an information system holding household and individual data and delivering dashboards on social protection actions, and as the entry point for programmes ([source, 2026-10-17](https://rsu.gouv.ne/presentation)).
 - UNICEF's social policy section chief said more than 500,000 vulnerable households have been registered in Niger's Registre social unifié (RSU) and now receive adapted services, with targeting to be extended to the worst-affected zones ([source, 2025-09-08](https://www.lesahel.org/formation-des-cadres-nationaux-du-systeme-de-protection-sociale-du-niger-pour-la-mise-en-place-dun-systeme-durable-coherent-et-fonde-sur-les-droits-humains/)).
 
 ### Sao Tome and Principe: 3 Established
@@ -211,6 +213,7 @@ A social registry was in service in 2026; its use by two or more programmes is n
 A social registry was in service in 2025; its use by two or more programmes is not known.
 
 - The World Bank says the BOOST-You project will strengthen adaptive delivery systems by improving the existing Unified Social Registry, alongside a National Socio-economic Survey covering 12 million people ([source, 2025-10-28](https://www.worldbank.org/en/news/press-release/2025/10/28/over-738000-somalis-to-benefit-from-world-bank-supported-initiative-for-jobs-social-protection-and-climate-resilience)).
+- Somalia's Prime Minister unveiled the Social Welfare System of the Unified Social Registry and urged aid agencies to use the government's registry to avoid duplication ([source, 2023-11-13](https://www.somalidispatch.com/latest-news/somalia-feds-to-launch-social-welfare-system-and-unified-social-registry/)).
 
 ### Togo: 3 Established
 
@@ -236,6 +239,7 @@ A social registry was under way in 2026; none in service is on record.
 
 A social registry was under way in 2026; none in service is on record.
 
+- The PFSS-RRC says the extension aims to improve crisis response through the operationalisation of the Registre Social Unique ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
 - La Gazette des Comores reports that the Registre social unique continues to be set up in Comoros, with 62,000 households registered, per the World Bank representative ([source, 2026-07-10](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html)).
 
 ### Eswatini: 2 Nascent
@@ -276,6 +280,12 @@ A social registry was under way in 2026; none in service is on record.
 
 - NaCSA's Commissioner said the amended MoU with Statistics Sierra Leone would enable NaCSA to expand the Social Protection Registry for Integrated National Targeting (SPRINT) and achieve national coverage ([source, 2026-04-08](https://www.nacsa.gov.sl/post/nacsa-ancollaborationd-statistics-sierra-leone-sign-amended-mou-to-strengthen-data-for-pssnye-proje)).
 
+### South Africa: 2 Nascent
+
+A social registry was under way in 2024; none in service is on record.
+
+- DSD News reports that the Department of Social Development has signed MoUs with government departments to develop and implement the National Integrated Social Protection Information System (NISPIS), an electronic data management system integrating data from several sectors to improve targeting of social protection ([source, 2024-08](https://dsdnews.org/ijs-modernising-social-development-for-better-accountability/)).
+
 ### Sudan: 2 Nascent
 
 A social registry was under way in 2026; none in service is on record.
@@ -301,6 +311,24 @@ A social registry was under way in 2026; none in service is on record.
 
 - ZBC News reports the government is developing the Zimbabwe Social Registry (ZISO), a database to identify households eligible for social assistance, to be rolled out across the 65 districts, per Minister Edgar Moyo ([source, 2026-07-20](https://www.zbcnews.co.zw/government-develops-social-registry-to-strengthen-safety-nets/)).
 - The Herald reports the 2025/2026 Zimbabwe Social Registry Survey was launched in Nkayi district by ZimStat with the Ministry of Public Service, Labour and Social Welfare, collecting household data for a national social registry and spreading progressively across 65 districts ([source, 2026-03-11](https://www.heraldonline.co.zw/zim-rolls-out-nationwide-survey-to-strengthen-social-protection-systems/)).
+
+### Namibia: Unplaced
+
+Nothing held since 2023 names a social registry, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
+
+### Tanzania: Unplaced
+
+Nothing held since 2023 names a social registry, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
+
+### Tunisia: Unplaced
+
+Nothing held since 2023 names a social registry, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
 
 ### Algeria: No evidence
 
@@ -338,31 +366,7 @@ Nothing held names a social registry or says there is none, so no stage is set.
 
 Not established: Nothing held names a social registry, or says there is none.
 
-### Namibia: No evidence
-
-Nothing held names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing held names a social registry, or says there is none.
-
-### South Africa: No evidence
-
-Nothing held names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing held names a social registry, or says there is none.
-
 ### South Sudan: No evidence
-
-Nothing held names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing held names a social registry, or says there is none.
-
-### Tanzania: No evidence
-
-Nothing held names a social registry or says there is none, so no stage is set.
-
-Not established: Nothing held names a social registry, or says there is none.
-
-### Tunisia: No evidence
 
 Nothing held names a social registry or says there is none, so no stage is set.
 

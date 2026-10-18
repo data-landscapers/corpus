@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnq-issa-inseso-papel-cero",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ISSA says INSESO's paperless project to digitise its files has been piloted on family allowance files, cutting processing from two days to 20 minutes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Papel cero y control inteligente",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

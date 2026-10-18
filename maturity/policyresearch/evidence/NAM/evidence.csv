@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,research,research,publishing,"The Institute for Public Policy Research (IPPR) published a piece on its site on data protection and surveillance, and says it commissioned an October 2022 assessment of Namibia's digital rights landscape.",2023-08-24,day,IPPR,research,2023-08-24-nam-ippr-data-protection-surveillance,https://ippr.org.na/blog/data-protection-in-the-age-of-mass-surveillance-part-1/

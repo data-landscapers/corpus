@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-30-tza-ega-elimu-serikali-mtandao-kwa-viziwi",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "e-GA's legal officer says section 28(e) of the e-Government Act No. 10 of 2019 directs public institutions to create a friendly environment for delivering e-government services to people with special needs, including the Deaf.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "e-Government Act No. 10 of 2019",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

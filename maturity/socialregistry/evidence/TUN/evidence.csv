@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TUN-001,TUN,social,registry,underway,"The CRES-World Bank summary says the Ministry of Social Affairs' AMEN Social household database holds complete information on only 13% of the population (436,000 households) after five years, with the proxy-means score still to be applied to it.",2021,year,AMEN Social database (enquete sociale),social,2021-01-01-tun-cres-identification-menages-pauvres-ciblage,http://www.cres.tn/uploads/tx_wdbiblio/CRES_BM__ciblage_Summary_V19.pdf

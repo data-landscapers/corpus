@@ -2,7 +2,7 @@
 
 ## G2P functionality
 
-**Paid digitally.** [The UN in Lesotho says the Government, led by the Ministry of Gender, Youth and Social Development with EU, UNICEF and World Bank support, is transitioning Child Grants Programme payments from third-party cash-in-transit to mobile payments through selected mobile network providers](<https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Paid digitally.** [The UN in Lesotho says the Government, led by the Ministry of Gender, Youth and Social Development with EU, UNICEF and World Bank support, is transitioning Child Grants Programme payments from third-party cash-in-transit to mobile payments through selected mobile network providers](<https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025>). [The EU/UNICEF-backed Ntlafatsa Bana project (2023-2026) aims to improve Child Grants Programme delivery by shifting towards digital payments and digitalising payments to beneficiaries, and the Ministry of Gender, Youth and Social Development is transitioning to digital payments](<https://www.eeas.europa.eu/delegations/lesotho/eu-and-unicef-provide-new-resources-government-enhance-child-well-being-and-social-services-lesotho_en>).
 
 **Main streams.** No source held since October 2023 shows two or more main government payment streams paid digitally. The nearest held fact: [the one given above](<https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025>).
 

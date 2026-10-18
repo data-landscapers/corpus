@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002",
+      "stage_sources": "ETH-004;ETH-002",
       "gaps": "No source held since October 2023 says: is one link in service.",
       "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

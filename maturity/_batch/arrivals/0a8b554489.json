@@ -1,0 +1,23 @@
+{
+ "slug": "2023-11-10-tgo-ceni-communique-fichier-electoral-definitif",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Communique gives the final roll after an OIF audit but does not say it is digital or biometric."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on national standards."
+    }
+   }
+  }
+ }
+}

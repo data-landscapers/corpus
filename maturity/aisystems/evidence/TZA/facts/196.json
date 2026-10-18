@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-31-tza-dhis2-ai-alert-triage-surveillance",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The UDSM DHIS2 Lab implemented the AI-based alert triage tool now used by Tanzania's Ministry of Health in its event-based surveillance; the document says it uses a rule-based approach with human interaction, with machine learning planned.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "AI-based alert triage tool",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

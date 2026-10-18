@@ -1,0 +1,81 @@
+{
+ "slug": "2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2",
+ "studies": {
+  "health": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "UNDP Burundi says the ministry's national health information directorate (DSNIS) runs DHIS2 as the sole system for collecting and transmitting health data.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Burundi",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "DSNIS, Ministry of Public Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "UNDP Burundi says DSNIS uses DHIS2 as the sole system for collecting and transmitting health data in real time, validated at district, province and DSNIS level, and tuberculosis data checks ran in 16 provinces on 3-22 June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Burundi",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "DSNIS, Ministry of Public Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention local government connection."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention schools."
+    }
+   }
+  }
+ }
+}

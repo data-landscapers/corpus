@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-26-zaf-pmg-nw6636-edrs-deeds-registered",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister's reply says 16,911,328 deeds documents have been digitised and made publicly accessible through the eDRS Information Provisioning Module, live since 1 April 2025, and all deeds registered after 2014 are in electronic format.",
+   "as_of": "2025-11-26",
+   "date_precision": "day",
+   "system": "electronic Deeds Registration System (eDRS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic Deeds Registration System (eDRS)",
+   "country_label": "South Africa",
+   "class": "land",
+   "platform": "eDRS Information Provisioning Module",
+   "owner": "Department of Land Reform and Rural Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

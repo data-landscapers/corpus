@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-09-mrt-ami-taazour-tekavoul-transferts-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Taazour launched on 9 September 2024 its first cash distribution by electronic transfer, in Nouakchott, to Tekavoul families (140,297 families nationally in the regular transfer operation).",
+   "as_of": "2024-09-09",
+   "date_precision": "day",
+   "system": "Tekavoul electronic transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

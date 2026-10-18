@@ -1,0 +1,211 @@
+{
+ "slug": "2025-12-06-eth-ebc-addis-ai-civil-registration-system",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Addis Ababa City Administration announced a new AI-enriched digital civil registration and resident services system, to begin operations in 50 woredas the following Monday.",
+       "as_of": "2025-12-06",
+       "date_precision": "day",
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "",
+       "owner": "Addis Ababa City Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The EBC reports the new Addis Ababa system is set to create interoperability between sectors including Health, Immigration, Courts and the National ID Program.",
+       "as_of": "2025-12-06",
+       "date_precision": "day",
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "",
+       "owner": "Addis Ababa City Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Addis Ababa City Administration launched a digital civil registration system replacing 14 years of manual process, starting operations in 50 woredas of the city.",
+       "as_of": "2025-12-06",
+       "date_precision": "day",
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "country_label": "Ethiopia",
+       "class": "civil",
+       "platform": "",
+       "owner": "Addis Ababa City Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:50",
+       "fact": "Addis Ababa's new digital civil registration service was to start practical operations in 50 woredas the following Monday, per the EBC report of the announcement.",
+       "as_of": "2025-12-06",
+       "date_precision": "day",
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-enriched integrated digital civil registration and resident services system",
+       "country_label": "Ethiopia",
+       "class": "civil",
+       "platform": "",
+       "owner": "Addis Ababa City Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

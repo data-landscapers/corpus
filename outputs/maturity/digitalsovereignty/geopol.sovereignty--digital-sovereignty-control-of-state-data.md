@@ -23,10 +23,10 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | 5 Leading | 0 |
 | 4 Operating | 19 |
 | 3 Established | 8 |
-| 2 Nascent | 12 |
-| 1 Absent | 0 |
-| Unplaced | 6 |
-| No evidence | 9 |
+| 2 Nascent | 14 |
+| 1 Absent | 1 |
+| Unplaced | 5 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -240,13 +240,25 @@ Keeping state data under national control was a stated goal in 2024; a rule in f
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
 - The Minister of Digital Economy announced on 9 June 2026 that the first national data centre, run by Gabonese firm ST Digital, would open on 30 June 2026 to keep data from public services and businesses on national territory ([source, 2026-06-09](https://www.gabonreview.com/hebergement-des-donnees-le-gabon-met-fin-a-sa-dependance-aux-serveurs-etrangers-avec-son-premier-datacenter/)).
-- The Presidency states the Head of State said modernising public information systems must guarantee national control and security of the state's strategic data and build national skills to run critical digital infrastructure ([source, 2026-02-19](https://presidence.ga/2026/02/19/audience-accordee-a-ika-technology-acceleration-de-la-digitalisation-de-ladministration-publique-et-consolidation-de-la-souverainete-numerique/)).
+- Minister Doumba announced acceleration of the project to build a high-security national data centre and said he wants state and citizen data stored exclusively on national territory ([source, 2026-05-27](https://legabonais.com/bilan-des-100-jours-internet-cybersecurite-administration-numerique-marc-alexandre-doumba-deroule-la-strategie-digitale/)).
+
+### Madagascar: 2 Nascent
+
+Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
+
+- The digital minister says creating a sovereign, secure national data centre to host public data is among the ministry's priorities ([source, 2026-01-19](https://fr.allafrica.com/stories/202601200231.html)).
 
 ### Mali: 2 Nascent
 
 Keeping state data under national control was a stated goal in 2024; a rule in force is not on record.
 
 - The government presented Mali Kura Biométrie as a sovereign system keeping the RAVEC identity data under national control, with the president calling it the starting point of Mali's digital sovereignty ([source, 2024-02-13](https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec)).
+
+### Namibia: 2 Nascent
+
+Keeping state data under national control was a stated goal in 2025; a rule in force is not on record.
+
+- NDP6 plans a National Data Centre to store government information and keep critical national data hosted within Namibia ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
 
 ### Niger: 2 Nascent
 
@@ -279,6 +291,12 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 - Sudan's Minister of Communications and Digital Transformation says the alternative national data centre project is meant to restore sovereign national infrastructure and secure and protect all government data ([source, 2026-03-16](https://nabdsudan.net/231651)).
 
+### Central African Republic: 1 Absent
+
+A 2024 source says no rule governs where state data is held.
+
+- Paradigm Initiative's Londa 2023 report says the Central African Republic has no stand-alone data protection law or regulation, none specifically on biometric databases and data localisation, and no officially recognised national cybersecurity strategy ([source, 2024-04](https://paradigmhq.org/wp-content/uploads/2024/06/CAR-Londa-Report.pdf)).
+
 ### Djibouti: Unplaced
 
 Nothing held since 2023 names control of state data, so no stage is set.
@@ -297,12 +315,6 @@ Nothing held since 2023 names control of state data, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
 
-### Namibia: Unplaced
-
-Nothing held since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
 ### Tunisia: Unplaced
 
 Nothing held since 2023 names control of state data, so no stage is set.
@@ -314,12 +326,6 @@ Not established: Nothing held since October 2023 says whether control of state d
 Nothing held since 2023 names control of state data, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
-### Central African Republic: No evidence
-
-Nothing held names control of state data or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
 
 ### Equatorial Guinea: No evidence
 
@@ -340,12 +346,6 @@ Nothing held names control of state data or says there is none, so no stage is s
 Not established: Nothing held says whether the state keeps its data and systems under its own control.
 
 ### Liberia: No evidence
-
-Nothing held names control of state data or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
-
-### Madagascar: No evidence
 
 Nothing held names control of state data or says there is none, so no stage is set.
 

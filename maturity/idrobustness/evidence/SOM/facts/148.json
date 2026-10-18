@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-24-som-nadra-crmvs-system-handed-over",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS)",
+   "country_label": "NIMS",
+   "class": "idsystem",
+   "platform": "NADRA-developed",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "NIMS is said to be deployed in 2023 but not that it issues unique credentials."
+}

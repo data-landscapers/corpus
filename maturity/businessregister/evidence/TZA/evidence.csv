@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TZA-001,TZA,business,registration,inservice,"BRELA's service page sets out a 10-step company registration through its online registration system (ORS), with payment by mobile or bank.",2026,year,BRELA Online Registration System (ORS),business,2026-01-01-tza-brela-usajili-wa-kampuni-online,https://www.brela.go.tz/services/registration-of-companies
+TZA-002,TZA,business,registration,inservice,NIDA lists online company and TIN registration among the services delivered through its consent-based eKYC.,2025-05-01,day,Online Company & TIN Registration,business,2025-05-01-tza-nida-id4africa-digital-identity,https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf

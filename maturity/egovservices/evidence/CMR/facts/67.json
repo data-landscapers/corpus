@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-08-cmr-cna-tresor-pay-platform",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The finance ministry unveiled the Tresor Pay platform (www.tresorpublic.cm) on 7 August 2023, letting users pay non-tax public services online by mobile money, Campost or card.",
+   "as_of": "2023-08-07",
+   "date_precision": "day",
+   "system": "Tresor Pay",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tresor Pay",
+   "country_label": "Cameroon",
+   "class": "eservices",
+   "platform": "www.tresorpublic.cm",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

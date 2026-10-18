@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-21-com-pfss-tms-55000-menages-mobile-banking",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The PFSS-RRC says the extension aims to improve crisis response through the operationalisation of the Registre Social Unique.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Registre Social Unique",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

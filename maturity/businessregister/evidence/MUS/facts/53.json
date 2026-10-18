@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-04-mus-cbrd-guidelines-incorporation-registration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Corporate and Business Registration Department's April 2025 online guide describes incorporating companies and registering businesses through online forms with documents uploaded.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "Corporate and Business Registration Department online registration",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Corporate and Business Registration Department online registration",
+   "country_label": "Mauritius",
+   "class": "business",
+   "platform": "",
+   "owner": "Corporate and Business Registration Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

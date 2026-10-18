@@ -1,0 +1,251 @@
+{
+ "slug": "2025-01-01-nga-nsipa-about-nassco-national-social-register",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "NSIPA lists digital payments via bank accounts and wallets, with payment duration cut from 6 months to 3.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NSR cash transfer payments",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Social Register (NSR)",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Social Register (NSR)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NSIPA lists an integrated and fully digitalized management information system under the government's restructuring of NASSP-SU.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NASSP-SU management information system",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "NSIPA lists digital payments via bank accounts and wallets under the restructuring of NASSP-SU.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NASSP-SU management information system",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "NSIPA's NASSCO page lists the National Social Register as successfully built and operational.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Social Register (NSR)",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Social Register (NSR)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Social Register (NSR)",
+       "country_label": "Nigeria",
+       "class": "social",
+       "platform": "",
+       "owner": "NASSCO/NSIPA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

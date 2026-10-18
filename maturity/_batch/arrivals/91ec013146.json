@@ -1,0 +1,34 @@
+{
+ "slug": "2020-03-04-ben-gouv-bj-facilites-creation-entreprise",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "The government says online company creation is effective on monentreprise.bj through APIEx, with 59 firms created online on 3 March 2020.",
+       "as_of": "2020-03-04",
+       "date_precision": "day",
+       "system": "monentreprise.bj",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "monentreprise.bj",
+       "country_label": "Benin",
+       "class": "business",
+       "platform": "",
+       "owner": "APIEx",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

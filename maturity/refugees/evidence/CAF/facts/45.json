@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-caf-civipol-modero-etat-civil-rnec",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Civipol's MODERO project supports catch-up registration campaigns with a target of 40,000 registrations for internally displaced people in the Central African Republic.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "MODERO catch-up registration campaigns",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "2025-07-17-bfa-directinfo-validation-avant-projet-loi-startups",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A startup law workshop; the startup law is not a named digital law, so no consultation fact."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "AFP-PME held a 17-18 July 2025 national workshop in Ouagadougou to validate the draft startup promotion bill and its implementing decree, after drafting workshops from March 2025.",
+       "as_of": "2025-07-17",
+       "date_precision": "day",
+       "system": "avant-projet de loi sur la promotion des startups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study."
+    }
+   }
+  }
+ }
+}

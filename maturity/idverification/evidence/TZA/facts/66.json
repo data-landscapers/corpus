@@ -1,0 +1,37 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIDA says consent-based eKYC against the national ID is in use for instant bank account opening and online company and TIN registration.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Consent based EKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "NIDA lists bank account opening and company and TIN registration (tax) among services using its eKYC.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Consent based EKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIDA counts 124 institutions integrated with its consent-based eKYC, 55 government and 69 private.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Consent based EKYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

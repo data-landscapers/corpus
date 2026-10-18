@@ -1,0 +1,44 @@
+{
+ "slug": "2020-08-10-cog-minfin-mise-en-production-nouveau-niu",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Finance Ministry says the new NIU, a mandatory taxpayer registration number issued by the tax directorate, was put into production on 10 August 2020 with fingerprints, iris and QR code.",
+       "as_of": "2020-08-10",
+       "date_precision": "day",
+       "system": "NIU",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "The Finance Minister handed the Minister for small businesses enrolment equipment so entrepreneurs can obtain the NIU at the counter of the business-creation agency ACPCE.",
+       "as_of": "2020-08-10",
+       "date_precision": "day",
+       "system": "NIU",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIU",
+       "country_label": "Congo",
+       "class": "tax",
+       "platform": "",
+       "owner": "Direction générale des impôts et des domaines",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

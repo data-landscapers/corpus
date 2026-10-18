@@ -1,0 +1,25 @@
+{
+ "slug": "2026-02-01-mli-acaref-coulibaly-regulation-numerique-mali",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "Issoufou Coulibaly, a teacher at the Institut Zayed des Sciences Economiques et Juridiques in Bamako, published a study of Mali's digital regulation (cybercrime law 2019-056 and the HAC) based on a survey and expert interviews.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Institut Zayed des Sciences Economiques et Juridiques",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

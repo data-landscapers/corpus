@@ -1,0 +1,23 @@
+{
+ "slug": "2023-07-14-bwa-minchinkelly-e-procurement-regulations",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National eProcurement System (NePS)",
+       "country_label": "Botswana",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Government of Botswana",
+       "tiers": ""
+      }
+     ],
+     "note": "Regulations of 30 June 2023 establish NePS and say what it will allow; no build, pilot or service is stated."
+    }
+   }
+  }
+ }
+}

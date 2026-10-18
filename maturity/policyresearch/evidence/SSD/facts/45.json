@@ -1,0 +1,17 @@
+{
+ "slug": "2021-08-01-ssd-csps-conflict-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "The South Sudan Center for Strategic and Policy Studies, a national think-tank founded in Juba in 2011, co-produced the August 2021 Conflict and Connectivity in South Sudan report with Defy Hate Now.",
+   "as_of": "2021-08",
+   "date_precision": "month",
+   "system": "Conflict and Connectivity in South Sudan Report",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

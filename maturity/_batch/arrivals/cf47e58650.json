@@ -1,0 +1,43 @@
+{
+ "slug": "2024-12-05-mrt-emergence-portail-marches-publics",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ARMP and the digital ministry launched the national public procurement portal on 3 December 2024, carrying procurement plans, tender announcements and results.",
+       "as_of": "2024-12-03",
+       "date_precision": "day",
+       "system": "Portail des marchés publics",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portail des marchés publics",
+       "country_label": "Mauritanie",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARMP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Information portal for procurement; no service completed online is stated."
+    }
+   }
+  }
+ }
+}

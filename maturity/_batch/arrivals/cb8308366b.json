@@ -1,0 +1,181 @@
+{
+ "slug": "2024-06-01-tza-repoa-data-protection-platform-workers",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "The REPOA brief says the Personal Data Protection Act No. 11 of 2022 gives data subjects rights including objection to automated decision-making.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Personal Data Protection Act No. 11 of 2022",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no national data policy."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "The REPOA brief says the Personal Data Protection Act No. 11 of 2022 establishes the Personal Data Protection Commission to oversee compliance, register data collectors and processors and address complaints; it does not say members are appointed.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Personal Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The REPOA brief describes the Personal Data Protection Act No. 11 of 2022 as applying to public and private entities handling personal data, with 2023 regulations made after its enactment.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Personal Data Protection Act No. 11 of 2022",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The REPOA brief says the Act establishes the Personal Data Protection Commission; it does not say it is constituted.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Personal Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "The REPOA brief says two regulations were introduced in 2023 after the Act: the Personal Data Protection (Complaints Settlement Procedures) Regulations and the Personal Data Collection and Processing Regulations.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Personal Data Collection and Processing Regulations",
+       "class": "regulation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The REPOA brief describes the Personal Data Protection Act No. 11 of 2022 as applying to public and private entities, with regulations introduced in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Personal Data Protection Act No. 11 of 2022",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The REPOA brief says the Personal Data Protection Act No. 11 of 2022 limits transfer of data outside Tanzania, and that the 2023 Personal Data Collection and Processing Regulations set guidelines for transferring personal data outside the nation.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Personal Data Collection and Processing Regulations",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "It gives only a count of internet users (over 33 million, March 2023), not a share of the population, and not for 2024 or later."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "The brief is published by REPOA with the University of Dodoma, Tanzanian institutions, and reviews data protection for platform workers in Tanzania.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "REPOA",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no regional or African Union text."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no African body or regional agreement."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,protection,redress,redress,"The Centre Marocain de Médiation Bancaire's mediation rules of 23 March 2023 govern a mediation scheme binding its members, which include banks, financing companies and payment institutions, under a Bank Al-Maghrib circular of 2016.",2023-03-23,day,Centre Marocain de Médiation Bancaire (Al Wassit Al Banki),protection,2023-03-23-mar-cmmb-reglement-mediation-bancaire,https://cmmb.ma/la-mediation-2/reglement-de-mediation-al-wassit-al-banki/

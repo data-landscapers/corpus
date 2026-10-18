@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-29-swz-epn-ers-launches-tax-ease-portal",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Eswatini Positive News reports the Tax Ease portal offers online tax filing for multiple types of taxes, with auto-populated returns and monthly payroll upload, from 4 March 2024.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "Tax Ease",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Eswatini Positive News reports Tax Ease provides integrated payments and simplified payment referencing for taxpayers.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "Tax Ease",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tax Ease",
+   "country_label": "Eswatini",
+   "class": "taxsystem",
+   "platform": "Oracle",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

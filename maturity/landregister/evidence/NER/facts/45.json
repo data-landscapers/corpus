@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-ner-nouvelledafrique-e-cadastre-niger",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Minister chaired a meeting on the E-Cadastre project, run with ANSI, which aims to set up a national digital cadastral system; a steering committee is to be created.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "E-Cadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Cadastre",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Urbanisme et de l'Habitat with ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2019-02-21-ago-lex-decreto-presidencial-63-19-juce",
+ "studies": {
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Janela Unica do Comercio Externo (JUCE)",
+       "country_label": "Angola",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The decree renames and institutionalises JUCE and leaves access rules to a later diploma; it does not say the window is in service."
+    }
+   }
+  }
+ }
+}

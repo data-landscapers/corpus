@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,National Financial Switch,Zambia,oversight,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
+ZMB,ZIPSS,ZIPSS,other,RTGS,Bank of Zambia,,2026-01-01-zmb-boz-nps-annual-report-2024
+ZMB,National Financial Switch,NFS,other,,ZECHL,,2026-01-01-zmb-boz-nps-annual-report-2024
+ZMB,SADC-RTGS,SADC-RTGS,other,,SADC,,2026-01-01-zmb-boz-nps-annual-report-2024

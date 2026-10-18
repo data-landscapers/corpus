@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-18-sen-rewmi-entics-femmes-plus-connectees",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The article says the ENTICS sample was drawn from the base of the fifth Population and Housing Census (RGPH-5) of 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "RGPH-5",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5",
+   "country_label": "RGPH-5 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-12-ken-psc-certifies-141-data-protection-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

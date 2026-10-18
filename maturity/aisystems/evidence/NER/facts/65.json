@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-29-ner-adn-rayuwa-ai-platform-training",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "ADN describes itself as a key actor in developing and operationalising Rayuwa, an AI platform available free on the Play Store, targeting 600,000 Nigerien producers within 2.3 million beneficiaries in West Africa.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "Rayuwa",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rayuwa",
+   "country_label": "Niger",
+   "class": "localai",
+   "platform": "Android app (Play Store)",
+   "owner": "Agence de Developpement Numerique (ADN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2025-12-04-gab-undp-atelier-digitalisation-actes-judiciaires",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions data protection specialists at a workshop only; no law stated."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop to scope a digital archive of judicial acts; no case management system stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not concern police stations."
+    }
+   }
+  }
+ }
+}

@@ -22,9 +22,9 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 30 |
+| 3 Established | 31 |
 | 2 Nascent | 2 |
-| 1 Absent | 16 |
+| 1 Absent | 15 |
 | Unplaced | 0 |
 | No evidence | 1 |
 
@@ -153,6 +153,12 @@ Satellite broadband licensed and on sale by 2024, on one satellite network.
 Satellite broadband licensed and on sale by 2026, on one satellite network.
 
 - MyBroadband's Starlink status table lists Malawi as Available on 17 July 2026 (Starlink satellite internet on sale); the article gives no provider other than Starlink and no date of launch ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
+
+### Morocco: 3 Established
+
+Satellite broadband licensed and on sale by 2024, on one satellite network.
+
+- The minister said any customer in areas without terrestrial broadband can get financial support of up to 2,500 dirhams per subscription to satellite internet from an approved provider under the VSAT initiative ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 
 ### Mozambique: 3 Established
 
@@ -327,12 +333,6 @@ A 2026 source says satellite broadband is not licensed or is banned.
 A 2026 source says satellite broadband is not licensed or is banned.
 
 - Starlink's Mauritanian licence application, sought for about two years, is still pending, with authorities pressing security and data-control conditions (date is the article's, no other given) ([source, 2026-09-15](https://maurinews.info/news-reports/95535/)).
-
-### Morocco: 1 Absent
-
-A 2026 source says satellite broadband is not licensed or is banned.
-
-- Morocco is listed among about 34 countries where Starlink sits in regulatory limbo, neither approved nor explicitly banned, as of June 2026 per CIO Africa; no licence is stated ([source, 2026-06](https://cioafrica.co/namibia-shuts-the-door-on-starlink-twice/)).
 
 ### Tanzania: 1 Absent
 

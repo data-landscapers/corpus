@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "NIMC's director-general says over 206,000 refugees and internally displaced persons have been enrolled into the national identity database.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "National Identity Database (NIN)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "NIMC's director-general says refugees and internally displaced persons have been enrolled into the national identity database so that no one is left behind.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "National Identity Database (NIN)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "National Identity Database (NIN)",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

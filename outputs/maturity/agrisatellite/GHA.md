@@ -2,6 +2,12 @@
 
 ## Satellite data in agriculture
 
+**Satellite service.** [GEOGLAM's account by the project leads says the Ghana Space Science and Technology Institute and VITO are building the GEOMAIZE maize yield estimation from Sentinel-2 time series, with Ghana having a foundation for an operational pipeline](<https://geoglam.org/from-partnership-to-practice-advancing-yield-intelligence-and-food-security-through-geomaize/>). [SERVIR West Africa and the University of Florida report that GMet successfully tested initial operational capability of CRAFT for district-level maize yield hindcasts in Ghana, linking earth-observation crop type maps to production forecasts, with operationalising the service listed as a next step](<https://servir.icrisat.org/wp-content/uploads/2024/10/DOUBLE_UF_2024.pdf>).
+
+**Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://geoglam.org/from-partnership-to-practice-advancing-yield-intelligence-and-food-security-through-geomaize/>).
+
+**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://geoglam.org/from-partnership-to-practice-advancing-yield-intelligence-and-food-security-through-geomaize/>).
+
 ***Noted, not assessed***. [Ghana Agricultural Information and Monitoring System](<https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/>); [National Forest Monitoring System](<https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/>).
 
-***Not held***. Nothing held says whether satellite data is used in farming.
+***Not held***. No source held since October 2023 says: is a service in use.

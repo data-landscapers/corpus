@@ -1,0 +1,34 @@
+{
+ "slug": "2022-09-01-civ-cgap-dfs-consumer-risks-survey",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The CGAP study describes the Banking Commission as the second recourse instance for financial consumers, provided no other recourse is pending, alongside the OQSF-CI observatory with a broad mission to protect financial services consumers and the AUBEF consumer association, which receives complaints from financial consumers.",
+   "as_of": "2022-09",
+   "date_precision": "month",
+   "system": "Banking Commission / OQSF-CI",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF-CI (Observatory of the quality of financial services)",
+   "country_label": "Cote d'Ivoire",
+   "class": "protection",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Banking Commission",
+   "country_label": "Cote d'Ivoire",
+   "class": "protection",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "second recourse"
+  }
+ ],
+ "note": ""
+}

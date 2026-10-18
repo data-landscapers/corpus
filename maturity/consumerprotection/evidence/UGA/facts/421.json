@@ -1,0 +1,36 @@
+{
+ "slug": "2022-09-09-uga-ulii-nps-consumer-protection-regs-2022",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The National Payment Systems (Consumer Protection) Regulations, 2022 (S.I. 103), made by the Finance Minister on 12 July 2022 and gazetted 9 September 2022, set conduct, disclosure and complaint rules for payment licensees.",
+   "as_of": "2022-09-09",
+   "date_precision": "day",
+   "system": "National Payment Systems (Consumer Protection) Regulations, 2022",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The regulations let a consumer unsatisfied with a licensee's decision lodge a complaint with the Central Bank, which must determine it within 21 working days and may order refund or compensation.",
+   "as_of": "2022-09-09",
+   "date_precision": "day",
+   "system": "Bank of Uganda complaints process",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment Systems (Consumer Protection) Regulations, 2022",
+   "country_label": "Uganda",
+   "class": "protection",
+   "platform": "",
+   "owner": "Ministry of Finance, Planning and Economic Development / Bank of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-07-lby-alwasat-agriculture-complaints-platform",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Minister of Agriculture and Livestock of the Government of National Unity announced on 7 April 2026 the launch of a platform for complaints, comments and inquiries from farmers and citizens, with follow-up of action taken; no case count is given.",
+       "as_of": "2026-04-07",
+       "date_precision": "day",
+       "system": "complaints and communication platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "complaints and communication platform",
+       "country_label": "Libya",
+       "class": "feedback",
+       "platform": "web",
+       "owner": "Ministry of Agriculture and Livestock",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-16-mwi-times-rural-schools-miss-out-ict-revolution",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Macra's USF head Ronald Tembo said Macra is working on a data corridor and on introducing data to cover all rural areas with affordable and reliable internet.",
+   "as_of": "2024-09-16",
+   "date_precision": "day",
+   "system": "Universal Service Fund",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Connect-a-School",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Macra (Universal Service Fund)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

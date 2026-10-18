@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-01-ken-ppra-circular-02-2025-portal-egps-integration",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "PPRA Circular 02/2025 requires all procuring entities to register on the End-to-End Electronic Government Procurement System (e-GPS) by 30 June 2025, with procurement reports generated through it from 1 July 2025 and unregistered entities losing procuring responsibility.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "e-GPS",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GPS",
+       "country_label": "Kenya",
+       "class": "procurement",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

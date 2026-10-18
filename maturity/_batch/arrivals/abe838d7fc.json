@@ -1,0 +1,23 @@
+{
+ "slug": "2022-12-17-mli-malijet-guichet-unique-dgcc",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sygce",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "DGCC",
+       "tiers": ""
+      }
+     ],
+     "note": "The article covers the trade-permit one-stop desk and Sygce of the commerce directorate, not customs declaration processing or a customs single window."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,5 @@
+{"slug": "2015-12-09-mli-malijet-sigmap-lancement", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "The Ministry of Economy and Finance officially launched the Sigmap integrated public procurement management system on 4 December 2015; its coordinator said the first phase of design and development is due to finish in 2017.", "as_of": "2015-12-04", "date_precision": "day", "system": "Sigmap", "class": "procurement"}
+], "systems": [{"system": "Sigmap", "country_label": "Mali", "class": "procurement", "platform": "Java EE web application hosted at CAISFF", "owner": "DGMP-DSP / CAISFF", "tiers": ""}], "note": ""}}}
+}}

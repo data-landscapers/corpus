@@ -1,0 +1,16 @@
+{"slug":"2025-01-30-mar-telquel-dossier-judiciaire-electronique","studies":{
+"authentication":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"businesspayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"centralbank":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"consumerprotection":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"crossborderpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"ecommercelaw":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"g2ppayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"paymentsuptake":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"retailpayments":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"schoolinternet":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"taxadmin":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"egovservices":{"countries":{"MAR":{"facts":[{"sub_indicator":"eservices","aspect":"services","value":"underway","fact":"Morocco's justice minister says litigants can use online services such as tracking execution requests and obtaining copies of judgments, and lawyers can file online.","as_of":"2025-01","date_precision":"month","system":"justice ministry online services","class":"eservices"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"MAR":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Morocco's justice minister says electronic payment of court fees, by bank card or other channels, is already in effect.","as_of":"2025-01","date_precision":"month","system":"online court fee payment","class":"revenue"}],"systems":[],"note":""}}},
+"justice":{"countries":{"MAR":{"facts":[{"sub_indicator":"justice","aspect":"cases","value":"underway","fact":"Morocco's justice minister says an electronic judicial case file, to digitise all case files of every type and jurisdiction, is being prepared.","as_of":"2025-01","date_precision":"month","system":"dossier judiciaire électronique","class":"justice"},{"sub_indicator":"justice","aspect":"filing","value":"online","fact":"Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform.","as_of":"2025-01","date_precision":"month","system":"dedicated lawyers' filing platform","class":"justice"}],"systems":[{"system":"dossier judiciaire électronique","country_label":"Morocco","class":"justice","platform":"","owner":"Ministry of Justice","tiers":""}],"note":""}}}
+}}

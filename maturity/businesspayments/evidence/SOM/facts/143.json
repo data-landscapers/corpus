@@ -1,0 +1,26 @@
+{
+ "slug": "2021-04-30-som-devex-asi-procurement-portal-eoi",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Adam Smith International's notice says the EU-funded project seeks firms to develop a new procurement portal for the Federal Government of Somalia's Ministry of Finance.",
+   "as_of": "2021-04-30",
+   "date_precision": "day",
+   "system": "Government Procurement Portal",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Procurement Portal",
+   "country_label": "Somalia",
+   "class": "procurement",
+   "platform": "CMS-based",
+   "owner": "National Public Procurement Directorate, Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

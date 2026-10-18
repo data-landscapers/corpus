@@ -1,0 +1,26 @@
+{
+ "slug": "2020-03-01-bwa-dailynews-basic-education-budget-emis",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Botswana's Minister of Basic Education told Parliament the ministry was in the process of procuring an EMIS, with P46.5 million budgeted for 2020/21 including computers and school LANs.",
+   "as_of": "2020-02-27",
+   "date_precision": "day",
+   "system": "EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Botswana",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Basic Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

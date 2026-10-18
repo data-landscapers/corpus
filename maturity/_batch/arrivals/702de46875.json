@@ -1,0 +1,32 @@
+{
+ "slug": "2024-03-20-moz-aim-incm-internet-620-estabelecimentos-ensino",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital squares are public access for residents; no local government office connection stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No price stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A plan for 620 institutions; no share of secondary schools with internet stated."
+    }
+   }
+  }
+ }
+}

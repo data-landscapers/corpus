@@ -1,0 +1,10 @@
+{"slug":"2024-08-25-com-comoresinfos-codes-postaux-absence-adressage","studies":{
+"addressregister":{"countries":{"COM":{"facts":[{"sub_indicator":"address","aspect":"addressing","value":"none","fact":"Comores Infos reports that the Comoros has neither postcodes nor precise methods to locate places or deliver mail, i.e. no structured addressing system, while the telecoms minister only pledges to introduce postcodes.","as_of":"2024-08-25","date_precision":"day","system":"","class":"address"}],"systems":[],"note":""}}},
+"businessregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about business registration."}}},
+"civilregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about civil registration."}}},
+"egovservices":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about online government services."}}},
+"electoralregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about the voters' roll."}}},
+"landregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about land registration."}}},
+"populationregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about a population register."}}},
+"registry":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about civil registration offices."}}},
+"socialregistry":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing about a social registry."}}}}}

@@ -1,0 +1,218 @@
+{
+ "slug": "2025-07-05-sen-rts-anec-daf-interoperabilite-rnec",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "RTS reports that ANEC (civil status agency) and DAF (identity file directorate) signed an interoperability protocol to exchange civil-status and biometric identity data.",
+       "as_of": "2025-07-05",
+       "date_precision": "day",
+       "system": "ANEC-DAF interoperability protocol",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "RTS reports that the Registre national de l'etat civil (RNEC) is now operational, with 20 million civil-status acts digitised.",
+       "as_of": "2025-07-05",
+       "date_precision": "day",
+       "system": "RNEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNEC",
+       "country_label": "Senegal",
+       "class": "civil",
+       "platform": "",
+       "owner": "ANEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "RTS reports that more than 10 million citizens are enrolled biometrically.",
+       "as_of": "2025-07-05",
+       "date_precision": "day",
+       "system": "DAF national identity file",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "2021-01-01-eth-ejhr-muted-online-voices-disabilities",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "Media Proclamation No. 1238/2021 requires media to broadcast programs with content specially adapted for persons with disabilities (Article 55(n)), according to the article.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Media Proclamation No. 1238/2021",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{"slug": "2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Abstract names Zambia only as a compute host; says nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Abstract gives no government AI use for Zambia by name."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Abstract gives no sector AI system for Zambia by name."}}},
+"aistrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Abstract says nothing on a Zambian AI strategy."}}}
+}}

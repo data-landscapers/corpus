@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-13-rwa-ocp-umucyo-open-contracting-portal",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API.",
+   "as_of": "2024-11-12",
+   "date_precision": "day",
+   "system": "RPPA open contracting portal",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

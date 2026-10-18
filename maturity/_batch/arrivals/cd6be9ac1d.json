@@ -1,0 +1,18 @@
+{"slug": "2026-05-28-swz-state-dept-health-service-delivery-cmis", "studies": {
+"health": {"countries": {
+"NAM": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The US State Department report says data from vertical programmes in Namibia has been consolidated into a single government-owned, interoperable platform, the Ministry of Health and Social Services' multi-sectoral information management system.", "as_of": "2026-05", "date_precision": "month", "system": "Multi-sectoral information management system (MIMS)", "class": "hmis"}
+], "systems": [{"system": "Multi-sectoral information management system", "country_label": "MIMS", "class": "hmis", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": ""}], "note": ""},
+"NGA": {"facts": [], "systems": [{"system": "Public health emergency operations centres (Edo, Adamawa)", "country_label": "EOC", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only two state emergency operations centres, a surveillance function, are described."},
+"SWZ": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "The US State Department report says it supports Eswatini's CMIS, the national electronic medical record, and in FY2026 is working with the ministries of Health and ICT to transition its ownership and management to the Eswatini government.", "as_of": "2026-05", "date_precision": "month", "system": "Client management information system (CMIS)", "class": "emr"}
+], "systems": [{"system": "Client management information system", "country_label": "CMIS", "class": "emr", "platform": "", "owner": "US Department of State supported; transition to government planned", "tiers": ""}], "note": ""}
+}},
+"healthexchange": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The US State Department report says Eswatini's CMIS works through its own data capture as well as interoperability with other relevant systems, and over 90 percent of HIV commodity consumption data is sourced from it.", "as_of": "2026-05", "date_precision": "month", "system": "Client management information system (CMIS)", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"healthmis": {"countries": {
+"NAM": {"facts": [], "systems": [], "note": "MIMS oversees clinical services of non-ministry providers and consolidates vertical programme data; the document does not call it the national routine reporting system."},
+"SWZ": {"facts": [], "systems": [], "note": "CMIS is a patient record centred on HIV; the document does not describe national routine facility reporting."}
+}}
+}}

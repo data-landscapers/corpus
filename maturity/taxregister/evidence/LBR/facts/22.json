@@ -1,0 +1,15 @@
+{
+ "slug": "2023-04-19-lbr-farsight-lra-itas-press-release",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Liberia Integrated Tax Administrative System",
+   "class": "tax",
+   "platform": "Farsight Africa / ArabSoft",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

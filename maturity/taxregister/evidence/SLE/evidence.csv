@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SLE-001,SLE,taxpayers,register,inservice,"The National Revenue Authority says it completed rollout of TIN issuance on its online platform in the Integrated Tax Administration System (ITAS), with individuals and businesses applying remotely from 15 May 2023.",2023-05-15,day,ITAS,tax,2023-05-01-sle-nra-online-tin-application,http://mail.nra.gov.sl/news/online-tin-application

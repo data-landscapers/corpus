@@ -1,0 +1,34 @@
+{
+  "slug": "2024-07-01-sle-undp-annual-report-justice-app",
+  "studies": {
+    "health": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document covers a court case-tracking app and states nothing on health reporting or patient records."}}},
+    "healthmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document covers a court case-tracking app and states nothing on health information systems."}}},
+    "justice": {"countries": {"SLE": {
+      "facts": [
+        {
+          "sub_indicator": "justice",
+          "aspect": "cases",
+          "value": "inservice",
+          "fact": "UNDP Sierra Leone's annual report says the Judiciary's mobile Justice App, launched in 2020 as a court case management system for the lower courts, has been used to dispose of 3,670 cases and automates case management, document management and scheduling.",
+          "as_of": "2022",
+          "date_precision": "year",
+          "system": "Justice App",
+          "class": "justice"
+        }
+      ],
+      "systems": [
+        {
+          "system": "Justice App",
+          "country_label": "Sierra Leone",
+          "class": "justice",
+          "platform": "mobile application",
+          "owner": "Judiciary of Sierra Leone",
+          "tiers": "lower courts"
+        }
+      ],
+      "note": "Online filing and public access are stated as future aims only, so no fact is recorded for them."
+    }}},
+    "revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document covers a court case-tracking app and states nothing on payment of taxes or fees."}}},
+    "taxadmin": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document covers a court case-tracking app and states nothing on tax filing or payment."}}}
+  }
+}

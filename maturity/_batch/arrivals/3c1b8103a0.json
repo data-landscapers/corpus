@@ -1,0 +1,106 @@
+{
+ "slug": "2024-09-16-lby-carnegie-sada-idp-discrimination-personal-documents",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "Carnegie Sada (Zayed) reports that western Libya's civil registries refused to register a child of a displaced eastern family, citing birth in Benghazi, leaving him without citizenship or national ID procedures and without access to education, health care or child grants; IDPs are systematically impeded in obtaining personal documents.",
+       "as_of": "2024-09-16",
+       "date_precision": "day",
+       "system": "civil registry",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

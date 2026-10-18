@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-gha-ug-law-centre-excellence-data-governance-digital-rights",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The University of Ghana School of Law lists a project, the Africa Centre of Excellence on Data Governance and Digital Rights, running from 2024 to present, to promote research, capacity building and publications on data governance and digital rights, including AI and cyber security.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Centre of Excellence on Data Governance and Digital Rights",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Centre of Excellence on Data Governance and Digital Rights",
+   "country_label": "Ghana",
+   "class": "research",
+   "platform": "",
+   "owner": "University of Ghana School of Law",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

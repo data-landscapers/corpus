@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-19-zaf-pmg-sassa-srd-vulnerabilities-verification",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "SASSA's acting Chief Information Officer told Parliament's social development committee that the Social Relief of Distress (SRD) system, established in 2020, processes about 17.8 million applications with an average of 8 million approvals a month, validated through real-time interfaces with Home Affairs, SARS, GEPF and DPSA.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "SRD system",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "SASSA told the committee it uses banking checks to prevent fraudulent grant payments and that only fully FICA-compliant bank accounts are now used for grant payments.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "SRD system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SRD system",
+   "country_label": "South Africa",
+   "class": "socialmis",
+   "platform": "SASSA online platform",
+   "owner": "SASSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

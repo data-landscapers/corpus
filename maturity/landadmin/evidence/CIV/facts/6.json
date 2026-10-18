@@ -1,0 +1,42 @@
+{
+ "slug": "2025-02-13-civ-worldbank-presfor-aide-memoire-jan-2025",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank aide-memoire of the 21-31 January 2025 mission says AFOR's DIGIFOR and SCCARTO applications are functional and that an ordinance to make SIFOR the single digital rural land register was still to be re-presented in mid-February 2025, with cadastre title data still awaited.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "SIFOR",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIFOR",
+   "country_label": "Cote d'Ivoire",
+   "class": "landmis",
+   "platform": "",
+   "owner": "AFOR (Agence Fonciere Rurale)",
+   "tiers": "rural customary land"
+  },
+  {
+   "system": "DIGIFOR",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "tablet app",
+   "owner": "AFOR",
+   "tiers": ""
+  },
+  {
+   "system": "SCCARTO",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "AFOR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

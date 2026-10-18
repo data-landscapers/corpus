@@ -1,0 +1,11 @@
+{"slug": "2025-12-03-sen-aps-taux-inclusion-financiere-83", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "other", "platform": "instant payment platform", "owner": "", "tiers": ""}], "note": "PI-SPI is named as operating 24h/24 but no central bank role or oversight is stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "OQSF mediator is quoted on financial education; no rules, complaints handling or enforcement for digital finance is stated."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No law or rules on payments or e-money is stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The 83% is an interview estimate by the OQSF mediator with no survey, method or year stated, not a survey result."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "OQSF mediator Banda Diop welcomes the rapid growth of digital services and the strong take-up by the population of electronic money solutions in Senegal.", "as_of": "2025-12-03", "date_precision": "day", "system": "electronic money solutions", "class": "retail"}], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "other", "platform": "instant payment platform operating 24h/24", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

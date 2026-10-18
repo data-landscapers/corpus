@@ -1,0 +1,52 @@
+{
+ "slug": "2026-02-25-bfa-digitalmagazine-crd-denonciationpro",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "DenonciationPro takes reports of dysfunctions and wrongdoing, not views on policy or law."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Commission de Régulation des Dysfonctionnements launched the DenonciationPro online platform, announced 23 February 2026, for citizens to report confidentially dysfunctions in public administration in about five minutes.",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "DenonciationPro",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DenonciationPro",
+       "country_label": "Burkina Faso",
+       "class": "feedback",
+       "platform": "web",
+       "owner": "Commission de Régulation des Dysfonctionnements",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on consultation of outside parties on a digital law or policy."
+    }
+   }
+  }
+ }
+}

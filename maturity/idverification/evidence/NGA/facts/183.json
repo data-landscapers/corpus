@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's director-general says the NIN-SIM linkage policy, in force, drove digital identity adoption in telecommunications and strengthened identity verification nationwide.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIMC's director-general says Nigeria processes about 3.3 million identity verification requests daily.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Person Identification Verification Service (PIVS)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM linkage policy",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "Maloba Makanga writes that Gabon's Direction de la Météorologie Nationale has had a PUMA station receiving Meteosat Second Generation data directly since 2005, that Meteosat cloud images illustrate the weather bulletin and aid forecasting, but that the station has been more often down than working and satellite use in forecasting remains problematic.",
+   "as_of": "2009-10-27",
+   "date_precision": "day",
+   "system": "PUMA reception station",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUMA reception station (Transition Météorologique en Afrique)",
+   "country_label": "Gabon",
+   "class": "metsat",
+   "platform": "Meteosat Second Generation",
+   "owner": "Direction de la Météorologie Nationale",
+   "tiers": ""
+  },
+  {
+   "system": "Libreville weather radar",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "radar",
+   "owner": "Direction de la Météorologie Nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

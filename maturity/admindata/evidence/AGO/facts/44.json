@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-04-ago-mescti-anuario-estatistico-ensino-superior",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Ministry of Higher Education (MESCTI) officially presented statistical yearbooks of higher education for 2021-22, 2022-23 and 2023-24, with figures such as about 8% gross enrolment.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Anuarios Estatisticos do Ensino Superior",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Anuarios Estatisticos do Ensino Superior 2021-2022 to 2023-2024",
+   "country_label": "Anuarios Estatisticos do Ensino Superior 2021-2022, 2022-2023, 2023-2024",
+   "class": "admin",
+   "platform": "",
+   "owner": "MESCTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

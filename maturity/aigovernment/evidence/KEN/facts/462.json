@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-ken-kra-ksh-2-trillion-nine-months",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Kenya Revenue Authority says it has unveiled a WhatsApp tax filing service powered by an AI chatbot, Shuru, through which taxpayers access pre-filled details, file returns, generate invoices and obtain compliance certificates.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Shuru",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Shuru",
+   "country_label": "Kenya",
+   "class": "govai",
+   "platform": "WhatsApp",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-05-gnq-africanian-dreams-hub-andge",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Africanian reports Dreams Hub, an AfriLabs member in Malabo, has La Capsula, a space dedicated to incubating entrepreneurial initiatives, with no cohort programme described.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "Dreams Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dreams Hub",
+   "country_label": "GNQ",
+   "class": "hub",
+   "platform": "",
+   "owner": "Dreams Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

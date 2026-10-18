@@ -8,6 +8,6 @@
 
 **Linked to ID.** [Intelwatch says Angola's electoral roll is "derived from the civil identity database", and that under the 2025 Law on Ex Officio Electoral Registration in-person registration is replaced by an automatic registration extracted from the identity database](<https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/>).
 
-***Noted, not assessed***. [base de dados de identidade civil](<https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/>).
+***Noted, not assessed***. [base de dados de identidade civil](<https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/>); [Bilhete de Identidade](<https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/>).
 
 ***Not held***. Nothing further is asked of this indicator.

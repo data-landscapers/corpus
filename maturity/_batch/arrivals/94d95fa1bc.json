@@ -1,0 +1,34 @@
+{
+ "slug": "2023-08-21-tcd-eisa-revision-fichier-electoral-biometrique",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "EISA reports that CONOREC launched phase one of the biometric electoral file revision on 24 July 2023 in seven southern provinces, with over 500,000 voters enrolled against a projected 400,000 (CONOREC figures).",
+       "as_of": "2023-07-24",
+       "date_precision": "day",
+       "system": "fichier électoral biométrique",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier électoral biométrique",
+       "country_label": "Tchad",
+       "class": "electoral",
+       "platform": "",
+       "owner": "CONOREC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

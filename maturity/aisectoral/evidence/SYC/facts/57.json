@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-23-syc-undp-sdglocalaction-victoria-ai-services",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "UNDP says a EUR 400,000 AI-driven customs and logistics upgrade has been implemented through the Port Victoria Management Information System, with real-time analysis of port, logistics and customs data.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Port Victoria Management Information System",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

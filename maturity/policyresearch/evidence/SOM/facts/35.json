@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-som-sidra-cybersecurity-policy-brief",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "SIDRA Institute, a Garowe-based think tank, published Policy Brief 26 on cybersecurity in Somalia by its researcher Abdi Omar Bile.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "SIDRA Institute",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIDRA Institute",
+   "country_label": "Somalia",
+   "class": "research",
+   "platform": "",
+   "owner": "SIDRA Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

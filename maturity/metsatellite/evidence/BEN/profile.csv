@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,metsat,stream,coverage,underway,2024-09-17,BEN-001,,
+BEN,metsat,warnings,coverage,,,,,nothing held
+BEN,metsat,certified,coverage,,,,,nothing held

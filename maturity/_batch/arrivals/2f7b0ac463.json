@@ -1,0 +1,34 @@
+{
+ "slug": "2020-06-21-dza-radio-algerienne-technologie-satellitaire-agriculture",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Algeria's agriculture minister and the space agency ASAL held a study day on 21 June 2020 to set a roadmap for using satellite images and maps to define farmland perimeters in the Saharan south, ASAL saying its imagery delimits cultivable land and groundwater.",
+       "as_of": "2020-06-21",
+       "date_precision": "day",
+       "system": "ASAL satellite applications for agriculture",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASAL satellite imagery",
+       "country_label": "Algeria",
+       "class": "agrisat",
+       "platform": "Algeria's three satellites",
+       "owner": "Agence spatiale algérienne (ASAL)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

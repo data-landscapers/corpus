@@ -1,0 +1,15 @@
+{
+ "slug": "2023-10-24-lbr-lastmile-ecbis-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eCBIS (electronic Community-Based Information System)",
+   "country_label": "eCBIS",
+   "class": "other",
+   "platform": "OpenSRP2 (built by Ona)",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "eCBIS serves community health workers in a pilot; it is not the national facility and district reporting system."
+}

@@ -12,6 +12,7 @@ AGO,Bilhete de Identidade,Angola,idsystem,,Ministry of Justice and Human Rights,
 AGO,Bilhete de Identidade (BI),Angola,idsystem,,Ministerio da Justica e dos Direitos Humanos,,2026-07-28-angola-cabinda-decentralised-id-card-service
 AGO,Bilhete de Identidade,Angola,idsystem,,Ministerio da Justica e dos Direitos Humanos,,2026-07-17-impressao-descentralizada-acelera-emissao-do-bi
 AGO,Bilhete de Identidade,Angola,idsystem,,Ministry of Justice and Human Rights,,2025-04-11-ago-angop-mais-15-milhoes-possuem-bi
+AGO,Bilhete de Identidade,Angola,idsystem,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 BDI,Biometric national identity card system,Burundi,idsystem,,Ministry of the Interior,,2026-05-07-burundi-unveils-biometric-national-id-awaits-law
 BDI,national digital identity system,Burundi,idsystem,,"Ministère des Finances, du Budget et de l'Economie Numérique",,2026-08-25-bdi-ppm-finances-budgetaire-2026-2027-final-docx-revise1-companion
 BDI,national digital identity system,Burundi,idsystem,,,,2026-08-11-burundi-civil-registry-digitization-biometric-id
@@ -20,6 +21,7 @@ BDI,ONPRA/UNHCR level-2 biometric refugee registration,Burundi,other,,ONPRA and 
 BDI,national biometric and digital identity card (planned),Burundi,idsystem,,Ministry of the Interior,,2026-05-14-burundi-biometric-id-card-far-from-reality
 BDI,Biometric national identity card,Burundi,idsystem,,Ministry of the Interior,,2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech
 BDI,Carte nationale d'identite biometrique,Burundi,idsystem,,Ministry of the Interior,,2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis
+BDI,digital identity system in pilot communes,Burundi,idsystem,,Ministry of Interior,,2024-07-08-bdi-abp-validation-etude-systeme-identification
 BEN,Carte nationale d'identité biométrique (ECOWAS standard),Benin,idsystem,,,,2026-06-03-carte-identite-biometrique-cedeao-medias
 BEN,ANIP identity system,Benin,idsystem,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,NPI,Benin,idsystem,,,,2026-10-03-ben-gouv-preuve-de-vie-biometrique-pensionnes
@@ -126,6 +128,7 @@ DZA,National Identity Card (biometric),Algeria,idsystem,,Ministry of Foreign Aff
 DZA,CNIBE,Carte Nationale d'identite biometrique Electronique,idsystem,,Ministry of the Interior,,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe
 DZA,Numero d'Identification National (NIN) system,DZA,idsystem,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
 DZA,Registre National Automatise de l'Etat Civil (RNAEC),DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
+DZA,carte d'identité biométrique électronique,Algeria,idsystem,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,Digital Identity (الهوية الرقمية),Egypt,idsystem,,Ministry of Communications and Information Technology,,2026-08-11-egypt-mobile-line-registration-governance
 EGY,National ID System (national number project),EGY,idsystem,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
@@ -146,6 +149,7 @@ ETH,Fayda,Ethiopia,idsystem,,NIDP,,2026-03-13-fayda-joins-sovereign-wealth-fund-
 ETH,Fayda,Ethiopia,idsystem,,,,2025-12-10 NBE launches full integration of Fayda digital ID with the banking system
 ETH,Fayda,Ethiopia,idsystem,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 ETH,Fayda,Ethiopia,idsystem,,National ID Program (NIDP),,2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda
+ETH,Fayda Digital ID,Ethiopia,idsystem,,National Identification Program,,2024-10-09-eth-ena-digital-id-registration-campaign-addis
 GAB,Carte nationale d'identité électronique (CNIE),Gabon,idsystem,,Ministry of Interior,,2026-06-03-gabon-cnie-enrolment-figures-assembly
 GAB,Gabon national digital ID system,Gabon,idsystem,,Government of Gabon,,2026-09-11-gabon-digital-id-interoperability-implementation
 GAB,National Digital Identity System,Gabon,idsystem,,ANINF,,2026-09-09-techafricanews-gabon-four-digital-projects
@@ -257,6 +261,7 @@ MDG,biometric enrolment under the civil status and identity reform (RECI),Madaga
 MDG,Unique Identifier Number (NUI),Madagascar,idsystem,,Ministry of the Interior and Decentralization,,2026-01-30-national-biometric-enrolment-begins
 MDG,National biometric enrolment programme / unique identification number,Madagascar,idsystem,PRODIGY (World Bank-funded),CNECI,,2026-05-01-mdg-undp-biometric-enrolment-nui
 MDG,Prodigy,Madagascar,idsystem,,,,2025-04-14-mdg-moov-atelier-consultation-signature-electronique
+MDG,IDMS (PRODIGY),IDMS,idsystem,,PRODIGY / Unite de Gouvernance Digitale,,2024-03-29-mdg-ugd-avis-dp028-idms-identite-unique
 MLI,E-AES biometric passport,Mali,other,Emptech,Police (Mali),,"2025-10-28 Mali Launches 'E-AES' Biometric Passport, Taps China's Emptech in Digital Sovereignty Move"
 MLI,e-Passeport AES,Mali,other,SECU-PASS Mali,Ministere de la Securite et de la Protection Civile,,2025-10-27-mali-e-passeport-aes-reprise-production-normes-oaci
 MLI,AES common biometric passport,Mali,other,,,,2025-01-27 Sahel states under military rule unveil common biometric passport Jan. 29
@@ -442,6 +447,7 @@ TGO,NIU / e-ID Togo,Togo,idsystem,,ANID,biometric card with QR code,2026-04-23-t
 TGO,e-ID Togo,Togo,idsystem,,ANID,,2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region
 TGO,MOSIP-based digital ID,Togo,idsystem,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 TGO,e-ID,Togo,idsystem,,National Identity Agency,,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange
+TGO,e-ID Togo,Togo,idsystem,,Agence nationale d'identification (ANID),,2025-02-07-tgo-rtg-identification-biometrique-savanes
 TUN,Biometric national identity card,Tunisia,idsystem,,Ministry of Interior,,2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025
 TUN,Biometric ID (chip-enabled biometric identity card),Tunisia,idsystem,,Ministry of Interior,,2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights
 TUN,Biometric Passport,Tunisia,other,,Ministry of Interior,,2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights
@@ -492,6 +498,7 @@ ZAF,smart ID,South Africa,idsystem,,Department of Home Affairs,,2026-08-05-fnb-s
 ZAF,Smart ID,South Africa,idsystem,,Department of Home Affairs,,2026-05-15-dha-highest-ever-smart-id-output-2025-26
 ZAF,Smart ID card,South Africa,idsystem,,Department of Home Affairs,,2025-11-05-zaf-pmg-nw5645-south-africans-without-ids
 ZAF,Smart ID Card,South Africa,idsystem,Live Capture,Department of Home Affairs,,2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26
+ZAF,Intelligent National Population Register,South Africa,idsystem,ABIS,Department of Home Affairs,,2025-12-14-zaf-pmg-nw7076-population-register-measures
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,INRIS,Zambia,idsystem,,"Department of National Registration, Passport and Citizenship",,2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS
@@ -500,6 +507,7 @@ ZMB,National Registration Card (NRC),Zambia,other,paper,MoHAIS,,2025-09-11 DZAP 
 ZMB,INRIS,Zambia,idsystem,,MoHAIS,,2025-09-11 DZAP World Bank PAD
 ZMB,Foundational Digital ID and CRVS core modules,Zambia,idsystem,,Smart Zambia Institute,,2025-09-09-zambia-dzap-early-market-engagement
 ZMB,national ID cards,Zambia,idsystem,,"Department of National Registration, Passport and Citizenship",,2026-05-21-zambia-ghai-crvs-budget-case-study
+ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,Ministry of Home Affairs and Internal Security,,2024-09-30-zmb-zambiamonitor-energy-crisis-stalls-inris
 ZWE,Digital ID,Zimbabwe,idsystem,,Registrar-General / Ministry of Home Affairs,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Online Border Management System (OBMS),Zimbabwe,other,Garsu Pasaulis,Department of Immigration,,2024-05-15 Zimbabwe implements biometric border posts for automating immigration processes
 ZWE,national identity documents,Zimbabwe,idsystem,,Civil Registry Department,,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services

@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-01-tcd-beac-indicateurs-inclusion-financiere-2021",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The BEAC indicator sheet puts Chad's overall rate of access to financial services (adults over 15 with an account at a credit institution, microfinance, post or mobile money, or any regulated service such as insurance) at 23% for the 2021 baseline, a computed rate not a survey of people.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Taux global d'accès aux services financiers",
+   "class": "other"
+  }
+ ],
+ "systems": [],
+ "note": "The 23% is a BEAC computed access rate including insurance, not a survey; the Findex figures in the sheet are regional or scrambled and not clearly Chad's."
+}

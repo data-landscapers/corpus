@@ -1,0 +1,26 @@
+{
+ "slug": "2013-05-06-lso-fig-reforming-land-administration-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Land Administration Authority's Director General says a Lease Management System and land information system, built from FAO's SOLA software, is in development; the 1990s digital cadastre is incomplete and error-strewn.",
+   "as_of": "2013-05",
+   "date_precision": "month",
+   "system": "Lease Management System and land information system (SOLA)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lease Management System and land information system",
+   "country_label": "Lesotho",
+   "class": "land",
+   "platform": "FAO SOLA",
+   "owner": "Land Administration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

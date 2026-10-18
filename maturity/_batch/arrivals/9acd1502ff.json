@@ -1,0 +1,128 @@
+{
+ "slug": "2024-07-01-sle-farmerline-mocti-mou-krio-language-model",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Farmerline says a five-year MoU signed with the Ministry of Communication, Technology and Innovation on 12 June 2024 commits it to use high-resolution satellite imagery for boundary delineation, tree counting, deforestation tracking and monitoring illegal mining, for better decisions in agriculture.",
+       "as_of": "2024-06-12",
+       "date_precision": "day",
+       "system": "Farmerline-MoCTI satellite imagery work",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Sierra Leone."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a company's farmer chatbot and IVR are named, with no government body using them."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The Krio AI Agronomist is Farmerline's own product with no public body named as user; the farmer registry app is not stated to use AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Farmerline says its five-year MoU of 12 June 2024 with the Ministry of Communication, Technology and Innovation commits it to develop language and speech models (speech recognition, text-to-speech) for Sierra Leone's agricultural sector, and it claims a first-of-its-kind Krio language model.",
+       "as_of": "2024-06-12",
+       "date_precision": "day",
+       "system": "Krio language model (Farmerline)",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Krio language model, Darli AI and Krio AI Agronomist",
+       "country_label": "Sierra Leone",
+       "class": "other",
+       "platform": "IVR and WhatsApp",
+       "owner": "Farmerline Group",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Sierra Leone."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a one-off workshop and challenge with universities is described, which the study excludes."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this for Sierra Leone."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Farmerline says the government has launched the Modern Tech City project, aimed at fostering innovation and providing an environment for startups and tech entrepreneurs.",
+       "as_of": "2024-07-01",
+       "date_precision": "day",
+       "system": "Modern Tech City",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

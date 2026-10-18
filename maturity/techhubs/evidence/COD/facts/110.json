@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-10-cod-ecofin-silikin-village-interview",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Silikin Village in Kinshasa, backed by the Texaf Group, says it has supported over 300 project leaders and entrepreneurs in five years and is launching the 'Grow & Help Grow' acceleration programme, whose first cohort of five tech entrepreneurs will run nine months.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Silikin Village",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Silikin Village",
+   "country_label": "DRC",
+   "class": "hub",
+   "platform": "",
+   "owner": "Texaf Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

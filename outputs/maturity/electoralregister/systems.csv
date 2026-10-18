@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,caderno eleitoral,Angola,electoral,,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
 AGO,base de dados de identidade civil,Angola,other,,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
+AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 BDI,electoral database,Burundi,electoral,,CENI,,2026-09-03-bdi-2027-presidential-election-more-than-one-million-new-voters
 BEN,Registre national des personnes physiques,Benin,other,,Anip,,2026-07-16-adjinacou-maternite-identite-legale
 BEN,Fichier electoral,Benin,electoral,,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
@@ -18,12 +19,17 @@ CMR,national voter register,Cameroon,electoral,biometric (fingerprints and facia
 COD,fichier électoral (RFE 2022),DRC,electoral,,CENI,,2026-03-15-actualite-non-execution-feuille-route-ceni
 COD,fichier électoral,DRC,electoral,,CENI,,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite
 COG,NIU (numero d'identification unique),Congo,other,,police data collection section,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
+COG,liste électorale,Congo,electoral,manual lists,Ministère de l'intérieur et de la décentralisation,,2025-09-04-cog-horizonafricain-revision-listes-electorales
+COM,Fichier électoral biométrique,Comoros,electoral,biometric (fingerprints and facial image); National Electoral Data Processing Centre (CNTDE),Ministry of the Interior,,2015-01-01-com-undp-modernisation-fichier-electoral-biometrique
 CPV,base de dados eleitoral (created 2007),Cabo Verde,electoral,computerised management system,CNE,,2024-12-19-cne-nova-base-de-dados-eleicoes-2026
 CPV,BDRE,Cabo Verde,electoral,,,,2024-01-01-rediaspora-diaspora-electoral-registration
 CPV,SIGE,Cabo Verde,electoral,,,,2024-01-01-rediaspora-diaspora-electoral-registration
 CPV,SNIAC,Cabo Verde,other,,,,2024-01-01-rediaspora-diaspora-electoral-registration
 CPV,Portal Consular,Cabo Verde,other,,DGAPE,,2024-01-01-rediaspora-diaspora-electoral-registration
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
+DJI,Fichier électoral national,Djibouti,electoral,,"Direction des Elections, Ministry of the Interior",,2016-01-21-dji-jo-decret-2016-019-listes-electorales
+DZA,ANIE plateforme numérique de révision et de suivi des listes électorales,Algérie,electoral,online platform with central database,ANIE,pilot in Oran,2025-10-28-dza-ouest-tribune-anie-plateforme-numerique-listes
+EGY,National Elections Authority voter database,Egypt,electoral,,National Elections Authority,,2025-09-19-egy-elwatannews-nea-voter-database-national-id
 ETH,Mirchaye,Ethiopia,electoral,"web and mobile app, plus Board tablets",National Election Board of Ethiopia,,2026-01-05-nebe-mirchaye-voter-registration-system
 ETH,Fayda,Ethiopia,other,,,,2026-01-05-nebe-mirchaye-voter-registration-system
 GAB,biometric voter registration,Gabon,electoral,biometric,,,2025-01-31-cameroon-gabon-uganda-biometric-voter-registers-integrity-biometricupdate
@@ -45,15 +51,24 @@ LBR,NEC voter registration system,Liberia,electoral,biometric voter registration
 LBR,National Identification Registry (NIR),Liberia,other,biometric national ID,National Identification Registry,,2025-06-01-nir-relevance-national-special-elections
 LBY,HNEC electronic voter verification,Libya,electoral,biometric devices at election centres,National High Electoral Commission (HNEC),"municipal pilot, four municipalities",2024-08-19 Libya implements biometric voter verification in municipal council elections
 LSO,Voter Registration Management System,LSO,electoral,outsourced software; IEC holds no source key,Independent Electoral Commission,,2024-01-01-lso-undp-voter-registration-roundtable
+LSO,Electoral Management Information System,Lesotho,electoral,,Independent Electoral Commission,,2024-10-23-lso-lestimes-iec-emis-tender-battle
+LSO,IEC online voter registration portal,Lesotho,electoral,IEC website,Independent Electoral Commission,,2024-10-16-lso-publiceye-iec-re-registration-national-id
+LSO,Mobile Registration Unit,Lesotho,electoral,,Independent Electoral Commission,,2024-01-01-lso-comsec-cog-report-lesotho-general-elections-2022
+MAR,www.listeselectorales.ma,Morocco,electoral,,Ministry of the Interior,,2026-03-13-mar-adala-arrete-503-26-site-listes-electorales
 MDG,liste électorale,Madagascar,electoral,,CENI,,2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027
 MDG,liste électorale,Madagascar,electoral,,CENI,,2025-11-17-pmo-pge-r-programme-refondation
 MLI,Elector mobile,Mali,electoral,mobile software,AIGE,,2026-02-04-mali-aige-formation-elector-mobile
 MLI,www.ralemali.ml,Mali,other,online transfer platform,Ministere de l'Administration territoriale et de la Decentralisation,,2025-09-19-mali-revision-annuelle-listes-electorales-2025
+MOZ,Recenseamento eleitoral biometrico (STAE mobile biometric registration kits),Mocambique,electoral,mobile biometric kits with registration software and PVC voter card printers,"STAE, under CNE supervision",,2023-09-01-moz-cip-relatorio-observacao-recenseamento-2023
+MOZ,biometric voter registration,Mozambique,electoral,biometric registration systems bought from a Artes Graficas and Laxton consortium,CNE / STAE,,2025-09-01-moz-comsec-cog-report-elections-2024
+MUS,electoral register,Mauritius,electoral,electoral.govmu.org online search and SMS 789,Electoral Commissioner's Office,,2024-05-21-mus-defimedia-liste-electorale-verifier-inscrire
 NAM,Provisional Voters' Register,Namibia,electoral,central server with Automatic Fingerprint Identification System (AFIS),Electoral Commission of Namibia,,2024-08-05-well-done-majority-of-namibians-registered-to-vote
 NAM,Voter Registration Kit (VRK) and voters roll,Namibia,electoral,central server with fingerprint matching,Electoral Commission of Namibia,,2024-01-01-faq-electoral-commission-of-namibia
 NGA,National Register of Voters,Nigeria,electoral,Automated Biometric Identification System (ABIS),INEC,,2026-10-05-nga-vanguard-inec-voter-register-103-million
 NGA,national voter register,Nigeria,electoral,continuous voter registration portal,INEC,,2026-09-15-nga-thecabal-inec-nin-integration-national-voter-register
+RWA,amatora.nec.gov.rw,Rwanda,electoral,,National Electoral Commission,,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration
 SEN,ECOWAS biometric ID card,Senegal,other,,,,2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration
+SLE,voter register,Sierra Leone,electoral,,Electoral Commission for Sierra Leone,,2023-01-01-sle-eueom-final-report-general-elections
 SOM,digital voter registration equipment,Somalia,electoral,,National Electoral Commission,,2025-03-18 Somalia's Electoral Commission unveils digital voter registration equipment
 STP,Caderno eleitoral,STP,electoral,,Comissao Eleitoral Nacional,,2026-07-31-eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados
 STP,sistema de recenseamento automático e permanente,Sao Tome and Principe,electoral,,PReSE,,2026-02-06-stp-pronto-novo-sistema-recenseamento-eleitoral
@@ -71,6 +86,11 @@ SWZ,EBC biometric voter registration,Eswatini,electoral,biometric capture,Electi
 SWZ,Continuous Voter Registration,Eswatini,electoral,computers and biometric capture,Elections and Boundaries Commission,,2026-09-11-swz-positivenews-biometric-voter-registration
 SWZ,Optimal Mark Recognition (OMR) System,Eswatini,electoral,OMR,Elections and Boundaries Commission,,2026-08-29-ebc-electoral-process
 SYC,voters' register,Seychelles,electoral,,Electoral Commission of Seychelles,,2026-01-01-ecs-voter-registration-faq
+SYC,Online Voter Registration,Seychelles,electoral,ecs.sc,Electoral Commission of Seychelles,,2025-07-14-syc-nation-ecs-encourages-online-registration
+TCD,fichier électoral biométrique,Tchad,electoral,,CONOREC,,2023-08-21-tcd-eisa-revision-fichier-electoral-biometrique
+TGO,biometric kits for electoral list revision,Togo,electoral,ZETES/SNEDAI,CENI,,2025-03-22-tgo-atop-revision-listes-kits-biometriques
+TUN,ISIE voter register update (touenssa.isie.tn),Tunisia,electoral,,ISIE,,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour
+TUN,Registre des électeurs,Tunisia,electoral,database kept by the electoral body,ISIE,,2014-05-26-tun-legislationsecurite-loi-organique-2014-16-elections
 TZA,permanent voter register,Tanzania,electoral,,Independent National Electoral Commission (INEC),,2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers
 UGA,National Voters Register,Uganda,electoral,,Electoral Commission,,2026-01-15-ec-guidance-verification-voters-polling-stations
 UGA,Biometric Voter Verification Kits (BVVKs),Uganda,other,,Electoral Commission,,2026-01-15-ec-guidance-verification-voters-polling-stations

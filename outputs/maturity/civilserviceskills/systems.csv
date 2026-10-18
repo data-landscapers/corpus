@@ -13,6 +13,8 @@ CMR,AILGLES,Cameroon,other,biometric payroll system,Ministry of Public Service,,
 CMR,GOV-AI,Cameroon,other,nGomna app,"CENADI, Ministry of Finance",,2025-07-09-dgb-gov-ai-cenadi-intelligence-artificielle-gouvernementale
 COD,ENCORE biometric civil service registry,DR Congo,other,biometric civil service registry,Ministry of Civil Service and COREF,,2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate
 COD,digital directory of civil servants,DR Congo,other,,Ministry of Civil Service,central government and Kinshasa province,2025-07-17 DR Congo launches digital civil servant registry to tackle ghost workers (ENCORE)
+COG,ACSI programme de formations en secretariat et bureautique,Congo,csskills,,Agence Congolaise des Systemes d'Information,,2026-03-01-cog-acsi-competences-numeriques-agents-dgcpp
+COG,PATN (Projet d'acceleration de la transformation numerique),Congo,csskills,training centre at the Brazzaville Chamber of Commerce,"Ministry of Posts, Telecommunications and Digital Economy, World Bank financed",,2024-08-31-cog-adiac-patn-agents-publics-bases-donnees
 COM,PAGF-SI,Projet d'Appui a la Gouvernance Financiere - Systeme d'Information,other,,"Ministere des Finances, du Budget et du Secteur Bancaire",,2023-12-07-com-afd-pagf-si-systeme-information
 CPV,WebLab,Cabo Verde,other,,,,2024-01-01-nosi-operational-nucleus-information-society
 DJI,Oracle University MyLearn,Djibouti,csskills,Oracle MyLearn,Ministry of Digital Economy and Innovation,national,2025-02-24-digital-skills-program-govt-officials-wearetech
@@ -22,29 +24,45 @@ EGY,MCIT-Labour MoU capacity-building programmes,Egypt,csskills,,MCIT and Minist
 EGY,AI Ambassadors Program,Egypt,csskills,,NTI with State Lawsuits Authority,,2026-09-01-mcit-egypt-nti-sla-cooperation-protocol
 ETH,Digital Financial Literacy campaign,Ethiopia,csskills,in-person training,Ministry of Innovation and Technology (MInT) with UNCDF,national,2026-04-07-uncdf-closing-digital-finance-gap-women-civil-servant
 GAB,DGPE digital training session (DigieWomen School),Gabon,csskills,in-person course,Direction générale du patrimoine de l'État,,2025-10-19-dgpe-300-agents-formes-ia-cybersecurite-informatique
+GAB,RCAPE,Gabon,csskills,,Centre Gabonais de l'Innovation,,2026-09-07-gab-agp-cgi-agents-communication-ia
 GHA,AI capacity-building programme for public-sector officials,Ghana,csskills,,"Government of Ghana with UNESCO, UNDP, Japan",,2026-08-20-tan-ghana-national-ict-week
 GIN,Académie Nationale du Numérique de Guinée (ANNG),Guinea,csskills,,ANDE,,2026-09-23-gin-africaguinee-ande-academie-numerique-wardip
 GIN,FUGAS (Unique Administrative and Payroll Management Platform),Guinea,other,biometric payroll verification,Ministry of Labour and Public Service,,2025-12-03 Guinea launches biometric system to weed out 'ghost' public workers (FUGAS)
 GIN,Simandou Academy,Guinea,other,,,,2025-11-18-smart-africa-ai-dpi-initiatives-single-market
+GMB,Smart Africa Digital Academy (SADA) The Gambia,The Gambia,csskills,,Ministry of Communications and Digital Economy with Smart Africa,,2025-12-17-gmb-techafrica-smart-africa-digital-academy
 GNB,Computer Course: Digital Literacy Applied to the Professional Context,Guinea-Bissau,csskills,Kolibri,"+Digit@l / Justisa pa Tudu Djintis (Government, UNDP)",,2026-07-01-undp-guinea-bissau-newsletter-apr-jun-2026-digital-skills-justice
 GNB,+Digit@l Project,Guinea-Bissau,csskills,,UNDP with ITMA (Technological Institute for Administrative Modernization),,2026-02-01-guinebissau-undp-newsletter-oct-dec-2025
 GNB,SIGRHAP,Guinea-Bissau,other,,,,2025-11-13-worldbank-gnb-reform-advancement-dpf-isr
 GNQ,SIGF (Sistema Integral de Gestión de Funcionarios),Equatorial Guinea,other,civil-service management system,Secretaría General del Gobierno,,2026-08-26-lagdeguinea-sigf-modernizar-administracion-publica
+GNQ,"INAP plan de formacion, capacitacion y reciclaje",INAP training plan,csskills,,INAP / Ministerio de la Funcion Publica,two blocks: public administration; personal skills incl. basic digital,2025-01-29-gnq-guineaecuatorialpress-plan-formacion-funcionarios
 KEN,eLearning and Information Technology Institute (eLITI),Kenya,csskills,,Kenya School of Government,,2026-10-13-ken-techafricanews-ksg-eliti-ai-training
 KEN,UNESCO-Oxford Programme on Artificial Intelligence and Digital Transformation in Government,Kenya,csskills,,Kenya School of Government,,2026-10-13-ken-techafricanews-ksg-eliti-ai-training
+KEN,Africa Centre of Competence for Digital and AI Skilling,Kenya,csskills,,Kenya School of Government,"Foundations, Application, Management, Leadership",2025-08-13-ken-undp-validates-training-blueprint-public-service
+KEN,AI skilling programme,Kenya,csskills,KSG eLearning Information and Technology Institute,Kenya School of Government,,2025-06-03-ken-mps-ai-training-public-servants
+KEN,Africa Centre of Competence for Digital and AI Skilling,Kenya,csskills,,Kenya School of Government,,2024-12-06-ken-undp-africa-centre-competence-digital-ai-skilling
+KEN,PSC data protection and cybersecurity capacity-building programme,Kenya,csskills,,Public Service Commission with Mozilla and AFRALTI,,2024-07-12-ken-psc-certifies-141-data-protection-cybersecurity
+LSO,Cyber Security Training workshop,Lesotho,csskills,,MICSTI,,2023-08-17-lso-govls-cyber-security-training-government-officials
 MAR,ENA-ADD partnership,Morocco,csskills,,National School of Administration (ENA) and Digital Development Agency (ADD),,2026-09-23-mar-7news-ena-add-digital-partnership
 MLI,SIGRH,Mali,other,,Ministere de la Refondation de l'Etat,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
+MLI,gouv.ml,Mali,other,government email,AGETIC,,2022-09-15-mli-bamada-agetic-formation-messagerie-gouvernementale
+MOZ,INAGE,Instituto Nacional do Governo Electronico,other,,MCTES,,2024-01-08-moz-noticias-funcionarios-publicos-formados-tic
+MOZ,GovNet Plus,Mozambique,csskills,,INAGE,district administrations,2024-03-04-moz-aics-govnet-plus-encerramento-formacao-tic
 MRT,Centre de Formation et d'Echange a Distance,Mauritania,csskills,,Ministry of Digital Transformation and Modernisation of the Administration,,2025-12-15-ami-programme-formation-cybersecurite-ia-300-fonctionnaires
 MRT,Temekoun,Mauritania,csskills,national platform,MTNIMA,,2024-06-10-mtnima-plateforme-nationale-temekoun-competences-numeriques-fonction-publique
+MUS,Digital Transformation for Organisational Excellence Programme,Mauritius,csskills,classroom courses,Atal Bihari Vajpayee Institute of Public Service and Innovation,four levels by grade,2025-01-01-mus-aipsi-digital-transformation-organisational-excellence
+MUS,Digital Leadership Training,Mauritius,csskills,,"Ministry of Information Technology, Communication and Innovation",,2025-06-23-mus-mpsar-e-newsletter-public-service-day
 MWI,Inclusive Digital Transformation for Malawi (IDT4M),Malawi,other,,UNDP / University of Malawi,,2026-08-13-unima-trains-police-officers-computer-skills
 NAM,NIPAM-Global Cybersecurity Centre partnership,Namibia,csskills,,Namibia Institute of Public Administration and Management,,2026-06-09-nipam-global-cybersecurity-centre-partnership-techafricanews
 NAM,NIPAM AI courses for civil servants,Namibia,csskills,,Namibia Institute of Public Administration and Management,"executive directors and senior management first, then frontline staff",2026-05-15-namibia-nipam-ai-training-civil-servants
 NER,SIGRHEP,Niger,other,,"Ministere de la Fonction publique, du Travail et de l'Emploi",,2026-07-31-niger-sigrhep-biometrie-fonction-publique
+NER,GED platform training,Niger,csskills,,ANSI,,2025-07-24-ner-lesahel-formation-justice-gestion-electronique-documents
+NER,Gestion Electronique du Courrier (GEC),Niger,other,,ANSI,,2025-12-01-ner-ansi-175-cadres-maec-formes-gec-messagerie
 NGA,BDIC digital skills program,"Benue State, Nigeria",csskills,,Benue Digital Infrastructure Company (BDIC),state and local government,2025-07-29-benue-bdic-digital-infrastructure-briefing
 NGA,Benue State civil servant digital training,Nigeria (Benue State),csskills,,Benue State Government,state,2025-03-26-benue-40000-civil-servants-training
 NGA,NITDA and Office of the Head of the Civil Service digital skills training,Nigeria,csskills,,NITDA; Office of the Head of the Civil Service,,2026-09-20-techtrends-digital-skills-gap-national-security-africa
 NGA,National Digital Literacy Framework,Nigeria,other,,NITDA,,2026-09-20-techtrends-digital-skills-gap-national-security-africa
 RWA,Chidi,Rwanda,csskills,Claude-powered learning companion (with ALX),"Government of Rwanda, Anthropic, ALX",,"2026-03-04 Rwanda–Anthropic AI deal targets health, education gains"
+SDN,Northern State information centre ICT courses,Sudan,csskills,,Northern State government,state,2026-10-15-sdn-suna-northern-state-capacity-building-digital-courses
 SEN,Force-N Sénégal public servants digital skills programme,Senegal,csskills,,"Ministry of Public Service, Labour and Public Service Reform",,2026-09-11-senegal-public-sector-digital-skills-programme
 SEN,National Digital Training Plan for Civil Servants,Senegal,csskills,,"Ministry of Public Service, Labour and Public Sector Reform",national,2026-09-11-techafricanews-senegal-digital-training-plan-civil-servants
 SEN,Plan national de formation numérique,Sénégal,csskills,,Government of Senegal,,2026-09-11-wearetech-senegal-plan-national-formation-administration-numerique
@@ -59,6 +77,8 @@ SLE,Enterprise Architecture and Digital Service Standards training,Sierra Leone,
 SLE,Digital Skills Training Programme for Civil Servants,Sierra Leone,csskills,,"Ministry of Communication, Technology and Innovation",,2026-02-05-sierra-leone-mocti-tieac-inaugural-meeting
 SLE,Qhala AI training programme for civil servants,Sierra Leone,csskills,,Government of Sierra Leone with Qhala,,2025-10-07 Sierra Leone Turns to AI to Modernize Public Services
 SLE,Digital Learning Hubs,Sierra Leone,csskills,,"Directorate of Science, Technology, and Innovation",regional,2025-07-01-dsti-police-partner-to-digitise-human-resource-processes
+SOM,Website development training program,Somalia,csskills,,Ministry of Communications and Technology,,2024-06-22-som-moct-website-development-training-molsa
+SOM,NCA Cybersecurity Certification Training Program,Somalia,csskills,online and Nairobi,National Communications Authority,,2026-03-29-som-nca-cybersecurity-certification-training-government
 SSD,Digital Innovation for Skills and Knowledge (DISK) Program,South Sudan,csskills,Digital Skills Centres,Central Equatoria State Ministry of Information and Communication with Scenius Hub,state,2026-08-03-disk-programme-central-equatoria-digital-skills
 SSD,Digital Innovation for Skills and Knowledge (DISK) programme,South Sudan (Central Equatoria State),csskills,,Central Equatoria State Ministry of Information and Communication,state,2026-07-30-central-equatoria-digital-skills-programme-8000
 SSD,bank-linked digital payment system for passports and national ID,South Sudan,other,"commercial bank invoice and receipt linked to immigration database, EU-supported",National Revenue Authority,,2026-01-19 South Sudan introduces digital payment system for passports after supply crisis
@@ -69,6 +89,13 @@ SWZ,EIMPA cybersecurity training,Eswatini Institute of Management and Public Adm
 SYC,First Capacity Building Programme for the Civil Servants of Seychelles,Seychelles,csskills,"National Centre for Good Governance, India (Mussoorie and New Delhi)",NCGG with Public Service Bureau of Seychelles,,2026-06-10-nationalassembly-first-capacity-building-programme
 SYC,First Capacity Building Programme for the Civil Servants of Seychelles,Seychelles,csskills,"National Centre for Good Governance, India",NCGG with Public Service Bureau of Seychelles,,2026-05-12-ncgg-pib-seychelles-capacity-building-cohort
 TCD,Chad Digital Transformation Project,Chad,other,,,,2024-09-25-worldbank-chad-digital-transformation-project-broadband
+TCD,ADETIC-2iE framework accord,ADETIC-2iE framework accord,csskills,,ADETIC,,2025-07-31-tcd-wearetech-adetic-2ie-former-cadres-numerique
 TGO,Data Ambassadors Program,Togo,csskills,Togo Data Lab,Ministry of Public Service Efficiency and Digital Transformation (MESPTN) with CEGA,,2025-12-03-togo-data-lab-expansion-google-org-cega
 TZA,Zanzibar AI and cybersecurity capacity-building programme,Zanzibar,csskills,Emerson Education Institute classes,"Ministry of Communications, Information Technology and Innovation",,2026-08-17-tanzania-zanzibar-ai-cybersecurity-capacity-mou
 TZA,ICT Competency Standards for Teachers in Tanzania (ICT-CSTT),Tanzania,other,,"MoEST, TIE with UNESCO","Beginner, Intermediate, Advanced",2026-09-05-dailynews-tanzania-digital-education-teacher-training
+UGA,MoICT&NG ICDL digital skills training,Uganda,csskills,ICDL framework,Ministry of ICT and National Guidance,national,2025-06-02-uga-moict-government-communicators-icdl-training
+UGA,Digital Literacy and Skilling Training,Digital Literacy and Skilling Training,csskills,"online, WhatsApp group, virtual classroom",Ministry of ICT and National Guidance,,2025-05-07-uga-moict-digital-literacy-local-government-officers
+UGA,UICT Government officer training,Uganda,csskills,,Uganda Institute of Information and Communications Technology,,2025-09-01-uga-mofped-digital-transformation-monitoring-fy2024-25
+ZAF,NSG free online digital training programmes,NSG online digital courses,csskills,online,National School of Government,"AI fluency, cyber awareness, mobile digital literacy, facilitation",2025-08-15-zaf-pmg-nw4757-nsg-digital-skills-public-servants
+ZAF,NSG Learner Management Platforms,South Africa,csskills,NSG Learner Management Platforms,National School of Government,,2025-04-01-zaf-dpsa-digital-skills-microsoft-nsg-agreement
+ZAF,National AI Skilling Initiative,South Africa,csskills,,National School of Government,,2025-11-01-zaf-nsg-annual-report-2024-25

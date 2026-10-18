@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-sen-arcop-appel-le-clic-de-la-transparence",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ARCOP says it inaugurated the APPEL electronic public procurement platform on 14 October 2025, where tender notices are published, tender files sent to the DCMP and bids submitted online.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "APPEL",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL",
+   "country_label": "Senegal",
+   "class": "procurement",
+   "platform": "e-procurement platform",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

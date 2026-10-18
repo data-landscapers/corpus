@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-01-egy-ahramonline-new-alamein-real-estate-registry-complex",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Ahram Online reports the Real Estate Registration and Notarization Authority's New Alamein office, linked by a G2G digital hub to the New Urban Communities Authority, lets all text, digital, spatial and licensing data on land and units in the new communities be retrieved under Law 177 of 2022.",
+       "as_of": "2025-01-01",
+       "date_precision": "year",
+       "system": "Real Estate Registry and Notarization Authority G2G integration",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Real Estate Registry and Notarization Authority G2G integration",
+       "country_label": "Egypt",
+       "class": "land",
+       "platform": "G2G digital hub",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about the real estate registry, not civil registration."
+    }
+   }
+  }
+ }
+}

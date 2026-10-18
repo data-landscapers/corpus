@@ -1,0 +1,26 @@
+{
+ "slug": "2016-05-01-moz-imf-fad-iva-administracao-tributaria",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The IMF mission says the e-Tributacao e-declaracao tool lets taxpayers with credentials file returns online and obtain a GARE reference to pay at one of two protocol banks, though only two of thirteen banks offer it and only twelve taxpayers use it.",
+   "as_of": "2016-05",
+   "date_precision": "month",
+   "system": "e-Tributacao (e-declaracao)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tributacao",
+   "country_label": "Mozambique",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Autoridade Tributaria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

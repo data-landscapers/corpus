@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA reports 21.12 million national IDs printed, 20.08 million issued and 25.48 million people registered, as of May 2025.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

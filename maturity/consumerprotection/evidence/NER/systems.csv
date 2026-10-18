@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NER,Observatoire de la Qualité des Services Financiers (OQSF-NE),Niger,other,,Niger,,2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03-tgo-justice-tgi-lome-paiement-numerique",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "The justice ministry says the new online portal of the Tribunal de Grande Instance de Lomé, launched 2 July 2026, lets litigants, lawyers and bailiffs follow the progress of procedures remotely.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Portail des services en ligne du TGI de Lomé",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail des services en ligne du TGI de Lomé",
+   "country_label": "Togo",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministère de la Justice et des Droits Humains",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

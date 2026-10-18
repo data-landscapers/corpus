@@ -1,0 +1,34 @@
+{
+ "slug": "2021-09-17-ner-aniamey-mediateur-plateforme-reclamations",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Mediator of the Republic launched on 16 September 2021 an online platform to receive and track citizens' complaints about the administration; no case numbers are given.",
+       "as_of": "2021-09-16",
+       "date_precision": "day",
+       "system": "Mediator complaints platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mediator complaints platform",
+       "country_label": "Niger",
+       "class": "feedback",
+       "platform": "online platform",
+       "owner": "Mediateur de la Republique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

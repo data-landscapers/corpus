@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-09-gmb-standard-ceesay-govt-building-capacities",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Minister Ceesay said government is working on a one-stop-shop government service platform, starting with ID card application, birth certificate, business registration, passport and driver's licence applications, through an app.",
+   "as_of": "2024-09-09",
+   "date_precision": "day",
+   "system": "one-stop-shop government service platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "one-stop-shop government service platform",
+   "country_label": "Gambia",
+   "class": "eservices",
+   "platform": "app",
+   "owner": "Government of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

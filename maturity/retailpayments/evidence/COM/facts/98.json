@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-21-com-pfss-tms-55000-menages-mobile-banking",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The PFSS-RRC names Mvula and Huri Money as mobile-banking operators that make the transfer payments to households in Comoros.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "Mvula and Huri Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

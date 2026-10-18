@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-03-sen-aps-taux-inclusion-financiere-83",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "OQSF mediator Banda Diop welcomes the rapid growth of digital services and the strong take-up by the population of electronic money solutions in Senegal.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "electronic money solutions",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "instant payment platform operating 24h/24",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

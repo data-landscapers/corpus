@@ -1,0 +1,25 @@
+{
+ "slug": "2022-01-18-dji-anph-convention-ansie-tic",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "ANPH and ANSIE signed a convention to lift obstacles faced by disabled people through ICT and to move toward an information system for the disability field in Djibouti, with ANSIE hosting ANPH's systems.",
+       "as_of": "2022-01-18",
+       "date_precision": "day",
+       "system": "ANPH-ANSIE convention",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

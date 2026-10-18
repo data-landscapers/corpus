@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-04-sle-sierraloaded-wangov-app-launch",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Technology and Innovation launched the WanGov app, where users apply for services, submit documents, track applications and pay, with business registration, tax filings and permits, driver's licences and EDSA meter installations named and more to be added.",
+   "as_of": "2025-02-04",
+   "date_precision": "day",
+   "system": "WanGov",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WanGov",
+   "country_label": "Sierra Leone",
+   "class": "eservices",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

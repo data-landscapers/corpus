@@ -2,30 +2,30 @@ iso3,stage,use,bodies,rules,stage_sources
 AGO,2,underway,,,AGO-001
 BDI,no evidence,,,,
 BEN,5,inservice,several,rules,BEN-001
-BFA,no evidence,,,,
+BFA,2,underway,,,BFA-001;BFA-002
 BWA,2,underway,,,BWA-001
 CAF,no evidence,,,,
 CIV,3,inservice,,,CIV-002;CIV-001
 CMR,3,inservice,,,CMR-001;CMR-002
 COD,2,underway,,,COD-001
-COG,no evidence,,,,
+COG,2,underway,,,COG-001
 COM,no evidence,,,,
-CPV,2,underway,,,CPV-001
-DJI,no evidence,,,,
-DZA,no evidence,,,,
+CPV,3,inservice,,,CPV-002
+DJI,2,underway,,,DJI-001
+DZA,3,inservice,,,DZA-001
 EGY,4,inservice,several,,EGY-002
 ERI,no evidence,,,,
-ETH,no evidence,,,,
-GAB,no evidence,,,,
+ETH,2,underway,,,ETH-001
+GAB,3,inservice,,,GAB-001
 GHA,3,inservice,,,GHA-002;GHA-001
 GIN,2,underway,,,GIN-001
-GMB,no evidence,,,,
+GMB,3,inservice,,,GMB-002
 GNB,no evidence,,,,
-GNQ,no evidence,,,,
-KEN,2,underway,,,KEN-001
+GNQ,3,inservice,,,GNQ-001
+KEN,3,inservice,,,KEN-002
 LBR,3,inservice,,,LBR-001
-LBY,no evidence,,,,
-LSO,no evidence,,,,
+LBY,unplaced,,,,
+LSO,2,underway,,,LSO-001
 MAR,3,inservice,,,MAR-002
 MDG,3,inservice,,,MDG-001
 MLI,no evidence,,,,
@@ -33,18 +33,18 @@ MOZ,no evidence,,,,
 MRT,2,underway,,,MRT-001
 MUS,2,underway,,,MUS-003;MUS-004
 MWI,no evidence,,,,
-NAM,no evidence,,,,
+NAM,3,inservice,,,NAM-001;NAM-002
 NER,4,inservice,several,,NER-002
 NGA,3,inservice,,,NGA-001;NGA-002
 RWA,no evidence,,,,
 SDN,no evidence,,,,
-SEN,no evidence,,,,
-SLE,no evidence,,,,
+SEN,3,inservice,,,SEN-002
+SLE,2,underway,,,SLE-001
 SOM,no evidence,,,,
 SSD,no evidence,,,,
 STP,2,underway,,,STP-001
 SWZ,no evidence,,,,
-SYC,no evidence,,,,
+SYC,2,underway,,,SYC-001
 TCD,no evidence,,,,
 TGO,no evidence,,,,
 TUN,2,underway,,,TUN-001
@@ -52,4 +52,4 @@ TZA,2,underway,,,TZA-001
 UGA,3,inservice,,,UGA-001
 ZAF,3,inservice,,,ZAF-001;ZAF-002
 ZMB,no evidence,,,,
-ZWE,no evidence,,,,
+ZWE,2,underway,,,ZWE-001

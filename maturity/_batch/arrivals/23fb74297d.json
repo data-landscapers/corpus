@@ -1,0 +1,34 @@
+{
+ "slug": "2022-07-31-gnq-africanian-dreams-hub-incubator-opens",
+ "studies": {
+  "techhubs": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Africanian reports Dreams Hub in Malabo opened its incubation and accelerator office LA CAPSULA, with the three TotalEnergies Startupper Challenge winners as the first cohort.",
+       "as_of": "2022-07-30",
+       "date_precision": "day",
+       "system": "Dreams Hub LA CAPSULA",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dreams Hub",
+       "country_label": "Equatorial Guinea",
+       "class": "hub",
+       "platform": "",
+       "owner": "Dreams Hub Research and Innovation Center",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

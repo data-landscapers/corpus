@@ -1,0 +1,12 @@
+{"slug": "2025-07-10-lby-lana-wife-children-grant-civil-registry-link", "studies": {
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The link is between a social grant and the Civil Status Authority, not between the civil register and an ID system."}}},
+"civilregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says nothing about digital registration of births or deaths."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says nothing about an ID number at birth."}}},
+"landregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Not about land."}}},
+"registry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Does not say how local offices enter events."}}},
+"socialexchange": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "On 10 July 2025 Libya's Ministry of Social Affairs (Minister Wafaa al-Kilani) followed up activation of the electronic link of the wife-and-children grant project, built with the Civil Status Authority, to keep data accurate and stop delays and duplicate payments.", "as_of": "2025-07-10", "date_precision": "day", "system": "Wife and Children Grant electronic link", "class": "exchange"}
+], "systems": [{"system": "Wife and Children Grant project", "country_label": "Libya", "class": "other", "platform": "", "owner": "Ministry of Social Affairs", "tiers": ""}], "note": ""}}},
+"socialprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Names no programme management information system, only a grant project's database link."}}},
+"socialregistry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Names no social registry; the link is for one grant programme."}}}
+}}

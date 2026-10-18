@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-04-mrt-worldbank-saspp-country-work-mauritania",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The World Bank says the project supports developing and piloting a strategy for continuous updating of Mauritania's social registry so households, including refugees, can register or update data at any time.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Registre social",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

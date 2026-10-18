@@ -1,0 +1,8 @@
+{"slug": "2026-07-14-bdi-primature-rppcub-2026-launch", "studies": {
+"censuses": {"countries": {"BDI": {"facts": [], "systems": [{"system": "RPPCUB 2026", "country_label": "RPPCUB 2026 (urban property-owner census)", "class": "other", "platform": "", "owner": "INSBU with DTFCN", "tiers": ""}], "note": "The RPPCUB is a census of urban property owners, not a population and housing census or household survey."}}},
+"landadmin": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document describes an owner enumeration to build a register, with no land information system processing transactions, joining maps or valuation, or linked to tax."}}},
+"landregister": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "On 2026-07-14 the Prime Minister of Burundi launched the RPPCUB 2026 census of urban property owners, whose stated aim is a fully digitised, geo-referenced land register, starting in Mugere, Mukaza, Ntahangwa, Gitega, Ngozi and Rumonge communes before national roll-out, with enumerators from INSBU working with the land-titles and cadastre directorate (DTFCN).", "as_of": "2026-07-14", "date_precision": "day", "system": "RPPCUB 2026", "class": "land"}
+], "systems": [{"system": "RPPCUB 2026", "country_label": "RPPCUB 2026 digital land register", "class": "land", "platform": "", "owner": "DTFCN with INSBU", "tiers": "six urban communes in first phase"}], "note": ""}}},
+"localgov": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on local government office connections."}}}
+}}

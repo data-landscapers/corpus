@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "President Chakwera launched the Land Information Management System (LIMS) on 29 February 2024; the article does not say transactions are processed in it.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "Land Information Management System (LIMS)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Land Information Management System (LIMS)",
+   "country_label": "Malawi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

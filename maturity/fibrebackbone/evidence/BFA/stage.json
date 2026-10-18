@@ -1,16 +1,17 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "3",
-   "reach": "in-service",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001;BFA-003",
-   "gaps": "No source held says the backbone reaches every province or region.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "4",
+      "reach": "every-region",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-008",
+      "gaps": "No source held says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms.",
+      "note": "Counted from the four questions by study-ladder-fibrebackbone.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

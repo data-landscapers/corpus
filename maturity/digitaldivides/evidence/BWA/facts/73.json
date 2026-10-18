@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-28-bwa-dailynews-smartbots-schools-connected",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Segokgo says the government's village connectivity project, aimed at over 500 villages, had in its first phase connected 1,138 public facilities across 144 villages.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "village connectivity project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "village connectivity project",
+   "country_label": "Village connectivity project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Communications, Knowledge and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

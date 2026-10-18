@@ -1,0 +1,26 @@
+{
+ "slug": "2020-12-26-egy-almasryalyoum-qanun-ahwal-madaniya",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Article 2 of the Civil Status Law as in force, relayed by Al-Masry Al-Youm, has the Civil Status Authority maintain a national citizen database with a record for each citizen under a lifelong national number, and Article 2 bis requires government service providers to obtain it.",
+   "as_of": "2020-12-26",
+   "date_precision": "day",
+   "system": "National citizen database (Civil Status Authority)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National citizen database",
+   "country_label": "Egypt",
+   "class": "population",
+   "platform": "",
+   "owner": "Civil Status Authority, Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

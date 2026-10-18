@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-nam-fig-mazambani-communal-land-administration-nclas",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The presentation cites a population of 3,022,401 from the NSA 2023 Population and Housing Census.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population and Housing Census",
+   "country_label": "Census 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "NSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

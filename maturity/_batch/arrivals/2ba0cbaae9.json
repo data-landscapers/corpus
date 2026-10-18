@@ -1,0 +1,14 @@
+{"slug":"2026-07-01-mdg-wb-identite-legale-millions-malagasy","studies":{
+"authentication":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"MDG":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"A law adopted on 28 May 2026 authorises mass birth registration within the national biometric enrolment operation, so that adults enrolled can obtain a birth certificate without a court procedure, says the World Bank.","as_of":"2026-05-28","date_precision":"day","system":"national biometric enrolment operation","class":"crvslink"}],"systems":[{"system":"national biometric enrolment operation (Izaho Tokana)","country_label":"Madagascar","class":"idsystem","platform":"mobile biometric kits","owner":"Ministry of the Interior","tiers":"national"}],"note":""}}},
+"civilregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Digital civil registration is not described beyond unspecified strengthening of hospital and commune digital capacity."}}},
+"idcoverage":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Gives 3.25 million adults enrolled but no share of the population."}}},
+"idfrombirth":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Says the reform does not reach newborn registration; no number at birth stated."}}},
+"idmaintenance":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Operation and ownership of the system not stated."}}},
+"idregisters":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"MDG":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Since April 2026 more than 2,000 teams under the Ministry of the Interior, supported by the World Bank PRODIGY project, enrol people in the national biometric base, with over 3.25 million adults enrolled by 10 June 2026.","as_of":"2026-06-10","date_precision":"day","system":"national biometric enrolment operation","class":"idsystem"}],"systems":[],"note":""}}},
+"localgov":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on local government office connection."}}},
+"police":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on police records."}}},
+"populationregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The national base is not said to serve as a population register."}}},
+"registry":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No digital entry of births or deaths at registry offices stated."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-27-stp-rstp-aga-sydonia-world-4-4",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Minister of State, Economy and Finance said the new Sydonia introduced real-time electronic payments with direct integration with national banks, for customs revenue.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Sydonia World 4.4.0 electronic payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

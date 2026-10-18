@@ -1,0 +1,54 @@
+{
+ "slug": "2022-07-14-nam-observer-gender-verification-system",
+ "studies": {
+  "socialregistry": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Ministry of Gender Equality, Poverty Eradication and Social Welfare reported it had completed verification of the beneficiaries of its social welfare programmes on its new ISAS system, removing 18,503 from the register.",
+       "as_of": "2022-07-14",
+       "date_precision": "day",
+       "system": "ISAS",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "The ministry said the ISAS register covers beneficiaries of its social welfare programmes, naming the Disability Grant among those checked.",
+       "as_of": "2022-07-14",
+       "date_precision": "day",
+       "system": "ISAS",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The ministry said data moved from SAS to ISAS was checked against the NPRS, the population register, and records that failed were removed or held for verification.",
+       "as_of": "2022-07-14",
+       "date_precision": "day",
+       "system": "ISAS",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ISAS",
+       "country_label": "Namibia",
+       "class": "social",
+       "platform": "web application",
+       "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

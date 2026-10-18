@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC's director-general says Nigeria had reached 127 million unique identity records in its national identity database by December 2025, with about five million new enrolments a month.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "National Identity Database (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

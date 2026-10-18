@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,taxsystem,filing,coverage,underway,2024-03-04,SYC-001,SYC-002=none,
+SYC,taxsystem,payment,coverage,,,,,nothing held
+SYC,taxsystem,uptake,coverage,,,,,nothing held

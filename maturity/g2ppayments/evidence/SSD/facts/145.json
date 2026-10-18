@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-19-ssd-nation-cashless-pay-civil-servants",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "cashless civil-service salary payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

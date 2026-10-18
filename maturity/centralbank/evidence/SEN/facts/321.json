@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-03-sen-aps-taux-inclusion-financiere-83",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "instant payment platform",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "PI-SPI is named as operating 24h/24 but no central bank role or oversight is stated."
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "taxpayers",
-   "stage": "5",
-   "register": "inservice",
-   "shared": "shared",
-   "nationalid": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001;NGA-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "taxpayers",
+      "stage": "5",
+      "register": "inservice",
+      "shared": "shared",
+      "nationalid": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001;NGA-004",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,42 @@
+{
+ "slug": "2021-09-17-mdg-undp-e-gp-public-procurement-platform",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "UNDP formally handed the e-GP online procurement platform to Madagascar's procurement regulator ARMP; until then 70% of the process was manual and 30% ran on the SIGMP software.",
+       "as_of": "2021-09-17",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Madagascar",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARMP",
+       "tiers": ""
+      },
+      {
+       "system": "SIGMP",
+       "country_label": "Madagascar",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

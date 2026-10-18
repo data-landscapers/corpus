@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-ner-lesahel-ministre-urbanisme-bilan-e-cadastre",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The minister of urbanism and housing said a single cadastre is being built through the E-Cadastre project developed with ANSI and financed by the World Bank PVI, with cadastral digitalisation the priority.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "E-Cadastre",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Cadastre",
+   "country_label": "Niger",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministere de l'Urbanisme et de l'Habitat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

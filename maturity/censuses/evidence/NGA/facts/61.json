@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-08-nga-npc-tinubu-launches-ecrvs-vitalreg",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The National Population Commission chairman is quoted as saying it has made substantial progress toward the first digital population and housing census, with enumeration area demarcation done, and President Tinubu pledged support for the next census.",
+   "as_of": "2023-11-08",
+   "date_precision": "day",
+   "system": "Digital population and housing census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

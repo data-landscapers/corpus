@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-07-mar-aujourdhui-dgm-meteosat-troisieme-generation",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "underway",
+   "fact": "The DGM announced it is now equipped with Meteosat Third Generation data, replacing MSG, which Eumetsat declared fully operational via Eumetcast Europe on 2024-12-04.",
+   "as_of": "2025-01-07",
+   "date_precision": "day",
+   "system": "Meteosat Third Generation",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Meteosat Third Generation",
+   "country_label": "Maroc",
+   "class": "metsat",
+   "platform": "Eumetcast Europe (Ku-band)",
+   "owner": "DGM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

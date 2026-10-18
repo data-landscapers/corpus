@@ -1,0 +1,10 @@
+{"slug": "2024-05-21-mus-defimedia-liste-electorale-verifier-inscrire", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article states no authentication service."}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article states no link between civil register and ID system."}}},
+"electoralregister": {"countries": {"MUS": {"facts": [{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "The Electoral Commissioner's office says voters can check the electoral register online at electoral.govmu.org or by SMS, using their national identity card number, as well as at 43 registration centres and by phone, during the 16-30 May 2024 registration.", "as_of": "2024-05-21", "date_precision": "day", "system": "electoral register", "class": "electoral"}], "systems": [{"system": "electoral register", "country_label": "Mauritius", "class": "electoral", "platform": "electoral.govmu.org online search and SMS 789", "owner": "Electoral Commissioner's Office", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article gives no national ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article says nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article says nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Voters are looked up by ID card number, but the article does not say the roll is keyed on or drawn from the ID."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article says nothing on the national ID system itself."}}}
+}}

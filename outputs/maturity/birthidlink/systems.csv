@@ -9,6 +9,7 @@ BDI,future national digital identification system,Burundi,other,,,,2026-07-18-bu
 BDI,Biometric national identity card,Burundi,other,,Ministry of the Interior,,2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech
 BDI,Carte nationale d'identite biometrique,Burundi,other,,Ministry of the Interior,,2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis
 BDI,Biometric national identity card system,Burundi,other,,Ministry of the Interior,,2026-05-07-burundi-unveils-biometric-national-id-awaits-law
+BDI,ID for D,Burundi,other,,"Ministry of Interior, Community Development and Public Security","funded under PAFEN (World Bank, USD 92 million)",2025-04-18-bdi-burundi-eco-digitalisation-services-publics
 BEN,ANIP,Benin,other,ANIP BJ app and portal,ANIP,,2026-10-04-ben-beninwebtv-anip-50109-actes-de-naissance-septembre
 BEN,Registre national des personnes physiques,Benin,other,,ANIP,,2026-07-16-adjinacou-maternite-identite-legale
 BEN,RNPP,BEN,other,,ANIP,,2026-02-26-guichet-unique-naissances-bilan-six-mois
@@ -66,6 +67,8 @@ ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-p
 ETH,Fayda,Ethiopia,other,,National ID Program (NIDP),,2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
 ETH,Civil Registration and Vital Statistics with ID System,Integrated digital civil registration and residency service system (Addis Ababa),other,,Addis Ababa city administration; developed with the Ethiopian Artificial Intelligence Institute,city,2025-12-05-eth-amn-addis-crvs-id-platform
+ETH,Fayda Digital ID,Ethiopia,other,,National Identification Program,,2024-10-09-eth-ena-digital-id-registration-campaign-addis
+ETH,AI-enriched integrated digital civil registration and resident services system,Ethiopia,other,,Addis Ababa City Administration,,2025-12-06-eth-ebc-addis-ai-civil-registration-system
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Centre national d'etat civil (CNEC),Gabon,other,,Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -113,6 +116,7 @@ MDG,National digital ID (PRODIGY),Madagascar,other,,,,2026-09-04-biometricupdate
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MDG,Unique Identifier Number (NUI),Madagascar,other,,Ministry of the Interior and Decentralization,,2026-01-30-national-biometric-enrolment-begins
 MDG,Prodigy NUI,MDG,other,,Ministry of National Education,,2026-02-25-mdg-2424mg-nui-eleves-atsimondrano
+MDG,national biometric enrolment operation (Izaho Tokana),Madagascar,other,mobile biometric kits,Ministry of the Interior,national,2026-07-01-mdg-wb-identite-legale-millions-malagasy
 MLI,NINA,Mali,other,,,,2026-09-16-dpi-map-mali-country-profile
 MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),other,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
 MOZ,e-SIRCEV,MOZ,other,,Direccao Nacional dos Registos e Notariado,,2024-01-01-e-sircev-portal
@@ -160,6 +164,7 @@ NGA,VitalReg,Nigeria,other,,National Population Commission,,2026-08-18-fij-npc-c
 NGA,National Identification Number (NIN),Nigeria,other,,,,2026-08-18-fij-npc-corrects-vitalreg-records
 NGA,CoopID / Cooperative Verification Number,Nigeria,other,Seamfix,Federal Ministry of Agriculture and Food Security,,2026-08-13-nigeria-cooperative-digital-id-mou
 NGA,NIMC national identity and biometric-enabled G2PS card,Nigeria,other,,NIMC,G2PS card for loan beneficiaries,2025-03-08-nimc-nelfund-biometric-cards-mou
+NGA,e-CRVS,e-CRVS,other,,National Population Commission,,2025-09-16-nga-npc-nin-integrated-ecrvs-identity-day
 RWA,National Population Registry,Rwanda,other,,NIDA,,2026-06-03-rwanda-integrated-civil-registration-system-launch
 RWA,National Digital Civil Registration and Vital Statistics system,Rwanda,other,,MINALOC,,2026-01-28-rwanda-completes-digitalisation-crvs-modules
 RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-control-everything-ktpress

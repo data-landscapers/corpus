@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-04-mwi-undp-icc-online-complaints-platform",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "UNDP Malawi says the Independent Complaints Commission launched on 4 June 2025 a new Online Citizen Engagement Platform where citizens can file complaints about police misconduct, follow cases and receive updates; no case numbers are given.",
+       "as_of": "2025-06-04",
+       "date_precision": "day",
+       "system": "Online Citizen Engagement Platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online Citizen Engagement Platform",
+       "country_label": "Malawi",
+       "class": "feedback",
+       "platform": "",
+       "owner": "Independent Complaints Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The platform's case management system serves the police complaints commission, not courts."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The online platform takes public complaints about police misconduct; it is not a station record of reports or cases."
+    }
+   }
+  }
+ }
+}

@@ -45,6 +45,7 @@ CIV,BIC-UEMOA (Bureau d'Information sur le Credit de l'UEMOA),Cote d'Ivoire,othe
 CIV,BIC Cote d'Ivoire (Bureau d'Information sur le Credit),Cote d'Ivoire,other,Creditinfo West Africa,,"data providers are banks, decentralised financial systems and large billers",2026-09-17-civ-fratmat-bic-qualite-donnees-credit
 CIV,e-Administration application,Cote d'Ivoire,other,,Ministry of the Civil Service (MFPMA),to interconnect the ministry's information systems with those of banks for civil-servant loan files; no go-live date stated,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
 CIV,SIGFAE,Cote d'Ivoire,other,,,named as the civil-service management system; no description of exchange function,2026-07-31-cote-divoire-e-administration-bank-integration-for-public-service-loans
+CIV,Public Administration Interoperability Platform,Cote d'Ivoire,exchange,,Government of Cote d'Ivoire,,2025-11-05-civ-cipesa-digital-inclusion-disabilities
 CMR,national interoperability infrastructure,Cameroon,exchange,,,,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure
 CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun
 COD,RDC-PASS,DRC,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
@@ -105,6 +106,7 @@ EGY,المحول الرقمي الحكومي (government digital switch),Egypt,e
 EGY,Digital Egypt platform (منصة مصر الرقمية),Egypt,other,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
 EGY,digital identity app,Egypt,other,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
 EGY,digital treasury,Egypt,other,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
+EGY,G2G digital hub,Egypt,exchange,,Ministry of Communications and Information Technology,,2025-07-17-egy-ahram-real-estate-registry-complex-alamein
 ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea (customs),,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ETH,national data exchange platform,Ethiopia,exchange,,Government of Ethiopia,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
 ETH,MESOB,Ethiopia,other,,Federal MESOB service,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
@@ -397,5 +399,6 @@ ZMB,ZamConnect,Zambia,exchange,,,,2025-01-20 PID Appraisal Stage - Digital Zambi
 ZMB,ZamPortal,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
 ZMB,ZamPay,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
 ZMB,ZamSign,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZMB,Government Service Bus (GSB),Government Service Bus,exchange,GSB,"Electronic Government Division, SMART Zambia Institute",,2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb
 ZWE,Government Service Bus,Zimbabwe,exchange,,"Ministry of ICT, Postal and Courier Services",,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin
 ZWE,Ndarama Enterprise Resource Planning system,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold

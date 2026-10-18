@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-09-eth-ena-digital-id-registration-campaign-addis",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Addis Ababa Civil Registration and Residency Services Agency says its civil registration is being integrated with the digital ID to digitise life events from birth to death.",
+   "as_of": "2024-10-09",
+   "date_precision": "day",
+   "system": "Addis Ababa civil registration system",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

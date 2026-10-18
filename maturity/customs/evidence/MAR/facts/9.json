@@ -1,0 +1,26 @@
+{
+ "slug": "2022-05-01-mar-anp-adii-note-bad-electronique-portnet",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "ADII and ANP say the electronic delivery order (BAD), dematerialised in 2020, is exchanged among port actors over PortNet, the Guichet Unique du Commerce Extérieur platform.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "PortNet",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PortNet",
+   "country_label": "Maroc",
+   "class": "customs",
+   "platform": "Guichet Unique du Commerce Extérieur",
+   "owner": "PORTNET S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

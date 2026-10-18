@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-civ-cipesa-digital-inclusion-disabilities",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "CIPESA says the government launched the Public Administration Interoperability Platform in September 2025, to streamline government processes and eliminate bureaucratic silos.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Public Administration Interoperability Platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Administration Interoperability Platform",
+   "country_label": "Cote d'Ivoire",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

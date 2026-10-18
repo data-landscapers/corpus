@@ -1,0 +1,13 @@
+{"slug": "2024-09-16-mwi-times-rural-schools-miss-out-ict-revolution", "studies": {
+"civilserviceskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Mentions only teachers lacking ICT skills; no civil-servant training stated."}}},
+"digitaldivides": {"countries": {"MWI": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Macra's USF head Ronald Tembo said Macra is working on a data corridor and on introducing data to cover all rural areas with affordable and reliable internet.", "as_of": "2024-09-16", "date_precision": "day", "system": "Universal Service Fund", "class": "ruralaccess"}], "systems": [{"system": "Connect-a-School", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Macra (Universal Service Fund)", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Connect-a-School builds school ICT centres; the document states no digital-skills teaching for the public."}}},
+"digitalstrategy": {"countries": {"MWI": {"facts": [], "systems": [], "note": "National Digitalisation Policy named in passing only; nothing on its standing, text or period."}}},
+"domesticfinancing": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Says USF funds Connect-a-School but gives no amount, budget year or statement on own-resource financing."}}},
+"ictstrategy": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No sector policy stated."}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"ruralelectrification": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No rural electricity access figure given."}}},
+"schoolinternet": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No share of secondary schools with internet and no compulsory-curriculum statement."}}},
+"startups": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on startups."}}},
+"techhubs": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on hubs, incubators or parks."}}}
+}}

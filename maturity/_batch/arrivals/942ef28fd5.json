@@ -1,0 +1,51 @@
+{
+  "slug": "2026-10-17-zaf-sarb-nps-regulation-page",
+  "studies": {
+    "businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page lists payment regulation only; it states nothing on e-procurement."}}},
+    "centralbank": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The South African Reserve Bank's National Payment System Department says it regulates payment systems, third-party payment providers and e-money providers, with access to the payment system by designation or authorisation under the National Payment System Act 78 of 1998 and its directives.", "as_of": "2026-10-17", "date_precision": "day", "system": "National Payment System Department", "class": "oversight"},
+        {"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "Notice 2024 of 2022 records the SARB revoking the designation of SIRESS and designating the SADC Real Time Gross Settlement System (SADC-RTGS) as a designated settlement system.", "as_of": "2022", "date_precision": "year", "system": "SADC-RTGS", "class": "oversight"}
+      ],
+      "systems": [
+        {"system": "SADC-RTGS", "country_label": "SADC Real Time Gross Settlement System", "class": "other", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""}}},
+    "consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page only says consumer protection in the payment system belongs to the Financial Sector Conduct Authority; it names no rule, complaints body or enforcement."}}},
+    "crossborderpayments": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Notice 2024 of 2022 records the SARB designating the SADC Real Time Gross Settlement System (SADC-RTGS) as a designated settlement system in place of SIRESS.", "as_of": "2022", "date_precision": "year", "system": "SADC-RTGS", "class": "crossborder"}
+      ],
+      "systems": [
+        {"system": "SADC-RTGS", "country_label": "SADC Real Time Gross Settlement System", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""}}},
+    "cybersecurity": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page lists a payment-sector cyber-resilience directive only; it names no national cyber body, incident or figures."}}},
+    "cybersecuritylaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Directive 1 of 2024 on cyber-resilience covers the payment system only; no cybercrime or cybersecurity law is stated."}}},
+    "eparticipation": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "eparticipation", "aspect": "online", "value": "asked", "fact": "The SARB lists a 2026 draft directive on issuing and acquiring payments for offshore merchants with a comment template, comments due on 17 July 2026; the page does not say how comments were submitted.", "as_of": "2026-07-17", "date_precision": "day", "system": "SARB consultation documents", "class": "eparticipation"},
+        {"sub_indicator": "eparticipation", "aspect": "published", "value": "published", "fact": "The SARB page links a consultation feedback note with detailed responses to comments received on the draft guidance note to Directive 1 of 2022, second round of consultation, hosted on the FIC website.", "as_of": "2023-04", "date_precision": "month", "system": "SARB consultation documents", "class": "eparticipation"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page states nothing on government payments to people."}}},
+    "paymentslaw": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The SARB says the National Payment System Act 78 of 1998 is the primary legal framework for the payment system, and that it issues legally binding directives under section 12 of the Act.", "as_of": "2026-10-17", "date_precision": "day", "system": "National Payment System Act 78 of 1998", "class": "law"},
+        {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The SARB says its department regulates third-party payment providers and e-money providers, and lists designations of non-banks such as Yoco Technologies (2021) and Payfast (2024) as clearing system participants.", "as_of": "2026-10-17", "date_precision": "day", "system": "National Payment System Act 78 of 1998", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page gives no survey figure on account holding."}}},
+    "publicconsultation": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The SARB lists a 2026 draft directive on offshore-merchant payments put out for comment, comments due 17 July 2026, and says its directives follow a consultative process with the payments industry and wider stakeholders.", "as_of": "2026-07-17", "date_precision": "day", "system": "SARB consultation documents", "class": "consultation"},
+        {"sub_indicator": "consultation", "aspect": "hearing", "value": "answered", "fact": "The SARB page links a consultation feedback note with detailed responses to comments received on the draft guidance note to Directive 1 of 2022.", "as_of": "2023-04", "date_precision": "month", "system": "SARB consultation documents", "class": "consultation"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page names e-money providers as regulated but states no service in service, interoperability or switch."}}},
+    "revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The page states nothing on tax or fee payment."}}}
+  }
+}

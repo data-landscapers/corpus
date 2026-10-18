@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,metsat,stream,inservice,APAnews reports Mali-Meteo commissioned PUMA 2025 and ClimSA equipment on 10 March 2026 and can now receive Meteosat Third Generation data in real time for its analysis and forecasts.,2026-03-10,day,PUMA 2025 / ClimSA station,metsat,2026-03-11-mli-apanews-mali-meteo-systeme-satellitaire-puma2025,https://fr.apanews.net/disasters/mali-meteo-dotee-dun-systeme-satellitaire-de-nouvelle-generation/

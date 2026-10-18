@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-mdg-lexpress-gestion-affaires-judiciaires-numerise",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Madagascar's Justice Ministry secretary general says tools including InfoTA, InfoTF, LogiComm, LogiCivil and LogiPenal are already deployed in the courts.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "InfoTA, InfoTF, LogiComm, LogiCivil, LogiPénal",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InfoTA / InfoTF / LogiComm / LogiCivil / LogiPénal",
+   "country_label": "Madagascar",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "courts"
+  }
+ ],
+ "note": ""
+}

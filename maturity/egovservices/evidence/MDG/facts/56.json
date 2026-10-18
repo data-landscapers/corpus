@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Public Digital reports Madagascar's Digital Governance Unit built the multi-channel public services portal Torolalana, whose in-person channel Mahatoky has been piloted in 4 post offices, supports 400 processes and holds 206 citizen accounts, with transactional services still to be added to the informative ones offered.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Torolalana",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Torolalana",
+   "country_label": "Torolalana",
+   "class": "eservices",
+   "platform": "multi-channel portal (digital, telephone, post-office counter)",
+   "owner": "Digital Governance Unit, Ministry of Digital Development",
+   "tiers": "digital channel, telephone channel, physical channel (Mahatoky)"
+  },
+  {
+   "system": "Mahatoky",
+   "country_label": "Mahatoky",
+   "class": "eservices",
+   "platform": "agent-operated helpdesk in post offices",
+   "owner": "Digital Governance Unit with Paositra Malagasy",
+   "tiers": "pilot in 4 post offices"
+  }
+ ],
+ "note": ""
+}

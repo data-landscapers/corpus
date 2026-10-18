@@ -1,0 +1,10 @@
+{"slug": "2024-07-15-mdg-lexpress-inclusion-financiere-acces-limite", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No central bank payments role stated."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Consumer protection is only a strategy axis; no rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The 29% is households with formal access, attributed to the World Bank and undated, not a survey of adults; the 10m figure is accounts."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "L'Express reports that since telephone operators were authorised to provide mobile money, more than ten million people have opened accounts in Madagascar.", "as_of": "2024-07-15", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "Madagascar", "class": "retail", "platform": "", "owner": "telephone operators", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

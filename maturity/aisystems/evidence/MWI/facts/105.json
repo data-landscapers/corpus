@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-mwi-crews-ai-ew4all-pilot-note",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The CREWS note says MET Norway, with WMO funding of USD 250,000, will adapt the Bris AI weather model to the Malawi domain and install it at DCCMS, with USD 18,000 for computing hardware to run it, over May to October 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Bris AI-WP / forecast-in-a-box",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bris AI weather prediction model (forecast-in-a-box)",
+   "country_label": "Malawi",
+   "class": "localai",
+   "platform": "forecast-in-a-box at DCCMS",
+   "owner": "MET Norway with DCCMS, implemented via WMO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-09-27-gnq-realeg-defensor-pueblo-web-quejas",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Revista Real reports the Defensor del Pueblo was to open its website defensordelpuebloge.com on 28 September 2022, through which people can lodge complaints, alongside complaint boxes planned in all cities.",
+   "as_of": "2022-09-27",
+   "date_precision": "day",
+   "system": "Defensor del Pueblo website",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Defensor del Pueblo website",
+   "country_label": "Equatorial Guinea",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Defensor del Pueblo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

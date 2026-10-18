@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-27-dza-maghrebinfo-saadaoui-transformation-numerique",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The director general of the Agence de la securite des systemes d'information (ASSI), Gen. Abdeslam Belghoul, referred to a 'strategie nationale de securite des systemes d'information' whose objectives the education sector helps meet.",
+   "as_of": "2025-04-26",
+   "date_precision": "day",
+   "system": "strategie nationale de securite des systemes d'information",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence de la securite des systemes d'information (ASSI)",
+   "country_label": "ASSI",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

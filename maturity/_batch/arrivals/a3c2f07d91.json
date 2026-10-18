@@ -1,0 +1,187 @@
+{
+ "slug": "2025-08-25-ken-businessdaily-kra-itax-icms-upgrade",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "Business Daily reports KRA runs iTax, the electronic tax system, which crashed on the 30 June 2025 return deadline and was back in use with a five-day extension; KRA says it is upgrading its back end.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "iTax",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "iTax",
+       "country_label": "iTax",
+       "class": "core",
+       "platform": "",
+       "owner": "Kenya Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Business Daily reports the Integrated Customs Management System (iCMS), adopted in October 2021, is Kenya's sole clearance system, where traders lodge import and export documents at Mombasa, JKIA and inland depots.",
+       "as_of": "2025-08-25",
+       "date_precision": "day",
+       "system": "iCMS",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "KRA Commissioner-General Humphrey Wattanga says KRA is upgrading and modernising iCMS from a back-end perspective, and is considering a move to the cloud.",
+       "as_of": "2025-08-25",
+       "date_precision": "day",
+       "system": "iCMS",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Business Daily says iCMS involves submitting export or import documents into a single-window system.",
+       "as_of": "2025-08-25",
+       "date_precision": "day",
+       "system": "iCMS",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them.",
+       "as_of": "2025-08-25",
+       "date_precision": "day",
+       "system": "iCMS / EAC single customs territory",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "iCMS",
+       "country_label": "Integrated Customs Management System",
+       "class": "customs",
+       "platform": "",
+       "owner": "Kenya Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only KRA's digital transformation strategy under its 9th Corporate Plan is named, an agency plan, not a national strategy."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about KRA tax and customs systems only; says nothing on this study."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about KRA tax and customs systems only; says nothing on this study."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about KRA tax and customs systems only; says nothing on this study."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about KRA tax and customs systems only; says nothing on this study."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about KRA tax and customs systems only; says nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "iTax",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "Business Daily reports taxpayers file annual income tax returns on iTax, the electronic tax system, which crashed at the 30 June 2025 deadline.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "iTax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,3 +1,10 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,COD,dpi.mis--health-health-information-system,fact,4,5,COD-005,Arrivals added COD-004; COD-005; stage 4 -> 5.
 2026-10-17,KEN,dpi.mis--health-health-information-system,fact,unplaced,2,KEN-001;KEN-002,Arrivals added KEN-006; stage unplaced -> 2.
+2026-10-18,BDI,dpi.mis--health-health-information-system,review,no evidence,5,BDI-004,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CMR,dpi.mis--health-health-information-system,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COD,dpi.mis--health-health-information-system,fact,5,5,COD-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,dpi.mis--health-health-information-system,review,no evidence,3,COG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,dpi.mis--health-health-information-system,review,2,2,KEN-001;KEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBR,dpi.mis--health-health-information-system,review,no evidence,3,LBR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.mis--health-health-information-system,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

@@ -1,0 +1,36 @@
+{
+ "slug": "2012-09-03-moz-verdade-jue-obrigatoria",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Verdade, quoting the customs team manager, reports the electronic single window (JUE) in force at southern customs posts from 1 September 2012 and already used at the ports of Maputo and Beira and Tete customs, with clearance in one day against over 72 hours before.",
+   "as_of": "2012-09-01",
+   "date_precision": "day",
+   "system": "Janela Unica Electronica (JUE)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Verdade reports the JUE as a single platform to which information is sent and from which customs and other parties in clearance take data, mandatory from 15 September 2012 at Centre and North customs posts.",
+   "as_of": "2012-09-15",
+   "date_precision": "day",
+   "system": "Janela Unica Electronica (JUE)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Janela Unica Electronica (JUE)",
+   "country_label": "Mozambique",
+   "class": "customs",
+   "platform": "",
+   "owner": "Alfandegas de Mocambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

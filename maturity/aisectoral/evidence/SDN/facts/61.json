@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-11-sdn-unicef-fmoh-digital-health-apps-zamw",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZAMW",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "mobile application",
+   "owner": "Federal Ministry of Health with UNICEF",
+   "tiers": ""
+  }
+ ],
+ "note": "ZAMW is an AI-powered learning app for health workers, not an AI tool giving diagnoses, scores or decisions in a health system."
+}

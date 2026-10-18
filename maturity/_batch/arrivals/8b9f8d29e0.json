@@ -1,0 +1,25 @@
+{
+ "slug": "2017-07-07-moz-freightnews-single-window-clearance",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Mozambique customs official Abishek Dewan says the single window, introduced in 2011 and phased in, now operates across the country as a centralised electronic trade platform, with clearance down to eight steps.",
+       "as_of": "2017-07-07",
+       "date_precision": "day",
+       "system": "Mozambique single window",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

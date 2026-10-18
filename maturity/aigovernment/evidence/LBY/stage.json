@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "unplaced",
+      "use": "",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a government body uses an AI system.",
+      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

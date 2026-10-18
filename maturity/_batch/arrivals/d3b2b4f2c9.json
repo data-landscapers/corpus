@@ -1,0 +1,142 @@
+{
+ "slug": "2026-06-08-swz-positivenews-pac-e-gp-under-expenditure",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Auditor General told the Public Accounts Committee that of E18.8 million appropriated for the Eswatini Electronic Government Procurement System only E1.1 million was released and E500 000 spent, while the Finance Principal Secretary said the project is now implemented.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "Eswatini Electronic Government Procurement System",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eswatini Electronic Government Procurement System",
+       "country_label": "Eswatini Electronic Government Procurement System",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "Integrated Financial Management Information System",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "IFMIS is described as an installation project with E1.3m of E38.8m spent, not a system in use."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Eswatini."
+    }
+   }
+  }
+ }
+}

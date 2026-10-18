@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-sdn-huggingface-indabax-sudan-mm-dataset",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "IndabaX Sudan's Hugging Face card says Sudan-MM, a publicly available multimodal dataset of 3,042 Sudanese Arabic images and videos with MSA and dialect captions, was produced by five teams in a 2025 shared task and is released under Apache 2.0.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Sudan-MM",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan-MM",
+   "country_label": "Sudan",
+   "class": "localai",
+   "platform": "Hugging Face",
+   "owner": "IndabaX Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-12-zmb-zambiamonitor-innovators-inventors-bill-vc-fund",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Finnish aid and a fund to be set up are stated; no private amount."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Minister Felix Mutati said government has finalised the Innovation and Inventors Bill, which introduces a Venture Capital Fund for innovators; not stated as tabled or enacted.",
+       "as_of": "2025-10-10",
+       "date_precision": "day",
+       "system": "Innovation and Inventors Bill",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "BongoHive and other bodies are named only as summit partners; no hub programme stated."
+    }
+   }
+  }
+ }
+}

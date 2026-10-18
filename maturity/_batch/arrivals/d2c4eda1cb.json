@@ -1,0 +1,13 @@
+{"slug":"2024-01-27-dza-care-building-new-digital-strategy-e-algeria","studies":{
+"aiabuse":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on AI harms."}}},
+"aigovernment":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on AI in administration."}}},
+"aisectoral":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on sectoral AI."}}},
+"aisystems":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on AI built in the country."}}},
+"digitalsovereignty":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on control of state data."}}},
+"digitalstrategy":{"countries":{"DZA":{"facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"CARE, an Algerian think tank, writes that Algeria is preparing to define its new digital transformation strategy for 2024-2028, after the e-Algeria strategy launched in 2009, of which over 40% remains incomplete.","as_of":"2024-01-27","date_precision":"day","system":"Digital transformation strategy 2024-2028","class":"national"}],"systems":[],"note":""}}},
+"egovservices":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document gives no count of online services, gateway or usage."}}},
+"internetusage":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document gives no share of people using the internet."}}},
+"policyresearch":{"countries":{"DZA":{"facts":[{"sub_indicator":"research","aspect":"research","value":"publishing","fact":"CARE, an Algiers-based think tank, published a study evaluating Algeria's e-Algeria digital strategy and proposing orientations for the 2024-2028 strategy.","as_of":"2024-01-27","date_precision":"day","system":"CARE","class":"research"}],"systems":[],"note":""}}},
+"startups":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on startup law or funding."}}},
+"techhubs":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Document states nothing on technology hubs."}}}
+}}

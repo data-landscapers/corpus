@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "none",
+   "fact": "NIDA says the national ID is issued only from age 18, leaving children without an identity number for nearly two decades.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National ID (NIN)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

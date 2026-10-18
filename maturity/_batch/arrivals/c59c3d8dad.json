@@ -1,0 +1,43 @@
+{
+ "slug": "2024-09-19-zwe-openparly-startup-knowledge-economy-bill",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Zimbabwe's Cabinet adopted the principles of the Science, Technology, Innovation Start-up and Knowledge-based Economy Promotion Bill, which would give start-ups tax incentives, rebates and preferential procurement, per Open Parly ZW.",
+       "as_of": "2024-09-19",
+       "date_precision": "day",
+       "system": "Science, Technology, Innovation Start-up and Knowledge-based Economy Promotion Bill",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill provides land for innovation hubs; no hub stated as built or running."
+    }
+   }
+  }
+ }
+}

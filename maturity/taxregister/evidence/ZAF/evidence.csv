@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,taxpayers,register,inservice,"SARS says its Client Information System, implemented in 2014, lets taxpayers register for and maintain tax and customs registrations in one consolidated profile, with additional registrations done on eFiling or at a branch.",2026-10-17,day,Client Information System,tax,2026-10-17-zaf-sars-client-information-system,https://www.sars.gov.za/client-segments/client-information-system/

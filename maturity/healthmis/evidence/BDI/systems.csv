@@ -7,3 +7,8 @@ BDI,SIDAinfo,Burundi,other,,,electronic medical records,2026-02-06-state-bdi-afg
 BDI,eLMIS,Burundi,other,,,pharmacy management,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,Ibipimo,Burundi,other,,,lab management,2026-02-06-state-bdi-afghs-data-systems-2026-record
 BDI,DHIS2 (MININTER),Burundi,other,DHIS2,Ministère de l'Intérieur,communes to central,2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees
+BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministry of Public Health",,2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2
+BDI,DHIS2,Burundi,hmis,DHIS2,"DSNIS, Ministère de la Santé Publique et de la Lutte contre le Sida","community, health facility, district, province, central",2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis
+BDI,"Open Clinic, SidaInfo",Burundi,other,,some hospitals,hospital,2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis
+BDI,DHIS2,Burundi,hmis,DHIS2,"Ministere de la Sante Publique, DSNIS","community, health centre, district, province, national",2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024
+BDI,SIDA Info,Burundi,other,,,,2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-11-mus-gis-child-online-safety-public-consultation",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Government of Mauritius launched a public consultation on 10 April 2025 on a draft report on child online safety, posted on the ministry website, with views taken by email or the MAIA+ chatbot from 15 April 2025.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "MAIA+ chatbot and email",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAIA+",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "chatbot",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

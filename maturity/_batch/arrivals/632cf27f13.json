@@ -1,0 +1,34 @@
+{
+ "slug": "2020-04-14-tgo-otr-numerisation-archives-titres-fonciers",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The OTR Commissaire General says digitisation of land-title archives, begun in 2012, reached 99.32% by end January 2020, with a database available for checks on properties and charges.",
+       "as_of": "2020-01",
+       "date_precision": "month",
+       "system": "Land-title archive digitisation",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Land-title archive digitisation",
+       "country_label": "Togo",
+       "class": "landmis",
+       "platform": "",
+       "owner": "Office Togolais des Recettes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2014-02-17-dza-dknews-registre-national-etat-civil-automatise",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Interior Ministry put the national automated civil-status register into service on 15 February 2014, holding about 59 million digitised birth acts collected from the databases of 1,541 communes.",
+   "as_of": "2014-02-15",
+   "date_precision": "day",
+   "system": "Registre national automatisé de l'état civil",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national automatisé de l'état civil",
+   "country_label": "Algeria",
+   "class": "population",
+   "platform": "commune databases linked by secure broadband network",
+   "owner": "Ministry of the Interior and Local Authorities",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

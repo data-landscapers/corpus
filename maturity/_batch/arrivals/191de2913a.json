@@ -1,0 +1,25 @@
+{
+ "slug": "2015-02-03-gmb-ioi-ombudsman-online-complaints",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Office of the Ombudsman of The Gambia launched a website that, for the first time, lets citizens file a complaint online; no case numbers are given.",
+       "as_of": "2015-02",
+       "date_precision": "month",
+       "system": "Office of the Ombudsman website",
+       "class": "feedback"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

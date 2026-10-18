@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gha-bog-financial-inclusion-pwd-directive",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The Bank of Ghana's Financial Inclusion for Persons with Disabilities Directive of January 2025 requires regulated financial service providers to make websites and digital service channels disability friendly and to add features such as voice and audio controls, larger font and sign language videos to online platforms, with administrative penalties for non-compliance.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Financial Inclusion for Persons with Disabilities Directive",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Financial Inclusion for Persons with Disabilities Directive",
+   "country_label": "Ghana",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

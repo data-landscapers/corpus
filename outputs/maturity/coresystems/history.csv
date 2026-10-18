@@ -11,3 +11,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SSD,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,unplaced,2,SSD-002,Arrivals added SSD-002; stage unplaced -> 2.
 2026-10-17,SYC,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,2,SYC-001,Arrivals added SYC-001; stage no evidence -> 2.
 2026-10-17,TGO,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,5,TGO-002;TGO-003,Arrivals added TGO-002; TGO-003; stage no evidence -> 5.
+2026-10-18,KEN,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,2,2,KEN-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBY,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,no evidence,unplaced,,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,unplaced,unplaced,,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,infra.capacity--robustness-of-government-hardware-and-software-core-government-systems,fact,5,5,ZWE-004;ZWE-002;ZWE-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SLE-001,SLE,govai,use,underway,"The Ministry of Basic and Senior Secondary Education developed EDITH, an AI system for ministry officials' information-management tasks, by March 2026, and is preparing handover to its IT Department from pilot status.",2026-03,month,EDITH,govai,2026-06-24-sle-calabash-mbsse-edith-ai-platform,https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/

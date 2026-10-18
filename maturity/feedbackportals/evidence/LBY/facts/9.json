@@ -1,0 +1,26 @@
+{
+ "slug": "2021-10-12-lby-libyaherald-citizen-service-centre",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Libya Herald reports that PM Aldabaiba launched the Citizen Service Centre, whose first stage takes citizens' complaints and inquiries by email and delivers them to the competent authority; no case count is given.",
+   "as_of": "2021-10-11",
+   "date_precision": "day",
+   "system": "Citizen Service Centre (CSC)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citizen Service Centre (CSC)",
+   "country_label": "Libya",
+   "class": "feedback",
+   "platform": "email (first stage)",
+   "owner": "Government of National Unity, Prime Minister",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

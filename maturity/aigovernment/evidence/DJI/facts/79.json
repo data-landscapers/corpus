@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ANSIE presented a virtual assistant for the public procurement platform at a UNDP-backed AI meeting; no service date or users are given.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "assistant virtuel pour la plateforme des marchés publics",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Assistant virtuel, plateforme des marchés publics",
+   "country_label": "Djibouti",
+   "class": "govai",
+   "platform": "public procurement platform",
+   "owner": "ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

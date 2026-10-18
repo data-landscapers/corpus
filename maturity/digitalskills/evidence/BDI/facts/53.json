@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-30-bdi-abp-competences-numeriques-jeunes-filles-agcci",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ministry in charge of the digital economy, with UN Women Burundi and Belgian funding, launched phase III of the AGCCI coding camps on 25 September 2025, training 102 girls aged 17-25 from all provinces in digital literacy and coding, with telecentres supported at Bubanza, Kirundo and Ruyigi.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "African Girls Can Code Initiative (AGCCI)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African Girls Can Code Initiative (AGCCI)",
+   "country_label": "Burundi",
+   "class": "publicskills",
+   "platform": "coding camps and telecentres",
+   "owner": "UN Women Burundi with the ministry in charge of the digital economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

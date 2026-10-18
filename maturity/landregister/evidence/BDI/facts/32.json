@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-bdi-wearetech-mediabox-edrms-dtfcn",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The article says the DTFCN uses a Property Management System that handles updates to existing titles (transfers, corrections, mortgages) and a Building Permit System that handles issuing first titles, both interconnected with the new EDRMS.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Property Management System (PMS)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Property Management System (PMS)",
+   "country_label": "Burundi",
+   "class": "land",
+   "platform": "",
+   "owner": "DTFCN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

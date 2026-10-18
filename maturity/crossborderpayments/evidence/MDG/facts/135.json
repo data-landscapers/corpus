@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-09-mdg-madagascarnewsroom-thunes-mvola-remittance",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Madagascar Newsroom reports that since mid-January 2024 Orange Money Europe app users in Germany, Belgium, Spain, France, Italy and the Netherlands can send money to MVola accounts in Madagascar via the Thunes aggregator, received instantly in ariary.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "MVola",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Telma",
+   "tiers": ""
+  },
+  {
+   "system": "Thunes",
+   "country_label": "Madagascar",
+   "class": "crossborder",
+   "platform": "remittance aggregator",
+   "owner": "Thunes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

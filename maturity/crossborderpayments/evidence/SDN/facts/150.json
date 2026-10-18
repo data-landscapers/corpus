@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-30-sdn-businessinsider-saudi-remittance-payment-framework",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Sudan's Finance Ministry says it is finalising an electronic payment framework connecting to mobile banking apps in Saudi Arabia, built with the Ministry of Digital Transformation and Telecommunications, to route diaspora remittances through regulated channels (State Minister Mohamed Nour Abdel Daim, Jeddah).",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "electronic payment framework linked to Saudi mobile banking apps",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic payment framework linked to Saudi mobile banking apps",
+   "country_label": "Sudan",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Ministry of Finance, with Ministry of Digital Transformation and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

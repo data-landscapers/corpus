@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-24-moz-kabum-plataforma-registo-empresas",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Kabum Digital says the SRN online portal lets users carry out civil registrations including requesting certificates, name changes and birth registration (registo de nascimento).",
+   "as_of": "2023-11-24",
+   "date_precision": "day",
+   "system": "Portal SRN (utente.srn.gov.mz)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

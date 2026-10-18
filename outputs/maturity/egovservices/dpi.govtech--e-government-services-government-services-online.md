@@ -1,6 +1,6 @@
 # e-government services: government services online
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,13 +20,13 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 4 |
 | 4 Operating | 5 |
-| 3 Established | 12 |
-| 2 Nascent | 17 |
+| 3 Established | 14 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
-| No evidence | 14 |
+| Unplaced | 9 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -36,11 +36,23 @@ Use of the national government services portal was published in 2026.
 
 - The Minister of Vocational Training says 82,383 candidates had registered through the national digital government services portal by 23 August 2026 ([source, 2026-08-23](https://www.echoroukonline.com/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9)).
 
+### Kenya: 5 Leading
+
+Use of the national government services portal was published in 2024.
+
+- The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily ([source, 2024-07-12](https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/)).
+
 ### Sudan: 5 Leading
 
 Use of the national government services portal was published in 2026.
 
 - The Baldna listing shows request counts per service, including 79,126 for company and business-name import registration and 11,174 for electronic export contracts ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
+
+### Zambia: 5 Leading
+
+Use of the national government services portal was published in 2024.
+
+- Sibulowa confirms ZamPortal has recorded over 3.7 million transactions and generated 5 billion Kwacha since its inception ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
 
 ### Congo: 4 Operating
 
@@ -109,13 +121,6 @@ Ten or more government services could be completed online in 2025; a single gate
 
 - DIAL reports Ghana.gov is the portal where users discover, consume and pay for government services, and most of renewing a driver's license or passport can be done online ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
 
-### Kenya: 3 Established
-
-Ten or more government services could be completed online in 2026; a single gateway is not on record.
-
-- Cabinet Secretary William Kabogo Gitau cited more than 22,500 services available through eCitizen ([source, 2026-09-21](https://techreviewafrica.com/news/7426/)).
-- The Draft 2026 Budget Policy Statement, as quoted, says over 17,668 services from over 350 agencies were onboarded onto eCitizen, and the article says it now provides more than 22,000 services ([source, 2026-09-02](https://radiogeneration.co.ke/news/110840/ecitizen-under-scrutiny-over-sh365bn-collections-gap)).
-
 ### Morocco: 3 Established
 
 Ten or more government services could be completed online in 2026; a single gateway is not on record.
@@ -129,6 +134,12 @@ Ten or more government services could be completed online in 2026; a single gate
 
 - Biometric Update reports the pre-launch Citizen Portal provides about 26 services ([source, 2026-09](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services)).
 
+### Namibia: 3 Established
+
+Ten or more government services could be completed online in 2025; a single gateway is not on record.
+
+- New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30 ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
+
 ### Rwanda: 3 Established
 
 Ten or more government services could be completed online in 2025; a single gateway is not on record.
@@ -136,17 +147,37 @@ Ten or more government services could be completed online in 2025; a single gate
 - UN DESA states Irembo has grown to provide access to more than 90 government services online ([source, 2025](https://publicadministration.desa.un.org/good-practices-for-digital-government/compendium/irembo-rwandan-government-e-service-portal)).
 - DIAL reports IremboGov is a one-stop portal for over 240 public services that citizens can access digitally and remotely ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
 
+### Sierra Leone: 3 Established
+
+Ten or more government services could be completed online in 2025; a single gateway is not on record.
+
+- Minister Salamatu Bah said the ministry created the "One Government Platform", a centralized one-stop portal allowing citizens to access all government services and information ([source, 2025-06-03](https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/)).
+
 ### South Africa: 3 Established
 
 Ten or more government services could be completed online in 2024; a single gateway is not on record.
 
 - DCDT says the National e-Government Portal currently allows access to 134 e-Services, including licensing, e-recruitment and exam queries, out of 255 services identified for digitisation ([source, 2024-10-11](https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html)).
 
+### Tanzania: 3 Established
+
+Ten or more government services could be completed online in 2024; a single gateway is not on record.
+
+- e-GA says citizens can obtain various government services through the mGov mobile system by dialling *152*00#, and a CHAVITA board member says it let Deaf people pay electricity and water bills by phone ([source, 2024-09-30](https://www.ega.go.tz/news/e-ga-yatoa-elimu-ya-serikali-mtandao-kwa-viziwi)).
+
 ### Togo: 3 Established
 
 Ten or more government services could be completed online in 2026; a single gateway is not on record.
 
 - Togo First reports that the ministry's two procedures, five services of state broadcaster TVT and five of Radio Lomé, twelve in all, became available through the national public services portal from early the week of 28 September 2026 ([source, 2026-09](https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal)).
+- Togo's justice ministry launched on 2 July 2026 an online portal through which litigants, lawyers and bailiffs pay fees for nearly forty services of the Tribunal de Grande Instance de Lomé ([source, 2026-07-02](https://justice.gouv.tg/les-services-du-tribunal-de-grande-instance-de-lome-passent-en-mode-paiement-numerique/)).
+
+### Angola: 2 Nascent
+
+Government services were going online in 2026; ten or more online are not on record.
+
+- Portal de T.I. reports that the SEPE (Sistema Electrónico de Serviços Públicos) portal is online and functional, with registration and authentication, a service catalogue and electronic services in employment, education, health, transport and business available to citizens and companies ([source, 2026-10-01](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/)).
+- The article says Simplifica 1.0 (2021) and 2.0 (2023), reached through www.sepe.gov.ao, carry services for certificates, registrations, authorizations and licensing, with digital use compulsory or priority ([source, 2023](https://doi.org/10.22533/at.ed.216532523063)).
 
 ### Cape Verde: 2 Nascent
 
@@ -154,6 +185,13 @@ Government services were going online in 2024; ten or more online are not on rec
 
 - The Consular Portal, funded by the World Bank Digital Cabo Verde project, digitized consular services for the diaspora and cut processing times for electronic documents by 85% ([source, 2024](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)).
 - The Government of Cabo Verde launched the Portal de Justica on 18 December 2024, offering online land, commercial, vehicle and criminal-record certificates, civil-registry certificates and national ID card renewal, with sign-in through the state Autentika platform ([source, 2024-12-18](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/)).
+
+### Chad: 2 Nascent
+
+Government services were going online in 2024; ten or more online are not on record.
+
+- Vendor Liber Technologies says the finance minister launched the e-Visa.td portal on 11 December 2024, making visa applications digital ([source, 2024-12-11](https://libertechnologies.lu/lancement-officiel-de-e-visa-au-tchad/)).
+- The Finance Minister officially launched the e-Notaire online platform for notarial services on 3 December 2024, with demonstrations; no usage figures given ([source, 2024-12-03](https://portail.td/lancement-de-notaire-une-plateforme-numerique-pour-moderniser-les-services-notariaux-au-tchad/)).
 
 ### Comoros: 2 Nascent
 
@@ -178,12 +216,14 @@ Government services were going online in 2024; ten or more online are not on rec
 Government services were going online in 2025; ten or more online are not on record.
 
 - Minister Doumba says companies have been created online at ANPI for 4 or 5 years, with close to 50,000 companies created, and that CNSS and CNAMGS declarations are expected to follow online ([source, 2025-10-07](https://www.gabonreview.com/e-gouvernement-le-gabon-se-dote-dun-cadre-juridique-pour-accelerer-la-digitalisation-de-son-administration/)).
+- Techies reports Gabon's DGDI inaugurated an e-services portal where citizens can renew passports, national ID cards and residence permits online (three services named) ([source, 2023-11-13](https://techies.ga/article/la-dgdi-lance-un-portail-pour-simplifier-les-demarches-administratives)).
 
 ### Gambia: 2 Nascent
 
 Government services were going online in 2025; ten or more online are not on record.
 
 - The Ministry of Communications and Digital Economy presents MYGOV as a centralized one-stop platform for citizens to digitally access government services, starting with five pilots, replicated from Bangladesh with UNDP and ECOWAS support ([source, 2025](https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf)).
+- Minister Ceesay said government is working on a one-stop-shop government service platform, starting with ID card application, birth certificate, business registration, passport and driver's licence applications, through an app ([source, 2024-09-09](https://standard.gm/dr-ceesay-says-govt-committed-to-building-capacities/)).
 
 ### Guinea: 2 Nascent
 
@@ -196,12 +236,33 @@ Government services were going online in 2026; ten or more online are not on rec
 Government services were going online in 2026; ten or more online are not on record.
 
 - Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to ([source, 2026-10-16](https://eservices.rsl.org.ls/ereg/public/individualform)).
+- Minister Nthati Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway, 'almost done' ([source, 2026-05-14](https://lestimes.com/?p=90492)).
+
+### Libya: 2 Nascent
+
+Government services were going online in 2024; ten or more online are not on record.
+
+- Al Wasat reports the interior ministry of the Government of National Unity announced on 3 March 2024 the launch of a package of government e-services, including the start of an e-government portal project, with the Hawiyati portal still to be launched ([source, 2024-03-03](https://alwasat.ly/news/libya/431469)).
+
+### Madagascar: 2 Nascent
+
+Government services were going online in 2024; ten or more online are not on record.
+
+- The UGD release log says Torolalana became an informational and transactional portal in v2.0.0, integrating services of public services and State bodies, with no count given ([source, 2024-05](https://github.com/digital-gov-mg/torolalana-portal-releases)).
+- Public Digital reports Madagascar's Digital Governance Unit built the multi-channel public services portal Torolalana, whose in-person channel Mahatoky has been piloted in 4 post offices, supports 400 processes and holds 206 citizen accounts, with transactional services still to be added to the informative ones offered ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
 
 ### Malawi: 2 Nascent
 
 Government services were going online in 2026; ten or more online are not on record.
 
 - The Department of E-Government says immigration e-services are being integrated onto the Bomalathu single digital services portal so the public can access selected immigration services online, with the Malawi Revenue Authority and National Registration Bureau already using it and 25 e-services being onboarded ([source, 2026-07-07](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
+
+### Mali: 2 Nascent
+
+Government services were going online in 2025; ten or more online are not on record.
+
+- APAnews reports the Prime Minister said on 27 May 2025 that the land information system SIF/GUF, being finalised, would from July offer fully dematerialised land procedures including registration, transfers, mortgages and online payments, with a pilot planned in Bamako's seven arrondissements ([source, 2025-05-27](https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/)).
+- The Bamada.net report says that on 19 July 2024 the President launched digitalisation of public services in Mali, so that ID card fees, police fines and civil-status acts can be paid by mobile phone, first in Bamako, with extension to the regions and embassies and later to taxes and public procurement ([source, 2024-07-19](https://bamada.net/nouvelles-technologies-le-president-de-la-transition-lance-la-digitalisation-des-moyens-de-paiement-et-des-services-publics-de-letat)).
 
 ### Mauritania: 2 Nascent
 
@@ -215,6 +276,12 @@ Government services were going online in 2026; ten or more online are not on rec
 Government services were going online in 2025; ten or more online are not on record.
 
 - The Mauritius Revenue Authority offers simplified VAT registration as an online application on its portal, accessed with the National Identity Card, Business Registration Number or Tax Account Number and a password ([source, 2025](https://www.mra.mu/index.php/eservices1/vat-eservices/simplified-vat-registration)).
+
+### Niger: 2 Nascent
+
+Government services were going online in 2025; ten or more online are not on record.
+
+- Nigerdiaspora reports that ANSI, under the Presidency, evolved the Portail Public du Niger on 16 July 2025, integrating administrative services online gradually, with several functions already available and more to come in the following months ([source, 2025-07-16](https://nigerdiaspora.net/politique/services-en-ligne-au-niger-le-portail-public-inaugure-une-nouvelle-ere-de-gouvernance-numerique)).
 
 ### Nigeria: 2 Nascent
 
@@ -241,12 +308,6 @@ Government services were going online in 2024; ten or more online are not on rec
 
 - GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024 ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
 
-### Tanzania: 2 Nascent
-
-Government services were going online in 2026; ten or more online are not on record.
-
-- The Daily Monitor reports Tanzania recruits through the Ajira Portal and runs digital procurement through NeST, alongside GePG payment processing ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
-
 ### Uganda: 2 Nascent
 
 Government services were going online in 2026; ten or more online are not on record.
@@ -254,7 +315,13 @@ Government services were going online in 2026; ten or more online are not on rec
 - NITA-U launched the U-Learn Platform, developed with the Ministry of Education and Sports, on which over 6,600 teachers from 26 Teacher Training Institutions have enrolled and over 380 users have earned verified digital certificates, as one of 14 e-services being rolled out under UDAP-GovNet ([source, 2026-08-12](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/)).
 - The Daily Monitor reports Uganda has sector-specific e-services in revenue, company registration and procurement ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
 
-### Angola: Unplaced
+### Burundi: Unplaced
+
+Nothing held since 2023 names government services online, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether government services can be used online.
+
+### Cameroon: Unplaced
 
 Nothing held since 2023 names government services online, so no stage is set.
 
@@ -266,98 +333,38 @@ Nothing held since 2023 names government services online, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether government services can be used online.
 
+### Djibouti: Unplaced
+
+Nothing held since 2023 names government services online, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether government services can be used online.
+
+### Equatorial Guinea: Unplaced
+
+Nothing held since 2023 names government services online, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether government services can be used online.
+
 ### Ethiopia: Unplaced
 
 Nothing held since 2023 names government services online, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether government services can be used online.
 
-### Niger: Unplaced
+### Guinea-Bissau: Unplaced
 
 Nothing held since 2023 names government services online, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether government services can be used online.
 
-### Burundi: No evidence
+### Liberia: Unplaced
 
-Nothing held names government services online or says there is none, so no stage is set.
+Nothing held since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held says whether government services can be used online.
+Not established: Nothing held since October 2023 says whether government services can be used online.
 
-### Cameroon: No evidence
+### Zimbabwe: Unplaced
 
-Nothing held names government services online or says there is none, so no stage is set.
+Nothing held since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held says whether government services can be used online.
-
-### Chad: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Djibouti: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Equatorial Guinea: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Guinea-Bissau: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Liberia: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Libya: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Madagascar: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Mali: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Namibia: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Sierra Leone: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Zambia: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
-
-### Zimbabwe: No evidence
-
-Nothing held names government services online or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government services can be used online.
+Not established: Nothing held since October 2023 says whether government services can be used online.

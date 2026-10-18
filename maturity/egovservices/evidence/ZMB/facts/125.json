@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "ZamPortal, the government platform on the GSB, hosts 322 services that citizens can access and apply for online, per its director Beaton Sibulowa.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "ZamPortal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Sibulowa confirms ZamPortal has recorded over 3.7 million transactions and generated 5 billion Kwacha since its inception.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "ZamPortal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZamPortal",
+   "country_label": "ZamPortal",
+   "class": "eservices",
+   "platform": "GSB",
+   "owner": "Electronic Government Division, SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "No national ID sign-in is stated, so no gateway fact."
+}

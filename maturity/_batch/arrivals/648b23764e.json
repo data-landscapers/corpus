@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-29-gnq-guineaecuatorialpress-plan-formacion-funcionarios",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The government presented an INAP training plan for central-administration civil servants from 23 February 2025 that includes basic-level digital competencies and typing courses.",
+       "as_of": "2025-01-29",
+       "date_precision": "day",
+       "system": "INAP plan de formacion, capacitacion y reciclaje",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INAP plan de formacion, capacitacion y reciclaje",
+       "country_label": "INAP training plan",
+       "class": "csskills",
+       "platform": "",
+       "owner": "INAP / Ministerio de la Funcion Publica",
+       "tiers": "two blocks: public administration; personal skills incl. basic digital"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan is for civil servants only."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a training plan; nothing on who runs government systems."
+    }
+   }
+  }
+ }
+}

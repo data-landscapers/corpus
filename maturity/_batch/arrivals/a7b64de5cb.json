@@ -1,0 +1,11 @@
+{"slug": "2025-07-12-egy-businessmen-itda-tax-number-commercial-registry", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions a national electronic signature infrastructure only in passing; no service or use stated."}}},
+"businessregister": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Internal Trade Development Authority says six new services were added to the Digital Egypt platform, bringing Commercial Registry services available online to 20, including a digital trade name reservation service launched with GAFI.", "as_of": "2025-07-12", "date_precision": "day", "system": "Commercial Registry", "class": "business"}
+], "systems": [{"system": "Commercial Registry", "country_label": "Egypt", "class": "business", "platform": "Digital Egypt platform", "owner": "Internal Trade Development Authority", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Refers to Egypt's digital transformation strategy only in passing; nothing on its standing, text, plan or reporting."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No law on electronic transactions or e-commerce is stated."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No payment of taxes or fees is stated; the tax number service is a registry data update."}}},
+"socialregistry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a social registry."}}},
+"taxregister": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Tax numbers are verified on the Commercial Registry, but no taxpayer register or shared number is described."}}}
+}}

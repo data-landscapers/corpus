@@ -1,1 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,Sudan-MM,Sudan,localai,Hugging Face,IndabaX Sudan,,2025-01-01-sdn-huggingface-indabax-sudan-mm-dataset
+SDN,Sudanese Arabic three-resource suite,Sudan,localai,,Sudan University of Science and Technology,,2026-01-01-sdn-ijcst-sudanese-arabic-three-resource-suite

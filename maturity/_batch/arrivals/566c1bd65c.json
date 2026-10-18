@@ -1,0 +1,72 @@
+{
+ "slug": "2026-01-05-mdg-newsmada-propfr-giz-politique-fonciere",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Newsmada reports the GIZ ProPFR project piloted an interconnected land information system linking topographic circumscriptions and land offices (guichets fonciers).",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Système d'information foncière interconnecté",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système d'information foncière interconnecté (pilot)",
+       "country_label": "Madagascar",
+       "class": "landmis",
+       "platform": "",
+       "owner": "ProPFR (GIZ)",
+       "tiers": "topographic circumscriptions, land offices"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Newsmada reports ProPFR digitised land data in the Analamanga region and piloted an interconnected land information system linking topographic circumscriptions and land offices.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Système d'information foncière interconnecté",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système d'information foncière interconnecté (pilot)",
+       "country_label": "Madagascar",
+       "class": "landmis",
+       "platform": "",
+       "owner": "ProPFR (GIZ)",
+       "tiers": "topographic circumscriptions, land offices"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names communal land offices and land data digitisation, but no connection at local government offices."
+    }
+   }
+  }
+ }
+}

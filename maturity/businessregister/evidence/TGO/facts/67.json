@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-14-tgo-fullnews-cfetogo-online-business-registration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Full-News article says firms can check name availability, file statutes, pay fees and receive registration documents online through the CFE site cfetogo.tg, in under four hours, with online payment since 2019.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "cfetogo.tg (Centre de Formalites des Entreprises)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cfetogo.tg",
+   "country_label": "Togo",
+   "class": "business",
+   "platform": "CFE website",
+   "owner": "Centre de Formalites des Entreprises (CFE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

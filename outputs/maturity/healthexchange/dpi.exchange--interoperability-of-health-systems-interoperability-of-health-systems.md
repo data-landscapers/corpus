@@ -22,11 +22,11 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 17 |
-| 2 Nascent | 18 |
+| 3 Established | 18 |
+| 2 Nascent | 19 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
-| No evidence | 12 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -90,8 +90,8 @@ Two health systems exchanged data in 2024; exchange across the health system is 
 
 Two health systems exchanged data in 2026; exchange across the health system is not known.
 
+- The US State Department report says Eswatini's CMIS works through its own data capture as well as interoperability with other relevant systems, and over 90 percent of HIV commodity consumption data is sourced from it ([source, 2026-05](https://www.state.gov/wp-content/uploads/2026/05/An-Update-on-Health-Service-Delivery-Accessible-5.28.2026.pdf)).
 - The Digital Landscape Assessment Report, as reported by Independent News, describes the Ministry of Health's Health Information Exchange system, based on HL7/FHIR integration standards, as the most technically advanced architecture observed in the assessment of 21 ministries; no systems it links are named (date is the story's published date) ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
-- HMIS Eswatini's Q1 2026 account says in-country developers completed OpenFn training, with automated FHIR-aligned data flows from the CMIS SQL Server environment into DHIS2 as the outcome ([source, 2026-03](https://www.linkedin.com/posts/hmis-eswatini_digitalhealth-eswatini-healthsystems-activity-7444746957228687361-maAL)).
 
 ### Guinea: 3 Established
 
@@ -99,11 +99,18 @@ Two health systems exchanged data in 2026; exchange across the health system is 
 
 - A Ministry of Health and Public Hygiene mission of 17-22 August 2026 reported that the OpenClinic hospital information system, deployed in five health facilities of Mamou and Dalaba (Dalaba prefectural hospital from January 2026) with Enabel's SAFE project, offers interoperability with the national DHIS2, while paper reporting to the SNIS continues in parallel ([source, 2026-08](https://lepandaguinee.com/2026/08/26/guinee-a-mamou-et-dalaba-le-pari-de-la-reforme-sanitaire-prend-une-nouvelle-dimension/)).
 
+### Guinea-Bissau: 3 Established
+
+Two health systems exchanged data in 2026; exchange across the health system is not known.
+
+- The press release says the NIA national health data warehouse currently integrates data from different DHIS2 instances, program systems and partner datasets (child health, TB, malaria, HIV, facility readiness) for cross-program analysis without modifying the source systems ([source, 2026-08-27](https://www.zenysis.com/news/guinea-bissau-ministry-of-public-health-and-zenysis-sign-five-year-memorandum-of-understanding-to-advance-national-health-intelligence-and-responsible-ai)).
+
 ### Kenya: 3 Established
 
 Two health systems exchanged data in 2025; exchange across the health system is not known.
 
 - The Ministry of Health launched a Health Information Exchange as one of four components, described as real-time secure data exchange between hospitals, counties and national systems; no count of connected systems is given ([source, 2025-08-04](https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation)).
+- The Cabinet Secretary said regulatory bodies like KMPDC have been fully integrated with the health information system, and Afya Yangu enables patient data portability across facilities ([source, 2025-06-16](https://www.health.go.ke/government-scales-digital-health-reform-drive-accountability-and-efficiency)).
 
 ### Lesotho: 3 Established
 
@@ -257,6 +264,12 @@ An exchange between health systems was under way in 2026; none in service is on 
 
 - The Ministry of Health said World Bank experts proposed an integrated digital platform for managing hospitals, centres and health posts plus centralised health data to improve collection and exchange, and the minister confirmed implementation of the proposed solutions would begin, with a joint technical committee to follow development ([source, 2026-03-09](https://saharamedias.net/254033)).
 
+### Mauritius: 2 Nascent
+
+An exchange between health systems was under way in 2024; none in service is on record.
+
+- UNDP says Mauritius launched the Rs 600 million two-phase 'One Patient, One Record' e-health project on 27 January 2024, with emphasis on health information exchange systems among providers, first results due at Jawaharlal Nehru Hospital from August 2024 ([source, 2024-01-27](https://www.undp.org/mauritius-seychelles/news/undp-supports-launch-one-patient-one-record-ehealth-project-enhanced-public-healthcare)).
+
 ### Sao Tome and Principe: 2 Nascent
 
 An exchange between health systems was under way in 2025; none in service is on record.
@@ -268,6 +281,7 @@ An exchange between health systems was under way in 2025; none in service is on 
 An exchange between health systems was under way in 2026; none in service is on record.
 
 - The reply says the Department has developed a national digital health enterprise architecture and health information exchange which at this stage includes the Health Patient Registration System and the Master Health Facilities List ([source, 2026-06](https://pmg.org.za/committee-question/38770/)).
+- The Minister of Health says the PHC electronic medical record system is integrated with programmes such as the Central Chronic Medicines Dispensing and Distribution, while EMR adoption is still phased ([source, 2025-08-01](https://pmg.org.za/committee-question/31749/)).
 
 ### Sudan: 2 Nascent
 
@@ -330,19 +344,7 @@ Nothing held names health systems exchanging data or says there is none, so no s
 
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
-### Guinea-Bissau: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
 ### Liberia: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
-### Mauritius: No evidence
 
 Nothing held names health systems exchanging data or says there is none, so no stage is set.
 

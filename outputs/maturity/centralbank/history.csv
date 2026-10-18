@@ -1,3 +1,8 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,ETH,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,fact,3,5,ETH-003;ETH-004,Arrivals added ETH-003; ETH-004; stage 3 -> 5.
 2026-10-17,TZA,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,fact,4,4,TZA-002,"Arrivals added TZA-003; TZA-003 removed at the top-stage check: a commercial bank's PAPSS launch, not the central bank's link; stage unchanged."
+2026-10-18,ERI,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,review,no evidence,3,ERI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,fact,no evidence,3,SSD-002;SSD-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,STP,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,review,no evidence,3,STP-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,fact,4,4,ZAF-004;ZAF-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank,review,no evidence,5,ZMB-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

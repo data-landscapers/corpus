@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-sen-aps-bourses-securite-familiale-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Senegal's Family, Social Action and Solidarity minister launched on 1 October 2026 payment of the bourses de securite familiale after two years' interruption, CFA140,000 per beneficiary household for 2026's four quarters, paid via mobile money operators (APS).",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "bourses de securite familiale",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bourses de securite familiale",
+   "country_label": "Senegal",
+   "class": "g2p",
+   "platform": "mobile money operators",
+   "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

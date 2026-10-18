@@ -1,0 +1,46 @@
+{
+ "slug": "2025-03-11-dza-lnr-electronic-land-booklet-2025",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The director general says all national cadastral plans and the land conservation archives are digitised, with over 27 million documents in a database and over 14 million properties digitised.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Land conservation and cadastre database",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "The director general says the database covers 217 land conservations across the country.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Land conservation and cadastre database",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The director general says the Fada El Djazair portal, launched May 2024, gives access to cadastral and land information and offers over 6,500 electronic services, plus electronic payment of land service fees.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Fada El Djazair",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fada El Djazair",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "web portal",
+   "owner": "Direction Generale du Domaine national",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{"slug": "2025-11-13-moz-oeconomico-digitalizacao-7033-funcionarios-formados", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Minister Americo Muchanga said the Mozambique Digital Certification System (SCDM), launched in 2023, has 500 active digital signatures.", "as_of": "2025-11-13", "date_precision": "day", "system": "Sistema de Certificacao Digital de Mocambique (SCDM)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The article says the SCDM covers public and private institutions, with the Attorney General's Office, the Ministry of Education and Culture and Eduardo Mondlane University newly joined, and more than 500 institutions signing documents through it.", "as_of": "2025-11-13", "date_precision": "day", "system": "Sistema de Certificacao Digital de Mocambique (SCDM)", "class": "authentication"}
+], "systems": [{"system": "Sistema de Certificacao Digital de Mocambique (SCDM)", "country_label": "Mozambique", "class": "authentication", "platform": "", "owner": "Ministry of Communications and Digital Transformation", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "inservice", "fact": "The article says 7,033 public servants (3,746 women, 3,287 men) have been trained in digital skills under the Public Administration Reform and Modernisation Programme.", "as_of": "2025-11-13", "date_precision": "day", "system": "Programa de Reforma e Modernizacao da Administracao Publica", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only says data protection challenges persist; no law, standing or application stated."}}},
+"digitalskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The skills training stated is for public servants only; nothing on a programme for the public or a measured share."}}},
+"ecommercelaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Mentions a regulation on registration and licensing of intermediary electronic service providers and platform operators only as under revision; no law or its standing is stated."}}}
+}}

@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says how taxpayers are registered.
+***Not held***. Nothing held since October 2023 says whether taxpayers are registered on computer.

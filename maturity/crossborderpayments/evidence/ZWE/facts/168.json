@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-14-zwe-newsday-ecocash-international-money-transfers",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "EcoCash launched an outbound international money transfer service from Zimbabwe to bank accounts and mobile wallets in countries including South Africa, Zambia, Kenya (M-Pesa) and China (Alipay), with all South African banks activated, per the company statement reported by NewsDay.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "EcoCash International Money Transfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash International Money Transfer",
+   "country_label": "Zimbabwe",
+   "class": "crossborder",
+   "platform": "USSD *151#",
+   "owner": "EcoCash",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

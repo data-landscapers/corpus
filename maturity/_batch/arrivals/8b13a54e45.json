@@ -1,0 +1,11 @@
+{"slug":"2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"No central bank payments role stated."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[{"sub_indicator":"protection","aspect":"rules","value":"none","fact":"UNCDF states Niger's consumer protection texts need updating because they do not cover digital finance, and that practically no legal recourse exists for consumers of digital financial services.","as_of":"2024-01-08","date_precision":"day","system":"Niger consumer protection texts","class":"protection"}],"systems":[{"system":"Observatoire de la Qualité des Services Financiers (OQSF-NE)","country_label":"Niger","class":"other","platform":"","owner":"Niger","tiers":""}],"note":""}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"dataprotectionlaw":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document is about consumer protection, not data protection."}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"retailpayments":{"countries":{"NER":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"UNCDF says mobile money in Niger is used to pay bills, electricity in particular.","as_of":"2024-01-08","date_precision":"day","system":"mobile money","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

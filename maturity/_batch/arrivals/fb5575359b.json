@@ -1,0 +1,123 @@
+{
+ "slug": "2025-05-20-mwi-satcp-national-single-window-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The Minister of Trade and Industry launched Malawi's National Single Window on 20 May 2025, live first for the trade ministry with seven MDAs at go-live and 22 agencies planned by September 2025, and SATCP's project manager says it integrates with the Malawi Revenue Authority's ASYCUDA World system.",
+       "as_of": "2025-05-20",
+       "date_precision": "day",
+       "system": "Malawi National Single Window (NSW)",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi National Single Window (NSW)",
+       "country_label": "Malawi",
+       "class": "customs",
+       "platform": "",
+       "owner": "Ministry of Trade and Industry",
+       "tiers": ""
+      },
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "ASYCUDA World",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Malawi."
+    }
+   }
+  }
+ }
+}

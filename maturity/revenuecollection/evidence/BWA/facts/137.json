@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-05-bwa-dailynews-burs-ebilling-single-window",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance minister Peggy Serame listed online tax filing and electronic payment among BURS e-services in operation.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "BURS e-services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

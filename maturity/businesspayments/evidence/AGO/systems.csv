@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,Sistema Nacional da Contratação Pública Electrónica (SNCPE),Angola,procurement,,Serviço Nacional da Contratação Pública,,2022-06-13-ago-angop-poupanca-compras-publicas-online
+AGO,SNCPE,Angola,procurement,Plataforma Electrónica,Ministry of Finance,,2017-09-06-ago-lexao-decreto-202-17-sncpe

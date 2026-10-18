@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-08-moz-noticias-funcionarios-publicos-formados-tic",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "MCTES data reported by Jornal Noticias say more than 33,000 public servants, state agents and young people were trained in ICT use in 2020-2023 through INAGE, and 87,931 in 2015-2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "INAGE ICT training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INAGE",
+   "country_label": "Instituto Nacional do Governo Electronico",
+   "class": "other",
+   "platform": "",
+   "owner": "MCTES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

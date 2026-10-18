@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-09-mrt-ami-taazour-tekavoul-transferts-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Taazour's delegate general says it has a digital database of over 1.5 million citizens and an advanced digital platform through which it provides social assistance to beneficiaries.",
+   "as_of": "2024-09-09",
+   "date_precision": "day",
+   "system": "Taazour digital platform",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Taazour digital platform",
+   "country_label": "Mauritania",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Taazour",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

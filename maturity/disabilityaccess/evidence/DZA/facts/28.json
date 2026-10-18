@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-15-dza-joradp-jo13-decrets-26-97-26-98-26-100",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Executive decree 26-98 of 31 January 2026 (Arts 15-18, Journal officiel no. 13) requires ministries and bodies to take measures for access to information and communication for persons with specific needs, using braille press, adapted computing tools, sign language and subtitling, and to provide adapted ICT equipment and technical aids to pupils, students and trainees.",
+   "as_of": "2026-01-31",
+   "date_precision": "day",
+   "system": "Executive decree 26-98 (accessibility of persons with specific needs)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

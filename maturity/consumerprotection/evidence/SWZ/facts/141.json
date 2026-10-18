@@ -1,0 +1,36 @@
+{
+ "slug": "2019-03-05-swz-cbe-practice-note-mmsp",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Central Bank of Eswatini's Practice Note No.1/2019/NPSS for mobile money service providers, in force from 5 March 2019, sets consumer-protection rules on fee disclosure, written customer contracts and complaints handling.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "Practice Note for Mobile Money Service Providers",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Practice Note requires mobile money providers to run a complaints desk and free hotline, and lets an unsatisfied complainant escalate an unresolved decision to the Central Bank of Eswatini.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "Practice Note for Mobile Money Service Providers",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Practice Note for Mobile Money Service Providers",
+   "country_label": "Eswatini",
+   "class": "protection",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": "No enforcement action or complaint figures are stated."
+}

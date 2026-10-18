@@ -1,0 +1,26 @@
+{
+ "slug": "2016-01-01-mar-ompic-identifiant-commun-entreprise-ice",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "OMPIC says the 15-digit Identifiant Commun de l'Entreprise is one number used by all administrations alongside the commercial register, tax and CNSS numbers, mandatory on official documents from 1 July 2016.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Identifiant Commun de l'Entreprise (ICE)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant Commun de l'Entreprise (ICE)",
+   "country_label": "Morocco",
+   "class": "business",
+   "platform": "www.ice.gov.ma",
+   "owner": "OMPIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-12-ken-psc-certifies-141-data-protection-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Public Service Commission, with Mozilla and AFRALTI, certified 141 officers from 42 ministries, departments and agencies on 12 July 2024 after a data protection and cybersecurity capacity-building programme, and says it intends to train more.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "PSC data protection and cybersecurity capacity-building programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PSC data protection and cybersecurity capacity-building programme",
+   "country_label": "Kenya",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Public Service Commission with Mozilla and AFRALTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

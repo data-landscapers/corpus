@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "SIGFIP",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-TAX",
+   "country_label": "E-TAX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names SIGFIP and E-TAX only as systems being interfaced with the NIU; no in-use, outage or renewal statement."
+}

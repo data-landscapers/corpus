@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-bdi-ejoheza-digitalisation-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The public procurement regulator's director general says at least seven of fourteen planned activities for the e-GP system are done and first tests are expected early 2027.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (e-GP)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,justice,cases,inservice,"The UNDP terminal evaluation says a computerised case management system, begun as a pilot, is fully operational as the High Court's principal system with about 9 workstations across its six benches.",2001-05,month,High Court case management system,justice,2001-05-29-eri-undp-terminal-eval-moj-capacity,https://erc.undp.org/evaluation/documents/download/158

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-21-mli-msh-elearning-msds-lms-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MSDS learning management system with AI functionality",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": "The release says the health ministry's training LMS was updated to include AI functionality but not what it does; a training platform is not an AI tool in a sector's service system."
+}

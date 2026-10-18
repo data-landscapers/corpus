@@ -22,8 +22,8 @@ The African Union's interoperability framework and the African ministers respons
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 28 |
-| 2 Nascent | 18 |
+| 3 Established | 29 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 6 |
@@ -169,7 +169,7 @@ The civil register and the ID system were linked one way or for one event in 202
 The civil register and the ID system were linked one way or for one event in 2026.
 
 - FIJ reports that a birth record on the NPC's VitalReg digital birth registration portal was found registered under a Lagos man's National Identification Number (NIN), linking birth records to the NIN ([source, 2026-08](https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/)).
-- The NPC says it now generates a NIN for each child at birth registration and synchronises birth registration data with NIMC's NIN records ([source, 2024-09-26](https://blueprint.ng/birth-registration-npc-introduces-nin-integration-for-newborns-linked-to-mothers/)).
+- The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Per the NPC chairman, birth certificates in Jigawa are processed for NIN generation ([source, 2025-09-16](http://www.nationalpopulation.gov.ng/news/npc-chairman-joins-stakeholders-to-celebrate-the-7th-national-day-of-identity-in-abuja)).
 
 ### Rwanda: 3 Established
 
@@ -190,6 +190,12 @@ The civil register and the ID system were linked one way or for one event in 202
 The civil register and the ID system were linked one way or for one event in 2026.
 
 - The Directorate General of Civil Registry, Nationality, Passport and Immigration handles civil registration and issues national identity cards, so one body holds both functions (Eye Radio report of the handover) ([source, 2026-08-11](https://www.eyeradio.org/new-immigration-chief-pledges-digital-reform-as-outgoing-director-leaves-stock-of-passports/)).
+
+### Tanzania: 3 Established
+
+The civil register and the ID system were linked one way or for one event in 2026.
+
+- NIDA says the Jamii Number is issued once in a lifetime and deactivated at death, with a CRVS-ID data sharing API fully operational ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-2-Tanzania-FINAL.pdf)).
 
 ### Tunisia: 3 Established
 
@@ -253,6 +259,7 @@ A link between the civil register and the ID system was under way in 2024.
 
 A link between the civil register and the ID system was under way in 2025.
 
+- The EBC reports the new Addis Ababa system is set to create interoperability between sectors including Health, Immigration, Courts and the National ID Program ([source, 2025-12-06](https://www.ebc.et/english/Home/NewsDetails?NewsId=3422)).
 - Addis Ababa Mayor Adanech Abiebie said the new city civil registration system facilitates data sharing among Immigration, Health, Courts, the National ID program and others, with no event or direction of exchange stated ([source, 2025-12-05](https://www.amn.gov.et/en/mayor-launches-new-digital-civil-registration-and-residency-service-platform/)).
 
 ### Gabon: 2 Nascent
@@ -299,6 +306,7 @@ A link between the civil register and the ID system was under way in 2025.
 A link between the civil register and the ID system was under way in 2026.
 
 - The data protection commission (CDP) says it is working with the Direction de l'automatisation des fichiers (DAF) on integrating civil status and identity, with two options (one integrated system or interoperability) reported to the authorities for decision ([source, 2026-09-16](https://aps.sn/identite-numerique-la-cdp-mise-sur-linteroperabilite-entre-letat-civil-et-les-systemes-publics/)).
+- RTS reports that ANEC (civil status agency) and DAF (identity file directorate) signed an interoperability protocol to exchange civil-status and biometric identity data ([source, 2025-07-05](https://www.rts.sn/actualite/detail/a-la-une/vers-une-identite-numerique-fiable-le-senegal-franchit-un-cap-dans-la-digitalisation-de-letat-civil)).
 
 ### Somalia: 2 Nascent
 
@@ -318,13 +326,6 @@ A link between the civil register and the ID system was under way in 2026.
 A link between the civil register and the ID system was under way in 2026.
 
 - At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry ([source, 2026-05-21](https://diplomat.so/articles/1395/Sudan-launches-SUDAPASS-digital-ID-in-Khartoum)).
-
-### Tanzania: 2 Nascent
-
-A link between the civil register and the ID system was under way in 2026.
-
-- The NIDA Director General said NIDA plans to connect the national ID with services including the birth certificate, from four services now to nine ([source, 2026-09-16](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)).
-- NIDA director general James Kaji said birth certificates and some RITA functions are intended to move onto the national ID, so that many civil services sit with NIDA ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
 ### Togo: 2 Nascent
 

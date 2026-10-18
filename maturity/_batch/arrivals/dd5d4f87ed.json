@@ -1,0 +1,192 @@
+{
+ "slug": "2024-05-20-nam-fig-mazambani-communal-land-administration-nclas",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this for Namibia."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The presentation cites a population of 3,022,401 from the NSA 2023 Population and Housing Census.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Population and Housing Census",
+       "country_label": "Census 2023",
+       "class": "census",
+       "platform": "",
+       "owner": "NSA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas.",
+       "as_of": "2024-05-20",
+       "date_precision": "day",
+       "system": "NCLAS",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NCLAS",
+       "country_label": "NCLAS 2",
+       "class": "land",
+       "platform": "web-based, server-based",
+       "owner": "Ministry of Agriculture, Water and Land Reform",
+       "tiers": "Communal Land Boards"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "landmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas.",
+       "as_of": "2024-05-20",
+       "date_precision": "day",
+       "system": "NCLAS",
+       "class": "landmis"
+      },
+      {
+       "sub_indicator": "landmis",
+       "aspect": "joined",
+       "value": "joined",
+       "fact": "The presentation says NCLAS has two components, communal deeds and communal cadastre (parcel geometries), linked via a Unique Parcel Identifier.",
+       "as_of": "2024-05-20",
+       "date_precision": "day",
+       "system": "NCLAS",
+       "class": "landmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NCLAS",
+       "country_label": "NCLAS 2",
+       "class": "land",
+       "platform": "web-based, server-based",
+       "owner": "Ministry of Agriculture, Water and Land Reform",
+       "tiers": "Communal Land Boards"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

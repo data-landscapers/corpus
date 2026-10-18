@@ -1,0 +1,60 @@
+{
+ "slug": "2024-03-11-ken-judiciary-efiling-all-courts-causelist-portal",
+ "studies": {
+  "justice": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "The Judiciary of Kenya launched e-filing in all courts nationwide on 11 March 2024, extending it from 17 counties to the other 34, so litigants can file cases online at any hour.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "e-filing",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-filing",
+       "country_label": "Kenya",
+       "class": "justice",
+       "platform": "",
+       "owner": "Judiciary of Kenya",
+       "tiers": "all courts"
+      },
+      {
+       "system": "Causelist Portal",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Judiciary of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

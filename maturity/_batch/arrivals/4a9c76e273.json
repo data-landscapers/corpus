@@ -1,0 +1,16 @@
+{
+  "slug": "2024-07-01-sle-uadf-launch-rural-telephony-project",
+  "studies": {
+    "datacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The data centre named is a component of a rural telephony project, not said to rent space or computing to others."}}},
+    "digitaldivides": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The Universal Access Development Fund's CEO says its Rural Telephony Project, launched across five rural communities, has connected approximately 47,700 people across 114 rural and remote localities, with over 30 schools and about 10 health centres served.", "as_of": "2024-07", "date_precision": "month", "system": "Rural Telephony Project", "class": "ruralaccess"}
+    ], "systems": [{"system": "Rural Telephony Project", "country_label": "Sierra Leone", "class": "ruralaccess", "platform": "VSAT, microwave and fibre links with five towers", "owner": "Universal Access Development Fund", "tiers": ""}], "note": ""}}},
+    "localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document states nothing on local government office connections."}}},
+    "mobilepenetration": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States only a ministerial aim to raise mobile penetration by 5% in 2024, not a share of people who own a phone."}}},
+    "nationaldatacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated."}}},
+    "ruralelectrification": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No rural electricity access figure is stated."}}},
+    "satellitebroadband": {"countries": {"SLE": {"facts": [], "systems": [], "note": "VSAT serves the project's own rural sites; no satellite broadband licensed or sold to households or businesses is stated."}}},
+    "startups": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on startup law, labelling or funds."}}},
+    "techhubs": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on technology hubs, incubators or parks."}}}
+  }
+}

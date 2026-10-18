@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-06-lso-newsday-rsl-implements-e-taxation",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Revenue Service Lesotho said its e-Taxation system was fully implemented after a pilot in the previous filing season, so clients can register and file online.",
+   "as_of": "2024-04-30",
+   "date_precision": "day",
+   "system": "e-Taxation system",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Revenue Service Lesotho said the e-Taxation system streamlines tax filing and payments for all registered clients on a unified platform, and its clinics teach e-payment.",
+   "as_of": "2024-04-30",
+   "date_precision": "day",
+   "system": "e-Taxation system",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Taxation system",
+   "country_label": "Lesotho",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Revenue Service Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

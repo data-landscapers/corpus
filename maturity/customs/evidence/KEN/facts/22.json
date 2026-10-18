@@ -1,0 +1,56 @@
+{
+ "slug": "2025-08-25-ken-businessdaily-kra-itax-icms-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Business Daily reports the Integrated Customs Management System (iCMS), adopted in October 2021, is Kenya's sole clearance system, where traders lodge import and export documents at Mombasa, JKIA and inland depots.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "KRA Commissioner-General Humphrey Wattanga says KRA is upgrading and modernising iCMS from a back-end perspective, and is considering a move to the cloud.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Business Daily says iCMS involves submitting export or import documents into a single-window system.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "iCMS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "iCMS / EAC single customs territory",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iCMS",
+   "country_label": "Integrated Customs Management System",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

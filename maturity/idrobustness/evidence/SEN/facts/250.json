@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-05-sen-rts-anec-daf-interoperabilite-rnec",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "RTS reports that more than 10 million citizens are enrolled biometrically.",
+   "as_of": "2025-07-05",
+   "date_precision": "day",
+   "system": "DAF national identity file",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

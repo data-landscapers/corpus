@@ -1,0 +1,13 @@
+{"slug":"2025-10-15-cod-path-snapiform-ai-health-data-reporting","studies":{
+"aiabuse":{"countries":{"COD":{"facts":[],"systems":[],"note":"Document states no rule or authority on AI harms."}}},
+"aigovernment":{"countries":{"COD":{"facts":[],"systems":[],"note":"The AI tool serves the health sector's reporting, not general administration."}}},
+"aisectoral":{"countries":{"COD":{"facts":[
+{"sub_indicator":"sectorai","aspect":"use","value":"underway","fact":"PATH, with the Ministry of Health, piloted SnapiForm, an AI tool reading paper health registers into DHIS2, in 12 DRC health zones for several months; PATH reports reporting time fell from over two hours to about 15 minutes.","as_of":"2025-10","date_precision":"month","system":"SnapiForm","class":"sectorai"}],
+"systems":[{"system":"SnapiForm","country_label":"DRC","class":"sectorai","platform":"Telegram mini-app with DHIS2","owner":"PATH (MACEPA) with the Ministry of Health","tiers":"health zone"}],"note":""}}},
+"aisystems":{"countries":{"COD":{"facts":[],"systems":[],"note":"SnapiForm was developed by PATH; the document does not say it is built or hosted in the DRC."}}},
+"health":{"countries":{"COD":{"facts":[
+{"sub_indicator":"hmis","aspect":"digitised","value":"district","fact":"PATH says DRC health zone staff manually enter HMIS reports from 30 to 150 health facilities a month, about 2,000 data points per facility, into DHIS2, around half a million pages a month nationally.","as_of":"2025-10","date_precision":"month","system":"DHIS2","class":"hmis"}],
+"systems":[{"system":"DHIS2","country_label":"DRC","class":"hmis","platform":"DHIS2","owner":"Ministry of Health","tiers":""}],"note":""}}},
+"healthmis":{"countries":{"COD":{"facts":[
+{"sub_indicator":"hmis","aspect":"system","value":"inservice","fact":"PATH states DRC health zone staff enter HMIS reports into DHIS2, the digital health reporting platform, about half a million pages a month across the country.","as_of":"2025-10","date_precision":"month","system":"DHIS2","class":"hmis"}],
+"systems":[{"system":"DHIS2","country_label":"DRC","class":"hmis","platform":"DHIS2","owner":"Ministry of Health","tiers":""}],"note":""}}}}}

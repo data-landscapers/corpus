@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-03-cpv-imij-sniac-projeto-operacional",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IMIJ's project page says the SNIAC national identification system is operational and issues the national ID card (215,189 issued by Q2 2021), the e-passport and the foreign residents' permit.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-som-hajss-assessment-digital-skills-training-government",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "A survey of 138 Somali government employees finds 70.3% report having attended ICT or digital-skills training, and 55.1% report an ICT training programme or coordinator in their ministry.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "ICT training in government institutions",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

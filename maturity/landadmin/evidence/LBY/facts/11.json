@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-22-lby-lana-first-electronic-real-estate-certificate",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "LANA reports the Real Estate Registration Authority issued its first electronic real estate certificate, with an encrypted QR code, at the South Tripoli registration office, and calls it a model for moving to digitisation and building a real estate database.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "electronic real estate certificate",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic real estate certificate",
+   "country_label": "Libya",
+   "class": "landmis",
+   "platform": "QR code",
+   "owner": "Real Estate Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

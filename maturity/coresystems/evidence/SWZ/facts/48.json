@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-08-swz-positivenews-pac-e-gp-under-expenditure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Integrated Financial Management Information System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS is described as an installation project with E1.3m of E38.8m spent, not a system in use."
+}

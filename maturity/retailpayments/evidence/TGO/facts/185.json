@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-14-tgo-fullnews-cfetogo-online-business-registration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "CFE director Samuel Sanwogou says firms have been able to pay registration fees through Flooz and Tmoney online payment means since February 2019.",
+   "as_of": "2019-02",
+   "date_precision": "month",
+   "system": "Flooz and Tmoney",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Flooz",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Tmoney",
+   "country_label": "Togo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

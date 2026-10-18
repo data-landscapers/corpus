@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-02-uga-moict-government-communicators-icdl-training",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Uganda's Ministry of ICT and National Guidance held a five-day ICDL-aligned digital skills training (Computer and Online Essentials, Digital Marketing) for communication officers from government MDAs, with further ICDL modules set for July 2025.",
+   "as_of": "2025-05-30",
+   "date_precision": "day",
+   "system": "MoICT&NG ICDL digital skills training for MDA communication officers",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoICT&NG ICDL digital skills training",
+   "country_label": "Uganda",
+   "class": "csskills",
+   "platform": "ICDL framework",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

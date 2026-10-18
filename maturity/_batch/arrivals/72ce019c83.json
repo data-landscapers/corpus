@@ -1,0 +1,34 @@
+{
+ "slug": "2021-11-19-mar-justice-plateforme-avocat-services-numeriques",
+ "studies": {
+  "justice": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "The Ministry of Justice says lawyers can obtain copies of judgments and submit service and enforcement requests through the Lawyer platform, launched with Casablanca courts.",
+       "as_of": "2021-11",
+       "date_precision": "month",
+       "system": "Lawyer platform (Mahami)",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lawyer platform",
+       "country_label": "Morocco",
+       "class": "justice",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": "Casablanca commercial, first-instance and appeal courts"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

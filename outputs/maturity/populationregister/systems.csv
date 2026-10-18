@@ -22,8 +22,12 @@ CIV,ONECI civil status system,Cote d'Ivoire,other,digital civil-status system li
 CIV,RNPP,Registre National des Personnes Physiques,population,,ONECI,,2025-09-10-civ-koaci-nni-reference-demarches-administratives
 COD,registre de la population de Kinshasa,RD Congo (Kinshasa province),population,compilation server,"Ville-province de Kinshasa, provincial Interior Ministry",provincial,2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
+CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,population,central civil identification database with PKI,Conselho de Gestão (coordinated by the registry and identification ministry),,2013-09-17-cpv-bo-lei-43-viii-2013-sniac
 DJI,Registre national des personnes physiques,Djibouti,population,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,Registre National des Personnes Physiques (RNPP) / NNI,Djibouti,population,"biometric, centralised",Direction Generale de la Population et de la Famille with ANSIE,,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques
+DZA,Registre national automatisé de l'état civil,Algeria,population,commune databases linked by secure broadband network,Ministry of the Interior and Local Authorities,,2014-02-17-dza-dknews-registre-national-etat-civil-automatise
+DZA,Registre national de l'Etat civil,Algeria,population,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
+EGY,National citizen database,Egypt,population,,"Civil Status Authority, Ministry of Interior",,2020-12-26-egy-almasryalyoum-qanun-ahwal-madaniya
 GIN,Registre national des personnes physiques (RNPP),RNPP,population,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,registre national des personnes physiques,Guinea,population,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identite (RNPP),Guinee,population,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
@@ -34,11 +38,18 @@ GIN,Registre national des personnes physiques (RNPP),Guinea,population,,ONECI,,2
 KEN,Maisha Integrated Population Register (IPRS),Kenya,population,,"Directorate of Population Registration Services, State Department for Immigration and Citizen Services","Primary, secondary and tertiary registration agencies feed a central repository",2026-08-30-integrated-population-registration-service
 KEN,Integrated Population Register System (IPRS),Kenya,population,,State Department for Immigration and Citizen Services,,2025-08-11-eacc-iprs-integration
 KEN,Integrated Population Registration Services (IPRS),Kenya,population,,,,2026-06-26-ngao-trained-revised-id-registration
+LBR,NIDCRVS,Liberia,population,,Government of Liberia,,2026-10-16-lbr-liberiapublicradio-senate-review-52m-digital-id-concession
+LSO,National Population Database,Lesotho,population,,Ministry of Home Affairs (NICR),,2022-07-20-lso-moha-automated-births-deaths-registration-roma
+LSO,NICR (National Identity and Civil Registry),Lesotho,population,,Ministry of Home Affairs,,2020-08-10-lso-moha-nicr-database-pensions-service-delivery
 MAR,National Population Registry (RNP),Morocco,population,,National Register Agency,,2024-12-04 World Bank approves $70M for Morocco's social protection delivery (RNP and Unified Social Registry)
 MAR,national population register,Morocco,population,MOSIP,,,2026-06-17 They're taking DPI to the world - The Times of India
 MAR,National Population Registry (RNP),Morocco,population,,,,2024-12-04-44000-p504398-morocco-second-identity-and-targeting-fo
 MAR,Registre national de l'etat civil (planned),Morocco,population,central electronic database,Ministry of Interior,,2024-10-29-aujourdhui-registre-national-etat-civil-digital
 MAR,registre national de la population,Morocco,population,,,,2025-09-17-marocma-generalisation-protection-sociale-rnp-rsu
+MAR,Registre National de la Population,Morocco,population,,,,2026-01-01-mar-anss-conditions-eligibilite-asd
+MAR,National Registry of Population (RNP),Morocco,population,,,,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting
+MDG,"IDMS (lot 8, DP n°028)",Madagascar,population,"open to MOSIP, OSIA or other",PRODIGY / UGD,,2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement
+MDG,NUI generator,Madagascar,other,,Government of Madagascar,,2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement
 MLI,RAVEC (recensement administratif à vocation d'état civil),Mali,population,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),population,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
 MOZ,National Population Registry,Mozambique,population,,National Directorate of Civil Identification,,2026-05-29-atdi-mobile-digital-id-tender
@@ -79,4 +90,6 @@ ZAF,National Population Register,South Africa,population,,Department of Home Aff
 ZAF,population register,South Africa,population,,Department of Home Affairs,,2026-10-01-sa-digital-id-schreiber-demo
 ZAF,MyMzansi,South Africa,other,smartphone app,Department of Home Affairs,,2026-10-01-sa-digital-id-schreiber-demo
 ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2025-11-05-zaf-pmg-nw5645-south-africans-without-ids
+ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2025-08-01-zaf-pmg-nw4628-hprs-biometric
+ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2025-12-14-zaf-pmg-nw7076-population-register-measures
 ZWE,national population registry,Zimbabwe,population,,Registrar-General,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform

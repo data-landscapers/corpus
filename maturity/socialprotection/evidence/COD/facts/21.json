@@ -1,0 +1,36 @@
+{
+ "slug": "2023-03-01-cod-worldbank-step-kin-transferts-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank paper states that STEP-KIN beneficiaries in Kinshasa applied through a call centre or self-registration platform and the Fonds social validated them against whitelists and eligible neighbourhoods, enrolling 300,829 (95% of 315,000 applicants).",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "STEP-KIN self-registration platform",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The World Bank paper states that mobile network operators paid STEP-KIN transfers into beneficiaries' mobile money accounts on the Fonds social's instructions, with 100% of enrolled beneficiaries paid successfully from March 2021.",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "STEP-KIN",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STEP-KIN",
+   "country_label": "COD",
+   "class": "socialmis",
+   "platform": "mobile-phone self-registration platform and mobile money",
+   "owner": "Fonds social de la RDC",
+   "tiers": "Kinshasa emergency cash transfer"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-03-tgo-justice-tgi-lome-paiement-numerique",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Togo's justice ministry launched on 2 July 2026 online payment of fees for nearly forty services of the Tribunal de Grande Instance de Lomé.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Portail des services en ligne du TGI de Lomé",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

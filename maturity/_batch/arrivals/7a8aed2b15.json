@@ -1,0 +1,8 @@
+{"slug":"2026-01-01-eth-ena-unified-mesob-application","studies":{
+"aiabuse":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Nothing on rules or an authority for AI harms."}}},
+"aigovernment":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No government AI system in use is stated."}}},
+"aisectoral":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No sectoral AI tool is stated."}}},
+"aisystems":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Only an AI University is mentioned, with no model, dataset or computing."}}},
+"egovservices":{"countries":{"ETH":{"facts":[{"sub_indicator":"eservices","aspect":"services","value":"inservice","fact":"Prime Minister Abiy inaugurated the Unified MESOB Application, which ENA says brings 27 services from across institutions to a single platform, and said MESOB one-stop service has reached 70 centres within a year.","as_of":"2026","date_precision":"year","system":"Unified MESOB Application","class":"eservices"}],"systems":[{"system":"Unified MESOB Application","country_label":"Ethiopia","class":"eservices","platform":"mobile application","owner":"Government of Ethiopia","tiers":""}],"note":"Sign-in by national ID or a shared account is not stated, so no gateway fact."}}},
+"idrobustness":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Nothing on a national ID system."}}}
+}}

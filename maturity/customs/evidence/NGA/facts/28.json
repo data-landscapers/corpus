@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-07-nga-businessday-bodogwu-ucms-ai",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Nigeria Customs Service has introduced the web-based B'Odogwu Unified Customs Management System, and its PTML Command recorded a record N44.9 billion monthly revenue in November 2024, per the service's deputy comptroller-general Kikelomo Adeola.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "B'Odogwu",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "B'Odogwu",
+   "country_label": "Nigeria",
+   "class": "customs",
+   "platform": "Unified Customs Management System, web-based",
+   "owner": "Nigeria Customs Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

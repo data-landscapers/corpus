@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GHA-001,GHA,revenue,payment,inservice,"The Ghana Revenue Authority says domestic taxpayers pay taxes on the Ghana.gov platform by bank card, QR code, mobile money USSD and bank transfers, and at 22 designated banks, from 1 May 2021.",2021-04-21,day,Ghana.gov,revenue,2021-04-21-gha-gra-cashless-policy,https://gra.gov.gh/cashless-policy/
+GHA-002,GHA,revenue,payment,inservice,"The chapter says GRA's ITAPS, introduced in 2019, facilitates online payment and record keeping for domestic taxes by taxpayers.",2019,year,ITAPS,revenue,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation,https://doi.org/10.4324/9781003274322-9

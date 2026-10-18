@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "2",
-   "link": "underway",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-003;TZA-004",
-   "gaps": "No source held since October 2023 says: is one link in service.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-005",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

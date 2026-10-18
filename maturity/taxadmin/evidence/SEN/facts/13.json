@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-27-sen-dgid-communique-sentax",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGID says SENTAX now replaces ETAX for online filing of returns by Large Enterprises Directorate taxpayers.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGID says SENTAX lets Large Enterprises Directorate taxpayers pay taxes online (telepaiement).",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The DGID says use of SENTAX becomes mandatory for all declarations and payments of Large Enterprises Directorate taxpayers from 1 September 2026, and paper returns are no longer accepted by that directorate.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SENTAX",
+   "country_label": "Senegal",
+   "class": "taxsystem",
+   "platform": "online platform sentax.dgid.sn",
+   "owner": "Direction generale des Impots et des Domaines",
+   "tiers": "Large Enterprises Directorate (DGE) taxpayers"
+  }
+ ],
+ "note": ""
+}

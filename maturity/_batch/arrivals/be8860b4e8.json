@@ -1,0 +1,61 @@
+{
+ "slug": "2025-01-01-mli-isoc-mali-publications",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists a civil-society study on digital sovereignty; states nothing on state data."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists a study on the history of IXPs in Mali but states no exchange in service."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists a 2023 study of operator prices but gives no price."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "Internet Society Mali lists published studies from 2023 to 2025 on internet exchange points, internet resilience, digital sovereignty, cybersecurity and operator prices.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Internet Society Mali",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a national IGF report is listed, which places nothing."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-08-bwa-dailynews-tax-filing-season-commences",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "BURS board chairperson Lesedi Senatla encouraged taxpayers to file 2025 individual returns through BURS' e-services portal and Mtax mobile app, with the filing season running 1 July to 30 September 2025.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "BURS e-services portal and Mtax app",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BURS e-services portal and Mtax app",
+   "country_label": "Botswana",
+   "class": "taxsystem",
+   "platform": "web portal and mobile app",
+   "owner": "Botswana Unified Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

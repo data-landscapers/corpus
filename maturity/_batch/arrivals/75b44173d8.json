@@ -1,0 +1,167 @@
+{
+ "slug": "2025-11-05-civ-cipesa-digital-inclusion-disabilities",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the National Digital Development Strategy is named, which is a national strategy, not a sector policy."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "CIPESA says the government launched the Public Administration Interoperability Platform in September 2025, to streamline government processes and eliminate bureaucratic silos.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Public Administration Interoperability Platform",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Administration Interoperability Platform",
+       "country_label": "Cote d'Ivoire",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Government of Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "CIPESA says ANSUT's universal access efforts include broadband connectivity for rural communities.",
+       "as_of": "2025-11-05",
+       "date_precision": "day",
+       "system": "ANSUT universal access",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "CIPESA says ANSUT's universal access efforts include digital literacy and skills programs.",
+       "as_of": "2025-11-05",
+       "date_precision": "day",
+       "system": "ANSUT universal access",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "A ministry speaker said Law No 2024-352 of 6 June 2024 on electronic communications contains measures to enable inclusive access for persons with disabilities, though implementation has been slow.",
+       "as_of": "2024-06-06",
+       "date_precision": "day",
+       "system": "Law No 2024-352 on electronic communications",
+       "class": "accessibility"
+      },
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "CIPESA says the Ministry of Digital Transition and Digitalization is reviewing its digital transition policy with a focus on prioritising persons with disabilities.",
+       "as_of": "2025-11-05",
+       "date_precision": "day",
+       "system": "Digital transition policy review",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

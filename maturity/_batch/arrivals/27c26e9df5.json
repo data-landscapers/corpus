@@ -1,0 +1,10 @@
+{"slug": "2025-09-14-cod-acp-matinee-scientifique-donnees-ia", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only recommends a legal framework on AI ethics; no rule, draft or authority stated."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only recommends local data centres and national databases; nothing built or planned with a named builder."}}},
+"datacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "Recommends local data centres; states no data centre for hire."}}},
+"dataprotectionlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only recommends a clear legal framework on personal data protection; no law, bill or dated absence stated."}}},
+"nationaldatacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "States no nationally owned data centre."}}},
+"policyresearch": {"countries": {"COD": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The ACP reports that the CES-UDPS (the UDPS scientific elite corps) held a scientific morning in Kinshasa on valuing Congolese data for locally adapted AI solutions, with Prof. Elysee Ilunga of ISTA speaking.", "as_of": "2025-09-11", "date_precision": "day", "system": "CES-UDPS scientific morning", "class": "research"}], "systems": [], "note": ""}}}
+}}

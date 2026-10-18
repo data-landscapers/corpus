@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,metsat,stream,underway,Meteo-France International's project page says the 2019-2022 PMI turnkey modernisation for INAMET (EUR 60m) includes a satellite data reception system to receive the EUMETCast data flow.,2019,year,"EUMETCast reception system, PMI Project",metsat,2019-01-01-ago-mfi-inamet-pmi-modernization-project,https://www.mfi.fr/turnkey-projects/pmi-project-global-modernization-project/

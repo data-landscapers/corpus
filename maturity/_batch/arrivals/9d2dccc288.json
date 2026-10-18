@@ -1,0 +1,7 @@
+{"slug": "2024-05-31-tza-unicef-smartwasomi-launch", "studies": {
+"civilserviceskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document states nothing on digital-skills training for civil servants."}}},
+"digitaldivides": {"countries": {"TZA": {"facts": [], "systems": [{"system": "SmartWASOMI", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Ministry of Education, Airtel Tanzania, UNICEF", "tiers": ""}], "note": "SmartWASOMI connects schools only, a programme for schools and not for rural areas generally; no rural and urban use figures."}}},
+"digitalskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No programme teaching the public digital skills and no skills share; the curriculum mention is school computing."}}},
+"nonstatefinance": {"countries": {"TZA": {"facts": [], "systems": [{"system": "SmartWASOMI", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Ministry of Education, Airtel Tanzania, UNICEF", "tiers": ""}], "note": "A public-private school connectivity initiative is described but no amount is named for any party."}}},
+"schoolinternet": {"countries": {"TZA": {"facts": [], "systems": [{"system": "SmartWASOMI", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Ministry of Education, Airtel Tanzania, UNICEF", "tiers": ""}], "note": "No share of secondary schools with internet is given and no compulsory subject is stated; the 50-school pilot is a connectivity programme."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-lby-libyaherald-asycuda-full-launch",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Libya's Customs Authority announced on 21 August 2025 the full launch of the ASYCUDA customs system early the following month, after a two-week expert visit for the Customs Procedures Automation Project reviewed infrastructure readiness and implementation progress.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA",
+   "country_label": "Libya",
+   "class": "customs",
+   "platform": "UNCTAD ASYCUDA",
+   "owner": "Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

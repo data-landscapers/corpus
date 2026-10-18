@@ -1,6 +1,6 @@
 # Population register: population register
 
-*As at 2026-10-17.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Leading | 11 |
 | 4 Operating | 0 |
 | 3 Established | 5 |
-| 2 Nascent | 3 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 33 |
+| Unplaced | 5 |
+| No evidence | 28 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+Other systems drew on the population register in 2023.
+
+- The Interior Ministry says 23 ministries and public bodies drew on Registre national de l'Etat civil data in 2023, nearly 111 million consultations ([source, 2023](https://www.lnr-dz.com/2024/01/18/merad-senquiert-de-letat-davancement-des-projets-de-modernisation/)).
 
 ### Benin: 5 Leading
 
@@ -137,6 +143,18 @@ A population register was under way in 2026; none in service is on record.
 - A workshop launched on 18 September 2026 on extending the Registre national des personnes physiques, with a platform for verifying and validating identity to have its first phase done before end-2026, per the minister ([source, 2026-09-18](https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/)).
 - PN-RAVEC workshop of 12-17 January 2026 reviewed draft implementing texts on the mechanisms for constituting an interoperable Registre National des Personnes Physiques under Laws L/2023/019/CNT and L/2023/020/CNT ([source, 2026-01](https://ravec.gov.gn/ravec-kindia-atelier-de-relecture-et-validation-des-textes-dapplication-portant-etat-civil-et-identification-des-personnes-physiques/)).
 
+### Liberia: 2 Nascent
+
+A population register was under way in 2026; none in service is on record.
+
+- Liberia's Senate sent to committee President Boakai's proposed US$52 million concession with OeSD International GmbH for a National Identification Central Digital Civil Registry and Vital Statistics System, to hold a single national database of identity records, ahead of a ratification vote ([source, 2026-10-16](https://liberiapublicradio.com/2026/10/16/liberian-senate-orders-review-of-us52-million-digital-identity-concession-agreement/)).
+
+### Madagascar: 2 Nascent
+
+A population register was under way in 2024; none in service is on record.
+
+- PRODIGY's answers to bidders on tender DP n°027/028 state that the register of persons (registre des personnes) falls within the scope of lot 8, the identity management system (IDMS) tender, with bids due by 29 April 2024 ([source, 2024-04-12](https://digital.gov.mg/wp-content/uploads/2024/04/Reponses-aux-demandes-de-clarification-20240412-1505.pdf)).
+
 ### Niger: 2 Nascent
 
 A population register was under way in 2026; none in service is on record.
@@ -144,13 +162,25 @@ A population register was under way in 2026; none in service is on record.
 - Niger's director general of territorial administration said on 2026-09-03 that the reforms include creating a National Population Register, to become a single interoperable referential, with a unique number for each person ([source, 2026-09-03](https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/)).
 - Niger's Registre National de la Population is being constituted, centred on biometric enrolment of the population, with deconcentrated actors to carry out the registration operations, officials said at the Agadez workshop (ANP) ([source, 2026-08-28](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/)).
 
-### Algeria: Unplaced
+### Burundi: Unplaced
 
 Nothing held since 2023 names a population register, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether a population register is under way or in service.
 
-### Burundi: Unplaced
+### Cape Verde: Unplaced
+
+Nothing held since 2023 names a population register, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+
+### Egypt: Unplaced
+
+Nothing held since 2023 names a population register, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+
+### Lesotho: Unplaced
 
 Nothing held since 2023 names a population register, so no stage is set.
 
@@ -180,12 +210,6 @@ Nothing held names a population register or says there is none, so no stage is s
 
 Not established: Nothing held names a population register, or says there is none.
 
-### Cape Verde: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
 ### Central African Republic: No evidence
 
 Nothing held names a population register or says there is none, so no stage is set.
@@ -199,12 +223,6 @@ Nothing held names a population register or says there is none, so no stage is s
 Not established: Nothing held names a population register, or says there is none.
 
 ### Congo: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
-### Egypt: No evidence
 
 Nothing held names a population register or says there is none, so no stage is set.
 
@@ -258,25 +276,7 @@ Nothing held names a population register or says there is none, so no stage is s
 
 Not established: Nothing held names a population register, or says there is none.
 
-### Lesotho: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
-### Liberia: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
 ### Libya: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
-### Madagascar: No evidence
 
 Nothing held names a population register or says there is none, so no stage is set.
 

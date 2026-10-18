@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,coverage,share,twothirds,"The ID4Africa slide gives 31 million citizens holding the electronic national identity card against a total Moroccan population of 36.6 million, about 85%.",2025-05-22,day,Electronic National Identity Card,idsystem,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting,https://www.id4africa.com/2025/files/T3-P1-S3-MOSIP-Final.pdf

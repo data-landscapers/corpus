@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-30-bfa-faso7-jsena-statistiques-education-sige",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The director general of education studies and statistics, Sylvain Ouédraogo, said the education management information system (SIGE) is being innovated, with a geo-referenced census of structures, a national pupil file, online enrolment and school ID cards named as levers to renovate it.",
+   "as_of": "2024-12-30",
+   "date_precision": "day",
+   "system": "Système d'Information de Gestion de l'Éducation (SIGE)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système d'Information de Gestion de l'Éducation (SIGE)",
+   "country_label": "SIGE",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Basic Education, Literacy and National Languages (MEBAPLN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

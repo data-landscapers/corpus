@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-09-mwi-mra-asycuda-world-4-4-upgrade",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Malawi Revenue Authority says it is upgrading its customs management system from ASYCUDA World 4.3.3 to 4.4, with migration scheduled for 11 January 2025.",
+       "as_of": "2025-01-11",
+       "date_precision": "day",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Malawi Revenue Authority says it supports clearing agents, importers and exporters on its ASYCUDA World 4.3.3 system at all customs stations across the country.",
+       "as_of": "2025-01-09",
+       "date_precision": "day",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Malawi",
+       "class": "customs",
+       "platform": "ASYCUDA World 4.4",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

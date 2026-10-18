@@ -1,0 +1,106 @@
+{
+ "slug": "2026-05-05-nam-newera-namra-asycudaworld-upgrade",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs (ASYCUDA) is other for this study; no finance, tax or payroll system is stated."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers customs only and states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NamRA, reported by New Era on 2026-05-05, put the upgraded ASYCUDAWorld 4.4.1 into effect that day, with transit, warehousing, export and similar declarations accepted online only.",
+       "as_of": "2026-05-05",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDAWorld 4.4.1",
+       "country_label": "ASYCUDAWorld",
+       "class": "customs",
+       "platform": "ASYCUDA",
+       "owner": "Namibia Revenue Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

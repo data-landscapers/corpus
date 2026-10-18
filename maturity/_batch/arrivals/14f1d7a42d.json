@@ -1,0 +1,34 @@
+{
+ "slug": "2021-02-24-mar-wco-dematerialisation-douane-maroc",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Moroccan Customs says declarations have been lodged by computer since 1991 and clearance entered total dematerialisation in 2019, on the online clearance system BADR.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "BADR",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BADR",
+       "country_label": "Maroc",
+       "class": "customs",
+       "platform": "",
+       "owner": "Douane marocaine",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

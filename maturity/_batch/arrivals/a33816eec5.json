@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-30-ner-amv-actualisation-plan-adressage-niamey",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "The Agence de Modernisation des Villes issued tender notice PI_DG_009, closing 30 June 2025, for updating and extending Niamey's urban addressing system.",
+       "as_of": "2025-06-30",
+       "date_precision": "day",
+       "system": "système d'adressage urbain de Niamey",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "système d'adressage urbain de Niamey",
+       "country_label": "Niger",
+       "class": "address",
+       "platform": "",
+       "owner": "Agence de Modernisation des Villes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

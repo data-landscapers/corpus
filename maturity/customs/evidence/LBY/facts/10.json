@@ -1,0 +1,26 @@
+{
+ "slug": "2023-09-21-lby-libyaherald-customs-declaration-e-portal-pilot",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Libya Herald reports the Customs Authority approved a pilot of an electronic customs declaration portal at Ras Jadir and the Khoms sea port, as a first phase to computerise all ports.",
+   "as_of": "2023-09-17",
+   "date_precision": "day",
+   "system": "customs declaration e-portal",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "customs declaration e-portal",
+   "country_label": "Libya",
+   "class": "customs",
+   "platform": "",
+   "owner": "Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

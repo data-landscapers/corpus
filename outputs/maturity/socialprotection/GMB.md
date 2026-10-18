@@ -2,6 +2,6 @@
 
 ## Social protection
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Gambia Social Registry (GamSR)](<https://nspa.gm/wp-content/uploads/2025/05/GamSR-Handbook-1.pdf>).
 
-***Not held***. Nothing held says how social programmes are administered.
+***Not held***. Nothing held since October 2023 says whether a social programme runs on an information system.

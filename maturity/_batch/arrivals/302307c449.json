@@ -1,0 +1,50 @@
+{
+ "slug": "2025-04-08-cmr-minsante-registres-ameliores-dhis2",
+ "studies": {
+  "health": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Cameroun",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "MINSANTE",
+       "tiers": ""
+      }
+     ],
+     "note": "Pilot and training only planned for April-May 2025; nothing delivered or stated about tiers or entry."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Cameroun",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "MINSANTE",
+       "tiers": ""
+      }
+     ],
+     "note": "Pilot planned April-May 2025 and entry into force June 2025 are plans, not delivered."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention schools."
+    }
+   }
+  }
+ }
+}

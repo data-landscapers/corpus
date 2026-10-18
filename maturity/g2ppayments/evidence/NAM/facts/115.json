@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-nam-newera-nampost-grant-payments",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "NamPost says it will pay National Social Welfare Cash Grants from October 2025 to recipients registered on virtual cash grant accounts, with a Digital Grant Account sponsored by the Ministry of Finance planned for early 2026.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "NamPost Digital Grant Account",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NamPost grant payments",
+   "country_label": "Namibia",
+   "class": "g2p",
+   "platform": "NamPost branches and mobile teams",
+   "owner": "NamPost",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

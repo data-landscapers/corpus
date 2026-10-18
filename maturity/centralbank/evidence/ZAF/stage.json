@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "4",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-004;ZAF-002",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "4",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-004;ZAF-002",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "First pass: counted from the four questions by study-ladder-centralbank.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

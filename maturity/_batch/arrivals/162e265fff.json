@@ -1,0 +1,32 @@
+{
+ "slug": "2023-11-19-mdg-worldbank-casef-land-reform-results",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "High-resolution satellite images supplied for land administration, not a farming service."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Municipal land certificates issued; no digital register or digitisation stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  }
+ }
+}

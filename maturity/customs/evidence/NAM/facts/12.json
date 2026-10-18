@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-05-nam-newera-namra-asycudaworld-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NamRA, reported by New Era on 2026-05-05, put the upgraded ASYCUDAWorld 4.4.1 into effect that day, with transit, warehousing, export and similar declarations accepted online only.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "ASYCUDAWorld",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDAWorld 4.4.1",
+   "country_label": "ASYCUDAWorld",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "Namibia Revenue Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

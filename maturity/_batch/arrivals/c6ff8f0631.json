@@ -1,0 +1,32 @@
+{
+ "slug": "2024-01-19-civ-aip-centre-relation-usagers-clients",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The CRUC is an information and request line for civil-service users, not a channel for complaints about public services."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

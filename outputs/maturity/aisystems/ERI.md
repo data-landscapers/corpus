@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether AI is built or hosted in the country.
+***Not held***. Nothing held since October 2023 says whether an AI model, dataset or computing facility is in service in the country.

@@ -1,0 +1,173 @@
+{
+ "slug": "2025-03-27-cog-worldbank-lisungi-refugee-women-cash-transfers",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank says the government-launched Lisungi project introduced digital payments via mobile money for its cash transfers, and that its delivery systems were institutionalized in the National Safety Net Program.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "Lisungi",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The World Bank says Lisungi cash transfers were paid to beneficiaries by mobile money, which it says reduced corruption risk.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The World Bank says the single social registry built under Lisungi currently holds information on 852,149 households and remains a tool for coordinating social programmes.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "single social registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "single social registry",
+       "country_label": "Congo",
+       "class": "social",
+       "platform": "",
+       "owner": "Government of Congo (National Safety Net Program)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

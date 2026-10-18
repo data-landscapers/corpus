@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TCD-001,TCD,metsat,stream,inservice,"WMO reports that a collaboration with EUMETSAT and AEMET enabled Chad to deploy satellite-based nowcasting (NWCSAF, RDT) to track convective events a few hours before they hit.",2026-02-03,day,NWCSAF / RDT nowcasting,metsat,2026-02-03-tcd-wmo-strengthening-early-warning-chad,https://wmo.int/media/news/strengthening-early-warning-services-chad

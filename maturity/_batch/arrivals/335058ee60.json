@@ -1,0 +1,10 @@
+{"slug": "2026-01-01-gmb-unhcr-rimap-gambia-country-profile", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document gives no ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on registers using the ID number."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document describes no national ID system itself."}}},
+"refugees": {"countries": {"GMB": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR's country page says the Government of the Gambia has engaged in regional initiatives to integrate forcibly displaced and stateless individuals into national digital identity systems.", "as_of": "2026", "date_precision": "year", "system": "national digital identity systems", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

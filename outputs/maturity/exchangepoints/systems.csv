@@ -46,6 +46,7 @@ CPV,IXP Cabo Verde,IXP - Internet Exchange Point,exchange,,Government of Cabo Ve
 DJI,Wingu Africa IXP,point d'echange Internet (IXP),exchange,,Wingu Africa,,2026-09-28-dji-adi-helem-wingu-africa-ixp-innovation-centre
 DJI,AMS-IX Djibouti,AMS-IX Djibouti Internet exchange,exchange,,Wingu Africa with AMS-IX,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 DJI,DjIX,DjIX,exchange,,,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+DJI,DjIX,Djibouti Internet Exchange,exchange,,Wingu (DDC),,2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti
 EGY,EG-IX,EG-IX,exchange,AMS-IX IX-as-a-Service,Telecom Egypt (operated on AMS-IX platform),"5 Egyptian members (Telecom Egypt, TE Data, Vodafone Egypt, Etisalat Egypt, Link Egypt), 2 Jordanian carriers, a root server, 10 global content/CDN/cloud networks",2026-09-08-techafrica-eg-ix-egypt-peak-traffic-18-members
 EGY,MEIX,Middle East Internet eXchange (MEIX),exchange,,"GPX Global Systems, Inc.","ISPs, telecom providers, e-businesses and enterprise customers colocated at the site",2007-07-21-gpx-global-systems-inc-launches-neutral-middle-east-internet-exchange-meix-in-ca
 EGY,Amazon CloudFront edge location Cairo,CloudFront Cairo edge,other,Amazon CloudFront,AWS,,2024-05-22 AWS adds a CloudFront edge location in Cairo

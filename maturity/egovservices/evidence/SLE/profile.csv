@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,eservices,services,coverage,inservice,2025-06-03,SLE-002,SLE-001=underway;SLE-003=underway,
+SLE,eservices,gateway,coverage,,,,,nothing held
+SLE,eservices,usage,coverage,,,,,nothing held

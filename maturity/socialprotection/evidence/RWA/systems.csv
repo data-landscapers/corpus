@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,MEIS,Rwanda,socialmis,,MINALOC/LODA,beneficiary registry for VUP components,2024-01-01-rwa-minecofin-sp-ssp-2024-2029
+RWA,DMIS,Rwanda,socialmis,,NCPD/LODA,"disability classification, 96.7% of PwDs classified in 2023/24",2024-01-01-rwa-minecofin-sp-ssp-2024-2029
+RWA,Imibereho SRIS,Rwanda,other,,MINALOC,"social registry, replaces Ubudehe targeting",2024-01-01-rwa-minecofin-sp-ssp-2024-2029
+RWA,Graduation Management Information System (GMIS),Rwanda,other,,,"planned, not yet built",2024-01-01-rwa-minecofin-sp-ssp-2024-2029

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-ben-fid-ia-bien-public-recommandations",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Forum on Information and Democracy and ALCRER state that Benin has no specific, sufficiently binding AI regulation or liability regime for AI uses, and no specific AI regulatory authority.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

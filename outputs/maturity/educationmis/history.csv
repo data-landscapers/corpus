@@ -1,3 +1,14 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,CIV,dpi.mis--education-education-information-system,fact,2,2,CIV-001;CIV-002,Arrivals added CIV-003; stage unchanged.
 2026-10-17,GAB,dpi.mis--education-education-information-system,fact,2,2,GAB-001;GAB-002,Arrivals added GAB-002; stage unchanged.
+2026-10-18,BFA,dpi.mis--education-education-information-system,review,no evidence,3,BFA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BWA,dpi.mis--education-education-information-system,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COM,dpi.mis--education-education-information-system,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.mis--education-education-information-system,review,no evidence,2,DZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.mis--education-education-information-system,review,no evidence,4,EGY-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.mis--education-education-information-system,review,no evidence,2,MDG-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NER,dpi.mis--education-education-information-system,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,RWA,dpi.mis--education-education-information-system,review,no evidence,2,RWA-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,dpi.mis--education-education-information-system,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,dpi.mis--education-education-information-system,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.mis--education-education-information-system,review,no evidence,5,TZA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

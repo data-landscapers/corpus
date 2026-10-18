@@ -1,0 +1,23 @@
+{
+ "slug": "2022-03-31-mrt-numericite-dgi-mauritanie-immersion",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Jibaya",
+       "country_label": "Jibaya",
+       "class": "other",
+       "platform": "",
+       "owner": "DGI Mauritania",
+       "tiers": "revenue collection"
+      }
+     ],
+     "note": "Says only companies hold a NIF and names Jibaya as a revenue-collection solution; no computerised register stated."
+    }
+   }
+  }
+ }
+}

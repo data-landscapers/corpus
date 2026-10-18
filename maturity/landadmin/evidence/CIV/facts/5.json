@@ -1,0 +1,26 @@
+{
+ "slug": "2015-03-24-civ-civlii-ordonnance-livre-foncier-electronique",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ordonnance 208 of 2015 creates the Livre foncier electronique at the tax directorate as an automated system to register properties and publish real rights, centralising operations from all conservations and reached on a dedicated platform.",
+   "as_of": "2015-03-24",
+   "date_precision": "day",
+   "system": "Livre foncier electronique",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Livre foncier electronique",
+   "country_label": "Cote d'Ivoire",
+   "class": "landmis",
+   "platform": "dedicated IT platform",
+   "owner": "Direction generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

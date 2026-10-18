@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-nam-newera-ndp6-national-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "NDP6 plans a National Data Centre to store government information and keep critical national data hosted within Namibia.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "National Data Centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

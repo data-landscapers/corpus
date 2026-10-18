@@ -1,0 +1,44 @@
+{
+ "slug": "2024-06-20-lso-eeas-nissa-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Gender, Youth and Social Development has initiated a process to upgrade the National Information System for Social Assistance (NISSA) and the Management Information System for Social Assistance (MISSA) while transitioning to digital payments.",
+   "as_of": "2024-06-20",
+   "date_precision": "day",
+   "system": "MISSA",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document says tablets and laptops will support the operations and management of the existing NISSA and MISSA systems used for the Child Grants Programme.",
+   "as_of": "2024-06-20",
+   "date_precision": "day",
+   "system": "MISSA",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MISSA",
+   "country_label": "Lesotho",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  },
+  {
+   "system": "NISSA",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{"slug": "2025-10-29-mrt-univ-nouakchott-e-gouvernance-transformation-numerique", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract names no AI system in use in administration."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract names no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract names no AI model, dataset or computing built in the country."}}},
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract analyses EGDI scores but names no online service or gateway."}}},
+"eparticipation": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The abstract analyses the E-Participation Index but names no government online consultation channel."}}},
+"policyresearch": {"countries": {"MRT": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "A paper published 2025-10-29 by authors including Dah Abdellahi Bellahi of the Universite de Nouakchott analyses Mauritania's e-government and digital transformation through the EGDI, E-Participation, NRI and IDI indices.", "as_of": "2025-10-29", "date_precision": "day", "system": "Universite de Nouakchott", "class": "research"}], "systems": [], "note": ""}}}
+}}

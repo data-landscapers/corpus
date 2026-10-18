@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-16-mli-imedias-mali-digital-accelerateur",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Mali's Ministry of Communication and Digital Economy launched the Mali Digital Accélérateur, a programme offering startups training, mentoring, financial support and investor networking, with no cohort of startups named.",
+   "as_of": "2025-04-16",
+   "date_precision": "day",
+   "system": "Mali Digital Accélérateur",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mali Digital Accélérateur",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministère de la Communication et de l'économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

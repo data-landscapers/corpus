@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-11-lby-gia-updated-government-tenders-platform-launch",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The General Information Authority thanked its own engineer and technical team who designed and developed the updated tenders platform, which went live.",
+   "as_of": "2024-02-13",
+   "date_precision": "day",
+   "system": "Government Tenders and Procurement Platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,100 @@
+{
+ "slug": "2024-02-20-cpv-governo-csu-mecanismo-reclamacoes-16-programas",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is about the social registry, not land."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "registry",
+       "value": "shared",
+       "fact": "The Cabo Verde minister says about 16 social programmes draw beneficiaries from the single social registry (CSU).",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Cadastro Social \u00danico (CSU)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastro Social \u00danico (CSU)",
+       "country_label": "Cabo Verde",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Family, Inclusion and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Cadastro Social \u00danico (CSU)",
+       "country_label": "Cabo Verde",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Family, Inclusion and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": "The document names no programme management system, only the registry programmes select from."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Cabo Verde minister says the Cadastro Social \u00danico, implemented in 2017, is in use, with about 59% of households and 66% of the population classified and validated nationally.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Cadastro Social \u00danico (CSU)",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Cadastro Social \u00danico (CSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cadastro Social \u00danico (CSU)",
+       "country_label": "Cabo Verde",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Family, Inclusion and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

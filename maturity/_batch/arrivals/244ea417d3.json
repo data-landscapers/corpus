@@ -1,0 +1,106 @@
+{
+ "slug": "2025-06-04-sle-statehouse-digital-innovation-summit-2025",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Minister Salamatu Bah said the ministry created the \"One Government Platform\", a centralized one-stop portal allowing citizens to access all government services and information.",
+       "as_of": "2025-06-03",
+       "date_precision": "day",
+       "system": "One Government Platform",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "One Government Platform",
+       "country_label": "Sierra Leone",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Communications and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Sierra Leone."
+    }
+   }
+  }
+ }
+}

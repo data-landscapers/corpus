@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-gab-dgmp-journal-marches-publics-n9-sigfip",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Economy and Finance launched SIGFiP on 15 January 2026, to handle public procurement among all revenue and spending operations; some procurement modules are functional and development of the others continues.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "SIGFiP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP",
+   "country_label": "Gabon",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

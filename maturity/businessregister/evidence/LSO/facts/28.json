@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-lso-rsl-guide-on-tax-registration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Revenue Services Lesotho says businesses can contact the One Stop Business Facilitation Centre at the Ministry of Trade, Industry and Small Business for help registering with RSL, and that companies register first with the relevant ministries and then obtain a TIN from RSL.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "One Stop Business Facilitation Centre (OBFC)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Stop Business Facilitation Centre (OBFC)",
+   "country_label": "Lesotho",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Trade, Industry and Small Business",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

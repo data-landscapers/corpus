@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-29-equatorial-guinea-starlink-available",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Starlink satellite availability; satellite is out of scope and no fibre is stated."
+}

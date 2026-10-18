@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+STP-001,STP,taxsystem,filing,underway,"The Direcção dos Impostos says NOSi is developing the SIT-IVA VAT tax information system, with its first release validated by tax testers and a second release due in May 2022.",2022-04,month,SIT-IVA,taxsystem,2022-04-11-stp-di-mais-uma-fase-sit-iva,https://impostos.b-software.st/index.php/component/k2/item/270-mais-uma-fase-do-sit-iva-em-andamento

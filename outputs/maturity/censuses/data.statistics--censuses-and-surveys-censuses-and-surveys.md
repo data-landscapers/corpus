@@ -1,6 +1,6 @@
 # Censuses and surveys: censuses and surveys
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -25,8 +25,8 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 | 3 Established | 26 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 4 |
+| Unplaced | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -46,9 +46,9 @@ A national household survey published results in 2025, after final census result
 
 ### Zambia: 5 Leading
 
-A national household survey published results in 2025, after final census results.
+A national household survey published results in 2026, after final census results.
 
-- The Zambia Statistics Agency, Ministry of Health and ICF published the final report of the 2024 Zambia Demographic and Health Survey in November 2025; fieldwork ran in 2024 ([source, 2025-11](https://www.zamstats.gov.zm/wp-content/uploads/2025/12/ZDHS-2024.pdf)).
+- ZamStats presented highlights of the 2025 National Survey on Access and Usage of ICTs, a household survey of 32,500 individuals targeted in 325 enumeration areas ([source, 2026-03-24](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Zambia_2025-ICT-Survey.pdf)).
 - The Zambia Statistics Agency's Population Summary Report Volume Two, dated June 2024, gives final population figures of the 2022 census (total 19,693,423) ([source, 2024-06](https://www.zamstats.gov.zm/wp-content/uploads/2024/09/2022-Census-of-Population-and-Housing-Summary-Report-Part-2.pdf)).
 
 ### Angola: 4 Operating
@@ -349,6 +349,12 @@ No census counted since 2016 or in preparation is on record, so no stage is set.
 
 Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
 
+### Kenya: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
 ### Sudan: Unplaced
 
 No census counted since 2016 or in preparation is on record, so no stage is set.
@@ -368,12 +374,6 @@ Nothing held says whether the country has counted or is preparing a census, so n
 Not established: Nothing held names a population census or a household survey, or says there is none.
 
 ### Ghana: No evidence
-
-Nothing held says whether the country has counted or is preparing a census, so no stage is set.
-
-Not established: Nothing held names a population census or a household survey, or says there is none.
-
-### Kenya: No evidence
 
 Nothing held says whether the country has counted or is preparing a census, so no stage is set.
 

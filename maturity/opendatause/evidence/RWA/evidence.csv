@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+RWA-001,RWA,use,access,published,"The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API.",2024-11-12,day,RPPA open contracting portal,open,2024-11-13-rwa-ocp-umucyo-open-contracting-portal,https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/

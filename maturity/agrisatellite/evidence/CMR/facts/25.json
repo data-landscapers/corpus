@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-22-cmr-fao-carte-cacao-images-satellites",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO says a national cocoa-mapping project in Cameroon, funded by the EU, uses satellite data to identify cocoa production zones, and a 16-18 July 2025 Ebolowa workshop trained 50 participants including ministry representatives on SEPAL and Google Earth Engine.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Cartographie du cacao au Cameroun et caractérisation de son impact sur les forêts",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cartographie du cacao au Cameroun et caractérisation de son impact sur les forêts",
+   "country_label": "Cameroun",
+   "class": "agrisat",
+   "platform": "SEPAL, Google Earth Engine, Copernicus4GEOGLAM",
+   "owner": "FAO with EU Programme Cacao Durable",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

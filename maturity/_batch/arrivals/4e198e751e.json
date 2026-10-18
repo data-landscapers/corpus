@@ -1,0 +1,50 @@
+{
+ "slug": "2024-06-27-mrt-rfi-ceni-justifie-procedures-fichier",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "MyCeni publishes results data; not a government service people apply for or pay for."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral file audited and the detailed list given to candidates' agents; no statement that the roll is digital or open to voters."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Not a thing this study asks: no digital roll in service, voter check or other fact stated."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Not a thing this study asks: no digital roll in service, voter check or other fact stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Not a thing this study asks: no digital roll in service, voter check or other fact stated."
+    }
+   }
+  }
+ }
+}

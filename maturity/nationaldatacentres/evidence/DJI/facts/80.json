@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "The French Treasury note says the Djibouti Data Centre was built by the French company Wingu.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Djibouti Data Centre (DDC)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

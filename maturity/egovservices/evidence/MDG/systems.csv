@@ -1,1 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,Torolalana,Madagascar,eservices,portal,Unite de Gouvernance Digitale,,2024-05-15-mdg-ugd-torolalana-portal-releases
+MDG,Torolalana,Torolalana,eservices,"multi-channel portal (digital, telephone, post-office counter)","Digital Governance Unit, Ministry of Digital Development","digital channel, telephone channel, physical channel (Mahatoky)",2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
+MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital Governance Unit with Paositra Malagasy,pilot in 4 post offices,2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter

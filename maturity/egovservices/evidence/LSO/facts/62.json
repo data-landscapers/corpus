@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-03-lso-undp-e-service-outlet-model",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "UNDP and Lesotho's communications ministry launched the E-Service Outlet Model, in which internet and print shops and mobile money agents help people reach government e-service platforms, such as registering a business or obtaining a trader's licence, without visiting offices.",
+   "as_of": "2024-06-03",
+   "date_precision": "day",
+   "system": "E-Service Outlet Model",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Service Outlet Model",
+   "country_label": "Lesotho",
+   "class": "eservices",
+   "platform": "internet and print shops and mobile money agents",
+   "owner": "Ministry of Information, Communications, Science, Technology and Innovation with UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

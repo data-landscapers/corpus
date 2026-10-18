@@ -1,0 +1,15 @@
+{
+ "slug": "2021-01-30-ner-actuniger-portail-service-public-lancement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "service-public.ne",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal lists 80 procedures; company creation is mentioned only in passing, and the French ambassador calls it a first version where procedures are viewed online."
+}

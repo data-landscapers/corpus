@@ -1,6 +1,9 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BDI,E-Justice,Burundi,justice,,Ministry of Justice,"judicial police, prosecution, courts, prisons",2026-10-05-wearetech-burundi-e-justice-connectivite
 BDI,E-Justice,Burundi,justice,,Ministry of Justice,"judicial police, prosecution, courts, prisons",2026-10-06-bdi-burunditimes-e-justice-online-complaints
+BEN,e-justice,Bénin,justice,,Ministry of Justice; Agence nationale d'équipement et du patrimoine immobilier,110 judicial sites planned,2024-08-29-ben-lamarina-interconnexion-juridictions
+BEN,Tribunal de commerce de Cotonou platform,Benin,justice,web (tribunalcommercecotonou.bj),Tribunal de commerce de Cotonou,commercial court,2021-03-09-ben-acotonou-tribunal-commerce-cotonou-plateforme
+BFA,Dématérialisation de la chaîne pénale,Dématérialisation de la chaîne pénale,justice,,Ministère de la Justice,,2025-06-24-bfa-mtdpce-dematerialisation-chaine-penale
 BWA,Industrial Court electronic Case Management System,Botswana,justice,,Industrial Court,Industrial Court,2026-03-16-industrial-court-deploys-new-strategy-to-eradicate-case-backlog
 CIV,e-Justice platform (e-justice.ci),Cote d'Ivoire,justice,e-justice.ci,Ministry of Justice,first instance courts,2026-06-30-e-justice-39-tribunaux-connectes-fratmat
 CIV,e-Justice platform (e-justice.ci),Cote d'Ivoire,justice,e-justice.ci,Ministry of Justice,first instance courts,2026-04-22-e-justice-platform-28-courts-techafricanews
@@ -10,24 +13,56 @@ CIV,e-Justice platform (e-justice.ci),Cote d'Ivoire,justice,e-justice.ci,Ministr
 CIV,e-Justice platform,Cote d'Ivoire,justice,,Ministry of Justice and Human Rights,Yopougon and Dabou jurisdictions,2025-02-03-e-justice-platform-wearetech
 CIV,VERIF,Cote d'Ivoire,other,,ONECI,,2025-02-03-e-justice-platform-wearetech
 CIV,e-Justice platform,Cote d'Ivoire,justice,,Ministry of Justice,,2025-06-19 Ivory Coast strengthens e-services with digital nationality certificate
+CMR,Système intégré des réseaux électroniques de procédures,Cameroun,justice,,Cour suprême,Supreme Court,2023-01-30-cmr-digitalbusiness-cour-supreme-logiciel
 COD,digital platform for managing commercial proceedings,COD,justice,,Projet TRANSFORME / Ministry of Justice,commercial courts,2026-07-17-transforme-dematerialisation-justice-commerciale
 COD,SIGAJ,COD,justice,,,,2025-08-20-undp-transition-justice-congolaise-onu-suede
 COD,SIGMA,COD,other,,,,2025-08-20-undp-transition-justice-congolaise-onu-suede
 COD,SIGE,COD,other,,,,2025-08-20-undp-transition-justice-congolaise-onu-suede
 COD,SIGCJ,COD,other,,,,2025-08-20-undp-transition-justice-congolaise-onu-suede
+CPV,SIJ,Cabo Verde,justice,,Ministry of Justice,"courts, prosecution, criminal police",2024-03-28-cpv-bo-lei-38-x-2024-sij
 DJI,pilot digital case management system for minor offenses,Djibouti,justice,,Ministry of Justice,,2025-07-15-undp-djibouti-2024-annual-report
 DJI,centralized judicial-statistics system,Djibouti,other,,,,2025-07-15-undp-djibouti-2024-annual-report
 DZA,guichet électronique national dédié aux juridictions administratives,Algeria,justice,,Ministry of Justice,"administrative tribunals, administrative courts of appeal, Council of State",2026-09-22-dza-lejourdalgerie-guichet-electronique-cours-appel-conseil-etat
 EGY,lawyers' platform (Ministry of Justice),Egypt,justice,,Ministry of Justice,criminal courts,2026-09-14-youm7-egypt-moj-remote-litigation-criminal-procedure-law
 EGY,E-Court platform,Egypt,justice,,Ministry of Justice,first-instance criminal courts,2026-09-09-egy-almanassa-e-court-platform-fees-access-to-justice
+ERI,High Court case management system,computerised case management system,justice,,Ministry of Justice / High Court,High Court,2001-05-29-eri-undp-terminal-eval-moj-capacity
 GHA,eJustice,Ghana,justice,,Judicial Service of Ghana,"Supreme Court, Court of Appeal, High and Circuit Courts in regional capitals and Tema (planned)",2025-12-01-ghana-ejustice-system-underdelivering
+GIN,Judicalex,Judicalex,justice,judicalex-gn.org,"Judicalex (company, partner of Tribunal de commerce de Conakry)",Tribunal de commerce de Conakry,2026-03-04-gin-judicalex-ministre-visite-tribunal-commerce
 GMB,Digital Case Management System (UNDP-GMB-00320),The Gambia,other,,Attorney General's Chambers and Ministry of Justice,,2025-03-14-moj-gambia-digital-case-management-consultancy
+GMB,Integrated DCMS,Gambia,justice,,"Ministry of Justice, Ministry of Interior, Judiciary (UNDP procuring)",,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp
+GMB,Computer-Aided Transcription System (CATS),Gambia,other,,Judiciary,,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp
+GMB,electronic case management system,The Gambia,justice,,Judiciary of the Gambia,,2026-01-28-gmb-thepoint-cj-legal-year-case-management
+GMB,Computer Aided Recording and Transcription System (CATS),The Gambia,other,,Judiciary of the Gambia,,2026-01-28-gmb-thepoint-cj-legal-year-case-management
+GMB,Case Management System,The Gambia,justice,,Judiciary of The Gambia,6 courts (Court Automated System),2025-08-07-gmb-foroyaa-nhrc-court-automation-case-management
+GMB,electronic Case Management System,The Gambia,justice,,Judiciary of the Gambia,,2024-08-23-gmb-thepoint-judiciary-usaid-case-management-pilot
+GNQ,court digitalisation programme,Guinea Ecuatorial,justice,,Corte Suprema de Justicia with UNDP,"Supreme Court, Malabo and Bata provincial courts",2024-10-07-gnq-ahoraeg-csj-pnud-acuerdo-digitalizacion
 KEN,Digital Occurrence Book (DOB) and Case Management System,Kenya,other,,National Police Service / Ministry of Interior,police stations,2025-09-05-cs-murkomen-ocs-conference-digital-ob-case-management
+KEN,e-filing,Kenya,justice,,Judiciary of Kenya,all courts,2024-03-11-ken-judiciary-efiling-all-courts-causelist-portal
+KEN,Causelist Portal,Kenya,other,,Judiciary of Kenya,,2024-03-11-ken-judiciary-efiling-all-courts-causelist-portal
+KEN,Case Tracking System,Kenya,justice,,The Judiciary of Kenya,all courts,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
+KEN,E-filing system,Kenya,justice,,The Judiciary of Kenya,all court stations,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
+KEN,Cause Lists Portal,Kenya,other,,The Judiciary of Kenya,,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
 LBR,Electronic Case Management System,ECMS,justice,,Judiciary of Liberia,all circuit courts (planned),2026-07-19-informer-ngafuan-judiciary-strategic-plan-2026-2030-ecms-budget
+LSO,electronic filing of court documents,Lesotho,justice,,"Judiciary, with Ministry of Information",,2026-07-03-lso-lena-sakoane-judiciary-electronic-filing
+LSO,e-justice,Lesotho,justice,internet-based,High Court of Lesotho,High Court,2024-06-21-lso-gazette-high-court-civil-litigation-rules-ejustice
+MAR,Lawyer platform,Morocco,justice,,Ministry of Justice,"Casablanca commercial, first-instance and appeal courts",2021-11-19-mar-justice-plateforme-avocat-services-numeriques
+MAR,dossier judiciaire électronique,Morocco,justice,,Ministry of Justice,,2025-01-30-mar-telquel-dossier-judiciaire-electronique
+MDG,InfoTA / InfoTF / LogiComm / LogiCivil / LogiPénal,Madagascar,justice,,Ministry of Justice,courts,2026-06-04-mdg-lexpress-gestion-affaires-judiciaires-numerise
+MDG,ILO,Madagascar,justice,,NFD project / Ministry of Justice,administrative tribunals,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf
+MDG,LogiPénal,Madagascar,justice,,NFD project / Ministry of Justice,first-instance courts,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf
+MDG,InfoTF,Madagascar,justice,,NFD project / Ministry of Justice,financial tribunals,2019-01-01-mdg-prea-informatisation-juridictions-ta-tpi-tf
 MLI,e-Justice,Mali,justice,,Ministry of Justice and Human Rights,Bamako Court of Appeal staff trained as users,2026-07-21-abamako-mali-plateforme-e-justice-formation-utilisateurs
+MUS,e-Judiciary,Mauritius,justice,,Judiciary of Mauritius,Commercial Division,2025-10-22-mus-judiciary-e-judiciary-home-notices
+MUS,e-Judiciary System,Maurice,justice,,Judiciary of Mauritius,"Supreme Court, Family Division",2023-07-24-mus-lexpress-e-judiciary-dix-ans-apres
+MUS,E-Judiciary,E-Judiciary,justice,,Judiciary of Mauritius,Supreme Court,2013-04-05-mus-megamu-e-judiciary-commercial-online
 MWI,e-court,Malawi,justice,,Judiciary of Malawi,magistrate courts and High Court (pilot),2024-04-01-e-court-launch-malawi-judiciary
+NAM,Integrated Electronic Case Management System (IECMS),Namibia,justice,,Judiciary of Namibia,,2025-05-16-nam-judiciary-ug-eccmis-benchmarking-visit
+NAM,e-justice,Namibia,justice,,Office of the Judiciary,Supreme Court,2017-09-29-nam-gazette-supreme-court-rules-e-justice
+NAM,Namibia eJustice,Namibia,justice,web (ejustice.moj.na),Office of the Judiciary,"Supreme Court, High Court",2018-04-11-nam-nacm-namibia-ejustice-nomination
 NGA,Nigerian Case Management System (NCMS),Nigeria,justice,,Supreme Court of Nigeria,Supreme Court; planned for Court of Appeal and superior courts,2026-07-01-supreme-court-launches-digital-case-management-system
 RWA,Integrated Electronic Case Management System (IECMS),Rwanda,justice,,,,2024-12-22-justice-icms-upgrade
+SDN,Judicial e-portal and computerisation project,البوابة الإلكترونية وحوسبة العمل القضائي,justice,,Judicial Authority of Sudan,"Supreme Court first, then all courts",2016-03-12-sdn-sudantribune-hawsabat-qada
+SDN,Sudan Judiciary automation project,Sudan,justice,,Sudan Judiciary,whole judiciary (phase two),2016-12-25-sdn-intelligentcio-al-taqnyah-sudan-judiciary
 SEN,e-Justice,SEN,justice,,Ministry of Justice,,2026-09-10-sen-seneweb-e-justice-jokko-ak-yoon-lancement
 SEN,Jokko Ak Yoon,SEN,other,,Ministry of Justice,,2026-09-10-sen-seneweb-e-justice-jokko-ak-yoon-lancement
 SEN,e-Justice,SEN,justice,,Ministry of Justice,,2026-09-04-lesoleil-senegal-numerique-justice-tribunaux
@@ -36,14 +71,33 @@ SEN,e-Senegal,SEN,other,,Government of Senegal,,2026-09-04-lesoleil-senegal-nume
 SEN,e-Justice,SEN,justice,,Ministry of Justice,,2026-08-25-undp-senegal-e-justice-dakar-pilot
 SEN,e-justice pilot platform,SEN,justice,,Ministry of Justice,,2025-07-24-projet-pilote-e-justice-dakar
 SEN,E-Justice,SEN,justice,,Ministry of Justice,,2026-10-10-sen-leral-pikine-guediawaye-archives-pilot-review-ebad
+SLE,Justice App,Sierra Leone,justice,mobile application,Judiciary of Sierra Leone,lower courts,2024-07-01-sle-undp-annual-report-justice-app
+SLE,case-management app,Sierra Leone,justice,"tablet app, works offline",Judiciary of Sierra Leone,magistrate and High Courts,2017-10-31-sle-unsl-justice-goes-mobile-case-app
 SOM,Justice Sector Integrated Electronic Case Management System (IECMS),Somalia,justice,,"Federal Government of Somalia, with U.S. INL and IDLO support","federal; CID, prosecution, courts, prisons",2025-10-10-somalia-iecms-launch-goobjoog
 SWZ,Integrated Electronic Case Management System (IECMS),Eswatini,justice,,Ministry of Justice and Constitutional Affairs,,2026-05-21-new-digital-court-system-case-delays
 SWZ,Integrated Electronic Case Management System (IECMS),Eswatini,justice,,Ministry of Justice and Constitutional Affairs,,2025-08-16-undp-donates-equipment-digital-justice-system
 SYC,Electronic Case Management System (ECMS),Seychelles,other,,Office of the Attorney General,,2026-06-23-statehouse-ecms-launch
+SYC,Judiciary e-Service Platform,Judiciary e-Service Platform,justice,Switch (vendor-built),Judiciary of Seychelles,,2025-11-26-syc-judiciary-e-service-platform-launch
 TCD,plateforme d'échange numérique (E-Justice Tchad),Chad,justice,Extranet (public) and Intranet (judicial staff),"Ministère de la Justice et des Droits Humains, with UNDP",N'Djamena jurisdiction (pilot),2025-10-23-tribuneechos-e-justice-tchad-plateforme-echange-numerique
+TGO,Portail des services en ligne du TGI de Lomé,Togo,justice,,Ministère de la Justice et des Droits Humains,,2026-07-03-tgo-justice-tgi-lome-paiement-numerique
+TGO,SYSCOM,Togo,justice,"FORSETI COMMERCIAL platform, updated",Tribunal de commerce de Lomé,commercial court and commercial chambers of Lomé Court of Appeal,2025-02-04-tgo-tclome-syscom-procedures-commerciales
+TGO,SYSCOM,Togo,justice,,Tribunal de commerce de Lomé,"Lomé commercial court, Lomé appeal court",2023-10-09-tgo-togofirst-tribunal-commerce-visioconference
+TUN,Jshare,Tunisie,justice,,Ministry of Justice,model courts,2023-05-25-tun-justice-gov-tn-jshare-launch
+TZA,JSDS2,Tanzania,justice,,Judiciary of Tanzania,national,2023-10-17-tza-dailynews-judiciary-e-cms-start
+TZA,e-CMS,Tanzania,justice,,Judiciary of Tanzania,all courts,2023-10-17-tza-dailynews-judiciary-e-cms-start
+TZA,JoT e-CMS,Tanzania,justice,,Judiciary of Tanzania,Court of Appeal to District Courts,2025-05-25-tza-dailynews-budget-committee-judiciary-ict
+UGA,ECCMIS,Electronic Court Case Management Information System,justice,,Judiciary of Uganda,42 court stations in and around Kampala,2026-04-23-uga-nilepost-eccmis-training-42-courts
+UGA,Electronic Court Case Management Information System (ECCMIS),Uganda,justice,,Judiciary of Uganda,lower courts and Anti-Corruption Division,2025-05-16-nam-judiciary-ug-eccmis-benchmarking-visit
+UGA,ECCMIS,Uganda,justice,,Judiciary of Uganda,"Supreme Court, Court of Appeal/Constitutional Court, High Court divisions, Mengo Chief Magistrates Court",2022-03-02-uga-judiciary-launches-eccmis
+UGA,ECCMIS (Electronic Court Case Management Information System),Uganda,justice,,Judiciary of Uganda,31 court stations by July 2025,2026-06-01-uga-judiciary-insider-issue-25
 ZAF,Biometric case management system (BCMS),South Africa,other,,Department of Home Affairs,,2026-07-07-biometric-case-management-migration
 ZAF,Court Online,South Africa,justice,,Department of Justice and Constitutional Development,,2026-07-31-deputy-minister-justice-digital-age-south-africa
 ZAF,Masters Offices Deceased Estates Online,South Africa,other,,Department of Justice and Constitutional Development,,2026-07-31-deputy-minister-justice-digital-age-south-africa
+ZAF,Court Online,South Africa,justice,,Department of Justice and Constitutional Development,"High Courts, Labour Courts, Land Court",2025-09-01-zaf-pmg-nw5224-court-online-courts
+ZAF,Court Online,South Africa,justice,"Microsoft (e-filing and case management), CaseLines (evidence handling)",Department of Justice and Constitutional Development,High Courts,2025-07-16-zaf-doj-court-online-go-live-gqeberha
+ZMB,Electronic Case Management System (ECMS),Zambia,justice,,Judiciary of Zambia,"Supreme, Constitutional, Appeal, High and Subordinate Courts",2025-01-20-zmb-synergy-judiciary-ecms
+ZMB,Case Management System,Zambia,justice,,Judiciary of Zambia,,2025-02-01-zmb-judiciary-annual-report-2022
+ZMB,HP Records Manager (Electronic Record Management System),Zambia,other,HP Records Manager,Judiciary of Zambia,19 computerised registries,2025-02-01-zmb-judiciary-annual-report-2022
 ZWE,IECMS,Integrated Electronic Case Management System,justice,,Judicial Service Commission,"Constitutional, Supreme, Labour, High Court; Magistrates rolling out",2026-09-26-zwe-iecms-gweru-justice-digitisation
 ZWE,Integrated Electronic Case Management System (IECMS),Zimbabwe,justice,,"Ministry of Justice, Legal and Parliamentary Affairs",Chipinge and Chimanimani districts,2026-01-22-zwe-iecms-rural-electronic-court-system
 ZWE,EMIS,Zimbabwe,other,,Ministry of Primary and Secondary Education,,2026-06-15-newzimbabwe-emis-dropout-early-warning

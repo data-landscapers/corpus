@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-14-ner-assises-nationales-refondation-online-contributions",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Assises Nationales pour la Refondation site posts calls from its Justice and Human Rights and International Geopolitics and Environment commissions inviting the public to leave proposals as comments on the national refoundation.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Assises Nationales pour la Refondation website",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Assises Nationales pour la Refondation website",
+   "country_label": "Niger",
+   "class": "eparticipation",
+   "platform": "website",
+   "owner": "Commission nationale des Assises Nationales pour la Refondation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

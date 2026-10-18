@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-09-gmb-standard-ceesay-govt-building-capacities",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Information minister Ismaila Ceesay, at a graduation of Immigration officers who completed the Advanced Diploma in Computer Networking at Suitin Institute, said government is committed to building civil servants' technology capacities.",
+   "as_of": "2024-09-09",
+   "date_precision": "day",
+   "system": "Advanced Diploma in Computer Networking (Suitin Institute)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

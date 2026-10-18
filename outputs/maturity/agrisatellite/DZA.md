@@ -2,6 +2,12 @@
 
 ## Satellite data in agriculture
 
+**Satellite service.** [The CGIAR tool series says the WaPOR-based Water Use Tool is used by the WaPOR Digital Unit at the Ministry of Agriculture and Rural Development, hosted by its Department of Statistics and Strategies, and uses 20 m WaPOR satellite data to compute dekadal irrigation water use and map irrigated and rainfed parcels, with a dashboard for the Mitidja West scheme](<https://cgspace.cgiar.org/server/api/core/bitstreams/ecbc9233-d7ab-4c68-ac2b-4ce6928ecb05/content>). [The Algerian Space Agency (ASAL) says it works with the Ministry of Agriculture on pilot satellite mapping of cereals (Sidi Bel Abbes, Sentinel-2 NDVI time series) and of potatoes (Mostaganem), and plans to customise CropWatch for these two pilot zones (2023, before the three-year window)](<https://unctad.org/system/files/non-official-document/cw070823_p01_Algeria.pdf>).
+
+**Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://cgspace.cgiar.org/server/api/core/bitstreams/ecbc9233-d7ab-4c68-ac2b-4ce6928ecb05/content>).
+
+**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://cgspace.cgiar.org/server/api/core/bitstreams/ecbc9233-d7ab-4c68-ac2b-4ce6928ecb05/content>).
+
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether satellite data is used in farming.
+***Not held***. No source held since October 2023 says a satellite-based farming service publishes on a schedule.

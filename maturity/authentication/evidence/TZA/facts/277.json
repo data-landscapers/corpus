@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDA's May 2025 presentation says consent-based eKYC against the national ID is in service, including ID verification services.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Consent based EKYC",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIDA says its consent-based eKYC is integrated with 124 institutions, 55 government and 69 private.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Consent based EKYC",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Consent based EKYC",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

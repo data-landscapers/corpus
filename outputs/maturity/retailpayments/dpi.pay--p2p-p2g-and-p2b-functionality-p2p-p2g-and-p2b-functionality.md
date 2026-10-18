@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 23 |
-| 4 Operating | 20 |
-| 3 Established | 7 |
+| 5 Leading | 24 |
+| 4 Operating | 19 |
+| 3 Established | 10 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 3 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -127,6 +127,12 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 
 - LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025 ([source, 2025-05-11](https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions)).
 - LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024 ([source, 2024-03-20](https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch)).
+
+### Malawi: 5 Leading
+
+A national switch connected mobile money wallets and bank accounts in 2025.
+
+- The Bankers Association of Malawi's chief executive says the National Switch connects banks and wallets for transfers in both directions ([source, 2025-07](https://mwnation.com/banks-respond-to-digital-services-demand-bam/)).
 
 ### Mauritania: 5 Leading
 
@@ -254,12 +260,6 @@ Payments between mobile money providers or with banks were in service in 2026; a
 - Gasy Money users can transfer money to another Gasy Money account, a bank account or Airtel Money, per Newsmada ([source, 2026-09-21](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/)).
 - BGFIBank Madagasikara's Gasy Money app, presented on a Friday before 22 September 2026, currently allows national money transfers in partnership with the country's mobile phone operators, for bank clients, other banks' clients and people without an account ([source, 2026-09-18](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/)).
 
-### Malawi: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2025; a national switch is not known.
-
-- The platform integrates banks and non-bank players including mobile-money operators, with FDH Bank, Finca Malawi and TNM Mpamba as early Malawian adopters ([source, 2025-10](https://mwnation.com/comesa-payment-system-connects-malawi-zambia)).
-
 ### Mali: 4 Operating
 
 Payments between mobile money providers or with banks were in service in 2026; a national switch is not known.
@@ -315,11 +315,24 @@ Payments between mobile money providers or with banks were in service in 2026; a
 - Equity Axis says O-Mari wallet holders withdraw cash at CABS ATMs and EcoCash customers at TN CyberTech Bank ATMs, and that ZIPIT allows some cross-platform transfers already ([source, 2026-07](https://www.equityaxis.net/post/19212/2026/7/the-o-mari-effect-zimbabwe-s-mobile-money-war-goes-physical-as-netone-remains-idle)).
 - ZimSwitch's chief executive described it as the national payment switch, with mobile wallet integration on its e-commerce platform and interoperable QR payments being rolled out ([source, 2026-07-23](https://www.zbcnews.co.zw/electronic-transactions-top-zig1-trillion-as-zimbabwe-deepens-digital-finance/)).
 
+### Cape Verde: 3 Established
+
+Mobile money or e-money was in service in 2024; payments between providers are not known.
+
+- The Televinti4 mobile app, launched in 2021 and run by SISP, lets users make transfers, QR Code and Token payments, pay bills and top up phones, and about 15,600 people use it, under 5% of roughly 329,000 Vinti4 network users, per Expresso das Ilhas ([source, 2024-03-03](https://expressodasilhas.cv/economia/2024/03/03/app-coloca-vinti4-no-telemovel-mas-taxa-de-penetracao-continua-baixa/90231)).
+
+### Djibouti: 3 Established
+
+Mobile money or e-money was in service in 2024; payments between providers are not known.
+
+- Djibouti Telecom's D-Money officially launched its new smartphone application on 26 September 2024, open to all Djiboutians since 21 September, for money transfers, bill payment and online purchases of services ([source, 2024-09-26](https://d-money.dj/lancement-de-la-nouvelle-plateforme-d-money/)).
+
 ### Eritrea: 3 Established
 
 Mobile money or e-money was in service in 2026; payments between providers are not known.
 
 - The Fintech Times says mobile wallets linked to state-owned EriTel are emerging as the primary entry point to digital financial services in Eritrea, still limited in functionality ([source, 2026-03-30](https://thefintechtimes.com/eritreas-fintech-ecosystem-in-2026-and-financial-inclusion/)).
+- Himbol's guide says its M-Nakfa mobile money service is active, with cash-in/cash-out, person-to-person, merchant and utility payments, under Bank of Eritrea licensing and supervision ([source, 2025](https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf)).
 
 ### Libya: 3 Established
 
@@ -327,6 +340,12 @@ Mobile money or e-money was in service in 2026; payments between providers are n
 
 - Governor Issa said digital-wallet transactions rose from 109 million dinars in October 2024 to 703 million dinars in August 2026 ([source, 2026-08](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
 - Circular 9/2026 of the Central Bank of Libya lets licensed e-payment companies issue e-wallets, including to legally resident foreigners, with daily transfer caps of 100,000 dinars person to person, 500,000 person to company and 2 million company to company for citizens ([source, 2026-03-11](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/)).
+
+### Sao Tome and Principe: 3 Established
+
+Mobile money or e-money was in service in 2025; payments between providers are not known.
+
+- GTI Holdings launched the Sao digital financial platform in Sao Tome and Principe, with a mobile wallet, a prepaid card, POS payments and agents, and its commercial director said the platform already supports agents ([source, 2025-01-05](https://www.telanon.info/economia/2025/01/05/46928/sao-redefinindo-a-inclusao-financeira-e-o-empoderamento-em-sao-tome-e-principe/)).
 
 ### South Africa: 3 Established
 
@@ -339,8 +358,8 @@ Mobile money or e-money was in service in 2026; payments between providers are n
 
 Mobile money or e-money was in service in 2026; payments between providers are not known.
 
+- The article describes rules for operating electronic money systems in South Sudan, with transaction limits by customer tier and agent reporting, implying mobile money services are in operation ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - MTN MoMo, a mobile money service, trained 1,225 South Sudanese entrepreneurs to accept digital payments, sell airtime and provide cash-in services, per Tech Africa News ([source, 2026-08-24](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/)).
-- MTN MoMo mobile money is in service in South Sudan, letting users send and receive money, pay bills and shop by phone, as MTN launched its 'Mata fekir' campaign with the Bank of South Sudan governor present, per One Citizen Daily ([source, 2025-08-28](https://www.onecitizendaily.com/index.php/2025/08/29/boss-vows-to-safeguard-robust-payment-system/)).
 
 ### Sudan: 3 Established
 
@@ -368,21 +387,3 @@ Mobile money or e-money was in service in 2026; payments between providers are n
 A mobile money service was starting in 2025; none in service is on record.
 
 - Fusepay says its CBS PSP licence lets it run digital money accounts and instant payments, with first live transactions still to come ([source, 2025-11-14](https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles)).
-
-### Cape Verde: No evidence
-
-Nothing held names a mobile money or e-money service or says there is none, so no stage is set.
-
-Not established: Nothing held names a mobile money service, or says there is none.
-
-### Djibouti: No evidence
-
-Nothing held names a mobile money or e-money service or says there is none, so no stage is set.
-
-Not established: Nothing held names a mobile money service, or says there is none.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held names a mobile money or e-money service or says there is none, so no stage is set.
-
-Not established: Nothing held names a mobile money service, or says there is none.

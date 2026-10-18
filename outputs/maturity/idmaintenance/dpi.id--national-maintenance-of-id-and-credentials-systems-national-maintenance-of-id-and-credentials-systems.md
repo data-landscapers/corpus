@@ -280,6 +280,7 @@ The national authority ran the ID system day to day in 2026; who maintains it is
 The national authority ran the ID system day to day in 2026; who maintains it is not known.
 
 - Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
+- NIDA, a government institution under the Ministry of Home Affairs, says it registers people, issues national IDs and maintains the national digital registry ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
 
 ### Tunisia: 3 Established
 

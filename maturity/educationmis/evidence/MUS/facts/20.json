@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-15-mus-statsmauritius-annual-survey-schools-methodology",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual Survey in Schools",
+   "country_label": "Annual Survey in Schools 2025",
+   "class": "other",
+   "platform": "Microsoft Excel and Access",
+   "owner": "Ministry of Education and Human Resource with Statistics Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "Annual school questionnaire by e-mail and post processed in Excel and Access; the document does not describe an education information system."
+}

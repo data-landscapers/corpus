@@ -1,0 +1,44 @@
+{
+ "slug": "2023-04-06-eth-ita-e-procurement-platform-public-tenders",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The US International Trade Administration reports Ethiopia's e-GP system, piloted since 2021, was expanded in 2023 to 74 federal agencies, and registered suppliers can submit bids online.",
+       "as_of": "2023-04-06",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The US International Trade Administration, citing the PPPA, reports over 1,200 procurement opportunities posted on the e-GP in the past year and nearly 8,000 registered suppliers.",
+       "as_of": "2023-04-06",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Ethiopia",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Public Procurement and Property Authority",
+       "tiers": "federal"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

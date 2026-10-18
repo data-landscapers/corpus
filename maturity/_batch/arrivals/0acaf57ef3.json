@@ -1,0 +1,54 @@
+{
+ "slug": "2019-04-01-zmb-gdi-case-study-taxonline",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "ZRA's TaxOnline went live on 28 October 2013 with online registration and returns, replacing paper and manual administration, per the Global Delivery Initiative case study.",
+       "as_of": "2013-10-28",
+       "date_precision": "day",
+       "system": "TaxOnline",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "Taxes could be paid electronically through banks linked to TaxOnline from August 2014, with most commercial banks partnered by December 2014; around 70 percent of payments were electronic by 2019.",
+       "as_of": "2014-08",
+       "date_precision": "month",
+       "system": "TaxOnline",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "In 2017, 1,987,675 returns, 98 percent of the total, were filed electronically, and VAT returns could only be filed electronically.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "TaxOnline",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaxOnline",
+       "country_label": "Zambia",
+       "class": "taxsystem",
+       "platform": "Tata Consultancy Services system adapted from Uganda's",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

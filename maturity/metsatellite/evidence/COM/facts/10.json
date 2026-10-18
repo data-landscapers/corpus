@@ -1,0 +1,36 @@
+{
+ "slug": "2019-11-04-com-wmo-anacm-previsions-operationnelles-alertes",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Comoros meteorological service (SMC, within ANACM) says it receives the EUMETCast stream through Synergie and PUMA stations running Meteo-France's Synergie software.",
+   "as_of": "2019-11-04",
+   "date_precision": "day",
+   "system": "EUMETCast via Synergie and PUMA stations",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "warnings",
+   "value": "issued",
+   "fact": "ANACM says it produces early warnings (cyclone, heavy rain, strong wind, flood, tsunami) using model outputs and the EUMETCast flux received through its Synergie and PUMA stations.",
+   "as_of": "2019-11-04",
+   "date_precision": "day",
+   "system": "EUMETCast via Synergie and PUMA stations",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETCast via Synergie and PUMA stations",
+   "country_label": "Comoros",
+   "class": "metsat",
+   "platform": "Synergie software (Meteo-France)",
+   "owner": "ANACM / SMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

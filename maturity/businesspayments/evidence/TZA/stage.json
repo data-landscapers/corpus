@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "no evidence",
-   "system": "",
-   "endtoend": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government e-procurement system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "5",
+      "system": "inservice",
+      "endtoend": "endtoend",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

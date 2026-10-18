@@ -1,0 +1,63 @@
+{
+ "slug": "2024-09-09-mrt-ami-taazour-tekavoul-transferts-electroniques",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Taazour launched on 9 September 2024 its first cash distribution by electronic transfer, in Nouakchott, to Tekavoul families (140,297 families nationally in the regular transfer operation).",
+       "as_of": "2024-09-09",
+       "date_precision": "day",
+       "system": "Tekavoul electronic transfer",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Taazour's delegate general says it has a digital database of over 1.5 million citizens and an advanced digital platform through which it provides social assistance to beneficiaries.",
+       "as_of": "2024-09-09",
+       "date_precision": "day",
+       "system": "Taazour digital platform",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Taazour digital platform",
+       "country_label": "Mauritania",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Taazour",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Taazour database of beneficiaries is named, but no social registry shared by programmes is stated."
+    }
+   }
+  }
+ }
+}

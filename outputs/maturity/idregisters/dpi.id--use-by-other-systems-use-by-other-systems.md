@@ -73,7 +73,7 @@ A public register used the national ID number in 2026; use by three main registe
 A public register used the national ID number in 2026; use by three main registers is not known.
 
 - The Public Prosecution says criminal judgments are recorded against citizens' national number in its digital systems ([source, 2026-07-27](https://gate.ahram.org.eg/News/5838334.aspx)).
-- CITC supports integration of the National ID database with external parties including the Labor Permits Department, General Organization for Social Insurance, Ministry of Social Solidarity and Central Bank, and the databases include elections ([source, 2024](https://www.citc.com.eg/National%20ID%20SYSTEM.html)).
+- The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
 
 ### Gambia: 3 Established
 
@@ -92,6 +92,7 @@ A public register used the national ID number in 2025; use by three main registe
 A public register used the national ID number in 2025; use by three main registers is not known.
 
 - Minister Lephema says legal identity has strengthened the payroll system and eliminated ghost workers ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
+- The IEC said its voter re-registration uses National Identification Cards as the sole form of identification, with registration open to all citizens aged 18 and above under the National Identity Card Act ([source, 2024-10](https://publiceyenews.com/2024/10/16/800-000-ghost-voters-unearthed/)).
 
 ### Liberia: 3 Established
 
@@ -112,12 +113,14 @@ A public register used the national ID number in 2026; use by three main registe
 A public register used the national ID number in 2025; use by three main registers is not known.
 
 - In 2025 the Niger State government launched an initiative integrating the NIN into the Social Safety Register, to improve identity verification for poor and vulnerable households ([source, 2025](https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/)).
+- NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
 
 ### Rwanda: 3 Established
 
 A public register used the national ID number in 2026; use by three main registers is not known.
 
 - The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification ([source, 2026-10-16](https://www.api.ippis.rw/)).
+- The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list ([source, 2024-05-18](https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150)).
 
 ### Tunisia: 3 Established
 

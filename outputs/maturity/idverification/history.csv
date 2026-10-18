@@ -6,3 +6,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,5,5,SOM-005,Arrivals added SOM-009; SOM-010; SOM-011; stage unchanged.
 2026-10-17,TUN,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,4,4,TUN-012;TUN-002,Arrivals added TUN-011; TUN-012; stage unchanged.
 2026-10-17,ZAF,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,5,5,ZAF-019;ZAF-006,Arrivals added ZAF-020; ZAF-021; stage unchanged.
+2026-10-18,NGA,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,5,5,NGA-030;NGA-016,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,5,5,TZA-007;TZA-011,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems,fact,5,5,ZAF-019;ZAF-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.

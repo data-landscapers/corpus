@@ -1,0 +1,34 @@
+{
+ "slug": "2013-12-31-rwa-worldbank-m-declaration-small-businesses",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank reports the Rwanda Revenue Authority launched M-Declaration on 5 October 2013, letting small businesses declare profit tax by phone and pay by bank account or mobile money; an e-filing facility already existed.",
+   "as_of": "2013-10-05",
+   "date_precision": "day",
+   "system": "M-Declaration",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Declaration",
+   "country_label": "Rwanda",
+   "class": "revenue",
+   "platform": "mobile dial-in",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "e-filing",
+   "country_label": "Rwanda",
+   "class": "revenue",
+   "platform": "online",
+   "owner": "Rwanda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

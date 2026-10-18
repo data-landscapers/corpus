@@ -1,21 +1,12 @@
 {
  "slug": "2026-07-25-angola-cadastro-social-unico-launch",
  "studies": {
-  "health": {
+  "customs": {
    "countries": {
     "AGO": {
      "facts": [],
      "systems": [],
-     "note": "Social protection registry launch; nothing on health systems."
-    }
-   }
-  },
-  "schools": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "Social protection registry launch; nothing on school records."
+     "note": "Social registry launch; says nothing on customs."
     }
    }
   }

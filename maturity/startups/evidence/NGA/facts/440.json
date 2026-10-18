@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-29-nga-nan-nitda-startup-consultative-forum",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "NAN reports the Nigerian Startup Act was signed into law on 19 October 2022, with NITDA as its implementing secretariat.",
+   "as_of": "2022-10-19",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  },
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "labelled",
+   "value": "labelled",
+   "fact": "NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Nigeria Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

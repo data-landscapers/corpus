@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-01-lso-rsl-guide-on-tax-registration",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho says taxpayers can pay tax by mobile money (EcoCash and M-Pesa) through its e-Payments platform.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "EcoCash and M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

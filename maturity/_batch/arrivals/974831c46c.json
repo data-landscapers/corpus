@@ -1,0 +1,61 @@
+{
+ "slug": "2024-01-08-lby-alwasat-real-estate-registry-e-archiving-85pct",
+ "studies": {
+  "landadmin": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "E-archiving of records is stated, not electronic processing of transactions."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Justice ministry says electronic archiving of the Real Estate Registration Authority's work has reached about 85% in some branches.",
+       "as_of": "2024-01-08",
+       "date_precision": "day",
+       "system": "Real Estate Registration Authority electronic archiving",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Real Estate Registration Authority electronic archiving",
+       "country_label": "Libya",
+       "class": "land",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

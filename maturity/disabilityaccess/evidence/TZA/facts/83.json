@@ -1,0 +1,64 @@
+{
+ "slug": "2024-11-21-tza-pmo-national-assistive-technology-strategy",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Prime Minister's Office (PMO-LYED) signed the National Assistive Technology Strategy 2024-2027 in November 2024, covering assistive products including digital solutions such as speech recognition and captioning.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "National Assistive Technology Strategy 2024-2027",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The strategy says the National Client's Service Charter for Health Facilities of 2018 has provisions supporting services in accessible formats such as braille, large print, audio-visual materials and sign language interpretation.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National Client's Service Charter for Health Facilities",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The strategy states that in 2023 the President's Office Regional Administration and Local Government (PORALG) spent TZS 2.5 billion buying assistive devices for primary and secondary schools, and that the Government allocated at least TZS 8.7 billion to assistive technology including ICT facilities for persons with disabilities.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Government assistive device procurement for schools",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The strategy states that the Government supports ICT-based assistive technology for learning at the Open University of Tanzania in Dar es Salaam, where visually impaired and deaf people are trained to use assistive products and sign language.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ICT-based assistive technology programme, Open University of Tanzania",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Assistive Technology Strategy 2024-2027",
+   "country_label": "Tanzania",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "Prime Minister's Office - Labour, Youth, Employment and Persons with Disability",
+   "tiers": ""
+  },
+  {
+   "system": "PD-MIS",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Prime Minister's Office - Labour, Youth, Employment and Persons with Disability",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-24-moz-kabum-plataforma-registo-empresas",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Kabum Digital reports that Mozambique's registry and notary service (SRN) launched an online platform, utente.srn.gov.mz, where companies can be registered remotely, with payment by M-Pesa or bank.",
+   "as_of": "2023-11-24",
+   "date_precision": "day",
+   "system": "Portal SRN (utente.srn.gov.mz)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "Kabum Digital says users of the SRN portal can submit a list of beneficial owners (lista de beneficiários efectivos) as one of the filing actions.",
+   "as_of": "2023-11-24",
+   "date_precision": "day",
+   "system": "Portal SRN (utente.srn.gov.mz)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal SRN",
+   "country_label": "Mozambique",
+   "class": "business",
+   "platform": "utente.srn.gov.mz",
+   "owner": "Serviço de Registo e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

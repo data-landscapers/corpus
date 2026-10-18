@@ -2,6 +2,12 @@
 
 ## AI built at home
 
+**Model, dataset or computing.** [RobotsMali AI4D Lab in Bamako released 612 hours of transcribed Bambara speech, fine-tuned ASR models (Parakeet and QuartzNet based, deployed in the An Be Kalan app) and the 45-recording Nyana-Eval benchmark, as part of African Next Voices](<https://robotsmali.org/en/african-next-voices-robotsmali-releases-major-bambara-dataset-models-research-tools/>). [RobotsMali AI4D Lab published two open-source Bambara speech-recognition models, Soloni-114M TDT-CTC and QuartzNet-15x5, trained on about 35 hours of Bambara audio, with weights on Hugging Face](<https://robotsmali.org/en/robotsmali-ai4d-lab-devoile-deux-modeles-open-source-pour-la-reconnaissance-vocale-en-bambara/>).
+
+**AI computing.** No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest held fact: [the one given above](<https://robotsmali.org/en/african-next-voices-robotsmali-releases-major-bambara-dataset-models-research-tools/>).
+
+**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://robotsmali.org/en/african-next-voices-robotsmali-releases-major-bambara-dataset-models-research-tools/>).
+
 ***Noted, not assessed***. [Centre d'intelligence artificielle et de robotique](<https://www.maliweb.net/technologie/mali-le-centre-dintelligence-artificielle-et-de-robotique-un-outil-de-3120195.html>); [Centre d'Intelligence Artificielle et Robotique du Mali](<https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf>).
 
-***Not held***. Nothing held says whether AI is built or hosted in the country.
+***Not held***. No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.

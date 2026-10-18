@@ -1,0 +1,10 @@
+{"slug": "2024-11-20-mwi-times-rbm-tightens-grip-financial-sector", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document covers a complaints directive, not payment licensing, a switch or regional links."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The Reserve Bank of Malawi issued a directive setting complaint-handling procedures for banks and other financial service providers, with resolution within 2 to 30 days, no fees to customers and penalties up to K50 million per institution and K10 million per board or management member.", "as_of": "2024-11-20", "date_precision": "day", "system": "RBM customer complaints handling directive", "class": "protection"}], "systems": [{"system": "RBM customer complaints handling directive", "country_label": "Malawi", "class": "protection", "platform": "", "owner": "Reserve Bank of Malawi", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document mentions digital payment failures only; states no service, interoperability or switch in service."}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

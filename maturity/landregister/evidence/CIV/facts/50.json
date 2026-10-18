@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-02-civ-finances-fiscalite-interieure-reformes",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The finance ministry says the Livre Foncier Electronique (LIFE) is an application letting notaries consult land titles online.",
+   "as_of": "2023-11-02",
+   "date_precision": "day",
+   "system": "Livre Foncier Electronique (LIFE)",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "The finance ministry says notaries can consult land titles online through LIFE, with access to be extended to banks and others in the land chain.",
+   "as_of": "2023-11-02",
+   "date_precision": "day",
+   "system": "Livre Foncier Electronique (LIFE)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Livre Foncier Electronique (LIFE)",
+   "country_label": "Côte d'Ivoire",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction Générale des Impôts",
+   "tiers": "notaries"
+  }
+ ],
+ "note": ""
+}

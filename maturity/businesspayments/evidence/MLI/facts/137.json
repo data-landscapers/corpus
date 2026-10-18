@@ -1,0 +1,36 @@
+{
+ "slug": "2021-10-20-mli-bamada-sigmap-kayes-formation",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The DGMP-DSP says the SIGMAP procurement management software is operational in five regions and Bamako as phase one of dematerialisation, with online bid submission as phase two still in preparation.",
+   "as_of": "2021-10-20",
+   "date_precision": "day",
+   "system": "SIGMAP",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The DGMP-DSP says 74% of contracting authorities have access to SIGMAP and about 1,000 users have been trained.",
+   "as_of": "2021-10-20",
+   "date_precision": "day",
+   "system": "SIGMAP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAP",
+   "country_label": "Mali",
+   "class": "procurement",
+   "platform": "",
+   "owner": "DGMP-DSP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

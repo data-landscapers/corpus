@@ -1,0 +1,193 @@
+{
+ "slug": "2025-07-14-tza-poralg-sis-privacy-policy-prem-number",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "PO-RALG's privacy policy says users hold rights of access, correction, deletion and objection under the Tanzania Personal Data Protection Act, 2022.",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "Tanzania Personal Data Protection Act, 2022",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM).",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "School Information System (SIS)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "School Information System (SIS)",
+       "country_label": "Tanzania",
+       "class": "emis",
+       "platform": "web and app (sis.tamisemi.go.tz)",
+       "owner": "PO-RALG (TAMISEMI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "kept",
+       "value": "routine",
+       "fact": "PO-RALG's privacy policy says the School Information System, in use as an app and web version, manages student registration, attendance tracking and continuous assessments, with data input by school staff.",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "School Information System (SIS)",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P",
+       "fact": "The policy describes SIS as a system for schools, with no level named.",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "School Information System (SIS)",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The policy names PO-RALG (TAMISEMI) as the operator of SIS.",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "School Information System (SIS)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "School Information System (SIS)",
+       "country_label": "Tanzania",
+       "class": "emis",
+       "platform": "web and app (sis.tamisemi.go.tz)",
+       "owner": "PO-RALG (TAMISEMI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

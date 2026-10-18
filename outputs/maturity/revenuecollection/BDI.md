@@ -8,6 +8,6 @@
 
 **Share reported.** No source held since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/>).
 
-***Noted, not assessed***. [Burundi Pay](<https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/>).
+***Noted, not assessed***. [Burundi Pay](<https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/>); [UMUTANGAKORI](<https://finances.gov.bi/index.php/2023/11/14/ordonnance-ministerielle-n540-1377-du-31-10-2023-portant-mise-en-place-dun-systeme-des-teleprocedures-via-le-portail-umutangakori/>).
 
 ***Not held***. No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.

@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "2",
+      "rules": "draft",
+      "redress": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source held since October 2023 says: are such rules in force.",
+      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-syc-undp-sdglocalaction-victoria-ai-services",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "UNDP says an AI-driven customs and logistics upgrade has been implemented through the Port Victoria Management Information System to streamline vessel clearance, without describing declaration processing.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Port Victoria Management Information System",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Port Victoria Management Information System",
+   "country_label": "Seychelles",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

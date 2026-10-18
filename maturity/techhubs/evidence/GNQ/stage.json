@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "no evidence",
-   "hubs": "",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether technology hubs operate in the country.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001",
+      "gaps": "No source held since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

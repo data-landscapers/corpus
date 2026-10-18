@@ -1,0 +1,34 @@
+{
+ "slug": "2022-03-22-moz-diarioeconomico-at-lanca-portal-do-contribuinte",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The tax authority says its recently introduced e-Declaracao system allows submission of VAT, ISPC, IRPC, IRPS and other tax returns, and its new taxpayer portal also allows electronic submission of returns.",
+   "as_of": "2022-03-22",
+   "date_precision": "day",
+   "system": "e-Declaracao",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Declaracao",
+   "country_label": "e-Declaração",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Autoridade Tributaria",
+   "tiers": ""
+  },
+  {
+   "system": "Portal do Contribuinte",
+   "country_label": "Portal do Contribuinte",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Autoridade Tributaria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

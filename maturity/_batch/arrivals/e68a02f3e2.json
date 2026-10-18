@@ -1,0 +1,8 @@
+{"slug": "2025-03-17-ben-dgtcp-centre-ecoute-clients-plaintes", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "AI is only raised as a question from participants; no system stated."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on AI built in the country."}}},
+"feedbackportals": {"countries": {"BEN": {"facts": [{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "Benin's Treasury (DGTCP) says its Centre d'Ecoute Clients has been in a pilot phase since July 2024, taking complaints by phone, email, web form and a physical counter, with the IT complaints-management system still in production and to be deployed soon.", "as_of": "2025-02-28", "date_precision": "day", "system": "Centre d'Ecoute Clients (CEC) du Tresor public", "class": "feedback"}], "systems": [{"system": "Centre d'Ecoute Clients (CEC)", "country_label": "Benin", "class": "feedback", "platform": "multichannel: phone, email, web form, counter", "owner": "Direction Generale du Tresor et de la Comptabilite Publique", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on school internet or curriculum."}}}
+}}

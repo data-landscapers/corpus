@@ -1,0 +1,156 @@
+{
+ "slug": "2024-03-01-zwe-zimra-tarms-release-2-live",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zimbabwe."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zimbabwe."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "ZIMRA says TaRMS, replacing SAP TRM for domestic taxes, launched its Return Management, Payments Management, Taxpayer Accounting and Debt Management modules on 6 December 2023, with Release 2 live from 29 February 2024.",
+       "as_of": "2023-12-06",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "renewed",
+       "value": "live",
+       "fact": "ZIMRA says TaRMS replaced SAP TRM as the domestic taxes system, going live in phases from 12 October 2023.",
+       "as_of": "2023-10-12",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaRMS",
+       "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+       "class": "core",
+       "platform": "",
+       "owner": "Zimbabwe Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "ASYCUDA integration is only said to be in progress; no customs system fact."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zimbabwe."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zimbabwe."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zimbabwe."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "ZIMRA says the TaRMS Payments Management and Return Management modules were launched on 6 December 2023.",
+       "as_of": "2023-12-06",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaRMS",
+       "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Zimbabwe Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ZIMRA says TaRMS Taxpayer Registration launched on 12 October 2023 and 103,859 taxpayers had registered by early 2024 (36,745 new, 67,114 on-boarded).",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "TaRMS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaRMS",
+       "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+       "class": "tax",
+       "platform": "",
+       "owner": "Zimbabwe Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-nga-nsipa-about-nassco-national-social-register",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NSIPA lists an integrated and fully digitalized management information system under the government's restructuring of NASSP-SU.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NASSP-SU management information system",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "NSIPA lists digital payments via bank accounts and wallets under the restructuring of NASSP-SU.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NASSP-SU management information system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

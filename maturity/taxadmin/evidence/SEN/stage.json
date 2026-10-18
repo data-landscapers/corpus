@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "taxsystem",
-   "stage": "no evidence",
-   "filing": "",
-   "payment": "",
-   "uptake": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how taxes are filed and paid.",
-   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "taxsystem",
+      "stage": "5",
+      "filing": "inservice",
+      "payment": "electronic",
+      "uptake": "most",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-006;SEN-003",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

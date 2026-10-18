@@ -1,0 +1,14 @@
+{
+ "slug": "2022-10-01-sle-ictd-ict-tax-admin-itas-uganda-sierra-leone",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The passages shown describe the registration module and TIN change at URA (Uganda), not Sierra Leone."
+    }
+   }
+  }
+ }
+}

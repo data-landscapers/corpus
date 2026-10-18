@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-01-lso-rsl-guide-on-tax-registration",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho says taxpayers register on its eTax platform, log in with a username and password and file their returns there.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "RSL eTax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Revenue Services Lesotho says taxes can be paid through its e-Payments platform by mobile money and by bank electronic transfer.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "RSL e-Payments platform",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL eTax",
+   "country_label": "Lesotho",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

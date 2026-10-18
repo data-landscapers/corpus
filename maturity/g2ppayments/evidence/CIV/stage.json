@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "unplaced",
-   "payment": "",
-   "streams": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether government pays people digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "3",
+      "payment": "inservice",
+      "streams": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001;CIV-002",
+      "gaps": "No source held since October 2023 shows two or more main government payment streams paid digitally.",
+      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

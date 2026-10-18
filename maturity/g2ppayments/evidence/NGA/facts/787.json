@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-20-nga-nairametrics-cash-transfer-4-million-households",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank reports 4.4 million households had received at least one tranche of the federal government cash transfer paid directly into bank accounts, and 0.8 million a second, as of 8 October 2024.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "federal government conditional cash transfer",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The World Bank says payments to recipients' bank accounts are made after validating individuals through the NIN or BVN, and low NIN/BVN coverage among the poor slowed the rollout.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "federal government conditional cash transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

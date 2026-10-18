@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-16-cmr-worldbank-findex-account-ownership",
+ "studies": {
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "The World Bank's Global Findex puts account ownership at a financial institution or mobile money provider among Cameroonian adults at 60.87 percent in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Global Findex",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The page gives account ownership only; it states nothing on mobile money service, interoperability or a switch."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The page gives account ownership only; it states nothing on paying taxes or fees electronically."
+    }
+   }
+  }
+ }
+}

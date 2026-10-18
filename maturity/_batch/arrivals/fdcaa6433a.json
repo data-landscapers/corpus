@@ -1,0 +1,70 @@
+{
+ "slug": "2023-11-24-nam-nbc-digital-pocket-guide-ai-chatbot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Prime Minister said the launched Digital Pocket Guide 2.0 has an AI chatbot, Pocketbot, through which civil servants ask questions and receive instant answers on public service HR policies.",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Pocketbot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pocketbot",
+       "country_label": "Namibia",
+       "class": "govai",
+       "platform": "e-Pocket Guide 2.0",
+       "owner": "Office of the Prime Minister",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The chatbot serves general HR administration, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The guide is an HR-policy information tool, not digital-skills training."
+    }
+   }
+  }
+ }
+}

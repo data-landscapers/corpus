@@ -1,0 +1,26 @@
+{
+ "slug": "2021-06-11-gnb-rtp-kontaktu-pagamento-impostos",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Finance Ministry presented Kontaktu, a platform letting any taxpayer pay taxes online by phone, tablet or computer, with only Ecobank and TMN ready to work with it, per Lusa/RTP.",
+   "as_of": "2021-06-11",
+   "date_precision": "day",
+   "system": "Kontaktu",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kontaktu",
+   "country_label": "Guinea-Bissau",
+   "class": "eservices",
+   "platform": "web/app",
+   "owner": "Ministry of Finance, DGCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

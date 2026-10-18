@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-06-gnq-realeg-guinea-salud-ai-chatbot",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The health ministry officially launched on 6 June 2025 'Guinea Salud', an AI chatbot answering the public on vaccines, medical evacuation, clinic licensing and HIV, in a pilot phase.",
+   "as_of": "2025-06-06",
+   "date_precision": "day",
+   "system": "Guinea Salud",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

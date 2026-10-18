@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 6 |
+| 3 Established | 7 |
 | 2 Nascent | 9 |
 | 1 Absent | 7 |
 | Unplaced | 2 |
-| No evidence | 30 |
+| No evidence | 29 |
 
 ## Countries
 
@@ -43,6 +43,12 @@ Two-thirds of the population or more held a national ID in 2026.
 
 - The interior minister told the National Assembly the Registre national de la population holds over 5.1 million people, about 96% of the 5.3 million population (share computed from the population held) ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
 - More than 94 percent of the population is enrolled for national ID since the new system of 2020, per the ANRPTS director ([source, 2025-05](https://www.biometricupdate.com/202505/african-nations-making-digital-id-gains-in-the-face-of-common-challenges)).
+
+### Morocco: 3 Established
+
+Two-thirds of the population or more held a national ID in 2025.
+
+- The ID4Africa slide gives 31 million citizens holding the electronic national identity card against a total Moroccan population of 36.6 million, about 85% ([source, 2025-05-22](https://www.id4africa.com/2025/files/T3-P1-S3-MOSIP-Final.pdf)).
 
 ### Rwanda: 3 Established
 
@@ -309,12 +315,6 @@ Nothing held names a count of people holding a national ID or says there is none
 Not established: Nothing held counts the people holding a national ID.
 
 ### Mauritius: No evidence
-
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
-
-Not established: Nothing held counts the people holding a national ID.
-
-### Morocco: No evidence
 
 Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
 

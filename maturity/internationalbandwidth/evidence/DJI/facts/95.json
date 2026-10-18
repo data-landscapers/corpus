@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The French Treasury note says nine submarine cables are connected to Djibouti's coast, with three more expected in 2025 and one in 2026.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

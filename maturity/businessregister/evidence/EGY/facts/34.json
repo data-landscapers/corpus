@@ -1,0 +1,26 @@
+{
+ "slug": "2023-09-01-egy-gafi-electronic-incorporation-services",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "GAFI says it launched its Company e-Incorporation Service in September 2023, with sole proprietorships, partnerships and LLCs now incorporated exclusively online.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "GAFI Company e-Incorporation Service",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAFI Company e-Incorporation Service",
+   "country_label": "Egypt",
+   "class": "business",
+   "platform": "GAFI e-Services Portal",
+   "owner": "GAFI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

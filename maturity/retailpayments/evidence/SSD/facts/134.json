@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-ssd-itweb-mtn-momo-onafriq-remittances",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ITWeb Africa reports South Sudan MTN MoMo users can now receive money from 15 countries, so the MTN mobile money service is in service.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "unplaced",
-   "register": "",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether land rights are registered digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "5",
+      "register": "inservice",
+      "national": "nationwide",
+      "online": "online",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-008",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

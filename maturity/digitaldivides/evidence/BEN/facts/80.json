@@ -1,0 +1,26 @@
+{
+ "slug": "2020-12-19-ben-gouv-pitn2r-lancement-regions-rurales",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Benin government launched the World Bank-financed PITN2R on 18 December 2020, a US$47.20m five-year project to extend broadband connectivity in rural communities across 2,128 villages in five departments.",
+   "as_of": "2020-12-18",
+   "date_precision": "day",
+   "system": "PITN2R",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PITN2R",
+   "country_label": "Projet Intégré de Transformation Numérique des Régions Rurales",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Affairs and Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

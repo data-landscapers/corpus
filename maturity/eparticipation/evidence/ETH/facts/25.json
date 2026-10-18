@@ -1,0 +1,17 @@
+{
+ "slug": "2023-05-26-eth-eca-consultation-fee-directive",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "The Ethiopian Communications Authority issued its final-draft communications service and licence fee directive for stakeholder comment by email until 15 June 2023.",
+   "as_of": "2023-05-26",
+   "date_precision": "day",
+   "system": "Stakeholder Consultation on Directive for Communications Service and License Fee",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

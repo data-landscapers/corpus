@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-06-gnq-realeg-guinea-salud-ai-chatbot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The chatbot is a health-sector system, recorded under the sectoral study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The health ministry officially launched on 6 June 2025 'Guinea Salud', an AI chatbot answering the public on vaccines, medical evacuation, clinic licensing and HIV, in a pilot phase.",
+       "as_of": "2025-06-06",
+       "date_precision": "day",
+       "system": "Guinea Salud",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Built with MCD Global Health support; no local development stated."
+    }
+   }
+  }
+ }
+}

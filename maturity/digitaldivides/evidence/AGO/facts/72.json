@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-02-ago-minttics-angosat2-300-mil-angolanos-conecta",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "MINTTICS says its Conecta Angola project, launched in June 2023 to bring voice and internet to remote areas operators do not serve, has reached more than 300,000 people previously without communications, per GGPEN director-general Zolana João.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "Conecta Angola",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Conecta Angola",
+   "country_label": "Angola",
+   "class": "ruralaccess",
+   "platform": "Angosat-2 satellite",
+   "owner": "MINTTICS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

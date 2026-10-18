@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-caf-leconomie-gouvernement-orange-money-frais",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article reports that Orange RCA runs an Orange Money mobile money service in the Central African Republic and raised its transaction fees, which the minister ordered suspended (April 2024).",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Central African Republic",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange RCA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

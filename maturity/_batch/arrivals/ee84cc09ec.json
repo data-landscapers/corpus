@@ -1,0 +1,135 @@
+{
+ "slug": "2026-01-01-mar-anss-conditions-eligibilite-asd",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ANSS says households must be enrolled in the Registre National de la Population to receive direct social aid (ASD).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Registre National de la Population",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre National de la Population",
+       "country_label": "Morocco",
+       "class": "population",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "ANSS says households must be enrolled in the Registre Social Unifi\u00e9 and have a socio-economic score at or under 9.743001, computed on rsu.ma, to receive direct social aid (ASD).",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Registre Social Unifi\u00e9",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unifi\u00e9",
+       "country_label": "Morocco",
+       "class": "social",
+       "platform": "rsu.ma",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Morocco."
+    }
+   }
+  }
+ }
+}

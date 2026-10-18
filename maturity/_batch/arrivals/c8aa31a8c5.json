@@ -1,0 +1,16 @@
+{"slug":"2026-06-16-mar-lebrief-bill-national-ai-agency-deepfakes","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[{"sub_indicator":"aiharm","aspect":"rule","value":"draft","fact":"Private member's bill no 53, tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group, aims to prevent malicious uses of content generation such as deepfakes and would create a National Artificial Intelligence Agency.","as_of":"2024-04-17","date_precision":"day","system":"Agence nationale de l'intelligence artificielle bill (no 53)","class":"aiharm"}],"systems":[],"note":""}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"The article reports a bill, not any government body using AI."}}},
+"ailaw":{"countries":{"MAR":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"Private member's bill no 53 to create a National Artificial Intelligence Agency to govern AI development and use was tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group.","as_of":"2024-04-17","date_precision":"day","system":"Agence nationale de l'intelligence artificielle bill (no 53)","class":"law"}],"systems":[],"note":""}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on AI in a public sector system."}}},
+"aistrategy":{"countries":{"MAR":{"facts":[],"systems":[],"note":"The bill's agency would propose strategic orientations, but no strategy is stated as written or being written."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"authentication":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"birthidlink":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"digitalsovereignty":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Only a general mention of sovereignty; no rule on state data."}}},
+"idcoverage":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idfrombirth":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idmaintenance":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idregisters":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idrobustness":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"interoperabilitylaw":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Not covered."}}}}}

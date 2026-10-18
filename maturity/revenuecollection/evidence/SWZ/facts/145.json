@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-swz-epn-ers-launches-tax-ease-portal",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Eswatini Positive News reports the Eswatini Revenue Service launched the Tax Ease portal, working from 4 March 2024, with integrated payments for taxpayers to pay their taxes.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "Tax Ease",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tax Ease",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "Oracle",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

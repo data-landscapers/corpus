@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The ID4Africa slide dates the National System for Identifying and Targeting Beneficiaries of Social Programs (RNP-RSU) to December 2022 as a reform achievement.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "RNP-RSU",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The ID4Africa slide lists health insurance for vulnerable groups (11 million beneficiaries), direct cash transfer (3.9 million households), the Minhaty scholarship and health insurance for non-covered groups as achievements under RNP-RSU.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "RNP-RSU",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNP-RSU",
+   "country_label": "Morocco",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

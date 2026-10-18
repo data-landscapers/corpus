@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-nam-observer-namra-customs-11-versions-behind",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NamRA upgraded and rolled out ASYCUDAWorld version 4.4.1 on 5 May 2026, and Commissioner Sam Shivute says it processed N$18 billion of goods between 5 and 17 May and handles all trade-related transactions, with declarations submitted online.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "ASYCUDAWorld 4.4.1",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDAWorld 4.4.1",
+   "country_label": "ASYCUDAWorld",
+   "class": "customs",
+   "platform": "UNCTAD ASYCUDA",
+   "owner": "Namibia Revenue Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

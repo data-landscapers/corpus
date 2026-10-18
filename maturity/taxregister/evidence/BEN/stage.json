@@ -9,10 +9,10 @@
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001",
+      "stage_sources": "BEN-001;BEN-005",
       "gaps": "",
       "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

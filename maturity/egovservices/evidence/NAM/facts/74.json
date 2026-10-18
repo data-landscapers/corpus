@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-nam-newera-ndp6-national-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NDP6",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

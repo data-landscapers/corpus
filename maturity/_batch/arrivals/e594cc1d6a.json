@@ -1,0 +1,53 @@
+{
+ "slug": "2026-01-01-mus-oecd-mauritius-tin-sheet",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The sheet names the BRN issued by the registration department but says nothing on how it is held or filed."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Mauritius Revenue Authority says it issues a Tax Account Number at registration in its databases to individuals with a tax obligation and to entities.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Tax Account Number (TAN)",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "The Mauritius Revenue Authority says it allocates a TAN to entities and business individuals as soon as they receive their Business Registration Number.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Tax Account Number (TAN)",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tax Account Number",
+       "country_label": "Mauritius",
+       "class": "tax",
+       "platform": "",
+       "owner": "Mauritius Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

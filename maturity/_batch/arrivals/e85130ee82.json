@@ -1,0 +1,41 @@
+{
+ "slug": "2026-06-22-tun-lapresse-dossier-medical-electronique-ins",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Says nothing on a data protection law beyond a pledge of data protection in the portal."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sehatouna",
+       "country_label": "TUN",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "Sehatouna EMR portal is announced as forthcoming, not delivered."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No national health information system described."
+    }
+   }
+  }
+ }
+}

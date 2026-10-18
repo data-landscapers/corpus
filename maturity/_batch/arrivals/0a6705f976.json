@@ -1,0 +1,21 @@
+{"slug": "2024-05-06-lso-newsday-rsl-implements-e-taxation", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on public procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on a central bank payments role."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"LSO": {"facts": [], "systems": [{"system": "e-Taxation system", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Revenue Service Lesotho", "tiers": ""}], "note": "Only a revenue agency's own system, which the study treats as other."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on international standards bodies or adoption."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No survey of account holding."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Revenue Service Lesotho said it had fully implemented its e-Taxation system after a pilot, covering tax filing and payments for all registered clients, with e-filing and e-payment platforms taught at tax clinics.", "as_of": "2024-04-30", "date_precision": "day", "system": "e-Taxation system", "class": "revenue"}
+], "systems": [{"system": "e-Taxation system", "country_label": "Lesotho", "class": "revenue", "platform": "", "owner": "Revenue Service Lesotho", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "Revenue Service Lesotho said its e-Taxation system was fully implemented after a pilot in the previous filing season, so clients can register and file online.", "as_of": "2024-04-30", "date_precision": "day", "system": "e-Taxation system", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "Revenue Service Lesotho said the e-Taxation system streamlines tax filing and payments for all registered clients on a unified platform, and its clinics teach e-payment.", "as_of": "2024-04-30", "date_precision": "day", "system": "e-Taxation system", "class": "taxsystem"}
+], "systems": [{"system": "e-Taxation system", "country_label": "Lesotho", "class": "taxsystem", "platform": "", "owner": "Revenue Service Lesotho", "tiers": ""}], "note": ""}}},
+"taxregister": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "Revenue Service Lesotho said every client can register online through its fully implemented e-Taxation system.", "as_of": "2024-04-30", "date_precision": "day", "system": "e-Taxation system", "class": "tax"}
+], "systems": [{"system": "e-Taxation system", "country_label": "Lesotho", "class": "tax", "platform": "", "owner": "Revenue Service Lesotho", "tiers": ""}], "note": ""}}}
+}}

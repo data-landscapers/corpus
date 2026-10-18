@@ -1,0 +1,17 @@
+{"slug": "2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Draft certification authority and encryption regulations are only consulted on; no authentication service is stated as authorised, contracted, piloted or in use."}}},
+"cybersecuritylaw": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Information and Digitalization says draft regulations were developed to help administer the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02 of the Laws of Malawi), including draft Cyber Security Regulations, 2024.", "as_of": "2016", "date_precision": "year", "system": "Electronic Transactions and Cyber Security Act 2016", "class": "law"}
+], "systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Information and Digitalization refers to the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02) as the Act its draft 2024 regulations on certification authority and encryption would administer; the regulations are drafts, not yet made.", "as_of": "2016", "date_precision": "year", "system": "Electronic Transactions and Cyber Security Act 2016", "class": "law"}
+], "systems": [], "note": ""}}},
+"eparticipation": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "eparticipation", "aspect": "online", "value": "asked", "fact": "The Ministry of Information and Digitalization, through MACRA, invited the public to a hybrid consultation meeting, in Lilongwe or online by Teams, on three named draft ETCA regulations whose drafts were linked by QR code.", "as_of": "2024-02-21", "date_precision": "day", "system": "Hybrid public stakeholder consultation meeting on ETCA Regulations (Teams)", "class": "eparticipation"}
+], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing about private money for digital businesses."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Ministry of Information and Digitalization through MACRA held a public stakeholder consultation on 21 February 2024 on three draft ETCA regulations (certification authority and encryption, .mw ccTLD, cyber security), inviting domain registrants, telecom, internet, technology, cryptography and cyber security service providers and the general public.", "as_of": "2024-02-21", "date_precision": "day", "system": "Stakeholder consultation on ETCA Regulations", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"statisticslaw": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document says nothing about a statistics law."}}}
+}}

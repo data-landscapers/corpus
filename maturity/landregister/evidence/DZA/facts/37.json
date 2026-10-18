@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-14-dza-elwatan-land-registry-one-stop-shop",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Algeria's finance minister said on 12 December 2024 that the land file and archives of the land conservation offices have been digitised, covering property status, real rights and owners.",
+   "as_of": "2024-12-12",
+   "date_precision": "day",
+   "system": "digitised land file (fichier foncier)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitised land file (fichier foncier)",
+   "country_label": "Algeria",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "land conservation offices and cadastre"
+  }
+ ],
+ "note": "Coverage of the whole country and online access are not stated."
+}

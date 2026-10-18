@@ -1,0 +1,61 @@
+{
+ "slug": "2025-05-07-uga-moict-digital-literacy-local-government-officers",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of ICT and National Guidance launched a Digital Literacy and Skilling Training for local government officers, with ITU and UICT, covering computer and mobile use, cybersecurity and the PDMIS and FIS systems, starting online.",
+       "as_of": "2025-05-07",
+       "date_precision": "day",
+       "system": "Digital Literacy and Skilling Training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Literacy and Skilling Training",
+       "country_label": "Digital Literacy and Skilling Training",
+       "class": "csskills",
+       "platform": "online, WhatsApp group, virtual classroom",
+       "owner": "Ministry of ICT and National Guidance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for officers only."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training of officers (capacity); no office connection stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

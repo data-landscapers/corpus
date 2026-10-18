@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

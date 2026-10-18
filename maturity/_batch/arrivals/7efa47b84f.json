@@ -1,0 +1,15 @@
+{"slug": "2025-06-18-ken-moh-digital-health-reform-cihis-17-counties", "studies": {
+"health": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Kenya's Health Cabinet Secretary said the digitisation of the Comprehensive Integrated Health Information System is led by the Digital Health Agency under the Ministry of Health.", "as_of": "2025-06-16", "date_precision": "day", "system": "Comprehensive Integrated Health Information System", "class": "hmis"},
+{"sub_indicator": "emr", "aspect": "digitised", "value": "shared", "fact": "The Cabinet Secretary said the Afya Yangu platform now enables portability of patient data across health facilities.", "as_of": "2025-06-16", "date_precision": "day", "system": "Afya Yangu", "class": "emr"}
+], "systems": [
+{"system": "Comprehensive Integrated Health Information System", "country_label": "CIHIS", "class": "hmis", "platform": "", "owner": "Ministry of Health / Digital Health Agency", "tiers": ""},
+{"system": "Afya Yangu", "country_label": "Afya Yangu", "class": "emr", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"healthexchange": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Cabinet Secretary said regulatory bodies like KMPDC have been fully integrated with the health information system, and Afya Yangu enables patient data portability across facilities.", "as_of": "2025-06-16", "date_precision": "day", "system": "Comprehensive Integrated Health Information System", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "underway", "fact": "The Cabinet Secretary said the Comprehensive Integrated Health Information System is operational in 17 counties, with rollout to Homabay, Kisumu, Nakuru, Lamu and others in the coming weeks.", "as_of": "2025-06-16", "date_precision": "day", "system": "Comprehensive Integrated Health Information System", "class": "hmis"}
+], "systems": [], "note": ""}}}
+}}

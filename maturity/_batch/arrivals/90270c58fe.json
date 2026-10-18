@@ -1,0 +1,135 @@
+{
+ "slug": "2025-08-23-swz-observer-2024-crvs-report-launch",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Eswatini Observer reports the Minister of Home Affairs launched the 2024 Annual Civil Registration and Vital Statistics Report, with deaths by cause.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "2024 Annual Civil Registration and Vital Statistics Report",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "vital",
+       "value": "published",
+       "fact": "The Eswatini Observer reports the Minister of Home Affairs launched the 2024 Annual Civil Registration and Vital Statistics Report, with deaths by cause.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "2024 Annual Civil Registration and Vital Statistics Report",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "series",
+       "value": "annual",
+       "fact": "The Eswatini Observer reports the Central Statistical Office has produced the Annual Vital Statistics Report consistently since 2016, the 2024 edition launched in August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "2024 Annual Civil Registration and Vital Statistics Report",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Annual Civil Registration and Vital Statistics Report",
+       "country_label": "2024 Annual Civil Registration and Vital Statistics Report",
+       "class": "admin",
+       "platform": "",
+       "owner": "Central Statistical Office",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Eswatini."
+    }
+   }
+  }
+ }
+}

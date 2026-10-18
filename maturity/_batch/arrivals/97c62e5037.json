@@ -1,0 +1,25 @@
+{
+ "slug": "2019-11-11-ner-privacyinternational-biometric-voting-system",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "underway",
+       "fact": "Privacy International says Niger is creating a biometric voter database of fingerprints and facial images for the elections scheduled late 2020 and early 2021.",
+       "as_of": "2019-11-11",
+       "date_precision": "day",
+       "system": "Biometric voting system",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

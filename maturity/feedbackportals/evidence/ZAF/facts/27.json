@@ -1,0 +1,64 @@
+{
+ "slug": "2024-12-19-zaf-dpme-reply-cw727-presidential-hotline-khawuleza",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "The Department of Planning, Monitoring and Evaluation says the Presidential Hotline received 339,579 cases since September 2009, including calls, emails and walk-ins, of which 242,636 were complaints, logged in a web-based ITSM system.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "Presidential Hotline",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "DPME says hotline complaints are assigned through ITSM directly to stakeholders, municipalities and departments, each with a licence to view and close cases.",
+   "as_of": "2024-12-19",
+   "date_precision": "day",
+   "system": "Presidential Hotline",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "DPME says 234,752 of 242,636 complaints (96.7%) were resolved as at 17 December 2024 and that quarterly, mid-year and annual hotline reports are available.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "Presidential Hotline",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "DPME says the Khawuleza app received no cases after being piloted in Limpopo owing to technical glitches, and benchmarking is under way for digitalising the hotline.",
+   "as_of": "2024-12-19",
+   "date_precision": "day",
+   "system": "Khawuleza app",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Presidential Hotline",
+   "country_label": "South Africa",
+   "class": "feedback",
+   "platform": "ITSM web CRM",
+   "owner": "DPME",
+   "tiers": ""
+  },
+  {
+   "system": "Khawuleza app",
+   "country_label": "South Africa",
+   "class": "feedback",
+   "platform": "app",
+   "owner": "DPME",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-12-syc-saws-country-hydromet-diagnostics",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The South African Weather Service peer review says the Seychelles Meteorological Authority's forecasting section has access to EUMETSAT satellite products through the internet and that access to satellite data assists its nowcasting services.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "EUMETSAT satellite products",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The South African Weather Service peer review says the Seychelles Meteorological Authority has implemented a QMS with ISO 9001/2015 certification for international air navigation in full, also covering climate services.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "SMA quality management system",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETSAT satellite products",
+   "country_label": "Seychelles",
+   "class": "metsat",
+   "platform": "internet access",
+   "owner": "Seychelles Meteorological Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

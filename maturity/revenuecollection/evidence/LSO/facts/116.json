@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-lso-rsl-guide-on-tax-registration",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho says taxes can be paid electronically through its e-Payments platform by mobile money (EcoCash, M-Pesa) and by bank EFT, including Standard Lesotho Bank's UNAYO, whose payments show instantly in the RSL system.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "RSL e-Payments platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL e-Payments platform",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

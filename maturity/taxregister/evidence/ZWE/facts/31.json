@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-07-zwe-zimra-notice-75-outstanding-returns-payment",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ZIMRA Public Notice 75 of 2024 says taxpayers are held in TaRMS under a Taxpayer Identity Number (TIN) that banks validate against payments, with tax clearance certificates issued automatically.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

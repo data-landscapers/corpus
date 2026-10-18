@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-12-sen-arcop-appel-premiers-resultats",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ARCOP says the APPEL public procurement platform, in its pilot phase since 14 October 2025, includes an integrated AI-based assistant that guides users on regulatory and technical matters.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "APPEL AI assistant",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "dematerialised public procurement platform",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

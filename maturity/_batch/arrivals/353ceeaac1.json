@@ -1,0 +1,16 @@
+{"slug":"2025-04-04-mrt-ami-lancement-services-numeriques-apim","studies":{
+"businessregister":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"business","aspect":"registration","value":"inservice","fact":"The ministers launched APIM digital services on 4 April 2025 letting investors create companies online through the 'Mes services' portal.","as_of":"2025-04-04","date_precision":"day","system":"Mes services (APIM)","class":"business"},
+{"sub_indicator":"business","aspect":"shared","value":"shared","fact":"Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure.","as_of":"2025-04-04","date_precision":"day","system":"Mes services (APIM)","class":"business"}],
+"systems":[{"system":"Mes services","country_label":"Mauritanie","class":"business","platform":"mobile app and portal (App Store, Play Store)","owner":"APIM","tiers":"sign-in verified through the Mon Identité app"}],"note":""}}},
+"digitalstrategy":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Names an agenda numérique and an administration modernisation strategy without standing, text or period."}}},
+"egovservices":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"eservices","aspect":"services","value":"underway","fact":"The government launched on 4 April 2025 the 'Mes services' portal and app with two services, online company creation and investment-code accreditation requests.","as_of":"2025-04-04","date_precision":"day","system":"Mes services (APIM)","class":"eservices"}],
+"systems":[{"system":"Mes services","country_label":"Mauritanie","class":"eservices","platform":"mobile app and portal","owner":"APIM","tiers":"identity check through Mon Identité"}],"note":""}}},
+"startups":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Mentions easier digital access for startups as a priority only; no law, label or fund."}}},
+"taxregister":{"countries":{"MRT":{"facts":[
+{"sub_indicator":"taxpayers","aspect":"register","value":"inservice","fact":"Since 4 April 2025 a tax registration can be obtained through the APIM 'Mes services' portal as part of company creation.","as_of":"2025-04-04","date_precision":"day","system":"Mes services (APIM)","class":"tax"},
+{"sub_indicator":"taxpayers","aspect":"shared","value":"shared","fact":"The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation.","as_of":"2025-04-04","date_precision":"day","system":"Mes services (APIM)","class":"tax"}],
+"systems":[],"note":""}}},
+"techhubs":{"countries":{"MRT":{"facts":[],"systems":[],"note":"States nothing about hubs, incubators or parks."}}}
+}}

@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "electoral",
-   "stage": "unplaced",
-   "roll": "",
-   "checked": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether the voters' roll is held digitally.",
-   "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "electoral",
+      "stage": "4",
+      "roll": "inservice",
+      "checked": "open",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-003",
+      "gaps": "No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.",
+      "note": "First pass: counted from the four questions by study-ladder-electoralregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,121 @@
+{
+  "slug": "2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online",
+  "studies": {
+    "businessregister": {
+      "countries": {
+        "CPV": {
+          "facts": [
+            {
+              "sub_indicator": "business",
+              "aspect": "registration",
+              "value": "inservice",
+              "fact": "The Plataforma Empresa Online (PEO), of the Cabo Verde government, offers company creation online as one package, including formalisation with the Commercial Registry (DGRNI), plus changes to company data and requests for dissolution.",
+              "as_of": "2026",
+              "date_precision": "year",
+              "system": "Plataforma Empresa Online (PEO)",
+              "class": "business"
+            },
+            {
+              "sub_indicator": "business",
+              "aspect": "shared",
+              "value": "shared",
+              "fact": "The PEO company-creation package covers commercial registry formalisation, obtaining the Tax Identification Number (NIF) from DNRE and enrolment with social security (INPS) in one process.",
+              "as_of": "2026",
+              "date_precision": "year",
+              "system": "Plataforma Empresa Online (PEO)",
+              "class": "business"
+            }
+          ],
+          "systems": [
+            {
+              "system": "Plataforma Empresa Online (PEO)",
+              "country_label": "Cabo Verde",
+              "class": "business",
+              "platform": "PEO",
+              "owner": "Governo de Cabo Verde",
+              "tiers": "national"
+            }
+          ],
+          "note": ""
+        }
+      }
+    },
+    "landregister": {
+      "countries": {
+        "CPV": {
+          "facts": [
+            {
+              "sub_indicator": "land",
+              "aspect": "online",
+              "value": "online",
+              "fact": "The PEO allows property transfers to be carried out through the platform, with the integrated participation of the Notary, the Land Registry (Conservatoria do Registo Predial), the municipal council and the Cadastre services (INGT).",
+              "as_of": "2026",
+              "date_precision": "year",
+              "system": "Plataforma Empresa Online (PEO)",
+              "class": "land"
+            }
+          ],
+          "systems": [
+            {
+              "system": "Plataforma Empresa Online (PEO)",
+              "country_label": "Cabo Verde",
+              "class": "land",
+              "platform": "PEO",
+              "owner": "Governo de Cabo Verde",
+              "tiers": "national"
+            }
+          ],
+          "note": ""
+        }
+      }
+    },
+    "localgov": {
+      "countries": {
+        "CPV": {
+          "facts": [],
+          "systems": [],
+          "note": "The document says nothing on local government office connection; the municipal council is only named as a participant in property transfers."
+        }
+      }
+    },
+    "registry": {
+      "countries": {
+        "CPV": {
+          "facts": [],
+          "systems": [],
+          "note": "The document says nothing on civil registration of births or deaths."
+        }
+      }
+    },
+    "taxregister": {
+      "countries": {
+        "CPV": {
+          "facts": [
+            {
+              "sub_indicator": "taxpayers",
+              "aspect": "register",
+              "value": "inservice",
+              "fact": "The PEO company-creation package includes obtaining the Tax Identification Number (NIF) from DNRE, and the platform interoperates with the tax administration.",
+              "as_of": "2026",
+              "date_precision": "year",
+              "system": "Plataforma Empresa Online (PEO)",
+              "class": "tax"
+            },
+            {
+              "sub_indicator": "taxpayers",
+              "aspect": "shared",
+              "value": "shared",
+              "fact": "The NIF is obtained within the same PEO package as commercial registry formalisation and social security enrolment.",
+              "as_of": "2026",
+              "date_precision": "year",
+              "system": "Plataforma Empresa Online (PEO)",
+              "class": "tax"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    }
+  }
+}

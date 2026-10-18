@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-31-sle-sierraloaded-parliament-obrs-concession",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Parliament ratified a 15-year build-operate-transfer concession under which Multi GIS E-Services SL Ltd will develop, operate and maintain the Online Business Registration System, per Sierraloaded.",
+   "as_of": "2026-05-31",
+   "date_precision": "day",
+   "system": "Online Business Registration System",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "Sierra Leone",
+   "class": "business",
+   "platform": "",
+   "owner": "Government of Sierra Leone; Multi GIS E-Services SL Ltd as BOT concessionaire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

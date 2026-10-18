@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-07-uga-moict-digital-literacy-local-government-officers",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of ICT and National Guidance launched a Digital Literacy and Skilling Training for local government officers, with ITU and UICT, covering computer and mobile use, cybersecurity and the PDMIS and FIS systems, starting online.",
+   "as_of": "2025-05-07",
+   "date_precision": "day",
+   "system": "Digital Literacy and Skilling Training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Literacy and Skilling Training",
+   "country_label": "Digital Literacy and Skilling Training",
+   "class": "csskills",
+   "platform": "online, WhatsApp group, virtual classroom",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

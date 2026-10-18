@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "no evidence",
-   "registry": "",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a social registry, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "unplaced",
+      "registry": "",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says whether a social registry is under way or in service.",
+      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

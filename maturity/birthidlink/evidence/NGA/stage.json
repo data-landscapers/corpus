@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-003",
+      "stage_sources": "NGA-001;NGA-005",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
       "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

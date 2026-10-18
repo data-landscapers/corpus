@@ -1,0 +1,153 @@
+{
+ "slug": "2024-09-20-bdi-abp-pafen-digital-economy-launch",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The World Bank-financed (USD 92m, to 2028) PAFEN project, launched 12 September 2024, has a priority component on digital connectivity inclusion that targets rural connectivity, per its coordinator.",
+       "as_of": "2024-09-12",
+       "date_precision": "day",
+       "system": "PAFEN",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAFEN (Project to Support the Foundations of the Digital Economy)",
+       "country_label": "Burundi",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Communication, Information Technologies and Media; World Bank financed",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The PAFEN project launched 12 September 2024 includes development of digital skills for the population among its priority components, per its coordinator.",
+       "as_of": "2024-09-12",
+       "date_precision": "day",
+       "system": "PAFEN",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAFEN (Project to Support the Foundations of the Digital Economy)",
+       "country_label": "Burundi",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Communication, Information Technologies and Media; World Bank financed",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Burundi."
+    }
+   }
+  }
+ }
+}

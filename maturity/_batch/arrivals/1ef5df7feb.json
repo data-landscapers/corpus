@@ -1,0 +1,13 @@
+{"slug":"2026-02-12-rwa-cma-intermediary-platform-regulation-comments","studies":{
+"businesspayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Nothing on public procurement."}}},
+"centralbank":{"countries":{"RWA":{"facts":[],"systems":[],"note":"The notice concerns the Capital Market Authority, not the central bank."}}},
+"consumerprotection":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body is stated."}}},
+"crossborderpayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No cross-border payment is stated."}}},
+"eparticipation":{"countries":{"RWA":{"facts":[{"sub_indicator":"eparticipation","aspect":"online","value":"asked","fact":"The Capital Market Authority invited the public to read the draft regulation governing intermediary service platform operators on its website and send comments by email by 24 February 2026.","as_of":"2026-02-12","date_precision":"day","system":"CMA website and email comments","class":"eparticipation"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No government payment to people is stated."}}},
+"paymentsuptake":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No account-ownership survey figure is stated."}}},
+"publicconsultation":{"countries":{"RWA":{"facts":[{"sub_indicator":"consultation","aspect":"hearing","value":"held","fact":"The Capital Market Authority, a regulator, put its draft regulation on intermediary service platform operators (fintech) out for written comment from fintech experts, lawyers, bankers, the payment industry and investors, with a physical consultation meeting to follow.","as_of":"2026-02-12","date_precision":"day","system":"","class":"consultation"}],"systems":[],"note":""}}},
+"retailpayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No mobile money or retail payment service is described."}}},
+"revenuecollection":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}},
+"startups":{"countries":{"RWA":{"facts":[],"systems":[],"note":"A sandbox exit regulation for fintechs is not a startup act, label or fund."}}}
+}}

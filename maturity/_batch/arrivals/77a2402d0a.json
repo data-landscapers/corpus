@@ -1,0 +1,15 @@
+{"slug": "2026-02-12-sen-arcop-appel-premiers-resultats", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "ARCOP says the APPEL public procurement platform, in its pilot phase since 14 October 2025, includes an integrated AI-based assistant that guides users on regulatory and technical matters.", "as_of": "2026-02-12", "date_precision": "day", "system": "APPEL AI assistant", "class": "govai"}
+], "systems": [{"system": "APPEL", "country_label": "Senegal", "class": "other", "platform": "dematerialised public procurement platform", "owner": "ARCOP", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The only AI named is in a procurement platform, not a listed sector system."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}},
+"businesspayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "ARCOP says the APPEL e-procurement platform, launched in pilot on 14 October 2025, has had 15 procedures launched, nine with electronic opening of bids, and publishes procurement plans, tenders and bid openings online.", "as_of": "2026-02-12", "date_precision": "day", "system": "APPEL", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "ARCOP gives figures for APPEL: nearly 400 registered suppliers, over 80 procurement plans published for 2025 and since January 2026, and 15 procedures launched, nine with electronic opening of bids.", "as_of": "2026-02-12", "date_precision": "day", "system": "APPEL", "class": "procurement"}
+], "systems": [{"system": "APPEL", "country_label": "Senegal", "class": "procurement", "platform": "dematerialised public procurement platform with API gateway and microservices", "owner": "ARCOP", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on startup law or funds."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on technology hubs or parks."}}}
+}}

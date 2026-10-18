@@ -1,0 +1,106 @@
+{
+ "slug": "2025-09-01-zaf-pmg-nw5224-court-online-courts",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "inservice",
+       "fact": "The Minister of Justice's written reply of 1 September 2025 says 19 courts have adopted the Court Online system, an online document management system, the first two (Pretoria and Johannesburg High Courts) going live on 30 September 2022 and the 19th around August 2025, with Mahikeng and Free State High Courts scheduled for October 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Court Online",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Court Online",
+       "country_label": "South Africa",
+       "class": "justice",
+       "platform": "",
+       "owner": "Department of Justice and Constitutional Development",
+       "tiers": "High Courts, Labour Courts, Land Court"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

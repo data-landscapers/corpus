@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "4",
+      "share": "half",
+      "target": "target",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002",
+      "gaps": "No survey held since October 2023 puts adults paying digitally at 79% or more.",
+      "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

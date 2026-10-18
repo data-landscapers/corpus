@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-26-mrt-madar-enregistrement-contrats-plateforme-lagoud",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Administration Générale des Domaines says it registers all contracts digitally on the Lagoud platform for real estate documents, with final copies delivered by e-mail or WhatsApp.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "Lagoud",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

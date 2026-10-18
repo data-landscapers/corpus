@@ -1,0 +1,23 @@
+{
+ "slug": "2024-10-10-gab-gabonmailinfos-convention-internet-lycees-colleges",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no share of people using the internet."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "A signed convention to connect schools, no share of schools stated; no compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-ago-asycuda-operational-launch-asy5",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ASYCUDA ASY5",
+   "country_label": "ASY5",
+   "class": "other",
+   "platform": "ASYCUDA Cloud Framework",
+   "owner": "Angola customs",
+   "tiers": ""
+  }
+ ],
+ "note": "Customs software only; no finance, revenue or payroll system, renewal or architecture stated."
+}

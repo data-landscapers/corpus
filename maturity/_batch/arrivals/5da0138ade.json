@@ -1,0 +1,11 @@
+{"slug": "2025-06-28-tza-tanzaniainvest-president-samia-performance-speech", "studies": {
+"digitalstrategy": {"countries": {"TZA": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "President Samia told Parliament on 27 June 2025 that a 10-year Digital Economy Strategy had been introduced to promote innovation, without saying it was approved or adopted.", "as_of": "2025-06-27", "date_precision": "day", "system": "Digital Economy Strategy", "class": "national"}], "systems": [{"system": "Digital Economy Strategy", "country_label": "Tanzania", "class": "national", "platform": "", "owner": "Government of Tanzania", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document says nothing on accessibility for persons with disabilities."}}},
+"egovservices": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a count of integrated systems and a ranking; no portal, service count or usage stated."}}},
+"fibrebackbone": {"countries": {"TZA": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "President Samia said the National ICT Backbone expanded from 8,319 km to 13,820 km, connecting 109 districts.", "as_of": "2025-06-27", "date_precision": "day", "system": "National ICT Backbone", "class": "backbone"}], "systems": [{"system": "National ICT Backbone", "country_label": "Tanzania", "class": "backbone", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document says nothing on police station records."}}},
+"ruralelectrification": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Gives villages and hamlets connected, not a share of rural people with electricity."}}},
+"startups": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Startup Policy and Mama Samia Innovation Fund only named as introduced or launched; no adoption act, labelling or investments stated."}}},
+"stemgraduates": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document says nothing on STEM graduates or a research network."}}},
+"techhubs": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document names no hub, incubator or technology park."}}}
+}}

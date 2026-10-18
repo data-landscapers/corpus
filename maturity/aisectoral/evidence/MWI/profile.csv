@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,sectorai,use,coverage,inservice,2026-08-06,MWI-003;MWI-004,MWI-001=underway;MWI-002=underway,
+MWI,sectorai,sectors,coverage,,,,,nothing held
+MWI,sectorai,results,coverage,,,,,nothing held

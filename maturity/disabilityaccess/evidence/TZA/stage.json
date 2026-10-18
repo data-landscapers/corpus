@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "4",
+      "stage": "5",
       "rule": "inforce",
       "delivered": "delivered",
-      "audit": "",
+      "audit": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003",
-      "gaps": "No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+      "stage_sources": "TZA-005",
+      "gaps": "",
       "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }

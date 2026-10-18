@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-ssd-radioyei-boss-emoney-rules",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article describes rules for operating electronic money systems in South Sudan, with transaction limits by customer tier and agent reporting, implying mobile money services are in operation.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

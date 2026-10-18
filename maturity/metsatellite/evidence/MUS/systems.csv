@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,"Meteosat satellite data system (MDD, HRPT, PDUS)",Mauritius,metsat,Meteosat / polar orbiters,Mauritius Meteorological Services,,2026-01-01-mus-mms-historical-background
+MUS,NOAA HRPT reception,Mauritius,metsat,HRPT,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
+MUS,Meteosat Second Generation (MSG),Mauritius,metsat,Meteosat/RETIM,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007

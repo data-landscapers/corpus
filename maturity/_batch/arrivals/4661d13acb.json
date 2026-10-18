@@ -1,0 +1,25 @@
+{
+ "slug": "2018-09-19-rwa-idea-biometric-voter-identification-rwanda",
+ "studies": {
+  "electoralregister": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "International IDEA says Rwanda's voter register is compiled using the civil registry, and Organic Law 004/2018 has it updated from civil registry information.",
+       "as_of": "2018-06-21",
+       "date_precision": "day",
+       "system": "Voter register",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

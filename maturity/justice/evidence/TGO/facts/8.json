@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-04-tgo-tclome-syscom-procedures-commerciales",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The Lomé commercial court's president states its chambers have had the FORSETI COMMERCIAL platform for automated, dematerialised handling of commercial procedures for six years, renamed SYSCOM after World Bank-funded updates and extended to the commercial chambers of the Lomé Court of Appeal.",
+   "as_of": "2025-02-04",
+   "date_precision": "day",
+   "system": "SYSCOM (formerly FORSETI COMMERCIAL)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Lomé commercial court's president states SYSCOM has been open since December 2019 to lawyers, bailiffs and to some extent individuals, with an online module for external users to enrol summonses, submit requests and file pleadings and documents.",
+   "as_of": "2025-02-04",
+   "date_precision": "day",
+   "system": "SYSCOM (formerly FORSETI COMMERCIAL)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYSCOM",
+   "country_label": "Togo",
+   "class": "justice",
+   "platform": "FORSETI COMMERCIAL platform, updated",
+   "owner": "Tribunal de commerce de Lomé",
+   "tiers": "commercial court and commercial chambers of Lomé Court of Appeal"
+  }
+ ],
+ "note": ""
+}

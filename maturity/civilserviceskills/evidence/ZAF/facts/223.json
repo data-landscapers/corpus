@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-zaf-nsg-annual-report-2024-25",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "President Ramaphosa, quoted in the National School of Government annual report, welcomed the launch of the National AI Skilling Initiative to provide AI skills training for public servants, with a Microsoft, NSG and NEMISA MoU still to be signed.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "National AI Skilling Initiative",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Skilling Initiative",
+   "country_label": "South Africa",
+   "class": "csskills",
+   "platform": "",
+   "owner": "National School of Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

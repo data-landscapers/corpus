@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-26-mrt-madar-enregistrement-contrats-plateforme-lagoud",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Administration Générale des Domaines announced it has begun registering all contracts and putting final copies online after fee payment by mobile payment apps, via the Lagoud platform.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "Lagoud",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lagoud",
+   "country_label": "Mauritanie",
+   "class": "landmis",
+   "platform": "online platform",
+   "owner": "Administration Générale des Domaines et du patrimoine de l'État",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

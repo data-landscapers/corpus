@@ -8,6 +8,6 @@
 
 **Half or more.** No source held since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/>).
 
-***Noted, not assessed***. [Digital Champions Programme](<https://www.citinewsroom.com/2026/09/eduspots-launches-digital-champions-programme-to-accelerate-learning-across-52-ghanaian-communities/>).
+***Noted, not assessed***. [Digital Champions Programme](<https://www.citinewsroom.com/2026/09/eduspots-launches-digital-champions-programme-to-accelerate-learning-across-52-ghanaian-communities/>); [One Million Coders](<https://www.adomonline.com/sam-george-gives-contractors-30-days-to-finish-rural-telephony-sites-or-face-penalties/>).
 
 ***Not held***. No source held since October 2023 gives a measured share of people with basic digital skills.

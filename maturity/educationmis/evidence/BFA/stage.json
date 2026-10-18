@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "no evidence",
-   "system": "",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the education ministry holds its statistics in an information system.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-002",
+      "gaps": "No source held since October 2023 says the system holds a record for each learner.",
+      "note": "First pass: counted from the four questions by study-ladder-educationmis.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

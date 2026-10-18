@@ -1,0 +1,25 @@
+{
+ "slug": "2023-06-28-som-nca-draft-strategic-plan-public-comments",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "eparticipation",
+       "aspect": "online",
+       "value": "asked",
+       "fact": "Somalia's National Communications Authority invited public comments on its draft 2023-2027 strategic plan, with the draft offered for download on its website and comments by email to consultation@nca.gov.so until 20 July 2023.",
+       "as_of": "2023-06-28",
+       "date_precision": "day",
+       "system": "NCA draft strategic plan consultation",
+       "class": "eparticipation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

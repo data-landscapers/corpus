@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-30-mar-telquel-dossier-judiciaire-electronique",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Morocco's justice minister says litigants can use online services such as tracking execution requests and obtaining copies of judgments, and lawyers can file online.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "justice ministry online services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,187 @@
+{
+ "slug": "2025-09-15-syc-gazette-si72-e-filing-written-submissions",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "Chief Justice Govinden's Electronic Filing of Written Submissions (Civil Matters) Rules, 2025 (S.I. 72) let legal practitioners and parties file written submissions in civil cases before the Supreme Court electronically via a designated online platform or the Court's email address; commencement date is left blank in the gazetted text.",
+       "as_of": "2025-09-15",
+       "date_precision": "day",
+       "system": "Supreme Court electronic filing of written submissions",
+       "class": "justice"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a court e-filing rule and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

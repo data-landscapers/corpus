@@ -1,0 +1,42 @@
+{
+ "slug": "2025-02-05-bwa-businessweekly-cipa-obrs-it-system",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "CIPA says its Online Business Registration System, acquired in 2019, lets investors register companies online 24/7 and cut registration from over five days to one.",
+       "as_of": "2025-02-05",
+       "date_precision": "day",
+       "system": "Online Business Registration System (OBRS)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online Business Registration System (OBRS)",
+       "country_label": "Botswana",
+       "class": "business",
+       "platform": "Foster Moore software",
+       "owner": "CIPA",
+       "tiers": ""
+      },
+      {
+       "system": "VERNE-BO beneficial ownership register",
+       "country_label": "Botswana",
+       "class": "business",
+       "platform": "Foster Moore",
+       "owner": "CIPA",
+       "tiers": ""
+      }
+     ],
+     "note": "The beneficial ownership register is contracted and not yet in service."
+    }
+   }
+  }
+ }
+}

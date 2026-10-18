@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-bdi-primature-rppcub-2026-launch",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "On 2026-07-14 the Prime Minister of Burundi launched the RPPCUB 2026 census of urban property owners, whose stated aim is a fully digitised, geo-referenced land register, starting in Mugere, Mukaza, Ntahangwa, Gitega, Ngozi and Rumonge communes before national roll-out, with enumerators from INSBU working with the land-titles and cadastre directorate (DTFCN).",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "RPPCUB 2026",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RPPCUB 2026",
+   "country_label": "RPPCUB 2026 digital land register",
+   "class": "land",
+   "platform": "",
+   "owner": "DTFCN with INSBU",
+   "tiers": "six urban communes in first phase"
+  }
+ ],
+ "note": ""
+}

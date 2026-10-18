@@ -1,0 +1,34 @@
+{
+ "slug": "2020-02-17-stp-miranda-informatizacao-registo-propriedade",
+ "studies": {
+  "landregister": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "A Miranda alert reports Decree 33/2019 of 18 November 2019 approving the internal regulation for computerising the property register, under which acts subject to registration may be submitted to the Integrated Property Registration System.",
+       "as_of": "2019-11-18",
+       "date_precision": "day",
+       "system": "Sistema Integrado do Registo de Propriedade",
+       "class": "land"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sistema Integrado do Registo de Propriedade",
+       "country_label": "Sao Tome and Principe",
+       "class": "land",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

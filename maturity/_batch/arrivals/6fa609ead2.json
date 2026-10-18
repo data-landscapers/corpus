@@ -1,0 +1,110 @@
+{
+ "slug": "2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "RTS says the TGI de Pikine-Guediawaye launched works on 5 October 2026 to set up a local AI application for judicial archives, with UNDP and Korean support, as a pilot court.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "local AI application for judicial archives",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "local AI application for judicial archives",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "NVIDIA DGX Spark",
+       "owner": "Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",
+       "tiers": "TGI Pikine-Guediawaye pilot"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "RTS says the TGI de Pikine-Guediawaye launched works on 5 October 2026 to set up a local AI application for judicial archives, with UNDP and Korean support, as a pilot court.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "local AI application for judicial archives",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "local AI application for judicial archives",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "NVIDIA DGX Spark",
+       "owner": "Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",
+       "tiers": "TGI Pikine-Guediawaye pilot"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "RTS says works began on 5 October 2026 on a locally run AI application for court archives, with an NVIDIA DGX Spark delivered, funded with UNDP and Korean support.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "local AI application for judicial archives",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "local AI application for judicial archives",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "NVIDIA DGX Spark",
+       "owner": "Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",
+       "tiers": "TGI Pikine-Guediawaye pilot"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "AI for archives and scanning only; no case management system stated."
+    }
+   }
+  }
+ }
+}

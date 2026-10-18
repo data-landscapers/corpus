@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-07-egy-moic-egypt-startup-charter-launch",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Egypt launched Egypt's Startup Charter on 7 February 2026, a five-year startup strategy with an official startup definition, a financing initiative targeting USD 1bn and a policy observatory.",
+   "as_of": "2026-02-07",
+   "date_precision": "day",
+   "system": "Egypt's Startup Charter",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt's Startup Charter",
+   "country_label": "Egypt",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministerial Group for Entrepreneurship",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

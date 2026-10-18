@@ -1,0 +1,17 @@
+{
+ "slug": "2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees.",
+   "as_of": "2023-10-20",
+   "date_precision": "day",
+   "system": "ASYCUDAWorld 4.3.3",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

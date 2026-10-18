@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-dji-dgddi-plan-strategique-2025-2029",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Djibouti Customs says it processed 205,678 declarations in 2023, of which transit declarations were routed to yellow, blue, green and red lanes, with selectivity to be extended to other regimes in 2025.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia World",
+   "country_label": "Djibouti",
+   "class": "customs",
+   "platform": "Sydonia World",
+   "owner": "DGDDI",
+   "tiers": ""
+  }
+ ],
+ "note": "The single window, Sydonia World development and regional interconnection appear only as plan items."
+}

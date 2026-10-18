@@ -1,0 +1,44 @@
+{
+ "slug": "2022-10-14-nam-namibiadailynews-e-gp-portal",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Finance announced on 13 October 2022 that the E-GP portal is operational, publishing bid advertisements, documents, opening reports and notices of award online.",
+       "as_of": "2022-10-13",
+       "date_precision": "day",
+       "system": "E-GP portal",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Ministry of Finance said all public entities are required by the E-GP guidelines to use the portal for open national and international bidding, sealed quotations and requests for proposals.",
+       "as_of": "2022-10-13",
+       "date_precision": "day",
+       "system": "E-GP portal",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-GP portal",
+       "country_label": "Namibia",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance, Procurement Policy Unit",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-mwi-nation-mra-digital-tax-stamps-ai",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Malawi Revenue Authority's Kalondola digital excise tax stamp platform is supported by analytics and artificial intelligence to detect anomalies and flag risks, as reported by Nation Online on 22 July 2026.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Kalondola",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kalondola",
+   "country_label": "Malawi",
+   "class": "sectorai",
+   "platform": "SICPA digital tax stamps",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

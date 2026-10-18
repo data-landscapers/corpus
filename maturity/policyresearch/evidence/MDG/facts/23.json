@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Newsmada reports that Customs and the University of Antananarivo's EGS faculty held a conference on data sovereignty and AI with researchers, and that Customs set up CEDIA as a bridge turning university research into operational solutions.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "CEDIA",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Treasury (DGTCP) announced on 19 December 2025 that a new 'e-Procurement' platform will replace SIGMAP and the public procurement web portal, under decree 2025-169 of 9 April 2025 setting up the electronic public procurement information system, with its modules presented and implementation at a progress-review stage.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "e-Procurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Procurement",
+   "country_label": "Benin",
+   "class": "procurement",
+   "platform": "",
+   "owner": "DGTCP",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMAP",
+   "country_label": "Benin",
+   "class": "procurement",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

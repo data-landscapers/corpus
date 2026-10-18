@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "no evidence",
-   "training": "",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the public is taught digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "2",
+      "training": "underway",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "No source held since October 2023 says: is one in service and counted.",
+      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

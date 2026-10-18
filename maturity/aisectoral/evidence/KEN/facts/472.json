@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Kenyans.co.ke reports from Digital Health Agency tender documents that the DHA floated tenders for an AI-driven digital health platform for reproductive, maternal, newborn, child and adolescent health and an AI-managed national blood bank management system, within the Taifa Care platform.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Taifa Care RMNCAH platform",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Taifa Care",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "Taifa Care",
+   "owner": "Digital Health Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "unplaced",
-   "service": "",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether satellite data is used in farming.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-004",
+      "gaps": "No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
+      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

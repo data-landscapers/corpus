@@ -1,0 +1,34 @@
+{
+ "slug": "2019-05-01-eri-afdb-estap-tax-administration-appraisal",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "ERI": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "The AfDB appraisal report says a 2.0 million UA grant would fund an integrated COTS tax software application with an e-services portal for taxpayer services, replacing the home-grown ERITAS, in Asmara's five tax offices.",
+       "as_of": "2019-05",
+       "date_precision": "month",
+       "system": "ESTAP COTS tax system",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ERITAS",
+       "country_label": "Eritrea",
+       "class": "other",
+       "platform": "",
+       "owner": "Inland Revenue Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,business,registration,coverage,inservice,2026,BDI-001,,
+BDI,business,registration,coverage,inservice,2026,BDI-001;BDI-002,,
 BDI,business,shared,coverage,,,,,nothing held
 BDI,business,owners,coverage,,,,,nothing held

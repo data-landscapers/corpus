@@ -1,1 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires
+SEN,Datamining project,Sénégal,sectorai,,DGID,,2025-01-31-sen-impact-dgid-datamining-ia-fiscale
+SEN,ASREF,Sénégal,other,,DGID,,2025-01-31-sen-impact-dgid-datamining-ia-fiscale

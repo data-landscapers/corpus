@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-25-gmb-kerrfatou-moherst-tita-ai-app",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Ministry of Higher Education unveiled the TITA mobile app on 2025-04-24 in Banjul, whose admin panel uses AI to generate institution-wide academic timetables automatically for tertiary institutions.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "TITA App",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TITA App",
+   "country_label": "The Gambia",
+   "class": "sectorai",
+   "platform": "mobile app with admin panel",
+   "owner": "MoHERST; developed by TITA Universal Services Ltd.",
+   "tiers": "students, lecturers (Lecti), management (TITA Admin Panel)"
+  }
+ ],
+ "note": ""
+}

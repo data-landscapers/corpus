@@ -7,3 +7,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,NGA,infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire,fact,5,5,NGA-015;NGA-006;NGA-121,Arrivals added NGA-122; NGA-123; stage unchanged.
 2026-10-17,SLE,infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire,fact,no evidence,3,SLE-001,Arrivals added SLE-001; SLE-002; stage no evidence -> 3.
 2026-10-17,SOM,infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire,fact,no evidence,2,SOM-001,Arrivals added SOM-001; SOM-002; stage no evidence -> 2.
+2026-10-18,DJI,infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire,fact,3,3,DJI-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire,fact,4,4,EGY-002;EGY-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.

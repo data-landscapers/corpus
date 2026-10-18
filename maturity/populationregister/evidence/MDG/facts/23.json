@@ -1,0 +1,34 @@
+{
+ "slug": "2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PRODIGY's answers to bidders on tender DP n°027/028 state that the register of persons (registre des personnes) falls within the scope of lot 8, the identity management system (IDMS) tender, with bids due by 29 April 2024.",
+   "as_of": "2024-04-12",
+   "date_precision": "day",
+   "system": "registre des personnes (IDMS, lot 8)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDMS (lot 8, DP n°028)",
+   "country_label": "Madagascar",
+   "class": "population",
+   "platform": "open to MOSIP, OSIA or other",
+   "owner": "PRODIGY / UGD",
+   "tiers": ""
+  },
+  {
+   "system": "NUI generator",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Madagascar",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

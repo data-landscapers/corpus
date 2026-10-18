@@ -1,0 +1,41 @@
+{
+ "slug": "2025-03-11-nam-nipdb-scaleup-namibia-launched",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ScaleUp Namibia",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "startup.nipdb.com",
+       "owner": "NIPDB and NCRST",
+       "tiers": ""
+      }
+     ],
+     "note": "ScaleUp Namibia is a support network and portal, not a startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists 16 support organisations in a network but states no programme, cohort or city for any."
+    }
+   }
+  }
+ }
+}

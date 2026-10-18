@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Jokkolabs Banjul, a technology incubation and innovation hub in Bakau, is to host bootcamps, workshops and incubation programmes through an AI Literacy and Skills Academy under a three-year MoU with LingoAI.",
+   "as_of": "2026-05-24",
+   "date_precision": "day",
+   "system": "Jokkolabs Banjul",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jokkolabs Banjul",
+   "country_label": "Jokkolabs Banjul",
+   "class": "hub",
+   "platform": "",
+   "owner": "Jokkolabs network",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

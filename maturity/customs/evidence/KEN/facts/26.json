@@ -1,0 +1,44 @@
+{
+ "slug": "2024-03-01-ken-kentrade-strategic-plan-2023-2028",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "KenTrade says its National Electronic Single Window System, a single entry point for lodging trade documents and paying fees, was upgraded and commissioned on 20 August 2021 with 43 stakeholder institutions onboarded.",
+   "as_of": "2021-08-20",
+   "date_precision": "day",
+   "system": "National Electronic Single Window System (Trade Facilitation Platform)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "KenTrade says it achieved full integration with the Kenya Revenue Authority's Integrated Customs Management System (iCMS), giving full automation of the cargo release process.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "iCMS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NESWS / Trade Facilitation Platform",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "KenTrade",
+   "tiers": ""
+  },
+  {
+   "system": "iCMS",
+   "country_label": "Kenya",
+   "class": "customs",
+   "platform": "",
+   "owner": "KRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

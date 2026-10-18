@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "5",
-   "census": "taken",
-   "results": "final",
-   "survey": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "5",
+      "census": "taken",
+      "results": "final",
+      "survey": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001;MAR-003",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-censuses.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

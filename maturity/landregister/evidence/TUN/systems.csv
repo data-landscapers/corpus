@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,Système d'Informations Foncières de la Tunisie,Tunisie,land,Samsung C&T Consortium,Office de la Topographie et du Cadastre (OTC),24 arrondissements,2025-05-26-tunisie-lancement-projet-systeme-informations-foncieres-samsung-ct
 TUN,Géoportail cadastral de la Tunisie,Tunisie,land,Web-SIG,Office de la Topographie et du Cadastre (OTC),"regional, by arrondissement",2025-01-01-tunisie-otc-geoportail-cadastral
 TUN,unified database of state properties,Tunisia,land,,Ministry of State Domains and Land Affairs,,2025-11-13-tunisie-webdo-biens-publics-carte-fonciere-numerique
+TUN,digital land register,Tunisia,land,,Office de la propriete fonciere,,2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier
+TUN,ONPF IT system and cpf.gov.tn site,Tunisia,land,cpf.gov.tn,Office National de la Propriété Foncière,,2025-05-23-tun-mdeaf-transition-numerique-registre-foncier

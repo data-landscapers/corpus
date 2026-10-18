@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-gnb-zenysis-minsap-health-intelligence-ai-mou",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plataforma Nacional de Integração e Análise de Dados (NIA)",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "Zenysis",
+   "owner": "MINSAP / INASA",
+   "tiers": "national"
+  }
+ ],
+ "note": "NIA is described as an analytics data warehouse over other systems, not as the facility reporting system."
+}

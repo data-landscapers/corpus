@@ -1,0 +1,44 @@
+{
+ "slug": "2023-10-16-tza-ppra-jail-fine-procure-outside-nest",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "PPRA's chief executive says a government directive requires all procurement on Tanzania Mainland to be conducted through NeST only from 1 October 2023.",
+       "as_of": "2023-10-01",
+       "date_precision": "day",
+       "system": "NeST",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Public Procurement Bill 2023, per PPRA's chief executive, mandates electronic systems in all procurement with no offline option, on pain of up to three years' jail or a TZS 10 million fine.",
+       "as_of": "2023-10-16",
+       "date_precision": "day",
+       "system": "NeST",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NeST",
+       "country_label": "Tanzania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "PPRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

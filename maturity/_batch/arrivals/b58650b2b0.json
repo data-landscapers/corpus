@@ -1,0 +1,34 @@
+{
+ "slug": "2022-09-15-mli-bamada-agetic-formation-messagerie-gouvernementale",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "AGETIC held a training workshop for ministries' communication officers on the gouv.ml government email, web and mobile versions, chaired by the minister.",
+       "as_of": "2022-09-15",
+       "date_precision": "day",
+       "system": "AGETIC messagerie gouvernementale gouv.ml training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "gouv.ml",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "government email",
+       "owner": "AGETIC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

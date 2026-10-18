@@ -1,0 +1,7 @@
+{"slug": "2023-11-26-cpv-anacao-web-lab-fechados", "studies": {
+"civilserviceskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Article covers school computer labs and student monitors, nothing on civil servant training."}}},
+"digitaldivides": {"countries": {"CPV": {"facts": [], "systems": [], "note": "WebLab is a schools programme, suspended; no rural access programme or rural/urban figures stated."}}},
+"digitalskills": {"countries": {"CPV": {"facts": [], "systems": [{"system": "WebLab", "country_label": "WebLab", "class": "other", "platform": "school computer labs", "owner": "NOSi and Ministry of Education", "tiers": ""}], "note": "Only a suspended school lab project and a vague promise of new digital literacy measures; no public programme delivered or skills share."}}},
+"itcapacity": {"countries": {"CPV": {"facts": [], "systems": [], "note": "NOSi ran a school lab project, not a government system; nothing states in-house operation, build or cadre."}}},
+"schoolinternet": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No school internet share given and no statement that ICT is compulsory in the secondary curriculum."}}}
+}}

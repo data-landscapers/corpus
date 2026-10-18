@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-27-gab-legabonais-doumba-100-jours-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Doumba announced acceleration of the project to build a high-security national data centre and said he wants state and citizen data stored exclusively on national territory.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "Data Center national de haute sécurité",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

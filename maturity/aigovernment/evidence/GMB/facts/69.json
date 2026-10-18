@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-gmb-gna-moi-ai-fact-checking-system",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Permanent Secretary Cordu L. Jabang of the Ministry of Information said The Gambia had recently launched an AI-powered fact-checking and verification system, housed under the Ministry, that takes citizens' audio, video, text and voice messages, including in local languages, through a WhatsApp line and returns feedback on whether they are true.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "AI-powered fact-checking and verification system",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-powered fact-checking and verification system",
+   "country_label": "The Gambia",
+   "class": "govai",
+   "platform": "WhatsApp line",
+   "owner": "Ministry of Information, Media and Broadcasting Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,metsat,stream,coverage,inservice,2026-03,ZWE-001,,
+ZWE,metsat,warnings,coverage,,,,,nothing held
+ZWE,metsat,certified,coverage,,,,,nothing held

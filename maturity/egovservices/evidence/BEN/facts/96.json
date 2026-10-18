@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-13-ben-lamarina-tcc-trois-e-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "La Marina BJ reports the Cotonou Commercial Court made three services (writ-of-order requests, opposition to payment order, enforcement formula) available online, with applications and fees online only from 16 February 2026.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Tribunal de Commerce de Cotonou e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

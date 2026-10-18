@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-tza-nida-id4africa-crvs-id-integration",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "NIDA says the Jamii Number is issued once in a lifetime and deactivated at death, with a CRVS-ID data sharing API fully operational.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Jamii Number",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "NIDA says the NIDA-RITA merger announced in 2023 is to be completed from 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA-RITA merger",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

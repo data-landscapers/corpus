@@ -1,0 +1,44 @@
+{
+ "slug": "2023-05-01-nam-fig-land-administration-rural-development-namibia",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The FIG paper by NUST authors says the Namibia Communal Land Administration System has registered over 193,000 communal land rights, all mapped and digitised, about 79% of the estimated total.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "NCLAS",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The paper says the Digital Cadastral Information System's LIS crashed the previous year and is under further development, with the planned spatially enabled website not yet materialised.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Digital Cadastral Information System",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NCLAS",
+   "country_label": "Namibia",
+   "class": "land",
+   "platform": "ArcGIS",
+   "owner": "Ministry of Agriculture, Water and Land Reform",
+   "tiers": "communal land"
+  },
+  {
+   "system": "Deeds Registry",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "freehold, manual"
+  }
+ ],
+ "note": ""
+}

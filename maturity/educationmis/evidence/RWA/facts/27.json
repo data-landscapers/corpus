@@ -1,0 +1,34 @@
+{
+ "slug": "2023-06-21-rwa-gpe-camis-sdms-unique-id",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "A GPE blog by Educate! staff says Rwanda's School Data Management System houses the unique ID number of every teacher and all the nation's students, almost 4 million.",
+   "as_of": "2023-06-21",
+   "date_precision": "day",
+   "system": "SDMS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SDMS",
+   "country_label": "School Data Management System",
+   "class": "emis",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CA-MIS",
+   "country_label": "Comprehensive Assessment Management Information System",
+   "class": "other",
+   "platform": "USSD and web",
+   "owner": "NESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

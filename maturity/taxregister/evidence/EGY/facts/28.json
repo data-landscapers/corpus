@@ -1,0 +1,34 @@
+{
+ "slug": "2023-07-30-egy-eta-update-national-id-taxpayer-data",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The head of the Egyptian Tax Authority says taxpayers file returns and update their basic data (address, national number, phone, email) electronically on the new core tax business system or the e-services portal.",
+   "as_of": "2023-07-30",
+   "date_precision": "day",
+   "system": "new core tax business system",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "new core tax business system",
+   "country_label": "منظومة الأعمال الضريبية الرئيسية الجديدة",
+   "class": "tax",
+   "platform": "eta.gov.eg",
+   "owner": "Egyptian Tax Authority",
+   "tiers": "large and medium taxpayer centres, Cairo offices"
+  },
+  {
+   "system": "e-services tax portal",
+   "country_label": "البوابة الإلكترونية للخدمات الضريبية",
+   "class": "tax",
+   "platform": "eservice.incometax.gov.eg",
+   "owner": "Egyptian Tax Authority",
+   "tiers": "other offices"
+  }
+ ],
+ "note": ""
+}

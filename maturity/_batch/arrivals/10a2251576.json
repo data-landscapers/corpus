@@ -1,0 +1,71 @@
+{
+ "slug": "2026-07-22-mrt-trustmag-sigmap-digitalisation-marches",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The digital transformation ministry's communique, reported 22 July 2026, says SIGMAP's programming phase is operational since early 2026 while tender-file management and electronic bid submission are in testing.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "SIGMAP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The ministry reports SIGMAP used by 200 contracting authorities and 91 procurement commissions with over 600 users, and 274 annual procurement plans and 179 annual purchasing plans published on it.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "SIGMAP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAP",
+       "country_label": "Mauritania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation and Modernisation of the Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a procurement system for authorities, not services people complete online."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police stations."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

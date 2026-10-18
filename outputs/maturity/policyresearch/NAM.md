@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether local institutions research digital policy.
+***Not held***. Nothing held since October 2023 says whether a local institution researches digital policy.

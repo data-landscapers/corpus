@@ -1,0 +1,142 @@
+{
+ "slug": "2025-02-18-bfa-jumelages-sylvie-2-launch",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The Direction generale des douanes and SOGESY launched Sylvie 2 on 17 February 2025, the electronic single window for import and export clearance, running since 2016 and collecting documents from technical administrations and private bodies.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "Sylvie 2",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Sylvie 2 improves interfacing with SYDONIA, the automated customs system, and facilitates customs clearance operations, per the customs director general.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "SYDONIA",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sylvie 2",
+       "country_label": "Burkina Faso",
+       "class": "customs",
+       "platform": "",
+       "owner": "Direction generale des douanes / SOGESY",
+       "tiers": ""
+      },
+      {
+       "system": "SYDONIA",
+       "country_label": "Burkina Faso",
+       "class": "customs",
+       "platform": "",
+       "owner": "Direction generale des douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for BFA."
+    }
+   }
+  }
+ }
+}

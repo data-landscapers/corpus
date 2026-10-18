@@ -10,3 +10,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,NER,dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems,fact,no evidence,2,NER-001,Arrivals added NER-001; stage no evidence -> 2.
 2026-10-17,SOM,dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems,fact,5,5,SOM-005,Arrivals added SOM-007; stage unchanged.
 2026-10-17,TUN,dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems,fact,3,3,TUN-002;TUN-001,Arrivals added TUN-002; stage unchanged.
+2026-10-18,TZA,dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems,fact,3,3,TZA-001;TZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.

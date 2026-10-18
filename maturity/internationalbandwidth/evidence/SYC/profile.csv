@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,routes,routes,coverage,two,2022-11-16,SYC-002,SYC-001=one,nothing dated since 2023-09-28
-SYC,routes,access,coverage,open,2022-11-16,SYC-003,,nothing dated since 2023-09-28
+SYC,routes,routes,coverage,two,2026-10-07,SYC-002;SYC-004,SYC-001=one,
+SYC,routes,access,coverage,open,2022-11-16,SYC-003,,nothing dated since 2023-10-18

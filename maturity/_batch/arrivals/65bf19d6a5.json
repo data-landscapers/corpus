@@ -1,0 +1,198 @@
+{
+ "slug": "2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "LingoAI and Jokkolabs Banjul signed a three-year MoU under which Jokkolabs will mobilise contributors to create curated Mandinka, Wolof and Fula datasets for AI, with LingoAI supplying annotation and corpus methods.",
+       "as_of": "2026-05-24",
+       "date_precision": "day",
+       "system": "Mandinka, Wolof and Fula language datasets",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mandinka, Wolof and Fula language datasets",
+       "country_label": "Gambian local language datasets",
+       "class": "localai",
+       "platform": "LingoAI stack",
+       "owner": "Jokkolabs Banjul and LingoAI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The academy is a private-partner plan with no government programme stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Jokkolabs Banjul, a technology incubation and innovation hub in Bakau, is to host bootcamps, workshops and incubation programmes through an AI Literacy and Skills Academy under a three-year MoU with LingoAI.",
+       "as_of": "2026-05-24",
+       "date_precision": "day",
+       "system": "Jokkolabs Banjul",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jokkolabs Banjul",
+       "country_label": "Jokkolabs Banjul",
+       "class": "hub",
+       "platform": "",
+       "owner": "Jokkolabs network",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

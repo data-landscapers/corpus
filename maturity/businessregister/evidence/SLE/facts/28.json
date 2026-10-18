@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-04-sle-sierraloaded-wangov-app-launch",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Ministry of Communication, Technology and Innovation says the launched WanGov app offers businesses services including business registration.",
+   "as_of": "2025-02-04",
+   "date_precision": "day",
+   "system": "WanGov",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WanGov",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

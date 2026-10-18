@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-20-nga-nairametrics-cash-transfer-4-million-households",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank's Nigeria Development Update says the identity of cash transfer recipients is validated through the National Identification Number (NIN) or Bank Verification Number (BVN) before payment.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "NIN/BVN validation",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

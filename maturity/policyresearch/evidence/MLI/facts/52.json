@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mli-isoc-mali-publications",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "Internet Society Mali lists published studies from 2023 to 2025 on internet exchange points, internet resilience, digital sovereignty, cybersecurity and operator prices.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Internet Society Mali",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

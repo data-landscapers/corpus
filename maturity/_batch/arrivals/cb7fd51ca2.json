@@ -1,0 +1,77 @@
+{
+ "slug": "2024-04-16-tun-jort-arrete-g-cloud-n-cloud-labels",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "ANCS is named as awarding labels, but the document does not state it was created or handled an incident."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Label conditions only; no data centre for hire stated as in service or its tier."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a national interoperability platform as a connection condition; does not say it is live or what it links."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Label conditions for cloud providers; no rule on state data or hosting of state systems stated."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Refers to international cybersecurity standards only in a provider label condition; no adoption or membership stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No named nationally owned data centre for hire stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Requires primary and backup centres in Tunisia for label holders; no government backup site or distance stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about schools."
+    }
+   }
+  }
+ }
+}

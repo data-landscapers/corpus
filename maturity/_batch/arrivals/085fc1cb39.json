@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-16-civ-finances-ia-budget-national-fraude-fiscale",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Uses stated are tax and budget (sector) uses; no general administration use or rules stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud.",
+       "as_of": "2025-05-16",
+       "date_precision": "day",
+       "system": "drone building scans and taxpayer segmentation",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  }
+ }
+}

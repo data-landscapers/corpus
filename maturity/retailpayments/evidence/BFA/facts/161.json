@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-12-bfa-findev-paiements-sociaux-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FinDev Gateway says social safety net beneficiaries in Burkina Faso receive and use mobile money accounts, with payments made to them since 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

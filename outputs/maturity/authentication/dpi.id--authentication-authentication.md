@@ -1,6 +1,6 @@
 # Authentication: authentication
 
-*As at 2026-10-17.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -21,9 +21,9 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 12 |
+| 4 Operating | 13 |
 | 3 Established | 15 |
-| 2 Nascent | 10 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 7 |
@@ -126,12 +126,18 @@ Authentication was used across services in 2026; remote proof of identity by a d
 - IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification ([source, 2026-06-26](https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/)).
 - The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
+### Mozambique: 4 Operating
+
+Authentication was used across services in 2025; remote proof of identity by a digital ID is not known.
+
+- The article says the SCDM covers public and private institutions, with the Attorney General's Office, the Ministry of Education and Culture and Eduardo Mondlane University newly joined, and more than 500 institutions signing documents through it ([source, 2025-11-13](https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/)).
+
 ### Nigeria: 4 Operating
 
 Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
 
-- The article names telecommunications, financial services, immigration and taxation as sectors using NIN verification through NINAuth (published date used) ([source, 2026-09-23](https://nigeriacommunicationsweek.com.ng/2026/09/23/nimc-unveils-consent-based-nin-verification-to-authenticate-identity)).
-- NIMC says banks, fintechs and government agencies use NINAuth to verify citizens at onboarding ([source, 2026-08](https://www.biometricupdate.com/202608/digital-id-assessments-highlight-financial-inclusion-gains-across-africa)).
+- The story names integrated agencies in examinations, student finance, consumer credit and health insurance as part of the roughly 63 connected to NIMC, per NIMC at the 2026-10-14 briefing ([source, 2026-10-14](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/)).
+- The article says SIM registration, tax filing and banking now run through the same NINAuth identity rail, alongside police, road safety and immigration services (published date used) ([source, 2026-10-05](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/)).
 
 ### Rwanda: 4 Operating
 
@@ -169,8 +175,9 @@ Authentication was used across services in 2026; remote proof of identity by a d
 
 ### Angola: 3 Established
 
-An authentication service was in use in 2024; use across services is not known.
+An authentication service was in use in 2026; use across services is not known.
 
+- Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
 - Tech By Tech's CEO says AngolaID has been in operation since 2024 and offers API and SDK verification, authentication and liveness checks to institutions ([source, 2024](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/)).
 
 ### Botswana: 3 Established
@@ -191,6 +198,7 @@ An authentication service was in use in 2026; use across services is not known.
 An authentication service was in use in 2026; use across services is not known.
 
 - Cameroon's Finance Ministry made national ID cards a mandatory requirement, with birth certificates, of its public-servant family-allowance census, whose second phase launched in June 2026 and was due to end on 15 August 2026 ([source, 2026-06](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist)).
+- Cameroon's Ministry of Public Contracts said an Electronic Certificate, used mainly to authenticate the identity of individuals or legal persons using the COLEPS e-procurement platform, is acquired by users, who were being trained on it from 10 October 2024 ([source, 2024-10-10](https://theguardianpostcameroon.com/post/4439/en/homesensitise-train-stakeholders-on-e-procurement-system-home)).
 
 ### Egypt: 3 Established
 
@@ -304,13 +312,6 @@ An authentication or e-signature service was under way in 2026; none in service 
 An authentication or e-signature service was under way in 2026; none in service is on record.
 
 - The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used) ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
-
-### Mozambique: 2 Nascent
-
-An authentication or e-signature service was under way in 2026; none in service is on record.
-
-- Mozambique's ATDI says procurement of a national mobile digital ID and digital signature infrastructure, for identification, authentication and electronic signatures under the World Bank-financed EDGE project, has a shortlist submitted to the World Bank, with contracting planned for September 2026 ([source, 2026-09](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services)).
-- Biometric Update reports Mozambique recently tendered a mobile ID and digital signature infrastructure project ([source, 2026-07-27](https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance)).
 
 ### Niger: 2 Nascent
 

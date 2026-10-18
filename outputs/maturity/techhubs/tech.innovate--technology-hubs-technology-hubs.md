@@ -1,6 +1,6 @@
 # Technology hubs: technology hubs
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -22,11 +22,11 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 3 |
-| 3 Established | 29 |
+| 3 Established | 32 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 1 |
+| Unplaced | 0 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -87,6 +87,19 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 - Eni/Joule's Yasika second edition in Brazzaville incubates 13 selected startups and upskills 22 other participants, after a bootcamp held 4 to 6 May ([source, 2026-05-04](https://www.eni.com/joule/en-IT/media/2026/05/yasika-second-edition-is-brought-to-life-with-bootcamp.html)).
 
+### DR Congo: 3 Established
+
+A hub ran a programme for startups in 2025; hubs in more than one city are not on record.
+
+- Silikin Village in Kinshasa, backed by the Texaf Group, says it has supported over 300 project leaders and entrepreneurs in five years and is launching the 'Grow & Help Grow' acceleration programme, whose first cohort of five tech entrepreneurs will run nine months ([source, 2025-08-10](https://www.ecofinagency.com/insights/1008-48012-cecilia-bituka-silikin-village-is-a-strategic-investment-for-innovation-in-the-drc)).
+- Bankable reports Silikin Village in Kinshasa was inaugurated on 10 October 2024 and offers training and incubation programmes for startups ([source, 2024-10-10](https://bankable.africa/en/business-climate/1110-390-dr-congo-president-tshisekedi-inaugurates-new-tech-and-entrepreneur-hub-in-kinshasa)).
+
+### Equatorial Guinea: 3 Established
+
+A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
+
+- Fundacion IDENTIC says it signed incubation agreements with six Campus Connect winning projects in the week of 5 March 2026, giving them mentoring, training and business-model validation ([source, 2026-03-05](https://news.identicge.org/identic-activa-su-programa-de-incubacion-con-seis-proyectos-tecnologicos-de-alto-potencial/)).
+
 ### Eritrea: 3 Established
 
 A hub ran a programme for startups in 2025; hubs in more than one city are not on record.
@@ -106,6 +119,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 - GabonReview says SING SA, the state digital incubator in Libreville, runs the Pivot 4.0 incubation and acceleration programme and claims 314 startups supported since 2018, though its offices are reported emptied and a merger into the Centre gabonais de l'innovation is said to be under study ([source, 2026-08](https://www.gabonreview.com/dg-limoge-locaux-vides-projet-de-fusion-vers-une-disparition-en-catimini-de-la-sing-sa/)).
 - L'Union reports on 27 August 2026 that the Societe d'incubation numerique du Gabon (SING) has not been closed but placed under interim management, and that its incubated companies and their projects depend on continued support during the transition ([source, 2026-08-27](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general)).
+
+### Gambia: 3 Established
+
+A hub ran a programme for startups in 2024; hubs in more than one city are not on record.
+
+- We are Tech Africa says The Hub, a Banjul technology incubator established in October 2019, offers incubation programs, training, acceleration sessions and mentorship, and has supported over 194 entrepreneurs ([source, 2024-04-25](https://www.wearetech.africa/en/fils-uk/tech-stars/gambias-beran-dondeh-gillen-empowers-entrepreneurs-through-incubation-training-and-coworking)).
 
 ### Ghana: 3 Established
 
@@ -154,6 +173,7 @@ A hub ran a programme for startups in 2025; hubs in more than one city are not o
 
 A hub ran a programme for startups in 2024; hubs in more than one city are not on record.
 
+- MRIC says its government-initiated National SME Incubator Scheme, operational since December 2017, works with 6 accredited private-sector incubators running pre-incubation, incubation and acceleration phases, with 50 start-ups produced and 65 ongoing projects as of October 2024 ([source, 2024-10](https://www.mric.mu/national-sme-inubator-scheme)).
 - TechCabal reports that Turbine, based in Port Louis, has accelerated more than 150 startups since 2016, running pre-incubation, one-year incubation and six-month acceleration phases for its cohorts ([source, 2024-04-27](https://techcabal.com/2024/04/27/mauritius-ecosystem-feature/)).
 
 ### Mozambique: 3 Established
@@ -161,6 +181,7 @@ A hub ran a programme for startups in 2024; hubs in more than one city are not o
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
 
 - The regulator INCM runs the Thinklab with technology incubators in operation and incubated startups, shown to a World Bank delegation on 28 May 2026 ([source, 2026-05-28](https://www.incm.gov.mz/2026/05/29/visita-de-director-regional-do-banco-mundial-para-africa-ao-thinklab-do-incm-reforca-perspectivas-de-expansao-da-inovacao-digital-em-mocambique/)).
+- INCM launched the ThinkLab incubator in Maputo, whose first cycle took 12 startups in health, transport, finance, IT and AI, Club of Mozambique reports ([source, 2025-09-23](https://clubofmozambique.com/news/mozambique-incm-launches-thinklab-incubator-to-support-digital-startups/)).
 
 ### Nigeria: 3 Established
 
@@ -190,8 +211,8 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
 
+- Google announced on 2026-10-05 a cohort of 15 startups chosen from 1,057 applications for its three-month Google for Startups Accelerator: South Africa, with mentorship and up to R1 million equity-free funding ([source, 2026-10-05](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/)).
 - The South African edtech accelerator Injini launched an eight-month programme for twelve startup teams in Southern Africa building affordable classroom AI tools, with seed funding for the top five, per wearetech.africa ([source, 2026-09-09](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe)).
-- Disrupt Africa reports that one-third of funded South African start-ups participated in incubator or accelerator programmes in 2025 ([source, 2025](https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda)).
 
 ### South Sudan: 3 Established
 
@@ -262,6 +283,7 @@ A technology hub or park was under way in 2026; none running programmes is on re
 A technology hub or park was under way in 2025; none running programmes is on record.
 
 - The Centre d'innovation technologique de N'Djamena, created by arrete n0050 of 1 September 2025, was officially launched with an aim to incubate Chadian tech startups, with no incubation programme or cohort stated ([source, 2025-10-30](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/)).
+- The startup day was held at WenakLabs in N'Djamena with Tcharay HUB, both named as hubs with founders speaking; no programme or cohort is stated ([source, 2025-09-19](https://www.toumaiwebmedias.com/tchad-le-ministre-des-finances-echange-avec-les-jeunes-entrepreneurs/)).
 
 ### Cote d'Ivoire: 2 Nascent
 
@@ -275,12 +297,14 @@ A technology hub or park was under way in 2026; none running programmes is on re
 A technology hub or park was under way in 2026; none running programmes is on record.
 
 - Wingu Africa offered the communications ministry its new innovation centre to be used as an incubator for intensive ICT training of young Djiboutian graduates, with an MoU still to be finalised by a joint working cell (ADI, 28 September 2026) ([source, 2026-09-28](https://www.adi.dj/article/138942)).
+- The French Treasury note says the Centre de Leadership et d'Entreprenariat has an incubator seeking to host startups with AI-related projects ([source, 2025](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
 
 ### Egypt: 2 Nascent
 
 A technology hub or park was under way in 2026; none running programmes is on record.
 
 - The Ministry of Investment and Foreign Trade plans to launch the TradeTech regulatory sandbox and innovation hub in October 2026, open to startups with an incubator-style environment, per assistant minister Sherif Yehia ([source, 2026-09-22](https://english.ahram.org.eg/News/577224.aspx)).
+- The Ministry of Communication and Information Technology established the Technology Innovation and Entrepreneurship Center, whose mission is to incubate startups in digital technologies, with no programme or cohort stated ([source, 2024](https://idsc.gov.eg/upload/DocumentLibraryIssues/AttachmentA/9154/Digitalization%20in%20Egypt.pdf)).
 
 ### Ethiopia: 2 Nascent
 
@@ -300,6 +324,7 @@ A technology hub or park was under way in 2025; none running programmes is on re
 A technology hub or park was under way in 2026; none running programmes is on record.
 
 - Konza Technopolis Development Authority signed an agreement on 2026-08-18 under which AWS will establish a Startup and Innovation Centre of Excellence at Konza, with AWS credits for start-ups ([source, 2026-08-18](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8)).
+- The Government of Kenya, UNDP and Konza Technopolis launched the timbuktoo GreenTech Hub, hosted at Konza Technopolis, on 6 December 2024; no programme or cohort is described ([source, 2024-12-06](https://www.undp.org/kenya/press-releases/enhancing-greentech-innovation-and-infusing-technology-public-sector-positions-africa-next-frontier-tech-enabled-solutions-and)).
 
 ### Liberia: 2 Nascent
 
@@ -351,21 +376,3 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 - The Makerere Innovation and Incubation Center is stated to provide mentorship, research support and business development to technology startups, with no cohort programme described, as it launched Fintech Fridays with Afriventia Group ([source, 2026-07-13](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026)).
 - We Are Tech Africa says the state established the National ICT Innovation Hub, providing internet connectivity and workspace for tech entrepreneurs, with no programme or cohort described ([source, 2025-04-02](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups)).
-
-### DR Congo: Unplaced
-
-Nothing held since 2023 names a technology hub, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a technology hub runs programmes for startups.
-
-### Gambia: Unplaced
-
-Nothing held since 2023 names a technology hub, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a technology hub runs programmes for startups.
-
-### Equatorial Guinea: No evidence
-
-Nothing held names a technology hub or says there is none, so no stage is set.
-
-Not established: Nothing held says whether technology hubs operate in the country.

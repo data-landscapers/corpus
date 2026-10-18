@@ -1,0 +1,171 @@
+{
+ "slug": "2026-04-07-ken-kra-ksh-2-trillion-nine-months",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Kenya Revenue Authority says it has unveiled a WhatsApp tax filing service powered by an AI chatbot, Shuru, through which taxpayers access pre-filled details, file returns, generate invoices and obtain compliance certificates.",
+       "as_of": "2026-04-07",
+       "date_precision": "day",
+       "system": "Shuru",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Shuru",
+       "country_label": "Kenya",
+       "class": "govai",
+       "platform": "WhatsApp",
+       "owner": "Kenya Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "GavaConnect is an API platform for outside developers, not stated to carry data between public bodies' systems."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Filing is described but no electronic payment of taxes is stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Kenya."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Kenya Revenue Authority says taxpayers can file returns through its WhatsApp-based tax filing service, powered by the Shuru AI chatbot.",
+       "as_of": "2026-04-07",
+       "date_precision": "day",
+       "system": "WhatsApp tax filing (Shuru)",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Shuru",
+       "country_label": "Kenya",
+       "class": "taxsystem",
+       "platform": "WhatsApp",
+       "owner": "Kenya Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

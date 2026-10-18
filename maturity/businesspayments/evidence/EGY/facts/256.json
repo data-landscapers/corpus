@@ -1,0 +1,15 @@
+{
+ "slug": "2018-01-01-egy-andersen-law-182-2018-public-contracts",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Public Procurement Portal",
+   "country_label": "Egypt",
+   "class": "procurement",
+   "platform": "",
+   "owner": "General Authority for Government Services",
+   "tiers": ""
+  }
+ ],
+ "note": "The law requires publication on the Public Procurement Portal but does not say a system is built, piloted or in service."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2014-08-23-ssd-eyeradio-juba-street-naming",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "Juba City Legislative Council speaker says the council has named six main streets and put up signposts, with a committee to name the rest, to help fire and police rescue.",
+       "as_of": "2014-08-23",
+       "date_precision": "day",
+       "system": "Juba street naming",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Juba street naming",
+       "country_label": "South Sudan",
+       "class": "address",
+       "platform": "",
+       "owner": "Juba City Legislative Council",
+       "tiers": "city"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

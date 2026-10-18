@@ -1,0 +1,26 @@
+{
+ "slug": "2023-05-04-gnq-un-guinea-on-startup-incubator",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The UN in Equatorial Guinea says the Guinea ON incubator, run in 2022 by UNDP and the telecommunications ministry, trained about 60 young people in Malabo and Bata and led to 10 startups each funded with 6 million FCFA.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Guinea ON",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guinea ON",
+   "country_label": "Equatorial Guinea",
+   "class": "hub",
+   "platform": "",
+   "owner": "UNDP and Ministry of Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

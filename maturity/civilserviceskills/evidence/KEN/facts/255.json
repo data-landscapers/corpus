@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-ken-mps-ai-training-public-servants",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The State Departments for Public Service and ICT met the Kenya School of Government on 3 June 2025 to finalise AI skilling programmes for all public-service cadres, to be launched by July 2025.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "AI skilling programme (Kenya School of Government)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI skilling programme",
+   "country_label": "Kenya",
+   "class": "csskills",
+   "platform": "KSG eLearning Information and Technology Institute",
+   "owner": "Kenya School of Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

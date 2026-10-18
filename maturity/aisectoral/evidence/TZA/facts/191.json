@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-31-tza-dhis2-ai-alert-triage-surveillance",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Tanzania's Ministry of Health has introduced an AI-based triage tool in its DHIS2 event-based surveillance system, which per DHIS2 cut average time to triage for most alerts from 36 hours to almost instantaneous.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "AI-based alert triage tool in DHIS2 event-based surveillance (EBS)",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "DHIS2 reports the Ministry of Health's AI triage tool reduced average time to triage for the majority of submitted alerts from 36 hours to almost instantaneous.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "AI-based alert triage tool in DHIS2 event-based surveillance (EBS)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-IDSR",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Event-based surveillance (EBS) with AI triage tool",
+   "country_label": "Tanzania",
+   "class": "sectorai",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

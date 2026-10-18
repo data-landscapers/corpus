@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-20-tgo-otr-creation-nif-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The OTR presented on 18 December 2023 the OTR TVM smartphone app for paying the motor vehicle tax (TVM) remotely, to be operational from 2 January 2024.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "OTR TVM",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OTR TVM",
+   "country_label": "Togo",
+   "class": "revenue",
+   "platform": "smartphone app",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

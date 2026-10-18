@@ -1,0 +1,52 @@
+{
+ "slug": "2023-11-22-ben-masm-rsu-lancement-mise-en-place",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry build only; no programme system named."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The social affairs ministry opened the kick-off workshop for building the Registre Social Unique, World Bank-financed through WURI, with a DW/Technologies Wevioo/Stratec-ARC consortium and completion due in six months.",
+       "as_of": "2023-11-22",
+       "date_precision": "day",
+       "system": "Registre Social Unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unique (RSU)",
+       "country_label": "Benin",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Affairs and Microfinance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

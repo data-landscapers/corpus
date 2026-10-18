@@ -1,0 +1,26 @@
+{
+ "slug": "2014-10-04-cog-adiac-cadastre-study-results",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The cadastre and land management project, run since 2006, has digitised cadastral maps and the property and owner file for seven cities, with the website and some equipment still to finish and a technical-assistance phase of at least a year ahead, per the engineer-consultant.",
+   "as_of": "2014-10-03",
+   "date_precision": "day",
+   "system": "Congo cadastre project",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Congo cadastre project",
+   "country_label": "Congo",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Land Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

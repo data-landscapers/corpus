@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-12-bfa-findev-paiements-sociaux-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "FinDev Gateway says that since 2018 payments of the Burkina Faso Projet Filets Sociaux, the national social safety net system supported by the World Bank, have been made to mobile money accounts, after earlier cash payments, reaching over a million people by end 2022.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Projet Filets Sociaux",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet Filets Sociaux",
+   "country_label": "Burkina Faso",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "government, World Bank supported",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

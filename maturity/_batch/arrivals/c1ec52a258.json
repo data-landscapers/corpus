@@ -1,0 +1,11 @@
+{"slug": "2026-01-01-eri-geezlab-glare-eritrean-language-ai-research", "studies": {
+"aiabuse": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The page states nothing on rules or an authority against AI harms; TiALD is an abusive-language detection dataset, not a rule."}}},
+"ailaw": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The page states nothing on an AI law or binding rule."}}},
+"aistrategy": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The page states nothing on a government AI strategy."}}},
+"aisystems": {"countries": {"ERI": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering.", "as_of": "2026", "date_precision": "year", "system": "TiNC24 and TiPOSC24 corpora", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "GeezLab lists Dahlak LMs, a family of language models trained on Eritrean languages, as in progress.", "as_of": "2026", "date_precision": "year", "system": "Dahlak LMs", "class": "localai"}
+], "systems": [{"system": "Dahlak LMs", "country_label": "Eritrea", "class": "localai", "platform": "research.geezlab.com", "owner": "GeezLab (GLaRe)", "tiers": ""}], "note": ""}}},
+"opendatause": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The page describes no public body publishing data; GeezLab is not stated to be one."}}},
+"policyresearch": {"countries": {"ERI": {"facts": [], "systems": [], "note": "The research described is NLP and language technology, not stated to be on digital policy."}}}
+}}

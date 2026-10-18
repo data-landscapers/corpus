@@ -1,0 +1,25 @@
+{
+ "slug": "2024-01-11-gha-acet-swp-innovation-meets-growth-digital-landscape",
+ "studies": {
+  "policyresearch": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "The African Center for Economic Transformation, Accra, published a working paper on digitalization in Ghana with recommendations to policymakers, written by its Senior Manager for Infrastructure and Innovation and a consultant.",
+       "as_of": "2024-01-11",
+       "date_precision": "day",
+       "system": "Innovation meets Growth? Navigating the Digital Landscape in Ghana",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

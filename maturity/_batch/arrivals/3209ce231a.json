@@ -1,0 +1,106 @@
+{
+ "slug": "2024-02-27-mdg-2424mg-justice-site-doleances",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Madagascar's Justice ministry launched on 26 February 2024 the website Fitsarana valio ny tarainako for complaints from users of justice and prison services, filed for 500 ar after registration with the national identification number, with no count of complaints given.",
+       "as_of": "2024-02-26",
+       "date_precision": "day",
+       "system": "Fitsarana valio ny tarainako",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fitsarana valio ny tarainako",
+       "country_label": "Madagascar",
+       "class": "feedback",
+       "platform": "website (www.fitsarana-valio-tarainako.mg)",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

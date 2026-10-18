@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-24-moz-kabum-plataforma-registo-empresas",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Kabum Digital says company registration on the SRN portal is paid electronically by M-Pesa mobile wallet or bank.",
+   "as_of": "2023-11-24",
+   "date_precision": "day",
+   "system": "Portal SRN payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

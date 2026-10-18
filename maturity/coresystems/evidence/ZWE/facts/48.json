@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-01-zwe-zimra-tarms-release-2-live",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "ZIMRA says TaRMS, replacing SAP TRM for domestic taxes, launched its Return Management, Payments Management, Taxpayer Accounting and Debt Management modules on 6 December 2023, with Release 2 live from 29 February 2024.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "ZIMRA says TaRMS replaced SAP TRM as the domestic taxes system, going live in phases from 12 October 2023.",
+   "as_of": "2023-10-12",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe Revenue Authority Tax and Revenue Management System",
+   "class": "core",
+   "platform": "",
+   "owner": "Zimbabwe Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

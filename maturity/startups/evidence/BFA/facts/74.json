@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-17-bfa-directinfo-validation-avant-projet-loi-startups",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "AFP-PME held a 17-18 July 2025 national workshop in Ouagadougou to validate the draft startup promotion bill and its implementing decree, after drafting workshops from March 2025.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "avant-projet de loi sur la promotion des startups",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

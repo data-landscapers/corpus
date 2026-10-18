@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,metsat,stream,inservice,"The South African Weather Service's observation footprint lists EUMETSAT's Meteosat Second Generation satellite, with 12 channels, 15-minute resolution and coverage of the whole African continent.",2024-11-06,day,EUMETSAT Meteosat Second Generation (MSG),metsat,2024-11-06-zaf-saws-early-warning-systems-webinar,https://knowledgehub.health.gov.za/system/files/2024-11/SAWS_Early%20Warning%20Systems_Nov%202024-FV%20%28wecompress.com%29.pdf

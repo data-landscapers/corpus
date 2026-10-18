@@ -1,0 +1,44 @@
+{
+ "slug": "2019-09-08-mwi-nyasatimes-mra-immigration-tpin-national-id",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The revenue authority's Msonkho Online system lets taxpayers register, file and pay online, per Nyasa Times reporting on the revenue authority's September 2019 MoU.",
+       "as_of": "2019-09-08",
+       "date_precision": "day",
+       "system": "Msonkho Online",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "nationalid",
+       "value": "linked",
+       "fact": "The revenue authority's director general says Malawian taxpayers will require a national ID to register and be issued a TPIN.",
+       "as_of": "2019-09-08",
+       "date_precision": "day",
+       "system": "Msonkho Online",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Msonkho Online",
+       "country_label": "Msonkho Online",
+       "class": "tax",
+       "platform": "",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

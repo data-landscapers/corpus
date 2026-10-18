@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-16-tgo-rtg-reformes-digitalisation-titre-foncier-nup",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Togo Officiel says land title procedures are fully dematerialised, with all cadastre procedures done remotely via an online portal.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Online land title portal",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "Togo Officiel says citizens can now carry out all cadastre procedures for a land title remotely through an online portal.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Online land title portal",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

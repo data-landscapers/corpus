@@ -9,8 +9,8 @@ CIV,5,inservice,several,linked,CIV-001
 CMR,3,inservice,,,CMR-003
 COD,4,inservice,several,,COD-003
 COG,5,inservice,several,linked,COG-007
-COM,2,underway,,,COM-001
-CPV,4,inservice,several,,CPV-003
+COM,2,underway,,,COM-002;COM-001
+CPV,4,inservice,several,,CPV-003;CPV-005
 DJI,3,inservice,,,DJI-002;DJI-003
 DZA,no evidence,,,,
 EGY,4,inservice,several,,EGY-002
@@ -33,23 +33,23 @@ MOZ,2,underway,,,MOZ-001
 MRT,3,inservice,,,MRT-002;MRT-001
 MUS,3,inservice,,,MUS-001
 MWI,4,inservice,several,,MWI-003
-NAM,no evidence,,,,
-NER,3,inservice,,,NER-001
-NGA,5,inservice,several,linked,NGA-006;NGA-003
+NAM,unplaced,,,,
+NER,3,inservice,,,NER-003;NER-001
+NGA,5,inservice,several,linked,NGA-006;NGA-008
 RWA,5,inservice,several,linked,RWA-004;RWA-007
 SDN,2,underway,,,SDN-001
 SEN,4,inservice,several,,SEN-005
 SLE,2,underway,,,SLE-001
-SOM,3,inservice,,,SOM-001
+SOM,3,inservice,,,SOM-001;SOM-002
 SSD,no evidence,,,,
 STP,3,inservice,,,STP-001;STP-002
 SWZ,2,underway,,,SWZ-001;SWZ-002
 SYC,2,underway,,,SYC-001
 TCD,2,underway,,,TCD-001;TCD-002
 TGO,3,inservice,,,TGO-001
-TUN,no evidence,,,,
-TZA,no evidence,,,,
+TUN,unplaced,,,,
+TZA,unplaced,,,,
 UGA,2,underway,,,UGA-001
-ZAF,no evidence,,,,
+ZAF,2,underway,,,ZAF-001
 ZMB,2,underway,,,ZMB-001;ZMB-002
 ZWE,2,underway,,,ZWE-001;ZWE-002

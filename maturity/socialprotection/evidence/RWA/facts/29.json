@@ -1,0 +1,60 @@
+{
+ "slug": "2024-01-01-rwa-minecofin-sp-ssp-2024-2029",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The plan says the Monitoring and Evaluation Information System (MEIS) serves as a beneficiary registry giving real-time information on who receives what support, and is the source cited for VUP beneficiary counts for 2023-2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "MEIS",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The plan says the Disability Management Information System (DMIS) is in the final stages of completion and will hold details of over 500,000 persons with disability to target the new Disability Grant within VUP.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Disability Management Information System (DMIS)",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEIS",
+   "country_label": "Rwanda",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "MINALOC/LODA",
+   "tiers": "beneficiary registry for VUP components"
+  },
+  {
+   "system": "DMIS",
+   "country_label": "Rwanda",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "NCPD/LODA",
+   "tiers": "disability classification, 96.7% of PwDs classified in 2023/24"
+  },
+  {
+   "system": "Imibereho SRIS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "MINALOC",
+   "tiers": "social registry, replaces Ubudehe targeting"
+  },
+  {
+   "system": "Graduation Management Information System (GMIS)",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "planned, not yet built"
+  }
+ ],
+ "note": ""
+}

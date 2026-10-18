@@ -1,0 +1,26 @@
+{
+ "slug": "2018-07-11-nam-china-embassy-meteorological-equipment-handover",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Chinese ambassador said the completed project gave Namibia FY-3 meteorological satellite data receiving and processing systems, enabling the Namibian Meteorological Service to monitor climate and ecological conditions with FY-3 data for the first time.",
+   "as_of": "2018-07-05",
+   "date_precision": "day",
+   "system": "FY-3 satellite data receiving and processing systems",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FY-3 satellite data receiving and processing systems",
+   "country_label": "Namibia",
+   "class": "metsat",
+   "platform": "FY-3",
+   "owner": "Namibian Meteorological Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

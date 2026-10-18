@@ -1,55 +1,55 @@
 iso3,stage,register,shared,nationalid,stage_sources
 AGO,3,inservice,,,AGO-001
 BDI,3,inservice,,,BDI-001;BDI-002
-BEN,5,inservice,shared,linked,BEN-001
-BFA,4,inservice,shared,,BFA-002
+BEN,5,inservice,shared,linked,BEN-001;BEN-005
+BFA,unplaced,,,,
 BWA,no evidence,,,,
-CAF,no evidence,,,,
+CAF,unplaced,,,,
 CIV,no evidence,,,,
 CMR,3,inservice,,,CMR-001;CMR-003
 COD,4,inservice,shared,,COD-002
-COG,no evidence,,,,
+COG,unplaced,,,,
 COM,no evidence,,,,
-CPV,no evidence,,,,
-DJI,no evidence,,,,
+CPV,unplaced,,,,
+DJI,4,inservice,shared,,DJI-001
 DZA,3,inservice,,,DZA-002;DZA-001
-EGY,no evidence,,,,
+EGY,unplaced,,,,
 ERI,no evidence,,,,
 ETH,unplaced,,,,
-GAB,no evidence,,,,
+GAB,3,inservice,,,GAB-001
 GHA,4,inservice,shared,,GHA-002
-GIN,no evidence,,,,
-GMB,no evidence,,,,
+GIN,4,inservice,shared,,GIN-003
+GMB,4,inservice,shared,,GMB-002
 GNB,3,inservice,,,GNB-001;GNB-004
 GNQ,2,underway,,,GNQ-001
 KEN,3,inservice,,,KEN-001
 LBR,5,inservice,shared,linked,LBR-001
 LBY,no evidence,,,,
-LSO,3,inservice,,,LSO-001
+LSO,3,inservice,,,LSO-001;LSO-002
 MAR,no evidence,,,,
-MDG,no evidence,,,,
-MLI,no evidence,,,,
+MDG,3,inservice,,,MDG-001
+MLI,unplaced,,,,
 MOZ,4,inservice,shared,,MOZ-002;MOZ-001
-MRT,no evidence,,,,
-MUS,no evidence,,,,
-MWI,no evidence,,,,
+MRT,4,inservice,shared,,MRT-002
+MUS,unplaced,,,,
+MWI,3,inservice,,,MWI-003
 NAM,4,inservice,shared,,NAM-001
-NER,no evidence,,,,
+NER,unplaced,,,,
 NGA,5,inservice,shared,linked,NGA-001;NGA-004
 RWA,unplaced,,,,
 SDN,4,inservice,shared,,SDN-001
-SEN,no evidence,,,,
-SLE,no evidence,,,,
+SEN,unplaced,,,,
+SLE,unplaced,,,,
 SOM,no evidence,,,,
 SSD,3,inservice,,,SSD-001
 STP,no evidence,,,,
 SWZ,4,inservice,shared,,SWZ-001
 SYC,5,inservice,shared,linked,SYC-002
 TCD,3,inservice,,,TCD-001
-TGO,no evidence,,,,
+TGO,4,inservice,shared,,TGO-003
 TUN,4,inservice,shared,,TUN-001
-TZA,no evidence,,,,
+TZA,3,inservice,,,TZA-001
 UGA,5,inservice,shared,linked,UGA-003;UGA-013
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
-ZWE,3,inservice,,,ZWE-001
+ZAF,3,inservice,,,ZAF-001
+ZMB,3,inservice,,,ZMB-001
+ZWE,3,inservice,,,ZWE-001;ZWE-002

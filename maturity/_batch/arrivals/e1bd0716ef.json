@@ -1,0 +1,7 @@
+{"slug": "2023-12-01-cpv-knmi-inmg-country-hydromet-diagnostics", "studies": {"metsatellite": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "metsat", "aspect": "stream", "value": "inservice", "fact": "The KNMI peer-reviewed Country Hydromet Diagnostic says INMG receives EUMETSAT near-real-time Meteosat data at Ilha do Sal through MESSIR SAT and PUMA systems and uses the products in its forecasts.", "as_of": "2023-09", "date_precision": "month", "system": "MESSIR SAT and PUMA reception systems (EUMETSAT Meteosat MSG)", "class": "metsat"},
+{"sub_indicator": "metsat", "aspect": "warnings", "value": "issued", "fact": "The Country Hydromet Diagnostic says INMG uses EUMETSAT Meteosat 3-km, 15-minute observations for short-term early warning, and that it runs a 24/7 weather alert service with 12 to 48 hour lead times.", "as_of": "2023-09", "date_precision": "month", "system": "MESSIR SAT and PUMA reception systems (EUMETSAT Meteosat MSG)", "class": "metsat"}
+], "systems": [
+{"system": "MESSIR SAT", "country_label": "Cabo Verde", "class": "metsat", "platform": "EUMETSAT Meteosat MSG reception at Ilha do Sal", "owner": "INMG", "tiers": ""},
+{"system": "PUMA", "country_label": "Cabo Verde", "class": "metsat", "platform": "EUMETSAT data reception", "owner": "INMG", "tiers": ""}
+], "note": "ISO 9001 is stated only for aviation services with a 2024 deadline, not for the service as a whole, so no certified fact."}}}}}

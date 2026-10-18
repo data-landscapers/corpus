@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-17-gmb-unctad-mocde-wsis-statement-rural-satellite",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Minister says the government is embarking on initiatives that include using satellite as a connectivity source for rural Gambia.",
+   "as_of": "2024-04-17",
+   "date_precision": "day",
+   "system": "Satellite connectivity for rural Gambia",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

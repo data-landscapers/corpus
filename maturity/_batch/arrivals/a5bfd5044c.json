@@ -1,0 +1,5 @@
+{"slug": "2001-05-29-eri-undp-terminal-eval-moj-capacity", "studies": {
+"justice": {"countries": {"ERI": {"facts": [
+{"sub_indicator": "justice", "aspect": "cases", "value": "inservice", "fact": "The UNDP terminal evaluation says a computerised case management system, begun as a pilot, is fully operational as the High Court's principal system with about 9 workstations across its six benches.", "as_of": "2001-05", "date_precision": "month", "system": "High Court case management system", "class": "justice"}
+], "systems": [{"system": "High Court case management system", "country_label": "computerised case management system", "class": "justice", "platform": "", "owner": "Ministry of Justice / High Court", "tiers": "High Court"}], "note": ""}}}
+}}

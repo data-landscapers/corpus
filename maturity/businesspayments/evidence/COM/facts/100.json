@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-com-armp-diagnostic-institutionnel-egp",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The consultant report says Comoros is pursuing a reform to set up an e-Government Procurement system, with a specification for an online tendering platform of two modules and hosting and a draft e-GP implementing decree under review.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Comoros",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ARMP / government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

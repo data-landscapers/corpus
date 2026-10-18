@@ -2,6 +2,6 @@
 
 ## Education information system
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [DUNE-RH](<https://wassika.com/niger-ministere-de-leducation-nationale/>).
 
-***Not held***. Nothing held says whether the education ministry holds its statistics in an information system.
+***Not held***. Nothing held since October 2023 says whether an education information system is under way or in service.

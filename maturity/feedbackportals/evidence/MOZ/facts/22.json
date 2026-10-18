@@ -1,0 +1,15 @@
+{
+ "slug": "2021-06-21-moz-verdade-fala-cidadao-plataforma",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fala Cidadao",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "toll-free line 800 400 404",
+   "owner": "IGAP, Ministry of State Administration and Public Service",
+   "tiers": ""
+  }
+ ],
+ "note": "Fala Cidadao is described only as a toll-free telephone line, not a web, app or messaging channel."
+}

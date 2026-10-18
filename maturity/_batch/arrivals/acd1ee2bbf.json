@@ -1,0 +1,9 @@
+{"slug": "2024-11-18-dza-elwatan-numerisation-education-evaluation", "studies": {
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Personal data protection is only named as a discussion theme of the education digitisation review; no law is described."}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "national", "aspect": "period", "value": "to:2030", "fact": "The education ministry's communiqué places its information-system update within the 'stratégie nationale de transformation numérique en Algérie 2025-2030'.", "as_of": "2024-11-16", "date_precision": "day", "system": "stratégie nationale de transformation numérique en Algérie 2025-2030", "class": "national"}
+], "systems": [], "note": ""}}},
+"educationmis": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "emis", "aspect": "system", "value": "underway", "fact": "The education ministry says an updated 2025 version of the national education sector information system is being prepared, to be ready in March 2025, after a nationwide evaluation.", "as_of": "2024-11-16", "date_precision": "day", "system": "système d'information pour le secteur de l'éducation nationale", "class": "emis"}
+], "systems": [{"system": "système d'information pour le secteur de l'éducation nationale", "country_label": "Algeria", "class": "emis", "platform": "", "owner": "Ministère de l'Éducation nationale", "tiers": ""}], "note": ""}}}
+}}

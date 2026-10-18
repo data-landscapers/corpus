@@ -1,0 +1,83 @@
+{
+ "slug": "2025-07-17-nam-namibian-e-justice-supreme-court",
+ "studies": {
+  "justice": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "underway",
+       "fact": "Chief Justice Shivute said the Supreme Court remains entirely paper-based and efforts to extend e-justice to it are under way, with a task force defining an integrated electronic case management system.",
+       "as_of": "2025-07-16",
+       "date_precision": "day",
+       "system": "e-justice system",
+       "class": "justice"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "inservice",
+       "fact": "The article describes Uganda's ECCMIS as a platform enabling real-time case tracking and data management, whose knowledge Namibia is sharing under an agreement.",
+       "as_of": "2025-07-16",
+       "date_precision": "day",
+       "system": "ECCMIS",
+       "class": "justice"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  }
+ }
+}

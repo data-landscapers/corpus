@@ -1,0 +1,55 @@
+{
+  "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+  "studies": {
+    "addressregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about addressing."}}},
+    "authentication": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIDA's May 2025 presentation says consent-based eKYC against the national ID is in service, including ID verification services.", "as_of": "2025-05-01", "date_precision": "day", "system": "Consent based EKYC", "class": "authentication"},
+      {"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIDA says its consent-based eKYC is integrated with 124 institutions, 55 government and 69 private.", "as_of": "2025-05-01", "date_precision": "day", "system": "Consent based EKYC", "class": "authentication"}
+    ], "systems": [{"system": "Consent based EKYC", "country_label": "Tanzania", "class": "authentication", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+    "birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document does not mention the civil register or births."}}},
+    "businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about public procurement."}}},
+    "businessregister": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "NIDA lists online company and TIN registration among the services delivered through its consent-based eKYC.", "as_of": "2025-05-01", "date_precision": "day", "system": "Online Company & TIN Registration", "class": "business"}
+    ], "systems": [], "note": ""}}},
+    "centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about the central bank or payment oversight."}}},
+    "civilregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document does not mention civil registration of births or deaths."}}},
+    "consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about cross-border payments."}}},
+    "datacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The two data centres, established since 2018, serve the national ID system and are not said to be for hire."}}},
+    "digitaldivides": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about rural internet access."}}},
+    "digitalidlaw": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "NIDA gives its legal framework as the Registration and Identification Act 1986 (revised edition 2012), with NIDA established in 2008 under instrument GN 122/2008.", "as_of": "2025-05-01", "date_precision": "day", "system": "Registration and Identification Act 1986 R.E. 2012", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "electoralregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document does not mention the voters' roll."}}},
+    "g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about government payments to people."}}},
+    "idcoverage": {"countries": {"TZA": {"facts": [], "systems": [{"system": "National ID", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "NIDA", "tiers": ""}], "note": "The 25.48 million registered is given as 81% of eligible people aged 18 and over, not of the whole population, so it settles no rung."}}},
+    "idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA registers people aged 18 and above; no number at birth is mentioned."}}},
+    "idmaintenance": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "NIDA, a government institution under the Ministry of Home Affairs, says it registers people, issues national IDs and maintains the national digital registry.", "as_of": "2025-05-01", "date_precision": "day", "system": "National ID Data Base", "class": "idsystem"}
+    ], "systems": [], "note": ""}}},
+    "idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No public register is said to be keyed on the ID number; the integrations listed are verification uses."}}},
+    "idrobustness": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIDA reports 21.12 million national IDs printed, 20.08 million issued and 25.48 million people registered, as of May 2025.", "as_of": "2025-05-01", "date_precision": "day", "system": "National ID", "class": "idsystem"}
+    ], "systems": [], "note": ""}}},
+    "idverification": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIDA says consent-based eKYC against the national ID is in use for instant bank account opening and online company and TIN registration.", "as_of": "2025-05-01", "date_precision": "day", "system": "Consent based EKYC", "class": "relying"},
+      {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "NIDA lists bank account opening and company and TIN registration (tax) among services using its eKYC.", "as_of": "2025-05-01", "date_precision": "day", "system": "Consent based EKYC", "class": "relying"},
+      {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "NIDA counts 124 institutions integrated with its consent-based eKYC, 55 government and 69 private.", "as_of": "2025-05-01", "date_precision": "day", "system": "Consent based EKYC", "class": "relying"}
+    ], "systems": [], "note": ""}}},
+    "landregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about land registration."}}},
+    "localgov": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about local government offices."}}},
+    "nationaldatacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The two data centres serve the national ID system and are not said to be for hire."}}},
+    "offsitebackup": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Active-passive security and disaster recovery are named for the ID system's two data centres, with no place or distance given."}}},
+    "paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document gives no account survey figure."}}},
+    "populationregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The national digital registry covers registered adults 18 and over and is not said to serve as the population register."}}},
+    "publicconsultation": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about consultation."}}},
+    "refugees": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA lists refugees aged 18 and above among those it registers, with no number or documents stated."}}},
+    "registry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document does not mention local civil registration offices."}}},
+    "retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document says nothing about mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The USD 45.4 million is NIDA's own fee revenue, not tax or duty payment."}}},
+    "socialregistry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The document does not mention a social registry."}}},
+    "taxregister": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "NIDA lists online TIN registration among the services delivered through its consent-based eKYC.", "as_of": "2025-05-01", "date_precision": "day", "system": "Online Company & TIN Registration", "class": "tax"}
+    ], "systems": [], "note": ""}}}
+  }
+}

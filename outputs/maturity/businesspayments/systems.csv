@@ -1,44 +1,95 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
+AGO,Sistema Nacional da Contratação Pública Electrónica (SNCPE),Angola,procurement,,Serviço Nacional da Contratação Pública,,2022-06-13-ago-angop-poupanca-compras-publicas-online
+AGO,SNCPE,Angola,procurement,Plataforma Electrónica,Ministry of Finance,,2017-09-06-ago-lexao-decreto-202-17-sncpe
+BDI,e-GP,e-GP,procurement,custom open-source,"Ministry of Finance, Budget and Digital Economy / ARMP",,2026-09-23-bdi-pafen-ddp-e-gp-deploiement
+BDI,e-GP,e-GP,procurement,,"Ministry of Finance, Budget and Digital Economy",,2026-08-27-bdi-indundi-plateforme-e-gp-2027
 BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
 BEN,MTN Mobile Money,Benin,other,,MTN,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,e-Procurement,Benin,procurement,,DGTCP,,2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement
+BEN,SIGMAP,Benin,procurement,,,,2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement
+BEN,SIGMaP,Benin,procurement,web,ARMP,national,2025-10-27-ben-armp-dematerialisation-commande-publique
+BEN,Solution de gestion electronique de la commande publique,Benin,procurement,,ARMP,,2025-06-24-ben-armp-aoi-solution-e-procurement
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
+BFA,Projet d'Appui à la Dématérialisation des Marchés Publics (e-GP),Burkina Faso,procurement,,Direction Générale du Contrôle des Marchés Publics et des Engagements Financiers,,2022-03-02-bfa-worldbank-e-gp-ppsd-procurement-plan
 BWA,national payment switch,Botswana,other,,Ministry of Finance,,2025-10-31-bwa-ndp12-finance-ministry-ict-development-proposed
 BWA,e-procurement platform,Botswana,procurement,,Ministry of Finance,,2025-10-31-bwa-ndp12-finance-ministry-ict-development-proposed
+BWA,Integrated Procurement Management System (IPMS),Botswana,procurement,,Public Procurement and Assets Disposal Board,,2016-07-07-bwa-sundaystandard-ppadb-ipms-launch
 CAF,eDouanes,CAF,other,SYDONIA,Webb Fontaine,,2026-07-03-orange-webb-fontaine-paiement-redevance-dpi
+CIV,SIGOMAP,Cote d'Ivoire,procurement,web application,Ministere du Budget et du Portefeuille de l'Etat / DGMP,,2023-07-25-civ-mbpe-dematerialisation-marches-publics
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+CMR,Coleps,Cameroon,procurement,,Ministry of Public Contracts,,2025-12-04-cmr-ecomatin-coleps-attribution-en-ligne
+CMR,COLEPS,Cameroon,procurement,COLEPS,Ministry of Public Contracts,,2024-10-11-cmr-guardianpost-coleps-sensitisation-campaign
 COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
+COD,SIGMAP (Système Intégré de Gestion des Marchés Publics),DR Congo,procurement,,ARMP,,2026-04-29-cod-armp-operationnalisation-sigmap-vpm-budget
+COD,SIGMAP,DR Congo,procurement,,ARMP / DGCMP,,2026-03-19-cod-armp-dgcmp-concertation-sigmap
+COD,SIGMAP,Democratic Republic of the Congo,procurement,,Ministry of Budget with COREF and ARMP,,2022-11-10-cod-coref-lancement-sigmap
 COG,DigiTransfer,Republic of Congo,other,Android and iOS app over Visa and Mastercard networks,DigiPay Group and Belmoney,,2026-05-28-belmoney-digipay-instant-transfer-app-wearetech
+COG,National public procurement dematerialisation platform,Congo,procurement,,Pagir,,2026-06-05-cog-aci-validation-dao-plateforme-dematerialisation
+COM,e-GP,Comoros,procurement,,ARMP / government,,2025-09-01-com-armp-diagnostic-institutionnel-egp
 CPV,Plataforma Eletrónica de Contratação Pública,Cabo Verde,procurement,ACIN-iCloud Solutions,Governo de Cabo Verde,"Central Administration, Local Administration, Autonomous Services and Funds",2026-03-19-cpv-nota-esclarecimento-plataforma-eletronica-contratacao-publica
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+DJI,portail électronique des Marchés Publics,Djibouti,procurement,,Commission Nationale des Marchés Publics,all contracting authorities,2023-02-14-dji-jo-decret-2023-038-portail-marches-publics
+DZA,portail électronique dédié aux marchés publics,Algérie,procurement,marches-publics.gov.dz,Ministère des Finances,,2021-12-23-dza-mf-lancement-portail-marches-publics
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 ETH,National Digital Payments Strategy 2.0,Ethiopia,other,,National Bank of Ethiopia,,2026-08-17-eth-ebr-157m-mobile-money-accounts-under-15pc-active-nbe
+ETH,e-GP,Ethiopia,procurement,,Public Procurement and Property Authority,federal,2023-04-06-eth-ita-e-procurement-platform-public-tenders
+ETH,electronic-government procurement (e-GP),Ethiopia,procurement,built by Perago Information Systems,Public Procurement & Property Authority,,2022-09-03-eth-addisfortune-automated-public-procurement
+GAB,Journal des marchés publics,Gabon,procurement,www.lejmp.ga,Direction générale des marchés publics,,2021-12-28-gab-gabonreview-etat-dematerialise-marches-publics
+GAB,SIGFiP,Gabon,procurement,,Ministry of Economy and Finance,,2026-02-01-gab-dgmp-journal-marches-publics-n9-sigfip
+GHA,GHANEPS,Ghana Electronic Procurement System,procurement,,Public Procurement Authority,,2024-04-26-gha-ppa-clarification-ghaneps-contracts
+GHA,GHANEPS,Ghana Electronic Procurement System,procurement,,Public Procurement Authority,,2023-11-23-gha-ppa-mandatory-use-ghaneps
 GIN,Telemo,Guinea,procurement,national e-GP platform,Guinean State,,2026-10-08-gin-armp-dgcmp-banque-mondiale-telemo-maps-ii
 GIN,TELEMO,Guinea,procurement,,Government of Guinea,,"2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap"
 GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 GMB,Electronic Government Procurement (E-GP) system,The Gambia,procurement,,Gambia Public Procurement Authority,,2026-10-08-gmb-thepoint-gppa-procurement-cadre-egp
+GMB,e-procurement portal,The Gambia,procurement,,GPPA,,2025-08-18-gmb-foroyaa-gppa-dg-jaiteh-e-procurement-portal
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+GNQ,e-GP (système électronique de passation des marchés),Guinée équatoriale,procurement,,Ministère des Finances et du Budget,,2025-02-10-gnq-tacdcartena-systeme-electronique-passation-marches
+KEN,e-GP,Electronic Government Procurement system,procurement,,National Treasury,,2026-06-11-ken-thestar-all-procurement-through-egp-july-1
+KEN,Electronic Government Procurement (e-GP),Kenya,procurement,,National Treasury,national and county,2025-08-29-ken-kna-treasury-fast-track-egp-rollout
+KEN,e-GPS,Kenya,procurement,,National Treasury,,2025-06-01-ken-ppra-circular-02-2025-portal-egps-integration
+KEN,Electronic Government Procurement System (e-GP),Kenya,procurement,,The National Treasury,national and county,2025-04-09-ken-treasury-launch-egp-system
 LBR,e-procurement reform,Liberia,procurement,,Ministry of Finance and Development Planning,,2026-09-28-lbr-bet-on-liberia-payment-switch
 LBR,instant payment system,Liberia,other,,Central Bank of Liberia,,2026-08-16-africanenda-liberia-instant-payment-system-73-days-webinar
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
 LBY,CIPS,Libya,other,China's Cross-Border Interbank Payment System,PBoC,,2026-08-16-chinese-yuan-africa-cips-payment-network
+LBY,Government Tenders and Procurement Platform,Government Tenders and Procurement Platform,procurement,,General Information Authority,,2024-03-11-lby-gia-updated-government-tenders-platform-launch
 LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,mobile money,Lesotho,other,,,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
 LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
 MAR,Fatourati,Morocco,other,,CMI,,2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+MAR,public procurement portal,Morocco,procurement,,Trésorerie Générale du Royaume,,2023-05-15-mar-worldbank-blog-dematerialisation-marches-publics
+MAR,portail des marches publics,Maroc,procurement,,,,2023-08-30-mar-lematin-arrete-dematerialisation-marches-publics
+MDG,e-GP,Madagascar,procurement,e-procurement,PREA,,2026-02-17-mdg-prea-e-gp-impulsion-banque-mondiale
+MDG,e-GP,Madagascar,procurement,,ARMP,,2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023
+MDG,SIGMP,Madagascar,procurement,,,,2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023
+MDG,e-GP,Madagascar,procurement,,ARMP,,2021-09-17-mdg-undp-e-gp-public-procurement-platform
+MDG,SIGMP,Madagascar,procurement,,,,2021-09-17-mdg-undp-e-gp-public-procurement-platform
 MLI,Sigtas / E-Impôt / télépaiement,Mali,other,Sigtas,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
+MLI,SIGMAP,Mali,procurement,,DGMP-DSP,,2021-10-20-mli-bamada-sigmap-kayes-formation
+MLI,Sigmap,Mali,procurement,Java EE web application hosted at CAISFF,DGMP-DSP / CAISFF,,2015-12-09-mli-malijet-sigmap-lancement
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
+MOZ,e-GP (GEPRES),Mozambique,procurement,,Ministry of Finance,national,2025-04-03-moz-clubofmoz-e-procurement-launch
+MOZ,e-GP,Mozambique,procurement,,Ministry of Finance,,2025-04-03-moz-me-lanca-projecto-e-gp
+MOZ,e-SISTAFE,Mozambique,procurement,,"Ministry of Economy and Finance (CEDSIF, DNPE)",Concurso por Lances,2021-03-12-moz-ufsa-concurso-por-lances-e-sistafe
+MRT,SIGMAP,Mauritania,procurement,,Ministry of Digital Transformation and Modernisation of the Administration,,2026-07-22-mrt-trustmag-sigmap-digitalisation-marches
+MRT,SIGMAP,Mauritania,procurement,,Ministry of Digital Transformation,,2025-11-24-mrt-mtnima-sigmap-comite-pilotage
+MRT,Portail des marchés publics,Mauritanie,procurement,,ARMP,,2024-12-05-mrt-emergence-portail-marches-publics
+MUS,e-Procurement System,Mauritius,procurement,,Procurement Policy Office,,2020-08-21-mus-ppo-directive-47-mandatory-e-ps
+MUS,e-PS,Mauritius,procurement,"commercial off-the-shelf system customised locally, hosted on the Government Cloud run by the Government Open Center",Procurement Policy Office,,2024-06-01-mus-afdb-maps-e-procurement-assessment
+MUS,e-Procurement System (e-PS),Mauritius,procurement,"eproc.publicprocurement.govmu.org, hosted in the Government Data Centre",Procurement Policy Office,205 public bodies; 116 on it in 2023/24,2024-12-20-mus-ppo-annual-report-2023-2024
 MWI,MANePS,Malawi,procurement,Malawi National Electronic Procurement System,PPDA,,2026-10-07-mwi-ppda-maneps-world-bank
 MWI,MANePS,Malawi,procurement,Malawi National Electronic Procurement System,PPDA,,2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps
 MWI,MANePS,Malawi,procurement,Malawi National Electronic Procurement System,PPDA,,2026-02-28-mwi-maneps-mandatory-procurement
@@ -46,21 +97,36 @@ MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itweba
 MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,Airtel Money,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
+NAM,e-GP Portal,Namibia,procurement,,"Procurement Policy Unit, Ministry of Finance",,2025-05-27-nam-ppu-maps-and-e-gp-presentation
+NAM,E-GP portal,Namibia,procurement,,"Ministry of Finance, Procurement Policy Unit",,2022-10-14-nam-namibiadailynews-e-gp-portal
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NER,SIGMAP-Niger,Niger,procurement,sigmap.marchespublics.ne,DGCMP/OB,,2026-02-25-ner-lesahel-digitalisation-marches-publics
+NER,système de dématérialisation des marchés publics et des délégations de service public,Niger,procurement,,"DGCMP/OB, Ministère des Finances",,2022-06-09-ner-marchespublics-dematerialisation-modules
+NER,SIGMAP,Niger,procurement,Portail des marchés publics,"DGCMP/EF, Ministry of Finance",,2016-11-02-ner-minfin-lancement-sigmap-discours
 NGA,TeamApt,Nigeria,other,"switching and processing, Mastercard acquiring",Moniepoint Inc.,,2026-08-13-nigeria-teamapt-mastercard-network-access
 NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
+NGA,"National Database of Contractors, Consultants and Service Providers (ND-CCSP)",Nigeria,other,,Bureau of Public Procurement,,2018-07-08-nga-thisday-bpp-unveils-e-gp
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
+RWA,Umucyo e-Procurement System,Rwanda,procurement,www.umucyo.gov.rw,Rwanda Public Procurement Authority,,2016-09-22-rwa-rppa-e-procurement-call-for-bidders
+RWA,Umucyo,Rwanda,procurement,,RPPA,,2021-11-01-rwa-rppa-umucyo-user-satisfaction-survey
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
+SDN,National electronic procurement system,Sudan,procurement,,Ministry of Finance,,2026-03-17-sdn-sudanhorizon-e-procurement-design-complete
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
 SEN,APPEL,APPEL (Achats publics en procédures électroniques),procurement,,ARCOP,,2026-10-16-sen-arcop-appel-eprocurement-generalisation
+SEN,APPEL,Senegal,procurement,achatspublics.sn,ARCOP,,2025-12-04-sen-arcop-appel-caravane-nationale-pole-sud
+SEN,APPEL,Senegal,procurement,e-procurement platform,ARCOP,,2025-10-17-sen-arcop-appel-le-clic-de-la-transparence
+SEN,APPEL,Senegal,procurement,dematerialised public procurement platform with API gateway and microservices,ARCOP,,2026-02-12-sen-arcop-appel-premiers-resultats
 SLE,Sierra Leone e-procurement system (unnamed),Sierra Leone,procurement,,National Public Procurement Authority (NPPA),,2026-08-07-liberias-e-gp-system-becomes-regional-model
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,SOMQR,Somalia,other,QR code standard,,,2026-07-27-somalia-expand-instant-payment-system-hiiraan
 SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+SOM,Government Procurement Portal,Somalia,procurement,CMS-based,"National Public Procurement Directorate, Ministry of Finance",,2021-04-30-som-devex-asi-procurement-portal-eoi
+SSD,PPDAA tender portal,South Sudan,procurement,ppdaatenderportal.gov.ss,Public Procurement and Disposal of Assets Authority,,2025-02-24-ssd-ppdaa-dissemination-workshop-tender-portal
+SWZ,Eswatini Electronic Government Procurement System,Eswatini Electronic Government Procurement System,procurement,,Ministry of Finance,,2026-06-08-swz-positivenews-pac-e-gp-under-expenditure
 SYC,Fuse360,Seychelles,other,,Fusepay,,2026-07-22-fusepay-fuse360-ai-operating-system
 SYC,Fusepay,Seychelles,other,B2B payments platform,Fusepay,,2025-11-27-dabafinance-fusepay-preseed
 SYC,national e-procurement system,Seychelles,procurement,,Government of Seychelles,,2026-09-22-african-development-bank-syc-2026-ergrsp-iii
@@ -73,14 +139,31 @@ TCD,GIMACPAY,TCD,other,,GIMAC,CEMAC,2026-09-04-tchadinfos-monnaie-electronique-f
 TCD,Konoom,Tchad,other,"e-wallet app, web, USSD, WhatsApp",Konoom (private fintech),,2026-06-19-wearetech-konoom-paiements-numeriques-multicanal
 TCD,Système de virement électronique normalisé,Chad,procurement,,Government of Chad,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
 TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
+TGO,e-GP,Togo,procurement,,ARCOP,,2025-10-14-tgo-arcop-passation-electronique-e-gp-atelier
 TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
+TUN,TUNEPS,Tunisia,procurement,,,,2018-06-20-tun-wmc-tuneps-obligatoire-septembre-2018
+TUN,TUNEPS,Tunisia,procurement,built with KOICA on Korea's KONEPS,HAICOP,"e-bidding, e-contracting, e-catalogue, e-shopping mall",2020-01-01-tun-oecd-improving-e-procurement-tuneps
+TUN,TUNEPS,Tunisia,procurement,,,,2021-06-11-tun-wmc-dematerialisation-decrets-tuneps
+TZA,National e-Procurement System of Tanzania (NeST),Tanzania,procurement,,PPRA,,2025-05-13-tza-citizen-nest-e-procurement-savings
+TZA,NeST,Tanzania,procurement,,Public Procurement Regulatory Authority,,2024-06-12-tza-ppra-procurement-act-effect-nest-mandate
+TZA,NeST,Tanzania,procurement,,PPRA,,2023-10-16-tza-ppra-jail-fine-procure-outside-nest
+UGA,e-GP,Electronic Government Procurement (e-GP),procurement,egpuganda.go.ug,PPDA with Ministry of Finance and NITA-U,central,2026-04-01-uga-ppda-press-statement-e-gp-rollout-july-2026
+UGA,eGP 2.0,Uganda,procurement,,"Ministry of Finance, Planning and Economic Development and PPDA",,2026-08-05-uga-monitor-firms-lose-out-egp-online
+UGA,Electronic Government Procurement (EGP),Uganda,procurement,,PPDA,,2026-04-18-uga-monitor-govt-fully-automate-procurement
 ZAF,ZARP,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,ZARsc,South Africa,other,,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
+ZAF,e-Tender Publication portal,South Africa,procurement,"etenders.gov.za, hosted by SITA","Office of the Chief Procurement Officer, National Treasury","national, provincial, municipal",2015-04-08-zaf-govza-treasury-launches-csd-etender-portal
+ZAF,Central Supplier Database,South Africa,other,,"Office of the Chief Procurement Officer, National Treasury",,2015-04-08-zaf-govza-treasury-launches-csd-etender-portal
+ZAF,eTenders,South Africa,procurement,,National Treasury (OCPO),"national, provincial, local",2024-08-01-zaf-treasury-maps-assessment-procurement
+ZAF,e-Tender Portal,South Africa,procurement,,"National Treasury, Office of the Chief Procurement Officer","national and provincial departments, PFMA entities",2022-11-01-zaf-treasury-scm-instruction-09-etender-mandatory
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZMB,Government Service Bus,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
 ZMB,ZamPortal,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
 ZMB,ZamPay,Zambia,other,,Ministry of Finance and National Planning,,2026-07-10-digital-services-strengthen-zambia-finances
+ZMB,Electronic Government Procurement (E-GP),Zambia,procurement,,ZPPA,,2024-11-23-zmb-zambiamonitor-zppa-egp-sanctions-tenders
+ZWE,electronic Government Procurement (eGP) System,eGP,procurement,eGP platform,Procurement Regulatory Authority of Zimbabwe (PRAZ),,2024-04-21-zwe-herald-10000-register-egp-platform
+ZWE,electronic Government Procurement (e-GP),Zimbabwe,procurement,,PRAZ,,2024-01-18-zwe-herald-egp-system-revolutionises-procurement

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-dza-cgiar-wapor-water-use-tool",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The CGIAR tool series says the WaPOR-based Water Use Tool is used by the WaPOR Digital Unit at the Ministry of Agriculture and Rural Development, hosted by its Department of Statistics and Strategies, and uses 20 m WaPOR satellite data to compute dekadal irrigation water use and map irrigated and rainfed parcels, with a dashboard for the Mitidja West scheme.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "Water Use Tool (WUT)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Water Use Tool (WUT)",
+   "country_label": "Algeria",
+   "class": "agrisat",
+   "platform": "WaPOR Level 3 and CHIRPS data",
+   "owner": "Ministry of Agriculture and Rural Development (DSS)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

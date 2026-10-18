@@ -1,1 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,NCLAS,NCLAS 2,land,"web-based, server-based","Ministry of Agriculture, Water and Land Reform",Communal Land Boards,2024-05-20-nam-fig-mazambani-communal-land-administration-nclas
+NAM,NCLAS,Namibia,land,ArcGIS,"Ministry of Agriculture, Water and Land Reform",communal land,2023-05-01-nam-fig-land-administration-rural-development-namibia
+NAM,Deeds Registry,Namibia,other,,,"freehold, manual",2023-05-01-nam-fig-land-administration-rural-development-namibia

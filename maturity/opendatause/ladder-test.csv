@@ -4,7 +4,7 @@ BDI,3,licensed,,,BDI-002
 BEN,2,published,,,BEN-001
 BFA,4,licensed,several,,BFA-007
 BWA,2,published,,,BWA-001
-CAF,3,licensed,,,CAF-003
+CAF,5,licensed,several,reused,CAF-008
 CIV,2,published,,,CIV-001
 CMR,2,published,,,CMR-001
 COD,2,published,,,COD-002;COD-001
@@ -36,7 +36,7 @@ MWI,2,published,,,MWI-001
 NAM,2,published,,,NAM-001
 NER,3,licensed,,,NER-002
 NGA,2,published,,,NGA-002
-RWA,no evidence,,,,
+RWA,2,published,,,RWA-001
 SDN,no evidence,,,,
 SEN,5,licensed,several,reused,SEN-001
 SLE,2,published,,,SLE-006

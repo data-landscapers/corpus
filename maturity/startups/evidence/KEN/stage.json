@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "no evidence",
-   "law": "",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says what the state does for tech startups.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "2",
+      "law": "draft",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001;KEN-002",
+      "gaps": "No source held since October 2023 says: is a startup law or strategy adopted.",
+      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

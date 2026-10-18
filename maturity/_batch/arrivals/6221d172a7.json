@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-26-gnq-lagdeguinea-pnud-visita-tecnica-digitalizacion-justicia",
+ "studies": {
+  "justice": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "digitalisation of the administration of justice project",
+       "country_label": "Guinea Ecuatorial",
+       "class": "justice",
+       "platform": "SIGOB",
+       "owner": "Supreme Court of Justice with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": "A UNDP technical reconnaissance visit to survey court systems and case registers; nothing procured, piloted or built is stated."
+    }
+   }
+  }
+ }
+}

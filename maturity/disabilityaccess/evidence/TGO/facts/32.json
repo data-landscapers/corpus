@@ -1,0 +1,17 @@
+{
+ "slug": "2021-04-01-tgo-artp-fratel-questionnaire-service-universel",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "ARTP states that Article 6 of decree 2018-170/PR makes universal service include special measures guaranteeing access for persons living with a disability; the strategy is to set the objectives.",
+   "as_of": "2018-04",
+   "date_precision": "month",
+   "system": "Decree 2018-170/PR on universal service",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

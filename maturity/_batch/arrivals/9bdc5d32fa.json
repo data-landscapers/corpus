@@ -1,0 +1,54 @@
+{
+ "slug": "2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The tax directorate says its eSINTAX platform, online since April 2018, lets large and mid-size enterprise taxpayers file and pay taxes online.",
+       "as_of": "2018-04",
+       "date_precision": "month",
+       "system": "eSINTAX",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The tax directorate says eSINTAX lets large and mid-size enterprise taxpayers pay taxes online, and online payment becomes compulsory for large enterprises from 1 January 2020.",
+       "as_of": "2018-04",
+       "date_precision": "month",
+       "system": "eSINTAX",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "The tax directorate says large enterprise taxpayers have been obliged to file returns through the portal since 1 January 2019.",
+       "as_of": "2019-01-01",
+       "date_precision": "day",
+       "system": "eSINTAX",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eSINTAX",
+       "country_label": "Burkina Faso",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": "DGE, DME"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

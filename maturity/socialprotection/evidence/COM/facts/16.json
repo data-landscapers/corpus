@@ -1,0 +1,54 @@
+{
+ "slug": "2024-11-04-com-worldbank-aide-memoire-pfss-rrc-registre-social",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank aide-memoire says the PFSS-RRC project runs a management information system (MIS) in which beneficiary payment dates and beneficiary data for its cash-transfer and exit-fund activities are kept, and says the MIS is in use at the project's digitalisation department.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "MIS of the PFSS-RRC project (UGP-FSS)",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The World Bank aide-memoire says extension and improvement of the project MIS, with the firm ASTRUM, is 75% done, with a payment module and a tamper-proof digital card still to be improved.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "MIS of the PFSS-RRC project (UGP-FSS)",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The World Bank aide-memoire says the project created a mobile-money account for every social cash transfer beneficiary household and reports 39,904 beneficiaries receiving payments by mobile money (41,203 including flood-affected households).",
+   "as_of": "2024-10-20",
+   "date_precision": "day",
+   "system": "MIS of the PFSS-RRC project (UGP-FSS)",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MIS of the PFSS-RRC project",
+   "country_label": "Comoros",
+   "class": "socialmis",
+   "platform": "MIS built and extended with the firm ASTRUM",
+   "owner": "UGP-FSS (Unite de Gestion des Projets Filets Sociaux)",
+   "tiers": ""
+  },
+  {
+   "system": "Registre Social Unique (RSU)",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "UGP-FSS / Commissariat en charge de la Protection Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

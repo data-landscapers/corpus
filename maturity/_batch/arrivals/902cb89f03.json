@@ -1,0 +1,72 @@
+{
+ "slug": "2025-03-15-tza-citizen-startup-policy-consultations",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a digital economy framework with six pillars; states no standing, text or period."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only advocacy for a public-private venture fund; no amount put in."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Minister Jerry Silaa opened a stakeholder forum in Arusha and questionnaires for entrepreneurs and investors on the national startup policy, to expand to major cities, The Citizen reports.",
+       "as_of": "2025-03-15",
+       "date_precision": "day",
+       "system": "Tanzania startup policy consultation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "The government has begun formulating Tanzania's first national startup policy through a consultative process and baseline study, The Citizen reports.",
+       "as_of": "2025-03-15",
+       "date_precision": "day",
+       "system": "Tanzania Startup policy",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned Centre of Excellence for training under the Tanzania Digital Institute; no hub for startups stated."
+    }
+   }
+  }
+ }
+}

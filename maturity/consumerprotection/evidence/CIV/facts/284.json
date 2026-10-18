@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-05-civ-infocentrale-oqsf-plateformes-plaintes",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The OQSF-CI executive secretary says consumers can bring complaints on financial services to the Observatoire through a green line, an email address and a website, and that financial mediation is part of its consumer-protection mission.",
+   "as_of": "2025-07-03",
+   "date_precision": "day",
+   "system": "Observatoire de la Qualité des Services Financiers (OQSF-CI)",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF-CI",
+   "country_label": "Côte d'Ivoire",
+   "class": "protection",
+   "platform": "green line 2722 490 490, email, edufina.oqsfci.org",
+   "owner": "State of Côte d'Ivoire (Ministry of Finance)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

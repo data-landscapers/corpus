@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Service-public.ne,Niger,eservices,CMS portal,ANSI,national,2026-01-01-numericite-niger-strategie-egov-services-publics
 NER,NigerOnline,Niger,eservices,,ANSI,national,2026-01-01-numericite-niger-strategie-egov-services-publics
+NER,Portail Public du Niger,Niger,eservices,,ANSI,,2025-07-17-ner-nigerdiaspora-portail-public-services-en-ligne

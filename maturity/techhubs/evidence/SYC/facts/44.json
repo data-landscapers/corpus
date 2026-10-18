@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-syc-worldbank-pid-inclusive-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "none",
+   "fact": "The World Bank project information document says Seychelles has no tech hubs or incubators.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "tech hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

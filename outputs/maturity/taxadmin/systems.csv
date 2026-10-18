@@ -1,5 +1,11 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BDI,E-KORI,Burundi,taxsystem,,Burundian Revenue Office (OBR),,2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform
+BEN,e-services Bénin (e-services.impots.bj),Bénin,taxsystem,DGI tax portal,Direction générale des impôts,"Pro, Particuliers, Expert-Comptable",2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch
+BEN,eservices.impots.bj,Benin,taxsystem,,Direction Generale des Impots,,2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss
+BFA,eSINTAX,Burkina Faso,taxsystem,,Direction generale des impots,"DGE, DME",2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire
+BWA,BURS e-services portal and Mtax app,Botswana,taxsystem,web portal and mobile app,Botswana Unified Revenue Service,,2025-07-08-bwa-dailynews-tax-filing-season-commences
+BWA,MTax App,Botswana,taxsystem,mobile,Botswana Unified Revenue Service,,2020-08-20-bwa-dailynews-burs-tax-return-threshold-efiling
+BWA,Lekgetho Live,Botswana,taxsystem,,Botswana Unified Revenue Service,,2020-03-17-bwa-dailynews-lekgetho-live-tax-system
 CAF,e-Tax,Central African Republic,taxsystem,,DGID,,2025-10-01-caf-dgb-declaration-risques-budgetaires-plf2026
 CAF,e-Tax,Central African Republic,taxsystem,,DGID,,2025-05-21-imf-car-third-fourth-review-ecf
 CAF,e-Tax,Central African Republic,taxsystem,,DGID,,2025-03-26-car-plan-e-finances-publiques-note-cadrage
@@ -11,6 +17,9 @@ CAF,e-TAX,e-TAX,taxsystem,,Ministere des Finances et du Budget,national,2024-11-
 CAF,e-tax,Central African Republic,taxsystem,,Direction générale des impôts et des domaines,,2025-01-31-car-advances-tax-digitalisation-itweb
 CAF,e-Tax,E-tax,taxsystem,,Direction Generale des Impots,national,2024-07-12-digitalisation-finances-publiques-rca-africa24
 CAF,eTVA,eTVA,other,,Ministere des Finances et du Budget,national,2024-07-12-digitalisation-finances-publiques-rca-africa24
+CIV,e-impots,Cote d'Ivoire,taxsystem,e-impots.gouv.ci,Direction Generale des Impots,companies,2018-03-19-civ-cgeci-portail-e-impots-formation
+CIV,DGI mobile,Cote d'Ivoire,taxsystem,mobile,Direction Generale des Impots,synthetic tax and property tax payers,2018-03-19-civ-cgeci-portail-e-impots-formation
+CIV,télé-déclaration / télépaiement,Côte d'Ivoire,taxsystem,,Direction Générale des Impôts,,2023-11-02-civ-finances-fiscalite-interieure-reformes
 CMR,Système Intégré de Gestion des Impôts et Taxes (SIGIT),Cameroon,taxsystem,,Direction Générale des Impôts,,2026-05-13-leconomie-tax-digitalisation-dgi
 COD,Teledeclaration de la TVA,COD,taxsystem,,Direction generale des impots,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COD,E-Finance programme (DGI ERP),COD,taxsystem,Huawei,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
@@ -23,11 +32,14 @@ COG,FOUTA,Congo,taxsystem,online tax payment platform,"Ministere des finances, d
 COG,E-Tax,Congo,taxsystem,online declaration portal,"Ministere des finances, du budget et du portefeuille public",,2026-07-03-cog-switch-monetique-national-mfbpp
 COM,Plateforme fiscale (télé procédures),COM,taxsystem,"official tax administration platform, not named",Direction Générale des Impôts,mandatory by stages for large and medium enterprises,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
 COM,SIGIT,Comoros,taxsystem,,Direction generale des impots,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
+CPV,portondinosilhas.gov.cv,Cabo Verde,taxsystem,web portal,Direção Nacional das Receitas de Estado,,2024-05-28-cpv-dnre-funcionamento-portal-declaracoes
+CPV,Portal do Cidadao online tax payment (DUC),Cabo Verde,taxsystem,www.portondinosilhas.cv,DNRE with Casa do Cidadao,,2019-03-08-cpv-dnre-novo-meio-pagamento-impostos-online
 DJI,ITAS,Djibouti,taxsystem,,,,2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance
 DZA,Jibayatic,Algeria,taxsystem,,Direction générale des impôts (DGI),"DGE, tax centres, proximity centres, inspections, recettes",2026-06-15-algeriezoom-impots-jibayatic-generalisation
 EGY,Real Estate Transactions mobile application,Egypt,taxsystem,mobile app,Egyptian Tax Authority with e-Tax,,2026-08-29-egypt-etax-ai-identity-verification
 EGY,Electronic invoice system,Egypt,other,,Egyptian Tax Authority,,2026-09-07-eta-egypt-homepage
 EGY,E-Receipt System,Egypt,other,,Egyptian Tax Authority,,2026-09-07-eta-egypt-homepage
+ERI,ERITAS,Eritrea,other,,Inland Revenue Department,,2019-05-01-eri-afdb-estap-tax-administration-appraisal
 ETH,Integrated Tax Administration System (ITAS),ETH,taxsystem,,Ministry of Revenue,,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi
 ETH,Integrated Tax Adminstration System-ITAS,ETH,taxsystem,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr034
 ETH,e-filing system,ETH,taxsystem,,,,2024-01-31 E-tax adoption and tax compliance in Ethiopia (ICTD WP180)
@@ -45,6 +57,7 @@ GHA,ITAS,Integrated Tax Administration System,taxsystem,,Ghana Revenue Authority
 GHA,e-invoicing system,e-invoicing,other,,Ghana Revenue Authority,,2026-09-23-gha-myjoyonline-gra-itas-digital-tax-platforms
 GHA,ITAS,Integrated Tax Administration System,taxsystem,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,GITMIS,Ghana Integrated Tax Management and Information System,taxsystem,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
+GIN,e Tax,e Tax,taxsystem,,Direction Nationale des Impots,large and medium firms from 1 January 2021,2020-09-14-gin-guineenews-lancement-portail-etax
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2026-06-17-gra-itas-tax-administration
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2025-10-01-gra-arabsoft-tmi-itas
 GMB,Integrated Tax Administration System (ITAS),GMB,taxsystem,,Gambia Revenue Authority,,2025-10-23-gra-mofea-press-release-itas-arabsoft-tmi-consortium
@@ -55,18 +68,29 @@ KEN,TIMS/eTIMS,Kenya,other,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-
 KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2026-01-01-itax
 KEN,iTax,iTax,taxsystem,,Kenya Revenue Authority,national,2025-12-01-itax-enhancements-nov-dec-2025
 KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2025-01-01-kenya-country-profile-ati
+KEN,Shuru,Kenya,taxsystem,WhatsApp,Kenya Revenue Authority,,2026-04-07-ken-kra-ksh-2-trillion-nine-months
+KEN,KRA USSD *222*5# and WhatsApp,Kenya,taxsystem,"USSD, WhatsApp",Kenya Revenue Authority,,2025-11-20-ken-kra-ruto-hails-ai-led-reforms
 LBR,LITAS,Liberia Integrated Tax Administration System,taxsystem,,Liberia Revenue Authority,one Tax Business Office,2026-08-20-lra-corporate-strategic-plan-2025-2029
 LBR,LITAS,Liberia Integrated Tax Administration System,taxsystem,,Liberia Revenue Authority,regional tax offices,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit
 LBR,SIGTAS,Standard Integrated Government Tax Administration System,taxsystem,,Liberia Revenue Authority,,2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit
+LBY,Unified Tax System,المنظومة الضريبية الموحدة,other,,Libyan Tax Authority,,2025-12-13-lby-lana-unified-tax-system-launch
 LSO,e-Taxation Platform (e-Filing),Lesotho,taxsystem,,Revenue Services Lesotho,,2025-02-06-lesotho-rsl-e-taxation-platform-guide
 LSO,RSL e-Payments platform,Lesotho,taxsystem,,Revenue Services Lesotho,,2025-02-06-lesotho-rsl-e-taxation-platform-guide
+LSO,RSL eTax,Lesotho,taxsystem,,Revenue Services Lesotho,,2025-06-01-lso-rsl-guide-on-tax-registration
+LSO,Automatic Compliance Project (ACP),Lesotho,taxsystem,,Revenue Services Lesotho,,2024-09-16-lso-newsday-rsl-automatic-compliance-project
+LSO,e-Taxation system,Lesotho,taxsystem,,Revenue Service Lesotho,,2024-05-06-lso-newsday-rsl-implements-e-taxation
 MAR,Simpl,Morocco,taxsystem,web (J2EE),Direction generale des impots,,2024-09-03-mar-aujourdhui-dgi-simpl-e-services
+MAR,"SIMPL (SIMPL-IS, SIMPL-IR, SIMPL-TVA)",Maroc,taxsystem,www.tax.gov.ma,Direction Generale des Impots,,2016-06-09-mar-article19-teleprocedures-fiscales-obligatoires
 MDG,Système d'Administration Fiscale Intégré (SAFI),Madagascar,taxsystem,,Tax administration (DGI),,2025-09-19-safi-mise-en-production-moov-mg
 MLI,E-Impôt,Mali,taxsystem,,Direction Générale des Impôts,,2026-04-24-mali-dgi-trois-options-declaration-e-liasse
 MLI,E-Liasse,Mali,taxsystem,www.dgi.gouv.ml,Direction Générale des Impôts,,2026-04-24-mali-dgi-trois-options-declaration-e-liasse
 MLI,Sigtas,Mali,taxsystem,,Direction générale des impôts,"DGE, CIME, Bamako and regional centres",2025-11-26-mali-dgi-recettes-electroniques
 MLI,E-Impôt,Mali,taxsystem,Sigtas teleservices module,Direction générale des impôts,"DGE, CIME",2025-11-26-mali-dgi-recettes-electroniques
 MLI,SIGTAS,Mali,taxsystem,,DGI,,2024-09-30-mli-afdb-pasg-ami-digitalisation-dgi
+MOZ,e-Declaracao,e-Declaração,taxsystem,,Autoridade Tributaria,,2022-03-22-moz-diarioeconomico-at-lanca-portal-do-contribuinte
+MOZ,Portal do Contribuinte,Portal do Contribuinte,taxsystem,,Autoridade Tributaria,,2022-03-22-moz-diarioeconomico-at-lanca-portal-do-contribuinte
+MOZ,eDeclaração,Mozambique,taxsystem,,Autoridade Tributária de Moçambique,,2026-08-11-moz-pwc-tax-administration-individual
+MOZ,Contribuinte Portal,Mozambique,taxsystem,,Autoridade Tributária de Moçambique,,2026-08-11-moz-pwc-tax-administration-individual
 MRT,Système de télédéclaration et télépaiement (STT),Mauritania,taxsystem,stt.e-tax.impots.gov.mr,Direction Générale des Impôts,,2026-09-16-dgi-mauritanie-teleservices
 MRT,Téléservices,Mauritania,taxsystem,www.tele-services.gov.mr,Direction Générale des Impôts,,2026-09-16-dgi-mauritanie-teleservices
 MUS,VAT Filing Portal,Mauritius,taxsystem,,Mauritius Revenue Authority,,2026-01-01-mra-vat-digital-services-foreign-suppliers
@@ -75,10 +99,21 @@ MUS,Individual e-Filing,Mauritius,taxsystem,,Mauritius Revenue Authority,,2025-0
 MWI,ITAS II,Malawi,taxsystem,in-house,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,Electronic Invoicing System,Malawi,other,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 NAM,Integrated Tax Administration System (ITAS),Namibia,taxsystem,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
+NAM,ITAS (Integrated Tax Administration System),Integrated Tax Administration System,taxsystem,,Namibia Revenue Agency,,2026-06-18-nam-economist-itas-deadline-extended
 NER,e-SECeF,NER,other,online certified e-invoicing platform,Direction Generale des Impots,,2024-02-15-ner-lesahel-e-secef-sensibilisation-dgi
+NER,e-SISIC,e-SISIC,taxsystem,,Direction Generale des Impots,,2021-06-14-ner-finances-lancement-e-sisic
 NGA,Case Management System (Office of the Tax Ombud),Nigeria,other,,Office of the Tax Ombud,,2026-05-19-tax-ombud-website-call-centre-case-management
 NGA,Integrated Tax Administration System (ITAS),Nigeria,taxsystem,,,national,2025-10-10 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD
 NGA,Electronic Tax System (e-Tax),Nigeria,taxsystem,,,subnational,2025-10-10 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD
+NGA,TaxPro-Max,TaxPro-Max,taxsystem,,Federal Inland Revenue Service,,2021-06-01-nga-firs-public-notice-taxpro-max
+NGA,TaxPro Max,TaxPro Max,taxsystem,,FIRS,,2025-04-30-nga-etn-firs-banks-close-accounts-taxpro-max
+RWA,E-Tax,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,M-Declaration,Rwanda,taxsystem,mobile,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,Local Government Taxes (LGT) system,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+RWA,Electronic Invoicing System (EIS) / EBM,Rwanda,other,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+SEN,SENTAX,Senegal,taxsystem,online platform sentax.dgid.sn,Direction generale des Impots et des Domaines,Large Enterprises Directorate (DGE) taxpayers,2026-08-27-sen-dgid-communique-sentax
+SEN,SENTAX,Senegal,other,sentax.dgid.sn,Direction générale des Impôts et des Domaines,,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation
+SEN,Etax,Senegal,taxsystem,,Direction générale des impôts et des domaines,,2023-08-28-sen-leral-souscription-obligatoire-etax
 SLE,Integrated Tax Administration System (ITAS),Sierra Leone,taxsystem,,National Revenue Authority,,2025-12-01-nra-moves-to-digital-tax-and-mobile-payments-to-modernise-collection
 SLE,ITAS,Integrated Tax Administration System,taxsystem,,National Revenue Authority,national,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
 SOM,Integrated Tax Administration System (ITAS),Somalia,taxsystem,,Federal Government of Somalia,,2025-11-26-somalia-serp-isr-taxpayer-registration
@@ -93,6 +128,11 @@ SSD,National e-Tax System,South Sudan,taxsystem,,South Sudan Revenue Authority,,
 SSD,e-Tax,e-Tax,taxsystem,CapitalPay,South Sudan Revenue Authority,,2026-10-15-ssd-ssra-zambian-delegation-digital-tax
 SSD,e-tax system,South Sudan,taxsystem,,South Sudan Revenue Authority,,2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily
 SSD,E-Tax,E-Tax,taxsystem,,South Sudan Revenue Authority,national,2025-09-26-ssra-pushes-digital-reforms-transparency-efficiency
+STP,SIT-IVA,São Tomé and Príncipe,taxsystem,,Direcção dos Impostos,,2022-04-11-stp-di-mais-uma-fase-sit-iva
+SWZ,TaxEase,Eswatini,taxsystem,digital platform,Eswatini Revenue Service,,2024-09-19-swz-edn-ers-tax-filing-season-taxease
+SWZ,eTax,Eswatini,taxsystem,,Eswatini Revenue Service,legacy,2024-09-19-swz-edn-ers-tax-filing-season-taxease
+SWZ,Tax Ease,Eswatini,taxsystem,Oracle,Eswatini Revenue Service,,2024-02-29-swz-epn-ers-launches-tax-ease-portal
+SYC,e-service / e-gov platform,Seychelles,taxsystem,,SRC,,2024-03-04-syc-src-dedicated-return-forms-payment-slip
 TCD,e-Tax,Chad,taxsystem,,Direction Generale des Impots,,2026-02-01-chad-direct-and-indirect-tax-changes-in-finance-law-2026
 TCD,E-TAX,Chad,taxsystem,,Ministry of Finance / DGI,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux
 TCD,SIGFIP,Chad,other,,Ministry of Finance,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux
@@ -100,14 +140,22 @@ TCD,Facturation electronique normalisee (FEN),Chad,other,,DGI,,2026-05-05-mandou
 TCD,eTAX,Chad,taxsystem,sigi.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement
 TCD,Facturation Electronique Normalisee (FEN),Chad,other,fen.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement
 TCD,IGL Mobile,Chad,other,igl.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement
+TCD,E-Tax,Chad,taxsystem,E-Tax,Direction generale des impots,,2025-08-29-tcd-tchadinfos-campagne-e-tax
+TCD,Facturation electronique normalisee (FEN),Chad,other,,Direction generale des impots,,2025-08-29-tcd-tchadinfos-campagne-e-tax
+TCD,E-Tax,Chad,taxsystem,online portal,Direction generale des Impots,,2024-03-20-tcd-tchadinfos-e-tax-experts-comptables
 TGO,OTR teledeclaration and telepaiement,Togo,taxsystem,,Office Togolais des Recettes (OTR),"DGE, DME, DCIG/DOFAN/DOFR",2026-02-20-togo-otr-statistiques-teledeclaration-telepaiement-2020-2025
 TGO,Hospi-connect and Hospi-gestion,Togo,other,,Commune Golfe 3,municipal,2024-03-29-tgo-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-lappu
 TGO,e-TPU,Togo,taxsystem,,Office Togolais des Recettes (OTR),micro-enterprises and small industry (TPU),2026-09-17-tgo-togopresse-otr-etpu-platform-launch
+TUN,système de la télé-déclaration et du télé-paiement,Tunisia,taxsystem,,Direction Générale des Impôts,,2023-08-01-tun-jibaya-guide-adhesion-teledeclaration
 TZA,IDRAS,Tanzania,taxsystem,,Tanzania Revenue Authority,,2025-03-16-tza-dailynews-idras-driver-licence-digital
 TZA,CMVRS,Tanzania,other,,Tanzania Revenue Authority,,2025-03-16-tza-dailynews-idras-driver-licence-digital
 TZA,CDLS,Tanzania,other,,Tanzania Revenue Authority,,2025-03-16-tza-dailynews-idras-driver-licence-digital
+TZA,Integrated Domestic Revenue Administration System (IDRAS),Tanzania,taxsystem,,Tanzania Revenue Authority,,2026-01-25-tza-dailynews-idras-compliance
 UGA,e-tax2,Uganda,taxsystem,,Uganda Revenue Authority,,2026-07-29-uganda-ura-electronic-tax-software-e-tax2-procurement-scandal
 UGA,e-TAX,Uganda,taxsystem,URA web portal,Uganda Revenue Authority,,2026-03-03-ura-non-tax-revenues
+ZAF,eFiling,South Africa,taxsystem,,SARS,,2026-08-03-itweb-sars-ai-filing-season-2026
+ZMB,TaxOnline,Zambia,taxsystem,TCS tax framework,Zambia Revenue Authority,,2013-07-29-zmb-tcs-taxonline-contract
+ZMB,TaxOnline,Zambia,taxsystem,Tata Consultancy Services system adapted from Uganda's,Zambia Revenue Authority,,2019-04-01-zmb-gdi-case-study-taxonline
 ZWE,E-Taxes,Zimbabwe,taxsystem,,Zimbabwe Revenue Authority,,2025-01-01-zimra-etaxes-online-platform
 ZWE,E-Services,Zimbabwe,taxsystem,,Zimbabwe Revenue Authority,,2025-01-01-zimra-etaxes-online-platform
 ZWE,IECMS,Zimbabwe,other,,Judicial Service Commission,,2026-10-06-paperless-courts-spread-to-midlands-mashonaland-west

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-tza-nao-performance-audit-meteorological-services",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "Tanzania's National Audit Office reports that the Tanzania Meteorological Authority faced challenges in processing data from satellites and global observation centres because these sources lacked adequate localization.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Tanzania Meteorological Authority data processing",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Processing and Forecasting System (DPFS)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "statistical and NWP techniques, SYNERGIE, WRF and HRM models",
+   "owner": "Tanzania Meteorological Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

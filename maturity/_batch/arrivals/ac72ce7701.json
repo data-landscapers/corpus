@@ -1,0 +1,42 @@
+{
+ "slug": "2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ARMP and UNDP trained 1,039 central actors on the new e-GP platform and 460 on its e-Planning module, which is due to be functional for the 2023 budget year, as e-GP progressively replaces the SIGMP.",
+       "as_of": "2022-10",
+       "date_precision": "month",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Madagascar",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARMP",
+       "tiers": ""
+      },
+      {
+       "system": "SIGMP",
+       "country_label": "Madagascar",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

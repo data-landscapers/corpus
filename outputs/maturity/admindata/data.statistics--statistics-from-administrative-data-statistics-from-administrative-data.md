@@ -1,6 +1,6 @@
 # Statistics from administrative data: statistics from administrative data
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -23,10 +23,10 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | 5 Leading | 3 |
 | 4 Operating | 12 |
 | 3 Established | 15 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 16 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -39,9 +39,9 @@ Vital statistics from civil registration were published two years running, the l
 
 ### Eswatini: 5 Leading
 
-Vital statistics from civil registration were published two years running, the latest in 2023.
+Vital statistics from civil registration were published two years running, the latest in 2025.
 
-- The 2022 report is stated to be the seventh in a series of annual CRVS reports produced since 2016, released October 2023, and the foreword says producing the annual report is a continuous process ([source, 2023-10](https://www.afro.who.int/sites/default/files/2023-10/Vital%20Statistics%20Report%202022%20%281%29.pdf)).
+- The Eswatini Observer reports the Central Statistical Office has produced the Annual Vital Statistics Report consistently since 2016, the 2024 edition launched in August 2025 ([source, 2025-08](https://www.eswatiniobserver.com/hiv-leading-killer-among-eswatini-men-diabetes-among-women/)).
 - The 2025 CRVS Annual Report, covering 2025 and giving birth registration completeness of 61% and death registration of 62%, was launched at the 9th Africa CRVS Day event; the article gives no event date, so the publication date is used ([source, 2026-08-25](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/)).
 
 ### Lesotho: 5 Leading
@@ -125,10 +125,10 @@ Vital statistics from civil registration were published in 2026; a report two ye
 
 ### Angola: 3 Established
 
-The Anuario Estatistico Sanitario 2023 was published from administrative records in 2026; no vital statistics report is known.
+The Anuarios Estatisticos do Ensino Superior was published from administrative records in 2026; no vital statistics report is known.
 
+- The Ministry of Higher Education (MESCTI) officially presented statistical yearbooks of higher education for 2021-22, 2022-23 and 2023-24, with figures such as about 8% gross enrolment ([source, 2026-05-04](https://mescti.gov.ao/web/noticias/mescti-apresenta-anuario-estatistico-do-ensino-superior)).
 - The Anuario Estatistico Sanitario 2023, compiled by the health ministry's planning and statistics office from the Sistema de Informacao Sanitaria records, was released through INE on 6 April 2026, covering 2023 ([source, 2026-04-06](https://ine.gov.ao/publicacoes/detalhes/NTM0NjQ%3D)).
-- The Ministry of Higher Education's planning and statistics office published the 7th edition of the Anuario Estatistico do Ensino Superior in December 2023, covering academic year 2020-21 (graduates of 2019), compiled from seven administrative primary registers supplied by higher-education institutions ([source, 2023-12](https://c2a.portais.gov.ao/uploads/Publicacao_638494608243198556_f5b5215e8a.pdf)).
 
 ### Burundi: 3 Established
 
@@ -145,8 +145,9 @@ A statistical product was published from administrative records in 2026; no vita
 
 ### Central African Republic: 3 Established
 
-A statistical product was published from administrative records in 2024; no vital statistics report is known.
+The Annuaire statistique de l'education, ICASEES was published from administrative records in 2026; no vital statistics report is known.
 
+- ICASEES lists education statistical yearbooks for 2015-16 through 2024-25 as downloadable files, most dated 5 August 2026 ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
 - ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools ([source, 2024-11-15](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022)).
 
 ### Chad: 3 Established
@@ -237,6 +238,12 @@ Work to draw statistics from administrative records was under way in 2025; nothi
 Work to draw statistics from administrative records was under way in 2026; nothing published since 2023 is known.
 
 - On 18 May 2026 the Ministry of Justice (MJCR) and the National Statistics Institute (INE) signed an MoU linking the electronic civil registration and vital statistics system to INE's statistical systems to share birth, death, marriage and other event data ([source, 2026-05-18](https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/)).
+
+### Nigeria: 2 Nascent
+
+Work to draw statistics from administrative records was under way in 2025; nothing published since 2023 is known.
+
+- The NPC chairman said NPC is training data officers in advanced analytics to support the publication of vital statistics ([source, 2025-09-16](http://www.nationalpopulation.gov.ng/news/npc-chairman-joins-stakeholders-to-celebrate-the-7th-national-day-of-identity-in-abuja)).
 
 ### Senegal: 2 Nascent
 
@@ -335,12 +342,6 @@ Nothing held says whether the country draws statistics from administrative recor
 Not established: Nothing held names statistics drawn from administrative records, or says there are none.
 
 ### Niger: No evidence
-
-Nothing held says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing held names statistics drawn from administrative records, or says there are none.
-
-### Nigeria: No evidence
 
 Nothing held says whether the country draws statistics from administrative records, so no stage is set.
 

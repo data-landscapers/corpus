@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-18-uga-monitor-govt-fully-automate-procurement",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PPDA Executive Director Benson Turamye says Uganda already has an Electronic Government Procurement system, run end to end by 36 of more than 400 procurement entities.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (EGP)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Turamye says the 36 entities running EGP have done more than 38,000 contracts on it, with a target of 113 entities by June 2026.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (EGP)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Government Procurement (EGP)",
+   "country_label": "Uganda",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

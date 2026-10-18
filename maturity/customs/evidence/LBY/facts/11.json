@@ -1,0 +1,26 @@
+{
+ "slug": "2022-09-01-lby-imf-asycuda-world-review-lca",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "An IMF METAC review says an ASYCUDA World 4.3.3 prototype is piloted only at the Port of Tripoli, used inconsistently for IM4 import declarations (four registered in May 2022, twelve in April) and not the primary declaration system.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "Libya",
+   "class": "customs",
+   "platform": "ASYCUDA World 4.3.3",
+   "owner": "Libyan Customs Administration",
+   "tiers": "Port of Tripoli pilot"
+  }
+ ],
+ "note": ""
+}

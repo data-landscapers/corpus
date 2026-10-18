@@ -1,0 +1,15 @@
+{
+ "slug": "2023-07-24-dji-jo-decret-2023-216-port-community-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Djibouti Port Community System (DPCS)",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "DPCS SAS",
+   "tiers": ""
+  }
+ ],
+ "note": "Decree establishes a port community platform and requires later integration of customs; it does not say customs declarations are processed in service or that a customs single window is live."
+}

@@ -1,55 +1,55 @@
 iso3,stage,stream,warnings,certified,stage_sources
-AGO,no evidence,,,,
+AGO,unplaced,,,,
 BDI,2,underway,,,BDI-001
-BEN,no evidence,,,,
+BEN,2,underway,,,BEN-001
 BFA,4,inservice,issued,,BFA-003
 BWA,no evidence,,,,
 CAF,2,underway,,,CAF-001
 CIV,no evidence,,,,
 CMR,2,underway,,,CMR-001
-COD,no evidence,,,,
-COG,no evidence,,,,
-COM,no evidence,,,,
-CPV,no evidence,,,,
-DJI,no evidence,,,,
-DZA,no evidence,,,,
-EGY,no evidence,,,,
+COD,3,inservice,,,COD-002;COD-001
+COG,unplaced,,,,
+COM,unplaced,,,,
+CPV,unplaced,,,,
+DJI,3,inservice,,,DJI-001
+DZA,unplaced,,,,
+EGY,unplaced,,,,
 ERI,no evidence,,,,
 ETH,4,inservice,issued,,ETH-002
-GAB,no evidence,,,,
-GHA,no evidence,,,,
-GIN,no evidence,,,,
+GAB,unplaced,,,,
+GHA,unplaced,,,,
+GIN,unplaced,,,,
 GMB,2,underway,,,GMB-001
-GNB,no evidence,,,,
+GNB,3,inservice,,,GNB-001
 GNQ,no evidence,,,,
 KEN,2,underway,,,KEN-001
 LBR,2,underway,,,LBR-001
 LBY,4,inservice,issued,,LBY-002
 LSO,3,inservice,,,LSO-001
-MAR,no evidence,,,,
-MDG,no evidence,,,,
-MLI,no evidence,,,,
-MOZ,no evidence,,,,
+MAR,3,inservice,,,MAR-001
+MDG,unplaced,,,,
+MLI,3,inservice,,,MLI-001
+MOZ,4,inservice,issued,,MOZ-004
 MRT,2,underway,,,MRT-001
-MUS,no evidence,,,,
+MUS,unplaced,,,,
 MWI,2,underway,,,MWI-001
-NAM,no evidence,,,,
+NAM,unplaced,,,,
 NER,2,underway,,,NER-001
 NGA,2,underway,,,NGA-001
-RWA,no evidence,,,,
+RWA,3,inservice,,,RWA-001;RWA-002
 SDN,no evidence,,,,
 SEN,4,inservice,issued,,SEN-002
 SLE,no evidence,,,,
-SOM,no evidence,,,,
+SOM,3,inservice,,,SOM-001
 SSD,3,inservice,,,SSD-001
 STP,no evidence,,,,
 SWZ,no evidence,,,,
-SYC,no evidence,,,,
-TCD,no evidence,,,,
+SYC,5,inservice,issued,certified,SYC-002
+TCD,3,inservice,,,TCD-001
 TGO,no evidence,,,,
 TUN,4,inservice,issued,,TUN-003
-TZA,no evidence,,,,
-UGA,no evidence,,,,
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
-ZWE,no evidence,,,,
+TZA,5,inservice,issued,certified,TZA-003
+UGA,unplaced,,,,
+ZAF,3,inservice,,,ZAF-001
+ZMB,3,inservice,,,ZMB-001
+ZWE,3,inservice,,,ZWE-001

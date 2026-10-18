@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-03-moz-me-lanca-projecto-e-gp",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Ministry of Economy page of 3 April 2025 says the government launched the e-GP electronic public procurement project, to be delivered in phases.",
+       "as_of": "2025-04-03",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Mozambique",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "It names the Information Society Policy only in passing; nothing on its standing, text, plan or reporting."
+    }
+   }
+  }
+ }
+}

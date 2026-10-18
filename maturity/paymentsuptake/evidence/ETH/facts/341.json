@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-21-eth-ijrsi-determinants-financial-inclusion-findex-2025",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The paper, citing Global Findex data, says account ownership among Ethiopian adults rose from 22% in 2014 and 35% in 2017 to 49% in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Global Findex",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

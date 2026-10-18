@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-14-zaf-pmg-nw7076-population-register-measures",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Home Affairs says it is reviewing an MOU with the Department of Health to let the National Department of Health use DHA's Verification Service for identity, birth and death data.",
+   "as_of": "2025-12-14",
+   "date_precision": "day",
+   "system": "DHA Verification Service",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

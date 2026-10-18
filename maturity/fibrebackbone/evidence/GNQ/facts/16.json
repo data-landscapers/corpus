@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-gnq-meta-tax-starlink-ortel-centralisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "satellite",
+   "owner": "ORTEL sells",
+   "tiers": ""
+  }
+ ],
+ "note": "Starlink sales and Meta tax; no fibre backbone stated."
+}

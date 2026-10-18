@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-07-ben-akademiya2063-derpin-plateformes",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "AKADEMIYA2063, with the national agricultural research institute INRAB and farmer platform PNOPPA, developed the AAgWa platform of satellite-based crop statistics and yield forecasts for Benin, launched at a virtual event on 7 October 2025.",
+       "as_of": "2025-10-07",
+       "date_precision": "day",
+       "system": "Africa Agriculture Watch (AAgWa)",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Africa Agriculture Watch (AAgWa)",
+       "country_label": "Benin",
+       "class": "agrisat",
+       "platform": "interactive web platform",
+       "owner": "AKADEMIYA2063 for GIZ",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

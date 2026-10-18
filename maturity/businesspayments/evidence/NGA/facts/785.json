@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-27-nga-punch-e-submission-of-bids-mandate",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "BPP Director-General Adedokun said on 26 February 2026 that from 2 March 2026 the BPP moves fully to e-submission, MDAs are directed to create online submission platforms and must ask contractors to submit bids electronically.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "BPP e-submission",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

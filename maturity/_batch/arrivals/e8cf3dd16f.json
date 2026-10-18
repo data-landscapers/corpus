@@ -1,0 +1,135 @@
+{
+ "slug": "2026-03-13-mar-adala-arrete-503-26-site-listes-electorales",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The decree states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "checked",
+       "value": "open",
+       "fact": "Order 503-26 of the Ministry of the Interior says registered voters can view their own entries on the electoral lists through the website www.listeselectorales.ma, using their electronic national ID card number with surname or birth date.",
+       "as_of": "2026-03-13",
+       "date_precision": "day",
+       "system": "www.listeselectorales.ma",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "www.listeselectorales.ma",
+       "country_label": "Morocco",
+       "class": "electoral",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Order 503-26 of the Ministry of the Interior puts the website www.listeselectorales.ma in service for citizens, at home or abroad, to submit voter registration and registration transfer requests online.",
+       "as_of": "2026-03-13",
+       "date_precision": "day",
+       "system": "www.listeselectorales.ma",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "www.listeselectorales.ma",
+       "country_label": "Morocco",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

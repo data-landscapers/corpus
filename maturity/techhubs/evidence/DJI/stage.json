@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source held since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "2",
+      "hubs": "underway",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001;DJI-002",
+      "gaps": "No source held since October 2023 says: does a hub run programmes for startups.",
+      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

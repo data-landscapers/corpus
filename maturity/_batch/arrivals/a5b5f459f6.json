@@ -1,0 +1,128 @@
+{
+ "slug": "2025-04-01-ben-fid-ia-bien-public-recommandations",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "Forum on Information and Democracy and ALCRER state that Benin has no specific, sufficiently binding AI regulation or liability regime for AI uses, and no specific AI regulatory authority.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Recommendations only; no government AI use stated."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Forum on Information and Democracy and ALCRER state that outside the national AI and big-data strategy 2023-2027, Benin has no specific and sufficiently binding regulation on developing, deploying or using AI systems.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI system stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The brochure refers to Benin's national AI and big-data strategy 2023-2027 as the existing national framework to which the April 2024 workshop adapted the recommendations.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "National AI and big-data strategy 2023-2027",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National AI and big-data strategy 2023-2027",
+       "country_label": "Benin",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing facility stated; research access only recommended."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only recommends transparency of the electoral roll; no register status stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaint portals only recommended, none stated in service."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop of 17 April 2024 discussed a report's recommendations, not a named Benin digital law or policy put to outside parties."
+    }
+   }
+  }
+ }
+}

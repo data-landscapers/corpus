@@ -1,0 +1,26 @@
+{
+ "slug": "2022-09-26-lby-aladel-real-estate-e-archiving-tripoli-complete",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of Justice reports the real-estate e-archiving project completed for the north and south Tripoli administrations, with registry files fully scanned and stored encrypted on a cloud of data servers.",
+   "as_of": "2022-09-26",
+   "date_precision": "day",
+   "system": "Real estate e-archiving project",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Real estate e-archiving project",
+   "country_label": "Libya",
+   "class": "land",
+   "platform": "cloud data servers",
+   "owner": "Real Estate Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

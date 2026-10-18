@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-26-civ-emploi-mtn-inclusion-numerique-handicap",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "On 26 June 2025 the Ministry of Employment and Social Protection formally received, under a 13 May 2025 convention with the MTN Foundation, a job-matching website for job-seekers with disabilities, multimedia rooms at the Ivorian School for the Deaf and Felix Houphouet-Boigny University, and a YouTube channel for ECIS pupils.",
+   "as_of": "2025-06-26",
+   "date_precision": "day",
+   "system": "Plateforme de mise en relation pour les demandeurs d'emploi en situation de handicap",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme de mise en relation pour les demandeurs d'emploi en situation de handicap",
+   "country_label": "Cote d'Ivoire",
+   "class": "accessibility",
+   "platform": "website",
+   "owner": "Ministere de l'Emploi et de la Protection Sociale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-10-05-zaf-sars-customs-single-window-solution",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "SARS says its Single Window electronic inspection workflow, sharing inspection cases with the Border Management Authority, was implemented in September 2023 but is still in restricted testing with selected importers, and the full National Single Window is 'still some time away'.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "Single Window OGA Inspection Workflow",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "SARS says it has an automated inspection and case management workflow that the Single Window extends to other government agencies.",
+   "as_of": "2023-10-05",
+   "date_precision": "day",
+   "system": "SARS automated inspection and case management workflow",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Window Portal",
+   "country_label": "South Africa",
+   "class": "customs",
+   "platform": "",
+   "owner": "SARS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

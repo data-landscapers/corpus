@@ -1,0 +1,7 @@
+{"slug": "2024-11-06-gnb-odemocrata-digitalizacao-livros-registo-nascimento", "studies": {
+"birthidlink": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Document describes scanning of old birth registers only; no link between civil register and ID stated."}}},
+"civilregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Back-capture scanning of existing birth books (over 3,000 of 10,000-11,000), not a digital registration system for new events."}}},
+"idfrombirth": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"populationregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "A national civil registration database is an aim of the project; no population register stated as built or in service."}}},
+"registry": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Archive scanning only; no digital entry at registration offices stated."}}}
+}}

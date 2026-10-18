@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
+TGO,TMoney,Togo,other,mobile money,Togocom,,2024-03-26-tgo-afrobarometer-ad790-mobile-money
+TGO,Flooz,Togo,other,mobile money,Moov,,2024-03-26-tgo-afrobarometer-ad790-mobile-money

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-eri-himbol-customers-partners-guide-m-nakfa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Himbol's guide says its M-Nakfa mobile money service is active, with cash-in/cash-out, person-to-person, merchant and utility payments, under Bank of Eritrea licensing and supervision.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "M-Nakfa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Nakfa",
+   "country_label": "Eritrea",
+   "class": "retail",
+   "platform": "mobile wallet, e-float backed by cash deposits",
+   "owner": "Himbol Community Financial Services",
+   "tiers": "individual, merchant and agent accounts"
+  }
+ ],
+ "note": ""
+}

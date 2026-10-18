@@ -1,0 +1,26 @@
+{
+ "slug": "2020-02-05-zmb-zra-taxonline-enhanced-features",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Zambia Revenue Authority says its upgraded TaxOnline system, rolled out on 5 January 2020, now auto-approves all TPIN registrations.",
+   "as_of": "2020-01-05",
+   "date_precision": "day",
+   "system": "TaxOnline",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaxOnline",
+   "country_label": "Zambia",
+   "class": "tax",
+   "platform": "",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

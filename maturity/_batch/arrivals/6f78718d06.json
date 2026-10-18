@@ -1,0 +1,148 @@
+{
+ "slug": "2026-02-23-syc-undp-sdglocalaction-victoria-ai-services",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "UNDP says AI virtual agents are being deployed by public agencies in Victoria, Seychelles, across web, SMS and voice channels to give policy information.",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "AI virtual agents",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI virtual agents",
+       "country_label": "Seychelles",
+       "class": "govai",
+       "platform": "web, SMS, voice",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "UNDP says a EUR 400,000 AI-driven customs and logistics upgrade has been implemented through the Port Victoria Management Information System, with real-time analysis of port, logistics and customs data.",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "Port Victoria Management Information System",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no AI model, dataset or computing built or hosted in the country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no digital-skills training for civil servants."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "UNDP says an AI-driven customs and logistics upgrade has been implemented through the Port Victoria Management Information System to streamline vessel clearance, without describing declaration processing.",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "Port Victoria Management Information System",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Port Victoria Management Information System",
+       "country_label": "Seychelles",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, label or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "UNDP says the Seychelles Innovation Hub, established in 2018, supports startups and pilot projects, with no programme or cohort described.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Seychelles Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

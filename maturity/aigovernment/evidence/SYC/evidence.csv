@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,govai,use,underway,"UNDP says AI virtual agents are being deployed by public agencies in Victoria, Seychelles, across web, SMS and voice channels to give policy information.",2026-02-23,day,AI virtual agents,govai,2026-02-23-syc-undp-sdglocalaction-victoria-ai-services,https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/

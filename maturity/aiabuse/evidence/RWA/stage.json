@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "no evidence",
-   "rule": "",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether anything addresses harms from AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "no evidence",
+      "rule": "",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says whether anything addresses harms from AI.",
+      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,14 @@
+{"slug": "2024-01-01-mar-mtnra-connectivite-service-universel-pnhd", "studies": {
+"broadbandstrategy": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The ministry states that implementation of the national broadband plan (PNHD) continues, with PNHD-2 launched for the uncovered areas over two years from 2024.", "as_of": "2024-03", "date_precision": "month", "system": "Plan national du haut débit (PNHD)", "class": "plan"},
+{"sub_indicator": "plan", "aspect": "delivery", "value": "reported", "fact": "The ministry reports that at end March 2024 PNHD1 had covered 10,620 of the 10,740 localities targeted for 2023 with 4G, 98.88 per cent.", "as_of": "2024-03", "date_precision": "month", "system": "Plan national du haut débit (PNHD)", "class": "plan"}
+], "systems": [{"system": "Plan national du haut débit (PNHD)", "country_label": "Maroc", "class": "plan", "platform": "", "owner": "Ministère de la Transition Numérique et de la Réforme de l'Administration", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The ministry states that the universal service programme PNHD1 had covered 10,620 localities with 4G by end March 2024, and that over 2,500 VSAT access points had been subsidised by end 2022.", "as_of": "2024-03", "date_precision": "month", "system": "Plan national du haut débit (PNHD1) / Service universel des télécommunications", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The universal service fund is named as funding the VSAT subsidy but no budget amount or statement on domestic financing is given."}}},
+"exchangepoints": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A national IXP is only said to be launching implementation; no networks are stated exchanging traffic."}}},
+"satellitebroadband": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The ministry states that under the VSAT initiative citizens and firms in areas without terrestrial coverage can take a satellite internet subscription subsidised 50 per cent by the universal service fund up to 2,500 DH, with over 2,500 access points subsidised by end 2022.", "as_of": "2022-12", "date_precision": "month", "system": "VSAT initiative", "class": "satellite"}
+], "systems": [], "note": ""}}}
+}}

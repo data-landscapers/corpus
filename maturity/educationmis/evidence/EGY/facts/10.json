@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-egy-emis-moete-statistical-yearbook-2024-2025",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ministry says its central database holding all elements of the education process is the source of the 2024/25 annual statistical yearbook.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Central database, Ministry of Education and Technical Education",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

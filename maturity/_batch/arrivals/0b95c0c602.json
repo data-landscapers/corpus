@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-06-cod-adn-snia-draft-technique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "The draft national AI strategy's diagnosis says DRC positive law has no regime specific to algorithmic responsibility, automated decisions, transparency, risk assessment or bias correction, and its 2025 baseline for an AI framework law is 'Aucun texte spécifique'.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Ordonnance-loi n°23/010 Code du numérique",
+       "class": "other"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

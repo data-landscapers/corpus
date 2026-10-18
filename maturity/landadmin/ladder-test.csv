@@ -1,20 +1,20 @@
 iso3,stage,system,joined,tax,stage_sources
 AGO,no evidence,,,,
-BDI,no evidence,,,,
+BDI,3,inservice,,,BDI-001
 BEN,3,inservice,,,BEN-002;BEN-003
-BFA,no evidence,,,,
+BFA,unplaced,,,,
 BWA,2,underway,,,BWA-001;BWA-002
 CAF,no evidence,,,,
-CIV,no evidence,,,,
-CMR,no evidence,,,,
+CIV,3,inservice,,,CIV-001
+CMR,2,underway,,,CMR-001
 COD,2,underway,,,COD-001
-COG,no evidence,,,,
+COG,unplaced,,,,
 COM,no evidence,,,,
-CPV,no evidence,,,,
+CPV,unplaced,,,,
 DJI,no evidence,,,,
-DZA,no evidence,,,,
-EGY,no evidence,,,,
-ERI,no evidence,,,,
+DZA,3,inservice,,,DZA-001
+EGY,3,inservice,,,EGY-001
+ERI,unplaced,,,,
 ETH,5,inservice,joined,linked,ETH-003
 GAB,no evidence,,,,
 GHA,5,inservice,joined,linked,GHA-002
@@ -24,32 +24,32 @@ GNB,no evidence,,,,
 GNQ,no evidence,,,,
 KEN,5,inservice,joined,linked,KEN-003;KEN-007
 LBR,2,underway,,,LBR-001
-LBY,no evidence,,,,
-LSO,no evidence,,,,
-MAR,no evidence,,,,
-MDG,no evidence,,,,
-MLI,no evidence,,,,
-MOZ,no evidence,,,,
-MRT,no evidence,,,,
-MUS,no evidence,,,,
+LBY,2,underway,,,LBY-001
+LSO,unplaced,,,,
+MAR,unplaced,,,,
+MDG,2,underway,,,MDG-001;MDG-002
+MLI,unplaced,,,,
+MOZ,unplaced,,,,
+MRT,3,inservice,,,MRT-001
+MUS,unplaced,,,,
 MWI,3,inservice,,,MWI-001
-NAM,no evidence,,,,
-NER,no evidence,,,,
+NAM,4,inservice,joined,,NAM-002
+NER,2,underway,,,NER-002;NER-001
 NGA,5,inservice,joined,linked,NGA-003
 RWA,5,inservice,joined,linked,RWA-002
 SDN,no evidence,,,,
 SEN,2,underway,,,SEN-001
 SLE,2,underway,,,SLE-001
 SOM,no evidence,,,,
-SSD,no evidence,,,,
-STP,no evidence,,,,
+SSD,unplaced,,,,
+STP,unplaced,,,,
 SWZ,3,inservice,,,SWZ-001
-SYC,no evidence,,,,
-TCD,no evidence,,,,
-TGO,no evidence,,,,
-TUN,no evidence,,,,
+SYC,2,underway,,,SYC-001
+TCD,2,underway,,,TCD-001
+TGO,3,inservice,,,TGO-002
+TUN,3,inservice,,,TUN-001
 TZA,2,underway,,,TZA-001
 UGA,2,underway,,,UGA-002
-ZAF,no evidence,,,,
-ZMB,no evidence,,,,
-ZWE,no evidence,,,,
+ZAF,2,underway,,,ZAF-001
+ZMB,unplaced,,,,
+ZWE,3,inservice,,,ZWE-001

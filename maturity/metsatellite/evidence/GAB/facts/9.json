@@ -1,0 +1,15 @@
+{
+ "slug": "2021-07-29-gab-afdb-sawidra-rars-satellite-stations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RARS station (SAWIDRA)",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "African Development Bank programme with EUMETSAT",
+   "tiers": ""
+  }
+ ],
+ "note": "A regional RARS station in Gabon is named; the document does not say the national meteorological service receives or uses its data."
+}

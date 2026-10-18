@@ -1,0 +1,36 @@
+{
+ "slug": "2023-07-24-mus-lexpress-e-judiciary-dix-ans-apres",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "L'Express reported in July 2023 that the Judiciary's existing Case Management System was maintained by State Informatics to July 2021 and that some courts, notably the Family Division, have been computerised since 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Case Management System",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "L'Express reported in July 2023 that the e-judiciary project, with e-filing and case management, was 40% implemented that year and phase 2 was not complete.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "e-Judiciary System",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Judiciary System",
+   "country_label": "Maurice",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judiciary of Mauritius",
+   "tiers": "Supreme Court, Family Division"
+  }
+ ],
+ "note": ""
+}

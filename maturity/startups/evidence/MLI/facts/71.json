@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-27-mli-mcenma-semaine-numerique-cloture-startup-act",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "At the closing of the 2nd Semaine du Numerique on 27 June 2024, Minister Alhamdou Ag Ilyene mentioned the imminent adoption of the Startup Act (Loi sur les Startups) and an upcoming monitoring framework for young startups.",
+   "as_of": "2024-06-27",
+   "date_precision": "day",
+   "system": "Startup Act (Loi sur les Startups)",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

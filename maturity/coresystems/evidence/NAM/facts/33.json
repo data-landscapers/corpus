@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-18-nam-economist-itas-deadline-extended",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "NamRA says its Integrated Tax Administration System (ITAS) is in use for taxpayers' returns, with key functions restored but intermittent slowness remaining, and it extended the filing deadline from 30 June to 31 August 2026.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS (Integrated Tax Administration System)",
+   "country_label": "Integrated Tax Administration System",
+   "class": "core",
+   "platform": "",
+   "owner": "Namibia Revenue Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

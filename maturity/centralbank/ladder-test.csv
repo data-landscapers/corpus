@@ -14,7 +14,7 @@ CPV,4,licensing,overseen,,CPV-004;CPV-002
 DJI,5,licensing,overseen,linked,DJI-002;DJI-001
 DZA,3,licensing,,,DZA-001;DZA-002
 EGY,5,licensing,overseen,linked,EGY-003;EGY-004
-ERI,no evidence,,,,
+ERI,3,licensing,,,ERI-001
 ETH,5,licensing,overseen,linked,ETH-003;ETH-004
 GAB,5,licensing,overseen,linked,GAB-001;GAB-003
 GHA,5,licensing,overseen,linked,GHA-002;GHA-003
@@ -41,8 +41,8 @@ SDN,3,licensing,,,SDN-002;SDN-001
 SEN,5,licensing,overseen,linked,SEN-001;SEN-004
 SLE,5,licensing,overseen,linked,SLE-002
 SOM,4,licensing,overseen,,SOM-006;SOM-007
-SSD,no evidence,,,,
-STP,no evidence,,,,
+SSD,3,licensing,,,SSD-002;SSD-003
+STP,3,licensing,,,STP-001
 SWZ,4,licensing,overseen,,SWZ-002;SWZ-003
 SYC,3,licensing,,,SYC-001;SYC-002
 TCD,5,licensing,overseen,linked,TCD-007;TCD-001
@@ -51,5 +51,5 @@ TUN,5,licensing,overseen,linked,TUN-007
 TZA,4,licensing,overseen,,TZA-002
 UGA,5,licensing,overseen,linked,UGA-001
 ZAF,4,licensing,overseen,,ZAF-004;ZAF-002
-ZMB,no evidence,,,,
+ZMB,5,licensing,overseen,linked,ZMB-003
 ZWE,2,drafting,,,ZWE-002

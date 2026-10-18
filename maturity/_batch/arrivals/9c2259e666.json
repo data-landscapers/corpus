@@ -1,0 +1,62 @@
+{
+ "slug": "2020-12-22-mdg-douanes-nouvelle-technologie-sydonia-tradenet",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Madagascar Customs says Sydonia++ is its automated customs system, installed centrally, and that TradeNet electronically registers declarations and is operational at 11 offices, near-total coverage of clearance operations.",
+       "as_of": "2020-12-22",
+       "date_precision": "day",
+       "system": "Sydonia++",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Madagascar Customs says paperless clearance, using a Midac web application alongside Sydonia, is under test at the Mamory Ivato office.",
+       "as_of": "2020-12-22",
+       "date_precision": "day",
+       "system": "Sydonia / Midac",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Madagascar Customs says TradeNet interconnects declarants, customs, banks and the ministries and control agencies that issue permits and licences for clearance, reinforcing the existing single window.",
+       "as_of": "2020-12-22",
+       "date_precision": "day",
+       "system": "TradeNet",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sydonia++",
+       "country_label": "Madagascar",
+       "class": "customs",
+       "platform": "UNCTAD ASYCUDA",
+       "owner": "Direction Générale des Douanes",
+       "tiers": ""
+      },
+      {
+       "system": "TradeNet",
+       "country_label": "Madagascar",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

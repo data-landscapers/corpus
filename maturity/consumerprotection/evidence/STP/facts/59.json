@@ -1,0 +1,17 @@
+{
+ "slug": "2015-01-01-stp-bcstp-direito-reclamacao-denuncia",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "BCSTP says financial services clients may appeal unresolved complaints to the central bank under NAP 20/2015, and institutions must keep a complaints book.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "NAP 20/2015 complaints procedure",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

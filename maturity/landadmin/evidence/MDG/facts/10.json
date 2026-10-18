@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-07-mdg-produir-distributeur-automatique-information-foncier",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Distributeur Automatique d'Information (DAI)",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "kiosk at Tana-ville land office",
+   "owner": "MDAT / DGSF, PRODUIR (World Bank)",
+   "tiers": ""
+  }
+ ],
+ "note": "The kiosk issues certificates and plans from dematerialised CSJs and topographic plans; it does not say transfers, registrations or mortgages are processed electronically, nor that a land information system is being built."
+}

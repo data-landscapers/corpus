@@ -1,0 +1,134 @@
+{
+ "slug": "2026-10-17-tun-servicesgov-finances-services-fiscaux",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The national administrative services portal says citizens can pay fines (Ministry of Finance) online or by USSD.",
+       "as_of": "2026-10-17",
+       "date_precision": "day",
+       "system": "Consultation et paiement des amendes",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The portal says a site lets citizens calculate and pay the building tax to the Municipality of Tunis without travelling.",
+       "as_of": "2026-10-17",
+       "date_precision": "day",
+       "system": "Paiement de la taxe sur les bâtiments à la municipalité de Tunis",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Consultation et paiement des amendes",
+       "country_label": "Tunisie",
+       "class": "revenue",
+       "platform": "online and USSD",
+       "owner": "Ministère des Finances",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Tunisia."
+    }
+   }
+  }
+ }
+}

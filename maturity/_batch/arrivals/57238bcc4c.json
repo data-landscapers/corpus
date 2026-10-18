@@ -1,0 +1,34 @@
+{
+ "slug": "2015-10-29-sdn-alnilin-postal-addressing-project-meeting",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "A joint meeting of the communications and welfare ministries, reported by SUNA, heard the stages and obstacles of the postal addressing and postcode project for every citizen and stressed it must continue.",
+       "as_of": "2015-10-29",
+       "date_precision": "day",
+       "system": "Postal addressing and postcode project",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Postal addressing and postcode project",
+       "country_label": "Sudan",
+       "class": "address",
+       "platform": "",
+       "owner": "Ministry of Information and Communications",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

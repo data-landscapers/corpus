@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-07-ago-em-11pct-licenciados-stem",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Outlet's analysis of the yearbook; the yearbook is recorded from the ministry's own release."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives ICT share of graduates (0.55%), not employment in ISIC J or youth unemployment."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about secondary schools."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "graduates",
+       "aspect": "stem",
+       "value": "official:11",
+       "fact": "Economia & Mercado, from the MESCTI Anuario Estatistico, reports about 11% of Angola's 29,302 tertiary graduates in 2022/23 were in science, technology, engineering and mathematics (under 3,200).",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Anuario Estatistico do Ensino Superior (MESCTI)",
+       "class": "stemgraduates"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

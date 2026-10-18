@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-12-ago-angop-angosat2-internet-150-zonas-reconditas",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "ANGOP reports that ANGOSAT-2, a government space programme project, has let operators install more than 150 VSAT terminals in remote localities across 16 of 18 provinces, and that the government's Conecta Angola platform was launched in June 2023 to extend internet to unserved zones.",
+   "as_of": "2023-10-12",
+   "date_precision": "day",
+   "system": "ANGOSAT-2 / Conecta Angola",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Conecta Angola",
+   "country_label": "Angola",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "GGPEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

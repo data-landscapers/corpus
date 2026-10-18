@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
+ETH,Ethiopian e-Services portal,Ethiopia,eservices,web portal,Ministry of Communications and Information Technology,,2020-08-11-eth-addisinsight-molsa-joins-eservices
+ETH,eservices.gov.et,Ethiopia,eservices,web portal,Ministry of Communications and Information Technology,,2018-09-25-eth-ena-transport-authority-18-online-services
+ETH,Unified MESOB Application,Ethiopia,eservices,mobile application,Government of Ethiopia,,2026-01-01-eth-ena-unified-mesob-application

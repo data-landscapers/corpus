@@ -1,0 +1,32 @@
+{
+ "slug": "2026-02-16-dza-elkhabar-carte-sociale-groupe-de-travail",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training centre named only as the venue."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Research bodies sit on a social-card working group; no digital policy research stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A working group was installed to design a social card; no registry procured, piloted or populated."
+    }
+   }
+  }
+ }
+}

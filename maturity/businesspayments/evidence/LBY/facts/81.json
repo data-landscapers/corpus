@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-01-lby-libyaherald-attaat-tendering-platform-operational",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The General Information Authority announced the Tripoli government's Attaat tendering and procurement website is operational, with entities publishing tenders through it.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Attaat",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "GIA statistics for July 2025: 189 government entities published tenders, 626 bids were announced and 840 entities were registered on Attaat.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Attaat",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

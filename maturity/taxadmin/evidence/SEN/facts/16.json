@@ -1,0 +1,46 @@
+{
+ "slug": "2023-08-28-sen-leral-souscription-obligatoire-etax",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The DGID says that from September 2023 all filing obligations of Centre des professions réglementées users are made by tele-declaration on the Etax platform.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The DGID says that from September 2023 all payment obligations of Centre des professions réglementées users are made by tele-payment on Etax.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The DGID says Etax filing and payment become mandatory for Centre des professions réglementées users from September 2023, under ministerial decision no. 02 of 2 August 2023.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etax",
+   "country_label": "Senegal",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction générale des impôts et des domaines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

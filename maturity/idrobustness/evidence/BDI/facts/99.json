@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-18-bdi-burundi-eco-digitalisation-services-publics",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Burundi Eco reports interior ministry officials announced in July 2024 the ID for D project, run under the World Bank-funded PAFEN (USD 92 million), to give each person a unique lifelong ID number.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "ID for D (Identite pour le Developpement)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-07-ken-kra-ksh-2-trillion-nine-months",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Kenya Revenue Authority says taxpayers can file returns through its WhatsApp-based tax filing service, powered by the Shuru AI chatbot.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "WhatsApp tax filing (Shuru)",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Shuru",
+   "country_label": "Kenya",
+   "class": "taxsystem",
+   "platform": "WhatsApp",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

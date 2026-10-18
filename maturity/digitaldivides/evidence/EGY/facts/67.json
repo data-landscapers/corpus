@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-egy-comcec-mcit-decent-life-rural-accessibility",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "MCIT's Decent Life phase one reports 1,180,723 buildings covered by fibre, 1,409 new cell sites built and 576 upgraded, and mobile coverage completed in 901 of 1,164 villages.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Decent Life Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decent Life Project",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

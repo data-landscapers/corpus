@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "4",
-   "training": "inservice",
-   "measured": "measured",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-002",
-   "gaps": "No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "4",
+      "training": "inservice",
+      "measured": "measured",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002",
+      "gaps": "No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.",
+      "note": "First pass: counted from the four questions by study-ladder-digitalskills.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

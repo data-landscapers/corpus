@@ -1,0 +1,17 @@
+{
+ "slug": "2022-03-22-zwe-itweb-e-passport-system-goes-live",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ITWeb Africa reports Zimbabwe's e-passport and booking system went live, letting citizens apply and pay for e-passports online.",
+   "as_of": "2022-03-22",
+   "date_precision": "day",
+   "system": "e-passport and booking system",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

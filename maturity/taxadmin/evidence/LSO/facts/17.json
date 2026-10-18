@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-16-lso-newsday-rsl-automatic-compliance-project",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "LAA's Director General says the Automatic Compliance Project is already in use, with RSL retrieving PAYE files as early as August 2024, and that taxpayers can file returns from home on pre-populated PAYE forms.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Automatic Compliance Project (ACP)",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automatic Compliance Project (ACP)",
+   "country_label": "Lesotho",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

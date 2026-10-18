@@ -1,0 +1,44 @@
+{
+ "slug": "2023-10-21-rwa-fmi-country-hydromet-diagnostics",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The FMI peer review says Rwanda accesses EUMETSAT satellite products through a ground-based satellite receiver, and that Meteo Rwanda's forecasting draws on EUMETSAT satellite imagery alongside a C-band radar.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "EUMETSAT ground-based satellite receiver",
+   "class": "metsat"
+  },
+  {
+   "sub_indicator": "metsat",
+   "aspect": "certified",
+   "value": "certified",
+   "fact": "The FMI peer review says Meteo Rwanda has an ISO9001:2015 certified QMS since 2018, last audited in 2022 and valid until 2025, including all branches of service.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Meteo Rwanda ISO 9001:2015 quality management system",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EUMETSAT ground-based satellite receiver",
+   "country_label": "Rwanda",
+   "class": "metsat",
+   "platform": "EUMETSAT",
+   "owner": "Meteo Rwanda",
+   "tiers": ""
+  },
+  {
+   "system": "PUMA system (ECMWF products)",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "PUMA",
+   "owner": "Meteo Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

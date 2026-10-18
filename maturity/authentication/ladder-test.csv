@@ -1,12 +1,12 @@
 iso3,stage,service,reach,remote,stage_sources
-AGO,3,inservice,,,AGO-003
+AGO,3,inservice,,,AGO-004;AGO-003
 BDI,3,inservice,,,BDI-003;BDI-002
 BEN,4,inservice,several,,BEN-010;BEN-006
 BFA,2,underway,,,BFA-002;BFA-003
 BWA,3,inservice,,,BWA-003
 CAF,no evidence,,,,
 CIV,4,inservice,several,,CIV-005
-CMR,3,inservice,,,CMR-001
+CMR,3,inservice,,,CMR-001;CMR-004
 COD,2,underway,,,COD-011;COD-012
 COG,no evidence,,,,
 COM,unplaced,,,,
@@ -29,7 +29,7 @@ LSO,3,inservice,,,LSO-003
 MAR,5,inservice,several,wallet,MAR-009;MAR-011
 MDG,no evidence,,,,
 MLI,3,inservice,,,MLI-002;MLI-001
-MOZ,2,underway,,,MOZ-001;MOZ-005
+MOZ,4,inservice,several,,MOZ-007
 MRT,5,inservice,several,wallet,MRT-007
 MUS,5,inservice,several,wallet,MUS-006
 MWI,5,inservice,several,wallet,MWI-026;MWI-028

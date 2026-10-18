@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-dji-entreprendre-guide-createur-entreprise",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The entreprendre.dj guide says firms register in the commercial register (RCS) through the ANPI one-stop counter (Guichet Unique), in 72 hours at 23,000 FDJ; it does not say registration is online.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Guichet Unique ANPI / RCS",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet Unique ANPI / Registre du Commerce (RCS)",
+   "country_label": "Djibouti",
+   "class": "business",
+   "platform": "entreprendre.dj portal",
+   "owner": "ODPIC / ANPI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

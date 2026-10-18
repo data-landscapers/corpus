@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-03-gha-nca-idpd-2025-assistive-technology",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Minister of Communication, Digital Technology and Innovations promised to improve accessibility on all government digital platforms by following standards such as WCAG.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "Government digital platforms accessibility commitment",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The NCA said it is designing, with device makers and dealers, a new minimum specification for terminal devices for Ghana by 2026 that requires an accessibility feature before type approval.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "Terminal device minimum specification",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

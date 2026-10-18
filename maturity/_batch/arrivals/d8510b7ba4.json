@@ -1,0 +1,44 @@
+{
+ "slug": "2018-05-08-tza-gpe-prem-electronic-student-registration",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Tanzania's education ministry launched PReM, an electronic registration system for students in public and private primary schools, funded through GPE and Sweden.",
+       "as_of": "2018-05-08",
+       "date_precision": "day",
+       "system": "PReM",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "Under PReM each student is assigned a unique identification number, with information on students and their guardians on record, for public and private primary schools.",
+       "as_of": "2018-05-08",
+       "date_precision": "day",
+       "system": "PReM",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PReM",
+       "country_label": "Tanzania",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Education, Science and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

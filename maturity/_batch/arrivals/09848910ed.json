@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-tgo-otr-actu-18-janvier-juin-2025",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "OTR says individuals can create a NIF particulier online at nif.otr.tg or at tax offices, the platform also searching existing NIFs and issuing a registration sheet.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NIF particulier platform",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "OTR says article 7 of the tax procedures book requires one unique NIF per taxpayer, and the individual NIF is required for customs clearance of personal goods and for property registration.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NIF",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIF particulier platform",
+       "country_label": "nif.otr.tg",
+       "class": "tax",
+       "platform": "nif.otr.tg",
+       "owner": "Office Togolais des Recettes",
+       "tiers": "individuals"
+      }
+     ],
+     "note": "Online registration needs a national ID card or passport, but no check against the national ID register is stated."
+    }
+   }
+  }
+ }
+}

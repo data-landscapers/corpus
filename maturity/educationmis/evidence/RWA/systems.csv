@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,School Data Management System (SDMS),SDMS,emis,web-based,MINEDUC with UNICEF and GPE support,"school, district, ministry",2025-07-02-rwa-unicef-sdms-school-data-management
+RWA,SDMS,School Data Management System,emis,,,,2023-06-21-rwa-gpe-camis-sdms-unique-id
+RWA,CA-MIS,Comprehensive Assessment Management Information System,other,USSD and web,NESA,,2023-06-21-rwa-gpe-camis-sdms-unique-id

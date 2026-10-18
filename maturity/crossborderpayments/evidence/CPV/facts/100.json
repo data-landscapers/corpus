@@ -1,0 +1,36 @@
+{
+ "slug": "2022-01-01-cpv-ifad-remitscope-cabo-verde-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The IFAD RemitSCOPE diagnostic says Western Union and MoneyGram offer online products using debit/credit cards or a bank account for sending to Cabo Verde, with France, Portugal and United States named as main send corridors.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Western Union / MoneyGram online",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The IFAD RemitSCOPE diagnostic reports the average cost of sending to Cabo Verde online from a debit or credit card at 3.34 per cent, against 6.56 per cent through an agent (Q3 2021).",
+   "as_of": "2021-09",
+   "date_precision": "month",
+   "system": "Online remittance channels",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Makeba",
+   "country_label": "Makeba",
+   "class": "other",
+   "platform": "mobile app, QR codes",
+   "owner": "Makeba (US fintech)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

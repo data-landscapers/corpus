@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-06-dji-lanation-forum-ia-strategie-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "La Nation says Djibouti has a privileged position on international digital routes with several submarine cables.",
+   "as_of": "2026-09-06",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

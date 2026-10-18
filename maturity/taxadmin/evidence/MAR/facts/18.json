@@ -1,0 +1,46 @@
+{
+ "slug": "2016-06-09-mar-article19-teleprocedures-fiscales-obligatoires",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Direction Generale des Impots says firms file corporate tax, income tax and VAT returns online through its SIMPL-IS, SIMPL-IR and SIMPL-TVA teleservices, with 15,200 taxpayers already enrolled.",
+   "as_of": "2016-06-09",
+   "date_precision": "day",
+   "system": "SIMPL",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The Direction Generale des Impots says tax payments (telepaiements) for corporate tax, income tax and VAT are made through the SIMPL teleservices.",
+   "as_of": "2016-06-09",
+   "date_precision": "day",
+   "system": "SIMPL",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "uptake",
+   "value": "most",
+   "fact": "The Direction Generale des Impots says electronic filing and payment of corporate tax, income tax and VAT become mandatory for all firms from 1 January 2017, except those on the flat-rate income tax regime.",
+   "as_of": "2017-01-01",
+   "date_precision": "day",
+   "system": "SIMPL",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIMPL (SIMPL-IS, SIMPL-IR, SIMPL-TVA)",
+   "country_label": "Maroc",
+   "class": "taxsystem",
+   "platform": "www.tax.gov.ma",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

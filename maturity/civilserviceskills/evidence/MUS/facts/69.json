@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-aipsi-digital-transformation-organisational-excellence",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Atal Bihari Vajpayee Institute of Public Service and Innovation offers a four-level Digital Transformation for Organisational Excellence Programme, sponsored by the Ministry of Public Service and Administrative Reforms, teaching public officers IT skills, Maupass and Mausign, EDMS and AI, with no number trained stated.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital Transformation for Organisational Excellence Programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation for Organisational Excellence Programme",
+   "country_label": "Mauritius",
+   "class": "csskills",
+   "platform": "classroom courses",
+   "owner": "Atal Bihari Vajpayee Institute of Public Service and Innovation",
+   "tiers": "four levels by grade"
+  }
+ ],
+ "note": ""
+}

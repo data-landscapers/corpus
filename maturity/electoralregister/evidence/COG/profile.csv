@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,electoral,roll,coverage,,,,,nothing held
-COG,electoral,checked,coverage,,,,,nothing held
-COG,electoral,linked,coverage,linked,2025-09-09,COG-001,,
+COG,electoral,roll,coverage,none,2025-09-01,COG-002,,
+COG,electoral,checked,coverage,open,2025-09-01,COG-003,,
+COG,electoral,linked,coverage,,,,,nothing held

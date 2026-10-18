@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-03-zwe-newziana-dlap-title-deed-platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Justice Minister Ziyambi Ziyambi said applicants on the DLAP can pay deed fees electronically under the Gazette's Fourth Schedule or by the manual process in the Second Schedule.",
+   "as_of": "2025-05-30",
+   "date_precision": "day",
+   "system": "Digital Land Administration Platform (DLAP)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2024-10-28-ner-lesahel-ansi-formation-python-140-participants",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Python data-analysis course for 140 IT directors and data officers of 62 public bodies is for IT staff, so other."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this."
+    }
+   }
+  }
+ }
+}

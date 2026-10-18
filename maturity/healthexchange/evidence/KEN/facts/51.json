@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-18-ken-moh-digital-health-reform-cihis-17-counties",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Cabinet Secretary said regulatory bodies like KMPDC have been fully integrated with the health information system, and Afya Yangu enables patient data portability across facilities.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "Comprehensive Integrated Health Information System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

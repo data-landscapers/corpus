@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "metsat",
-   "stage": "no evidence",
-   "stream": "",
-   "warnings": "",
-   "certified": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the national weather service uses satellite data.",
-   "note": "First pass: counted from the four questions by study-ladder-metsatellite.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "metsat",
+      "stage": "5",
+      "stream": "inservice",
+      "warnings": "issued",
+      "certified": "certified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-002",
+      "gaps": "",
+      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

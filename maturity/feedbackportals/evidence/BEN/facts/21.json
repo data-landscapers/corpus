@@ -1,0 +1,26 @@
+{
+ "slug": "2022-12-01-ben-gouvbj-plateforme-plaintes-denonciations",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Government of Benin states its complaints and denunciations platform denonciation.bj and toll-free line 155 are operational, run by a national cell created by decree 2022-040, taking reports of corruption, poor governance and violations by public agents.",
+   "as_of": "2022-12-01",
+   "date_precision": "day",
+   "system": "denonciation.bj / numero vert 155",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "denonciation.bj",
+   "country_label": "Benin",
+   "class": "feedback",
+   "platform": "web, phone",
+   "owner": "Cellule d'Analyse et de Traitements des Plaintes et Denonciations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

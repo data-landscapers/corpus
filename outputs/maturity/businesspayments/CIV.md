@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held names a government e-procurement system, or says there is none.
+***Not held***. Nothing held since October 2023 says whether government e-procurement is under way or in service.

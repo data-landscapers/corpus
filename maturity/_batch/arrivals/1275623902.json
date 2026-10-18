@@ -1,0 +1,15 @@
+{"slug": "2025-02-19-bwa-dailynews-government-to-enable-innovators", "studies": {
+"aiabuse": {"countries": {"BWA": {"facts": [], "systems": [], "note": "An AI policy in development is named, with no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aisystems": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing is stated."}}},
+"digitalstrategy": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Deputy Permanent Secretary Ambrose Makgonatsotlhe of the Ministry of Communications and Innovation said government was developing a digital economy policy, alongside AI and cloud computing policies.", "as_of": "2025-02", "date_precision": "month", "system": "digital economy policy", "class": "national"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "funded", "value": "funded", "fact": "The Botswana Digital and Innovation Hub financed startup IoT Communications through the Botswana Innovation Fund, which the founder put at P1 million.", "as_of": "2025-02", "date_precision": "month", "system": "Botswana Innovation Fund", "class": "startuppolicy"}
+], "systems": [{"system": "Botswana Innovation Fund", "country_label": "Botswana", "class": "startuppolicy", "platform": "", "owner": "Botswana Digital and Innovation Hub", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The Deputy Permanent Secretary thanked the Botswana Digital and Innovation Hub for supporting businesses through its innovation programme, acceleration programme, commercialisation and funding, and its board member described its incubation of IoT Communications.", "as_of": "2025-02", "date_precision": "month", "system": "Botswana Digital and Innovation Hub", "class": "hub"}
+], "systems": [{"system": "Botswana Digital and Innovation Hub", "country_label": "Botswana", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

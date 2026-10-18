@@ -25,3 +25,17 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,TUN-003;TUN-006,Arrivals added TUN-006; TUN-007; stage unchanged.
 2026-10-17,ZAF,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,ZAF-004,Arrivals added ZAF-017; ZAF-018; stage unchanged.
 2026-10-17,ZMB,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,ZMB-004,Arrivals added ZMB-010; stage unchanged.
+2026-10-18,AGO,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,AGO-004;AGO-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BDI,dpi.id--robustness-of-system-robustness-of-system,fact,2,2,BDI-002;BDI-003,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,CPV-001;CPV-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,DZA-012,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,ETH-002;ETH-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBR,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,LBR-008;LBR-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,MAR-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,MDG-008;MDG-015,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,NGA-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,SEN-001;SEN-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TGO,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,TGO-001;TGO-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,TZA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.id--robustness-of-system-robustness-of-system,fact,4,4,ZAF-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,dpi.id--robustness-of-system-robustness-of-system,fact,3,3,ZMB-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.

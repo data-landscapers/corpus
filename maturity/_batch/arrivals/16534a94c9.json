@@ -1,0 +1,16 @@
+{"slug":"2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier","studies":{
+"addressregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on addressing."}}},
+"authentication":{"countries":{"TUN":{"facts":[],"systems":[],"note":"E-contract certification by the national agency is only planned and not launched; no service stated."}}},
+"businessregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on the business register."}}},
+"civilregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on civil registration."}}},
+"ecommercelaw":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No law or rules stated."}}},
+"electoralregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on the voters' roll."}}},
+"landadmin":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No electronic processing of transactions stated; e-signature for transfers is not yet launched."}}},
+"landregister":{"countries":{"TUN":{"facts":[
+{"sub_indicator":"land","aspect":"register","value":"inservice","fact":"Land conservator Wadii Rhouma said the digital land register is already operational.","as_of":"2025-05-23","date_precision":"day","system":"digital land register","class":"land"},
+{"sub_indicator":"land","aspect":"online","value":"online","fact":"Land conservator Wadii Rhouma said the operational digital land register lets users consult land titles remotely.","as_of":"2025-05-23","date_precision":"day","system":"digital land register","class":"land"}
+],"systems":[{"system":"digital land register","country_label":"Tunisia","class":"land","platform":"","owner":"Office de la propriete fonciere","tiers":""}],"note":""}}},
+"populationregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on a population register."}}},
+"socialregistry":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on social protection."}}},
+"taxregister":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Nothing on taxpayer registration."}}}
+}}
