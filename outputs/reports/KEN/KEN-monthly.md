@@ -3,9 +3,9 @@ title: Kenya — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: KEN
-ledger_rows: 139
+ledger_rows: 142
 not_held: 7
-record: d597f4ff86f1
+record: b3644a56e2cd
 ---
 
 # News, Sep – Oct 2026
@@ -1636,6 +1636,14 @@ Kenya's switch from the NEMIS school data system to KEMIS ran into failed logins
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Education data systems switch leaves schools with millions in funding gaps](https://nation.africa/kenya/news/education/education-data-systems-switch-schools-millions-in-funding-gaps-5633286)** — Daily Nation, 16 October 2026
+
+NEMIS undercounts left C1 schools short at KSh 13,814 a learner (FY2024/25); KEMIS replaced it Sept 2025.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1746,6 +1754,20 @@ Kenya's Directorate of Criminal Investigations extended its biometric police cle
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">All Disease Outbreak Module (AdaM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Disabling of Ebola reporting tool cripples alertness](https://www.standardmedia.co.ke/health/health-science/article/2001560114/disabling-of-ebola-reporting-tool-cripples-alertness)** — The Standard, 15 October 2026
+
+AdaM outbreak module switched off mid-Ebola response; unexplained UHAI replacement; KMPDU seeks one channel.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Murang'a county AfyaKE medical records system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1821,6 +1843,22 @@ Kiambu gubernatorial aspirant Bonnie Mwangi called on 2 September 2026 for Parli
 **[2027 elections technology: IEBC ordered to review tender rules](https://nation.africa/kenya/news/2027-elections-technology-iebc-ordered-to-review-tender-rules-5583270)** — Daily Nation, 4 September 2026
 
 Kenya's Public Procurement Administrative Review Board ordered the electoral commission, IEBC, to correct and re-issue its tender for 2027 election technology, reported on 4 September 2026, finding that it did not disclose how technical scores would be awarded. The board told IEBC to seek advice from the procurement regulator and give bidders at least seven days, and rejected a claim that the specifications favoured Miru Systems.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PPARB Application No. 192 of 2026: Leading Edge Limited v Accounting Officer, IEBC & IEBC — Tender No. IEBC/OIT/001A/2026-2027, Integrated Elections Management System (IEMS)](https://ppra.go.ke/?mdocs-file=15510)** — Public Procurement Administrative Review Board (Kenya), 14 October 2026
+
+Request for review dismissed 14 Oct 2026; IEBC directed to proceed with IEMS tender; KES 2m costs against applicant.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEBC cleared to proceed with Sh6.5bn election technology tender](https://nation.africa/kenya/news/iebc-cleared-to-proceed-with-sh6-5bn-election-technology-tender-5633132)** — Daily Nation, 15 October 2026
+
+PPARB upholds 50,000-device and KSh 5bn turnover thresholds, no local-preference margin; KSh 2m costs.
 
 </div>
 
@@ -1921,6 +1959,14 @@ A multi-stakeholder digital programme carrying about US$4.26m in funding and co-
 **[Mwea residents get government services closer home with new Huduma Centre](https://www.kbc.co.ke/mwea-residents-get-government-services-closer-home-with-new-huduma-centre/)** — Kenya Broadcasting Corporation, 18 September 2026
 
 Kenya's Deputy President, Kithure Kindiki, commissioned the Mwea Huduma Centre at Ngurubani on 18 September 2026; it has operated since July. It is Kenya's 61st Huduma Centre and offers identity documents, birth and death certificates and Kenya Revenue Authority services under one roof, with a Jitume ICT hub for youth digital skills.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Huduma Centres face legal test after 12 years without framework](https://nation.africa/kenya/news/huduma-centres-face-legal-test-after-12-years-without-framework-5633076)** — Daily Nation, 15 October 2026
+
+No policy or law behind Huduma Kenya since 2014; Service Delivery Summit last met 2014; draft with the CS.
 
 </div>
 
@@ -2037,6 +2083,20 @@ Kenya's Nakuru County government announced on 22 September 2026 a digital case-m
 **[Revealed: Counties made Sh8.3bn manual payments outside payroll systems](https://nation.africa/kenya/counties/revealed-counties-made-sh8-3bn-manual-payments-outside-payroll-systems-5615212)** — Daily Nation, 1 October 2026
 
 Kenya's Controller of Budget reported that county governments paid at least Sh8.3 billion in salaries through manual payrolls outside the Human Resource Information System in the year to 30 June 2026, despite a directive to migrate by June 2025. Nakuru County paid Sh1.86 billion, 21.8% of its personnel costs, manually; Wajir, Nairobi, Siaya and Mandera also had high shares.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mombasa county camera-based instant traffic fines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mombasa tuk-tuk fines: Who is watching the watchers?](https://nation.africa/kenya/counties/mombasa/mombasa-tuk-tuk-fines-who-is-watching-the-watchers--5634070)** — Daily Nation, 16 October 2026
+
+Unmarked marshals, cameras, KSh 5,000 fines; petitioners seek laws, gazette notices and DPIAs; hearing 9 Nov.
 
 </div>
 
@@ -2253,6 +2313,20 @@ A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI 
 **[Kenya and Cisco deepen partnership on AI skills, cybersecurity and digital transformation](https://techreviewafrica.com/news/7473/kenya-and-cisco-deepen-partnership-on-ai-skills-cybersecurity-and-digital-transformation)** — Tech Review Africa, 28 September 2026
 
 Kenya's President and technology envoy discussed with Cisco the Moran AI Centre of Excellence, being developed with the defence forces as a regional hub for AI and cybersecurity, alongside AI skills for young people.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Assembly inquiry into AI in education, health and the public sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI in classrooms and hospitals: MPs launch probe, seek new rules](https://nation.africa/kenya/news/ai-in-classrooms-and-hospitals-mps-launch-probe-seek-new-rules-5636232)** — Daily Nation, 18 October 2026
+
+One-month inquiry into AI in schools and hospitals; MPs cite no national AI framework; ministries first.
 
 </div>
 

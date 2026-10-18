@@ -4,8 +4,8 @@ compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: MLI
 ledger_rows: 16
-not_held: 1
-record: 2cdfd1027506
+not_held: 2
+record: ee9c0375ed83
 ---
 
 # News, Sep – Oct 2026

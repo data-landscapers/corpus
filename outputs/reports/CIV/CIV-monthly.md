@@ -3,9 +3,9 @@ title: Cote d'Ivoire — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: CIV
-ledger_rows: 44
+ledger_rows: 45
 not_held: 10
-record: 0e8d58d1923c
+record: a3ca2e60b8be
 ---
 
 # News, Sep – Oct 2026
@@ -525,6 +525,20 @@ Côte d'Ivoire's cadastre director, Bahi Apollinaire Boua, said at the Abidjan l
 **[Côte d'Ivoire-AIP/ La FENACCI crée un observatoire pour accompagner la transition vers la facture normalisée électronique](https://www.aip.ci/cote-divoire-aip-la-fenacci-cree-un-observatoire-pour-accompagner-la-transition-vers-la-facture-normalisee-electronique/)** — Agence Ivoirienne de Presse (AIP), 7 September 2026
 
 Four days after nationwide checks on electronic standardised invoicing began, Côte d'Ivoire's traders' federation created a National Observatory on Electronic Standardised Invoicing, announced at a press conference in Adjamé. The observatory has no published mandate, membership or reporting arrangement, and the federation's earlier demand that the checks be suspended is not withdrawn on the record.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIMT labour market information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué du conseil des ministres 14 octobre 2026](https://www.fratmat.info/article/2645204/politique/communique-du-conseil-des-ministres-14-octobre-2026)** — Fraternite Matin, 15 October 2026
+
+Full government text: 3.5 GHz 5G refarming decree; EUR 189.6m IDA loan ratified, funding ONEF labour-market platform.
 
 </div>
 

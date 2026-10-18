@@ -482,7 +482,9 @@ dpi.registry--address-register,Movement,"A [geo-referenced postcode database was
 
 2026-07 - the postal operator's [Entebbe addressing pilot assigned standard addresses, with lessons to be documented before national expansion](2026-07-10-posta-uganda-digital-delivery-logistics), alongside its shift toward parcels and last-mile delivery.
 
-No national coverage figure, address count or completion date is published, so what share of the country can be addressed is not something this repository can state.",UGA-dpi.registry-address-register|UGA-gov.policy-national-postcode-addressing-policy|UGA-dpi.registry-kcca-city-address-model,2,UGA-dpi.registry-address-register,,,,,,,2026-08-31,0,postcodes for 27 districts and an Entebbe pilot
+No national coverage figure, address count or completion date is published, so what share of the country can be addressed is not something this repository can state.
+
+2025-02 — [only 12,555 of 373,826 Kampala houses carried number plates](2025-02-10-uga-kcca-house-number-plates-donation).",UGA-dpi.registry-address-register|UGA-gov.policy-national-postcode-addressing-policy|UGA-dpi.registry-kcca-city-address-model,2,UGA-dpi.registry-address-register,,,,,,,2026-08-31,0,postcodes for 27 districts and an Entebbe pilot
 dpi.registry--business-register,Movement,"A [non-individual register](2026-05-08-ursb-non-individual-register-launch) launched in May 2026 as the corporate counterpart to the national identity number, with no registered-entity count published.","It launched in May 2026 ([register](2026-05-08-ursb-non-individual-register-launch)).
 
 Giving legal persons an identifier matching the one natural persons hold is the design that lets the two be joined, and no source states whether they are.",UGA-dpi.registry-ursb-non-individual-register,3,UGA-dpi.registry-ursb-non-individual-register,,,,,,,2026-08-31,0,digital register with unique entity numbers; no public search or beneficial ownership on record

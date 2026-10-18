@@ -4,8 +4,8 @@ compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: CAF
 ledger_rows: 19
-not_held: 4
-record: 42fdef933cf7
+not_held: 5
+record: f0c988aacd12
 ---
 
 # News, Sep – Oct 2026

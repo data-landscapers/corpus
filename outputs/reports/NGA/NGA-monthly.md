@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: NGA
-ledger_rows: 154
+ledger_rows: 155
 not_held: 9
-record: 7fbea759f7b3
+record: 93b040b0c731
 ---
 
 # News, Sep – Oct 2026
@@ -451,6 +451,14 @@ The Nigeria Customs Service and Cameroon's customs administration began a joint 
 **[Bénin-Nigeria : les douanes interconnectent leurs systèmes pour accélérer le commerce](https://www.wearetech.africa/fr/fils/actualites/tech/benin-nigeria-les-douanes-interconnectent-leurs-systemes-pour-accelerer-le-commerce)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 The two countries' customs administrations launched a pilot interconnection of their systems at the Seme-Krake border post on 11 September, to exchange data in real time and cut repeated formalities.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+
+Customs data exchange linking B'Odogwu, Customs Webb and CAMCIS; no cost or loan committed yet.
 
 </div>
 
@@ -1543,6 +1551,20 @@ Nigeria's supervising minister of cooperative affairs, Aliyu Sabi Abdullahi, tol
 **[Gov Radda Seeks NIMC Partnership to Strengthen Identity Management](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/)** — Time Express Nigeria, 10 October 2026
 
 Katsina State and Nigeria's identity commission agreed a working group to link the state's identity management system to the national one, with a framework and memorandum due within eight weeks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Admissions board NIN alignment service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[JAMB Moves to Rescue Graduates Stuck for Years over NIN Data Mismatch, Unveils New Service](https://www.thisdaylive.com/2026/10/18/jamb-moves-to-rescue-graduates-stuck-for-years-over-nin-data-mismatch-unveils-new-service/)** — ThisDay, 18 October 2026
+
+NIN alignment service for graduates barred from NYSC; life-skills test mooted for UTME.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Namibia — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: NAM
-ledger_rows: 36
+ledger_rows: 37
 not_held: 9
-record: f6c6a7ac9d6e
+record: b12c971865be
 ---
 
 # News, Sep – Oct 2026
@@ -433,6 +433,20 @@ More than 5,700 Namibian pensioners and other social-grant beneficiaries remain 
 </div>
 
 ### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National addressing system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposal for Consultancy Services to Develop a White Paper on the National Digital Addressing System for Namibia (SC/RP/NSA-04/2026)](https://nsa.org.na/wp-content/uploads/2026/09/Request-for-proposal-for-consultant-on-Addressing-System-in-Namibia-RP.pdf)** — Namibia Statistics Agency, 28 September 2026
+
+NSA tender for a white paper on a National Digital Addressing System; Namibia has no national addressing policy or law.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

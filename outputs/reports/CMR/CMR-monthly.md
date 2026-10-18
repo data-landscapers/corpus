@@ -3,9 +3,9 @@ title: Cameroon — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: CMR
-ledger_rows: 34
+ledger_rows: 35
 not_held: 4
-record: 852bae03a1cc
+record: 5093109866a8
 ---
 
 # News, Sep – Oct 2026
@@ -407,6 +407,20 @@ Cameroon's finance ministry has identified 5,971 state employees as no longer li
 **[Exportations vers la Chine : La CCIMA prépare les exportateurs camerounais au certificat d’origine électronique](https://leconomie.info/article/exportations-vers-la-chine-la-ccima-prepare-les-exportateurs-camerounais-au-certificat-dorigine-electronique)** — Le quotidien L'Economie, 2 October 2026
 
 Cameroon's chamber of commerce (CCIMA) trained its staff and trade bodies in Douala on 29 September 2026, with China's embassy and customs administration, on China's electronic platform for preferential certificates of origin. Exporters apply online, the chamber issues the certificate and it is sent to Chinese customs, a condition of the zero-duty access China has granted 53 African states since 1 May 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Trilateral customs steering committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+
+Customs data exchange linking B'Odogwu, Customs Webb and CAMCIS; no cost or loan committed yet.
 
 </div>
 

@@ -3,9 +3,9 @@ title: South Africa — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: ZAF
-ledger_rows: 148
+ledger_rows: 149
 not_held: 21
-record: b1fe03b0f1d1
+record: a5e5f608c22c
 ---
 
 # News, Sep – Oct 2026
@@ -1999,6 +1999,20 @@ South Africa's government will ask the courts for a supervisory order on impleme
 **[Home Affairs to digitise asylum applications to speed up processing](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)** — SAnews (South African Government News Agency), 11 October 2026
 
 South Africa's home affairs minister said a biometric online platform for asylum applications is to be operating by 10 November 2026, checking applicants' biometrics against earlier rejected claims and verifying their travel documents. He put the backlog of asylum appeals at about 120,000, a figure he said would be confirmed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Home Affairs self-service kiosks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MPs raise alarm after Home Affairs bought kiosks that remain unused](https://www.citizen.co.za/news/mps-raise-alarm-after-home-affairs-bought-kiosks-that-remain-unused/)** — The Citizen (South Africa), 17 October 2026
+
+Kiosks bought under May 2024 project sit undeployed while licence fees run; DG and CFO absent, spend undisclosed.
 
 </div>
 

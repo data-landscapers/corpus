@@ -3,9 +3,9 @@ title: Tanzania — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: TZA
-ledger_rows: 74
+ledger_rows: 75
 not_held: 5
-record: 0b8e1b2386a7
+record: 1f8a39a00f23
 ---
 
 # News, Sep – Oct 2026
@@ -113,6 +113,20 @@ Tanzania has set up a National Advisory Committee on Online Child Protection and
 **[PDPC bolsters safeguards as personal data use expands](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html)** — The Respondents Online, 7 October 2026
 
 Tanzania's Personal Data Protection Commission had registered 15,146 institutions and received 445 personal-data complaints by August 2026, according to its published figures. It trained more than 300 data protection officers from public and private institutions in Morogoro on 7-8 October 2026, the eighth phase of its programme under the Personal Data Protection Act.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-protection commission investigation of phone-on-credit lenders</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Simu za mkopo zilivyo mateso](https://www.mwananchi.co.tz/mw/habari/biashara/simu-za-mkopo-zilivyo-mateso-5635672)** — Mwananchi, 17 October 2026
+
+Phone-on-credit borrowers pay up to double cash price; data regulator PDPC investigating lenders' use of personal data.
 
 </div>
 

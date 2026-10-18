@@ -3,9 +3,9 @@ title: West Africa — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: XWA
-ledger_rows: 29
+ledger_rows: 30
 not_held: 1
-record: fc19cae65705
+record: 32c823c10f48
 ---
 
 # News, Sep – Oct 2026
@@ -258,6 +258,8 @@ The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on t
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
 </nav>
@@ -567,6 +569,22 @@ The UN Economic Commission for Africa and the UN Population Fund announced a mee
 **[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Benin and seven other West African states (Burkina Faso, Côte d'Ivoire, Guinea, Mali, Niger, Senegal and Togo) are testing a platform to monitor progress on the demographic dividend at a meeting in Abidjan from 7 to 9 September 2026. The tool aims to harmonise indicators against African Union commitments on health, education, jobs and governance before wider rollout.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Community Development Programme tracking platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS launches platform for tracking regional projects](https://apanews.net/ecowas-launches-platform-for-tracking-regional-projects/)** — APAnews, 15 October 2026
+
+Launched in Abuja 5-9 Oct 2026 by Commission VP Ogunjimi; features, public-access terms and indicators unstated.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Burkina Faso — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: BFA
-ledger_rows: 39
-not_held: 8
-record: 98b7d168d68f
+ledger_rows: 40
+not_held: 7
+record: d2c61022b8d8
 ---
 
 # News, Sep – Oct 2026
@@ -637,6 +637,20 @@ Summarised under [Data Storage](#data-storage).
 **[Burkina Faso : 260 000 $ d'amendes générés par la vidéo verbalisation en un mois](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois)** — Agence Ecofin, 7 September 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">L'Essentiel.bf AI news platform (French and Moore)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Essentiel.bf : Une nouvelle plateforme numérique pour s’informer en français et en mooré](https://lefaso.net/spip.php?article149991)** — leFaso.net, 15 October 2026
+
+CITADEL and Data Lab launch, 15 Oct 2026; AI summaries of four national outlets every 15 minutes, text and audio.
 
 </div>
 

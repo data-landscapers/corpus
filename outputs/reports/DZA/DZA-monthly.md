@@ -3,9 +3,9 @@ title: Algeria — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: DZA
-ledger_rows: 39
+ledger_rows: 40
 not_held: 5
-record: bd1d113c2cdc
+record: e5b2260a5f9b
 ---
 
 # News, Sep – Oct 2026
@@ -463,6 +463,20 @@ Algeria's President Abdelmadjid Tebboune ordered the investment single window to
 **[Foncier economique : Sifi Ghrieb ordonne un recensement immediat](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/)** — Le Jour d'Algerie, 11 September 2026
 
 Algeria's prime minister, Sifi Ghrieb, ordered an immediate national census of industrial, agricultural and tourism land on 10 September 2026. Provincial governors are to collect the data on a unified template, and a map of available land is due at the investment promotion agency's one-stop window before the end of September, supported by the High Commission for Digitalisation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National address register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[في يوم دراسي بوهران: الكشف عن إحصاء 1.5 مليون عنوان رسمي موحد قابل للتحديد الجيومكاني](https://arabe.capdz.dz/archives/144046)** — Cap DZ (arabe.capdz.dz), 12 October 2026
+
+Interior ministry counts 1.5 million geolocated official addresses in 12 wilayas; all 69 targeted by 2030.
 
 </div>
 

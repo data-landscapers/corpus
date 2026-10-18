@@ -4,8 +4,8 @@ compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: GIN
 ledger_rows: 22
-not_held: 4
-record: aa59b432c0e7
+not_held: 3
+record: febc66b48c33
 ---
 
 # News, Sep – Oct 2026

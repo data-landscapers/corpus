@@ -3,9 +3,9 @@ title: Egypt — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: EGY
-ledger_rows: 95
+ledger_rows: 96
 not_held: 42
-record: 77b44388d2a5
+record: 95f9bd40b9e8
 ---
 
 # News, Sep – Oct 2026
@@ -42,6 +42,8 @@ record: 77b44388d2a5
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -277,6 +279,22 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 **[African diplomats in Cairo agree to develop African digital integration roadmap](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578166)** — Ahram Online, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Representatives of 11 African diplomatic missions in Cairo agreed to draft a joint Cairo Document for Trust and African Digital Integration. It is to set shared priorities on digital investment, digital trade, cybersecurity, data governance and emerging technologies.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator's smart and sustainable cities assessment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
+
+NTRA online scoring of new cities against its smart-city code; conformity certificates; New Capital, New Alamein.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Madagascar — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: MDG
-ledger_rows: 33
+ledger_rows: 35
 not_held: 5
-record: 832040405c6d
+record: 2c07f52b40f7
 ---
 
 # News, Sep – Oct 2026
@@ -244,6 +244,28 @@ A GSMA report launched in Antananarivo says four reforms could bring about 1.13 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taxes on entry smartphones and mobile services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Obstacles à l'accès à internet - 47% du coût d'un smartphone sont constitués de taxes](https://fr.allafrica.com/stories/202610170043.html)** — Midi Madagasikara (via allAfrica), 17 October 2026
+
+Operators at GSMA launch: taxes 47% of entry smartphone cost, incl. 6% copyright duty; 8% excise on mobile services.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TECHNOLOGIE - Deux Malgaches sur dix connectés à Internet](https://www.lexpress.mg/2026/10/technologie-deux-malgaches-sur-dix.html)** — L'Express de Madagascar, 17 October 2026
+
+Taxes 47% of smartphone price; Yas and Airtel blame handset cost; 2026 finance law keeps the levies.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -459,6 +481,20 @@ Madagascar's industrialisation ministry handed biometric cards to the first 124 
 **[TRANSPARENCE – Le RCBE entre dans sa phase d’exploitation avec le croisement des données | 2424.mg - L'actualité à Madagascar en temps réel](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees)** — 2424.mg, 22 September 2026
 
 Madagascar's tax directorate signed four agreements on 18 September 2026 to cross-check its central register of beneficial owners against data held by the companies register, the Bianco anti-corruption bureau, the Economic Development Board and the chamber of notaries. The finance ministry said the register, launched on 16 June 2026, now moves from build to operation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral roll reconstitution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[REFONTE DE LA LISTE ÉLECTORALE - Plus de sept millions d’électeurs inscrits](https://www.lexpress.mg/2026/10/refonte-de-la-liste-electorale-plus-de.html)** — L'Express de Madagascar, 17 October 2026
+
+7,163,714 provisionally registered; 93.23% door-to-door; missing ID cards an obstacle; roll final end-April 2027.
 
 </div>
 

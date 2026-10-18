@@ -3,9 +3,9 @@ title: Benin — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: BEN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 4
-record: 15e7c5eb745b
+record: dec0b8f236e7
 ---
 
 # News, Sep – Oct 2026
@@ -238,6 +238,14 @@ The two countries' customs administrations launched a pilot interconnection of t
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+
+Customs data exchange linking B'Odogwu, Customs Webb and CAMCIS; no cost or loan committed yet.
+
+</div>
+
 </div>
 
 ### Digital Identity and CRVS
@@ -293,6 +301,28 @@ Benin launched Preuve de Vie on 15 October 2026, a mobile app through which publ
 </div>
 
 ### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory electronic payment of court and chancellery fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Décret n° 2026-617 du 18 septembre 2026 portant modalités de tarification des actes délivrés à la chancellerie et dans les juridictions et instituant le paiement en ligne obligatoire](https://sgg.gouv.bj/doc/decret-2026-617/)** — Présidence de la République du Bénin (Secrétariat général du Gouvernement), 18 September 2026
+
+Court and chancellery fees payable only electronically, stamps included; dedicated Treasury account; repeals 2012 decree.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tarification des actes : Les coûts des actes délivrés par les juridictions fixés par arrêté interministériel](https://fraternite.bj/tarification-des-actes-les-couts-des-actes-delivres-par-les-juridictions-fixes-par-arrete-interministeriel/)** — Fraternité, 16 October 2026
+
+109 fees under decree 2026-617 mandating online payment; criminal record FCFA 1,900, naturalisation FCFA 50,000.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

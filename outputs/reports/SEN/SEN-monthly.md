@@ -3,9 +3,9 @@ title: Senegal — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SEN
-ledger_rows: 61
+ledger_rows: 63
 not_held: 2
-record: f75b62d1568b
+record: e35b7c75febf
 ---
 
 # News, Sep – Oct 2026
@@ -652,6 +652,20 @@ Senegal's Interior Ministry asked all NGOs and associations working in the count
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric audit of the public-service headcount</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[« Nous voulons un service public moderne, performant et centré sur l’usager »](https://lesoleil.sn/societe/nous-voulons-un-service-public-moderne-performant-et-centre-sur-lusager/)** — Le Soleil, 18 October 2026
+
+Civil-service minister: biometric staff audit since 23 June 2026 unfinished; e-Sénégal as single online window.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -895,6 +909,20 @@ A high court in the Dakar suburbs has begun piloting a locally deployed AI appli
 **[Justice sénégalaise : Pikine-Guédiawaye teste la numérisation des archives judiciaires](https://www.leral.net/Justice-senegalaise-Pikine-Guediawaye-teste-la-numerisation-des-archives-judiciaires_a408035.html)** — Leral.net, 10 October 2026
 
 Senegal's justice ministry judged the first results of the pilot digitising judicial archives at the Pikine-Guédiawaye court satisfactory. Recruiting qualified staff and keeping the court platform fed are the open problems; other courts may follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kiriku voice datasets and models for national languages</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kiriku Voice Challenge : des modèles d’IA développés pour les langues nationales](https://lesoleil.sn/actualites/technologie/kiriku-voice-challenge-des-modeles-dia-developpes-pour-les-langues-nationales/)** — Le Soleil, 16 October 2026
+
+210 hours of Wolof, Pulaar and Serer speech data, two open models on Hugging Face; ten finalists from 74 bids.
 
 </div>
 

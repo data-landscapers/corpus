@@ -3,9 +3,9 @@ title: Libya — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: LBY
-ledger_rows: 37
+ledger_rows: 39
 not_held: 4
-record: e8109590207e
+record: 89101f303775
 ---
 
 # News, Sep – Oct 2026
@@ -218,6 +218,20 @@ Al-Bunya Investment and Services Company, a subsidiary of Libya's state telecoms
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Medusa submarine cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[افتتاح مجموعة ( أوزون ) للاتصالات ببنغازي والإعلان عن وصول كابل (ميدوسا) البحري](https://lana.gov.ly/post.php?id=367839&lang=ar)** — وكالة الأنباء الليبية (LANA), 18 October 2026
+
+16,000 km fibre plan, Tier III data centre, 5G trial end-2026; cross-border links to Chad, Niger, Mali.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -349,6 +363,20 @@ Libya's public prosecutor announced another case of civil-status records falsifi
 **[النائب العام يكشف تزوير 315 ألف رقم وطني وتجميد رواتب ومعاشات مرتبطة بها](https://alwasat.ly/news/481422)** — Alwasat (Bawabat Al-Wasat), 13 October 2026
 
 Libya's Attorney General, Al-Siddiq Al-Sour, said on 13 October 2026 that a data review found more than 315,000 National Numbers issued unlawfully and over 10,000 passports issued on forged data. Authorities suspended 8,662 National Numbers, recalled 1,855 passports and froze LYD 84.5m in salaries and pensions. He also reported mismatches between the civil registry, National Number and voter databases.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic passport issuance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[النيابة العامة تكشف استخراج 10 آلاف جواز سفر ببيانات مزورة في ليبيا](https://alwasat.ly/news/481677)** — Alwasat (Bawabat Al-Wasat), 15 October 2026
+
+Five million secured Form 13 sheets to 365 registry offices; passport and civil registry DBs linked to prosecutors.
 
 </div>
 

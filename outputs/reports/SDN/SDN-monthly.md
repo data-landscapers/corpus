@@ -3,9 +3,9 @@ title: Sudan — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SDN
-ledger_rows: 27
+ledger_rows: 28
 not_held: 5
-record: 17abd88f718a
+record: be971818f9de
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: 17abd88f718a
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -59,6 +61,28 @@ An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published
 **[المواصفات بالنيل الأبيض تدشن التحصيل الإلكتروني عبر برنامج «إيصالي»](https://alradarnews.net/?p=28749)** — الرادار نيوز (Al Radar News), 15 September 2026
 
 The standards and metrology body's White Nile branch began collecting fees electronically, issuing a receipt at the moment of payment, presented as enforcement of a state-wide electronic collection decision.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Arab Monetary Fund digital-transformation technical assistance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير المالية يبحث مع المدير العام لصندوق النقد العربي تعزيز الدعم الفني وتوسيع برامج بناء القدرات والتحول الرقمي للسودان](https://www.suna.sd/posts/ozyr-284)** — Sudan News Agency (SUNA), 17 October 2026
+
+Sudan in AMF digital-transformation aid for 2027; sukuk and securities support; more training places.
 
 </div>
 
