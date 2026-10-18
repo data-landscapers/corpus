@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-swz-esnews-bika-transport-reporting-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BIKA Platform",
+   "country_label": "BIKA",
+   "class": "public",
+   "platform": "web/app reporting platform",
+   "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+   "tiers": "Royal Eswatini Police Service is a participating body"
+  }
+ ],
+ "note": "BIKA is a public reporting channel for transport; nothing on station records."
+}
