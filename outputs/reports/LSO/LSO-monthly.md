@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: LSO
 ledger_rows: 16
 not_held: 4
-record: 07f35a250686
+record: 23110a5debb7
 ---
 
 # News, Sep – Oct 2026

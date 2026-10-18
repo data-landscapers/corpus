@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: TZA
 ledger_rows: 74
 not_held: 5
-record: 7ddde491b231
+record: 0b8e1b2386a7
 ---
 
 # News, Sep – Oct 2026
@@ -700,7 +700,7 @@ KCB Bank Tanzania and the Zanzibar Health Service Fund signed a memorandum of un
 
 **[PM calls for digital shift as women’s representation in SACCOS rises - Daily News](https://dailynews.co.tz/mwigulu-calls-for-digital-shift-as-womens-representation-in-saccos-rises)** — Daily News, 15 October 2026
 
-231 SACCOS mobile-money agency arrangements, 119,000 app and USSD users; barely one in four with core banking.
+Opening the SACCA Congress in Dar es Salaam on 15 October 2026, Prime Minister Mwigulu Nchemba said Tanzania's SACCOS run 231 mobile-money agency arrangements and five offer mobile apps, with about 119,000 app and USSD users and 3.5 million transactions. He said only just over one in four SACCOS has a core banking system, and cited 72% adult mobile-money use from the 2023 financial inclusion report.
 
 </div>
 

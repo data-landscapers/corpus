@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: RWA
 ledger_rows: 45
 not_held: 7
-record: dd2bfb38fa63
+record: 18aedef04837
 ---
 
 # News, Sep – Oct 2026
@@ -480,7 +480,7 @@ Bank of Ghana Governor Johnson Asiama said on 13 October that the bank is testin
 
 **[Rwanda’s eKash Instant Payment System Sees Explosive Growth](https://gfmag.com/transaction-banking/rwandas-ekash-instant-payment-system-growth/)** — Global Finance Magazine, 15 October 2026
 
-P2P fee capped at RWF 20; eKash-TIPS pilot with Tanzania; aggregated switch data offered to lenders for credit scoring.
+The National Bank of Rwanda's governor told the IMF-World Bank annual meetings that Rwanda made all person-to-person transfers go through its eKash instant payment system and capped their fee at 20 Rwandan francs. Payments within the EAC go through the regional payment system and those beyond it through PAPSS, and a pilot linking eKash to Tanzania's TIPS is under way. The article's monthly transaction figures disagree with the central bank's own.
 
 </div>
 

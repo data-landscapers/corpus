@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: BEN
 ledger_rows: 35
 not_held: 4
-record: 4aafc5da0e42
+record: 15e7c5eb745b
 ---
 
 # News, Sep – Oct 2026
@@ -286,7 +286,7 @@ Benin's Ministry of Economy and Finance announced on 3 October 2026 that pension
 
 **[Benin launches app letting public-sector retirees provide proof of life remotely](https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely)** — Ecofin Agency, 17 October 2026
 
-FNRB pensioners verify by fingerprint via app or kiosk; campaign 15 Oct-15 Nov 2026, open to retirees abroad.
+Benin launched Preuve de Vie on 15 October 2026, a mobile app through which public-sector pensioners of the FNRB confirm they are alive using their NPI, pension booklet number and fingerprint, from Benin or abroad. Biometric kiosks taking the national ID card are an alternative, and the campaign runs to 15 November 2026.
 
 </div>
 

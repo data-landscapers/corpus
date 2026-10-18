@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: LBY
 ledger_rows: 37
 not_held: 4
-record: b348996e3eac
+record: e8109590207e
 ---
 
 # News, Sep – Oct 2026
@@ -54,7 +54,7 @@ record: b348996e3eac
 
 **[الهيئة العامة للمعلومات تبحث مع ممثلي مراكز المعلومات والتوثيق القطاعية مسودة السياسة الوطنية للبيانات المفتوحة والذكاء الاصطناعي - gia](https://www.gia.gov.ly/2026/10/15/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b9-%d9%85%d9%85%d8%ab%d9%84%d9%8a/)** — General Information Authority (Libya), 15 October 2026
 
-National survey of government bodies to shape final draft; ESCWA expert briefs on practice; meeting of 14 Oct 2026.
+Libya's General Information Authority met sectoral information centres, ministries and outside experts on 14 October 2026 to work the results of its national survey of government bodies into the final draft of a National Policy for Open Data and Artificial Intelligence. An ESCWA expert presented regional and international practice; the draft itself is not public.
 
 </div>
 

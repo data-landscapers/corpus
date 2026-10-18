@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XAF
 ledger_rows: 105
 not_held: 3
-record: 17c66d74584f
+record: 1cb0c802b2d2
 ---
 
 # News, Sep – Oct 2026
@@ -2154,7 +2154,7 @@ The African Development Bank and UNDP said the AI 10 Billion Initiative has move
 
 **[53707 - WIOCC VII Debt (IFC Summary of Investment Information)](https://disclosures.ifc.org/project-detail/SII/53707/wiocc-vii-debt)** — International Finance Corporation (IFC), 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Up to US$35m A/B sustainability-linked loan pending, board 13 Nov 2026; US$577m project; Lagos metro fibre, data centres.
+The IFC disclosed on 14 October 2026 a proposed sustainability-linked senior loan of up to US$35 million to West Indian Ocean Cable Company, pending approval with a projected board date of 13 November 2026. The money would buy more subsea cable capacity, extend terrestrial fibre in southern and West Africa, add data-centre capacity and expand WIOCC's Open Access Metro fibre business in Lagos and other Nigerian states.
 
 </div>
 

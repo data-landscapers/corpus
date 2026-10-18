@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MDG
 ledger_rows: 30
 not_held: 5
-record: a4aa15c1dc50
+record: f4534e1a06d0
 ---
 
 # News, Sep – Oct 2026
@@ -528,7 +528,7 @@ Madagascar's digital ministry said its online passport application portal is bei
 
 **[JUSTICE – Un logiciel d’anonymisation pour permettre aux magistrats d’utiliser l’IA sans exposer les données des justiciables](https://www.2424.mg/justice-un-logiciel-danonymisation-pour-permettre-aux-magistrats-dutiliser-lia-sans-exposer-les-donnees-des-justiciables/)** — 2424.mg, 17 October 2026
 
-Strips litigants' personal data before AI use; built without public budget; first step of ENMG magistrates' AI training.
+Madagascar's Conseil d'État has given all magistrates software that removes litigants' personal data from case files before any AI tool is used, presented at an AI workshop at the Cour suprême on 15-16 October 2026. Built without public money, it is the first step of a Conseil d'État and ENMG programme training magistrates to use consumer AI tools, under the personal data protection law.
 
 </div>
 

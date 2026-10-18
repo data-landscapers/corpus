@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: BDI
 ledger_rows: 14
 not_held: 10
-record: e1b90029fb68
+record: a95ad726bff5
 ---
 
 # News, Sep – Oct 2026

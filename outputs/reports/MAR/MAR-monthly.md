@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MAR
 ledger_rows: 31
 not_held: 14
-record: 6722cee276ee
+record: 2455a05b51a7
 ---
 
 # News, Sep – Oct 2026
@@ -68,7 +68,7 @@ King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artific
 
 **[قرار مشترك لوزير الداخلية ووزيرة الاقتصاد والمالية ووزير النقل واللوجيستيك رقم 218.26 صادر في 9 شعبان 1447 (29 يناير 2026) بتحديد لائحة العناصر التي تتكون منها المعلومات المتعلقة بالركاب وبالرحلات التجارية وبأعضاء طاقمها وكذا برحلات الطيران العام (arrêté conjoint n° 218.26, BO n° 7549)](https://adala.justice.gov.ma/api/uploads/2026/10/12/%D9%82%D8%B1%D8%A7%D8%B1%20%D9%85%D8%B4%D8%AA%D8%B1%D9%83%20%D9%84%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%20%D9%88%D9%88%D8%B2%D9%8A%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-1791818528335.pdf)** — Royaume du Maroc — Ministère de la Justice, portail Adala (text as published in the Bulletin officiel, édition arabe, n° 7549), 5 October 2026
 
-Full Arabic text: passenger, booking, payment, crew and private-flight data lists; catch-all "other useful information".
+Joint arrêté n° 218.26 of 29 January 2026, published in Morocco's Bulletin officiel n° 7549 on 5 October 2026, lists the data airlines must send on passengers, commercial flights, crew and general-aviation flights. It applies decree 2.21.624 of 21 July 2022 and covers identity, contact, payment, frequent-flyer, baggage and travel-document details, with a catch-all for other useful information.
 
 </div>
 
@@ -76,7 +76,7 @@ Full Arabic text: passenger, booking, payment, crew and private-flight data list
 
 **[Transport aérien : les données des passagers désormais davantage surveillées](https://medias24.com/2026/10/15/transport-aerien-les-donnees-des-passagers-desormais-davantage-surveillees-1779811/)** — medias24.com, 15 October 2026
 
-Signed by Interior, Finance, Transport ministers; identity, booking, payment, baggage data to DGSN centre.
+Morocco's Bulletin officiel of 5 October 2026 carries interministerial arrêté n° 218.26 of 29 January 2026, which lists the passenger, booking, payment, baggage, crew and flight data airlines must send to a national processing centre under the DGSN. The stated purpose is preventing terrorism and transnational crime, under decree 2.21.624 and the civil aviation code.
 
 </div>
 

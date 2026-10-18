@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: KEN
 ledger_rows: 139
 not_held: 7
-record: ee17970d366a
+record: d597f4ff86f1
 ---
 
 # News, Sep – Oct 2026
@@ -2078,7 +2078,7 @@ Kenya is piloting a digital agricultural marketplace across five Rift Valley cou
 
 **[Report of the Standing Committee on Information, Communication and Technology on the Artificial Intelligence Bill, 2026 (Senate Bills No. 4 of 2026)](https://libraryir.parliament.go.ke/server/api/core/bitstreams/a0d7c5d3-6b1b-42b1-bb96-428c10ed898a/content)** — Parliament of Kenya — The Senate, Standing Committee on Information, Communication and Technology, 1 September 2026
 
-Committee's own 170-page report: 143 submissions, recommends Senate not proceed until national AI policy published.
+The Kenyan Senate's ICT committee report on the Artificial Intelligence Bill, 2026 (Senate Bills No. 4 of 2026) recommends that the Senate does not proceed with the Bill. The 170-page report draws on written submissions from 143 stakeholders and asks for a national AI policy to be published first.
 
 </div>
 
@@ -2086,7 +2086,7 @@ Committee's own 170-page report: 143 submissions, recommends Senate not proceed 
 
 **[Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)** — The Star (Kenya), 15 October 2026
 
-143 stakeholder submissions; KSh 5m fines and AI Commissioner 'super regulator' faulted; national AI policy first.
+Kenya's Senate ICT committee has asked the Senate not to proceed with Senator Karen Nyamu's Artificial Intelligence Bill, 2026, after hearing from 143 stakeholders. It objected to fines of up to KSh 5 million and up to two years' imprisonment, and to an AI Commissioner whose powers would overlap existing regulators, and called for a national AI policy first.
 
 </div>
 

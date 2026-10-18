@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: GNQ
 ledger_rows: 17
 not_held: 6
-record: 23aff276c3a2
+record: 3b7273825879
 ---
 
 # News, Sep – Oct 2026
@@ -240,7 +240,7 @@ Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, named on X the
 
 **[El Vicepresidente de la República impulsa la modernización del sistema informático de CNEDOGE](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_de_la_republica_impulsa_la_modernizacion_del_sistema_informatico_de_cnedoge)** — guineaecuatorialpress.com, 16 October 2026
 
-Kit installed 2017-18 deteriorating; CETIS to assess; new ID and passport designs; backups for embassies.
+Equatorial Guinea's Vice-President Nguema Obiang Mangue authorised an upgrade of the systems at CNEDOGE, which issues identity cards and passports, after a report that much of its equipment dates from 2017-2018. Officials are to assess the installation with the supplier CETIS and cost the work, and CETIS was asked for new card and passport designs.
 
 </div>
 

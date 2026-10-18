@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: GHA
 ledger_rows: 107
 not_held: 9
-record: dc20abc5c2bc
+record: 785e95fdad3d
 ---
 
 # News, Sep – Oct 2026
@@ -1928,7 +1928,7 @@ South Korea's ambassador to Ghana, Kyongsig Park, told the Ghanaian Times that t
 
 **[EU injects €250,000 into Ghana’s TVET digital labs to boost skills training](https://www.modernghana.com/news/1536361/eu-injects-250000-into-ghanas-tvet-digital-labs.html)** — ModernGhana, 15 October 2026
 
-Erasmus+ DigiMarkt; three 25-seat labs at USTED, Cape Coast and Bolgatanga TUs; 450 students trained.
+The EU-funded Erasmus+ DigiMarkt project, worth EUR 394,185, closed with a conference at USTED in Kumasi; EUR 250,000 of it went to three Ghanaian technical universities. The money set up digital labs of 25 computers each at USTED, Cape Coast and Bolgatanga, trained 63 lecturers abroad in 2025 and 450 students in the first half of 2026.
 
 </div>
 
@@ -2048,7 +2048,7 @@ Ghana's communications minister Samuel Nartey George said the government will co
 
 **[Sam George gives contractors 30 days to finish rural telephony sites or face penalties](https://www.adomonline.com/sam-george-gives-contractors-30-days-to-finish-rural-telephony-sites-or-face-penalties/)** — Adom Online, 17 October 2026
 
-Contractors already paid in full; emergency GIFEC meeting; 4,000+ fibre cuts by June 2026.
+Ghana's communications minister Sam George gave Rural Telephony Project contractors 30 days to finish outstanding sites or face penalties, saying they have been paid in full, after touring sites in the Volta Region. He also said Ghana recorded more than 4,000 fibre cuts by June 2026 and operators spent over $20 million on fibre repairs in 2025.
 
 </div>
 

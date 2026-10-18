@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: CAF
 ledger_rows: 19
 not_held: 4
-record: 2e21c11ee933
+record: 42fdef933cf7
 ---
 
 # News, Sep – Oct 2026
@@ -236,7 +236,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[ELABORATION DU CAHIER DE CHARGE FONCTIONNEL ET TECHNIQUE PLATE FORME FINTEC](https://www.ungm.org/Public/Notice/318521)** — United Nations Development Programme (UNDP) via UNGM, 16 October 2026
 
-UNDP seeks consultant to specify national POST CASH fintech platform; 30 working days in Bangui, bids by 25 Oct 2026.
+UNDP in the Central African Republic is seeking an individual consultant to write the functional and technical specification for POST CASH, a national fintech platform. The contract is 30 working days over two months in Bangui, and bids close on 25 October 2026.
 
 </div>
 

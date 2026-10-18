@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: TUN
 ledger_rows: 60
 not_held: 5
-record: eb1fd7b3794f
+record: 947ba72b29a0
 ---
 
 # News, Sep – Oct 2026
@@ -1102,7 +1102,7 @@ Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, p
 
 **[Tunisie : près de 86 % des 10-70 ans sont connectés et près d’un internaute sur deux utilise l’IA](https://www.leconomistemaghrebin.com/2026/10/16/86pc-10-70-ans-tunisie-connectes/)** — L'Économiste Maghrébin Tunisie, 16 October 2026
 
-AI apps used by 47.9% of internet users, ChatGPT 96.3% of them; fieldwork 15 May-10 June 2026; up 10.9 points on 2023.
+Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% of people aged 10 to 70 use the internet, 10.9 points more than in 2023, and that 47.9% of users use AI applications, ahead of e-commerce (36.9%) and online government services (26.5%). The face-to-face survey of 5,077 people ran from 15 May to 10 June 2026; fibre accounts for 4% of connections.
 
 </div>
 

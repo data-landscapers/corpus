@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MOZ
 ledger_rows: 43
 not_held: 19
-record: 94f2c35fd5aa
+record: c58d6fe42d3f
 ---
 
 # News, Sep – Oct 2026

@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XWA
 ledger_rows: 29
 not_held: 1
-record: f37280a23315
+record: fc19cae65705
 ---
 
 # News, Sep – Oct 2026
@@ -534,7 +534,7 @@ The West African central bank's new instruction doubles the cap on electronic mo
 
 **[Guide du Candidat au Laboratoire d’Innovation Financière de la BCEAO (LIF-BCEAO)](https://www.bceao.int/sites/default/files/inline-files/Guide_du_candidat_au_LIF-BCEAO.pdf)** — Banque Centrale des États de l’Afrique de l’Ouest (BCEAO), 14 October 2026
 
-Sandbox eligibility, application file, 3-6 month tests, consumer-protection and exit rules; payments to biometric KYC.
+The BCEAO's candidate guide for its Financial Innovation Laboratory (LIF-BCEAO) sets out which projects and applicants are eligible, the application file and the scoring grids. Tests run for three to six months, extendable to two years, and the BCEAO has 90 days to check an application against the criteria; the guide also covers consumer protection, cybersecurity and exit rules.
 
 </div>
 
@@ -542,7 +542,7 @@ Sandbox eligibility, application file, 3-6 month tests, consumer-protection and 
 
 **[The BCEAO opens its tests to fintechs, applications expected before November 30.](https://beninwebtv.com/en/the-bceao-opens-its-tests-to-fintechs-applications-expected-before-november-30/)** — Benin Web TV, 16 October 2026
 
-First LIF-BCEAO cohort; apply by 30 Nov 2026; crypto excluded; certificate after test is no licence.
+The BCEAO opened applications for the first cohort of its Financial Innovation Laboratory, a regulatory sandbox set up on 8 April 2025, in a call published on 14 October 2026. UEMOA fintechs and licensed institutions can apply until 30 November 2026 for supervised tests of three to six months; crypto-asset projects are excluded and a successful test does not confer a licence.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: COD
 ledger_rows: 58
 not_held: 7
-record: bcc5b4d0048f
+record: f45b6706b86f
 ---
 
 # News, Sep – Oct 2026
@@ -754,7 +754,7 @@ The DRC's tax directorate began nationwide checks of the standardised invoice on
 
 **[Digitalisation en RDC : l’IGF lance le recrutement d’un cabinet pour son Hub national de données financières - Scoop RDC](https://scooprdc.net/2026/10/14/digitalisation-en-rdc-ligf-lance-le-recrutement-dun-cabinet-pour-son-hub-national-de-donnees-financieres/)** — Scoop RDC, 14 October 2026
 
-Call for firms to build IGF's central financial-data warehouse; 12-month mission, bids due 30 October 2026.
+DR Congo's Inspection Générale des Finances is recruiting a firm to design and deploy a national financial-data hub, a central warehouse pulling data from several systems for control, audit and investigation work. The twelve-month assignment sits under the IGF's 2026-2028 digitalisation plan and includes staff training; applications close on 30 October 2026.
 
 </div>
 

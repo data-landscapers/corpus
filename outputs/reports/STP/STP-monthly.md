@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: STP
 ledger_rows: 1
 not_held: 5
-record: 1611ca1fc579
+record: 76f13a7d5081
 ---
 
 # News, Sep – Oct 2026

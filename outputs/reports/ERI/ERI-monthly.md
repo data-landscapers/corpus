@@ -1,11 +1,11 @@
 ---
 title: Eritrea — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: ERI
 ledger_rows: 3
 not_held: 23
-record: 3cd696b1c208
+record: 466f95379414
 ---
 
 # News, Sep – Oct 2026

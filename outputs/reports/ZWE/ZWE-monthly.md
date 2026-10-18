@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: ZWE
 ledger_rows: 40
 not_held: 7
-record: b432906c3744
+record: cfb09eb21dc2
 ---
 
 # News, Sep – Oct 2026
@@ -188,7 +188,7 @@ Zimbabwe's regulator POTRAZ, which acts as the country's data protection authori
 
 **[Zimra, ATAF Vic-Falls Indaba advances regional Tax Transparency agenda](https://www.heraldonline.co.zw/zimra-ataf-vic-falls-indaba-advances-regional-tax-transparency-agenda/)** — The Herald, 15 October 2026
 
-Treaty deposit 31 Aug 2026, in force 1 Jan 2027; ZIMRA formalising EOI unit, readying peer review and automatic exchange.
+ZIMRA's acting commissioner general told the continental exchange-of-information conference it co-hosted with ATAF in Victoria Falls that Zimbabwe deposited its ratification of the Convention on Mutual Administrative Assistance in Tax Matters on 31 August 2026, in force for it from 1 January 2027. He said ZIMRA is preparing for peer review and for automatic exchange of information.
 
 </div>
 

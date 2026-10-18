@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: SYC
 ledger_rows: 11
 not_held: 6
-record: cb80caf1bcca
+record: 7ee3a143b76b
 ---
 
 # News, Sep – Oct 2026

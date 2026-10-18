@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: SWZ
 ledger_rows: 37
 not_held: 3
-record: 48d4935395d5
+record: a23596eae741
 ---
 
 # News, Sep – Oct 2026

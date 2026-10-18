@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: TGO
 ledger_rows: 54
 not_held: 19
-record: bffebbe81e9c
+record: f4ca98d04471
 ---
 
 # News, Sep – Oct 2026
@@ -824,7 +824,7 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 
 **[Le Togo collecte des données en éwé, kabyè et moba pour entraîner ses futurs modèles d’IA](https://www.agenceecofin.com/actualites/1610-142485-le-togo-collecte-des-donnees-en-ewe-kabye-et-moba-pour-entrainer-ses-futurs-modeles-d-ia)** — Agence Ecofin, 16 October 2026
 
-Official launch October 2026; three-year programme; per language 50 audio hours, 6,000 sentence pairs, 500 speakers.
+Togo's digital transformation ministry launched Voix du Togo in October 2026, a three-year programme collecting voice and text data in national languages to train AI models, starting with Ewe, Kabiye and Moba. The target for each language is 50 hours of validated audio, 6,000 translated sentence pairs and at least 500 contributors; health, justice and administrative services are the intended uses.
 
 </div>
 
@@ -998,7 +998,7 @@ Togo's digital minister Cina Lawson announced on 1 October 2026 a space cooperat
 
 **[Togo-Chine : une douzaine d'accords multisectoriels signés à Pékin pour renforcer le partenariat bilatéral](https://presidenceduconseil.gouv.tg/2026/10/16/togo-chine-de-nouveaux-accords-multisectoriels-pour-renforcer-le-partenariat-bilateral/)** — Présidence du Conseil (Togo), 16 October 2026
 
-13 accords of 15 Oct 2026: digital-commerce cooperation, OTR customs AEO, CMG-TVT media, Global Security Initiative.
+Togo and China signed thirteen agreements and memoranda in Beijing on 15 October 2026, two days after raising relations to a 'China-Togo community with a shared future for the new era'. They include cooperation on digital commerce and supply chains, an Authorised Economic Operator protocol between Togo's revenue office and Chinese customs, China Media Group partnerships with Télévision togolaise and partial cancellation of Togo's debt; a separate memorandum covers China's Global Security Initiative.
 
 </div>
 

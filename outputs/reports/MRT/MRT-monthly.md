@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MRT
 ledger_rows: 23
 not_held: 3
-record: ef473b9a0ad2
+record: c98303c59aad
 ---
 
 # News, Sep – Oct 2026

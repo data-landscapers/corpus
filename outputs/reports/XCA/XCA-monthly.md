@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XCA
 ledger_rows: 13
 not_held: 0
-record: 30fce7e70589
+record: 67a82d9b91cd
 ---
 
 # News, Sep – Oct 2026

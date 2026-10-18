@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MWI
 ledger_rows: 45
 not_held: 32
-record: 36811478893c
+record: 04cc68da8007
 ---
 
 # News, Sep – Oct 2026
@@ -726,7 +726,7 @@ A World Bank team reviewed progress on Malawi's electronic procurement system MA
 
 **[Request for Proposals: consultancy services for a content delivery application (MACRA)](https://macra.mw/wp-content/uploads/2026/10/MACRA-36X6.pdf)** — Malawi Communications Regulatory Authority (MACRA), 14 October 2026
 
-Ref MACRA/IPDC/BROAD-CDA/2026/10/01; OTT, DRM and royalty tracking for creators; proposals open 3 Nov 2026.
+Malawi's communications regulator MACRA issued a request for proposals on 14 October 2026 for a National Content Delivery and Monetization Platform for broadcasters and creators. The system is to cover streaming, digital rights management, royalty reporting and mobile-money payments, with dashboards for COSOMA and the Censorship Board; proposals open on 3 November 2026.
 
 </div>
 
@@ -844,7 +844,7 @@ Malawi's communications regulator recommended AI surveillance cameras for Blanty
 
 **[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
 
-Licence PSP-003/26 issued 30 Sep 2026 under Payment Systems Act 2016; mobile money, card and bank aggregation.
+The Reserve Bank of Malawi issued fintech PayChangu payment service provider licence PSP-003/26 on 30 September 2026 under the Payment Systems Act 2016. It allows the firm to aggregate mobile money, card and bank-transfer payments on one platform.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: NER
 ledger_rows: 19
 not_held: 1
-record: 346d2e15b8ae
+record: 4c9a417245e9
 ---
 
 # News, Sep – Oct 2026
@@ -344,7 +344,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[Niger : Ministère de l'Éducation Nationale : Niamey](https://wassika.com/niger-ministere-de-leducation-nationale/)** — Wassika, 15 October 2026
 
-Education ministry reviews DUNE-RH HR platform, e-learning tools, data security and 2025-26 statistical yearbook.
+Niger's education minister Élisabeth Shérif chaired a meeting on 14 October 2026 that reviewed the ministry's digital platforms, including the DUNE-RH human-resources system and online training tools, and its draft 2025-2026 statistical yearbook. Data security was also discussed.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: UGA
 ledger_rows: 69
 not_held: 11
-record: 16ffc31e98cd
+record: 48e88a940487
 ---
 
 # News, Sep – Oct 2026
@@ -170,7 +170,7 @@ The Uganda Communications Commission said on 13 October 2026 that about 4,000 un
 
 **[MINISTRY OF TRADE TO INTRODUCE DIGITAL MARK FOR ONLINE CONSUMER PROTECTION](https://www.mediacentre.go.ug/release?slug=ministry-of-trade-to-introduce-digital-mark-for-online-consumer-protection)** — Uganda Media Centre, 15 October 2026
 
-Ministry-certified stamp for online sellers due within months; database to trace the legal entity behind a sale.
+Uganda's trade minister Sanjay Tanna told a press conference on 15 October 2026 that his ministry will introduce a digital mark for online sellers to protect consumers, expected within a few months. The ministry is also building a database of sellers.
 
 </div>
 
@@ -822,7 +822,7 @@ Uganda's parliamentary Physical Infrastructure Committee ordered two directors o
 
 **[Audit Russian digital number plate firm – MPs ask Auditor General](https://www.watchdoguganda.com/news/20261016/199568/audit-russian-digital-number-plate-firm-mps-ask-auditor-general.html)** — Watchdog Uganda, 16 October 2026
 
-Brief due within a week; AG got the agreement only 13 Oct; Presidency calls it an investor-financed pilot.
+Uganda's parliamentary physical infrastructure committee told Auditor General Edward Akol on 15 October 2026 to start a preliminary audit of the Intelligent Transport Management System digital number-plate project, run by a Russian firm, and report in writing the following Tuesday. Akol said he received the project agreement only on 13 October, and that the Office of the President calls the project an investor-financed pilot with no public funds spent.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XEA
 ledger_rows: 21
 not_held: 0
-record: f3a0bd08c19f
+record: 6799760bc145
 ---
 
 # News, Sep – Oct 2026

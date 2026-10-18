@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: NAM
 ledger_rows: 34
 not_held: 9
-record: d06873f75b3d
+record: dc1ac83410c0
 ---
 
 # News, Sep – Oct 2026
@@ -636,7 +636,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Bank of Namibia Targets Youth-led Fintech Businesses to Drive Jobs](https://businesspulse360.com/article/namibia-s-youth-led-fintech-startups-could-unlock-new-economic-opportunities)** — Business Pulse 360°, 14 October 2026
 
-BoN FinTech Youth Programme pitched at FinTech Square, Windhoek, 14 Oct 2026; skills, regulation, market access.
+At NAMFISA's FinTech Square conference in Windhoek on 14 October 2026, a Bank of Namibia innovation hub officer described the bank's FinTech Youth Programme. It trains young entrepreneurs in financial technology, digital services, regulatory requirements and market access so they can bring products to market.
 
 </div>
 

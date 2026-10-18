@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: SEN
 ledger_rows: 60
 not_held: 3
-record: 9ca7915f29d4
+record: c7af433eec01
 ---
 
 # News, Sep – Oct 2026
@@ -646,7 +646,7 @@ Senegal's education ministry says it has completed nationwide rollout of the edu
 
 **[Les ONG et associations invitées à s’inscrire sur la plateforme numérique e-OSC - APS](https://aps.sn/les-ong-et-associations-invitees-a-sinscrire-sur-la-plateforme-numerique-e-osc/)** — Agence de Presse Sénégalaise (APS), 16 October 2026
 
-Registry of zones, projects, funding and beneficiaries; prepares online NGO approval and association recognition.
+Senegal's Interior Ministry asked all NGOs and associations working in the country to register on its new e-OSC platform, which records their areas of work, projects, funding and beneficiaries. The ministry says the register will lead to NGO approval and association recognition being handled online, with training planned.
 
 </div>
 
@@ -756,7 +756,7 @@ Senegal plans to open a single public-services centre on Azerbaijan's ASAN Khidm
 
 **[GÉNÉRALISATION APPEL ET ACCÈS AUX OPPORTUNITÉS DE LA PLATEFORME :L’ARCOP accélère la préparation des entreprises](https://arcop.sn/2026/10/16/generalisation-appel-et-acces-aux-opportunites-de-la-plateforme-larcop-accelere-la-preparation-des-entreprises/)** — Autorité de Régulation de la Commande Publique (ARCOP), 16 October 2026
 
-2027 procurement plans on APPEL by 1 Dec 2026; 325+ contracting authorities in training; OPTIC firms briefed.
+Senegal's procurement regulator ARCOP told contracting authorities to load their 2027 procurement plans onto its APPEL e-procurement platform by 1 December 2026, ahead of general use from January 2027. It is training more than 325 contracting authorities and briefed ICT firms on the platform's electronic signature, encryption and timestamping.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: COG
 ledger_rows: 20
 not_held: 6
-record: f1c57789290c
+record: 343945a999c8
 ---
 
 # News, Sep – Oct 2026
@@ -50,7 +50,7 @@ record: f1c57789290c
 
 **[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026
 
-Livre Blanc 2nd edition and digital addressing project; mobile penetration 94.1%; postal-code decree July 2025.
+Congo's regulator ARPCE presented the second edition of its Livre Blanc and a digital postal-addressing project in Brazzaville on 15 October 2026. The minister asked that addressing be built as public infrastructure that works with digital ID, the data-exchange platform and payments, and the Livre Blanc's conclusions go to the interministerial task force on digitalising the administration.
 
 </div>
 
@@ -112,7 +112,7 @@ Congo's money-transfer regulator ARTF will require every money-transfer operator
 
 **[Gouvernance : mobiliser les ressources publiques](https://www.adiac-congo.com/content/gouvernance-mobiliser-les-ressources-publiques-172020)** — Les Dépêches de Brazzaville, 17 October 2026
 
-Assembly president Mvouba urges government to make the personal-data protection commission operational.
+Opening the National Assembly's budget session on 15 October 2026, its president Isidore Mvouba asked the Congolese government to make the National Commission for the Protection of Personal Data operational promptly. He linked digital sovereignty to control over health, civil-status, education, tax and social-protection data.
 
 </div>
 
@@ -330,7 +330,7 @@ Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met th
 
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
 
-First steering-committee meeting; four workstreams from e-visa to revenue and land data interoperability.
+The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 January 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
 
 </div>
 

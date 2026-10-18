@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: SLE
 ledger_rows: 31
 not_held: 5
-record: ed28e794c24b
+record: a4e5fa5520c0
 ---
 
 # News, Sep – Oct 2026
@@ -280,7 +280,7 @@ Sierra Leone's revenue authority has begun consultations with security agencies 
 
 **[Government Must Act on Tripartite Recommendation 15: Make National Identity Cards Affordable for Sierra Leoneans | OWLPRESS](https://owlpress-sl.com/government-must-act-on-tripartite-recommendation-15-make-national-identity-cards-affordable-for-sierra-leoneans/)** — Owlpress, 15 October 2026
 
-NCRA card fee rose from NLe 145 to NLe 165 on 23 Feb 2026; MP proposes NLe 50 to spare separate voter IDs.
+Sierra Leone MP Alpha Ben Mansaray, deputy parliamentary spokesman, asked the government on 15 October 2026 to implement the Tripartite Committee's recommendation 15 and subsidise national identity cards. The NCRA raised the standard card fee from NLe 145 to NLe 165 in February 2026; he proposes NLe 50, which he states is his own figure, not policy.
 
 </div>
 

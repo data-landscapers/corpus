@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: GAB
 ledger_rows: 49
 not_held: 14
-record: 4c113d95b3ed
+record: e6f2de629f89
 ---
 
 # News, Sep – Oct 2026

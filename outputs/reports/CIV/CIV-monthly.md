@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: CIV
 ledger_rows: 43
 not_held: 10
-record: 508bf897af59
+record: 91c9f4baa230
 ---
 
 # News, Sep – Oct 2026
@@ -464,7 +464,7 @@ The Central Bank of West African States announced on 8 October 2026 that WAEMU p
 
 **[RCI : PUSH veut digitaliser 3 000 Mds F de flux financiers](https://fr.apanews.net/cote-divoire/rci-push-veut-digitaliser-3-000-mds-f-de-flux-financiers/)** — APAnews, 15 October 2026
 
-Deals with BNI, Ecobank, Versus Bank and Orange Money; 700,000 accounts, 1.2m cocoa-producer accounts opened.
+Ivorian fintech PUSH announced in Abidjan on 15 October 2026 a plan to digitalise up to CFAF 3,000 billion of financial flows. It signed agreements with BNI, Ecobank and Versus Bank to track agricultural value-chain credit, and an interoperability and merchant-payment deal with Orange Money. PUSH reports more than 700,000 individual accounts and over 20 million transactions worth more than CFAF 600 billion.
 
 </div>
 

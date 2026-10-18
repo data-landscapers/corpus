@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: 0be40ec24599
+record: 416e5f7736b4
 ---
 
 # News, Sep – Oct 2026

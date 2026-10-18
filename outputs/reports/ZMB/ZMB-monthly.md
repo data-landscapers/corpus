@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: ZMB
 ledger_rows: 43
 not_held: 41
-record: 17beb1c1a8db
+record: 3a3240d548a0
 ---
 
 # News, Sep – Oct 2026
@@ -664,7 +664,7 @@ Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence ca
 
 **[Lusaka's water is about to get smarter](https://www.undp.org/zambia/news/lusakas-water-about-get-smarter)** — United Nations Development Programme (Zambia), 14 October 2026
 
-Prototype non-revenue-water platform on in-country compute; utility data kept under national control; MOU pending.
+UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot that will use AI on the utility's production, metering, billing and network data to find where water is lost. The work will run on the timbuktoo EDGE sovereign compute node at the University of Zambia AI UniPod; the partnership MOU has not yet been signed and no amount is stated.
 
 </div>
 

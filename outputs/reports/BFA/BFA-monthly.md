@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: BFA
 ledger_rows: 39
 not_held: 8
-record: 3f0f1bb107c8
+record: 98b7d168d68f
 ---
 
 # News, Sep – Oct 2026
@@ -320,7 +320,7 @@ Burkina Faso's national identification office opened nine extra enrolment sites 
 
 **[Burkina Faso : Désormais, la Gendarmerie nationale produit les CIB-AES et légalise les documents administratifs](https://aconews.net/burkina-faso-desormais-la-gendarmerie-nationale-produit-les-cib-aes-et-legalise-les-documents-administratifs/)** — Aconews, 16 October 2026
 
-Gendarmerie brigades join enrolment network; birth extract or nationality certificate still required.
+Burkina Faso's territorial gendarmerie brigades may now issue the AES biometric identity card (CIB-AES) and certify administrative documents. Enrolment still requires a birth-certificate extract or nationality certificate.
 
 </div>
 

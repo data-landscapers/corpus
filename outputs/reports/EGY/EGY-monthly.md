@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: 6b474a07ca2b
+record: 48c9b5d152fa
 ---
 
 # News, Sep – Oct 2026
@@ -1286,7 +1286,7 @@ Summarised under [AI](#ai).
 
 <div class="bulletin-item" markdown="1">
 
-**[A/HRC/63/L.25 - Implications of artificial intelligence for the promotion and protection of human rights (draft resolution)](https://documents.un.org/api/symbol/access?s=A/HRC/63/L.25&l=en&t=pdf)** — UN Human Rights Council, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[A/HRC/63/L.25 - Implications of artificial intelligence for the promotion and protection of human rights (draft resolution)](https://documents.un.org/api/symbol/access?s=A/HRC/63/L.25&l=en&t=pdf)** — UN Human Rights Council, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 A draft resolution on the implications of artificial intelligence for human rights, A/HRC/63/L.25, was tabled at the UN Human Rights Council's 63rd session on 28 September 2026 by 13 sponsors including Egypt, Algeria, Cameroon and Tunisia. It covers human oversight of and remedy for AI-made decisions, digital public infrastructure and open models, and calls for a panel discussion at the 65th session. This is the draft as tabled, not the adopted text.
 

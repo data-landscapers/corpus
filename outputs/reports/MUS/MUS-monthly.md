@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: MUS
 ledger_rows: 27
 not_held: 7
-record: 85eff7761649
+record: ec7b0c2b3f99
 ---
 
 # News, Sep – Oct 2026
@@ -440,7 +440,7 @@ Mauritius's ICT ministry says it is building an online application platform with
 
 **[Highlights of Cabinet Meeting - Friday 16 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2016%20October%20%202026.pdf)** — Office of the Prime Minister, Mauritius, 16 October 2026
 
-Riot damage to 162 Safe City cameras on 75 sites; MRA-ATAF Digital Tax Administration Conference 19-21 Oct 2026.
+Mauritius's Cabinet noted on 16 October 2026 that 162 Safe City cameras on 75 sites were damaged in the riots that began on 12 October. It also noted that the Mauritius Revenue Authority and ATAF will host the first Digital Tax Administration Conference on 19-21 October 2026.
 
 </div>
 
@@ -596,7 +596,7 @@ Mauritius Telecom and Amazon Web Services brought more than 125 delegates from s
 
 **[Partenariat SIL–TCS : Maurice accélère sa transformation numérique](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique)** — Top FM, 16 October 2026
 
-MoU signed 15 Oct 2026; skills transfer, public and private service modernisation; no sum stated; ICT minister Ramtohul.
+Mauritius's State Informatics Limited and India's Tata Consultancy Services signed a memorandum of understanding on 15 October 2026 covering digital solutions, skills transfer and modernisation of public and private services. ICT minister Avinash Ramtohul presented it as part of Mauritius-India technology cooperation; no value or timetable was given.
 
 </div>
 

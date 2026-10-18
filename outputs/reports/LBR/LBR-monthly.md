@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: LBR
 ledger_rows: 34
 not_held: 6
-record: 99585102d2ff
+record: 38143f0b6b5e
 ---
 
 # News, Sep – Oct 2026
@@ -418,7 +418,7 @@ Liberian civil society group Naymote, in a statement of 15 October 2026, urged t
 
 **[Liberian Senate Orders Review of US$52 Million Digital Identity Concession Agreement - Liberia Public Radio](https://liberiapublicradio.com/2026/10/16/liberian-senate-orders-review-of-us52-million-digital-identity-concession-agreement/)** — Liberia Public Radio, 16 October 2026
 
-Senate's Autonomous Agencies, Judiciary and Concessions committees to report in two weeks before ratification vote.
+Liberia's Senate sent President Boakai's proposed US$52 million build-operate-transfer concession with Germany's OeSD International for a national ID, civil registry and vital statistics system (NIDCRVS) to three committees. They are to report to plenary within two weeks, before any vote on ratification.
 
 </div>
 

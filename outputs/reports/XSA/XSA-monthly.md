@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: XSA
 ledger_rows: 14
 not_held: 2
-record: 07bdfb380f46
+record: 729849a00a8a
 ---
 
 # News, Sep – Oct 2026
