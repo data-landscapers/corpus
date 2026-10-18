@@ -3,9 +3,9 @@ title: South Africa — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: ZAF
-ledger_rows: 143
+ledger_rows: 148
 not_held: 21
-record: e92cd5282363
+record: f11d5910f629
 ---
 
 # News, Sep – Oct 2026
@@ -1200,6 +1200,20 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payment system cybersecurity and cyber-resilience directive (Directive 1 of 2024)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026
+
+NPS directives list: cyber resilience 1 of 2024, CMA cross-border EFT 1 of 2025; offshore-merchant draft directive 2026.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -1620,6 +1634,48 @@ UK money-transfer firm Wise has received category 2 authorisation from the South
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Common Monetary Area low-value cross-border EFT directive (Directive 1 of 2025)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft directive on payments to offshore merchants</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SARS tax and customs payment channels</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guide to SARS Payment Rules](https://www.sars.gov.za/guide-to-sars-payment-rules/)** — South African Revenue Service, 17 October 2026
+
+Customs electronic declarants must pay via eFiling; no bank cash deposits for traders; MobiApp and card options listed.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1659,6 +1715,20 @@ KwaZulu-Natal is launching a portal listing its public works properties, after a
 **[DSD introduces new NPO system: here’s what you need to know](https://www.citizen.co.za/news/south-africa/dsd-introduces-new-npo-system-heres-what-you-need-to-know/)** — The Citizen (South Africa), 13 October 2026
 
 South Africa's Department of Social Development switches off its old NPO registration and reporting system on 15 October 2026, moving all non-profits to the online system introduced on 1 September 2025. The department says the platform links with CIPC, SARS and Home Affairs; manual submissions are no longer accepted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SARS Client Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Client Information System | South African Revenue Service](https://www.sars.gov.za/client-segments/client-information-system/)** — South African Revenue Service (SARS), 17 October 2026
+
+Single tax and customs profile since 2014; CIPC companies auto-registered by interface; no postal or email updates.
 
 </div>
 
