@@ -42,14 +42,14 @@ SEN,2,draft,,SEN-001
 SLE,no evidence,,,
 SOM,no evidence,,,
 SSD,no evidence,,,
-STP,no evidence,,,
+STP,4,published,required,STP-002;STP-001
 SWZ,no evidence,,,
 SYC,no evidence,,,
 TCD,no evidence,,,
 TGO,no evidence,,,
 TUN,no evidence,,,
 TZA,3,published,,TZA-001
-UGA,no evidence,,,
+UGA,3,published,,UGA-001
 ZAF,2,draft,,ZAF-001
 ZMB,3,published,,ZMB-001
 ZWE,no evidence,,,

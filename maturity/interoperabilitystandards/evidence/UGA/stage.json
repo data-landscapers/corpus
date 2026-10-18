@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names technical standards for government systems to exchange data, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No source held says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

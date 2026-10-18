@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy asks for technical standards
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
-| 3 Established | 6 |
+| 4 Operating | 3 |
+| 3 Established | 7 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 36 |
+| No evidence | 34 |
 
 ## Countries
 
@@ -43,6 +43,13 @@ Côte d'Ivoire's 2021 decree adopts a list of technical standards and binds publ
 
 - Article 3 of Decree 2021-913 states that public bodies are bound to conform to the RGI, making its technical, syntactic and semantic interoperability standards compulsory for their information systems ([source, 2021-12-22](https://anssi.gouv.ci/documents/28/décret_2021-913_du_22_décembre_2021_adoption_référentiel_général_dinteropérabilité_systèmes_dinformation.pdf)).
 - Decree 2021-913 of 22 December 2021 adopts the Referentiel General d'Interoperabilite (RGI), annexed to it, a list of reference standards for e-administration systems covering technical protocols (IP, TCP, HTTP, SMTP, SOAP/REST web services), data formats and encodings (XML, JSON, XSD, PDF/A, UTF-8, geospatial formats), pivot data formats, and semantic key terms ([source, 2021-12-22](https://anssi.gouv.ci/documents/28/décret_2021-913_du_22_décembre_2021_adoption_référentiel_général_dinteropérabilité_systèmes_dinformation.pdf)).
+
+### Sao Tome and Principe: 4 Operating
+
+A 2024 law publishes interoperability standards for government systems and makes the mandatory ones compulsory; no system is known to have been checked.
+
+- Lei 1/2024 grades the QNI's technical specifications as mandatory or recommended, and requires the mandatory ones to be adopted in all new IT products and projects of the public institutions it covers ([source, 2024-01-29](https://inic.gov.st/viewdoc.php?id=26)).
+- Lei 1/2024, gazetted 29 January 2024, institutes the National Interoperability Framework (QNI) with technical specifications regulating ICT use for interoperability of e-government services, applicable to all public institutions ([source, 2024-01-29](https://inic.gov.st/viewdoc.php?id=26)).
 
 ### Benin: 3 Established
 
@@ -74,6 +81,12 @@ Mozambique's interoperability regulation sets standards for public information s
 Tanzania's e-Government Agency published technical standards for government systems in 2016; whether public bodies must use them is not known.
 
 - The e-Government Agency issued version 1.0 of the e-Government Interoperability Framework - Standards and Technical Guidelines (eGA/EXT/GIF/001) in February 2016, setting nine technical standards areas for government systems to exchange data: interconnection, data integration (character encoding, data exchange formats, data modelling language), access, collaboration, application design and development, application integration, system standards, metadata and security ([source, 2016-02](https://www.ega.go.tz/uploads/standards/sw-1574945623-inter.pdf)).
+
+### Uganda: 3 Established
+
+Uganda's 2026 interoperability framework publishes data-sharing standards; no law or decree requiring public bodies to use them is known.
+
+- NITA-U's e-Government Interoperability Framework e-GIF-2026, dated 15 April 2026, sets standards for government systems sharing data, among them DCAT for metadata and machine-readable ODRL usage policies, for all ministries, agencies and local governments; it describes itself as mandatory ([source, 2026-04-15](https://www.nita.go.ug/sites/default/files/2026-07/Uganda%20e-Government%20Interoperability%20Framework%20%28e-GIF%29-2026.pdf)).
 
 ### Zambia: 3 Established
 
@@ -299,12 +312,6 @@ Nothing held names technical standards for government systems to exchange data o
 
 Not established: Nothing held names technical standards for government systems to exchange data, or says there are none.
 
-### Sao Tome and Principe: No evidence
-
-Nothing held names technical standards for government systems to exchange data or says there are none, so no stage is set.
-
-Not established: Nothing held names technical standards for government systems to exchange data, or says there are none.
-
 ### Seychelles: No evidence
 
 Nothing held names technical standards for government systems to exchange data or says there are none, so no stage is set.
@@ -342,12 +349,6 @@ Nothing held names technical standards for government systems to exchange data o
 Not established: Nothing held names technical standards for government systems to exchange data, or says there are none.
 
 ### Tunisia: No evidence
-
-Nothing held names technical standards for government systems to exchange data or says there are none, so no stage is set.
-
-Not established: Nothing held names technical standards for government systems to exchange data, or says there are none.
-
-### Uganda: No evidence
 
 Nothing held names technical standards for government systems to exchange data or says there are none, so no stage is set.
 
