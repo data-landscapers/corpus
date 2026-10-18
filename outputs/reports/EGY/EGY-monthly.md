@@ -3,9 +3,9 @@ title: Egypt — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: EGY
-ledger_rows: 94
-not_held: 44
-record: 48c9b5d152fa
+ledger_rows: 95
+not_held: 42
+record: c5778eb6f91e
 ---
 
 # News, Sep – Oct 2026
@@ -1125,6 +1125,20 @@ The head of Egypt's Real Estate Tax Authority, Rami Youssef, acknowledged faults
 **[Complaints mount over “difficult” real estate tax app as taxpayers press for deadline extension](https://enterpriseam.com/egypt/2026/09/28/complaints-mount-over-difficult-real-estate-tax-app-as-taxpayers-press-for-deadline-extension/)** — Enterprise (EnterpriseAM Egypt), 28 September 2026
 
 Egypt's finance ministry is reviewing an extension to the property-tax filing deadline after complaints about its new app, which the deputy finance minister said had about 1.2m users against 10m registrations expected.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Notarisation and real-estate registry services on Digital Egypt</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[أبرز خدمات الشهر العقاري أونلاين، استخراج التوكيلات والاستعلام عن المعاملات وحجز موعد عبر مصر الرقمية](https://www.vetogate.com/5748525)** — فيتو (Vetogate), 11 October 2026
+
+Powers of attorney, transaction lookup, office booking and mobile notary requests on Digital Egypt; some need visits.
 
 </div>
 

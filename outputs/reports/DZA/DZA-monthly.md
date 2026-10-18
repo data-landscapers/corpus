@@ -3,9 +3,9 @@ title: Algeria — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: DZA
-ledger_rows: 37
+ledger_rows: 39
 not_held: 5
-record: 7c101758b318
+record: 4d8954dc903a
 ---
 
 # News, Sep – Oct 2026
@@ -468,6 +468,28 @@ Algeria's prime minister, Sifi Ghrieb, ordered an immediate national census of i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Company-creation single portal (commercial register centre)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Acceuil — Portail de création d'entreprise en Algérie](https://sidjilcom-entreprise.cnrc.dz/acceuil)** — Centre National du Registre du Commerce (CNRC), 17 October 2026
+
+One online filing reaches CNRC, tax, CNAS, CASNOS and ONS; common identifier within three days of approval.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Création d'entreprise : Personne morale](https://sidjilcom-entreprise.cnrc.dz/creation-d-entreprise-personne-morale)** — Centre National du Registre du Commerce (CNRC), 17 October 2026
+
+Eight steps for a company; name reservation and legal notices online, fees payable by CIB or Edahabia card.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -487,6 +509,20 @@ Algeria's digitalisation high commission and the domestic trade ministry held a 
 **[Penal code, fire damage compensation, digitization on agenda](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda)** — Algerie Presse Service (APS), 9 September 2026
 
 Algeria's prime minister, Sifi Ghrieb, chaired a government meeting on 9 September 2026 that took up the Penal Code, damage from recent fires and a unified digital system for regulating and supplying the national market, his office said. No detail of the digital system is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic patient record and remote monitoring</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé : Alger fixe au 15 novembre l'échéance finale pour la numérisation totale des hôpitaux](https://elwatan.dz/sante-alger-fixe-au-15-novembre-lecheance-finale-pour-la-numerisation-totale-des-hopitaux/)** — El Watan, 8 September 2026
+
+Non-extendable 15 November 2026 deadline; single national patient number; weekly reports; extra budget.
 
 </div>
 
