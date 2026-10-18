@@ -3,9 +3,9 @@ title: Eswatini — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SWZ
-ledger_rows: 37
+ledger_rows: 38
 not_held: 3
-record: a23596eae741
+record: 69d831c9ce1c
 ---
 
 # News, Sep – Oct 2026
@@ -721,8 +721,26 @@ About 40 change agents from five ministries and parastatals held a change-readin
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BIKA public transport reporting platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GOVT ROLLS-OUT BIKA PLATFORM TO COMBAT CORRUPTION, ABUSE ON PUBLIC TRANSPORT IN REAL-TIME](https://eswatinipositivenews.online/govt-rolls-out-bika-platform-to-combat-corruption-abuse-on-public-transport-in-real-time/)** — Eswatini Positive News, 21 September 2026
+
+Anonymous reports with tracking ID on kombis, overloading and bribery; police, fire services and ACC linked.
+
+</div>
+
+</div>
 
 ### Digital divides
 

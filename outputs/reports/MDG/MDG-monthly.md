@@ -3,9 +3,9 @@ title: Madagascar — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: MDG
-ledger_rows: 30
+ledger_rows: 33
 not_held: 5
-record: f4534e1a06d0
+record: d82649819e95
 ---
 
 # News, Sep – Oct 2026
@@ -384,6 +384,20 @@ Antananarivo's urban commune began digitalising its markets: traders are registe
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Development fund cash-transfer payments by mobile money and QR code</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La sélection des prestataires de services de transfert monétaires par mobile money](https://www.fid.mg/la-selection-des-prestataires-de-services-de-transfert-monetaires-par-mobile-money-n05-2026-aon-fid-dg-eager-26-03-11-2026/)** — Fonds d'Intervention pour le Développement (FID), 9 October 2026
+
+FID tender N°05/2026 for mobile money cash-transfer providers in seven lots, World Bank EAGER funds, closes 3 Nov 2026.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -445,6 +459,20 @@ Madagascar's industrialisation ministry handed biometric cards to the first 124 
 **[TRANSPARENCE – Le RCBE entre dans sa phase d’exploitation avec le croisement des données | 2424.mg - L'actualité à Madagascar en temps réel](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees)** — 2424.mg, 22 September 2026
 
 Madagascar's tax directorate signed four agreements on 18 September 2026 to cross-check its central register of beneficial owners against data held by the companies register, the Bianco anti-corruption bureau, the Economic Development Board and the chamber of notaries. The finance ministry said the register, launched on 16 June 2026, now moves from build to operation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taxpayer register and NIFonline</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026
+
+Tax ID (NIF) pre-registration online via NIFONLINE; applicants still present originals at the tax office.
 
 </div>
 
@@ -609,6 +637,20 @@ Madagascar's Ministry of Technical Education and Vocational Training signed a pa
 **[Projet « Pilote Laptop » : facilitation de l'accès aux outils numériques](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/)** — Newsmada, 8 September 2026
 
 Madagascar's microfinance institution Paositra Finances launched a scheme at Ankatso letting 1,400 master's students at the universities of Antananarivo and Fianarantsoa buy laptops on 12-month credit. Students pay a 20% deposit of about 210,000 ariary, then 75,000 ariary a month. The scheme draws on part of the World Bank-financed DECIM digital and energy connectivity project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Assembly online public consultations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consultations Publiques](https://parlement.mg/consultations/)** — Assemblée nationale de Madagascar, 17 October 2026
+
+National Assembly online consultations: Electoral Code reform (Feb-Mar 2026), environment bill, 2026 budget priorities.
 
 </div>
 
