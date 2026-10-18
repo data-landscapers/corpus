@@ -21,8 +21,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 11 |
-| 3 Established | 13 |
+| 4 Operating | 10 |
+| 3 Established | 14 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
 | Unplaced | 1 |
@@ -121,13 +121,6 @@ Morocco's 2018 law on the right of access to information is in force and its com
 
 - The Ministry of Justice reports that the Right to Access Information Commission, led by its president, signed a partnership agreement with the minister on 31 March 2026, showing the commission is set up and running the national portal ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 - The Ministry of Justice says requests and complaints are filed and processed under Law No. 31.13 on the right of access to information, which names the bodies covered in its article 2; the document gives no year for the law, so it is dated to its publication ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
-
-### Senegal: 4 Operating
-
-Senegal's access to information law was promulgated in September 2025 and its commission created; decisions on requests are not known.
-
-- The OGP Independent Reporting Mechanism reports that Senegal created the Commission nationale d'accès à l'information (CONAI) under the law; the report gives no date for its creation, so its publication date 2026-05-22 is used ([source, 2026-05-22](https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/)).
-- The OGP Independent Reporting Mechanism reports that Senegal adopted the access to information law and now has a specific legal framework for the right to information, with sanctions for non-compliance; the report gives no date for the law, so its publication date 2026-05-22 is used ([source, 2026-05-22](https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/)).
 
 ### Seychelles: 4 Operating
 
@@ -240,6 +233,13 @@ Niger's 2011 ordinance on access to public information is in force and was cited
 Rwanda's 2013 law on access to information is in force; rules made under it and an oversight body are not known.
 
 - This document is the text of Law No 04/2013 of 08/02/2013 relating to Access to Information, Rwanda's access to information law, dated 8 February 2013 and published 11 March 2013 ([source, 2013-02-08](https://rwandalii.org/akn/rw/act/law/2013/4/eng@2013-03-11/source)).
+
+### Senegal: 3 Established
+
+Senegal's access to information law was promulgated in September 2025 and provides for a commission; whether its members are appointed is not known.
+
+- The document is the text of Loi n° 2025-15 on access to information, adopted by the National Assembly on 26 August 2025, promulgated at Dakar on 4 September 2025 and published in the Journal Officiel of 25 September 2025 ([source, 2025](https://www.archives.sn/api/fichiers/e05027c9-f6f2-4f70-a313-b0ee81cf2c08)).
+- The OGP Independent Reporting Mechanism reports that Senegal adopted the access to information law and now has a specific legal framework for the right to information, with sanctions for non-compliance; the report gives no date for the law, so its publication date 2026-05-22 is used ([source, 2026-05-22](https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/)).
 
 ### Sudan: 3 Established
 

@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-003;SEN-002",
-   "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-005;SEN-002",
+      "gaps": "No source held says the commission the law creates has been appointed or is at work, or names rules made under the law.",
+      "note": "Reassessed in the rebuild: the OGP report's 'created the CONAI' is the law providing for the commission, read as Guinea's law creating its commission is, not the commission appointed; so the law is in force and the stage stops at 3.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

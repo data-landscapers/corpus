@@ -1,5 +1,5 @@
 study,key,indicator_id,last_reviewed,minutes,tokens,staged
-accesstoinformationlaw,law,gov.legislate--access-to-information-legislation-access-to-information-law,,,,
+accesstoinformationlaw,law,gov.legislate--access-to-information-legislation-access-to-information-law,2026-10-18,25,40.1,31
 addressregister,address,dpi.registry--address-register-address-register,,,,
 admindata,admin,data.statistics--statistics-from-administrative-data-statistics-from-administrative-data,,,,
 agrisatellite,agrisat,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,,,,

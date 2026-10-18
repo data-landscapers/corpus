@@ -9,3 +9,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,GMB,gov.legislate--access-to-information-legislation-access-to-information-law,fact,4,4,GMB-004;GMB-006;GMB-008,Arrivals added GMB-008; GMB-009; stage unchanged.
 2026-10-17,SLE,gov.legislate--access-to-information-legislation-access-to-information-law,fact,4,4,SLE-003;SLE-008;SLE-012,Arrivals added SLE-012; stage unchanged.
 2026-10-17,ZAF,gov.legislate--access-to-information-legislation-access-to-information-law,fact,5,5,ZAF-003;ZAF-010;ZAF-001,Arrivals added ZAF-011; stage unchanged.
+2026-10-18,SEN,gov.legislate--access-to-information-legislation-access-to-information-law,review,4,3,SEN-005;SEN-002,"Rebuild: the OGP report says the law created the commission, not that it was appointed; read as Guinea's, so 4 to 3."
