@@ -21,9 +21,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
+| 4 Operating | 7 |
 | 3 Established | 23 |
-| 2 Nascent | 3 |
+| 2 Nascent | 4 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 14 |
@@ -59,13 +59,6 @@ Government staff built a system that went live in 2026; no career structure for 
 
 - The platform developed by LRA programmers was launched at Liberia National Police Headquarters on Friday 1 May 2026, replacing a manual process; the document is dated 3 May ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 - The online police clearance platform was developed by Liberia Revenue Authority programmers, and the LRA's Management Information Services Division described it as showing local professionals' technical expertise ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
-
-### Libya: 4 Operating
-
-Government staff built a system that went live in 2024; no career structure for government IT staff is known.
-
-- The General Information Authority thanked its own engineer and technical team who designed and developed the updated tenders platform, which went live ([source, 2024-02-13](https://www.gia.gov.ly/2024/03/11/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%8a%d8%b9%d9%84%d9%86-%d8%a8%d8%af%d8%a1/)).
-- Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
 
 ### Nigeria: 4 Operating
 
@@ -259,6 +252,12 @@ Government staff run or maintain systems by 2023; no body is known to serve the 
 Government staff run or maintain systems by 2026; no body is known to serve the rest of government.
 
 - NOSI states its own specialists are working round the clock, with the implementing company, the project consultant and the data centre, to fix slow performance in its digital transformation system, live since 24 February 2026 ([source, 2026-04-22](https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx)).
+
+### Libya: 2 Nascent
+
+Government staff run or maintain systems by 2026; no body is known to serve the rest of government.
+
+- Libya's Ministry of Technical and Vocational Education states its Informatics and Documentation Department, through its Information Systems Section, is overseeing the update project of the ministry's electronic archiving system, developed from feedback by users across the ministry's offices; the document's published date 2026-09-23 is used as it gives no other date ([source, 2026-09-23](https://lana.gov.ly/post.php?id=366096&lang=ar)).
 
 ### Eswatini: 1 Absent
 

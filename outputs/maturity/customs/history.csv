@@ -14,7 +14,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MLI,dpi.mis--customs-customs,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,MOZ,dpi.mis--customs-customs,review,no evidence,unplaced,,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,MRT,dpi.mis--customs-customs,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,dpi.mis--customs-customs,fact,no evidence,5,MWI-006,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MWI,dpi.mis--customs-customs,fact,no evidence,4,MWI-001,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,NAM,dpi.mis--customs-customs,review,no evidence,3,NAM-001;NAM-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,NGA,dpi.mis--customs-customs,fact,4,4,NGA-005;NGA-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,RWA,dpi.mis--customs-customs,review,unplaced,3,RWA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
@@ -24,5 +24,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SYC,dpi.mis--customs-customs,fact,3,3,SYC-002;SYC-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,TUN,dpi.mis--customs-customs,review,no evidence,2,TUN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.mis--customs-customs,review,no evidence,unplaced,,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZMB,dpi.mis--customs-customs,review,no evidence,4,ZMB-005;ZMB-003,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZMB,dpi.mis--customs-customs,review,no evidence,4,ZMB-005,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,ZWE,dpi.mis--customs-customs,review,no evidence,4,ZWE-004,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

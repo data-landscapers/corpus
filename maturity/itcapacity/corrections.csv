@@ -1,7 +1,8 @@
 iso3,n,action,why
 GAB,014,removed,"A pilot with two administrations, not a system gone live: a pilot is other (study file §1)."
-GAB,017,removed,"The same GED pilot launch as GAB-014."
-NGA,002,removed,"The row itself says the document does not state who wrote the code; NGA-004 carries the portal on a source that does."
+GAB,017,removed,The same GED pilot launch as GAB-014.
+NGA,002,removed,The row itself says the document does not state who wrote the code; NGA-004 carries the portal on a source that does.
 ZMB,019,removed,"A pilot at one hospital, not a system gone live: a pilot is other (study file §1)."
-GNQ,001,removed,"GETESA is the state telecom operator; its network maintenance contracted out says nothing of who runs government systems."
+GNQ,001,removed,GETESA is the state telecom operator; its network maintenance contracted out says nothing of who runs government systems.
 ZMB,024,added,"The parent's row: ZMB-002's source states SMART Office was developed in-house and was being rolled out to the Ministry of Health in June 2025, which is a go-live; the second drafter read it so."
+LBY,002,removed,"Top-stage check, stage 4c 2026-10-18: The GIA release thanks a named engineer as 'designer and developer' of the platform, plus the technical team. Nothing says they are GIA staff rather than contractors, so 'its own engineer' is inferred, and the ladder needs a system built by government staff. The platform did go live in Feb 2024."

@@ -20,9 +20,9 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 15 |
+| 5 Leading | 13 |
 | 4 Operating | 2 |
-| 3 Established | 5 |
+| 3 Established | 7 |
 | 2 Nascent | 19 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
@@ -66,12 +66,6 @@ Figures for government e-procurement were reported in 2026.
 
 - The PPDA e-Government Procurement Manager says 232 PDEs uploaded their Annual Procurement Plans out of the 250 targeted in the first phase ([source, 2026-03](https://www.ppda.mw/newsdetail/58)).
 
-### Mauritania: 5 Leading
-
-Figures for government e-procurement were reported in 2026.
-
-- The ministry reports SIGMAP used by 200 contracting authorities and 91 procurement commissions with over 600 users, and 274 annual procurement plans and 179 annual purchasing plans published on it ([source, 2026-07-22](https://trustmag.net/article/hDaLLNiaP)).
-
 ### Mauritius: 5 Leading
 
 Figures for government e-procurement were reported in 2024.
@@ -114,12 +108,6 @@ Figures for government e-procurement were reported in 2024.
 
 - ZPPA said 14,732 tenders from 431 procuring entities were published on E-GP in the third quarter of 2024 ([source, 2024-09](https://www.zambiamonitor.com/procurement-authority-threatens-sanctions-against-officers-who-fail-to-implement-e-gp-system/)).
 
-### Zimbabwe: 5 Leading
-
-Figures for government e-procurement were reported in 2024.
-
-- PRAZ chief executive Clever Ruswa says over 9,900 suppliers and over 380 procuring entities had registered on the eGP platform by 31 March 2024 ([source, 2024-03-31](https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/)).
-
 ### Kenya: 4 Operating
 
 Government e-procurement ran end to end in 2026; figures for its use are not reported.
@@ -158,11 +146,24 @@ A government e-procurement system was in service in 2026; end-to-end use is not 
 - The ARMP states that the national e-GP platform Telemo entered a new phase of use in September 2026, with companies registering on it and the system described by its Director General as in place and under way ([source, 2026-09](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/)).
 - Guinea rolled out TELEMO, a national e-procurement platform from a Guinea-Rwanda South-South partnership, officially launched on 17 November 2025 on behalf of the Head of State, per Smart Africa ([source, 2025-11-17](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
 
+### Mauritania: 3 Established
+
+A government e-procurement system was in service in 2024; end-to-end use is not known.
+
+- ARMP and the digital ministry launched the national public procurement portal on 3 December 2024, carrying procurement plans, tender announcements and results ([source, 2024-12-03](https://emergence.mr/2024/12/05/lancement-du-portail-national-des-marches-publics-en-mauritanie/)).
+
 ### Sao Tome and Principe: 3 Established
 
 A government e-procurement system was in service in 2025; end-to-end use is not known.
 
 - The government officially launched the Portal dos Contratos Públicos, described as the country's first electronic platform of its kind, centralising procurement notices, contracts and tender plans ([source, 2025-11-22](https://glebatv.st/todas-noticias/sao-tome-e-principe-lanca-portal-dos-contratos-publicos-para-reforcar-transparencia)).
+
+### Zimbabwe: 3 Established
+
+A government e-procurement system was in service in 2024; end-to-end use is not known.
+
+- The Herald reports the electronic Government Procurement (eGP) system, launched in October 2023, was in use by 31 March 2024, with PRAZ saying it automates bid submission, evaluation and communication ([source, 2024-03-31](https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/)).
+- PRAZ chief executive Clever Ruswa says over 9,900 suppliers and over 380 procuring entities had registered on the eGP platform by 31 March 2024 ([source, 2024-03-31](https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/)).
 
 ### Botswana: 2 Nascent
 

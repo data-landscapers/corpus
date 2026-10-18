@@ -9,7 +9,7 @@ CIV,4,inservice,electronic,,CIV-001
 CMR,4,inservice,electronic,,CMR-001
 COD,unplaced,,,,
 COG,4,inservice,electronic,,COG-001
-COM,4,inservice,electronic,,COM-002;COM-004
+COM,4,inservice,electronic,,COM-004;COM-007
 CPV,3,inservice,,,CPV-001
 DJI,no evidence,,,,
 DZA,no evidence,,,,
@@ -27,7 +27,7 @@ LBR,unplaced,,,,
 LBY,3,inservice,,,LBY-001
 LSO,3,inservice,,,LSO-002
 MAR,no evidence,,,,
-MDG,4,inservice,electronic,,MDG-001
+MDG,no evidence,,,,
 MLI,no evidence,,,,
 MOZ,4,inservice,electronic,,MOZ-005
 MRT,3,inservice,,,MRT-002;MRT-001

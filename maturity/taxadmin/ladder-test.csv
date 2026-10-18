@@ -29,7 +29,7 @@ LSO,4,inservice,electronic,,LSO-004;LSO-002
 MAR,4,inservice,electronic,,MAR-002
 MDG,2,underway,,,MDG-001
 MLI,4,inservice,electronic,,MLI-003
-MOZ,4,inservice,electronic,,MOZ-003
+MOZ,3,inservice,,,MOZ-002;MOZ-003
 MRT,4,inservice,electronic,,MRT-002
 MUS,5,inservice,electronic,most,MUS-003
 MWI,2,underway,,,MWI-001

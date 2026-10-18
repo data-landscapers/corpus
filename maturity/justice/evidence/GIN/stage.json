@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "5",
-      "cases": "inservice",
-      "filing": "online",
-      "public": "open",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
       "cap": "",
       "flags": "",
       "stage_sources": "GIN-001",
-      "gaps": "",
+      "gaps": "No source held since October 2023 says: do courts manage cases electronically.",
       "note": "First pass: counted from the four questions by study-ladder-justice.py.",
       "as_at": "2026-10-18"
     }

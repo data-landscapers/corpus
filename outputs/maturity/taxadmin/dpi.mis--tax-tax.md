@@ -21,8 +21,8 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 18 |
-| 3 Established | 8 |
+| 4 Operating | 17 |
+| 3 Established | 9 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 9 |
@@ -46,7 +46,7 @@ Online filing was mandatory or used by most taxpayers in 2026.
 
 Online filing was mandatory or used by most taxpayers in 2026.
 
-- The DGID says use of SENTAX is mandatory and paper returns are no longer accepted for Large Enterprise Directorate taxpayers from 1 September 2026, and for the Dakar medium-enterprise centres and regulated professions centre from 1 October 2026 ([source, 2026-10-01](https://www.dgid.sn/sentax)).
+- The DGID says use of SENTAX is mandatory and paper returns are no longer accepted for Large Enterprise Directorate taxpayers from 1 September 2026, and for the Dakar medium-enterprise centres and regulated professions centre from 1 October 2026 ([source, 2026-09](https://www.dgid.sn/sentax)).
 - The DGID says use of SENTAX becomes mandatory for all declarations and payments of Large Enterprises Directorate taxpayers from 1 September 2026, and paper returns are no longer accepted by that directorate ([source, 2026-09-01](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf)).
 
 ### Togo: 5 Leading
@@ -138,12 +138,6 @@ Taxes could be filed online and paid electronically in 2024; mandatory or majori
 
 - The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
-### Mozambique: 4 Operating
-
-Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
-
-- PwC says taxpayers registered on the online platform generate a reference number there and pay VAT, employment-income PIT and CIT through their commercial bank ([source, 2026-08-11](https://taxsummaries.pwc.com/mozambique/individual/tax-administration)).
-
 ### Nigeria: 4 Operating
 
 Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
@@ -200,6 +194,13 @@ Tax returns could be filed online in 2026; electronic payment is not known.
 
 - The Star column says KRA's iTax portal takes electronically submitted returns, with VAT returns filed on iTax from mid-August 2026 after moving off the offline Excel template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
 - KRA's public notice of 23 April 2026 says that from May 2026 validated export values from iCMS are prefilled in the VAT return in iTax, which taxpayers file there ([source, 2026-05](https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax)).
+
+### Mozambique: 3 Established
+
+Tax returns could be filed online in 2026; electronic payment is not known.
+
+- PwC's page, last reviewed 11 August 2026, says the Mozambique Tax Authority's eDeclaração platform takes online income tax returns and the Contribuinte Portal takes monthly VAT returns, with manual filing also allowed ([source, 2026-08-11](https://taxsummaries.pwc.com/mozambique/individual/tax-administration)).
+- PwC says taxpayers registered on the online platform generate a reference number there and pay VAT, employment-income PIT and CIT through their commercial bank ([source, 2026-08-11](https://taxsummaries.pwc.com/mozambique/individual/tax-administration)).
 
 ### Namibia: 3 Established
 

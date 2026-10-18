@@ -20,10 +20,10 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 4 |
 | 4 Operating | 6 |
 | 3 Established | 10 |
-| 2 Nascent | 17 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 10 |
@@ -35,12 +35,6 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 Court judgments or case status were open online in 2026.
 
 - Algeria's Minister of Justice announced on 22 September 2026 that the national electronic window for administrative jurisdictions now covers the administrative courts of appeal and the Council of State, letting litigants and their lawyers consult and track their cases and read the operative parts of judgments and decisions online from any administrative jurisdiction ([source, 2026-09-22](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)).
-
-### Guinea: 5 Leading
-
-Court judgments or case status were open online in 2026.
-
-- Judicalex says it has digitised the hearing roll, now online, and all decisions of the Conakry commercial court since its creation, including judgments and orders ([source, 2026-03-04](https://judicalex-gn.org/blog/post/tribunal-du-commerce-le-ministre-de-la-justice-ibrahima-sory-2-tounkara-decouvre-les-installations-de-judicalex/)).
 
 ### Togo: 5 Leading
 
@@ -221,6 +215,12 @@ A court case management system was under way in 2025; none in service is on reco
 A court case management system was under way in 2025; none in service is on record.
 
 - The Labari Journal reports that Ghana's World Bank-funded eJustice system, meant to automate court registry filing through to execution of decisions, is still being rolled out and an IMF 2024 governance report says it has "stalled" ([source, 2025-12-01](https://labarijournal.com/is-ghanas-3-million-ejustice-system-is-underdelivering/)).
+
+### Guinea: 2 Nascent
+
+A court case management system was under way in 2026; none in service is on record.
+
+- Judicalex says it has digitised the hearing roll, now online, and all decisions of the Conakry commercial court since its creation, including judgments and orders ([source, 2026-03-04](https://judicalex-gn.org/blog/post/tribunal-du-commerce-le-ministre-de-la-justice-ibrahima-sory-2-tounkara-decouvre-les-installations-de-judicalex/)).
 
 ### Lesotho: 2 Nascent
 

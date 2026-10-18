@@ -13,12 +13,12 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,LBY,dpi.mis--tax-tax,review,no evidence,2,LBY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,LSO,dpi.mis--tax-tax,fact,4,4,LSO-004;LSO-002,Stage 4c: 5 news arrival(s) read; restaged from every row held.
 2026-10-18,MAR,dpi.mis--tax-tax,review,4,4,MAR-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MOZ,dpi.mis--tax-tax,review,no evidence,4,MOZ-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.mis--tax-tax,review,no evidence,3,MOZ-002;MOZ-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,NAM,dpi.mis--tax-tax,fact,3,3,NAM-002;NAM-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,NER,dpi.mis--tax-tax,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,NGA,dpi.mis--tax-tax,review,no evidence,4,NGA-005,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,RWA,dpi.mis--tax-tax,review,no evidence,4,RWA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SEN,dpi.mis--tax-tax,fact,no evidence,5,SEN-006;SEN-003,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) and 3 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.mis--tax-tax,fact,no evidence,5,SEN-006;SEN-003,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) and 3 news arrival(s) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,STP,dpi.mis--tax-tax,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,SWZ,dpi.mis--tax-tax,fact,no evidence,4,SWZ-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
 2026-10-18,SYC,dpi.mis--tax-tax,review,no evidence,2,SYC-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

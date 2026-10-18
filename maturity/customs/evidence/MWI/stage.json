@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "5",
+      "stage": "4",
       "system": "inservice",
       "window": "window",
-      "exchange": "exchange",
+      "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-006",
-      "gaps": "",
+      "stage_sources": "MWI-001",
+      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
       "note": "First pass: counted from the four questions by study-ladder-customs.py.",
       "as_at": "2026-10-18"
     }

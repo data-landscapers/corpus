@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "4",
+      "stage": "3",
       "filing": "inservice",
-      "payment": "electronic",
+      "payment": "",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-003",
-      "gaps": "No source held since October 2023 says online filing is mandatory or used for half or more of returns.",
+      "stage_sources": "MOZ-002;MOZ-003",
+      "gaps": "No source held since October 2023 says taxes can be paid electronically through the tax authority's system.",
       "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
       "as_at": "2026-10-18"
     }

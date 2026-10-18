@@ -1,3 +1,5 @@
 iso3,n,aspect,value,action,why
 BDI,006,integrated,several,removed,First pass: the registry's use across sectors read as one MIS serving several programmes
 EGY,005,integrated,several,removed,"First pass: a payment card serving several programmes, no MIS named"
+COM,002,payments,electronic,removed,"Top-stage check, stage 4c 2026-10-18: The 21 Sep 2026 PFSS-RRC article says Mvula and Huri Money 'assureront' (will make) the transfers in the new phase; it states a selected operator arrangement, not payments delivered. COM-004 (results framework: 41,703 beneficiaries paid by mobile money) still supports the cell."
+MDG,001,payments,electronic,removed,"Top-stage check, stage 4c 2026-10-18: Document is a FID terms of reference for associations to be recruited to support the 2024 cash-transfer round (QR code dispatch, mobile money SIM at pre-registration); it describes the planned payment design, not payments made. Sole source of the cell's stage 4."

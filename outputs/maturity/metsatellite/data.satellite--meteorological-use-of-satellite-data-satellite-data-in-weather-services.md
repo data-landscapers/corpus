@@ -62,9 +62,9 @@ The national weather service issued warnings drawing on satellite data in 2024; 
 
 ### Mozambique: 4 Operating
 
-The national weather service issued warnings drawing on satellite data in 2025; ISO 9001 certification is not on record.
+The national weather service issued warnings drawing on satellite data in 2023; ISO 9001 certification is not on record.
 
-- WMO says meteorological warnings based on satellite-aided forecasts were disseminated through community radio and volunteers, and ahead of Cyclone Freddy in 2023 ([source, 2025-03-17](https://wmo.int/site/science-action/weather-forecasts-and-early-warnings/mozambiques-life-saving-early-warning-systems)).
+- WMO says meteorological warnings based on satellite-aided forecasts were disseminated through community radio and volunteers, and ahead of Cyclone Freddy in 2023 ([source, 2023](https://wmo.int/site/science-action/weather-forecasts-and-early-warnings/mozambiques-life-saving-early-warning-systems)).
 
 ### Senegal: 4 Operating
 

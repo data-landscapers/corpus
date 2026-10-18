@@ -21,12 +21,12 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 16 |
+| 4 Operating | 15 |
 | 3 Established | 12 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 8 |
-| No evidence | 12 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -56,10 +56,10 @@ A social programme's system paid beneficiaries electronically in 2025; one syste
 
 ### Comoros: 4 Operating
 
-A social programme's system paid beneficiaries electronically in 2026; one system serving several programmes is not known.
+A social programme's system paid beneficiaries electronically in 2025; one system serving several programmes is not known.
 
-- The PFSS-RRC says the programme's payments to beneficiaries are made by the mobile-banking operators Mvula and Huri Money ([source, 2026-09-20](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)).
 - The World Bank mid-term aide-memoire reports 41,703 beneficiaries receiving payments by mobile money, and says ARIEP beneficiaries hold accounts with Sanduk and are all paid by bank transfer ([source, 2025-04](https://pfss-comores.org/ressources/download/8)).
+- The World Bank aide-memoire says the project created a mobile-money account for every social cash transfer beneficiary household and reports 39,904 beneficiaries receiving payments by mobile money (41,203 including flood-affected households) ([source, 2024-10-20](https://documents1.worldbank.org/curated/en/099121724164029872/pdf/P179291-8124ca5b-87dd-4490-be73-04c5cb249a2c.pdf)).
 
 ### Congo: 4 Operating
 
@@ -91,12 +91,6 @@ A social programme's system paid beneficiaries electronically in 2025; one syste
 A social programme's system paid beneficiaries electronically in 2023; one system serving several programmes is not known.
 
 - ANIES reports that under the Nafa project it opened electronic wallet accounts for women household heads, issued phones and SIM cards, and pays them monthly through five contracted payment operators, and plans to keep this mobile-money payment arrangement for the Food Shock Window transfers ([source, 2023](https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf)).
-
-### Madagascar: 4 Operating
-
-A social programme's system paid beneficiaries electronically in 2024; one system serving several programmes is not known.
-
-- The FID terms of reference say the unconditional cash transfer programme in Antananarivo and its suburbs pays by mobile money, with funds sent to beneficiaries' mobile money accounts, or by paying agents using QR codes where there is no network coverage ([source, 2024-12-16](https://www.fid.mg/wp-content/uploads/2024/12/DG_24035_TDR_ASSCA_TMNC_161224_sans-collecte_apres_obs_BM_VF.pdf)).
 
 ### Malawi: 4 Operating
 
@@ -325,6 +319,12 @@ Nothing held names a social programme management information system or says ther
 Not established: Nothing held says how social programmes are administered.
 
 ### Guinea-Bissau: No evidence
+
+Nothing held names a social programme management information system or says there is none, so no stage is set.
+
+Not established: Nothing held says how social programmes are administered.
+
+### Madagascar: No evidence
 
 Nothing held names a social programme management information system or says there is none, so no stage is set.
 

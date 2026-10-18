@@ -20,8 +20,8 @@ The AU Digital Education Strategy asks for education management information syst
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 5 |
+| 5 Leading | 2 |
+| 4 Operating | 6 |
 | 3 Established | 15 |
 | 2 Nascent | 21 |
 | 1 Absent | 0 |
@@ -35,12 +35,6 @@ The AU Digital Education Strategy asks for education management information syst
 Learner records were linked to the national ID or another government system in 2024.
 
 - The page subtitle says aggregate and individual EMIS data are connected to national identity ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
-
-### Tanzania: 5 Leading
-
-Learner records were linked to the national ID or another government system in 2025.
-
-- PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 
 ### Uganda: 5 Leading
 
@@ -77,6 +71,12 @@ The education information system held a record for each learner in 2026; a link 
 The education information system held a record for each learner in 2026; a link to the national ID is not on record.
 
 - The Minister of Basic Education's written reply says the DBE's LURITS holds data at individual learner level with ID numbers, and that LURITS data for 2020 to 2025 covering about 10.3 million public-school learners in Grades 1-11 was linked across years ([source, 2026-01-07](https://pmg.org.za/committee-question/35453/)).
+
+### Tanzania: 4 Operating
+
+The education information system held a record for each learner in 2025; a link to the national ID is not on record.
+
+- PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 
 ### Benin: 3 Established
 

@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
-      "endtoend": "endtoend",
-      "reported": "reported",
+      "endtoend": "",
+      "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002",
-      "gaps": "",
+      "stage_sources": "MRT-004",
+      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.",
       "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
       "as_at": "2026-10-18"
     }

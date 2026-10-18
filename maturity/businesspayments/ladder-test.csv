@@ -30,7 +30,7 @@ MAR,unplaced,,,,
 MDG,2,underway,,,MDG-001
 MLI,unplaced,,,,
 MOZ,2,underway,,,MOZ-002;MOZ-001
-MRT,5,inservice,endtoend,reported,MRT-002
+MRT,3,inservice,,,MRT-004
 MUS,5,inservice,endtoend,reported,MUS-007
 MWI,5,inservice,endtoend,reported,MWI-002;MWI-004
 NAM,5,inservice,endtoend,reported,NAM-004
@@ -52,4 +52,4 @@ TZA,5,inservice,endtoend,reported,TZA-002
 UGA,5,inservice,endtoend,reported,UGA-006
 ZAF,5,inservice,endtoend,reported,ZAF-003
 ZMB,5,inservice,endtoend,reported,ZMB-003
-ZWE,5,inservice,endtoend,reported,ZWE-002
+ZWE,3,inservice,,,ZWE-001;ZWE-002

@@ -2,3 +2,4 @@ iso3,n,aspect,value,action,why
 GMB,005,linked,linked,removed,"an MoU signed, not a link in service"
 KEN,004,linked,linked,removed,"identity details required for a future integration, not a link in service"
 SLE,005,linked,linked,removed,"a pilot in four districts yet to start, not a national link"
+TZA,003,linked,linked,revalued: learners:individual,"Top-stage check, stage 4c 2026-10-18: The SIS privacy policy is boilerplate: data 'shared with education authorities (e.g. NECTA, MOEST) for compliance'. It states no link to the national ID or birth registration and no data exchange with another government system. It supports only a unique PREM learner number, which is individual records, stage 4."

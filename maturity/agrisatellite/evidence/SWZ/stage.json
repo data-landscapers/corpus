@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "agrisat",
-      "stage": "4",
+      "stage": "3",
       "service": "inservice",
-      "published": "scheduled",
+      "published": "",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002",
-      "gaps": "No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source held since October 2023 says a satellite-based farming service publishes on a schedule.",
       "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
       "as_at": "2026-10-18"
     }

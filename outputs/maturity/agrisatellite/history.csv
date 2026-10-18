@@ -12,5 +12,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,NER,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,review,no evidence,3,NER-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,NGA,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,review,unplaced,4,NGA-004,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,SLE,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,fact,no evidence,2,SLE-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SWZ,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,review,no evidence,4,SWZ-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SWZ,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,review,no evidence,3,SWZ-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,TUN,data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture,fact,2,2,TUN-002;TUN-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.

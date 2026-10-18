@@ -32,7 +32,7 @@ MLI,unplaced,,,,
 MOZ,unplaced,,,,
 MRT,unplaced,,,,
 MUS,3,inservice,,,MUS-001
-MWI,5,inservice,window,exchange,MWI-006
+MWI,4,inservice,window,,MWI-001
 NAM,3,inservice,,,NAM-001;NAM-002
 NER,4,inservice,window,,NER-001;NER-002
 NGA,4,inservice,window,,NGA-005;NGA-001
@@ -51,5 +51,5 @@ TUN,2,underway,,,TUN-002
 TZA,4,inservice,window,,TZA-002;TZA-001
 UGA,3,inservice,,,UGA-001
 ZAF,unplaced,,,,
-ZMB,4,inservice,window,,ZMB-005;ZMB-003
+ZMB,4,inservice,window,,ZMB-005
 ZWE,4,inservice,window,,ZWE-004

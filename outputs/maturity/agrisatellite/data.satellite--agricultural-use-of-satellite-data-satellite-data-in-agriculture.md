@@ -21,8 +21,8 @@ The African Space Strategy asks that space-derived products be used for decision
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 3 |
-| 3 Established | 10 |
+| 4 Operating | 2 |
+| 3 Established | 11 |
 | 2 Nascent | 32 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
@@ -35,12 +35,6 @@ The African Space Strategy asks that space-derived products be used for decision
 Satellite-based farming advice or alerts reached a stated number of farmers or districts in 2024.
 
 - SNV says GARBAL has over 260,000 unique users and about 2 million calls, and 1,105,000 people were mobilised ([source, 2024-07-01](https://www.snv.org/update/using-satellite-data-to-transform-agri-food-in-burkina-faso)).
-
-### Eswatini: 4 Operating
-
-A farming service published satellite-based bulletins or maps on a schedule in 2025; how many farmers they reach is not on record.
-
-- The handbook says the Combined Drought Indicator is computed automatically each month for the previous month, then reviewed, validated and published ([source, 2025](https://wiki.cloud.akvo.org/books/droughtmap-hub/page/operational-handbook)).
 
 ### Nigeria: 4 Operating
 
@@ -77,6 +71,12 @@ A farming service using satellite data was in use in 2026; regular published out
 A farming service using satellite data was in use in 2026; regular published outputs are not on record.
 
 - FAO's GIEWS country brief for the Republic of the Congo, reference date 23 June 2026, reports from satellite-based imagery that precipitation has been adequate and well distributed since December 2025 in most croplands, and lists GIEWS Earth Observation for Crop Monitoring among its tools ([source, 2026-06-23](https://www.fao.org/giews/countrybrief/country/COG/pdf/COG.pdf)).
+
+### Eswatini: 3 Established
+
+A farming service using satellite data was in use in 2025; regular published outputs are not on record.
+
+- The handbook says the Eswatini DroughtMap Hub, run with the National Drought Management Center, Ministry of Agriculture and Meteorological Service, computes a Combined Drought Indicator from CHIRPS and MODIS satellite data and publishes it per inkhundla in a public area ([source, 2025](https://wiki.cloud.akvo.org/books/droughtmap-hub/page/operational-handbook)).
 
 ### Guinea-Bissau: 3 Established
 

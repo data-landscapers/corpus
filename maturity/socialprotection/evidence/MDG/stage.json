@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "socialmis",
-      "stage": "4",
-      "system": "inservice",
-      "payments": "electronic",
+      "stage": "no evidence",
+      "system": "",
+      "payments": "",
       "integrated": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-001",
-      "gaps": "No source held since October 2023 says one information system serves several social programmes.",
+      "stage_sources": "",
+      "gaps": "Nothing held says how social programmes are administered.",
       "note": "First pass: counted from the four questions by study-ladder-socialprotection.py.",
       "as_at": "2026-10-18"
     }

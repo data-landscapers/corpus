@@ -20,8 +20,8 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 12 |
+| 5 Leading | 5 |
+| 4 Operating | 13 |
 | 3 Established | 24 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
@@ -59,12 +59,6 @@ Customs exchanged data electronically with another country in 2025.
 Customs exchanged data electronically with another country in 2025.
 
 - Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them ([source, 2025-08-25](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
-
-### Malawi: 5 Leading
-
-Customs exchanged data electronically with another country in 2026.
-
-- The SARS-MRA arrangement, applicable on signature on 30 July 2026, provides for automatic exchange of customs declaration and transit data between the two authorities' automated customs systems, using a unique consignment reference ([source, 2026-07-30](https://www.sars.gov.za/wp-content/uploads/Legal/Agreements/CMAA/Legal-IntA-CMAA-2026-01-Arrangement-between-SARS-and-Malawi-Revenue-Authority-for-the-Automatic-of-Exchange-of-Customs-Information-30-July-2026.pdf)).
 
 ### Burkina Faso: 4 Operating
 
@@ -112,6 +106,12 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 - CAFI managing director Chaba Mokuku writes that the Lesotho National Single Window, run by Revenue Services Lesotho, lets traders file import, export and transit documents through one online entry point, with twelve agencies connected ([source, 2026-09-27](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/)).
 - Lesotho launched its National Single Window on 24 August 2026, where traders submit certificate, licence and permit applications for imports, exports and transit, with 12 other agencies and 88 processes automated, per Revenue Services Lesotho and CAFI ([source, 2026-08-24](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/)).
 
+### Malawi: 4 Operating
+
+A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
+
+- The Minister of Trade and Industry launched Malawi's National Single Window on 20 May 2025, live first for the trade ministry with seven MDAs at go-live and 22 agencies planned by September 2025, and SATCP's project manager says it integrates with the Malawi Revenue Authority's ASYCUDA World system ([source, 2025-05-20](https://satcp.mw/2025/05/20/malawi-launches-national-single-window-to-boost-trade-and-digital-economy/)).
+
 ### Niger: 4 Operating
 
 A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
@@ -138,7 +138,6 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
 
 - The Zambia Revenue Authority says the Zambian Electronic Single Window has an enhanced e-bond module and the 2025 BMTF Act mandates electronic information exchange among all participating agencies through it ([source, 2026-06-23](https://mag.wcoomd.org/magazine/wco-news-110-issue-2-2026/integrity-zambia/)).
-- A British High Commission official said the upgraded ASYCUDA Single Window will improve coordination across agencies and shorten clearance times ([source, 2025-12-16](https://trademarkafrica.com/zambia-sets-course-for-faster-trade-as-customs-system-upgrade-agreement-is-signed/)).
 
 ### Zimbabwe: 4 Operating
 

@@ -18,7 +18,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,DZA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,2,2,DZA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ETH,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,ETH-003;ETH-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,GNQ,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,1,3,GNQ-004;GNQ-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,LBY,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,2,4,LBY-002;LBY-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBY,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,2,2,LBY-001,Stage 4c: 1 news arrival(s) read; restaged from every row held. Top-stage check corrected the row it stood on.
 2026-10-18,MDG,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,no evidence,3,MDG-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,TZA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,TZA-002;TZA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,UGA,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity,fact,3,3,UGA-013;UGA-012,Stage 4c: 1 news arrival(s) read; restaged from every row held.
