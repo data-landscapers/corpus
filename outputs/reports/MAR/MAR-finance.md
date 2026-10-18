@@ -1,6 +1,6 @@
 ---
 title: Morocco: finance
-compiled: 2026-10-16
+compiled: 2026-10-18
 place: MAR
 ---
 
@@ -16,7 +16,7 @@ place: MAR
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">104</td><td class="num">293</td><td class="num">334</td><td class="num total">731</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">134</td><td class="num">59</td><td class="num">49</td><td class="num total">242</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num">225</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">225</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">53</td><td class="num">29</td><td class="num zero"></td><td class="num total">82</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">53</td><td class="num">29</td><td class="num">&lt;1</td><td class="num total">82</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">20</td><td class="num">22</td><td class="num">33</td><td class="num total">75</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num">62</td><td class="num zero"></td><td class="num zero"></td><td class="num total">62</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">24</td><td class="num">28</td><td class="num zero"></td><td class="num total">52</td></tr>
@@ -31,7 +31,7 @@ place: MAR
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/all-finance.html">Full table &mdash; 325 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/all-finance.html">Full table &mdash; 326 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MAR/MAR-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -77,6 +77,7 @@ place: MAR
 <tr><th scope="row">Data Exchange</th><td class="num">225</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">225</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">70</td><td class="num zero"></td><td class="num total">70</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
 <tfoot><tr><th scope="row">All topics</th><td class="num">1,050</td><td class="num">225</td><td class="num">70</td><td class="num">1,463</td><td class="num total">2,808</td></tr></tfoot>
@@ -84,6 +85,6 @@ place: MAR
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/finance.html">Full table &mdash; 13 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/finance.html">Full table &mdash; 14 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MAR/MAR-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
 </div>
