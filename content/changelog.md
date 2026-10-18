@@ -1,3 +1,7 @@
+## 18 October 2026
+
+- The Maturity Assessment has read the final batch of about 1,400 documents searched for its empty cells, and 417 country assessments that had no evidence now have a stage. They are shown as reassessed, not as movement, since most of the evidence is older.
+
 ## 17 October 2026
 
 - The monthly updates are now called News, for every country, region and topic. Country and region pages are retired: a country's or region's name now opens its News page, which links to its other reports.
