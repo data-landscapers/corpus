@@ -25,8 +25,8 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 | 3 Established | 1 |
 | 2 Nascent | 1 |
 | 1 Absent | 1 |
-| Unplaced | 16 |
-| No evidence | 35 |
+| Unplaced | 17 |
+| No evidence | 34 |
 
 ## Countries
 
@@ -105,6 +105,12 @@ Not established: No source held names a backup site 200 km or more from the main
 ### Mozambique: Unplaced
 
 No backup site 200 km or more from the main one is held, so no stage is set.
+
+Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+
+### Namibia: Unplaced
+
+The government ran a disaster recovery centre in 2015; where it stands, and whether it still runs, is not known, so no stage is set.
 
 Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
@@ -289,12 +295,6 @@ Nothing held names a backup site for government systems, so no stage is set.
 Not established: Nothing held names a backup site for government systems, or says there is none.
 
 ### Mauritania: No evidence
-
-Nothing held names a backup site for government systems, so no stage is set.
-
-Not established: Nothing held names a backup site for government systems, or says there is none.
-
-### Namibia: No evidence
 
 Nothing held names a backup site for government systems, so no stage is set.
 

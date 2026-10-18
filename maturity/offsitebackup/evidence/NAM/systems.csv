@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NAM,Paratus Backup-as-a-Service and Disaster-Recovery-as-a-Service (Paratus Provider Data Centre),NAM,other,commercial BaaS/DRaaS,Paratus Namibia,,2026-05-08-paratus-namibia-baas-draas-linkedin
 NAM,"Paratus Namibia Data Center, Windhoek (Brakwater)",Namibia,other,,Paratus Namibia Holdings (commercial),Tier III by design,2025-12-03-paratus-namibia-holdings-integrated-annual-report-2025
 NAM,"Paratus Namibia Data Center, Windhoek",Namibia,other,,Paratus Namibia Holdings (commercial),,2024-12-06-paratus-namibia-holdings-integrated-annual-report-2024
+NAM,Disaster Recovery Centre (Office of the Prime Minister),Disaster Recovery Centre,backupsite,place not stated,"Office of the Prime Minister, Department of Public Service Information Technology Management",,2015-11-06-nam-newera-e-government-project-reform
+NAM,"Bank of Namibia Business Continuity and Disaster Recovery facility, Prosperita",Business Continuity and Disaster Recovery facility,other,"under construction in 2013, in Windhoek",Bank of Namibia,,2013-02-01-nam-economist-bon-disaster-recovery-facility

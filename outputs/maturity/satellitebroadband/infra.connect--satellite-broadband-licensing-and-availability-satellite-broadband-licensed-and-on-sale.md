@@ -23,10 +23,10 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 | 5 Leading | 0 |
 | 4 Operating | 5 |
 | 3 Established | 30 |
-| 2 Nascent | 1 |
+| 2 Nascent | 2 |
 | 1 Absent | 16 |
 | Unplaced | 0 |
-| No evidence | 2 |
+| No evidence | 1 |
 
 ## Countries
 
@@ -250,6 +250,12 @@ A satellite broadband provider licensed by 2026, with no service on sale held.
 
 - State-owned Algerie Telecom Satellite (VSAT and GMPCS licences) and Djezzy (VSAT licence, to connect isolated sites with connectivity services mainly for businesses) are the only companies authorised to provide satellite services in Algeria; no licence date is given, so the article date is used ([source, 2026-04-10](https://www.agenceecofin.com/actualites-numerique/1004-137437-services-telecoms-par-satellite-l-algerie-ouvre-la-porte-a-de-nouveaux-acteurs)).
 
+### Mauritius: 2 Nascent
+
+OneWeb was authorised and operating through a local provider in 2026; whether households or businesses can buy it is not known.
+
+- ICTA's executive director told L'Express that, under the authority's decision of 22 May 2025 on non-geostationary satellite broadband, service must be provided through a licensed Mauritian internet provider with an earth-station licence for each terminal, and that OneWeb has been authorised and is operating through its local partner; he does not say who buys the service ([source, 2026-08-23](https://lexpress.mu/s/atishay-sookun-starlink-est-le-bienvenu-a-maurice-sil-respecte-nos-regles-561795)).
+
 ### Burkina Faso: 1 Absent
 
 A 2026 source says satellite broadband is not licensed or is banned.
@@ -347,12 +353,6 @@ A 2026 source says satellite broadband is not licensed or is banned.
 - Agence Ecofin states that Tunisia is on Starlink's map as 'Starting in 2026' with regulatory authorisation pending, no launch date, and that the service is not yet available there despite a 2025 target ([source, 2026-08-31](https://www.agenceecofin.com/actualites-numerique/3108-141168-internet-par-satellite-starlink-cible-16-nouveaux-marches-africains-d-ici-fin-2026)).
 
 ### Eritrea: No evidence
-
-Nothing held says a satellite broadband provider is licensed, or that none is, so no stage is set.
-
-Not established: Nothing held says a satellite broadband provider is licensed, or that none is.
-
-### Mauritius: No evidence
 
 Nothing held says a satellite broadband provider is licensed, or that none is, so no stage is set.
 

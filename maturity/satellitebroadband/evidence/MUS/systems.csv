@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,Eutelsat OneWeb,OneWeb ground station,other,,EMTEL,,2026-08-28-platformafrica-emtel-icta-st-brandon-connectivity
 MUS,"LEO satellite link, Raphael Island (Emtel, USF-funded)",Procurement of Internet Services on Raphael Island,other,LEO satellite (operator not named),"Emtel Ltd, contracted by ICTA","National Coast Guard radar, NCG, meteorological services, Raphael Fishing Co Ltd",2026-08-30-lexpress-saint-brandon-lile-raphael-se-connecte-a-internet
+MUS,OneWeb,"OneWeb, through its local partner",satellite,low-orbit satellite broadband,"Eutelsat OneWeb, through a licensed local internet provider not named",,2026-08-23-mus-lexpress-sookun-starlink-interview
