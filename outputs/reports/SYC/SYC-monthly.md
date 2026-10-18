@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SYC
 ledger_rows: 12
 not_held: 6
-record: fe48748ddacd
+record: e764cfe596ab
 ---
 
 # News, Sep – Oct 2026
@@ -142,7 +142,7 @@ The African Development Bank approved a US$34 million loan to Seychelles on 22 S
 
 **[Initial Project Information Document (PID) - Seychelles Transformative and Resilient Inclusive Digital Economy - P519389](http://documents.worldbank.org/curated/en/099100726053521931)** — World Bank, 7 October 2026
 
-US$25m IBRD concept: inter-island fibre, shared e-government and AI services, digital skills; approval due Dec 2026.
+The World Bank is preparing a Seychelles project to widen internet access, increase use of digital services and build digital skills. Its project document notes that 87% of people used the internet in 2023 but broadband is costly, slow and unreliable, the regulator's enforcement capacity is limited, and digital government is fragmented despite the SeyID digital identity.
 
 </div>
 

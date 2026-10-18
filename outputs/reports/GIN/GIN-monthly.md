@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: GIN
 ledger_rows: 22
 not_held: 4
-record: 825a637b205c
+record: aa59b432c0e7
 ---
 
 # News, Sep – Oct 2026
@@ -308,7 +308,7 @@ Guinea's territorial administration minister, Djenabou Touré, opened a workshop
 
 **[Avis de publication de l'attribution du contrat relatif au recrutement d'un consultant pour la poursuite de l'informatisation du Tribunal de Commerce de Conakry (TCC)](http://www.ucepguinee.org/wp-content/uploads/2026/10/AVIS-PUBLICATION-DE-LATTRIBUTION-INFORMATISATION-TCC.pdf)** — Unité de Coordination et d'Exécution des Projets (UCEP), 5 October 2026
 
-USD 26,400, 12-month contract signed 7 September 2026 under PADIRPME; nine bidders, award to the second-ranked.
+Guinea has awarded a 12-month, USD 26,400 consultancy, signed on 7 September 2026, to continue computerising the Commercial Court of Conakry. The work covers the court's case-management, archiving and communication system, its website, a case-law database and its IT equipment.
 
 </div>
 

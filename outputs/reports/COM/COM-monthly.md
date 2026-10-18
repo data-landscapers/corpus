@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: COM
 ledger_rows: 12
 not_held: 24
-record: b6a9f91ad2e8
+record: 44f8e6f98591
 ---
 
 # News, Sep – Oct 2026
@@ -134,7 +134,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Le Gouvernement comorien élargit la protection sociale à 55 000 ménages vulnérables](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)** — PFSS-RRC (Projet Filets Sociaux de Sécurité, Union des Comores), 21 September 2026
 
-USD 11m extension takes Mayendeleyo cash transfers to 55,000 households, paid through two mobile-banking operators.
+Comoros began a new phase of its World Bank-funded social cash transfers on 20 September 2026, reaching 55,000 households, 15,000 of them new, with USD 11 million in additional financing. Payments go through the mobile-banking operators Mvula and Huri Money, and households are selected from the unified social registry.
 
 </div>
 

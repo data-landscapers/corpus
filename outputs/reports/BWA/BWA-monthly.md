@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: BWA
 ledger_rows: 18
 not_held: 7
-record: 9a9f68442706
+record: b4d0c7172d2e
 ---
 
 # News, Sep – Oct 2026
@@ -230,7 +230,7 @@ Absa Bank Botswana has made Google Pay available on Android for its Visa debit, 
 
 **[Ministry unveils strategic plan](https://dailynews.gov.bw/news-detail/93441)** — Daily News (Botswana Government), 28 September 2026
 
-CRVS plan 2026-2031 launched; digital CRVS system and legal review for data privacy promised.
+Botswana's Ministry of Labour and Home Affairs launched its civil registration and vital statistics plan for 2026 to 2031 on 24 September 2026. It promises a digital registration system that connects with other government systems and a review of the law on the privacy and security of registration data.
 
 </div>
 

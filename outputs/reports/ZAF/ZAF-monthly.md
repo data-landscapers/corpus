@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: ZAF
 ledger_rows: 148
 not_held: 21
-record: f11d5910f629
+record: b1fe03b0f1d1
 ---
 
 # News, Sep – Oct 2026
@@ -1208,7 +1208,7 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 
 **[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026
 
-NPS directives list: cyber resilience 1 of 2024, CMA cross-border EFT 1 of 2025; offshore-merchant draft directive 2026.
+The South African Reserve Bank explains how its National Payment System Department regulates the payment system for safety, efficiency and stability, including the prevention of fraud and money laundering. It says consumer protection in payments is the job of the Financial Sector Conduct Authority.
 
 </div>
 
@@ -1670,7 +1670,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Guide to SARS Payment Rules](https://www.sars.gov.za/guide-to-sars-payment-rules/)** — South African Revenue Service, 17 October 2026
 
-Customs electronic declarants must pay via eFiling; no bank cash deposits for traders; MobiApp and card options listed.
+South Africa's revenue service sets out the rules taxpayers must follow when paying it, by each payment channel, so that payments are allocated correctly. It warns that payments that do not follow the rules may be rejected.
 
 </div>
 
@@ -1728,7 +1728,7 @@ South Africa's Department of Social Development switches off its old NPO registr
 
 **[Client Information System | South African Revenue Service](https://www.sars.gov.za/client-segments/client-information-system/)** — South African Revenue Service (SARS), 17 October 2026
 
-Single tax and customs profile since 2014; CIPC companies auto-registered by interface; no postal or email updates.
+South Africa's revenue service says its Client Information System, introduced in 2014, lets taxpayers register for and manage all their tax and customs registrations in a single profile. SARS is now merging each client's tax, customs and excise records into one consolidated profile.
 
 </div>
 

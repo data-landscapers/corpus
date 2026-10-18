@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: EGY
 ledger_rows: 95
 not_held: 42
-record: c5778eb6f91e
+record: 77b44388d2a5
 ---
 
 # News, Sep – Oct 2026
@@ -1138,7 +1138,7 @@ Egypt's finance ministry is reviewing an extension to the property-tax filing de
 
 **[أبرز خدمات الشهر العقاري أونلاين، استخراج التوكيلات والاستعلام عن المعاملات وحجز موعد عبر مصر الرقمية](https://www.vetogate.com/5748525)** — فيتو (Vetogate), 11 October 2026
 
-Powers of attorney, transaction lookup, office booking and mobile notary requests on Digital Egypt; some need visits.
+Egypt's Digital Egypt platform now offers notarisation and real-estate registry services online. Citizens can draft powers of attorney, check the status of computerised transactions, look up registered contracts, book appointments at notary offices and request a mobile notary unit.
 
 </div>
 

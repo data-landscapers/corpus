@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: COD
 ledger_rows: 59
 not_held: 7
-record: 00ece1251afa
+record: 2ac3d60def2b
 ---
 
 # News, Sep – Oct 2026
@@ -900,7 +900,7 @@ DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic'
 
 **[Stratégie Nationale de l'Intelligence Artificielle de la République Démocratique du Congo (draft technique) : Faire de l'intelligence artificielle un moteur de progrès technique et de diversification économique, horizon 2030](https://adn.cd/fr/public/uploads/documents/strate-gie-nationale-de-l-intelligence-artificielle---draft-technque-20261006134923-ea7dd935.pdf)** — Ministère de l'Économie Numérique / Agence pour le Développement du Numérique (ADN), RDC, 6 October 2026
 
-Technical draft to 2030: 4 pillars, 11 axes, 44 objectives, 176 actions; annual AI report from 2027, 15% local content.
+DR Congo's digital economy ministry has published a technical draft of a national AI strategy to 2030, with 4 pillars and 176 actions. It plans an annual report on AI in the country from 2027 and a minimum of 15% local content in public AI purchases; the text is a draft, not an adopted strategy.
 
 </div>
 

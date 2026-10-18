@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SEN
 ledger_rows: 61
 not_held: 2
-record: f6b68605e887
+record: f75b62d1568b
 ---
 
 # News, Sep – Oct 2026
@@ -690,7 +690,7 @@ Senegal's market regulation agency (ARM) and the Belgian development agency Enab
 
 **[Bourses de sécurité familiale : le paiement des allocations officiellement relancé après deux ans](https://aps.sn/bourses-de-securite-familiale-le-paiement-des-allocations-officiellement-relance-apres-deux-ans/)** — Agence de Presse Sénégalaise, 1 October 2026
 
-CFA140,000 per household for 2026, paid via mobile-money operators; more beneficiaries, count not given.
+Senegal has resumed its family security cash grants after a two-year interruption, paying CFA140,000 per household for 2026 through mobile-money operators. The number of beneficiaries was increased, but the new total was not given.
 
 </div>
 

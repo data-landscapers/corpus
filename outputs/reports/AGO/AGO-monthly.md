@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: AGO
 ledger_rows: 46
 not_held: 6
-record: fa5670632481
+record: 2ebfc12c7e06
 ---
 
 # News, Sep – Oct 2026
@@ -164,7 +164,7 @@ The World Bank's appraisal document for Angola's Tertiary Education, Science and
 
 **[38,7 milhões USD para financiar cursos alinhados à economia](http://expansao.co.ao/universidade/detalhe/387-milhoes-usd-para-financiar-cursos-alinhados-a-economia-75050.html)** — Expansão, 1 October 2026
 
-TEST results-based grants to 13 public institutions; USD 710,000 disbursed; engineering 10% of graduates 2014-2023.
+Angola's higher education ministry has awarded USD 38.7 million under results-based agreements to 13 public universities and institutes to expand science, technology and engineering courses, under a project co-financed by the World Bank and GPE. Only USD 710,000 had been paid out when this was reported on 1 October 2026.
 
 </div>
 

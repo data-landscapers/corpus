@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SWZ
 ledger_rows: 38
 not_held: 3
-record: 69d831c9ce1c
+record: 3697501c9f04
 ---
 
 # News, Sep – Oct 2026
@@ -736,7 +736,7 @@ About 40 change agents from five ministries and parastatals held a change-readin
 
 **[GOVT ROLLS-OUT BIKA PLATFORM TO COMBAT CORRUPTION, ABUSE ON PUBLIC TRANSPORT IN REAL-TIME](https://eswatinipositivenews.online/govt-rolls-out-bika-platform-to-combat-corruption-abuse-on-public-transport-in-real-time/)** — Eswatini Positive News, 21 September 2026
 
-Anonymous reports with tracking ID on kombis, overloading and bribery; police, fire services and ACC linked.
+Eswatini's government has launched BIKA, a real-time platform for the public to report corruption, abuse and unsafe practice on public and freight transport. It is run by the transport ministry with the road transport council, police, emergency services and the Anti-Corruption Commission; reports can be anonymous and are tracked by a reference number.
 
 </div>
 

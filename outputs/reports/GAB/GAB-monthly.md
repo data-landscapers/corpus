@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: GAB
 ledger_rows: 50
 not_held: 13
-record: 9f910ccd8791
+record: 8438c4dddda0
 ---
 
 # News, Sep – Oct 2026
@@ -876,7 +876,7 @@ Gabon's First Lady visited the former governorate building in Oyem, which is bei
 
 **[Gabon/CGI : des agents du ministère de la Communication et des Médias initiés à l’utilisation de l’IA](https://agpgabon.ga/gabon-cgi-des-agents-du-ministere-de-la-communication-et-des-medias-inities-a-lutilisation-de-lia/)** — Agence Gabonaise de Presse, 7 September 2026
 
-Forty agents in first session; RCAPE targets 500 civil servants by December 2026, 1,000 more by mid-2027.
+The Centre Gabonais de l'Innovation introduced about forty staff of the communication ministry to AI tools for administrative work on 7 September 2026. It is the first step of a programme meant to train 500 civil servants by December 2026 and 1,000 more in the first half of 2027.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: ETH
 ledger_rows: 31
 not_held: 5
-record: 15c7e2266462
+record: 5a86f40ef9a7
 ---
 
 # News, Sep – Oct 2026
@@ -622,7 +622,7 @@ The GSMA published research on 10 September 2026 on refugee women's mobile use, 
 
 **[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
-Home page offering online complaint filing with status tracking and FOI requests.
+The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: DZA
 ledger_rows: 39
 not_held: 5
-record: 4d8954dc903a
+record: bd1d113c2cdc
 ---
 
 # News, Sep – Oct 2026
@@ -476,7 +476,7 @@ Algeria's prime minister, Sifi Ghrieb, ordered an immediate national census of i
 
 **[Acceuil — Portail de création d'entreprise en Algérie](https://sidjilcom-entreprise.cnrc.dz/acceuil)** — Centre National du Registre du Commerce (CNRC), 17 October 2026
 
-One online filing reaches CNRC, tax, CNAS, CASNOS and ONS; common identifier within three days of approval.
+Algeria's commercial register runs a single online portal for creating a company. One registration there covers every administration involved and issues a common identification number.
 
 </div>
 
@@ -484,7 +484,7 @@ One online filing reaches CNRC, tax, CNAS, CASNOS and ONS; common identifier wit
 
 **[Création d'entreprise : Personne morale](https://sidjilcom-entreprise.cnrc.dz/creation-d-entreprise-personne-morale)** — Centre National du Registre du Commerce (CNRC), 17 October 2026
 
-Eight steps for a company; name reservation and legal notices online, fees payable by CIB or Edahabia card.
+Algeria's commercial register (CNRC) sets out the steps to create each type of company online, from reserving a name to registration. For a single-member limited company, it notes that the owner is liable only up to the share capital.
 
 </div>
 
@@ -522,7 +522,7 @@ Algeria's prime minister, Sifi Ghrieb, chaired a government meeting on 9 Septemb
 
 **[Santé : Alger fixe au 15 novembre l'échéance finale pour la numérisation totale des hôpitaux](https://elwatan.dz/sante-alger-fixe-au-15-novembre-lecheance-finale-pour-la-numerisation-totale-des-hopitaux/)** — El Watan, 8 September 2026
 
-Non-extendable 15 November 2026 deadline; single national patient number; weekly reports; extra budget.
+Algeria's health minister has set 15 November 2026 as a final deadline for every public health establishment to switch on the electronic medical record, built on a single national patient number. Each facility must name a lead and report progress weekly; extra funding was allocated but not quantified.
 
 </div>
 

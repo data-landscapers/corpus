@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: NAM
 ledger_rows: 36
 not_held: 9
-record: 00015a1f586c
+record: f6c6a7ac9d6e
 ---
 
 # News, Sep – Oct 2026
@@ -562,7 +562,7 @@ Innovate4Water, a research project led by the Namibia University of Science and 
 
 **[BANK OF NAMIBIA, CRAN LAUNCH AI PROGRAMME](https://www.nbcnews.na/node/118797)** — Namibian Broadcasting Corporation, 1 September 2026
 
-Agencies to jointly procure AI hardware and agents, with use cases in licensing, procurement and scam reporting.
+The Bank of Namibia and the communications regulator CRAN have launched a programme to build shared AI infrastructure for public agencies and find uses in advisory services, procurement, licensing and scam reporting. Agencies are to buy AI hardware and software jointly rather than separately, and the roadmap includes AI in indigenous languages.
 
 </div>
 

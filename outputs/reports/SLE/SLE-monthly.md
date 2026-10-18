@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SLE
 ledger_rows: 34
 not_held: 4
-record: 7f927036a33c
+record: 55feb0f42cad
 ---
 
 # News, Sep – Oct 2026
@@ -122,7 +122,7 @@ Sierra Leone is strengthening safeguards for children's personal data as governm
 
 **[Attorney-General Defends Cautious Path to AI Legislation at UNESCO Forum in Riyadh](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)** — Truth Media, 21 September 2026
 
-No AI statute, data protection still a Bill; high-risk-by-default AI and an ECOWAS data embassy framework proposed.
+Sierra Leone's attorney-general told a UNESCO forum on AI ethics in Riyadh that the country has no AI-specific law and that its data-protection bill has not yet passed. He said the government would put that legal foundation in place before deploying AI, after an AI readiness diagnostic done with the World Bank.
 
 </div>
 
@@ -366,7 +366,7 @@ The lands minister said the government plans free nationwide land registration a
 
 **[Sengeh highlights Bio’s business transformation](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)** — AYV News, 7 October 2026
 
-NIB one-stop platform due November 2026; registration to fall from about 24 hours to minutes.
+Sierra Leone's National Investment Board says its online one-stop business platform is nearly finished and should be working by November 2026, cutting company registration from about a day to minutes. The board brings together the corporate registry, the PPP unit, the investment promotion agency and the business-registration office.
 
 </div>
 

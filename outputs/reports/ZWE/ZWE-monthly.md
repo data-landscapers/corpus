@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: ZWE
 ledger_rows: 41
 not_held: 6
-record: 8c8d73b33536
+record: 5c29b4726b70
 ---
 
 # News, Sep – Oct 2026
@@ -586,7 +586,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[The 2nd National Budget Automation System Piloting Workshop](https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/)** — Scientific and Industrial Research and Development Centre (SIRDC), 23 September 2026
 
-Blue Book System piloted in Kwekwe, 21-25 September 2026; SIRDC AI institute on the team.
+Zimbabwe held the second pilot workshop of its National Budget Automation System, known as the Blue Book System, in Kwekwe from 21 to 25 September 2026. The research centre SIRDC, which took part, presents it as automating public finance management for more accurate and transparent budgets.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: MLI
 ledger_rows: 16
 not_held: 1
-record: 29e377d2e499
+record: 2cdfd1027506
 ---
 
 # News, Sep – Oct 2026
@@ -278,7 +278,7 @@ Transition president Assimi Goïta opened Mali's artificial intelligence and rob
 
 **[PARTENARIAT AGEFAU-MATD POUR LE RENFORCEMENT DES CAPACITÉS DES COLLECTIVITÉS TERRITORIALES  DU MALI](https://agefaumali.com/archives/partenariat-agefau-matd-pour-le-renforcement-des-capacites-des-collectivites-territoriales-du-mali/)** — AGEFAU, 1 September 2026
 
-504 elected officials and staff of 126 communes to be trained in office software; 200m FCFA AGEFAU-ministry convention.
+Mali's universal-access fund agency AGEFAU is paying for a programme to train 504 elected officials and staff of 126 communes, launched on 1 September 2026 at the local-government training centre. The first session, on office software and collaborative tools, drew 84 participants from Koulikoro and Bamako; the agreement behind it is worth 200 million FCFA.
 
 </div>
 

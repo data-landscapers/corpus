@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: GNB
 ledger_rows: 9
 not_held: 2
-record: 6b16516b0e76
+record: d3cb22d2d440
 ---
 
 # News, Sep – Oct 2026
@@ -218,7 +218,7 @@ A University of Iceland doctoral thesis on inequality among adolescents in Bissa
 
 **[Nova estação CLIMSA e PUMA2025](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/)** — Instituto Nacional de Meteorologia da Guiné-Bissau, 8 September 2026
 
-AU-supplied, EU-backed station takes EUMETSAT third-generation data near real time at 10-minute, 1 km resolution.
+Guinea-Bissau's meteorological institute installed a CLIMSA/PUMA2025 satellite receiving station between 21 and 25 August 2026, supplied by the African Union with EU support. It receives Meteosat Third Generation imagery in near real time, at intervals of up to ten minutes and 1 km resolution.
 
 </div>
 

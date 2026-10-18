@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: MDG
 ledger_rows: 33
 not_held: 5
-record: d82649819e95
+record: 832040405c6d
 ---
 
 # News, Sep – Oct 2026
@@ -392,7 +392,7 @@ Antananarivo's urban commune began digitalising its markets: traders are registe
 
 **[La sélection des prestataires de services de transfert monétaires par mobile money](https://www.fid.mg/la-selection-des-prestataires-de-services-de-transfert-monetaires-par-mobile-money-n05-2026-aon-fid-dg-eager-26-03-11-2026/)** — Fonds d'Intervention pour le Développement (FID), 9 October 2026
 
-FID tender N°05/2026 for mobile money cash-transfer providers in seven lots, World Bank EAGER funds, closes 3 Nov 2026.
+Madagascar's development intervention fund FID is tendering for mobile-money providers to pay social cash transfers, in seven lots, under World Bank procurement rules. Bids close on 3 November 2026.
 
 </div>
 
@@ -472,7 +472,7 @@ Madagascar's tax directorate signed four agreements on 18 September 2026 to cros
 
 **[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026
 
-Tax ID (NIF) pre-registration online via NIFONLINE; applicants still present originals at the tax office.
+Madagascar's tax directorate lets taxpayers apply for a tax identification number online through NIFONLINE. The page lists the documents individuals and companies must then present in person.
 
 </div>
 
@@ -650,7 +650,7 @@ Madagascar's microfinance institution Paositra Finances launched a scheme at Ank
 
 **[Consultations Publiques](https://parlement.mg/consultations/)** — Assemblée nationale de Madagascar, 17 October 2026
 
-National Assembly online consultations: Electoral Code reform (Feb-Mar 2026), environment bill, 2026 budget priorities.
+Madagascar's National Assembly runs an online portal for public consultations on bills. Past consultations include the 2026 electoral code reform, an environment bill and national budget priorities for 2026.
 
 </div>
 

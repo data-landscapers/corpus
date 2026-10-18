@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: NER
 ledger_rows: 20
 not_held: 1
-record: 52eae5126c1f
+record: 4bb199251121
 ---
 
 # News, Sep – Oct 2026
@@ -346,7 +346,7 @@ The operator of Niger's vehicle one-stop shop began accepting Airtel Money for s
 
 **[À propos - Géoportail de Niamey](http://www.modernisation-villes.ne/geoportail/pages/about.html)** — Agence de Modernisation des Villes (AMV), Niger, 17 October 2026
 
-AMV's Niamey street-addressing geoportal: 3,500+ streets referenced, built by GéoMinds Africa, city-validated data.
+Niger's urban modernisation agency runs an online addressing geoportal for Niamey. It is meant to give the capital a modern street-address system that residents, visitors and public services can all use.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SSD
 ledger_rows: 19
 not_held: 8
-record: 535e23073a54
+record: 39d2546df37c
 ---
 
 # News, Sep – Oct 2026
@@ -66,7 +66,7 @@ The communications authority joined a three-day workshop on domesticating the co
 
 **[BoSS Sets Strict USD Caps on Mobile Money](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)** — Access Radio Yei, 1 September 2026
 
-Three KYC tiers, mandatory switch link, 99.5% uptime, ring-fenced trust funds, seven-day complaint handling.
+The Bank of South Sudan's amended electronic money rules have taken effect, setting three customer-verification tiers with daily limits of SSP 1.625 million, 6.5 million and 13 million. Every digital payment platform must connect to the National Payment System through a licensed switch, keep customer funds in trust accounts spread across banks, and resolve complaints within seven days.
 
 </div>
 
@@ -266,7 +266,7 @@ South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual me
 
 **[NEC rejects biometrics, cites low literacy in voter registration](https://www.sudanspost.com/nec-rejects-biometrics-cites-low-literacy-in-voter-registration/)** — Sudans Post, 2 September 2026
 
-Chair cites 70% illiteracy; paper registration to be keyed into computers later, ahead of 22 December polls.
+South Sudan's National Elections Commission has ruled out biometric voter registration, its chairperson saying on 2 September 2026 that registration will be on paper and later computerised, because most of the population cannot read. General elections are set for 22 December 2026.
 
 </div>
 
