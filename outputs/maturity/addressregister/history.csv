@@ -1,2 +1,23 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,GMB,dpi.registry--address-register-address-register,fact,5,5,GMB-004;GMB-007,Arrivals added GMB-008; stage unchanged.
+2026-10-18,ZAF,dpi.registry--address-register-address-register,review,1,1,ZAF-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,BEN,dpi.registry--address-register-address-register,review,2,2,BEN-001;BEN-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,BFA,dpi.registry--address-register-address-register,review,2,2,BFA-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,BWA,dpi.registry--address-register-address-register,review,2,2,BWA-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,COG,dpi.registry--address-register-address-register,review,2,2,COG-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,DZA,dpi.registry--address-register-address-register,review,2,2,DZA-001;DZA-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,GIN,dpi.registry--address-register-address-register,review,2,2,GIN-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,LBR,dpi.registry--address-register-address-register,review,2,2,LBR-001;LBR-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,LBY,dpi.registry--address-register-address-register,review,2,2,LBY-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,MLI,dpi.registry--address-register-address-register,review,2,2,MLI-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,MOZ,dpi.registry--address-register-address-register,review,2,2,MOZ-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,MWI,dpi.registry--address-register-address-register,review,2,2,MWI-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,SEN,dpi.registry--address-register-address-register,review,2,2,SEN-002;SEN-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,SWZ,dpi.registry--address-register-address-register,review,2,2,SWZ-001;SWZ-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,SYC,dpi.registry--address-register-address-register,review,2,2,SYC-004;SYC-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,TGO,dpi.registry--address-register-address-register,review,2,2,TGO-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,CMR,dpi.registry--address-register-address-register,review,3,3,CMR-002;CMR-005,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,CPV,dpi.registry--address-register-address-register,review,3,3,CPV-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,GHA,dpi.registry--address-register-address-register,review,4,4,GHA-002;GHA-004,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-18,LSO,dpi.registry--address-register-address-register,review,3,1,LSO-001,"Rebuild: Geddit is a private firm's app with no government role, so it sets nothing; the government says in October 2026 a standard digital address is still missing, so 3 to 1."
+2026-10-18,NGA,dpi.registry--address-register-address-register,review,2,3,NGA-001;NGA-003;NGA-005,"Rebuild: NIPOST switched on the national digital postcode on 1 October 2026, so 2 to 3; its own listing of service points is not another service's use."

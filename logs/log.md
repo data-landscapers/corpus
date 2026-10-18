@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-18 04:21 · **REBUILD** · 34m · addressregister address: 54 cells read, 21 reassessed, 2 moved; 50 searched, 20 staged; 64.6M tokens — ok
 2026-10-18 03:46 · **REBUILD** · 25m · accesstoinformationlaw law: 54 cells reassessed, 1 moved; 41 searched, 31 staged; 40.1M tokens — ok
 2026-10-18 03:20 · **REVIEW** · 12m · ZMB: status 9 sections revised, mapping 11 cells, finance 0 rows; 0 deals queued, 1 note for OSINT; retired rural-roads loan struck from finance.new — ok
 2026-10-18 03:07 · **REVIEW** · 18m · ZAF: status 8 sections revised, mapping 15 cells, finance 0 rows; 1 deal queued, 1 note for OSINT; bulletin summary pruning fixed, 13 summaries restored — ok

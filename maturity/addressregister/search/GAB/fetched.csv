@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.union.sonapresse.com/fr/modernisation-de-la-capitale-bientot-des-adresses-libreville-0,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://www.union.sonapresse.com/fr/adressage-lancement-de-la-deuxieme-phase-de-loperation,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://gabonmediatime.com/libreville-reprise-de-loperation-dadressage/,fetched,,scripts/.workroot/study/addressregister/cache/GAB/3.txt,284,html,Libreville : Reprise de l’opération d’adressage !
+4,https://www.union.sonapresse.com/fr/urbanisme-adressage-okondja-et-ngouoni-une-longueur-davance,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+5,https://agpgabon.ga/habitat-linc-lance-la-mise-a-jour-de-la-cartographie-nationale/,fetched,,scripts/.workroot/study/addressregister/cache/GAB/5.txt,300,html,Habitat : l’INC lance la mise à jour de la cartographie nationale - AGP - Agence Gabonaise de Presse
+6,https://www.habitat.gouv.ga/object.getObject.do?id=129&mime=file-mime&object=file,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+7,https://journal-officiel.ga/21995-0006-pr-2025-/,held,held as raw/2025/2025-08-11-jo-ga-ordonnance-0006-pr-2025-digitalisation.md,,0,,
+8,https://www.gabonreview.com/boites-postales-loffensive-tarifaire-de-la-poste-sa/,fetched,,scripts/.workroot/study/addressregister/cache/GAB/8.txt,420,html,Boîtes postales : L'offensive tarifaire de La Poste SA | Gabonreview.com | Actualité du Gabon |

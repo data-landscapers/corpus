@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "2",
-   "addressing": "underway",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
+      "note": "Reassessed in the rebuild: Ouagadougou has been naming streets and numbering doors arrondissement by arrondissement, four by April 2025; nothing held names a system in service.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

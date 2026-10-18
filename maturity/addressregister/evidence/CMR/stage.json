@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "3",
-   "addressing": "inservice",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-002;CMR-005",
-   "gaps": "No source held since October 2023 says the addressing system covers the whole country.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "3",
+      "addressing": "inservice",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-002;CMR-005",
+      "gaps": "No source held since October 2023 says the addressing system covers the whole country.",
+      "note": "Reassessed in the rebuild: Campost-certified addresses on FindMe's platform have been issued since 2024, read as in service with a government role through the post; nothing held says it covers the whole country.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

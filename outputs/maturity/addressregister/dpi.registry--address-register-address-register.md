@@ -23,8 +23,8 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 | 5 Leading | 4 |
 | 4 Operating | 1 |
 | 3 Established | 3 |
-| 2 Nascent | 20 |
-| 1 Absent | 1 |
+| 2 Nascent | 19 |
+| 1 Absent | 2 |
 | Unplaced | 0 |
 | No evidence | 25 |
 
@@ -75,11 +75,13 @@ An address register or digital addressing system was in service in 2026; nationa
 
 - The Câmara Municipal da Praia says its Plataforma Municipal de Toponímia, launched in October 2025, is available in its online shop and lets residents locate street names and official building numbers across the Praia municipality ([source, 2026-04-04](https://expressodasilhas.cv/pais/2026/04/04/ja-esta-disponivel-a-plataforma-de-toponimia-da-cmp/102191)).
 
-### Lesotho: 3 Established
+### Nigeria: 3 Established
 
 An address register or digital addressing system was in service in 2026; national coverage is not known.
 
-- Geddit describes itself as Lesotho's first digital address infrastructure tool, letting residents and businesses get, verify and use a digital address (GDT Address) ([source, 2026-05-22](https://www.gedditapp.com/)).
+- Space in Africa states NIPOST switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured addressable building an 11-character code ([source, 2026-10-01](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)).
+- Nairametrics reports the National Digital Alphanumeric Postcode System launched through NIPOST on 1 October 2026, with users already finding 11-character building postcodes ([source, 2026-10-01](https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/)).
+- TheCable states NIPOST launched the national digital alphanumeric postcode system, assigning 11-character codes to addressable buildings, and its reporters used the application ([source, 2026-10-01](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)).
 
 ### Algeria: 2 Nascent
 
@@ -175,12 +177,6 @@ An addressing system was under way in 2026; none in service is on record.
 
 - CRAN's Chief Executive Emilia Nghikembua says the development of a National Addressing System, alongside integrating ICT variables into national surveys, will improve service delivery, in the context of the CRAN-NSA data-sharing MoU ([source, 2026-04-27](https://economist.com.na/106279/general-news/communications-regulator-and-nsa-sign-landmark-agreement-to-bolster-national-data-integrity/)).
 
-### Nigeria: 2 Nascent
-
-An addressing system was under way in 2026; none in service is on record.
-
-- TheCable states the federal executive council approved the national digital addressing policy and digital postcode system in March 2026 ([source, 2026-03](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)).
-
 ### Senegal: 2 Nascent
 
 An addressing system was under way in 2026; none in service is on record.
@@ -206,6 +202,12 @@ An addressing system was under way in 2024; none in service is on record.
 An addressing system was under way in 2025; none in service is on record.
 
 - The Togolese government has launched urban addressing modernisation starting with Greater Lome (DAGL), building databases of coded and named roads and address points, with signage plaques and certification of doors, per the republicoftogo.com report ([source, 2025-12-18](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation)).
+
+### Lesotho: 1 Absent
+
+A 2026 source says there is no national addressing system.
+
+- The Government of Lesotho's information department says a standardized digital address has long been recognized as the greatest missing piece of the local ecosystem, and that a World Bank urban team expressed interest in supporting a nationwide Digital Address system ([source, 2026-10-12](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/)).
 
 ### South Africa: 1 Absent
 

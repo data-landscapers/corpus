@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://expertise-france.gestmax.fr/_expertise_france/public_files/progouv-tdr-expert-amo-sig-et-adressage-v23-11-2023.pdf,fetched,,scripts/.workroot/study/addressregister/cache/DJI/1.txt,2202,pdf,
+2,https://villededjibouti.dj/actualite.php?id=44,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/djiEn.pdf,fetched,,scripts/.workroot/study/addressregister/cache/DJI/3.txt,229,pdf,Djibouti
+4,https://pe.usps.com/IMM_Archive/NHTML/IMM_Archive_20241104/ce_022.htm,fetched,,scripts/.workroot/study/addressregister/cache/DJI/4.txt,261,html,Djibouti

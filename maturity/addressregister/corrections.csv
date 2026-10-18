@@ -2,3 +2,5 @@ iso3,n,aspect,value,action,why
 CMR,003,used,used,removed,"First pass: a private address app (FindMe), no government role"
 GHA,005,used,used,removed,"First pass: the address app's own feature, not another service"
 LSO,003,national,nationwide,removed,First pass: a private firm's coverage claim (Geddit)
+LSO,002,addressing,inservice,removed,"Rebuild: a private firm's own app (Geddit), no government role"
+NGA,002,used,used,removed,"Rebuild: the operator's own listing of service points, not another service using the address"

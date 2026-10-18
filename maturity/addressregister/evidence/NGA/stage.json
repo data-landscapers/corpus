@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "2",
-   "addressing": "underway",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-004",
-   "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "3",
+      "addressing": "inservice",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001;NGA-003;NGA-005",
+      "gaps": "No source held since October 2023 says the addressing system covers the whole country, or that other services use it.",
+      "note": "Reassessed in the rebuild: NIPOST switched on the national digital postcode on 1 October 2026, so in service; nothing held says it covers the whole country, and NIPOST listing service points against postcodes is the post's own feature, not another service using it.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }
