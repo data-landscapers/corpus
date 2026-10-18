@@ -3,9 +3,9 @@ title: Sierra Leone — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SLE
-ledger_rows: 31
-not_held: 5
-record: a4e5fa5520c0
+ledger_rows: 34
+not_held: 4
+record: 7f927036a33c
 ---
 
 # News, Sep – Oct 2026
@@ -38,6 +38,8 @@ record: a4e5fa5520c0
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -105,6 +107,22 @@ Sierra Leone's communications and technology ministry, with UNICEF and the Centr
 **[Sierra Leone enhances child data protection in connected government systems](https://techreviewafrica.com/news/7144/sierra-leone-enhances-child-data-protection-in-connected-government-systems)** — TechReviewAfrica, 10 September 2026
 
 Sierra Leone is strengthening safeguards for children's personal data as government institutions move toward more connected digital public infrastructure. The communication, technology and innovation ministry, with a United Nations children's agency and a digital public infrastructure centre, ran a three-day workshop on guardrails for children examining how government systems handle their data.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional data embassy framework proposed at ECOWAS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Attorney-General Defends Cautious Path to AI Legislation at UNESCO Forum in Riyadh](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)** — Truth Media, 21 September 2026
+
+No AI statute, data protection still a Bill; high-risk-by-default AI and an ECOWAS data embassy framework proposed.
 
 </div>
 
@@ -340,6 +358,20 @@ The lands minister said the government plans free nationwide land registration a
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online business registration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sengeh highlights Bio’s business transformation](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)** — AYV News, 7 October 2026
+
+NIB one-stop platform due November 2026; registration to fall from about 24 hours to minutes.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -419,6 +451,20 @@ Sierra Leone's Office of National Security warned that AI-generated deepfakes an
 **[Sierra Leone launches AI, deepfake campaign](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2)** — ITWeb Africa, 17 September 2026
 
 Sierra Leone launched a national artificial-intelligence and deepfake awareness campaign in Freetown, planned in two phases across all 16 districts. It is led by the Directorate of Science, Technology and Innovation with the communications and information ministries, and funded through the World Bank's digital transformation project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Attorney-General Defends Cautious Path to AI Legislation at UNESCO Forum in Riyadh](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)** — Truth Media, 21 September 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 

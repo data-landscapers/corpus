@@ -3,9 +3,9 @@ title: Niger — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: NER
-ledger_rows: 19
+ledger_rows: 20
 not_held: 1
-record: 4c9a417245e9
+record: 52eae5126c1f
 ---
 
 # News, Sep – Oct 2026
@@ -239,6 +239,8 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -329,6 +331,22 @@ Niger opened public enrolment for the Alliance of Sahel States biometric passpor
 **[Guichet Unique Automobile: SONILOGA ouvre le paiement de ses prestations à Airtel Money](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money)** — ActuNiger, 2 October 2026
 
 The operator of Niger's vehicle one-stop shop began accepting Airtel Money for some of its services on 1 October, through an app or an offline USSD code. The transport ministry presented it as a way to trace public revenue.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Niamey addressing geoportal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[À propos - Géoportail de Niamey](http://www.modernisation-villes.ne/geoportail/pages/about.html)** — Agence de Modernisation des Villes (AMV), Niger, 17 October 2026
+
+AMV's Niamey street-addressing geoportal: 3,500+ streets referenced, built by GéoMinds Africa, city-validated data.
 
 </div>
 

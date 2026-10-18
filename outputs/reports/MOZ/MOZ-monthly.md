@@ -4,8 +4,8 @@ compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: MOZ
 ledger_rows: 43
-not_held: 19
-record: c58d6fe42d3f
+not_held: 18
+record: ee0bf752e769
 ---
 
 # News, Sep – Oct 2026
