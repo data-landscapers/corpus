@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-18 22:47 · **REBUILD** · unclocked · admindata, agrisatellite, aiabuse not rebuilt: system ran low on memory this cycle; left unstamped, first in line
+2026-10-18 22:47 · **REVIEW** · 1m · BEN: status 1 section revised, mapping 6 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
+2026-10-18 22:46 · **REVIEW** · 2m · ZWE: status 4 sections revised, mapping 8 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
 2026-10-18 21:57 · **BUILD** · 42m · catalogue 30989; 46 units, 130 sources: 21 rows moved, 26 minted, 3 Not held settled; data centres +1 facility; bulletin 7 items; 4c listing cut short by low memory, arrivals left open - ok
 2026-10-18 21:14 · **ANALYTICS** · unclocked · 2026-10-17 written; 17 Oct: dl.io 20 views / 0 clicks, corpus 199 views / 1 clicks
 2026-10-18 18:31 · **RENDER** · 28m · 207 documents rendered, 86 report/bulletin/dataset editions and 54 maturity PDFs cut to R2, 0 pruned; home+countries+catalogue+maturity built; deployed 4ffa72a — ok
