@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-17-mar-aljarida24-hcp-census-internet-use-by-sex",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:14.6",
+   "fact": "HCP reported from the 2024 census that 64.4% of men and 55% of women aged 15 and over used the internet, a gap of 14.6% of men's rate.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "RGPH 2024",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

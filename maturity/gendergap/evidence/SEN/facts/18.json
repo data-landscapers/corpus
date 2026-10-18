@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-18-sen-rewmi-entics-femmes-plus-connectees",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:-17.5",
+   "fact": "ARTP's ENTICS survey reports 59.7% of women and 50.8% of men used the internet in the last thirty days, a gap of -17.5 per cent of men's rate (women higher).",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "ENTICS 2024",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ENTICS 2024",
+   "country_label": "ENTICS 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "ARTP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

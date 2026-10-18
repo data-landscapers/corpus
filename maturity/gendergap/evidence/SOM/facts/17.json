@@ -1,0 +1,17 @@
+{
+ "slug": "2023-03-29-som-worldbank-gender-data-somali-womens-digital-access",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:19.8",
+   "fact": "A World Bank blog reports SNBS's SIHBS 2022 finding that 30.8% of males and 24.7% of females aged 10+ used the internet in the past 3 months, a gap of 19.8% of the male rate.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Somalia Integrated Household Budget Survey 2022",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

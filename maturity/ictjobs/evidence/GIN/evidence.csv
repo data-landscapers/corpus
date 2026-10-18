@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GIN-001,GIN,ictjobs,jobs,official:0.1,"AGUIPE's employment dashboard, citing INS's 2014 census (RGPH), gives post and telecommunications 0.1 per cent and information, publishing and printing 0.0 per cent of the active population by branch.",2014,year,RGPH 2014 branch of activity,ictjobs,2019-11-01-gin-aguipe-tableau-de-bord-emploi-2018,https://www.stat-guinee.org/images/Documents/Publications/SSN/aguipe/Annuaire/AGUIPE_Tableau_de_bord_Emploi-2018_opt.pdf

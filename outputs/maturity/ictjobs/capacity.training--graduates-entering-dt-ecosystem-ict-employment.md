@@ -25,8 +25,8 @@ Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM and
 | 3 Established | 2 |
 | 2 Nascent | 5 |
 | 1 Absent | 8 |
-| Unplaced | 23 |
-| No evidence | 8 |
+| Unplaced | 24 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -228,6 +228,12 @@ No figure for employment in information and communication is held for 2023 or la
 
 Not established: No figure for 2023 or later is held for employment in information and communication.
 
+### Guinea: Unplaced
+
+No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later is held for employment in information and communication.
+
 ### Guinea-Bissau: Unplaced
 
 No figure for employment in information and communication is held for 2023 or later, so no stage is set.
@@ -319,12 +325,6 @@ No figure for employment in information and communication is held for 2023 or la
 Not established: Nothing held gives employment in information and communication.
 
 ### Eritrea: No evidence
-
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives employment in information and communication.
-
-### Guinea: No evidence
 
 No figure for employment in information and communication is held for 2023 or later, so no stage is set.
 

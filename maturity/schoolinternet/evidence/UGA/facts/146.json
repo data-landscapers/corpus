@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-uga-unicef-secondary-school-digital-readiness",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:63",
+   "fact": "The UNICEF Uganda assessment of 3,257 secondary schools (78% of those registered with ASSHU), done with the Ministry of Education and Sports, reports that schools with internet access are 63 per cent of the sample (2,055 schools), while 38 per cent have no internet at all and only 12 per cent have school-wide access.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Digital Readiness Assessment of Secondary Schools in Uganda",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

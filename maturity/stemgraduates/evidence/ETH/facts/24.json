@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-eth-unesco-ai-ram-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:11.2",
+   "fact": "UNESCO's profile says only 11.2% of Ethiopia's graduates are in STEM.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "UNESCO readiness assessment",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

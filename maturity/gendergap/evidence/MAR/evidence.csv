@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 MAR-001,MAR,gender,gap,official:3.8932,"The gender gap in internet use in Morocco was 3.89 per cent in 2021, by ITU's internet use series by sex.",2021,year,ITU's internet use series by sex,gendergap,ref:itu-internet-use-gender-gap@2026-06-30,https://unstats.un.org/sdgs/dataportal
+MAR-002,MAR,gender,gap,official:14.6,"HCP reported from the 2024 census that 64.4% of men and 55% of women aged 15 and over used the internet, a gap of 14.6% of men's rate.",2024-09,month,RGPH 2024,gendergap,2024-12-17-mar-aljarida24-hcp-census-internet-use-by-sex,https://aljarida24.ma/p/actualites/298884/

@@ -20,13 +20,13 @@ The Maputo Protocol asks for women's access to and control of information techno
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Leading | 2 |
 | 4 Operating | 2 |
-| 3 Established | 3 |
+| 3 Established | 4 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 19 |
-| No evidence | 28 |
+| Unplaced | 22 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -35,6 +35,12 @@ The Maputo Protocol asks for women's access to and control of information techno
 In 2024, the gender gap in internet use was -1.93 per cent.
 
 - The gender gap in internet use in Botswana was -1.93 per cent in 2024, by ITU's internet use series by sex ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+
+### Senegal: 5 Leading
+
+In 2024, the gender gap in internet use was -17.5 per cent, women's use the higher.
+
+- ARTP's ENTICS survey reports 59.7% of women and 50.8% of men used the internet in the last thirty days, a gap of -17.5 per cent of men's rate (women higher) ([source, 2024-09](https://www.rewmi.com/enquete-nationale-sur-les-tic-au-senegal-entics-les-femmes-plus-connectees-que-les-hommes/)).
 
 ### Lesotho: 4 Operating
 
@@ -65,6 +71,12 @@ In 2024, the gender gap in internet use was 14.8 per cent.
 In 2023, the gender gap in internet use was 14.4 per cent.
 
 - The gender gap in internet use in Malawi was 14.4 per cent in 2023, by ITU's internet use series by sex ([source, 2023](https://unstats.un.org/sdgs/dataportal)).
+
+### Morocco: 3 Established
+
+In 2024, the gender gap in internet use was 14.6 per cent.
+
+- HCP reported from the 2024 census that 64.4% of men and 55% of women aged 15 and over used the internet, a gap of 14.6% of men's rate ([source, 2024-09](https://aljarida24.ma/p/actualites/298884/)).
 
 ### Uganda: 2 Nascent
 
@@ -138,7 +150,7 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 
 Not established: No figure for 2023 or later is held for the gender gap in internet use.
 
-### Morocco: Unplaced
+### Madagascar: Unplaced
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
 
@@ -156,7 +168,25 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 
 Not established: No figure for 2023 or later is held for the gender gap in internet use.
 
+### Rwanda: Unplaced
+
+No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later is held for the gender gap in internet use.
+
+### Somalia: Unplaced
+
+No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later is held for the gender gap in internet use.
+
 ### Sudan: Unplaced
+
+No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later is held for the gender gap in internet use.
+
+### Tanzania: Unplaced
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
 
@@ -270,12 +300,6 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 
 Not established: Nothing held gives the gender gap in internet use.
 
-### Madagascar: No evidence
-
-No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives the gender gap in internet use.
-
 ### Mali: No evidence
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
@@ -300,19 +324,7 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 
 Not established: Nothing held gives the gender gap in internet use.
 
-### Rwanda: No evidence
-
-No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives the gender gap in internet use.
-
 ### Sao Tome and Principe: No evidence
-
-No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives the gender gap in internet use.
-
-### Senegal: No evidence
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
 
@@ -330,12 +342,6 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 
 Not established: Nothing held gives the gender gap in internet use.
 
-### Somalia: No evidence
-
-No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives the gender gap in internet use.
-
 ### South Africa: No evidence
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
@@ -343,12 +349,6 @@ No figure for the gender gap in internet use is held for 2023 or later, so no st
 Not established: Nothing held gives the gender gap in internet use.
 
 ### South Sudan: No evidence
-
-No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives the gender gap in internet use.
-
-### Tanzania: No evidence
 
 No figure for the gender gap in internet use is held for 2023 or later, so no stage is set.
 

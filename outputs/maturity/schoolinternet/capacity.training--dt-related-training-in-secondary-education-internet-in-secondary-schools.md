@@ -21,12 +21,12 @@ The AU Digital Education Strategy asks for half of institutions connected by 202
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 9 |
+| 4 Operating | 10 |
 | 3 Established | 3 |
 | 2 Nascent | 6 |
 | 1 Absent | 5 |
 | Unplaced | 10 |
-| No evidence | 20 |
+| No evidence | 19 |
 
 ## Countries
 
@@ -84,6 +84,12 @@ In 2024, 100 per cent of secondary schools had internet for teaching.
 In 2023, 99.5 per cent of secondary schools had internet for teaching.
 
 - 99.5 per cent of secondary schools in Tunisia had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series ([source, 2023](https://databrowser.uis.unesco.org/)).
+
+### Uganda: 4 Operating
+
+In 2026, 63 per cent of secondary schools assessed had internet; whether digital skills are compulsory is not known.
+
+- The UNICEF Uganda assessment of 3,257 secondary schools (78% of those registered with ASSHU), done with the Ministry of Education and Sports, reports that schools with internet access are 63 per cent of the sample (2,055 schools), while 38 per cent have no internet at all and only 12 per cent have school-wide access ([source, 2026-02](https://www.unicef.org/uganda/media/21466/file/From%20Unplugged%20to%20ICT-Ready%20-%20A%20Digital%20Readiness%20Assessment%20of%20Secondary%20Schools%20in%20Uganda%20-%20print%20file.pdf.pdf)).
 
 ### Zambia: 4 Operating
 
@@ -344,12 +350,6 @@ No figure for secondary schools with internet for teaching is held for 2023 or l
 Not established: Nothing held gives secondary schools with internet for teaching.
 
 ### Tanzania: No evidence
-
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives secondary schools with internet for teaching.
-
-### Uganda: No evidence
 
 No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
 

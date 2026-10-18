@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,graduates,stem,official:11.2,UNESCO's profile says only 11.2% of Ethiopia's graduates are in STEM.,2026-06-30,day,UNESCO readiness assessment,stemgraduates,2026-06-30-eth-unesco-ai-ram-country-profile,https://www.unesco.org/ethics-ai/en/ethiopia

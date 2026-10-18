@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MDG-001,MDG,gender,gap,official:33.3,"MICS6 Madagascar (INSTAT, UNICEF) reports 12 per cent of men and 8 per cent of women aged 15 to 49 used the internet in the previous three months, a gap of 33.3 per cent of men's rate.",2018,year,MICS6 Madagascar,gendergap,2018-01-01-mdg-unicef-instat-mics6-mass-media-internet,https://www.unicef.org/madagascar/media/2426/file/MICS6-Madagascar-2018-Media.pdf

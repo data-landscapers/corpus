@@ -3,13 +3,14 @@
  "cells": [
   {
    "sub_indicator": "gender",
-   "stage": "no evidence",
-   "gap": "",
+   "stage": "5",
+   "gap": "official:-17.5",
    "cap": "",
    "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+   "stage_sources": "SEN-001",
+   "gaps": "All four lines are passed.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap.",
+   "as_at": "2026-10-18"
   }
  ]
 }

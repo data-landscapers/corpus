@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TZA-001,TZA,gender,gap,official:13.9,"The NBS and OCGS Zanzibar 2022 census ICT monograph gives internet use among people aged four and above as 15.8% for men and 13.6% for women, a gap of 13.9% of men's rate.",2022-08,month,2022 Population and Housing Census,gendergap,2025-11-01-tza-nbs-ict-analysis-2022-census,https://www.nbs.go.tz/uploads/statistics/documents/en-1764330874-Information%20and%20Communication%20Technology%20%20Analysis%20%20in%20Tanzania.pdf

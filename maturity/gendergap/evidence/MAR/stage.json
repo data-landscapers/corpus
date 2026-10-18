@@ -3,13 +3,14 @@
  "cells": [
   {
    "sub_indicator": "gender",
-   "stage": "unplaced",
-   "gap": "",
+   "stage": "3",
+   "gap": "official:14.6",
    "cap": "",
    "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later is held for the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+   "stage_sources": "MAR-002",
+   "gaps": "The latest figure, 14.6 per cent for 2024, is above 10.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap.",
+   "as_at": "2026-10-18"
   }
  ]
 }

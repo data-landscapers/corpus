@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-07-ago-em-11pct-licenciados-stem",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:11",
+   "fact": "Economia & Mercado, from the MESCTI Anuario Estatistico, reports about 11% of Angola's 29,302 tertiary graduates in 2022/23 were in science, technology, engineering and mathematics (under 3,200).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Anuario Estatistico do Ensino Superior (MESCTI)",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

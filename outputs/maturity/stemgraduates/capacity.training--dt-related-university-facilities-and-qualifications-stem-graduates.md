@@ -24,9 +24,9 @@ The AU Digital Education Strategy asks for a national research and education net
 | 4 Operating | 1 |
 | 3 Established | 5 |
 | 2 Nascent | 9 |
-| 1 Absent | 3 |
+| 1 Absent | 5 |
 | Unplaced | 14 |
-| No evidence | 22 |
+| No evidence | 20 |
 
 ## Countries
 
@@ -120,6 +120,12 @@ In 2024, STEM graduates were 23.8 per cent of tertiary graduates.
 
 - Graduates in science, technology, engineering and mathematics were 23.8 per cent of tertiary graduates in Zimbabwe in 2024, by UNESCO's series ([source, 2024](https://databrowser.uis.unesco.org/)).
 
+### Angola: 1 Absent
+
+In 2023, STEM graduates were 11 per cent of tertiary graduates.
+
+- Economia & Mercado, from the MESCTI Anuario Estatistico, reports about 11% of Angola's 29,302 tertiary graduates in 2022/23 were in science, technology, engineering and mathematics (under 3,200) ([source, 2023](https://economiaemercado.com/artigo/apenas-11-dos-novos-licenciados-em-angola-formam-se-em-areas-de-tecnologicas-e-de-engenharia)).
+
 ### Botswana: 1 Absent
 
 In 2024, STEM graduates were 10.9 per cent of tertiary graduates.
@@ -132,17 +138,17 @@ In 2025, STEM graduates were 9.75 per cent of tertiary graduates.
 
 - Graduates in science, technology, engineering and mathematics were 9.75 per cent of tertiary graduates in Burundi in 2025, by UNESCO's series ([source, 2025](https://databrowser.uis.unesco.org/)).
 
+### Ethiopia: 1 Absent
+
+In 2026, STEM graduates were 11.2 per cent of graduates, by UNESCO's profile.
+
+- UNESCO's profile says only 11.2% of Ethiopia's graduates are in STEM ([source, 2026-06-30](https://www.unesco.org/ethics-ai/en/ethiopia)).
+
 ### Gambia: 1 Absent
 
 In 2025, STEM graduates were 2.37 per cent of tertiary graduates.
 
 - Graduates in science, technology, engineering and mathematics were 2.37 per cent of tertiary graduates in Gambia in 2025, by UNESCO's series ([source, 2025](https://databrowser.uis.unesco.org/)).
-
-### Angola: Unplaced
-
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
-
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
 
 ### Benin: Unplaced
 
@@ -187,6 +193,12 @@ No figure for STEM graduates as a share of tertiary graduates is held for 2023 o
 Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
 
 ### Lesotho: Unplaced
+
+No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+
+Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+
+### Malawi: Unplaced
 
 No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
 
@@ -252,12 +264,6 @@ No figure for STEM graduates as a share of tertiary graduates is held for 2023 o
 
 Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
 
-### Ethiopia: No evidence
-
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
-
 ### Gabon: No evidence
 
 No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
@@ -283,12 +289,6 @@ No figure for STEM graduates as a share of tertiary graduates is held for 2023 o
 Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
 
 ### Libya: No evidence
-
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
-
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
-
-### Malawi: No evidence
 
 No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
 
