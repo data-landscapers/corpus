@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-uga-parliament-ict-access-funding",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Deputy Speaker Thomas Tayebwa said Shs110 billion was appropriated to fund the Uganda Communications Commission in 2024, of which only Shs55 billion was released.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Uganda Communications Commission appropriation",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

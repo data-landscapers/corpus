@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-06-bfa-iiep-donnees-esu-sige",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "SIGE",
+   "class": "census",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes only annual school census results and emergency data tools; no per-learner entry between census days stated."
+}

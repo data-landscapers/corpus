@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-17-gmb-unctad-mocde-wsis-statement-rural-satellite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile phone penetration",
+   "country_label": "more than 113%",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "113% is a penetration rate of subscriptions, not a share of people owning a phone."
+}

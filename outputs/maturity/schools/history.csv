@@ -14,3 +14,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,ZMB,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-17,BEN,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,3,3,BEN-004;BEN-005;BEN-006,"Arrivals added BEN-022, BEN-023, BEN-024, BEN-025; restaged by hand: stage unchanged."
 2026-10-17,CIV,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,2,2,CIV-006;CIV-007;CIV-009;CIV-004;CIV-005,"Arrivals added CIV-009, CIV-010; restaged by hand: stage unchanged."
+2026-10-18,TZA,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,2,2,TZA-002;TZA-003;TZA-004;TZA-005,"PO-RALG's July 2025 privacy policy describes the School Information System as built for per-learner attendance and assessment entered by school staff; it does not say schools use it, so the stage stays 2."

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-21-zaf-govza-dsti-innovation-fund",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The DSTI says its Innovation Fund, which has invested R917.2 million through TIA, the PIC and the SA SME Fund since the 2021 pilot, has leveraged more than half a billion rand in private-sector co-investments (cumulative to 21 February 2025).",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Innovation Fund",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "The DSTI describes the Innovation Fund as structured for public-private co-investment in high-tech SMEs, with private venture capital firms syndicating alongside the state-backed intermediaries and more than half a billion rand of private co-investment leveraged.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Innovation Fund",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innovation Fund",
+   "country_label": "Innovation Fund",
+   "class": "private",
+   "platform": "",
+   "owner": "Department of Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

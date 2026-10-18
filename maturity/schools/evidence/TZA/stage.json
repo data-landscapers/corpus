@@ -12,8 +12,9 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "TZA-002;TZA-003;TZA-004;TZA-005",
-      "gaps": "No source shows a primary school entering attendance or results after the directed start of the School Information System on 13 January 2026: the one dated account is of training in a single council, and the Mbeya account says what teachers are expected to do, not what is entered. The schools facts disagree (`none` for the planned tracking system in November 2025, `not-published` for the SIS in January 2026); no plan or finance is stated, and no count of schools is given.",
-      "note": "Heads and teachers trained and a start of use directed is preparation, which is stage 2. Stage 3 needs live use past a pilot in some primary schools, and the evidence stops at training in one council."
+      "gaps": "No source shows a primary school entering attendance or results in the School Information System: PO-RALG's privacy policy of July 2025 describes what the system is designed to hold, per learner, not schools using it; the one dated account of use is of training in a single council in January 2026, and the Mbeya account says what teachers are expected to do. The schools facts disagree (`none` for the planned tracking system in November 2025, `not-published` for the SIS in January 2026); no plan or finance is stated, and no count of schools is given.",
+      "note": "A system built for per-learner attendance and assessment, with heads and teachers trained and a start of use directed, is preparation, which is stage 2. Stage 3 needs a source saying it is live past a pilot in some primary schools, and none does.",
+      "as_at": "2026-10-18"
     }
   ]
 }

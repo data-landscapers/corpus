@@ -1,16 +1,17 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "financing",
-   "stage": "3",
-   "budget": "spent",
-   "commitment": "abolished",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-004;MRT-003",
-   "gaps": "The fund or levy that paid for digital programmes was abolished, repealed or moved to the general treasury, and nothing held replaces it.",
-   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "financing",
+      "stage": "3",
+      "budget": "spent",
+      "commitment": "abolished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-004;MRT-003",
+      "gaps": "The universal service fund ARE described in February 2025 as levied at 3% of operators' turnover and paying for coverage projects had its decree repealed in July 2026, with its resources moved to the Treasury, and nothing held replaces it.",
+      "note": "Stage 3 because the digital ministry's 2026 budget rose 104.6% on 2025. Not stage 4, because the fund that was the act has been repealed since and no other act is held.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

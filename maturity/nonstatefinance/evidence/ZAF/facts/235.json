@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-techafricanews-instarc-125m-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Tech Africa News reports Tallinn-based Instarc secured a EUR1.25 million strategic investment from HFO Investments to roll out its compliance platform in South Africa; the agreement date is not stated.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Instarc",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
