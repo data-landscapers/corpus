@@ -3,9 +3,9 @@ title: Senegal — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SEN
-ledger_rows: 60
-not_held: 3
-record: c7af433eec01
+ledger_rows: 61
+not_held: 2
+record: f6b68605e887
 ---
 
 # News, Sep – Oct 2026
@@ -677,6 +677,20 @@ Senegal's tax and lands directorate lists five separate online services on its w
 **[L'Agence de régulation des marchés et Enabel conjuguent leurs forces pour renforcer les systèmes d'information](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/)** — Le Soleil, 6 September 2026
 
 Senegal's market regulation agency (ARM) and the Belgian development agency Enabel held a workshop in Dakar on 4 September 2026 on rebuilding the agricultural market information system. ARM's director-general, Babacar Sembène, said the new system should show production, harvests, stocks and areas of need so that price movements can be anticipated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social protection information systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bourses de sécurité familiale : le paiement des allocations officiellement relancé après deux ans](https://aps.sn/bourses-de-securite-familiale-le-paiement-des-allocations-officiellement-relance-apres-deux-ans/)** — Agence de Presse Sénégalaise, 1 October 2026
+
+CFA140,000 per household for 2026, paid via mobile-money operators; more beneficiaries, count not given.
 
 </div>
 

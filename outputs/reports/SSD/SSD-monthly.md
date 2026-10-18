@@ -3,9 +3,9 @@ title: South Sudan — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: SSD
-ledger_rows: 17
-not_held: 10
-record: f6f3035d4977
+ledger_rows: 19
+not_held: 8
+record: 535e23073a54
 ---
 
 # News, Sep – Oct 2026
@@ -31,6 +31,8 @@ record: f6f3035d4977
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
@@ -49,6 +51,22 @@ record: f6f3035d4977
 **[South Sudan advances Data Governance Framework through capacity-building workshop](https://techreviewafrica.com/news/7228/south-sudan-advances-data-governance-framework-through-capacity-building-workshop)** — TechReviewAfrica, 15 September 2026
 
 The communications authority joined a three-day workshop on domesticating the continental data policy framework, hosted by the African Union Commission, its development agency and two partners with the ICT ministry, to set a roadmap for implementation.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Money Regulation 2017 (Amendment 2025)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoSS Sets Strict USD Caps on Mobile Money](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)** — Access Radio Yei, 1 September 2026
+
+Three KYC tiers, mandatory switch link, 99.5% uptime, ring-fenced trust funds, seven-day complaint handling.
 
 </div>
 
@@ -199,6 +217,8 @@ MTN South Sudan says population broadband coverage rose from 76.6% to 85% and ne
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -231,6 +251,22 @@ The Capital Times reports that Uganda's and Kenya's revenue authorities still en
 **[MTN, Government Discuss Reopening of MoMo Services](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/)** — Access Radio, 8 October 2026
 
 South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual meeting with MTN's senior management on reopening Mobile Money transactions, connectivity problems and digital banking, and said the government would urgently address the company's difficulties. The report does not say when or why Mobile Money transactions were halted.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General Electoral Register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NEC rejects biometrics, cites low literacy in voter registration](https://www.sudanspost.com/nec-rejects-biometrics-cites-low-literacy-in-voter-registration/)** — Sudans Post, 2 September 2026
+
+Chair cites 70% illiteracy; paper registration to be keyed into computers later, ahead of 22 December polls.
 
 </div>
 

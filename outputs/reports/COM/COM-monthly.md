@@ -3,9 +3,9 @@ title: Comoros — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: COM
-ledger_rows: 11
+ledger_rows: 12
 not_held: 24
-record: d6b4c07326c3
+record: b6a9f91ad2e8
 ---
 
 # News, Sep – Oct 2026
@@ -121,6 +121,20 @@ The Central Bank of the Comoros published its 2025 annual report on 28 August 20
 **[Comores : le réveil bancaire d'un archipel de la zone franc](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/)** — Financial Afrik, 3 September 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Msaanda cash transfers by mobile banking</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Gouvernement comorien élargit la protection sociale à 55 000 ménages vulnérables](https://pfss-comores.org/articles/le-gouvernement-comorien-%C3%A9largit-la-protection-sociale-%C3%A0-55-000-m%C3%A9nages-vuln%C3%A9rables)** — PFSS-RRC (Projet Filets Sociaux de Sécurité, Union des Comores), 21 September 2026
+
+USD 11m extension takes Mayendeleyo cash transfers to 55,000 households, paid through two mobile-banking operators.
 
 </div>
 
