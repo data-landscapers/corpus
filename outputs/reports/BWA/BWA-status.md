@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-17
+compiled: 2026-10-18
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 190
+sources_cited: 194
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -235,7 +235,7 @@ The amended regulations had been in force for three and a half months before the
 
 [The 2026/27 budget starts the first phase of a four-year programme to upgrade the Land Information System and Integrated GIS, aimed explicitly at fragmented land data and weak inter-agency coordination (February 2026)](https://dailynews.gov.bw/news-detail/89882). [Digital public services for property transfer are almost entirely absent (2025)](https://www.worldbank.org/content/dam/sites/b-ready/documents/pdf/economy/2025/botswana-2025.pdf).
 
-The business register is the one that finished the job: [the Companies and Intellectual Property Authority's Online Business Registration System has been fully online nationwide since 2019, with name reservation and incorporation completed online and routine approvals typically issued within 24 hours](https://www.cipa.co.bw), and [92.2% of firms report having been formally registered when they began operating (2023)](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Botswana-2023.pdf).
+The business register is the one that finished the job: [the Companies and Intellectual Property Authority's Online Business Registration System has been fully online nationwide since 2019, with name reservation and incorporation completed online and routine approvals typically issued within 24 hours](https://www.cipa.co.bw), though [about P15 million went on a system the press called defective, with the same supplier hired again for its upgrade](https://businessweekly.co.bw/news/cipa-rots-from-the-head-splashes-p15m-on-bad-it-system) and [the upgraded system relaunched in March 2025 to disclose companies' beneficial owners](https://www.mmegi.bw/business/cipa-set-to-unveil-hidden-investor-database/news); and [92.2% of firms report having been formally registered when they began operating (2023)](https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Botswana-2023.pdf).
 
 [Birth registration completeness stood above 92% in both 2022 and 2023](https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf). [District and sub-district registry offices are equipped and register vital events directly into the national Births and Deaths Registration System, which the registration department describes as partially automated and real-time, with paper notification forms and printed certificates still part of the process (2023)](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf), and [registration reaches remote areas through desks at major health facilities and mobile outreach exercises](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf). [Botswana's civil registration score nonetheless fell 12.5 points over 2014-2023 to 75.0 out of 100, seventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bw.pdf) (2023).
 
@@ -253,7 +253,7 @@ Revenue administration is the priority. [The revenue service is modernising Lekg
 <!-- derived -->
 That is roughly eight and a half times the entire ICT envelope in the same programme, the envelope carrying the national payment switch.
 
-Examinations are further along: [the examinations council marked 32 subjects electronically in 2024, feeding its Malepa processing system](https://dailynews.gov.bw/news-detail/85969), and [deployed an in-house mark-capture application in 2024/25](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf). Schools report by form: [the annual school census that produces national education statistics is collected on questionnaires sent to schools each year (2018)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf).
+Examinations are further along: [the examinations council marked 32 subjects electronically in 2024, feeding its Malepa processing system](https://dailynews.gov.bw/news-detail/85969), and [deployed an in-house mark-capture application in 2024/25](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf). Schools report by form: [the annual school census that produces national education statistics is collected on questionnaires sent to schools each year (2018)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf), [run by the education ministry's EMIS unit, whose 2022 census results were published in June 2024](https://www.statsbots.org.bw/sites/default/files/Secondary%20Schools%20Stats%20Brief%202022.pdf); [an EMIS system was being procured in 2020](https://dailynews.gov.bw/news-detail/54687), and no account of its delivery is held.
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

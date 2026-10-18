@@ -3,9 +3,9 @@ title: Gabon — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: GAB
-ledger_rows: 49
-not_held: 14
-record: e6f2de629f89
+ledger_rows: 50
+not_held: 13
+record: 9f910ccd8791
 ---
 
 # News, Sep – Oct 2026
@@ -861,8 +861,26 @@ Gabon's First Lady visited the former governorate building in Oyem, which is bei
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">RCAPE public-agent capacity programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/CGI : des agents du ministère de la Communication et des Médias initiés à l’utilisation de l’IA](https://agpgabon.ga/gabon-cgi-des-agents-du-ministere-de-la-communication-et-des-medias-inities-a-lutilisation-de-lia/)** — Agence Gabonaise de Presse, 7 September 2026
+
+Forty agents in first session; RCAPE targets 500 civil servants by December 2026, 1,000 more by mid-2027.
+
+</div>
+
+</div>
 
 ### Training and skills
 

@@ -3,9 +3,9 @@ title: Botswana — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: BWA
-ledger_rows: 17
+ledger_rows: 18
 not_held: 7
-record: ab46a7fb4010
+record: 9a9f68442706
 ---
 
 # News, Sep – Oct 2026
@@ -169,6 +169,8 @@ Summarised under [Data Storage](#data-storage).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -213,6 +215,22 @@ First National Bank Botswana will let customers receiving money through its eWal
 **[Absa Botswana’s Google Pay, Bringing contactless payments to a nation still reaching for them](https://weekendpost.co.bw/absa-botswanas-google-pay-bringing-contactless-payments-to-a-nation-still-reaching-for-them/)** — Weekend Post, 21 September 2026
 
 Absa Bank Botswana has made Google Pay available on Android for its Visa debit, credit and multi-currency virtual cards, with no extra fees. The launch date was not given. The service only works where merchants have NFC terminals, and the report says these are patchy outside Gaborone and Francistown.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CRVS Strategic Implementation Plan 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry unveils strategic plan](https://dailynews.gov.bw/news-detail/93441)** — Daily News (Botswana Government), 28 September 2026
+
+CRVS plan 2026-2031 launched; digital CRVS system and legal review for data privacy promised.
 
 </div>
 
