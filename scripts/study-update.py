@@ -4,7 +4,7 @@ r"""study-update.py — keeping a finished maturity study current: the work orde
     python scripts/study-update.py order                   what arrived and is unread, by study and country; exit 1 if nothing
     python scripts/study-update.py close STUDY ISO3 SLUG --outcome nothing|fact|reassessed|instrument|old|capped
     python scripts/study-update.py log STUDY ISO3 KEY --kind fact|review|ladder --note "..."
-    python scripts/study-update.py next [--poll]           tonight's two indicators to rebuild; exit 1 if none is owed
+    python scripts/study-update.py next [--poll]           tonight's three indicators to rebuild; exit 1 if none is owed
     python scripts/study-update.py done STUDY KEY --minutes N --tokens M --staged N
                                                            stamp an indicator's rebuild and what it cost
     python scripts/study-update.py list                    the control list, most overdue first
@@ -30,8 +30,8 @@ not the stage moved *(Bill)*. `log` is run after the cell's `stage.json` is rewr
 - `ladder` — a rung was rewritten; likewise *Reassessed*.
 
 **The rebuild is by indicator** *(Bill, 2026-10-09)*: a whole reassessment reads all 54
-countries side by side against the one ladder, which a country at a time cannot do. **Two a
-night** *(Bill, 2026-10-17, as the unit review takes two units)*. `logs/maturity-review.csv` is
+countries side by side against the one ladder, which a country at a time cannot do. **Three a
+night** *(Bill, 2026-10-18; two from 2026-10-17)*. `logs/maturity-review.csv` is
 the control list: one row per sub-indicator of every issued study, the date of its last
 rebuild, and what that rebuild cost in minutes, tokens (millions) and documents staged for
 OSINT. `next` names the `PER_NIGHT` rebuilt longest ago, never-rebuilt first, on
@@ -68,7 +68,7 @@ OUTCOMES = ("nothing", "fact", "reassessed",
 # Lifted 2026-10-17 (Bill): every indicator has its first study.
 HELD = False
 MIN_GAP_DAYS = 30          # an indicator is not reassessed whole twice inside this
-PER_NIGHT = 2              # indicators rebuilt a night (Bill, 2026-10-17)
+PER_NIGHT = 3              # indicators rebuilt a night (Bill, 2026-10-18)
 SEARCH_EVERY_DAYS = 365
 
 if hasattr(sys.stdout, "reconfigure"):
