@@ -14,3 +14,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,gov.protect--national-data-protection-readiness-data-protection-system,fact,3,3,TUN-012;TUN-006,Arrivals added TUN-014; stage unchanged.
 2026-10-17,ZWE,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,ZWE-038;ZWE-002;ZWE-041,Arrivals added ZWE-039; ZWE-040; ZWE-041; ZWE-042; ZWE-043; ZWE-044; stage unchanged.
 2026-10-18,GMB,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,1,GMB-012;GMB-001,"Minister said The Gambia ratified the Malabo Convention in March 2024 (GMB-014), against the AU list's signature only; no law commenced, stage unchanged."
+2026-10-18,TCD,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,3,TCD-004,"The law study holds Loi 007/PR/2015 in force (TCD-004, 2026-07); with an authority appointed the cell takes stage 3, so the three rows agree"

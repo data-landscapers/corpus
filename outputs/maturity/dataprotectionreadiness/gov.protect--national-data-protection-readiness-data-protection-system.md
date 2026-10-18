@@ -22,9 +22,9 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 |---|---|
 | 5 Leading | 13 |
 | 4 Operating | 15 |
-| 3 Established | 8 |
+| 3 Established | 9 |
 | 2 Nascent | 4 |
-| 1 Absent | 13 |
+| 1 Absent | 12 |
 | Unplaced | 0 |
 | No evidence | 1 |
 
@@ -248,6 +248,12 @@ A data protection law is in force and an authority is appointed and working; no 
 - POTRAZ Regulatory Notice 2 of 2026, signed by its director-general, announces mandatory compliance inspections and assessments of data controllers from 1 September 2026, risk-based and starting with financial, insurance, local authority, health and mining sectors; no sanction is reported. Notice date not given, so the published date is used ([source, 2026-08-17](https://postonsunday.co.zw/2026/08/17/potraz-sets-september-deadline-for-data-protection-compliance)).
 - POTRAZ is the existing regulator doing the data protection job, including training data protection officers ([source, 2026-10-15](https://hanyani.com/is-the-data-protection-act-meant-to-protect-citizens-or-censor-freedom-of-expression/)).
 
+### Chad: 3 Established
+
+Chad's 2015 personal data law is treated as in force and the security agency holds data protection duties; no ruling is known.
+
+- The Cabinet Thomas Dingamgoto analysis applies Loi n°007/PR/2015 to personal data, including transfers abroad under articles 29 to 32 ([source, 2026-07-06](https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/)).
+
 ### Congo: 3 Established
 
 A data protection law is in force and an authority was appointed in 2025; no ruling against an organisation is known.
@@ -341,13 +347,6 @@ A law was promulgated in March 2026; whether it is in force is not known, nor an
 
 - Burundi's National Assembly adopted the law on the protection of personal data on 15 January 2026 and the head of state promulgated it on 10 March 2026, per Community Voice; the article does not state a commencement date ([source, 2026-03-10](https://communityvoice.bi/1489-2/)).
 - Burundi's National Assembly unanimously adopted a bill governing the collection and processing of personal data across public and private sectors on 15 January 2026; the document does not report promulgation ([source, 2026-01-15](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates)).
-
-### Chad: 1 Absent
-
-A digital law was still being finalised in March 2026; a reform gave the cybersecurity agency data protection duties; no ruling is known.
-
-- Ecofin reports (published 2026-03-16) that Chad's Digital Code, under development since December 2025, incorporates international standards on cybersecurity and data protection ([source, 2025-12](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency)).
-- Minister Boukar Michel announced on 2025-12-09 that authorities are finalizing a new digital law incorporating international standards on cybersecurity, data protection and internet governance ([source, 2025-12-09](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards)).
 
 ### Comoros: 1 Absent
 

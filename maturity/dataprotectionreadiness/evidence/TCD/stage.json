@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "system",
-      "stage": "1",
-      "law": "not-yet",
+      "stage": "3",
+      "law": "in-force",
       "treaty": "signed",
       "authority": "appointed",
       "practice": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-001;TCD-002",
-      "gaps": "",
+      "stage_sources": "TCD-004",
+      "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.",
       "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-18"
     }
   ]
 }
