@@ -3,9 +3,9 @@ title: Burundi — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: BDI
-ledger_rows: 14
+ledger_rows: 15
 not_held: 10
-record: a95ad726bff5
+record: b378cec89869
 ---
 
 # News, Sep – Oct 2026
@@ -241,6 +241,20 @@ Burundi is preparing an E-Justice platform to link the penal chain from the judi
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Demande de Propositions No : Bl-PAFEN-PIU-549116-NC-RFB Relative à la Conception, développement sur mesure et déploiement d’un Système Électronique de Passation des Marchés Publics (e-GP) de bout en bout entièrement personnalisé pour la République du Burundi.](https://armp.gov.bi/archives/12100)** — Projet d'Appui aux Fondations de l'Economie Numérique (PAFEN), posted by the Autorité de Régulation des Marchés Publics (ARMP Burundi), 23 September 2026
+
+IDA-funded RFP for open-source e-GP over 18 months, code and IP to the state; proposals due 13 Nov 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -4,8 +4,8 @@ compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: ZMB
 ledger_rows: 43
-not_held: 41
-record: 3a3240d548a0
+not_held: 35
+record: db0ef768758f
 ---
 
 # News, Sep – Oct 2026

@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-16
+compiled: 2026-10-18
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 252
+sources_cited: 254
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -253,7 +253,7 @@ Elsewhere records are still fragmented. [The education management information sy
 
 What runs, runs at the revenue authority. [The OBR announced on 17 February 2026 the launch and operationalisation of ABREMA, a fully digital one-stop shop for pharmaceutical imports](https://techafricanews.com/2026/02/19/burundi-launches-abrema-fully-digital-platform-for-pharmaceutical-imports/) — a platform [first launched in 2021, with its exclusive use required from 18 February 2026](https://techafricanews.com/2026/02/19/burundi-launches-abrema-fully-digital-platform-for-pharmaceutical-imports/). Alongside it sit [e-KORI, launched on 19 January 2026 for tax filing and the payment of taxes and fees](https://techafricanews.com/2026/01/22/burundi-modernizes-tax-and-non-tax-revenue-collection-with-ekori-launch), [delivered in nine phases with each deliverable validated before the next begins](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-digitizes-tax-collection-with-launch-of-e-kori-system), and the older [Umutangakori online filing and payment service](https://www.obr.bi/index.php/en/teledeclaration-telepaiement).
 
-Beyond tax the estate is thin. [The immigration authority has run an online portal for passports, laissez-passer and visas since October 2022](https://www.burunditimes.com/burundi-travel-document-applications-goes-digital/), and [a Border Management System is live at Melchior Ndadaye international airport, automating passport reading and verification with a direct interconnection to Interpol, with extension to other posts announced](https://www.mae.gov.bi/wp-content/uploads/2025/08/Mag-no-7-VF1.pdf-du-17-aout.pdf). [A government employment platform, PAEEJ-JOB, matched jobseekers with employers through a searchable CV database and vacancy listings (2025)](https://job.paeej.bi/), and [the justice ministry's digitalisation programme, costed at around 20 billion Burundian francs (2022), depended on a donor mobilisation strategy](https://www.iwacu-burundi.org/bientot-la-digitalisation-des-services-judiciaires/).
+Beyond tax the estate is thin. [The immigration authority has run an online portal for passports, laissez-passer and visas since October 2022](https://www.burunditimes.com/burundi-travel-document-applications-goes-digital/), and [a Border Management System is live at Melchior Ndadaye international airport, automating passport reading and verification with a direct interconnection to Interpol, with extension to other posts announced](https://www.mae.gov.bi/wp-content/uploads/2025/08/Mag-no-7-VF1.pdf-du-17-aout.pdf). [A government employment platform, PAEEJ-JOB, matched jobseekers with employers through a searchable CV database and vacancy listings (2025)](https://job.paeej.bi/), and [the justice ministry's digitalisation programme, costed at around 20 billion Burundian francs (2022), depended on a donor mobilisation strategy](https://www.iwacu-burundi.org/bientot-la-digitalisation-des-services-judiciaires/). Electronic procurement is at tender: [the digital-foundations project issued an international request for proposals on 23 September 2026 for an end-to-end electronic procurement system, to be built over 18 months with the procurement regulator](https://armp.gov.bi/archives/12100), and [the finance minister puts its entry into force from 2027](https://indundi.com/le-burundi-sachemine-vers-la-digitalisation-des-marches-publics-a-travers-la-plateforme-e-gp/).
 
 Ambition sits in policy. The [master plan for the digitalisation of public services 2023-2033](https://primature.gov.bi/wp-content/uploads/2026/06/PLAN-DIRECTEUR-DE-DIGITALISATION-2023-2033.pdf) is the standing instrument; the prime minister [instructed every ministry on 3 July 2026 to produce its own implementation document for the Vision 2040/2060, with digitalisation and e-government among the first priority programmes](https://primature.gov.bi/la-primature-oriente-les-ministeres-pour-accelerer-la-mise-en-oeuvre-de-la-vision-burundi-emergent-en-2040-et-developpe-en-2060/); and a [UNDP review in July 2026 found Burundian public data largely under-used and not yet fit for advanced analytical use](https://www.undp.org/sites/g/files/zskgke326/files/2026-07/undp-reading-ai-readiness-backwards.pdf).
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: AGO
 ledger_rows: 46
 not_held: 6
-record: 0bf90ab00e3c
+record: fa5670632481
 ---
 
 # News, Sep – Oct 2026
@@ -157,6 +157,14 @@ Angola's higher education ministry signed results-based agreements on 4 Septembe
 **[Angola Tertiary Education, Science, and Technology Project (TEST) — Project Appraisal Document](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)** — World Bank (mirrored by Angola's public consultation portal), 15 November 2023
 
 The World Bank's appraisal document for Angola's Tertiary Education, Science and Technology Project describes a US$150m IBRD loan and a US$50m Global Partnership for Education grant, approved in December 2023 as the first phase of a US$550m programme. The project became effective in December 2024 and runs to 2028.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[38,7 milhões USD para financiar cursos alinhados à economia](http://expansao.co.ao/universidade/detalhe/387-milhoes-usd-para-financiar-cursos-alinhados-a-economia-75050.html)** — Expansão, 1 October 2026
+
+TEST results-based grants to 13 public institutions; USD 710,000 disbursed; engineering 10% of graduates 2014-2023.
 
 </div>
 
