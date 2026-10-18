@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 17-10-2026 at 20:36 — Covering sources published on 17 October 2026
 window_start: 2026-10-17
 window_end: 2026-10-18
-items: 10
+items: 22
 collected_to: 2026-10-17 20:36
 compiled: 2026-10-17 21:05
 ---
@@ -31,13 +31,19 @@ compiled: 2026-10-17 21:05
 <label for="bulletin-place">Filter by country or region</label>
 <select id="bulletin-place">
 <option value="">All countries and regions</option>
+<option value="DZA">Algeria</option>
 <option value="BEN">Benin</option>
 <option value="COG">Congo</option>
+<option value="ETH">Ethiopia</option>
 <option value="GHA">Ghana</option>
 <option value="GIN">Guinea</option>
 <option value="MDG">Madagascar</option>
 <option value="MWI">Malawi</option>
+<option value="NER">Niger</option>
 <option value="NGA">Nigeria</option>
+<option value="ZAF">South Africa</option>
+<option value="SDN">Sudan</option>
+<option value="TUN">Tunisia</option>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
 </div>
@@ -51,6 +57,16 @@ compiled: 2026-10-17 21:05
 **[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 Congo's regulator ARPCE presented the second edition of its Livre Blanc and a digital postal-addressing project in Brazzaville on 15 October 2026. The minister asked that addressing be built as public infrastructure that works with digital ID, the data-exchange platform and payments, and the Livre Blanc's conclusions go to the interministerial task force on digitalising the administration. <span class="bulletin-item__also">*Also under [Registries](#registries) and [Access to services](#access-to-services).*</span>
+
+</div>
+
+### Legislation and regulation
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+The South African Reserve Bank explains how its National Payment System Department regulates the payment system for safety, efficiency and stability, including the prevention of fraud and money laundering. It says consumer protection in payments is the job of the Financial Sector Conduct Authority. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Cybersecurity](#cybersecurity).*</span>
 
 </div>
 
@@ -72,9 +88,27 @@ Opening the National Assembly's budget session on 15 October 2026, its president
 
 </div>
 
+### Public debate and participation in policymaking
+
+<div class="bulletin-item" data-places="MDG" markdown="1">
+
+**[Consultations Publiques](https://parlement.mg/consultations/)** — Assemblée nationale de Madagascar, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Madagascar's National Assembly runs an online portal for public consultations on bills. Past consultations include the 2026 electoral code reform, an environment bill and national budget priorities for 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
 ## ICT Infrastructure
 
 ### Connectivity
+
+<div class="bulletin-item" data-places="SDN" markdown="1">
+
+**[الخدمة الشاملة (Universal Service)](https://newsite.tpra.gov.sd/%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9/)** — Telecommunications and Post Regulatory Authority (TPRA), Sudan, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Sudan's telecommunications and post regulator describes its universal service fund, which pays for telecom and postal services in remote and rural areas to narrow the digital divide. The fund's stated purposes include extending coverage, improving e-services outside cities, and supporting research and capacity building. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="GHA" markdown="1">
 
@@ -92,6 +126,16 @@ Nigeria's communications minister Bosun Tijani commissioned the first of 3,700 r
 
 </div>
 
+### Cybersecurity
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
 ## DPI
 
 ### Data Exchange
@@ -101,6 +145,14 @@ Nigeria's communications minister Bosun Tijani commissioned the first of 3,700 r
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 January 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Registries](#registries).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="DZA" markdown="1">
+
+**[Acceuil — Portail de création d'entreprise en Algérie](https://sidjilcom-entreprise.cnrc.dz/acceuil)** — Centre National du Registre du Commerce (CNRC), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
+
+Algeria's commercial register runs a single online portal for creating a company. One registration there covers every administration involved and issues a common identification number. <span class="bulletin-item__also">*Also under [Registries](#registries).*</span>
 
 </div>
 
@@ -124,6 +176,22 @@ The Reserve Bank of Malawi issued fintech PayChangu payment service provider lic
 
 </div>
 
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Guide to SARS Payment Rules](https://www.sars.gov.za/guide-to-sars-payment-rules/)** — South African Revenue Service, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa's revenue service sets out the rules taxpayers must follow when paying it, by each payment channel, so that payments are allocated correctly. It warns that payments that do not follow the rules may be rejected.
+
+</div>
+
+<div class="bulletin-item" data-places="TUN" markdown="1">
+
+**[Finances - Le portail national des services administratifs](https://services.gov.tn/finances/)** — Portail national des services administratifs (République tunisienne), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Tunisia's national administrative services portal lists the tax and payment services citizens can use online. Among them are paying fines online or by USSD, estimating vehicle registration tax, and calculating and paying Tunis municipal building tax. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="NGA" markdown="1">
 
 **[CBN moves to ease Nigeria-China payments as Cardoso takes talks to Beijing](https://nairametrics.com/2026/10/17/cbn-moves-to-ease-nigeria-china-payments-as-cardoso-takes-talks-to-beijing/)** — Nairametrics, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
@@ -132,7 +200,55 @@ Central Bank of Nigeria governor Olayemi Cardoso said he met People's Bank of Ch
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Regulation (National Payment System Department)](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)** — South African Reserve Bank, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
 ### Registries
+
+<div class="bulletin-item" data-places="NER" markdown="1">
+
+**[À propos - Géoportail de Niamey](http://www.modernisation-villes.ne/geoportail/pages/about.html)** — Agence de Modernisation des Villes (AMV), Niger, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Niger's urban modernisation agency runs an online addressing geoportal for Niamey. It is meant to give the capital a modern street-address system that residents, visitors and public services can all use. <span class="bulletin-item__also">*Also under [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NER" markdown="1">
+
+**[Présentation RSU](https://rsu.gouv.ne/presentation)** — Registre Social Unifié-Niger (Cabinet du Premier Ministre), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Niger's unified social registry, run from the Prime Minister's office with World Bank support, holds verified data on households that may qualify for social protection. Each household and member gets a unique identifier, which is shared with programmes so they can link it to their own systems. <span class="bulletin-item__also">*Also under [Sectoral management information systems](#sectoral-management-information-systems).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="MDG" markdown="1">
+
+**[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Madagascar's tax directorate lets taxpayers apply for a tax identification number online through NIFONLINE. The page lists the documents individuals and companies must then present in person. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="DZA" markdown="1">
+
+**[Création d'entreprise : Personne morale](https://sidjilcom-entreprise.cnrc.dz/creation-d-entreprise-personne-morale)** — Centre National du Registre du Commerce (CNRC), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
+
+Algeria's commercial register (CNRC) sets out the steps to create each type of company online, from reserving a name to registration. For a single-member limited company, it notes that the owner is liable only up to the share capital.
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Client Information System | South African Revenue Service](https://www.sars.gov.za/client-segments/client-information-system/)** — South African Revenue Service (SARS), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa's revenue service says its Client Information System, introduced in 2014, lets taxpayers register for and manage all their tax and customs registrations in a single profile. SARS is now merging each client's tax, customs and excise records into one consolidated profile.
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="COG" markdown="1">
 
@@ -150,6 +266,24 @@ Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="DZA" markdown="1">
+
+**[Acceuil — Portail de création d'entreprise en Algérie](https://sidjilcom-entreprise.cnrc.dz/acceuil)** — Centre National du Registre du Commerce (CNRC), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+### Sectoral management information systems
+
+<div class="bulletin-item bulletin-item--xref" data-places="NER" markdown="1">
+
+**[Présentation RSU](https://rsu.gouv.ne/presentation)** — Registre Social Unifié-Niger (Cabinet du Premier Ministre), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Summarised under [Registries](#registries).
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="bulletin-item" data-places="GIN" markdown="1">
@@ -160,11 +294,35 @@ The second International Forum of Government General Secretariats, on AI for gov
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="MDG" markdown="1">
+
+**[Immatriculation sur Nifonline — Espace contribuable](https://hetraonline.impots.mg/accueil/papier_inscri)** — Direction Générale des Impôts (Madagascar), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Summarised under [Registries](#registries).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
+
+**[Finances - Le portail national des services administratifs](https://services.gov.tn/finances/)** — Portail national des services administratifs (République tunisienne), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="COG" markdown="1">
 
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="MDG" markdown="1">
+
+**[Consultations Publiques](https://parlement.mg/consultations/)** — Assemblée nationale de Madagascar, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
@@ -177,6 +335,16 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 </div>
 
 ## Digitalisation
+
+### Digitalisation of sub-national government
+
+<div class="bulletin-item bulletin-item--xref" data-places="NER" markdown="1">
+
+**[À propos - Géoportail de Niamey](http://www.modernisation-villes.ne/geoportail/pages/about.html)** — Agence de Modernisation des Villes (AMV), Niger, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Summarised under [Registries](#registries).
+
+</div>
 
 ### Rural digital data capture
 
@@ -212,6 +380,14 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 ### Access to services
 
+<div class="bulletin-item" data-places="ETH" markdown="1">
+
+**[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
+
+The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="COG" markdown="1">
 
 **[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
@@ -221,6 +397,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 </div>
 
 ### Digital divides
+
+<div class="bulletin-item bulletin-item--xref" data-places="SDN" markdown="1">
+
+**[الخدمة الشاملة (Universal Service)](https://newsite.tpra.gov.sd/%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9/)** — Telecommunications and Post Regulatory Authority (TPRA), Sudan, 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
