@@ -3,9 +3,9 @@ title: Ethiopia — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: ETH
-ledger_rows: 30
+ledger_rows: 31
 not_held: 5
-record: afdaab59db8c
+record: 15c7e2266462
 ---
 
 # News, Sep – Oct 2026
@@ -609,6 +609,20 @@ Forty Ethiopian women traders and exporters attended an export-readiness worksho
 **[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ombudsman online complaint and information-request portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
+
+Home page offering online complaint filing with status tracking and FOI requests.
 
 </div>
 

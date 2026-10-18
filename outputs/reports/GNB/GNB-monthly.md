@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: GNB
-ledger_rows: 8
+ledger_rows: 9
 not_held: 2
-record: f8e55b4b5da5
+record: 6b16516b0e76
 ---
 
 # News, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: f8e55b4b5da5
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -195,6 +197,28 @@ A University of Iceland doctoral study surveyed 2,039 teenagers aged 14–19 at 
 **[Birtingarmyndir ójafnaðar meðal unglinga í Bissá, Gíneu-Bissá (Manifestations of inequality among adolescents in Bissau, Guinea-Bissau)](https://hdl.handle.net/20.500.11815/8043)** — Opin vísindi (University of Iceland repository), 2026
 
 A University of Iceland doctoral thesis on inequality among adolescents in Bissau draws on a survey of 2,039 pupils aged 14 to 19 in 16 schools, followed by interviews and focus groups. It finds parental education and income decide access to private schooling, and that access to computers and the internet is limited, more so for girls and public-school pupils.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#use-of-satellite-data">Use of satellite data</a>
+</nav>
+
+### Use of satellite data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CLIMSA/PUMA2025 satellite receiving station</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nova estação CLIMSA e PUMA2025](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/)** — Instituto Nacional de Meteorologia da Guiné-Bissau, 8 September 2026
+
+AU-supplied, EU-backed station takes EUMETSAT third-generation data near real time at 10-minute, 1 km resolution.
 
 </div>
 
