@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: GMB
-ledger_rows: 48
+ledger_rows: 47
 not_held: 2
-record: 81f947903daa
+record: 1bb0469069b6
 ---
 
 # News, Sep – Oct 2026
