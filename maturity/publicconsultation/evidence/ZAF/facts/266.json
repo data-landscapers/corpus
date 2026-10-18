@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-17-zaf-sarb-nps-regulation-page",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The SARB lists a 2026 draft directive on offshore-merchant payments put out for comment, comments due 17 July 2026, and says its directives follow a consultative process with the payments industry and wider stakeholders.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "SARB consultation documents",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "answered",
+   "fact": "The SARB page links a consultation feedback note with detailed responses to comments received on the draft guidance note to Directive 1 of 2022.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "SARB consultation documents",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

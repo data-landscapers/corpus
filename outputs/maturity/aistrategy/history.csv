@@ -13,3 +13,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TCD,gov.policy--ai-strategy-national-ai-strategy,fact,no evidence,2,TCD-003,Arrivals added TCD-002; TCD-003; stage no evidence -> 2.
 2026-10-17,ZAF,gov.policy--ai-strategy-national-ai-strategy,fact,2,2,ZAF-032;ZAF-010,Arrivals added ZAF-032; ZAF-033; stage unchanged.
 2026-10-17,ZWE,gov.policy--ai-strategy-national-ai-strategy,fact,5,5,ZWE-023;ZWE-015,Arrivals added ZWE-027; ZWE-028; stage unchanged.
+2026-10-18,DJI,gov.policy--ai-strategy-national-ai-strategy,fact,3,3,DJI-001,"La Nation forum report (presented, no adoption stated) and a 2025 Treasury note of no AI policy arrived; the newer launch report still stands, stage 3 held"

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-01-ssd-radioyei-boss-emoney-rules",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Electronic Money Regulation 2017 Amendment 2025, issued under the Bank of South Sudan Act 2011 Amendment 2023, has taken effect and applies to licensed financial institutions and non-bank e-money issuers.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Electronic Money Regulation 2017 Amendment 2025",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The amended regulation licenses non-bank electronic money issuers, requiring standalone payment providers to set up separate companies and obtain regulatory approval with a 65 million SSP filing fee.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Electronic Money Regulation 2017 Amendment 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

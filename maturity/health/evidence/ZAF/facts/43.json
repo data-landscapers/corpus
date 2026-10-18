@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-zaf-pmg-nw4628-hprs-biometric",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Minister of Health says the Department is phasing in an electronic medical record system for Primary Health Care to create longitudinal patient records across public facilities as it is adopted at facility level.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "Electronic medical record (EMR) system for PHC",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic medical record (EMR) system for Primary Health Care",
+   "country_label": "South Africa",
+   "class": "emr",
+   "platform": "",
+   "owner": "National Department of Health",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": ""
+}

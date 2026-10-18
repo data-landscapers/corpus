@@ -1,0 +1,31 @@
+{
+ "slug": "2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "EMR (DHIS2 tracker)",
+   "country_label": "EMR (DHIS2 tracker), HIV",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Immunization Registry",
+   "country_label": "EIR",
+   "class": "tracker",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Document names DHIS2 and DHIS2 tracker but states no tiers, digitisation point or clinic coverage."
+}

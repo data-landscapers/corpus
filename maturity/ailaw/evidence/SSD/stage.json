@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "no evidence",
-      "standing": "",
+      "stage": "2",
+      "standing": "draft",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.",
-      "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "SSD-001",
+      "gaps": "No source held says a law, decree or regulation that sets a rule for AI is in force, or that the AI provisions of the 2024 cybercrimes bill survived into the Act.",
+      "note": "A wider bill that regulates AI among other matters is a draft: the Cybercrimes and Computer Misuse Bill 2024 carried proposed AI provisions in October 2025. No AI rule is held in force.",
+      "as_at": "2026-10-18"
     }
   ]
 }

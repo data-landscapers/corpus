@@ -1,6 +1,6 @@
 # Broadband strategy: national plan
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The Broadband Commission's first target is a funded national broadband plan in e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 12 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 16 |
 
 ## Countries
+
+### Morocco: 5 Leading
+
+Morocco's national broadband plan reached about 99% of its first-phase target by 2024; a second phase funded by the universal service fund runs to 2026.
+
+- The minister reported that PNHD phase one covered over 10,640 rural zones between 2018 and 2024, about 99 per cent of its target ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
+- The minister said PNHD phase two is carried out with the support of the Universal Telecommunications Service Fund ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
+- Minister Amal El Fallah Seghrouchni told parliament that a second phase of the national broadband plan (PNHD) has been launched to serve 1,800 rural zones by 2026 ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 
 ### Kenya: 4 Operating
 
@@ -120,13 +128,6 @@ The Ministry of Communications issued a national broadband policy in 2012 with t
 Lesotho signed a Broadband Infrastructure Sharing Policy in June 2026, but no budget or delivery results are known, so the main unknown is funding.
 
 - Lesotho Times reports that the Minister of Information, Communications, Science, Technology and Innovation signed the Broadband Infrastructure Sharing Policy at a ceremony held 'yesterday' relative to the 12 June 2026 article, so on 11 June 2026; no plan period is given ([source, 2026-06-11](https://lestimes.com/?p=90715)).
-
-### Morocco: 3 Established
-
-Morocco has a broadband plan, PNHD 2, listed in 2024, but no period, budget or financed programme for it is known.
-
-- The op-ed by Issam Khayf Allah says more than 10,000 rural areas have been covered with 3G and 4G networks within the national high-speed plan (al-mukhattat al-watani lil-sabib al-ali), giving no period for the plan; the date is the document's 'late 2025' framing for the connectivity figures ([source, 2025](https://anfaspress.com/news/voir/179518-2026-10-05-04-07-04)).
-- The Digital Morocco 2030 brochure lists PNHD 2 (Plan National du Haut Debit 2), a program to cover areas with little to no coverage, as aiming to cover 1,800 localities; it gives no plan period, and the date used is the document's published date of 2024-09-18 ([source, 2024-09-18](https://www.mmsp.gov.ma/sites/default/files/2024-09/PlaquetteInstitutionnel_18092024_Ang.pdf)).
 
 ### Namibia: 3 Established
 

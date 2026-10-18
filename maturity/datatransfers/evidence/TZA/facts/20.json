@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-tza-repoa-data-protection-platform-workers",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The REPOA brief says the Personal Data Protection Act No. 11 of 2022 limits transfer of data outside Tanzania, and that the 2023 Personal Data Collection and Processing Regulations set guidelines for transferring personal data outside the nation.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Personal Data Collection and Processing Regulations",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

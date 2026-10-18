@@ -3,7 +3,7 @@ NGA,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-
 NGA,hmis,tiers,coverage,T1;T2;T3;T4,2025-06,NGA-027,,
 NGA,hmis,digitised,coverage,facility,2025-06,NGA-028,NGA-030=district;NGA-032=district;NGA-033=district;NGA-024=district,
 NGA,hmis,last12,qualifier,,,,,nothing held
-NGA,hmis,clinics,coverage,none,2017,NGA-025,,nothing dated since 2023-09-28
+NGA,hmis,clinics,coverage,none,2017,NGA-025,,nothing dated since 2023-10-18
 NGA,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12,NGA-006;NGA-012;NGA-021,NGA-005=plan:current;NGA-007=finance:domestic;NGA-016=finance:donor;NGA-017=plan:none;NGA-022=finance:donor,
 NGA,emr,tiers,coverage,T1;T2;T3,2026-04-23,NGA-002;NGA-013;NGA-014;NGA-019,,
 NGA,emr,digitised,coverage,point-of-care,2025-05-22,NGA-020,NGA-011=paper;NGA-026=paper,

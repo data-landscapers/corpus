@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-04-cmr-armp-patnuc-plan-numerique-accessibilite",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Cameroon's PATNUC project unit at MINPOSTEL invited four shortlisted firms on 29 February 2024 to bid, by 2 April 2024, to update the 'plan numerique 2020'.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "plan numerique 2020",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plan numerique 2020",
+   "country_label": "Cameroun",
+   "class": "national",
+   "platform": "",
+   "owner": "MINPOSTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

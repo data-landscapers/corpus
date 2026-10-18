@@ -1,0 +1,23 @@
+{
+ "slug": "2025-03-31-tza-dhis2-ai-alert-triage-surveillance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-IDSR",
+   "country_label": "Tanzania",
+   "class": "single-function",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Event-based surveillance (EBS)",
+   "country_label": "Tanzania",
+   "class": "single-function",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Only surveillance systems are described; no routine HMIS or EMR statement."
+}

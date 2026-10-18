@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-30-som-sonsa-ict-policy-brief",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "SONSA Platform's policy brief evaluates Somalia's current National ICT Policy and Strategy (2019-2024).",
+   "as_of": "2024-12-30",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy (2019-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "SONSA Platform's brief gives the National ICT Policy and Strategy as covering 2019-2024 and calls for a revised strategy for 2025-2030.",
+   "as_of": "2024-12-30",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy (2019-2024)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Policy and Strategy (2019-2024)",
+   "country_label": "Somalia",
+   "class": "sector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

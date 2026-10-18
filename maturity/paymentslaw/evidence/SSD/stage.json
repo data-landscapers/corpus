@@ -1,16 +1,17 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "draft",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-002;SSD-001",
-   "gaps": "No source held says a payments law or e-money rules are in force.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "connect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-007;SSD-006;SSD-005",
+      "gaps": "Nothing on the four questions. The National Payment System Bill, 2025 was still being validated in August 2026.",
+      "note": "The Electronic Money Regulation 2017 Amendment 2025 is in force, licenses non-bank e-money issuers and requires every digital payment platform to connect to the National Payment System through a licensed switch. That rule answers all four questions.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

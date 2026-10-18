@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "plan",
-   "stage": "3",
-   "standing": "adopted",
-   "delivery": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001;MAR-002",
-   "gaps": "No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "plan",
+      "stage": "5",
+      "standing": "adopted",
+      "delivery": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-004;MAR-005;MAR-003",
+      "gaps": "No published period beyond 2026 is held for the second phase.",
+      "note": "The second phase of the national broadband plan runs to 2026 with the Universal Telecommunications Service Fund behind it, and the minister reported in December 2024 that phase one reached about 99 per cent of its target. Money and results against the plan answer all four questions.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

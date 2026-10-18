@@ -5,7 +5,7 @@ SYC,hmis,digitised,coverage,paper,2025-01,SYC-004;SYC-017,,
 SYC,hmis,last12,qualifier,,,,,nothing held
 SYC,hmis,clinics,coverage,,,,,nothing held
 SYC,emr,governance,qualifier,owner:ministry;plan:none;finance:donor,2025-01,SYC-007;SYC-016;SYC-019,SYC-008=owner:ministry;SYC-009=plan:current;SYC-010=owner:ministry,
-SYC,emr,tiers,coverage,T3;T4,2022-10,SYC-013,,nothing dated since 2023-09-28
-SYC,emr,digitised,coverage,point-of-care,2023-06-20,SYC-014,,nothing dated since 2023-09-28
+SYC,emr,tiers,coverage,T3;T4,2022-10,SYC-013,,nothing dated since 2023-10-18
+SYC,emr,digitised,coverage,point-of-care,2023-06-20,SYC-014,,nothing dated since 2023-10-18
 SYC,emr,last12,qualifier,,,,,nothing held
-SYC,emr,clinics,coverage,not-published,2023-06-20,SYC-015,,nothing dated since 2023-09-28
+SYC,emr,clinics,coverage,not-published,2023-06-20,SYC-015,,nothing dated since 2023-10-18

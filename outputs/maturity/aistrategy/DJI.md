@@ -8,4 +8,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.
+***Not held***. No source held names a body set up or named to carry out the strategy. [One report of the September 2026 forum](<https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-devoile-sa-strategie-nationale-2026-2030/>) has the strategy presented there without saying it was adopted.

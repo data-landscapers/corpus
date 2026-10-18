@@ -1,0 +1,37 @@
+{
+ "slug": "2024-12-23-mar-lavieeco-pnhd-phase1-99pct-rural-zones",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Amal El Fallah Seghrouchni told parliament that a second phase of the national broadband plan (PNHD) has been launched to serve 1,800 rural zones by 2026.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Plan national du haut et du très haut débit (PNHD)",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "reported",
+   "fact": "The minister reported that PNHD phase one covered over 10,640 rural zones between 2018 and 2024, about 99 per cent of its target.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Plan national du haut et du très haut débit (PNHD)",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "funded",
+   "fact": "The minister said PNHD phase two is carried out with the support of the Universal Telecommunications Service Fund.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Plan national du haut et du très haut débit (PNHD)",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

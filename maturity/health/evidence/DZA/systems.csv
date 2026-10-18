@@ -14,3 +14,5 @@ DZA,Outpatient consultation software (2009),logiciel au niveau des consultations
 DZA,IDAS,"programme IDAS, remote query of the single file of the socially insured held by CNAS",exchange,,"CNAS, queried from the hospital","hospitals, tied to the « patient » software",2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou
 DZA,IKOLAB,"système d'information de laboratoire (SIL), IKOLAB",single-function,IKOLab,CHU Tizi-Ouzou,"laboratory of CHU Tizi-Ouzou, in real-time use",2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou
 DZA,RISPACKS,"système d'information de radiologie, RISPACKS",single-function,RIS/PACS,CHU Tizi-Ouzou,"radiology service of CHU Tizi-Ouzou, images readable over the hospital's local network",2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou
+DZA,Dossier medical electronique,DME,emr,,"Ministry of Health, information systems directorate",,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas
+DZA,Dossier medical electronique,DME,emr,,Ministry of Health,,2026-09-08-dza-elwatan-dme-deadline-15-november

@@ -4,8 +4,8 @@ STP,hmis,tiers,coverage,,,,,nothing held
 STP,hmis,digitised,coverage,,,,,nothing held
 STP,hmis,last12,qualifier,advancing,2025,STP-006;STP-008,,
 STP,hmis,clinics,coverage,,,,,nothing held
-STP,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2022-09,STP-015;STP-016;STP-018,STP-017=owner:ministry,nothing dated since 2023-09-28
-STP,emr,tiers,coverage,T1,2022-09,STP-013,,nothing dated since 2023-09-28
-STP,emr,digitised,coverage,point-of-care,2022-07-26,STP-019,,nothing dated since 2023-09-28
+STP,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2022-09,STP-015;STP-016;STP-018,STP-017=owner:ministry,nothing dated since 2023-10-18
+STP,emr,tiers,coverage,T1,2022-09,STP-013,,nothing dated since 2023-10-18
+STP,emr,digitised,coverage,point-of-care,2022-07-26,STP-019,,nothing dated since 2023-10-18
 STP,emr,last12,qualifier,,,,,nothing held
-STP,emr,clinics,coverage,pilot,2022-09,STP-014;STP-020,,nothing dated since 2023-09-28
+STP,emr,clinics,coverage,pilot,2022-09,STP-014;STP-020,,nothing dated since 2023-10-18

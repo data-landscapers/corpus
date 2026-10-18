@@ -23,10 +23,10 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
-| 2 Nascent | 9 |
-| 1 Absent | 15 |
+| 2 Nascent | 10 |
+| 1 Absent | 17 |
 | Unplaced | 0 |
-| No evidence | 23 |
+| No evidence | 20 |
 
 ## Countries
 
@@ -118,6 +118,12 @@ A private member's draft bill covering AI was presented to Assembly members in 2
 
 - A private member's draft Pro-Human Technology Bill, covering AI in employment and education among other technologies, was presented to National Assembly members at a seminar on 6 March 2024; the Speaker said it was still far from reaching the Assembly, and it is expected to go to an Assembly working group ([source, 2024-03](https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill)).
 
+### South Sudan: 2 Nascent
+
+In 2025 a cybercrimes bill carried proposed AI provisions; whether any binding AI rule is in force is not known.
+
+- Digital Rights Frontlines says the Cybercrimes and Computer Misuse Bill 2024, not yet passed, contains proposed AI provisions ([source, 2025-10-22](https://www.digitalrights.ngo/post/striking-the-right-balance-south-sudan-s-cybercrimes-and-computer-misuse-bill)).
+
 ### Sudan: 2 Nascent
 
 The Council of Ministers discussed a draft data and AI law in August 2026; no rule on AI is in force.
@@ -130,6 +136,12 @@ The Council of Ministers discussed a draft data and AI law in August 2026; no ru
 A draft data protection law including AI use was before a committee in February 2026; no rule on AI is known in force.
 
 - Organic law proposal 095/2025 on personal data protection, 132 articles in 6 chapters and including regulation of AI use, was heard before the Assembly's Rights and Freedoms Committee on 17 February 2026 ([source, 2026-02-17](https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/)).
+
+### Benin: 1 Absent
+
+In 2025 the Forum on Information and Democracy said Benin has no binding AI rule beyond its strategy; no draft is named.
+
+- Forum on Information and Democracy and ALCRER state that outside the national AI and big-data strategy 2023-2027, Benin has no specific and sufficiently binding regulation on developing, deploying or using AI systems ([source, 2025-04](https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf)).
 
 ### Chad: 1 Absent
 
@@ -154,6 +166,12 @@ A national newspaper said in August 2026 that no law in Djibouti addresses AI; n
 A review of June 2026 says Eritrea has no AI law and no AI-specific legislation; no draft is named.
 
 - Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no dedicated AI law and no AI-specific legislation, and that AI is not governed by any specific national framework ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
+
+### Ethiopia: 1 Absent
+
+In 2026 UNESCO said Ethiopia's legal framework is not AI-specific and has no binding AI legislation; no draft is named.
+
+- UNESCO's readiness profile says Ethiopia's legal framework is not AI-specific and it has no binding legislation on public procurement of AI, algorithmic transparency or liability for AI-induced harm ([source, 2026-06-30](https://www.unesco.org/ethics-ai/en/ethiopia)).
 
 ### Gambia: 1 Absent
 
@@ -231,12 +249,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
-### Benin: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Botswana: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
@@ -280,12 +292,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Eswatini: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Ethiopia: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
@@ -340,12 +346,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Niger: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### South Sudan: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

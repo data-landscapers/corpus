@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-27-dza-maghrebinfo-saadaoui-transformation-numerique",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Mohamed Zenim, director of legal affairs and compliance of the Autorite nationale de protection des donnees a caractere personnel (ANPDP), spoke at the national conference on digital transformation in education.",
+   "as_of": "2025-04-26",
+   "date_precision": "day",
+   "system": "Autorite nationale de protection des donnees a caractere personnel (ANPDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite nationale de protection des donnees a caractere personnel (ANPDP)",
+   "country_label": "ANPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2023-10-24-lbr-lastmile-ecbis-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eCBIS (electronic Community-Based Information System)",
+   "country_label": "eCBIS",
+   "class": "community",
+   "platform": "OpenSRP2 (built by Ona)",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "eCBIS is a community health worker system piloted from September 2023 in four counties; community class is noted, not assessed, and no HMIS or EMR is described."
+}

@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-07-23,COD-004;COD-006;COD-033,COD-007=finance:donor;COD-024=owner:ministry;COD-028=finance:donor;COD-029=owner:ministry;COD-031=plan:current;COD-008=plan:current;COD-009=owner:ministry;COD-003=owner:ministry,
 COD,hmis,tiers,coverage,T3;T4,2024,COD-034,COD-026=T2;T3;T4;COD-032=T2;T3,
-COD,hmis,digitised,coverage,district,2021,COD-022;COD-025;COD-030,,nothing dated since 2023-10-17
+COD,hmis,digitised,coverage,district,2025-10,COD-022;COD-025;COD-030;COD-035,,
 COD,hmis,last12,qualifier,advancing,2026-02,COD-005,COD-023=regressing;COD-027=regressing,
-COD,hmis,clinics,coverage,share:75.3%,2022,COD-021,,nothing dated since 2023-10-17
+COD,hmis,clinics,coverage,share:75.3%,2022,COD-021,,nothing dated since 2023-10-18
 COD,emr,governance,qualifier,owner:vendor;finance:domestic,2026-08-13,COD-002;COD-013,COD-014=owner:ministry;COD-016=owner:ministry;COD-018=finance:domestic;COD-019=owner:ministry,not stated: plan
 COD,emr,tiers,coverage,,,,,nothing held
 COD,emr,digitised,coverage,paper,2023,COD-020,,

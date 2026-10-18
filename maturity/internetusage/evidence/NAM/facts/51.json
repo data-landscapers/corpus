@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-nam-newera-ndp6-national-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:53",
+   "fact": "The NDP6 implementation plan gives current internet usage as 53% of the population, targeting 90% by 2030.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NDP6 IMEP",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

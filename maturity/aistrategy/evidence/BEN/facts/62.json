@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-ben-fid-ia-bien-public-recommandations",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The brochure refers to Benin's national AI and big-data strategy 2023-2027 as the existing national framework to which the April 2024 workshop adapted the recommendations.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "National AI and big-data strategy 2023-2027",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI and big-data strategy 2023-2027",
+   "country_label": "Benin",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

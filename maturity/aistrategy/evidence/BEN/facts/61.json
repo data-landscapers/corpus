@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-20-ben-hal-ia-travail-regulation-competences",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The author states Benin's national AI strategy 2023-2027 was adopted in January 2023 and is carried by the digital ministry.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Stratégie nationale pour l'intelligence artificielle 2023-2027",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "none",
+   "fact": "The author says the strategy still lacks a structured action plan with identified and dedicated funding in key sectors.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "Stratégie nationale pour l'intelligence artificielle 2023-2027",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale pour l'intelligence artificielle 2023-2027",
+   "country_label": "Bénin",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère du numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

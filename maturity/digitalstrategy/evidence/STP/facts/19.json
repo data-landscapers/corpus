@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-01-stp-ager-itu-conectividade-universal-significativa",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "AGER lists the National Digital Transformation Strategy (Council of Ministers Resolution no. 35/2020/CM) among São Tomé and Príncipe's existing digital policy actions.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Estratégia Nacional de Transformação Digital (Res. n.º 35/2020/CM)",
+      "class": "government"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Estratégia Nacional de Transformação Digital (Res. n.º 35/2020/CM)",
+      "country_label": "Estratégia Nacional de Transformação Digital",
+      "class": "national",
+      "platform": "",
+      "owner": "Council of Ministers",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

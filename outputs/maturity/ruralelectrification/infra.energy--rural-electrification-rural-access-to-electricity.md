@@ -24,8 +24,8 @@ The African Union's Agenda 2063 first ten-year plan asks for 80% of households t
 | 4 Operating | 4 |
 | 3 Established | 6 |
 | 2 Nascent | 17 |
-| 1 Absent | 17 |
-| Unplaced | 2 |
+| 1 Absent | 18 |
+| Unplaced | 1 |
 | No evidence | 0 |
 
 ## Countries
@@ -306,6 +306,12 @@ In 2024, 6.4 per cent of rural people had electricity.
 
 - 6.4 per cent of rural people in Malawi had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
+### Mauritania: 1 Absent
+
+In 2023 nearly 6 per cent of rural people had electricity, by the African Development Bank's figure.
+
+- The African Development Bank's October 2023 appraisal report says Mauritania's rural electrification rate is nearly 6% ([source, 2023-10](https://www.gtai.de/resource/blob/1052984/0a8f772c021b78a8401a4c30cd56b06a/PRO202311151052970.pdf)).
+
 ### Mozambique: 1 Absent
 
 In 2024, 12.3 per cent of rural people had electricity.
@@ -343,12 +349,6 @@ In 2024, 0.7 per cent of rural people had electricity.
 - 0.7 per cent of rural people in South Sudan had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
 ### Libya: Unplaced
-
-No figure for the share of rural people with electricity is held for 2023 or later, so no stage is set.
-
-Not established: No figure for 2023 or later is held for the share of rural people with electricity.
-
-### Mauritania: Unplaced
 
 No figure for the share of rural people with electricity is held for 2023 or later, so no stage is set.
 

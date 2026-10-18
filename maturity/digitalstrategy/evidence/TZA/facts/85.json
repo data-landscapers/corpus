@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-28-tza-tanzaniainvest-president-samia-performance-speech",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "President Samia told Parliament on 27 June 2025 that a 10-year Digital Economy Strategy had been introduced to promote innovation, without saying it was approved or adopted.",
+      "as_of": "2025-06-27",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Economy Strategy",
+      "country_label": "Tanzania",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Tanzania",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

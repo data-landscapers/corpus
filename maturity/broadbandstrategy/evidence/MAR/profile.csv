@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,plan,standing,coverage,adopted,2025,MAR-001;MAR-002,,
-MAR,plan,delivery,coverage,,,,,nothing held
+MAR,plan,standing,coverage,adopted,2025,MAR-001;MAR-002;MAR-003;MAR-006,,
+MAR,plan,delivery,coverage,reported,2024-12-23,MAR-004;MAR-007,MAR-005=funded,

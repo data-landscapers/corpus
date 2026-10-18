@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-06-eth-ebc-addis-ai-civil-registration-system",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:50",
+   "fact": "Addis Ababa's new digital civil registration service was to start practical operations in 50 woredas the following Monday, per the EBC report of the announcement.",
+   "as_of": "2025-12-06",
+   "date_precision": "day",
+   "system": "AI-enriched integrated digital civil registration and resident services system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-enriched integrated digital civil registration and resident services system",
+   "country_label": "Ethiopia",
+   "class": "civil",
+   "platform": "",
+   "owner": "Addis Ababa City Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

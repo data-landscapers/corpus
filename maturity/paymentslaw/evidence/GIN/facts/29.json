@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-25-gin-actuguinee-ifi-protection-consommateurs",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says law L/2017/031/AN of 4 July 2017 on Inclusive Financial Institutions defines licensed institutions, including e-money institutions (EME), serving people outside the traditional banking circuit.",
+   "as_of": "2017-07-04",
+   "date_precision": "day",
+   "system": "Law L/2017/031/AN on Institutions Financieres Inclusives",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The article says the 2017 law counts licensed e-money institutions (EME), microfinance institutions and postal financial services as inclusive financial institutions.",
+   "as_of": "2017-07-04",
+   "date_precision": "day",
+   "system": "Law L/2017/031/AN on Institutions Financieres Inclusives",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

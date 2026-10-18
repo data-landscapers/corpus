@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-10-stp-telanon-workshop-seguranca-informacao-administracao",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Téla Nón reports that the national personal data protection agency is acting, developing cybersecurity applications and internal systems for the state and helping to secure public administration information.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "Agência nacional de proteção de dados pessoais",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

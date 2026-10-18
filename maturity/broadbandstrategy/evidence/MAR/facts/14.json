@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-mar-mtnra-connectivite-service-universel-pnhd",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The ministry states that implementation of the national broadband plan (PNHD) continues, with PNHD-2 launched for the uncovered areas over two years from 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Plan national du haut débit (PNHD)",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "reported",
+   "fact": "The ministry reports that at end March 2024 PNHD1 had covered 10,620 of the 10,740 localities targeted for 2023 with 4G, 98.88 per cent.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Plan national du haut débit (PNHD)",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan national du haut débit (PNHD)",
+   "country_label": "Maroc",
+   "class": "plan",
+   "platform": "",
+   "owner": "Ministère de la Transition Numérique et de la Réforme de l'Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

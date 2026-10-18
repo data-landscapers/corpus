@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "1",
+      "standing": "none",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001",
+      "gaps": "",
+      "note": "UNESCO's June 2026 profile says Ethiopia's legal framework is not AI-specific and names no draft AI law. Stage 2 needs a bill or draft.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

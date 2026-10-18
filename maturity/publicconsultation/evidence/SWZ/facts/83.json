@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-swz-esccom-notice-5-2025-retire-2g-3g",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "answered",
+   "fact": "ESCCOM's final decision on retiring 2G and 3G networks says it issued the proposed decision for public consultation on 9 November 2024, received stakeholder comments, summarised them and set out its response, extending the timelines by two years.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "ESCCOM Notice 5/2025 on retiring 2G and 3G",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ESCCOM 2G and 3G retirement decision",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "Eswatini Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

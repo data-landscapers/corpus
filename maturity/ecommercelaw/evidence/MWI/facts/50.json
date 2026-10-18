@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of Information and Digitalization refers to the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02) as the Act its draft 2024 regulations on certification authority and encryption would administer; the regulations are drafts, not yet made.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Electronic Transactions and Cyber Security Act 2016",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

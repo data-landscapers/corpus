@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-03-gha-acet-equitable-data-ecosystem-ai-development",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The article says the Ghana Data Protection Commission, under the Ministry of Communications and Digitalisation, recently held a validation workshop for the Ghana Data Strategy.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Ghana Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "Ministry of Communications and Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

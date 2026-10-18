@@ -6,6 +6,6 @@ EGY,hmis,last12,qualifier,,,,,nothing held
 EGY,hmis,clinics,coverage,,,,,nothing held
 EGY,emr,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-09-14,EGY-002;EGY-012;EGY-013,EGY-011=owner:ministry,
 EGY,emr,tiers,coverage,T1;T2;T3;T4,2025-06-25,EGY-007;EGY-009,,
-EGY,emr,digitised,coverage,paper,2019-12,EGY-014,,nothing dated since 2023-09-28
+EGY,emr,digitised,coverage,paper,2019-12,EGY-014,,nothing dated since 2023-10-18
 EGY,emr,last12,qualifier,advancing,2026-09-14,EGY-001,,
 EGY,emr,clinics,coverage,share:100%,2024-08-19,EGY-010,EGY-006=pilot,

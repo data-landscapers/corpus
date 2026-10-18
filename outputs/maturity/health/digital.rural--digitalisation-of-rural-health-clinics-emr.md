@@ -56,7 +56,7 @@ All public hospitals kept electronic patient records in 2019-20, and a central s
 
 ### Eswatini: 3 Established
 
-A shared electronic record runs in 73% of all health facilities (2026); it stays at stage 3 because no current plan or budget was found.
+A shared electronic record runs in 73% of all health facilities (2026); still partner-run, with no current plan or budget, it stays at stage 3.
 
 *Externally run; Community integrated; Advancing.*
 
@@ -65,6 +65,7 @@ A shared electronic record runs in 73% of all health facilities (2026); it stays
 - Data.FI describes CMIS in use in the outpatient department of Piggs Peak Government Hospital and at local health clinics, within 233 live sites; it names no other tier (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
 - Data.FI describes CMIS as an open-source, government-owned electronic medical record whose records are backed up in government-owned cloud systems, with the Ministry of Health working on its connectivity (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
 - Data.FI, a PEPFAR-funded USAID cooperative agreement ending 14 December 2025, reports that it funds and carries out CMIS system development, security assessment and facility network support; the document states no domestic budget line ([source, 2024-03](https://datafi.thepalladiumgroup.com/wp-content/uploads/2024/08/Data.FI-2024-SAPR_Final-for-dissemination_508.pdf)).
+- The US State Department report says it supports Eswatini's CMIS, the national electronic medical record, and in FY2026 is working with the ministries of Health and ICT to transition its ownership and management to the Eswatini government ([source, 2026-05](https://www.state.gov/wp-content/uploads/2026/05/An-Update-on-Health-Service-Delivery-Accessible-5.28.2026.pdf)).
 
 ### Kenya: 3 Established
 
@@ -183,12 +184,14 @@ An electronic record system ran in 1,254 health facilities of all types in Augus
 
 ### Algeria: 2 Nascent
 
-An electronic medical record is being introduced in hospitals (September 2026); how many is not known, and nothing covers primary clinics.
+In September 2026 the electronic medical record ran in pilot facilities, with all public establishments due by November; how many use it is not known.
 
 *Advancing.*
 
 - An El Moudjahid editorial places the electronic medical record system at the level of the national hospital establishments, describing its generalisation there as being finalised rather than complete; it mentions no facility below hospital level and gives no figures or date, so the publication date of 8 September 2026 is used ([source, 2026-09-08](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195)).
 - Seybouse Times describes the DME as a project whose implementation is still forthcoming in the wilaya of Annaba in mid-August 2026, with the technical conditions for its progressive roll-out in the wilaya's health structures still being assembled; no facility is said to be using it ([source, 2026-08-16](https://seybousetimes.dz/actualite/region/2026/08/17/annaba-le-raccordement-des-structures-de-sante-a-la-fibre-optique-au-coeur-dune-reunion-avec-le-ministere/)).
+- Interlignes reports the first phase selected over 200 trainers from ten pilot wilayas to pass the system on to health establishments ([source, 2026-07-25](https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/)).
+- El Watan reports the electronic medical record reform launched in 2022 is already under way in several pilot facilities, with a non-extendable 15 November 2026 deadline for all public health establishments ([source, 2026-09-07](https://elwatan.dz/sante-alger-fixe-au-15-novembre-lecheance-finale-pour-la-numerisation-totale-des-hopitaux/)).
 
 ### Angola: 2 Nascent
 

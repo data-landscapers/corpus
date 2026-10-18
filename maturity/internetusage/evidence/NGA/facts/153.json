@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-07-nga-unicef-connecting-every-child-digital-learning",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:36",
+   "fact": "UNICEF states that only 36% of Nigeria's population uses the internet.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

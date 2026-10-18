@@ -1,0 +1,44 @@
+{
+ "slug": "2025-06-18-ken-moh-digital-health-reform-cihis-17-counties",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Kenya's Health Cabinet Secretary said the digitisation of the Comprehensive Integrated Health Information System is led by the Digital Health Agency under the Ministry of Health.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "Comprehensive Integrated Health Information System",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "shared",
+   "fact": "The Cabinet Secretary said the Afya Yangu platform now enables portability of patient data across health facilities.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "Afya Yangu",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Comprehensive Integrated Health Information System",
+   "country_label": "CIHIS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health / Digital Health Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Afya Yangu",
+   "country_label": "Afya Yangu",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

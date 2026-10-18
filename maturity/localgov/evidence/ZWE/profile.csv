@@ -3,4 +3,4 @@ ZWE,connection,governance,qualifier,owner:ministry;finance:domestic,2026-04-22,Z
 ZWE,connection,use,coverage,internet,2026-06,ZWE-002,,
 ZWE,connection,connected,coverage,institutional,2026-06,ZWE-001,,
 ZWE,connection,last12,qualifier,advancing,2026-06,ZWE-004;ZWE-007,,
-ZWE,connection,authorities,coverage,not-published,2026-06,ZWE-003;ZWE-010,,
+ZWE,connection,authorities,coverage,pilot,2021-10,ZWE-011,ZWE-003=not-published;ZWE-010=not-published,

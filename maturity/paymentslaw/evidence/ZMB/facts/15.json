@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-18-zmb-zambiamonitor-boz-emoney-unwarranted-charges",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Bank of Zambia issued binding directives on 14 September 2024 on charges and fees for electronic money services, with penalties for Electronic Money Institutions that violate them, Zambia Monitor reports.",
+   "as_of": "2024-09-14",
+   "date_precision": "day",
+   "system": "Bank of Zambia electronic money charges directives",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

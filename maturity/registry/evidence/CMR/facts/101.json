@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-30-cmr-socialactu-bunec-fichier-national-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:64",
+   "fact": "BUNEC's board on 29 June 2026 noted 64 principal civil registration centres computerised, with no total of centres given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Fichier national de l'etat civil",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier national de l'etat civil",
+   "country_label": "Cameroun",
+   "class": "civil",
+   "platform": "",
+   "owner": "BUNEC",
+   "tiers": "principal civil registration centres"
+  }
+ ],
+ "note": ""
+}

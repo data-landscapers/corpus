@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-syc-worldbank-pid-inclusive-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:87",
+   "fact": "The World Bank project information document says internet use in Seychelles reached 87 percent in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "internet use",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

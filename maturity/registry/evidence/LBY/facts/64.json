@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-03-lby-alwasat-e-services-package-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic archiving of civil registry records",
+   "country_label": "Libya",
+   "class": "archive",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Only e-archiving of existing records is stated, an archive, not entry of events at offices."
+}

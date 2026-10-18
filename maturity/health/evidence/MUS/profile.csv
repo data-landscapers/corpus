@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,hmis,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2022-01,MUS-023;MUS-024;MUS-025,,nothing dated since 2023-09-28
+MUS,hmis,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2022-01,MUS-023;MUS-024;MUS-025,,nothing dated since 2023-10-18
 MUS,hmis,tiers,coverage,,,,,nothing held
-MUS,hmis,digitised,coverage,paper,2020,MUS-027;MUS-035,,nothing dated since 2023-09-28
+MUS,hmis,digitised,coverage,paper,2020,MUS-027;MUS-035,,nothing dated since 2023-10-18
 MUS,hmis,last12,qualifier,,,,,nothing held
-MUS,hmis,clinics,coverage,none,2022-01,MUS-026,,nothing dated since 2023-09-28
+MUS,hmis,clinics,coverage,none,2022-01,MUS-026,,nothing dated since 2023-10-18
 MUS,emr,governance,qualifier,owner:partner;plan:current;finance:not-stated,2026-05,MUS-007;MUS-008;MUS-013,MUS-014=owner:ministry;MUS-020=owner:ministry;MUS-006=owner:partner;MUS-032=owner:ministry;MUS-033=plan:current;MUS-034=finance:not-stated,
 MUS,emr,tiers,coverage,T2;T3,2026-05,MUS-015,MUS-010=none;MUS-030=none,
 MUS,emr,digitised,coverage,point-of-care,2026-04-30,MUS-016,MUS-021=paper;MUS-009=paper;MUS-028=paper,

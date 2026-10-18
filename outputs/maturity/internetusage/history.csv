@@ -1,2 +1,4 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,MWI,infra.connect--internet-usage-people-who-use-the-internet,fact,1,1,MWI-005,Arrivals added MWI-006; stage unchanged.
+2026-10-18,CPV,infra.connect--internet-usage-people-who-use-the-internet,fact,3,3,CPV-005,"INE IMC 2025 household survey: 77.3 per cent, replacing the ITU estimate of 74.7 for 2024; stage 3 holds"
+2026-10-18,NAM,infra.connect--internet-usage-people-who-use-the-internet,fact,3,3,NAM-005,"NDP6 implementation plan (2025) gives current internet use as 53 per cent, a government figure replacing the ITU estimate of 64.9; stage 3 holds"

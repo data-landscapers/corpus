@@ -68,9 +68,9 @@ In 2024, 57.5 per cent of the population used the internet, by a national survey
 
 ### Cape Verde: 3 Established
 
-In 2024, 74.7 per cent of the population used the internet, by an international estimate.
+In 2025, 77.3 per cent of the population used the internet, by the country's own figure.
 
-- 74.7 per cent of the population of Cape Verde used the internet in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+- INE's IMC 2025 household survey finds 77.3% of individuals aged 10 and over used the internet in the three months before the survey ([source, 2025](https://expressodasilhas.cv/pais/2026/05/28/internet-chega-a-mais-familias-rurais-do-que-urbanas-em-cabo-verde-em-2025-ine/102930)).
 
 ### Djibouti: 3 Established
 
@@ -122,9 +122,9 @@ In 2024, 73.3 per cent of the population used the internet, by a national survey
 
 ### Namibia: 3 Established
 
-In 2024, 64.9 per cent of the population used the internet, by an international estimate.
+In 2025, 53 per cent of the population used the internet, by the country's own figure.
 
-- 64.9 per cent of the population of Namibia used the internet in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+- The NDP6 implementation plan gives current internet usage as 53% of the population, targeting 90% by 2030 ([source, 2025](https://neweralive.na/namibia-targets-full-digital-transformation/)).
 
 ### Sao Tome and Principe: 3 Established
 

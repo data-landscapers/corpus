@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-12-ken-ca-urban-rural-divide-housing-survey-ict",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:35.0",
+   "fact": "The Communications Authority and KNBS report from the 2023/24 Kenya Housing Survey says about 35.0 per cent of Kenyans use the internet.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Kenya Housing Survey 2023/24 ICT analytical report",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

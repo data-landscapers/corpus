@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-06-tgo-ticinfos-ai-strategy-consultation-call",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Tic Infos reports Togo's digital-economy ministry launched a call for AI experts to take part in drafting a national AI strategy, with registrations open to 18 October.",
+   "as_of": "2024-10-06",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "UNDP Burundi says the ministry's national health information directorate (DSNIS) runs DHIS2 as the sole system for collecting and transmitting health data.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "DSNIS, Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-30-lso-govls-national-contact-centre-pro-workshop",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Director General ICT Khiba Masiu said the Ministry of Communications, Science, Technology and Innovation was in the final stages of developing the National Digital Policy and Digital Transformation Strategy.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Digital Transformation Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Strategy",
+   "country_label": "Lesotho",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Communications, Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 MRT-001,MRT,rural,access,official:0.8,"0.8 per cent of rural people in Mauritania had electricity in 2012, by the World Bank's rural electricity access series.",2012,year,the World Bank's rural electricity access series,ruralpower,ref:wdi-elc-accs-rural@2026-07-13,https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS
+MRT-002,MRT,rural,access,official:6,The African Development Bank's October 2023 appraisal report says Mauritania's rural electrification rate is nearly 6%.,2023-10,month,RIMDIR,ruralpower,2023-10-01-mrt-afdb-rimdir-green-minigrid-appraisal,https://www.gtai.de/resource/blob/1052984/0a8f772c021b78a8401a4c30cd56b06a/PRO202311151052970.pdf

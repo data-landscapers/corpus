@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SOM,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-21,SOM-001;SOM-018;SOM-032,SOM-031=owner:ministry;SOM-020=owner:ministry;SOM-021=finance:donor;SOM-030=plan:none;SOM-037=plan:current;SOM-028=finance:donor,
-SOM,hmis,tiers,coverage,T1;T2;T3,2023-09,SOM-033,SOM-022=T1;T2;T3;T4,
+SOM,hmis,tiers,coverage,T1;T2;T3,2023-09,SOM-033,SOM-022=T1;T2;T3;T4,nothing dated since 2023-10-18
 SOM,hmis,digitised,coverage,facility,2026-08-21,SOM-002;SOM-007,SOM-023=district,
 SOM,hmis,last12,qualifier,advancing,2026-02-05,SOM-019;SOM-029,,
 SOM,hmis,clinics,coverage,count:111,2025,SOM-008,SOM-024=pilot,

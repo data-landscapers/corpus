@@ -1,15 +1,16 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "users": "estimate:64.9",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-004",
-   "gaps": "The latest figure, 64.9 per cent for 2024, is below 80 per cent.",
-   "note": "Counted from the four questions by study-ladder-internetusage.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "users": "survey:53",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-005",
+      "gaps": "The latest figure, 53 per cent given as current in the 2025 NDP6 implementation plan, is below 80 per cent; the plan as reported gives no survey year.",
+      "note": "The government's NDP6 implementation plan gives 53 per cent as current internet use, a government figure that replaces the International Telecommunication Union's estimate of 64.9 for 2024. It is above 50 and below 80 per cent.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

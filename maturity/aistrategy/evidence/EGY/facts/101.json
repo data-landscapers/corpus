@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document refers to Egypt's National AI Strategy, whose implementation the National Council for Artificial Intelligence is to formalize and govern.",
+   "as_of": "2019-11",
+   "date_precision": "month",
+   "system": "Egypt National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The Egyptian Cabinet approved the formation of the National Council for Artificial Intelligence in November 2019 to formalize and govern the implementation of the National AI Strategy.",
+   "as_of": "2019-11",
+   "date_precision": "month",
+   "system": "National Council for Artificial Intelligence (NCAI)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Council for Artificial Intelligence (NCAI)",
+   "country_label": "Egypt",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Cabinet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

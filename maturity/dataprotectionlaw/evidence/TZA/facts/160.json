@@ -1,0 +1,37 @@
+{
+ "slug": "2024-06-01-tza-repoa-data-protection-platform-workers",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The REPOA brief describes the Personal Data Protection Act No. 11 of 2022 as applying to public and private entities handling personal data, with 2023 regulations made after its enactment.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Personal Data Protection Act No. 11 of 2022",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The REPOA brief says the Act establishes the Personal Data Protection Commission; it does not say it is constituted.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Personal Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The REPOA brief says two regulations were introduced in 2023 after the Act: the Personal Data Protection (Complaints Settlement Procedures) Regulations and the Personal Data Collection and Processing Regulations.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Personal Data Collection and Processing Regulations",
+   "class": "regulation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Non-governmental contribution to national policy: consultation on digital law and policy
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -21,14 +21,21 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
-| 3 Established | 3 |
+| 4 Operating | 3 |
+| 3 Established | 4 |
 | 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 18 |
+| No evidence | 16 |
 
 ## Countries
+
+### Chad: 4 Operating
+
+In 2024 the media regulator held a public hearing on web radio and television rules that its law requires; no standing body's view is known.
+
+- HAMA's legal head says the hearing was required: article 43 of the audiovisual communication law has HAMA set specifications after a public hearing where civil society and interested parties give views ([source, 2024-11-22](https://lendjampost.com/media-le-projet-portant-cahier-de-charge-des-web-radios-et-televisions-presente-par-la-hama/)).
+- HAMA held a day of public consultation at the Cefod on its draft specifications for web radio and web television, with private media managers present ([source, 2024-11-22](https://lendjampost.com/media-le-projet-portant-cahier-de-charge-des-web-radios-et-televisions-presente-par-la-hama/)).
 
 ### Kenya: 4 Operating
 
@@ -45,6 +52,13 @@ In 2026 the telecoms regulator consulted on satellite guidelines under its 2009 
 - The LTA states it ran the consultation on the draft Satellite Communications Guidelines in accordance with its published Guidelines for Consultation Process of 2009 ([source, 2026-02-23](https://lta.gov.lr/wp-content/uploads/2026/03/CONSULTATION-DOCUMENT-SATELLITE-COMMUNICATIONS-GUIDELINES-FINAL-COPY.pdf)).
 - The LTA says the consultation on the Satellite Communications Guidelines was conducted under Part III, Section 11(4) of the Telecommunications Act of 2007 and the Consultation Process Guidelines for LTA Rules, Orders and Regulations, 2009 ([source, 2026-02-23](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
 - The LTA published a Consultation Report on 2026-04-03 detailing its responses to written stakeholder submissions, and says the final Satellite Communications Guidelines incorporate comments received, for example keeping the five-year NGSO landing-rights term while dropping a seven-day ESIM notice requirement ([source, 2026-04-03](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
+
+### Eswatini: 3 Established
+
+In 2025 the communications regulator consulted on retiring 2G and 3G and published its answers to comments; no rule requiring consultation is known.
+
+- ESCCOM's final decision on retiring 2G and 3G networks says it issued the proposed decision for public consultation on 9 November 2024, received stakeholder comments, summarised them and set out its response, extending the timelines by two years ([source, 2025-06-17](https://esccom.org.sz/wp-content/uploads/2026/03/Notice-5-Notice-on-Legacy-Networks.pdf)).
+- The Ministry of ICT held a National Data Governance Policy Validation Workshop at Ezulwini on the draft National Data Governance Policy (2027-2031), bringing together government ministries, regulators, the private sector, civil society, academia and development partners; the document gives no workshop date, so the published date 2026-07-22 is used ([source, 2026-07-22](https://eswatinipositivenews.online/mchumanisi-system-to-give-emaswati-one-stop-access-to-government-services/)).
 
 ### Mauritius: 3 Established
 
@@ -98,13 +112,6 @@ In August 2026 the regulator opened a public consultation on satellite communica
 
 - The regulator ARME opened a public consultation on a proposed regulatory framework for satellite communication networks and services, with submissions open until 31 August 2026; the date is the document's publication date, the opening date being unstated ([source, 2026-08-05](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/)).
 
-### Chad: 2 Nascent
-
-In 2026 the telecommunications ministry consulted business, academia and civil society on a draft data governance strategy; whether it published the results is not known.
-
-- The Ministry of Telecommunications opened a three-day workshop in N'Djamena on 18 May 2026, with UNECA support, to lay the groundwork for Chad's first National Data Governance Strategy; participants included representatives of technology incubators and information-security specialists alongside ministry and public-entity staff, and working groups were to produce contributions for drafting the strategy ([source, 2026-05-18](https://www.lepaystchad.com/transition-numerique-le-tchad/)).
-- The Ministry of Telecommunications, Digital Economy and Digitalization of Administration of Chad, with ECA and GIZ, held stakeholder consultations on 13-15 May 2026 in N'Djamena for the National Data Governance Strategy, followed by a 21 May workshop to validate the findings; the page lists private sector, academia, civil society organisations, telecom operators and fintech companies among the participants (announced attendance) ([source, 2026-05-13](https://www.uneca.org/eca-events/eca-supporting-chad-developing-national-data-governance-strategy-advance-au-data-policy-framework)).
-
 ### Congo: 2 Nascent
 
 In June 2026 a workshop with business, universities and civil society helped draft the data governance strategy; whether their views were published is not known.
@@ -132,13 +139,6 @@ The digital ministry consulted business and civil society on the national AI str
 
 - Djibouti's Ministry of Digital Economy and Innovation held a national diagnostic phase and a multi-stakeholder workshop for the National Artificial Intelligence Strategy, with representatives of the private sector, civil society, young innovators and national experts taking part; the contributions are to feed the final text ([source, 2026-01](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-prepare-sa-strategie-nationale-d-intelligence-artificielle)).
 - Djibouti's Ministry in charge of the digital economy and innovation (MDENI) held a national consultation workshop on 22 January 2026 for the first national AI strategy, with about 80 participants from ministries, UN bodies and partners, academia, the private sector and civil society organisations ([source, 2026-01-22](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives)).
-
-### Eswatini: 2 Nascent
-
-In 2026 the Ministry of ICT held validation meetings on draft data governance and science policies; whether it published what it heard is not known.
-
-- The Ministry of ICT held a National Data Governance Policy Validation Workshop at Ezulwini on the draft National Data Governance Policy (2027-2031), bringing together government ministries, regulators, the private sector, civil society, academia and development partners; the document gives no workshop date, so the published date 2026-07-22 is used ([source, 2026-07-22](https://eswatinipositivenews.online/mchumanisi-system-to-give-emaswati-one-stop-access-to-government-services/)).
-- The Ministry of ICT's Department of Research, Science, Technology and Innovation held a two-day stakeholder validation session on the draft review of the National STI Policy and the combined 4IR and 5IR Strategy (covering AI, automation and data governance), at which the director said the draft was brought back to stakeholders to refine, and ESEPARC, an economic policy research centre, presented ([source, 2026-02-24](https://www.linkedin.com/posts/ministry-of-ict-eswatini_rsti-stipolicyreview-digitaltransformation-activity-7432119915588812800-2Nv-)).
 
 ### Gambia: 2 Nascent
 
@@ -204,12 +204,24 @@ The regulator asked for written views on a proposed broadband speed directive in
 
 - The Communications Regulatory Authority of Namibia invited stakeholders to send written submissions by 29 August 2025 on the Minister of ICT's proposed policy directive to raise the minimum broadband speed, following consultations held by the Ministry on 21 May 2025 and by CRAN on 11 July 2025 (the notice gives the 29 August 2025 deadline and no notice date) ([source, 2025-08-29](https://www.cran.na/notices/)).
 
+### Niger: 2 Nascent
+
+In 2026 the telecoms regulator put its 5G spectrum plan out for public consultation; whether it published the comments is not known.
+
+- ARCEP, Niger's telecoms regulator, launched a public consultation on 20 July 2026, running to the end of August, on reorganising the spectrum plan for 5G ([source, 2026-07-20](https://developingtelecoms.com/telecom-business/telecom-regulation/20557-niger-kicks-off-public-consultation-on-5g-spectrum-plan.html)).
+
 ### Nigeria: 2 Nascent
 
 The Senate, the telecoms regulator and the data protection commission consulted on digital bills and frameworks in 2026; what they heard is not known.
 
 - The Nigeria Data Protection Commission held validation workshops on its Data Privacy Framework for e-Commerce, a Lagos one attended by private-sector stakeholders and an Abuja one to take input from the public sector, as reported on 2026-09-11 (the document gives no workshop dates, so its publication date is used) ([source, 2026-09-11](https://www.cyberera.com.ng/building-trust-in-e-commerce-ndpc-partners-giz-to-strengthen-sectoral-compliance-with-ndp-act-2023/)).
 - NITDA, through the Office for Nigerian Digital Innovation and convened by the Federal Ministry of Communications, Innovation and Digital Economy, held a technical validation workshop in Lagos with more than 60 hub operators, startup founders and investors on the draft National Innovation Hubs Standard Framework, weeks after a stakeholders' engagement in Abuja; ThisDay reported it on 2026-09-07, which is used as the date because the document says only 'recently' ([source, 2026-09-07](https://www.thisdaylive.com/2026/09/07/fg-reiterates-national-innovation-hubs-framework-will-strengthen-ecosystem-at-lagos-workshop/)).
+
+### Rwanda: 2 Nascent
+
+In 2026 the capital market regulator put a draft fintech regulation out for public comment; whether it published the comments is not known.
+
+- The Capital Market Authority, a regulator, put its draft regulation on intermediary service platform operators (fintech) out for written comment from fintech experts, lawyers, bankers, the payment industry and investors, with a physical consultation meeting to follow ([source, 2026-02-12](https://www.cma.rw/news-publications/press-center/call-for-public-comments-on-the-draft-regulation-governing-intermediary-service-platform-operators)).
 
 ### Sao Tome and Principe: 2 Nascent
 
@@ -343,18 +355,6 @@ Nothing held shows people outside government were asked about a digital law or p
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Mali: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Niger: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Rwanda: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
 

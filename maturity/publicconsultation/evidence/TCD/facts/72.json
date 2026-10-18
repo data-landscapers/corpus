@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-22-tcd-ndjampost-hama-consultation-cahier-charges-web",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "HAMA held a day of public consultation at the Cefod on its draft specifications for web radio and web television, with private media managers present.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "HAMA public hearing on web radio and television specifications",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "standing",
+   "value": "required",
+   "fact": "HAMA's legal head says the hearing was required: article 43 of the audiovisual communication law has HAMA set specifications after a public hearing where civil society and interested parties give views.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "Article 43, audiovisual communication law",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

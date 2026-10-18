@@ -6,6 +6,6 @@ MDG,hmis,last12,qualifier,advancing,2025,MDG-001;MDG-002,MDG-003=regressing,
 MDG,hmis,clinics,coverage,pilot,2023,MDG-017,,
 MDG,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-01,MDG-018;MDG-019;MDG-024,MDG-023=owner:partner;MDG-032=owner:partner;MDG-033=finance:donor,
 MDG,emr,tiers,coverage,T1;T3,2025-01,MDG-020;MDG-021,MDG-031=T4,
-MDG,emr,digitised,coverage,point-of-care,2019,MDG-029,MDG-011=paper,nothing dated since 2023-09-28
+MDG,emr,digitised,coverage,point-of-care,2019,MDG-029,MDG-011=paper,nothing dated since 2023-10-18
 MDG,emr,last12,qualifier,,,,,nothing held
 MDG,emr,clinics,coverage,count:30,2019,MDG-030,MDG-022=not-published;MDG-028=pilot,

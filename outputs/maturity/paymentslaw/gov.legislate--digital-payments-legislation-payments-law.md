@@ -20,10 +20,10 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
-| 4 Operating | 29 |
-| 3 Established | 11 |
-| 2 Nascent | 1 |
+| 5 Leading | 13 |
+| 4 Operating | 30 |
+| 3 Established | 10 |
+| 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -124,6 +124,14 @@ Senegal is under the regional central bank's 2024 payment rules, with eleven non
 - A BCEAO decision published 25 June 2026 set 30 September 2026 as the deadline for WAEMU banks, e-money institutions and payment institutions to finish connecting to PI-SPI and open their services to the public ([source, 2026-06-25](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
 - The BCEAO list of payment institutions at 31 August 2026, published 8 October 2026, shows 11 licensed payment institutions in Senegal out of 34 in the UMOA, as reported by Benin Web TV ([source, 2026-08-31](https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/)).
 - The BCEAO list of payment institutions licensed under Instruction n°001-01-2024 on payment services in the UMOA shows licences issued under it, so the instruction was in force at 31 August 2026 ([source, 2026-08-31](https://www.bceao.int/fr/communique-presse/liste-des-etablissements-de-paiement-agrees-dans-lumoa-au-31-aout-2026)).
+
+### South Sudan: 5 Leading
+
+South Sudan's amended e-money rules took effect in 2026, licensing non-bank issuers and requiring every payment platform to connect through a licensed switch.
+
+- The amended regulation, in effect as reported on 1 September 2026, requires every digital payment platform operating in South Sudan to connect to the National Payment System through a licensed switch, so customers can transfer money between providers ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
+- The amended regulation licenses non-bank electronic money issuers, requiring standalone payment providers to set up separate companies and obtain regulatory approval with a 65 million SSP filing fee ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
+- The Electronic Money Regulation 2017 Amendment 2025, issued under the Bank of South Sudan Act 2011 Amendment 2023, has taken effect and applies to licensed financial institutions and non-bank e-money issuers ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 
 ### Togo: 5 Leading
 
@@ -330,6 +338,13 @@ Sierra Leone's 2022 payment systems act is in force and licenses payment provide
 - The National Payment Systems Act, 2022 (s.6) bars any person from providing payment services or operating a system without a Bank of Sierra Leone licence and sets e-money issuer conditions, while s.8 exempts only banks and financial institutions from needing a new licence; s.5 seats mobile money operators and the Fintech Association on the National Payment System Committee. Date is the Act's commencement ([source, 2022-06-23](https://sierralii.gov.sl/akn/sl/act/2022/8/eng@2022-06-23)).
 - The World Bank report states the Bank of Sierra Leone's Guidelines for E-money are completed and gazetted, as are guidelines on money remittance business, e-KYC guidelines and directives for the switch; report dated 2023-06-23, which is used as the date as no other is given ([source, 2023-06-23](https://documents1.worldbank.org/curated/en/099062323115036589/pdf/P16660104d3ecf01808eca0b695fa306106.pdf)).
 
+### South Africa: 4 Operating
+
+South Africa's 1998 payment system act is in force and non-banks are designated under it; no rule requiring providers to connect is known.
+
+- The SARB says its department regulates third-party payment providers and e-money providers, and lists designations of non-banks such as Yoco Technologies (2021) and Payfast (2024) as clearing system participants ([source, 2026-10-17](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)).
+- The SARB says the National Payment System Act 78 of 1998 is the primary legal framework for the payment system, and that it issues legally binding directives under section 12 of the Act ([source, 2026-10-17](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)).
+
 ### Sudan: 4 Operating
 
 Sudan's 2020 central bank regulation licenses non-bank mobile payment companies; a 2026 circular asks them to connect to a switch not yet available.
@@ -397,13 +412,6 @@ Somalia's 2020 mobile money regulations are in force, and both houses had passed
 
 - The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date ([source, 2020](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf)).
 
-### South Africa: 3 Established
-
-South Africa's 1998 payment system act is in force and has no licence for non-banks; a bill to change that was promised in September 2026.
-
-- The article says the National Payment System Act is twenty-eight years old, so the 1998 Act is the law in force; the document gives no further date ([source, 2026-09-28](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/)).
-- The National Payment System Act of 1998 regulates the payment system and gives the SARB responsibility for managing and supervising clearing and settlement; the vendor explainer says it is the current regime ([source, 1998](https://facephi.com/observatory/en/national-payment-system-south-africa-psp-licences/)).
-
 ### Tanzania: 3 Established
 
 Tanzania's 2015 National Payment Systems Act is in force and covers electronic money; whether non-banks are licensed under it is not known.
@@ -421,13 +429,6 @@ Zambia's 2007 National Payment Systems Act is in force; whether it licenses comp
 Zimbabwe's 2001 National Payment Systems Act is in force; whether it licenses companies that are not banks is not known.
 
 - The National Payment Systems Act [Chapter 24:23] (Act 21 of 2001), consolidated text up to 31 December 2016, commenced on 16 November 2001 and provides for the recognition, operation, regulation and supervision of payment clearing and settlement systems, including payment instructions made by electronic means, under the Reserve Bank of Zimbabwe ([source, 2001-11-16](https://zimlii.org/akn/zw/act/2001/21/eng@2016-12-31)).
-
-### South Sudan: 2 Nascent
-
-South Sudan's central bank was validating a draft National Payment System Bill in August 2026; no payments law or e-money rules are in force.
-
-- The Bank of South Sudan governor urged swift passage of the Draft National Payment System Bill, drafted in 2025, which would set licensing frameworks as the regulatory foundation for mobile money and electronic banking; reported 17 August 2026 ([source, 2026-08-17](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1)).
-- The Bank of South Sudan governor called for faster progress on the Draft National Payment System Bill, 2025, at the close of a five-day validation workshop in Juba on 10-14 August 2026, with the bill not yet passed ([source, 2026-08-14](https://techafricanews.com/2026/08/17/south-sudan-pushes-digital-payments-as-central-bank-calls-for-faster-payment-bill/)).
 
 ### Eritrea: No evidence
 

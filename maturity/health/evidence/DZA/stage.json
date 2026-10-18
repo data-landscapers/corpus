@@ -19,16 +19,17 @@
     {
       "sub_indicator": "emr",
       "stage": "2",
-      "governance": "owner:ministry",
+      "governance": "owner:ministry;plan:current;finance:domestic",
       "tiers": "T1;T2",
       "digitised": "shared",
       "last12": "advancing",
-      "clinics": "",
+      "clinics": "pilot",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "DZA-007;DZA-002",
-      "gaps": "No count or share of hospitals using the record is held, and nothing on primary clinics. The newest fact (DZA-007, 8 September 2026) puts it in hospital establishments with generalisation being finalised, while DZA-002 (16 August 2026) has it still forthcoming in the wilaya of Annaba; the two disagree. The value shared rests on a ministerial statement of February 2024 (DZA-010) that does not say where the record is keyed; plan and finance are not stated. DZA-004 and DZA-005 are from the excluded source and set nothing.",
-      "note": "Stage 3 needs most T1 and T2 hospitals using it; the evidence is an undated, uncounted editorial saying generalisation is being finalised, against a wilaya where it had not started three weeks earlier. That establishes some hospitals, which is stage 2."
+      "stage_sources": "DZA-007;DZA-002;DZA-017;DZA-020",
+      "gaps": "No count or share of hospitals or primary clinics using the record is held. The national deployment plan launched in July 2026 (DZA-016) aims at over 2,500 structures in 69 wilayas, and El Watan (DZA-020, 7 September 2026) has the record under way in several pilot facilities with a 15 November 2026 deadline for all public establishments; the El Moudjahid editorial (DZA-007) says generalisation in hospitals is being finalised, with no count. The value shared rests on a ministerial statement of February 2024 (DZA-010) that does not say where the record is keyed. DZA-004 and DZA-005 are from the excluded source and set nothing.",
+      "note": "The record is in pilot facilities and ten pilot wilayas, with national roll-out planned and funded but not done: stage 2. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts using it, and no count shows that.",
+      "as_at": "2026-10-18"
     }
   ]
 }

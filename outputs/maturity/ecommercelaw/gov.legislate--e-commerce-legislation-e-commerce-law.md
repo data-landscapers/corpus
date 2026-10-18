@@ -176,10 +176,10 @@ Uganda's 2011 Electronic Transactions Act and its 2013 regulations are in force;
 
 ### Algeria: 3 Established
 
-Algeria's e-commerce Law 18-05 is in force in 2026, and a 2025 trust-services bill is before parliament; rules under the e-commerce law are not known.
+Algeria's e-commerce Law 18-05 and a 2026 trust-services law are in force; rules made under either are not known.
 
+- TSA cites law 26-02 of 17 February 2026 setting general rules on trust services for electronic transactions and identification, under which the procurement portal's electronic signature operates ([source, 2026-02-17](https://www.tsa-algerie.com/lalgerie-lance-un-portail-electronique-dedie-au-marches-publics/)).
 - Echorouk quotes the head of the national consumer-guidance organisation for e-commerce as saying most online sellers in Algeria operate without the obligations that Law No. 18-05 on e-commerce lays down, which treats the law as existing and binding; the document gives no event date, so the 2026-08-04 publication date is used ([source, 2026-08-04](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6)).
-- The Minister of Post and Telecommunications described law 15-04 of 1 February 2015 on general rules for electronic signature and certification as the text currently in force, covering certification and electronic signatures only; the document is dated 2025-12-01 (month proxy) and gives no other date for this ([source, 2025-12](https://www.elmoudjahid.dz/fr/actualite/le-projet-de-loi-sur-les-services-de-confiance-numeriques-a-l-apn-la-securite-des-systemes-d-information-nationaux-renforcee-244691)).
 
 ### Angola: 3 Established
 

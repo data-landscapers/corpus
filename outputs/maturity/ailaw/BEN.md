@@ -2,6 +2,10 @@
 
 ## AI law or binding rule
 
+**Binding rule on AI in force.** Benin has no binding rule on AI. The Forum on Information and Democracy and ALCRER stated in April 2025 that, [outside the national AI and big-data strategy 2023-2027, there is no specific and sufficiently binding regulation](<https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf>) on developing, deploying or using AI systems in Benin. Their statement names no bill, draft decree or draft regulation on AI.
+
+**General AI law and the law applied.** With [no specific binding regulation on AI outside the strategy](<https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf>) as of April 2025, Benin has no general AI law to apply. The national AI and big-data strategy for 2023 to 2027 is a strategy, not a law, and no rule for one sector or one use that names AI is recorded for the country.
+
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+***Not held***. No bill, draft decree or draft regulation on AI is held.

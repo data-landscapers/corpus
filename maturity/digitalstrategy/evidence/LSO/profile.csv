@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LSO,national,governance,qualifier,body:mandated,2024,LSO-040,LSO-007=body:mandated,not stated: finance
-LSO,national,standing,coverage,adopted,2025-02-19,LSO-003;LSO-004;LSO-013;LSO-042,LSO-002=announced;LSO-008=drafting,
+LSO,national,standing,coverage,adopted,2025-02-19,LSO-003;LSO-004;LSO-013;LSO-042,LSO-002=announced;LSO-008=drafting;LSO-043=drafting,
 LSO,national,text,coverage,public,2024,LSO-010;LSO-012,,
 LSO,national,period,coverage,to:2030,2026-10-15,LSO-011;LSO-041,LSO-005=to:2035,
 LSO,national,plan,coverage,actions,2024,LSO-006;LSO-039,LSO-009=none,

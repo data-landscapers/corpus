@@ -4,8 +4,8 @@ SSD,hmis,tiers,coverage,T1;T2;T3;T4,2025,SSD-011;SSD-017,,
 SSD,hmis,digitised,coverage,facility,2025,SSD-015,SSD-016=district;SSD-007=district;SSD-035=district;SSD-037=district;SSD-041=district;SSD-029=district,
 SSD,hmis,last12,qualifier,advancing,2026-07,SSD-002;SSD-009;SSD-010;SSD-020;SSD-021;SSD-022,SSD-026=no-change,
 SSD,hmis,clinics,coverage,share:30%,2025,SSD-014,SSD-036=not-published;SSD-038=none;SSD-030=not-published,
-SSD,emr,governance,qualifier,finance:donor,2019,SSD-043,,nothing dated since 2023-09-28
-SSD,emr,tiers,coverage,T1;T2,2019,SSD-042,,nothing dated since 2023-09-28
+SSD,emr,governance,qualifier,finance:donor,2019,SSD-043,,nothing dated since 2023-10-18
+SSD,emr,tiers,coverage,T1;T2,2019,SSD-042,,nothing dated since 2023-10-18
 SSD,emr,digitised,coverage,,,,,nothing held
 SSD,emr,last12,qualifier,,,,,nothing held
 SSD,emr,clinics,coverage,,,,,nothing held

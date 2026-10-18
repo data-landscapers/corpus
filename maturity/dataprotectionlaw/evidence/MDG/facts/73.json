@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-19-mdg-midi-madagasikara-data-center-souverain",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The digital ministry lists adoption of a personal data protection law among its priority works.",
+   "as_of": "2026-01-19",
+   "date_precision": "day",
+   "system": "personal data protection law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

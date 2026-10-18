@@ -12,3 +12,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,digital.rural--digitalisation-of-rural-registry-offices-civil-registration,fact,3,3,SOM-007;SOM-008;SOM-009;SOM-011,"Arrivals added SOM-034, SOM-035, SOM-036, SOM-037, SOM-038, SOM-039; restaged by hand: stage unchanged."
 2026-10-17,TCD,digital.rural--digitalisation-of-rural-registry-offices-civil-registration,fact,3,3,TCD-015;TCD-016;TCD-017;TCD-044,"Arrivals added TCD-046, TCD-047; restaged by hand: stage unchanged."
 2026-10-17,ZMB,digital.rural--digitalisation-of-rural-registry-offices-civil-registration,fact,3,3,ZMB-007;ZMB-010;ZMB-015;ZMB-006;ZMB-020,Arrivals added ZMB-027; restaged by hand: stage unchanged.
+2026-10-18,BWA,digital.rural--digitalisation-of-rural-registry-offices-civil-registration,fact,3,3,BWA-002;BWA-003;BWA-004,"CRVS Strategic Implementation Plan 2026-2031 launched September 2026: governance now holds a current plan; offices still not published, stage 3 held"

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-03-sen-orbit-taux-inclusion-financiere-bceao",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BCEAO national director François Sène says the regulatory framework governing electronic money was renovated in 2015 in the Union (UEMOA), which includes Senegal.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "BCEAO e-money regulatory framework",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

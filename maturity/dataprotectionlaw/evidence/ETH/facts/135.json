@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-eth-unesco-ai-ram-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "UNESCO's profile lists the Personal Data Protection Proclamation among the instruments shaping Ethiopia's legal framework.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

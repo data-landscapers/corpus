@@ -4,8 +4,8 @@ DZA,hmis,tiers,coverage,,,,,nothing held
 DZA,hmis,digitised,coverage,,,,,nothing held
 DZA,hmis,last12,qualifier,,,,,nothing held
 DZA,hmis,clinics,coverage,,,,,nothing held
-DZA,emr,governance,qualifier,owner:ministry,2026-08-16,DZA-003,DZA-011=owner:ministry;DZA-014=owner:ministry,"not stated: plan, finance"
+DZA,emr,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-09-07,DZA-003;DZA-016;DZA-019,DZA-015=owner:ministry;DZA-011=owner:ministry;DZA-014=owner:ministry,
 DZA,emr,tiers,coverage,T1;T2,2026-09-08,DZA-007,DZA-002=none;DZA-013=none;DZA-012=T1,
 DZA,emr,digitised,coverage,shared,2024-02-26,DZA-010,,
-DZA,emr,last12,qualifier,advancing,2026-09-08,DZA-001;DZA-006,,
-DZA,emr,clinics,coverage,,,,,nothing held
+DZA,emr,last12,qualifier,advancing,2026-09-08,DZA-001;DZA-006;DZA-018,,
+DZA,emr,clinics,coverage,pilot,2026-09-07,DZA-017;DZA-020,,

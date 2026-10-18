@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SWZ,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,SWZ-002;SWZ-003,Arrivals added SWZ-002; SWZ-003; stage unchanged.
 2026-10-17,TUN,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,4,TUN-004;TUN-001,Arrivals added TUN-003; TUN-004; stage 3 -> 4.
 2026-10-17,UGA,gov.legislate--e-commerce-legislation-e-commerce-law,fact,4,4,UGA-003;UGA-005,Arrivals added UGA-005; stage unchanged.
+2026-10-18,DZA,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,DZA-005;DZA-004,"Law 26-02 of 17 February 2026 on trust services is in force, replacing the 2025 draft (DZA-005); no rules under it held, stage unchanged."

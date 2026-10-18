@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-eth-unesco-ai-ram-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "UNESCO's readiness profile says Ethiopia's legal framework is not AI-specific and it has no binding legislation on public procurement of AI, algorithmic transparency or liability for AI-induced harm.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,4 +3,4 @@ UGA,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stat
 UGA,connection,use,coverage,systems,2026-09-22,UGA-002;UGA-007;UGA-008;UGA-020;UGA-027;UGA-033;UGA-034;UGA-036;UGA-047;UGA-049;UGA-052;UGA-056,UGA-022=internet;UGA-031=internet,
 UGA,connection,connected,coverage,institutional,2026-09-22,UGA-001;UGA-009;UGA-016;UGA-030;UGA-037;UGA-042;UGA-053,,
 UGA,connection,last12,qualifier,advancing,2026-09-22,UGA-004;UGA-013,,
-UGA,connection,authorities,coverage,share:60.6%,2022,UGA-029,UGA-003=count:25;UGA-035=count:13;UGA-010=count:20;UGA-021=count:61;UGA-038=not-published;UGA-028=pilot;UGA-044=not-published;UGA-055=share:74%;UGA-043=share:44%;UGA-048=share:15%;UGA-050=count:102;UGA-051=count:160,
+UGA,connection,authorities,coverage,share:60.6%,2022,UGA-029,UGA-003=count:25;UGA-035=count:13;UGA-010=count:20;UGA-058=count:124;UGA-021=count:61;UGA-038=not-published;UGA-028=pilot;UGA-044=not-published;UGA-055=share:74%;UGA-043=share:44%;UGA-048=share:15%;UGA-050=count:102;UGA-051=count:160,

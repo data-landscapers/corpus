@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-12-ken-psc-certifies-141-data-protection-cybersecurity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Public Service Commission trained and certified 141 public officers as data handlers on 12 July 2024 to ensure compliance with the Data Protection Act 2019.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

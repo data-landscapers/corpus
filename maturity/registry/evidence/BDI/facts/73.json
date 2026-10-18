@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-08-bdi-abp-validation-etude-systeme-identification",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "The document reports a national validation workshop on a detailed evaluation of the pilot system for digitalising civil status in Burundi.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "pilot system of digitalisation of civil status",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

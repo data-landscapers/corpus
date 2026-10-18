@@ -1,15 +1,16 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "rural",
-   "stage": "unplaced",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later is held for the share of rural people with electricity.",
-   "note": "First pass: counted from the four questions by study-figure.py ruralelectrification."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "rural",
+      "stage": "1",
+      "access": "official:6",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002",
+      "gaps": "The figure is the African Development Bank's, stated as current in its October 2023 appraisal report; the World Bank's series holds nothing for Mauritania after 2012.",
+      "note": "Nearly 6 per cent of rural people had electricity in 2023, below the 27 per cent line, so stage 1.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

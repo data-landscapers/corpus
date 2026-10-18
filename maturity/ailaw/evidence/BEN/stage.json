@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "1",
+      "standing": "none",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-001",
+      "gaps": "",
+      "note": "The Forum on Information and Democracy and ALCRER state in April 2025 that Benin has no specific binding regulation on AI outside its strategy, and name no draft. A strategy places nothing.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

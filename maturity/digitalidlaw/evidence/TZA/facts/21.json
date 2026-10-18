@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-tza-nida-id4africa-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIDA gives its legal framework as the Registration and Identification Act 1986 (revised edition 2012), with NIDA established in 2008 under instrument GN 122/2008.",
+   "as_of": "2025-05-01",
+   "date_precision": "day",
+   "system": "Registration and Identification Act 1986 R.E. 2012",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

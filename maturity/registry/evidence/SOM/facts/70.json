@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-24-som-nadra-crmvs-system-handed-over",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "NADRA says the CRMVS System, part of the Somalia National Identification System project with MOIFAR, is financed through a grant from the Government of Pakistan.",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "Civil Registration Management and Vital Statistics (CRMVS) System",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registration Management and Vital Statistics (CRMVS) System",
+   "country_label": "CRMVS",
+   "class": "civil",
+   "platform": "NADRA-developed",
+   "owner": "Ministry of Interior, Federal Affairs & Reconciliation (MOIFAR)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

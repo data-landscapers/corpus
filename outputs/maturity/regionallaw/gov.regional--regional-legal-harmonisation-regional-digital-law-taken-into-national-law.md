@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 23 |
-| 2 Nascent | 10 |
+| 3 Established | 24 |
+| 2 Nascent | 9 |
 | 1 Absent | 20 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -87,6 +87,13 @@ Equatorial Guinea's parliament approved ratifying the African Union's cyber secu
 Gabon is reported to have ratified the African Union's cyber security and data protection convention in 2026; no national law giving effect is known.
 
 - NotreAfrik states that Gabon became the sixteenth state to ratify the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) in 2026, in an article counting 16 ratifications of 55 African Union member states; the article gives no date within 2026 and no deposit ([source, 2026](https://notreafrik.com/convention-de-malabo-ratifications/)).
+
+### Gambia: 3 Established
+
+Gambia ratified the African Union's cyber security and data protection convention in 2024, its minister says; no deposit or national law giving effect is known.
+
+- The Minister says the Government of The Gambia ratified the AU Malabo Convention in March 2024 ([source, 2024-03](https://unctad.org/system/files/non-official-document/ecn162024_wsis_s01_Gambia_OBah_en.pdf)).
+- The Ministry of Communications and Digital Economy states that The Gambia signed the African Union Convention on Cyber Security and Personal Data Protection at the African Union Commission in Addis Ababa on 2 December 2022, the Minister signing for the country and joining 14 other signatory states ([source, 2022-12-02](https://mocde.gov.gm/3189-2/)).
 
 ### Ghana: 3 Established
 
@@ -196,13 +203,6 @@ Chad signed the African Union's cyber security and data protection convention in
 Comoros signed the African Union's cyber security and data protection convention in 2018 and has not ratified it.
 
 - The African Union Commission's status list of 02/02/2026 records Comoros as having signed the Convention on Cyber Security and Personal Data Protection on 29/01/2018, with no ratification or accession date and no deposit date ([source, 2018-01-29](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-
-### Gambia: 2 Nascent
-
-Gambia signed the African Union's cyber security and data protection convention in 2022 and has not ratified it.
-
-- The African Union Commission's status list dated 2 February 2026 records The Gambia as having signed the Convention on 2 December 2022, with no date of ratification or accession and no date of deposit; the list counts 21 signatures and 20 deposits among 55 states ([source, 2026-02-02](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-- The Ministry of Communications and Digital Economy states that The Gambia signed the African Union Convention on Cyber Security and Personal Data Protection at the African Union Commission in Addis Ababa on 2 December 2022, the Minister signing for the country and joining 14 other signatory states ([source, 2022-12-02](https://mocde.gov.gm/3189-2/)).
 
 ### Guinea-Bissau: 2 Nascent
 

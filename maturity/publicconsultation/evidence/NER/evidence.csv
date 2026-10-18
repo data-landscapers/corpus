@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,consultation,hearing,held,"ARCEP, Niger's telecoms regulator, launched a public consultation on 20 July 2026, running to the end of August, on reorganising the spectrum plan for 5G.",2026-07-20,day,ARCEP 5G spectrum consultation,consultation,2026-07-21-ner-developingtelecoms-arcep-5g-spectrum-consultation,https://developingtelecoms.com/telecom-business/telecom-regulation/20557-niger-kicks-off-public-consultation-on-5g-spectrum-plan.html

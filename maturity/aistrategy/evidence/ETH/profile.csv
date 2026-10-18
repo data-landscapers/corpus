@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,strategy,standing,coverage,adopted,2026-02-16,ETH-001;ETH-002,,
-ETH,strategy,use,coverage,body,2026-07-23,ETH-003,,
+ETH,strategy,standing,coverage,adopted,2026-06-30,ETH-001;ETH-002;ETH-004;ETH-005,,
+ETH,strategy,use,coverage,body,2026-07-23,ETH-003;ETH-006,,

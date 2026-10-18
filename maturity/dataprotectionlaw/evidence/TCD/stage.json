@@ -1,7 +1,20 @@
 {
   "iso3": "TCD",
   "cells": [
-    {"sub_indicator": "general", "stage": "2", "authority": "", "standing": "drafting", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "TCD-001;TCD-002", "gaps": "No row states authority, regulations or application. The ANSICE reform (ratified by the Senate 2026-03-13) broadens that body's mandate to personal data, but no row says a general law exists or that the body acts under one, so authority is not set. No dated event shows the Digital Code advancing or stalling.",
-     "note": "A Digital Code with data protection provisions is stated as drafting only (announced 2025-12-09, still under development per a 2026-03-16 report), so the rung is 2. Stage 3 needs the law enacted."}
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "provided",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under revision",
+      "stage_sources": "TCD-003",
+      "gaps": "No regulation made under Loi n°007/PR/2015 and no decision, sanction or count under it is held; ANSICE is named for transfers, but nothing held says it acts as a constituted data protection authority. The Digital Code and the April 2026 committee would replace the current texts and are drafting only.",
+      "note": "A July 2026 legal analysis treats Loi n°007/PR/2015 as the law in force on personal data, so the rung is 3. Stage 4 needs a dated decision under it.",
+      "as_at": "2026-10-18"
+    }
   ]
 }

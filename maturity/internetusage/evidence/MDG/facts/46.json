@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-08-mdg-newsmada-psn-besoin-40000-techniciens",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:25",
+   "fact": "The document reports Madagascar's internet usage rate as currently 25%, citing the Plan stratégique du numérique 2023-2028 of the digital ministry (MNDPT).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Plan stratégique du numérique (PSN) 2023-2028",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

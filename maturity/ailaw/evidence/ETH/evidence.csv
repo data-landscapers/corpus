@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,law,standing,none,"UNESCO's readiness profile says Ethiopia's legal framework is not AI-specific and it has no binding legislation on public procurement of AI, algorithmic transparency or liability for AI-induced harm.",2026-06-30,day,,law,2026-06-30-eth-unesco-ai-ram-country-profile,https://www.unesco.org/ethics-ai/en/ethiopia

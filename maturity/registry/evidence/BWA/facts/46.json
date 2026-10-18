@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-bwa-dailynews-crvs-strategic-plan",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "Botswana's Ministry of Labour and Home Affairs launched the CRVS Strategic Implementation Plan 2026-2031, which names a digital CRVS data management system as a key outcome (BOPA/Daily News).",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "Civil Registration and Vital Statistics Strategic Implementation Plan (CRVSSIP) 2026-2031",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

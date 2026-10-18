@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-28-cpv-expressodasilhas-ine-rural-urban-internet-2025",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:77.3",
+   "fact": "INE's IMC 2025 household survey finds 77.3% of individuals aged 10 and over used the internet in the three months before the survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IMC 2025 ICT statistics",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

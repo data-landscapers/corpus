@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-03-gha-nca-idpd-2025-assistive-technology",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The NCA held an inaugural stakeholder engagement with mobile terminal device manufacturers and dealers to design a new minimum specification for terminal devices.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Terminal device minimum specification",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

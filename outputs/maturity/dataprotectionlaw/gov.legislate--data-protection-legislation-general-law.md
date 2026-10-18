@@ -22,8 +22,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 10 |
-| 3 Established | 31 |
-| 2 Nascent | 8 |
+| 3 Established | 32 |
+| 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -250,6 +250,14 @@ A personal data protection law was adopted in 2024; no regulation or decision un
 
 - Data Protection Africa (ALT Advisory) states in its factsheet that the Central African Republic has a data protection law in place ([source, 2026-01-28](https://dataprotection.africa/central-african-republic)).
 - The World Bank ISR says activities are being planned to support drafting of the implementing decrees of the enacted data protection law ([source, 2024-12-20](https://documents1.worldbank.org/curated/en/099122024184018568/txt/P1746201172f3b05d1a9d118f1eb4b91506.txt)).
+
+### Chad: 3 Established
+
+In 2026 Chad's 2015 personal data law is treated as in force, with a replacement being drafted; no decision under it is known.
+
+*Under revision.*
+
+- The Cabinet Thomas Dingamgoto analysis applies Loi n°007/PR/2015 to personal data and treats its articles 29 to 32 as the current transfer regime ([source, 2026-07-06](https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/)).
 
 ### Comoros: 3 Established
 
@@ -488,13 +496,6 @@ Zimbabwe has the Cyber and Data Protection Act of 2021, applied through licensin
 - Business Times states the Act currently provides criminal sanctions, fines up to Level 7 or imprisonment up to seven years for accountable officers; dated by publication ([source, 2026-05-14](https://businesstimes.co.zw/potraz-plots-crackdown-on-firms/)).
 - TechnoMag states the Act establishes the data protection framework and that licensing under it is mandatory and enforced by notice; dated by publication ([source, 2026-03-27](https://technomag.co.zw/potraz-issues-warning-to-unlicensed-data-controllers-as-compliance-deadline-lapses/)).
 - Michalsons describes the Cyber and Data Protection Act, 2021 as Zimbabwe's main data protection law applying to all public and private organisations; dated by publication ([source, 2025-06-30](https://www.michalsons.com/blog/zimbabwes-cyber-and-data-protection-act-overview/78795)).
-
-### Chad: 2 Nascent
-
-Chad is drafting a Digital Code with data protection provisions, announced in December 2025; it is not applied, and its progress since is not known.
-
-- Ecofin reports (published 2026-03-16) that Chad's Digital Code, under development since December 2025, incorporates international standards on cybersecurity and data protection ([source, 2025-12](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency)).
-- Minister Boukar Michel announced on 2025-12-09 that authorities are finalizing a new digital law incorporating international standards on cybersecurity, data protection and internet governance ([source, 2025-12-09](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards)).
 
 ### Guinea-Bissau: 2 Nascent
 

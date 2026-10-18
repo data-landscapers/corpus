@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-04-moz-aics-govnet-plus-encerramento-formacao-tic",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "INAGE said 88 institutions were connected to the GOVNET government network in 32 districts under the Italian-funded GovNet Plus project, which extended connectivity to district level by wireless antenna links.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "GOVNET",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "count:32",
+   "fact": "INAGE said GovNet Plus connected 88 institutions to GOVNET in 32 districts, and the minister said the platform is present in 963 public institutions across 141 districts.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "GOVNET",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GOVNET",
+   "country_label": "Mozambique",
+   "class": "connection",
+   "platform": "wireless antenna links",
+   "owner": "INAGE",
+   "tiers": "district"
+  }
+ ],
+ "note": ""
+}

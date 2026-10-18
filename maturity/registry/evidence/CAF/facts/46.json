@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-caf-civipol-modero-etat-civil-rnec",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national de l'état civil (RNEC)",
+   "country_label": "Central African Republic",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document says nothing on how or where local offices make the digital record, or on office counts."
+}

@@ -3,4 +3,4 @@ ETH,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,20
 ETH,civil,events,coverage,B;D,2026-07,ETH-001;ETH-024,ETH-036=B;ETH-030=B;D,
 ETH,civil,made,coverage,connected,2026-07,ETH-002;ETH-010,ETH-015=paper;ETH-026=paper;ETH-035=keyed-elsewhere;ETH-028=local;ETH-029=paper,
 ETH,civil,last12,qualifier,advancing,2025-12-05,ETH-012;ETH-019;ETH-022,ETH-020=regressing,
-ETH,civil,offices,coverage,count:50,2025-12-08,ETH-013,ETH-003=pilot;ETH-011=pilot;ETH-016=pilot;ETH-023=pilot;ETH-027=count:100,
+ETH,civil,offices,coverage,count:50,2025-12-08,ETH-013;ETH-041,ETH-003=pilot;ETH-011=pilot;ETH-016=pilot;ETH-023=pilot;ETH-027=count:100,
