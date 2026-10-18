@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-16-nga-safer-media-inec-ai-governance-framework",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a call for INEC to publish an AI framework; no rule stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The INEC Chairman said, per Safer-Media Initiative, that the Commission had already deployed AI in some off-cycle elections.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "INEC AI deployment",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Election AI is not a listed sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI build stated."
+    }
+   }
+  }
+ }
+}

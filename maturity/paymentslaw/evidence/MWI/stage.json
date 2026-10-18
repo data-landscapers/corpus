@@ -1,16 +1,17 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001",
-   "gaps": "No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "non-bank",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-003;MWI-001;MWI-002",
+      "gaps": "No source held says a rule requires mobile money providers and banks to connect to each other or to a switch.",
+      "note": "The Payment Systems Act, 2016 is in force and the Reserve Bank licensed a non-bank fintech under it in September 2026. Nothing held shows a rule requiring providers and banks to connect, which stage 5 needs.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{"slug":"2026-10-16-nga-guardianng-nimc-63-biometric-agents-local-hosting","studies":{
+"authentication":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"NIMC says it coordinates authentication and verification and that users can manage and withdraw consent through NIMC's authentication application.","as_of":"2026-10-16","date_precision":"day","system":"NIMC authentication application","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"reach","value":"several","fact":"NIMC's Dr Alvan Ikoku says NIMC has an API set and has integrated with bodies including the Joint Admissions and Matriculation Board, Nigerian Education Loan Fund and National Health Insurance Authority.","as_of":"2026-10-16","date_precision":"day","system":"NIMC API integration","class":"authentication"}],
+"systems":[{"system":"NIMC authentication application","country_label":"Nigeria","class":"authentication","platform":"","owner":"NIMC","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document says nothing on links between the civil register and the ID system."}}},
+"datalocalisation":{"countries":{"NGA":{"facts":[],"systems":[],"note":"It says the ID database is hosted in Nigeria as practice, not as a rule requiring data to stay."}}},
+"dataprotectionlaw":{"countries":{"NGA":{"facts":[],"systems":[],"note":"It says the NIMC Act requires compliance with the Nigeria Data Protection Act but states nothing on that law's standing, authority or application."}}},
+"digitalidlaw":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The document discusses the 2026 NIMC Act as the amended Act under which NIMC operates, with provisions on disclosure of registered persons' information and compliance with the Nigeria Data Protection Act.","as_of":"2026","date_precision":"year","system":"NIMC Act 2026","class":"law"}],
+"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"sovereignty","aspect":"hosted","value":"national","fact":"NIMC says the national identity database is hosted entirely in Nigeria, managed by NIMC employees, never hosted abroad and not on cloud hosting for its core database.","as_of":"2026-10-16","date_precision":"day","system":"National identity database","class":"sovereignty"}],
+"systems":[],"note":""}}},
+"idcoverage":{"countries":{"NGA":{"facts":[],"systems":[],"note":"It gives 142 million enrolled and about 100 million NINs issued but no share of the population."}}},
+"idfrombirth":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on a number given at birth."}}},
+"idmaintenance":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"NIMC's Dr Alvan Ikoku says the national identity database is managed by NIMC employees, not vendors.","as_of":"2026-10-16","date_precision":"day","system":"National identity database","class":"idsystem"}],
+"systems":[],"note":""}}},
+"idregisters":{"countries":{"NGA":{"facts":[],"systems":[],"note":"It names agency integrations but does not say any public register is keyed on the NIN."}}},
+"idrobustness":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"NIMC says it has enrolled 142 million Nigerians and issued about 100 million National Identification Numbers.","as_of":"2026-10-16","date_precision":"day","system":"National Identification Number","class":"idsystem"}],
+"systems":[],"note":""}}},
+"offsitebackup":{"countries":{"NGA":{"facts":[],"systems":[],"note":"It says NIMC has disaster recovery systems but names no site or place."}}}
+}}

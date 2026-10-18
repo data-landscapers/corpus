@@ -1,0 +1,41 @@
+{
+  "slug": "2026-10-15-rwa-gfmag-ekash-instant-payment-growth",
+  "studies": {
+    "businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article says nothing on government e-procurement."}}},
+    "centralbank": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The National Bank of Rwanda governor said the central bank runs the eKash instant payment system as the national switch, and mandated that all person-to-person transactions take place on it.", "as_of": "2026-10-15", "date_precision": "day", "system": "eKash", "class": "oversight"},
+        {"sub_indicator": "centralbank", "aspect": "regional", "value": "linked", "fact": "The article says Rwanda is part of COMESA, which has its own regional payment system, the COMESA Clearing House, and that the central bank agreed to route intra-EAC payments through the regional EAC payment system and payments outside the EAC through PAPSS.", "as_of": "2026-10-15", "date_precision": "day", "system": "COMESA Clearing House", "class": "oversight"}
+      ],
+      "systems": [
+        {"system": "eKash", "country_label": "Rwanda", "class": "oversight", "platform": "national instant payment switch", "owner": "National Bank of Rwanda", "tiers": ""}
+      ],
+      "note": ""}}},
+    "consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article states a fee cap on eKash but no consumer-protection rules, complaints body or enforcement."}}},
+    "crossborderpayments": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The National Bank of Rwanda launched a pilot that integrates eKash with Tanzania's Instant Payment System (TIPS), according to the article.", "as_of": "2026-10-15", "date_precision": "day", "system": "eKash-TIPS pilot", "class": "crossborder"},
+        {"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "The article says Rwanda is part of COMESA, which has its own regional payment system, the COMESA Clearing House.", "as_of": "2026-10-15", "date_precision": "day", "system": "COMESA Clearing House", "class": "crossborder"}
+      ],
+      "systems": [
+        {"system": "PAPSS", "country_label": "Rwanda", "class": "crossborder", "platform": "Pan-African Payment and Settlement System", "owner": "AfCFTA", "tiers": ""}
+      ],
+      "note": ""}}},
+    "g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article says nothing on government payments to people."}}},
+    "paymentslaw": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "The National Bank of Rwanda governor said the central bank ended mobile money providers' bilateral relationships with banks and microfinance institutions and mandated that all person-to-person transactions take place on eKash.", "as_of": "2026-10-15", "date_precision": "day", "system": "eKash", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The 92% account figure is stated by the governor with no survey named."}}},
+    "retailpayments": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The article says the central bank eliminated mobile money providers' bilateral relationships with banks and microfinance institutions, so that all person-to-person transactions run on eKash.", "as_of": "2026-10-15", "date_precision": "day", "system": "eKash", "class": "retail"},
+        {"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The governor described eKash as the national switch, with transactions rising from 140,000 to 1 million a month between August and September 2026 and fees on transfers capped at 20 Rwandan francs.", "as_of": "2026-09", "date_precision": "month", "system": "eKash", "class": "retail"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article says nothing on tax or fee payment."}}}
+  }
+}

@@ -21,8 +21,8 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 | Stage | Countries |
 |---|---|
 | 5 Leading | 12 |
-| 4 Operating | 28 |
-| 3 Established | 12 |
+| 4 Operating | 29 |
+| 3 Established | 11 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -262,6 +262,14 @@ Madagascar's 2017 e-money law licenses e-money institutions that are not banks; 
 - Loi n°2016-056 (2017) requires any legal entity running e-money operations to be approved by the CSBF as an e-money institution (a limited company, articles 11, 24 and 33), separate from credit institutions and microfinance institutions, which may also run e-money with CSBF authorisation (articles 34 and 36) ([source, 2017-02-02](https://textes.lexxika.com/wp-content/uploads/2024/05/Loi-2016-056-02-Fevrier-2016-Sur-la-Monnaie-Electronique-et-les-Etablissements-de-Monnaie-Electronique.pdf)).
 - 2424.mg reports that the law on e-money institutions (EME) is applied by the CSBF, which under it issues regulatory instructions, grants or withdraws licences and audits EMEs; the BFM governor announced audits of EMEs on 2026-06-11 after user complaints ([source, 2026-06](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
+### Malawi: 4 Operating
+
+A non-bank fintech was licensed under Malawi's payments law in 2026; whether providers must connect to a switch is not known.
+
+- Under the Payment Systems Act, 2016 the Reserve Bank of Malawi licensed local fintech PayChangu Limited as a payment service provider, per Malawi24 ([source, 2026-09-30](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)).
+- Malawi's Parliament passed an amendment to the existing Payment Systems Act on Thursday 6 August 2026, removing cheque provisions, so the Act is already law; the Finance Minister said detailed regulations would follow (report dated 2026-08-07) ([source, 2026-08-06](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/)).
+- The Reserve Bank of Malawi issued licence PSP-003/26 under the Payment Systems Act, 2016, per Malawi24 ([source, 2026-09-30](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)).
+
 ### Mauritania: 4 Operating
 
 Mauritania's 2021 electronic payments law and 2022 instruction license payment institutions that are not banks; no rule requiring providers to connect is known.
@@ -382,12 +390,6 @@ Lesotho's 2014 payment systems act is in force; a bill to replace it and license
 Liberia's central bank mobile money regulations were in force in 2024; whether they license companies that are not banks is not known.
 
 - The Central Bank of Liberia's Mobile Money Regulations are described as the regulatory framework governing electronic money and mobile-money operators in Liberia, with more than 11 million mobile wallets operating; the document gives no date for the regulations, so its 2024 published date (a year-level proxy) is used ([source, 2024](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf)).
-
-### Malawi: 3 Established
-
-Malawi's Payment Systems Act is in force and was amended in August 2026; whether it licenses non-banks is not known.
-
-- Malawi's Parliament passed an amendment to the existing Payment Systems Act on Thursday 6 August 2026, removing cheque provisions, so the Act is already law; the Finance Minister said detailed regulations would follow (report dated 2026-08-07) ([source, 2026-08-06](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/)).
 
 ### Somalia: 3 Established
 

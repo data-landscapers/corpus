@@ -2,7 +2,7 @@
 
 ## Address register
 
-**Addresses in service.** [ARPCE's postal regulation director reported progress on the national digital addressing platform, provisionally named Système de localisation mixte, which was demonstrated at a steering committee meeting on 9 October 2024 ahead of a final presentation to the authorities in November](<https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Addresses in service.** [ARPCE's postal regulation director reported progress on the national digital addressing platform, provisionally named Système de localisation mixte, which was demonstrated at a steering committee meeting on 9 October 2024 ahead of a final presentation to the authorities in November](<https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394>). [On 15 October 2026 ARPCE presented its digital postal addressing project, run with town halls since April 2022 and given a legal framework by a July 2025 decree on national postal codes](<https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016>).
 
 **Nationwide.** No source held since October 2023 says the addressing system covers the whole country. The nearest held fact: [the one given above](<https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394>).
 

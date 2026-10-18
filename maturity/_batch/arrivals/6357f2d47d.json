@@ -1,0 +1,146 @@
+{
+ "slug": "2026-10-15-ken-thestar-senate-committee-rejects-ai-bill-2026",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, which would create an Office of the AI Commissioner with powers to investigate violations, audit and impose sanctions, with fines up to Sh5 million.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Artificial Intelligence Bill, 2026",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Artificial Intelligence Bill, 2026",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Senate of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Star reports the Artificial Intelligence Bill, 2026, sponsored by Senator Karen Nyamu and introduced in the Senate in April, seeks a comprehensive legal framework for AI; the Senate ICT Committee recommended the Senate not proceed with it.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Artificial Intelligence Bill, 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Artificial Intelligence Bill, 2026",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Senate of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Ministry of ICT told the Senate committee that the National Artificial Intelligence and Emerging Technologies Policy, 2026, was in its final stages of development.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence and Emerging Technologies Policy, 2026",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

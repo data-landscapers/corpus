@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-som-sonsa-ai-digital-rights-somalia",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "SONSA published a 20-page research report on AI and digital rights in Somalia carried out by Capital University of Somalia, analysing government policies and private sector practices.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Artificial Intelligence and Digital Rights in Somalia",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

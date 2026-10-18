@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-20-kenya-and-tanzania-launch-terrestrial-fiber-link-connection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "NICTBB",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "ICT Authority Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "same Lunga Lunga/Horohoro launch already held (KEN-002, KEN-004)"
+}

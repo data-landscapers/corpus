@@ -22,11 +22,11 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 43 |
+| No evidence | 42 |
 
 ## Countries
 
@@ -61,6 +61,12 @@ A local institution published research on digital policy in 2026; a part in a po
 A local institution published research on digital policy in 2024; a part in a policy process is not on record.
 
 - MRCG National Coordinator Francis Sowa said the group has produced reports on women's rights online, gendered disinformation, media freedom and freedom of expression in Sierra Leone, with initiatives running 2020 to 2024 ([source, 2024](https://sierraloaded.sl/local/stakeholders-women-facing-online-abuse/)).
+
+### Somalia: 3 Established
+
+A Somali university published research on AI governance and digital rights in 2026; whether local researchers advise government is not known.
+
+- SONSA published a 20-page research report on AI and digital rights in Somalia carried out by Capital University of Somalia, analysing government policies and private sector practices ([source, 2026-10-15](https://sonsaplatform.org/artificial-intelligence-and-digital-rights-in-somalia)).
 
 ### South Africa: 3 Established
 
@@ -322,12 +328,6 @@ Nothing held names research on digital policy or says there is none, so no stage
 Not established: Nothing held says whether local institutions research digital policy.
 
 ### Seychelles: No evidence
-
-Nothing held names research on digital policy or says there is none, so no stage is set.
-
-Not established: Nothing held says whether local institutions research digital policy.
-
-### Somalia: No evidence
 
 Nothing held names research on digital policy or says there is none, so no stage is set.
 

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-15-civ-apanews-push-digitaliser-flux-financiers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "APAnews reports the fintech PUSH in Cote d'Ivoire has over 700,000 individual accounts and over 20 million transactions worth more than CFAF 600 billion, with an interoperability and merchant-payment agreement signed with Orange Money.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "PUSH",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PUSH",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "fintech account and payment service",
+   "owner": "PUSH Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

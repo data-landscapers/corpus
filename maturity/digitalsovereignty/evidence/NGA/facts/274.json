@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-nga-guardianng-nimc-63-biometric-agents-local-hosting",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "NIMC says the national identity database is hosted entirely in Nigeria, managed by NIMC employees, never hosted abroad and not on cloud hosting for its core database.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "National identity database",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

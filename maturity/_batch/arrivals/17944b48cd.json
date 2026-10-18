@@ -1,0 +1,9 @@
+{"slug": "2026-10-15-som-sonsa-ai-digital-rights-somalia", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "The SONSA report, by Capital University of Somalia, says Somalia lacks the institutional capacity and normative clarity to regulate AI and needs AI-specific safeguards such as protection against deepfakes added to its legal frameworks.", "as_of": "2026-10-15", "date_precision": "day", "system": "", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing on government use of AI."}}},
+"ailaw": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document calls for AI-specific safeguards in existing law but names no law or draft on AI."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document states nothing on AI built or hosted in Somalia."}}},
+"dataprotectionlaw": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document mentions data protection laws only in general terms, with no Somali law, status or authority stated."}}},
+"policyresearch": {"countries": {"SOM": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "SONSA published a 20-page research report on AI and digital rights in Somalia carried out by Capital University of Somalia, analysing government policies and private sector practices.", "as_of": "2026-10-15", "date_precision": "day", "system": "Artificial Intelligence and Digital Rights in Somalia", "class": "research"}], "systems": [], "note": ""}}}
+}}

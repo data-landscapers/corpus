@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-ben-ecofin-preuve-de-vie-pensioners-app",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Ecofin Agency reports the public-sector pension fund FNRB's proof-of-life service requires each retiree's NPI alongside the pension booklet number.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Preuve de Vie",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Preuve de Vie app",
+   "country_label": "Preuve de Vie",
+   "class": "other",
+   "platform": "mobile app and biometric kiosks",
+   "owner": "FNRB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

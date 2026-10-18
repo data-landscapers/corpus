@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-tgo-ecofin-voix-du-togo-collecte-donnees-langues-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Agence Ecofin reports that Togo's ministry of public service efficiency and digital transformation, under minister Cina Lawson, officially launched in early October 2026 the three-year 'Voix du Togo' programme collecting voice and text data in Ewe, Kabiye and Moba (targets per language: 50 hours of validated audio, 6,000 translated sentence pairs, 500 speakers) to train AI models.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Voix du Togo",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voix du Togo",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "online data-collection platform",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation, with Togo AI Lab",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

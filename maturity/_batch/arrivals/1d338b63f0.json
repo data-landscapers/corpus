@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-16-cmr-minfopra-aigles-egova-paperless-cashless",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "AIGLES is a personnel and payroll system described as infrastructure for AI-driven administration; the document states no AI system in use, tested or tendered."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  }
+ }
+}

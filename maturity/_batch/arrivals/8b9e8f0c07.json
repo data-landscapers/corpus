@@ -1,0 +1,106 @@
+{
+ "slug": "2025-07-20-kenya-and-tanzania-launch-terrestrial-fiber-link-connection",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Backbone mentioned only as linked across the border; no reach or service stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a hinterland broadband infrastructure mentioned; nothing on reach."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No route stated in service."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No route stated in service."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government staff."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government staff."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "Kenya's ICT Authority and Tanzania's TTCL, with both governments' backing, launched at the Lunga Lunga/Horohoro border a cross-border terrestrial fibre link joining the two countries' backbones and the submarine cable infrastructure, implemented as a partnership; no contract, works or service stated.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "Terrestrial Fiber Link (Lunga Lunga/Horohoro)",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "country_label": "NICTBB",
+       "class": "other",
+       "platform": "fibre",
+       "owner": "ICT Authority Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "Kenya's ICT Authority and Tanzania's TTCL, with both governments' backing, launched at the Lunga Lunga/Horohoro border a cross-border terrestrial fibre link joining the two countries' backbones and the submarine cable infrastructure, implemented as a partnership; no contract, works or service stated.",
+       "as_of": "2025-07-20",
+       "date_precision": "day",
+       "system": "Terrestrial Fiber Link (Lunga Lunga/Horohoro)",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital policy agreement or body named."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital policy agreement or body named."
+    }
+   }
+  }
+ }
+}

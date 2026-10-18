@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Equatorial Guinea press office reports that CNEDOGE, the national centre issuing identity documents and passports, runs technology largely installed in 2017-2018, which the Vice-President ordered modernised.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "CNEDOGE / Documento de Identidad Personal",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNEDOGE identity document issuance technology",
+   "country_label": "Equatorial Guinea",
+   "class": "idsystem",
+   "platform": "CETIS technology",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

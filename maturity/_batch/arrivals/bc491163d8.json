@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-15-ken-businessdaily-google-murito-ai-regulation-interview",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Google's Charles Murito, in a Business Daily interview, refers to Kenya's AI draft bill, which he says makes the government gatekeeper of Kenyan content and culture.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "Kenya AI draft bill",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kenya AI draft bill",
+       "country_label": "Kenya",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Google cloud region in South Africa is mentioned; none in Kenya."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Google's city-to-city backbone is described in general terms; no capital-to-region service or coverage stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Google says it has landed subsea cables but names none and no country of landing."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The interview states nothing this study asks for Kenya."
+    }
+   }
+  }
+ }
+}

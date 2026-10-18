@@ -1,0 +1,124 @@
+{
+ "slug": "2026-10-16-lbr-womenvoices-house-scrutinizes-52m-national-id-deal",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "A concession awaiting ratification is not a system procured, piloted or rolled out."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Liberia's House of Representatives referred on 15 October 2026 to a joint committee, for ratification review within two weeks, a US$52 million build-operate-transfer concession with OeSD International GMBH for the National Identification Central Digital Civil Registry and Vital Statistics System, a central database of demographic and biometric records of up to 10 million people (Women Voices Newspaper, citing the House Press Bureau).",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+       "country_label": "NIDCRVS",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Government of Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Liberia."
+    }
+   }
+  }
+ }
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "no evidence",
-   "research": "",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether local institutions research digital policy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "3",
+      "research": "publishing",
+      "policy": "",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source held says a local institution submitted evidence to a consultation, was commissioned by government or sits on an advisory body on digital policy.",
+      "note": "Capital University of Somalia's report on AI and digital rights, published by SONSA in October 2026, is local research on digital policy. Nothing held shows a local institution contributing to a consultation or advisory body, which stage 4 needs.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

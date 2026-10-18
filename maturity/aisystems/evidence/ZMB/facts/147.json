@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNDP says Zambia is in the first cohort of its timbuktoo EDGE network of sovereign AI compute, with its node hosted at the University of Zambia AI UniPod, where a prototype non-revenue-water platform for the Lusaka Water Supply and Sanitation Company is to be built.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "timbuktoo EDGE node, University of Zambia AI UniPod",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "timbuktoo EDGE node, University of Zambia AI UniPod",
+   "country_label": "Zambia",
+   "class": "localai",
+   "platform": "sovereign AI compute node",
+   "owner": "UNDP timbuktoo EDGE, University of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

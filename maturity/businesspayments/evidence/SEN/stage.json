@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "no evidence",
-   "system": "",
-   "endtoend": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government e-procurement system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "2",
+      "system": "underway",
+      "endtoend": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "Nothing held says government tenders are already published or bid online through APPEL; its general use is targeted for January 2027.",
+      "note": "ARCOP is still deploying APPEL and training contracting authorities ahead of generalisation in January 2027, so e-procurement is under way. No source held says tenders run on it in service, which stage 3 needs.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

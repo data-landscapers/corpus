@@ -1,0 +1,10 @@
+{"slug":"2026-10-15-civ-apanews-push-digitaliser-flux-financiers","studies":{
+"businesspayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on government e-procurement."}}},
+"centralbank":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on central bank mandate, licensing, switch or regional links."}}},
+"consumerprotection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Producer accounts via the Conseil du Café-Cacao are mentioned but no government payment to people is stated."}}},
+"paymentsuptake":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only provider account counts, no adult survey share."}}},
+"retailpayments":{"countries":{"CIV":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"APAnews reports the fintech PUSH in Cote d'Ivoire has over 700,000 individual accounts and over 20 million transactions worth more than CFAF 600 billion, with an interoperability and merchant-payment agreement signed with Orange Money.","as_of":"2026-10-15","date_precision":"day","system":"PUSH","class":"retail"}],"systems":[{"system":"PUSH","country_label":"Cote d'Ivoire","class":"retail","platform":"fintech account and payment service","owner":"PUSH Cote d'Ivoire","tiers":""},{"system":"Orange Money","country_label":"Cote d'Ivoire","class":"retail","platform":"mobile money","owner":"Orange","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}}
+}}

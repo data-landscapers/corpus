@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-13-zaf-newsday-gauteng-e-panic-breach-two-week-delay",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Regulator is acting on the e-Panic Button breach under POPIA.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Newsday states Section 22 of POPIA requires notifying the Information Regulator of suspected unauthorised access to personal information.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Information Regulator said it would engage the Gauteng Department of e-Government on the breach and urge POPIA compliance, with no decision stated.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

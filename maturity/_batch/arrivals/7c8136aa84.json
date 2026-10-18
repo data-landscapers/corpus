@@ -1,0 +1,9 @@
+{"slug": "2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico", "studies": {
+"authentication": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Document covers issuing ID documents and passports, no authentication service."}}},
+"birthidlink": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No civil register link mentioned."}}},
+"idcoverage": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "CNEDOGE identity document issuance technology", "country_label": "Equatorial Guinea", "class": "idsystem", "platform": "CETIS technology", "owner": "", "tiers": ""}], "note": "CETIS is named as responsible for the technology but the document does not say who operates or maintains it day to day."}}},
+"idregisters": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No public register keyed on the ID number mentioned."}}},
+"idrobustness": {"countries": {"GNQ": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Equatorial Guinea press office reports that CNEDOGE, the national centre issuing identity documents and passports, runs technology largely installed in 2017-2018, which the Vice-President ordered modernised.", "as_of": "2026-10-16", "date_precision": "day", "system": "CNEDOGE / Documento de Identidad Personal", "class": "idsystem"}], "systems": [{"system": "CNEDOGE identity document issuance technology", "country_label": "Equatorial Guinea", "class": "idsystem", "platform": "CETIS technology", "owner": "", "tiers": ""}], "note": ""}}}
+}}

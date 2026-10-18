@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-14-cod-scooprdc-igf-hub-donnees-financieres",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns an IGF data hub tender; no data protection law stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools stated."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "IGF audit data hub; no tax filing or payment system stated."
+    }
+   }
+  }
+ }
+}

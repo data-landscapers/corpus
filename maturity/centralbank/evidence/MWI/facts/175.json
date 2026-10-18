@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-mwi-malawi24-paychangu-psp-licence-rbm",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Reserve Bank of Malawi granted PayChangu Limited a Payment Service Provider licence (PSP-003/26) for payment aggregation, per Malawi24.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PayChangu payment aggregation licence PSP-003/26",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayChangu",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "payment aggregation of mobile money, card and bank transfers",
+   "owner": "PayChangu Limited",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

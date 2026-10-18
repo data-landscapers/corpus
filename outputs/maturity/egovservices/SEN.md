@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** [The presidency says the e-Senegal one-stop portal, launched on 24 March 2026 by Prime Minister Ousmane Sonko, is operational and lets citizens complete passport applications, business creation, police clearance certificates and certificates of nationality online](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Services online.** [The presidency says the e-Senegal one-stop portal, launched on 24 March 2026 by Prime Minister Ousmane Sonko, is operational and lets citizens complete passport applications, business creation, police clearance certificates and certificates of nationality online](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>). [In October 2026 the Interior Ministry asked all NGOs and associations to register on its new e-OSC platform, which holds their projects, funding and beneficiaries and is the first step towards handling their approval and recognition requests online](<https://aps.sn/les-ong-et-associations-invitees-a-sinscrire-sur-la-plateforme-numerique-e-osc/>).
 
 **Single gateway.** No source held since October 2023 says one national portal carries several ministries' services with shared sign-in. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services>).
 

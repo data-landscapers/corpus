@@ -1,0 +1,9 @@
+{"slug": "2026-10-16-foroyaa-gambia-court-id-card-serial-number-missing-database", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Court testimony on a card serial number; no authentication service stated."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Operator mentioned only as the Immigration Department's ID card unit; no maintenance or ownership arrangement stated."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Gambia Immigration Department's Assistant Commissioner Momodou Jallow, officer in charge of the National ID Card unit for four years, told a court on 15 October 2026 that National ID cards carry a name number, a document number and a serial number held in the National ID Card system database.", "as_of": "2026-10-15", "date_precision": "day", "system": "National ID Card system", "class": "idsystem"}], "systems": [{"system": "National ID Card system", "country_label": "The Gambia", "class": "idsystem", "platform": "", "owner": "Gambia Immigration Department", "tiers": ""}], "note": ""}}}
+}}

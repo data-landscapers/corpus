@@ -1,0 +1,7 @@
+{"slug": "2026-10-17-gha-rural-telephony-contractors-30-days", "studies": {
+"digitaldivides": {"countries": {"GHA": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Communications minister Samuel Nartey George gave Rural Telephony Project contractors 30 days to complete outstanding sites or face penalties, saying they had already been paid in full and that the government would not tolerate delays in bringing telecoms to underserved communities.", "as_of": "2026-10-17", "date_precision": "day", "system": "Rural Telephony Project", "class": "ruralaccess"}], "systems": [{"system": "Rural Telephony Project", "country_label": "Ghana", "class": "ruralaccess", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations; GIFEC", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"GHA": {"facts": [], "systems": [{"system": "One Million Coders", "country_label": "Ghana", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Training centres are mentioned only as inspected; no programme scope or trained count is stated."}}},
+"domesticfinancing": {"countries": {"GHA": {"facts": [], "systems": [], "note": "States contractors were paid in full but not from what source or amount; no budget line, statement or account."}}},
+"police": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on police station records."}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on civil registration."}}}
+}}

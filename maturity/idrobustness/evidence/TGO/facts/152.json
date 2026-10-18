@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-tgo-atop-anid-kozah-comites-gestion-plaintes-wuri",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WURI-Togo (Numéro d'identification unique)",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": "Stage 4c: Consultation before Kara enrolment; the NIU system is already held in service, and the remaining region's enrolment is not a new state of the system."
+}

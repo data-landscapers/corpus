@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-ken-thestar-senate-committee-rejects-ai-bill-2026",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, which would create an Office of the AI Commissioner with powers to investigate violations, audit and impose sanctions, with fines up to Sh5 million; the article gives no date for the report, so its publication date is used.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "Artificial Intelligence Bill, 2026",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Artificial Intelligence Bill, 2026",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Senate of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

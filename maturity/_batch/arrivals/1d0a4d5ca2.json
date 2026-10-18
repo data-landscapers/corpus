@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-17-mdg-2424-conseil-etat-logiciel-anonymisation-ia-magistrats",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The anonymisation software is not stated to be an AI system, and it is a pre-AI data tool."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a sector's system stated; training and anonymisation only."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Anonymisation software is not stated to be an AI model, dataset or AI computing."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Law is only referred to as the framework; no standing, authority, regulation or application stated."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Not a case management system; no filing or publication system stated."
+    }
+   }
+  }
+ }
+}

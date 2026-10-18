@@ -1,0 +1,12 @@
+{"slug":"2026-10-17-mwi-malawi24-paychangu-psp-licence-rbm","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"MWI":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The Reserve Bank of Malawi granted PayChangu Limited a Payment Service Provider licence (PSP-003/26) for payment aggregation, per Malawi24.","as_of":"2026-09-30","date_precision":"day","system":"PayChangu payment aggregation licence PSP-003/26","class":"oversight"}],"systems":[{"system":"PayChangu","country_label":"Malawi","class":"other","platform":"payment aggregation of mobile money, card and bank transfers","owner":"PayChangu Limited","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"MWI":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Reserve Bank of Malawi issued licence PSP-003/26 under the Payment Systems Act, 2016, per Malawi24.","as_of":"2026-09-30","date_precision":"day","system":"Payment Systems Act, 2016","class":"law"},{"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"Under the Payment Systems Act, 2016 the Reserve Bank of Malawi licensed local fintech PayChangu Limited as a payment service provider, per Malawi24.","as_of":"2026-09-30","date_precision":"day","system":"Payment Systems Act, 2016","class":"law"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document gives no survey figure on account holding."}}},
+"retailpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Licence permits aggregation but document does not say a service is in service."}}},
+"revenuecollection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}},
+"startups":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document states nothing on startup law or funding."}}}
+}}

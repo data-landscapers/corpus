@@ -1,0 +1,16 @@
+{"slug": "2026-10-16-zaf-mg-digitising-national-identity-not-the-solution", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Klaaren and Costa, as reported by the op-ed, found the state enlisted private commercial banks to handle identity enrolment and verification for South Africa's digital identity framework.", "as_of": "2026-10-16", "date_precision": "day", "system": "Home Affairs Smart ID verification via banks", "class": "authentication"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document says nothing on links between the civil register and the ID system."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document mentions no civil service digital-skills training in South Africa (Kerala training is another country)."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rural internet programme or rural/urban use figures stated."}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Dependency on vendors is argued in general terms; no statement on who operates or maintains the national ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The op-ed describes a client renewing a Smart ID card with biometric capture at a bank branch in Sandton, and South Africa's move from Hanis to the facial-recognition-equipped Abis, per Klaaren and Costa.", "as_of": "2026-10-16", "date_precision": "day", "system": "Smart ID; Hanis; Abis", "class": "idsystem"}], "systems": [{"system": "Abis (Automated Biometric Identification System)", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a general claim that skilled engineers left government and procurement failed; no named body or system stated."}}},
+"mobileaffordability": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Mentions high data tariffs only for the Sahel, with no price."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No account or payment survey figure stated."}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

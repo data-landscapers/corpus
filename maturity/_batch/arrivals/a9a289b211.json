@@ -1,0 +1,6 @@
+{"slug": "2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh", "studies": {
+"admindata": {"countries": {"NER": {"facts": [], "systems": [], "note": "The document only mentions a draft 2025-2026 statistical yearbook presented at a meeting; nothing published and no administrative records named."}}},
+"dataprotectionlaw": {"countries": {"NER": {"facts": [], "systems": [], "note": "Data security is mentioned in general terms; no law, authority, regulation or application is stated."}}},
+"educationmis": {"countries": {"NER": {"facts": [], "systems": [{"system": "DUNE-RH", "country_label": "DUNE-RH", "class": "other", "platform": "", "owner": "Ministere de l'Education nationale", "tiers": ""}], "note": "Only an HR management platform and e-learning platforms are named; no education information system or school census is stated."}}},
+"schools": {"countries": {"NER": {"facts": [], "systems": [{"system": "DUNE-RH", "country_label": "DUNE-RH", "class": "other", "platform": "", "owner": "Ministere de l'Education nationale", "tiers": ""}], "note": "No learner records or school-level data capture are described; DUNE-RH is an HR platform."}}}
+}}

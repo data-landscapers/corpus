@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-foroyaa-gambia-court-id-card-serial-number-missing-database",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National ID Card system",
+   "country_label": "The Gambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Gambia Immigration Department",
+   "tiers": ""
+  }
+ ],
+ "note": "Stage 4c: Court testimony on one card's serial number; the system is already held in service."
+}

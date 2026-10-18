@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-sen-arcop-appel-eprocurement-generalisation",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ARCOP says it is continuing to deploy the APPEL e-procurement platform, with generalisation targeted from January 2027, a 1 December 2026 deadline to load 2027 procurement plans onto it, and training for more than 325 contracting authorities.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "APPEL (Achats publics en procédures électroniques)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL",
+   "country_label": "APPEL (Achats publics en procédures électroniques)",
+   "class": "procurement",
+   "platform": "",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

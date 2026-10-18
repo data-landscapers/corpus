@@ -44,6 +44,7 @@ BFA,Identifiant unique électronique (WURI),Burkina Faso,idsystem,,Ministry of D
 BFA,Carte Nationale d'Identite Burkinabe (CNIB),Burkina Faso,idsystem,,,,2024-05-13-bfa-burkina24-anotel-cnib-carte-sim
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-06-02-bfa-burkina24-oni-banfora-cnib
 BFA,CNIB,CNIB,idsystem,,ONI,,2024-02-02-bfa-oni-antenne-centre-ouest-cnib
+BFA,CIB-AES,Burkina Faso,idsystem,,"Gendarmerie nationale, ONI and Police Nationale enrol",,2026-10-16-bfa-aconews-gendarmerie-cib-aes
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-08-26-bwa-omang-fake-documents-cartel
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
 BWA,Electronic National Identification System (Biometric Omang),Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-04-01-bwa-2026-0400-12061
@@ -191,6 +192,7 @@ GNB,Civil registry digitisation platform,Guinea-Bissau,other,,Ministry of Justic
 GNQ,pasaporte biométrico-CEMAC,Guinea Ecuatorial,other,CNEDOGE (Centro Nacional de Emisión de Documentos),"Ministerio de Asuntos Exteriores, Cooperación Internacional y Diáspora",,2026-05-13-guinea-ecuatorial-comparecencia-exteriores-pasaporte-biometrico-cnedoge
 GNQ,Documento de identidad personal (DIP),Equatorial Guinea,idsystem,,CNEDOGE,biometric security documents,2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)
 GNQ,SIGEF (Sistema Integral de Gestion de Funcionarios),Guinea Ecuatorial,other,,Presidencia del Gobierno,,2026-06-17-guinea-ecuatorial-sigef-comite-pilotaje-interoperabilidad-biometria
+GNQ,CNEDOGE identity document issuance technology,Equatorial Guinea,idsystem,CETIS technology,,,2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico
 KEN,Maisha Card,Kenya,idsystem,,Ministry of Interior,,2026-06-28-kenyans-to-soon-access-their-national-ids-electronically-murkomen-confirms
 KEN,Maisha Namba,Kenya,idsystem,,,,2026-06-24-institutionalize-trust-digital-government-biometricupdate
 KEN,National Identification Card,Kenya,idsystem,,National Registration Bureau,,2025-11-01-government-waives-national-identification-card-processing-charges

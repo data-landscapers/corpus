@@ -1,0 +1,72 @@
+{
+ "slug": "2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The utility pilot is a water-sector tool, not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot using AI to locate non-revenue water, with the MOU still to be signed.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "NRW Decision Intelligence Platform",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NRW Decision Intelligence Platform",
+       "country_label": "Zambia",
+       "class": "sectorai",
+       "platform": "timbuktoo EDGE node, University of Zambia AI UniPod",
+       "owner": "Lusaka Water Supply and Sanitation Company",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says a prototype NRW platform will run on the timbuktoo EDGE sovereign compute node hosted at the University of Zambia AI UniPod.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "timbuktoo EDGE node",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

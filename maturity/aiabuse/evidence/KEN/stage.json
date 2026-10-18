@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "2",
-   "rule": "draft",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source held since October 2023 says: is a rule on ai harms in force.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-002;KEN-001",
+      "gaps": "No source held says a rule on AI harms is in force or a body is designated over AI; the draft that would create an AI Commissioner was recommended for rejection by the Senate ICT Committee in October 2026.",
+      "note": "The AI Bill, 2026 is a published draft providing for an AI Commissioner, which meets the draft rung. Nothing held puts a rule on AI harms in force.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

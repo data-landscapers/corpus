@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot using AI to locate non-revenue water, with the MOU still to be signed.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "NRW Decision Intelligence Platform",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRW Decision Intelligence Platform",
+   "country_label": "Zambia",
+   "class": "sectorai",
+   "platform": "timbuktoo EDGE node, University of Zambia AI UniPod",
+   "owner": "Lusaka Water Supply and Sanitation Company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

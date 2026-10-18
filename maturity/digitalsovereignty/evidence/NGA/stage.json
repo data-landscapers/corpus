@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
+      "stage": "4",
       "rule": "inservice",
-      "hosted": "",
+      "hosted": "national",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-004",
-      "gaps": "No source held since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "NGA-001;NGA-004;NGA-024",
+      "gaps": "No source held since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code. The national hosting fact covers the identity database only.",
+      "note": "The CBN data localisation rule is in force and NIMC states the national identity database is hosted and run in Nigeria (NGA-024), so stage 4. Stage 5 needs a contract carrying data terms, and none is held.",
+      "as_at": "2026-10-18"
     }
   ]
 }

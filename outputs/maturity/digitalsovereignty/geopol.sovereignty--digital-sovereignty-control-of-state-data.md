@@ -21,8 +21,8 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 18 |
-| 3 Established | 9 |
+| 4 Operating | 19 |
+| 3 Established | 8 |
 | 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -121,6 +121,14 @@ Government data or a core system was hosted in the country in 2025; contract ter
 
 - L'Express reports that Mauritius Telecom's Rose-Belle data centre hosts government projects, among them e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025 ([source, 2025-12-29](https://lexpress.mu/node/552966)).
 
+### Nigeria: 4 Operating
+
+A rule on state data was in force and the identity database was hosted nationally in 2026; contract data terms are not known.
+
+- Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
+- Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027 ([source, 2026-09-28](https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/)).
+- The director of NIMC's Strategic Programme Office said the national identity database is hosted entirely in Nigeria, maintained internally and managed by NIMC employees, has never been hosted abroad and does not use cloud hosting for its core database; the date is the article's published date ([source, 2026-10-16](https://guardian.ng/business-services/nimc-onboards-63-biometric-agents-reaffirms-local-hosting-of-national-database/)).
+
 ### Sierra Leone: 4 Operating
 
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
@@ -181,13 +189,6 @@ A rule on where state data is held was in force in 2025; national hosting of sta
 A rule on where state data is held was in force in 2025; national hosting of state systems is not on record.
 
 - The UNECA/GIZ/AU inception report says Banco de Moçambique Notice 4/GGBM/2003 requires data centres to be located in Mozambique, with replicas abroad allowed only with prior approval; it gives no repeal, and no date other than the 2003 notice and the report's publication of 2025-06-19 ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
-
-### Nigeria: 3 Established
-
-A rule on where state data is held was in force in 2026; national hosting of state systems is not on record.
-
-- Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
-- Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027 ([source, 2026-09-28](https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/)).
 
 ### Rwanda: 3 Established
 

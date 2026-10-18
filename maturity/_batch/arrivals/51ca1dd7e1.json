@@ -1,0 +1,8 @@
+{"slug": "2026-10-16-mli-rfi-bagayoko-dix-ans-sante-numerique", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Interview mentions AI bias risk only as opinion; no rule or authority stated."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [{"system": "réseau de télédermatologie du Mali", "country_label": "Mali", "class": "other", "platform": "", "owner": "Digi-santé Mali", "tiers": ""}], "note": "Teledermatology network is telemedicine, not stated to use AI; interviewee says AI prerequisites are absent."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated; interviewee says data for training does not exist."}}},
+"mobilepenetration": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No phone ownership figure stated."}}},
+"schoolinternet": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

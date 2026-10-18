@@ -148,8 +148,9 @@ A rule or authority on harms from AI was being drafted in 2026; none in force is
 
 ### Kenya: 2 Nascent
 
-A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
+A 2026 Senate bill would create an AI Commissioner, but a committee advised against it in October; no rule in force is known.
 
+- The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, which would create an Office of the AI Commissioner with powers to investigate violations, audit and impose sanctions, with fines up to Sh5 million; the article gives no date for the report, so its publication date is used ([source, 2026-10-15](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)).
 - Kenya is drafting an AI Bill (AI Bill, 2026) to provide a framework for regulating and governing AI, per CIPIT ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
 
 ### Libya: 2 Nascent

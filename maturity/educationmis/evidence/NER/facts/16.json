@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DUNE-RH",
+   "country_label": "DUNE-RH",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de l'Education nationale",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an HR management platform and e-learning platforms are named; no education information system or school census is stated."
+}

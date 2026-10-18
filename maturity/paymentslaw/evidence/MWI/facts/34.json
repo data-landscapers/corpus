@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-17-mwi-malawi24-paychangu-psp-licence-rbm",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Reserve Bank of Malawi issued licence PSP-003/26 under the Payment Systems Act, 2016, per Malawi24.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Payment Systems Act, 2016",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Under the Payment Systems Act, 2016 the Reserve Bank of Malawi licensed local fintech PayChangu Limited as a payment service provider, per Malawi24.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Payment Systems Act, 2016",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

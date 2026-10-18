@@ -1,0 +1,64 @@
+{
+ "slug": "2026-10-16-nga-thepointng-ndpc-mdas-website-scorecard",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "ThePointNG reports Vincent Olatunji as National Commissioner and CEO of the Nigeria Data Protection Commission, urging MDAs to comply with the Nigeria Data Protection Act, 2023.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Nigeria Data Protection Commission is headed by National Commissioner Vincent Olatunji.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The NDPC urged MDAs to comply with the Nigeria Data Protection Act, 2023, treated as the law in force.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Act, 2023",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers a website ranking and a data protection speech; no service count, gateway or usage stated."
+    }
+   }
+  }
+ }
+}

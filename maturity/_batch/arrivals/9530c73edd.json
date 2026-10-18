@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-16-agp-guinee-gbessia-sensibilisation-wardip",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Cable landing and deployment planned under WARDIP; nothing in service stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "WARDIP sensitisation session only; no African body or agreement named."
+    }
+   }
+  }
+ }
+}

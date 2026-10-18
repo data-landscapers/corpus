@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-14-caf-acdd-immersion-senum-transformation-numerique",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Diamniadio sovereign datacentre visited; hire, tier, ownership and cloud region not stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact for this study."
+    }
+   }
+  }
+ }
+}

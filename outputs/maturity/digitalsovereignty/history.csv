@@ -7,3 +7,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,NGA,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,3,3,NGA-001;NGA-004,Arrivals added NGA-023; stage unchanged.
 2026-10-17,SEN,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,SEN-002;SEN-003,Arrivals added SEN-004; stage unchanged.
 2026-10-17,TCD,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,2,2,TCD-002;TCD-003,Arrivals added TCD-003; stage unchanged.
+2026-10-18,NGA,geopol.sovereignty--digital-sovereignty-control-of-state-data,fact,3,4,NGA-001;NGA-004;NGA-024,Arrivals added NGA-024: NIMC says the national identity database is hosted and run in Nigeria; stage 3 to 4.

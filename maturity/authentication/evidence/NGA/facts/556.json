@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-nga-guardianng-nimc-63-biometric-agents-local-hosting",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIMC authentication application",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": "Stage 4c: Second account of the 14 October NIMC briefing already held as NGA-004 and NGA-005."
+}

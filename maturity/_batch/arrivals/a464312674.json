@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-16-tun-leconomistemaghrebin-int-barometre-numerique-2026-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only public use of AI apps, no government use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only use of foreign tools such as ChatGPT; no local build."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "An INT telecom barometer, not a statistics-office household survey or census."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme or measured skills share stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a share of users of online administration; no service or portal count stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The 85.9% figure covers ages 10-70 only, not the whole population."
+    }
+   }
+  }
+ }
+}

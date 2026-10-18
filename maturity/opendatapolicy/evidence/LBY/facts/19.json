@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-lby-gia-draft-national-open-data-ai-policy-meeting",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Libya's General Information Authority met sectoral information centres, ministries and experts on 14 October 2026 to fold a national survey's results into the final draft of a National Policy for Open Data and Artificial Intelligence.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "National Policy for Open Data and Artificial Intelligence",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

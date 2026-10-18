@@ -23,10 +23,10 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 | 5 Leading | 1 |
 | 4 Operating | 0 |
 | 3 Established | 1 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 46 |
+| No evidence | 45 |
 
 ## Countries
 
@@ -60,6 +60,12 @@ Government e-procurement was under way in 2026; none in service is on record.
 Government e-procurement was under way in 2026; none in service is on record.
 
 - Finance Minister Ngafuan cited reforms involving e-procurement among Liberia's partnerships and reforms, in a speech reported 2026-09-28 ([source, 2026-09-28](https://www.thenewdawnliberia.com/bet-on-liberia/)).
+
+### Senegal: 2 Nascent
+
+E-procurement is being rolled out in 2026 ahead of general use from January 2027; whether tenders already run on it is not known.
+
+- ARCOP says it is continuing to deploy the APPEL e-procurement platform, with generalisation targeted from January 2027, a 1 December 2026 deadline to load 2027 procurement plans onto it, and training for more than 325 contracting authorities ([source, 2026-10-16](https://arcop.sn/2026/10/16/generalisation-appel-et-acces-aux-opportunites-de-la-plateforme-larcop-accelere-la-preparation-des-entreprises/)).
 
 ### Seychelles: 2 Nascent
 
@@ -284,12 +290,6 @@ Nothing held names a government e-procurement system or says there is none, so n
 Not established: Nothing held names a government e-procurement system, or says there is none.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing held names a government e-procurement system or says there is none, so no stage is set.
-
-Not established: Nothing held names a government e-procurement system, or says there is none.
-
-### Senegal: No evidence
 
 Nothing held names a government e-procurement system or says there is none, so no stage is set.
 

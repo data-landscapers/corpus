@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-17-cog-adiac-digitalisation-administration-comite-pilotage",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a workstream to digitise birth certificates; no link to the ID system stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth-certificate digitisation is a retained workstream, not a system procured, piloted or rolled out."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an announced intention to invest in staff skills; no programme stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No service portal or online service stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth mentioned."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only preparation of data-sharing work with land administration; no land register system stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Digitised criminal records are identification, not a station record."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Birth-certificate digitisation is a retained workstream; no office-level entry stated."
+    }
+   }
+  }
+ }
+}

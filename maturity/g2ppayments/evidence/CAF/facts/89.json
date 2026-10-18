@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-caf-undp-ungm-fintech-platform-specification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "POST CASH",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "national FinTech platform (specification stage)",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "UNDP consultancy notice to draft functional and technical specifications for a national fintech platform called POST CASH; it does not say what the platform pays or that any service is in service."
+}

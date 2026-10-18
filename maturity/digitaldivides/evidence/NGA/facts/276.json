@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-nga-punchng-nucap-3700-rural-towers-abia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigeria Universal Communication Access Project (NUCAP)",
+   "country_label": "Nigeria",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy; Universal Service Provision Fund",
+   "tiers": ""
+  }
+ ],
+ "note": "Checked 2026-10-18: the NUCAP commissioning in Bende is already held (NGA-003)."
+}

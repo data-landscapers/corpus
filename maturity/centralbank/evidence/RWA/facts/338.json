@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-rwa-gfmag-ekash-instant-payment-growth",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "oversight",
+   "platform": "national instant payment switch",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "switch oversight already held; the regional facts read COMESA membership and PAPSS integration under way, not participation in a system in service"
+}

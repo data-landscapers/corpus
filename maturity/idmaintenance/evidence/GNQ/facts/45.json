@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-gq-gobierno-cnedoge-modernizacion-sistema-informatico",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNEDOGE identity document issuance technology",
+   "country_label": "Equatorial Guinea",
+   "class": "idsystem",
+   "platform": "CETIS technology",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "CETIS is named as responsible for the technology but the document does not say who operates or maintains it day to day."
+}

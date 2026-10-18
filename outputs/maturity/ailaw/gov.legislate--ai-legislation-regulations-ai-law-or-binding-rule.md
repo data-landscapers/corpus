@@ -100,8 +100,9 @@ A draft information technology bill of 2026 would regulate AI among other techno
 
 ### Kenya: 2 Nascent
 
-An AI bill has been before the Senate since February 2026; no rule on AI is in force.
+An AI bill has been before the Senate since early 2026, its committee advising against it in October; no rule on AI is in force.
 
+- The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, sponsored by Senator Karen Nyamu and introduced in April, which seeks a comprehensive legal framework for AI; the article gives no date for the report, so its publication date is used ([source, 2026-10-15](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)).
 - CIPESA's 24 September 2026 article refers to the AI Bill, 2026 as proposing a Commissioner-maintained public register of high-risk AI models and as addressing synthetic political content, and to a prospective AI Commissioner; the article gives no tabling date, so the date is its publication date ([source, 2026-09-24](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/)).
 - CIPIT states that Kenya is in the process of drafting an AI Bill, 2026, whose main objective is a framework for the regulation and governance of AI; dated by its publication date ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
 
