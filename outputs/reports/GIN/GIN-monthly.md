@@ -3,9 +3,9 @@ title: Guinea — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: GIN
-ledger_rows: 21
+ledger_rows: 22
 not_held: 4
-record: e55a8a0bbbb8
+record: 825a637b205c
 ---
 
 # News, Sep – Oct 2026
@@ -197,6 +197,8 @@ Guinea's prime minister, Amadou Oury Bah, visited the national data centre at Ko
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -291,6 +293,22 @@ Guinea's procurement regulator opened an operation to build and clean up a datab
 **[MATD-DGE : Djenabou Touré lance l’atelier sur l’extension du Registre national des personnes physiques](https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/)** — Guinee114.com, 18 September 2026
 
 Guinea's territorial administration minister, Djenabou Touré, opened a workshop on 18 September 2026 on extending the national register of natural persons (RNPP), run jointly by the civil registration and identification office ONECI and the elections directorate. She asked that the first phase of an identity verification and validation platform be completed before the end of 2026.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Conakry commercial court digitisation (Judicalex)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avis de publication de l'attribution du contrat relatif au recrutement d'un consultant pour la poursuite de l'informatisation du Tribunal de Commerce de Conakry (TCC)](http://www.ucepguinee.org/wp-content/uploads/2026/10/AVIS-PUBLICATION-DE-LATTRIBUTION-INFORMATISATION-TCC.pdf)** — Unité de Coordination et d'Exécution des Projets (UCEP), 5 October 2026
+
+USD 26,400, 12-month contract signed 7 September 2026 under PADIRPME; nine bidders, award to the second-ranked.
 
 </div>
 

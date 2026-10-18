@@ -3,9 +3,9 @@ title: Cote d'Ivoire — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: CIV
-ledger_rows: 43
+ledger_rows: 44
 not_held: 10
-record: 91c9f4baa230
+record: 78f7aba17aa8
 ---
 
 # News, Sep – Oct 2026
@@ -103,6 +103,20 @@ Côte d'Ivoire's Digital Acceleration Project (PADCI) shortlisted six firms or c
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Net neutrality guidelines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consultation publique relative à l’élaboration des lignes directrices en vue de la mise en œuvre de la neutralité du Net en Côte d’Ivoire (contribution Moov Africa CI, publiée par l'ARTCI)](https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf)** — ARTCI, 1 September 2026
+
+Draft allows zero rating only if non-discriminatory and unpaid; Moov opposes strict non-discrimination over 5G.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

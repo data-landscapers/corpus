@@ -3,9 +3,9 @@ title: Zimbabwe — News, Sep – Oct 2026
 compiled: 2026-10-18
 period: 2026-09-01 to 2026-10-18
 place: ZWE
-ledger_rows: 40
-not_held: 7
-record: cfb09eb21dc2
+ledger_rows: 41
+not_held: 6
+record: 8c8d73b33536
 ---
 
 # News, Sep – Oct 2026
@@ -573,6 +573,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Zimbabwe sets out plan to modernise postal and courier services for digital economy](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy)** — TechReviewAfrica, 20 September 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National budget automation system (Blue Book System)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The 2nd National Budget Automation System Piloting Workshop](https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/)** — Scientific and Industrial Research and Development Centre (SIRDC), 23 September 2026
+
+Blue Book System piloted in Kwekwe, 21-25 September 2026; SIRDC AI institute on the team.
 
 </div>
 
