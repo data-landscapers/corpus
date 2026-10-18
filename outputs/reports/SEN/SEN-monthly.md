@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SEN
 ledger_rows: 63
 not_held: 2
-record: e35b7c75febf
+record: 1e0e7c4aabcf
 ---
 
 # News, Sep – Oct 2026
@@ -660,7 +660,7 @@ Senegal's Interior Ministry asked all NGOs and associations working in the count
 
 **[« Nous voulons un service public moderne, performant et centré sur l’usager »](https://lesoleil.sn/societe/nous-voulons-un-service-public-moderne-performant-et-centre-sur-lusager/)** — Le Soleil, 18 October 2026
 
-Civil-service minister: biometric staff audit since 23 June 2026 unfinished; e-Sénégal as single online window.
+Senegal's civil-service minister said the physical and biometric audit of state employees, launched in June 2026, is still under way and has not yet confirmed any anomalies. He named e-Sénégal as the single access point for online procedures under the 2025–2029 public-service reform agenda.
 
 </div>
 
@@ -922,7 +922,7 @@ Senegal's justice ministry judged the first results of the pilot digitising judi
 
 **[Kiriku Voice Challenge : des modèles d’IA développés pour les langues nationales](https://lesoleil.sn/actualites/technologie/kiriku-voice-challenge-des-modeles-dia-developpes-pour-les-langues-nationales/)** — Le Soleil, 16 October 2026
 
-210 hours of Wolof, Pulaar and Serer speech data, two open models on Hugging Face; ten finalists from 74 bids.
+AI Hub Senegal and the French embassy presented the results of the Kiriku Voice Challenge. It produced 210 hours of annotated Wolof, Pulaar and Serer speech and two openly published models, one for speech recognition and one for speech synthesis.
 
 </div>
 

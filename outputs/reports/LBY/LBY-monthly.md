@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: LBY
 ledger_rows: 39
 not_held: 4
-record: 89101f303775
+record: b66e4bbcb086
 ---
 
 # News, Sep – Oct 2026
@@ -226,7 +226,7 @@ Al-Bunya Investment and Services Company, a subsidiary of Libya's state telecoms
 
 **[افتتاح مجموعة ( أوزون ) للاتصالات ببنغازي والإعلان عن وصول كابل (ميدوسا) البحري](https://lana.gov.ly/post.php?id=367839&lang=ar)** — وكالة الأنباء الليبية (LANA), 18 October 2026
 
-16,000 km fibre plan, Tier III data centre, 5G trial end-2026; cross-border links to Chad, Niger, Mali.
+Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submarine cable has reached the city. It plans a 16,000 km fibre network, a Tier III data centre and a 5G trial by the end of 2026.
 
 </div>
 
@@ -376,7 +376,7 @@ Libya's Attorney General, Al-Siddiq Al-Sour, said on 13 October 2026 that a data
 
 **[النيابة العامة تكشف استخراج 10 آلاف جواز سفر ببيانات مزورة في ليبيا](https://alwasat.ly/news/481677)** — Alwasat (Bawabat Al-Wasat), 15 October 2026
 
-Five million secured Form 13 sheets to 365 registry offices; passport and civil registry DBs linked to prosecutors.
+Libya's public prosecutor said 10,190 passports had been issued on forged civil-registry data. The passport and civil-registry databases are now linked to prosecutors, and five million secured registry forms have been sent to 365 offices.
 
 </div>
 

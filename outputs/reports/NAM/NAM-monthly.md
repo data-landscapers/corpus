@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: NAM
 ledger_rows: 37
 not_held: 9
-record: b12c971865be
+record: 6dee12a74488
 ---
 
 # News, Sep – Oct 2026
@@ -442,7 +442,7 @@ More than 5,700 Namibian pensioners and other social-grant beneficiaries remain 
 
 **[Request for Proposal for Consultancy Services to Develop a White Paper on the National Digital Addressing System for Namibia (SC/RP/NSA-04/2026)](https://nsa.org.na/wp-content/uploads/2026/09/Request-for-proposal-for-consultant-on-Addressing-System-in-Namibia-RP.pdf)** — Namibia Statistics Agency, 28 September 2026
 
-NSA tender for a white paper on a National Digital Addressing System; Namibia has no national addressing policy or law.
+Namibia's statistics agency is seeking consultants to write a white paper on a national digital addressing system. The tender notes that the country has no national addressing policy or law.
 
 </div>
 

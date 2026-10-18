@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: BFA
 ledger_rows: 40
 not_held: 7
-record: d2c61022b8d8
+record: e864be82683b
 ---
 
 # News, Sep – Oct 2026
@@ -650,7 +650,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[L’Essentiel.bf : Une nouvelle plateforme numérique pour s’informer en français et en mooré](https://lefaso.net/spip.php?article149991)** — leFaso.net, 15 October 2026
 
-CITADEL and Data Lab launch, 15 Oct 2026; AI summaries of four national outlets every 15 minutes, text and audio.
+Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Essentiel.bf, a free web and mobile service. It uses AI to summarise four national news outlets every 15 minutes in French and Mooré, as text and audio.
 
 </div>
 

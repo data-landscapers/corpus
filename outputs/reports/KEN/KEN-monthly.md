@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: KEN
 ledger_rows: 142
 not_held: 7
-record: b3644a56e2cd
+record: 5e23eb8491d6
 ---
 
 # News, Sep – Oct 2026
@@ -1640,7 +1640,7 @@ Kenya's switch from the NEMIS school data system to KEMIS ran into failed logins
 
 **[Education data systems switch leaves schools with millions in funding gaps](https://nation.africa/kenya/news/education/education-data-systems-switch-schools-millions-in-funding-gaps-5633286)** — Daily Nation, 16 October 2026
 
-NEMIS undercounts left C1 schools short at KSh 13,814 a learner (FY2024/25); KEMIS replaced it Sept 2025.
+Kenya's Auditor-General found that the NEMIS learner database, replaced by KEMIS in September 2025, under-counted pupils in national schools and left them underfunded. A parliamentary committee resolved to summon the Education Cabinet Secretary.
 
 </div>
 
@@ -1760,7 +1760,7 @@ Kenya's Directorate of Criminal Investigations extended its biometric police cle
 
 **[Disabling of Ebola reporting tool cripples alertness](https://www.standardmedia.co.ke/health/health-science/article/2001560114/disabling-of-ebola-reporting-tool-cripples-alertness)** — The Standard, 15 October 2026
 
-AdaM outbreak module switched off mid-Ebola response; unexplained UHAI replacement; KMPDU seeks one channel.
+Kenya's health ministry switched off AdaM, its real-time module for reporting suspected Ebola and other notifiable-disease cases, in the middle of its Ebola response. Responders said they had not been told about a replacement, which an insider named as UHAI.
 
 </div>
 
@@ -1850,7 +1850,7 @@ Kenya's Public Procurement Administrative Review Board ordered the electoral com
 
 **[PPARB Application No. 192 of 2026: Leading Edge Limited v Accounting Officer, IEBC & IEBC — Tender No. IEBC/OIT/001A/2026-2027, Integrated Elections Management System (IEMS)](https://ppra.go.ke/?mdocs-file=15510)** — Public Procurement Administrative Review Board (Kenya), 14 October 2026
 
-Request for review dismissed 14 Oct 2026; IEBC directed to proceed with IEMS tender; KES 2m costs against applicant.
+Kenya's procurement review board dismissed Leading Edge Limited's challenge to the electoral commission's tender for an Integrated Elections Management System. It ordered the commission to proceed and the applicant to pay KSh 2 million in costs.
 
 </div>
 
@@ -1858,7 +1858,7 @@ Request for review dismissed 14 Oct 2026; IEBC directed to proceed with IEMS ten
 
 **[IEBC cleared to proceed with Sh6.5bn election technology tender](https://nation.africa/kenya/news/iebc-cleared-to-proceed-with-sh6-5bn-election-technology-tender-5633132)** — Daily Nation, 15 October 2026
 
-PPARB upholds 50,000-device and KSh 5bn turnover thresholds, no local-preference margin; KSh 2m costs.
+Kenya's procurement review board cleared the electoral commission to continue its KSh 6.5 billion tender for election technology for 2027. The board upheld the tender's device and turnover thresholds and rejected a bidder's challenge.
 
 </div>
 
@@ -1966,7 +1966,7 @@ Kenya's Deputy President, Kithure Kindiki, commissioned the Mwea Huduma Centre a
 
 **[Huduma Centres face legal test after 12 years without framework](https://nation.africa/kenya/news/huduma-centres-face-legal-test-after-12-years-without-framework-5633076)** — Daily Nation, 15 October 2026
 
-No policy or law behind Huduma Kenya since 2014; Service Delivery Summit last met 2014; draft with the CS.
+Kenya's Auditor-General found that the secretariat running the Huduma Centres has worked since 2014 without the policy and legal framework its founding notice requires, so the legality of its operations could not be confirmed. The Public Service principal secretary told MPs a draft framework is with the Cabinet Secretary.
 
 </div>
 
@@ -2096,7 +2096,7 @@ Kenya's Controller of Budget reported that county governments paid at least Sh8.
 
 **[Mombasa tuk-tuk fines: Who is watching the watchers?](https://nation.africa/kenya/counties/mombasa/mombasa-tuk-tuk-fines-who-is-watching-the-watchers--5634070)** — Daily Nation, 16 October 2026
 
-Unmarked marshals, cameras, KSh 5,000 fines; petitioners seek laws, gazette notices and DPIAs; hearing 9 Nov.
+Two Mombasa tuk-tuk associations went to the High Court against the county's camera-based instant traffic fines, which block operators' stickers on the county portal until they are paid. They argue that no published law authorises the system or its capture of passengers' images; the case returns on 9 November.
 
 </div>
 
@@ -2326,7 +2326,7 @@ Kenya's President and technology envoy discussed with Cisco the Moran AI Centre 
 
 **[AI in classrooms and hospitals: MPs launch probe, seek new rules](https://nation.africa/kenya/news/ai-in-classrooms-and-hospitals-mps-launch-probe-seek-new-rules-5636232)** — Daily Nation, 18 October 2026
 
-One-month inquiry into AI in schools and hospitals; MPs cite no national AI framework; ministries first.
+Kenya's National Assembly gave its communication committee one month to report on how AI is used in education, health and the public sector, and on the rules that govern it. MPs said there is no national AI framework and are weighing a standalone AI law.
 
 </div>
 

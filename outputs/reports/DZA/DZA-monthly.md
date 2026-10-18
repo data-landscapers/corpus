@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: DZA
 ledger_rows: 40
 not_held: 5
-record: e5b2260a5f9b
+record: fede41fdc7f2
 ---
 
 # News, Sep – Oct 2026
@@ -476,7 +476,7 @@ Algeria's prime minister, Sifi Ghrieb, ordered an immediate national census of i
 
 **[في يوم دراسي بوهران: الكشف عن إحصاء 1.5 مليون عنوان رسمي موحد قابل للتحديد الجيومكاني](https://arabe.capdz.dz/archives/144046)** — Cap DZ (arabe.capdz.dz), 12 October 2026
 
-Interior ministry counts 1.5 million geolocated official addresses in 12 wilayas; all 69 targeted by 2030.
+Algeria's interior ministry told a study day in Oran that 1.5 million official, geolocated addresses have been recorded across 12 provinces. The aim is to cover all 69 provinces by 2030.
 
 </div>
 

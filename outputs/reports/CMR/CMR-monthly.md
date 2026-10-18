@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: CMR
 ledger_rows: 35
 not_held: 4
-record: 5093109866a8
+record: 009776f851ca
 ---
 
 # News, Sep – Oct 2026
@@ -420,7 +420,7 @@ Cameroon's chamber of commerce (CCIMA) trained its staff and trade bodies in Dou
 
 **[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-Customs data exchange linking B'Odogwu, Customs Webb and CAMCIS; no cost or loan committed yet.
+Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè–Kraké and Mfum–Ekok border corridors with Benin and Cameroon. The plans include a system for exchanging customs declarations between the three countries on a common data model; no cost or loan has been agreed.
 
 </div>
 

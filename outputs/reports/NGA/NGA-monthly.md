@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: NGA
 ledger_rows: 155
 not_held: 9
-record: 93b040b0c731
+record: 6bcfcfc06594
 ---
 
 # News, Sep – Oct 2026
@@ -458,7 +458,7 @@ The two countries' customs administrations launched a pilot interconnection of t
 
 **[Customs, Afreximbank plan Nigeria-Benin, Cameroon border upgrade](https://www.vanguardngr.com/2026/10/customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade/amp/)** — Vanguard News, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Customs data exchange linking B'Odogwu, Customs Webb and CAMCIS; no cost or loan committed yet.
+Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè–Kraké and Mfum–Ekok border corridors with Benin and Cameroon. The plans include a system for exchanging customs declarations between the three countries on a common data model; no cost or loan has been agreed.
 
 </div>
 
@@ -1564,7 +1564,7 @@ Katsina State and Nigeria's identity commission agreed a working group to link t
 
 **[JAMB Moves to Rescue Graduates Stuck for Years over NIN Data Mismatch, Unveils New Service](https://www.thisdaylive.com/2026/10/18/jamb-moves-to-rescue-graduates-stuck-for-years-over-nin-data-mismatch-unveils-new-service/)** — ThisDay, 18 October 2026
 
-NIN alignment service for graduates barred from NYSC; life-skills test mooted for UTME.
+Nigeria's admissions board launched a service that lets candidates correct their records to match their national identity data. It is meant to help graduates who have been barred from national service for years by mismatched records.
 
 </div>
 

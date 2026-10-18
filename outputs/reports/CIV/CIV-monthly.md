@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: CIV
 ledger_rows: 45
 not_held: 10
-record: a3ca2e60b8be
+record: 5e48aa238d66
 ---
 
 # News, Sep – Oct 2026
@@ -538,7 +538,7 @@ Four days after nationwide checks on electronic standardised invoicing began, C�
 
 **[Communiqué du conseil des ministres 14 octobre 2026](https://www.fratmat.info/article/2645204/politique/communique-du-conseil-des-ministres-14-octobre-2026)** — Fraternite Matin, 15 October 2026
 
-Full government text: 3.5 GHz 5G refarming decree; EUR 189.6m IDA loan ratified, funding ONEF labour-market platform.
+Côte d'Ivoire's Council of Ministers adopted the decree on clearing the 3.3–3.6 GHz band for 5G and ratified a EUR 189.6 million IDA loan. Part of the loan will make the employment observatory's labour-market data platform operational.
 
 </div>
 

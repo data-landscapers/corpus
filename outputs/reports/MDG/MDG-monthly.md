@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: MDG
 ledger_rows: 35
 not_held: 5
-record: 2c07f52b40f7
+record: 78a8aa368b1e
 ---
 
 # News, Sep – Oct 2026
@@ -252,7 +252,7 @@ A GSMA report launched in Antananarivo says four reforms could bring about 1.13 
 
 **[Obstacles à l'accès à internet - 47% du coût d'un smartphone sont constitués de taxes](https://fr.allafrica.com/stories/202610170043.html)** — Midi Madagasikara (via allAfrica), 17 October 2026
 
-Operators at GSMA launch: taxes 47% of entry smartphone cost, incl. 6% copyright duty; 8% excise on mobile services.
+At the launch of a GSMA report on Madagascar's digital economy, operators said taxes make up 47% of the cost of an entry-level smartphone, including a 6% copyright duty. Mobile services also carry an 8% excise duty.
 
 </div>
 
@@ -260,7 +260,7 @@ Operators at GSMA launch: taxes 47% of entry smartphone cost, incl. 6% copyright
 
 **[TECHNOLOGIE - Deux Malgaches sur dix connectés à Internet](https://www.lexpress.mg/2026/10/technologie-deux-malgaches-sur-dix.html)** — L'Express de Madagascar, 17 October 2026
 
-Taxes 47% of smartphone price; Yas and Airtel blame handset cost; 2026 finance law keeps the levies.
+Only about two in ten people in Madagascar use the internet, although 3G and 4G networks cover more than 80% of the population. Operators blame the cost of handsets, and the 2026 finance law keeps the taxes on them.
 
 </div>
 
@@ -494,7 +494,7 @@ Madagascar's tax directorate signed four agreements on 18 September 2026 to cros
 
 **[REFONTE DE LA LISTE ÉLECTORALE - Plus de sept millions d’électeurs inscrits](https://www.lexpress.mg/2026/10/refonte-de-la-liste-electorale-plus-de.html)** — L'Express de Madagascar, 17 October 2026
 
-7,163,714 provisionally registered; 93.23% door-to-door; missing ID cards an obstacle; roll final end-April 2027.
+Madagascar's electoral commission has provisionally registered 7,163,714 adults on its rebuilt electoral roll, 93% of them through door-to-door visits. Missing identity cards and birth certificates are slowing enrolment, and the roll is due to be final by the end of April 2027.
 
 </div>
 

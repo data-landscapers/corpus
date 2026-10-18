@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: ZAF
 ledger_rows: 149
 not_held: 21
-record: a5e5f608c22c
+record: 45982d98f84b
 ---
 
 # News, Sep – Oct 2026
@@ -2012,7 +2012,7 @@ South Africa's home affairs minister said a biometric online platform for asylum
 
 **[MPs raise alarm after Home Affairs bought kiosks that remain unused](https://www.citizen.co.za/news/mps-raise-alarm-after-home-affairs-bought-kiosks-that-remain-unused/)** — The Citizen (South Africa), 17 October 2026
 
-Kiosks bought under May 2024 project sit undeployed while licence fees run; DG and CFO absent, spend undisclosed.
+South African MPs found self-service kiosks that Home Affairs bought under a 2024 project still undeployed, while licence fees keep running. The briefing was postponed after the director-general and chief financial officer did not attend, and no total cost was disclosed.
 
 </div>
 

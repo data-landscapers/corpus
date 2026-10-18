@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: TZA
 ledger_rows: 75
 not_held: 5
-record: 1f8a39a00f23
+record: 42b8e34f2f58
 ---
 
 # News, Sep – Oct 2026
@@ -126,7 +126,7 @@ Tanzania's Personal Data Protection Commission had registered 15,146 institution
 
 **[Simu za mkopo zilivyo mateso](https://www.mwananchi.co.tz/mw/habari/biashara/simu-za-mkopo-zilivyo-mateso-5635672)** — Mwananchi, 17 October 2026
 
-Phone-on-credit borrowers pay up to double cash price; data regulator PDPC investigating lenders' use of personal data.
+Tanzania's data protection commission said it is investigating complaints about how lenders selling phones on credit collect and use borrowers' personal data. Its director general called the misuse unlawful.
 
 </div>
 

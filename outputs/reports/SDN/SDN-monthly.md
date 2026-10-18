@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: SDN
 ledger_rows: 28
 not_held: 5
-record: be971818f9de
+record: 9291c6b57d3d
 ---
 
 # News, Sep – Oct 2026
@@ -82,7 +82,7 @@ The standards and metrology body's White Nile branch began collecting fees elect
 
 **[وزير المالية يبحث مع المدير العام لصندوق النقد العربي تعزيز الدعم الفني وتوسيع برامج بناء القدرات والتحول الرقمي للسودان](https://www.suna.sd/posts/ozyr-284)** — Sudan News Agency (SUNA), 17 October 2026
 
-Sudan in AMF digital-transformation aid for 2027; sukuk and securities support; more training places.
+The Arab Monetary Fund agreed to include Sudan in its technical assistance on digital transformation in 2027. It will also support Sudan on securities and sukuk and offer more training places.
 
 </div>
 

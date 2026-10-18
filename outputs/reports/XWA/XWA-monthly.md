@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-18
 place: XWA
 ledger_rows: 30
 not_held: 1
-record: 32c823c10f48
+record: e599d8bb720c
 ---
 
 # News, Sep – Oct 2026
@@ -584,7 +584,7 @@ Benin and seven other West African states (Burkina Faso, Côte d'Ivoire, Guinea,
 
 **[ECOWAS launches platform for tracking regional projects](https://apanews.net/ecowas-launches-platform-for-tracking-regional-projects/)** — APAnews, 15 October 2026
 
-Launched in Abuja 5-9 Oct 2026 by Commission VP Ogunjimi; features, public-access terms and indicators unstated.
+The ECOWAS Commission launched an automated platform in Abuja to plan, coordinate and monitor projects under its Community Development Programme. It did not say what the platform does, how the public can use it or how results will be measured.
 
 </div>
 
