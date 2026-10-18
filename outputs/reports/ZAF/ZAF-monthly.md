@@ -1,7 +1,7 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-18
+period: 2026-09-01 to 2026-10-18
 place: ZAF
 ledger_rows: 143
 not_held: 21

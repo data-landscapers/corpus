@@ -306,8 +306,10 @@ def save_store(store: dict) -> None:
 
 
 def prune(store: dict, run_date: date) -> dict:
+    # Aged on the later of the record's date and the slug's: a monthly selects on the slug's date
+    # (the ledger's `published`), so a study dated March but filed in September is still cited.
     cutoff = (run_date - timedelta(days=KEEP_DAYS)).isoformat()
-    return {k: v for k, v in store.items() if v.get("published", "") >= cutoff}
+    return {k: v for k, v in store.items() if max(v.get("published", ""), k[:10]) >= cutoff}
 
 
 def write_summary(slug: str, text: str, run_date: date) -> int:
