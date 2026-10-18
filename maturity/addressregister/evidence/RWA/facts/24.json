@@ -1,0 +1,26 @@
+{
+ "slug": "2021-02-17-rwa-abc-iposita-codified-addressing-system",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Iposita says it has adopted a grid-code digital addressing system via an Akutari app, approved by RURA but not yet operational, and that government street addressing is not yet established in peri-urban and rural areas.",
+   "as_of": "2021-02-17",
+   "date_precision": "day",
+   "system": "Iposita grid code addressing",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Iposita grid code addressing",
+   "country_label": "Rwanda",
+   "class": "address",
+   "platform": "Akutari smartphone app",
+   "owner": "Iposita",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

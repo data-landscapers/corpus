@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-25-com-comoresinfos-codes-postaux-absence-adressage",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "none",
+   "fact": "Comores Infos reports that the Comoros has neither postcodes nor precise methods to locate places or deliver mail, i.e. no structured addressing system, while the telecoms minister only pledges to introduce postcodes.",
+   "as_of": "2024-08-25",
+   "date_precision": "day",
+   "system": "",
+   "class": "address"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-25-civ-aip-convention-partage-donnees-pada",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "A data-sharing framework agreement for the Abidjan District addressing project (PADA) was signed on 24 January 2023, to give addresses and name all streets across the district's 13 communes (AIP).",
+   "as_of": "2023-01-24",
+   "date_precision": "day",
+   "system": "Projet d'adressage du District d'Abidjan (PADA)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet d'adressage du District d'Abidjan (PADA)",
+   "country_label": "Cote d'Ivoire",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministere de la Construction, du Logement et de l'Urbanisme",
+   "tiers": "district"
+  }
+ ],
+ "note": ""
+}

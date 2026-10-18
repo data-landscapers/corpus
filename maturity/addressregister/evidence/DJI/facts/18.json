@@ -1,0 +1,36 @@
+{
+ "slug": "2017-02-14-dji-what3words-djibouti-post-addressing",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "what3words says Djibouti Post adopted its three-word addressing as an addressing standard, and that every location in Djibouti now has an instant address.",
+   "as_of": "2017-02-14",
+   "date_precision": "day",
+   "system": "what3words",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "what3words and Djibouti Post's CEO say every place in the country, from Balbala to Obock and Assa Geyla, now has a fixed address under the system.",
+   "as_of": "2017-02-14",
+   "date_precision": "day",
+   "system": "what3words",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "what3words",
+   "country_label": "Djibouti",
+   "class": "address",
+   "platform": "mobile app and API",
+   "owner": "what3words, adopted by Djibouti Post",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

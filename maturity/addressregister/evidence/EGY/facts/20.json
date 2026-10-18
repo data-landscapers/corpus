@@ -1,0 +1,36 @@
+{
+ "slug": "2020-03-09-egy-dne-egypt-post-new-postcode-system-dhl",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Former Egypt Post chairperson Essam El-Sagheer says Egypt Post has completed applying a new 7-digit postcode per group of buildings, built on CAPMAS data and made available to DHL to look up addresses, though cooperation to activate it is still to come.",
+   "as_of": "2020-03-09",
+   "date_precision": "day",
+   "system": "Egypt Post new postcode system",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "Former Egypt Post chairperson Essam El-Sagheer says the new postcode system has been applied across the country.",
+   "as_of": "2020-03-09",
+   "date_precision": "day",
+   "system": "Egypt Post new postcode system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt Post new postcode system",
+   "country_label": "Egypt",
+   "class": "address",
+   "platform": "",
+   "owner": "Egypt Post",
+   "tiers": "7-digit code per group of buildings"
+  }
+ ],
+ "note": ""
+}

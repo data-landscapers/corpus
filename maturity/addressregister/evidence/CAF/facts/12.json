@@ -1,0 +1,26 @@
+{
+ "slug": "2015-11-16-caf-aimf-adressage-recettes-bangui",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "An AIMF project co-financed by the EU, running 2011-2016 with EUR 1.5m, includes addressing in Bangui: address cells, an address plan, door numbering, an address file and street signs, linked to a census of taxable activities.",
+   "as_of": "2015-11-16",
+   "date_precision": "day",
+   "system": "AIMF-EU addressing and revenue project",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AIMF-EU addressing and revenue project",
+   "country_label": "Central African Republic",
+   "class": "address",
+   "platform": "",
+   "owner": "AIMF with Mairie de Bangui",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-05-01-zmb-ungegn-national-report-addressing",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Zambia's national report to UNGEGN says ZICTA's National Addressing and Postcode Project is naming streets, installing signage and building a GIS address database with local authorities, with streets named systematically in some neighbourhoods, while no national addressing policy has been approved.",
+   "as_of": "2023-05-01",
+   "date_precision": "day",
+   "system": "National Addressing and Postcode Project",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Addressing and Postcode Project",
+   "country_label": "Zambia",
+   "class": "address",
+   "platform": "public web-based address database",
+   "owner": "ZICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

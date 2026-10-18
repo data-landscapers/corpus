@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-08-civ-fratmat-base-donnees-adresses",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Ministry of Construction, Housing and Urban Planning says the Abidjan street addressing project met on 4-5 April 2024 to begin effective implementation of the address database, presented as the official address reference.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Abidjan street addressing project address database",
+   "class": "address"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

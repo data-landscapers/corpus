@@ -1,0 +1,26 @@
+{
+ "slug": "2022-12-01-tun-thd-registre-national-des-adresses",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The communication-technologies minister said the national address register is being set up with La Poste tunisienne, letting citizens update addresses and administrations consult them (THD).",
+   "as_of": "2022-11-30",
+   "date_precision": "day",
+   "system": "registre national des adresses",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "registre national des adresses",
+   "country_label": "Tunisia",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies with La Poste tunisienne",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The DIAL case study lists an \"emerging digital address system\" among the public data systems in The Gambia's governance of the rental tax compliance system.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "digital address system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital address system",
+   "country_label": "emerging digital address system",
+   "class": "address",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

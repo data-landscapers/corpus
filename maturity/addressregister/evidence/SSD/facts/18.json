@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-25-ssd-onecitizen-juba-geographic-addressing",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "South Sudan's Ministry of ICT and Postal Services announced on 22 November 2024 an aerial survey and base mapping of Juba City and County, to be done in 2025, to produce maps for establishing a Geographic Addressing System, with Juba selected as the pilot area.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "Geographic Addressing System",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Geographic Addressing System",
+   "country_label": "South Sudan",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministry of ICT and Postal Services",
+   "tiers": "Juba City and County pilot"
+  }
+ ],
+ "note": ""
+}

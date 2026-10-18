@@ -1,0 +1,26 @@
+{
+ "slug": "2019-03-15-gnb-odemocrata-bissau-placas-nomes-ruas",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Lusa reports the Bissau city council began a project to put street names and house numbers across the city on 15 March 2019, the mayor saying Bissau has no addresses at present.",
+   "as_of": "2019-03-15",
+   "date_precision": "day",
+   "system": "Bissau street-name and house-number project",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bissau street-name and house-number project",
+   "country_label": "Guinea-Bissau",
+   "class": "address",
+   "platform": "",
+   "owner": "Câmara Municipal de Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2014-01-28-som-hiiraan-mogadishu-house-numbering",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Mogadishu's mayor inaugurated a 'House numbering and post code system' for the capital, sponsored by the Benadir Regional Administration and Somali business communities, with property registration said to have started; no start date was given.",
+   "as_of": "2014-01-26",
+   "date_precision": "day",
+   "system": "House numbering and post code system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "House numbering and post code system",
+   "country_label": "Somalia",
+   "class": "address",
+   "platform": "",
+   "owner": "Benadir Regional Administration",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

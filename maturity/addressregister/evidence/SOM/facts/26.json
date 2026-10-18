@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-22-som-cbc-karaar-digital-address-pilots",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "CBC reports that Edmonton-based Karaar Digital Address has run multiple test pilots of a digital system assigning verifiable addresses to properties in Somalia, including in Merca, and has signed memorandums of understanding with four states and regions.",
+   "as_of": "2024-12-22",
+   "date_precision": "day",
+   "system": "Karaar Digital Address",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Karaar Digital Address",
+   "country_label": "Karaar Digital Address (KDA) pilots",
+   "class": "address",
+   "platform": "digital address system",
+   "owner": "Karaar Digital Address (Edmonton-based startup)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

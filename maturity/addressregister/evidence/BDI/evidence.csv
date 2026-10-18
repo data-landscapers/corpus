@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,address,addressing,underway,The Second Vice-President of Burundi lists the addressing of the city of Bujumbura among the datasets now held in the national spatial data infrastructure (INDS).,2017-03-13,day,INDS (Infrastructure Nationale de données spatiales),address,2017-03-13-bdi-spbcg-inds-adressage-bujumbura,https://sp-bcg.gov.bi/index.php/publications/actualites/127-les-producteurs-des-donnees-sig-sectoriels-sont-les-premiers-a-alimenter-l-inds-du-burundi

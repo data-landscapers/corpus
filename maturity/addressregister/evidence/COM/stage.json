@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "no evidence",
-   "addressing": "",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names an addressing system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "1",
+      "addressing": "none",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source held since October 2023 says: is an addressing system under way.",
+      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

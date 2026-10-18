@@ -23,10 +23,10 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 | 5 Leading | 4 |
 | 4 Operating | 1 |
 | 3 Established | 3 |
-| 2 Nascent | 19 |
-| 1 Absent | 2 |
-| Unplaced | 0 |
-| No evidence | 25 |
+| 2 Nascent | 24 |
+| 1 Absent | 3 |
+| Unplaced | 12 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -115,12 +115,25 @@ An addressing system was under way in 2024; none in service is on record.
 
 - ARPCE's postal regulation director reported progress on the national digital addressing platform, provisionally named Système de localisation mixte, which was demonstrated at a steering committee meeting on 9 October 2024 ahead of a final presentation to the authorities in November ([source, 2024-10-09](https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394)).
 
+### Cote d'Ivoire: 2 Nascent
+
+An addressing system was under way in 2025; none in service is on record.
+
+- The director of addressing at the Ministry of Construction, Housing and Urban Planning said on 30 September 2025 that addressing of the Abidjan district (about 17,000 roads identified, 500,000 entities to receive addresses, FCFA 12bn project financed by the World Bank and the State) is due to finish on 31 December 2025 and is being duplicated nationally, with about fifteen cities to be addressed by 2030 ([source, 2025-09-30](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre)).
+- The Ministry of Construction, Housing and Urban Planning says the Abidjan street addressing project met on 4-5 April 2024 to begin effective implementation of the address database, presented as the official address reference ([source, 2024-04](https://www.fratmat.info/article/238834/economie/adressage-des-rues-consolidation-de-la-base-de-donnees-dadresses)).
+
 ### Eswatini: 2 Nascent
 
 An addressing system was under way in 2026; none in service is on record.
 
 - Matsapha became the first municipality to roll out the National Postcode and Addressing Project, giving each property a formal address, with street sign installation due within eight weeks, per ESCCOM and the Matsapha town planner ([source, 2026-09-11](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/)).
 - The Municipal Council of Mbabane says it is leading implementation of the National Street Addressing and House Numbering Programme, a pilot launched by a partnership signed by the Ministers of Housing and Urban Development and of ICT ([source, 2026-07-23](https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq)).
+
+### Gabon: 2 Nascent
+
+An addressing system was under way in 2025; none in service is on record.
+
+- Libreville's municipal street naming and door numbering, halted at the end of 2021, has resumed, with 5,000 of 60,000 door numbers placed, funded by AIMF and the EU ([source, 2025-03](https://gabonmediatime.com/libreville-reprise-de-loperation-dadressage/)).
 
 ### Guinea: 2 Nascent
 
@@ -177,6 +190,13 @@ An addressing system was under way in 2026; none in service is on record.
 
 - CRAN's Chief Executive Emilia Nghikembua says the development of a National Addressing System, alongside integrating ICT variables into national surveys, will improve service delivery, in the context of the CRAN-NSA data-sharing MoU ([source, 2026-04-27](https://economist.com.na/106279/general-news/communications-regulator-and-nsa-sign-landmark-agreement-to-bolster-national-data-integrity/)).
 
+### Niger: 2 Nascent
+
+An addressing system was under way in 2026; none in service is on record.
+
+- The Agence de Modernisation des Villes says its Niamey addressing geoportal, built by GéoMinds Africa with city-validated data, references 3,500+ streets of the capital, to modernise the traditional addressing system ([source, 2026-10-17](http://www.modernisation-villes.ne/geoportail/pages/about.html)).
+- The Agence de Modernisation des Villes issued tender notice PI_DG_009, closing 30 June 2025, for updating and extending Niamey's urban addressing system ([source, 2025-06-30](http://www.modernisation-villes.ne/fr/node/110)).
+
 ### Senegal: 2 Nascent
 
 An addressing system was under way in 2026; none in service is on record.
@@ -197,11 +217,30 @@ An addressing system was under way in 2024; none in service is on record.
 
 - Sierra Loaded reports that Google Maps has partnered with the Directorate of Science, Technology and Innovation (DSTI) to digitize physical addresses in Sierra Leone, with a residential digitized address system described as forthcoming ([source, 2024](https://sierraloaded.sl/technology/google-maps-dsti-digitize-physical-addresses-sierra-leone/)).
 
+### Somalia: 2 Nascent
+
+An addressing system was under way in 2024; none in service is on record.
+
+- CBC reports that Edmonton-based Karaar Digital Address has run multiple test pilots of a digital system assigning verifiable addresses to properties in Somalia, including in Merca, and has signed memorandums of understanding with four states and regions ([source, 2024-12-22](https://www.cbc.ca/news/canada/edmonton/edmonton-somalia-business-innovation-remittance-1.7417321)).
+- Somalia's Minister of Communications announced on 25 June 2024 the launch of the Somali Postal Service with a modern Digital Addressing System, with no coverage or use stated ([source, 2024-06-25](https://moct.gov.so/en/the-east-african-community-conference-eacon-2024/)).
+
+### South Sudan: 2 Nascent
+
+An addressing system was under way in 2024; none in service is on record.
+
+- South Sudan's Ministry of ICT and Postal Services announced on 22 November 2024 an aerial survey and base mapping of Juba City and County, to be done in 2025, to produce maps for establishing a Geographic Addressing System, with Juba selected as the pilot area ([source, 2024-11-22](https://www.onecitizendaily.com/index.php/2024/11/25/govt-to-carry-out-aerial-survey-base-mapping-in-juba/)).
+
 ### Togo: 2 Nascent
 
 An addressing system was under way in 2025; none in service is on record.
 
 - The Togolese government has launched urban addressing modernisation starting with Greater Lome (DAGL), building databases of coded and named roads and address points, with signage plaques and certification of doors, per the republicoftogo.com report ([source, 2025-12-18](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation)).
+
+### Comoros: 1 Absent
+
+A 2024 source says there is no national addressing system.
+
+- Comores Infos reports that the Comoros has neither postcodes nor precise methods to locate places or deliver mail, i.e. no structured addressing system, while the telecoms minister only pledges to introduce postcodes ([source, 2024-08-25](https://www.comoresinfos.net/le-ministre-des-telecommunications-envisage-dinstaurer-des-codes-postaux-aux-comores-pour-favoriser-le-developpement/)).
 
 ### Lesotho: 1 Absent
 
@@ -215,49 +254,79 @@ A 2026 source says there is no national addressing system.
 
 - The Conversation authors state South Africa's addressing system is still not in place and there is still no authoritative register of addresses, with unclear responsibility for address data governance ([source, 2026-01-08](https://theconversation.com/south-africas-addressing-system-is-still-not-in-place-a-clear-vision-is-needed-268135)).
 
-### Angola: No evidence
+### Angola: Unplaced
 
-Nothing held names a national addressing system or says there is none, so no stage is set.
+Nothing held since 2023 names a national addressing system, so no stage is set.
 
-Not established: Nothing held names an addressing system, or says there is none.
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
-### Burundi: No evidence
+### Burundi: Unplaced
 
-Nothing held names a national addressing system or says there is none, so no stage is set.
+Nothing held since 2023 names a national addressing system, so no stage is set.
 
-Not established: Nothing held names an addressing system, or says there is none.
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
-### Central African Republic: No evidence
+### Central African Republic: Unplaced
 
-Nothing held names a national addressing system or says there is none, so no stage is set.
+Nothing held since 2023 names a national addressing system, so no stage is set.
 
-Not established: Nothing held names an addressing system, or says there is none.
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
-### Comoros: No evidence
+### Djibouti: Unplaced
 
-Nothing held names a national addressing system or says there is none, so no stage is set.
+Nothing held since 2023 names a national addressing system, so no stage is set.
 
-Not established: Nothing held names an addressing system, or says there is none.
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
-### Cote d'Ivoire: No evidence
+### Egypt: Unplaced
 
-Nothing held names a national addressing system or says there is none, so no stage is set.
+Nothing held since 2023 names a national addressing system, so no stage is set.
 
-Not established: Nothing held names an addressing system, or says there is none.
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Guinea-Bissau: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Mauritius: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Rwanda: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Sudan: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Tunisia: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Uganda: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
+
+### Zambia: Unplaced
+
+Nothing held since 2023 names a national addressing system, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
 ### DR Congo: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Djibouti: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Egypt: No evidence
 
 Nothing held names a national addressing system or says there is none, so no stage is set.
 
@@ -275,25 +344,7 @@ Nothing held names a national addressing system or says there is none, so no sta
 
 Not established: Nothing held names an addressing system, or says there is none.
 
-### Gabon: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Guinea-Bissau: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
 ### Madagascar: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Mauritius: No evidence
 
 Nothing held names a national addressing system or says there is none, so no stage is set.
 
@@ -305,55 +356,7 @@ Nothing held names a national addressing system or says there is none, so no sta
 
 Not established: Nothing held names an addressing system, or says there is none.
 
-### Niger: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Rwanda: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
 ### Sao Tome and Principe: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Somalia: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### South Sudan: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Sudan: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Tunisia: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Uganda: No evidence
-
-Nothing held names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing held names an addressing system, or says there is none.
-
-### Zambia: No evidence
 
 Nothing held names a national addressing system or says there is none, so no stage is set.
 

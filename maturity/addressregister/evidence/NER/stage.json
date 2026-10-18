@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "no evidence",
-   "addressing": "",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names an addressing system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-002;NER-001",
+      "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
+      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
+      "as_at": "2026-10-18"
+    }
+  ]
 }

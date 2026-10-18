@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,Master Health Facility List,Somalia,other,,Federal Ministry of Health,,2026-08-23-who-emro-somalia-health-facility-registry
+SOM,Karaar Digital Address,Karaar Digital Address (KDA) pilots,address,digital address system,Karaar Digital Address (Edmonton-based startup),,2024-12-22-som-cbc-karaar-digital-address-pilots
+SOM,Digital Addressing System,Somalia,address,,Somali Postal Service / Ministry of Communications and Technology,,2024-06-24-som-moct-eacon-digital-addressing
+SOM,House numbering and post code system,Somalia,address,,Benadir Regional Administration,city,2014-01-28-som-hiiraan-mogadishu-house-numbering

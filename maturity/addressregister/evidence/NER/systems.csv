@@ -1,1 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+NER,système d'adressage urbain de Niamey,Niger,address,,Agence de Modernisation des Villes,,2025-06-30-ner-amv-actualisation-plan-adressage-niamey
+NER,Géoportail d'Adressage de Niamey,Géoportail de Niamey,address,web geoportal,Agence de Modernisation des Villes (AMV),city (Niamey),2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos

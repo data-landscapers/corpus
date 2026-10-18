@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNB-001,GNB,address,addressing,underway,"Lusa reports the Bissau city council began a project to put street names and house numbers across the city on 15 March 2019, the mayor saying Bissau has no addresses at present.",2019-03-15,day,Bissau street-name and house-number project,address,2019-03-15-gnb-odemocrata-bissau-placas-nomes-ruas,https://www.odemocratagb.com/?p=19983

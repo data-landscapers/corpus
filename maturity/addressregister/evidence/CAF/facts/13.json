@@ -1,0 +1,26 @@
+{
+ "slug": "2012-04-15-caf-rnl-bangui-adressage-lance",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Bangui municipality launched a street naming and house numbering project on 14 April 2012, piloted in the 6th arrondissement, co-funded by the European Union and AIMF over 36 months.",
+   "as_of": "2012-04-14",
+   "date_precision": "day",
+   "system": "Bangui adressage project",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bangui adressage project",
+   "country_label": "Central African Republic",
+   "class": "address",
+   "platform": "",
+   "owner": "Mairie de Bangui",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

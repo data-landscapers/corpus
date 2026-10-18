@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,address,addressing,inservice,"what3words says Djibouti Post adopted its three-word addressing as an addressing standard, and that every location in Djibouti now has an instant address.",2017-02-14,day,what3words,address,2017-02-14-dji-what3words-djibouti-post-addressing,https://what3words.com/news/government/djibouti-post
+DJI-002,DJI,address,national,nationwide,"what3words and Djibouti Post's CEO say every place in the country, from Balbala to Obock and Assa Geyla, now has a fixed address under the system.",2017-02-14,day,what3words,address,2017-02-14-dji-what3words-djibouti-post-addressing,https://what3words.com/news/government/djibouti-post

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Agence de Modernisation des Villes says its Niamey addressing geoportal, built by GéoMinds Africa with city-validated data, references 3,500+ streets of the capital, to modernise the traditional addressing system.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "Géoportail d'Adressage de Niamey",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Géoportail d'Adressage de Niamey",
+   "country_label": "Géoportail de Niamey",
+   "class": "address",
+   "platform": "web geoportal",
+   "owner": "Agence de Modernisation des Villes (AMV)",
+   "tiers": "city (Niamey)"
+  }
+ ],
+ "note": ""
+}
