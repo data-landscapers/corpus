@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-19 22:31 · **ANALYTICS** · unclocked · 2026-10-17..2026-10-18 written; 18 Oct: dl.io 30 views / 0 clicks, corpus 148 views / 3 clicks
 2026-10-19 16:03 · **RENDER** · 5m · maturity+methodology only: admindata restaged on Bill's ruling (a named source is not administrative data), 26 maturity editions cut, deployed 50346c5 — ok
 2026-10-19 15:30 · **RENDER** · 19m · reports+home+countries+catalogue+maturity rendered (207 reports, 0 failed; 65 editions pruned), deployed d78946e — ok
 2026-10-19 13:10 · **REBUILD** · 36m · admindata admin: 47 cells reassessed on the 2026-10-19 ladder, 29 moved; 54 searched, 204 staged; 59 held documents read; 114.6M tokens — ok
