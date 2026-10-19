@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: SDN
 ledger_rows: 29
 not_held: 5
-record: 101b5661bb25
+record: 1b7f69f915a5
 ---
 
 # News, Sep – Oct 2026
@@ -122,7 +122,7 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 
 **[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026
 
-Chaired by assistant attorney general; mandate to monitor social media and sue on the state's behalf.
+Sudan's prime minister issued a decision on 19 October 2026 forming a National Mechanism to Combat Informatics Crimes, chaired by an assistant attorney general. It is tasked with combating cybercrime and publications deemed harmful to the state and society, monitoring media and social platforms, and taking preventive and legal action, including lawsuits on the state's behalf.
 
 </div>
 
@@ -392,7 +392,7 @@ Sudan's Ministry of Digital Transformation and Communications added three servic
 
 **[تعطل شبه كامل في المسجل التجاري بسبب خلل في منصة 'بلدنا' | فجر السودان - من قلب الحدث](https://sudandawn.com/?p=22515)** — فجر السودان, 18 October 2026
 
-Company and business-name filings stalled over a week by platform fault; lawyers demand urgent and lasting fix.
+Sudan's commercial registry has been almost entirely stalled for more than a week by a technical fault on the Baladna platform, which handles company and business-name filings, Sudan Dawn reported on 18 October 2026. Lawyers report a backlog of files and are calling for urgent intervention and a permanent fix.
 
 </div>
 

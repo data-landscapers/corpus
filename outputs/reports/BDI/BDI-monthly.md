@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: BDI
 ledger_rows: 16
 not_held: 10
-record: e852949cb035
+record: 10f387bf459f
 ---
 
 # News, Sep – Oct 2026
@@ -310,7 +310,7 @@ Burundi presented the ambitions of its national artificial intelligence strategy
 
 **[La Primature lance officiellement les activités du Recensement Général des Entreprises du Burundi, édition 2026](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/)** — Primature du Burundi, 15 October 2026
 
-Enterprise census of formal and informal firms opened 15 Oct 2026; updates national register, rebases accounts.
+Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on 15 October 2026 to count formal and informal enterprises nationwide. The data will update the national enterprise register and feed the rebasing of the national accounts, and will be covered by statistical secrecy and barred from use in tax control or judicial investigation.
 
 </div>
 

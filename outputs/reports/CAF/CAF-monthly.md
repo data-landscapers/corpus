@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: CAF
 ledger_rows: 20
 not_held: 5
-record: 17e9a9bbae98
+record: d0676032ffdc
 ---
 
 # News, Sep – Oct 2026
@@ -236,7 +236,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Avis d'appel d'offres N°015/MFB/PGNSP/COORDO/SPM/26 — Appui au développement des points de services mobile money dans les localités de l'intérieur de la République Centrafricaine (World Bank notice OP00475730)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475730)** — World Bank (procurement notice, borrower: Ministère des Finances et du Budget, République Centrafricaine), 16 October 2026
 
-PGNSP goods tender for mobile-money agent points in CAR's interior; IDA 9950-CF, bids due 13 Nov 2026, est. USD 200,000.
+A World Bank procurement notice dated 16 October 2026 invites bids for kits to set up mobile-money agent points in the interior of the Central African Republic. The goods tender, under the Public Sector Digital Governance Project, has an estimated value of USD 200,000 and a bid deadline of 13 November 2026.
 
 </div>
 
@@ -244,7 +244,7 @@ PGNSP goods tender for mobile-money agent points in CAR's interior; IDA 9950-CF,
 
 **[Open tender — CAR- Public Sector Digital Governance Project: Acquisition des Kits pour la mise en place d'agent de monnaie mobile — for Central African Republic by WB in ICT & Telecommunications sector —](https://www.developmentaid.org/tenders/view/1732706/car-public-sector-digital-governance-project-acquisition-des-kits-pour-la-mise-en-place-dagent-de-mo)** — DevelopmentAid, 19 October 2026
 
-World Bank P174620 invitation for bids OP00475730, posted 19 Oct 2026; no value, quantity or deadline listed.
+The Central African Republic opened an invitation for bids on 19 October 2026 for goods: kits to set up mobile money agents. The tender falls under the World Bank-financed Public Sector Digital Governance Project. No budget is stated and no award has been made.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: COD
 ledger_rows: 60
 not_held: 7
-record: 46d1879f2427
+record: 1c798564ef95
 ---
 
 # News, Sep – Oct 2026
@@ -1026,7 +1026,7 @@ Two DRC ministers, Patrick Muyaya and Guylain Nyembo, said on 30 September 2026 
 
 **[RDC : l’annuaire statistique scolaire 2023-2024 désormais accessible au public](https://congojournal.com/articles/5462/rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-public)** — BETO (Beto.cd), republished by CongoJournal, 3 October 2026
 
-Education ministry posts 2023-2024 school statistics yearbook online, 3 October 2026, validated June 2026.
+The Democratic Republic of the Congo's education ministry put its school statistics yearbook for 2023-2024 online on 3 October 2026, after validating it on 5 June 2026. It covers schools, classes, pupils, teachers, staff and infrastructure for pre-primary, primary and secondary education, and applies only to that school year.
 
 </div>
 

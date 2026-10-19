@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: DZA
 ledger_rows: 41
 not_held: 5
-record: 8edaa2932ff7
+record: e98b2fb435c5
 ---
 
 # News, Sep – Oct 2026
@@ -718,7 +718,7 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 
 **[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026
 
-Company co-funding for GPUs, joint framework to draft a 2030 HPC and AI roadmap; diaspora recruitment.
+Algeria's higher-education ministry agreed on 19 October 2026 with public and private companies to set up a joint framework for drafting a 2030 roadmap to finance GPU-based high-performance computing and AI research capacity. Its four aims are company co-funding of GPUs, research steered to economic needs, a stronger national AI and data centre, and recruiting diaspora talent.
 
 </div>
 

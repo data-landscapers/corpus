@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: GHA
 ledger_rows: 109
 not_held: 9
-record: 2f4a840e06e0
+record: db184314d81f
 ---
 
 # News, Sep – Oct 2026
@@ -160,7 +160,7 @@ Ghana's communications minister said Parliament has passed the legislative instr
 
 **[Ghana's Biometric SIM Plan Fixes the Right Gap, but the Data Safeguards Must Be Written Into the Rules](https://peopleofinternet.com/articles/ghana-s-biometric-sim-plan-fixes-the-right-gap-but-the-data.html)** — People of Internet, 18 October 2026
 
-Case for legacy-data purge, match-only queries, warrants for police access and fallback for failed reads.
+In an unsigned analysis, the outlet People of Internet argues that Ghana's plan to add biometric checks to SIM registration addresses a real gap but needs data safeguards written into the rules. It calls for purging legacy data, match-only queries, warrants for police access and a fallback when biometric reads fail. It draws on the communications minister's 7 September 2026 statement.
 
 </div>
 
@@ -368,7 +368,7 @@ Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo D
 
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
+Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: CIV
 ledger_rows: 45
 not_held: 10
-record: e2fea64f1035
+record: d0da7917fa0b
 ---
 
 # News, Sep – Oct 2026
@@ -642,7 +642,7 @@ Côte d'Ivoire's World Bank-funded PAGDS project, approved in April 2019, report
 
 **[Côte d'Ivoire | Administration : Ouattara fixe le cap d'une économie numérique d'ici 2029](https://afrimag.net/cote-divoire-administration-ouattara-fixe-le-cap-dune-economie-numerique-dici-2029/)** — Afrimag, 16 October 2026
 
-PAGDS USD 195m, 23 platforms, phase 1 closed June 2026; hospital IS in 268 facilities; CGECI briefed 15 Sep.
+Afrimag reported on Côte d'Ivoire's digital administration plans to 2029. It cites a USD 195 million government digital services programme with 23 platforms, whose first phase closed in June 2026, and health information systems in 268 facilities. The figures are the outlet's own and are not sourced.
 
 </div>
 

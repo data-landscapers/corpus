@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: SYC
 ledger_rows: 13
 not_held: 6
-record: ca0f3affb34a
+record: 366ed578fbc3
 ---
 
 # News, Sep – Oct 2026
@@ -122,7 +122,7 @@ Seychelles' Department of Information Communications Technology sets out the man
 
 **[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026
 
-SCR325m digitalisation allocation 2026-28; FreeBalance lead consultant; contract December 2024; IMF had projected 2026.
+Seychelles plans to begin implementing a digital human resource management system in 2027, Vice-President Sebastien Pillay announced after meeting Canadian vendor FreeBalance at State House on 14 October 2026. The system would cover employee records, payroll, performance management and workforce analytics. Pillay said technology alone would not improve efficiency unless administrative procedures are also reviewed.
 
 </div>
 

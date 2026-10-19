@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: SWZ
 ledger_rows: 41
 not_held: 3
-record: 5c0de066dd11
+record: 3b55434f4100
 ---
 
 # News, Sep – Oct 2026
@@ -500,7 +500,7 @@ An outage of Eswatini government digital services has stopped new loans to civil
 
 **[ESWATINI TURNS TO DIGITAL HEALTH SYSTEMS TO IMPROVE HEALTHCARE DELIVERY](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/)** — Eswatini Positive News, 17 October 2026
 
-Minister's clinic visit; eLMIS and CMIS in 250 facilities, interoperable, patients keyed to national ID numbers.
+Eswatini's health minister visited Hhukwini Clinic to review the eLMIS and CMIS digital health systems, which the ministry runs in 250 health facilities. The systems are interoperable and use national identity numbers to identify patients, according to Eswatini Positive News.
 
 </div>
 
@@ -588,7 +588,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026
 
-Proposed mobile AI services-and-payments platform, no start date; skills targets 300,000 via UAE, 200,000 via World Bank.
+Eswatini's ICT ministry presented a proposed platform for reaching government services and payments by mobile device at the Global AI & Digital Summit in Seoul on 19 October 2026. No implementation date was announced. The ministry also cited digital-skills targets of 300,000 citizens through a UAE partnership and 200,000 through a World Bank-supported initiative.
 
 </div>
 

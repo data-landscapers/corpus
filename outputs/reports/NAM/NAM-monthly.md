@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: NAM
 ledger_rows: 38
 not_held: 10
-record: 005d6798b086
+record: 220b5ce657ef
 ---
 
 # News, Sep – Oct 2026
@@ -500,7 +500,7 @@ The Namibia Statistics Agency and the Ministry of Justice and Labour Relations l
 
 **[NamPol pushes for digital investment ….ICT overhaul to modernise services](https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/)** — New Era, 16 October 2026
 
-E-Policing System of 11 databases incl. N-ABIS to be upgraded; no budget or timetable disclosed.
+The Namibian Police has begun overhauling its E-Policing System after slow processing and intermittent interruptions, Acting Inspector-General Anne-Marie Nainda told New Era. The system, in use since 2014, spans 11 national databases including the N-ABIS fingerprint system, and no budget or timetable has been disclosed.
 
 </div>
 

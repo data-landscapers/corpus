@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: UGA
 ledger_rows: 69
 not_held: 11
-record: 33bc3ac7e2d9
+record: 79d0012bc227
 ---
 
 # News, Sep – Oct 2026
@@ -550,7 +550,7 @@ The Uganda Revenue Authority is moving to the National Identification Number as 
 
 **[More than 3mn tax records await NIN match before login switch](https://ugbusiness.com/2026/10/economy/more-than-3m-tax-records-await-nin-match-before-login-switch)** — Uganda Business News, 17 October 2026
 
-2.13m of 5.41m records NIN-linked by 30 Sep 2026; 3.27m unmatched; NIN login from 1 Jan 2027 for linked accounts.
+Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual taxpayer records to National Identification Numbers by 30 September 2026, leaving about 3.27 million unmatched, the finance ministry told Parliament. Taxpayers with linked records are due to log in with their NIN from 1 January 2027, and no end date has been set for TIN logins.
 
 </div>
 

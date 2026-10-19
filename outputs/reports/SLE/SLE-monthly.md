@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: SLE
 ledger_rows: 34
 not_held: 4
-record: cc7dbb9d6d24
+record: b7ccbc3d9159
 ---
 
 # News, Sep – Oct 2026
@@ -686,7 +686,7 @@ Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Cens
 
 **[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
 
-Mock-census enumeration at Hill Station tests digital collection ahead of December 2026 count; UNFPA support.
+Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
 
 </div>
 

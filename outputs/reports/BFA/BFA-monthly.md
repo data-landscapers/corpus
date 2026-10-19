@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: BFA
 ledger_rows: 40
 not_held: 7
-record: 2193af8fc2e2
+record: 188b6ba8a0ad
 ---
 
 # News, Sep – Oct 2026
@@ -674,7 +674,7 @@ Burkina Faso's national digital event returns for a second edition from 17 to 24
 
 **[Le Faso Digital 2026 : 201 solutions innovantes pour bâtir la souveraineté et l’inclusion numérique au Burkina Faso](https://digitalmagazine.bf/2026/10/18/le-faso-digital-2026-201-solutions-innovantes-pour-batir-la-souverainete-et-linclusion-numerique-au-burkina-faso/)** — Digital Magazine BF, 18 October 2026
 
-Virtual fair opened 17 Oct 2026 with 201 solutions from 208 entries; Rwanda guest of honour.
+Burkina Faso's virtual Faso Digital 2026 fair opened on 17 October 2026 with 201 solutions, selected from 208 entries in its innovation competition. Rwanda is guest of honour, according to Digital Magazine BF.
 
 </div>
 

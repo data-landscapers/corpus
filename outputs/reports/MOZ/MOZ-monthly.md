@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: MOZ
 ledger_rows: 43
 not_held: 18
-record: e3a7ac2231ab
+record: e35e87b9ae83
 ---
 
 # News, Sep – Oct 2026
@@ -814,7 +814,7 @@ President Daniel Chapo opened Centro Pronto in Maputo on 14 October, a centre th
 
 **[Governo Digitaliza Serviços de Identificação e Reduz Burocracia](https://bnews.co.mz/artigo/governo-digitaliza-servi-os-de-identifica-o-e-reduz-burocracia)** — BNEWS, 16 October 2026
 
-ATDI and India's VFS Global build the Maputo one-stop ID centre; Beira and Nampula next, diaspora later.
+Mozambique's digital transformation agency ATDI opened the Centro Pronto service centre in Maputo in October 2026, built with India's VFS Global. It combines an online portal, self-service kiosks and assisted counters, initially for passports, identity cards, driving licences and foreigners' residence documents.
 
 </div>
 
@@ -822,7 +822,7 @@ ATDI and India's VFS Global build the Maputo one-stop ID centre; Beira and Nampu
 
 **[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026
 
-Centre fee plus VAT lifts an adult ID renewal from MZN 160 to MZN 1,058; passport express MZN 10,725.
+Fees at Mozambique's new Centro Pronto document centre have drawn public anger, as the private centre adds its own fee and 16% VAT to the state fee. An adult identity-card renewal costs MZN 1,058.12 in total, of which the state fee is MZN 160. A driving-licence renewal costs MZN 5,201.84 and an express passport renewal MZN 10,725.10.
 
 </div>
 

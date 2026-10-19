@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: NGA
 ledger_rows: 158
 not_held: 9
-record: 1141801870d7
+record: de166be8efab
 ---
 
 # News, Sep – Oct 2026
@@ -136,7 +136,7 @@ President Bola Tinubu has approved a renewed National Strategy on Public Service
 
 **[NCC Launches Internet Governance Working Group to Strengthen Online Safety and AI Accountability](https://ncc.gov.ng/node/7467)** — Nigerian Communications Commission, 18 October 2026
 
-NCC's own release: inaugural symposium, Lagos, 15 Oct 2026; ICOP 2026 and sector Cyber Resilience Framework cited.
+The Nigerian Communications Commission launched an Internet Governance Working Group at its first Internet Governance Symposium, held in Lagos on 15 October 2026. The commission called for wider cooperation on artificial intelligence, online fraud, privacy and child protection, and cited its Internet Code of Practice 2026 and a cyber resilience framework for the sector.
 
 </div>
 
@@ -1454,7 +1454,7 @@ Nigeria's identity agency NIMC said the national identity database is hosted who
 
 **[Nigerian Government Integrates Over 15 Million Migration Records - Voice of Nigeria](https://von.gov.ng/nigerian-government-integrates-over-15-million-migration-records/)** — Voice of Nigeria, 17 October 2026
 
-BCIMS absorbs MIDAS; CMAS links immigration, corrections, fire service; 8PB+ data centre; 87 officers trained.
+Nigeria's Border Control and Immigration Management System now holds more than 15 million migration records after integrating the earlier MIDAS system, Interior Minister Olubunmi Tunji-Ojo and Immigration Comptroller-General Kemi Nandap said in Abuja. They also described a system linking data across interior agencies and a data centre of more than eight petabytes.
 
 </div>
 

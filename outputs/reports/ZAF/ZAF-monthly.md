@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: ZAF
 ledger_rows: 150
 not_held: 21
-record: 8f3d925998f4
+record: 5267c5fe87fc
 ---
 
 # News, Sep – Oct 2026
@@ -2026,7 +2026,7 @@ South African MPs found self-service kiosks that Home Affairs bought under a 202
 
 **[BMA vehicle crime crackdown shifts into digital gear](https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew)** — ITWeb South Africa, 19 October 2026
 
-Number-plate cameras at six land ports; 83 vehicles worth R46.6m recovered in six months; data stays with the state.
+South Africa's Border Management Authority launched its Vehicle Targeting System at Lebombo Port of Entry on 18 October 2026. It reports 83 vehicles worth R46.6 million recovered in the six months since the system went live at land ports on 1 April 2026, with rollout to eight land ports planned by the end of February 2027.
 
 </div>
 

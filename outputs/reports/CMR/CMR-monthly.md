@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: CMR
 ledger_rows: 36
 not_held: 4
-record: 0abc6d24d72d
+record: 7323a36fed5e
 ---
 
 # News, Sep – Oct 2026
@@ -284,7 +284,7 @@ CAMTEL and the state housing developer SIC signed a framework agreement in Yaoun
 
 **[Camtel, Socadel explore infrastructure sharing deal](https://www.itweb.africa/article/camtel-socadel-explore-infrastructure-sharing-deal/Olx4z7kaBQmq56km)** — ITWeb Africa, 19 October 2026
 
-MoU signed 16 Oct 2026 in Yaoundé: fibre on power poles; feasibility studies and pilot sites next.
+Cameroon's Camtel and electricity utility Socadel signed a memorandum of understanding in Yaoundé on 16 October 2026 to study infrastructure sharing. It would pair Camtel's national fibre backbone with Socadel's poles and rights-of-way to extend fibre along overhead power lines. Feasibility studies and pilot sites come next.
 
 </div>
 

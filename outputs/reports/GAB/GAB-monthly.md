@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: GAB
 ledger_rows: 52
 not_held: 13
-record: fc49d05e9b13
+record: 0baaab4fce84
 ---
 
 # News, Sep – Oct 2026
@@ -126,7 +126,7 @@ Gabon began a validation review of draft legal texts for digital transformation 
 
 **[Gabon : amendes jusqu'à 50 millions et peines de prison pour les abus commis sur les réseaux sociaux](https://gabonmediatime.com/gabon-amendes-jusqua-50-millions-et-peines-de-prison-pour-les-abus-commis-sur-les-reseaux-sociaux/)** — Gabon Media Time, 18 October 2026
 
-Décret 0436/PR of 5 Oct 2026; fines to FCFA 50m, deepfake ban, AI-labelling duty, 72-hour suspensions.
+Gabon promulgated by decree on 5 October 2026 a law ratifying its ordinance on social-network use, Gabon Media Time reported. Hosts or editors who fail to fight illicit content face a year in prison and fines of FCFA 5 million to 50 million, deepfakes are banned, and judges may order platform suspensions of up to 72 hours.
 
 </div>
 
@@ -134,7 +134,7 @@ Décret 0436/PR of 5 Oct 2026; fines to FCFA 50m, deepfake ban, AI-labelling dut
 
 **[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026
 
-Loi n° 003/2026, JO 9 Oct 2026; article 4 identification duty, verification method and NIP use unspecified.
+Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individuals and legal entities using social networks and online platforms to formally identify themselves. Gabon Media Time reports that article 4 does not say what documents are needed, how identity will be checked or how existing accounts are treated. It also does not make the personal identification number mandatory for this purpose.
 
 </div>
 
@@ -834,7 +834,7 @@ Gabon's civil-service ministry reviewed technical preparations for an integrated
 
 **[Gabon/Sécurité alimentaire : l’AGASA lancera la plateforme numérique Nexus le 2 novembre prochain - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-novembre-prochain/)** — Agence Gabonaise de Presse, 19 October 2026
 
-Online approvals, import permits and sanitary certificates from 2 Nov 2026; operators re-register 20-29 Oct.
+Gabon's food safety agency AGASA will launch Nexus, a digital platform for food and plant-health operators, on 2 November 2026. Operators will be able to apply remotely for approvals, import authorisations and health certificates, and track their files. Operators are asked to visit AGASA offices from 20 to 29 October with identity documents to update their data and get login details.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: SOM
 ledger_rows: 20
 not_held: 2
-record: dc6d7cd86d41
+record: 68fa3b067e80
 ---
 
 # News, Sep – Oct 2026
@@ -170,7 +170,7 @@ Somali operator Dalkom offers colocation and hosting in its own data centres in 
 
 **[Request for Expressions of Interest SO-MOCT-FGS-576851-CS-QCBS — Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal (World Bank notice OP00475480)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475480)** — World Bank (procurement notice, borrower: Ministry of Communications and Technology, Federal Republic of Somalia), 16 October 2026
 
-EA-RDIP consultancy for Somalia's API gateway, OAuth/OIDC SSO and trilingual portal; 14 months, EOIs due 29 Oct 2026.
+Somalia's Ministry of Communications and Technology is seeking expressions of interest from consulting firms to design and run a government API gateway, single sign-on and national digital government portal. The World Bank notice of 16 October 2026 falls under the Eastern Africa Regional Digital Integration Project, with responses due 29 October 2026.
 
 </div>
 
@@ -178,7 +178,7 @@ EA-RDIP consultancy for Somalia's API gateway, OAuth/OIDC SSO and trilingual por
 
 **[Open tender — Eastern Africa Regional Digital Integration Project: Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal — for Somalia by WB in Public Sector Governance, ICT & Telecommunications sectors —](https://www.developmentaid.org/tenders/view/1732699/eastern-africa-regional-digital-integration-project-design-deployment-and-operationalization-of-the)** — DevelopmentAid, 19 October 2026
 
-World Bank EARDIP (P176181) call for expressions of interest, notice OP00475480; consulting services.
+Somalia invited expressions of interest on 19 October 2026 for the design, deployment and operation of a government API gateway, a government single sign-on system and a national digital government portal. The work falls under the World Bank-financed Eastern Africa Regional Digital Integration Project.
 
 </div>
 
@@ -280,7 +280,7 @@ Somalia's identity authority is moving to link its registration services to HALM
 
 **[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026
 
-Launch by end-March 2027; about 70 services; national ID the sole credential; NIRA about 2m registered.
+Somalia's Unified Public Service Delivery Center, known as Halmeel, plans to launch a unified digital government services platform by the end of March 2027, starting with about 70 services. The national ID will be the only accepted credential, its director general told Biometric Update. Halmeel, created by Cabinet resolution on 23 April, is integrating with the national ID agency NIRA, which had about 2 million people registered as of October 2026.
 
 </div>
 

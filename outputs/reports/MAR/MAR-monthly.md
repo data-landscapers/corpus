@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: MAR
 ledger_rows: 31
 not_held: 14
-record: 295cb7c0e971
+record: d78cf05b2a1d
 ---
 
 # News, Sep – Oct 2026
@@ -60,7 +60,7 @@ King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artific
 
 **[SM le Roi préside la cérémonie de nomination des membres du nouveau gouvernement](https://www.maroc.ma/fr/actualites/sm-le-roi-preside-la-ceremonie-de-nomination-des-membres-du-nouveau-gouvernement)** — Maroc.ma (Government of Morocco portal), 16 October 2026
 
-Official cabinet list, 16 Oct 2026; Rahhou heads AI and digital ministry, Aicha Guellaa delegated for admin reform.
+King Mohammed VI presided over the swearing-in of Morocco's new government at the Royal Palace in Rabat on 16 October 2026, according to the government portal. Ahmed Rahhou heads the ministry covering artificial intelligence and digital affairs, with Aicha Guellaa as delegated minister for administration reform.
 
 </div>
 

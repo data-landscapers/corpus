@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: TZA
 ledger_rows: 77
 not_held: 5
-record: 6bef2f07ac98
+record: ef0bf1eb7548
 ---
 
 # News, Sep – Oct 2026
@@ -742,7 +742,7 @@ UBA Tanzania has launched cross-border payments over the Pan-African Payment and
 
 **[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Five-year deal; prepaid cards, tokenisation and Pay Local in MoovnPay wallet across Kenya and Tanzania.
+Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 October 2026, to add Mastercard prepaid cards, tokenisation, online acceptance, Pay Local and cross-border transfers to the MoovnPay wallet. Pay Local is to expand across Kenya and Tanzania, and the Shooga prepaid Mastercard portfolio is to launch next.
 
 </div>
 
@@ -1316,7 +1316,7 @@ Tanzania's Universal Communications Service Access Fund said on 5 October 2026 i
 
 **[Statistical Abstract 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)** — National Bureau of Statistics, 1 September 2026
 
-NBS annual compendium of official tables, largely from ministry administrative records, issued September 2026.
+Tanzania's National Bureau of Statistics published the Statistical Abstract 2025 in September 2026. It is an annual compendium of official tables, largely drawn from ministry administrative records.
 
 </div>
 

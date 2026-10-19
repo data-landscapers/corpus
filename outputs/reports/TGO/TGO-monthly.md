@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: TGO
 ledger_rows: 55
 not_held: 18
-record: d9016bc75d65
+record: aee0ab3ef4ab
 ---
 
 # News, Sep – Oct 2026
@@ -1030,7 +1030,7 @@ Togo and China signed thirteen agreements and memoranda in Beijing on 15 October
 
 **[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
 
-Signed 16 Oct 2026 in Shenzhen; energy, smart transport, smart customs; technology transfer; no value stated.
+Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given.
 
 </div>
 

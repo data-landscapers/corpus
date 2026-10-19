@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: LBY
 ledger_rows: 40
 not_held: 4
-record: e3a5a1af582f
+record: c0a537bc2be2
 ---
 
 # News, Sep – Oct 2026
@@ -256,7 +256,7 @@ A tier III design certification is recorded for the Libyan national telecom comp
 
 **[Libya’s O3 Group Unveils Digital Infrastructure Plans After Medusa Cable Landing](https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/)** — TechAfrica News, 19 October 2026
 
-O3 fact sheet of 17 Oct 2026: Tripoli landing next, 12-13k km fibre, 2-5 MW Tier III data centre, 3,200 mobile sites.
+Libya's O3 Group, a private telecoms company founded in 2024 and based in Benghazi, set out its infrastructure plans as the Medusa submarine cable made its first Libyan landing at Benghazi on 17 October 2026. The plans include a 12,000 to 13,000 km national fibre network, a Tier III data centre in Benghazi and a mobile service. A second Medusa landing is planned for Tripoli.
 
 </div>
 

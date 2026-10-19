@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: XAF
 ledger_rows: 106
 not_held: 3
-record: 3404ef19611a
+record: b988d68a7893
 ---
 
 # News, Sep – Oct 2026
@@ -1094,7 +1094,7 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
-Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
+Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
 
 </div>
 

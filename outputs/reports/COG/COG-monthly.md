@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: COG
 ledger_rows: 21
 not_held: 5
-record: 2a046f5a22e8
+record: 11c3d846f974
 ---
 
 # News, Sep – Oct 2026
@@ -246,7 +246,7 @@ The Republic of Congo's deputy prime minister, Jean-Jacques Bouya, and the telec
 
 **[Congo/Télécommunications : L’Arpce présente la 2e édition du Livre blanc et le projet d’adressage postal numérique](https://www.aci.cg/congo-telecommunications-larpce-presente-la-2e-edition-du-livre-blanc-et-le-projet-dadressage-postal-numerique/)** — Agence Congolaise d'Information, 17 October 2026
 
-Internet 57%, mobile money 55.8%, 22 ISPs; sites on grid power 10 hours a day; .cg identity needs local IXPs.
+Congo's communications regulator Arpce presented the second edition of its white paper and a digital postal addressing project on 15 October 2026, the state news agency reported. Figures cited include internet penetration of 57%, mobile money use of 55.8% and 22 internet service providers.
 
 </div>
 
