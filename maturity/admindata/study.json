@@ -73,9 +73,9 @@
    "criteria": [
     "A source from the past three years says no official statistics are drawn from administrative records and no work towards them is under way.",
     "Work is under way to draw statistics from administrative records: a register assessed, staff trained, a data-sharing agreement signed or a pilot, in the past three years. A plan only announced does not count.",
-    "Statistics compiled from administrative records, such as a statistical yearbook or customs trade statistics, have been published in the past three years.",
-    "Vital statistics on births or deaths, compiled from civil registration, have been published in the past three years.",
-    "Vital statistics from civil registration are published every year: reports for two successive years, the later in the past three years."
+    "Statistics derived from at least one administrative data source have been published in the past three years.",
+    "Statistics derived from at least one administrative data source have been published at least twice in the last three years.",
+    "Statistics derived from at least three administrative data sources have been published at least twice in the last three years."
    ],
    "criteria_of": "baad7494566b"
   }

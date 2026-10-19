@@ -2,8 +2,8 @@
 type: task
 reader: cc
 title: maturity-study-admindata.md — official statistics drawn from administrative records, in four questions
-last_reviewed: 2026-10-15
-status: run 2026-10-15; staged, written and on the soft-launch map; waits for Bill's acceptance
+last_reviewed: 2026-10-19
+status: run 2026-10-15; ladder changed 2026-10-19, restaged by that night's rebuild
 ---
 
 # Maturity study: admindata
@@ -30,8 +30,10 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is work under way to draw statistics from administrative records? | A source from the last three years states a register assessed for statistical use, staff trained, a data-sharing agreement between the statistics office and a record-holder, a pilot, or a project funded to that end. A plan only announced is not a yes |
 | 2 | Have statistics compiled from administrative records been published in the last three years? | A yearbook, bulletin, abstract or report of statistics drawn from those records, published since 1 October 2023 |
-| 3 | Have vital statistics from civil registration been published in the last three years? | A report of births or deaths registered, compiled from the civil register, published since 1 October 2023 |
-| 4 | Are those vital statistics published every year? | Reports for two successive years, the later published since 1 October 2023 |
+| 3 | Has one source's statistics been published twice? | Two editions of statistics drawn from the same administrative source, both published since 1 October 2023 |
+| 4 | Have three sources' statistics each been published twice? | Three distinct administrative sources, each with two editions published since 1 October 2023 |
+
+**A source is one body's records kept for one service**: civil registration, customs declarations, school returns, health facility reports, tax returns, police records. Two products from the same records are one source; a yearbook drawing on five registers is five.
 
 ## 3. The ladders
 
@@ -41,16 +43,16 @@ Asked in order. Each is answered with a date and a link.
 |---|---|
 | 1 Absent | A source from the last three years says no official statistics are drawn from administrative records and no work is under way |
 | 2 Preparing | Yes to 1 only: work under way, nothing published |
-| 3 Published | Yes to 2: statistics from records published |
-| 4 Vital statistics | Yes to 3: vital statistics from civil registration published |
-| 5 Yearly | Yes to 4: vital statistics published two years running |
+| 3 Published | Yes to 2: statistics from at least one administrative source published |
+| 4 Operating | Yes to 3: statistics from at least one administrative source published at least twice in the last three years |
+| 5 Leading | Yes to 4: statistics from at least three administrative sources published at least twice in the last three years |
 
-- **A later yes answers the earlier ones**: a vital statistics report is a product published from records.
-- **Customs trade statistics count at stage 3.** They are what most offices publish from records, so stage 3 will be common; the step that tells countries apart is civil registration, which SHaSA 2 names first.
-- **A vital statistics report counts whoever publishes it**: the statistics office, or the civil registration authority itself.
-- **Changes from the row as it stands.** Stage 4 asked for products across several sectors, a quality framework or agreements, and stage 5 for sources documented and quality reported under the Charter. Counting sectors and judging quality need the products themselves read, and "under the Charter" is alignment, so they go. An agreement is evidence of work under way, question 1.
+- **A later yes answers the earlier ones.**
+- **One yearbook published twice can carry stage 5** where each edition draws on three sources or more.
+- **Two editions are two publications**: one report covering two years is one edition.
+- **Civil registration is one source among the rest** *(Bill, 2026-10-19)*. The ladder of 2026-10-15 put vital statistics at 4 and their yearly publication at 5; it is replaced by the count of sources and editions above.
 
-`study.json` holds this as three aspects: `use` (`published`, `preparing`, `none`) for questions 1 and 2, `vital` (`published`) for 3 and `series` (`annual`) for 4. **For the drafter**: the product and its edition go in `country_label` (e.g. *Annuaire statistique 2023*, *Vital Statistics Report 2024*), and the year its figures cover goes in the fact beside the date it was published.
+`study.json` holds this as aspects: `use` (`published`, `preparing`, `none`) for questions 1 and 2, and `vital` and `series` from the 2026-10-15 ladder until the rebuild of 2026-10-19 replaces them (§7, D6). **For the drafter**: the product and its edition go in `country_label` (e.g. *Annuaire statistique 2023*), the year its figures cover in the fact beside the date it was published, and every administrative source it draws on in the fact.
 
 ## 4. The norm
 
@@ -72,6 +74,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 - [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
 - [x] **D2. Read**: 107 drafters, four regional stories read once; 82 facts after the parent's corrections (`corrections.csv`).
 - [x] **D3. Staged** as at 2026-09-30: stage 5 Egypt, Eswatini; 4 Botswana, Cabo Verde, Côte d'Ivoire, Equatorial Guinea, Lesotho, Namibia, Rwanda, Seychelles, Uganda, Zimbabwe; 3 fourteen; 2 Ghana, Guinea-Bissau, Mozambique, Senegal, Sierra Leone; none at 1; unplaced Eritrea, Libya, São Tomé and Príncipe; no evidence twenty. The second drafter agreed on 19 of 20.
+- [ ] **D6. Ladder changed** *(Bill, 2026-10-19)*: §2 and §3 above. The rebuild of 2026-10-19 replaces `vital` and `series` with an aspect naming each published row's source, counts sources and editions in `study-ladder-admindata.py` and the gaps in `study-admindata-write.py`, re-reads each cell for the sources and editions it names, and logs every restaging `--kind ladder`. `study.json` → `criteria` already holds the new rungs.
 - [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
 
 **Decided in the run**:
