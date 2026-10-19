@@ -66,7 +66,7 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 
 - **Carried, nothing opened**: the finance tables in `outputs/non-state-finance/`, for questions 1 and 2, by a carry script written in the run on the pattern of `scripts/study-budget-carry.py`.
 - **Read**: 415 news stories about private investment in digital businesses that no study has read for this, in 44 countries, and the 233 short documents the current cells cite: 648 listings in all.
-- **Not read**: long texts, reports, passing mentions and the records the tables already hold. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports, passing mentions and the records the tables already hold.
 
 ## 6. Token ceiling
 

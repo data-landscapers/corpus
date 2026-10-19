@@ -72,7 +72,7 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 ## 5. What the run reads
 
 - **Read**: the 183 news stories about cross-border links and shared facilities filed to a country; then the 150 stories the current cells cite, for every country.
-- **Not read**: project documents, tenders, long reports and the general run of submarine cable news. **No web search and no handover to OSINT.**
+- **Not read**: project documents, tenders, long reports and the general run of submarine cable news.
 
 ## 6. Token ceiling
 

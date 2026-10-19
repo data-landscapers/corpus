@@ -71,7 +71,7 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 108 across 47 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names such a policy or portal, one call a country, from at most 137 stories across 38 countries.
 - **Not read**: the texts of the policies and long reports, 581 of them. A policy's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

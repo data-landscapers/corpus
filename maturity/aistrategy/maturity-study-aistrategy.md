@@ -68,7 +68,7 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 132 across 48 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names an AI strategy, one call a country, from at most 948 stories across 54 countries.
 - **Not read**: the texts of the strategies and long reports, 855 of them. A strategy's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

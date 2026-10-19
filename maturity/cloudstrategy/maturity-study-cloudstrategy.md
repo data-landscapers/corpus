@@ -66,7 +66,7 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 199 across 44 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names a hosting or cloud policy, at most 322 stories across 44 countries.
 - **Not read**: the texts of the policies and long reports, 381 of them. A policy's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

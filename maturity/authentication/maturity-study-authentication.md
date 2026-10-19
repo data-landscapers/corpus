@@ -55,7 +55,7 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 - **Carried**: 308 facts from 227 documents the idverification study read, its services checking people against the ID taken as authentication in service, and in two sectors or more as authentication across services; those documents are not read again.
 - **Read**: **437 news stories about the subject**, published since October 2023, in at most 15 a country: 424 in the batch's 149 shared calls, read once for every study that lists them, and 13 in 12 calls of its own. A story published before the three-year window can set no stage, and the fifteen are each country's best ranked across the batch (`study-calls.py --batch … --cap 15`).
-- **Not read**: the rest of the 2,421 stories in the window, instruments, long reports, passing mentions and the documents the row's current cells cite. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: the rest of the 2,421 stories in the window, instruments, long reports, passing mentions and the documents the row's current cells cite. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

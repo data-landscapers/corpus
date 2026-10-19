@@ -72,7 +72,7 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 ## 5. What the run reads
 
 - **Read**: the 353 news stories about regional digital cooperation filed to a country; then, for the 22 countries left at stage 2 or without evidence, the stories their current cells cite and, for the eight with nothing, one call of regional stories.
-- **Not read**: long texts and reports. **No web search and no handover to OSINT.**
+- **Not read**: long texts and reports.
 
 ## 6. Token ceiling
 

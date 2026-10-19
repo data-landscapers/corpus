@@ -58,7 +58,7 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 - **Carried, no document opened**: the law study's facts on whether the law is in force and on the authority's activity, and the authority study's facts on appointment and rulings.
 - **Read**: **45 documents that neither study has read.** Two of them, the African Union's list of ratifications of 2 February 2026 and a report of 19 September 2026, settle ratification for every country and are read once, not once per country.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

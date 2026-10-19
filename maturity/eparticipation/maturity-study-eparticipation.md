@@ -55,7 +55,7 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 
 - **Carried**: nothing. The publicconsultation study holds consultation on digital policy by any channel; its facts do not say whether the public took part online, so none answers these questions.
 - **Read**: **57 story readings about the subject**, published since October 2023, in at most 20 stories a country: 3 in the batch's shared calls (4 calls over 17 stories), read once for every study that lists them, and 54 in 31 calls of its own. A story published before the three-year window can set no stage, and the twenty are each country's best ranked across the batch (`study-calls.py --batch … --cap 20`).
-- **Not read**: the rest of the 1,184 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: the rest of the 1,184 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

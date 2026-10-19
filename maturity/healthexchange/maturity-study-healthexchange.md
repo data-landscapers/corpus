@@ -55,7 +55,7 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 
 - **Carried**: nothing; no earlier study holds facts on these questions.
 - **Read**: **33 news stories about the subject that no study has read**, in 18 countries; then the 184 documents the row's current cells cite, in 52 countries. 79 calls of its own, besides the batch's 19 shared calls over 84 stories read once for two studies or more.
-- **Not read**: instruments, long reports and passing mentions. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: instruments, long reports and passing mentions. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

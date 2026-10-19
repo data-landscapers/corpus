@@ -65,7 +65,7 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 - **Carried first**: the frame's cells for the row, and the datacentres and nationaldatacentres studies' facts, matched to the questions from their own text; 14 of those facts speak of backup or disaster recovery.
 - **Read**: **137 news and frame readings**, in 44 countries: 45 the frame's cells cite (29 stories, 16 longer documents), in 25 countries; 34 on the subject that no study has read, in 25; and 58 stories the two data-centre studies read that pass the same test on backup terms, reopened because their carried facts were filed for other questions (`reopen.csv`).
 - **Drafters name the town of every main and backup site** in the fact, so the parent can measure the distance.
-- **Not read**: other long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: other long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

@@ -59,7 +59,7 @@ The AU Digital Education Strategy asks for half of institutions connected by 202
 
 - **Carried**: the series for 34 countries, 70 figures since 2021, by `study-figure.py schoolinternet carry`; no document opened.
 - **Read**: **60 story readings**, in 18 Sonnet calls, for the 10 countries whose latest figure is at 50 or more (DJI, DZA, MAR, MUS, NAM, RWA, SEN, SYC, TUN, ZMB), at most ten stories a country: nowhere else can question 4 move a stage.
-- **Not read**: the rest of the 5,173 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the rest of the 5,173 documents this study lists.
 
 ## 6. Token ceiling
 

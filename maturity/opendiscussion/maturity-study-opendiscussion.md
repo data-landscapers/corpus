@@ -72,7 +72,7 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 ## 5. What the run reads
 
 - **Read**: **185 news stories about cuts, arrests for speech and press freedom that no study has read for this**, in 46 countries; and the 169 stories and 17 texts the current cells cite. Ten of the 185 are one yearly count of shutdowns, listed under ten countries.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

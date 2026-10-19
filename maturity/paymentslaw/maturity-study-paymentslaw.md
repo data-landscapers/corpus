@@ -71,7 +71,7 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 - **Read first**: **97 news stories and short legal notices about a payments law or e-money rules**, covering 40 countries, 82 of them from the last three years. No study has read them. A regional story is read once for each member country it names, 154 readings in all.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 169 across 48 countries.
 - **Then, only for a country with no law on record**: one call of its newest held news or, with none, the text its cell cites.
-- **Not read**: the long texts of the laws and reports. **No web search and no handover to OSINT.**
+- **Not read**: the long texts of the laws and reports.
 
 ## 6. Token ceiling
 

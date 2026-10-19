@@ -72,7 +72,7 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 ## 5. What the run reads
 
 - **Read**: **337 news stories about consultation that no study has read for this**, in 53 countries, every one but Equatorial Guinea; and the 111 stories and 14 texts the current cells cite.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

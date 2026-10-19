@@ -65,7 +65,7 @@ The African Union's second ten-year plan for Agenda 2063 asks that 80 per cent o
 
 - **Carried, nothing opened**: the International Telecommunication Union's internet-use figures in `reference/measures.csv`, for all four questions, by a carry script written in the run on the pattern of `scripts/study-mobile-carry.py`.
 - **Read**: **130 news stories about internet use that no study has read**, in 50 countries, Eritrea, South Sudan and Sudan among them. They include the national survey reports the current cells cite for Angola and Lesotho.
-- **Not read**: 37 DataReportal country pages, whose figures are never used; the other stories the current cells cite, which are about networks and operators; long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: 37 DataReportal country pages, whose figures are never used; the other stories the current cells cite, which are about networks and operators; long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

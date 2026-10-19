@@ -67,7 +67,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 
 - **Carried, nothing opened**: the International Telecommunication Union's price figures in `reference/measures.csv`, by a carry script written in the run on the pattern of `scripts/study-internet-carry.py`.
 - **Read**: **165 news stories that no study has read**, in 51 countries, all three unplaced ones among them: 54 about the price of data, and 111 more that the current cells cite for this row.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

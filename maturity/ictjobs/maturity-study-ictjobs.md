@@ -59,7 +59,7 @@ Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM and
 
 - **Carried**: the series for 46 countries, 78 figures since 2021, by `study-figure.py ictjobs carry`; no document opened.
 - **Read**: **7 story readings**, in 4 Sonnet calls, for the 8 countries whose latest figure is at 1 or more (DJI, GAB, GNQ, MUS, NAM, SWZ, SYC, TUN), at most ten stories a country: nowhere else can question 4 move a stage.
-- **Not read**: the rest of the 663 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the rest of the 663 documents this study lists.
 
 ## 6. Token ceiling
 

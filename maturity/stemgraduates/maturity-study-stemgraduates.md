@@ -59,7 +59,7 @@ The AU Digital Education Strategy asks for a national research and education net
 
 - **Carried**: the series for 32 countries, 57 figures since 2021, by `study-figure.py stemgraduates carry`; no document opened.
 - **Read**: **Nothing**: the one country whose latest figure is at 40 or more (BFA) has no story about the subject since October 2023, so question 4 is *Not held* there.
-- **Not read**: the rest of the 984 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the rest of the 984 documents this study lists.
 
 ## 6. Token ceiling
 

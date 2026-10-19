@@ -71,7 +71,7 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 128 across 46 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names such a law, one call a country, from at most 455 stories across 45 countries.
 - **Not read**: the long texts of the laws and reports, 376 of them. A law's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

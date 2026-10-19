@@ -72,7 +72,7 @@ The African Union's Digital Transformation Strategy asks for technical standards
 
 - **Carried, nothing opened**: the 30 facts the interoperability framework study holds that name standards, matched to the questions from their own text. The 186 documents that study read are not read again.
 - **Read**: **four news stories about the standards**, in four countries; the 79 stories the current cells cite, and the 17 texts they cite only for a country with nothing else; then, for a country still short of an answer to question 1 or 2, one call of the news that mentions the subject in passing, from 150 stories.
-- **Not read**: the long texts and reports, 207 of them. **No web search and no handover to OSINT.**
+- **Not read**: the long texts and reports, 207 of them.
 
 **The news held seldom makes standards its subject.** Most countries will be placed on what the framework study already holds, and many will print *Not held*.
 

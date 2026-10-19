@@ -61,7 +61,7 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 - **Carried first**: the datacentres study's facilities, 595 in all, each with its source, its Tier and its owner (named for 589). No document is opened for them. **Whether an owner is national is the parent's reading**, held in `owners.csv` and checked against the data centres dataset's `ownership_type`.
 - **Read**: **118 news readings**, in 44 countries: 71 on the subject that no study has read, in 31 countries, and 47 the datacentres study read whose carried facts speak of government data or a government data centre, reopened because question 4 turns on them.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

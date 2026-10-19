@@ -60,7 +60,7 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 ## 5. What the run reads
 
 - **Read**: **388 news stories that no study has read**, in 53 countries: 171 about the backbone, in 41 countries, and 217 more that the current cells cite for this row.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 - **São Tomé and Príncipe has nothing to read**: no unread story about the backbone and no cell. It stays *No evidence*.
 
 ## 6. Token ceiling

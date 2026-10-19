@@ -70,7 +70,7 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 
 - **Carried, nothing opened**: the frame's 33 placed cells for this row, matched to the questions from their own text. No earlier study holds facts on the subject.
 - **Read**: **86 news stories about standards bodies, national standards and certification that no study has read**, in 40 countries; and the 105 stories and 30 texts the current cells cite.
-- **Not read**: the long texts and reports, 407 of them, and the news that mentions the subject in passing. **No web search and no handover to OSINT.**
+- **Not read**: the long texts and reports, 407 of them, and the news that mentions the subject in passing.
 
 **Most countries will stop at stage 2.** A standards body is on record nearly everywhere; a named standard on information technology or data is held for few, and those countries will print *Not held* for question 2.
 

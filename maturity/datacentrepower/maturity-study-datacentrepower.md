@@ -60,7 +60,7 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 
 - **Carried first**: the datacentres and nationaldatacentres studies' facts, matched to the questions from their own text; 29 of them speak of power, cooling or water.
 - **Read**: **145 documents**, in 48 countries: 79 the frame's cells cite, in 41 countries; and 66 the two data-centre studies read that name PUE, cooling or data-centre power three times or more, reopened because their carried facts were filed for other questions (`reopen.csv`). No unread story is about the subject: the 32 that carry a term name it once.
-- **Not read**: long texts, reports and passing mentions, including 49 environmental studies and datasheets that name PUE or cooling. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions, including 49 environmental studies and datasheets that name PUE or cooling.
 
 ## 6. Token ceiling
 

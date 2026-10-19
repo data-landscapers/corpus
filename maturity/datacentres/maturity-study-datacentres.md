@@ -60,7 +60,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 
 - **Carried first**: the data centres dataset's facilities in service and for hire, filed under a held document the dataset cites that names the facility, by `scripts/study-datacentres-carry.py`. The dataset itself cannot be cited, since every source must be held in `raw/`, and most of its cited documents were already on the reading lists, so 53 facts from 42 documents were carried and the rest were read.
 - **Read**: **2,213 news readings**, in all 54 countries: 2,160 about data centres, which are 1,299 stories about one country and 861 readings of 208 regional stories, a regional story being read once for each country it names, and 53 more that the current cells cite for this row. Twenty-six longer documents the cells cite are opened only where a question turns on one.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

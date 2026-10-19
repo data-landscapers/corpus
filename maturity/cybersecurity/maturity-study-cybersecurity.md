@@ -64,7 +64,7 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 
 - **Read**: **587 stories** in all 54 countries: 341 about a national cyber strategy, body or response team that no study has read, in 53 countries, and 246 more that the frame's cells for the row cite, in 53. Eight of the 322 stories are regional, read once each.
 - **No earlier study is carried**: the cybersecurity law study holds the law, which this study does not stage.
-- **Not read**: the long texts, reports and passing mentions the listing also holds. **No web search and no handover to OSINT.**
+- **Not read**: the long texts, reports and passing mentions the listing also holds.
 
 ## 6. Token ceiling
 

@@ -65,7 +65,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that every 
 
 - **Carried, nothing opened**: the International Telecommunication Union's ownership figures in `reference/measures.csv`, for all four questions, by a carry script written in the run on the pattern of `scripts/study-nonstate-carry.py`.
 - **Read**: **28 news stories about phone ownership that no study has read**, in 22 countries, Eritrea and Sudan among them.
-- **Not read**: the stories the current cells cite, which are about masts and networks and give no ownership figure; long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: the stories the current cells cite, which are about masts and networks and give no ownership figure; long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

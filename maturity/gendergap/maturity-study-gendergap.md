@@ -58,7 +58,7 @@ The Maputo Protocol asks for women's access to and control of information techno
 
 - **Carried**: the series for 26 countries, 28 figures since 2021, by `study-figure.py gendergap carry`; no document opened. Six countries hold a figure for 2023 or later: BWA, CIV, KEN, MUS, MWI and UGA.
 - **Read**: **20 story readings** about the gap, published since October 2023, for a national survey figure the series lacks: 5 in the batch's shared calls and 15 in 9 calls of its own.
-- **Not read**: the rest of the 819 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the rest of the 819 documents this study lists.
 
 ## 6. Token ceiling
 

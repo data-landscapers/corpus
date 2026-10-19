@@ -66,7 +66,7 @@ The Broadband Commission's first target is a funded national broadband plan in e
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 174 across 49 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names a broadband plan, at most 183 stories across 30 countries.
 - **Not read**: the texts of the plans and long reports, 291 of them. A plan's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

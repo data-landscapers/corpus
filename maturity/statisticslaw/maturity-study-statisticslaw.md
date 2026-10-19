@@ -68,7 +68,7 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 - **Read first**: **52 news stories and short legal notices about a statistics law**, covering 29 countries, 28 of them from the last three years. No study has read them. Twenty-five countries have none.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 69 across 31 countries.
 - **Then, only for a country still short of an answer**: one call of its newest held news that names such a law, from at most 126 stories.
-- **Not read**: the long texts of the laws, strategies and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the long texts of the laws, strategies and reports. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

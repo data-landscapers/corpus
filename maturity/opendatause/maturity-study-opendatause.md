@@ -61,7 +61,7 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 - **Carried, not read**: 30 facts on open data portals and published data from the open data policy study, 24 documents in its reading. Its five facts that a country has no national portal are not carried: they do not say no body publishes.
 - **Read**: **56 news stories about open data that no study has read**, in 31 countries (none for Algeria, Cabo Verde, Chad, the Comoros, Congo, the Democratic Republic of the Congo, Egypt, Equatorial Guinea, Eritrea, Eswatini, Lesotho, Libya, Madagascar, Mozambique, Namibia, Niger, Rwanda, São Tomé and Príncipe, Somalia, South Sudan, Sudan, Togo or Zimbabwe), one call of them regional and read once; then the 58 news stories and 10 documents the row's current cells cite, in 33 countries. 65 drafters.
-- **Not read**: the portals themselves, policy texts, long reports and passing mentions. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the portals themselves, policy texts, long reports and passing mentions. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

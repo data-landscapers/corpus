@@ -69,7 +69,7 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 
 - **Carried, nothing opened**: the budget tables, for questions 1, 2 and 4, by `scripts/study-budget-carry.py`.
 - **Read**: 148 news stories and notices about digital budgets, universal service funds and digital levies that no study had read for this, in 39 countries, and the short documents the current cells cite: 433 listings in all.
-- **Not read**: long texts, reports, passing mentions and the budget records the tables hold. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports, passing mentions and the budget records the tables hold.
 
 ## 6. Token ceiling
 

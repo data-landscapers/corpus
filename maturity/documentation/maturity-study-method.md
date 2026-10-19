@@ -64,9 +64,9 @@ Output: `systems.csv`, one row per named thing per country.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
-## 5. Search: the update's work, not the study's
+## 5. Search
 
-**A study populates its indicator from what is held** *(Bill, 2026-10-11)*: it does not search the web and hands nothing to OSINT. A question nothing held answers is printed as *Not held*. **The nightly rebuild in `MATURITY-UPDATE.md` searches for those gaps, every country that has one**, and this section is how; the rebuild delivers with `study-stage.py ready --rebuild` and no note of its own.
+**The nightly rebuild in `MATURITY-UPDATE.md` searches the web for every country whose cell has a question nothing held answers** *(Bill, 2026-10-11 and 2026-10-19)*, and this section is how. Until something is found, the question is printed as *Not held*; the rebuild delivers with `study-stage.py ready --rebuild` and no note of its own.
 
 One Exa brief per cell with an unanswered question, searchers on Sonnet to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage. Candidates go flat to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, `READY` written last, under one `[ACT]` note titled *Maturity study {id}: evidence to ingest* with `Affects: outputs/maturity/{id}/`. `python scripts/lint-staged-queue.py {folder}` passes before the note. Records go in `maturity/{id}/search/`; candidate bodies are never committed.
 

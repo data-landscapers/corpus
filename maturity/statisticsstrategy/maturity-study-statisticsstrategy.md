@@ -62,7 +62,7 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 
 - **Read**: **65 news stories about a national statistics strategy that no study has read**, in 34 countries, one of them regional and read once; then the 80 news stories and 52 documents that the row's current cells cite, in 51 countries. 97 drafters.
 - **No earlier study is carried**: the statistics law study noted strategies as `other` and holds no answer to these questions.
-- **Not read**: the strategies' own texts beyond those the cells cite, reports and passing mentions. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the strategies' own texts beyond those the cells cite, reports and passing mentions. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

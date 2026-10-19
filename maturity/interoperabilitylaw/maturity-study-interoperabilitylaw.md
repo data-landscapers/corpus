@@ -70,7 +70,7 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 - **Read first**: **30 news stories and short legal notices about such a law**, covering 15 countries, 27 of them from the last three years. No study has read them for these questions; the interoperability framework study read 11 for its own.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 139 across 45 countries.
 - **Then, only for a country with no answer to question 1 or 2**: one call of its newest held news that names such a law, from at most 296 stories across 39 countries, or with none, the text its cell cites.
-- **Not read**: the long texts of the laws and reports, 286 of them. **No web search and no handover to OSINT.**
+- **Not read**: the long texts of the laws and reports, 286 of them.
 
 ## 6. Token ceiling
 

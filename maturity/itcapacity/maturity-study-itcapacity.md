@@ -63,7 +63,7 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 - **Read**: **544 stories** in all 54 countries: 363 about government's own technical capacity or its technology bodies that no study has read, in 36 countries, and 181 more that the frame's cells for the row cite, in 52. Eight of the 363 are regional, read once each.
 - **No earlier study is carried**: none holds facts on who builds or runs the systems.
-- **Not read**: the long texts, reports and passing mentions the listing also holds. **No web search and no handover to OSINT.**
+- **Not read**: the long texts, reports and passing mentions the listing also holds.
 
 ## 6. Token ceiling
 

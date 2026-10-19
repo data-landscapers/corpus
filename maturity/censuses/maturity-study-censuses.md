@@ -60,7 +60,7 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 - **Read**: **286 news stories about a census or household survey that no study has read**, in 52 countries (none for Algeria or Mauritius), two calls of them regional and read once; then the 60 news stories and 33 documents that the row's current cells cite, in 40 countries. 127 drafters.
 - **No earlier study is carried**: the statistics law and strategy studies noted censuses as `other` and hold no answer to these questions.
-- **Not read**: census reports and survey reports themselves beyond those the cells cite, and passing mentions. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: census reports and survey reports themselves beyond those the cells cite, and passing mentions. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

@@ -73,7 +73,7 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 
 - **Carried, nothing opened**: the facts the data protection and data localisation studies hold that name sending data abroad.
 - **Read**: the 21 news stories about sending data abroad; the 142 stories the current cells cite; then, for a country still short of an answer to question 1 or 2, one call of the news that mentions the subject in passing.
-- **Not read**: the texts of the laws and long reports. **No web search and no handover to OSINT.**
+- **Not read**: the texts of the laws and long reports.
 
 ## 6. Token ceiling
 

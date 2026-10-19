@@ -70,7 +70,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 - **Read first**: **108 news stories and short legal notices about an electronic transactions, e-commerce or electronic signature law**, covering 37 countries, 94 of them from the last three years. No study has read them. They are 102 stories, a regional one counting once per country it names. Seventeen countries have none.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 155 across 53 countries.
 - **Then, only for a country with no answer to question 1 or 2**: one call of its newest held news that names such a law, from at most 428 stories.
-- **Not read**: the long texts of the laws, codes and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the long texts of the laws, codes and reports. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

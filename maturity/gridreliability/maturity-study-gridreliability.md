@@ -65,7 +65,7 @@ The African Union's single electricity market and Continental Power System Maste
 
 - **Carried, nothing opened**: the Enterprise Surveys' outage figures in `reference/measures.csv`, 92 of them for 51 countries, by `scripts/study-gridreliability-carry.py`.
 - **Read**: **92 documents** in 44 countries: the 49 stories about power outages that no study had read, and 43 the frame's cells cite that name the subject, among them the regulators' and utilities' annual reports where an interruption frequency is published.
-- **Not read**: 87 documents the frame's cells cite that never name the subject, about who has power rather than how often it goes off; long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: 87 documents the frame's cells cite that never name the subject, about who has power rather than how often it goes off; long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

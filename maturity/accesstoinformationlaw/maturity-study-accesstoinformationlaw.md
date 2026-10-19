@@ -72,7 +72,7 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 ## 5. What the run reads
 
 - **Read**: 74 unread news stories and short legal notices about an access to information law, covering 30 countries; then the 66 news stories the current cells cite; then one call of newest news for a country still short of an answer.
-- **Not read**: the long texts of the laws, codes and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the long texts of the laws, codes and reports. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

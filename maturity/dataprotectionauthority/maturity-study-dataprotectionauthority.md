@@ -64,7 +64,7 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 - **Carried, no document opened**: the law study's facts on the authority (264) and on application (176), and the frame's cells for this row, matched to the four questions from their own text.
 - **Read**: **128 news stories about an authority that no study has read**, across 41 countries, 116 of them from the last three years.
 - **Not read**: laws, reports and stories that mention an authority in passing.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

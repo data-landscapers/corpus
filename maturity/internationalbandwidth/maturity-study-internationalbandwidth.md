@@ -60,7 +60,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 ## 5. What the run reads
 
 - **Read**: **847 news readings**, in all 54 countries: 778 about the routes, which are 361 stories, a regional cable story being read once for each country it names, and 69 more that the current cells cite for this row. 127 of the 778 were read by `fibrebackbone` or `regionalinfrastructure` for their own questions, and are read again for these.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

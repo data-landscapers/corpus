@@ -71,7 +71,7 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 
 - **Carried, nothing opened**: the national standards study's facts naming ISO membership or an adopted international standard, matched from their own text. Its 106 documents are not read again unless a question turns on one.
 - **Read**: **58 news stories about international standards that no study has read**, in 30 countries; and the 99 stories and 12 texts the current cells cite.
-- **Not read**: the long texts and reports, 1,658 of them, and the news that mentions the subject in passing. **No web search and no handover to OSINT.**
+- **Not read**: the long texts and reports, 1,658 of them, and the news that mentions the subject in passing.
 
 ## 6. Token ceiling
 

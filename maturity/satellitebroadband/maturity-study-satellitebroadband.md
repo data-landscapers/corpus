@@ -58,7 +58,7 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 ## 5. What the run reads
 
 - **Read**: **820 news readings**, in all 54 countries: 779 about satellite broadband, which are 522 stories about one country and 257 readings of 29 regional stories, a regional story being read once for each country it names, and 41 more that the current cells cite for this row.
-- **Not read**: long texts, reports and passing mentions, among them 9 longer documents the cells cite, opened only where a question turns on one. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions, among them 9 longer documents the cells cite, opened only where a question turns on one.
 
 ## 6. Token ceiling
 

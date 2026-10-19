@@ -55,7 +55,7 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 
 - **Carried**: the datalocalisation study's rules in force or in draft (questions 2 and 1) and the nationaldatacentres study's facts on government systems hosted in a nationally owned data centre (question 3). No document opened.
 - **Read**: **172 story readings about the subject**, published since October 2023, in at most 20 stories a country: 3 in the batch's shared calls (8 calls over 36 stories), read once for every study that lists them, and 169 in 55 calls of its own. A story published before the three-year window can set no stage, and the twenty are each country's best ranked across the batch (`study-calls.py --batch … --cap 20`).
-- **Not read**: the rest of the 3,960 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: the rest of the 3,960 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

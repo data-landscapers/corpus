@@ -71,7 +71,7 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 169 across 42 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names such a policy, one call a country, from at most 430 stories across 54 countries.
 - **Not read**: the texts of the policies and long reports, 527 of them. A policy's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

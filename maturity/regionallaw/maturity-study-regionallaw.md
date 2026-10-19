@@ -72,7 +72,7 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 ## 5. What the run reads
 
 - **Read**: the 195 news stories about shared African digital law filed to a country; then, for the 32 countries left at stage 1, stage 2 or without evidence, the stories their current cells cite.
-- **Not read**: the regional stories that name a country; long texts. **No web search and no handover to OSINT.**
+- **Not read**: the regional stories that name a country; long texts.
 
 ## 6. Token ceiling
 

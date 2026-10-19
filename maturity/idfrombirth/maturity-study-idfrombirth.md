@@ -55,7 +55,7 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 
 - **Carried**: nothing; no earlier study holds facts on these questions.
 - **Read**: **730 news stories about the subject**, published since October 2023, in at most 15 a country: 725 in the batch's 149 shared calls, read once for every study that lists them, and 5 in 5 calls of its own. A story published before the three-year window can set no stage, and the fifteen are each country's best ranked across the batch (`study-calls.py --batch … --cap 15`).
-- **Not read**: the rest of the 2,421 stories in the window, instruments, long reports, passing mentions and the documents the row's current cells cite. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: the rest of the 2,421 stories in the window, instruments, long reports, passing mentions and the documents the row's current cells cite. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

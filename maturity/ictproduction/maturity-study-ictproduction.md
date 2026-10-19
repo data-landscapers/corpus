@@ -59,7 +59,7 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 
 - **Carried**: the World Bank series for 48 countries, 184 figures since 2021, by `study-ictproduction-carry.py`; no document opened.
 - **Read**: **8 story readings**, in three Sonnet calls, for Kenya, Egypt and Morocco: the only countries at 0.5 per cent or more with a story about ICT manufacturing since October 2023. Nowhere else can question 4 move a stage.
-- **Not read**: the rest of the 528 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the rest of the 528 documents this study lists.
 
 ## 6. Token ceiling
 

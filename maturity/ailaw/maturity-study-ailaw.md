@@ -70,7 +70,7 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 - **Read first**: **129 news stories about a law or binding rule on AI**, covering 40 countries. They are 63 stories, a roundup counting once per country it names. Fourteen countries have none.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 166 across 49 countries.
 - **Then, only for a country with no answer to question 1 or 2**: one call of its newest held news that names such a law, from at most 463 stories across 48 countries.
-- **Not read**: the long texts of laws, strategies and reports, 484 of them. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: the long texts of laws, strategies and reports, 484 of them. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

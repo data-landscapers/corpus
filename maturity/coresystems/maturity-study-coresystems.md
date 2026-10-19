@@ -64,7 +64,7 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 - **Read**: **329 stories** in 53 countries: 148 about these systems that no study has read, in 35 countries, and 181 more that the frame's cells for the row cite, in 50. Nothing is listed for São Tomé and Príncipe, which stays *No evidence* unless a regional story names it.
 - **No earlier study is carried**: none holds facts on these systems.
-- **Not read**: the long texts, reports and passing mentions the listing also holds. **No web search and no handover to OSINT.**
+- **Not read**: the long texts, reports and passing mentions the listing also holds.
 
 ## 6. Token ceiling
 

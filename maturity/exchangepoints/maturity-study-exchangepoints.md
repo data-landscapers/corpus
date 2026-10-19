@@ -59,7 +59,7 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 ## 5. What the run reads
 
 - **Read**: **291 news readings**, in all 54 countries: 256 about exchange points, which are 174 stories, a regional story being read once for each country it names, and 35 more that the current cells cite for this row.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions.
 
 ## 6. Token ceiling
 

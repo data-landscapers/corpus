@@ -55,7 +55,7 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 
 - **Carried**: nothing; no earlier study holds facts on these questions.
 - **Read**: **352 story readings about the subject**, published since October 2023, in at most 20 stories a country: 311 in the batch's shared calls (147 calls over 732 stories), read once for every study that lists them, and 41 in 30 calls of its own. A story published before the three-year window can set no stage, and the twenty are each country's best ranked across the batch (`study-calls.py --batch … --cap 20`).
-- **Not read**: the rest of the 5,166 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. No web search and no handover to OSINT. A question nothing answers is printed as *Not held*.
+- **Not read**: the rest of the 5,166 documents this study lists, instruments, long reports, passing mentions and the documents the row's current cells cite. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

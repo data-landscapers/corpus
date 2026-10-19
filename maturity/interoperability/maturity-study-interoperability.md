@@ -67,7 +67,7 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 143 across 43 countries.
 - **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names an interoperability framework, at most 500 stories across 54 countries.
 - **Not read**: the texts of the frameworks and long reports, 858 of them. A framework's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

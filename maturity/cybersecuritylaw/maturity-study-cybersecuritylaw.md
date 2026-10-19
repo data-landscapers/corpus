@@ -63,7 +63,7 @@ The Malabo Convention's third chapter commits each party to legal measures again
 - **Read first**: **128 news stories about a cybercrime or cybersecurity law**, across 35 countries, 119 of them from the last three years. No study has read them.
 - **Then, only for a country those leave short of an answer to question 1 or 2**: the news stories its current cell cites, at most 138 across all countries.
 - **Not read**: the texts of the laws, 53 of them, and stories that mention a law in passing. A law's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

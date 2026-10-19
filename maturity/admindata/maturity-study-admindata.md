@@ -62,7 +62,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 
 - **Read**: **128 news stories about statistics from administrative records that no study has read**, in 39 countries (none for Algeria, Benin, Comoros, Congo, Gabon, Guinea-Bissau, Libya, Malawi, Mali, Mauritius, Niger, São Tomé and Príncipe, South Sudan, Togo or Tunisia), one call of them regional and read once; then the 138 news stories and 37 documents that the row's current cells cite, in 53 countries. 107 drafters.
 - **No earlier study is carried**: the registry study read civil registration for its digitisation and holds no answer to whether vital statistics were published; the census and statistics studies noted administrative data as `other`.
-- **Not read**: yearbooks and reports themselves beyond those listed, and passing mentions. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Not read**: yearbooks and reports themselves beyond those listed, and passing mentions. A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 

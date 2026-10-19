@@ -54,7 +54,7 @@ The African Union's Agenda 2063 first ten-year plan asks for 80% of households t
 
 - **Carried**: the series for 54 countries, 206 figures since 2021, by `study-figure.py ruralelectrification carry`; no document opened. 52 countries hold a figure for 2024; Libya and Mauritania hold only 2012.
 - **Read**: nothing. With a 2024 figure for 52 countries, no story is read.
-- **Not read**: the 2,110 documents this study lists. No web search and no handover to OSINT.
+- **Not read**: the 2,110 documents this study lists.
 
 ## 6. Token ceiling
 
