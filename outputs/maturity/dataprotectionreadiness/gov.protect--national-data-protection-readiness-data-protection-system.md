@@ -22,11 +22,11 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 |---|---|
 | 5 Leading | 13 |
 | 4 Operating | 15 |
-| 3 Established | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 4 |
 | 1 Absent | 12 |
 | Unplaced | 0 |
-| No evidence | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -276,6 +276,13 @@ The law is in force and an authority is appointed and issuing guidance in 2026; 
 - Law No. 151 of 2020 entered into force in October 2020; its regulations' transitional period expires 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
 - A 7 August 2026 report says the Personal Data Protection Centre, affiliated to the ICT ministry, is acting under Law 151 of 2020 (executive regulations issued November 2025, compliance deadline November 2026), with an acting chief executive, Susan El-Okbawy, who described its licensing and breach-handling role ([source, 2026-08-07](https://www.youm7.com/story/2026/8/7/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%AA%D9%86%D8%B8%D9%85-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AD%D9%88%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9/7505610)).
 
+### Guinea: 3 Established
+
+Guinea's 2016 data protection law is in force and the Malabo Convention ratified, but no authority is appointed and no ruling is known.
+
+- The ministry's secretary-general Nouhan Traore says Guinea has put in place the law on cybersecurity and protection of personal data ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
+- The ministry's secretary-general Nouhan Traore says Guinea signed and ratified the Malabo Convention ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
+
 ### Lesotho: 3 Established
 
 A data protection law is in force; the authority it creates has not been appointed, and no ruling against an organisation is known (2026).
@@ -376,20 +383,18 @@ A law was enacted in 2025 but no start date is known; an authority is working; n
 - A UNFPA consultancy notice, published 2026-08-17 (the document gives no other date), refers to the Personal Data Protection and Privacy Act, 2025 as an existing Act and does not state whether it is commenced ([source, 2026-08-17](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia)).
 - TechHive Advisory reviews the Personal Data Protection and Privacy Act as enacted, concluding a legislative process stalled for several years; it gives no commencement date (published 2025-12-26, no other date) ([source, 2025-12-26](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025)).
 
-### Guinea: 1 Absent
-
-Guinea adopted a data protection law in 2016, but no authority is appointed and no ruling is known.
-
-- At the 19 November 2025 closing, Minister Rose Pola Pricemou said Guinea is strengthening its regulatory framework with a new data-protection law, giving no stage, bill or date for it ([source, 2025-11-19](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
-- ANSSI's summary states Loi L/2016/037/AN on cybersecurity and personal data protection was adopted by the National Assembly and promulgated by President Alpha Condé, covering personal data processing by individuals, companies and public institutions; it gives no commencement statement and dates the law to 2016 only (document published 2016, year precision) ([source, 2016](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf)).
-- The ministry's secretary-general Nouhan Traore says Guinea signed and ratified the Malabo Convention ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
-
 ### Guinea-Bissau: 1 Absent
 
 Guinea-Bissau has no data protection law in force in 2026 and no authority appointed; no ruling against an organisation is known.
 
 - A professor at the Bissau Faculty of Law, speaking at an ECOWAS Court conference in Dakar on 22 September 2026, said Guinea-Bissau does not yet have specific data protection legislation ([source, 2026-09-22](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)).
 - The speaker said a bill provides for creating a 'Data Protection Agency', with independence risks in its membership and in leaving its organisation to a decree; the article gives no stage for the bill ([source, 2026-09-22](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/)).
+
+### Libya: 1 Absent
+
+Libya's data protection law was still a draft in 2026, no authority is known, and Libya has not signed the Malabo Convention.
+
+- SMEX reports that Libya's National AI Strategy (adopted 1 June 2026) concedes the Data Protection and Privacy Law remains in draft, with adoption targeted for 2026 under Pillar 2; as_of is the article's publication date ([source, 2026-07-22](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
 
 ### Mozambique: 1 Absent
 
@@ -427,9 +432,3 @@ Sudan has no data protection law in force in 2026; two authorities set up by dec
 
 - On 11 August 2026 the Justice Ministry's under-secretary said the ministry is preparing three draft laws with the digital transformation ministry, among them a 2026 Law on Regulating Data and Artificial Intelligence, to provide the legislative framework including data protection ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
 - On 6 August 2026 the Council of Ministers discussed the digital transformation ministry's draft bills, including a data and artificial intelligence bill, and directed further study before approval by the interim parliament, a joint sitting of the Sovereignty and Ministers councils; the article does not describe the bill's content ([source, 2026-08-06](https://sudantribune.net/article/317108)).
-
-### Libya: No evidence
-
-Whether a law is in force is not known as of 2026; no authority or ruling is known, so no stage is set.
-
-Not established: Nothing held says whether a data protection law is in force.

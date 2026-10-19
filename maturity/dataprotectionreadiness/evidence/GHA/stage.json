@@ -1,19 +1,19 @@
 {
-  "iso3": "GHA",
-  "cells": [
-    {
-      "sub_indicator": "system",
-      "stage": "4",
-      "law": "in-force",
-      "treaty": "ratified",
-      "authority": "appointed",
-      "practice": "implementing",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "GHA-029;GHA-032;GHA-028",
-      "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
-      "as_at": "2026-10-17"
-    }
-  ]
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "4",
+   "law": "in-force",
+   "treaty": "ratified",
+   "authority": "appointed",
+   "practice": "implementing",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-029;GHA-032;GHA-028",
+   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+   "as_at": "2026-10-17"
+  }
+ ]
 }

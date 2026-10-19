@@ -1,19 +1,19 @@
 {
-  "iso3": "MRT",
-  "cells": [
-    {
-      "sub_indicator": "system",
-      "stage": "4",
-      "law": "in-force",
-      "treaty": "ratified",
-      "authority": "appointed",
-      "practice": "implementing",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "MRT-001;MRT-003;MRT-034",
-      "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
-      "as_at": "2026-10-17"
-    }
-  ]
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "4",
+   "law": "in-force",
+   "treaty": "ratified",
+   "authority": "appointed",
+   "practice": "implementing",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-001;MRT-003;MRT-034",
+   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+   "as_at": "2026-10-17"
+  }
+ ]
 }
