@@ -50,6 +50,7 @@
   text-decoration: none;
   cursor: pointer;
 }
+.mat-btn[hidden] { display: none; }   /* display above would override the attribute */
 .mat-btn:hover { border-color: var(--accent); color: var(--accent); }
 .mat-btn[disabled] { color: var(--ink-faint); background: var(--paper); cursor: not-allowed; }
 .mat-btn[disabled]:hover { border-color: var(--rule); color: var(--ink-faint); }

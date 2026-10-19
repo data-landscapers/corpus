@@ -475,8 +475,10 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
     """Before launch the download buttons are disabled. After it they are links: *all* is set
     here, and `maturity-map.js` points *this indicator* at the selected indicator's edition."""
     if LAUNCHED:
+        # *This indicator* starts hidden with no href: a `download` link to "#" saves the page
+        # itself as download.html, which a cached pre-launch maturity.json would leave in place.
         every = html.escape((downloads or {}).get("all", "#"))
-        buttons = ('<a class="mat-btn" id="mat-dl-one" href="#" download>Download this indicator (CSV)</a>\n'
+        buttons = ('<a class="mat-btn" id="mat-dl-one" download hidden>Download this indicator (CSV)</a>\n'
                    f'        <a class="mat-btn" id="mat-dl-all" href="{every}" download>Download all (CSV)</a>')
         uc = ""
     else:
