@@ -319,7 +319,7 @@ try:
     files = {"1": {"slug": "doc-a", "facts": [fact, dict(fact, **{"class": "tracker"})],
                    "systems": [{"system": "eTracker", "class": "tracker"}]},
              "2": {"slug": "doc-x", "facts": [fact]}}
-    new, systems, problems = profile.merge(STUDY, "KEN", rl, files, [ev("KEN-007", "tiers", "T2", "2024")])
+    new, systems, problems, taken = profile.merge(STUDY, "KEN", rl, files, [ev("KEN-007", "tiers", "T2", "2024")])
     check("ids continue from the highest in evidence.csv", [r["row_id"] for r in new], ["KEN-008"])
     check("the slug and URL are the reading list's", (new[0]["source_slug"], new[0]["url"]),
           ("doc-a", "https://a.org/a"))
@@ -329,18 +329,28 @@ try:
           ("eTracker", "doc-a"))
     check("a file filed under the wrong document is refused", any("says `doc-x`" in p for p in problems), True)
     check("a document with no file is named", any("document(s) [3]" in p for p in problems), True)
-    again, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
+    check("the documents taken are named for merged.csv", taken, {"doc-a": ""})
+    again, again_sys, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
     check("a document already merged is not merged twice", again, [])
+    check("and gives no systems rows a second time", again_sys, [])
+    gone, gone_sys, _, gone_taken = profile.merge(STUDY, "KEN", rl, files, [], None, {"doc-a": ""})
+    check("a document merged.csv records is not taken again, with no row and no correction",
+          (gone, gone_sys, gone_taken), ([], [], {}))
+    rlc = [dict(r, why="completed") if r.get("slug") == "doc-a" else r for r in rl]
+    _, re_sys, _, re_taken = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": ""})
+    check("a `completed` re-read is taken once more", (len(re_sys), re_taken), (1, {"doc-a": "completed"}))
+    _, re_sys, _, re_taken = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": "completed"})
+    check("and not again after that", (re_sys, re_taken), ([], {}))
     # The ladder deleted KEN-008, the only row doc-a had, and KEN-009 is named by a correction.
     fixes = [{"iso3": "KEN", "n": "008", "aspect": "tiers", "value": "T1", "action": "removed"},
              {"iso3": "KEN", "n": "009", "aspect": "tiers", "value": "T3", "action": "revalued: T2"}]
     kept = [ev("KEN-007", "tiers", "T2", "2024")]
-    back, _, problems = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
+    back, _, problems, _ = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
     check("a document whose rows a correction removed is not merged again", back, [])
     check("and is named", any("facts/1.json: skipped" in p for p in problems), True)
     rl4 = rl + [{"n": "4", "kind": "raw", "slug": "doc-d", "url": "https://a.org/d"}]
     other = dict(files, **{"4": {"slug": "doc-d", "facts": [dict(fact, value="T4")]}})
-    fresh, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
+    fresh, _, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
     check("a new row numbers past every corrected id", [(r["row_id"], r["source_slug"]) for r in fresh],
           [("KEN-010", "doc-d")])
     with tempfile.TemporaryDirectory() as d:
@@ -354,6 +364,51 @@ try:
               (False, True))
         check("and one whose rows changed is written",
               profile.write_changed(path, study_lib.SYSTEMS_FIELDS, rows + rows), True)
+
+    print("\n--merge writes only what a new document reached")
+    with tempfile.TemporaryDirectory() as d:
+        real_corpus = study_lib.CORPUS
+        study_lib.CORPUS = d
+        try:
+            sd = Path(d) / "maturity" / "t"
+            for iso in ("KEN", "UGA"):
+                (sd / "evidence" / iso / "facts").mkdir(parents=True)
+            (sd / "study.json").write_text(json.dumps(STUDY), encoding="utf-8")
+            ken = sd / "evidence" / "KEN"
+            study_lib.write_csv(str(ken / "readlist.csv"), study_lib.READLIST_FIELDS,
+                                [{"n": "1", "kind": "raw", "slug": "doc-a", "url": "https://a.org/a"},
+                                 {"n": "2", "kind": "raw", "slug": "doc-gone", "url": "https://a.org/g"},
+                                 {"n": "3", "kind": "raw", "slug": "doc-new", "url": "https://a.org/n"}])
+            for n, slug, names in (("1", "doc-a", ["X", "Y"]), ("2", "doc-gone", ["W"]), ("3", "doc-new", ["Z"])):
+                (ken / "facts" / f"{n}.json").write_text(json.dumps(
+                    {"slug": slug, "facts": [dict(fact, value=f"T{n}")],
+                     "systems": [{"system": s, "class": "hmis"} for s in names]}), encoding="utf-8")
+            study_lib.write_csv(str(ken / "evidence.csv"), study_lib.EVIDENCE_FIELDS,
+                                [ev("KEN-001", "tiers", "T1", "2025", slug="doc-a", url="https://a.org/a")])
+            # Y was pruned by hand; doc-gone's only row was removed by a correction naming no aspect.
+            study_lib.write_csv(str(ken / "systems.csv"), study_lib.SYSTEMS_FIELDS,
+                                [{"iso3": "KEN", "system": "X", "class": "hmis", "sources": "doc-a"}])
+            study_lib.write_csv(str(sd / "merged.csv"), profile.MERGED_FIELDS,
+                                [{"iso3": "KEN", "source_slug": s, "merged_on": "2026-10-01"}
+                                 for s in ("doc-a", "doc-gone")])
+            uga = sd / "evidence" / "UGA"
+            study_lib.write_csv(str(uga / "evidence.csv"), study_lib.EVIDENCE_FIELDS,
+                                [ev("UGA-001", "tiers", "T2", "2025")])
+            (uga / "profile.csv").write_bytes(b"untouched\n")
+            profile.main(["t", "--merge", "--as-at", "2026-09-30"])
+            got = study_lib.read_csv(str(ken / "evidence.csv"))
+            check("only the new document's fact is added",
+                  [(r["row_id"], r["source_slug"]) for r in got], [("KEN-001", "doc-a"), ("KEN-002", "doc-new")])
+            check("a pruned systems row stays pruned; the new one is appended",
+                  [r["system"] for r in study_lib.read_csv(str(ken / "systems.csv"))], ["X", "Z"])
+            check("a country nothing new reached is not re-profiled",
+                  (uga / "profile.csv").read_bytes(), b"untouched\n")
+            check("the country it reached is", (ken / "profile.csv").exists(), True)
+            check("merged.csv records the new document",
+                  [r["source_slug"] for r in study_lib.read_csv(str(sd / "merged.csv"))],
+                  ["doc-a", "doc-gone", "doc-new"])
+        finally:
+            study_lib.CORPUS = real_corpus
 
     print("\na ladder's stage.json")
     with tempfile.TemporaryDirectory() as d:

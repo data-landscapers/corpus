@@ -2,7 +2,8 @@
 r"""study-profile.py — each country's profile from its evidence, and the draw for the agreement check.
 
     python scripts/study-profile.py health                    # every profile.csv
-    python scripts/study-profile.py health --merge            # facts/*.json into evidence.csv first
+    python scripts/study-profile.py health --merge            # facts/*.json not yet taken, then
+                                                              # only the countries they reached
     python scripts/study-profile.py health --as-at 2026-09-30
     python scripts/study-profile.py health --draw 20           # method §7 step 4: the cells
     python scripts/study-profile.py health --score             # ...and the count that agree
@@ -52,11 +53,13 @@ import study_lib  # noqa: E402
 
 AGREEMENT_FIELDS = ["iso3", "indicator_id", "second_stage"]
 AGREE_BAR = 0.8    # 16 of 20
+MERGED_FIELDS = ["iso3", "source_slug", "read", "merged_on"]
 
 
 def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
-          existing: list[dict], fixes: list[dict] | None = None) -> tuple[list[dict], list[dict], list[str]]:
-    """`(new evidence rows, systems rows, problems)` from one country's facts files.
+          existing: list[dict], fixes: list[dict] | None = None,
+          merged: dict[str, str] | None = None) -> tuple[list[dict], list[dict], list[str], dict[str, str]]:
+    """`(new evidence rows, systems rows, problems, documents taken)` from one country's facts files.
 
     A drafter writes one JSON file per document read, named for the document's `n` in the
     reading list: `{"slug", "facts": [...], "systems": [...]}`. **The slug and the URL of a
@@ -74,20 +77,28 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     removes, so the slug that marked its document merged can go with it. `fixes` is the
     country's corrections: ids continue past every id one names, so no new row takes a
     corrected id; and a document not yet held is skipped, and named, where it states what a
-    removed row stated, the same aspect and value."""
+    removed row stated, the same aspect and value.
+
+    **A document is taken once, and a `completed` re-read once more.** `merged` is what
+    `merged.csv` records as taken, slug to `read` (`completed` for the re-read). A recorded
+    slug is skipped like one `evidence.csv` still cites, so a document whose every row a later
+    check removed is not brought back, whether or not its correction names the aspect.
+    Systems rows come only from the documents taken now, so a row an earlier run pruned stays
+    pruned. The fourth value is the slugs taken now and their `read`, for `merged.csv`."""
     listed = {str(r["n"]): r for r in readlist if r.get("kind") == "raw"}
     held = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"])
             for r in existing}
     # `also_assessed` names further classes a sub-indicator stages (the censuses study's surveys).
     sub_class = {s["key"]: [s["class"], *s.get("also_assessed", [])] for s in study["sub_indicators"]}
-    done = {r["source_slug"] for r in existing}
+    merged = merged or {}
+    done = {r["source_slug"] for r in existing} | set(merged)
     named = [f.get("row_id") or f"{f.get('iso3', '')}-{f.get('n', '')}" for f in fixes or []]
     held_ids = {r["row_id"] for r in existing}
     gone = {(f.get("aspect", ""), f.get("value", "")) for f, rid in zip(fixes or [], named)
             if f.get("action") in ("removed", "withdrawn") and rid not in held_ids and f.get("aspect")}
     ids = [r["row_id"] for r in existing] + [i for i in named if i.startswith(f"{iso}-")]
     nxt = max([int(i.split("-")[1]) for i in ids if i.split("-")[1].isdigit()] or [0]) + 1
-    rows, systems, problems = [], [], []
+    rows, systems, problems, taken = [], [], [], {}
     for n in sorted(files, key=lambda k: int(k) if k.isdigit() else 0):
         doc, src = files[n], listed.get(n)
         if src is None:
@@ -97,16 +108,18 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
             problems.append(f"{iso} facts/{n}.json: says `{doc.get('slug')}`, the list's "
                             f"document {n} is `{src['slug']}`")
             continue
-        for s in doc.get("systems") or []:
-            systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()
-                                           for k in study_lib.SYSTEMS_FIELDS[1:-1]},
-                            "sources": src["slug"]})
-        if src["slug"] in done and src.get("why") != "completed":
+        read = "completed" if src.get("why") == "completed" else ""
+        if src["slug"] in done and (not read or merged.get(src["slug"]) == read):
             continue
         if src["slug"] not in done and any((str(f.get("aspect", "")).strip(), str(f.get("value", "")).strip())
                                            in gone for f in doc.get("facts") or []):
             problems.append(f"{iso} facts/{n}.json: skipped, it states what a removed row stated")
             continue
+        taken[src["slug"]] = read
+        for s in doc.get("systems") or []:
+            systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()
+                                           for k in study_lib.SYSTEMS_FIELDS[1:-1]},
+                            "sources": src["slug"]})
         for f in doc.get("facts") or []:
             sub = f.get("sub_indicator", "")
             if sub in sub_class and f.get("class") not in sub_class[sub]:
@@ -127,7 +140,7 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     unread = sorted(int(n) for n in listed if n not in files)
     if unread:
         problems.append(f"{iso}: no facts file for document(s) {unread} of the reading list")
-    return rows, systems, problems
+    return rows, systems, problems, taken
 
 
 def _rank(aspect: dict, value: str) -> int:
@@ -267,11 +280,15 @@ def main(argv=None) -> int:
 
     bad = 0
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
+    touched = None      # under --merge, the countries a newly taken document reached
     if a.merge:
+        touched = set()
         wpath = os.path.join(study_lib.study_dir(a.study), "withdrawn.csv")
         withdrawn = ({(r["iso3"], r["source_slug"]) for r in study_lib.read_csv(wpath)}
                      if os.path.exists(wpath) else set())
         fixes = study_lib.read_csv(os.path.join(study_lib.study_dir(a.study), "corrections.csv"))
+        mpath = os.path.join(study_lib.study_dir(a.study), "merged.csv")
+        ledger = study_lib.read_csv(mpath)
         for iso in sorted(os.listdir(base)):
             facts_dir = os.path.join(base, iso, "facts")
             if not os.path.isdir(facts_dir):
@@ -286,21 +303,37 @@ def main(argv=None) -> int:
                 except (OSError, ValueError) as e:
                     problems.append(f"{iso} facts/{name}: not readable JSON ({e})")
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
-            new, systems, more = merge(study, iso, study_lib.read_csv(
+            before = {r["source_slug"]: r.get("read", "") for r in ledger if r["iso3"] == iso}
+            new, systems, more, taken = merge(study, iso, study_lib.read_csv(
                 os.path.join(base, iso, "readlist.csv")), files, existing,
-                [f for f in fixes if f.get("iso3") == iso or f.get("row_id", "").startswith(f"{iso}-")])
-            # A document every fact of which the ladder test removed has no row left to mark
-            # it merged, and a later merge would bring its facts back: `withdrawn.csv` holds it.
+                [f for f in fixes if f.get("iso3") == iso or f.get("row_id", "").startswith(f"{iso}-")],
+                before)
+            # Withdrawn before `merged.csv` existed: the hand-kept form of the same record.
             new = [r for r in new if (iso, r["source_slug"]) not in withdrawn]
             for p in problems + more:
                 print(f"study-profile: note - {p}")
             if new:
                 study_lib.write_csv(os.path.join(base, iso, "evidence.csv"),
                                     study_lib.EVIDENCE_FIELDS, existing + new)
-            write_changed(os.path.join(base, iso, "systems.csv"), study_lib.SYSTEMS_FIELDS, systems)
-            print(f"  {iso}  merged {len(files):3d} documents: {len(new):3d} new facts, "
-                  f"{len(systems):3d} systems")
+            spath = os.path.join(base, iso, "systems.csv")
+            held = study_lib.read_csv(spath)
+            seen = {tuple(r.get(k, "") for k in study_lib.SYSTEMS_FIELDS) for r in held}
+            add = [s for s in systems if tuple(s[k] for k in study_lib.SYSTEMS_FIELDS) not in seen]
+            if add:
+                write_changed(spath, study_lib.SYSTEMS_FIELDS, held + add)
+            today = dt.date.today().isoformat()
+            ledger = [r for r in ledger if (r["iso3"], r["source_slug"]) not in {(iso, s) for s in taken}]
+            ledger += [{"iso3": iso, "source_slug": s, "read": read, "merged_on": today}
+                       for s, read in taken.items()]
+            if new or add:
+                touched.add(iso)
+                print(f"  {iso}  {len(new):3d} new facts, {len(add):3d} new systems")
+        write_changed(mpath, MERGED_FIELDS, sorted(ledger, key=lambda r: (r["iso3"], r["source_slug"])))
+        print(f"study-profile: merged into {len(touched)} countr{'y' if len(touched) == 1 else 'ies'}"
+              + (f": {' '.join(sorted(touched))}" if touched else "; nothing new to profile."))
     for iso, rows in study_lib.evidence(a.study).items():
+        if touched is not None and iso not in touched:
+            continue
         problems = study_lib.evidence_problems(study, iso, rows)
         if problems:
             bad += 1

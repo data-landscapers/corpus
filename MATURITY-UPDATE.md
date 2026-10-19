@@ -35,7 +35,7 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
 
 1. **Read the document** at the `path` its reading-list row gives, whole or as passages as the row says.
 2. **Does it state a dated fact on one of the study's aspects, for this country, that `evidence.csv` does not hold?** The term test admits by a word, so most arrivals are about something else: a court system, a police pilot, another sector. That is `nothing`, and the commonest outcome.
-3. **A fact goes into `evidence.csv`** as a new row under the drafter brief: the next `row_id`, the aspect, a value from its closed list, `as_of` and its precision, the system and its class, the slug and the URL. A system the country did not hold goes into `systems.csv`.
+3. **A fact goes into `evidence.csv`** by `python scripts/study-profile.py {id} --merge`: each facts file taken once, only the countries it reached written. A hand-read fact follows the drafter brief.
 4. **A substantive fact updates the country's text the same night**: the paragraph of `outputs/maturity/{id}/{ISO3}.md` on that aspect, under the writer brief, linked to the new row's URL; and the *Noted, not assessed* or *Not held* line if the fact changes what they say.
 
 ### Level 2 — does the fact call for a reassessment?
