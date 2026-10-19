@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 156
+sources_cited: 160
 sections_written: 39
 not_established: 3
 acquire_lines: 39
@@ -314,6 +314,8 @@ That shows in the collection calendar. A population census has been held within 
 Gaps of that kind carry into the comparative record. The [2024 Ibrahim Index has no data for Mauritania on 15 of its 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), among them human resources in education and every one of the index's public perception measures, so the country is scored on a smaller instrument than its neighbours are.
 
 Two external pressures bear on what the statistics agency can produce. [An Agence Française de Développement grant channelled through UN Women](https://www.iatistandard.org/activities/FR-3-CZZ3692) is modernising the data systems of the national statistics institutes of Mauritania, Senegal and Chad to improve gender-disaggregated data (2024). At the other end of the pipeline, rural health posts [keep handwritten registers, with paper summaries sent up to district centres for entry into DHIS2](https://documents1.worldbank.org/curated/en/099121523194016438/pdf/P1598650398a4706d09a340d1a66200239a.pdf) (2025), so primary-care statistics are digitised above the point of care rather than at it.
+
+Administrative records already feed several annual series. The statistics agency's [27th foreign trade yearbook, for 2025, is compiled from the customs SYDONIA declarations](https://admin.ansade.mr/wp-content/uploads/2026/04/Annuaire-des-statistique-du-commerce-exterieur-2025.pdf); the health ministry's [2023 health statistics yearbook was the first to draw primary-level data from DHIS2](https://www.feddai.com/files/suite_contenu/pdf/4-16_1716904513_annuaire_des_statistiques_sanitaires_mauritanie_2023.pdf); and the [first yearbook of technical and vocational training, for 2023-2024 and 2024-2025, was extracted from TEKWINE, the training centres' management platform](https://inapftp.net/wp-content/uploads/2025/05/Rapport-Annuaire-Statistique-FTP-2023-2024-2025.pdf). [A July 2024 peer review by the Cameroonian and Senegalese statistics offices found the National Statistics Council not functioning and made 35 recommendations](https://admin.ansade.mr/wp-content/uploads/2026/06/Rapport-de-la-Revue-par-les-Pairs-du-SSN-2024.pdf).
 
 ### Open data
 <!-- data.open -->

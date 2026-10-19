@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: NAM
-ledger_rows: 37
-not_held: 9
-record: 6dee12a74488
+ledger_rows: 38
+not_held: 10
+record: 005d6798b086
 ---
 
 # News, Sep – Oct 2026
@@ -487,6 +487,20 @@ Namibia's Auditor-General found that the ministry responsible for child grants k
 **[NSA launches first labour market information system](https://www.nampa.org/text/23024267)** — NAMPA, 25 September 2026
 
 The Namibia Statistics Agency and the Ministry of Justice and Labour Relations launched the country's first National Labour Market Information System on 24 September 2026, to bring labour data from government institutions and the private sector onto one platform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Policing system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NamPol pushes for digital investment ….ICT overhaul to modernise services](https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/)** — New Era, 16 October 2026
+
+E-Policing System of 11 databases incl. N-ABIS to be upgraded; no budget or timetable disclosed.
 
 </div>
 

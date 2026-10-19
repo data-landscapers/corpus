@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 211
+sources_cited: 212
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -359,7 +359,7 @@ The statistical system is being re-founded in law. Parliament [approved an Ethio
 
 Collection is where the system is thinnest. The statistics service's own account is that [three national censuses have been held — 1984, 1994 and 2007 — and that current population figures are projections from the 2007 count](https://ess.gov.et/population-census/). Ethiopia has [held neither an agricultural census nor a business census in the past twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators) — an absence that matters in a country whose economy and workforce are largely agricultural. The survey programme is thinner in the same place: [three or more agricultural, business, health and household surveys have been run in the past ten years, but only two labour force surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023).
 
-The World Bank's Statistical Performance Indicators put [Ethiopia's weakest pillars at data sources and data infrastructure, both in the 20-49% band, while data use and data products score 70-89% and data services 50-69%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The state is better at using and presenting numbers than at collecting them, which is the harder end to fix.
+The World Bank's Statistical Performance Indicators put [Ethiopia's weakest pillars at data sources and data infrastructure, both in the 20-49% band, while data use and data products score 70-89% and data services 50-69%](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The state is better at using and presenting numbers than at collecting them, which is the harder end to fix. A [US$50 million World Bank project to modernise the statistical system, at concept stage in March 2026 with approval estimated for 5 November 2026, would finance priority censuses and surveys, strengthen administrative data systems and pilot satellite and mobile-positioning data](https://documents1.worldbank.org/curated/en/099030726010039489/pdf/P513304-f3acbcc1-a887-4a04-b97c-0a7836c974f1.pdf).
 
 Measured against the continent rather than against a standard, the picture reads more favourably: Ethiopia's [Capacity of the Statistical System score reached 63.4 out of 100 in 2023, tenth of 54 African states, after a 12.4-point rise over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
 

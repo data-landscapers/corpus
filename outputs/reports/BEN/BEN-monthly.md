@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: BEN
-ledger_rows: 36
+ledger_rows: 37
 not_held: 4
-record: 929f3ac719b8
+record: 7358375ef342
 ---
 
 # News, Sep – Oct 2026
@@ -137,6 +137,20 @@ The Nigeria Customs Service offered Benin's customs a real-time exchange of decl
 **[L’Instance de Protection des Données à Caractère Personnel (IPDCP) et l’Autorité de Protection des Données Personnelles du Bénin (APDP) renforcent leur coopération à Lomé - IPDCP](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)** — IPDCP Togo, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
 Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 and 3 October for a working session on sharing experience and building skills. It follows the Togolese authority's mission to Benin on 18 August and the two bodies' cooperation agreement.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Africa cross-border data exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
 
 </div>
 

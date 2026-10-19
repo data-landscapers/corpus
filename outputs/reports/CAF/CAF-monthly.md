@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: CAF
-ledger_rows: 19
+ledger_rows: 20
 not_held: 5
-record: f0c988aacd12
+record: 17e9a9bbae98
 ---
 
 # News, Sep – Oct 2026
@@ -223,6 +223,28 @@ A fire damaged part of the data-processing centre of the Central African Republi
 **[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money service points in interior localities (digital governance project)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avis d'appel d'offres N°015/MFB/PGNSP/COORDO/SPM/26 — Appui au développement des points de services mobile money dans les localités de l'intérieur de la République Centrafricaine (World Bank notice OP00475730)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475730)** — World Bank (procurement notice, borrower: Ministère des Finances et du Budget, République Centrafricaine), 16 October 2026
+
+PGNSP goods tender for mobile-money agent points in CAR's interior; IDA 9950-CF, bids due 13 Nov 2026, est. USD 200,000.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Open tender — CAR- Public Sector Digital Governance Project: Acquisition des Kits pour la mise en place d'agent de monnaie mobile — for Central African Republic by WB in ICT & Telecommunications sector —](https://www.developmentaid.org/tenders/view/1732706/car-public-sector-digital-governance-project-acquisition-des-kits-pour-la-mise-en-place-dagent-de-mo)** — DevelopmentAid, 19 October 2026
+
+World Bank P174620 invitation for bids OP00475730, posted 19 Oct 2026; no value, quantity or deadline listed.
 
 </div>
 

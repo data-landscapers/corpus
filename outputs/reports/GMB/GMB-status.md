@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 245
+sources_cited: 247
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -369,7 +369,7 @@ Statistical capacity is one of The Gambia's fastest-improving governance measure
 
 The governance layer has not kept pace. [NSDS III, published September 2023, concedes weaknesses in coordination, in modernisation and in data sharing and protection](https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati), and records that [35.3% of members of the national statistical system were unaware the Statistics Act 2005 existed](https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati). [STATAFRIC's peer review of 17 November 2025 names modernising the statistical legal framework among the areas requiring sustained attention](https://statafric.au.int/en/news/press-releases/2025-11-17/peer-review-report-national-statistical-system-gambia), while crediting [dissemination through the IMF's enhanced General Data Dissemination System and a National Summary Data Page](https://statafric.au.int/en/news/press-releases/2025-11-17/peer-review-report-national-statistical-system-gambia). The Act itself sits in the bureau's library [as an image-only scan with no text layer](https://www.gbosdata.org/downloads-file/167-statistics-act-2005).
 
-[Communication Statistics 2024, dated June 2025, reports mobile subscribers only, carrying no internet subscription count or penetration rate despite a section headed for them](https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024), and [electricity access has been monitored from census figures pending a Multi-Tier Framework survey planned under the National Energy Compact (2025)](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Gambia-National-Energy-Compact-Mission-300.pdf).
+[Communication Statistics 2024, dated June 2025, reports mobile subscribers only, carrying no internet subscription count or penetration rate despite a section headed for them](https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024), and [electricity access has been monitored from census figures pending a Multi-Tier Framework survey planned under the National Energy Compact (2025)](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/Gambia-National-Energy-Compact-Mission-300.pdf). Administrative series are steadier: [the education ministry has published a statistical yearbook every May since 2014 from an annual school census whose response rate has stayed above 95%](http://www.edugambia.gm/data-area/publications/year-book-2025/801-yearbook2025final/download.html), and [quarterly trade statistics are compiled from the revenue authority's ASYCUDA World customs records](https://www.gbosdata.org/downloads-file/553-international-merchandise-trade-statistics-202).
 
 ### Open data
 <!-- data.open -->

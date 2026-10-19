@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 206
+sources_cited: 207
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -373,7 +373,7 @@ DR Congo had held [no population census, no agricultural census and no business 
 
 The weakness sits at the point of production. On the same 2023 assessment the [weakest pillars are data sources and data infrastructure, both in the 20-49% band, while data services and data products score 50-69% and data use 70-89%](https://www.worldbank.org/en/programs/statistical-performance-indicators) — numbers get used more readily than they get made.
 
-That ordering follows from how the administrative record is kept. [Civil registration runs on paper through local civil-status offices](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_CongoDRSnapshot_e.pdf) (2024), [its registers not integrated into any central file](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_01_05.pdf) (2026); disease surveillance [relies on paper reports and manual compilation before returns reach the national DHIS2 platform](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf) (2024); and school data has [no national electronic education management information system](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). Education has a management information system in SIGE, but a 2024 evaluation found [its databases unharmonised and the capacity behind them fragmented and donor-dependent](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf).
+That ordering follows from how the administrative record is kept. [Civil registration runs on paper through local civil-status offices](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_CongoDRSnapshot_e.pdf) (2024), [its registers not integrated into any central file](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_01_05.pdf) (2026); disease surveillance [relies on paper reports and manual compilation before returns reach the national DHIS2 platform](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf) (2024); and school data has [no national electronic education management information system](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). Education has a management information system in SIGE, but a 2024 evaluation found [its databases unharmonised and the capacity behind them fragmented and donor-dependent](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf). The education ministry [posted its 2023-2024 school statistics yearbook online on 3 October 2026, after validating it on 5 June](https://congojournal.com/articles/5462/rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-public).
 
 The trend is upward and slow: the [Capacity of the Statistical System score reached 35.4 out of 100 in 2023, 40th of 54 African states, after gaining 5.4 points over the preceding decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cd.pdf). The clearest recent move is in dissemination rather than collection — in June 2025 the country [implemented the IMF's enhanced General Data Dissemination System and launched a National Summary Data Page](https://www.imf.org/en/news/articles/2025/06/06/pr-25185-democratic-republic-of-congo-dem-repub-of-congo-implements-the-e-gdds) bringing macroeconomic series from several statistical agencies into one portal.
 

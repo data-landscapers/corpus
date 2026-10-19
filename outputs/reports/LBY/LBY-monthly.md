@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: LBY
-ledger_rows: 39
+ledger_rows: 40
 not_held: 4
-record: b66e4bbcb086
+record: e3a5a1af582f
 ---
 
 # News, Sep – Oct 2026
@@ -243,6 +243,20 @@ Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submar
 **[Uptime Institute — KM-4 Data Center, Libyan International Telecom Company](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=)** — Uptime Institute, 3 September 2026
 
 A tier III design certification is recorded for the Libyan national telecom company's KM-4 site, the first independent assessment of a Libyan facility the repository holds. It certifies design rather than construction or operation, and no capacity figures are disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">O3 Group Tier III data centre, Benghazi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Libya’s O3 Group Unveils Digital Infrastructure Plans After Medusa Cable Landing](https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/)** — TechAfrica News, 19 October 2026
+
+O3 fact sheet of 17 Oct 2026: Tripoli landing next, 12-13k km fibre, 2-5 MW Tier III data centre, 3,200 mobile sites.
 
 </div>
 

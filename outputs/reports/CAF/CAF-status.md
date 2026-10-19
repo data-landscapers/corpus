@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 132
+sources_cited: 133
 sections_written: 39
 not_established: 2
 acquire_lines: 27
@@ -20,7 +20,7 @@ The country's GovTech and digital transformation strategy has still not been ado
 
 Pieces of the apparatus exist without the whole. [The Agence Centrafricaine de Développement du Digital was created by Loi 23.008 of 19 June 2023 with the mission of implementing the national strategy for the digital sector](https://acdd.gouv.cf/agence.php). The country has also [established a dedicated data governance body as an autonomous institution and approved a data governance strategy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while having [no open source software policy or action plan for the public sector and no national strategy on disruptive or innovative technologies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-Identity is the one area worked through end to end. The government [approved the final report of a strategic diagnostic of the digital-identity and civil-registration system at a workshop in Bangui on 17 April 2025](https://oubanguimedias.com/2025/04/18/rca-le-gouvernement-valide-le-rapport-strategique-sur-lidentite-digitale-et-letat-civil-en-centrafrique/), and a national civil-status policy has been validated for it to align to. The national digital identity system announced in late 2025 is [not being deployed in any part, with assessments, procurement and an international tender all still ahead of it](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration).
+Identity is the one area worked through end to end. The government [approved the final report of a strategic diagnostic of the digital-identity and civil-registration system at a workshop in Bangui on 17 April 2025](https://oubanguimedias.com/2025/04/18/rca-le-gouvernement-valide-le-rapport-strategique-sur-lidentite-digitale-et-letat-civil-en-centrafrique/), and [a national civil-status policy and action plan were technically validated in Bangui in April 2024](https://oubanguimedias.com/2024/05/02/centrafrique-validation-technique-du-document-de-politique-nationale-detat-civil/) for it to align to. The national digital identity system announced in late 2025 is [not being deployed in any part, with assessments, procurement and an international tender all still ahead of it](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration).
 
 Delivery capacity is where the plans meet their limit: [Effective Administration scored 25.7 out of 100 in 2023, 50th of 54 African countries, having gained 0.3 points across the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf) — effectively flat.
 

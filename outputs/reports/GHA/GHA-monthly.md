@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: GHA
-ledger_rows: 107
+ledger_rows: 109
 not_held: 9
-record: 785e95fdad3d
+record: 2f4a840e06e0
 ---
 
 # News, Sep – Oct 2026
@@ -139,6 +139,28 @@ The Fourth Estate reported that 21 Ghanaian public institutions failed to releas
 **[REGULATION | Ghana Sets Up 5-Agency Committee to Coordinate Virtual Asset Regulation Oversight](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/)** — BitKE, 3 September 2026
 
 Ghana has set up a five-agency Virtual Assets Coordinating Committee, chaired by Bank of Ghana Governor Johnson Pandit Asiama, joining the central bank, the Securities and Exchange Commission, the Finance Ministry, the Cyber Security Authority and the Financial Intelligence Centre. Regulators aim to implement the Virtual Asset Service Providers Act, 2025 fully by 2027. Operational rules have not yet been published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIM re-registration legislative instrument</p>
+
+<div class="bulletin-item" markdown="1">
+
+**['The resolve of this Ministry is unshaken' – Sam George on biometric SIM verification](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/)** — Asaase Radio, 7 September 2026
+
+Ghana's communications minister said Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026. The same account puts completion of the 2021–2023 exercise it replaces at 44.28% of subscribers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana's Biometric SIM Plan Fixes the Right Gap, but the Data Safeguards Must Be Written Into the Rules](https://peopleofinternet.com/articles/ghana-s-biometric-sim-plan-fixes-the-right-gap-but-the-data.html)** — People of Internet, 18 October 2026
+
+Case for legacy-data purge, match-only queries, warrants for police access and fallback for failed reads.
 
 </div>
 
@@ -333,6 +355,20 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 **[Ghana to host UN convention signing on digital cargo documents on October 26](https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/)** — MyJoyOnline, 16 October 2026
 
 Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026. The Ghana Shippers' Authority says the convention gives electronic bills of lading and similar documents the legal standing of paper ones, but that the benefits depend on ratification and readiness.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Africa Data Exchange cross-border digital ID interoperability pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
 
 </div>
 
@@ -1018,11 +1054,11 @@ The Bank of Ghana's website carries its directive, issued under the National Ide
 
 <p class="monthly-story__name">Biometric SIM re-registration</p>
 
-<div class="bulletin-item" markdown="1">
+<div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **['The resolve of this Ministry is unshaken' – Sam George on biometric SIM verification](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/)** — Asaase Radio, 7 September 2026
 
-Ghana's communications minister said Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026. The same account puts completion of the 2021–2023 exercise it replaces at 44.28% of subscribers.
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 

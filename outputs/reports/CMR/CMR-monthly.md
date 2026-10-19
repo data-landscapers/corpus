@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: CMR
-ledger_rows: 35
+ledger_rows: 36
 not_held: 4
-record: 009776f851ca
+record: 0abc6d24d72d
 ---
 
 # News, Sep – Oct 2026
@@ -271,6 +271,20 @@ CAMTEL signed a framework agreement with Cameroon's state housing company to bri
 **[Cameroon’s CAMTEL, SIC Sign Agreement to Bring Fibre Internet to Public Housing - Business in Cameroon](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing)** — Business in Cameroon, 14 October 2026
 
 CAMTEL and the state housing developer SIC signed a framework agreement in Yaoundé to connect SIC estates to fibre, starting with about 40 households out of more than 30,000 SIC clients. Subscriptions start at CFAF 15,000 a month with CFAF 25,000 installation, and new SIC buildings are to be prewired.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Camtel and Socadel infrastructure sharing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Camtel, Socadel explore infrastructure sharing deal](https://www.itweb.africa/article/camtel-socadel-explore-infrastructure-sharing-deal/Olx4z7kaBQmq56km)** — ITWeb Africa, 19 October 2026
+
+MoU signed 16 Oct 2026 in Yaoundé: fibre on power poles; feasibility studies and pilot sites next.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: CIV
 ledger_rows: 45
 not_held: 10
-record: 5e48aa238d66
+record: e2fea64f1035
 ---
 
 # News, Sep – Oct 2026
@@ -635,6 +635,14 @@ Côte d'Ivoire's civil service ministry enrolled the mayor and secretary-general
 **[Banque mondiale : le PAGDS présente ses réalisations dans la digitalisation des services publics](https://www.aip.ci/cote-divoire-aip-banque-mondiale-le-pagds-presente-ses-realisations-dans-la-digitalisation-des-services-publics/)** — Agence Ivoirienne de Presse (AIP), 21 September 2026
 
 Côte d'Ivoire's World Bank-funded PAGDS project, approved in April 2019, reported its digitalisation results on 21 September 2026, and its coordinator said a second phase has started. The results include digital allocation and tracking of pupils in private schools, patient tracking under universal health coverage, electronic payment of state transfers and online company registration. World Bank figures cited put average growth in non-oil tax revenue at 12.4% against a 5% target, and customs revenue at 19.2% against 6%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire | Administration : Ouattara fixe le cap d'une économie numérique d'ici 2029](https://afrimag.net/cote-divoire-administration-ouattara-fixe-le-cap-dune-economie-numerique-dici-2029/)** — Afrimag, 16 October 2026
+
+PAGDS USD 195m, 23 platforms, phase 1 closed June 2026; hospital IS in 268 facilities; CGECI briefed 15 Sep.
 
 </div>
 

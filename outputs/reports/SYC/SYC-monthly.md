@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: SYC
-ledger_rows: 12
+ledger_rows: 13
 not_held: 6
-record: e764cfe596ab
+record: ca0f3affb34a
 ---
 
 # News, Sep – Oct 2026
@@ -107,8 +107,26 @@ Seychelles' Department of Information Communications Technology sets out the man
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Domestic-state digital-transformation budget line</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026
+
+SCR325m digitalisation allocation 2026-28; FreeBalance lead consultant; contract December 2024; IMF had projected 2026.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -237,6 +255,14 @@ Seychelles' finance ministry and the Agency for Social Protection signed a perfo
 **[Government Targets Introduction of Digital Human Resource Management System in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027)** — State House Seychelles, 14 October 2026
 
 Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a State House briefing with FreeBalance, that the government aims to begin introducing a digital human resource management system for the public service in 2027. He also said more digital transactions should be processed within Seychelles. FreeBalance's role and the cost are not stated.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
 
 </div>
 

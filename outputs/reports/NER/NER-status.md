@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 170
+sources_cited: 172
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -334,7 +334,7 @@ Niger's [2025 business census counted 153,661 formally registered enterprises](h
 
 The weakness sits in collection rather than in what is done with the results. On the World Bank's [Statistical Performance Indicators for 2023 Niger scores above 89 per cent on data use but only 20 to 49 per cent on data sources](https://www.worldbank.org/en/programs/statistical-performance-indicators), the weakest of the five pillars, with data products at 70 to 89 per cent and both data services and data infrastructure in the 50 to 69 per cent band. The Ibrahim Index puts the [capacity of the statistical system at 43.8 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf), 33rd of 54 African states and 3.2 points higher than a decade earlier.
 
-Much of what feeds those figures is still gathered on paper. The annual school census is [completed by school heads, collected through the regional education directorates and only then keyed centrally into the STATEDUC application](https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MEN/Annuaire_MENAFPPLN_2024_2025_vf.pdf), with no digital capture at school level and rural schools without the power or connectivity to attempt it (2025); civil registration is [likewise largely paper, its digitisation confined to a partial rollout in which Niamey records reach a central server](https://stat-niger.org/wp-content/uploads/etat_civil/rapport_etat_civil_2023.pdf) (2023).
+Much of what feeds those figures is still gathered on paper. The annual school census is [completed by school heads, collected through the regional education directorates and only then keyed centrally into the STATEDUC application](https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MEN/Annuaire_MENAFPPLN_2024_2025_vf.pdf), with no digital capture at school level and rural schools without the power or connectivity to attempt it (2025); civil registration is [likewise largely paper, its digitisation confined to a partial rollout in which Niamey records reach a central server](https://stat-niger.org/wp-content/uploads/etat_civil/rapport_etat_civil_2023.pdf) (2023). Trade and health figures are drawn from digital systems: [final foreign trade figures for 2020-2024 are built from customs declarations in SYDONIA and processed in EUROTRACE](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/bulletin/Bulletin_des_Statistiques_annuelles_definitives_2024_VF.pdf), and [the 2023 health statistics yearbook is compiled from routine facility reporting on DHIS2](https://stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/ministere_sante/Annuaire_Statistiques_Sanitaire_2023.pdf).
 
 <!-- derived -->
 Four different national birth-registration rates were quoted at official events within three weeks of August 2026 — 79 per cent, 80 per cent, 79.63 per cent and, for 2023, 60 per cent — none of them attached to a named survey instrument, which leaves the country's own civil-registration coverage fixed at roughly four-fifths and no finer.

@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: SLE
 ledger_rows: 34
 not_held: 4
-record: 55feb0f42cad
+record: cc7dbb9d6d24
 ---
 
 # News, Sep – Oct 2026
@@ -679,6 +679,14 @@ The budget for Sierra Leone's 2026 Population and Housing Census has risen from 
 **[Sierra Leone counts down to first fully digital census](https://www.thesierraleonetelegraph.com/sierra-leone-counts-down-to-first-fully-digital-census/)** — The Sierra Leone Telegraph, 13 October 2026
 
 Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Census, its first fully digital enumeration. Census Night is 1 December and nationwide enumeration starts the next day.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
+
+Mock-census enumeration at Hill Station tests digital collection ahead of December 2026 count; UNFPA support.
 
 </div>
 

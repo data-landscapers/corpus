@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: BDI
-ledger_rows: 15
+ledger_rows: 16
 not_held: 10
-record: f2be392a5d3b
+record: e852949cb035
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: f2be392a5d3b
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -287,6 +289,28 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 **[Intelligence artificielle : à Séoul, le Burundi présente ses ambitions](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions)** — wearetech.africa, 10 September 2026
 
 Burundi presented the ambitions of its national artificial intelligence strategy at the Korea-Africa economic cooperation ministerial in Seoul, seeking the financing and partnerships to turn it into concrete projects. The strategy, validated in April, provides for strengthening connectivity, data infrastructure and local skills; the country's digital capacity remains limited.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General Enterprise Census of Burundi 2026 (RGEB-2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Primature lance officiellement les activités du Recensement Général des Entreprises du Burundi, édition 2026](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/)** — Primature du Burundi, 15 October 2026
+
+Enterprise census of formal and informal firms opened 15 Oct 2026; updates national register, rebases accounts.
 
 </div>
 

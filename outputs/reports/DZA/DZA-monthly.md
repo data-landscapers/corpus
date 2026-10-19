@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: DZA
-ledger_rows: 40
+ledger_rows: 41
 not_held: 5
-record: fede41fdc7f2
+record: 8edaa2932ff7
 ---
 
 # News, Sep – Oct 2026
@@ -705,6 +705,20 @@ Algeria's higher education minister, Kamel Baddari, chaired an inter-ministerial
 **[AI Strategy Moves to Implementation Phase](https://dzwatch.dz/?p=79285)** — DZWatch, 22 September 2026
 
 A follow-up meeting on Algeria's national AI strategy approved an updated draft decree creating a National Research Centre for Artificial Intelligence and Data, which now goes through legal procedures. Committees set 17 infrastructure and 14 data operations for 2026 and 85 training operations. The meeting date and chair are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National high-performance computing and AI programme to 2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026
+
+Company co-funding for GPUs, joint framework to draft a 2030 HPC and AI roadmap; diaspora recruitment.
 
 </div>
 

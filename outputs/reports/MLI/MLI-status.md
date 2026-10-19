@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 166
+sources_cited: 168
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -337,7 +337,7 @@ The system's planning cycle ran out in 2024 and its successor reached the Counci
 
 The fifth general population and housing census, which Malian law requires every ten years and which was planned for fieldwork in 2019, [only concluded in 2022](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0101), delayed by the country's infrastructure and security conditions. Sweden, which [co-funded it through INSTAT](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0101), then paid for a [separate special review of the census at SEK 599,826](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0201), an activity opened and closed within 2024.
 
-The state's ability to count what it governs has not moved in a decade: Mali's [capacity of the statistical system score stood at 32.5 out of 100 in 2023, 46th of 54 African states and 0.2 points below where it was ten years earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). Connectivity inside the system is improving, with [internet access across the structures of the National Statistical System, coordinated by INSTAT under Law No. 2016-005, reaching 63 per cent in 2024 from 49 per cent in 2023](https://www.instat-mali.org/laravel-filemanager/files/shares/ca/rap-act-statistique-2024_ca.pdf), while intranet links and working websites remain scarce across many member bodies.
+The state's ability to count what it governs has not moved in a decade: Mali's [capacity of the statistical system score stood at 32.5 out of 100 in 2023, 46th of 54 African states and 0.2 points below where it was ten years earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). Connectivity inside the system is improving, with [internet access across the structures of the National Statistical System, coordinated by INSTAT under Law No. 2016-005, reaching 63 per cent in 2024 from 49 per cent in 2023](https://www.instat-mali.org/laravel-filemanager/files/shares/ca/rap-act-statistique-2024_ca.pdf), while intranet links and working websites remain scarce across many member bodies. Routine output is regular: [the 2024 statistical yearbook, compiled from ministry and agency returns, appeared in April 2026](https://www.instat-mali.org/storage/346/anuair24_pub.pdf), and [trade statistics are compiled each year from the customs directorate's computerised records](https://www.instat-mali.org/laravel-filemanager/files/shares/pub/anuair-stat-cmext23_pub.pdf).
 
 Where the numbers begin, capture is still on paper: rural clinics [keep patient encounters on paper registers and send only aggregated monthly totals to the national DHIS2 platform](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). A peer review of the education management information system found it had [no formal data-sharing protocol with INSTAT](https://knowledgehub.adeanet.org/en/elibrary/adea2017d017) (2017).
 

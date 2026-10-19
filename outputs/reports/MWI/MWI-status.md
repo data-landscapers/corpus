@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 233
+sources_cited: 235
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -332,7 +332,7 @@ Schooling divides the next generation before the market does: about 900 of Malaw
 ### National statistics
 <!-- data.statistics -->
 
-Malawi's statistical system is rated far stronger on what is done with the numbers than on where they come from: the World Bank puts the country [above 89% on data use and 70-89% on data products, but at 20-49% on both data sources and data infrastructure, with data services in between](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The collection record bears that out. A [population census and a business census have both been run within the last ten years, while the most recent agricultural census falls only within the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023); over the decade to 2023 the country ran [three or more household, health and business surveys each, two labour surveys and a single agricultural survey](https://www.worldbank.org/en/programs/statistical-performance-indicators). Agriculture is the one domain the counts identify outright as thin.
+Malawi's statistical system is rated far stronger on what is done with the numbers than on where they come from: the World Bank puts the country [above 89% on data use and 70-89% on data products, but at 20-49% on both data sources and data infrastructure, with data services in between](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The collection record bears that out. A [population census and a business census have both been run within the last ten years, while the most recent agricultural census falls only within the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023); over the decade to 2023 the country ran [three or more household, health and business surveys each, two labour surveys and a single agricultural survey](https://www.worldbank.org/en/programs/statistical-performance-indicators). Agriculture is the one domain the counts identify outright as thin. The statistics office [published its fortieth statistical yearbook in 2023, drawing on the health and education information systems and the road safety database alongside census and survey data](https://cms.nsomalawi.mw/api/download/230/Statistical_Year_Book_2023.pdf), but [an external review that September found users rated its website outdated and recorded that a planned release calendar had not been achieved](https://cms.nsomalawi.mw/api/download/408/NSO_and_NSS_Malawi_strategy_review_report.pdf).
 
 The composite measures put it more flatly: the Mo Ibrahim Foundation's [Capacity of the Statistical System indicator scores Malawi 48.1 out of 100.0 in 2023, 27th of 54 African states and up 2.2 points across the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf) to 2023. The weakness in sources shows in the plumbing — [health data from rural facilities reaches the national system by clerks transcribing patient-held records into paper registers that district offices then key in](https://health.bmz.de/stories/linking-rural-health-centres-up-with-malawis-digital-health-architecture/) (2025), while the bureau's own plan makes [death and marriage registration the basis of national vital statistics](https://www.undp.org/sites/g/files/zskgke326/files/2026-01/malawi_nrb_strategic_plan_2025_web.pdf) (2025); the first [vital statistics report built from registration records, covering 2022](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/malawi-vital-statistics-report-2024.pdf), was published in 2025. A [2025-2027 project with the Ministry of Finance is building a harmonised management information system](https://aa.unfpa.org/establishment-harmonized-national-management-information-system-hnmis) to pull sector administrative data together for planning.
 

@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: SDN
-ledger_rows: 28
+ledger_rows: 29
 not_held: 5
-record: 9291c6b57d3d
+record: 101b5661bb25
 ---
 
 # News, Sep – Oct 2026
@@ -92,6 +92,8 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -105,6 +107,22 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
 Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Mechanism for Combating Information Crimes</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026
+
+Chaired by assistant attorney general; mandate to monitor social media and sue on the state's behalf.
 
 </div>
 
@@ -367,6 +385,14 @@ Bede Sudan, a mobile operator's fintech arm, launched a bank account number serv
 **[هل تصبح الرقمنة الحكومية بوابة السودان لجذب الاستثمار ودمج الاقتصاد؟](https://alghadalsudani.com/34214/)** — الغد السوداني, 1 October 2026
 
 Sudan's Ministry of Digital Transformation and Communications added three services to its Baladna platform: company commercial registration, electronic accounts for law firms to manage client records, and remote renewal of lawyers' practising licences. A legal adviser quoted named weak telecoms infrastructure and low uptake by businesses as obstacles. The launch date is not given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[تعطل شبه كامل في المسجل التجاري بسبب خلل في منصة 'بلدنا' | فجر السودان - من قلب الحدث](https://sudandawn.com/?p=22515)** — فجر السودان, 18 October 2026
+
+Company and business-name filings stalled over a week by platform fault; lawyers demand urgent and lasting fix.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: MOZ
 ledger_rows: 43
 not_held: 18
-record: ee0bf752e769
+record: e3a7ac2231ab
 ---
 
 # News, Sep – Oct 2026
@@ -807,6 +807,22 @@ Mozambique's new Regulation on Industrial Activity Licensing, replacing the 2014
 **[DIGITALIZAÇÃO: Novo centro de emissão de documentos é uma realidade](https://www.jornalnoticias.co.mz/destaque/digitalizacao-novo-centro-de-emissao-de-documentos-e-uma-realidade/)** — Jornal Notícias, 14 October 2026
 
 President Daniel Chapo opened Centro Pronto in Maputo on 14 October, a centre that issues identity cards, passports, DIRE residence documents, driving licences and residence permits in one place. It was launched at the Citizen Connect Africa conference.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo Digitaliza Serviços de Identificação e Reduz Burocracia](https://bnews.co.mz/artigo/governo-digitaliza-servi-os-de-identifica-o-e-reduz-burocracia)** — BNEWS, 16 October 2026
+
+ATDI and India's VFS Global build the Maputo one-stop ID centre; Beira and Nampula next, diaspora later.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026
+
+Centre fee plus VAT lifts an adult ID renewal from MZN 160 to MZN 1,058; passport express MZN 10,725.
 
 </div>
 

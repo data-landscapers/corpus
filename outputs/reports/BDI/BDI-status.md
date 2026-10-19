@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 254
+sources_cited: 255
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -388,7 +388,7 @@ The state's own plans concede the point: [Burundi's artificial intelligence stra
 ### National statistics
 <!-- data.statistics -->
 
-The weakest part of Burundi's statistical system is what goes into it: on the World Bank's Statistical Performance Indicators for 2023 the [data sources pillar scores under 20%, with data services and statistical infrastructure in the 20-49% band, while data use and data products both score 70-89%](https://www.worldbank.org/en/programs/statistical-performance-indicators). Burundi had fielded [three or more household surveys in the preceding ten years but no labour force survey and no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators), and [no business or establishment census in twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators). Mo Ibrahim's index put [the capacity of the statistical system at 34.2 out of 100 in 2023, 43rd of 54 African states and 3.7 points down over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf).
+The weakest part of Burundi's statistical system is what goes into it: on the World Bank's Statistical Performance Indicators for 2023 the [data sources pillar scores under 20%, with data services and statistical infrastructure in the 20-49% band, while data use and data products both score 70-89%](https://www.worldbank.org/en/programs/statistical-performance-indicators). Burundi had fielded [three or more household surveys in the preceding ten years but no labour force survey and no business survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators), and [no business or establishment census in twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators) until [the General Enterprise Census of 2026 was launched on 15 October 2026 to count every formal and informal enterprise and update the national enterprise register](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/). Mo Ibrahim's index put [the capacity of the statistical system at 34.2 out of 100 in 2023, 43rd of 54 African states and 3.7 points down over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf).
 
 <!-- derived -->
 Statistical output rests on administrative records rather than survey rounds: three separately produced yearbooks — INSBU's national annuaire, the education ministry's and the trade, transport, industry and tourism ministry's — were published in the fourteen months to January 2026, all compiled from routine administrative sources.

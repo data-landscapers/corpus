@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 183
+sources_cited: 184
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -217,7 +217,7 @@ Two registers are being built new. [ZIMSTAT and the labour ministry launched a h
 
 Health is the deepest deployment: [Zimbabwe's Impilo electronic health record was running at 1,254 of roughly 1,900 public health facilities — about two thirds — as of August 2025, with further expansion under way](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), and [Global Fund financing is extending solar power, internet connectivity and digitally enabled diagnostics to last-mile facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf). Installation is running ahead of working systems: in Matabeleland South, [the share of facilities with the infrastructure installed stood well above the share with it fully functional in the first half of 2025, with rural districts held back by unreliable electricity and connectivity](https://rsisinternational.org/journals/ijrsi/uploads/vol12-iss15-pg2476-2481-202511_pdf.pdf). Donated [satellite kits sit unactivated at rural health facilities because the health ministry cannot afford the subscriptions](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription).
 
-Education's data is still gathered on the form. The [annual school census was revised in 2025 to add questions on climate resilience and disaster risk](https://www.iiep.unesco.org/en/articles/zimbabwes-climate-smart-annual-school-census), and [the 2025 form still asks each primary school whether it maintains digitalised school records](https://www.scribd.com/document/875180874/ED-46-C1-Primary-Schools).
+Education's data now travels electronically from the school up: in the 2025 annual school census [school heads certified the returns and submitted them as electronic questionnaires to district offices for verification and upload to the ministry's central server](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf). The [census form was revised in 2025 to add questions on climate resilience and disaster risk](https://www.iiep.unesco.org/en/articles/zimbabwes-climate-smart-annual-school-census), and [it still asks each primary school whether it maintains digitalised school records](https://www.scribd.com/document/875180874/ED-46-C1-Primary-Schools); the same census [found internet access at 38.57% of primary schools and 55.75% of secondary schools in 2025](https://www.mopse.gov.zw/wp-content/uploads/2026/02/2025-Annual-Statistical-Report.pdf).
 
 [The Judiciary's Integrated Electronic Case Management System is the most digitally advanced sector system in government, and is connected to no national interoperability platform](https://documents1.worldbank.org/curated/en/982981621880260112/pdf/Digital-Economy-for-Zimbabwe-Country-Diagnostic-Report.pdf). The Chief Justice told the opening of the 2026 legal year that [all the superior courts are now paperless and four magisterial provinces had been digitised under the fourth phase of the rollout](https://www.veritaszim.net/sites/veritas_d/files/Address%20by%20CJ%20on%20Opening%20of%202026%20Judicial%20Year.pdf), and [sixteen further magistrates' courts in Manicaland and Mashonaland East were set for digitisation from 1 June 2026](https://www.zimbabwesituation.com/news/sixteen-magistrates-courts-set-for-digital-rollout-starting-monday/). No case volume or disposal-time figure from the system has been published. At the other end, [the police were still describing a move to an electronic docket management system as coming soon in December 2025](https://stalliontimes.com/zimbabwe-police-embrace-electronic-docket-system/).
 

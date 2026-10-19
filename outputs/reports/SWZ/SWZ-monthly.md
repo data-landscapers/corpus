@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: SWZ
-ledger_rows: 38
+ledger_rows: 41
 not_held: 3
-record: 3697501c9f04
+record: 5c0de066dd11
 ---
 
 # News, Sep – Oct 2026
@@ -492,6 +492,20 @@ An outage of Eswatini government digital services has stopped new loans to civil
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic logistics management information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ESWATINI TURNS TO DIGITAL HEALTH SYSTEMS TO IMPROVE HEALTHCARE DELIVERY](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/)** — Eswatini Positive News, 17 October 2026
+
+Minister's clinic visit; eLMIS and CMIS in 250 facilities, interoperable, patients keyed to national ID numbers.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -561,6 +575,20 @@ Summarised under [Data Storage](#data-storage).
 **[National Data Centre hit by 'incident'](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/)** — Times of Eswatini, 24 September 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-enabled government services platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026
+
+Proposed mobile AI services-and-payments platform, no start date; skills targets 300,000 via UAE, 200,000 via World Bank.
 
 </div>
 
@@ -713,6 +741,20 @@ Eswatini's education minister, Owen Nxumalo, said on 15 September 2026 that Taiw
 **[E1.06BN DIGITAL ESWATINI PUTS PEOPLE BEFORE TECHNOLOGY](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/)** — Eswatini Positive News, 24 September 2026
 
 About 40 change agents from five ministries and parastatals held a change-readiness workshop in Mbabane on 24 September, assessing their own directorates ahead of implementation of the World Bank-financed Digital Eswatini Project (US$65 million, about E1.06 billion). They are to help public servants adjust to the new digital systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitally skilled citizens targeted</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

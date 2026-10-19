@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: ZAF
-ledger_rows: 149
+ledger_rows: 150
 not_held: 21
-record: 45982d98f84b
+record: 8f3d925998f4
 ---
 
 # News, Sep – Oct 2026
@@ -2013,6 +2013,20 @@ South Africa's home affairs minister said a biometric online platform for asylum
 **[MPs raise alarm after Home Affairs bought kiosks that remain unused](https://www.citizen.co.za/news/mps-raise-alarm-after-home-affairs-bought-kiosks-that-remain-unused/)** — The Citizen (South Africa), 17 October 2026
 
 South African MPs found self-service kiosks that Home Affairs bought under a 2024 project still undeployed, while licence fees keep running. The briefing was postponed after the director-general and chief financial officer did not attend, and no total cost was disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Border Management Authority Vehicle Targeting System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BMA vehicle crime crackdown shifts into digital gear](https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew)** — ITWeb South Africa, 19 October 2026
+
+Number-plate cameras at six land ports; 83 vehicles worth R46.6m recovered in six months; data stays with the state.
 
 </div>
 

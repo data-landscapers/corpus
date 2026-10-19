@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: XAF
-ledger_rows: 105
+ledger_rows: 106
 not_held: 3
-record: 1cb0c802b2d2
+record: 3404ef19611a
 ---
 
 # News, Sep – Oct 2026
@@ -1081,6 +1081,20 @@ UNDP has published the standing description of its Africa Accelerator for Digita
 **[UNDP's AA4DPI Programme Deepens South-South Cooperation on Digital Public Infrastructure](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure)** — United Nations Development Programme (UNDP), 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
 Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African Union representatives, concluded a two-week South-South learning mission to India on digital public infrastructure. Convened under UNDP's newly launched Africa Accelerator for Digital Public Infrastructure, it took delegates through New Delhi, Pune and Bengaluru to examine India's digital identity, payment and data exchange systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SADX (Smart Africa Data Exchange)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
 
 </div>
 

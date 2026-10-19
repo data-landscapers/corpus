@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: TGO
 ledger_rows: 55
 not_held: 18
-record: 4eee635c1603
+record: d9016bc75d65
 ---
 
 # News, Sep – Oct 2026
@@ -1023,6 +1023,14 @@ Togo's digital minister Cina Lawson announced on 1 October 2026 a space cooperat
 **[Togo-Chine : une douzaine d'accords multisectoriels signés à Pékin pour renforcer le partenariat bilatéral](https://presidenceduconseil.gouv.tg/2026/10/16/togo-chine-de-nouveaux-accords-multisectoriels-pour-renforcer-le-partenariat-bilateral/)** — Présidence du Conseil (Togo), 16 October 2026
 
 Togo and China signed thirteen agreements and memoranda in Beijing on 15 October 2026, two days after raising relations to a 'China-Togo community with a shared future for the new era'. They include cooperation on digital commerce and supply chains, an Authorised Economic Operator protocol between Togo's revenue office and Chinese customs, China Media Group partnerships with Télévision togolaise and partial cancellation of Togo's debt; a separate memorandum covers China's Global Security Initiative.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
+
+Signed 16 Oct 2026 in Shenzhen; energy, smart transport, smart customs; technology transfer; no value stated.
 
 </div>
 

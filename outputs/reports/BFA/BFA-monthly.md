@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: BFA
 ledger_rows: 40
 not_held: 7
-record: e864be82683b
+record: 2193af8fc2e2
 ---
 
 # News, Sep – Oct 2026
@@ -667,6 +667,14 @@ Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Ess
 **[Le Faso Digital 2026 : La 2e édition se tiendra du 17 au 24 octobre avec le Rwanda comme invité d’honneur](https://lefaso.net/spip.php?article149300)** — leFaso.net, 17 September 2026
 
 Burkina Faso's national digital event returns for a second edition from 17 to 24 October, wholly online and with Rwanda as guest of honour. Its innovation competition had taken 95 entries by 16 September.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Faso Digital 2026 : 201 solutions innovantes pour bâtir la souveraineté et l’inclusion numérique au Burkina Faso](https://digitalmagazine.bf/2026/10/18/le-faso-digital-2026-201-solutions-innovantes-pour-batir-la-souverainete-et-linclusion-numerique-au-burkina-faso/)** — Digital Magazine BF, 18 October 2026
+
+Virtual fair opened 17 Oct 2026 with 201 solutions from 208 entries; Rwanda guest of honour.
 
 </div>
 

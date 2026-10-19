@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: TZA
-ledger_rows: 75
+ledger_rows: 77
 not_held: 5
-record: 42b8e34f2f58
+record: 6bef2f07ac98
 ---
 
 # News, Sep – Oct 2026
@@ -734,6 +734,20 @@ UBA Tanzania has launched cross-border payments over the Pan-African Payment and
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoovnPay wallet acceptance through Mastercard Pay Local</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Five-year deal; prepaid cards, tokenisation and Pay Local in MoovnPay wallet across Kenya and Tanzania.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1287,8 +1301,26 @@ Tanzania's Universal Communications Service Access Fund said on 5 October 2026 i
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
 </nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistical Abstract</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistical Abstract 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)** — National Bureau of Statistics, 1 September 2026
+
+NBS annual compendium of official tables, largely from ministry administrative records, issued September 2026.
+
+</div>
+
+</div>
 
 ### Open data
 

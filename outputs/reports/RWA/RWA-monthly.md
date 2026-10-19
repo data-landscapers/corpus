@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: RWA
-ledger_rows: 45
+ledger_rows: 46
 not_held: 7
-record: 18aedef04837
+record: 8dbbf1a57d4b
 ---
 
 # News, Sep – Oct 2026
@@ -95,6 +95,20 @@ Rwanda's president warned at the first International Space Summit in Paris that 
 **[Rwanda Has Been Selected as Africa's Second UN World Data Forum Host](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/)** — RADIOTV10, 22 September 2026
 
 Rwanda was chosen on 21 September 2026 to host the seventh UN World Data Forum, expected in the fourth quarter of 2028. It is the second African host after South Africa, which held the first forum in Cape Town in 2017. The National Institute of Statistics of Rwanda welcomed the selection.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cross-border digital identity pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana, Rwanda ID systems linked via SADX; pilot for air and land border verification, no test date set.
 
 </div>
 

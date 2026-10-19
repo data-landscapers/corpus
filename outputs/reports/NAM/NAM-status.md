@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 183
+sources_cited: 186
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -236,7 +236,7 @@ None of the five core administrative systems in operation — financial manageme
 
 The gap at the centre is the workforce: [there is no human resources management information system with self-service for public employees and managers and no payroll system linked to one, so no public service HR data is exchanged and the national ID is not used as an HR identifier](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). A journal study reported managers saying [district officers key facilities' monthly paper summaries into DHIS2 while primary facilities still report on paper](https://sajim.co.za/index.php/sajim/article/view/2060/3547) (2026).
 
-[The safety ministry's 2018/19 vote speech reported the E-Policing system and an automated biometric identification system in place](https://www.parliament.na/wp-content/uploads/2021/08/Vote-06-Ministry-of-Safety-and-Security.pdf). [A 2022 university study found police in one region keeping traffic-offence records on paper in cabinets](https://digital.unam.edu.na/xmlui/handle/11070.1/18365). [The force's own history page dates E-Policing to 2014](https://nampol.gov.na/about-us1).
+[The police said in October 2026 that the E-Policing system, which spans 11 national databases including the N-ABIS fingerprint system, suffers slow processing and intermittent interruptions, and that an overhaul has begun, with no budget, timetable or funding disclosed](https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/). [The safety ministry's 2018/19 vote speech reported the E-Policing system and an automated biometric identification system in place](https://www.parliament.na/wp-content/uploads/2021/08/Vote-06-Ministry-of-Safety-and-Security.pdf). [A 2022 university study found police in one region keeping traffic-offence records on paper in cabinets](https://digital.unam.edu.na/xmlui/handle/11070.1/18365). [The force's own history page dates E-Policing to 2014](https://nampol.gov.na/about-us1).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
@@ -355,7 +355,7 @@ The first published rules for that machinery arrived in September 2025, when [th
 
 That machinery is largely paper at the point of contact. Rural primary schools [record attendance, enrolment and learning outcomes on paper registers and send them twice a year on physical forms to regional education offices, where the ministry's EMIS division digitises them centrally for the annual education census](https://www.moe.gov.na/index.php/dep/dep-fa/dir-pad/emis) (January 2024), and health care [still runs substantially on paper records, which the health minister named in March 2026 alongside fragmented information systems and uneven rural and urban access](https://www.we.com.na/health-we/fragmented-systems-still-hinder-healthcare-as-namibia-pushes-digital-remodel-nmh008500-4-9782). Vital statistics show what that costs: [birth registration completeness fell sharply in 2021](https://nsa.org.na/wp-content/uploads/2024/07/2018-2021_Namibia-Vital-Statistics-Report_April-2024.pdf), on the statistics agency's own reporting.
 
-Nor does anyone in government own the problem: [no dedicated entity is responsible for data governance or data management, and there is no data governance strategy or policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Financial statistics are the standing exception — the Bank of Namibia's [national payment system figures appear on a regular quarterly cycle, each edition within days of quarter-end](https://www.bon.com.na/Publications/Quarterly-Bulletins/Quarterly-Bulletins-Publication.aspx) (2026).
+Nor does anyone in government own the problem: [no dedicated entity is responsible for data governance or data management, and there is no data governance strategy or policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Financial statistics are the standing exception — the Bank of Namibia's [national payment system figures appear on a regular quarterly cycle, each edition within days of quarter-end](https://www.bon.com.na/Publications/Quarterly-Bulletins/Quarterly-Bulletins-Publication.aspx) (2026). The statistics agency issues a [monthly merchandise trade bulletin, the April 2026 edition published in June](https://nsa.org.na/wp-content/uploads/2026/06/International-Merchandise-Trade-Statistics-Bulletin_April-2026_Dissemination.pdf). It [told a regional workshop in March 2025 that no law or memorandum gives it access to immigration or labour-migration records, so it cannot produce migration flow data](https://unstats.un.org/unsd/demographic-social/meetings/2025/migration-wk-sadc-20250317/Country%20-%20Namibia%20-%20SADC%20presentations_rev_17%20March%202025_updated.pdf).
 
 ### Open data
 <!-- data.open -->

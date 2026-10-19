@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: NGA
-ledger_rows: 155
+ledger_rows: 158
 not_held: 9
-record: 6bcfcfc06594
+record: 1141801870d7
 ---
 
 # News, Sep – Oct 2026
@@ -123,6 +123,20 @@ The president declared Nigeria's Digital Free Zones initiative moved to its impl
 **[President Tinubu Approves National Strategy on Public Service Reforms](https://www.thisdaylive.com/2026/10/01/president-tinubu-approves-national-strategy-on-public-service-reforms/)** — ThisDay, 1 October 2026
 
 President Bola Tinubu has approved a renewed National Strategy on Public Service Reforms, the director general of Nigeria's Bureau of Public Service Reforms, Dasuki Arabi, said in Abuja on 30 September 2026. The three-yearly revision will add government policies on AI and blockchain in the public service. No approval date or text was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NCC Internet Governance Working Group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC Launches Internet Governance Working Group to Strengthen Online Safety and AI Accountability](https://ncc.gov.ng/node/7467)** — Nigerian Communications Commission, 18 October 2026
+
+NCC's own release: inaugural symposium, Lagos, 15 Oct 2026; ICOP 2026 and sector Cyber Resilience Framework cited.
 
 </div>
 
@@ -1432,6 +1446,20 @@ Nigeria's identity agency NIMC said the national identity database is hosted who
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Centralised Interior Management and Administration System (CMAS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Government Integrates Over 15 Million Migration Records - Voice of Nigeria](https://von.gov.ng/nigerian-government-integrates-over-15-million-migration-records/)** — Voice of Nigeria, 17 October 2026
+
+BCIMS absorbs MIDAS; CMAS links immigration, corrections, fire service; 8PB+ data centre; 87 officers trained.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -1551,6 +1579,20 @@ Nigeria's supervising minister of cooperative affairs, Aliyu Sabi Abdullahi, tol
 **[Gov Radda Seeks NIMC Partnership to Strengthen Identity Management](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/)** — Time Express Nigeria, 10 October 2026
 
 Katsina State and Nigeria's identity commission agreed a working group to link the state's identity management system to the national one, with a framework and memorandum due within eight weeks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Border Control and Immigration Management System (BCIMS)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Nigerian Government Integrates Over 15 Million Migration Records - Voice of Nigeria](https://von.gov.ng/nigerian-government-integrates-over-15-million-migration-records/)** — Voice of Nigeria, 17 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
 
 </div>
 

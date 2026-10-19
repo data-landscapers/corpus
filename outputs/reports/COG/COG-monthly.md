@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: COG
-ledger_rows: 20
-not_held: 6
-record: 343945a999c8
+ledger_rows: 21
+not_held: 5
+record: 2a046f5a22e8
 ---
 
 # News, Sep – Oct 2026
@@ -192,6 +192,8 @@ The Republic of Congo's vice-prime minister, Jean-Jacques Bouya, said on 22 Sept
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
 </nav>
 
 ### Connectivity
@@ -229,6 +231,22 @@ Summarised under [New investments](#new-investments).
 **[Le Vice-Premier ministre inspecte l'état d'avancement de la ferme solaire et du Data center](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/)** — Vox Congo, 24 September 2026
 
 The Republic of Congo's deputy prime minister, Jean-Jacques Bouya, and the telecoms and digital economy minister, Frédéric Nzé, inspected the national data centre at Bacongo, Brazzaville, and the Kintélé solar farm on 22 September 2026. Bouya said the data centre, built with the African Development Bank, should be operational by the end of 2026 or early 2027, after energy tests and then two to three months of data-centre tests.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Energy cost and reliability for digital infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo/Télécommunications : L’Arpce présente la 2e édition du Livre blanc et le projet d’adressage postal numérique](https://www.aci.cg/congo-telecommunications-larpce-presente-la-2e-edition-du-livre-blanc-et-le-projet-dadressage-postal-numerique/)** — Agence Congolaise d'Information, 17 October 2026
+
+Internet 57%, mobile money 55.8%, 22 ISPs; sites on grid power 10 hours a day; .cg identity needs local IXPs.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: COD
-ledger_rows: 59
+ledger_rows: 60
 not_held: 7
-record: 2ac3d60def2b
+record: 46d1879f2427
 ---
 
 # News, Sep – Oct 2026
@@ -894,7 +894,7 @@ DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic'
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National artificial intelligence strategy</p>
+<p class="monthly-story__name">National artificial intelligence strategy (SNIA)</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -1013,6 +1013,20 @@ The cartography phase of the DRC's second population census is being operational
 **[Recensement, identification et enrôlement en RDC : ce qu’il faut savoir](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)** — 7sur7.cd, 1 October 2026
 
 Two DRC ministers, Patrick Muyaya and Guylain Nyembo, said on 30 September 2026 that the second population and housing census counts people but does not identify them, unlike the separate identification process that is to issue national identity cards. Census mapping began on 28 September; enumeration starts in July 2027, and the operation is costed at US$192m.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School statistics yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : l’annuaire statistique scolaire 2023-2024 désormais accessible au public](https://congojournal.com/articles/5462/rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-public)** — BETO (Beto.cd), republished by CongoJournal, 3 October 2026
+
+Education ministry posts 2023-2024 school statistics yearbook online, 3 October 2026, validated June 2026.
 
 </div>
 

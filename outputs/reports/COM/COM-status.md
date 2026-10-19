@@ -1,12 +1,12 @@
 ---
 title: Comoros: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 162
+sources_cited: 163
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -168,7 +168,7 @@ The founding statute is younger in law than in date. [Loi n°14-023/AU of 24 Jun
 
 What the system does not do is authenticate. It [provides no digital authentication function, and no government portal authenticates users against it](https://dpimap.org/comoros/); it also [offers individuals no means of viewing the data held on them, publishes no data-handling or data-sharing rules, and carries no legally binding redress mechanism](https://dpimap.org/comoros/) (2024).
 
-Civil registration remains [largely manual, with preparatory studies for nationwide digitisation under the France-funded, UNICEF-supported AMECC programme validated on 25 March 2026](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-advances-digital-identity-reform-with-nationwide-registry-overhaul), establishing a Personal Identification Number as the cornerstone of identity alongside a technical, legal and institutional framework and interoperability with other state systems. Against that ambition, the [2026 appropriation gives the directorate responsible for civil status and the criminal record KMF 4,000,000](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf).
+Civil registration remains [largely manual, with preparatory studies for nationwide digitisation under the France-funded, UNICEF-supported AMECC programme validated on 25 March 2026](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-advances-digital-identity-reform-with-nationwide-registry-overhaul), establishing a Personal Identification Number as the cornerstone of identity alongside a technical, legal and institutional framework and interoperability with other state systems. What it records is lopsided: [about 95% of births are declared on time but fewer than 10% of marriages and deaths](https://evaluationreports.unicef.org/GetDocument?documentID=20023&fileID=51941) (January 2024). Against that ambition, the [2026 appropriation gives the directorate responsible for civil status and the criminal record KMF 4,000,000](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

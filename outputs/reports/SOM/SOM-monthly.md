@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: SOM
-ledger_rows: 18
+ledger_rows: 20
 not_held: 2
-record: 2fe0eafa8197
+record: dc6d7cd86d41
 ---
 
 # News, Sep – Oct 2026
@@ -149,12 +149,40 @@ Somali operator Dalkom offers colocation and hosting in its own data centres in 
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government API gateway, single sign-on and national digital government portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Expressions of Interest SO-MOCT-FGS-576851-CS-QCBS — Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal (World Bank notice OP00475480)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475480)** — World Bank (procurement notice, borrower: Ministry of Communications and Technology, Federal Republic of Somalia), 16 October 2026
+
+EA-RDIP consultancy for Somalia's API gateway, OAuth/OIDC SSO and trilingual portal; 14 months, EOIs due 29 Oct 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Open tender — Eastern Africa Regional Digital Integration Project: Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal — for Somalia by WB in Public Sector Governance, ICT & Telecommunications sectors —](https://www.developmentaid.org/tenders/view/1732699/eastern-africa-regional-digital-integration-project-design-deployment-and-operationalization-of-the)** — DevelopmentAid, 19 October 2026
+
+World Bank EARDIP (P176181) call for expressions of interest, notice OP00475480; consulting services.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
@@ -248,6 +276,14 @@ Somalia's identity authority is moving to link its registration services to HALM
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026
+
+Launch by end-March 2027; about 70 services; national ID the sole credential; NIRA about 2m registered.
+
+</div>
+
 </div>
 
 ### Registries
@@ -291,6 +327,22 @@ The International Organization for Migration, Somalia's federal government and t
 **[Somalia Launches Digital System to Track National Transformation Plan](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan)** — Dawan Africa, 8 September 2026
 
 Somalia's Ministry of Planning launched a digital system on 8 September 2026 to monitor the National Transformation Plan across all 26 federal ministries, inaugurated by Deputy Prime Minister Salah Ahmed Jama. Planning Minister Mahmoud Abdirahman Beenebeene said every project will be assessed against performance indicators. The plan has so far reviewed 153 donor-funded projects.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Halmeel unified digital government services platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 

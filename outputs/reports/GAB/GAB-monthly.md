@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-19
+period: 2026-09-01 to 2026-10-19
 place: GAB
-ledger_rows: 50
+ledger_rows: 52
 not_held: 13
-record: 8438c4dddda0
+record: fc49d05e9b13
 ---
 
 # News, Sep – Oct 2026
@@ -113,6 +113,28 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Gabon Begins Validation of Digital Transformation Legal Framework](https://techafricanews.com/2026/10/02/gabon-begins-validation-of-digital-transformation-legal-framework/)** — Tech Africa News, 2 October 2026
 
 Gabon began a validation review of draft legal texts for digital transformation at Nkok on 1 October, to run about ten days. The texts cover digital infrastructure, cybersecurity, digital services and the institutional framework, under the World Bank-financed Gabon Digital programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ordonnance n 0011/PR/2026 on social-media use through digital platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : amendes jusqu'à 50 millions et peines de prison pour les abus commis sur les réseaux sociaux](https://gabonmediatime.com/gabon-amendes-jusqua-50-millions-et-peines-de-prison-pour-les-abus-commis-sur-les-reseaux-sociaux/)** — Gabon Media Time, 18 October 2026
+
+Décret 0436/PR of 5 Oct 2026; fines to FCFA 50m, deepfake ban, AI-labelling duty, 72-hour suspensions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026
+
+Loi n° 003/2026, JO 9 Oct 2026; article 4 identification duty, verification method and NIP use unspecified.
 
 </div>
 
@@ -799,6 +821,20 @@ Gabon's postal company presented Akiba, an application built and hosted in Gabon
 **[Ministère de la Fonction Publique et du Renforcement des Capacités - Accélération des préparatifs de mise en œuvre du Système Intégré de Gestion des Ressources Humaines - Ministère de la Fonction Publique et du Renforcement des Capacités](https://fonction-publique.gouv.ga/2-actualites/3402-acceleration-des-preparatifs-de-mise-en-oeuvre-du-systeme-integre-de-gestion-des-ressources-humaines/)** — Ministère de la Fonction Publique et du Renforcement des Capacités (Gabon), 13 October 2026
 
 Gabon's civil-service ministry reviewed technical preparations for an integrated human resources management system and named the procurement tender as the next step. The platform, under a World Bank-supported project, is to hold one register of state employees linked to payroll, budget and national identification.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AGASA Nexus platform for food-safety and phytosanitary procedures</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Sécurité alimentaire : l’AGASA lancera la plateforme numérique Nexus le 2 novembre prochain - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-novembre-prochain/)** — Agence Gabonaise de Presse, 19 October 2026
+
+Online approvals, import permits and sanitary certificates from 2 Nov 2026; operators re-register 20-29 Oct.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-10-18
+compiled: 2026-10-19
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 160
+sources_cited: 161
 sections_written: 39
 not_established: 7
 acquire_lines: 49
@@ -180,7 +180,7 @@ Sudan's electoral roll [has not been updated since 2015, when 13,126,989 voters 
 
 The population register is the one with reach. Officials [put registration at close to nine in ten of the population in 2021, with markedly lower rates among peripheral and displaced populations](https://landinfo.no/wp-content/uploads/2023/03/Report-Sudan-Civil-Registration-ID-documents-and-passports-03032023.pdf), and the registry's director [counted 37,938,429 citizens on it in December 2022](https://www.altaghyeer.info/en/2022/12/16/civil-registry-announces-over-37-million-sudanese-registered/), the last count before the war. It, the civil register and the identity system now work only in part: [across vast areas of Sudan no entity can issue identity papers](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/).
 
-The economic registers are further back. Core company registration [remains largely on paper, the underlying company records were destroyed in the 2023 conflict and are being rebuilt, and the Commercial Registrar is being connected to Baladna](https://sudanevents.com/index.php/2025/04/17/a-sovereign-official-announces-the-recovery-of-data-and-documents-related-to-company-records/) (2025). The Tax Chamber, by contrast, [runs a single taxpayer registration and identification-number system spanning individuals and businesses, issuing one identification number for every tax including customs duties](https://tax.gov.sd/en/tax-procedures/) (2026). Land is [partially digitised at best: property records in Khartoum were computerised or scanned and shared a common parcel identifier with the cadastral mapping database as two separate linked systems, office capacity varied sharply between states, and rural areas largely lacked formal registers](https://www.doingbusiness.org/content/dam/doingBusiness/country/s/sudan/SDN.pdf) (2019); in Darfur, [around one per cent of customary land is formally registered](https://sudan.un.org/sites/default/files/2021-12/Sudan-PBF2021-Thematic_Brief_5-land_tenure.pdf).
+The economic registers are further back. [The underlying company records were destroyed in the 2023 conflict and are being rebuilt](https://sudanevents.com/index.php/2025/04/17/a-sovereign-official-announces-the-recovery-of-data-and-documents-related-to-company-records/) (2025), and the online route now in place is fragile: [company and business-name filings through the Baladna platform had been almost entirely halted by a technical fault for more than a week, on lawyers' accounts reported 18 October 2026](https://sudandawn.com/?p=22515). The Tax Chamber, by contrast, [runs a single taxpayer registration and identification-number system spanning individuals and businesses, issuing one identification number for every tax including customs duties](https://tax.gov.sd/en/tax-procedures/) (2026). Land is [partially digitised at best: property records in Khartoum were computerised or scanned and shared a common parcel identifier with the cadastral mapping database as two separate linked systems, office capacity varied sharply between states, and rural areas largely lacked formal registers](https://www.doingbusiness.org/content/dam/doingBusiness/country/s/sudan/SDN.pdf) (2019); in Darfur, [around one per cent of customary land is formally registered](https://sudan.un.org/sites/default/files/2021-12/Sudan-PBF2021-Thematic_Brief_5-land_tenure.pdf).
 
 One register claims to have come through the war whole. The traffic police [say the national vehicle database was restored, holding more than two million registered vehicles and over three million driving licences](https://sudantribune.net/article/316412) (July 2026), attributing survival to [backups at data centres inside the states and outside the country](https://sudantribune.net/article/316412), and are [introducing Ansab, a laser-secured vehicle-ownership-transfer platform](https://sudantribune.net/article/316412) intended to counter forgery. Social protection has no comparable base: the [poverty registry behind the safety-net system reached six of eighteen states before 2023 and recorded beneficiaries' national identity numbers only partially](https://ipcid.org/sites/default/files/pub/en/RR53_Social_protection_in_Sudan_system_overview.pdf). [Company commercial registration was added to the national e-government platform, reported 1 October 2026](https://alghadalsudani.com/34214/).
 
