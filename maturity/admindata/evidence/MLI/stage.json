@@ -5,11 +5,11 @@
       "sub_indicator": "admin",
       "stage": "3",
       "use": "published",
-      "source": "health;customs;social-security;transport",
+      "source": "health;social-security",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-003;MLI-005",
+      "stage_sources": "MLI-010",
       "gaps": "No source held shows statistics from one administrative source published twice since October 2023.",
       "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
       "as_at": "2026-10-19"

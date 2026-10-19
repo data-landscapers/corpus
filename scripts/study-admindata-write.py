@@ -114,8 +114,9 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         raise study_lib.StudyError(f"{iso}: no stage.json; run the ladder script first")
     path = os.path.join(folder, "evidence.csv")
     rows = study_lib.read_csv(path) if os.path.exists(path) else []
-    rows, _ = ladder.correct(rows, [f for f in study_lib.read_csv(os.path.join(here, "corrections.csv"))
-                                    if f["iso3"] == iso])
+    fixes = [f for f in study_lib.read_csv(os.path.join(here, "corrections.csv")) if f["iso3"] == iso]
+    rows, _ = ladder.correct(rows, fixes)
+    ruled = any(f["why"].endswith("Bill, 2026-10-19") for f in fixes)   # a product not shown to draw on records
     path = os.path.join(folder, "systems.csv")
     systems = study_lib.read_csv(path) if os.path.exists(path) else []
     urls = {r["slug"]: r["url"] for r in study_lib.read_csv(os.path.join(folder, "readlist.csv"))}
@@ -142,6 +143,9 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                 body.append(("It is the only fact" if len(rows) == 1 else f"{['', '', 'Two', 'Three', 'Four', 'Five'][len(rows)]} facts are")
                             + " held on the country's statistics from administrative records" + ("" if len(rows) == 1 else ", all given here")
                             + ": nothing else read for this study, including the yearbooks and reports the rebuild of 2026-10-19 found held, says more.")
+                if ruled:   # say why the products held are not counted
+                    body.append("Statistical products held that do not say their figures are drawn from administrative records, "
+                                "rather than estimates, surveys or censuses, are not counted.")
             if k == "source" and len(rows) <= 5 and "no release date" in top["fact"] and top["aspect"] == "source":
                 body.append("The source names the report in passing and gives no release date; "   # Namibia: the
                             "the report itself was not read for this study.")                          # only fact held

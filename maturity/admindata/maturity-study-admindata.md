@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Has one source's statistics been published twice? | Two editions of statistics drawn from the same administrative source, both published since 1 October 2023 |
 | 4 | Have three sources' statistics each been published twice? | Three distinct administrative sources, each with two editions published since 1 October 2023 |
 
-**A source is one body's records kept for one service**: civil registration, customs declarations, school returns, health facility reports, tax returns, police records. Two products from the same records are one source; a yearbook drawing on five registers is five.
+**A source is one body's records kept for one service**: civil registration, customs declarations, school returns, health facility reports, tax returns, police records. Two products from the same records are one source; a yearbook drawing on five registers is five. **A product counts only where its source says the figures are drawn from the records** *(Bill, 2026-10-19)*: a body named as a table's source, or as supplying data, does not show that, since the figures could be estimates, surveys or censuses. A statistical compendium that shows no more is unplaced.
 
 ## 3. The ladders
 
@@ -75,6 +75,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 - [x] **D2. Read**: 107 drafters, four regional stories read once; 82 facts after the parent's corrections (`corrections.csv`).
 - [x] **D3. Staged** as at 2026-09-30: stage 5 Egypt, Eswatini; 4 Botswana, Cabo Verde, Côte d'Ivoire, Equatorial Guinea, Lesotho, Namibia, Rwanda, Seychelles, Uganda, Zimbabwe; 3 fourteen; 2 Ghana, Guinea-Bissau, Mozambique, Senegal, Sierra Leone; none at 1; unplaced Eritrea, Libya, São Tomé and Príncipe; no evidence twenty. The second drafter agreed on 19 of 20.
 - [x] **D6. Ladder changed and rebuilt**, 2026-10-19 *(Bill)*: §2 and §3. `vital` and `series` became `source` and `series`, each naming the records a product draws on, and the 100 held facts were retagged by hand. All 54 countries were searched with standard Exa searches: 204 documents went to ingest. 59 held yearbooks and reports the search found, which no drafter had read, were read through their opening and source notes, and 9 facts were removed as weaker than the rung (`corrections.csv`). Staged: 5 Libya; 4 twenty-three; 3 eighteen; 2 four; unplaced São Tomé and Príncipe; no evidence seven. Every cell holding evidence is logged `--kind ladder`.
+- [x] **D7. A named source is not administrative data**, 2026-10-19 *(Bill, on Libya)*: §2. 33 facts that named a body as a table's source, or listed a product, without saying its figures come from records were removed (`corrections.csv`), and the 18 cells they touched were logged `--kind review`. Staged: 4 nineteen; 3 fifteen; 2 six; unplaced three (Cameroon, Libya, São Tomé and Príncipe); no evidence eleven.
 - [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
 
 **Decided in the run**:

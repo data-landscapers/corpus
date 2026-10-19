@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
-      "use": "published",
-      "source": "education;health;customs;social-security;justice;police;transport",
+      "stage": "no evidence",
+      "use": "",
+      "source": "",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "No source held shows statistics from one administrative source published twice since October 2023.",
+      "stage_sources": "",
+      "gaps": "Nothing held names statistics drawn from administrative records, or says there are none.",
       "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
       "as_at": "2026-10-19"
     }
