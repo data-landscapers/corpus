@@ -1,8 +1,50 @@
-{"slug": "2024-11-25-ssd-onecitizen-juba-geographic-addressing", "studies": {
-"addressregister": {"countries": {"SSD": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "South Sudan's Ministry of ICT and Postal Services announced on 22 November 2024 an aerial survey and base mapping of Juba City and County, to be done in 2025, to produce maps for establishing a Geographic Addressing System, with Juba selected as the pilot area.", "as_of": "2024-11-22", "date_precision": "day", "system": "Geographic Addressing System", "class": "address"}], "systems": [{"system": "Geographic Addressing System", "country_label": "South Sudan", "class": "address", "platform": "", "owner": "Ministry of ICT and Postal Services", "tiers": "Juba City and County pilot"}], "note": ""}}},
-"egovservices": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The document names an e-government board and unnamed progress but no portal, app or online service."}}},
-"localgov": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on local government office connections."}}},
-"registry": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on civil registration."}}},
-"socialregistry": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on a social registry."}}},
-"taxregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on a taxpayer register; land tax invoicing is only a hoped benefit."}}}
-}}
+{
+ "slug": "2024-11-25-ssd-onecitizen-juba-geographic-addressing",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned aerial survey and addressing system for Juba; no register of this kind stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned aerial survey and addressing system for Juba; no register of this kind stated."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned aerial survey and addressing system for Juba; no register of this kind stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned aerial survey and addressing system for Juba; no register of this kind stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned aerial survey and addressing system for Juba; no register of this kind stated."
+    }
+   }
+  }
+ }
+}

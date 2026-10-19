@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-17-gab-identite-numerique-quand-pourra-t-on-faire-une-demarche-sans-redonner-ses-papier",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Techies reports that since July 2024 a citizen with a valid passport can apply online for the CNIE on the DGDI site edgdi.dgdi.ga using their NIP.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "edgdi.dgdi.ga",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "edgdi.dgdi.ga",
+   "country_label": "site de la DGDI",
+   "class": "eservices",
+   "platform": "",
+   "owner": "DGDI",
+   "tiers": ""
+  },
+  {
+   "system": "portail national de services Gabon Digital",
+   "country_label": "portail national de services",
+   "class": "other",
+   "platform": "",
+   "owner": "Gabon Digital programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

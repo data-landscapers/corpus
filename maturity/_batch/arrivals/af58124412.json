@@ -1,0 +1,8 @@
+{"slug": "2024-06-06-cmr-statistical-yearbook-of-the-education-and-training-sector-in-cameroon", "studies": {
+"admindata": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Yearbook announcement does not say its figures are drawn from school records."}}},
+"censuses": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No census or household survey stated."}}},
+"educationexchange": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No data exchange between education systems stated."}}},
+"educationmis": {"countries": {"CMR": {"facts": [{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "The National Institute of Statistics says more specific education data than its 2021-2022 sectoral yearbook can be accessed via the online EMIS industry platform.", "as_of": "2024-06-06", "date_precision": "day", "system": "online EMIS industry platform", "class": "emis"}], "systems": [{"system": "online EMIS industry platform", "country_label": "Cameroon", "class": "emis", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"schools": {"countries": {"CMR": {"facts": [], "systems": [{"system": "online EMIS industry platform", "country_label": "Cameroon", "class": "emis", "platform": "", "owner": "", "tiers": ""}], "note": "Names a platform only; nothing on what schools enter, levels or share of schools."}}},
+"statisticsstrategy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No statistics strategy stated."}}}
+}}

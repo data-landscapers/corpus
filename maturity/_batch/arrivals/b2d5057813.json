@@ -1,45 +1,9 @@
-{
- "slug": "2026-02-13-ben-lamarina-tcc-trois-e-services",
- "studies": {
-  "egovservices": {
-   "countries": {
-    "BEN": {
-     "facts": [
-      {
-       "sub_indicator": "eservices",
-       "aspect": "services",
-       "value": "underway",
-       "fact": "La Marina BJ reports the Cotonou Commercial Court made three services (writ-of-order requests, opposition to payment order, enforcement formula) available online, with applications and fees online only from 16 February 2026.",
-       "as_of": "2026-02-16",
-       "date_precision": "day",
-       "system": "Tribunal de Commerce de Cotonou e-services",
-       "class": "eservices"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "justice": {
-   "countries": {
-    "BEN": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "filing",
-       "value": "online",
-       "fact": "La Marina BJ reports that from 16 February 2026 requests and fee payments for three filings at the Cotonou Commercial Court are made exclusively online, with copies of rulings to follow from 1 March 2026.",
-       "as_of": "2026-02-16",
-       "date_precision": "day",
-       "system": "Tribunal de Commerce de Cotonou e-services",
-       "class": "justice"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-02-13-ben-lamarina-tcc-trois-e-services", "studies": {
+"coresystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document is about court e-services in Cotonou; no finance, tax or payroll system."}}},
+"customs": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"health": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on health."}}},
+"healthmis": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on health."}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schools": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

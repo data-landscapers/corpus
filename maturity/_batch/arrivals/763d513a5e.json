@@ -1,0 +1,61 @@
+{
+ "slug": "2023-10-24-bfa-communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "inservice",
+       "fact": "Sidwaya reports the EU-funded PASIU pilot (EUR 1 million) updated addressing in three Ouagadougou arrondissements and Bobo-Dioulasso, with over 93,000 doors and 16,000 streets addressed in Ouagadougou and two digital address platforms, Easy Geo and Webmapping grand Ouaga data, built.",
+       "as_of": "2023-10-24",
+       "date_precision": "day",
+       "system": "PASIU urban addressing; Easy Geo; Webmapping grand Ouaga data",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PASIU urban addressing",
+       "country_label": "Burkina Faso",
+       "class": "address",
+       "platform": "Easy Geo; Webmapping grand Ouaga data",
+       "owner": "Commune de Ouagadougou with EU support",
+       "tiers": "3 arrondissements of Ouagadougou and Bobo-Dioulasso"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Police received address plans; no station record system stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on urban addressing, not a named digital law or policy."
+    }
+   }
+  }
+ }
+}

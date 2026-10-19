@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The article names the Data Protection Act, 2012 (Act 843) as the law under which the Data Protection Commission was created; it states nothing on commencement, regulations or application.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

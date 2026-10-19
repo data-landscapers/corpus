@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Procurement",
+   "country_label": "Bénin",
+   "class": "other",
+   "platform": "",
+   "owner": "DGTCP",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMAP",
+   "country_label": "Bénin",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Public-procurement platform only; no citizen or business government service stated."
+}

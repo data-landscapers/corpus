@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche",
+ "facts": [],
+ "systems": [
+  {
+   "system": "mobile money penetration",
+   "country_label": "55.8%",
+   "class": "other",
+   "platform": "",
+   "owner": "Arpce",
+   "tiers": ""
+  }
+ ],
+ "note": "The 55.8% is a regulator's mobile money penetration rate, not a survey of adults with accounts."
+}

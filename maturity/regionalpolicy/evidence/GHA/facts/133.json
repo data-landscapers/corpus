@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Biometric Update reports Ghana connected its national identity system through Smart Africa's SADX and took part with Benin and Rwanda in a SADX technical assessment mission in Kigali about five months earlier.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Smart Africa Data Exchange (SADX)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

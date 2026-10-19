@@ -1,0 +1,71 @@
+{
+ "slug": "2024-07-09-gab-lunion-atelier-annuaire-statistique-education",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "L'Union reports a Libreville workshop opened 8 July 2024 to evaluate the plan of an education statistical yearbook, following a school data collection involving several administrations including the Direction generale de la Statistique.",
+       "as_of": "2024-07-08",
+       "date_precision": "day",
+       "system": "Annuaire statistique de l'education (planned)",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "education",
+       "fact": "The yearbook planned would draw on the school data collection covering pre-school and primary schools: establishments, desks, pupils and staff.",
+       "as_of": "2024-07-08",
+       "date_precision": "day",
+       "system": "Annuaire statistique de l'education (planned)",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a school data collection and a planned yearbook, not a system keeping learner records day to day."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names an education sector plan project only, not a national statistics strategy."
+    }
+   }
+  }
+ }
+}

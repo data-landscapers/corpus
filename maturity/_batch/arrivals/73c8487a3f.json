@@ -1,0 +1,16 @@
+{"slug": "2025-01-01-gmb-government-data-assessment-inventory", "studies": {
+"admindata": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The inventory of administrative data and its dashboards are not said to be statistics drawn from administrative records."}}},
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only an interoperability analysis with civil registration and national ID is mentioned, as part of a social registry strategy; no link is stated."}}},
+"civilregister": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"datagovernance": {"countries": {"GMB": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The contractor 2M Corp says its Phase 1 work in 2024 for the Ministry of Public Service, World Bank financed, produced a Data Governance Policy and a whole-of-government approach strategy; no adoption by the government is stated.", "as_of": "2024", "date_precision": "year", "system": "Data Governance Policy", "class": "policy"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"publicconsultation": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Stakeholder meetings and a validation workshop are named, but no one outside government is named and no digital law or policy is put to them."}}},
+"registry": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"socialexchange": {"countries": {"GMB": {"facts": [], "systems": [], "note": "A strategy with an interoperability analysis is named; no link under way or in service is stated."}}},
+"socialregistry": {"countries": {"GMB": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "A related-project note says 2M Corp developed a strategy for modernising The Gambia's national social registry (GamSR) for the National Social Protection Secretariat with World Bank financing, which presupposes an existing registry but states no programmes or dates.", "as_of": "2025", "date_precision": "year", "system": "GamSR", "class": "social"}], "systems": [{"system": "GamSR", "country_label": "GamSR", "class": "social", "platform": "", "owner": "National Social Protection Secretariat", "tiers": ""}], "note": ""}}}
+}}

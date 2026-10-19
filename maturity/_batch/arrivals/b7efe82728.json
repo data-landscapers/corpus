@@ -1,0 +1,97 @@
+{
+ "slug": "2023-12-11-nam-undp-being-a-public-servant-digital-pocket-guide-2",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or an authority."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI tool is for general public-service induction, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Says the guide was developed locally on open source and uses generative AI, but not that an AI model was built."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The modules teach how the public service works, not digital skills."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Built by UNDP-led staff, not stated to be government technical staff."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on startups."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on hubs."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "UNDP Namibia says the Office of the Prime Minister and UNDP launched the Being a Public Servant Digital Pocket Guide 2.0 on 24 November 2023, using generative AI with its own Pocket Bot for public servants.",
+       "as_of": "2023-11-24",
+       "date_precision": "day",
+       "system": "Being a Public Servant Digital Pocket Guide 2.0 (Pocket Bot)",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Being a Public Servant Digital Pocket Guide 2.0",
+       "country_label": "Pocket Guide 2.0 with Pocket Bot",
+       "class": "govai",
+       "platform": "open source",
+       "owner": "Office of the Prime Minister with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

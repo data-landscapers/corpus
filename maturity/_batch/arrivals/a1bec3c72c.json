@@ -1,0 +1,12 @@
+{"slug": "2026-10-19-gab-gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-oblig", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Social media law; no AI harm stated."}}},
+"authentication": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Duty to identify stated, but no verification service or procedure is described."}}},
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID link."}}},
+"cybersecuritylaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A social media usage law, not stated to be a cybercrime or cybersecurity law."}}},
+"dataprotectionlaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a data-use clause inside a social media law; no general data protection law stated."}}},
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Article 4 does not make the personal ID number mandatory; no register keyed on it stated."}}},
+"idrobustness": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The law defines the personal identification number but states nothing on the ID system itself."}}}
+}}

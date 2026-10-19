@@ -24,6 +24,7 @@ BEN,XROAD BJ,Benin,exchange,X-Road,Ministère du Numérique et de la Digitalisat
 BEN,Portail National des Services Publics,Benin,other,,Ministère du Numérique et de la Digitalisation,,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
 BEN,securoute.anatt.bj,Benin,other,ANATT secured portal,ANATT,,2026-09-11-ben-cadreco-tresor-penalites-routieres-paiement
 BEN,SECUROUTE,Benin,other,,"Government of Benin (Ministry of Economy and Finance, with Ministry of Transport, National Police and road safety agencies)",,"2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade"
+BEN,Smart Africa Data Exchange (SADX),Benin,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 BFA,service-public.gov.bf national portal,Burkina Faso,other,,Government of Burkina Faso,,2026-05-07-burkina-faso-central-portal-e-services
 BWA,Information gateway,Botswana,exchange,,Digital Services Authority,,2025-10-17-bwa-digital-services-act-2025
 CAF,Dunia platform,Central African Republic,other,,MEPCI-RCA,,2026-02-27-primature-dunia-platform-launch
@@ -118,6 +119,7 @@ GAB,interoperability platform,Gabon,exchange,,"ANINF (National Agency for Digita
 GAB,National Digital Identity System,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,government messaging system,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,government interoperability platform,Gabon,exchange,,CN-TIPPEE (Digital Gabon project implementing agency),,2024-12-19-world-bank-digital-gabon-isr-seq7
+GAB,plateforme d'interopérabilité de l'État,plateforme d'interopérabilité de l'État,other,,Gabon Digital programme,,2026-10-17-gab-identite-numerique-quand-pourra-t-on-faire-une-demarche-sans-redonner-ses-papier
 GHA,eGIF national data-exchange hub,Ghana,exchange,,Ministry of Communications and Digitalisation,,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
 GHA,Ghana.gov,Ghana,other,,,,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,,Smart Africa,,2025-12-19-smart-africa-ascend-sadx-pilot
@@ -125,6 +127,8 @@ GHA,Open Data Initiative portal,Ghana,other,,,,2026-06-16 The financing gap for 
 GHA,national data exchange hub,Ghana,exchange,,"Ministry of Communication, Digital Technology and Innovations",,2026-10-15-gha-myjoyonline-sam-george-ai-5bn-compute-centre
 GHA,National Data Exchange Hub,Ghana,exchange,,"Ministry of Communication, Digital Technology and Innovations",,2026-07-31-govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth
 GHA,National Data Exchange Platform,National Data Exchange Platform,exchange,,NITA,,2025-10-23-gha-nita-data-harmonisation-bill-consultation
+GHA,National Data Exchange Hub,National Data Exchange Hub,exchange,,"Ministry of Communication, Digital Technology and Innovations; NITA",,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,Smart Africa Data Exchange (SADX),Ghana,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
@@ -249,6 +253,7 @@ NGA,National Data Exchange Platform,Nigeria,exchange,,,,2026-04-22-fg-nigeria-po
 NGA,Nigeria's Data Exchange Platform,Nigeria,other,,,,2026-03-25-finland-nigeria-cyber-digitalisation-mou
 NGA,Data Exchange Platform,Nigeria,other,,,,2026-03-23-nigeria-finland-mou-digitalisation
 NGA,Data Exchange Platform,Nigeria,other,,,,"2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties"
+NGA,Centralised Interior Management and Administration System (CMAS),CMAS,other,,Ministry of Interior,,2026-10-17-nga-nigerian-government-integrates-over-15-million-migration-records-voice
 RWA,National Data Sharing Platform (DSP),Rwanda,exchange,"to be built on APIs, metadata structures and standard data formats; cloud or hybrid infrastructure",Ministry of ICT and Innovation; implemented by RISA,,2025-09-27-data-sharing-platform-2026-newtimes
 RWA,Data Sharing Platform,Rwanda,exchange,,RISA oversees infrastructure and platforms used for data sharing,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
 RWA,Shared Government Data Hub,Rwanda,exchange,,RISA,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
@@ -258,6 +263,7 @@ RWA,ESB (upgraded),Rwanda,other,,RISA,,2025-11-21-risa-shared-government-data-hu
 RWA,Smart Africa Data Exchange (SADX),Rwanda,other,,Smart Africa,,2025-12-19-smart-africa-ascend-sadx-pilot
 RWA,data sharing platform,Rwanda,exchange,,National Institute of Statistics of Rwanda (Data Governance Unit),,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Irembo,Irembo,exchange,API,Irembo (private company),,2025-05-27-gha-dial-adli-data-exchange-exemplars
+RWA,Smart Africa Data Exchange (SADX),Rwanda,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 SDN,Baladna,Sudan,exchange,Baladna,Ministry of Digital Transformation and Communications,,2026-09-03-sudan-baladna-investor-service-g2g-data-exchange
 SDN,Electronic One-Stop Platform,Sudan,other,,National Investment Authority,,2026-09-01-investment-authority-launches-service-to-activate-requiremen
 SDN,Electronic capital flows system,Sudan,other,,Central Bank of Sudan,,2026-08-27-sudan-cbos-electronic-capital-flows
@@ -295,6 +301,8 @@ SOM,Rental Income Tax System,Somalia,other,,,,2026-08-10-somalia-auditor-general
 SOM,E-Visa,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
 SOM,Electronic Non-Tax Revenue System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
 SOM,DFS Revenue Collection System,Somalia,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Government API Gateway,Somalia,exchange,,,,2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi
+SOM,Government API Gateway and Developer Portal,Somalia,other,,Ministry of Communications and Technology,,2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi
 STP,Interoperability and data-exchange platform (DEX),STP,exchange,,"INIC and DGRN, with System Integrator Ooru",,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
 STP,Verifiable Credentials Infrastructure (VCI),STP,other,,INIC and DGRN,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
 STP,Citizen Portal and Mobile App,STP,other,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025

@@ -1,0 +1,9 @@
+{"slug": "2025-11-07-moz-carta-provedor-justica-lei-direito-informacao-2024", "studies": {
+"accesstoinformationlaw": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Carta de Moçambique reports that Mozambique's Law 34/2014 on the Right to Information, passed by Parliament on 26 November 2014, is being implemented, per the Ombudsman's annual report to the Assembly.", "as_of": "2024", "date_precision": "year", "system": "Lei do Direito à Informação (Lei nº 34/2014)", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The Ombudsman's annual report says public bodies received 60,433 information requests in 2024, of which 57,998 were granted (95%), 1,589 denied and 846 pending.", "as_of": "2024", "date_precision": "year", "system": "Lei do Direito à Informação (Lei nº 34/2014)", "class": "law"}
+], "systems": [{"system": "Lei do Direito à Informação (Lei nº 34/2014)", "country_label": "Mozambique", "class": "law", "platform": "", "owner": "Assembleia da República; monitored by the Provedor de Justiça", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No consumer protection rule is stated."}}},
+"localgov": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only mentions unstable government internet hampering contact with focal points; no local authority connection is stated."}}},
+"opendatapolicy": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No open data policy or portal is stated."}}}
+}}

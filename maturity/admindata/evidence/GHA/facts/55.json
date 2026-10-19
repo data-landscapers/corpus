@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-27-gha-dst-tor-mapping-administrative-data-mdas",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Statistics Denmark's terms of reference say the Ghana Statistical Service and Statistics Denmark signed an MoU for a 2024-2027 second phase and are contracting a consultant, for October-November 2024, to map digitised administrative data in Ghanaian MDAs for statistical use.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Strategic Sector Cooperation phase 2 (GSS and Statistics Denmark)",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

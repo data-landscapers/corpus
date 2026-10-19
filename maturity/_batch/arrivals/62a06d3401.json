@@ -1,0 +1,9 @@
+{"slug": "2026-10-18-ken-mps-probe-ai-classrooms-hospitals-new-rules", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Inquiry into laws and safeguards only; no rule, draft, authority or enforcement stated."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no government body using or piloting an AI system."}}},
+"ailaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "MPs mull a standalone AI law; no draft text is named."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says AI use is increasing in education and health but names no public sector AI tool."}}},
+"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says MPs see no clear national AI framework, but does not state that no strategy exists or is being written."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions data protection only as a topic of the inquiry; no law, authority or application stated."}}}
+}}

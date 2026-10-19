@@ -1,0 +1,193 @@
+{
+ "slug": "2026-10-18-nga-customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CAMCIS",
+       "country_label": "CAMCIS",
+       "class": "customs",
+       "platform": "",
+       "owner": "Cameroon customs",
+       "tiers": ""
+      }
+     ],
+     "note": "CAMCIS is named as Cameroon's customs platform, but the article does not say what it does or that declarations run on it; the exchange system is a proposal still needing pilot acceptance."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article proposes customs border works and a customs data exchange, not a shared digital link or facility agreed, built or in service."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Talks with Afreximbank on border modernisation are not a digital-policy agreement with an African body."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers customs border-modernisation talks with Afreximbank and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

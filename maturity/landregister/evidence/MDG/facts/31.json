@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-07-mdg-produir-distributeur-automatique-information-foncier",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "PRODUIR reports that after dematerialising legal-status certificates and topographic plans for Antananarivo, an automatic information kiosk entered public service on 7 July 2025 at the Tana-ville land office, issuing registration and legal-status certificates and individual plans.",
+   "as_of": "2025-07-07",
+   "date_precision": "day",
+   "system": "Distributeur Automatique d'Information (DAI)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Distributeur Automatique d'Information (DAI)",
+   "country_label": "Madagascar",
+   "class": "land",
+   "platform": "kiosk at Tana-ville land office",
+   "owner": "Direction générale des services fonciers (MDAT)",
+   "tiers": "Antananarivo"
+  }
+ ],
+ "note": ""
+}

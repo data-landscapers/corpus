@@ -1,0 +1,8 @@
+{"slug": "2024-05-28-tcd-etat-civil-l-inseed-met-en-place-un-dispositif-d-enregistrement", "studies": {
+"admindata": {"countries": {"TCD": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "INSEED set up, as a pilot, a data collection and analysis device on civil status events in N'Djamena and presented its results at a workshop on 27 May 2024 attended by ANATS, the city hall and UNICEF.", "as_of": "2024-05-27", "date_precision": "day", "system": "dispositif de collecte et d'analyse des données sur les faits d'état civil, N'Djamena", "class": "admin"}], "systems": [{"system": "dispositif de collecte et d'analyse des données sur les faits d'état civil", "country_label": "Tchad (N'Djamena pilot)", "class": "admin", "platform": "", "owner": "INSEED", "tiers": "N'Djamena pilot"}], "note": ""}}},
+"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on a link to the ID system."}}},
+"civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The pilot is a statistics data collection; no digital civil registration system stated."}}},
+"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on local government connection."}}},
+"registry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No digital entry at civil registration offices stated."}}}
+}}

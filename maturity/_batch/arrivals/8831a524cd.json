@@ -1,34 +1,4 @@
-{
- "slug": "2025-02-24-ssd-ppdaa-dissemination-workshop-tender-portal",
- "studies": {
-  "businesspayments": {
-   "countries": {
-    "SSD": {
-     "facts": [
-      {
-       "sub_indicator": "business",
-       "aspect": "system",
-       "value": "underway",
-       "fact": "The PPDAA chairperson says the tender portal ppdaatenderportal.gov.ss has been prepared and that bid invitations, bid awards and provider registration shall be carried out through it.",
-       "as_of": "2025-02-24",
-       "date_precision": "day",
-       "system": "PPDAA tender portal",
-       "class": "procurement"
-      }
-     ],
-     "systems": [
-      {
-       "system": "PPDAA tender portal",
-       "country_label": "South Sudan",
-       "class": "procurement",
-       "platform": "ppdaatenderportal.gov.ss",
-       "owner": "Public Procurement and Disposal of Assets Authority",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2025-02-24-ssd-ppdaa-dissemination-workshop-tender-portal", "studies": {
+"coresystems": {"countries": {"SSD": {"facts": [], "systems": [{"system": "PPDAA tender portal (ppdaatenderportal.gov.ss)", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "Public Procurement and Disposal of Assets Authority", "tiers": ""}], "note": "A procurement portal, not a finance, tax or payroll system."}}},
+"egovservices": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The tender portal is for procurement and is said to be the route for bids, not a service stated in use."}}}
+}}

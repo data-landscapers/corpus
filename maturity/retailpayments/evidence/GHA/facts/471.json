@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The analyst says Ghana has built real-time interoperable payments, naming GhIPSS and Ghana.gov.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "GhIPSS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GhIPSS",
+   "country_label": "GhIPSS",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana.gov",
+   "country_label": "Ghana.gov",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

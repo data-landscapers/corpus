@@ -22,10 +22,10 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 3 |
-| 2 Nascent | 24 |
+| 3 Established | 5 |
+| 2 Nascent | 25 |
 | 1 Absent | 3 |
-| Unplaced | 12 |
+| Unplaced | 9 |
 | No evidence | 7 |
 
 ## Countries
@@ -62,6 +62,18 @@ The addressing system covered the whole country in 2026; its use by services is 
 - Ghana Post's site says GhanaPostGPS covers every inch of the country and all locations are addressed ([source, 2026-08-29](https://www.ghanapostgps.com/)).
 - The Ghana Post App Store listing says all locations in the country are addressed ([source, 2025-10-15](https://apps.apple.com/us/app/ghanapostgps/id1296627307)).
 
+### Algeria: 3 Established
+
+Official geolocated addresses covered 12 of 69 wilayas in 2026; all are due by 2030, so national coverage is not yet reached.
+
+- Interior ministry director general Amal Djouama said 1.5 million official unified geolocatable addresses have been counted, with the national address reference rollout reaching 12 wilayas ([source, 2026-10-12](https://arabe.capdz.dz/archives/144046)).
+
+### Burkina Faso: 3 Established
+
+Digital address platforms served Ouagadougou and Bobo-Dioulasso in 2023; national coverage is not known.
+
+- Sidwaya reports the EU-funded PASIU pilot (EUR 1 million) updated addressing in three Ouagadougou arrondissements and Bobo-Dioulasso, with over 93,000 doors and 16,000 streets addressed in Ouagadougou and two digital address platforms, Easy Geo and Webmapping grand Ouaga data, built ([source, 2023-10-24](https://www.sidwaya.info/2023/10/24/communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage/)).
+
 ### Cameroon: 3 Established
 
 An address register or digital addressing system was in service in 2025; national coverage is not known.
@@ -83,13 +95,6 @@ An address register or digital addressing system was in service in 2026; nationa
 - Nairametrics reports the National Digital Alphanumeric Postcode System launched through NIPOST on 1 October 2026, with users already finding 11-character building postcodes ([source, 2026-10-01](https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/)).
 - TheCable states NIPOST launched the national digital alphanumeric postcode system, assigning 11-character codes to addressable buildings, and its reporters used the application ([source, 2026-10-01](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)).
 
-### Algeria: 2 Nascent
-
-An addressing system was under way in 2026; none in service is on record.
-
-- A two-day workshop series run by the Commission nationale de l'adressage began in Mostaganem to generalise the Référentiel national d'adressage among daïra and commune officials, per the wali's cabinet communiqué ([source, 2026-06-23](https://www.icilinfo.dz/mostaganem-lancement-des-ateliers-de-generalisation-du-referentiel-national-dadressage-en-faveur-de-dairas-et-communes/)).
-- The launch of generalisation of the Référentiel national d'adressage in Timimoun, the first of six wilayas programmed for 2026, with over 110 million dinars allocated, was announced by the head of the national addressing commission to the APS ([source, 2026-05-09](https://lavoiedalgerie.dz/timimoun-lancement-de-la-generalisation-du-referentiel-national-dadressage/2026/09/00/)).
-
 ### Benin: 2 Nascent
 
 An addressing system was under way in 2026; none in service is on record.
@@ -103,12 +108,6 @@ An addressing system was under way in 2024; none in service is on record.
 
 - The journal article says Botswana adopted LAPCAS but village-level addressing remains unresolved, and the authors built a prototype location addressing system for Tlokweng using Python, GeoPandas and Django ([source, 2024-06-20](https://www.ajol.info/index.php/sajg/article/view/272275)).
 
-### Burkina Faso: 2 Nascent
-
-An addressing system was under way in 2025; none in service is on record.
-
-- The Commune of Ouagadougou launched street addressing (marking of street names and door numbers) in arrondissements 5 and 12 on 2 April 2025, covering over 2,277 streets and 43,000 doors, following arrondissements 1 and 2, with European Union support, according to the head of the city's special delegation ([source, 2025-04-02](https://burkina24.com/2025/04/02/ouagadougou-modernise-son-adressage-pour-faciliter-la-localisation/)).
-
 ### Congo: 2 Nascent
 
 An addressing system was under way in 2024; none in service is on record.
@@ -121,6 +120,18 @@ An addressing system was under way in 2025; none in service is on record.
 
 - The director of addressing at the Ministry of Construction, Housing and Urban Planning said on 30 September 2025 that addressing of the Abidjan district (about 17,000 roads identified, 500,000 entities to receive addresses, FCFA 12bn project financed by the World Bank and the State) is due to finish on 31 December 2025 and is being duplicated nationally, with about fifteen cities to be addressed by 2030 ([source, 2025-09-30](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre)).
 - The Ministry of Construction, Housing and Urban Planning says the Abidjan street addressing project met on 4-5 April 2024 to begin effective implementation of the address database, presented as the official address reference ([source, 2024-04](https://www.fratmat.info/article/238834/economie/adressage-des-rues-consolidation-de-la-base-de-donnees-dadresses)).
+
+### Djibouti: 2 Nascent
+
+Streets were being addressed in a few parts of Djibouti city in 2023; an address register in service is not known.
+
+- The PROGOUV terms of reference say street addressing exists only in a few central streets and in Ras Dika commune, with street plates but no door numbers, that a pilot ran in Cite Nassib (Balbala), and that the Mairie holds DJF 70 million for 2023 addressing and seeks an expert to define a city addressing strategy ([source, 2023-11](https://expertise-france.gestmax.fr/_expertise_france/public_files/progouv-tdr-expert-amo-sig-et-adressage-v23-11-2023.pdf)).
+
+### Egypt: 2 Nascent
+
+Real estate ID numbers were being issued in 2025 while their system was built; an address register in service is not known.
+
+- Egypt's MCIT said about 19 million national real estate identification numbers had been issued across several governorates, while the digital system to manage them was still being developed ahead of its launch ([source, 2025-06-01](http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68471)).
 
 ### Eswatini: 2 Nascent
 
@@ -236,6 +247,12 @@ An addressing system was under way in 2025; none in service is on record.
 
 - The Togolese government has launched urban addressing modernisation starting with Greater Lome (DAGL), building databases of coded and named roads and address points, with signage plaques and certification of doors, per the republicoftogo.com report ([source, 2025-12-18](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation)).
 
+### Uganda: 2 Nascent
+
+Kampala was numbering houses in 2025; an address register in service is not known.
+
+- KCCA says house numbering is under way in Kampala, with only 12,555 of 373,826 houses carrying number plates, which owners buy for UGX 50,000 from KCCA-approved providers after notifying KCCA of their number ([source, 2025-02-02](https://www.kcca.go.ug/news/918/geo-sign-and-pack-worth-donates-1000-house-number-plates-to-kcca)).
+
 ### Comoros: 1 Absent
 
 A 2024 source says there is no national addressing system.
@@ -272,18 +289,6 @@ Nothing held since 2023 names a national addressing system, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
-### Djibouti: Unplaced
-
-Nothing held since 2023 names a national addressing system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
-
-### Egypt: Unplaced
-
-Nothing held since 2023 names a national addressing system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
-
 ### Guinea-Bissau: Unplaced
 
 Nothing held since 2023 names a national addressing system, so no stage is set.
@@ -309,12 +314,6 @@ Nothing held since 2023 names a national addressing system, so no stage is set.
 Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
 
 ### Tunisia: Unplaced
-
-Nothing held since 2023 names a national addressing system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether an addressing system is under way or in service.
-
-### Uganda: Unplaced
 
 Nothing held since 2023 names a national addressing system, so no stage is set.
 

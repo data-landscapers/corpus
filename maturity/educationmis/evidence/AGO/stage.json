@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
-   "gaps": "No source held since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003",
+      "gaps": "No source held since October 2023 says the system holds a record for each learner; the ministry calls the platform unfinished.",
+      "note": "Reassessed in stage 4c: the ministry's planning office says the 2022/2023 yearbook data were collected through SIGE, which is in operation. Nothing held says it holds a record for each learner.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

@@ -1,0 +1,7 @@
+{"slug": "2026-10-15-sen-stellarix-sen-startup-cloud-souverain", "studies": {
+"digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Stellarix sovereign cloud", "country_label": "Senegal", "class": "other", "platform": "cloud", "owner": "Stellarix", "tiers": ""}], "note": "A private firm's cloud offered to startups; no government data, rule or contract term is stated."}}},
+"nationaldatacentres": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Stellarix sovereign cloud", "country_label": "Senegal", "class": "other", "platform": "cloud", "owner": "Stellarix", "tiers": ""}], "note": "No data centre, its ownership or its Tier is stated; only a cloud launched in January 2026."}}},
+"offsitebackup": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Backup was a workshop topic; no public body's backup site is stated."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A private firm and a startup association met; no startup law, label or public fund is stated."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Sen Startup is an association and the event a business breakfast; no hub, incubator or park is named."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Angola's Ministry of Education planning office (GEPE) says SIGE is in operation and the 2022/2023 education yearbook's data were collected through it, though the platform is \"not a finished product\" and structured Excel sheets were used to finish verification and indicator calculation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIGE",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Sistema de Informacao para Gestao da Educacao",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education (GEPE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

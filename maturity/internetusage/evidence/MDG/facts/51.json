@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-mdg-2424-operateurs-taxes-smartphones-entree-de-gamme",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:15",
+   "fact": "Airtel Madagascar's director general, citing the GSMA report on Madagascar's digital economy, says only 15% of the population use internet services; the article also gives 14.3% for mobile internet users, which is not the study's figure.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "GSMA report on Madagascar",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

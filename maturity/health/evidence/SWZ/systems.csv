@@ -38,3 +38,5 @@ SWZ,CMIS link to the National Population Register,NPR / PIN access,exchange,NPR 
 SWZ,HMIS (routine health information system),HMIS / RHIS,hmis,"none electronic, per the profile",not stated,95% of facilities represented in HMIS information; tiers not stated,2019-08-01-swz-eswatini-his-indicators
 SWZ,Service Availability Mapping (SAM) database,SAM database (master facility list),exchange,,updated when HMIS is notified of new facilities,national,2019-08-01-swz-eswatini-his-indicators
 SWZ,Client management information system,CMIS,emr,,US Department of State supported; transition to government planned,,2026-05-28-swz-state-dept-health-service-delivery-cmis
+SWZ,Client Management Information System (CMIS),CMIS,emr,,Ministry of Health (HMIS Eswatini),,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health
+SWZ,Electronic Logistics Management Information System (eLMIS),eLMIS,single-function,,Ministry of Health (HMIS Eswatini),,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health

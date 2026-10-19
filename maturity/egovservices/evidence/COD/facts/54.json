@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-cod-armp-operationnalisation-sigmap-vpm-budget",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGMAP",
+   "country_label": "RDC",
+   "class": "other",
+   "platform": "",
+   "owner": "ARMP",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement platform awaiting training and production; no citizen or business government service stated."
+}

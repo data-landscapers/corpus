@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-ago-mescti-anuario-estatistico-ensino-superior-2023-24",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "MESCTI's Gabinete de Estudos, Planeamento e Estatistica published the 10th edition of the Anuario Estatistico do Ensino Superior 2023-2024 in October 2024, with figures on students, graduates, staff and grants based on information supplied by the higher education institutions and INAGBE.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Anuario Estatistico do Ensino Superior 2023-2024",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Anuario Estatistico do Ensino Superior 2023-2024",
+   "country_label": "Anuario Estatistico do Ensino Superior 2023-2024 (10th edition)",
+   "class": "admin",
+   "platform": "SEIES-R.A",
+   "owner": "MESCTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -16,3 +16,5 @@ DZA,IKOLAB,"système d'information de laboratoire (SIL), IKOLAB",single-function
 DZA,RISPACKS,"système d'information de radiologie, RISPACKS",single-function,RIS/PACS,CHU Tizi-Ouzou,"radiology service of CHU Tizi-Ouzou, images readable over the hospital's local network",2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou
 DZA,Dossier medical electronique,DME,emr,,"Ministry of Health, information systems directorate",,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas
 DZA,Dossier medical electronique,DME,emr,,Ministry of Health,,2026-09-08-dza-elwatan-dme-deadline-15-november
+DZA,plateforme numérique de suivi à distance des dossiers médicaux des patients,Remote patient-record monitoring platform,emr,,ministry,,2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux
+DZA,dossier électronique du patient,Algeria,emr,,Ministry of Health,,2025-10-18-dz-aps-dossier-electronique-patient

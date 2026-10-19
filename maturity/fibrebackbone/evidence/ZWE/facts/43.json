@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-myzimbabwe-telone-fibre-ppp-expansion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TelOne fibre-to-the-home project",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "GPON",
+   "owner": "TelOne",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a proposed fibre-to-the-home project at pipeline stage; no backbone contract, works or route stated."
+}

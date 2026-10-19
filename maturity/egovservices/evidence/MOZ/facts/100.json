@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-moz-bnews-centro-pronto-vfs-global-atdi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "BNEWS, citing Lusa and VFS Global, reports that Mozambique's ATDI and VFS Global inaugurated the Centro Pronto platform in Maputo, whose portal and kiosks are to let citizens prepare passport, ID card, driving licence and DIRE applications, pay electronically and book appointments, with services rolling out in phases subject to validation by each authority.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Centro Pronto",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centro Pronto",
+   "country_label": "Mozambique",
+   "class": "eservices",
+   "platform": "portal, self-service kiosks and assisted counters",
+   "owner": "ATDI",
+   "tiers": "Maputo first; Beira and Nampula planned"
+  }
+ ],
+ "note": ""
+}

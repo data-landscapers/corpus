@@ -1,0 +1,53 @@
+{
+ "slug": "2024-10-01-gin-adressage-des-rues-a-kaloum-les-explications-de-mory-conde-ministre-l",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "Urbanism minister Mory Condé said on 3 October 2024 that a national addressing programme is 100% done in Kaloum commune and will extend to Dixinn, Matam, the other Conakry communes, Coyah, Dubréka and regional and prefecture towns.",
+       "as_of": "2024-10-03",
+       "date_precision": "day",
+       "system": "Programme national d'adressage",
+       "class": "address"
+      },
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "inservice",
+       "fact": "Minister Mory Condé said a geolocation application for the addresses is already available, tested and usable without an internet connection, to be released to the public.",
+       "as_of": "2024-10-03",
+       "date_precision": "day",
+       "system": "Geolocation application for Kaloum addresses",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Programme national d'adressage",
+       "country_label": "Guinée",
+       "class": "address",
+       "platform": "geolocation app, Google Maps",
+       "owner": "Ministry of Urbanism, Housing and Territorial Planning",
+       "tiers": "Kaloum done; other communes planned"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,robustness,system,coverage,inservice,2026-10-13,LBY-001;LBY-002;LBY-004;LBY-005;LBY-006;LBY-010;LBY-011,LBY-007=underway;LBY-009=underway;LBY-003=underway,
+LBY,robustness,system,coverage,inservice,2026-10-15,LBY-001;LBY-002;LBY-004;LBY-005;LBY-006;LBY-010;LBY-011;LBY-012,LBY-007=underway;LBY-009=underway;LBY-003=underway,
 LBY,robustness,biometric,coverage,,,,,nothing held
 LBY,robustness,assurance,coverage,certified,2026-04,LBY-008,,

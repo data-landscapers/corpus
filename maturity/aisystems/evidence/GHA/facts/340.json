@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-gha-hubtel-ceo-national-data-sharing-framework",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Hubtel CEO Alex Bram says the company set up an AI lab in 2023 and developed its own AI models, testing some with other businesses, but lacked data to improve them.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Hubtel AI lab",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hubtel AI lab",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "",
+   "owner": "Hubtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

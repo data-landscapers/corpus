@@ -1,0 +1,11 @@
+{"slug": "2025-07-02-ben-decret-2025-363-archivage-electronique", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Decree sets conditions for e-archiving trust-service providers; no authentication, e-signature or PKI service is stated authorised, contracted, piloted or in use."}}},
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated on a data protection law."}}},
+"ecommercelaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree no. 2025-363 of 2 July 2025, taking effect on signature, gives electronic archives the same legal value as paper documents where signed with a qualified electronic signature and timestamped.", "as_of": "2025-07-02", "date_precision": "day", "system": "Decree no. 2025-363 on electronic archiving providers", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Decree no. 2025-363 of 2 July 2025 was made in application of the 2017 digital code (law 2017-20, as amended in 2021) and sets the conditions for electronic archiving providers, who must be qualified as trust service providers for three renewable years.", "as_of": "2025-07-02", "date_precision": "day", "system": "Decree no. 2025-363 under the Code du numerique", "class": "law"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Annex cites ISO standards for archiving systems, but no standards body membership, national adoption or requirement on public bodies is stated."}}},
+"qualitystandards": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No national standards body, issued standard or certifier is named."}}}
+}}

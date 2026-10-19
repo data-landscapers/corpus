@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Halmeel's director general says the Somalia Data Protection Authority provides guidelines on how public and private institutions should use data, and Halmeel is working with it.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Somalia Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia Data Protection Authority",
+   "country_label": "Somalia Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

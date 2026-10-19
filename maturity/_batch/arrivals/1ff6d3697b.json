@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-15-bfa-l-essentiel-bf-plateforme-numerique-francais-moore",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this question."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "On 15 October 2026 the Centre Citadel and the Data Lab launched L'Essentiel.bf in Ouagadougou, a free web and mobile platform that uses AI to collect, summarise and serve news from four national outlets every 15 minutes in French and Moor\u00e9, as text and audio (leFaso.net).",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "L'Essentiel.bf",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "L'Essentiel.bf",
+       "country_label": "Burkina Faso",
+       "class": "localai",
+       "platform": "web and mobile app",
+       "owner": "CITADEL and Data Lab",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

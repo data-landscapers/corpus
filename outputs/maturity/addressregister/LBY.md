@@ -2,11 +2,11 @@
 
 ## Address register
 
-**Addresses in service.** [The first Libyan Experts Forum (23-25 August 2026, Tripoli) recommended expediting implementation of the "Digital Addressing Platform" project, which the Libya Herald reports as a project already being implemented](<https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Addresses in service.** [Libya Post began its postal addressing project at the start of 2025, installing address plates in several municipalities, with a first phase numbering 42,000 buildings and more than 23 municipalities to follow, the Libyan News Agency reported on 20 June 2025](<https://lana.gov.ly/post.php?id=334874&lang=ar>). [In August 2026 the first Libyan Experts Forum in Tripoli recommended speeding up the Digital Addressing Platform, which the Libya Herald reports as already being implemented](<https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya>).
 
 **Nationwide.** No source held since October 2023 says the addressing system covers the whole country. The nearest held fact: [the one given above](<https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya>).
 
-**Used by services.** No source held since October 2023 says other services use the address system. The nearest held fact: [the one given above](<https://libyaherald.com/2026/08/libyan-experts-forum-makes-several-wide-ranging-recommendations-to-support-libya>).
+**Used by services.** No service is held as using the addresses. The nearest held fact: [Libya Post's project installs address plates on buildings for postal delivery, municipality by municipality](<https://lana.gov.ly/post.php?id=334874&lang=ar>).
 
 ***Noted, not assessed***. None held.
 

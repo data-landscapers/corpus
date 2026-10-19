@@ -1,0 +1,12 @@
+{"slug": "2025-08-29-tgo-togo-vers-une-modernisation-du-systeme-de-collecte-des-statistiques-d", "studies": {
+"admindata": {"countries": {"TGO": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "Togo's Ministry of Territorial Administration began training sessions on 28 August 2025, running to 5 September, for communal civil-registry officials as part of a reform to improve the collection and use of civil-registration statistics, with UNFPA and INSEED as partners.", "as_of": "2025-08-28", "date_precision": "day", "system": "Reform of civil-registration statistics collection", "class": "admin"}, {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The training sessions cover keeping registers and the quality indicators of vital statistics, according to the Ministry of Territorial Administration.", "as_of": "2025-08-28", "date_precision": "day", "system": "Reform of civil-registration statistics collection", "class": "admin"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+"businessregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Business creation appears only in unrelated reform headings."}}},
+"censuses": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a general mention of periodic censuses; no census or survey is named or dated."}}},
+"civilregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Training on keeping registers is stated; no digital civil registration system is described."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on local government offices' connection."}}},
+"registry": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Training of communal officials on registers; no digital entry at local offices is stated."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Tax payment appears only in an unrelated reform heading with no dated statement."}}},
+"statisticsstrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No national statistics strategy is mentioned."}}}
+}}

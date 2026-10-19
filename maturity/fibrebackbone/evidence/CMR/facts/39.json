@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-cmr-itweb-camtel-socadel-infrastructure-sharing-mou",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "ITWeb Africa reports that in 2023 the government transferred to Camtel an overhead fibre-optic network of about 812km on electricity poles along the southern interconnected grid, which serves major cities including Douala and Yaounde, adding to Camtel's terrestrial fibre network of about 12,000km.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Camtel national fibre-optic backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel national fibre-optic backbone",
+   "country_label": "Cameroon",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

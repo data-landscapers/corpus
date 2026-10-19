@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "ratified",
+   "fact": "Linfodrome reports that Cote d'Ivoire ratified the Malabo Convention on 3 April 2023.",
+   "as_of": "2023-04-03",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Biometric Update reports Benin has connected its national identity system through Smart Africa's SADX and is moving to a pilot letting Benin and Rwanda verify each other's national ID cards for air travel; no test date is set.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Smart Africa Data Exchange (SADX)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Data Exchange (SADX)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "SADX under the Smart Africa Trust Alliance",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

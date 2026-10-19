@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,admin,use,coverage,preparing,2026-09-10,SLE-001;SLE-002;SLE-004,,
-SLE,admin,source,coverage,health,2025,SLE-003,,
+SLE,admin,use,coverage,published,2025-12-31,SLE-005;SLE-007;SLE-009,SLE-001=preparing;SLE-004=preparing;SLE-002=preparing,
+SLE,admin,source,coverage,civil-registration;health,2025,SLE-003;SLE-006;SLE-008;SLE-010,,
 SLE,admin,series,coverage,,,,,nothing held

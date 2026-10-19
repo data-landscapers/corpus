@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-13-rwa-ocp-umucyo-open-contracting-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umucyo e-procurement system and RPPA open contracting portal",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "OCDS",
+   "owner": "Rwanda Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "A procurement open data portal is described with no open data policy behind it, so nothing is placed."
+}

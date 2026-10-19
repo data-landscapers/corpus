@@ -1,0 +1,44 @@
+{
+ "slug": "2024-05-01-eth-ess-external-merchandise-trade-statistics-q4-2023",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Ethiopian Statistical Service published External Merchandise Trade Statistics for Q4 2023 (Birr 31.3bn exports, Birr 391.9bn imports), imprint May 2024.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "External Merchandise Trade Statistics, Fourth Quarter, 2023",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "customs",
+       "fact": "The release says its original information is obtained from the Ethiopian Customs Commission.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "External Merchandise Trade Statistics, Fourth Quarter, 2023",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "External Merchandise Trade Statistics, Fourth Quarter, 2023",
+       "country_label": "External Merchandise Trade Statistics, Fourth Quarter, 2023",
+       "class": "admin",
+       "platform": "",
+       "owner": "Ethiopian Statistical Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

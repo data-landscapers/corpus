@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-002;TUN-001",
-   "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-004;TUN-001",
+      "gaps": "The oversight body had no president in late 2025 and could not meet validly; no decision of it since 2023 is held.",
+      "note": "The government's 2024 return to UNESCO reports 7,347 appeals received by the access-to-information body in 2023, inside three years. That meets the top rung; the body's loss of a quorum in late 2025 is recorded in gaps.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

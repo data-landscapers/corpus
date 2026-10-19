@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "Angola's Ministry of Education planning office (GEPE) published the Anuario Estatistico da Educacao 2022/2023, whose data it says were collected through the SIGE education management information system from schools and municipal, provincial and district education offices.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Anuario Estatistico da Educacao 2022/2023",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "education",
+   "fact": "The 2022/2023 education yearbook of Angola's Ministry of Education draws its figures on pupils, teachers and infrastructure from school-level data collected through SIGE.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Anuario Estatistico da Educacao 2022/2023",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Anuario Estatistico da Educacao 2022/2023",
+   "class": "admin",
+   "platform": "SIGE",
+   "owner": "Ministry of Education (GEPE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

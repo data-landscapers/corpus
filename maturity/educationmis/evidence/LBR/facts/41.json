@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-lbr-liberia-emis-education-management-information-system",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Liberia's Ministry of Education portal says its EMIS is live for academic year 2024-25 across all 15 counties, publishing school census reports with 1,274,610 enrolled students in 6,394 registered schools.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Liberia EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "learners",
+   "value": "individual",
+   "fact": "Liberia's Ministry of Education portal says its EMIS tracks every enrolled learner with a unique LBR identifier across ECE, primary, JSS, SSS, TVET and ABE levels.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Liberia EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia EMIS",
+   "country_label": "Liberia EMIS (emis-moe-lib.org)",
+   "class": "emis",
+   "platform": "",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,43 +1,5 @@
-{
- "slug": "2025-05-25-tza-dailynews-budget-committee-judiciary-ict",
- "studies": {
-  "dataprotectionlaw": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a committee call for data protection mechanisms; no law stated."
-    }
-   }
-  },
-  "justice": {
-   "countries": {
-    "TZA": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "cases",
-       "value": "inservice",
-       "fact": "The Judiciary's Chief Court Administrator named the Judiciary Electronic Case Management System (JoT e-CMS) among its platforms, and the ICT Centre director said Judiciary systems interface with 16 national institutions, enabling real-time tracking of all registered and adjudicated cases from the Court of Appeal to District Courts.",
-       "as_of": "2025-05-25",
-       "date_precision": "day",
-       "system": "JoT e-CMS",
-       "class": "justice"
-      }
-     ],
-     "systems": [
-      {
-       "system": "JoT e-CMS",
-       "country_label": "Tanzania",
-       "class": "justice",
-       "platform": "",
-       "owner": "Judiciary of Tanzania",
-       "tiers": "Court of Appeal to District Courts"
-      }
-     ],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2025-05-25-tza-dailynews-budget-committee-judiciary-ict", "studies": {
+"coresystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The article covers the Judiciary's systems only; it names no finance, revenue or payroll system."}}},
+"customs": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The article says nothing about customs."}}},
+"police": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The article says nothing about police station records."}}}
+}}

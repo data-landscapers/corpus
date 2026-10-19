@@ -1,0 +1,6 @@
+{"slug": "2026-01-01-tgo-liste-des-annuaires-nationaux", "studies": {
+"admindata": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Annuaire national 2025-2026", "country_label": "Annuaire national 2025-2026", "class": "other", "platform": "", "owner": "DPSSE, Ministry of primary, secondary, technical education", "tiers": ""}], "note": "Page lists school statistics yearbooks only; it does not say the figures are drawn from administrative records."}}},
+"educationexchange": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated on data exchange between education systems."}}},
+"educationmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Yearbooks are listed but no education information system is named."}}},
+"schools": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Annuaire national des statistiques scolaires", "country_label": "Togo", "class": "census", "platform": "", "owner": "DPSSE", "tiers": ""}], "note": "Only national school statistics yearbooks are listed; no learner-level records kept by schools are stated."}}}
+}}

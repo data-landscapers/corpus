@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,business,registration,inservice,"Sudan Dawn reports that company-register and business-name transactions at Sudan's commercial registry are filed through the Baladna platform, and that this was almost entirely stalled for more than a week by a technical fault, per lawyers.",2026-10-18,day,Baladna platform,business,2026-10-18-sdn-sudandawn-commercial-registry-baladna-outage,https://sudandawn.com/?p=22515

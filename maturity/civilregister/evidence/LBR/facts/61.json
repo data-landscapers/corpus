@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Liberia has signed a US$52 million build-operate-transfer concession with Austrian State Printing Company (OSD) for the NIDCRVS digital civil registration and vital statistics system, which the House of Representatives referred to a joint committee on 16 October 2026 for a two-week review.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "NIDCRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Central Digital Civil Registration and Vital Statistics system (NIDCRVS)",
+   "country_label": "NIDCRVS",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

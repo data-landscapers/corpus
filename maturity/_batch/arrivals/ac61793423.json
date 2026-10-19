@@ -1,0 +1,23 @@
+{"slug": "2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy", "studies": {
+"aisystems": {"countries": {
+"EGY": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Vodacom group CTO Dejan Kastelic told Business Day that Vodafone Business has broken ground in Egypt on Africa Data Centres Egypt with Elsewedy Electric and Cassava Technologies, which will use its own GPUs for internal and external users.", "as_of": "2026-10-18", "date_precision": "day", "system": "Africa Data Centres Egypt", "class": "localai"}], "systems": [{"system": "Africa Data Centres Egypt", "country_label": "Egypt", "class": "localai", "platform": "GPU data centre", "owner": "Vodafone Business, Elsewedy Electric, Cassava Technologies", "tiers": ""}], "note": ""},
+"KEN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Vodacom group CTO Dejan Kastelic told Business Day that Kenya will be the second node where Vodacom plans to build GPUs as a service.", "as_of": "2026-10-18", "date_precision": "day", "system": "Vodacom GPU-as-a-service node", "class": "localai"}], "systems": [], "note": ""},
+"ZAF": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Vodacom group CTO Dejan Kastelic told Business Day that South Africa will be the last of three large markets where Vodacom plans to install GPUs, starting small and mainly for internal use.", "as_of": "2026-10-18", "date_precision": "day", "system": "Vodacom GPU capacity", "class": "localai"}], "systems": [], "note": ""}
+}},
+"cloudstrategy": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "States no government hosting or cloud policy."},
+"KEN": {"facts": [], "systems": [], "note": "States no government hosting or cloud policy."},
+"ZAF": {"facts": [], "systems": [], "note": "States no government hosting or cloud policy."}}},
+"datacentres": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "The Egypt facility has only broken ground; none in service for hire is stated."},
+"KEN": {"facts": [], "systems": [], "note": "Only a planned GPU node; no data centre in service is stated."},
+"ZAF": {"facts": [], "systems": [], "note": "Says Vodacom has 12 data centres but not that they rent space or computing to others, nor any Tier or cloud region."}}},
+"nationaldatacentres": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No data centre for hire in service or its ownership is stated."},
+"KEN": {"facts": [], "systems": [], "note": "No data centre in service is stated."},
+"ZAF": {"facts": [], "systems": [], "note": "Vodacom's 12 data centres are not stated to be for hire."}}},
+"regionalinfrastructure": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No cross-border link or shared facility is stated."},
+"KEN": {"facts": [], "systems": [], "note": "No cross-border link or shared facility is stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No cross-border link or shared facility is stated."}}}
+}}

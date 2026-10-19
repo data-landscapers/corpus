@@ -1,59 +1,12 @@
 {
  "slug": "2026-01-09-som-simad-ai-institute-somali-nlp-project",
  "studies": {
-  "aiabuse": {
+  "aistrategy": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "SOM": {
-     "facts": [
-      {
-       "sub_indicator": "localai",
-       "aspect": "build",
-       "value": "underway",
-       "fact": "The SIMAD AI Institute's Natural Language Processing for Somalia project is in phased development, including dataset preparation and prototype model development for Somali text and speech (SIMAD AI Institute).",
-       "as_of": "2026-01-09",
-       "date_precision": "day",
-       "system": "Natural Language Processing for Somalia",
-       "class": "localai"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Natural Language Processing for Somalia",
-       "country_label": "Somalia",
-       "class": "localai",
-       "platform": "",
-       "owner": "SIMAD AI Institute",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "note": "University institute NLP project; no national AI strategy stated."
     }
    }
   }

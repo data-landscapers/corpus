@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-17-nga-nigerian-government-integrates-over-15-million-migration-records-voice",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The data centre of over eight petabytes is not said to rent space or computing to others."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Centralised Interior Management and Administration System (CMAS)",
+       "country_label": "CMAS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": "CMAS integrates data among agencies under the Interior ministry only, a single ministry's integration, so it is not recorded."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates, maintains or owns the national ID system."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article concerns immigration records, not other systems checking people against the national ID."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The data centre of over eight petabytes is not said to be for hire or who owns it."
+    }
+   }
+  }
+ }
+}

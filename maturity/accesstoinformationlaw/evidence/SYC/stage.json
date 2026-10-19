@@ -1,16 +1,17 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-004;SYC-002;SYC-003",
-   "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-006;SYC-008;SYC-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "The Information Commission found the Agriculture Department in breach of the Act in a case closed on 15 November 2024, and ordered the Planning Authority to give full access in 2024. Dated orders inside three years meet the top rung.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government API Gateway and Developer Portal",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a request for expressions of interest for the gateway; no contract, build or pilot is stated."
+}

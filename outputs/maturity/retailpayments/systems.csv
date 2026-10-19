@@ -34,6 +34,7 @@ BEN,MTN MoMo,MTN MoMo,retail,,,,2025-04-29-mobile-money-debrouille-soulage-poche
 BEN,MTN Mobile Money,Benin,retail,,MTN,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Moov Money,Benin,retail,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Celtiis Cash,Benin,retail,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,mobile money,Benin,retail,,,,2025-04-17-ben-wb-p162599-restructuring-paper-res00913
 BFA,Orange Money,Orange Money Burkina Faso,retail,Orange Burkina Faso,,,2026-09-21-bfa-burkina24-orange-max-it-nouvelle-version
 BFA,Max It,Max It,retail,Orange Burkina Faso,,,2026-09-21-bfa-burkina24-orange-max-it-nouvelle-version
 BFA,Orange Money,Burkina Faso,retail,,Orange,,2026-09-21-wearetech-sonar-orange-money-burkina
@@ -239,6 +240,9 @@ GHA,mobile money,Ghana,retail,,,,2026-08-19-graphic-bog-digital-transaction-data
 GHA,e-cedi,Ghana,other,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
 GHA,Digital Credit Service Providers Directive,Ghana,other,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
 GHA,mobile money,Ghana,retail,,,,2026-08-17-myjoyonline-bog-sme-financing-gap-digital-lending
+GHA,GhIPSS,GhIPSS,retail,,,,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,Ghana.gov,Ghana.gov,other,,,,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,MTN MoMo,MTN MoMo,retail,,MTN Ghana,,2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards
 GIN,NimbaPay,Guinea,retail,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
@@ -699,6 +703,7 @@ ZMB,ZIPS,Zambia,other,,,high-value settlement,2026-07-27-zambia-from-rails-to-ro
 ZMB,Airtel Money Zambia,ZMB,retail,,Airtel Africa,,2026-07-17-airtel-money-zambia-new-md
 ZMB,mobile money,ZMB,retail,,,,2026-03-01 Mobile Money Taxes and Affordability in Sub-Saharan Africa
 ZMB,mobile money,ZMB,retail,,,,2026-02-27 Zambia partners with PAYZ to boost financial inclusion
+ZMB,NFS,Zambia,retail,,,,2024-08-02-zmb-boz-emoney-unwarranted-charges-directives-2024
 ZWE,UPI-based real-time payments system,Zimbabwe,other,NPCI International UPI technology,Reserve Bank of Zimbabwe,,2026-10-06-zimbabwe-eyes-indias-upi-tech-for-national-payments-network
 ZWE,mobile money,Zimbabwe,retail,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey
 ZWE,Zimswitch,Zimbabwe,other,,,,2026-07-24-zimbabwe-digital-payments-surge-but-adoption-lags-topline-survey

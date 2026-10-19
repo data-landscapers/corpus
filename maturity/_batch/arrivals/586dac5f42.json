@@ -1,0 +1,10 @@
+{"slug": "2026-09-03-dji-adi-snia-ambitions-epreuve-action", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "States nothing on rules or an authority against AI harms; governance was only a panel topic."}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No government body's AI system is stated in use or under way; public services were only discussed."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Health and public services AI were discussed in a panel; no sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"DJI": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Djibouti presented on 3 September 2026 the main orientations of its first national AI strategy, SNIA 2026-2030, at a forum, with the ADI wire calling it the 'future strategy' still to be turned into actions; no adoption is stated.", "as_of": "2026-09-03", "date_precision": "day", "system": "SNIA 2026-2030", "class": "strategy"}], "systems": [{"system": "SNIA 2026-2030", "country_label": "Djibouti", "class": "strategy", "platform": "", "owner": "Government of Djibouti", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "An e-JO tool in Somali, Arabic and Afar was shown at an exhibition, but the document does not say it is an AI model or hosted AI computing."}}},
+"digitaldivides": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No rural access programme or rural-urban use figure is stated; only a general digital divide remark."}}},
+"startups": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Startups only exhibited; no startup law or fund is stated."}}},
+"techhubs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No hub, incubator or park is named."}}}
+}}

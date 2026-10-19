@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-ken-education-data-systems-switch-funding-gaps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Covers senior C1 schools; does not say whether schools enter learner records during the year or at what level."
+}

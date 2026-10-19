@@ -27,3 +27,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,dpi.registry--tax-register,review,no evidence,3,ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZMB,dpi.registry--tax-register,review,no evidence,3,ZMB-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.registry--tax-register,fact,3,3,ZWE-001;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-20,DZA,dpi.registry--tax-register,fact,3,4,DZA-001;DZA-002;DZA-003,"CNRC portal, Oct 2026: one identification number common to the commercial register and the tax directorate; shared, stage 4"

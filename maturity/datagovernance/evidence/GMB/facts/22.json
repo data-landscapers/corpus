@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gmb-government-data-assessment-inventory",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The contractor 2M Corp says its Phase 1 work in 2024 for the Ministry of Public Service, World Bank financed, produced a Data Governance Policy and a whole-of-government approach strategy; no adoption by the government is stated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Governance Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

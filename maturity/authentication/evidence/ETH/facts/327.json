@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FaydaVerse says its identity authentication service, using one-time passwords, has processed about 200 million authentication operations and about two million verification requests a day, charged to banks and other institutions since August 2026.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "FaydaVerse",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "FaydaVerse says its verification service is open to government institutions, private companies and start-ups, with banks named as users.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "FaydaVerse",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FaydaVerse",
+   "country_label": "FaydaVerse (National ID)",
+   "class": "authentication",
+   "platform": "",
+   "owner": "FaydaVerse",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital credentials, citizen wallets and digital signing are only planned."
+}

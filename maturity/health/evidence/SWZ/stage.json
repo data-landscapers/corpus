@@ -18,17 +18,17 @@
     {
       "sub_indicator": "emr",
       "stage": "3",
-      "governance": "owner:partner;finance:donor",
+      "governance": "owner:ministry;finance:donor",
       "tiers": "T2;T4",
       "digitised": "shared",
       "last12": "advancing",
       "clinics": "share:73%",
       "cap": "4",
       "flags": "externally run;community integrated;advancing",
-      "stage_sources": "SWZ-002;SWZ-004;SWZ-005;SWZ-003;SWZ-024;SWZ-034",
-      "gaps": "The newest governance fact (SWZ-034, US State Department, May 2026) has the US supporting CMIS and working in FY2026 to transition its ownership and management to the Eswatini government, against the ministry custodianship described in March and April 2026 (SWZ-003, SWZ-010); the newer stands. No current plan naming CMIS and no domestic budget line is held from an admitted source; the only plan row (SWZ-007) is from the excluded compilation. The 73% (233 sites, 2026) is a share of all health facilities with no denominator, read as primary clinics, against 75% (247 of 327) at March 2024 (SWZ-020); the 2024 report gives point-of-care with the Master Patient Index not live (SWZ-022), against shared in 2026.",
-      "note": "Coverage reaches stage 4: primary clinics use CMIS at the point of care on a unique ID, the record retrievable at another clinic, in more than half of facilities. Ownership is still passing from the US partner to the government, finance is donor only and no current plan is held, so the cap holds it at 3; 90 per cent is not reached in any case.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SWZ-002;SWZ-004;SWZ-005;SWZ-035;SWZ-024",
+      "gaps": "The newest governance fact (SWZ-035, October 2026) names the ministry's HMIS programme as technical lead for the health information systems, after the US State Department had the US supporting CMIS and transferring its ownership to the government in FY2026 (SWZ-034, May 2026); the newer stands. No current plan naming CMIS and no domestic budget line is held from an admitted source; the only plan row (SWZ-007) is from the excluded compilation. The 73% (233 sites, 2026) is a share of all health facilities with no denominator, read as primary clinics, against 75% (247 of 327) at March 2024 (SWZ-020); the 2024 report gives point-of-care with the Master Patient Index not live (SWZ-022), against shared in 2026.",
+      "note": "Coverage reaches stage 4: primary clinics use CMIS at the point of care on a unique ID, the record retrievable at another clinic, in more than half of facilities. The ministry now leads it, but finance is donor only and no current plan is held, so the cap holds it at 3; 90 per cent is not reached in any case.",
+      "as_at": "2026-10-20"
     }
   ]
 }

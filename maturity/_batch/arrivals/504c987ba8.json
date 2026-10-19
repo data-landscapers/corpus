@@ -1,0 +1,175 @@
+{
+ "slug": "2026-10-16-xaf-uneca-forum-african-statistical-development-12th-annotated-agenda",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on government AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on sector AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and says nothing on AI built at home."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The agenda names the country only as a panel participant and states nothing on its strategy."
+    }
+   }
+  }
+ }
+}

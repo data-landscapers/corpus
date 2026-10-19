@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-23-bwa-dailynews-bec-embraces-e-marking-system",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Botswana Examination Council's e-marking system, used for BGCSE, JCE and PSLE with 32 subjects marked in 2024, inputs the scores into the Malepa system where grades are processed and results compiled, says CEO Dr Moreetsi Thobega.",
+   "as_of": "2025-04-23",
+   "date_precision": "day",
+   "system": "e-marking system (e-authoring) to Malepa system",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-marking system (e-authoring)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Botswana Examination Council",
+   "tiers": ""
+  },
+  {
+   "system": "Malepa system",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Botswana Examination Council",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

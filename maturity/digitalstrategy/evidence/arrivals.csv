@@ -407,8 +407,12 @@ UGA,125,2025-09-01-uga-mofped-digital-transformation-monitoring-fy2024-25,2026-1
 UGA,126,2024-07-01-uga-mglsd-social-registry-feasibility-report,2026-10-18,instrument,2026-10-18
 ZAF,164,2024-10-01-zaf-sars-annual-report-2023-2024,2026-10-18,instrument,2026-10-18
 ZMB,97,2026-01-01-zmb-itu-digital-innovation-profile-zambia,2026-10-18,instrument,2026-10-18
-BDI,45,2025-01-27-bdi-decret-100-012-cnpdsp,2026-10-18,,
-KEN,191,2026-06-11-ken-treasury-budget-statement-fy-2026-27,2026-10-18,,
-NAM,78,2026-09-28-nam-nsa-rfp-white-paper-national-digital-addressing-system,2026-10-18,,
-NAM,79,2025-07-01-nam-npc-ndp6-policy-document,2026-10-18,,
-NAM,80,2025-01-01-nam-npc-ndp6-implementation-monitoring-evaluation-plan,2026-10-18,,
+BDI,45,2025-01-27-bdi-decret-100-012-cnpdsp,2026-10-18,nothing,2026-10-19
+KEN,191,2026-06-11-ken-treasury-budget-statement-fy-2026-27,2026-10-18,instrument,2026-10-19
+NAM,78,2026-09-28-nam-nsa-rfp-white-paper-national-digital-addressing-system,2026-10-18,instrument,2026-10-19
+NAM,79,2025-07-01-nam-npc-ndp6-policy-document,2026-10-18,instrument,2026-10-19
+NAM,80,2025-01-01-nam-npc-ndp6-implementation-monitoring-evaluation-plan,2026-10-18,instrument,2026-10-19
+CAF,37,2024-05-02-caf-centrafrique-validation-technique-du-document-de-politique-nationale-d,2026-10-19,nothing,2026-10-19
+MDG,44,2026-10-16-mdg-gsma-madagascar-digital-economy-report,2026-10-19,instrument,2026-10-19
+MUS,70,2026-10-19-mus-sil-tcs-mou-digital-transformation-techafricanews,2026-10-19,nothing,2026-10-19
+SYC,36,2026-06-05-syc-imf-cr-26-122-article-iv-2026-fifth-sixth-reviews,2026-10-19,instrument,2026-10-19

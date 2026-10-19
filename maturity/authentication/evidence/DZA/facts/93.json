@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-02-dza-arrete-portail-electronique-marches-publics",
+ "facts": [],
+ "systems": [
+  {
+   "system": "portail électronique des marchés publics",
+   "country_label": "portail",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère des finances",
+   "tiers": ""
+  }
+ ],
+ "note": "The arrêté sets login, e-signature and timestamp requirements for one procurement portal only; no national authentication service is stated."
+}

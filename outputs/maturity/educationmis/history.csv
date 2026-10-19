@@ -12,3 +12,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SEN,dpi.mis--education,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,SSD,dpi.mis--education,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,TZA,dpi.mis--education,review,no evidence,4,TZA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
+2026-10-20,AGO,dpi.mis--education,fact,2,3,AGO-003,"GEPE yearbook 2022/2023: data collected through SIGE, in operation though unfinished; school census through it, stage 3"
+2026-10-20,CMR,dpi.mis--education,fact,2,3,CMR-003,"INS, Jun 2024: education yearbook published with detailed data on the online EMIS platform; stage 3"
+2026-10-20,LBR,dpi.mis--education,fact,3,3,LBR-006;LBR-008,"EMIS portal: 2024-25 census live and a unique learner ID claimed; claim contradicted by 2025-26 ministry statements, stays 3"

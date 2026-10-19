@@ -1,0 +1,12 @@
+{"slug": "2025-04-17-ben-wb-p162599-restructuring-paper-res00913", "studies": {
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No consumer rules or redress stated."}}},
+"crossborderpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"feedbackportals": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Grievance Redress Mechanism appears only in the acronym list; no channel stated."}}},
+"g2ppayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"nonstatefinance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only an IDA credit to the government; no private money stated."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"BEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The World Bank restructuring paper says 219,391 users of digital financial services through mobile money were recorded under the Digital Rural Transformation Project.", "as_of": "2025-04-17", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [{"system": "mobile money", "country_label": "Benin", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

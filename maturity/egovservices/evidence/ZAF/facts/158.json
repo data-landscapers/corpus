@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-zaf-citizen-gauteng-egov-weighs-charges-e-panic-student",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gauteng e-Panic Button",
+   "country_label": "Gauteng e-Panic Button app",
+   "class": "other",
+   "platform": "",
+   "owner": "Gauteng Department of e-Government",
+   "tiers": ""
+  }
+ ],
+ "note": "The e-Panic Button is a provincial safety app, not a national portal, so its 288,000 registered users answer no question."
+}

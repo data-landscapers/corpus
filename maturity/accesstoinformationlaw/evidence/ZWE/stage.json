@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-002;ZWE-003",
-   "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-005;ZWE-001;ZWE-002",
+      "gaps": "No count or date of the Zimbabwe Media Commission's release orders is held.",
+      "note": "MISA Zimbabwe's 2024 annual report says the Zimbabwe Media Commission has issued release orders to public institutions under the Act. Orders by the oversight body reported for 2024 meet the top rung, though none is dated or counted.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

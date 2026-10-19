@@ -1,0 +1,11 @@
+{"slug": "2026-09-18-ben-decret-2026-617-tarification-actes-paiement-en-ligne", "studies": {
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The decree covers court and chancellery fees, not public procurement."}}},
+"centralbank": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No consumer-protection rule for digital finance is stated."}}},
+"crossborderpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"g2ppayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The decree covers payments to government, not to people."}}},
+"paymentslaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The decree sets no rules on who may run payments or issue e-money."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No survey figure is stated."}}},
+"retailpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No mobile money or retail wallet service is stated."}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Decree 2026-617 of the President of Benin, signed 18 September 2026 and effective from signature, requires fees for acts issued by the justice chancellery and the courts, tax stamps included, to be paid only electronically, with receipts going to a dedicated Treasury account; no platform or go-live is named.", "as_of": "2026-09-18", "date_precision": "day", "system": "online payment of court and chancellery fees", "class": "revenue"}], "systems": [{"system": "online payment platforms for court and chancellery fees", "country_label": "Benin", "class": "revenue", "platform": "", "owner": "Ministry of Justice and Ministry of Economy and Finance", "tiers": ""}], "note": ""}}}
+}}

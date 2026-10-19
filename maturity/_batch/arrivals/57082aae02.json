@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-18-nga-jamb-moves-to-rescue-graduates-stuck-for-years-over-nin-data-mismatch-unveils-new-service",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "JAMB biodata-alignment service for exam records; states no fact on the ID system's authentication, coverage, numbers, maintenance or registers."
+    }
+   }
+  }
+ }
+}

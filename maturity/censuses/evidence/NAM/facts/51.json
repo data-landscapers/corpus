@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Namibia Statistics Agency presents 2023 census results giving a population of 3,022,401, of whom 145,395 are non-Namibians.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Namibia Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

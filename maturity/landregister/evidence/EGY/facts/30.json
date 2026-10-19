@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-17-egy-ahram-real-estate-registry-complex-alamein",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "On 17 July 2025 Prime Minister Madbouly inaugurated the Real Estate Registry and Notarization Complex in New Alamein, launching a G2G integration system between the Justice Ministry's Real Estate Registry and Notarization Authority and the New Urban Communities Authority in 16 real estate registry offices in new cities, enabling retrieval of text, digital, spatial and licensing data on land, properties and units.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Real Estate Registry and Notarization Authority / New Urban Communities Authority integration system",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Real Estate Registry and Notarization Authority / New Urban Communities Authority integration system",
+   "country_label": "Egypt",
+   "class": "land",
+   "platform": "G2G digital hub",
+   "owner": "Ministry of Justice",
+   "tiers": "16 real estate registry offices in new urban communities"
+  }
+ ],
+ "note": ""
+}

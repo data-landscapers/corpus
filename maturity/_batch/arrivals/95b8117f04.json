@@ -1,6 +1,50 @@
-{"slug":"2026-09-02-ssd-sudanspost-nec-rejects-biometrics","studies":{
-"electoralregister":{"countries":{"SSD":{"facts":[{"sub_indicator":"electoral","aspect":"roll","value":"none","fact":"South Sudan's National Elections Commission chairperson said on 2 September 2026 that voter registration will be manual, ruling out biometrics, with records later transferred to computers and the originals kept in state offices.","as_of":"2026-09-02","date_precision":"day","system":"voter registration","class":"electoral"}],"systems":[],"note":""}}},
-"idrobustness":{"countries":{"SSD":{"facts":[],"systems":[],"note":"The document states nothing about a national ID system."}}},
-"registry":{"countries":{"SSD":{"facts":[],"systems":[],"note":"The document states nothing about civil registration."}}},
-"socialregistry":{"countries":{"SSD":{"facts":[],"systems":[],"note":"The document states nothing about a social registry."}}},
-"taxregister":{"countries":{"SSD":{"facts":[],"systems":[],"note":"The document states nothing about a tax register."}}}}}
+{
+ "slug": "2026-09-02-ssd-sudanspost-nec-rejects-biometrics",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns paper voter registration; none of this register stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns paper voter registration; none of this register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns paper voter registration; none of this register stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns paper voter registration; none of this register stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article concerns paper voter registration; none of this register stated."
+    }
+   }
+  }
+ }
+}

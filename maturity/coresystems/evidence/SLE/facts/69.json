@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-01-sle-undp-annual-report-justice-app",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Justice App",
+   "country_label": "Justice App",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Judiciary of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "Court case management app; states nothing on the finance, tax or payroll systems."
+}

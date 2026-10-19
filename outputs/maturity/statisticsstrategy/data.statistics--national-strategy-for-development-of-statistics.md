@@ -22,8 +22,8 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 3 |
-| 3 Established | 32 |
-| 2 Nascent | 10 |
+| 3 Established | 31 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 2 |
@@ -247,12 +247,6 @@ The NSDS 2024-2029 is current; no review of its progress since 2023 is known.
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2024-2029 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 - The Somalia National Bureau of Statistics unveiled the Second National Strategy for the Development of Statistics (NSDS 2, 2024-2029 per the document's header note) on 2025-12-07, building on the first NSDS ([source, 2025-12-07](https://nbs.gov.so/national-strategy-for-the-development-of-statistics-nsdsii/)).
 
-### South Sudan: 3 Established
-
-The NSDS II is current; no review of its progress since 2023 is known.
-
-- FAO states the agricultural statistics plan SPARS 2026-2031 is being aligned with South Sudan's Second National Strategy for the Development of Statistics (NSDS II), treating NSDS II as an existing national framework; no period or adoption date is given, so the document's published date is used ([source, 2026-05-12](https://www.fao.org/africa/news-stories/news-detail/south-sudan-advances-national-agricultural-statistics-strategy-through-fao-supported-diagnostic-workshop/en)).
-
 ### Uganda: 3 Established
 
 The PNSD is current; no review of its progress since 2023 is known.
@@ -326,6 +320,13 @@ The E-NSDS-II (extension of NSDS II 2016-2020) was adopted by 2023 and its perio
 A national statistics strategy was being prepared in 2026; none adopted is known to be current.
 
 - Stats SA told Parliament's Appropriations Committee on 28 April 2026 that it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics to determine data gaps; the document gives no adoption date ([source, 2026-04-28](https://www.parliament.gov.za/storage/app/media/Docs/atc/01ls62wgfubry77aimpfb3gfqgvq2vzzwq.pdf)).
+
+### South Sudan: 2 Nascent
+
+A second national statistics strategy was being drafted in 2025, after the last one ran out; its adoption is not known.
+
+- The Director General of South Sudan's National Bureau of Statistics says the second National Strategy for the Development of Statistics (NSDS II) is being developed, covering the Bureau and other producers of official statistics ([source, 2025-09-03](https://www.uneca.org/eca-events/sites/default/files/resources/documents/acs/capacity-building-workshop-data-ethics-governance-quality/presentations/2025_da.14_session_3a_south_sudan_coordinating_national_systems.pdf)).
+- PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Master Plan for Statistics Development in Southern Sudan 2021-2025 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Tunisia: 2 Nascent
 

@@ -1,0 +1,21 @@
+{"slug": "2026-10-17-uga-more-than-3mn-tax-records-await-nin-match-before-login-switch", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "NIN login to URA's own tax system is a login to one site, not an authentication service."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"coresystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "URA's system is named but nothing states tax, finance or payroll systems in use as such."}}},
+"educationexchange": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"educationmis": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"health": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}},
+"healthmis": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No count of people holding a NIN."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Uganda Business News, citing the finance state minister to Parliament, reports the Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual taxpayer records to National Identification Numbers by 30 September 2026.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer records linked to NIN", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Uganda Business News reports National Identification Numbers are in use and backed by biometric information held by the National Identification and Registration Authority (NIRA).", "as_of": "2026-10-17", "date_precision": "day", "system": "National Identification Number (NIRA)", "class": "idsystem"}], "systems": [{"system": "National Identification Number", "country_label": "Uganda NIN", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"UGA": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Uganda Business News reports the Uganda Revenue Authority's next phase is to verify taxpayer identities and update tax profiles using NIRA data and photographs, subject to consent, the finance state minister told Parliament.", "as_of": "2026-10-15", "date_precision": "day", "system": "URA taxpayer identity verification against NIRA", "class": "relying"}], "systems": [], "note": ""}}},
+"police": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schools": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Online portal is named only for supplying NINs; no online filing or payment is stated."}}},
+"taxregister": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "Uganda Business News reports the Uganda Revenue Authority holds 5.41 million individual taxpayer records and taxpayers log in with their Tax Identification Number.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer records and Tax Identification Number", "class": "tax"},
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "Uganda Business News, citing the finance state minister to Parliament, reports 2.13 million of the URA's 5.41 million individual taxpayer records were linked to National Identification Numbers by 30 September 2026, with NIN logins for linked accounts from 1 January 2027.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer records linked to NIN", "class": "tax"}], "systems": [], "note": ""}}}
+}}

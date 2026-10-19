@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-mcit-national-real-estate-id-press-release",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Egypt's MCIT said about 19 million national real estate identification numbers had been issued across several governorates, while the digital system to manage them was still being developed ahead of its launch.",
+   "as_of": "2025-06-01",
+   "date_precision": "day",
+   "system": "National Real Estate ID",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Real Estate ID",
+   "country_label": "National Real Estate ID",
+   "class": "address",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

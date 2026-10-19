@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-01-ner-ansi-175-cadres-maec-formes-gec-messagerie",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GEC",
+   "country_label": "GEC",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  },
+  {
+   "system": "Messagerie Professionnelle",
+   "country_label": "Messagerie Professionnelle",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Internal staff email and mail-management training; no public online services stated."
+}

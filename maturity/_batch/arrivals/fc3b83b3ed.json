@@ -1,9 +1,50 @@
-{"slug": "2025-04-25-gmb-kerrfatou-moherst-tita-ai-app", "studies": {
-"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [{"system": "TITA mobile app", "country_label": "The Gambia", "class": "other", "platform": "mobile app with admin panel", "owner": "TITA Universal Services Ltd. (Nigeria), launched by MoHERST", "tiers": "students, lecturers, institution management"}], "note": "The app is for tertiary institutions' academic scheduling; the document does not say a government body uses it for its own work."}}},
-"aisectoral": {"countries": {"GMB": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Ministry of Higher Education unveiled the TITA mobile app on 2025-04-24 in Banjul, whose admin panel uses AI to generate institution-wide academic timetables automatically for tertiary institutions.", "as_of": "2025-04-24", "date_precision": "day", "system": "TITA App", "class": "sectorai"}], "systems": [{"system": "TITA App", "country_label": "The Gambia", "class": "sectorai", "platform": "mobile app with admin panel", "owner": "MoHERST; developed by TITA Universal Services Ltd.", "tiers": "students, lecturers (Lecti), management (TITA Admin Panel)"}], "note": ""}}},
-"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "App was developed by a Nigeria-based firm; no AI built or hosted in The Gambia is stated."}}},
-"educationmis": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Concerns a tertiary institutions app, not the national school education information system."}}},
-"schools": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Tertiary education only; nothing on primary school learner records."}}},
-"taxadmin": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment."}}}
-}}
+{
+ "slug": "2025-04-25-gmb-kerrfatou-moherst-tita-ai-app",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education app launch; nothing stated for this study."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education app launch; nothing stated for this study."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education app launch; nothing stated for this study."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education app launch; nothing stated for this study."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Higher-education app launch; nothing stated for this study."
+    }
+   }
+  }
+ }
+}

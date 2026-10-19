@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-24-civ-acces-a-l-information-publique-l-anp-forme-les-journalistes-a-mieux-ex",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Commissioner Bamba Karamoko of Cote d'Ivoire's CAIDP said law no. 2013-867 of 23 December 2013 guarantees anyone the right to obtain public documents from administrations.",
+   "as_of": "2013-12-23",
+   "date_precision": "day",
+   "system": "Loi n.2013-867",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The CAIDP recorded 45 referrals in 2024, 12 from journalists, and fines of up to 360,000 FCFA can be applied for breaches.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Loi n.2013-867",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

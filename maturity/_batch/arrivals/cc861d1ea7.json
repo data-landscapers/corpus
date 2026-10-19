@@ -1,70 +1,12 @@
 {
  "slug": "2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic",
  "studies": {
-  "aiabuse": {
+  "aistrategy": {
    "countries": {
     "CAF": {
      "facts": [],
      "systems": [],
-     "note": "Not stated in the document."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "CAF": {
-     "facts": [],
-     "systems": [],
-     "note": "The project is a health diagnosis project, not administration."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "CAF": {
-     "facts": [
-      {
-       "sub_indicator": "sectorai",
-       "aspect": "use",
-       "value": "underway",
-       "fact": "Institut Pasteur de Bangui announced on 1 August 2024 the four-year MEDICINE project to build AI-assisted fever diagnostic tools for health centres and community health workers, starting with an exploratory phase.",
-       "as_of": "2024-08-01",
-       "date_precision": "day",
-       "system": "MEDICINE",
-       "class": "sectorai"
-      }
-     ],
-     "systems": [
-      {
-       "system": "MEDICINE",
-       "country_label": "Central African Republic",
-       "class": "sectorai",
-       "platform": "",
-       "owner": "Institut Pasteur de Bangui",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "CAF": {
-     "facts": [
-      {
-       "sub_indicator": "localai",
-       "aspect": "build",
-       "value": "underway",
-       "fact": "Institut Pasteur de Bangui says its MEDICINE project will develop AI-based diagnostic aid tools for fever in under-fives, over four years from August 2024.",
-       "as_of": "2024-08-01",
-       "date_precision": "day",
-       "system": "MEDICINE",
-       "class": "localai"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Institute project using AI for fever diagnosis; no national AI strategy stated."
     }
    }
   }

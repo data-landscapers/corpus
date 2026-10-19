@@ -23,10 +23,10 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | 5 Leading | 0 |
 | 4 Operating | 5 |
 | 3 Established | 10 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 31 |
+| No evidence | 30 |
 
 ## Countries
 
@@ -139,6 +139,12 @@ Angola has a hosting policy being written and none in force, so where public bod
 
 - The Instituto de Modernizacao Administrativa's terms of reference (document 01/IMA/2026, version 1.2 of 9 March 2026, under the PADA project) procure a five-month consultancy to structure, draft and consolidate the Politica Nacional de Gestao e Hospedagem de Dados Publicos and its implementing regulation, including hosting rules by data category (on-premises, government or sovereign cloud, hybrid, conditions for public cloud) and residency rules ([source, 2026-03-09](https://c2a.portais.gov.ao/uploads/TDR_Contratacao_de_Servico_de_Consultoria_Apoio_Estrategico_e_Juridico_a810d7f256.pdf)).
 
+### Botswana: 2 Nascent
+
+Botswana's government was developing a cloud computing policy in 2025 and none is in force, so where public bodies must host is not known.
+
+- Botswana's Ministry of Communications and Innovation Deputy Permanent Secretary said in February 2025 that government was developing artificial intelligence, digital economy and digital and cloud computing policies ([source, 2025-02](https://dailynews.gov.bw/news-detail/84714)).
+
 ### DR Congo: 2 Nascent
 
 A national data hosting strategy was being developed in March 2026, and no adopted policy is known; where public bodies must host is not known.
@@ -190,12 +196,6 @@ Not established: Nothing held names a government hosting or cloud policy, or say
 ### Benin: No evidence
 
 Nothing held says Benin has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Botswana: No evidence
-
-Nothing held says Botswana has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a government hosting or cloud policy, or says there is none.
 

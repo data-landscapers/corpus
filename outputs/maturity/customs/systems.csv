@@ -39,6 +39,7 @@ CMR,Guce (Guichet unique des opérations du commerce extérieur),Cameroon,custom
 CMR,CAMCIS,Cameroon,customs,CAMCIS,Cameroon Customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CMR,SIGMAT,Cameroon,other,,CEMAC,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CMR,GUCE,Cameroon,customs,,,,2026-03-30-leconomie-digital-customs-payment-tool
+CMR,CAMCIS,CAMCIS,customs,,Cameroon customs,,2026-10-18-nga-customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade
 COD,SYDONIA World,COD,customs,SYDONIA World,DGDA,,2026-09-17-cod-desknews-paluku-omc-dematerialisation-commerce-exterieur
 COD,Guichet unique intégral du commerce extérieur,COD,customs,,,,2026-09-17-cod-desknews-paluku-omc-dematerialisation-commerce-exterieur
 COD,SYDONIA World,COD,customs,SYDONIA World,DGDA,,2026-01-09-rdc-guce-dgda-transmission-electronique-obligatoire
@@ -140,6 +141,7 @@ MDG,SYDONIA,Madagascar,customs,ASYCUDA,Madagascar customs,,2015-12-22-mdg-arrete
 MDG,TradeNet,Madagascar,customs,,Malagasy Community Network Services S.A.,,2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement
 MDG,système automatisé de dédouanement,Madagascar,customs,,Direction Générale des Douanes,,2023-01-01-mdg-douanes-code-art-84-88-declaration-electronique
 MLI,Sydonia World,Mali,customs,ASYCUDA World,Direction generale des douanes du Mali,,2018-12-31-mli-douanes-migration-sydoniaworld
+MLI,SYGOCE,Mali,other,,Primature,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
 MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,MCNet,,2013-01-31-moz-mcnet-balanco-jue-2012
 MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,Alfandegas de Mocambique,,2012-09-03-moz-verdade-jue-obrigatoria
 MRT,SYDONIA World,Mauritanie,customs,ASYCUDA World (UNCTAD),Direction Generale des Douanes,,2026-01-01-mrt-douanes-guide-procedures-dedouanement
@@ -150,6 +152,8 @@ MWI,ASYCUDA World,Malawi,other,ASYCUDA World,Malawi Revenue Authority,,2025-05-2
 MWI,ASYCUDA World,Malawi,customs,ASYCUDA World 4.4,Malawi Revenue Authority,,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade
 MWI,ASYCUDA,Malawi,customs,ASYCUDA,,,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai
 MWI,ASYCUDAWorld 4.3.3,Malawi,customs,ASYCUDAWorld,Malawi Revenue Authority,,2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi
+MWI,Electronic Invoicing System (EIS),Malawi,other,,Malawi Revenue Authority,,2026-07-20-malawi24-mra-electronic-invoicing-system-momentum
+MWI,Electronic Invoicing System (EIS),Malawi,other,,Malawi Revenue Authority,,2026-02-11-malawi24-mra-clarifies-eis-rental-income-tax
 NAM,ASYCUDAWorld 4.4.1,ASYCUDAWorld,customs,UNCTAD ASYCUDA,Namibia Revenue Agency,,2026-05-19-nam-observer-namra-customs-11-versions-behind
 NAM,ASYCUDAWorld 4.4.1,ASYCUDAWorld,customs,ASYCUDA,Namibia Revenue Agency,,2026-05-05-nam-newera-namra-asycudaworld-upgrade
 NAM,Trade Verification System,Namibia,other,,Bank of Namibia and NamRA,,2023-10-30-nam-bon-trade-verification-system
@@ -167,6 +171,7 @@ NGA,National Single Window,Nigeria,customs,,,,2026-10-05-nga-stakeholders-seek-l
 NGA,B'Odogwu,Nigeria,customs,,Nigeria Customs Service,,2025-08-25-nga-thenation-bodogwu-national-single-window
 NGA,National Single Window,Nigeria,customs,,Federal Government,,2025-08-25-nga-thenation-bodogwu-national-single-window
 NGA,B'Odogwu,Nigeria,customs,"Unified Customs Management System, web-based",Nigeria Customs Service,,2025-01-07-nga-businessday-bodogwu-ucms-ai
+NGA,automated cargo clearance systems,Nigeria,customs,,Nigeria Customs Service,,2026-04-13-nga-punch-customs-deploy-ai-revenue
 RWA,Rwanda Electronic Single Window System (Single Transaction Portal),Rwanda,customs,,Rwanda Revenue Authority,,2026-02-24-rra-customs-appeals-electronic-stp
 RWA,ASYCUDA World,Rwanda,customs,ASYCUDA,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
 RWA,E-Tax,Rwanda,other,,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
@@ -193,6 +198,7 @@ SSD,e-Customs,e-Customs,other,,South Sudan Revenue Authority,,2026-10-15-ssd-ssr
 SSD,SSCAFFA,SSCAFFA,other,,South Sudan Revenue Authority,,2026-10-15-ssd-ssra-zambian-delegation-digital-tax
 STP,ASYCUDAWorld 4.4,STP,customs,ASYCUDAWorld,Customs Directorate,,2025-06-01-stp-asycuda-asycudaworld-4-4-migration
 STP,Sydonia World 4.4.0,Sao Tome and Principe,customs,ASYCUDA World (UNCTAD),Autoridade Geral Aduaneira,,2025-05-27-stp-rstp-aga-sydonia-world-4-4
+STP,SIGE,São Tomé e Príncipe,other,,,,2026-04-01-sao-tome-afap-consultoria-implementacao-sige
 SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,Eswatini Revenue Service,,2026-06-20-ers-fnb-complete-real-time-customs-payment-integration
 SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,,,2024-01-01-eswatini-tin-registration-procedure
 SWZ,ASYCUDA,Eswatini,customs,ASYCUDA,Eswatini Revenue Service,,2026-06-12-swz-ers-integrated-payment-solution-fnb
@@ -213,9 +219,11 @@ TUN,SINDA 2,Tunisia,customs,,Tunisian Customs,,2025-11-12-tun-lapresse-sinda-2-o
 TZA,Zanzibar Single Window System,Tanzania (Zanzibar),customs,,Tanzania Revenue Authority,Zanzibar,2026-06-05-tra-zanzibar-single-window-launch
 TZA,Tanzania Electronic Single Window System,Tanzania (Mainland),customs,,,Mainland,2026-06-05-tra-zanzibar-single-window-launch
 TZA,Criminal Justice Single Window System,Tanzania,other,,Ministry of Constitution and Legal Affairs,,2026-04-24-criminal-justice-single-window-system
+TZA,TRA automated Customs system,Tanzania,customs,,Tanzania Revenue Authority,,2024-09-19-zmb-wco-zambia-tanzania-customs-connectivity
 UGA,ASYCUDA World,Uganda,customs,ASYCUDA World,Uganda Revenue Authority,,2024-06-24-ura-asycudaworld
 ZAF,Single Window Portal,South Africa,customs,,SARS,,2023-10-05-zaf-sars-customs-single-window-solution
 ZAF,SARS customs management system,South Africa,customs,,SARS,,2013-08-22-zaf-sars-customs-modernisation-implementation
+ZAF,Vehicle Targeting System (VTS),South Africa,other,International Vehicle Identification Desk application,Border Management Authority,,2026-10-19-zaf-bma-vehicle-targeting-system-digital-border
 ZMB,ASYCUDAWorld,Zambia,customs,ASYCUDAWorld (UNCTAD),Zambia Revenue Authority,,2025-12-16-zmb-tma-asycudaworld-upgrade-agreement
 ZMB,ASYCUDA World,Zambia,customs,ASYCUDA World,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization
 ZMB,Zambia Electronic Single Window (ZESW),Zambia,customs,,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization

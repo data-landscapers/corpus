@@ -1,0 +1,10 @@
+{"slug": "2026-10-16-uga-lwengo-leaders-close-nira-office-over-extortion-claims", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No link with the civil register stated."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Says nothing on who operates or maintains the system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Nile Post reports that residents of Lwengo District collect national identity cards at a National Identification and Registration Authority office, which district leaders closed on 2026-10-16 over alleged extortion.", "as_of": "2026-10-16", "date_precision": "day", "system": "NIRA national identity card", "class": "idsystem"}], "systems": [{"system": "NIRA national identity card", "country_label": "Uganda", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Concerns a NIRA district office, a central body; no local government connection stated."}}}
+}}

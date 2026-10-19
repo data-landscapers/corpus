@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-10-uga-kcca-house-number-plates-donation",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "KCCA says house numbering is under way in Kampala, with only 12,555 of 373,826 houses carrying number plates, which owners buy for UGX 50,000 from KCCA-approved providers after notifying KCCA of their number.",
+   "as_of": "2025-02-02",
+   "date_precision": "day",
+   "system": "KCCA house numbering",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KCCA house numbering",
+   "country_label": "Uganda",
+   "class": "address",
+   "platform": "",
+   "owner": "Kampala Capital City Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

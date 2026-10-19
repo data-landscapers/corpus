@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-ago-mescti-anuario-estatistico-ensino-superior-2023-24",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:9.8",
+   "fact": "The MESCTI yearbook says 3,076 (9.8%) of the 31,503 graduates of academic year 2022-2023 were in STEM.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Anuario Estatistico do Ensino Superior 2023-2024",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

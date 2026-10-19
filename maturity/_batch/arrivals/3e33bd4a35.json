@@ -1,7 +1,14 @@
-{"slug": "2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages", "studies": {
-"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The AI use named is inside tax administration, a sector system, not general administration."}}},
-"aisectoral": {"countries": {"GHA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "GRA Deputy Commissioner Elsie Appau-Klu says the Ghana Revenue Authority is using AI and machine learning to identify anomalies in tax filings, expose suspicious trade activities and trigger targeted audits.", "as_of": "2025-05-22", "date_precision": "day", "system": "GRA AI and machine learning tax analytics", "class": "sectorai"}], "systems": [{"system": "GRA AI and machine learning analytics", "country_label": "Ghana", "class": "sectorai", "platform": "", "owner": "Ghana Revenue Authority", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or AI computing built or hosted in the country."}}},
-"digitalstrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document names no national digital strategy; only a GRA 'renewed digital strategy', an agency plan."}}}
-}}
+{
+ "slug": "2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Revenue authority use of AI; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

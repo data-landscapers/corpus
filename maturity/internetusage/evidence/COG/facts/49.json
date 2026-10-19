@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Arpce internet penetration rate",
+   "country_label": "57%",
+   "class": "other",
+   "platform": "",
+   "owner": "Arpce",
+   "tiers": ""
+  }
+ ],
+ "note": "The 57% is the regulator's estimated penetration rate, not a share of people from ITU or a survey."
+}

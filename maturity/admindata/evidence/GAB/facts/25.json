@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-09-gab-lunion-atelier-annuaire-statistique-education",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "L'Union reports a Libreville workshop opened 8 July 2024 to evaluate the plan of an education statistical yearbook, following a school data collection involving several administrations including the Direction generale de la Statistique.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "Annuaire statistique de l'education (planned)",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

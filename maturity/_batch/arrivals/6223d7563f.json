@@ -1,0 +1,80 @@
+{
+ "slug": "2023-12-26-cod-enregistrement-des-faits-d-etat-civil-et-production-de-statistiques-vi",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "UNFPA DRC reports that the national statistics institute (INS) and UNFPA held a technical workshop in Kinshasa on 4-5 December 2023 on producing vital statistics from civil registration, which adopted a roadmap to draft a methodological guide and an action plan.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "Statistiques de l'etat civil",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "civil-registration",
+       "fact": "The workshop concerns statistics on births, deaths, marriages and divorces from the civil registration system, which the document says the national statistical system struggles to produce.",
+       "as_of": "2023-12-05",
+       "date_precision": "day",
+       "system": "Statistiques de l'etat civil",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Namibia Statistics Agency told the SADC workshop that an MoU with the labour ministry (MLIREC) provides for a steering committee and technical working group on data sharing, but no law or MoU yet covers access to immigration records and no administrative statistics are published from them.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "MoU between NSA and MLIREC",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

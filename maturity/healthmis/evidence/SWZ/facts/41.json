@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Logistics Management Information System (eLMIS)",
+   "country_label": "eLMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health (HMIS Eswatini)",
+   "tiers": ""
+  }
+ ],
+ "note": "Document describes a stock system and a patient-records system; no national routine reporting system is stated."
+}

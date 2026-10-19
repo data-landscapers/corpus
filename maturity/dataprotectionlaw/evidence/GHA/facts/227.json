@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The analyst describes Ghana's Data Protection Act, 2012 (Act 843) as binding the Ghanaian data controller, passed in 2012, and urges Parliament to update it.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "2026-10-15-lby-alwasat-prosecution-10190-passports-forged-data",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Attorney General's Office says a review found 315,385 National Numbers granted contrary to legislation and 8,662 National Numbers suspended, showing the national number system in operation.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "National Number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Number",
+       "country_label": "Libya National Number",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Civil Registry Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  }
+ }
+}

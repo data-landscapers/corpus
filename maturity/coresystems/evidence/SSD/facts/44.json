@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-24-ssd-ppdaa-dissemination-workshop-tender-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PPDAA tender portal (ppdaatenderportal.gov.ss)",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Public Procurement and Disposal of Assets Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "A procurement portal, not a finance, tax or payroll system."
+}

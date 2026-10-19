@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-28-caf-oubangui-cnss-plateforme-teledeclaration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNSS telededeclaration platform",
+   "country_label": "Centrafrique",
+   "class": "other",
+   "platform": "web",
+   "owner": "CNSS",
+   "tiers": "employers"
+  }
+ ],
+ "note": "Employer online declaration platform of the social security fund; no beneficiary management system, payments or programmes stated."
+}

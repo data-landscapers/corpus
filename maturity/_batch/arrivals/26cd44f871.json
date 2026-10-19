@@ -1,0 +1,18 @@
+{"slug": "2026-10-16-civ-afrimag-ouattara-administration-numerique-2029", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on AI use in administration."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on AI in sector systems."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on AI built in the country."}}},
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a plan for one digital identity per user is stated, with no authentication service."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on a civil register to ID link."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a general wish to strengthen digital sovereignty is stated, with no rule, hosting or contract term."}}},
+"egovservices": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A 700-service 2029 target and 23 platforms deployed are stated, but no count of services online or a gateway."}}},
+"health": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "Afrimag reports that the PAPE programme deployed the hospital information system (SIH) and computerised patient file (DPI) in 268 health facilities in Cote d'Ivoire, including 9 of 15 national hospitals, giving tracking of each patient.", "as_of": "2026-10-16", "date_precision": "day", "system": "Dossier patient informatise (DPI)", "class": "emr"}
+], "systems": [{"system": "Systeme d'information hospitalier (SIH)", "country_label": "SIH", "class": "emr", "platform": "", "owner": "", "tiers": "T1"}, {"system": "Dossier patient informatise (DPI)", "country_label": "DPI", "class": "emr", "platform": "", "owner": "", "tiers": "T1"}, {"system": "Sante CIV", "country_label": "Sante CIV", "class": "other", "platform": "mobile app", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document gives no national ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on registers keyed on the national ID number."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only school biometric identification is named, which is a sectoral ID."}}}
+}}

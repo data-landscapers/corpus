@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-17-gha-geoglam-geomaize-yield",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GEOMAIZE",
+   "country_label": "GEOMAIZE",
+   "class": "other",
+   "platform": "",
+   "owner": "GSSTI with VITO",
+   "tiers": ""
+  }
+ ],
+ "note": "Crop yield estimation research project; states nothing on the national meteorological service."
+}

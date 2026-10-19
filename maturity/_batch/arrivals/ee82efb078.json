@@ -1,5 +1,7 @@
 {"slug": "2025-08-25-lby-libyaherald-asycuda-full-launch", "studies": {
-"customs": {"countries": {"LBY": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "underway", "fact": "Libya's Customs Authority announced on 21 August 2025 the full launch of the ASYCUDA customs system early the following month, after a two-week expert visit for the Customs Procedures Automation Project reviewed infrastructure readiness and implementation progress.", "as_of": "2025-08-21", "date_precision": "day", "system": "ASYCUDA", "class": "customs"}], "systems": [{"system": "ASYCUDA", "country_label": "Libya", "class": "customs", "platform": "UNCTAD ASYCUDA", "owner": "Customs Authority", "tiers": ""}], "note": ""}}},
-"internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing stated on standards body membership, national adoption or use; ISO mention only describes ASYCUDA's design."}}},
-"justice": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document is about customs only."}}},
-"schools": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document is about customs only."}}}}}
+"coresystems": {"countries": {"LBY": {"facts": [], "systems": [{"system": "ASYCUDA", "country_label": "Libya", "class": "other", "platform": "ASYCUDA (UNCTAD)", "owner": "Customs Authority", "tiers": ""}], "note": "Customs only, which the study excludes."}}},
+"educationexchange": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No education system is mentioned."}}},
+"educationmis": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No education system is mentioned."}}},
+"health": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
+"healthmis": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No health system is mentioned."}}}
+}}

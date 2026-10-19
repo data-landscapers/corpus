@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NITA Data Centre",
+   "country_label": "NITA DC",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA",
+   "tiers": ""
+  }
+ ],
+ "note": "NITA DC is named but not said to rent to outside organisations, nor given a Tier; Tier-III is only a goal."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-17-uga-more-than-3mn-tax-records-await-nin-match-before-login-switch",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Uganda Business News reports the Uganda Revenue Authority holds 5.41 million individual taxpayer records and taxpayers log in with their Tax Identification Number.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "URA taxpayer records and Tax Identification Number",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "Uganda Business News, citing the finance state minister to Parliament, reports 2.13 million of the URA's 5.41 million individual taxpayer records were linked to National Identification Numbers by 30 September 2026, with NIN logins for linked accounts from 1 January 2027.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "URA taxpayer records linked to NIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-19-cmr-digitalbusiness-herve-tiwa-vide-juridique-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "Digital expert Hervé Tiwa says Cameroon currently has a legal gap on malicious AI use (deepfakes, disinformation) that the cybercrime law must be extended to fill.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Analyst opinion states no fact the study asks."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Analyst opinion states no fact the study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Analyst opinion states no fact the study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Analyst opinion states no fact the study asks."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Analyst opinion states no fact the study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Smart Africa Data Exchange (SADX)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "SADX",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "SADX is a regional platform between states, not a national government exchange."
+}

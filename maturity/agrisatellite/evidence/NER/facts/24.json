@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-29-ner-adn-rayuwa-ai-platform-training",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rayuwa",
+   "country_label": "Rayuwa",
+   "class": "other",
+   "platform": "mobile app (Play Store)",
+   "owner": "Agence de Developpement Numerique (ADN)",
+   "tiers": ""
+  }
+ ],
+ "note": "Rayuwa gives agro-hydro-meteorological advice, forecasts and image diagnosis, but the page does not say it uses satellite data."
+}

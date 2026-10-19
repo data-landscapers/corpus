@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-20-dza-lavoiedalgerie-reforme-etat-civil-numerisation",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "At the Council of Ministers of 18 May 2025, after government examinations on 3 and 17 April, President Tebboune sent back the draft civil-status law, whose directives aim to create a unified national civil-status database accessible to all concerned administrations (La Voie d'Algérie).",
+   "as_of": "2025-05-18",
+   "date_precision": "day",
+   "system": "unified national civil-status database",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "unified national civil-status database",
+   "country_label": "Algeria",
+   "class": "population",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

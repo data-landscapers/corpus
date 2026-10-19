@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-11-malawi24-mra-clarifies-eis-rental-income-tax",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Invoicing System (EIS)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "EIS is a VAT invoicing system, not customs clearance; document says nothing on customs."
+}

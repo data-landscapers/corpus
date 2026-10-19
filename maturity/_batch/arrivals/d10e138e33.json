@@ -1,34 +1,3 @@
-{
- "slug": "2026-06-29-moz-auras-plataforma-reco-reclamacoes",
- "studies": {
-  "feedbackportals": {
-   "countries": {
-    "MOZ": {
-     "facts": [
-      {
-       "sub_indicator": "feedback",
-       "aspect": "channel",
-       "value": "underway",
-       "fact": "AURAS, the water and sanitation regulator, presented its new digital complaints platform RECO, which lets any citizen submit a complaint or appeal online about regulated water and sanitation services; no case numbers given.",
-       "as_of": "2026-06-29",
-       "date_precision": "day",
-       "system": "RECO (Plataforma de Reclama\u00e7\u00f5es)",
-       "class": "feedback"
-      }
-     ],
-     "systems": [
-      {
-       "system": "RECO",
-       "country_label": "Mo\u00e7ambique",
-       "class": "feedback",
-       "platform": "web",
-       "owner": "AURAS",
-       "tiers": "water and sanitation sector"
-      }
-     ],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-06-29-moz-auras-plataforma-reco-reclamacoes", "studies": {
+"refugees": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing stated on refugees or displaced people."}}}
+}}

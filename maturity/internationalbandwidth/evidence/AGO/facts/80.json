@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-ago-otelegrama-lei-9-26-ciberseguranca-soberania-digital",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "O Telegrama says Angola is connected by submarine cables to America and Europe, without naming cables or landing stations.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

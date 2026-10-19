@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-17-gab-identite-numerique-quand-pourra-t-on-faire-une-demarche-sans-redonner-ses-papier",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Techies reports the NIP, a unique identifier for each citizen, began to be attributed on 3 April 2024 in Libreville, and issuing of the electronic national identity card (CNIE) began on 24 June 2024.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "NIP (numéro d'identification personnel) and CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIP (numéro d'identification personnel)",
+   "country_label": "NIP",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGDI",
+   "tiers": ""
+  }
+ ],
+ "note": "NIP attribution was reported suspended for several months in 2026, which no value of this study records."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-sle-ncra-releases-2024-provisional-report-on-vital-statistics",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The National Civil Registration Authority issued its Provisional Annual Report on Vital Events for the year ending 31 December 2024, under Section 26(1) of the National Civil Registration Act 2016, giving 246,437 live births, 10,962 deaths, 1,069 marriages, 76 divorces and 419 adoptions registered.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "Provisional Annual Report on Vital Events 2024",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration",
+   "fact": "The 2024 provisional vital events report draws on events registered by the National Civil Registration Authority, with changes stated against 2023.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "Provisional Annual Report on Vital Events 2024",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Provisional Annual Report on Vital Events 2024",
+   "country_label": "Sierra Leone",
+   "class": "admin",
+   "platform": "",
+   "owner": "National Civil Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

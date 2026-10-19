@@ -1,0 +1,12 @@
+{"slug": "2024-05-02-caf-centrafrique-validation-technique-du-document-de-politique-nationale-d", "studies": {
+"admindata": {"countries": {"CAF": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The article says a 2023 diagnostic of the civil-status system, launched by the territorial administration ministry and CIVIPOL under the EU-funded modernisation project, analysed the system's strengths and weaknesses including the production of civil-status statistics; no statistics are said to be published.", "as_of": "2023", "date_precision": "year", "system": "Projet europeen d'appui a la modernisation de l'etat civil", "class": "admin"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article names no link between the civil register and an ID system."}}},
+"civilregister": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article describes a civil-status policy document and an archives problem, and names no digital civil registration system."}}},
+"datagovernance": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article concerns a civil-status policy, not a national data policy."}}},
+"digitalstrategy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article concerns a civil-status policy, not a national digital strategy."}}},
+"idfrombirth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article states nothing about an ID number given at birth."}}},
+"localgov": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Mairies attended the workshop, but the article states nothing about local government offices being connected."}}},
+"publicconsultation": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The workshop is on a civil-status policy, which is not a digital law or policy, and no one outside government is named in the room."}}},
+"registry": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article states nothing about offices entering births or deaths digitally."}}},
+"statisticsstrategy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The article mentions the national statistics development strategy only as a link to a civil-status statistics strategy; it states nothing on its status."}}}
+}}

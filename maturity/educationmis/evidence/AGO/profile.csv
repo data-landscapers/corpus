@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,emis,system,coverage,underway,2026-08,AGO-001;AGO-002,,
+AGO,emis,system,coverage,inservice,2025,AGO-003,AGO-001=underway;AGO-002=underway,
 AGO,emis,learners,coverage,,,,,nothing held
 AGO,emis,linked,coverage,,,,,nothing held

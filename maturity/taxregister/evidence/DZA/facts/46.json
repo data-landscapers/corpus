@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-17-dza-cnrc-portail-creation-entreprise-accueil",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The CNRC says a company obtains one common identification number within three days, after the commercial register centre, the tax directorate (DGI), CNAS, CASNOS and the statistics office approve the registration made on the portal.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "numéro d'identification commun",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-lbr-liberia-emis-education-management-information-system",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The portal describes the EMIS as managed by the Ministry of Education.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Liberia EMIS",
+   "class": "emis"
+  },
+  {
+   "sub_indicator": "emis",
+   "aspect": "levels",
+   "value": "P;S",
+   "fact": "The portal says the EMIS records learners at ECE, primary, JSS and SSS levels, besides TVET and ABE.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Liberia EMIS",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia EMIS",
+   "country_label": "Liberia EMIS (emis-moe-lib.org)",
+   "class": "emis",
+   "platform": "",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

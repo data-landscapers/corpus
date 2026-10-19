@@ -24,8 +24,8 @@ The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police a
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 5 |
-| 2 Nascent | 18 |
+| 3 Established | 6 |
+| 2 Nascent | 17 |
 | 1 Absent | 8 |
 | Unplaced | 6 |
 | No evidence | 16 |
@@ -83,6 +83,13 @@ Police stations record complaints and cases in connected national systems, cases
 - The DGSN's 2024 review says the case-management system is in use in 12 commands (the police prefectures of Kénitra, Tangier, Settat, Marrakech and Meknès, the regional sûretés of Ouarzazate, Errachidia, Taza and Al Hoceima, and the provincial sûretés of Salé, Safi and El Jadida), with national generalisation in view; it gives no count of arrondissements and no total ([source, 2024](https://www.lereporter.ma/la-direction-generale-de-la-surete-nationale-presente-son-bilan-annuel-au-titre-de-lannee-2024/)).
 - A DGSN principal police officer of the public-security directorate, speaking at the DGSN open days in Tangier (2 to 6 October 2019), says GESTARR computerises the work of the police arrondissements and manages the complaints citizens lodge there, as well as residence certificates and declarations of loss and of theft ([source, 2019-10](https://fr.le360.ma/societe/dgsn-gestarr-le-nouveau-systeme-de-gestion-des-arrondissements-de-police-199731/)).
 - The DGSN officer says the information coming from the arrondissements is stored on a central DGSN server so that complaints and documents issued can be followed, with information shared between arrondissements across the Kingdom ([source, 2019-10](https://fr.le360.ma/societe/dgsn-gestarr-le-nouveau-systeme-de-gestion-des-arrondissements-de-police-199731/)).
+
+### Namibia: 3 Established
+
+In 2026 the police said their case docket system reaches nearly all stations; how many enter cases there is not known.
+
+- Acting Inspector-General Nainda says the Force Case Docket Management System is accessible at all Class A and Class B police stations and about 90% of Class C stations, within an E-Policing System implemented from 2014 ([source, 2026-10-16](https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/)).
+- Acting Inspector-General Nainda told New Era the Force Case Docket Management System is accessible at all Class A and Class B stations and about 90% of Class C stations; no count of stations or share entering cases is given ([source, 2026-10-16](https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/)).
 
 ### Seychelles: 3 Established
 
@@ -172,14 +179,6 @@ A police information system launched in June 2025 runs in Nouakchott's commissar
 - The report says the police information system launched by the Director General of National Security on 19 June 2025 is meant to digitise the work of police commissariats and to document, among other things, the reports and complaints made at commissariats and their offices ([source, 2025-06-19](https://mourassiloun.com/node/36165)).
 - The report says the system was put to work on 19 June 2025 for, among others, central commissioners and heads of judicial police sections in the commissariats, who register in a database held by the central office for collecting police information, to which police centres are being linked ([source, 2025-06-19](https://mourassiloun.com/node/36165)).
 - The director of the central office gave the stages of linking as 27 National Police centres and 7 National Gendarmerie centres (plus 2 customs centres, not counted here), with no total of stations; the report separately puts the rollout across Nouakchott's commissariats at 90 per cent complete ([source, 2025-06-19](https://mourassiloun.com/node/36165)).
-
-### Namibia: 2 Nascent
-
-The police have had a digital case system since 2010; in 2022 not all units had it, and which stations enter reports is not known.
-
-- The Namibian Police Force's E-Policing eco-system, launched in 2010 per the minister, comprises 16 databases including case docket management, as reported by New Era on 11 July 2016; the article does not say stations enter cases in it ([source, 2016-07](https://neweralive.na/certificate-conduct-issued-weeks/)).
-- The IST-Africa paper (May 2022) says e-policing in Namibia records, stores and shares police information electronically, and that officers at Okahandja police station see storing the occurrence book electronically as duplication of data ([source, 2022-05](https://www.researchgate.net/publication/360748631_Leveraging_Technology_to_Enhance_Effective_Electronic_Policing_in_Developing_Countries)).
-- The paper says implementation is immature because not all units of the Namibian Police have been introduced to the system, and gives no count of stations ([source, 2022-05](https://www.researchgate.net/publication/360748631_Leveraging_Technology_to_Enhance_Effective_Electronic_Policing_in_Developing_Countries)).
 
 ### Niger: 2 Nascent
 

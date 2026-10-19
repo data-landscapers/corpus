@@ -1,0 +1,11 @@
+{"slug": "2025-02-11-tgo-etat-civil-les-maires-pries-de-transmettre-les-chiffres-de-2019-a-2024", "studies": {
+"admindata": {"countries": {"TGO": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "Togo's territorial administration ministry asked the mayors of the 117 communes to send the numbers of births, transcribed supplementary judgments, marriages and deaths registered from 2019 to 2024, by 21 February 2025, to build national statistics on civil-status events.", "as_of": "2025-02-11", "date_precision": "day", "system": "civil status records of the communes", "class": "admin"}, {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The ministry's request draws on the communes' civil-status registers of births, marriages and deaths for 2019 to 2024.", "as_of": "2025-02-11", "date_precision": "day", "system": "civil status records of the communes", "class": "admin"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document is about communes reporting civil-status counts; no link between civil register and ID system is stated."}}},
+"censuses": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No census or household survey is mentioned."}}},
+"civilregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Counts are requested by WhatsApp; no digital civil registration system is stated."}}},
+"disabilityaccess": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on disability access in the document."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No ID number at birth is mentioned."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Communes are asked to reply by WhatsApp; no office connection is stated."}}},
+"registry": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No digital entry of events at registration offices is stated."}}},
+"statisticsstrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No national statistics strategy is mentioned."}}}
+}}

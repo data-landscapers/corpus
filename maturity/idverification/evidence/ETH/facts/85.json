@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "FaydaVerse says banks and other organisations verify customers through its ID verification service, which it has charged for since August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "FaydaVerse",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "FaydaVerse says the system has processed about 200 million authentications and handles about two million verification requests a day.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "FaydaVerse",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": "Sectors beyond banking are not named."
+}

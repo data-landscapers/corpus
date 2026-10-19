@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "2",
-      "addressing": "underway",
+      "stage": "3",
+      "addressing": "inservice",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-001",
-      "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: Ouagadougou has been naming streets and numbering doors arrondissement by arrondissement, four by April 2025; nothing held names a system in service.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BFA-002",
+      "gaps": "No source held since October 2023 says the addressing system covers the whole country; the digital address platforms held serve Ouagadougou and Bobo-Dioulasso.",
+      "note": "Reassessed in stage 4c: in October 2023 a pilot had addressed doors and streets in Ouagadougou and Bobo-Dioulasso and built two digital address platforms, read as in service. Nothing held says it covers the whole country.",
+      "as_at": "2026-10-20"
     }
   ]
 }

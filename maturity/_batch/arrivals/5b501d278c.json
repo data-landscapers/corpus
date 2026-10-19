@@ -1,1 +1,6 @@
-{"slug": "2026-03-09-gab-gabonmailinfos-copil-projet-justice", "studies": {"justice": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Progressive digitalisation of court registries is a validated 2026 priority only; no system, procurement or pilot is stated."}}}, "police": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on police stations."}}}}}
+{"slug": "2026-03-09-gab-gabonmailinfos-copil-projet-justice", "studies": {
+"coresystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document concerns a justice project and says nothing on finance, tax or payroll systems."}}},
+"health": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on health systems."}}},
+"healthmis": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on health systems."}}},
+"schools": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on school records."}}}
+}}

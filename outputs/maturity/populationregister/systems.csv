@@ -27,6 +27,7 @@ DJI,Registre national des personnes physiques,Djibouti,population,,Direction gé
 DJI,Registre National des Personnes Physiques (RNPP) / NNI,Djibouti,population,"biometric, centralised",Direction Generale de la Population et de la Famille with ANSIE,,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques
 DZA,Registre national automatisé de l'état civil,Algeria,population,commune databases linked by secure broadband network,Ministry of the Interior and Local Authorities,,2014-02-17-dza-dknews-registre-national-etat-civil-automatise
 DZA,Registre national de l'Etat civil,Algeria,population,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
+DZA,unified national civil-status database,Algeria,population,,Ministry of Justice,,2025-05-20-dza-lavoiedalgerie-reforme-etat-civil-numerisation
 EGY,National citizen database,Egypt,population,,"Civil Status Authority, Ministry of Interior",,2020-12-26-egy-almasryalyoum-qanun-ahwal-madaniya
 GIN,Registre national des personnes physiques (RNPP),RNPP,population,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,registre national des personnes physiques,Guinea,population,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
@@ -77,6 +78,7 @@ TUN,Registre National Unifié de la Population,Tunisia,population,,INS / Ministr
 TUN,Registre national des entreprises,Tunisia,other,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
 TUN,Registre national de l'identifiant de santé,Tunisia,other,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
 TUN,Registre national des diplômes universitaires,Tunisia,other,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
+TUN,Voter register (ISIE),Tunisia,other,touenssa.isie.tn,ISIE,,2023-11-13-tun-economistemaghrebin-isie-mise-a-jour
 ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2026-07-17-home-affairs-unblock-identity-numbers-addresses
 ZAF,Intelligent Population Register,South Africa,population,,Department of Home Affairs,,2026-06-08-biometric-population-register-unveiled
 ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2026-04-08-cabinet-approves-revised-white-paper-citizenship

@@ -1,41 +1,12 @@
 {
  "slug": "2024-04-23-dza-dknews-mediature-plateforme-tansik",
  "studies": {
-  "feedbackportals": {
-   "countries": {
-    "DZA": {
-     "facts": [
-      {
-       "sub_indicator": "feedback",
-       "aspect": "channel",
-       "value": "underway",
-       "fact": "The Mediator of the Republic's office created the digital platform Tansik, presented in Tipaza on 22 April 2024, to digitise citizens' grievance registers across local and central administrations and track their handling; no case count is given.",
-       "as_of": "2024-04",
-       "date_precision": "month",
-       "system": "Tansik",
-       "class": "feedback"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Tansik",
-       "country_label": "Algeria",
-       "class": "feedback",
-       "platform": "web",
-       "owner": "Mediator of the Republic",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "registry": {
+  "refugees": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this study's questions for the country."
+     "note": "Citizens' complaints platform; nothing on refugees or displaced people."
     }
    }
   }

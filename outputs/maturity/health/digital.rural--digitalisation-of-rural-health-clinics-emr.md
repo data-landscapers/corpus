@@ -56,16 +56,15 @@ All public hospitals kept electronic patient records in 2019-20, and a central s
 
 ### Eswatini: 3 Established
 
-A shared electronic record runs in 73% of all health facilities (2026); still partner-run, with no current plan or budget, it stays at stage 3.
+A shared electronic record runs in 73% of all health facilities (2026); donor-financed, with no current plan or budget, it stays at stage 3.
 
 *Externally run; Community integrated; Advancing.*
 
 - The Data.FI project says CMIS is used in 73% of the country's health facilities, with 233 live sites; the share is of all health facilities, not of primary clinics alone, and no denominator is given (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
 - Data.FI says clinicians open a client's full record in CMIS on a unique ID number and are led through guided modules at their point of service, and that the record is available to clinicians at another clinic if the patient moves district (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
 - Data.FI describes CMIS in use in the outpatient department of Piggs Peak Government Hospital and at local health clinics, within 233 live sites; it names no other tier (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
-- Data.FI describes CMIS as an open-source, government-owned electronic medical record whose records are backed up in government-owned cloud systems, with the Ministry of Health working on its connectivity (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
+- Health Information Management Systems (HMIS Eswatini), a programme within the Ministry of Health, is the technical lead for the health information systems, including the CMIS patient-records system, operating in 250 health facilities, per Eswatini Positive News ([source, 2026-10](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/)).
 - Data.FI, a PEPFAR-funded USAID cooperative agreement ending 14 December 2025, reports that it funds and carries out CMIS system development, security assessment and facility network support; the document states no domestic budget line ([source, 2024-03](https://datafi.thepalladiumgroup.com/wp-content/uploads/2024/08/Data.FI-2024-SAPR_Final-for-dissemination_508.pdf)).
-- The US State Department report says it supports Eswatini's CMIS, the national electronic medical record, and in FY2026 is working with the ministries of Health and ICT to transition its ownership and management to the Eswatini government ([source, 2026-05](https://www.state.gov/wp-content/uploads/2026/05/An-Update-on-Health-Service-Delivery-Accessible-5.28.2026.pdf)).
 
 ### Kenya: 3 Established
 
@@ -247,7 +246,7 @@ The ministry signed a partnership for electronic medical records in its hospital
 
 ### Cote d'Ivoire: 2 Nascent
 
-The ministry's patient record ran throughout one general hospital from August 2024; 268 establishments were connected by March 2025, of unstated type.
+The ministry's patient record ran throughout one general hospital from 2024 and was deployed at 268 establishments by 2026; use across hospitals is not known.
 
 *Advancing.*
 

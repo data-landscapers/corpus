@@ -10,3 +10,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SLE,gov.legislate--access-to-information-legislation,fact,4,4,SLE-003;SLE-008;SLE-012,Arrivals added SLE-012; stage unchanged.
 2026-10-17,ZAF,gov.legislate--access-to-information-legislation,fact,5,5,ZAF-003;ZAF-010;ZAF-001,Arrivals added ZAF-011; stage unchanged.
 2026-10-18,SEN,gov.legislate--access-to-information-legislation,review,4,3,SEN-005;SEN-002,"Rebuild: the OGP report says the law created the commission, not that it was appointed; read as Guinea's, so 4 to 3."
+2026-10-20,BFA,gov.legislate--access-to-information-legislation,fact,3,4,BFA-002;BFA-003,The government's 2024 UNESCO return names existing bodies overseeing the law in 2023; stage 3 to 4
+2026-10-20,CIV,gov.legislate--access-to-information-legislation,fact,4,5,CIV-007;CIV-006;CIV-003,"CAIDP recorded 45 referrals in 2024; reach applied, stage 4 to 5"
+2026-10-20,MOZ,gov.legislate--access-to-information-legislation,fact,3,5,MOZ-003;MOZ-002;MOZ-001,"Ombudsman report: 60,433 requests in 2024; oversight and application established, stage 3 to 5"
+2026-10-20,SLE,gov.legislate--access-to-information-legislation,fact,4,5,SLE-014;SLE-017;SLE-011,RAIC fines on Freetown City Council (Oct 2025) and Corporate Affairs Commission (2024); stage 4 to 5
+2026-10-20,SYC,gov.legislate--access-to-information-legislation,fact,4,5,SYC-006;SYC-008;SYC-001,Information Commission decisions finding breaches in 2024; stage 4 to 5
+2026-10-20,TUN,gov.legislate--access-to-information-legislation,fact,4,5,TUN-004;TUN-001,"2024 UNESCO return: 7,347 appeals in 2023; stage 4 to 5"
+2026-10-20,ZWE,gov.legislate--access-to-information-legislation,fact,4,5,ZWE-005;ZWE-001;ZWE-002,MISA 2024 report: ZMC issued release orders under the Act; stage 4 to 5

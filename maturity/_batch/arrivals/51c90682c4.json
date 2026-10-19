@@ -1,16 +1,23 @@
-{"slug":"2024-12-30-bfa-faso7-jsena-statistiques-education-sige","studies":{
-"authentication":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document does not mention authentication."}}},
-"birthidlink":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document does not mention civil register or ID links."}}},
-"censuses":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Only an education structures census is mentioned, not a population census or household survey."}}},
-"educationexchange":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Online enrolment and pupil file are named as levers only; no link between systems is stated."}}},
-"educationmis":{"countries":{"BFA":{"facts":[{"sub_indicator":"emis","aspect":"system","value":"underway","fact":"The director general of education studies and statistics, Sylvain Ouédraogo, said the education management information system (SIGE) is being innovated, with a geo-referenced census of structures, a national pupil file, online enrolment and school ID cards named as levers to renovate it.","as_of":"2024-12-30","date_precision":"day","system":"Système d'Information de Gestion de l'Éducation (SIGE)","class":"emis"}],"systems":[{"system":"Système d'Information de Gestion de l'Éducation (SIGE)","country_label":"SIGE","class":"emis","platform":"","owner":"Ministry of Basic Education, Literacy and National Languages (MEBAPLN)","tiers":""}],"note":""}}},
-"idcoverage":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No ID enrolment figure stated."}}},
-"idfrombirth":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No number at birth mentioned."}}},
-"idmaintenance":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No national ID system mentioned."}}},
-"idregisters":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No register keyed on the national ID mentioned."}}},
-"idrobustness":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No national ID system mentioned; school ID cards are a sectoral ID."}}},
-"police":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Police not mentioned."}}},
-"populationregister":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No population register mentioned."}}},
-"schools":{"countries":{"BFA":{"facts":[],"systems":[{"system":"Système d'Information de Gestion de l'Éducation (SIGE)","country_label":"SIGE","class":"other","platform":"","owner":"MEBAPLN","tiers":""}],"note":"SIGE is named but the document does not say whether schools enter learner records during the year."}}},
-"socialprotection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Social protection not mentioned."}}}
-}}
+{
+ "slug": "2024-12-30-bfa-faso7-jsena-statistiques-education-sige",
+ "studies": {
+  "health": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Education statistics article; no health system stated."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Education statistics article; no health system stated."
+    }
+   }
+  }
+ }
+}

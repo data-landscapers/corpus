@@ -1,0 +1,155 @@
+{
+ "slug": "2026-10-17-xaf-achpr89-side-event-protecting-our-land-our-environment-and-digital-space-in-africa",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Charles Ikem of PolicyLab Africa said Nigeria's Cybercrime Act of 2024 has become a punitive tool to censor speech online.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Cybercrime Act 2024",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No cybercrime law is described for this country."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentioned only in passing; no named policy criticised, cut or punishment stated for this country."
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "LINAPYCO's Fidele Mbilizi Mutimanwa criticised the DRC state's non-implementation of the African Commission's 2022 Batwa decision and of national law 22/030, and park clearance operations, at an ACHPR89 side event.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentioned only in passing; no named policy criticised, cut or punishment stated for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentioned only in passing; no named policy criticised, cut or punishment stated for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "PolicyLab Africa's executive director Charles Ikem criticised Nigeria's Cybercrime Act of 2024 at an ACHPR89 side event, saying it censors speech online.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentioned only in passing; no named policy criticised, cut or punishment stated for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentioned only in passing; no named policy criticised, cut or punishment stated for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution is shown researching or publishing on digital policy."
+    }
+   }
+  }
+ }
+}

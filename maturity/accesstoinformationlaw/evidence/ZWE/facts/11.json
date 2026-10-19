@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-26-zwe-misa-zimbabwe-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MISA Zimbabwe's chairperson says Zimbabweans are increasingly using the Freedom of Information Act to claim their right to information.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Freedom of Information Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "MISA Zimbabwe's chairperson says the Zimbabwe Media Commission has issued release orders to public institutions that must provide the information requested under the Freedom of Information Act; no number or date of orders is given.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zimbabwe Media Commission",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Media Commission",
+   "country_label": "Zimbabwe Media Commission",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,71 +1,30 @@
 {
  "slug": "2024-11-13-rwa-ocp-umucyo-open-contracting-portal",
  "studies": {
-  "businesspayments": {
-   "countries": {
-    "RWA": {
-     "facts": [
-      {
-       "sub_indicator": "business",
-       "aspect": "system",
-       "value": "inservice",
-       "fact": "Open Contracting Partnership says Rwanda's Umucyo e-procurement system is used by all national and local government agencies.",
-       "as_of": "2024-11-13",
-       "date_precision": "day",
-       "system": "Umucyo",
-       "class": "procurement"
-      },
-      {
-       "sub_indicator": "business",
-       "aspect": "endtoend",
-       "value": "endtoend",
-       "fact": "Open Contracting Partnership says Umucyo is used by all national and local government agencies for almost all procurement procedures.",
-       "as_of": "2024-11-13",
-       "date_precision": "day",
-       "system": "Umucyo",
-       "class": "procurement"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "egovservices": {
+  "datagovernance": {
    "countries": {
     "RWA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "No national data policy is named; the portal is procurement data only."
     }
    }
   },
-  "localgov": {
+  "opendatapolicy": {
    "countries": {
     "RWA": {
      "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "opendatause": {
-   "countries": {
-    "RWA": {
-     "facts": [
+     "systems": [
       {
-       "sub_indicator": "use",
-       "aspect": "access",
-       "value": "published",
-       "fact": "The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API.",
-       "as_of": "2024-11-12",
-       "date_precision": "day",
-       "system": "RPPA open contracting portal",
-       "class": "open"
+       "system": "Umucyo e-procurement system and RPPA open contracting portal",
+       "country_label": "Rwanda",
+       "class": "other",
+       "platform": "OCDS",
+       "owner": "Rwanda Public Procurement Authority",
+       "tiers": ""
       }
      ],
-     "systems": [],
-     "note": ""
+     "note": "A procurement open data portal is described with no open data policy behind it, so nothing is placed."
     }
    }
   }

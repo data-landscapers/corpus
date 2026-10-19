@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-02-caf-centrafrique-validation-technique-du-document-de-politique-nationale-d",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The article says a 2023 diagnostic of the civil-status system, launched by the territorial administration ministry and CIVIPOL under the EU-funded modernisation project, analysed the system's strengths and weaknesses including the production of civil-status statistics; no statistics are said to be published.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Projet europeen d'appui a la modernisation de l'etat civil",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

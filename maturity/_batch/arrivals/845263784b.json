@@ -1,0 +1,18 @@
+{"slug": "2025-06-18-cmr-finance-week-2025-cca-bank-campost-et-findme-s-associent-pour-optimise", "studies": {
+"addressregister": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "address", "aspect": "addressing", "value": "inservice", "fact": "Ecomatin reports that the Plan de Localisation Postale, produced by Campost and operated by the startup FindMe through its FindMe.House app, provides certified addresses linked to GPS maps, has been deployed for nearly two years, and stands at about 15,000 addresses against a target of 100,000 by end-2025.", "as_of": "2025-06-17", "date_precision": "day", "system": "Plan de Localisation Postale (PLP)", "class": "address"},
+{"sub_indicator": "address", "aspect": "used", "value": "used", "fact": "CCA Bank, Campost and FindMe signed an agreement on 17 June 2025 to align the PLP with the bank's account-opening and credit procedures; FindMe's CEO says CCA Bank is the first bank to integrate the document in its procedures, and the PLP can also serve as proof of address for administrative procedures.", "as_of": "2025-06-17", "date_precision": "day", "system": "Plan de Localisation Postale (PLP)", "class": "address"}
+], "systems": [{"system": "Plan de Localisation Postale (PLP)", "country_label": "PLP", "class": "address", "platform": "FindMe.House app", "owner": "Campost (produced), FindMe (operated)", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idverification": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The bank agreement concerns a postal address document for KYC, not checks against the national ID."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No survey of account ownership is given."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments in the article body."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment in the article body."}}},
+"startups": {"countries": {"CMR": {"facts": [], "systems": [], "note": "FindMe is named as a startup but no startup law, label or public fund is stated."}}},
+"techhubs": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No hub, incubator or park is mentioned."}}}
+}}

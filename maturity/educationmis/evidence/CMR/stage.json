@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "2",
-   "system": "underway",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001;CMR-002",
-   "gaps": "No source held since October 2023 says: is the school census run through it.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-003",
+      "gaps": "No source held since October 2023 says the system holds a record for each learner.",
+      "note": "Reassessed in stage 4c: in June 2024 the statistics institute published the education sector yearbook and pointed users to the online EMIS platform for more detailed data. Nothing held says it holds a record for each learner.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

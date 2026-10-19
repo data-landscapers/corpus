@@ -1,0 +1,31 @@
+{
+ "slug": "2025-06-23-gin-apip-digitalisation-synergui2-safig2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SAFIG2",
+   "country_label": "Guinee",
+   "class": "tax",
+   "platform": "",
+   "owner": "DGI",
+   "tiers": ""
+  },
+  {
+   "system": "eTax",
+   "country_label": "Guinee",
+   "class": "tax",
+   "platform": "online",
+   "owner": "DGI",
+   "tiers": ""
+  },
+  {
+   "system": "SYNERGUI2",
+   "country_label": "Guinee",
+   "class": "other",
+   "platform": "",
+   "owner": "APIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Names a business-creation platform linked to the tax system and an eTax portal; states nothing on a taxpayer register or taxpayer number."
+}

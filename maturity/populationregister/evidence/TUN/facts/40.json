@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-13-tun-economistemaghrebin-isie-mise-a-jour",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Voter register (ISIE)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "touenssa.isie.tn",
+   "owner": "ISIE",
+   "tiers": ""
+  }
+ ],
+ "note": "A voter roll is not a population register."
+}

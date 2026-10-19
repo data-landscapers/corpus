@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-18-cmr-finance-week-2025-cca-bank-campost-et-findme-s-associent-pour-optimise",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Ecomatin reports that the Plan de Localisation Postale, produced by Campost and operated by the startup FindMe through its FindMe.House app, provides certified addresses linked to GPS maps, has been deployed for nearly two years, and stands at about 15,000 addresses against a target of 100,000 by end-2025.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Plan de Localisation Postale (PLP)",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "used",
+   "value": "used",
+   "fact": "CCA Bank, Campost and FindMe signed an agreement on 17 June 2025 to align the PLP with the bank's account-opening and credit procedures; FindMe's CEO says CCA Bank is the first bank to integrate the document in its procedures, and the PLP can also serve as proof of address for administrative procedures.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Plan de Localisation Postale (PLP)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan de Localisation Postale (PLP)",
+   "country_label": "PLP",
+   "class": "address",
+   "platform": "FindMe.House app",
+   "owner": "Campost (produced), FindMe (operated)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

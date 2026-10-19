@@ -1,3 +1,14 @@
-{"slug":"2025-09-16-caf-tacdcartena-dematerialisation-marches-publics","studies":{
-"businesspayments":{"countries":{"CAF":{"facts":[],"systems":[{"system":"dematerialisation strategy for public procurement (PGNSP)","country_label":"e-procurement strategy","class":"other","platform":"","owner":"Ministere des Finances et du Budget","tiers":""}],"note":"Consultancy states only a strategy, roadmap and specifications for future tools, with pilots in health and education planned; no system built, procured or piloted."}}},
-"coresystems":{"countries":{"CAF":{"facts":[],"systems":[{"system":"Systeme Integre de Gestion des Finances Publiques","country_label":"Systeme Integre de Gestion des Finances Publiques","class":"other","platform":"","owner":"Ministere des Finances et du Budget","tiers":""}],"note":"The financial system is named only as the link for the procurement analysis; no statement of use or status."}}}}}
+{
+ "slug": "2025-09-16-caf-tacdcartena-dematerialisation-marches-publics",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Consultancy designed an e-procurement strategy and roadmap; no service launched or piloted."
+    }
+   }
+  }
+ }
+}

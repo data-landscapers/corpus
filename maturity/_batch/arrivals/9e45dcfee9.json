@@ -1,0 +1,7 @@
+{"slug": "2026-10-03-cod-rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-p", "studies": {
+"admindata": {"countries": {"COD": {"facts": [], "systems": [{"system": "Annuaire statistique de l'enseignement preprimaire, primaire et secondaire 2023-2024", "country_label": "Annuaire statistique scolaire 2023-2024", "class": "admin", "platform": "", "owner": "Ministry of National Education", "tiers": ""}], "note": "Yearbook published online 2026-10-03, but the article does not say its figures are drawn from school returns or other records."}}},
+"censuses": {"countries": {"COD": {"facts": [], "systems": [], "note": "No census or household survey stated."}}},
+"educationmis": {"countries": {"COD": {"facts": [], "systems": [], "note": "Yearbook published; no education information system named."}}},
+"schools": {"countries": {"COD": {"facts": [], "systems": [], "note": "No system holding learner records stated."}}},
+"statisticsstrategy": {"countries": {"COD": {"facts": [], "systems": [], "note": "No statistics strategy stated."}}}
+}}

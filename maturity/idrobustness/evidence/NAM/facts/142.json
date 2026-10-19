@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-nam-nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-service",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Namibia Automated Biometric Identification System (N-ABIS)",
+   "country_label": "N-ABIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Namibian Police",
+   "tiers": ""
+  }
+ ],
+ "note": "N-ABIS is described as the police fingerprint identification system, not the national ID system."
+}

@@ -25,3 +25,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TUN,dpi.registry--land-register,fact,3,5,TUN-006;TUN-009,Stage 4c: 5 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.registry--land-register,fact,no evidence,3,ZAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,dpi.registry--land-register,fact,5,5,ZWE-004;ZWE-009,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-20,MDG,dpi.registry--land-register,fact,2,3,MDG-003,Stage 4c: dematerialised land certificates and plans for Antananarivo issued by kiosk from 7 July 2025; restaged from every row held.

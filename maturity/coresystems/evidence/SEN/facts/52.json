@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The DGID's SENTAX platform handles online tax declaration and payment, mandatory for all declarations and payments of Large Enterprise Directorate (DGE) taxpayers from 1 September 2026 and open to CME1, CME2 and CPR taxpayers from 1 October 2026, with paper returns no longer accepted.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "The DGID says SENTAX replaces the ETAX application for tax declaration and payment by DGE taxpayers from 1 September 2026.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "SENTAX",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SENTAX",
+   "country_label": "Senegal",
+   "class": "core",
+   "platform": "sentax.dgid.sn",
+   "owner": "Direction générale des Impôts et des Domaines",
+   "tiers": ""
+  },
+  {
+   "system": "ETAX",
+   "country_label": "Senegal",
+   "class": "core",
+   "platform": "",
+   "owner": "Direction générale des Impôts et des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

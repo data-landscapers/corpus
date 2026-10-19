@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Halmeel's director general says Halmeel is integrating its systems with NIRA's national identity database, and the national ID is the only identification accepted at its service centers.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Halmeel integration with NIRA",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Halmeel unified digital government services platform",
+   "country_label": "Halmeel",
+   "class": "other",
+   "platform": "",
+   "owner": "Unified Public Service Delivery Center (Halmeel)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,14 @@
-{"slug": "2024-11-06-zaf-saws-early-warning-systems-webinar", "studies": {"metsatellite": {"countries": {"ZAF": {"facts": [
-{"sub_indicator": "metsat", "aspect": "stream", "value": "inservice", "fact": "The South African Weather Service's observation footprint lists EUMETSAT's Meteosat Second Generation satellite, with 12 channels, 15-minute resolution and coverage of the whole African continent.", "as_of": "2024-11-06", "date_precision": "day", "system": "EUMETSAT Meteosat Second Generation (MSG)", "class": "metsat"},
-{"sub_indicator": "metsat", "aspect": "stream", "value": "inservice", "fact": "SAWS says its South Africa Flash Flood Guidance uses quantitative rainfall estimates from radar, satellite and rain gauges.", "as_of": "2024-11-06", "date_precision": "day", "system": "South Africa Flash Flood Guidance (SAFFG)", "class": "metsat"}
-], "systems": [{"system": "EUMETSAT Meteosat Second Generation (MSG)", "country_label": "South Africa", "class": "metsat", "platform": "MSG satellite", "owner": "EUMETSAT", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2024-11-06-zaf-saws-early-warning-systems-webinar",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather service slides; the only satellite use for rainfall estimates is flash-flood guidance, with no farming service stated."
+    }
+   }
+  }
+ }
+}

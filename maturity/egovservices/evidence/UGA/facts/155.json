@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-uga-nilepost-eccmis-training-42-courts",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Justice Musa Ssekaana said Uganda's Judiciary has rolled ECCMIS out to 42 court stations in and around Kampala, where cases are filed electronically and e-payments are handled on the platform.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "Electronic Court Case Management Information System (ECCMIS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Court Case Management Information System (ECCMIS)",
+   "country_label": "ECCMIS",
+   "class": "eservices",
+   "platform": "built in-house by Judiciary staff",
+   "owner": "Judiciary of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

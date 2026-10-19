@@ -1,0 +1,10 @@
+{"slug": "2024-10-01-ben-benin-sdg-16-10-2-survey-response", "studies": {
+"accesstoinformationlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Benin's government response to UNESCO's SDG 16.10.2 survey, for 2022, says primary legislation (a law) and a decree guarantee access to information and require information officers in all public bodies.", "as_of": "2022", "date_precision": "year", "system": "access to information law", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Benin's government response to UNESCO's SDG 16.10.2 survey says the national human rights commission, the communications regulator and a ministry or agency act as oversight bodies, and that 12 appeals were received in January-December 2022.", "as_of": "2022", "date_precision": "year", "system": "access to information law", "class": "law"}],
+"systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on digital financial services."}}},
+"dataprotectionauthority": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No data protection authority is named; the survey is on access to information."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No data protection law is mentioned."}}},
+"opendatause": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No published datasets are mentioned."}}}
+}}

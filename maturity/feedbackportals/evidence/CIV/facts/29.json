@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-05-civ-infocentrale-oqsf-plateformes-plaintes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OQSF-CI complaint channels (green line, email, edufina.oqsfci.org)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "phone, email, web",
+   "owner": "Observatoire de la Qualite des Services Financiers",
+   "tiers": ""
+  }
+ ],
+ "note": "Channels take consumer complaints about financial service providers, not public services."
+}

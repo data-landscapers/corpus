@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Linfodrome lists law 2013-450 of 19 June 2013 on personal data protection among the texts structuring the legal framework.",
+   "as_of": "2013-06-19",
+   "date_precision": "day",
+   "system": "Loi 2013-450 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "Malabo ratification noted: 2023-04-03."
+}

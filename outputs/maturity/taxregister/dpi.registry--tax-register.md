@@ -21,8 +21,8 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 13 |
-| 3 Established | 16 |
+| 4 Operating | 14 |
+| 3 Established | 15 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 11 |
@@ -62,6 +62,14 @@ The taxpayer number was tied to the national ID in 2026.
 
 - Akech said taxpayers give fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers and verify identity against NIRA's records ([source, 2026-09-30](https://nilepost.co.ug/business/374460/linking-nins-to-tax-records-will-tackle-identity-theft-says-ura)).
 - Cabinet approved use of the NIN as a tax identifier on 31 August 2026, and Musasizi said the NIN and TIN must be interoperable ([source, 2026-08-31](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/)).
+
+### Algeria: 4 Operating
+
+Firms got one number shared by the commercial register and the tax office in 2026; a tie to the national ID is not known.
+
+- The Direction Générale des Impôts says the NIF taxpayer number is obtained online through the online tax registration and NIF authentication portal, where applicants file, track and print the registration attestation, and that decentralised NIF registration is also in place at DIW, CDI and CPI offices ([source, 2023-11-10](https://www.mfdgi.gov.dz/fr/professionnels/nouveau-contribuable-fr/ouvrir-dossier-fiscal)).
+- El Watan reports the High Commission for Digitisation said it integrated NIF tax registration attestations for individuals and for legal persons into the Dzair Digital Services portal, launched with the DGI at the Tipasa proximity tax centre ([source, 2026-09-09](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/)).
+- The CNRC says a company obtains one common identification number within three days, after the commercial register centre, the tax directorate (DGI), CNAS, CASNOS and the statistics office approve the registration made on the portal ([source, 2026-10-17](https://sidjilcom-entreprise.cnrc.dz/acceuil)).
 
 ### Burkina Faso: 4 Operating
 
@@ -141,13 +149,6 @@ The taxpayer number was shared with business registration or customs in 2025; a 
 The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
 
 - The Registre National des Entreprises says the unique identifier of each registered firm is its matricule fiscal, the tax number ([source, 2026-09-01](https://home.registre-entreprises.tn/le-registre-national-des-entreprises-vers-le-full-digital/)).
-
-### Algeria: 3 Established
-
-Taxpayers were registered on computer in 2026; a number shared with business registration or customs is not known.
-
-- El Watan reports the High Commission for Digitisation said it integrated NIF tax registration attestations for individuals and for legal persons into the Dzair Digital Services portal, launched with the DGI at the Tipasa proximity tax centre ([source, 2026-09-09](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/)).
-- The Direction Générale des Impôts says the NIF taxpayer number is obtained online through the online tax registration and NIF authentication portal, where applicants file, track and print the registration attestation, and that decentralised NIF registration is also in place at DIW, CDI and CPI offices ([source, 2023-11-10](https://www.mfdgi.gov.dz/fr/professionnels/nouveau-contribuable-fr/ouvrir-dossier-fiscal)).
 
 ### Angola: 3 Established
 

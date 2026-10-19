@@ -122,8 +122,9 @@ In 2024, STEM graduates were 23.8 per cent of tertiary graduates.
 
 ### Angola: 1 Absent
 
-In 2023, STEM graduates were 11 per cent of tertiary graduates.
+In 2023, STEM graduates were 9.8 per cent of tertiary graduates, by the ministry's yearbook.
 
+- The MESCTI yearbook says 3,076 (9.8%) of the 31,503 graduates of academic year 2022-2023 were in STEM ([source, 2023](https://mescti.gov.ao/media/uploads/ANUARIO_ESTATISTICO_2023_2024_5824af246e.pdf)).
 - Economia & Mercado, from the MESCTI Anuario Estatistico, reports about 11% of Angola's 29,302 tertiary graduates in 2022/23 were in science, technology, engineering and mathematics (under 3,200) ([source, 2023](https://economiaemercado.com/artigo/apenas-11-dos-novos-licenciados-em-angola-formam-se-em-areas-de-tecnologicas-e-de-engenharia)).
 
 ### Botswana: 1 Absent

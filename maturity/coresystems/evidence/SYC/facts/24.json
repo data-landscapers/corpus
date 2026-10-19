@@ -1,0 +1,31 @@
+{
+ "slug": "2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Human Resource Management System (HRMS)",
+   "country_label": "Seychelles HRMS",
+   "class": "other",
+   "platform": "FreeBalance",
+   "owner": "Department of Public Administration",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Financial Management Information System",
+   "country_label": "Seychelles new IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  },
+  {
+   "system": "Tax Management System",
+   "country_label": "Seychelles Tax Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "The HRMS is contracted (December 2024) and due to start in 2027; the new IFMIS and tax system are named as projects only, so none is a system in use."
+}

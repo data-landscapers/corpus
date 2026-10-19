@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,law,standing,coverage,in-force,2024-06-04,SYC-001;SYC-003,,
-SYC,law,reach,coverage,rules,2024-06-04,SYC-002;SYC-004,,
+SYC,law,standing,coverage,in-force,2024-11-15,SYC-001;SYC-003;SYC-005;SYC-007,,
+SYC,law,reach,coverage,applied,2024-11-15,SYC-006;SYC-008,SYC-004=rules;SYC-002=rules,

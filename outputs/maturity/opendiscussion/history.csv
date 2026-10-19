@@ -25,3 +25,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TZA,gov.discourse--open-discussion-of-government-policy,fact,1,1,TZA-006;TZA-010,Arrivals added TZA-010; TZA-011; TZA-012; stage unchanged.
 2026-10-17,ZMB,gov.discourse--open-discussion-of-government-policy,fact,2,2,ZMB-013;ZMB-009;ZMB-010,Arrivals added ZMB-014; stage unchanged.
 2026-10-17,ZWE,gov.discourse--open-discussion-of-government-policy,fact,2,2,ZWE-006;ZWE-007;ZWE-008,Arrivals added ZWE-006; ZWE-007; ZWE-008; ZWE-009; stage unchanged.
+2026-10-20,COD,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,COD-003;COD-002,"LINAPYCO publicly criticised the state's failure to apply the 2022 Batwa decision and law 22/030 at an ACHPR side event in October 2026: policy criticised, held at 2 by the September 2026 jailing; unplaced to 2."

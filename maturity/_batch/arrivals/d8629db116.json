@@ -1,0 +1,25 @@
+{
+ "slug": "2025-01-01-stp-legislacao-stp-integridade",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The civil-society centre CIP-STP says Sao Tome and Principe has Lei n.5/2014 on the right to information, which it calls insufficient and without effective regulation.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Lei n.5/2014 sobre o Direito a Informacao",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

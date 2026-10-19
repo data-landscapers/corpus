@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-16-ken-mombasa-tuk-tuk-fines-digital-enforcement-privacy",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The ODPC is named only as an interested party in a court case; no appointment or ruling is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Privacy concerns are raised but no data protection law, its standing or its application is stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mombasa county e-portal",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Mombasa County Government",
+       "tiers": ""
+      }
+     ],
+     "note": "A county e-portal for levies is a web service; no office connection is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Operators say the county did not consult them; no consultation on a digital law or policy is stated."
+    }
+   }
+  }
+ }
+}

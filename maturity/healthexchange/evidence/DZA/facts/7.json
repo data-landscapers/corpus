@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-08-dza-elwatan-dme-deadline-15-november",
+ "facts": [],
+ "systems": [
+  {
+   "system": "dossier medical electronique (DME)",
+   "country_label": "Dossier medical electronique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health, built by its information-systems directorate",
+   "tiers": ""
+  }
+ ],
+ "note": "The record is built on a national patient number, but the page does not say separate health systems exchange data through it."
+}

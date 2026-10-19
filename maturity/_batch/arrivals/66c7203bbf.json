@@ -1,1 +1,6 @@
-{"slug":"2026-09-23-zwe-sirdc-budget-automation-pilot","studies":{"aigovernment":{"countries":{"ZWE":{"facts":[{"sub_indicator":"govai","aspect":"use","value":"underway","fact":"SIRDC says the 2nd piloting workshop of Zimbabwe's National Budget Automation System (the Blue Book System), described as AI-driven automation of public finance management, was held in Kwekwe on 21-25 September 2026.","as_of":"2026-09-21","date_precision":"day","system":"National Budget Automation System (Blue Book System)","class":"govai"}],"systems":[{"system":"National Budget Automation System (Blue Book System)","country_label":"Zimbabwe","class":"govai","platform":"","owner":"","tiers":""}],"note":""}}}}}
+{"slug": "2026-09-23-zwe-sirdc-budget-automation-pilot", "studies": {
+"coresystems": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "National Budget Automation System (Blue Book System)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The system is in a second piloting workshop (21-25 September 2026), not stated to be in use."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "States no online service for people."}}},
+"itcapacity": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Lists SIRDC staff attending a workshop; does not state who builds or runs government systems."}}},
+"localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "States nothing on local government connection."}}}
+}}

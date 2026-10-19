@@ -1,50 +1,41 @@
 {
  "slug": "2026-04-13-nga-punch-customs-deploy-ai-revenue",
  "studies": {
-  "aiabuse": {
+  "aistrategy": {
    "countries": {
     "NGA": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on rules or authority for AI harms."
+     "note": "Covers Customs use of AI in revenue work; no national AI strategy stated."
     }
    }
   },
-  "aigovernment": {
-   "countries": {
-    "NGA": {
-     "facts": [],
-     "systems": [],
-     "note": "Only customs AI, a sector system, and a training; no general administration AI stated."
-    }
-   }
-  },
-  "aisectoral": {
+  "customs": {
    "countries": {
     "NGA": {
      "facts": [
       {
-       "sub_indicator": "sectorai",
-       "aspect": "use",
+       "sub_indicator": "customs",
+       "aspect": "system",
        "value": "inservice",
-       "fact": "Nigeria Customs Service Comptroller-General Adewale Adeniyi says it has deployed AI-enabled scanners that guide image analysts to predict the nature of imported items.",
+       "fact": "Punch reports that in recent years the Nigeria Customs Service has introduced digital reforms including automated cargo clearance systems and enhanced risk management frameworks.",
        "as_of": "2026-04-13",
        "date_precision": "day",
-       "system": "AI-enabled scanning systems",
-       "class": "sectorai"
+       "system": "automated cargo clearance systems",
+       "class": "customs"
       }
      ],
-     "systems": [],
+     "systems": [
+      {
+       "system": "automated cargo clearance systems",
+       "country_label": "Nigeria",
+       "class": "customs",
+       "platform": "",
+       "owner": "Nigeria Customs Service",
+       "tiers": ""
+      }
+     ],
      "note": ""
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "NGA": {
-     "facts": [],
-     "systems": [],
-     "note": "No AI model, dataset or computing built or hosted in Nigeria is stated."
     }
    }
   }

@@ -23,6 +23,8 @@ AGO,Centro Nacional de Ciberseguranca,Centro Nacional de Ciberseguranca,response
 AGO,CERT.ao,Departamento de Resposta a Emergencias Informaticas (CERT.ao),response,,Centro Nacional de Ciberseguranca,national,2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca
 AGO,Estrategia Nacional de Ciberseguranca,Estrategia Nacional de Ciberseguranca,response,,Presidency of the Republic,national,2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola
 AGO,Centro Nacional de Cibersegurança,Centro Nacional de Cibersegurança,response,,government,,2026-10-16-ago-pti-estado-da-nacao-telecomunicacoes-transformacao-digital
+AGO,Centro Nacional de Cibersegurança,Centro Nacional de Cibersegurança,response,,state,,2026-10-16-ago-otelegrama-lei-9-26-ciberseguranca-soberania-digital
+AGO,CERT.ao,CERT.ao,response,,Centro Nacional de Cibersegurança,,2026-10-16-ago-otelegrama-lei-9-26-ciberseguranca-soberania-digital
 BDI,Stratégie nationale de cybersécurité,Burundi,other,,Government of Burundi / SETIC,,2026-10-16-bdi-wearetech-strategie-nationale-cybersecurite
 BEN,bjCSIRT,bjCSIRT (equipe nationale de reponse aux incidents de cybersecurite),response,,ASIN,,2025-06-26-cyber-africa-forum-2025-rapport-vulnerabilites
 BEN,ANSSI,Agence nationale de la Securite des Systemes d'Information,response,,Ministry of Digital Affairs,,2021-10-27-sgg-decret-2021-550-pssie
@@ -95,6 +97,8 @@ CIV,Agence nationale de la securite des systemes d'information (ANSSI),ANSSI,res
 CIV,Reseau national des responsables de la securite des systemes d'information (Rn-Rssi),Rn-Rssi,other,,ANSSI,public administration,2026-06-10-lancement-reseau-national-rssi-fratmat
 CIV,Plateforme de lutte contre la cybercriminalite (PLCC),PLCC,other,,police/security services,national,2026-02-02-securisation-personnes-biens-maillage-territoire-national
 CIV,ANSSI,ANSSI,response,,State,national,2025-12-19-civ-lf-2026-annexe-1-annexe-fiscale-companion
+CIV,ANSSI,Cote d'Ivoire,response,,Government of Cote d'Ivoire,,2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien
+CIV,CI-CERT,Cote d'Ivoire,response,,ARTCI,,2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-21-antic-cirt-cybersecurity-systems-patnuc-techafricanews
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,"2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-01-world-bank-cmr-2026-antic-cirt-cybersecurity-patnuc-bw07
@@ -405,6 +409,7 @@ SDN,SUDAPASS,Sudan,other,,Sudanese Cybersecurity Authority,,2026-05-21-sudan-lau
 SDN,Sudanese Cybersecurity Authority,Sudan,response,,Government of Sudan,,2026-03-12-sudan-sca-pki-national-root-key-launch
 SDN,Cybersecurity agency (Sudan),Sudan,response,,,,2026-07-30-suna-sudan-arab-experts-cybercrime-meeting-tunisia
 SDN,Sudanese Cybersecurity Authority,Sudan,response,,Ministry of Digital Transformation and Communications,,2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt
+SDN,National Mechanism to Combat Informatics Crimes,الآلية الوطنية لمكافحة جرائم المعلوماتية,other,,Prime Minister / assistant attorney general chairs,,2026-10-19-sdn-suna-pm-forms-national-cybercrime-mechanism
 SEN,Autorité nationale de cybersécurité (provided for by the adopted bill),Autorité nationale de cybersécurité,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,CERT national (provided for by the adopted bill),CERT national,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI),DCSSI,other,,,,2026-08-21-dcssi-protection-infrastructures-information-critiques

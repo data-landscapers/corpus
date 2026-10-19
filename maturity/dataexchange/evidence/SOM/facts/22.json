@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government API Gateway",
+   "country_label": "Somalia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a request for expressions of interest for consultants to design and deploy a gateway; no platform procured, built or live is stated."
+}

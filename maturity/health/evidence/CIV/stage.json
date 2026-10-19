@@ -26,8 +26,9 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "CIV-012;CIV-016;CIV-017;CIV-019",
-      "gaps": "The 268 establishments connected to the SIH and DPI (CIV-012) and the 193 before them carry no tier and no denominator, and connected is not in use, so neither most hospitals nor any primary clinic is established; use is evidenced at one general hospital. The facts disagree: an undated explainer describes a record shared on a unique identifier (CIV-021), Ferkessedougou runs on a local server (CIV-017), the World Bank in September 2025 says there is no nationwide system and records are on paper (CIV-009), and the September 2026 workshop reports call the patient record not yet in service (CIV-001 to CIV-004).",
-      "note": "The DPI is in routine use in every service of one general hospital and installed or connected at an unclassified 268 establishments: some hospitals, the stage 2 row. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and no source gives tiers or a denominator."
+      "gaps": "Afrimag (October 2026, CIV-036) has the SIH and DPI deployed at 268 establishments including 9 of the 15 national hospitals, but deployed is not in use and no regional or district hospital count is given, so most T1 and T2 hospitals are not shown; the earlier 268 and 193 (CIV-012, CIV-019) carry no tier and no denominator, and use is evidenced at one general hospital. The facts disagree: an undated explainer describes a record shared on a unique identifier (CIV-021), Ferkessedougou runs on a local server (CIV-017), the World Bank in September 2025 says there is no nationwide system and records are on paper (CIV-009), and the September 2026 workshop reports call the patient record not yet in service (CIV-001 to CIV-004).",
+      "note": "The DPI is in routine use in every service of one general hospital and deployed at 268 establishments, 9 of them national hospitals: some hospitals, the stage 2 row. Stage 3 needs most T1 and T2 hospitals in use or primary clinics in some districts, and no source shows regional and district hospitals using it.",
+      "as_at": "2026-10-20"
     }
   ]
 }

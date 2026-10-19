@@ -1,0 +1,23 @@
+{
+ "slug": "2024-07-10-cmu-numero-immatriculation-identifiant-sante",
+ "studies": {
+  "educationmis": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Health identifier decree; nothing on education."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Health identifier decree; nothing on school records."
+    }
+   }
+  }
+ }
+}

@@ -1,7 +1,41 @@
-{"slug": "2026-09-08-dza-elwatan-dme-deadline-15-november", "studies": {
-"health": {"countries": {"DZA": {"facts": [
-{"sub_indicator": "emr", "aspect": "governance", "value": "finance:domestic", "fact": "El Watan reports Algeria's health minister announced an additional budget to support digitalisation of the electronic medical record in public health facilities.", "as_of": "2026-09-07", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"},
-{"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "El Watan reports the electronic medical record reform launched in 2022 is already under way in several pilot facilities, with a non-extendable 15 November 2026 deadline for all public health establishments.", "as_of": "2026-09-07", "date_precision": "day", "system": "Dossier medical electronique (DME)", "class": "emr"}
-], "systems": [{"system": "Dossier medical electronique", "country_label": "DME", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
-"healthmis": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document is about the electronic medical record, not routine aggregate reporting to the ministry."}}}
-}}
+{
+ "slug": "2026-09-08-dza-elwatan-dme-deadline-15-november",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Health record rollout only; nothing on the finance, tax or payroll systems."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "dossier medical electronique (DME)",
+       "country_label": "Dossier medical electronique",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health, built by its information-systems directorate",
+       "tiers": ""
+      }
+     ],
+     "note": "The record is built on a national patient number, but the page does not say separate health systems exchange data through it."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Health record rollout only; nothing on tax filing or payment."
+    }
+   }
+  }
+ }
+}

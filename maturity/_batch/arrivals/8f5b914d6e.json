@@ -1,34 +1,7 @@
-{
- "slug": "2026-07-21-ner-developingtelecoms-arcep-5g-spectrum-consultation",
- "studies": {
-  "eparticipation": {
-   "countries": {
-    "NER": {
-     "facts": [],
-     "systems": [],
-     "note": "Consultation is stated but not that it is online."
-    }
-   }
-  },
-  "publicconsultation": {
-   "countries": {
-    "NER": {
-     "facts": [
-      {
-       "sub_indicator": "consultation",
-       "aspect": "hearing",
-       "value": "held",
-       "fact": "ARCEP, Niger's telecoms regulator, launched a public consultation on 20 July 2026, running to the end of August, on reorganising the spectrum plan for 5G.",
-       "as_of": "2026-07-20",
-       "date_precision": "day",
-       "system": "ARCEP 5G spectrum consultation",
-       "class": "consultation"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-07-21-ner-developingtelecoms-arcep-5g-spectrum-consultation", "studies": {
+"exchangepoints": {"countries": {"NER": {"facts": [], "systems": [], "note": "No exchange point is mentioned."}}},
+"fibrebackbone": {"countries": {"NER": {"facts": [], "systems": [], "note": "No backbone is mentioned."}}},
+"internetusage": {"countries": {"NER": {"facts": [], "systems": [], "note": "Only 4G population coverage is given, not use."}}},
+"mobilepenetration": {"countries": {"NER": {"facts": [], "systems": [], "note": "Only network coverage is given, not phone ownership."}}},
+"satellitebroadband": {"countries": {"NER": {"facts": [], "systems": [], "note": "Satellite broadband is not mentioned."}}}
+}}

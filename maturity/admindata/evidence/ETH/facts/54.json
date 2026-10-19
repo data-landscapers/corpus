@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-05-eth-ess-administrative-records-training-afar",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The Ethiopian Statistics Service ran a three-day training in Semera for Afar regional sector offices on collecting, managing and analysing administrative records so they can be used as official statistics.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Administrative records training",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

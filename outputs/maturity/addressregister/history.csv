@@ -40,3 +40,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TUN,dpi.registry--address-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,UGA,dpi.registry--address-register,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZMB,dpi.registry--address-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-20,BFA,dpi.registry--address-register,fact,2,3,BFA-002,"Sidwaya, 24 Oct 2023: pilot addressed 93,000 doors in Ouagadougou and Bobo-Dioulasso and built two digital address platforms; in service, stage 3"
+2026-10-20,DJI,dpi.registry--address-register,fact,unplaced,2,DJI-003,"PROGOUV terms of reference, Nov 2023: street addressing in a few streets and one commune, pilot in Balbala; under way, stage 2"
+2026-10-20,DZA,dpi.registry--address-register,fact,2,3,DZA-005,"Interior ministry, 12 Oct 2026: 1.5 million official geolocated addresses in 12 wilayas; in service, stage 3"
+2026-10-20,EGY,dpi.registry--address-register,fact,unplaced,2,EGY-003,"MCIT, Jun 2025: 19 million national real estate ID numbers issued, managing system still being built; under way, stage 2"
+2026-10-20,UGA,dpi.registry--address-register,fact,unplaced,2,UGA-004,"KCCA, Feb 2025: Kampala house numbering under way, 12,555 of 373,826 houses plated; under way, stage 2"

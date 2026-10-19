@@ -1,0 +1,21 @@
+{"slug": "2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service", "studies": {
+"aiabuse": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on AI rules or an AI authority."}}},
+"aigovernment": {"countries": {"SYC": {"facts": [], "systems": [], "note": "AI is mentioned only as a employment concern; no government AI system stated."}}},
+"aisectoral": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
+"coresystems": {"countries": {"SYC": {"facts": [], "systems": [
+{"system": "Human Resource Management System (HRMS)", "country_label": "Seychelles HRMS", "class": "other", "platform": "FreeBalance", "owner": "Department of Public Administration", "tiers": ""},
+{"system": "Integrated Financial Management Information System", "country_label": "Seychelles new IFMIS", "class": "other", "platform": "", "owner": "Government of Seychelles", "tiers": ""},
+{"system": "Tax Management System", "country_label": "Seychelles Tax Management System", "class": "other", "platform": "", "owner": "Government of Seychelles", "tiers": ""}], "note": "The HRMS is contracted (December 2024) and due to start in 2027; the new IFMIS and tax system are named as projects only, so none is a system in use."}}},
+"domesticfinancing": {"countries": {"SYC": {"facts": [{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Seychelles News Agency reports the government's 2026 budget framework allocates SCR325 million (US$23 million) to digitalisation initiatives for 2026 to 2028, covering human resources, financial management, taxation and social protection systems.", "as_of": "2026", "date_precision": "year", "system": "2026 budget framework digitalisation allocation", "class": "financing"}], "systems": [], "note": ""}}},
+"educationexchange": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"educationmis": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"egovservices": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only a target of 75 percent of public services digital by 2028; no service stated online."}}},
+"health": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}},
+"healthmis": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}},
+"itcapacity": {"countries": {"SYC": {"facts": [], "systems": [], "note": "A consultant leads the HRMS project; no statement of who runs or builds government systems."}}},
+"justice": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on courts."}}},
+"police": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schools": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"SYC": {"facts": [], "systems": [{"system": "Tax Management System", "country_label": "Seychelles Tax Management System", "class": "other", "platform": "", "owner": "Government of Seychelles", "tiers": ""}], "note": "A Tax Management System is named as one of several major projects, with no status, filing or payment stated."}}}
+}}

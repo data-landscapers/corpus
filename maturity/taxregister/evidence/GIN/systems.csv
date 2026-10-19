@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GIN,SYNERGUI-SAFIG 2,Guinee,tax,SYNERGUI portal and eTax portal,DGI with APIP,,2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne
 GIN,NIFp,Numero d'Identification Fiscale Permanent,tax,,Administration Fiscale,,2019-07-24-gin-guineelex-arrete-nifp
+GIN,SAFIG2,Guinee,tax,,DGI,,2025-06-23-gin-apip-digitalisation-synergui2-safig2
+GIN,eTax,Guinee,tax,online,DGI,,2025-06-23-gin-apip-digitalisation-synergui2-safig2
+GIN,SYNERGUI2,Guinee,other,,APIP,,2025-06-23-gin-apip-digitalisation-synergui2-safig2

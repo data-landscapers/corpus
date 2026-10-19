@@ -151,28 +151,31 @@ ZAF,33,2025-01-01-zaf-fsca-3-year-regulation-plan-2025,2026-10-18,instrument,202
 ZMB,15,2024-09-18-zmb-zambiamonitor-boz-emoney-unwarranted-charges,2026-10-18,fact,2026-10-18
 ZMB,16,2026-01-01-zmb-boz-nps-annual-report-2024,2026-10-18,instrument,2026-10-18
 ZMB,17,2013-11-06-zmb-parliament-postal-addressing-statement,2026-10-18,instrument,2026-10-18
-BDI,18,2019-01-03-bdi-brb-reglement-001-2019-protection-consommateurs,2026-10-18,,
-CIV,34,2026-10-16-edito-monnaie-electronique-plafonds-fraude-uemoa,2026-10-18,,
-CMR,31,2025-07-16-cmr-worldbank-findex-account-ownership,2026-10-18,,
-CMR,32,2011-05-06-cmr-mincommerce-loi-cadre-2011-012-protection-consommateur,2026-10-18,,
-EGY,14,2019-02-19-egy-cbe-instructions-protection-droits-clients-banques,2026-10-18,,
-MWI,35,2025-08-19-mwi-techafricanews-macra-communications-act-comments,2026-10-18,,
-MWI,36,2025-07-21-mwi-nation-banks-respond-digital-services-findex,2026-10-18,,
-MWI,37,2024-11-20-mwi-times-rbm-tightens-grip-financial-sector,2026-10-18,,
-MWI,38,2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation,2026-10-18,,
-MWI,39,2025-08-08-mwi-gazette-tax-admin-electronic-system-rules,2026-10-18,,
-NER,34,2025-12-17-ner-lesahel-atelier-risques-sfn,2026-10-18,,
-SEN,56,2026-10-16-edito-monnaie-electronique-plafonds-fraude-uemoa,2026-10-18,,
-SSD,40,2026-08-13-ssd-boss-electronic-money-regulation-amendment-2025,2026-10-18,,
-UGA,27,2026-08-07-mtn-group-opcos-deliver-double-digit-growth,2026-10-18,,
-UGA,28,2026-06-03-bou-cash-withdrawal-limits-cash-lite,2026-10-18,,
-UGA,29,2026-02-11-payaza-expands-uganda-pso-license,2026-10-18,,
-UGA,30,2026-01-20-mobile-money-restored-after-election-shutdown,2026-10-18,,
-UGA,31,2025-12-30-nala-receives-uganda-payment-licenses,2026-10-18,,
-UGA,32,2025-12-23 URA Launches Enhanced Tax Payment Services on MTN MoMo to Boost Digital Compliance,2026-10-18,,
-UGA,33,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%,2026-10-18,,
-UGA,34,2025-07-23-mtn-uganda-shareholders-approve-momo-separation,2026-10-18,,
-UGA,35,2024-07-01-uga-finscope-uganda-2023-survey-report,2026-10-18,,
-ZAF,34,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic,2026-10-18,,
-ZMB,18,2024-08-02-zmb-boz-emoney-unwarranted-charges-directives-2024,2026-10-18,,
-ZWE,10,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic,2026-10-18,,
+BDI,18,2019-01-03-bdi-brb-reglement-001-2019-protection-consommateurs,2026-10-18,instrument,2026-10-19
+CIV,34,2026-10-16-edito-monnaie-electronique-plafonds-fraude-uemoa,2026-10-18,nothing,2026-10-19
+CMR,31,2025-07-16-cmr-worldbank-findex-account-ownership,2026-10-18,nothing,2026-10-19
+CMR,32,2011-05-06-cmr-mincommerce-loi-cadre-2011-012-protection-consommateur,2026-10-18,instrument,2026-10-19
+EGY,14,2019-02-19-egy-cbe-instructions-protection-droits-clients-banques,2026-10-18,instrument,2026-10-19
+MWI,35,2025-08-19-mwi-techafricanews-macra-communications-act-comments,2026-10-18,nothing,2026-10-19
+MWI,36,2025-07-21-mwi-nation-banks-respond-digital-services-findex,2026-10-18,nothing,2026-10-19
+MWI,37,2024-11-20-mwi-times-rbm-tightens-grip-financial-sector,2026-10-18,nothing,2026-10-19
+MWI,38,2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation,2026-10-18,nothing,2026-10-19
+MWI,39,2025-08-08-mwi-gazette-tax-admin-electronic-system-rules,2026-10-18,instrument,2026-10-19
+NER,34,2025-12-17-ner-lesahel-atelier-risques-sfn,2026-10-18,nothing,2026-10-19
+SEN,56,2026-10-16-edito-monnaie-electronique-plafonds-fraude-uemoa,2026-10-18,nothing,2026-10-19
+SSD,40,2026-08-13-ssd-boss-electronic-money-regulation-amendment-2025,2026-10-18,instrument,2026-10-19
+UGA,27,2026-08-07-mtn-group-opcos-deliver-double-digit-growth,2026-10-18,nothing,2026-10-19
+UGA,28,2026-06-03-bou-cash-withdrawal-limits-cash-lite,2026-10-18,nothing,2026-10-19
+UGA,29,2026-02-11-payaza-expands-uganda-pso-license,2026-10-18,fact,2026-10-20
+UGA,30,2026-01-20-mobile-money-restored-after-election-shutdown,2026-10-18,nothing,2026-10-19
+UGA,31,2025-12-30-nala-receives-uganda-payment-licenses,2026-10-18,fact,2026-10-20
+UGA,32,2025-12-23 URA Launches Enhanced Tax Payment Services on MTN MoMo to Boost Digital Compliance,2026-10-18,nothing,2026-10-19
+UGA,33,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%,2026-10-18,nothing,2026-10-19
+UGA,34,2025-07-23-mtn-uganda-shareholders-approve-momo-separation,2026-10-18,nothing,2026-10-19
+UGA,35,2024-07-01-uga-finscope-uganda-2023-survey-report,2026-10-18,instrument,2026-10-19
+ZAF,34,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic,2026-10-18,instrument,2026-10-19
+ZMB,18,2024-08-02-zmb-boz-emoney-unwarranted-charges-directives-2024,2026-10-18,fact,2026-10-20
+ZWE,10,2025-11-05-zwe-imf-sa-zimbabwe-corridor-diagnostic,2026-10-18,instrument,2026-10-19
+BEN,41,2026-09-18-ben-decret-2026-617-tarification-actes-paiement-en-ligne,2026-10-19,nothing,2026-10-19
+MAR,24,2024-01-01-mar-les-indicateurs-sociaux-du-maroc-edition-2024,2026-10-19,instrument,2026-10-19
+SEN,57,2025-01-01-sen-situation-economique-et-sociale-du-senegal-edition-2022-2023,2026-10-19,instrument,2026-10-19

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rental Tax Compliance System (rTCS)",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "ML valuation model built by RippleNami",
+   "owner": "Ministry of Finance and Economic Affairs / Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The ML tool prioritises tax audits, which is AI inside a sector (tax) system, not general administration."
+}

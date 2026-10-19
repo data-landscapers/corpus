@@ -1,0 +1,190 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Linfodrome reports that decree 2024-958 of 30 October 2024 created Cote d'Ivoire's national information systems security agency, ANSSI, taking over the missions of the DITT and of ARTCI's CI-CERT.",
+       "as_of": "2024-10-30",
+       "date_precision": "day",
+       "system": "ANSSI",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Linfodrome reports that the government adopted the National Cybersecurity Strategy 2021-2025 on 22 December 2021.",
+       "as_of": "2021-12-22",
+       "date_precision": "day",
+       "system": "Strategie nationale de cybersecurite 2021-2025",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "Cote d'Ivoire",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Cote d'Ivoire",
+       "tiers": ""
+      },
+      {
+       "system": "CI-CERT",
+       "country_label": "Cote d'Ivoire",
+       "class": "response",
+       "platform": "",
+       "owner": "ARTCI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Linfodrome reports law 2013-451 of 19 June 2013 on the fight against cybercrime, amended by law 2023-593 of 7 June 2023, as part of the legal framework.",
+       "as_of": "2023-06-07",
+       "date_precision": "day",
+       "system": "Loi 2013-451 on cybercrime",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Linfodrome lists law 2013-450 of 19 June 2013 on personal data protection among the texts structuring the legal framework.",
+       "as_of": "2013-06-19",
+       "date_precision": "day",
+       "system": "Loi 2013-450 on personal data protection",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": "Malabo ratification noted: 2023-04-03."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Linfodrome lists law 2013-450 of 19 June 2013 on personal data protection among the texts structuring the legal framework.",
+       "as_of": "2013-06-19",
+       "date_precision": "day",
+       "system": "Loi 2013-450 on personal data protection",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "Linfodrome reports that Cote d'Ivoire ratified the Malabo Convention on 3 April 2023.",
+       "as_of": "2023-04-03",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Linfodrome lists law 2013-546 of 30 July 2013 on electronic transactions, whose article 50 was repealed by ordinance 2024-950 of 30 October 2024.",
+       "as_of": "2013-07-30",
+       "date_precision": "day",
+       "system": "Loi 2013-546 on electronic transactions",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "Linfodrome lists decree 2014-106 of 12 March 2014 on electronic writing and signature among the decrees complementing the framework.",
+       "as_of": "2014-03-12",
+       "date_precision": "day",
+       "system": "Decret 2014-106 on electronic writing and signature",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Telecom subscriber identification decree named without any check against the national ID."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Linfodrome reports that Cote d'Ivoire ratified the Malabo Convention on 3 April 2023.",
+       "as_of": "2023-04-03",
+       "date_precision": "day",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LHIMS",
+   "country_label": "Lightwave Health Information Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "LHIMS is a hospital records system, not routine national reporting."
+}

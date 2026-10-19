@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Togo",
+   "class": "admin",
+   "platform": "DHIS2; StatEduc; CSPro",
+   "owner": "Ministry of Education",
+   "tiers": "national; regional; inspection"
+  }
+ ],
+ "note": "Struck by the parent: an EMIS dashboard layer is an information system, not statistics published or prepared from records."
+}

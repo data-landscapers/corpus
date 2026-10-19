@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-cpv-coopstat-26-master-data-visita-ine-portugal",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "COOPSTAT News reports that the coordinator of Cabo Verde's ADA/Master Data project made a working visit to Statistics Portugal on 10-11 September 2024 on modernisation and use of administrative data for statistical purposes.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "ADA/Master Data project",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ADA/Master Data project",
+   "country_label": "Cabo Verde",
+   "class": "admin",
+   "platform": "",
+   "owner": "INE Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

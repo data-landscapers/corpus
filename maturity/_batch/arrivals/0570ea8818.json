@@ -1,0 +1,12 @@
+{"slug": "2026-10-17-mdg-refonte-de-la-liste-electorale-plus-de-sept-millions-d-electeurs-inscrits", "studies": {
+"authentication": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on authentication."}}},
+"birthidlink": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only says missing ID cards and birth certificates slow enrolment; no link between registers stated."}}},
+"civilregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on digital civil registration."}}},
+"electoralregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A roll rebuild with 7,163,714 provisional registrants is reported, but the roll is not said to be digital or biometric, nor checked against ID or civil register."}}},
+"idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No national ID enrolment count stated."}}},
+"idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The roll is not said to be keyed on the ID number; 0.41% enrolled when an ID card was issued."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on the national ID system itself."}}},
+"registry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on local civil registration offices."}}}
+}}

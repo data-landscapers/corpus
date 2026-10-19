@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-15-sen-aps-assistant-ia-agents-communautaires",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "APS, relaying a Kajou press release, reports that the social enterprise began deploying kSanté, an offline AI assistant for community health workers trained on Ministry of Health documents, launched 11 July 2025 with the ministry, with 2,000 cards being distributed and national coverage as an ambition.",
+   "as_of": "2025-07-11",
+   "date_precision": "day",
+   "system": "kSanté",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "kSanté",
+   "country_label": "Senegal",
+   "class": "sectorai",
+   "platform": "offline phone app with AI assistant",
+   "owner": "Kajou (social enterprise)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

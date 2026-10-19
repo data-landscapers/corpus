@@ -1,0 +1,18 @@
+{"slug": "2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med", "studies": {
+"admindata": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Angola's Ministry of Education planning office (GEPE) published the Anuario Estatistico da Educacao 2022/2023, whose data it says were collected through the SIGE education management information system from schools and municipal, provincial and district education offices.", "as_of": "2025", "date_precision": "year", "system": "Anuario Estatistico da Educacao 2022/2023", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "The 2022/2023 education yearbook of Angola's Ministry of Education draws its figures on pupils, teachers and infrastructure from school-level data collected through SIGE.", "as_of": "2025", "date_precision": "year", "system": "Anuario Estatistico da Educacao 2022/2023", "class": "admin"}
+], "systems": [{"system": "SIGE", "country_label": "Anuario Estatistico da Educacao 2022/2023", "class": "admin", "platform": "SIGE", "owner": "Ministry of Education (GEPE)", "tiers": ""}], "note": ""}}},
+"censuses": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on a census or household survey."}}},
+"coresystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on finance, tax or payroll systems."}}},
+"customs": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on customs."}}},
+"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document names no link between SIGE and another system."}}},
+"educationmis": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "Angola's Ministry of Education planning office (GEPE) says SIGE is in operation and the 2022/2023 education yearbook's data were collected through it, though the platform is \"not a finished product\" and structured Excel sheets were used to finish verification and indicator calculation.", "as_of": "2025", "date_precision": "year", "system": "SIGE", "class": "emis"}
+], "systems": [{"system": "SIGE", "country_label": "Sistema de Informacao para Gestao da Educacao", "class": "emis", "platform": "", "owner": "Ministry of Education (GEPE)", "tiers": ""}], "note": ""}}},
+"health": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on health."}}},
+"healthmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on health."}}},
+"schools": {"countries": {"AGO": {"facts": [], "systems": [{"system": "SIGE", "country_label": "Sistema de Informacao para Gestao da Educacao", "class": "census", "platform": "", "owner": "Ministry of Education (GEPE)", "tiers": ""}], "note": "The document describes SIGE as the channel for the yearly yearbook data and says nothing on per-learner entry by schools during the year."}}},
+"socialexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on social protection."}}},
+"statisticslaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document names no statistics law."}}}
+}}

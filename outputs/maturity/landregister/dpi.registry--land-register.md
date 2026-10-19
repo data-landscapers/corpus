@@ -22,8 +22,8 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 |---|---|
 | 5 Leading | 15 |
 | 4 Operating | 1 |
-| 3 Established | 10 |
-| 2 Nascent | 15 |
+| 3 Established | 11 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 10 |
@@ -163,6 +163,12 @@ A digital land register was in service for part of the country in 2026; national
 
 - The Ministry's Deeds Registry page says that since 1995 the Registry has done away with manual land, debts and miscellaneous contract registers because the information is computerised and retrievable within seconds, with registers updated daily ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
 
+### Madagascar: 3 Established
+
+A digital land register was in service for part of the country in 2025; national coverage is not known.
+
+- PRODUIR reports that after dematerialising legal-status certificates and topographic plans for Antananarivo, an automatic information kiosk entered public service on 7 July 2025 at the Tana-ville land office, issuing registration and legal-status certificates and individual plans ([source, 2025-07-07](https://www.produir-madagascar.mg/lancement-du-distributeur-automatique-dinformation-au-sein-de-la-circonscription-fonciere-de-tana-ville-et-remise-de-materiel-pour-lapipa/)).
+
 ### Mauritania: 3 Established
 
 A digital land register was in service for part of the country in 2026; national coverage is not known.
@@ -259,13 +265,6 @@ Digital land registration was under way in 2026; none in service is on record.
 Digital land registration was under way in 2024; none in service is on record.
 
 - Justice ministry says electronic archiving of the Real Estate Registration Authority's work has reached about 85% in some branches ([source, 2024-01-08](https://alwasat.ly/news/libya/425506)).
-
-### Madagascar: 2 Nascent
-
-Digital land registration was under way in 2025; none in service is on record.
-
-- Newsmada reports ProPFR digitised land data in the Analamanga region and piloted an interconnected land information system linking topographic circumscriptions and land offices ([source, 2025-12](https://newsmada.com/2026/01/05/propfr-giz-dix-ans-pour-instaurer-une-politique-fonciere-responsable/)).
-- The DGSF says PNF II aims at digitising and centralising land documents and data nationwide, in a land information system that will be operational soon ([source, 2025-09-12](https://newsmada.com/2025/09/13/reformes-foncieres-vers-un-systeme-transparent-et-inclusif/)).
 
 ### Niger: 2 Nascent
 

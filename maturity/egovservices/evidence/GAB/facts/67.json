@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-gab-gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-nov",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Gabonese food safety agency AGASA will launch the Nexus platform on 2 November 2026 for online applications for approvals, import authorisations and sanitary and phytosanitary certificates, and has asked operators to register at its offices from 20 to 29 October 2026.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Nexus",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nexus",
+   "country_label": "Gabon",
+   "class": "eservices",
+   "platform": "www.agasa.click",
+   "owner": "Agence gabonaise de sécurité alimentaire (AGASA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

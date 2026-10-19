@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,record,governance,qualifier,owner:ministry,2016-07,NAM-006,,nothing dated since 2023-09-28
-NAM,record,records,coverage,none,2022,NAM-004,NAM-007=O;NAM-005=C,nothing dated since 2023-09-28
-NAM,record,made,coverage,paper,2022,NAM-003,,nothing dated since 2023-09-28
+NAM,record,governance,qualifier,owner:ministry,2016-07,NAM-006,,nothing dated since 2023-10-20
+NAM,record,records,coverage,C,2026-10-16,NAM-009,NAM-004=none;NAM-007=O;NAM-005=C,
+NAM,record,made,coverage,paper,2022,NAM-003,,nothing dated since 2023-10-20
 NAM,record,last12,qualifier,,,,,nothing held
-NAM,record,stations,coverage,not-published,2022-05,NAM-008,,nothing dated since 2023-09-28
+NAM,record,stations,coverage,equipped:90%,2026-10-16,NAM-010,NAM-008=not-published,

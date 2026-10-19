@@ -1,57 +1,12 @@
 {
  "slug": "2023-12-23-cpv-unicv-pro-reitor-ciberseguranca-semana-tim",
  "studies": {
-  "aiabuse": {
+  "cybersecurity": {
    "countries": {
     "CPV": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study for Cape Verde."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study for Cape Verde."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study for Cape Verde."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study for Cape Verde."
-    }
-   }
-  },
-  "nonstatefinance": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study for Cape Verde."
-    }
-   }
-  },
-  "policyresearch": {
-   "countries": {
-    "CPV": {
-     "facts": [],
-     "systems": [],
-     "note": "Uni-CV's TIM week is a student and market conference, not stated as digital policy research."
+     "note": "A university official's remarks on a global index rank; no national body, strategy or incident stated."
     }
    }
   }

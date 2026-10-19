@@ -1,143 +1,57 @@
 {
  "slug": "2025-08-07-gmb-foroyaa-nhrc-court-automation-case-management",
  "studies": {
-  "businesspayments": {
+  "coresystems": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   },
-  "centralbank": {
+  "customs": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   },
-  "consumerprotection": {
+  "educationexchange": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   },
-  "crossborderpayments": {
+  "educationmis": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   },
-  "g2ppayments": {
+  "health": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   },
-  "paymentsuptake": {
+  "healthmis": {
    "countries": {
     "GMB": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this."
-    }
-   }
-  },
-  "retailpayments": {
-   "countries": {
-    "GMB": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this."
-    }
-   }
-  },
-  "schools": {
-   "countries": {
-    "GMB": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this."
-    }
-   }
-  },
-  "taxadmin": {
-   "countries": {
-    "GMB": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this."
-    }
-   }
-  },
-  "justice": {
-   "countries": {
-    "GMB": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "cases",
-       "value": "inservice",
-       "fact": "The NHRC's 2024 report says the Judiciary has introduced the Court Automated System in 6 courts and developed a Case Management System with e-assignment of cases.",
-       "as_of": "2024",
-       "date_precision": "year",
-       "system": "Case Management System",
-       "class": "justice"
-      },
-      {
-       "sub_indicator": "justice",
-       "aspect": "filing",
-       "value": "online",
-       "fact": "The NHRC's 2024 report says the Judiciary's Case Management System includes e-filing.",
-       "as_of": "2024",
-       "date_precision": "year",
-       "system": "Case Management System",
-       "class": "justice"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Case Management System",
-       "country_label": "The Gambia",
-       "class": "justice",
-       "platform": "",
-       "owner": "Judiciary of The Gambia",
-       "tiers": "6 courts (Court Automated System)"
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "revenuecollection": {
-   "countries": {
-    "GMB": {
-     "facts": [
-      {
-       "sub_indicator": "revenue",
-       "aspect": "payment",
-       "value": "inservice",
-       "fact": "The NHRC's 2024 report says the Judiciary's Case Management System includes e-payment for filing processes.",
-       "as_of": "2024",
-       "date_precision": "year",
-       "system": "Case Management System",
-       "class": "revenue"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Court automation report; nothing stated for this study."
     }
    }
   }

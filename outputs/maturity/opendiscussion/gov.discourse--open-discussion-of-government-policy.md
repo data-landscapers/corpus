@@ -23,9 +23,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 0 |
-| 2 Nascent | 25 |
+| 2 Nascent | 26 |
 | 1 Absent | 11 |
-| Unplaced | 9 |
+| Unplaced | 8 |
 | No evidence | 6 |
 
 ## Countries
@@ -95,6 +95,13 @@ In May 2026 police arrested a rights defender after a passport campaign and held
 In 2025 Côte d'Ivoire's opposition denounced an activist's arrest and courts jailed people for social-media speech; whether any internet cut occurred is not known.
 
 - The opposition party PPA-CI, through Justin Kone Katinan, publicly denounced the arrest of its activist as a violation of freedom of expression ([source, 2025-09-03](https://www.rfi.fr/fr/afrique/20250903-c%C3%B4te-d-ivoire-un-cyberactiviste-interpell%C3%A9-apr%C3%A8s-avoir-%C3%A9voqu%C3%A9-les-d%C3%A9lib%C3%A9rations-du-conseil-constitutionnel)).
+
+### DR Congo: 2 Nascent
+
+A rights group criticised government policy in public in 2026, but a journalist was jailed over a post in September 2026.
+
+- LINAPYCO's Fidele Mbilizi Mutimanwa criticised the DRC state's non-implementation of the African Commission's 2022 Batwa decision and of national law 22/030, and park clearance operations, at an ACHPR89 side event; the article gives no event date, so its published date is used ([source, 2026-10-17](https://ishr.ch/latest-updates/achpr89-side-event-protecting-our-land-our-environment-and-digital-space-in-africa/)).
+- The Committee to Protect Journalists says journalist Tresor Muntu was detained on 15 September 2026 and charged with defamation and publishing false news for sharing a post criticising a provincial politician, and jailed on 16 September ([source, 2026-09-15](https://cpj.org/2026/09/drc-journalist-detained-prosecuted-for-sharing-x-post-on-whatsapp/)).
 
 ### Egypt: 2 Nascent
 
@@ -304,12 +311,6 @@ Not established: No source dated in the last three years says a newspaper, broad
 ### Burundi: Unplaced
 
 A journalist was jailed over messages in 2024-2025 and a media coalition suspended in 2025; criticism of policy and internet cuts are unknown.
-
-Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
-
-### DR Congo: Unplaced
-
-A journalist was jailed over a post in 2026 and Goma lost internet in 2025; criticism is not known, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 

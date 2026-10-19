@@ -1,0 +1,9 @@
+{"slug": "2024-01-01-ssd-health-statistics", "studies": {
+"admindata": {"countries": {"SSD": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The National Bureau of Statistics health page publishes Ministry of Health counts of births notified to the registrar (151,004 in 2023) and deaths in outpatient departments (1,281 in 2023) by state for 2020 to 2023, plus antenatal care visits for 2020 to 2022.", "as_of": "2023", "date_precision": "year", "system": "NBS Health Statistics page (Ministry of Health birth notification and OPD deaths)", "class": "admin"}], "systems": [{"system": "NBS Health Statistics page", "country_label": "Health Statistics (birth notification and deaths in OPD, 2020-2023)", "class": "admin", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"civilregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Counts births notified to the registrar; says nothing on a digital civil register."}}},
+"digitaldivides": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Health page; nothing on rural internet."}}},
+"disabilityaccess": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Gives disability prevalence only; nothing on digital accessibility."}}},
+"idfrombirth": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"registry": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Notification counts only; says nothing on how registry offices make the record."}}}
+}}

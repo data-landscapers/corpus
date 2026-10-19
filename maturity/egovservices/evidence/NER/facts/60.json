@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-24-ner-lesahel-formation-justice-gestion-electronique-documents",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GED",
+   "country_label": "GED",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Internal document-management platform for ministry staff; no public online services stated."
+}

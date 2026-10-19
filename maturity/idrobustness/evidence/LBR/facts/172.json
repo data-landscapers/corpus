@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Liberia signed a US$52 million concession with Austrian State Printing Company (OSD) to design, install, operate and maintain a new national ID system with a database of demographic and biometric records for up to 10 million people, pending House committee review from 16 October 2026.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "NIDCRVS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government National Data Center",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": "The Government National Data Center is named as the future host only; no statement that it rents space to others."
+}

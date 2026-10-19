@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-23-egy-amwalalghad-fra-capmas-data-sharing-protocol",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "Egypt's Financial Regulatory Authority and CAPMAS signed their first data-sharing protocol on 2026-06-23, under which CAPMAS receives data on insurance, reinsurance and securities brokerage firms for official statistics.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "FRA-CAPMAS data-sharing protocol",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No census or household survey stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "A bilateral data-sharing protocol, not a government exchange platform."
+    }
+   }
+  }
+ }
+}

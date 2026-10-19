@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-18-zmb-zra-turns-to-data-sharing-to-strengthen-tax-compliance",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government AI in service or piloted; ZRA is only said to be exploring AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "ZRA is only said to be exploring AI; no pilot or service stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI built in the country."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated direction of whole-of-government integration for taxpayer identification; no register or number sharing is stated."
+    }
+   }
+  }
+ }
+}

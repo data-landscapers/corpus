@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Linfodrome reports law 2013-451 of 19 June 2013 on the fight against cybercrime, amended by law 2023-593 of 7 June 2023, as part of the legal framework.",
+   "as_of": "2023-06-07",
+   "date_precision": "day",
+   "system": "Loi 2013-451 on cybercrime",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

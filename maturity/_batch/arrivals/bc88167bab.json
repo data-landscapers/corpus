@@ -1,0 +1,13 @@
+{"slug": "2025-06-20-lby-lana-libya-post-postal-addressing-project", "studies": {
+"addressregister": {"countries": {"LBY": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "Libya Post launched its postal addressing project at the start of 2025, installing address plates in a number of municipalities, with a first phase targeting numbering of 42,000 buildings and more than 23 municipalities to follow, as reported by the Libyan News Agency on 20 June 2025.", "as_of": "2025-06-20", "date_precision": "day", "system": "Libya Post postal addressing project", "class": "address"}], "systems": [{"system": "Libya Post postal addressing project", "country_label": "Postal addressing project", "class": "address", "platform": "geospatial address database", "owner": "Libya Post", "tiers": "municipalities"}], "note": ""}}},
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on authentication in the document."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No exchange of records between civil register and ID system is stated."}}},
+"businessregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Commercial register is mentioned only in passing as a place where the address applies; nothing on its digital status."}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No ID number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No public register is stated to be keyed on the national ID number."}}},
+"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on the national ID system's status."}}},
+"localgov": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Municipalities are addressing sites, not connected offices."}}},
+"registry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on digital civil registration at registry offices."}}}
+}}

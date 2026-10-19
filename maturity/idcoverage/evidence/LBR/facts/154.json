@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The National Identification Registry says fewer than 800,000 people in Liberia hold a national ID, against a planned database for up to 10 million people, and issuance has been suspended since June 2025.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

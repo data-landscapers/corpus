@@ -1,0 +1,18 @@
+{"slug": "2026-10-17-sdn-alawdanews-culture-ministry-website-launch-opinion", "studies": {
+"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on AI rules."}}},
+"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [], "note": "An AI interface is mentioned only as a hypothetical; no government AI system is stated."}}},
+"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector system."}}},
+"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on AI built in the country."}}},
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement; the columnist notes no tender was seen for the website contract."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on digital finance conduct rules."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"disabilityaccess": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The columnist only asks whether the site is usable by people with disabilities; no rule or delivery is stated."}}},
+"egovservices": {"countries": {"SDN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "A columnist reports that the Ministry of Culture, Information, Tourism and Antiquities launched its updated website on 13 October 2026 with the prime minister present, which the minister called a gateway to government ministries and which has windows for entering data for some services, though the columnist found placeholder text and says no completed transaction is shown.", "as_of": "2026-10-13", "date_precision": "day", "system": "Ministry of Culture, Information, Tourism and Antiquities website", "class": "eservices"}], "systems": [{"system": "Ministry of Culture, Information, Tourism and Antiquities website", "country_label": "ministry website", "class": "eservices", "platform": "", "owner": "Ministry of Culture, Information, Tourism and Antiquities", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"offsitebackup": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The columnist only asks whether backup and recovery are managed; no backup site is stated."}}},
+"opendatause": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Open data is mentioned only as something a modern site could offer; no published data is stated."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure is given."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The columnist says the country fails at the simplest electronic payments and bank apps; no service is described."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing stated on electronic tax payment."}}}
+}}

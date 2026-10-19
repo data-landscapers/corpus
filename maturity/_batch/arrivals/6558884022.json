@@ -1,0 +1,11 @@
+{"slug": "2025-05-15-nga-nbs-commits-to-effective-mgt-of-administrative-data", "studies": {
+"admindata": {"countries": {"NGA": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The National Bureau of Statistics held a two-day in-boarding training in Abuja and distributed hardware and software to 15 pilot ministries, departments and agencies for the World Bank-supported Integrated Systems of Administrative Statistics, whose MDAs were to sign a Data Supply Pledge to share administrative data regularly.", "as_of": "2025-05-15", "date_precision": "day", "system": "Integrated Systems of Administrative Statistics (ISAS)", "class": "admin"}], "systems": [{"system": "Integrated Systems of Administrative Statistics (ISAS)", "country_label": "Nigeria", "class": "admin", "platform": "centralised data repository", "owner": "National Bureau of Statistics", "tiers": "15 MDAs in the pilot phase"}], "note": ""}}},
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on authentication."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on a civil register and ID link."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The Identity Management Commission is only named as a participating agency; no register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing stated on the national ID system."}}},
+"police": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The Police Force is named as one of 15 agencies onboarded to the statistics platform; no station record system stated."}}}
+}}

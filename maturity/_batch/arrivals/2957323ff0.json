@@ -1,22 +1,5 @@
 {"slug": "2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study", "studies": {
-"addressregister": {"countries": {"GMB": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The DIAL case study lists an \"emerging digital address system\" among the public data systems in The Gambia's governance of the rental tax compliance system.", "as_of": "2026-05-01", "date_precision": "day", "system": "digital address system", "class": "address"}], "systems": [{"system": "digital address system", "country_label": "emerging digital address system", "class": "address", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"admindata": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No statistics published from administrative records are stated."}}},
-"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aisectoral": {"countries": {"GMB": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Gambia Revenue Authority now uses the Rental Tax Compliance System's ML-estimated rental values and compliance risk scores to prioritise property owner records for audit and visit, per the DIAL case study.", "as_of": "2026-05-01", "date_precision": "day", "system": "Rental Tax Compliance System (rTCS)", "class": "sectorai"}], "systems": [{"system": "Rental Tax Compliance System (rTCS)", "country_label": "Rental Tax Compliance System", "class": "sectorai", "platform": "RippleNami ML model", "owner": "Ministry of Finance and Economic Affairs / Gambia Revenue Authority", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The document does not say the model was developed or hosted in the country."}}},
-"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on authentication is stated."}}},
-"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links is stated."}}},
-"civilserviceskills": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on civil servant digital skills is stated."}}},
-"digitalskills": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on public digital skills is stated."}}},
-"digitalstrategy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No national digital strategy is described."}}},
-"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No ID enrolment figure is stated."}}},
-"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on numbers at birth is stated."}}},
-"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on ID system operation is stated."}}},
-"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No register keyed on the national ID number is stated."}}},
-"idrobustness": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on the national ID system is stated."}}},
-"idverification": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Telecom KYC data is used as an input only; no check against the national ID is stated."}}},
-"localgov": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on local government office connections is stated."}}},
-"localrecords": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The system is the national revenue authority's; municipal property records are only an input."}}},
-"schoolinternet": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on schools is stated."}}},
-"taxadmin": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The system prioritises audits; no online filing or payment is stated."}}}
+"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [{"system": "Rental Tax Compliance System (rTCS)", "country_label": "Gambia", "class": "other", "platform": "ML valuation model built by RippleNami", "owner": "Ministry of Finance and Economic Affairs / Gambia Revenue Authority", "tiers": ""}], "note": "The ML tool prioritises tax audits, which is AI inside a sector (tax) system, not general administration."}}},
+"ailaw": {"countries": {"GMB": {"facts": [], "systems": [], "note": "DIAL says an AI governance framework is absent but states no law, draft or absence of a law on AI."}}},
+"aistrategy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only the 2023 National Digital Strategy is named; no AI strategy or drafting is stated."}}}
 }}

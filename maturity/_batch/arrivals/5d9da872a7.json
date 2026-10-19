@@ -1,5 +1,8 @@
-{"slug":"2024-09-26-dji-d-money-lancement-nouvelle-plateforme","studies":{
-"disabilityaccess":{"countries":{"DJI":{"facts":[],"systems":[],"note":"The article speaks of financial accessibility for all, not persons with disabilities."}}},
-"egovservices":{"countries":{"DJI":{"facts":[],"systems":[],"note":"A private-sector style payments app; no government service is stated as available online."}}},
-"retailpayments":{"countries":{"DJI":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Djibouti Telecom's D-Money officially launched its new smartphone application on 26 September 2024, open to all Djiboutians since 21 September, for money transfers, bill payment and online purchases of services.","as_of":"2024-09-26","date_precision":"day","system":"D-Money","class":"retail"}],"systems":[{"system":"D-Money","country_label":"D-Money","class":"retail","platform":"smartphone app","owner":"Djibouti Telecom","tiers":""}],"note":""}}},
-"revenuecollection":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Bill payment is mentioned without naming any tax, duty or government fee."}}}}}
+{"slug": "2024-09-26-dji-d-money-lancement-nouvelle-plateforme", "studies": {
+"businesspayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The article is about a mobile money app; it says nothing about government procurement."}}},
+"centralbank": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No central bank role, licensing or switch oversight is stated."}}},
+"consumerprotection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The article names no consumer-protection rule, complaints body or enforcement."}}},
+"crossborderpayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Only domestic transfers, bill payment and online purchases are stated; no cross-border corridor."}}},
+"g2ppayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"DJI": {"facts": [], "systems": [{"system": "D-Money", "country_label": "Djibouti", "class": "other", "platform": "smartphone app", "owner": "Djibouti Telecom", "tiers": ""}], "note": "No survey share of adults with an account is given."}}}
+}}

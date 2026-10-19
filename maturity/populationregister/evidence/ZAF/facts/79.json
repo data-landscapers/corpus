@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-zaf-the-end-of-the-green-id-book-but-not-the-end-its-history",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "A GCIS op-ed refers to the National Population Register, whose integrity the Smart ID transition is meant to strengthen.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

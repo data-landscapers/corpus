@@ -1,21 +1,66 @@
 {
  "slug": "2024-06-13-ner-lesahel-comite-strategie-e-justice",
  "studies": {
-  "justice": {
+  "coresystems": {
    "countries": {
     "NER": {
      "facts": [],
      "systems": [],
-     "note": "A committee was installed to draft a national e-justice strategy; no case management system is stated as procured, piloted or built."
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
     }
    }
   },
-  "schoolinternet": {
+  "customs": {
    "countries": {
     "NER": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a national e-justice strategy committee for the justice ministry; it states nothing this study asks."
     }
    }
   }

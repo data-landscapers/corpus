@@ -1,0 +1,149 @@
+{
+ "slug": "2025-01-01-lbr-liberia-emis-education-management-information-system",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Ministry of Education's EMIS portal offers Annual School Census reports and datasets for academic year 2024-25 (1,274,610 enrolled students, 6,394 schools), described as drawn from individual student and school records; the portal is undated and the year is a proxy.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "education",
+       "fact": "The portal presents education statistics from the ministry's school and learner records for 2024-25; no other record-holder is named.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Liberia EMIS",
+       "country_label": "Liberia EMIS (emis-moe-lib.org)",
+       "class": "emis",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Annual school census is a school census, not a population census or household survey."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal tracks learners' disability status as data; no accessibility rule, service or audit stated."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No exchange with another system stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Liberia's Ministry of Education portal says its EMIS is live for academic year 2024-25 across all 15 counties, publishing school census reports with 1,274,610 enrolled students in 6,394 registered schools.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "learners",
+       "value": "individual",
+       "fact": "Liberia's Ministry of Education portal says its EMIS tracks every enrolled learner with a unique LBR identifier across ECE, primary, JSS, SSS, TVET and ABE levels.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Liberia EMIS",
+       "country_label": "Liberia EMIS (emis-moe-lib.org)",
+       "class": "emis",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The portal describes the EMIS as managed by the Ministry of Education.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P;S",
+       "fact": "The portal says the EMIS records learners at ECE, primary, JSS and SSS levels, besides TVET and ABE.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Liberia EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Liberia EMIS",
+       "country_label": "Liberia EMIS (emis-moe-lib.org)",
+       "class": "emis",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

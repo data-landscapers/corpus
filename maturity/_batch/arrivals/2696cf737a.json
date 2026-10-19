@@ -1,0 +1,14 @@
+{"slug": "2026-10-16-nam-nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-service", "studies": {
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Mentions ICT training only as a possible part of NamPol's overhaul; no programme for civil servants."}}},
+"coresystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on the finance, tax or payroll systems."}}},
+"digitalskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on digital skills of the public."}}},
+"educationexchange": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"educationmis": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"health": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on health systems."}}},
+"healthmis": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on health systems."}}},
+"idrobustness": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Namibia Automated Biometric Identification System (N-ABIS)", "country_label": "N-ABIS", "class": "other", "platform": "", "owner": "Namibian Police", "tiers": ""}], "note": "N-ABIS is described as the police fingerprint identification system, not the national ID system."}}},
+"justice": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Police case dockets are described, not a court case management system."}}},
+"police": {"countries": {"NAM": {"facts": [{"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "Acting Inspector-General Nainda says the Force Case Docket Management System is accessible at all Class A and Class B police stations and about 90% of Class C stations, within an E-Policing System implemented from 2014.", "as_of": "2026-10-16", "date_precision": "day", "system": "Force Case Docket Management System", "class": "record"}], "systems": [{"system": "E-Policing System", "country_label": "E-Policing System", "class": "record", "platform": "11 national databases", "owner": "Namibian Police", "tiers": ""}, {"system": "Namibia Automated Biometric Identification System (N-ABIS)", "country_label": "N-ABIS", "class": "other", "platform": "", "owner": "Namibian Police", "tiers": ""}], "note": ""}}},
+"schools": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment."}}}
+}}

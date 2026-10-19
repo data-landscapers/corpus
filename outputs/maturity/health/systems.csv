@@ -226,6 +226,8 @@ CIV,E-SIGL,E-SIGL,single-function,,Ministry in charge of health,used by the dire
 CIV,OPENELIS,OPENELIS,single-function,OpenELIS,Ministry in charge of health,"laboratory data, viral load and routine tests, in more than 80 laboratories",2021-10-01-civ-plan-national-de-developpement-sanitaire-2021-2025
 CIV,SIGDEP 2,SIGDEP 2,tracker,,Ministry in charge of health,management of the data of patients living with HIV; tiers not stated,2021-10-01-civ-plan-national-de-developpement-sanitaire-2021-2025
 CIV,DHIS2,"base de données nationale DHIS2, taking the monthly reports of the SIG (Système d'Information et de Gestion)",hmis,DHIS2,"Ministry of health (MSHPCMU), Direction de l'Informatique et de l'Information Sanitaire (DIIS), through its CATSIS unit","keyed at the departmental health directorates for first-contact establishments (ESPC) and by the data managers of general hospitals and regional hospital centres; checked at regional and national level; the report notes weak integration of private, community and other ministries' data",2021-07-01-civ-rapport-annuel-sur-la-situation-sanitaire-rass-2020
+CIV,Systeme d'information hospitalier (SIH),SIH,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
+CIV,Dossier patient informatise (DPI),DPI,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
 CMR,Digitalised community surveillance (Pandemic Fund project),digitalisation de la surveillance communautaire,single-function,,Ministry of Public Health,"community level, 42 municipalities (planned, 2026-2029)",2026-08-01-pandemic-fund-cmr-2026-record
 CMR,DHIS2,National DHIS2,hmis,DHIS2,,entered at district level from clinics' manual compilations; described as scaled nationally,2026-03-31 Africa we have a data problem
 CMR,OpenMRS / GNU Health pilots,,tracker,OpenMRS; GNU Health,,"pilots in specific regions (East, Centre) for HIV and TB",2026-03-31 Africa we have a data problem
@@ -461,6 +463,8 @@ DZA,IKOLAB,"système d'information de laboratoire (SIL), IKOLAB",single-function
 DZA,RISPACKS,"système d'information de radiologie, RISPACKS",single-function,RIS/PACS,CHU Tizi-Ouzou,"radiology service of CHU Tizi-Ouzou, images readable over the hospital's local network",2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou
 DZA,Dossier medical electronique,DME,emr,,"Ministry of Health, information systems directorate",,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas
 DZA,Dossier medical electronique,DME,emr,,Ministry of Health,,2026-09-08-dza-elwatan-dme-deadline-15-november
+DZA,plateforme numérique de suivi à distance des dossiers médicaux des patients,Remote patient-record monitoring platform,emr,,ministry,,2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux
+DZA,dossier électronique du patient,Algeria,emr,,Ministry of Health,,2025-10-18-dz-aps-dossier-electronique-patient
 EGY,Egypt Smart Healthcare Platform,Egypt Smart Healthcare Platform,emr,,Ministry of Health and Population (proposed; discussed with MTS and Inspur),Proposed only: to connect health facilities through a unified network; no tiers stated,2026-09-14-egy-dailynews-unified-platform-patient-records
 EGY,Hospital EMRs,EMR,emr,,,314 hospitals (reports of 2024-2026),2026-03-31 Africa we have a data problem
 EGY,Electronic medical information system at Alexandria primary health care units,,emr,,,Primary health care units in Alexandria (2014),2026-03-31 Africa we have a data problem
@@ -1680,6 +1684,8 @@ SWZ,CMIS link to the National Population Register,NPR / PIN access,exchange,NPR 
 SWZ,HMIS (routine health information system),HMIS / RHIS,hmis,"none electronic, per the profile",not stated,95% of facilities represented in HMIS information; tiers not stated,2019-08-01-swz-eswatini-his-indicators
 SWZ,Service Availability Mapping (SAM) database,SAM database (master facility list),exchange,,updated when HMIS is notified of new facilities,national,2019-08-01-swz-eswatini-his-indicators
 SWZ,Client management information system,CMIS,emr,,US Department of State supported; transition to government planned,,2026-05-28-swz-state-dept-health-service-delivery-cmis
+SWZ,Client Management Information System (CMIS),CMIS,emr,,Ministry of Health (HMIS Eswatini),,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health
+SWZ,Electronic Logistics Management Information System (eLMIS),eLMIS,single-function,,Ministry of Health (HMIS Eswatini),,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health
 SYC,eHIS,eHIS (electronic Health Information System),emr,,Ministry of Health,Primary health care facilities (community health centres); said to integrate surveillance and laboratories centrally,2026-03-31 Africa we have a data problem
 SYC,Electronic Health Information System (eHIS),eHIS,hmis,,Ministry of Health,Not stated,2022-01-01-seychelles-nhsp-strategic-direction-six-data
 SYC,Electronic Health Information System (EHIS),EHIS,emr,,Ministry of Health,Not stated,2024-01-23-syc-leaders-scrutinize-seychelles-digital-health-transformation

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-05-eth-ess-statistical-abstract-2015-ec-print-release",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The Ethiopian Statistics Service released the 2015 E.C. Statistical Abstract in print and on its website, and its Director General said administrative records are one source for the figures, compiled from various institutions.",
+       "as_of": "2025-02-04",
+       "date_precision": "day",
+       "system": "Statistical Abstract 2015 E.C.",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Statistical Abstract",
+       "country_label": "Statistical Abstract 2015 E.C.",
+       "class": "admin",
+       "platform": "print; website; IMIS",
+       "owner": "Ethiopian Statistics Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

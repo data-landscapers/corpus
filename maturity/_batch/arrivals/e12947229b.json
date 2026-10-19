@@ -1,0 +1,10 @@
+{"slug": "2026-10-19-moz-altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States no authentication, e-signature or digital ID service; it reports document fees."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States nothing on records passing between the civil register and the ID system."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Says only that the service's platform shows fees; it does not state that services can be applied for or completed online."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Gives no count or share of people holding a national ID."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States nothing on an ID number given at birth."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Reports fees for ID card renewal at the Centro Pronto; the ID system's issuance, biometrics or security are not described."}}}
+}}

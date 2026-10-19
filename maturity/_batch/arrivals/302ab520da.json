@@ -1,13 +1,9 @@
 {"slug": "2023-11-13-tun-economistemaghrebin-isie-mise-a-jour", "studies": {
-"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about an ID authentication service."}}},
-"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about civil register and ID links."}}},
-"electoralregister": {"countries": {"TUN": {"facts": [
-{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place.", "as_of": "2023-11-13", "date_precision": "day", "system": "ISIE voter registration check (service 195 / SMS)", "class": "electoral"}
-], "systems": [{"system": "ISIE voter register update (touenssa.isie.tn)", "country_label": "Tunisia", "class": "electoral", "platform": "", "owner": "ISIE", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The 9.106m figure is registered voters, not national ID holders."}}},
-"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about numbers at birth."}}},
-"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about who runs the ID system."}}},
-"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Voter check by ID card number is a lookup; the document does not say the roll is keyed on or drawn from the ID register."}}},
-"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about the national ID system itself."}}},
-"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing stated about tax."}}}
+"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
+"businessregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
+"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}},
+"populationregister": {"countries": {"TUN": {"facts": [], "systems": [{"system": "Voter register (ISIE)", "country_label": "Tunisia", "class": "other", "platform": "touenssa.isie.tn", "owner": "ISIE", "tiers": ""}], "note": "A voter roll is not a population register."}}},
+"registry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, not civil registration offices."}}},
+"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about Tunisia's voter roll, which this study does not count."}}}
 }}

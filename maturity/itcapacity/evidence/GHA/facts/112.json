@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The analyst says NITA, mandated under Act 771 to provide core government IT infrastructure, runs the Government Cloud (G-Cloud) and the NITA Data Centre that ministries, departments and agencies can host on or bypass.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "G-Cloud",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-Cloud",
+   "country_label": "Government Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

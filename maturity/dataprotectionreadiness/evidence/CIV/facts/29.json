@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Linfodrome lists law 2013-450 of 19 June 2013 on personal data protection among the texts structuring the legal framework.",
+   "as_of": "2013-06-19",
+   "date_precision": "day",
+   "system": "Loi 2013-450 on personal data protection",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "Linfodrome reports that Cote d'Ivoire ratified the Malabo Convention on 3 April 2023.",
+   "as_of": "2023-04-03",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

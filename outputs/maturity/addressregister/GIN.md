@@ -2,11 +2,11 @@
 
 ## Address register
 
-**Addresses in service.** [The government of Guinea is working with the startup FindMe to pilot digital addressing solutions, particularly to upgrade postal services](<https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Addresses in service.** [On 3 October 2024 the urbanism minister Mory Condé said the national addressing programme was complete in Kaloum and would extend to Dixinn, Matam, the other Conakry communes, Coyah, Dubréka and regional and prefecture towns](<https://www.africaguinee.com/adressage-des-rues-a-kaloum-les-explications-de-mory-conde-ministre-lurbanisme-et-de-lhabitat/>). [The government is also working with the start-up FindMe to pilot digital addressing, particularly to upgrade postal services](<https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy>).
 
-**Nationwide.** No source held since October 2023 says the addressing system covers the whole country. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy>).
+**Nationwide.** Addressing is complete in one Conakry commune. [In October 2024 the minister said Kaloum was done and the programme would move on to the other Conakry communes, then Coyah, Dubréka and the regional and prefecture towns](<https://www.africaguinee.com/adressage-des-rues-a-kaloum-les-explications-de-mory-conde-ministre-lurbanisme-et-de-lhabitat/>).
 
-**Used by services.** No source held since October 2023 says other services use the address system. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy>).
+**Used by services.** No service is held as using the addresses. The nearest held fact: [the government is piloting digital addressing with FindMe, particularly to upgrade postal services](<https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy>), a pilot and not a service in use.
 
 ***Noted, not assessed***. None held.
 

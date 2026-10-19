@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vodacom group CTO Dejan Kastelic told Business Day that South Africa will be the last of three large markets where Vodacom plans to install GPUs, starting small and mainly for internal use.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "Vodacom GPU capacity",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

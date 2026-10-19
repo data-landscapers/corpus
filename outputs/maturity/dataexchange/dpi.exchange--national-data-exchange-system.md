@@ -23,9 +23,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 5 Leading | 3 |
 | 4 Operating | 4 |
 | 3 Established | 10 |
-| 2 Nascent | 18 |
+| 2 Nascent | 19 |
 | 1 Absent | 4 |
-| Unplaced | 4 |
+| Unplaced | 3 |
 | No evidence | 11 |
 
 ## Countries
@@ -181,6 +181,13 @@ A government data exchange platform was under way in 2026; none in service is on
 - Tech Africa News reports Gabon is developing an interoperability platform meant to let government information systems securely exchange data, reviewed at the sixth e-Gabon-SIS and Gabon Digital steering committee; no live connections or figures are given ([source, 2026-09-08](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/)).
 - The World Bank's Digital Gabon ISR (Dec 2024) sets a closing-2026 target of 5 government entities exchanging data on the government interoperability platform, with the actual at baseline 0, and the loan only 1.92% disbursed ([source, 2024-12-19](https://documents.worldbank.org/curated/en/099121924052032986/pdf/P175987-0914ff29-7941-4230-8202-16cca6789388.pdf)).
 
+### Ghana: 2 Nascent
+
+A government data exchange platform was under way in 2026; none in service is on record.
+
+- The analyst says the Ministry of Communication, Digital Technology and Innovations and NITA, under the World Bank-backed Ghana Digital Acceleration Project, are moving to operationalise a National Data Exchange Hub, described elsewhere as soon-to-be-established ([source, 2026-10-19](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)).
+- Communications minister Sam George said the ministry is developing a national data exchange hub intended to connect 48 government data registries ([source, 2026-10-15](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)).
+
 ### Guinea: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
@@ -293,12 +300,6 @@ Nothing held since 2023 names a government data exchange platform, so no stage i
 Not established: Nothing held since October 2023 names a government data exchange platform.
 
 ### Eritrea: Unplaced
-
-Nothing held since 2023 names a government data exchange platform, so no stage is set.
-
-Not established: Nothing held since October 2023 names a government data exchange platform.
-
-### Ghana: Unplaced
 
 Nothing held since 2023 names a government data exchange platform, so no stage is set.
 

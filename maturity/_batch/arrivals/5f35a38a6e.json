@@ -1,11 +1,3 @@
 {"slug": "2025-06-20-ssd-eyeradio-yogage-ai-juba-arabic-dataset", "studies": {
-"aiabuse": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Names no rule or authority on AI harms; the Juba consultation is on hate speech generally."}}},
-"aigovernment": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
-"aisectoral": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No AI in a public sector system is stated."}}},
-"aisystems": {"countries": {"SSD": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Go Girl ICT Initiative, led by executive director Eva Yayi Mawa, is leading research under the YoGage AI project on Juba Arabic, and says dialectal variation and inconsistent pronunciation make it hard to standardize a training dataset.", "as_of": "2025-06-20", "date_precision": "day", "system": "YoGage AI", "class": "localai"}], "systems": [{"system": "YoGage AI", "country_label": "South Sudan", "class": "localai", "platform": "Juba Arabic dataset for AI", "owner": "Go Girl ICT Initiative", "tiers": ""}], "note": ""}}},
-"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
-"digitaldivides": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No rural internet programme or rural and urban figures are stated."}}},
-"digitalskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Only a call for digital literacy; no programme or measured share is stated."}}},
-"publicconsultation": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The consultation is on hate speech, with no named digital law or policy put to it."}}},
-"schoolinternet": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on school internet or the secondary curriculum."}}}
+"ailaw": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The article names no law, draft or binding rule on AI; the workshop was on hate speech measures."}}}
 }}

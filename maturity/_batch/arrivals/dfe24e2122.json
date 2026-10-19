@@ -1,0 +1,8 @@
+{"slug": "2026-10-18-lby-opening-of-ozone-telecom-group-in-benghazi-and-arrival-of-medusa-cable", "studies": {
+"datacentres": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Ozone Cloud", "country_label": "Libya", "class": "other", "platform": "", "owner": "Ozone (O3) Telecom Group", "tiers": ""}], "note": "A Tier III data centre is only planned; none stated in service for hire."}}},
+"fibrebackbone": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A 16,000 km fibre network is only a plan of O3, with no contract or works stated."}}},
+"internationalbandwidth": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Medusa submarine cable", "country_label": "Libya", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "Its arrival at Benghazi is announced but the cable is not stated in service."}}},
+"localgov": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing stated on local government offices."}}},
+"nationaldatacentres": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A Tier III data centre is only planned; none stated in service for hire."}}},
+"regionalinfrastructure": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Cross-border links to neighbours and the cable's reach are stated as aims, with no agreement, works or service."}}}
+}}

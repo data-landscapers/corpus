@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national",
+ "studies": {
+  "health": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "national cloud computing (Centre national alg\u00e9rien des services num\u00e9riques)",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "HCN",
+       "tiers": ""
+      }
+     ],
+     "note": "A cloud-hosting agreement is enabling infrastructure; it names no HMIS or EMR."
+    }
+   }
+  }
+ }
+}

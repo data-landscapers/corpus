@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-26-dza-interlignes-dme-deploiement-69-wilayas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "dossier medical electronique (DME)",
+   "country_label": "Dossier medical electronique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health, built by its information-systems directorate",
+   "tiers": ""
+  }
+ ],
+ "note": "A single electronic medical record is being rolled out; no exchange between health systems or shared patient identifier across systems is stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vodacom group CTO Dejan Kastelic told Business Day that Kenya will be the second node where Vodacom plans to build GPUs as a service.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "Vodacom GPU-as-a-service node",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

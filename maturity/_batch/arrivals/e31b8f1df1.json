@@ -1,32 +1,12 @@
 {
  "slug": "2025-02-22-dza-lnr-mpt-portail-requetes-insat",
  "studies": {
-  "feedbackportals": {
+  "refugees": {
    "countries": {
     "DZA": {
-     "facts": [
-      {
-       "sub_indicator": "feedback",
-       "aspect": "channel",
-       "value": "underway",
-       "fact": "La Nouvelle Republique reports the Ministry of Post and Telecommunications launched the insat.mpt.gov.dz portal for citizens' complaints, suggestions and audience requests on postal and telecom services; no case numbers are given.",
-       "as_of": "2025-02",
-       "date_precision": "month",
-       "system": "Portail de gestion des requetes (insat)",
-       "class": "feedback"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Portail de gestion des requetes (insat.mpt.gov.dz)",
-       "country_label": "Algeria",
-       "class": "feedback",
-       "platform": "web portal",
-       "owner": "Ministry of Post and Telecommunications",
-       "tiers": "single ministry"
-      }
-     ],
-     "note": ""
+     "facts": [],
+     "systems": [],
+     "note": "Citizen complaints portal; nothing on refugees or displaced people."
     }
    }
   }

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-16-nam-nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-service",
+ "facts": [
+  {
+   "sub_indicator": "record",
+   "aspect": "records",
+   "value": "C",
+   "fact": "Acting Inspector-General Nainda says the Force Case Docket Management System is accessible at all Class A and Class B police stations and about 90% of Class C stations, within an E-Policing System implemented from 2014.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Force Case Docket Management System",
+   "class": "record"
+  },
+  {
+   "sub_indicator": "record",
+   "aspect": "stations",
+   "value": "equipped:90%",
+   "fact": "Acting Inspector-General Nainda told New Era the Force Case Docket Management System is accessible at all Class A and Class B stations and about 90% of Class C stations; no count of stations or share entering cases is given.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Force Case Docket Management System",
+   "class": "record"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Policing System",
+   "country_label": "E-Policing System",
+   "class": "record",
+   "platform": "11 national databases",
+   "owner": "Namibian Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -22,8 +22,8 @@ The AU Digital Education Strategy asks for education management information syst
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 6 |
-| 3 Established | 15 |
-| 2 Nascent | 21 |
+| 3 Established | 17 |
+| 2 Nascent | 19 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 4 |
@@ -78,6 +78,12 @@ The education information system held a record for each learner in 2025; a link 
 
 - PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 
+### Angola: 3 Established
+
+Education statistics were collected through the ministry's information system in 2025; a record for each learner is not known.
+
+- Angola's Ministry of Education planning office (GEPE) says SIGE is in operation and the 2022/2023 education yearbook's data were collected through it, though the platform is "not a finished product" and structured Excel sheets were used to finish verification and indicator calculation ([source, 2025](https://www.ine.gov.ao/publicacoes/detalhes/MzgzMzA%3D)).
+
 ### Benin: 3 Established
 
 The school census was run through an education information system in 2026; a record for each learner is not on record.
@@ -89,6 +95,12 @@ The school census was run through an education information system in 2026; a rec
 The school census was run through an education information system in 2024; a record for each learner is not on record.
 
 - IIEP says it supported integrating education-in-emergencies data into Burkina Faso's SIGE, which let the education ministry update the results of the annual school census and keep central government informed of school reopenings (ministry official Benjamin Kohoun, 2024) ([source, 2024-09-06](https://www.iiep.unesco.org/fr/articles/proteger-leducation-contre-les-attaques-les-donnees-esu-au-burkina-faso)).
+
+### Cameroon: 3 Established
+
+Education statistics were published through an online information system in 2024; a record for each learner is not known.
+
+- The National Institute of Statistics says more specific education data than its 2021-2022 sectoral yearbook can be accessed via the online EMIS industry platform ([source, 2024-06-06](https://ins-cameroun.cm/en/statistique/statistical-yearbook-of-the-education-and-training-sector-in-cameroon-2021-2022/)).
 
 ### Chad: 3 Established
 
@@ -120,6 +132,7 @@ The school census was run through an education information system in 2026; a rec
 The school census was run through an education information system in 2026; a record for each learner is not on record.
 
 - The Ministry said regular Annual School Census collection has resumed following interruptions after 2021, alongside the Statutory School Record System at school level ([source, 2026-09-30](https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html)).
+- Liberia's Ministry of Education portal says its EMIS is live for academic year 2024-25 across all 15 counties, publishing school census reports with 1,274,610 enrolled students in 6,394 registered schools ([source, 2025](https://www.emis-moe-lib.org/)).
 
 ### Mali: 3 Established
 
@@ -179,26 +192,12 @@ An education information system was under way in 2024; a school census run throu
 
 - The education ministry says an updated 2025 version of the national education sector information system is being prepared, to be ready in March 2025, after a nationwide evaluation ([source, 2024-11-16](https://elwatan.dz/numerisation-dans-le-secteur-de-leducation-lancement-des-demain-dun-vaste-processus-devaluation/)).
 
-### Angola: 2 Nascent
-
-An education information system was under way in 2026; a school census run through it is not on record.
-
-- ADEA says Angola's Ministry of Education is advancing discussions on a comprehensive EMIS legal framework and a modernised National Education Management Information System, with the ESDC initiative aiming at a robust and sustainable EMIS ([source, 2026-08](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems)).
-- The World Bank appraisal document says Component 3 of the TEST project (US$15m IBRD) modernises the higher education sector's Higher Education Management Information System (HEMIS), run through the higher education ministry MESCTI ([source, 2023-11-15](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)).
-
 ### Burundi: 2 Nascent
 
 An education information system was under way in 2026; a school census run through it is not on record.
 
 - The African Union Commission says a workshop in Bujumbura on 9-11 June 2026 aims to strengthen Burundi's EMIS, amid validation of the country's EMIS strategy ([source, 2026-06-09](https://www.continental-infos.com/flash-infos/bujumbura-burundi-from-strategy-to-systems-au-iped-supports-burundis-next-step-in-strengthening-education-data/)).
 - UNESCO's Central Africa office trained seven MENRS officials in Microsoft SQL Server 2022 database administration in Yaoundé, 18-29 May 2026, as part of efforts to modernise the Système d'Information pour la Gestion de l'Éducation ([source, 2026-05](https://www.unesco.org/fr/articles/renforcement-du-sige-au-burundi-des-cadres-du-menrs-en-formation-yaounde)).
-
-### Cameroon: 2 Nascent
-
-An education information system was under way in 2025; a school census run through it is not on record.
-
-- UNESCO says it, the Government of Cameroon and the World Bank officially launched the Integrated Sectoral Platform for the Education Management Information System (EMIS) ([source, 2025-05-13](https://www.unesco.org/en/articles/unesco-and-partners-officially-launch-integrated-emis-platform-and-its-methodological-tools)).
-- PAREC says the ministry of basic education held an official ceremony on 8 May 2025 presenting the integrated sectoral SIGE platform (sige-sectoriel.cm), designed to centralise statistics of all education and training subsectors and hosted by the National Institute of Statistics ([source, 2025-05-08](https://www.parec-cameroun.net/presentation-officielle-de-la-plateforme-sectorielle-integree-du-sige-et-des-documents-et-outils-conceptuels-et-methodologie/)).
 
 ### Cape Verde: 2 Nascent
 

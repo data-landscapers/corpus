@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "2",
-      "addressing": "underway",
+      "stage": "3",
+      "addressing": "inservice",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001;DZA-002",
-      "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: the national addressing reference is being extended wilaya by wilaya from 2025; nothing held says a register is in service.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-005",
+      "gaps": "No source held says the addressing system covers the whole country: 12 of 69 wilayas by October 2026, all by 2030.",
+      "note": "Reassessed in stage 4c: the interior ministry counted 1.5 million official geolocated addresses in 12 wilayas in October 2026, read as in service. It does not yet cover the whole country.",
+      "as_at": "2026-10-20"
     }
   ]
 }

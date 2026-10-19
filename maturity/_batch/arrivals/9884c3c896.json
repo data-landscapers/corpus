@@ -1,0 +1,90 @@
+{
+ "slug": "2025-12-31-sle-ncra-releases-provisional-vital-statistics-for-2025",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "The National Civil Registration Authority published its provisional annual report on vital events for the year ending 31 December 2025, with 306,057 live births, 17,905 deaths, 755 marriages and 160 adoptions registered.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "NCRA annual report on vital events 2025 (provisional)",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "civil-registration",
+       "fact": "The NCRA report compiles births, deaths, marriages, divorces and adoptions registered under the 2016 National Civil Registration Act.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "NCRA annual report on vital events 2025 (provisional)",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "series",
+       "value": "civil-registration",
+       "fact": "NCRA's report on vital events for 2025 is described as its provisional annual report, compiled under its statutory mandate.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "NCRA annual report on vital events 2025 (provisional)",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

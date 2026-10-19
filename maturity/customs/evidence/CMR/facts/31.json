@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-18-nga-customs-afreximbank-plan-nigeria-benin-cameroon-border-upgrade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CAMCIS",
+   "country_label": "CAMCIS",
+   "class": "customs",
+   "platform": "",
+   "owner": "Cameroon customs",
+   "tiers": ""
+  }
+ ],
+ "note": "CAMCIS is named as Cameroon's customs platform, but the article does not say what it does or that declarations run on it; the exchange system is a proposal still needing pilot acceptance."
+}

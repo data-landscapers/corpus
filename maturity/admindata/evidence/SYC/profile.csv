@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,admin,use,coverage,,,,,nothing held
+SYC,admin,use,coverage,preparing,2026-07-06,SYC-006,,
 SYC,admin,source,coverage,civil-registration;health,2026-03-31,SYC-001;SYC-002;SYC-004,,
-SYC,admin,series,coverage,civil-registration,2018-08-10,SYC-003,,nothing dated since 2023-10-19
+SYC,admin,series,coverage,civil-registration,2018-08-10,SYC-003,,nothing dated since 2023-10-20

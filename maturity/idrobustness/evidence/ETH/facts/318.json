@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "FaydaVerse says the national ID had registered 52.4 million people by 15 October 2026 and printed over 14.5 million credentials.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "FaydaVerse",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

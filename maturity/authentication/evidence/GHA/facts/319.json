@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "L.I. 2523, the National Identity Register (Amendment) Regulations 2026, took effect on 9 June 2026 and replaces visual inspection of the Ghana Card with biometric checks by NIA-approved methods, with penalties including loss of access to the NIA verification system (cited from the Ghana News Agency).",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "NIA verification system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA verification system",
+   "country_label": "NIA verification system",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

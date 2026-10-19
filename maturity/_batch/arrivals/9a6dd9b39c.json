@@ -1,23 +1,37 @@
 {
  "slug": "2025-06-23-gin-apip-digitalisation-synergui2-safig2",
  "studies": {
-  "businessregister": {
+  "taxregister": {
    "countries": {
     "GIN": {
-     "facts": [
+     "facts": [],
+     "systems": [
       {
-       "sub_indicator": "business",
-       "aspect": "registration",
-       "value": "underway",
-       "fact": "APIP-Guinee says it is digitalising company-creation procedures, deploying a new version of the SYNERGUI2 platform linked to the tax system SAFIG2, and trained notaries' clerks on it.",
-       "as_of": "2025-06-19",
-       "date_precision": "day",
+       "system": "SAFIG2",
+       "country_label": "Guinee",
+       "class": "tax",
+       "platform": "",
+       "owner": "DGI",
+       "tiers": ""
+      },
+      {
+       "system": "eTax",
+       "country_label": "Guinee",
+       "class": "tax",
+       "platform": "online",
+       "owner": "DGI",
+       "tiers": ""
+      },
+      {
        "system": "SYNERGUI2",
-       "class": "business"
+       "country_label": "Guinee",
+       "class": "other",
+       "platform": "",
+       "owner": "APIP",
+       "tiers": ""
       }
      ],
-     "systems": [],
-     "note": ""
+     "note": "Names a business-creation platform linked to the tax system and an eTax portal; states nothing on a taxpayer register or taxpayer number."
     }
    }
   }

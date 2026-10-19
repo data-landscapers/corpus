@@ -1,0 +1,101 @@
+{
+ "slug": "2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "Namibia Statistics Agency told the SADC workshop that an MoU with the labour ministry (MLIREC) provides for a steering committee and technical working group on data sharing, but no law or MoU yet covers access to immigration records and no administrative statistics are published from them.",
+       "as_of": "2025-03-18",
+       "date_precision": "day",
+       "system": "MoU between NSA and MLIREC",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "Namibia Statistics Agency presents 2023 census results giving a population of 3,022,401, of whom 145,395 are non-Namibians.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "2023 Namibia Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document mentions no government data exchange platform; it says no law or MoU on migration data exchange exists."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "A refugee management system is named but no registration, number or digital access is stated."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Namibia Statistics Agency names the Namibia Strategy for the Development of Statistics (NSDS) 2023/4-2026/7 as the country's national strategy.",
+       "as_of": "2025-03-18",
+       "date_precision": "day",
+       "system": "NSDS 2023/4-2026/7",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{"slug": "2026-10-16-bj-tarification-des-actes-juridictions-arrete-interministeriel", "studies": {
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "RCCM extract fees are listed but nothing on online registration or the register's status."}}},
+"centralbank": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"crossborderpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"g2ppayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"retailpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document states nothing on this question for Benin."}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Benin's decree no. 2026-617 of 18 September 2026 on pricing of acts issued by the justice ministry and courts institutes mandatory online payment of those fees, as reported 16 October 2026 with the interministerial arrete setting 109 fees; the arrete also cites a 2025 arrete on digitalising payments at Treasury collection points.", "as_of": "2026-09-18", "date_precision": "day", "system": "online payment of justice fees", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

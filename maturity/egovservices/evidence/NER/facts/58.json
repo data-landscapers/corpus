@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-25-ner-lesahel-digitalisation-marches-publics",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGMAP-Niger",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "sigmap.marchespublics.ne",
+   "owner": "DGCMP/OB",
+   "tiers": ""
+  },
+  {
+   "system": "Portail des marchés publics",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "www.marchespublics.ne",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement platforms only; no citizen or business government service stated."
+}

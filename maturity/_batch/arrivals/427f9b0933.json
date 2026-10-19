@@ -1,1 +1,59 @@
-{"slug": "2025-09-30-lby-expertisefrance-judicial-digitalisation-case-management", "studies": {"digitalstrategy": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A job offer; it mentions a digital transformation roadmap for the judicial CRTC as a result to be finalised, not a national strategy."}}}, "internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says nothing on international standards."}}}, "justice": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A recruitment notice for an expert to help design and pilot a case management system; a planned donor activity, not a system stated as procured, piloted or built."}}}, "publicconsultation": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Stakeholder consultations are a task inside a needs assessment for a judicial system, not on a named digital law or policy."}}}, "schools": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Says nothing on schools."}}}}}
+{
+ "slug": "2025-09-30-lby-expertisefrance-judicial-digitalisation-case-management",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Judicial digitalisation recruitment notice; nothing stated for this study."
+    }
+   }
+  }
+ }
+}

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MDG,Système d'information foncière,Madagascar,other,,"DGSF, Ministère de la Décentralisation et de l'Aménagement du Territoire",,2025-09-13-mdg-newsmada-reformes-foncieres-systeme-information
 MDG,Système d'information foncière interconnecté (pilot),Madagascar,other,,ProPFR (GIZ),"topographic circumscriptions, land offices",2026-01-05-mdg-newsmada-propfr-giz-politique-fonciere
+MDG,Distributeur Automatique d'Information (DAI),Madagascar,land,kiosk at Tana-ville land office,Direction générale des services fonciers (MDAT),Antananarivo,2025-07-07-mdg-produir-distributeur-automatique-information-foncier

@@ -1,32 +1,30 @@
 {
  "slug": "2025-09-18-tun-afdb-aoi-portail-e-justice",
  "studies": {
-  "egovservices": {
+  "businessregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "Tender for a justice portal only; no service stated as online."
+     "note": "Tender for a justice portal and ministry application; nothing on this study's subject."
     }
    }
   },
-  "justice": {
+  "coresystems": {
    "countries": {
     "TUN": {
-     "facts": [
-      {
-       "sub_indicator": "justice",
-       "aspect": "cases",
-       "value": "underway",
-       "fact": "The African Development Bank notice says Tunisia intends to use loan funds for a contract to set up an e-Justice services portal and a business application for the Ministry of Justice.",
-       "as_of": "2025-09-18",
-       "date_precision": "day",
-       "system": "Portail de Services E-Justice et Application Métier",
-       "class": "justice"
-      }
-     ],
+     "facts": [],
      "systems": [],
-     "note": ""
+     "note": "Tender for a justice portal and ministry application; nothing on this study's subject."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Tender for a justice portal and ministry application; nothing on this study's subject."
     }
    }
   }

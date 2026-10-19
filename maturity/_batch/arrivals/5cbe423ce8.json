@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-29-niamey-naneye-yarda-taxes-municipales-plateforme",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Municipal tax platform; nothing on satellite data or farming."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Municipal tax platform; nothing on weather or satellite data."
+    }
+   }
+  }
+ }
+}

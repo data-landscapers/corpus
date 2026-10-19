@@ -1,0 +1,61 @@
+{"slug": "2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing", "studies": {
+"authentication": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports Benin has connected its national identity system through Smart Africa's SADX and is moving to a pilot letting Benin and Rwanda verify each other's national ID cards for air travel; no test date is set.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Benin", "class": "other", "platform": "SADX under the Smart Africa Trust Alliance", "owner": "Smart Africa", "tiers": ""}], "note": ""},
+"GHA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports Ghana has connected its national identity system through Smart Africa's SADX and is moving to a pilot of cross-border national ID card verification at land crossings with Benin; no test date is set.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Ghana", "class": "other", "platform": "SADX under the Smart Africa Trust Alliance", "owner": "Smart Africa", "tiers": ""}], "note": ""},
+"GIN": {"facts": [], "systems": [], "note": "Guinea is named only as the host of the 2025 summit, not for any service."},
+"RWA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Biometric Update reports Rwanda has connected its national identity system through Smart Africa's SADX and is moving to a pilot of cross-border national ID card verification for air travel with Benin; no test date is set.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "authentication"}], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Rwanda", "class": "other", "platform": "SADX under the Smart Africa Trust Alliance", "owner": "Smart Africa", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on civil register links."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register links."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"dataexchange": {"countries": {
+"BEN": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Benin", "class": "other", "platform": "SADX", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a regional platform between states, not a national government exchange."},
+"GHA": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Ghana", "class": "other", "platform": "SADX", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a regional platform between states, not a national government exchange."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [{"system": "Smart Africa Data Exchange (SADX)", "country_label": "Rwanda", "class": "other", "platform": "SADX", "owner": "Smart Africa", "tiers": ""}], "note": "SADX is a regional platform between states, not a national government exchange."}}},
+"datalocalisation": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No localisation rule stated."}}},
+"datatransfers": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No transfer rule stated."}}},
+"idcoverage": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No enrolment figures."},
+"GHA": {"facts": [], "systems": [], "note": "No enrolment figures."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "No enrolment figures."}}},
+"idfrombirth": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No public register keyed on the ID number."},
+"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number."}}},
+"idrobustness": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on issuing, biometrics or certification."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on issuing, biometrics or certification."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "Nothing on issuing, biometrics or certification."}}},
+"idverification": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Cross-border card verification is a pilot between states, not another system relying on the ID."},
+"GHA": {"facts": [], "systems": [], "note": "Cross-border card verification is a pilot between states, not another system relying on the ID."},
+"GIN": {"facts": [], "systems": [], "note": "Guinea not covered."},
+"RWA": {"facts": [], "systems": [], "note": "Cross-border card verification is a pilot between states, not another system relying on the ID."}}},
+"interoperability": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government interoperability framework stated."}}},
+"interoperabilitylaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No data sharing law stated."}}},
+"interoperabilitystandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government technical standards stated."}}},
+"regionalinfrastructure": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No shared link or facility; SADX is a data and ID platform."},
+"RWA": {"facts": [], "systems": [], "note": "No shared link or facility; SADX is a data and ID platform."}}},
+"regionalpolicy": {"countries": {
+"BEN": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Biometric Update reports Benin connected its national identity system through Smart Africa's SADX and took part with Ghana and Rwanda in a SADX technical assessment mission in Kigali about five months earlier.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""},
+"GHA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Biometric Update reports Ghana connected its national identity system through Smart Africa's SADX and took part with Benin and Rwanda in a SADX technical assessment mission in Kigali about five months earlier.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""},
+"GIN": {"facts": [], "systems": [], "note": "Guinea only hosted the 2025 summit where SADX was unveiled; no act of Guinea's is stated."},
+"RWA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Biometric Update reports Rwanda connected its national identity system through Smart Africa's SADX and took part with Benin and Ghana in a SADX technical assessment mission held in Kigali about five months earlier.", "as_of": "2026-10-19", "date_precision": "day", "system": "Smart Africa Data Exchange (SADX)", "class": "cooperation"}], "systems": [], "note": ""}}},
+"socialexchange": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on social protection systems."}}}
+}}

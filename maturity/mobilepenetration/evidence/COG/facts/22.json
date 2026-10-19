@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Arpce mobile telephony penetration rate",
+   "country_label": "94%",
+   "class": "other",
+   "platform": "",
+   "owner": "Arpce",
+   "tiers": ""
+  }
+ ],
+ "note": "The 94% is a regulator's penetration rate, not a share of people owning a phone."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-lbr-liberia-emis-education-management-information-system",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "education",
+   "fact": "The portal presents education statistics from the ministry's school and learner records for 2024-25; no other record-holder is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Liberia EMIS",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia EMIS",
+   "country_label": "Liberia EMIS (emis-moe-lib.org)",
+   "class": "other",
+   "platform": "",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

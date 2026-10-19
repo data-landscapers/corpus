@@ -1,0 +1,32 @@
+{
+ "slug": "2025-11-01-cog-annuaires-statistiques-du-congo",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Newest national yearbook posted is 2018, before the window; the November 2025 workshop on departmental yearbook tools does not say the figures come from administrative records."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Yearbook listing; no census or household survey stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Yearbook education chapter is a census-class product, noted not assessed; no learner-record system stated."
+    }
+   }
+  }
+ }
+}

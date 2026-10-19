@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Single Sign-On (SSO) and IAM platform",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "OAuth 2.0, OpenID Connect, SAML",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a request for expressions of interest for an SSO platform; nothing contracted, piloted or in service."
+}

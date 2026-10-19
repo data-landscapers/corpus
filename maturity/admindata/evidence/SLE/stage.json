@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
-      "source": "health",
+      "source": "civil-registration;health",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-003",
-      "gaps": "No source held shows statistics from one administrative source published twice since October 2023.",
+      "stage_sources": "SLE-006;SLE-008",
+      "gaps": "No source held shows statistics from three administrative sources, each published twice since October 2023.",
       "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
-      "as_at": "2026-10-19"
+      "as_at": "2026-10-20"
     }
   ]
 }

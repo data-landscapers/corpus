@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gmb-government-data-assessment-inventory",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "A related-project note says 2M Corp developed a strategy for modernising The Gambia's national social registry (GamSR) for the National Social Protection Secretariat with World Bank financing, which presupposes an existing registry but states no programmes or dates.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GamSR",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GamSR",
+   "country_label": "GamSR",
+   "class": "social",
+   "platform": "",
+   "owner": "National Social Protection Secretariat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

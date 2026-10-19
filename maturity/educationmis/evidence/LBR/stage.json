@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "emis",
-   "stage": "3",
-   "system": "inservice",
-   "learners": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-006",
-   "gaps": "No source held since October 2023 says the system holds a record for each learner.",
-   "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "system": "inservice",
+      "learners": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-006;LBR-008",
+      "gaps": "The EMIS portal says it tracks every learner with a unique identifier, but the AU peer review of September 2025 and the ministry in September 2026 describe a move from a paper system to a digitised one still being sought; a record for each learner in service is not settled.",
+      "note": "Reassessed in stage 4c: the school census runs through the EMIS, and its portal published 2024-25 census figures. The portal's own claim of a record for each learner is contradicted by later ministry statements, so the cell stays below stage 4.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

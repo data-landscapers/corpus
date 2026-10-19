@@ -1,68 +1,39 @@
 {
  "slug": "2024-06-24-som-moct-eacon-digital-addressing",
  "studies": {
-  "addressregister": {
-   "countries": {
-    "SOM": {
-     "facts": [
-      {
-       "sub_indicator": "address",
-       "aspect": "addressing",
-       "value": "underway",
-       "fact": "Somalia's Minister of Communications announced on 25 June 2024 the launch of the Somali Postal Service with a modern Digital Addressing System, with no coverage or use stated.",
-       "as_of": "2024-06-25",
-       "date_precision": "day",
-       "system": "Digital Addressing System",
-       "class": "address"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Digital Addressing System",
-       "country_label": "Somalia",
-       "class": "address",
-       "platform": "",
-       "owner": "Somali Postal Service / Ministry of Communications and Technology",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "populationregister": {
+  "businessregister": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this study's question."
+     "note": "Only a digital addressing system for postal delivery; no register of this kind stated."
     }
    }
   },
-  "registry": {
+  "civilregister": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this study's question."
+     "note": "Only a digital addressing system for postal delivery; no register of this kind stated."
     }
    }
   },
-  "socialregistry": {
+  "electoralregister": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this study's question."
+     "note": "Only a digital addressing system for postal delivery; no register of this kind stated."
     }
    }
   },
-  "taxregister": {
+  "landregister": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this study's question."
+     "note": "Only a digital addressing system for postal delivery; no register of this kind stated."
     }
    }
   }

@@ -1,17 +1,17 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "graduates",
-   "stage": "1",
-   "stem": "official:11",
-   "nren": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-figure.py stemgraduates.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "graduates",
+      "stage": "1",
+      "stem": "official:9.8",
+      "nren": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003;AGO-002",
+      "gaps": "Two figures for 2022/23 disagree: the higher education ministry's 2023-2024 yearbook gives 9.8 per cent of 31,503 graduates, Economia & Mercado reports about 11 per cent of 29,302; both are below 13.",
+      "note": "The ministry's own yearbook puts STEM graduates of 2022/23 at 9.8 per cent, below the 13 per cent line, and the press report of about 11 per cent agrees they are below it.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

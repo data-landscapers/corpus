@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYNERGUI-SAFIG 2 / eTax",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "online tax registration portals",
+   "owner": "DGI; APIP collects the data",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes online tax registration only; no company register or shared business number is stated."
+}

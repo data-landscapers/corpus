@@ -1,32 +1,3 @@
-{
- "slug": "2025-08-21-gin-wearetech-maconstitution-plateforme",
- "studies": {
-  "eparticipation": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "maconstitution.info gives the draft constitution and answers questions on a referendum; no call for views on a policy or law, and a referendum is other."
-    }
-   }
-  },
-  "internetusage": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a DataReportal figure (26.5 per cent, early 2025), which is noted and never used."
-    }
-   }
-  },
-  "publicconsultation": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "A constitution is not a digital law or policy."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-08-21-gin-wearetech-maconstitution-plateforme", "studies": {
+"opendiscussion": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A government platform for questions on the draft constitution is a consultation, which this study does not place; no criticism, cut or punishment is stated."}}}
+}}

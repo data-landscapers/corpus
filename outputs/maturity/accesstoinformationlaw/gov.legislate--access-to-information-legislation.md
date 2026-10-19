@@ -1,6 +1,6 @@
 # Access to information legislation: access to information law
 
-*As at 2026-09-30.*
+*As at 2026-10-20.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 10 |
-| 3 Established | 14 |
+| 5 Leading | 14 |
+| 4 Operating | 6 |
+| 3 Established | 12 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
 | Unplaced | 1 |
 | No evidence | 3 |
 
 ## Countries
+
+### Cote d'Ivoire: 5 Leading
+
+Côte d'Ivoire's 2013 access law is in force, and its commission recorded 45 referrals in 2024.
+
+- The CAIDP recorded 45 referrals in 2024, 12 from journalists, and fines of up to 360,000 FCFA can be applied for breaches ([source, 2024](https://pressecotedivoire.fr/22339-acces-a-linformation-publique-lanp-forme-les-journalistes-a-mieux-exercer-leur-droit)).
+- Commissioner Bamba Karamoko of Cote d'Ivoire's CAIDP said law no. 2013-867 of 23 December 2013 guarantees anyone the right to obtain public documents from administrations ([source, 2013-12-23](https://pressecotedivoire.fr/22339-acces-a-linformation-publique-lanp-forme-les-journalistes-a-mieux-exercer-leur-droit)).
+- The Commission d'Accès à l'Information d'Intérêt Public et aux Documents Publics (CAIDP) is in place with a named president, who presented the ACCESS CAIDP programme on 25 July 2025; the document gives no date for the commission's own set-up, so its published date is used ([source, 2025-07-25](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire)).
 
 ### Ghana: 5 Leading
 
@@ -53,6 +61,14 @@ Malawi's Access to Information Act has run since 2020; its oversight body report
 - The article reports that the Malawi Human Rights Commission, which the Act makes its oversight body, issued a notice to the company Mota-Engil to assess whether it had mechanisms to comply with the Act; the High Court on 6 March 2026 found the decision to assess was neither illegal nor unreasonable. The notice itself is undated; the date is the ruling's ([source, 2026-03-06](https://www.maraviexpress.com/access-to-information-act-applies-to-private-companies-undertaking-malawi-government-contracts-rules-the-high-court/)).
 - The article says the Access to Information Act (ATIA), which gives public access to government-held information, became operational in September 2020 ([source, 2020-09](https://africabrief.substack.com/p/malawi-advances-information-access)).
 
+### Mozambique: 5 Leading
+
+Mozambique's 2014 Right to Information Law is in force; public bodies received 60,433 requests in 2024, the Ombudsman reported.
+
+- The Ombudsman's annual report says public bodies received 60,433 information requests in 2024, of which 57,998 were granted (95%), 1,589 denied and 846 pending ([source, 2024](https://cartamz.com/destaque/47502/provedor-de-justica-garante-haver-melhorias-na-implementacao-da-lei-do-direito-a-informacao/)).
+- Carta de Moçambique reports that Mozambique's Law 34/2014 on the Right to Information, passed by Parliament on 26 November 2014, is being implemented, per the Ombudsman's annual report to the Assembly ([source, 2024](https://cartamz.com/destaque/47502/provedor-de-justica-garante-haver-melhorias-na-implementacao-da-lei-do-direito-a-informacao/)).
+- This document is the text of Lei n.º 34/2014 of 31 December 2014, the Lei do Direito à Informação, passed by the Assembleia da República to set the legal mechanisms for exercising the right to information; it applies to State bodies, direct and indirect administration, local authorities and private entities doing public-interest work or using public resources ([source, 2014-12-31](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf)).
+
 ### Namibia: 5 Leading
 
 Namibia's 2022 Access to Information Act has regulations of December 2024 for choosing its commissioner; whether the Act has started is not known.
@@ -68,6 +84,22 @@ Nigeria's 2011 Freedom of Information Act is in force and the Federal High Court
 - In suit FHC/ABJ/CS/1631/2023 the Federal High Court, Abuja, held NNPCL a public institution under the FOI Act and ordered it by mandamus to supply the information HEDA Resources Centre had requested on a $3 billion crude-for-cash loan ([source, 2025-10-13](http://saharareporters.com/sites/default/files/2026-01/12.%20Judgment%20%28HEDA%20v.%20NNPCL%29-min.pdf)).
 - Media Rights Agenda reports that the Freedom of Information Act, 2011 is in force and gives a right of access to information held by public bodies, as shown by a Federal High Court judgment enforcing it in 2026; the year 2011 is the Act's year as named in the report ([source, 2011](https://mediarightsagenda.org/federal-high-court-rules-that-foi-act-overrides-other-laws-in-journalists-suit-against-nigeria-shippers-council/)).
 
+### Seychelles: 5 Leading
+
+Seychelles' 2018 Access to Information Act is in force, and its commission found public bodies in breach and ordered disclosure in 2024.
+
+- The Information Commission found the Agriculture Department in breach of sections 11(1), 12 and 21 of the Act and closed the case on 15 November 2024 ([source, 2024-11-15](https://www.infocom.sc/wp-content/uploads/2025/03/20.-Decision-Notice-Ms.-Rassool-v.-Agriculture-Department-002-002.pdf)).
+- The Information Commission found the Planning Authority non-compliant with sections 11 and 17 of the Act and ordered full access to the requested files within 5 days of its compliance letter ([source, 2024-05](https://www.infocom.sc/wp-content/uploads/2024/05/17.-Decision-Notice-Ms.-Karen-Domingue-v.-Seychelles-Planning-Authority.pdf)).
+- The Access to Information Act was enacted on 20 July 2018 and is the law the Information Commission's November 2025 whitepaper reviews and proposes to amend ([source, 2018](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf)).
+
+### Sierra Leone: 5 Leading
+
+Sierra Leone's 2013 access act is in force; its commission fined two bodies in 2024 and 2025, and a replacement bill reached Cabinet in 2026.
+
+- The Right to Access Information Commission ordered Freetown City Council on 13 October 2025 to release requested documents within seven days and fined it Le 70,000 for breaching the Act ([source, 2025-10-13](https://www.raic.gov.sl/index.php/all-categories-list/news/raic-fines-freetown-city-council-le-70-000-for-failing-to-release-information)).
+- The Commission fined the Corporate Affairs Commission NLe80,000 for missing the 15-working-day deadline on a request of 18 June 2024 and ordered the information provided ([source, 2024-09-30](https://www.raic.gov.sl/index.php/all-categories-list/press-release/raic-fines-corporate-affairs-commission-nle80-000-for-non-compliance)).
+- This document is the text of the Right to Access Information Act, 2013 (Act No. 2 of 2013), passed in Parliament on 29 October 2013 and signed by the President on 31 October 2013, giving every person a right to access information held by public authorities ([source, 2013](https://raic.gov.sl/images/downloads/Right-access-information-act-2013.pdf)).
+
 ### South Africa: 5 Leading
 
 The Information Regulator enforced the 2000 access law in May 2026, ordering a mining firm to disclose records; request volumes are not known.
@@ -75,6 +107,13 @@ The Information Regulator enforced the 2000 access law in May 2026, ordering a m
 - The Information Regulator issued an enforcement notice on 22 May 2026 under section 77J(1)(a) of PAIA directing Sibanye-Stillwater to grant a complainant access to compliance reports, after a complaint lodged on 15 September 2023 and an investigation report ([source, 2026-05-22](https://www.mondaq.com/southafrica/contracts-and-commercial-law/1797238/landmark-ruling-for-private-bodies-under-paia-information-regulators-enforcement-notice-against-mining-house)).
 - ITWeb reports that the Information Regulator, headed by chairperson Pansy Tlakula, is set up and holds the oversight mandate for the Promotion of Access to Information Act, and held a media briefing at its new headquarters in Woodmead on 31 August 2026 ([source, 2026-08-31](https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye)).
 - The Parliament media statement treats PAIA as the operating law, with existing PAIA court rules that the proposed amended rules would repeal; the document gives no year for the Act, so it is dated to the statement's publication ([source, 2026-09-23](https://www.parliament.gov.za/press-releases/media-statement-justice-committee-approves-publication-proposed-amended-paia-court-rules-enhance-transparency-and-access-justice)).
+
+### Tunisia: 5 Leading
+
+Tunisia's 2016 access law is in force; its oversight body received 7,347 appeals in 2023 but lacked a president by late 2025.
+
+- Tunisia's return to UNESCO's 2024 SDG 16.10.2 survey says a national information commission oversees the law, and reports 7,347 appeals received in January-December 2023 and 6,375 requests received in 2021 ([source, 2023](https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/Tunisia_SDG16102_2024.pdf)).
+- The document is the text of Tunisia's organic law no. 22 of 2016 on the right of access to information, promulgated 24 March 2016, which gives every person a right to ask public bodies for information and takes effect one year after publication ([source, 2016-03-24](https://inai.tn/wp-content/uploads/2016/03/loi-22-inai.pdf)).
 
 ### Uganda: 5 Leading
 
@@ -92,13 +131,20 @@ Zambia's 2023 Access to Information Act came into force in June 2025, with regul
 - The permanent secretary says the Access to Information Guidelines were published on 5 December 2025 through Gazette Notice No. 1624 of 2025; the Act's rules were still being finalised by the Ministry of Justice for the Chief Justice's signature in July 2026 ([source, 2025-12-05](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
 - The Ministry of Information and Media's permanent secretary says the Access to Information Act came into force on 25 June 2025 after the minister signed a commencement order ([source, 2025-06-25](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
 
-### Cote d'Ivoire: 4 Operating
+### Zimbabwe: 5 Leading
 
-Côte d'Ivoire's 2013 law is in force and its commission, set up in 2013, is at work; decisions on requests are not known.
+Zimbabwe's 2020 Freedom of Information Act is in force, and its oversight commission issued release orders, reported in 2024; how many is not known.
 
-- The document reports the access-to-information commission Caidp, chaired by Anne-Marie Konan-Payne, as set up and at work in September 2026, starting a national register of public documents with about 200 information officers; the document names no law and no decision or figures of requests ([source, 2026-09-20](https://www.fratmat.info/article/2644667/culture/acces-a-linformation-et-aux-documents-publics-la-caidp-engage-le-chantier-du-referentiel-des-documents-publics)).
-- The Commission d'Accès à l'Information d'Intérêt Public et aux Documents Publics (CAIDP) is in place with a named president, who presented the ACCESS CAIDP programme on 25 July 2025; the document gives no date for the commission's own set-up, so its published date is used ([source, 2025-07-25](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire)).
-- The CAIDP president recalled law n°2013-867, adopted in 2013, which guarantees every citizen the right of access to public information, and described it as the law the commission now works to apply ([source, 2013](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire)).
+- MISA Zimbabwe's chairperson says the Zimbabwe Media Commission has issued release orders to public institutions that must provide the information requested under the Freedom of Information Act; no number or date of orders is given ([source, 2024](https://zimbabwe.misa.org/2025/04/26/misa-zimbabwe-2024-annual-report-now-available/)).
+- This is the text of the Freedom of Information Act, 2020 (Chapter 10:33), which gives a right to ask public entities for information; it was published and commenced on 1 July 2020 and repeals the Access to Information and Protection of Privacy Act ([source, 2020-07-01](https://zimlii.org/akn/zw/act/2020/1/eng@2020-07-01)).
+- The joint UPR submission says the Freedom of Information Act was operationalised through implementing regulations, citing the Freedom of Information (General) Regulations 2021, SI 229 of 2021; the document is dated July 2026 and the regulations' year is 2021 ([source, 2021](https://cipesa.org/wp-content/files/Zimbabwe_UPR_Review.pdf)).
+
+### Burkina Faso: 4 Operating
+
+Burkina Faso's 2015 access law is in force and existing bodies oversaw it in 2023; decisions on requests are not known.
+
+- Burkina Faso's government told UNESCO's 2024 SDG 16.10.2 survey, for the year 2023, that Law No. 051-2015/CNT on the right of access to public information and administrative documents gives the legal guarantee ([source, 2023](https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/BurkinaFaso_SDG16102_2024.pdf)).
+- The government told UNESCO that the law's oversight is held by the national data protection commission, the national human rights commission, a ministry or agency and the Conseil Supérieur de la Communication, which in 2023 published an annual report, gave guidance and training, raised awareness and kept statistics on requests or appeals ([source, 2023](https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/BurkinaFaso_SDG16102_2024.pdf)).
 
 ### Gambia: 4 Operating
 
@@ -122,22 +168,6 @@ Morocco's 2018 law on the right of access to information is in force and its com
 - The Ministry of Justice reports that the Right to Access Information Commission, led by its president, signed a partnership agreement with the minister on 31 March 2026, showing the commission is set up and running the national portal ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 - The Ministry of Justice says requests and complaints are filed and processed under Law No. 31.13 on the right of access to information, which names the bodies covered in its article 2; the document gives no year for the law, so it is dated to its publication ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 
-### Seychelles: 4 Operating
-
-Seychelles' 2018 Access to Information Act is in force with a commission that says its orders are ignored; no dated decision is known.
-
-- TechHive Advisory states the Information Commission was created under the Access to Information Act, and the 2023 Data Protection Act designates it the data protection authority (dated to the article's publication, 2024-06-04) ([source, 2024-06-04](https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa)).
-- The Information Commission, the oversight body under the Act, is reported to have been issuing orders, decisions and directives under Part VII s.63(1) since 2019, which information holders have ignored; no decision or figure of requests is given, so applied is not recorded ([source, 2019](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf)).
-- TechHive Advisory states the Information Commission was created under the Access to Information Act, so that Act is in force (no date of the Act is given; dated to the article's publication, 2024-06-04) ([source, 2024-06-04](https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa)).
-
-### Sierra Leone: 4 Operating
-
-Sierra Leone's 2013 access act is in force with a working commission and a publication-scheme rule; a replacement bill went to Cabinet in 2026.
-
-- The Right to Access Information Commission presented its 6th annual report, submitted under Section 41 of the RAIC Act, to the Minister of Information and Civic Education on 17 November 2025, showing the body in operation ([source, 2025-11-17](https://moice.gov.sl/raic-presents-6th-annual-report-to-minister-chernor-bah-highlighting-significant-progress-in-access-to-information/)).
-- The page, dated 18 January 2017, describes the Right to Access Information Commission as in operation, coordinating the open data programme, chairing a 60-member Open Data Council and providing overall management of the open data portal ([source, 2017-01-18](https://raic.gov.sl/index.php/programmes/open-data)).
-- Statistics Sierra Leone says the Right to Access Information Commission (RAIC) Act 2013 requires all public authorities to make information available to the public through a publication scheme submitted to the commission for approval by 1 March 2019 ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
-
 ### South Sudan: 4 Operating
 
 South Sudan has an Access to Information Commission with a budget line; the law is not named in what is held, nor any decision.
@@ -151,20 +181,6 @@ Togo's 2016 law on access to public information is in force with an implementing
 
 - Decree No. 2017-104/PR of 10 August 2017, published in the Journal Officiel, is made in application of Law No. 2016-006 of 30 March 2016 on freedom of access to public information and documentation, and sets out the public bodies concerned, the officials responsible, the documents that may be communicated, and the procedure for communicating and publishing them online ([source, 2017-08-10](https://jo.gouv.tg/sites/default/files/JO/JOS_10_08_2017-62e%20ANNEE%20N%C2%B0%2023%20ter.pdf)).
 - This document is the text of Law No. 2016-006 of 30 March 2016 on freedom of access to public information and documentation, adopted by the National Assembly in plenary on 10 March 2016, which guarantees citizens' right of access to information held by public bodies ([source, 2016-03-30](https://www.rti-rating.org/wp-content/uploads/Togo.pdf)).
-
-### Tunisia: 4 Operating
-
-Tunisia's 2016 access to information law is in force, but its oversight body lacked a president in late 2025 and could not meet validly.
-
-- The Presidency of the Government, answering a deputy's written question, said the access to information body INAI, nine members elected by Parliament for six years, has been working without its president and deputy, which has blocked legally valid meetings and suspended staff allowances ([source, 2025-11-30](https://www.lapresse.tn/2025/12/01/donnees-personnelles-et-acces-a-linformation-lexecutif-engage-une-mise-a-jour-urgente-du-cadre-juridique/)).
-- The document is the text of Tunisia's organic law no. 22 of 2016 on the right of access to information, promulgated 24 March 2016, which gives every person a right to ask public bodies for information and takes effect one year after publication ([source, 2016-03-24](https://inai.tn/wp-content/uploads/2016/03/loi-22-inai.pdf)).
-
-### Zimbabwe: 4 Operating
-
-Zimbabwe's 2020 Freedom of Information Act is in force with regulations of 2021; nothing done under it since is known.
-
-- The joint UPR submission says the Freedom of Information Act was operationalised through implementing regulations, citing the Freedom of Information (General) Regulations 2021, SI 229 of 2021; the document is dated July 2026 and the regulations' year is 2021 ([source, 2021](https://cipesa.org/wp-content/files/Zimbabwe_UPR_Review.pdf)).
-- The submission treats the Freedom of Information Act 2020 as law in operation, with regulations made under it, and recommends fully implementing it; the Act is dated 2020 by its citation ([source, 2020](https://cipesa.org/wp-content/files/Zimbabwe_UPR_Review.pdf)).
 
 ### Angola: 3 Established
 
@@ -183,12 +199,6 @@ Benin's 2015 code gives limited access rights with no request procedure; a new l
 Botswana's Access to Information Act of 2024 is made and starts on a date set by notice; that date and any rules are not known.
 
 - The document is the text of the Access to Information Act, Act 16 of 2024, which creates a general right of access to information held by public authorities; it states commencement is on notice, and the document is dated 2024-07-26 ([source, 2024](https://botswanalaws.com/consolidated-statutes/acts-on-notice/2024/access-to-information-act)).
-
-### Burkina Faso: 3 Established
-
-Burkina Faso's law on access to public information is in force but described in 2025 as forgotten; rules and an oversight body are not known.
-
-- The Centre national de presse Norbert Zongo's 2024 digital rights report notes the status quo on the law on access to public information and administrative documents, which it says has fallen into oblivion; it names no repeal and no replacement (no date of the event given, so the document's published date, 2025-02-11, is used) ([source, 2025-02-11](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/)).
 
 ### Cape Verde: 3 Established
 
@@ -214,12 +224,6 @@ Guinea's 2020 law on access to public information is in force; whether its commi
 Mali has no single access to information law; a 2026 study finds the right spread across several laws, one of 1998.
 
 - A peer-reviewed article says Mali has no single access to information law yet: the legal framework for the right is spread across several laws, among them Law no. 98-012 on relations between the administration and its users, and the article calls for a specific law; it names no draft and gives no date for this, so the document's publication date (2026-04-01) is used ([source, 2026-04-01](https://www.revue-irs.com/index.php/home/article/view/1637)).
-
-### Mozambique: 3 Established
-
-Mozambique's Right to Information Law of 2014 is in force; rules made under it and an oversight body are not known.
-
-- This document is the text of Lei n.º 34/2014 of 31 December 2014, the Lei do Direito à Informação, passed by the Assembleia da República to set the legal mechanisms for exercising the right to information; it applies to State bodies, direct and indirect administration, local authorities and private entities doing public-interest work or using public resources ([source, 2014-12-31](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf)).
 
 ### Niger: 3 Established
 

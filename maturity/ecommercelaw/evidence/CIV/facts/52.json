@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Linfodrome lists law 2013-546 of 30 July 2013 on electronic transactions, whose article 50 was repealed by ordinance 2024-950 of 30 October 2024.",
+   "as_of": "2013-07-30",
+   "date_precision": "day",
+   "system": "Loi 2013-546 on electronic transactions",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "Linfodrome lists decree 2014-106 of 12 March 2014 on electronic writing and signature among the decrees complementing the framework.",
+   "as_of": "2014-03-12",
+   "date_precision": "day",
+   "system": "Decret 2014-106 on electronic writing and signature",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

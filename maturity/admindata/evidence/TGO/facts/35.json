@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-11-tgo-etat-civil-les-maires-pries-de-transmettre-les-chiffres-de-2019-a-2024",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Togo's territorial administration ministry asked the mayors of the 117 communes to send the numbers of births, transcribed supplementary judgments, marriages and deaths registered from 2019 to 2024, by 21 February 2025, to build national statistics on civil-status events.",
+   "as_of": "2025-02-11",
+   "date_precision": "day",
+   "system": "civil status records of the communes",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

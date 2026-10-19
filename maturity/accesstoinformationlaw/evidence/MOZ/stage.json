@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source held names rules made under the law or says its oversight body is set up.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-003;MOZ-002;MOZ-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "The Ombudsman's annual report gives 60,433 information requests to public bodies in 2024, 57,998 of them granted. Published figures of requests inside three years meet the top rung.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

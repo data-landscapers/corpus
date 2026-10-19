@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-02-zmb-boz-emoney-unwarranted-charges-directives-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Zambia's directives of 2 August 2024 regulate fees on e-money wallets in operation, including deposits, cash-out, merchant and bill payments.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "electronic money services",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Bank of Zambia's directives of 2 August 2024 cap fees for cross-network transfers through the NFS and for wallet-to-bank and bank-to-wallet transfers.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "NFS",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NFS",
+   "country_label": "Zambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

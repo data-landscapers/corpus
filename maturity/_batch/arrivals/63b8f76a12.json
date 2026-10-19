@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled",
+ "studies": {
+  "healthmis": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "AdaM (All Disease Outbreak Module)",
+       "country_label": "AdaM",
+       "class": "other",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": "AdaM is an outbreak-surveillance module, not routine facility reporting, and its disabling is not a statement that reporting is on paper; noted only."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  }
+ }
+}

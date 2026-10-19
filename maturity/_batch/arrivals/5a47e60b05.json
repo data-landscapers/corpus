@@ -1,1 +1,68 @@
-{"slug": "2024-03-28-cog-kalieu-decret-2024-86-mediation-financiere", "studies": {"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [{"system": "Décret n° 2024-86 du 28 février 2024 portant institution de la médiation financière", "country_label": "Congo", "class": "other", "platform": "", "owner": "Government of Congo", "tiers": ""}], "note": "The commentary covers bank and insurance disputes, not digital financial services by name, and says mediators are not yet designated, so no complaints body is yet operating."}}}}}
+{
+ "slug": "2024-03-28-cog-kalieu-decret-2024-86-mediation-financiere",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns financial mediation under a decree; it states nothing on this question."
+    }
+   }
+  }
+ }
+}

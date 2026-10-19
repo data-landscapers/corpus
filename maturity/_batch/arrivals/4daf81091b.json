@@ -1,8 +1,14 @@
-{"slug": "2025-07-01-mwi-crews-ai-ew4all-pilot-note", "studies": {
-"aiabuse": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The AI pilot is a weather forecasting tool, a sector use, not general administration."}}},
-"aisectoral": {"countries": {"MWI": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The CREWS Action presentation note describes a USD 250,000 pilot, May to October 2025, to deploy and test MET Norway's Bris AI weather prediction system in the forecasting workflow of Malawi's Department of Climate Change and Meteorological Services.", "as_of": "2025-05", "date_precision": "month", "system": "Bris AI-WP / forecast-in-a-box", "class": "sectorai"}], "systems": [{"system": "Bris AI weather prediction model (forecast-in-a-box)", "country_label": "Malawi", "class": "sectorai", "platform": "forecast-in-a-box at DCCMS", "owner": "MET Norway with DCCMS, implemented via WMO", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"MWI": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The CREWS note says MET Norway, with WMO funding of USD 250,000, will adapt the Bris AI weather model to the Malawi domain and install it at DCCMS, with USD 18,000 for computing hardware to run it, over May to October 2025.", "as_of": "2025-05", "date_precision": "month", "system": "Bris AI-WP / forecast-in-a-box", "class": "localai"}], "systems": [{"system": "Bris AI weather prediction model (forecast-in-a-box)", "country_label": "Malawi", "class": "localai", "platform": "forecast-in-a-box at DCCMS", "owner": "MET Norway with DCCMS, implemented via WMO", "tiers": ""}], "note": ""}}},
-"disabilityaccess": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document mentions people with disability only in a generic results-framework list; nothing on accessibility in Malawi."}}},
-"metsatellite": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document describes an AI weather model pilot and does not state satellite data reception or use."}}}
-}}
+{
+ "slug": "2025-07-01-mwi-crews-ai-ew4all-pilot-note",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor-funded AI weather pilot; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

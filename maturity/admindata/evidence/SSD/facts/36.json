@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-ssd-health-statistics",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NBS Health Statistics page",
+   "country_label": "Health Statistics (birth notification and deaths in OPD, 2020-2023)",
+   "class": "admin",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "Struck by the parent: tables credited to the Ministry of Health do not show the figures come from its records (Bill, 2026-10-19)."
+}

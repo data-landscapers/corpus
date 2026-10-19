@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-18-nga-ncc-launches-internet-governance-working-group-to-strengthen-online",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Cites a code of practice and AI concerns, but no rule or authority on AI harms is stated to address them."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI used by a government body."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI in a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI built or hosted in the country."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet user figure stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A symposium and a new working group are stated, but no named digital law or policy put to outside views."
+    }
+   }
+  }
+ }
+}

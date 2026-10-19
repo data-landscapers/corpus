@@ -33,6 +33,9 @@ GHA,Ghana Card PIN,Ghana,tax,,National Identification Authority,individual taxpa
 GHA,TIN/Ghana Card PIN verification portal,Ghana,tax,online portal,Ghana Revenue Authority,,2026-08-29-ghana-gra-tin-taxpayer-identification-number
 GIN,SYNERGUI-SAFIG 2,Guinee,tax,SYNERGUI portal and eTax portal,DGI with APIP,,2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne
 GIN,NIFp,Numero d'Identification Fiscale Permanent,tax,,Administration Fiscale,,2019-07-24-gin-guineelex-arrete-nifp
+GIN,SAFIG2,Guinee,tax,,DGI,,2025-06-23-gin-apip-digitalisation-synergui2-safig2
+GIN,eTax,Guinee,tax,online,DGI,,2025-06-23-gin-apip-digitalisation-synergui2-safig2
+GIN,SYNERGUI2,Guinee,other,,APIP,,2025-06-23-gin-apip-digitalisation-synergui2-safig2
 GMB,GRA TIN e-registration platform,Gambia,tax,GRA web portal,Gambia Revenue Authority,,2024-07-23-gmb-gra-tin-e-registration-brochure
 GNB,Kontaktu,Guinea-Bissau,tax,,DGCI,,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu
 GNB,SIGEF,Guinea-Bissau,other,,,,2025-12-03-dgci-instrucao-servico-25-2025-nif-kontaktu

@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,ZMB,gov.policy--data-storage-cloud-strategy,review,no evidence,3,ZMB-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
 2026-10-13,NAM,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
 2026-10-17,ZAF,gov.policy--data-storage-cloud-strategy,fact,3,3,ZAF-003;ZAF-007,Arrivals added ZAF-007; stage unchanged.
+2026-10-20,BWA,gov.policy--data-storage-cloud-strategy,fact,no evidence,2,BWA-002,Stage 4c: the ministry said in February 2025 that a cloud computing policy was being developed; restaged from every row held.

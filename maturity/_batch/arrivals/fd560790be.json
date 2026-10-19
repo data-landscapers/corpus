@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-01-zwe-transport-and-infrastructure-zimstat",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions, and lists Transport Statistics Reports for 2023 Q3 and Q4, 2024 Q4, and 2025 Q1, Q2 and Q4.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Transport Statistics Report",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "transport;other",
+       "fact": "ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions, covering air, inland water, rail and road transport and also energy, ICT and water infrastructure.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Transport Statistics Report",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "series",
+       "value": "transport",
+       "fact": "ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions; Transport Statistics Reports are listed for 2023 Q3, 2023 Q4, 2024 Q4, 2025 Q1, 2025 Q2 and 2025 Q4.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Transport Statistics Report",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Transport Statistics Report",
+       "country_label": "Transport Statistics Report (quarterly, 2023 Q3 to 2025 Q4)",
+       "class": "admin",
+       "platform": "",
+       "owner": "ZIMSTAT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

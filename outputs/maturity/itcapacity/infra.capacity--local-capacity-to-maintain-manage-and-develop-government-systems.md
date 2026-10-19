@@ -22,9 +22,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 7 |
-| 3 Established | 23 |
+| 3 Established | 24 |
 | 2 Nascent | 4 |
-| 1 Absent | 3 |
+| 1 Absent | 2 |
 | Unplaced | 3 |
 | No evidence | 14 |
 
@@ -141,6 +141,12 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - ANINF supports administrations including the government secretariat and exams directorate with the GED, document security and user support ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
 - The GED electronic document management platform was developed with ANINF's expertise, per Tech Africa News ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
+
+### Ghana: 3 Established
+
+A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
+
+- The analyst says NITA, mandated under Act 771 to provide core government IT infrastructure, runs the Government Cloud (G-Cloud) and the NITA Data Centre that ministries, departments and agencies can host on or bypass ([source, 2026-10-19](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)).
 
 ### Kenya: 3 Established
 
@@ -264,12 +270,6 @@ Government staff run or maintain systems by 2026; no body is known to serve the 
 A 2026 source says a government body relies on outside suppliers to run its systems.
 
 - Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
-
-### Ghana: 1 Absent
-
-A 2025 source says a government body relies on outside suppliers to run its systems.
-
-- The NIA's Acting Executive Secretary said on 21 September 2025 that the National Identification System relies on its PPP partner Margins ID Group for technical expertise, system maintenance and card production, and that NIA alone could not repair equipment quickly under government procurement rules ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
 ### Namibia: 1 Absent
 

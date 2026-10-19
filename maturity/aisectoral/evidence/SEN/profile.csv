@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,sectorai,use,coverage,inservice,2025-01-30,SEN-002,SEN-001=underway,
+SEN,sectorai,use,coverage,inservice,2025-01-30,SEN-002,SEN-001=underway;SEN-003=underway,
 SEN,sectorai,sectors,coverage,,,,,nothing held
 SEN,sectorai,results,coverage,,,,,nothing held

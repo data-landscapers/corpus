@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGE",
+   "country_label": "Sistema de Informacao para Gestao da Educacao",
+   "class": "census",
+   "platform": "",
+   "owner": "Ministry of Education (GEPE)",
+   "tiers": ""
+  }
+ ],
+ "note": "The document describes SIGE as the channel for the yearly yearbook data and says nothing on per-learner entry by schools during the year."
+}

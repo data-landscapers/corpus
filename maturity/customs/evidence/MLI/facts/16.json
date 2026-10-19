@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-27-mli-apanews-quatre-plateformes-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYGOCE",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Primature",
+   "tiers": ""
+  }
+ ],
+ "note": "SYGOCE is described as a foreign trade operations system (import intentions, bank domiciliation), not as customs declaration processing."
+}

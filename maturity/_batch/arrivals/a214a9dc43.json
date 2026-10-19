@@ -1,1 +1,14 @@
-{"slug": "2026-10-10-mli-icimali-conseil-des-ministres-2026-10-09", "studies": {"police": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Council communique states nothing on police station records."}}}}}
+{
+ "slug": "2026-10-10-mli-icimali-conseil-des-ministres-2026-10-09",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Council noted the fourth statistics master plan 2026-2030; it names no administrative records or statistics drawn from them."
+    }
+   }
+  }
+ }
+}

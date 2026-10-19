@@ -3,3 +3,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,GAB,data.statistics--national-strategy-for-development-of-statistics,fact,unplaced,2,GAB-002,Arrivals added GAB-002; stage unplaced -> 2.
 2026-10-17,GIN,data.statistics--national-strategy-for-development-of-statistics,fact,unplaced,2,GIN-003,Arrivals added GIN-003; GIN-004; stage unplaced -> 2.
 2026-10-17,TGO,data.statistics--national-strategy-for-development-of-statistics,fact,unplaced,unplaced,,Arrivals added TGO-003; TGO-004; stage unchanged.
+2026-10-20,SSD,data.statistics--national-strategy-for-development-of-statistics,fact,3,2,SSD-004;SSD-003,NBS said Sep 2025 that NSDS II was being developed; FAO's alignment with NSDS II does not show adoption and the 2021-2025 plan has run out; stage 3 to 2

@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 8 |
-| 3 Established | 24 |
-| 2 Nascent | 17 |
+| 3 Established | 25 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 4 |
@@ -83,6 +83,12 @@ AI computing was in service in the country in 2026; its use by others is not kno
 An AI model or dataset built in the country was in service in 2025; AI computing is not on record.
 
 - Two Botswana developers, Kitso Speaks and Glen Mokoka, built an AI system that understands and communicates in standard Setswana, trained on a dataset they collected, per Global South World relaying the Guardian Sun ([source, 2025-02](https://www.globalsouthworld.com/article/botswana-innovators-create-first-ai-that-speaks-setswana)).
+
+### Burkina Faso: 3 Established
+
+An AI service built in the country was in service in 2026; AI computing is not on record.
+
+- On 15 October 2026 the Centre Citadel and the Data Lab launched L'Essentiel.bf in Ouagadougou, a free web and mobile platform that uses AI to collect, summarise and serve news from four national outlets every 15 minutes in French and Mooré, as text and audio (leFaso.net) ([source, 2026-10-15](https://lefaso.net/spip.php?article149991)).
 
 ### Burundi: 3 Established
 
@@ -244,13 +250,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
 
 - IIDIA and ASIN launched a Regional Innovation and Digital Technology Lab in Cotonou to develop the first voice-to-voice AI model in the Fon language, with a functional prototype due within 9 months, trained on NVIDIA A100/H100 GPUs, with Gates Foundation support ([source, 2025-06-30](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide)).
-
-### Burkina Faso: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
-
-- A Ministry of Digital Transition AI expert presented the national strategy for designing and deploying an AI model adapted to Burkinabe realities, on 12 August 2026 ([source, 2026-08-12](https://digitalmagazine.bf/2026/08/15/burkina-faso-et-nigeria-renforcent-a-ouagadougou-leur-cooperation-numerique-lia-et-la-connectivite/)).
-- Specialists at CITADEL, Virtual University of Burkina, developed a Mooré-to-French and French-to-Mooré translation tool, shown in a live demonstration on 21 October 2025 ([source, 2025-10-21](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/)).
 
 ### Chad: 2 Nascent
 

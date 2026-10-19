@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-19-zmb-wco-zambia-tanzania-customs-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Customs Organization says the Tanzania Revenue Authority and Zambia Revenue Authority held a bilateral workshop on 2-6 September 2024 to integrate their automated Customs systems for electronic exchange of Customs data.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "TRA automated Customs system",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TRA automated Customs system",
+   "country_label": "Tanzania",
+   "class": "customs",
+   "platform": "",
+   "owner": "Tanzania Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

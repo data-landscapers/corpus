@@ -1,0 +1,117 @@
+{
+ "slug": "2026-10-16-zaf-the-end-of-the-green-id-book-but-not-the-end-its-history",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Op-ed states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "A GCIS op-ed says South Africans are replacing the green ID book with the Smart ID card, which uses a digital chip and biometric information, and that more than 574,371 Smart ID applications were processed through bank branches by August 2026.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Smart ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart ID",
+       "country_label": "Smart ID card",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "A GCIS op-ed refers to the National Population Register, whose integrity the Smart ID transition is meant to strengthen.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "population"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

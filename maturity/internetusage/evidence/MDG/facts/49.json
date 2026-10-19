@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-17-mdg-midi-smartphone-47pct-taxes-gsma-report",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:15",
+   "fact": "The GSMA report on Madagascar's digital economy, presented in October 2026, says barely 15% of Malagasy actually use the internet, against 81% covered by 3G and 4G.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "GSMA Madagascar digital economy report",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-nga-nigerian-government-integrates-over-15-million-migration-records-voice",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centralised Interior Management and Administration System (CMAS)",
+   "country_label": "CMAS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "CMAS integrates data among agencies under the Interior ministry only, a single ministry's integration, so it is not recorded."
+}

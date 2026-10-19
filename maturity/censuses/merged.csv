@@ -1,6 +1,8 @@
 iso3,source_slug,read,merged_on
 AGO,2022-03-25-wb-ago-002-angola-strengthening-statistical-capacity,,2026-10-19
 AGO,2023-01-21-registadas-83-mil-empresas-em-angola,,2026-10-19
+AGO,2024-01-01-ago-anuario-de-estatisticas-sociais-2017-2022,,2026-10-19
+AGO,2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med,,2026-10-19
 AGO,2025-11-20-angop-censo-2024-luanda-populacao-definitivos,,2026-10-19
 AGO,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos,,2026-10-19
 AGO,2025-11-20-ine-resultados-definitivos-do-rgph-2024,,2026-10-19
@@ -19,6 +21,7 @@ BDI,2026-07-14-bdi-ppm-du-bcr-sur-le-budget-du-rgphae-2026-2027-companion,,2026-
 BDI,2026-07-14-bdi-primature-rppcub-2026-launch,,2026-10-19
 BDI,2026-08-04-insbu-actualites-et-evenements,,2026-10-19
 BDI,2026-08-28-bdi-gnq-cooperation-sud-sud-recensement-numerique,,2026-10-19
+BDI,2026-10-15-bdi-primature-rgeb-2026-recensement-entreprises-lancement,,2026-10-19
 BEN,2015-06-01-instad-bj-rgph4-resultats-definitifs,,2026-10-19
 BEN,2024-02-01-ben-instad-rgph5-formation-formateurs,,2026-10-19
 BEN,2024-03-23-ben-banouto-rgph5-cartographie-74-communes,,2026-10-19
@@ -59,6 +62,7 @@ CIV,2026-08-17-cote-divoire-cashew-producer-census-traceability,,2026-10-19
 CIV,2026-09-15-civ-aip-snt-38000-producteurs-cartes-cacao,,2026-10-19
 CIV,2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap,,2026-10-19
 CMR,2023-09-30-xss-iati-44000-p180085-harmonizing-and-improving-statistics-in-west,,2026-10-19
+CMR,2024-06-06-cmr-statistical-yearbook-of-the-education-and-training-sector-in-cameroon,,2026-10-19
 CMR,2026-03-11-leconomie-census-2026-digital-satellite-data-collection,,2026-10-19
 CMR,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis,,2026-10-19
 CMR,2026-07-30-order-111-cab-pm-rgph4-additional-census-period,,2026-10-19
@@ -66,6 +70,7 @@ CMR,2026-08-03-cameroon-population-census-extended-by-45-days,,2026-10-19
 CMR,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census,,2026-10-19
 CMR,2026-09-15-cmr-journalducameroun-4e-rgph-couverture-75-pourcent,,2026-10-19
 COD,2017-01-01-fcdo-reg-012-geo-referenced-infrastructure-and-demographic-data-for,,2026-10-19
+COD,2023-12-26-cod-enregistrement-des-faits-d-etat-civil-et-production-de-statistiques-vi,,2026-10-19
 COD,2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans,,2026-10-19
 COD,2026-04-17-worldbank-decide-project-pid,,2026-10-19
 COD,2026-07-11-rgph-2-donnees-fiables-planification-actualite,,2026-10-19
@@ -77,6 +82,8 @@ COD,2026-09-10-cod-actualite-rgph2-formation-operateurs-cartographes,,2026-10-19
 COD,2026-09-13-cod-beto-onip-rgph2-deux-comptages-autorite-protection-donnees,,2026-10-19
 COD,2026-09-18-rgph-2-le-gouvernement-implique-les-operateurs-de-telecommunication-pour-renfo,,2026-10-19
 COD,2026-10-01-cod-recensement-identification-et-enrolement-en-rdc-ce-quil-faut,,2026-10-19
+COD,2026-10-03-cod-rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-p,,2026-10-19
+COG,2025-11-01-cog-annuaires-statistiques-du-congo,,2026-10-19
 COG,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5,,2026-10-19
 COG,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026,,2026-10-19
 COG,2026-07-11-statistiques-marche-du-travail-bit-ins-ldb,,2026-10-19
@@ -108,8 +115,10 @@ DZA,2026-01-07-arpce-algeria-annual-report-2024,,2026-10-19
 DZA,2026-07-01-dza-uneca-egmrg-crvs-digitalisation,,2026-10-19
 EGY,2024-01-01-egypt-unsd-vital-statistics-questionnaire-2024,,2026-10-19
 EGY,2024-06-10-minister-of-planning-discusses-national-statistics-strategy,,2026-10-19
+EGY,2025-01-27-egy-ahram-capmas-statistical-yearbook-2024,,2026-10-19
 EGY,2025-10-27-sixth-economic-census-results-and-new-capmas-website,,2026-10-19
 EGY,2026-02-02-prime-minister-chairs-high-committee-2027-census,,2026-10-19
+EGY,2026-06-23-egy-amwalalghad-fra-capmas-data-sharing-protocol,,2026-10-19
 EGY,2026-07-20-youm7-pm-census-2027-implementation,,2026-10-19
 ERI,2002-10-21-eritrea-demographic-profile-birth-registration,,2026-10-19
 ERI,2010-11-05-eri-shabait-public-registration-office-central-region,,2026-10-19
@@ -123,6 +132,7 @@ ETH,2026-01-01-edhs-2024-25-key-indicators-report,,2026-10-19
 ETH,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform,,2026-10-19
 ETH,2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development,,2026-10-19
 ETH,2026-07-08-edhs-2024-25-summary-report,,2026-10-19
+GAB,2024-07-09-gab-lunion-atelier-annuaire-statistique-education,,2026-10-19
 GAB,2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles,,2026-10-19
 GAB,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres,,2026-10-19
 GHA,2019-09-27-statistical-service-act-2019,,2026-10-19
@@ -183,6 +193,7 @@ LBR,2013-01-01-iati-se-0-se-6-52090066-liberia-household-income-expenditure-surv
 LBR,2023-06-01-liberia-2022-population-and-housing-census-final-results,,2026-10-19
 LBR,2024-02-05-lbr-newspublictrust-nir-mobile-teams,,2026-10-19
 LBR,2024-12-11-unicef-liberia-children-legal-identity,,2026-10-19
+LBR,2025-01-01-lbr-liberia-emis-education-management-information-system,,2026-10-19
 LBR,2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2,,2026-10-19
 LBR,2025-10-01-iped-liberia-emis-peer-review,,2026-10-19
 LBR,2025-10-01-lisgis-liberia-2024-annual-agriculture-survey-final-report,,2026-10-19
@@ -195,6 +206,7 @@ LBR,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai,,2026-10-19
 LBR,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy,,2026-10-19
 LBR,2026-10-06-ecowas-calls-for-stronger-statistical-leadership-warns-against-politicization-of-data,,2026-10-19
 LBR,2026-10-15-can-africas-new-crvs-decade-close-the-death-registration-gap,,2026-10-19
+LBR,2026-10-16-lbr-liberian-investigator-gender-ministry-gbv-case-tracking-database,,2026-10-19
 LBY,1963-09-19-libya-law-16-of-1963-statistics-and-censuses,,2026-10-19
 LBY,2024-08-31-lby-libyaobserver-gnu-prepares-population-census,,2026-10-19
 LBY,2025-01-01-lby-metac-fy25-capacity-development-customs-asycuda,,2026-10-19
@@ -266,6 +278,7 @@ MUS,2026-08-12-finance-act-2026,,2026-10-19
 MUS,2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026,,2026-10-19
 MWI,2018-01-01-fcdo-mwi-001-making-technology-work-for-malawi,,2026-10-19
 MWI,2024-07-17-mwi-nation-nrb-under-scrutiny,,2026-10-19
+MWI,2025-06-02-mwi-nso-set-for-statistical-systems-modernisation,,2026-10-19
 MWI,2026-08-06-mwi-nation-ai-bridges-extension-gap,,2026-10-19
 MWI,2026-08-14-malawi-national-ict-survey-nso-macra,,2026-10-19
 MWI,2026-08-19-malawi24-nso-macra-ict-survey-jobs,,2026-10-19
@@ -277,6 +290,7 @@ NAM,2022-04-01-namibia-statistics-agency-strategic-plan-2022-2027,,2026-10-19
 NAM,2024-01-01-education-management-information-system-emis,,2026-10-19
 NAM,2024-05-20-nam-fig-mazambani-communal-land-administration-nclas,,2026-10-19
 NAM,2024-10-30-nsa-2023-census-media-release-rural-electrification,,2026-10-19
+NAM,2025-03-18-nam-sadc-regional-workshop-on-the-use-of-administrative-data-sources-for-m,,2026-10-19
 NAM,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn,,2026-10-19
 NAM,2025-10-14-namibia-national-disability-policy-gazette,,2026-10-19
 NAM,2026-07-27-namibia-bon-eid-administrative-data-sharing-census-costs,,2026-10-19
@@ -328,6 +342,7 @@ SLE,2024-02-06-sle-statssl-proactive-publication-scheme,,2026-10-19
 SLE,2025-01-01-iati-xm-dac-21-1-2025000348b1sierraoc4gov-statistics-sierra-leone-digital-census-mapping,,2026-10-19
 SLE,2025-05-23-sle-sltelegraph-apc-digital-census,,2026-10-19
 SLE,2025-12-01-sierra-leone-launch-2026-population-housing-census-power-of-data,,2026-10-19
+SLE,2025-12-31-sle-ncra-releases-provisional-vital-statistics-for-2025,,2026-10-19
 SLE,2026-01-01-sierra-leone-mbsse-emis-education-management-information-system,,2026-10-19
 SLE,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub,,2026-10-19
 SLE,2026-06-22-sle-penn-today-healthcare-logistics-ai,,2026-10-19
@@ -341,6 +356,7 @@ SLE,2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed,,2026-1
 SLE,2026-10-09-sierraleonews-sle-statssl-25000-tablets-census,,2026-10-19
 SLE,2026-10-12-sle-2026-census-budget-rises-from-7-million-to-nearly-60-million,,2026-10-19
 SLE,2026-10-13-sle-sierra-leone-counts-down-to-first-fully-digital-census,,2026-10-19
+SLE,2026-10-19-sle-statssl-mock-census-joint-monitoring-visit,,2026-10-19
 SOM,2024-12-22-som-cbc-karaar-digital-address-pilots,,2026-10-19
 SOM,2025-04-15-som-worldpop-geospatial-training-census-readiness,,2026-10-19
 SOM,2025-08-10-som-unicef-legal-identity-birth-registration,,2026-10-19
@@ -359,6 +375,7 @@ SSD,2023-01-01-mogei-national-education-census-report-2023,,2026-10-19
 SSD,2024-05-11-ssd-eyeradio-census-impossible-before-polls,,2026-10-19
 SSD,2024-09-16-ssd-radiotamazuj-qa-census-before-elections-ting,,2026-10-19
 SSD,2025-04-30-ssd-211check-nbs-not-recruiting-census-staff,,2026-10-19
+SSD,2025-09-03-ssd-coordinating-the-national-statistical-system-amidst-fragility,,2026-10-19
 SSD,2025-09-16-statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections,,2026-10-19
 SSD,2025-12-02-ssd-ilo-labour-force-migration-survey-pretest,,2026-10-19
 SSD,2026-04-21-south-sudan-mics7-national-survey-released,,2026-10-19
@@ -409,6 +426,8 @@ TCD,2026-07-30-lendjampost-rgph3-batha-populations-nomades,,2026-10-19
 TGO,2023-09-25-inseed-resultats-definitifs-rgph5,,2026-10-19
 TGO,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts,,2026-10-19
 TGO,2025-01-01-togo-rna5-land-security-smallholder-households,,2026-10-19
+TGO,2025-02-11-tgo-etat-civil-les-maires-pries-de-transmettre-les-chiffres-de-2019-a-2024,,2026-10-19
+TGO,2025-08-29-tgo-togo-vers-une-modernisation-du-systeme-de-collecte-des-statistiques-d,,2026-10-19
 TGO,2026-02-09-togofirst-ehcvm-3e-edition,,2026-10-19
 TGO,2026-03-20-inseed-lancement-edst-iv,,2026-10-19
 TGO,2026-07-04-inseed-cns-13e-session-orientations,,2026-10-19

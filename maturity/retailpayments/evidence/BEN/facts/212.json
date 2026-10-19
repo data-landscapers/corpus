@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-17-ben-wb-p162599-restructuring-paper-res00913",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank restructuring paper says 219,391 users of digital financial services through mobile money were recorded under the Digital Rural Transformation Project.",
+   "as_of": "2025-04-17",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mobile money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

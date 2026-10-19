@@ -21,8 +21,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 13 |
-| 3 Established | 26 |
+| 4 Operating | 14 |
+| 3 Established | 25 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -76,6 +76,13 @@ Zambia's 2021 electronic communications and transactions act is in force, with t
 
 - ZICTA was designated National Root Certification Authority under the Electronic Communications and Transactions Act; the article gives no date for the designation, so the as_of is the article's published date ([source, 2026-09-30](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/)).
 - Permanent Secretary Brilliant Habeenzu of the Ministry of Technology and Science said the Electronic Communications and Transactions Act provided the legal foundation for the PKI framework, as the NPKI was launched; the Act's own date is not given, so the as_of is the article's date ([source, 2026-09-07](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/)).
+
+### Benin: 4 Operating
+
+Benin's 2018 digital code is in force with a 2025 decree on electronic archiving providers; no use of it since 2023 is known.
+
+- Decree no. 2025-363 of 2 July 2025 was made in application of the 2017 digital code (law 2017-20, as amended in 2021) and sets the conditions for electronic archiving providers, who must be qualified as trust service providers for three renewable years ([source, 2025-07-02](https://sgg.gouv.bj/doc/decret-2025-363/)).
+- Decree no. 2025-363 of 2 July 2025, taking effect on signature, gives electronic archives the same legal value as paper documents where signed with a qualified electronic signature and timestamped ([source, 2025-07-02](https://sgg.gouv.bj/doc/decret-2025-363/)).
 
 ### Burundi: 4 Operating
 
@@ -186,12 +193,6 @@ Algeria's e-commerce Law 18-05 and a 2026 trust-services law are in force; rules
 Angola's 2011 presidential decree on information society services covers e-signatures and contracts; no rules made under it are known, and a 2026 regime awaits enactment.
 
 - Presidential Decree 202/11, published in Diario da Republica I Serie no. 139 on 22 July 2011, approves Angola's Regulation on Information Society Technologies and Services, which covers information society services, electronic documents and legal acts (qualified electronic signature, certification, electronic contracts) and electronic advertising, and enters into force 30 days after publication; the excerpt held is truncated before the signature and contract articles ([source, 2011-08](https://lex.ao/docs/presidente-da-republica/2011/decreto-presidencial-n-o-202-11-de-22-de-julho/)).
-
-### Benin: 3 Established
-
-Benin's 2018 digital code is in force and sets duties for trust service providers; no decree or rules made under it are known.
-
-- Loi n° 2017-20, the Code du numerique, was promulgated by the President on 20 April 2018 after adoption by the National Assembly and Constitutional Court review, and contains a title on the obligations of trust service providers (articles 305-306: freedom of establishment, duty of declaration) ([source, 2018-04-20](https://sgg.gouv.bj/doc/loi-2017-20/download)).
 
 ### Botswana: 3 Established
 

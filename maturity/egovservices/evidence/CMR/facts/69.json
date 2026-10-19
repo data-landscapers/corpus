@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-04-cmr-ecomatin-coleps-attribution-en-ligne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cameroon Online E-Procurement System (Coleps)",
+   "country_label": "Coleps",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  }
+ ],
+ "note": "Coleps is an e-procurement platform, not a service count or national gateway."
+}

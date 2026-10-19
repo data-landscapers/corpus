@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-16-gab-agp-connectivite-digitalisation-ecoles",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Digital economy minister Mark Alexandre Doumba said his ministry is working with ARCEP, under the amending finance law, on a programme for connectivity of public infrastructure in rural areas (schools, community centres, multimedia rooms, hospitals), to start from May 2026.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "Programme dedicated to connectivity of public infrastructure in rural zones",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

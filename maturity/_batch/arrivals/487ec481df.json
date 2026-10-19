@@ -1,0 +1,63 @@
+{
+ "slug": "2026-10-17-tza-simu-za-mkopo-zilivyo-mateso-5635672",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Mwananchi reports that Tanzania's Personal Data Protection Commission, headed by director general Dr Emmanuel Mkilia, has received many complaints about phone-on-credit lenders and is investigating.",
+       "as_of": "2026-10-17",
+       "date_precision": "day",
+       "system": "Personal Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Commission (PDPC)",
+       "country_label": "Tanzania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "An investigation opened is not a ruling."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Mwananchi reports that Tanzania's Personal Data Protection Commission, headed by director general Dr Emmanuel Mkilia, is acting on complaints about lenders' use of borrowers' personal data.",
+       "as_of": "2026-10-17",
+       "date_precision": "day",
+       "system": "Personal Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Commission (PDPC)",
+       "country_label": "Tanzania",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The law itself is not named or dated; the investigation is not a decision."
+    }
+   }
+  }
+ }
+}

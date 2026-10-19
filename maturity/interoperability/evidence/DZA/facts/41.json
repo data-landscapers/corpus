@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-dza-arrete-portail-electronique-marches-publics",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The arrêté of 4 February 2026 cites executive decree no. 19-271 of 7 October 2019 on the national interoperability framework of information systems among its legal bases.",
+   "as_of": "2019-10-07",
+   "date_precision": "day",
+   "system": "référentiel national d'interopérabilité des systèmes d'information",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

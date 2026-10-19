@@ -1,10 +1,14 @@
-{"slug":"2023-12-08-mdg-newsmada-psn-besoin-40000-techniciens","studies":{
-"aiabuse":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document says nothing on AI harms rules or authority."}}},
-"aigovernment":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document says nothing on AI in administration."}}},
-"aisectoral":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document says nothing on AI in a sector's public system."}}},
-"aisystems":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document names no AI model, dataset or computing built in the country; it only mentions difficulty recruiting AI teachers."}}},
-"civilserviceskills":{"countries":{"MDG":{"facts":[],"systems":[{"system":"PSN 2023-2028 training scheme for civil servants with IFC and World Bank","country_label":"Madagascar","class":"other","platform":"","owner":"MNDPT","tiers":""}],"note":"The state only plans to work with IFC and the World Bank on a training scheme for civil servants; nothing delivered."}}},
-"digitalskills":{"countries":{"MDG":{"facts":[],"systems":[{"system":"PSN 2023-2028 inclusive training programmes","country_label":"Madagascar","class":"other","platform":"","owner":"MNDPT","tiers":""}],"note":"Inclusive training programmes and a training institute are planned (future tense); no programme in service and no measured skills share."}}},
-"internetusage":{"countries":{"MDG":{"facts":[{"sub_indicator":"use","aspect":"users","value":"survey:25","fact":"The document reports Madagascar's internet usage rate as currently 25%, citing the Plan stratégique du numérique 2023-2028 of the digital ministry (MNDPT).","as_of":"2023","date_precision":"year","system":"Plan stratégique du numérique (PSN) 2023-2028","class":"use"}],"systems":[],"note":""}}},
-"mobilepenetration":{"countries":{"MDG":{"facts":[],"systems":[{"system":"Unique mobile subscribers","country_label":"15 million unique subscribers (PSN, 2023)","class":"other","platform":"","owner":"","tiers":""}],"note":"Only a count of unique subscribers and an 80% penetration target for 2028; no share of people owning a phone."}}}
-}}
+{
+ "slug": "2023-12-08-mdg-newsmada-psn-besoin-40000-techniciens",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Skills-gap plan figures only; no ILOSTAT ICT employment share or youth unemployment rate."
+    }
+   }
+  }
+ }
+}

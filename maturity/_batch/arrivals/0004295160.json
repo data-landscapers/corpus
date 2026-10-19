@@ -1,0 +1,52 @@
+{
+ "slug": "2024-01-01-ago-anuario-de-estatisticas-sociais-2017-2022",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "published",
+       "fact": "Angola's INE published the Anuario de Estatisticas Sociais covering 2017-2022 (demography, education, health, employment, culture, gender, social action, energy, water), saying administrative-information coverage is still deficient and prevents calculating many indicators; the page gives no year, 2024 is inferred, and it names no record-holding body.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Anuario de Estatisticas Sociais 2017-2022",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Anuario de Estatisticas Sociais 2017-2022",
+       "country_label": "Anuario de Estatisticas Sociais 2017-2022",
+       "class": "admin",
+       "platform": "",
+       "owner": "INE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Social statistics yearbook; no census or household survey stated."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No statistics law mentioned."
+    }
+   }
+  }
+ }
+}

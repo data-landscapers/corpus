@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The article says Ghana's Data Protection Commission was created under the Data Protection Act, 2012 (Act 843) and exists to oversee personal data; it states no appointment or ruling.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

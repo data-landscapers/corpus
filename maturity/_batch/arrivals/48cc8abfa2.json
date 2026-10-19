@@ -1,0 +1,5 @@
+{"slug": "2026-10-19-zaf-citizen-gauteng-egov-weighs-charges-e-panic-student", "studies": {
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Information Regulator is named only as a body the department allegedly did not report to; no appointment or ruling is stated."}}},
+"egovservices": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Gauteng e-Panic Button", "country_label": "Gauteng e-Panic Button app", "class": "other", "platform": "", "owner": "Gauteng Department of e-Government", "tiers": ""}], "note": "The e-Panic Button is a provincial safety app, not a national portal, so its 288,000 registered users answer no question."}}},
+"police": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The e-Panic Button is a public reporting app, not a station record system."}}}
+}}

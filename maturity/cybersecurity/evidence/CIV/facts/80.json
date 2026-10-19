@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Linfodrome reports that decree 2024-958 of 30 October 2024 created Cote d'Ivoire's national information systems security agency, ANSSI, taking over the missions of the DITT and of ARTCI's CI-CERT.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Linfodrome reports that the government adopted the National Cybersecurity Strategy 2021-2025 on 22 December 2021.",
+   "as_of": "2021-12-22",
+   "date_precision": "day",
+   "system": "Strategie nationale de cybersecurite 2021-2025",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Cote d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "CI-CERT",
+   "country_label": "Cote d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

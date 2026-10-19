@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-gab-gabon-amendes-jusqu-a-50-millions-et-peines-de-prison-pour-les-abus-commis-sur-l",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Gabon Media Time reports that the law ratifying the social-network ordinance, promulgated by decree 0436/PR of 5 October 2026, bans deepfakes of public or private persons (art. 32) and requires editors within 12 months to deploy AI-content detection and a visible, permanent label on AI-generated content (art. 53).",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Law ratifying the ordinance on social-network regulation",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": "No body with a mandate over AI harms is named (only a judge in summary proceedings), and no enforcement is stated."
+}

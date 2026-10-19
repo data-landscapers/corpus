@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Government Portal",
+   "country_label": "Somalia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Government Single Sign-On (SSO)",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal and SSO are only the subject of a consultant tender; no launched service or count is stated."
+}

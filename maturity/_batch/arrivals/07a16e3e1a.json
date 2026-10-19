@@ -1,0 +1,11 @@
+{"slug": "2026-10-16-moz-bnews-centro-pronto-vfs-global-atdi", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government procurement payment system is stated."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No consumer protection rule is stated."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "BNEWS, citing Lusa and VFS Global, reports that Mozambique's ATDI and VFS Global inaugurated the Centro Pronto platform in Maputo, whose portal and kiosks are to let citizens prepare passport, ID card, driving licence and DIRE applications, pay electronically and book appointments, with services rolling out in phases subject to validation by each authority.", "as_of": "2026-10", "date_precision": "month", "system": "Centro Pronto", "class": "eservices"}], "systems": [{"system": "Centro Pronto", "country_label": "Mozambique", "class": "eservices", "platform": "portal, self-service kiosks and assisted counters", "owner": "ATDI", "tiers": "Maputo first; Beira and Nampula planned"}], "note": ""}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government-to-person payment is stated."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No survey figure on payment use is stated."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Electronic payment of fees is mentioned only as a planned portal function; no mobile money or wallet service is stated."}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Electronic fee payment is only a planned function of the portal; no revenue collection system is stated."}}}
+}}

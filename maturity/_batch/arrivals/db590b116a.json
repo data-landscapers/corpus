@@ -1,0 +1,9 @@
+{"slug": "2026-10-19-lby-techafricanews-o3-group-fact-sheet-medusa-landing", "studies": {
+"cloudstrategy": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on a government hosting or cloud policy."}}},
+"datacentres": {"countries": {"LBY": {"facts": [], "systems": [{"system": "O3 Group Tier III data centre, Benghazi", "country_label": "O3 Benghazi data centre", "class": "other", "platform": "", "owner": "O3 Group (Ozone Group for Telecom & Technology)", "tiers": "Tier III Certified Design Documents"}], "note": "The Benghazi data centre is described as being developed, not in service."}}},
+"fibrebackbone": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The 12,000-13,000 km network is a plan; only fibre extending from Benghazi toward Kufra is mentioned, with no contract or in-service link to the capital stated."}}},
+"internationalbandwidth": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Medusa submarine cable", "country_label": "Medusa, Benghazi landing", "class": "route", "platform": "", "owner": "Medusa Submarine Cable System", "tiers": ""}], "note": "The first Medusa landing at Benghazi on 2026-10-17 is stated, but not that the cable is in service; the Tripoli landing is only planned."}}},
+"nationaldatacentres": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The privately owned Benghazi data centre is under development, not stated in service."}}},
+"offsitebackup": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on backup for government systems."}}},
+"satellitebroadband": {"countries": {"LBY": {"facts": [], "systems": [], "note": "VSAT services are named only among O3's capabilities being built, with no licence or sale stated."}}}
+}}

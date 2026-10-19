@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-19-mus-sil-tcs-mou-digital-transformation-techafricanews",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Minister Avinash Ramtohul said the Cybersecurity and Cybercrime Act would be reviewed to address certain offences while strengthening protection of freedom of expression.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Cybersecurity and Cybercrime Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Covers an MoU between SIL and TCS; no national digital strategy is described."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that more online services are in development and SIL is working with the land transport authority; no service launched or piloted is stated."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The planned Act review is not a repeal, and no cut, criticism or punishment is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi", "studies": {
+"dataexchange": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Government API Gateway", "country_label": "Somalia", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": "Only a request for expressions of interest for consultants to design and deploy a gateway; no platform procured, built or live is stated."}}},
+"egovservices": {"countries": {"SOM": {"facts": [], "systems": [{"system": "National Digital Government Portal", "country_label": "Somalia", "class": "eservices", "platform": "", "owner": "", "tiers": ""}, {"system": "Government Single Sign-On (SSO)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Portal and SSO are only the subject of a consultant tender; no launched service or count is stated."}}},
+"interoperability": {"countries": {"SOM": {"facts": [], "systems": [], "note": "A gateway tender states no interoperability framework or its drafting."}}},
+"localgov": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing stated on local government office connection."}}},
+"regionalpolicy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document names the World Bank-financed Eastern Africa Regional Digital Integration Project but states no Somali agreement, membership or act with an African body."}}}
+}}

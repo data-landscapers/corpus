@@ -1,0 +1,52 @@
+{
+ "slug": "2023-11-23-dji-progouv-tdr-expert-sig-adressage-ville-de-djibouti",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "The PROGOUV terms of reference say street addressing exists only in a few central streets and in Ras Dika commune, with street plates but no door numbers, that a pilot ran in Cite Nassib (Balbala), and that the Mairie holds DJF 70 million for 2023 addressing and seeks an expert to define a city addressing strategy.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Municipal street addressing, Ville de Djibouti",
+       "class": "address"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions a city GIS to be built, not an office connection."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

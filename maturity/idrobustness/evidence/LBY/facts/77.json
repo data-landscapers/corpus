@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-lby-alwasat-prosecution-10190-passports-forged-data",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Attorney General's Office says a review found 315,385 National Numbers granted contrary to legislation and 8,662 National Numbers suspended, showing the national number system in operation.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "National Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Number",
+   "country_label": "Libya National Number",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

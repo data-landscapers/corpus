@@ -9,3 +9,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SSD,tech.ai--control-of-ai-abuse,review,no evidence,2,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,TZA,tech.ai--control-of-ai-abuse,fact,no evidence,2,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,tech.ai--control-of-ai-abuse,review,no evidence,3,ZMB-001;ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-20,CMR,tech.ai--control-of-ai-abuse,fact,no evidence,1,CMR-001,Stage 4c: an analyst interview of 19 October 2026 says Cameroon has a legal gap on malicious AI use; restaged from every row held.
+2026-10-20,GAB,tech.ai--control-of-ai-abuse,fact,no evidence,3,GAB-001,"Stage 4c: the law ratifying the social-network ordinance, promulgated 5 October 2026, bans deepfakes and requires AI-content labelling; restaged from every row held."

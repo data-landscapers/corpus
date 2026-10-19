@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-30-uga-united-nations-agencies-and-uganda-bureau-of-statistics-ubos-launch-us",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The UN in Uganda release of 30 January 2024 says the US$ 41.9m Joint Programme for Data and Statistics is anchored on the Third Plan for National Statistical Development (PNSD III) 2020/21-2024/25.",
+   "as_of": "2024-01-30",
+   "date_precision": "day",
+   "system": "PNSD III 2020/21-2024/25",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Third Plan for National Statistical Development (PNSD III) 2020/21-2024/25",
+   "country_label": "PNSD III 2020/21-2024/25",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Uganda Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

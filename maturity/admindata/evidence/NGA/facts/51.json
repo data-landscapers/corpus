@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-15-nga-nbs-commits-to-effective-mgt-of-administrative-data",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The National Bureau of Statistics held a two-day in-boarding training in Abuja and distributed hardware and software to 15 pilot ministries, departments and agencies for the World Bank-supported Integrated Systems of Administrative Statistics, whose MDAs were to sign a Data Supply Pledge to share administrative data regularly.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "Integrated Systems of Administrative Statistics (ISAS)",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Systems of Administrative Statistics (ISAS)",
+   "country_label": "Nigeria",
+   "class": "admin",
+   "platform": "centralised data repository",
+   "owner": "National Bureau of Statistics",
+   "tiers": "15 MDAs in the pilot phase"
+  }
+ ],
+ "note": ""
+}

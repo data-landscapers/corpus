@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-12-tza-ppra-procurement-act-effect-nest-mandate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NeST (National e-Procurement System of Tanzania)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "PPRA",
+   "tiers": ""
+  }
+ ],
+ "note": "NeST is an e-procurement system for tenders, not a count of citizen or business services online; no portal, service count or user figure is stated."
+}

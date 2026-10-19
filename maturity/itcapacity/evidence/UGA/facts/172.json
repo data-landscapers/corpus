@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-05-uga-monitor-firms-lose-out-egp-online",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eGP 2.0",
+   "country_label": "eGP 2.0",
+   "class": "other",
+   "platform": "online procurement platform",
+   "owner": "Ministry of Finance and PPDA",
+   "tiers": ""
+  }
+ ],
+ "note": "Rollout of eGP 2.0 to 136 entities is reported, but it does not say government's own technical staff build, run or maintain it."
+}

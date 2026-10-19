@@ -1,53 +1,12 @@
 {
  "slug": "2026-05-28-cpv-expressodasilhas-ine-rural-urban-internet-2025",
  "studies": {
-  "digitaldivides": {
+  "gendergap": {
    "countries": {
     "CPV": {
-     "facts": [
-      {
-       "sub_indicator": "ruralaccess",
-       "aspect": "measured",
-       "value": "measured",
-       "fact": "INE's 2025 continuous multi-purpose survey (IMC) shows 22.7% of people aged 10 and over did not use the internet in the previous three months, 31.2% in rural areas against 20.0% in urban areas.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "IMC 2025 ICT statistics",
-       "class": "ruralaccess"
-      },
-      {
-       "sub_indicator": "ruralaccess",
-       "aspect": "narrow",
-       "value": "narrow",
-       "fact": "INE's 2025 survey implies rural internet use of 68.8% (non-use 31.2%) against 80.0% urban (non-use 20.0%) among people aged 10 and over, and 69.3% of rural households with internet against 68.5% urban.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "IMC 2025 ICT statistics",
-       "class": "ruralaccess"
-      }
-     ],
+     "facts": [],
      "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "internetusage": {
-   "countries": {
-    "CPV": {
-     "facts": [
-      {
-       "sub_indicator": "use",
-       "aspect": "users",
-       "value": "survey:77.3",
-       "fact": "INE's IMC 2025 household survey finds 77.3% of individuals aged 10 and over used the internet in the three months before the survey.",
-       "as_of": "2025",
-       "date_precision": "year",
-       "system": "IMC 2025 ICT statistics",
-       "class": "use"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "The document gives no internet-use figure by sex."
     }
    }
   }

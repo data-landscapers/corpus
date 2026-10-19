@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-syc-pemc-and-nbs-partner-for-better-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Seychelles Nation reports, from a ministry press release, that the Public Enterprise Monitoring Commission and the National Bureau of Statistics signed a memorandum of understanding to share information and streamline data collection from public enterprises; the signing date is not given.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "PEMC-NBS memorandum of understanding",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PEMC-NBS memorandum of understanding",
+   "country_label": "Seychelles",
+   "class": "admin",
+   "platform": "",
+   "owner": "National Bureau of Statistics; Public Enterprise Monitoring Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

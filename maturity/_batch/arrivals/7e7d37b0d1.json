@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-15-bdi-primature-rgeb-2026-recensement-entreprises-lancement",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Enterprise census launch; states no administrative-records statistics."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "An enterprise census is not a population census or household survey."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions modernising tele-declaration only as a use of census data; no payment system stated."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No statistics strategy mentioned."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Tele-declaration modernisation is named as a purpose only; no system procured, piloted or in service stated."
+    }
+   }
+  }
+ }
+}

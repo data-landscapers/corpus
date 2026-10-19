@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,BEN,digital.rural--digitalisation-of-rural-primary-schools,fact,3,3,BEN-004;BEN-005;BEN-006,"Arrivals added BEN-022, BEN-023, BEN-024, BEN-025; restaged by hand: stage unchanged."
 2026-10-17,CIV,digital.rural--digitalisation-of-rural-primary-schools,fact,2,2,CIV-006;CIV-007;CIV-009;CIV-004;CIV-005,"Arrivals added CIV-009, CIV-010; restaged by hand: stage unchanged."
 2026-10-18,TZA,digital.rural--digitalisation-of-rural-primary-schools,fact,2,2,TZA-002;TZA-003;TZA-004;TZA-005,"PO-RALG's July 2025 privacy policy describes the School Information System as built for per-learner attendance and assessment entered by school staff; it does not say schools use it, so the stage stays 2."
+2026-10-20,LBR,digital.rural--digitalisation-of-rural-primary-schools,fact,1,1,LBR-001;LBR-002,"Stage 4c: a Ministry EMIS portal claims per-learner records at all levels; the Ministry's newer paper statements stand, stage held."

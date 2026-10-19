@@ -1,0 +1,4 @@
+{"slug": "2026-10-19-zaf-bma-vehicle-targeting-system-digital-border", "studies": {
+"customs": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Vehicle Targeting System (VTS)", "country_label": "South Africa", "class": "other", "platform": "International Vehicle Identification Desk application", "owner": "Border Management Authority", "tiers": ""}], "note": "The VTS reads number plates for vehicle crime; it does not process customs declarations."}}},
+"egovservices": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A border enforcement system, not a service people complete online."}}}
+}}

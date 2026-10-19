@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Health Information Management Systems (HMIS Eswatini), a programme within the Ministry of Health, is the technical lead for the health information systems, including the CMIS patient-records system, operating in 250 health facilities, per Eswatini Positive News.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Client Management Information System (CMIS)",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:250",
+   "fact": "The CMIS, which supports recording, storage and retrieval of patient information, and the eLMIS operate in 250 health facilities across Eswatini, per Eswatini Positive News; the report gives no total of facilities or split by system.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Client Management Information System (CMIS)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Client Management Information System (CMIS)",
+   "country_label": "CMIS",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health (HMIS Eswatini)",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Logistics Management Information System (eLMIS)",
+   "country_label": "eLMIS",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Ministry of Health (HMIS Eswatini)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

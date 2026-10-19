@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-11-aps-plateforme-transferts-patients",
+ "studies": {
+  "health": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "patient transfer platform",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "A forthcoming patient-transfer platform is neither HMIS nor EMR."
+    }
+   }
+  }
+ }
+}

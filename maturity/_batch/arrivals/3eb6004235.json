@@ -1,28 +1,3 @@
 {"slug": "2026-09-01-ssd-radioyei-boss-emoney-rules", "studies": {
-"authentication": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on authentication services."}}},
-"birthidlink": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID links."}}},
-"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
-"centralbank": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days.", "as_of": "2026-09-01", "date_precision": "day", "system": "Electronic Money Regulation 2017 Amendment 2025", "class": "oversight"}
-], "systems": [], "note": ""}}},
-"consumerprotection": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "Radio Yei reports that consumer protection rules have taken effect in South Sudan under the amended Electronic Money Regulation, covering banks and non-bank e-money issuers, including availability, user notice of disruptions and record keeping.", "as_of": "2026-09-01", "date_precision": "day", "system": "Electronic Money Regulation 2017 Amendment 2025", "class": "protection"}
-], "systems": [], "note": ""}}},
-"crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
-"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
-"idcoverage": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
-"idfrombirth": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on numbers at birth."}}},
-"idmaintenance": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
-"idregisters": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on a national ID system."}}},
-"idverification": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Tiers accept ID documents but no check against the national ID is stated."}}},
-"paymentslaw": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Electronic Money Regulation 2017 Amendment 2025, issued under the Bank of South Sudan Act 2011 Amendment 2023, has taken effect and applies to licensed financial institutions and non-bank e-money issuers.", "as_of": "2026-09-01", "date_precision": "day", "system": "Electronic Money Regulation 2017 Amendment 2025", "class": "law"},
-{"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The amended regulation licenses non-bank electronic money issuers, requiring standalone payment providers to set up separate companies and obtain regulatory approval with a 65 million SSP filing fee.", "as_of": "2026-09-01", "date_precision": "day", "system": "Electronic Money Regulation 2017 Amendment 2025", "class": "law"}
-], "systems": [], "note": ""}}},
-"paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No survey of adult account holding given."}}},
-"retailpayments": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The article describes rules for operating electronic money systems in South Sudan, with transaction limits by customer tier and agent reporting, implying mobile money services are in operation.", "as_of": "2026-09-01", "date_precision": "day", "system": "electronic money", "class": "retail"}
-], "systems": [], "note": ""}}},
-"revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing stated on electronic tax payment."}}}
+"dataprotectionlaw": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Only confidentiality duties inside the Electronic Money Regulation are stated, which is a sectoral provision and not a general data protection law."}}}
 }}

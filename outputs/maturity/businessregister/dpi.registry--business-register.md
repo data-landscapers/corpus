@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 4 |
-| 3 Established | 20 |
+| 3 Established | 21 |
 | 2 Nascent | 15 |
 | 1 Absent | 1 |
 | Unplaced | 5 |
-| No evidence | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -193,6 +193,12 @@ Firms could register online in 2025; a number shared with tax is not known.
 
 - The Ministry of Justice and Constitutional Affairs' Business Registration Service (BRS) is an online platform, reached with an eServices account, where owners validate and submit business or company details for approval ([source, 2025](https://brs.eservices.gov.ss)).
 
+### Sudan: 3 Established
+
+Firms could register online in 2026; a number shared with tax is not known.
+
+- Sudan Dawn reports that company-register and business-name transactions at Sudan's commercial registry are filed through the Baladna platform, and that this was almost entirely stalled for more than a week by a technical fault, per lawyers ([source, 2026-10-18](https://sudandawn.com/?p=22515)).
+
 ### Tanzania: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
@@ -355,12 +361,6 @@ Nothing held names a digital business register or says there is none, so no stag
 Not established: Nothing held says how firms are registered.
 
 ### Niger: No evidence
-
-Nothing held names a digital business register or says there is none, so no stage is set.
-
-Not established: Nothing held says how firms are registered.
-
-### Sudan: No evidence
 
 Nothing held names a digital business register or says there is none, so no stage is set.
 

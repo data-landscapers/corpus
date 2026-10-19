@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-16-ago-otelegrama-lei-9-26-ciberseguranca-soberania-digital",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "O Telegrama states that Lei n.º 9/26 of 28 September 2026, in force on publication, sets up the National Cybersecurity System with a National Cybersecurity Centre for regulation, supervision and enforcement, and that CERT.ao sits within the Centre and coordinates the national response to incidents.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Centro Nacional de Cibersegurança / CERT.ao",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centro Nacional de Cibersegurança",
+   "country_label": "Centro Nacional de Cibersegurança",
+   "class": "response",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  },
+  {
+   "system": "CERT.ao",
+   "country_label": "CERT.ao",
+   "class": "response",
+   "platform": "",
+   "owner": "Centro Nacional de Cibersegurança",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

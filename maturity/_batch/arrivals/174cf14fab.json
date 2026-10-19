@@ -1,0 +1,30 @@
+{"slug": "2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "FaydaVerse says its identity authentication service, using one-time passwords, has processed about 200 million authentication operations and about two million verification requests a day, charged to banks and other institutions since August 2026.", "as_of": "2026-10-15", "date_precision": "day", "system": "FaydaVerse", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "FaydaVerse says its verification service is open to government institutions, private companies and start-ups, with banks named as users.", "as_of": "2026-10-18", "date_precision": "day", "system": "FaydaVerse", "class": "authentication"}
+], "systems": [{"system": "FaydaVerse", "country_label": "FaydaVerse (National ID)", "class": "authentication", "platform": "", "owner": "FaydaVerse", "tiers": ""}], "note": "Digital credentials, citizen wallets and digital signing are only planned."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Data centre development named only as possible cooperation abroad."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "FaydaVerse says its OTP verification adheres to the Personal Data Protection Act.", "as_of": "2026-10-18", "date_precision": "day", "system": "Personal Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Gives 52.4 million registered but no population figure or share in the document."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Does not say who operates or owns the platform."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "FaydaVerse says the national ID had registered 52.4 million people by 15 October 2026 and printed over 14.5 million credentials.", "as_of": "2026-10-15", "date_precision": "day", "system": "FaydaVerse", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "FaydaVerse says banks and other organisations verify customers through its ID verification service, which it has charged for since August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "FaydaVerse", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "FaydaVerse says the system has processed about 200 million authentications and handles about two million verification requests a day.", "as_of": "2026-10-15", "date_precision": "day", "system": "FaydaVerse", "class": "relying"}
+], "systems": [], "note": "Sectors beyond banking are not named."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on data centres in the country."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No account survey share given."}}},
+"publicconsultation": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consultation."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Start-ups named only as ID verification users."}}},
+"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

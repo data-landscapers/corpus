@@ -2,3 +2,8 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Service-public.ne,Niger,eservices,CMS portal,ANSI,national,2026-01-01-numericite-niger-strategie-egov-services-publics
 NER,NigerOnline,Niger,eservices,,ANSI,national,2026-01-01-numericite-niger-strategie-egov-services-publics
 NER,Portail Public du Niger,Niger,eservices,,ANSI,,2025-07-17-ner-nigerdiaspora-portail-public-services-en-ligne
+NER,SIGMAP-Niger,Niger,other,sigmap.marchespublics.ne,DGCMP/OB,,2026-02-25-ner-lesahel-digitalisation-marches-publics
+NER,Portail des marchés publics,Niger,other,www.marchespublics.ne,,,2026-02-25-ner-lesahel-digitalisation-marches-publics
+NER,GEC,GEC,other,,ANSI,,2025-12-01-ner-ansi-175-cadres-maec-formes-gec-messagerie
+NER,Messagerie Professionnelle,Messagerie Professionnelle,other,,ANSI,,2025-12-01-ner-ansi-175-cadres-maec-formes-gec-messagerie
+NER,GED,GED,other,,ANSI,,2025-07-24-ner-lesahel-formation-justice-gestion-electronique-documents

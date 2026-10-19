@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-01-bfa-section-i-adoption-of-access-to-information-laws-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Burkina Faso's government told UNESCO's 2024 SDG 16.10.2 survey, for the year 2023, that Law No. 051-2015/CNT on the right of access to public information and administrative documents gives the legal guarantee.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Loi n°051-2015/CNT portant droit d'accès à l'information publique et aux documents administratifs",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The government told UNESCO that the law's oversight is held by the national data protection commission, the national human rights commission, a ministry or agency and the Conseil Supérieur de la Communication, which in 2023 published an annual report, gave guidance and training, raised awareness and kept statistics on requests or appeals.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Loi n°051-2015/CNT oversight bodies",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

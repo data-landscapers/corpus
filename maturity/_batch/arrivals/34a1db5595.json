@@ -1,0 +1,10 @@
+{"slug": "2026-10-16-lbr-liberian-investigator-gender-ministry-gbv-case-tracking-database", "studies": {
+"censuses": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A digital census is mentioned in passing by the UN Resident Coordinator with no dates or results."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only data protection training and sharing rules for the GBV system are mentioned; no law is stated."}}},
+"digitalskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on public digital skills."}}},
+"disabilityaccess": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The system records survivors' disability status; nothing on accessibility."}}},
+"electoralregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Voter registration is named in passing as digital government, with no detail."}}},
+"localgov": {"countries": {"LBR": {"facts": [], "systems": [], "note": "County service centers are named, but no local government office connection is stated."}}},
+"police": {"countries": {"LBR": {"facts": [], "systems": [{"system": "Gender-Based Violence Information Management System", "country_label": "GBV Information Management System", "class": "other", "platform": "tablets, offline sync to central server", "owner": "Ministry of Gender, Children and Social Protection", "tiers": "15 counties"}], "note": "Police are named among those who log GBV incidents in a single-function system; it is not a station record system."}}},
+"schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on schools."}}}
+}}

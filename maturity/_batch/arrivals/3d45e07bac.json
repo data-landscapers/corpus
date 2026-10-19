@@ -1,40 +1,14 @@
 {
-"slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
-"studies": {
-"authentication": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIMC's director-general says Nigeria's identity system enables real-time authentication across sectors and processes about 3.3 million verification requests daily.", "as_of": "2026-05-15", "date_precision": "day", "system": "NIMC identity verification", "class": "authentication"},
-{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIMC's director-general says the identity ecosystem enables identity verification and real-time authentication across sectors, with about 3.3 million verification requests daily.", "as_of": "2026-05-15", "date_precision": "day", "system": "NIMC identity verification", "class": "authentication"}
-], "systems": [
-{"system": "Person Identification Verification Service (PIVS)", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""},
-{"system": "NIN Mobile App", "country_label": "Nigeria", "class": "other", "platform": "mobile app", "owner": "NIMC", "tiers": ""}
-], "note": ""}}},
-"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on links between the civil register and the ID system."}}},
-"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
-"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on the central bank."}}},
-"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on consumer protection."}}},
-"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
-"digitaldivides": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on rural internet access."}}},
-"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on government payments to people."}}},
-"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document gives 127 million records but no population or share, so no coverage figure is stated."}}},
-"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on an ID number at birth."}}},
-"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document does not say who operates, maintains or owns the system."}}},
-"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN is said to be connected to major national institutions but no register is named."}}},
-"idrobustness": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC's director-general says Nigeria had reached 127 million unique identity records in its national identity database by December 2025, with about five million new enrolments a month.", "as_of": "2025-12", "date_precision": "month", "system": "National Identity Database (NIN)", "class": "idsystem"}
-], "systems": [], "note": ""}}},
-"idverification": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIMC's director-general says the NIN-SIM linkage policy, in force, drove digital identity adoption in telecommunications and strengthened identity verification nationwide.", "as_of": "2026-05-15", "date_precision": "day", "system": "NIN-SIM linkage", "class": "relying"},
-{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "NIMC's director-general says Nigeria processes about 3.3 million identity verification requests daily.", "as_of": "2026-05-15", "date_precision": "day", "system": "Person Identification Verification Service (PIVS)", "class": "relying"}
-], "systems": [
-{"system": "NIN-SIM linkage policy", "country_label": "Nigeria", "class": "relying", "platform": "", "owner": "NIMC", "tiers": ""}
-], "note": ""}}},
-"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document gives no account-ownership survey figure."}}},
-"refugees": {"countries": {"NGA": {"facts": [
-{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "NIMC's director-general says over 206,000 refugees and internally displaced persons have been enrolled into the national identity database.", "as_of": "2026-05-15", "date_precision": "day", "system": "National Identity Database (NIN)", "class": "displaced"},
-{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "NIMC's director-general says refugees and internally displaced persons have been enrolled into the national identity database so that no one is left behind.", "as_of": "2026-05-15", "date_precision": "day", "system": "National Identity Database (NIN)", "class": "displaced"},
-{"sub_indicator": "displaced", "aspect": "counted", "value": "counted", "fact": "NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000.", "as_of": "2026-05-15", "date_precision": "day", "system": "National Identity Database (NIN)", "class": "displaced"}
-], "systems": [], "note": ""}}},
-"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on retail payments."}}},
-"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on revenue collection."}}}
-}
+ "slug": "2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "National ID enrolment figures; nothing on access for persons with disabilities."
+    }
+   }
+  }
+ }
 }

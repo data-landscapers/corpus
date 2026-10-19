@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,admin,use,coverage,,,,,nothing held
+NAM,admin,use,coverage,preparing,2025-03-18,NAM-007,,
 NAM,admin,source,coverage,civil-registration;education,2025-06-01,NAM-001;NAM-002;NAM-004,NAM-006=civil-registration,
 NAM,admin,series,coverage,civil-registration;education,2024-04,NAM-003;NAM-005,,

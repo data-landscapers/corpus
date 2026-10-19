@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-22-ago-decreto-presidencial-188-24-nip",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Angola's Presidential Decree 188/24 requires cadastral inscription of every property in the Sistema Integrado de Cadastro Predial, run by the Servico Central de Cadastro, which assigns the 14-digit NIP and issues cadastral certificates through the system.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "Sistema Integrado de Cadastro Predial",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Integrado de Cadastro Predial",
+   "country_label": "Angola",
+   "class": "land",
+   "platform": "",
+   "owner": "Servico Central de Cadastro",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

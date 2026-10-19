@@ -1,14 +1,14 @@
-{"slug": "2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership", "studies": {
-"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
-"aigovernment": {"countries": {"BFA": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool.", "as_of": "2025-10-21", "date_precision": "day", "system": "Mooré-French translation tool (Ministry-RTB AI partnership)", "class": "govai"}], "systems": [{"system": "Mooré-French translation tool", "country_label": "Burkina Faso", "class": "govai", "platform": "", "owner": "Ministry of Digital Transition / RTB", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Pilots in health and meteorology are only listed as planned, and the earlier ANAM partnership is named with no detail."}}},
-"aisystems": {"countries": {"BFA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Specialists at CITADEL, Virtual University of Burkina, developed a Mooré-to-French and French-to-Mooré translation tool, shown in a live demonstration on 21 October 2025.", "as_of": "2025-10-21", "date_precision": "day", "system": "CITADEL Mooré-French translation tool", "class": "localai"}], "systems": [{"system": "CITADEL Mooré-French translation tool", "country_label": "Burkina Faso", "class": "localai", "platform": "", "owner": "CITADEL, Virtual University of Burkina", "tiers": ""}], "note": ""}}},
-"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on authentication or digital ID."}}},
-"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil register or ID links."}}},
-"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on ID coverage."}}},
-"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
-"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
-"metsatellite": {"countries": {"BFA": {"facts": [], "systems": [], "note": "ANAM is named only as a prior AI partner, with no satellite data stated."}}}
-}}
+{
+ "slug": "2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a wider national AI strategy with an objective to create a roadmap; no drafting, adoption, body or funding stated."
+    }
+   }
+  }
+ }
+}

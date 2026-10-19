@@ -1,0 +1,20 @@
+{"slug": "2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health", "studies": {
+"authentication": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"coresystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only health information systems are described; no finance, tax or payroll system."}}},
+"health": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Health Information Management Systems (HMIS Eswatini), a programme within the Ministry of Health, is the technical lead for the health information systems, including the CMIS patient-records system, operating in 250 health facilities, per Eswatini Positive News.", "as_of": "2026-10", "date_precision": "month", "system": "Client Management Information System (CMIS)", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "clinics", "value": "count:250", "fact": "The CMIS, which supports recording, storage and retrieval of patient information, and the eLMIS operate in 250 health facilities across Eswatini, per Eswatini Positive News; the report gives no total of facilities or split by system.", "as_of": "2026-10", "date_precision": "month", "system": "Client Management Information System (CMIS)", "class": "emr"}
+], "systems": [
+{"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "emr", "platform": "", "owner": "Ministry of Health (HMIS Eswatini)", "tiers": ""},
+{"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Ministry of Health (HMIS Eswatini)", "tiers": ""}
+], "note": ""}}},
+"healthmis": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "other", "platform": "", "owner": "Ministry of Health (HMIS Eswatini)", "tiers": ""}], "note": "Document describes a stock system and a patient-records system; no national routine reporting system is stated."}}},
+"idcoverage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No ID number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "National identity numbers identify patients in the health systems, which are not a register of the kinds the study lists; no register is stated to be keyed on the number."}}},
+"idrobustness": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on the national ID system's status."}}},
+"justice": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on courts."}}},
+"taxadmin": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

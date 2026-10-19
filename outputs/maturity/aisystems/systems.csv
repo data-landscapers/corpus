@@ -4,6 +4,7 @@ BDI,AgriHyphen AI,Burundi,localai,app,Hyphen Tech,,2026-02-27-global-south-world
 BEN,Fon voice-to-voice AI model,Benin,localai,NVIDIA A100/H100 GPUs,IIDIA and ASIN,,2025-06-30-techafricanews-benin-fon-voice-ai-lab
 BFA,national AI model,Burkina Faso,localai,,Ministere de la Transition digitale,,2026-08-15-burkina-faso-nigeria-digital-cooperation-ouagadougou
 BFA,CITADEL Mooré-French translation tool,Burkina Faso,localai,,"CITADEL, Virtual University of Burkina",,2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership
+BFA,L'Essentiel.bf,Burkina Faso,localai,web and mobile app,CITADEL and Data Lab,,2026-10-15-bfa-l-essentiel-bf-plateforme-numerique-francais-moore
 CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CIV,Projet d'appui au renforcement de l'administration electronique (PARAE),Cote d'Ivoire,other,,"Government of Cote d'Ivoire with AfDB, 60 billion FCFA",,2026-08-10-cote-divoire-afdb-parae-egovernment-financing
@@ -29,6 +30,7 @@ EGY,Karnak,Egypt,localai,,"Applied Innovation Center, MCIT",national,2026-06-10-
 EGY,Karnak LLM,Egypt,localai,,"Applied Innovation Center, MCIT",,2026-09-25-egy-ai-council-national-ai-strategy
 EGY,HiCA Data integrated data centre and AI zone,Egypt,localai,,HiCA Data,,2026-09-20-egy-alnahar-ai-data-centre-race-washington-beijing
 EGY,Karnak,Egypt,localai,,,,2026-03-11-ncai-reviews-national-ai-strategy-progress-adopts-governance-framework
+EGY,Africa Data Centres Egypt,Egypt,localai,GPU data centre,"Vodafone Business, Elsewedy Electric, Cassava Technologies",,2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ETH,AI University Innovation Pod,Ethiopia,localai,high-performance computing,Addis Ababa University with UNDP,,2026-07-20-ethiopia-joins-waico-global-ai-alliance
@@ -41,6 +43,7 @@ GHA,Twi language model,Ghana,localai,,KNUST,,2026-10-12-gha-myjoyonline-sam-geor
 GHA,National AI and Computing Centre,Ghana,localai,high-performance computing and AI infrastructure,"Ministry of Communication, Digital Technology and Innovation",national,2026-09-15-citinewsroom-ghana-200m-digitalisation-250m-ai-computing-centre
 GHA,AI Compute Centre,Ghana,localai,,Government of Ghana,,2026-07-30-ghana-10-year-ai-implementation-roadmap
 GHA,AI computing infrastructure,Ghana,localai,high-performance computing,Government of Ghana,,2026-09-15-gha-onuaonline-african-approach-ai-ethics-infrastructure
+GHA,Hubtel AI lab,Ghana,localai,,Hubtel,,2026-10-15-gha-hubtel-ceo-national-data-sharing-framework
 GIN,projet de supercalculateur,Guinea,localai,,Cite des sciences et de l'innovation de Guinee,,2025-05-01-gin-lelynx-dounia-supercalculateur-ia
 GIN,Nma Xui,Guinée,localai,,,,2024-03-16-gin-le360-nma-xui-ia-langues-locales
 GMB,"Mandinka, Wolof and Fula language datasets",Gambian local language datasets,localai,LingoAI stack,Jokkolabs Banjul and LingoAI,,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets
@@ -93,6 +96,7 @@ SDN,Sudanese Arabic three-resource suite,Sudan,localai,,Sudan University of Scie
 SEN,Senegal AI Factory,Senegal,localai,,Government of Senegal,,2026-08-03-new-deal-technologique-le-senegal-devoile-la-senegal-ai-factory-a-tokyo
 SEN,Allo Goor Gi,Senegal,localai,"phone call, Wolof and French",Andakia,,2026-07-30-allo-goor-gi-ia-contenus-pedagogiques-certifies
 SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires
+SEN,M-Kiriku ASR / M-Kiriku TTS,Senegal,localai,Hugging Face (AI Hub Senegal page),AI Hub Senegal,,2026-10-16-sen-kiriku-voice-challenge-ia-langues-nationales
 SLE,"Krio language model, Darli AI and Krio AI Agronomist",Sierra Leone,other,IVR and WhatsApp,Farmerline Group,,2024-07-01-sle-farmerline-mocti-mou-krio-language-model
 SOM,"Somali National Artificial Intelligence Center (SNAIC), Somali National University",Somalia,other,,Somali National University,,2026-07-15-somali-national-university-snaic-launch
 SOM,whisper-som-small,Somalia,localai,Hugging Face; fine-tuned from OpenAI Whisper-small,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release

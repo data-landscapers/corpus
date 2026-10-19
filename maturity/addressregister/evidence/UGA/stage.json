@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "unplaced",
-      "addressing": "",
+      "stage": "2",
+      "addressing": "underway",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether an addressing system is under way or in service.",
-      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "UGA-004",
+      "gaps": "No source held since October 2023 says an address register or digital addressing system is in service; the 2021 Kampala city address model is outside the window.",
+      "note": "Reassessed in stage 4c: in February 2025 Kampala was numbering houses, 12,555 of 373,826 plated. Nothing in the window says a register is in service.",
+      "as_at": "2026-10-20"
     }
   ]
 }

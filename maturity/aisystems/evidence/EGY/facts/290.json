@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strategy",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vodacom group CTO Dejan Kastelic told Business Day that Vodafone Business has broken ground in Egypt on Africa Data Centres Egypt with Elsewedy Electric and Cassava Technologies, which will use its own GPUs for internal and external users.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "Africa Data Centres Egypt",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Egypt",
+   "country_label": "Egypt",
+   "class": "localai",
+   "platform": "GPU data centre",
+   "owner": "Vodafone Business, Elsewedy Electric, Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

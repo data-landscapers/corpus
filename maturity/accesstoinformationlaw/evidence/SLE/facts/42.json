@@ -1,0 +1,37 @@
+{
+ "slug": "2024-09-30-sle-raic-fines-corporate-affairs-commission-nle80-000-for-non-compliance",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Sierra Leone's Right to Access Information Commission acted under the Right to Access Information Act 2013 on a request to the Corporate Affairs Commission.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Right to Access Information Act 2013",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Commission cites the Right to Access Information Regulations 2022 as made under the Act, alongside the Act itself.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Right to Access Information Regulations 2022",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The Commission fined the Corporate Affairs Commission NLe80,000 for missing the 15-working-day deadline on a request of 18 June 2024 and ordered the information provided.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Right to Access Information Act 2013",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

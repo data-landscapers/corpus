@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-30-nala-receives-uganda-payment-licenses",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "NALA, a Tanzanian fintech, announced it secured Payment Service Provider and Payment System Operator licenses from the Bank of Uganda, per We Are Tech Africa.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Payment Service Provider and Payment System Operator licences",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

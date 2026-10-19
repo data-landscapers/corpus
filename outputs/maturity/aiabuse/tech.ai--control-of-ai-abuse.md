@@ -22,11 +22,11 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 6 |
-| 3 Established | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 12 |
-| 1 Absent | 7 |
+| 1 Absent | 8 |
 | Unplaced | 0 |
-| No evidence | 19 |
+| No evidence | 17 |
 
 ## Countries
 
@@ -84,6 +84,12 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
 - The CNPA says the new Code de l'information et de la communication (Loi N°25-021/AU of 26 December 2025, promulgated by Décret N°26-023/PR of 2 February 2026) requires explicit labelling of any content generated or heavily modified by artificial intelligence, under its Article 231 ([source, 2026-02-02](https://www.cnpa-comores.org/un-nouveau-souffle-pour-le-cnpa/)).
+
+### Gabon: 3 Established
+
+A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
+
+- Gabon Media Time reports that the law ratifying the social-network ordinance, promulgated by decree 0436/PR of 5 October 2026, bans deepfakes of public or private persons (art. 32) and requires editors within 12 months to deploy AI-content detection and a visible, permanent label on AI-generated content (art. 53) ([source, 2026-10-05](https://gabonmediatime.com/gabon-amendes-jusqua-50-millions-et-peines-de-prison-pour-les-abus-commis-sur-les-reseaux-sociaux/)).
 
 ### Guinea: 3 Established
 
@@ -204,6 +210,12 @@ A rule or authority on harms from AI was being drafted in 2026; none in force is
 - Communication Technologies Minister Sofien Hemissi said his ministry has begun drafting legal and regulatory frameworks for responsible use of AI, protecting data and privacy ([source, 2026-05-23](https://www.webmanagercenter.com/2026/05/25/tunisie-la-strategie-nationale-de-lia-mise-sur-la-sante-lagriculture-et-la-souverainete-numerique/)).
 - The Rights and Freedoms Committee reviewed a 123-article draft organic law on personal data protection that, per its chairman, regulates the use of artificial intelligence and establishes the right not to be subject to a solely automated decision, with impact assessments for high-risk processing ([source, 2026-02-20](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/)).
 
+### Cameroon: 1 Absent
+
+A 2026 source says nothing addresses harms from AI.
+
+- Digital expert Hervé Tiwa says Cameroon currently has a legal gap on malicious AI use (deepfakes, disinformation) that the cybercrime law must be extended to fill ([source, 2026-10-19](https://www.digitalbusiness.africa/dr-herve-tiwa-il-y-a-un-vide-juridique-actuellement-quil-faut-combler/)).
+
 ### Cape Verde: 1 Absent
 
 A 2025 source says nothing addresses harms from AI.
@@ -254,12 +266,6 @@ Nothing held names a rule or authority against harms from AI or says there is no
 
 Not established: Nothing held says whether anything addresses harms from AI.
 
-### Cameroon: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
 ### Central African Republic: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
@@ -285,12 +291,6 @@ Nothing held names a rule or authority against harms from AI or says there is no
 Not established: Nothing held says whether anything addresses harms from AI.
 
 ### Eswatini: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Gabon: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
 

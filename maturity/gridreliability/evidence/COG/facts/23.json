@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E2C grid supply to operator sites",
+   "country_label": "10 hours a day",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only hours of grid supply to operator sites are given, not outages a month."
+}

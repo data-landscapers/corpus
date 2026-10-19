@@ -1,12 +1,42 @@
 {
  "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
  "studies": {
-  "taxadmin": {
+  "admindata": {
    "countries": {
     "TGO": {
-     "facts": [],
-     "systems": [],
-     "note": "The document says nothing about tax filing or payment."
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "DHIS2 reported that Togo's SIGE adds a DHIS2 analytical layer on top of CSPro and StatEduc, which holds the annual school census, and that regional staff use its dashboards, with inspector training done years ago and not refreshed.",
+       "as_of": "2026-05-04",
+       "date_precision": "day",
+       "system": "SIGE (DHIS2 with StatEduc)",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "education",
+       "fact": "The records behind Togo's SIGE are the annual school census held in StatEduc, per DHIS2.",
+       "as_of": "2026-05-04",
+       "date_precision": "day",
+       "system": "SIGE (DHIS2 with StatEduc)",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Togo",
+       "class": "admin",
+       "platform": "DHIS2; StatEduc; CSPro",
+       "owner": "Ministry of Education",
+       "tiers": "national; regional; inspection"
+      }
+     ],
+     "note": ""
     }
    }
   }

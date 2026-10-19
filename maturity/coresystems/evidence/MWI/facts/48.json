@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-22-mwi-nation-mra-digital-tax-stamps-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kalondola",
+   "country_label": "Kalondola digital excise tax stamps",
+   "class": "other",
+   "platform": "SICPA",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Kalondola is an excise stamp platform, not stated to be the tax authority's core revenue system, and no finance or payroll system is named."
+}

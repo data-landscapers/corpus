@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-04-sle-sierraloaded-wangov-app-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WanGov",
+   "country_label": "WanGov",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "A citizen service portal app; states nothing on the finance, tax or payroll systems."
+}

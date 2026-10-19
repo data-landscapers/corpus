@@ -1,32 +1,6 @@
-{
- "slug": "2025-12-04-gab-undp-atelier-digitalisation-actes-judiciaires",
- "studies": {
-  "dataprotectionlaw": {
-   "countries": {
-    "GAB": {
-     "facts": [],
-     "systems": [],
-     "note": "Mentions data protection specialists at a workshop only; no law stated."
-    }
-   }
-  },
-  "justice": {
-   "countries": {
-    "GAB": {
-     "facts": [],
-     "systems": [],
-     "note": "Workshop to scope a digital archive of judicial acts; no case management system stated."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "GAB": {
-     "facts": [],
-     "systems": [],
-     "note": "Document does not concern police stations."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-12-04-gab-undp-atelier-digitalisation-actes-judiciaires", "studies": {
+"coresystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document concerns digitising judicial records and says nothing on finance, tax or payroll systems."}}},
+"health": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on health systems."}}},
+"healthmis": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on health systems."}}},
+"schools": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The document says nothing on school records."}}}
+}}

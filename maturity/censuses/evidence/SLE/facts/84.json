@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-sle-statssl-mock-census-joint-monitoring-visit",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Statistics Sierra Leone says a 2026 mock population and housing census household enumeration was under way and closing on 2026-10-19, ahead of the national census scheduled for December 2026.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

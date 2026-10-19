@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-zaf-the-end-of-the-green-id-book-but-not-the-end-its-history",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A GCIS op-ed says South Africans are replacing the green ID book with the Smart ID card, which uses a digital chip and biometric information, and that more than 574,371 Smart ID applications were processed through bank branches by August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Smart ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID",
+   "country_label": "Smart ID card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

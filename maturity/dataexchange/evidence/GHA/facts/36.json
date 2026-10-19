@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The analyst says the Ministry of Communication, Digital Technology and Innovations and NITA, under the World Bank-backed Ghana Digital Acceleration Project, are moving to operationalise a National Data Exchange Hub, described elsewhere as soon-to-be-established.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "National Data Exchange Hub",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Exchange Hub",
+   "country_label": "National Data Exchange Hub",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations; NITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,41 +1,48 @@
 {
  "slug": "2025-08-19-mwi-techafricanews-macra-communications-act-comments",
  "studies": {
-  "eparticipation": {
+  "accesstoinformationlaw": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "Comments invited by email, post and in person; no online posting stated."
+     "note": "Notice is about a Communications Act review; nothing on this law."
     }
    }
   },
-  "publicconsultation": {
-   "countries": {
-    "MWI": {
-     "facts": [
-      {
-       "sub_indicator": "consultation",
-       "aspect": "hearing",
-       "value": "held",
-       "fact": "MACRA called on stakeholders and the public, including industry, consumer groups, academia and civil society, to submit comments on the review of the Communications Act by 5 September 2025, through its Digital Laws Taskforce.",
-       "as_of": "2025-08-19",
-       "date_precision": "day",
-       "system": "MACRA Communications Act review call for comments",
-       "class": "consultation"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "statisticslaw": {
+  "cybersecuritylaw": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "Nothing on a statistics law."
+     "note": "Notice is about a Communications Act review; nothing on this law."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice is about a Communications Act review; nothing on this law."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Communications Act review invitation; it does not say the Act covers electronic transactions or online selling."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Notice is about a Communications Act review; nothing on this law."
     }
    }
   }

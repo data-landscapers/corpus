@@ -1,0 +1,32 @@
+{
+ "slug": "2025-06-17-mar-bank-al-maghrib-et-le-haut-commissariat-au-plan-renforcent-leur-cooper",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convention is with the central bank, whose statistics are not administrative records of a public service, and is a commitment, not a pilot or agreement on records."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Two institutions only commit to set up a secure automated data exchange; a pledge, not a platform procured, built or live."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No police station records mentioned."
+    }
+   }
+  }
+ }
+}

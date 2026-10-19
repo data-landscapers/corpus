@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-19-dza-mesrs-baddari-gpu-calcul-haute-performance-ia-2030",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The higher-education ministry says its 19 October 2026 working session was held as part of implementing the national artificial intelligence strategy.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The ministry names a National Commission responsible for implementing the national AI strategy, which is to sit in a joint framework with companies and public bodies drafting a 2030 roadmap.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Commission nationale chargée de la mise en œuvre de la stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission nationale chargée de la mise en œuvre de la stratégie nationale de l'intelligence artificielle",
+   "country_label": "Commission nationale de la stratégie nationale de l'IA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
