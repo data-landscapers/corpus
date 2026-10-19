@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: BWA
 ledger_rows: 18
-not_held: 7
-record: b4d0c7172d2e
+not_held: 5
+record: 32e11741b81c
 ---
 
 # News, Sep – Oct 2026
