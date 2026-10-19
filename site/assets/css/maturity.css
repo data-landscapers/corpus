@@ -25,6 +25,7 @@
   letter-spacing: .02em;
   white-space: nowrap;
 }
+.mat-chip--blank { box-shadow: inset 0 0 0 1px #b5b5b5; }
 
 .mat-sw {
   display: inline-block;
@@ -126,6 +127,7 @@
 .mat-map svg { display: block; width: 100%; height: 100%; }
 
 .mat-country { stroke: #fff; stroke-width: .7; cursor: pointer; transition: opacity .12s; }
+.mat-country.is-blank { stroke: #b5b5b5; }
 .mat-country:hover, .mat-country:focus { stroke: var(--ink); stroke-width: 1.4; outline: none; }
 .mat-country.is-off { cursor: default; opacity: .55; }
 .mat-country.is-off:hover { stroke: #fff; stroke-width: .7; }

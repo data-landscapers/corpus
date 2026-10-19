@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """maturity-site.py — the Maturity Assessment's map, country reports and methodology page.
 
-    python scripts/maturity-site.py   -> site/maturity/index.html
+    python scripts/maturity-site.py [--redesign]
+                                      -> site/maturity/index.html
                                          site/maturity/data/maturity.json, africa.json
                                          site/maturity/countries/{iso3}/index.html
                                          site/methodology/maturity/index.html
@@ -72,6 +73,11 @@ GEO = ROOT / "lookups" / "africa.geojson"
 GEO_TOLERANCE = 0.02
 
 LAUNCHED = False
+# A redesign cuts no edition: the reports are rewritten under the editions they already serve.
+REDESIGN = "--redesign" in sys.argv
+# The changes box counts only moves recorded from this day: everything before it was the baseline
+# backfill, not change (Bill, 2026-10-19).
+CHANGES_FROM = "2026-10-20"
 # Indexed ahead of launch (Bill, 2026-10-17): it takes days to take effect.
 INDEXED = True
 # Before launch the reports and the methodology page carry the Under construction band; the map carries
@@ -95,8 +101,11 @@ STAGES = [
     dict(n=5, label="Leading", color="#2166ac", ink="#ffffff",
          desc="Embedded: interoperable, measured, sustained; at or beyond the continental norm."),
 ]
-GREY = dict(label="No evidence", color="#d4d4d4", ink="#1a1a18",
-            desc="Not staged: nothing held, or evidence held that meets no rung.")
+# Not staged. Unplaced keeps the grey; No evidence is left unfilled (Bill, 2026-10-19).
+GREY = dict(label="Unplaced", color="#d4d4d4", ink="#1a1a18",
+            desc="Not staged: evidence held that meets no rung.")
+BLANK = dict(label="No evidence", color="#ffffff", ink="#1a1a18",
+             desc="Not staged: nothing held states any fact the ladder tests.")
 
 UNDER_CONSTRUCTION = ('<div class="mat-construction" role="note"><strong>Under construction.</strong> '
                       'The Maturity Assessment is being built indicator by indicator; stages shown '
@@ -188,7 +197,7 @@ def last_change(history: list[dict], iid: str, iso: str) -> tuple[str | None, st
 
 def recent_moves(history: list[dict], iid: str, today: date) -> list[dict]:
     """The changes box: stage moves on evidence in the past six months, newest first."""
-    since = (today - timedelta(days=183)).isoformat()
+    since = max((today - timedelta(days=183)).isoformat(), CHANGES_FROM)
     return [dict(iso3=h["iso3"], month=month(h["date"]), **{"from": h["from"], "to": h["to"]})
             for h in sorted(history, key=lambda h: h["date"], reverse=True)
             if h["indicator_id"] == iid and h["kind"] == "fact" and h["from"] != h["to"]
@@ -263,7 +272,7 @@ def build_data(studies, indicators, countries) -> dict:
                 **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
     # No build date: nothing read it, and it rewrote the file on every day's render.
-    return dict(launched=LAUNCHED, stages=STAGES, grey=GREY, downloads={},
+    return dict(launched=LAUNCHED, stages=STAGES, grey=GREY, blank=BLANK, downloads={},
                 topics=topics, indicators=inds, cells=cells, changes=changes,
                 countries={c["iso-3"]: c["country-name"] for c in countries
                            if not c["iso-3"].startswith("X")})
@@ -519,7 +528,9 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
 def chip(cell: dict | None) -> str:
     if not cell or cell["stage"] is None:
         state = cell["state"] if cell else "no evidence"
-        return f'<span class="mat-chip" style="background:{GREY["color"]};color:{GREY["ink"]}">{state.capitalize()}</span>'
+        if state == "unplaced":
+            return f'<span class="mat-chip" style="background:{GREY["color"]};color:{GREY["ink"]}">Unplaced</span>'
+        return f'<span class="mat-chip mat-chip--blank" style="background:{BLANK["color"]};color:{BLANK["ink"]}">No evidence</span>'
     s = STAGES[cell["stage"] - 1]
     return f'<span class="mat-chip" style="background:{s["color"]};color:{s["ink"]}">{s["n"]} {s["label"]}</span>'
 
@@ -632,7 +643,8 @@ def report_edition(iso3: str, rec: str) -> tuple[str, bool]:
     held = editions.edition_on_page(prior)
     if held and prior.exists():
         m = PRIOR_RECORD.search(prior.read_text(encoding="utf-8"))
-        if m and m.group(1) == rec:
+        # `--redesign`: the chrome or the markup moved and the material did not (Bill, 2026-10-16).
+        if m and (m.group(1) == rec or REDESIGN):
             return held, False
     out_dir = SITE / "reports" / iso3
     return editions.next_edition(out_dir, f"{iso3}-maturity", date.today().isoformat(),
@@ -662,7 +674,7 @@ Each studied indicator places each of the 54 countries on one five-stage scale. 
 
 ## No evidence and unplaced
 
-**No evidence** means nothing held states any of the facts the ladder tests. **Unplaced** means evidence is held but it meets no rung, so no stage is set. Both are shown in grey. Neither is stage 1: *Absent* needs a dated source that says the thing does not exist.
+**No evidence** means nothing held states any of the facts the ladder tests. **Unplaced** means evidence is held but it meets no rung, so no stage is set. On the map *no evidence* is left unfilled and *unplaced* is grey. Neither is stage 1: *Absent* needs a dated source that says the thing does not exist.
 
 ## How a stage is set
 

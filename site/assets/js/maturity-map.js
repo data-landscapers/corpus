@@ -70,7 +70,7 @@
   }
 
   function stageInfo(c) {
-    return c.stage ? data.stages[c.stage - 1] : data.grey;
+    return c.stage ? data.stages[c.stage - 1] : c.state === "unplaced" ? data.grey : data.blank;
   }
 
   function stageText(c) {
@@ -220,7 +220,12 @@
       var iso = f.properties.iso3;
       return NOT_ASSESSED[iso] ? data.grey.color : stageInfo(cell(iso)).color;
     };
-    gCountries.selectAll("path").attr("fill", fill)
+    /* No evidence is unfilled, so it needs a border the white outline does not give it. */
+    var blank = function (f) {
+      var iso = f.properties.iso3;
+      return !NOT_ASSESSED[iso] && stageInfo(cell(iso)) === data.blank;
+    };
+    gCountries.selectAll("path").attr("fill", fill).classed("is-blank", blank)
       .classed("is-selected", function (f) { return f.properties.iso3 === state.country; });
     gIslands.selectAll("circle").attr("fill", fill)
       .classed("is-selected", function (f) { return f.properties.iso3 === state.country; });
@@ -248,7 +253,7 @@
   function showTip(ev, iso) {
     var c = cell(iso), tip = $("mat-tooltip"), s = stageInfo(c);
     tip.innerHTML = '<div class="mat-tip__name">' + esc(data.countries[iso] || iso) + "</div>" +
-      '<span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' + esc(stageText(c)) + "</span>" +
+      '<span class="mat-chip' + (s === data.blank ? " mat-chip--blank" : "") + '" style="background:' + s.color + ";color:" + s.ink + '">' + esc(stageText(c)) + "</span>" +
       '<p class="mat-tip__short">' + esc(c.short || "Nothing held.") + "</p>" +
       '<p class="mat-tip__cta">Click for detail · double-click for the report</p>';
     tip.hidden = false;
@@ -269,8 +274,10 @@
       return '<li title="' + esc(s.desc) + '"><span class="mat-sw" style="background:' + s.color + '"></span>' +
         s.n + " " + esc(s.label) + "</li>";
     });
-    items.push('<li title="' + esc(data.grey.desc) + '"><span class="mat-sw" style="background:' + data.grey.color +
-      '"></span>' + esc(data.grey.label) + "</li>");
+    [data.grey, data.blank].forEach(function (g) {
+      items.push('<li title="' + esc(g.desc) + '"><span class="mat-sw" style="background:' + g.color +
+        '"></span>' + esc(g.label) + "</li>");
+    });
     $("mat-legend").innerHTML = "<ul>" + items.join("") + "</ul>";
   }
 
@@ -305,7 +312,7 @@
     var moved = c.reassessed ? "Reassessed " + c.reassessed : (c.moved || "First assessment");
     box.innerHTML =
       '<div class="mat-side__head"><div class="mat-side__name"><h2>' + esc(data.countries[iso] || iso) + "</h2>" +
-      '<span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' +
+      '<span class="mat-chip' + (s === data.blank ? " mat-chip--blank" : "") + '" style="background:' + s.color + ";color:" + s.ink + '">' +
       esc(stageText(c)) + "</span></div>" +
       '<div class="mat-side__row"><p class="mat-side__meta"><span><b>Last assessed</b> ' + esc(c.assessed || "—") + "</span>" +
       "<span><b>Stage last moved</b> " + esc(moved) + "</span></p>" +

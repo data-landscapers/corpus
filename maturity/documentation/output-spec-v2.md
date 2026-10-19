@@ -41,12 +41,12 @@ At phone width the sidebar stacks below the map and the changes box below the si
 
 - **All 54 countries.** The geojson is `africa-dpi/africa.geojson`, copied into the site.
 - **Island states get clickable circles** *(Bill)*: Cabo Verde, Comoros, Mauritius, Seychelles and São Tomé and Príncipe each get a circle about 16 px across beside their outline, filled with the stage colour and answering hover, click and double-click exactly as a mainland country does.
-- **Western Sahara is greyed out** *(Bill)*: drawn in the no-evidence grey with no tooltip and no click; it is not one of the 54.
+- **Western Sahara is greyed out** *(Bill)*: drawn in the unplaced grey with no tooltip and no click; it is not one of the 54.
 - **One map per sub-indicator** *(Bill)*: HMIS and EMR are separate options in the Indicator dropdown, each with its own map.
 
 ## 4. Colours and the legend
 
-**One grey for everything not staged** *(Bill)*: *No evidence* and *unplaced* share it, and the tooltip says which.
+**Not staged is two keys** *(Bill, 2026-10-19)*: *unplaced* is grey, *no evidence* is unfilled with a grey outline.
 
 **Five stages, bad to good, readable without red–green discrimination, at even visual weight** *(Bill, 2026-10-09: the first scale's pale yellow read weaker than its orange)*. Every pair stays distinct under simulated deuteranopia, protanopia and tritanopia.
 
@@ -57,7 +57,8 @@ At phone width the sidebar stacks below the map and the changes box below the si
 | 3 | Establishing | `#f2c12e` |
 | 4 | Operating | `#67a9cf` |
 | 5 | Leading | `#2166ac` |
-| — | No evidence | `#d4d4d4` |
+| — | Unplaced | `#d4d4d4` |
+| — | No evidence | `#ffffff`, outlined |
 
 **Labels 2 and 3 are Preparing and Establishing** *(Bill, 2026-10-09)*, replacing Nascent and Established; all five labels are still under review. The build relabels the ladders the studies print. Colour never carries the stage alone: the tooltip and the sidebar print the stage number and label.
 
@@ -97,7 +98,7 @@ Before a click it says *Select a country.*, large and centred in its box *(Bill,
 
 ## 7. The changes box
 
-**Stage changes on evidence in the past six months, for the selected indicator.** One line per change: *Country: stage 2 → 3 (Aug 2026)*, newest first. The initial baseline is excluded *(Bill)*, and so are reassessed cells *(Bill: see §6)*. With nothing to show it says *No stage changes in the past six months.*, which is what it will say until the first post-baseline snapshot.
+**Stage changes on evidence in the past six months, for the selected indicator.** One line per change: *Country: stage 2 → 3 (Aug 2026)*, newest first. The initial baseline is excluded *(Bill)*: only moves recorded from 2026-10-20 count (`CHANGES_FROM`, Bill 2026-10-19), and so are reassessed cells *(Bill: see §6)*. With nothing to show it says *No stage changes in the past six months.*, which is what it will say until the first post-baseline snapshot.
 
 ## 8. The dropdowns
 

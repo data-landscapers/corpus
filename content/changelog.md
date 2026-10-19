@@ -1,3 +1,8 @@
+## 19 October 2026
+
+- On the Maturity Assessment map, a country with no evidence is now left white and outlined, and grey means only unplaced: evidence held that meets no rung. The legend shows the two separately.
+- The map's Changes in the past six months box now counts only stage changes recorded from 20 October 2026. Everything earlier was the initial assessment filled in, not change.
+
 ## 18 October 2026
 
 - The Maturity Assessment has read the final batch of about 1,400 documents searched for its empty cells, and 417 country assessments that had no evidence now have a stage. They are shown as reassessed, not as movement, since most of the evidence is older.
