@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techafricanews.com/2026/10/02/ghana-to-centralise-technical-review-of-public-sector-ai-deployments/",
+  "title": "Ghana to Centralise Technical Review of Public-Sector AI Deployments",
+  "publisher": "TechAfrica News",
+  "published": "2026-10-02",
+  "sub_indicator": "govai",
+  "why": "Central technical review for AI bought by public bodies (rules)"
+ },
+ {
+  "url": "https://ghananewsonline.com.gh/finance-ministry-adopts-legal-ai-platform-in-first-government-wide-departmental-deployment/",
+  "title": "Finance Ministry adopts Legal AI Platform in First Government-Wide Departmental Deployment",
+  "publisher": "Ghana News Online",
+  "published": "2026-09-01",
+  "sub_indicator": "govai",
+  "why": "Ministry of Finance legal directorate uses Eskwai AI"
+ },
+ {
+  "url": "https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does",
+  "title": "Ghana's disaster agency turns to AI to reach people before the water does",
+  "publisher": "UNESCO",
+  "published": "2026-07-30",
+  "sub_indicator": "govai",
+  "why": "NADMO AI chatbot handed over and staff trained"
+ },
+ {
+  "url": "https://gna.org.gh/2026/06/gra-says-publican-ai-boosting-revenue-mobilisation-trade-compliance/",
+  "title": "GRA says Publican AI boosting revenue mobilisation, trade compliance",
+  "publisher": "Ghana News Agency",
+  "published": "2026-06-12",
+  "sub_indicator": "govai",
+  "why": "GRA customs AI tool in service"
+ },
+ {
+  "url": "https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html",
+  "title": "Freight forwarders, importers raise concern over Publican AI",
+  "publisher": "Graphic Online",
+  "published": "2026-04-08",
+  "sub_indicator": "govai",
+  "why": "Ministry of Finance AI system proof of concept, pilot, rollout"
+ },
+ {
+  "url": "https://gna.org.gh/2026/01/ghana-to-plug-us127bn-revenue-leakages-with-new-ai-customs-tool/",
+  "title": "Ghana to plug US$127bn revenue leakages with new AI customs tool",
+  "publisher": "Ghana News Agency",
+  "published": "2026-01-16",
+  "sub_indicator": "govai",
+  "why": "GRA AI customs tool procured and piloted"
+ },
+ {
+  "url": "https://moc.gov.gh/2025/08/14/minister-advocates-for-ai-readiness-and-cost-saving-it-reforms/",
+  "title": "Minister Advocates for AI Readiness and Cost-Saving IT Reforms",
+  "publisher": "Ministry of Communication, Digital Technology and Innovations",
+  "published": "2025-08-14",
+  "sub_indicator": "govai",
+  "why": "Phased AI rollout in five ministries"
+ },
+ {
+  "url": "https://www.myjoyonline.com/sam-george-unveils-plan-to-connect-48-government-data-registries-for-ai-driven-planning/",
+  "title": "Sam George unveils plan to connect 48 government data registries for AI-driven planning",
+  "publisher": "MyJoyOnline",
+  "published": "2026-10-18",
+  "sub_indicator": "govai",
+  "why": "Plan to integrate AI into public administration"
+ }
+]

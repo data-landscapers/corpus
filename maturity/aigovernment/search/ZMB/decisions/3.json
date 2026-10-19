@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "The Zambia Statistics Agency, with the Evidence Lab, developed an LLM pipeline to classify 1,000 Labour Force Survey responses, with all evaluated LLMs outperforming human enumerators.",
+ "title": "Transforming Zambia's Labour Force Survey Using Artificial Intelligence",
+ "publisher": "International Growth Centre",
+ "published": "2025-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

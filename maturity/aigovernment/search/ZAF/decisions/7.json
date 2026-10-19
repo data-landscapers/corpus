@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use;bodies",
+ "fact": "The Policy Innovation Lab's June 2025 catalogue lists 23 South African AI tools deployed across the public sector, including chatbots such as MomConnect and SANRAL's pilot of AI pothole detection, and calls adoption not widespread.",
+ "title": "Update to our catalogue of AI public sector use cases",
+ "publisher": "Policy Innovation Lab, Stellenbosch University",
+ "published": "2025-09-03",
+ "date_source": "source",
+ "why_not": ""
+}

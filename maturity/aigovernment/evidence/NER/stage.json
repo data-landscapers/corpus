@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "4",
-   "use": "inservice",
-   "bodies": "several",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002",
-   "gaps": "No source held since October 2023 says the government has issued rules or a register for its own use of AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "no evidence",
+      "use": "",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says whether government bodies use AI.",
+      "note": "Rebuild 2026-10-20: the ILLIMI rows reported a training course and a platform left accessible to the trainees' institutions, not a body using AI in service; nothing else is held.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

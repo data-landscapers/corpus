@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_transportes_capacita_a_su_personal_en_ia_y_ciberseguridad",
+  "title": "El Ministerio de Transportes capacita a su personal en IA y ciberseguridad",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2026-09-15",
+  "sub_indicator": "govai",
+  "why": "Ministry staff AI training"
+ },
+ {
+  "url": "https://realequatorialguinea.com/tecnologia/gitge-iniciara-nueva-etapa-con-la-incorporacion-de-la-ia-en-la-gestion-de-las-infraestructuras-de-telecomunicaciones/",
+  "title": "GITGE iniciará nueva etapa con la incorporación de la IA",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2026-07-17",
+  "sub_indicator": "govai",
+  "why": "State telecom infrastructure manager studies AI for own work"
+ },
+ {
+  "url": "https://realequatorialguinea.com/salud/sanidad-lanza-el-asistente-digital-guinea-salud-primer-chatbot-sanitario-con-ia-de-guinea-ecuatorial/",
+  "title": "Sanidad lanza el asistente digital Guinea Salud",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2025-06-06",
+  "sub_indicator": "govai",
+  "why": "Health ministry AI chatbot, pilot"
+ },
+ {
+  "url": "https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/",
+  "title": "Guinea Ecuatorial da los primeros pasos para disponer de una ley de IA",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2025-08-27",
+  "sub_indicator": "govai",
+  "why": "Draft AI law (rules question; not for own use)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/telecomunicaciones_y_huawei_firman_un_mou_para_acelerar_la_implementacion_del_gobierno_electronico",
+  "title": "Telecomunicaciones y Huawei firman un MoU ... Gobierno Electrónico",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2025-12-28",
+  "sub_indicator": "govai",
+  "why": "E-government programme, check for AI"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/cniapge_presenta_al_primer_ministro_el_producto_%E2%80%9Cexperta%E2%80%9D",
+  "title": "CNIAPGE presenta al Primer Ministro el producto Experta",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2024-12-18",
+  "sub_indicator": "govai",
+  "why": "E-government platform presented; check for AI"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "IGC reports that, with ZamStats, it tested GPT-4 Turbo on expert-coded labour data, where the model outperformed human coders in industry and broad occupation categories.",
+ "title": "From promise to practice: Making AI work in LMIC governments",
+ "publisher": "International Growth Centre",
+ "published": "2025-08-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

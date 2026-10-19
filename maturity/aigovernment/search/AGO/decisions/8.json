@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "INACOM (the communications regulator) launched a new portal on 12 June 2025 with a 24-hour AI chatbot that answers queries and tracks the status of requests.",
+ "title": "Novo Portal do INACOM destaca inovação ao serviço do cidadão",
+ "publisher": "INACOM",
+ "published": "2025-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

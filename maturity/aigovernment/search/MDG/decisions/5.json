@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "On 7 October 2025 the Malagasy Customs launched the generative-AI Agent SVO, built by its CEDIA, which analyses invoices automatically to detect fakes and inconsistencies.",
+ "title": "L’Agent SVO déployé : la Douane franchit une nouvelle étape",
+ "publisher": "Direction générale des douanes Malagasy",
+ "published": "2025-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

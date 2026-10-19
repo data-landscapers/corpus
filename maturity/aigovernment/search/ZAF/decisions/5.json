@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use;rules",
+ "fact": "Home Affairs replied that the first ETA release runs without AI learning, but future releases will add AI for document authenticity verification, with human oversight of all AI decisions and appeal rights.",
+ "title": "Questions to Ministers (reply to Machi on the Electronic Travel Authorisation system)",
+ "publisher": "Parliamentary Monitoring Group (Department of Home Affairs reply)",
+ "published": "2025-11-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

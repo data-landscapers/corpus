@@ -1,6 +1,6 @@
 # Use of AI in government administration: AI in administration
 
-*As at 2026-09-30.*
+*As at 2026-10-20.*
 
 ## The norm
 
@@ -20,21 +20,22 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 2 |
-| 3 Established | 16 |
-| 2 Nascent | 16 |
+| 5 Leading | 0 |
+| 4 Operating | 4 |
+| 3 Established | 12 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 16 |
+| No evidence | 21 |
 
 ## Countries
 
-### Benin: 5 Leading
+### Cameroon: 4 Operating
 
-The government published rules or a register for its own use of AI in 2026.
+The social insurance fund and the state IT centre ran AI systems by 2026; rules for government use of AI are not known.
 
-- ASIN's June 2026 legal note sets measures for public agents' use of generative AI in the administration, including a binding charter, provider contract clauses barring model training on data and transfers under the Cloud Act or FISA, and a data protection impact assessment ([source, 2026-06](https://asin.bj/doc/137/download)).
+- The director general of Cameroon's CNPS said it uses AI for biometric identification, automatic customer response and an e-wallet, presented at a Minpostel workshop on 17 February 2026 ([source, 2026-02-17](https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/)).
+- CENADI unveiled GOV-AI, an AI integrated into the nGomna platform, available now to public agents to consult regulatory texts and get answers based on official documents, as the Direction Generale du Budget reports ([source, 2025-07-02](https://www.dgb.cm/gov-ai-lintelligence-artificielle-gouvernementale-en-vitrine-au-sago-2025/)).
 
 ### Egypt: 4 Operating
 
@@ -42,30 +43,25 @@ AI was in service in several government bodies in 2026; rules or a register for 
 
 - The same report counts more than 40 AI applications across government and banking ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
 
-### Niger: 4 Operating
+### Nigeria: 4 Operating
 
-AI was in service in several government bodies in 2026; rules or a register for it are not known.
+A federal AI chatbot and a Lagos State agency chatbot were in service by 2026; rules for government use of AI are not known.
 
-- ILLIMI Niger says the platform serves partner institutions including HACP, the Interior ministry, INS and ANSI ([source, 2026-06](https://illimi-niger.com/illimi-niger-100-professionnels-formes-pour-mettre-lintelligence-artificielle-au-service-de-la-paix-de-la-resilience-et-du-developpement/)).
+- Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI ([source, 2026-05-21](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/)).
+- The Lagos State Domestic and Sexual Violence Agency announced on 24 February 2025 Ask INU, a WhatsApp-based AI chatbot giving survivors immediate information and referrals ([source, 2025-02-24](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors)).
+
+### South Africa: 4 Operating
+
+Home Affairs and the public service department ran AI systems in 2026; rules for the government's own use of AI are not known.
+
+- Home Affairs' Electronic Travel Authorisation uses machine learning and biometrics to screen applications; the minister says over 203,000 were processed since May and over 5,500 fraudulent ones rejected ([source, 2026-08](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/)).
+- The Department of Public Service and Administration says Minister Buthelezi launched the Batho Pele AI Chatbot, built with Meta and Juicetel, giving citizens and public servants access to public service policy updates, circulars and legislation ([source, 2026-08-01](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/)).
 
 ### Algeria: 3 Established
 
 A government body used an AI system in service in 2025; AI in several bodies is not on record.
 
 - Algeria's Ministry of Higher Education and Scientific Research launched on 29 April 2025 the Private Digital Adviser, an LLM-based conversational system answering queries on all the ministry's regulatory documents ([source, 2025-04-29](https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/)).
-
-### Cameroon: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- The director general of Cameroon's CNPS said it uses AI for biometric identification, automatic customer response and an e-wallet, presented at a Minpostel workshop on 17 February 2026 ([source, 2026-02-17](https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/)).
-- CENADI unveiled GOV-AI, an AI integrated into the nGomna platform, available now to public agents to consult regulatory texts and get answers based on official documents, as the Direction Generale du Budget reports ([source, 2025-07-02](https://www.dgb.cm/gov-ai-lintelligence-artificielle-gouvernementale-en-vitrine-au-sago-2025/)).
-
-### Cape Verde: 3 Established
-
-A government body used an AI system in service in 2024; AI in several bodies is not on record.
-
-- The Ministry of Finance says an AI application for financial and accounting management, built by NOSi with SINTAXY to automate NOSi's accounting system and meant for public and private entities, was launched on 19 November 2024 ([source, 2024-11-19](https://www.mf.gov.cv/-/vice-primeiro-ministro-destaca-transforma%C3%A7%C3%A3o-digital-como-pilar-do-desenvolvimento-de-cabo-verde)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -130,25 +126,11 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 - A NUST master's thesis evaluates the government's Pocket Guide 2.0 Pocket Bot AI chatbot as a digital self-service tool for civil servants, based on interviews with 20 civil servants who used it ([source, 2025-01-31](https://ir.nust.na/items/97b0e777-f3f9-4918-8cfb-26a6cff001d3)).
 - The Prime Minister said the launched Digital Pocket Guide 2.0 has an AI chatbot, Pocketbot, through which civil servants ask questions and receive instant answers on public service HR policies ([source, 2023-11-24](https://nbcnews.na/node/103524)).
 
-### Nigeria: 3 Established
+### Uganda: 3 Established
 
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
+The civil aviation authority ran AI number-plate recognition in 2026; AI in a second government body is not known.
 
-- Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI ([source, 2026-05-21](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/)).
-- The Lagos State Domestic and Sexual Violence Agency announced on 24 February 2025 Ask INU, a WhatsApp-based AI chatbot giving survivors immediate information and referrals ([source, 2025-02-24](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors)).
-
-### Senegal: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- ARCOP says the APPEL public procurement platform, in its pilot phase since 14 October 2025, includes an integrated AI-based assistant that guides users on regulatory and technical matters ([source, 2026-02-12](https://arcop.sn/2026/02/12/premiers-resultats-encourageants-sur-la-plateforme-appel-4-mois-de-mise-en-oeuvre-plus-de-400-fournisseurs-inscrits-80-ppm-publies-et-15-procedures-lancees/)).
-
-### South Africa: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- Home Affairs' electronic travel authorisation, live at four airports since its mid-August 2026 launch, uses automated risk-based adjudication, with human review only where the system detects an anomaly, per the minister's spokesperson ([source, 2026-08](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8)).
-- Home Affairs' Electronic Travel Authorisation uses machine learning and biometrics to screen applications; the minister says over 203,000 were processed since May and over 5,500 fraudulent ones rejected ([source, 2026-08](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/)).
+- The Daily Monitor reported on 9 October 2026 that the Uganda Civil Aviation Authority runs Entebbe airport car parks on entervo V3 with AI and machine-learning number-plate recognition, installed by Samanga Utilities Limited, per UCAA's Vianney Luggya ([source, 2026-10-09](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)).
 
 ### Angola: 2 Nascent
 
@@ -163,17 +145,17 @@ AI for public administration was under way in 2025; none in service is on record
 - The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool ([source, 2025-10-21](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/)).
 - Digital Transition Minister Aminata Zerbo/Sabane told parliament her department is finalising three major projects: the Djam platform, a chatbot on electronic communications regulation and a chatbot on Burkina Faso's legislative texts ([source, 2025-03-11](https://an.bf/127)).
 
+### Cape Verde: 2 Nascent
+
+The justice institute demonstrated an AI chat in 2025; an AI system in service is not known.
+
+- The Instituto da Modernização e Inovação da Justica's president presented the Portal da Justica and demonstrated its Inteligencia Artificial Integrada initiative, a platform with an AI chat built to help citizens access information and digital services ([source, 2025-10-23](https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial)).
+
 ### Congo: 2 Nascent
 
 AI for public administration was under way in 2024; none in service is on record.
 
 - The DGPME says it opened an AI-based interactive information platform on the business-support schemes to users for testing, ahead of launching its chatbot ([source, 2024-09-22](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490)).
-
-### DR Congo: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- Enabel tendered a contract published 2026-08 (offers due 2026-09-07) to develop and deploy AI modules for an AI-driven job-matching platform of ONEM, the DRC national employment office ([source, 2026-08](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf)).
 
 ### Djibouti: 2 Nascent
 
@@ -206,11 +188,12 @@ AI for public administration was under way in 2026; none in service is on record
 - The blog by Vishal Askurn says the Bank of Mauritius has explored AI and machine-learning applications within its own operations, including document processing, information gathering, data analytics and forecasting ([source, 2026-09-28](https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead)).
 - Mauritius Telecom's CEO says MyTLearn, an AI education platform with an AI tutor developed in partnership with the Ministry of Education, completed pilots across ten schools, with a goal of an AI coach for every secondary school teacher by 2027 ([source, 2026-07](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
 
-### Sao Tome and Principe: 2 Nascent
+### Senegal: 2 Nascent
 
-AI for public administration was under way in 2026; none in service is on record.
+The procurement platform's AI assistant was in pilot in 2026; an AI system in full service is not known.
 
-- UNODC says Sao Tome and Principe has launched development of DireitosAoPovo, an AI-augmented access-to-justice platform with a legal information chatbot that connects citizens to a Judicial Police officer to file complaints and helps the officer organise information ([source, 2026-06](https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/when-walking-into-a-police-station-is-the-barrier--build-a-door-that-opens-from-the-other-side.html)).
+- ARCOP says the APPEL public procurement platform, in its pilot phase since 14 October 2025, includes an integrated AI-based assistant that guides users on regulatory and technical matters ([source, 2026-02-12](https://arcop.sn/2026/02/12/premiers-resultats-encourageants-sur-la-plateforme-appel-4-mois-de-mise-en-oeuvre-plus-de-400-fournisseurs-inscrits-80-ppm-publies-et-15-procedures-lancees/)).
+- RTS says the TGI de Pikine-Guediawaye launched works on 5 October 2026 to set up a local AI application for judicial archives, with UNDP and Korean support, as a pilot court ([source, 2026-10-05](https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires)).
 
 ### Seychelles: 2 Nascent
 
@@ -224,24 +207,11 @@ AI for public administration was under way in 2026; none in service is on record
 
 - The Ministry of Basic and Senior Secondary Education developed EDITH, an AI system for ministry officials' information-management tasks, by March 2026, and is preparing handover to its IT Department from pilot status ([source, 2026-03](https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/)).
 
-### Tanzania: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- A University of Dar es Salaam paper reports an FAQ chatbot developed for the Tanzania Ports Authority was usability-tested with 15 domain experts, achieving a 95.1% weighted task success rate ([source, 2026-08-03](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3)).
-
 ### Tunisia: 2 Nascent
 
 AI for public administration was under way in 2026; none in service is on record.
 
 - The Director General of the National Customs School said projects underway, to be announced soon, include AI-powered communication tools, particularly a chatbot within the General Directorate of Taxes ([source, 2026-09-29](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/)).
-
-### Uganda: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- Minister Kasule Lumumba said the Uganda Communications Commission is in the process of procuring an AI-powered system to identify and filter harmful content; cost, vendor and date were not disclosed ([source, 2026-09-25](https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media)).
-- The Uganda Police Force says it is set to introduce an AI-powered chatbot for public access to police services, and an officer demonstrated how the public will use it, but it is not yet launched and will be rolled out in different parts of the country ([source, 2026-09-03](https://allafrica.com/stories/202609030622.html)).
 
 ### Zimbabwe: 2 Nascent
 
@@ -267,6 +237,12 @@ Nothing held since 2023 names AI in public administration, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether a government body uses an AI system.
 
+### Benin: No evidence
+
+Nothing held shows a government body using or testing AI, so no stage is set.
+
+Not established: Nothing held says whether government bodies use AI.
+
 ### Burundi: No evidence
 
 Nothing held names AI in public administration or says there is none, so no stage is set.
@@ -288,6 +264,12 @@ Not established: Nothing held says whether government bodies use AI.
 ### Comoros: No evidence
 
 Nothing held names AI in public administration or says there is none, so no stage is set.
+
+Not established: Nothing held says whether government bodies use AI.
+
+### DR Congo: No evidence
+
+A donor tendered AI work for the employment office, but no government body is shown testing AI, so no stage is set.
 
 Not established: Nothing held says whether government bodies use AI.
 
@@ -327,9 +309,21 @@ Nothing held names AI in public administration or says there is none, so no stag
 
 Not established: Nothing held says whether government bodies use AI.
 
+### Niger: No evidence
+
+Nothing held shows a government body using or testing AI, so no stage is set.
+
+Not established: Nothing held says whether government bodies use AI.
+
 ### Rwanda: No evidence
 
 Nothing held names AI in public administration or says there is none, so no stage is set.
+
+Not established: Nothing held says whether government bodies use AI.
+
+### Sao Tome and Principe: No evidence
+
+A donor is building an AI justice platform, but no government body is shown testing AI, so no stage is set.
 
 Not established: Nothing held says whether government bodies use AI.
 
@@ -348,6 +342,12 @@ Not established: Nothing held says whether government bodies use AI.
 ### Sudan: No evidence
 
 Nothing held names AI in public administration or says there is none, so no stage is set.
+
+Not established: Nothing held says whether government bodies use AI.
+
+### Tanzania: No evidence
+
+A university tested a chatbot for the ports authority, but no government body is shown testing AI, so no stage is set.
 
 Not established: Nothing held says whether government bodies use AI.
 

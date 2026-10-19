@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://mictps.gov.ss/president-kiir-orders-digitization-of-all-government-institutions/",
+  "title": "PRESIDENT KIIR ORDERS DIGITIZATION OF ALL GOVERNMENT INSTITUTIONS",
+  "publisher": "Ministry of Information, Communication Technology and Postal Services",
+  "published": "2025-12",
+  "sub_indicator": "govai",
+  "why": "Rules/bodies: government digitization order, any AI"
+ },
+ {
+  "url": "https://mictps.gov.ss/moictps-outlines-three-pillars-to-properly-reap-artificial-intelligence/",
+  "title": "MOICT&PS OUTLINES THREE PILLARS TO PROPERLY REAP ARTIFICIAL INTELLIGENCE",
+  "publisher": "Ministry of ICT and Postal Services",
+  "published": "2025-04-03",
+  "sub_indicator": "govai",
+  "why": "Whether AI is in use in administration"
+ },
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2024/10/05/govt-to-construct-resilient-data-center/",
+  "title": "Gov't to construct Resilient Data Center",
+  "publisher": "One Citizen Daily Newspaper",
+  "published": "2024-10-05",
+  "sub_indicator": "govai",
+  "why": "Government e-services status and AI plans"
+ },
+ {
+  "url": "https://www.levellers.ai/what-is/ai-regulation-south-sudan",
+  "title": "What is AI regulation in South Sudan?",
+  "publisher": "Levellers",
+  "published": "2026-06-08",
+  "sub_indicator": "govai",
+  "why": "Absence of AI rules and strategy for public bodies"
+ },
+ {
+  "url": "https://www.trust.org/wp-content/uploads/2025/08/Legal-analysis-of-laws-policies-and-government-strategies-relating-to-AI-in-Kenya-Mauritius-Rwanda-South-Sudan-Tanzania-Uganda-and-Zambia-1.pdf",
+  "title": "Legal analysis of Laws, Policies and Government Strategies relating to AI in Kenya, Mauritius, Rwanda, South Sudan, Tanzania, Uganda & Zambia",
+  "publisher": "Thomson Reuters Foundation",
+  "published": "2025-08",
+  "sub_indicator": "govai",
+  "why": "Stated absence of AI policy/rules"
+ },
+ {
+  "url": "https://www.unesco.org/en/articles/training-artificial-intelligence-disaster-management-south-sudan",
+  "title": "Training on Artificial Intelligence for Disaster Management in South Sudan",
+  "publisher": "UNESCO",
+  "published": "2021-09-16",
+  "sub_indicator": "govai",
+  "why": "Ministries trained on AI disaster chatbot"
+ },
+ {
+  "url": "https://itweb.africa/article/south-sudan-calls-for-legislation-on-ai-space/KjlyrvwBAexqk6am",
+  "title": "South Sudan calls for legislation on AI, space",
+  "publisher": "ITWeb Africa",
+  "published": "2025-06-24",
+  "sub_indicator": "govai",
+  "why": "Absence of AI legislation"
+ }
+]

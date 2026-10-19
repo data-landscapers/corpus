@@ -20,3 +20,14 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SYC,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,SYC-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,tech.ai--use-of-ai-in-government-administration,fact,3,3,ZAF-001;ZAF-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-20,BEN,tech.ai--use-of-ai-in-government-administration,review,5,no evidence,,ASIN's June 2026 legal note is advisory and issues no rules; nothing else held
+2026-10-20,NER,tech.ai--use-of-ai-in-government-administration,review,4,no evidence,,the ILLIMI training and a platform left accessible to trainees' institutions are not AI in service
+2026-10-20,STP,tech.ai--use-of-ai-in-government-administration,review,2,no evidence,,"DireitosAoPovo is UNODC's build; no government body tendered, piloted or is testing it"
+2026-10-20,COD,tech.ai--use-of-ai-in-government-administration,review,2,no evidence,,"the ONEM job-matching tender is Enabel's, not a government body's"
+2026-10-20,CPV,tech.ai--use-of-ai-in-government-administration,review,3,2,CPV-001,"NOSi is a state-owned company, not a government body; the justice institute's demonstrated AI chat answers question 1"
+2026-10-20,SEN,tech.ai--use-of-ai-in-government-administration,review,3,2,SEN-002;SEN-001,"the APPEL assistant and the Pikine court's archive AI are pilots, question 1"
+2026-10-20,ZAF,tech.ai--use-of-ai-in-government-administration,review,3,4,ZAF-002;ZAF-004,Home Affairs' machine-learning screening and the DPSA's Batho Pele chatbot: AI in service in two bodies
+2026-10-20,NGA,tech.ai--use-of-ai-in-government-administration,review,3,4,NGA-001;NGA-002,the federal GovGuide chatbot and the Lagos State agency's Ask INU: AI in service in two bodies
+2026-10-20,CMR,tech.ai--use-of-ai-in-government-administration,review,3,4,CMR-001;CMR-002,CNPS customer-response AI and CENADI's GOV-AI for public agents: AI in service in two bodies
+2026-10-20,UGA,tech.ai--use-of-ai-in-government-administration,review,2,3,UGA-001,the Civil Aviation Authority's AI number-plate recognition at Entebbe is AI in service
+2026-10-20,TZA,tech.ai--use-of-ai-in-government-administration,review,2,no evidence,,"the Ports Authority chatbot was built and tested by a university, not a government body"

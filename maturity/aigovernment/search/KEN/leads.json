@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ict.go.ke/sites/default/files/2025-03/Kenya%20AI%20Strategy%202025%20-%202030.pdf",
+  "title": "Kenya Artificial Intelligence Strategy 2025-2030",
+  "publisher": "Ministry of ICT and Digital Economy",
+  "published": "2025",
+  "sub_indicator": "govai",
+  "why": "Strategy; public-sector AI governance, registry; rules question"
+ },
+ {
+  "url": "https://www.mps.go.ke/kenya-charts-path-toward-ai-driven-public-service",
+  "title": "Kenya Charts Path Toward AI-Driven Public Service",
+  "publisher": "State Department for Public Service",
+  "published": "2025-05-08",
+  "sub_indicator": "govai",
+  "why": "Public service AI policy and e-Citizen"
+ },
+ {
+  "url": "https://www.giz.de/en/newsroom/news/digital-sovereignty-not-tech-dependency",
+  "title": "Digital sovereignty, not tech dependency",
+  "publisher": "GIZ",
+  "published": "2026-05-07",
+  "sub_indicator": "govai",
+  "why": "AI chatbot on eCitizen being developed"
+ },
+ {
+  "url": "https://www.businessdailyafrica.com/bd/corporate/technology/ruto-eyes-24-7-services-on-e-citizen-with-ai-addition-4844860",
+  "title": "Ruto eyes 24/7 services on e-Citizen with AI addition",
+  "publisher": "Business Daily",
+  "published": "2024-12-03",
+  "sub_indicator": "govai",
+  "why": "Planned AI chatbot on eCitizen"
+ },
+ {
+  "url": "https://govstack.global/showcase/digital-leaders-spotlight-kenya/",
+  "title": "Digital Leaders Spotlight: Kenya",
+  "publisher": "GovStack",
+  "published": "2024-09-29",
+  "sub_indicator": "govai",
+  "why": "AI chatbot pilot with Kenya Film Commission"
+ },
+ {
+  "url": "https://govstack.gitbook.io/use-cases/use-cases/ai-chatbot-discoverability-government-services",
+  "title": "EGOV-1 - AI Chatbot for Discoverability of Government Services",
+  "publisher": "GovStack",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "GovBot pilot with eCitizen, ICTA, KoTDA (several bodies)"
+ },
+ {
+  "url": "https://www.coresys.co.ke/case-studies/e-citizen/",
+  "title": "E-Citizen – Coresys Solutions",
+  "publisher": "Coresys Solutions",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "Live AI chatbot for eCitizen; vendor case study"
+ },
+ {
+  "url": "https://mps.go.ke/ai-training-public-servants",
+  "title": "AI Training for Public Servants",
+  "publisher": "State Department for Public Service",
+  "published": "2025-06-03",
+  "sub_indicator": "govai",
+  "why": "Public servant AI training"
+ }
+]

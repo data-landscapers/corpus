@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.grts.gm/new-site/public/news-article-details/news/information-ministry-commissions-anti-fake-news-response-centre",
+  "title": "Information Ministry commissions anti-fake news response centre",
+  "publisher": "GRTS",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "Ministry of Information commissions AI-powered misinformation response centre (in service)"
+ },
+ {
+  "url": "https://grts.gm/news-article-details/news/gambia-launches-west-africas-first-ai-centre-to-fight-fake-news",
+  "title": "Gambia launches West Africa's first AI centre to fight fake news",
+  "publisher": "GRTS",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "Government AI-powered platform launched under Ministry of Information"
+ },
+ {
+  "url": "https://gna.org.gh/2026/04/gna-gambian-officials-highlight-ai-digital-transformation-in-modern-journalism/",
+  "title": "Gambian officials highlight AI, digital transformation in modern journalism",
+  "publisher": "Ghana News Agency",
+  "published": "2026-04-29",
+  "sub_indicator": "govai",
+  "why": "PS says AI fact-checking system launched under Ministry of Information"
+ },
+ {
+  "url": "https://www.aipolicy.africa/country-profiles/gambia",
+  "title": "Country Profile on AI Governance: The Gambia",
+  "publisher": "AI Policy Lab",
+  "published": "2026",
+  "sub_indicator": "govai",
+  "why": "States no government AI registry, no AI strategy adopted as of June 2026 (rules question)"
+ },
+ {
+  "url": "https://www.techandjustice.bsg.ox.ac.uk/thegambia-3447303d-c9d6-4476-963c-02898588dc35",
+  "title": "The Gambia: Limited AI deployment and regulation",
+  "publisher": "Oxford Institute of Technology and Justice",
+  "published": "2026",
+  "sub_indicator": "govai",
+  "why": "Courts do not use AI; no AI rules as at June 2026"
+ },
+ {
+  "url": "https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf",
+  "title": "Science, Technology and Innovation in the Age of AI",
+  "publisher": "The Gambia / UNCTAD CSTD",
+  "published": "2026",
+  "sub_indicator": "govai",
+  "why": "National AI Policy and Strategy under development; rules question"
+ }
+]

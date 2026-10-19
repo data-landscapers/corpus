@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>). [The Lagos State Domestic and Sexual Violence Agency announced on 24 February 2025 Ask INU, a WhatsApp-based AI chatbot giving survivors immediate information and referrals](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>).
+**AI in service.** In May 2026 Nigeria [launched GovGuide](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>), an AI chatbot on Meta's Llama models that gives government service information by voice and text in English, Hausa, Igbo and Yoruba. It was built with the Ministry of Communications, NCAIR and Publica AI.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>).
+**Several bodies.** A second body runs its own AI chatbot. On 24 February 2025 the Lagos State Domestic and Sexual Violence Agency [announced Ask INU](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>), a WhatsApp chatbot that gives survivors information and referrals at once, launched beside a [self-reporting portal for domestic violence survivors](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>).
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [GovGuide launch](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>), which states no rules for its use.
 
 ***Noted, not assessed***. [Domestic and Sexual Violence Case Management System (DSVCMS)](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>).
 
-***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.
+***Not held***. Rules or a register for the government's own use of AI are not known.

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use;bodies",
+ "fact": "The Federal Civil Service deployed an AI tool trained on the Constitution and Public Service Rules, with over 25,000 chats, announced 17 December 2025 with adoption across MDAs.",
+ "title": "Federal Civil Service Deploys AI Tool Trained on Laws, Service Rules",
+ "publisher": "PRNigeria News",
+ "published": "2025-12-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

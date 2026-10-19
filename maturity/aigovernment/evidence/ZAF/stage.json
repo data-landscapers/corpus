@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-001;ZAF-002",
-      "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZAF-002;ZAF-004",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Rebuild 2026-10-20: Home Affairs screens travel authorisations with machine learning and the DPSA runs the Batho Pele AI chatbot, two bodies with AI in service; no rules or register are held.",
+      "as_at": "2026-10-20"
     }
   ]
 }

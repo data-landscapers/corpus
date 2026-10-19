@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "The Ministry of Education's team uses a WhatsApp chatbot, built by an embedded AI expert from October 2025 on a retrieval-augmented GPT-4 pipeline, to look up teacher, pupil and exam figures for reports and budgets; the team uses it most days.",
+ "title": "The Graduate Who Brought AI to Sierra Leone's Ministry of Education",
+ "publisher": "EdTech Hub",
+ "published": "2026-07-29",
+ "date_source": "source",
+ "why_not": ""
+}

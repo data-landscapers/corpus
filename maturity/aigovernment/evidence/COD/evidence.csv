@@ -1,2 +1,1 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
-COD-001,COD,govai,use,underway,"Enabel tendered a contract published 2026-08 (offers due 2026-09-07) to develop and deploy AI modules for an AI-driven job-matching platform of ONEM, the DRC national employment office.",2026-08,month,ONEM AI job-matching platform,govai,2026-08-01-drc-enabel-onem-ai-digital-platform-tender,https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf

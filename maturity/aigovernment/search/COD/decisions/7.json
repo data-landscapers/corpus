@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "use",
+ "fact": "The World Bank's 2026 survey of governments reports that the Democratic Republic of Congo uses an AI system to help correct state examinations.",
+ "title": "How are governments using AI? New evidence from around the world",
+ "publisher": "World Bank (Development Talk)",
+ "published": "2026-09-09",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "govai"
+}

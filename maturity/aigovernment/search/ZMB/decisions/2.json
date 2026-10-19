@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "The Zambia Evidence Lab, inside the Ministry of Finance, is testing large language models with the Zambia Statistics Agency to classify Labour Force Survey responses; GPT-4 Turbo beat enumerators on industry codes.",
+ "title": "Artificial intelligence in national statistics: Insights from Zambia",
+ "publisher": "International Growth Centre",
+ "published": "2025-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

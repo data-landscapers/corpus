@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "The Ministry of Finance's DGDNSIE programme for an AI information day lists 'MFGPT', described as the Ministry of Finance's AI assistant, and AI-assisted electronic document management among its solutions.",
+ "title": "L'Intelligence Artificielle au service de l'administration des finances publiques",
+ "publisher": "Ministère des Finances (DGDNSIE)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

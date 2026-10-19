@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use;bodies",
+ "fact": "The Ministry of Digital Transformation and the national police (DGSN) ran a recruitment competition in which AI verified 1,459 applications, generated exam questions in real time and facial recognition checked identities, announced 31 March 2026.",
+ "title": "Communiqué de presse - Ministère de la Transformation Numérique et de la Modernisation de l'Administration",
+ "publisher": "MTNIMA (via Cridem)",
+ "published": "2026-03-31",
+ "date_source": "source",
+ "why_not": ""
+}

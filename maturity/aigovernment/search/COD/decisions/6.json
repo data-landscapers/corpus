@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "use",
+ "fact": "The SISAG government-action monitoring platform, adopted in February 2025 for ministries and agencies, uses integrated artificial intelligence algorithms to generate decision proposals and recommendations.",
+ "title": "DRC: The Government Adopts the Information System for Monitoring Government Actions (SISAG)",
+ "publisher": "Numerico",
+ "published": "2025-02-25",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "govai"
+}

@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [Minister Kasule Lumumba said the Uganda Communications Commission is in the process of procuring an AI-powered system to identify and filter harmful content; cost, vendor and date were not disclosed](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>). [The Uganda Police Force says it is set to introduce an AI-powered chatbot for public access to police services, and an officer demonstrated how the public will use it, but it is not yet launched and will be rolled out in different parts of the country](<https://allafrica.com/stories/202609030622.html>).
+**AI in service.** The Uganda Civil Aviation Authority [runs the Entebbe airport car parks on AI and machine-learning number-plate recognition](<https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876>), the Daily Monitor reported on 9 October 2026. Other bodies are a step behind: the Uganda Communications Commission is [procuring an AI system to filter harmful content](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>), and in September 2026 the police [demonstrated an AI chatbot for public access to police services](<https://allafrica.com/stories/202609030622.html>), not yet launched.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>).
+**Several bodies.** Only one body is shown with AI in service. The nearest held fact is the [police chatbot](<https://allafrica.com/stories/202609030622.html>), which is still to be rolled out across the country.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [Communications Commission procurement](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>), for which no cost, vendor or date was given.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body is not known.

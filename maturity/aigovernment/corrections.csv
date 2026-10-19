@@ -1,1 +1,9 @@
 iso3,n,aspect,value,action,why
+BEN,001,rules,rules,removed,"ASIN's billet juridique is an advisory legal note that recommends measures; it issues no rules, and staff using generative AI on personal accounts is not a body's AI system; rebuild 2026-10-20"
+COD,001,use,underway,removed,"the tender is Enabel's, a Belgian agency, not a government body's; rebuild 2026-10-20"
+CPV,002,use,inservice,removed,"NOSi is a state-owned company, not a government body, and the application automates its own accounts; rebuild 2026-10-20"
+NER,001,use,inservice,removed,a UN-funded training course; a platform left accessible to the trainees' institutions is not a government body using an AI system in service; rebuild 2026-10-20
+NER,002,bodies,several,removed,the institutions named sent staff to the training; the source does not say any of them uses the platform in its work; rebuild 2026-10-20
+SEN,002,use,inservice,revalued: use:underway,"the AI assistant is part of the APPEL platform's pilot phase: piloted (question 1), not yet in service; rebuild 2026-10-20"
+STP,001,use,underway,removed,"UNODC is developing the platform; no government body has tendered, piloted or is testing it; rebuild 2026-10-20"
+TZA,001,use,underway,removed,"a university tested the chatbot it built for the Ports Authority; no government body has tendered, piloted or is testing it; rebuild 2026-10-20"

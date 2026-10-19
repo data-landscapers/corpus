@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "use",
+ "fact": "The MBaza chatbot serves the Ministry of Local Government as a test environment for raising tickets, with its USSD chatbot in production.",
+ "title": "MBaza Chatbot",
+ "publisher": "Rwanda Information Society Authority (RISA Stack)",
+ "published": "2022-02-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

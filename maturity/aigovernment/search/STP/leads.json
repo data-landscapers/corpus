@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.unodc.org/westandcentralafrica/en/westandcentralafrica/stories/2026/when-walking-into-a-police-station-is-the-barrier--build-a-door-that-opens-from-the-other-side.html",
+  "title": "When walking into a police station is the barrier, build a door that opens from the other side",
+  "publisher": "UNODC",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "AI chatbot with Ministry of Justice and Judicial Police"
+ },
+ {
+  "url": "https://www.telanon.info/sociedade/2026/04/26/52651/pnud-promove-capacitacao-intensiva-sobre-transformacao-digital-e-inteligencia-artificial/",
+  "title": "PNUD promove capacitação intensiva sobre transformação digital e inteligência artificial",
+  "publisher": "Téla Nón",
+  "published": "2026-04-26",
+  "sub_indicator": "govai",
+  "why": "AI in public administration: use in service"
+ },
+ {
+  "url": "https://leveleve.news/pnud-inicia-capacitacao-em-digitalizacao-e-inteligencia-artificial-para-a-administracao-publica-em-stp/",
+  "title": "PNUD inicia capacitação em Digitalização e Inteligência Artificial para a Administração Pública em STP",
+  "publisher": "Leve Leve",
+  "published": "2026-04-22",
+  "sub_indicator": "govai",
+  "why": "Government AI training, use in administration"
+ },
+ {
+  "url": "https://unesdoc.unesco.org/ark:/48223/pf0000394953",
+  "title": "São Tomé e Príncipe: Inteligência Artificial: relatório de avaliação de prontidão",
+  "publisher": "UNESCO / Governo de STP",
+  "published": "2025",
+  "sub_indicator": "govai",
+  "why": "Rules on AI use/procurement; absence"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/sao-tome-et-principe-restitution-et-remise-officielle-du-rapport-devaluation-de-letat-de-preparation",
+  "title": "Sao Tomé et Principe: restitution et remise officielle du rapport",
+  "publisher": "UNESCO",
+  "published": "2025-07-07",
+  "sub_indicator": "govai",
+  "why": "Government AI readiness, no strategy"
+ },
+ {
+  "url": "https://rstp.st/2024/01/26/governo-lanca-projeto-para-tirar-vantagens-da-aplicacao-da-inteligencia-artificial/",
+  "title": "Governo lança projeto para tirar vantagens da aplicação da inteligência artificial",
+  "publisher": "RSTP",
+  "published": "2024-01-26",
+  "sub_indicator": "govai",
+  "why": "Government AI ethics pilot"
+ },
+ {
+  "url": "https://glebatv.st/todas-noticias/sao-tome-aposta-na-inteligencia-artificial-para-modernizar-a-administracao-publica",
+  "title": "São Tomé aposta na inteligência artificial para modernizar a administração pública",
+  "publisher": "Gleba TV",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "Several ministries, AI in administration"
+ },
+ {
+  "url": "https://dig.watch/countries/sao-tome-and-principe",
+  "title": "Sao Tome and Principe",
+  "publisher": "Digital Watch Observatory",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "AI rules status"
+ }
+]

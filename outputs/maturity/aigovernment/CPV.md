@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [The Ministry of Finance says an AI application for financial and accounting management, built by NOSi with SINTAXY to automate NOSi's accounting system and meant for public and private entities, was launched on 19 November 2024](<https://www.mf.gov.cv/-/vice-primeiro-ministro-destaca-transforma%C3%A7%C3%A3o-digital-como-pilar-do-desenvolvimento-de-cabo-verde>). [The Instituto da Modernização e Inovação da Justica's president presented the Portal da Justica and demonstrated its Inteligencia Artificial Integrada initiative, a platform with an AI chat built to help citizens access information and digital services](<https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial>).
+**AI in service.** In October 2025 the president of the justice modernisation institute [demonstrated its integrated AI initiative](<https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial>): a Portal da Justiça with an AI chat built to help citizens reach legal information and digital services. Nothing held shows it, or any other AI system, in service in a government body.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://www.mf.gov.cv/-/vice-primeiro-ministro-destaca-transforma%C3%A7%C3%A3o-digital-como-pilar-do-desenvolvimento-de-cabo-verde>).
+**Several bodies.** Nothing held shows AI in service in any government body. The nearest held fact is the [justice portal demonstration](<https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial>) at the Lisbon Forum 2025, where the institute presented the Portal da Justiça and its AI chat for citizens seeking legal information and digital services.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.mf.gov.cv/-/vice-primeiro-ministro-destaca-transforma%C3%A7%C3%A3o-digital-como-pilar-do-desenvolvimento-de-cabo-verde>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [justice portal presentation](<https://justica.gov.cv/w/lisbon-forum-2025-destaca-inova%C3%A7%C3%A3o-digital-de-cabo-verde-com-o-portal-da-justi%C3%A7a-e-uso-%C3%A9tico-da-intelig%C3%AAncia-artificial>), which spoke of the ethical use of AI.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.
+***Not held***. No AI system in service in a government body is known.

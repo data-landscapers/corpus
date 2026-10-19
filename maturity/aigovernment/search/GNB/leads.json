@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.zenysis.com/news/guinea-bissau-ministry-of-public-health-and-zenysis-sign-five-year-memorandum-of-understanding-to-advance-national-health-intelligence-and-responsible-ai",
+  "title": "Guinea-Bissau Ministry of Public Health and Zenysis Sign Five-Year MoU ... Responsible AI",
+  "publisher": "Zenysis",
+  "published": "2026-08-28",
+  "sub_indicator": "govai",
+  "why": "Health ministry to explore AI on national data platform (pilot/plan)"
+ },
+ {
+  "url": "https://ang.gw/a-inteligencia-artificial-tem-potencial-para-melhorar-qualidade-dos-servicos-de-saude-diz-o-ministro-da-saude-publica/",
+  "title": "A Inteligência Artificial tem potencial para melhorar qualidade dos serviços de saúde",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2026-07-15",
+  "sub_indicator": "govai",
+  "why": "Health minister: early stage of AI adoption"
+ },
+ {
+  "url": "https://guineia.com/",
+  "title": "OKINKAOKINKA — A Inteligência Artificial Nacional da Guiné-Bissau",
+  "publisher": "guineia.com",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "Claims state-owned national AI assistant"
+ },
+ {
+  "url": "https://www.imf.org/pt/news/articles/2024/05/29/pr-24188-guinea-bissau-a-blockchain-platform-to-strengthen-wage-bill-management-goes-live",
+  "title": "Guiné-Bissau: Lançamento de uma plataforma de blockchain ... massa salarial",
+  "publisher": "IMF",
+  "published": "2024-05-29",
+  "sub_indicator": "govai",
+  "why": "Payroll platform feeding AI models in finance and public administration ministries"
+ },
+ {
+  "url": "https://africanaigovernanceindex.com/country/gw",
+  "title": "Guinea-Bissau",
+  "publisher": "African AI Governance Index",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "No AI-specific policy; rules question"
+ }
+]

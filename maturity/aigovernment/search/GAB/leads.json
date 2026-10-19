@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-lance-missamou-une-ia-conversationnelle-pour-moderniser-l-administration",
+  "title": "Le Gabon lance Missamou, une IA conversationnelle pour moderniser l'administration",
+  "publisher": "We are Tech",
+  "published": "2025-07-17",
+  "sub_indicator": "govai",
+  "why": "Government chatbot in service"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/gabon-un-accord-avec-presight-pour-introduire-l-ia-dans-les-services-publics",
+  "title": "Gabon : un accord avec Presight pour introduire l'IA dans les services publics",
+  "publisher": "We are Tech",
+  "published": "2026-02-09",
+  "sub_indicator": "govai",
+  "why": "MoU for AI in public administration"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-cgi-des-agents-du-ministere-de-la-communication-et-des-medias-inities-a-lutilisation-de-lia/",
+  "title": "Gabon/CGI : des agents du ministère de la Communication initiés à l'utilisation de l'IA",
+  "publisher": "AGP",
+  "published": "2026-09-07",
+  "sub_indicator": "govai",
+  "why": "Ministry staff trained on AI tools for admin work"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/fr/gabon",
+  "title": "Gabon | Global AI Ethics and Governance Observatory",
+  "publisher": "UNESCO",
+  "published": "2024-08-02",
+  "sub_indicator": "govai",
+  "why": "Administration has not significantly adopted AI"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-ia-22-defis-et-36-recommandations-pour-batir-la-strategie-nationale/",
+  "title": "Gabon/IA : 22 défis et 36 recommandations",
+  "publisher": "AGP",
+  "published": "2026-10-01",
+  "sub_indicator": "govai",
+  "why": "Strategy workshop; public sector transformation group"
+ },
+ {
+  "url": "https://journal-officiel.ga/21995-0006-pr-2025-/",
+  "title": "Ordonnance n°0006/PR du 12 août 2025 réglementant la Digitalisation",
+  "publisher": "Journal Officiel de la République Gabonaise",
+  "published": "2025-08-12",
+  "sub_indicator": "govai",
+  "why": "Rules on digitalisation incl. AI smart-government definition"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-ia-fin-des-travaux-sur-la-future-strategie-nationale/",
+  "title": "Gabon/IA : fin des travaux sur la future stratégie nationale",
+  "publisher": "AGP",
+  "published": "2026-10-01",
+  "sub_indicator": "govai",
+  "why": "Minister on state of public service digitalisation, AI last layer"
+ }
+]

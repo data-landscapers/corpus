@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "2",
-   "use": "underway",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001",
-   "gaps": "No source held since October 2023 says: is an ai system in service in administration.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "no evidence",
+      "use": "",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says whether government bodies use AI.",
+      "note": "Rebuild 2026-10-20: DireitosAoPovo is being developed by UNODC; no government body has tendered, piloted or is testing it, so question 1 is not answered.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

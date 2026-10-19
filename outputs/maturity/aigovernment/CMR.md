@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [The director general of Cameroon's CNPS said it uses AI for biometric identification, automatic customer response and an e-wallet, presented at a Minpostel workshop on 17 February 2026](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>). [CENADI unveiled GOV-AI, an AI integrated into the nGomna platform, available now to public agents to consult regulatory texts and get answers based on official documents, as the Direction Generale du Budget reports](<https://www.dgb.cm/gov-ai-lintelligence-artificielle-gouvernementale-en-vitrine-au-sago-2025/>).
+**AI in service.** At a Minpostel workshop on 17 February 2026 the director general of the CNPS, the national social insurance fund, [said it uses AI](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>) for biometric identification, automatic customer response and an e-wallet. The workshop was [dedicated to AI in the public administrations](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>), its progress and its dangers.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>).
+**Several bodies.** CENADI [unveiled GOV-AI](<https://www.dgb.cm/gov-ai-lintelligence-artificielle-gouvernementale-en-vitrine-au-sago-2025/>) in July 2025: an AI built into the nGomna platform that public agents use to consult regulatory texts and get answers drawn from official documents. With the CNPS, that is AI in service in two bodies.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [Minpostel workshop on AI in the administration](<https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/>), where the CNPS presented its uses.
 
 ***Noted, not assessed***. [AIGLES](<https://www.minfopra.gov.cm/index.php/fr/a-la-une/2368-cooperation-sud-sud-le-cameroun-et-le-maroc-s-unissent-pour-une-administration-publique-digitale-et-securisee>).
 
-***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.
+***Not held***. Rules or a register for the government's own use of AI are not known.

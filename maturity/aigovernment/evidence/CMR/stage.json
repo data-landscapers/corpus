@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "3",
-   "use": "inservice",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001;CMR-002",
-   "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001;CMR-002",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Rebuild 2026-10-20: the CNPS answers customers with AI and CENADI's GOV-AI serves public agents on nGomna, two bodies with AI in service; no rules or register are held.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

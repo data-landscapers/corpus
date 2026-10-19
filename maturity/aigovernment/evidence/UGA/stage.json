@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "2",
-   "use": "underway",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-003",
-   "gaps": "No source held since October 2023 says: is an ai system in service in administration.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No source held says AI is in service in two or more government bodies.",
+      "note": "Rebuild 2026-10-20: the Civil Aviation Authority runs Entebbe's car parks on AI number-plate recognition, an AI system in service; no second body is held.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

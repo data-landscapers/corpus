@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/",
+  "title": "Government launches 'Learner's Hub Chatbot' at ZITF",
+  "publisher": "The Herald",
+  "published": "2026-04-23",
+  "sub_indicator": "govai",
+  "why": "Ministry of Primary and Secondary Education launches chatbot with AI academic assistant"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/praz-adopts-ai-to-enhance-the-egp-system/",
+  "title": "PRAZ adopts AI to enhance the eGP system",
+  "publisher": "The Herald",
+  "published": "2025-09-10",
+  "sub_indicator": "govai",
+  "why": "PRAZ says AI chatbots and AI-assisted bid evaluation adopted"
+ },
+ {
+  "url": "https://www.newsday.co.zw/local-news/article/200029035/kariba-turns-to-ai-to-engage-residents",
+  "title": "Kariba turns to AI to engage residents",
+  "publisher": "NewsDay Zimbabwe",
+  "published": "2024-07-01",
+  "sub_indicator": "govai",
+  "why": "Kariba municipality AI chatbot (local government in service)"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/govt-prioritises-housing-ai-integration-for-civil-servants/",
+  "title": "Govt prioritises housing, AI integration for civil servants",
+  "publisher": "The Herald",
+  "published": "2025-08-06",
+  "sub_indicator": "govai",
+  "why": "e-Government dept developing policies for responsible AI use in public service (rules)"
+ },
+ {
+  "url": "https://www.techzim.co.zw/2025/08/zimra-commissions-tarms-digital-tax-system/",
+  "title": "ZIMRA Commissions TaRMS: Zimbabwe's New Digital Tax System",
+  "publisher": "Techzim",
+  "published": "2025-08-19",
+  "sub_indicator": "govai",
+  "why": "ZIMRA plans AI/ML in TaRMS"
+ },
+ {
+  "url": "https://e-portal.parlzim.gov.zw/files/HAN-1777619632193.pdf",
+  "title": "Hansard, Wednesday 29 April 2026 (motion on AI-assisted systems in government tenders)",
+  "publisher": "Parliament of Zimbabwe",
+  "published": "2026-04-29",
+  "sub_indicator": "govai",
+  "why": "motion for PRAZ AI tender adjudication"
+ },
+ {
+  "url": "http://www1.businessdaily.co.zw/index-id-National-zk-52892.html",
+  "title": "AI won't take Zimbabwe civil servants' jobs",
+  "publisher": "Business Daily / The Herald",
+  "published": "2025-11-22",
+  "sub_indicator": "govai",
+  "why": "PSC on AI in public service"
+ },
+ {
+  "url": "https://www.zimra.co.zw/news/20-story/2369-zimra-embraces-responsible-ai-to-shape-the-future-of-revenue-administration",
+  "title": "ZIMRA Embraces Responsible AI to Shape the Future of Revenue Administration",
+  "publisher": "Zimbabwe Revenue Authority",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "ZIMRA AI workshop and governance"
+ }
+]

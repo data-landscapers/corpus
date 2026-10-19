@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "govai",
+ "aspect": "rules",
+ "fact": "The Egyptian Center for Responsible AI issued edition 2.0 of the National Guidelines for Trustworthy and Responsible AI in March 2026, applying to government entities and setting out AI procurement and vendor governance procedures and an institutional readiness self-assessment.",
+ "title": "Egypt National Guidelines for Trustworthy and Responsible AI",
+ "publisher": "Egyptian Center for Responsible AI (ECRAI), National Council for Artificial Intelligence, Quantum Computing, and Emerging Technologies",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

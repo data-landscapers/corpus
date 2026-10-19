@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.zambiamonitor.com/techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration/",
+  "title": "Techbytes: ZRA turns to AI, research to strengthen tax administration",
+  "publisher": "Zambia Monitor",
+  "published": "2026-07-16",
+  "sub_indicator": "govai",
+  "why": "ZRA has an AI unit and AI chatbot in service"
+ },
+ {
+  "url": "https://www.theigc.org/blogs/ai-national-statistics-zambia",
+  "title": "Artificial intelligence in national statistics: Insights from Zambia",
+  "publisher": "International Growth Centre",
+  "published": "2025-06-12",
+  "sub_indicator": "govai",
+  "why": "ZamStats/Ministry of Finance Evidence Lab testing LLM on survey coding (pilot)"
+ },
+ {
+  "url": "https://www.theigc.org/sites/default/files/2025-10/Rossow-et-al-Working-Paper-October-2025.pdf",
+  "title": "Transforming Zambia's Labour Force Survey Using Artificial Intelligence",
+  "publisher": "International Growth Centre",
+  "published": "2025-10-22",
+  "sub_indicator": "govai",
+  "why": "LLM pipeline with ZamStats (testing)"
+ },
+ {
+  "url": "https://techpression.com/zambia-to-introduce-ai-power-system/",
+  "title": "Zambia to introduce AI-power system to tackle misinformation, disinformation",
+  "publisher": "Techpression",
+  "published": "2025-01-30",
+  "sub_indicator": "govai",
+  "why": "SMART Zambia plans AI chatbot (underway)"
+ },
+ {
+  "url": "https://www.theigc.org/blogs/promise-practice-ai-lmic-governments",
+  "title": "From promise to practice: Making AI work in LMIC governments",
+  "publisher": "International Growth Centre",
+  "published": "2025-08-20",
+  "sub_indicator": "govai",
+  "why": "ZamStats GPT-4 test; government AI use and inventories"
+ },
+ {
+  "url": "https://www.mots.gov.zm/?p=3787",
+  "title": "Artificial Intelligence increases ZRA revenue collection by 60 percent",
+  "publisher": "Ministry of Technology and Science",
+  "published": "",
+  "sub_indicator": "govai",
+  "why": "ZRA AI in service for fraud detection"
+ },
+ {
+  "url": "https://eprocure.zppa.org.zm/epps/eawarding/showDetailsOpenedTender.do?resourceId=16986114",
+  "title": "Tender for AI-enabled EDR for NAPSA",
+  "publisher": "Zambia Public Procurement Authority e-GP",
+  "published": "2025-07",
+  "sub_indicator": "govai",
+  "why": "NAPSA tendered AI-enabled endpoint detection"
+ }
+]
