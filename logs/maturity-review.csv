@@ -3,7 +3,7 @@ accesstoinformationlaw,law,gov.legislate--access-to-information-legislation,2026
 addressregister,address,dpi.registry--address-register,2026-10-18,34,64.6,20
 admindata,admin,data.statistics--statistics-from-administrative-data,2026-10-19,35,114.6,204
 agrisatellite,agrisat,data.satellite--agricultural-use-of-satellite-data,2026-10-20,11,97.4,176
-aiabuse,aiharm,tech.ai--control-of-ai-abuse,,,,
+aiabuse,aiharm,tech.ai--control-of-ai-abuse,2026-10-20,9,54.7,191
 aigovernment,govai,tech.ai--use-of-ai-in-government-administration,,,,
 ailaw,law,gov.legislate--ai-legislation-regulations,,,,
 aisectoral,sectorai,tech.ai--use-of-ai-in-sectoral-management-information-systems,,,,

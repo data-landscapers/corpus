@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "aiharm",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "rule;authority",
+ "fact": "As of June 2026 Burkina Faso has no dedicated AI law or AI regulator; Loi 001-2021/AN bars decisions resting solely on automated profiling, requires AI disclosure and prior CIL authorisation of predictive-AI decision support.",
+ "title": "AI regulation in Burkina Faso: what applies?",
+ "publisher": "Levellers",
+ "published": "2026-06-08"
+}

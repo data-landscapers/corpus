@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule;enforced",
+ "fact": "The Zambia Police Service stated that creating or circulating false, manipulated or misleading AI-generated content is an offence under the Cyber Crimes Act No. 4 of 2025 and that it had intensified investigations ahead of the 2026 general elections.",
+ "title": "Zambia Police Warn Against AI-Generated Misinformation Targeting Officials Ahead of 2026 Elections",
+ "publisher": "iAfrica.com",
+ "published": "2026-06-29",
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source"
+}

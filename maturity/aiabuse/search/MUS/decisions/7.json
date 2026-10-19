@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "",
+ "fact": "",
+ "title": "The Cybersecurity and Cybercrime Act 2021",
+ "publisher": "Government of Mauritius",
+ "published": "2021-11-24",
+ "date_source": "source",
+ "why_not": "General cybercrime statute; text never mentions AI or deepfakes.",
+ "sub_indicator": "aiharm"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of 4 September 2026 Algeria had enacted no binding AI statute and no public draft legal text implementing the national AI strategy, while Law 18-07 as amended by Law 25-11 of 24 July 2025 restricts decisions based solely on automated processing and the ANPDP supervises it.",
+ "title": "Algeria: AI, scraping, privacy, cybersecurity, communications, content-moderation, age-gating, and reuse law",
+ "publisher": "LexLint",
+ "published": "2026-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

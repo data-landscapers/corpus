@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "Loi 24.001 on personal data protection, in force from promulgation in January 2024, gives a person the right to know and contest the automated processing behind a decision with legal effects, and places compliance under a data protection agency.",
+ "title": "Loi N° 24.001 portant protection des données à caractère personnel",
+ "publisher": "République centrafricaine (ARCEP copy)",
+ "published": "2024-01-25",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority;enforced",
+ "fact": "The Africa AI Governance Index 2026 profile (evidence date 30 June 2026) records no AI-specific legislation, no AI governance body and no AI enforcement action in Guinea-Bissau.",
+ "title": "Country Profile on AI Governance: Guinea-Bissau",
+ "publisher": "AI Policy Lab (Africa AI Governance Index 2026)",
+ "published": "2026-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

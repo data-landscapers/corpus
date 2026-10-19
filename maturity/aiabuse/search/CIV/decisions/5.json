@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "Paradigm Initiative's April 2025 brief states that Côte d'Ivoire's laws are outdated for AI and that no dedicated body is tasked with overseeing and regulating AI.",
+ "title": "Advancing Rights-Based AI Strategy in Côte d'Ivoire",
+ "publisher": "Paradigm Initiative",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

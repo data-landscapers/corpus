@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule",
+ "fact": "CAJ News reports that in March 2026 Zambia declared AI content a threat to national security, and that on 12 August 2026 the Ministry of Information and Media dismissed a planned fake AI-generated video of the late former President Lungu.",
+ "title": "Alleged AI misuse on eve of today's elections in Zambia",
+ "publisher": "CAJ News Africa",
+ "published": "2026-08-13",
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule;enforced",
+ "fact": "On 25 December 2025 the ZRP said it was investigating a social media personality for allegedly creating and circulating AI-generated videos misrepresenting the police, citing the Cyber and Data Protection Act, which it said covers deepfake videos.",
+ "title": "Famous Socialite In Trouble Over DeepFake ZRP Video",
+ "publisher": "ZimEye",
+ "published": "2025-12-25",
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source"
+}

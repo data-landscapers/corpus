@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule",
+ "fact": "Mauritius lacks binding AI-specific regulations; data protection and cybersecurity frameworks are strong but not fully adapted to AI's challenges.",
+ "title": "Mauritius | Global AI Ethics and Governance Observatory",
+ "publisher": "UNESCO",
+ "published": "2025-12",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "aiharm"
+}

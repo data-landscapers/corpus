@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source",
+ "aspect": "rule;authority",
+ "fact": "The NDPC endorsed a joint regulators' statement on AI-generated deepfakes and said Compliance Audit Returns under the GAID would be used to assess responsible AI standards.",
+ "title": "Nigeria joins 60 global regulators to crack down on AI-generated deepfakes",
+ "publisher": "BusinessDay",
+ "published": "2026-03-03"
+}

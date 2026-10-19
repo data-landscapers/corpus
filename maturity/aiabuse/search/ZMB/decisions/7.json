@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule;authority",
+ "fact": "Zambia has no dedicated expert body on AI; the Data Protection Commission established under s4 of the Data Protection Act has made no publicised finding on automated processing, and s62 gives data subjects a right against solely automated decisions.",
+ "title": "AI governance in Zambia",
+ "publisher": "Thomson Reuters Foundation",
+ "published": "2025-05-07",
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source"
+}

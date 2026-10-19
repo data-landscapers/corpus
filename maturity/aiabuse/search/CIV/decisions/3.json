@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The national AI strategy SNIA 2030 proposes adopting an AI law with risk classification and creating a national AI agency (ANIA) with a regulation and complaints mandate; neither is yet established.",
+ "title": "Stratégie Nationale de l'Intelligence Artificielle à l'horizon 2030 (SNIA 2030)",
+ "publisher": "République de Côte d'Ivoire, Ministère de la Transition Numérique et de la Digitalisation",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

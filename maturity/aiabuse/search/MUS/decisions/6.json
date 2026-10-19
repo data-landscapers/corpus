@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule",
+ "fact": "The DPP office newsletter states that under the Cybersecurity and Cybercrime Act 2021 creating and sharing obscene deepfakes with intent to harm can attract criminal penalties.",
+ "title": "Le bureau du DPP aborde les deepfakes et la violence numérique",
+ "publisher": "L'Express",
+ "published": "2024-05-04",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "aiharm"
+}

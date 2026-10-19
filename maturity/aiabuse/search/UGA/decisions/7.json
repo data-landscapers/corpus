@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The Auditor General's report for the year ended December 2024 found the Uganda Communications Commission had not issued any regulations or guidelines on AI, and the Commission set up a 14-member AI task force.",
+ "title": "Report of the Auditor General on the Uganda Communications Commission for the audit year ended December 2024",
+ "publisher": "Office of the Auditor General",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

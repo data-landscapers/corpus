@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule",
+ "fact": "The Draft National AI Policy approved by Cabinet on 25 March 2026 and opened for comment on 10 April 2026 was withdrawn by the Minister on 26 April 2026 after fictitious references were found.",
+ "title": "Draft South Africa National Artificial Intelligence (AI) Policy",
+ "publisher": "Parliamentary Monitoring Group",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

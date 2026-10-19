@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The 2025 UNESCO readiness assessment records that the Personal Data Protection Act 2022 gives automated-decision rights and the Personal Data Protection Commission has been operational since May 2023, while rules on liability for AI decisions are missing.",
+ "title": "Tanzania Artificial Intelligence Readiness Assessment Report",
+ "publisher": "UNESCO",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

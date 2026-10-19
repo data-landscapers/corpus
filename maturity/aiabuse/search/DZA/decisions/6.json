@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "Law 18-07 as amended by Law 25-11 of 24 July 2025 is in force, creates the ANPDP with the task of ensuring ICT use poses no risk to rights, and limits decisions taken solely on automated processing; it is a data-protection law, not an AI law.",
+ "title": "القانون 07-18 المعدل والمتمم بالقانون 11-25",
+ "publisher": "السلطة الوطنية لحماية المعطيات ذات الطابع الشخصي",
+ "published": "2025-07-24",
+ "date_source": "source",
+ "why_not": ""
+}

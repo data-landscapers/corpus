@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The Electoral Commission promulgated the Disinformation Code on 4 September 2026 under s88(a) of the Municipal Electoral Act, effective immediately, requiring parties and candidates to label AI-generated synthetic content.",
+ "title": "Electoral Commission introduces new Disinformation Code ahead of 2026 Local Government Elections",
+ "publisher": "South African Government",
+ "published": "2026-09-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source",
+ "aspect": "rule",
+ "fact": "The NDPC's GAID 2025, issued 20 March 2025, binds controllers deploying AI to process personal data (Article 43), requiring a filed DPIA and the right not to be subject to solely automated decisions.",
+ "title": "Nigeria Data Protection Act (NDP Act) 2023 General Application and Implementation Directive (GAID) 2025",
+ "publisher": "Nigeria Data Protection Commission",
+ "published": "2025-03-20"
+}

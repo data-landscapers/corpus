@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://telecom.gouv.ci/new/ministere/missions-et-attributions,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://haca.ci/sites/default/files/2025-03/PRINCIPES%20DE%20LA%2011%C3%A8me%20CIRCAF%20VERSION%20AMENDEE%20ET%20ADOPTEE%20PAR%20LES%20PRESIDENTS%20%281%29%20-%20Derni%C3%A8re%20version.pdf,fetched,,scripts/.workroot/study/aiabuse/cache/CIV/2.txt,1502,pdf,
+3,https://www.anssi.ci/documents/87/Strat%C3%A9gie_Nationale_de_lIntelligence_Artificielle_250321_041840.pdf,fetched,,scripts/.workroot/study/aiabuse/cache/CIV/3.txt,15211,pdf,
+4,https://civlii.laws.africa/en/akn/ci/act/2013/451/fra@2025-01-30,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+5,https://paradigmhq.org/wp-content/uploads/2025/10/Advancing-Rights-Based-AI-Strategy-in-Cote-dIvoire.pdf,fetched,,scripts/.workroot/study/aiabuse/cache/CIV/5.txt,3492,pdf,
+6,https://www.unesco.org/ethics-ai/en/cotedivoire,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+7,https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/,fetched,,scripts/.workroot/study/aiabuse/cache/CIV/7.txt,1377,html,Côte d’Ivoire : Les axes de la Stratégie nationale de l’ IA et de la Stratégie nationale de la gouvernance des données
+8,https://www.anssi.gouv.ci/reglementations/textes-nationaux/lois/,unfetchable,SSLError; no usable Wayback capture,,0,,

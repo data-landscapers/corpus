@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of 7 September 2026 Sudan has no AI statute in force; a decree of 5 November 2025 established the Sudanese Data and Artificial Intelligence Authority, with no implementing regulations reported.",
+ "title": "Sudan: AI, scraping, privacy, cybersecurity, communications, content-moderation, age-gating, and reuse law",
+ "publisher": "LexLint",
+ "published": "2026-09-07",
+ "date_source": "source",
+ "why_not": ""
+}

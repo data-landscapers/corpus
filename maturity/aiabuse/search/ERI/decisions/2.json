@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "aiharm",
+ "aspect": "",
+ "fact": "",
+ "title": "AI Strategy Readiness Across Africa (tracker)",
+ "publisher": "African AI Governance Index",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetched text is continent-wide with no Eritrea-specific fact; no document date."
+}

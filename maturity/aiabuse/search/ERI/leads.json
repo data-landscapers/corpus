@@ -1,0 +1,7 @@
+[
+{"url": "https://www.levellers.ai/what-is/ai-regulation-eritrea", "title": "What is AI regulation in Eritrea?", "publisher": "Levellers.ai", "published": "2026-06-08", "sub_indicator": "aiharm", "why": "No AI law, no AI regulator, no data protection authority as of June 2026"},
+{"url": "https://africanaigovernanceindex.com/tracker", "title": "AI Strategy Readiness Across Africa (tracker)", "publisher": "African AI Governance Index", "published": "2026-04", "sub_indicator": "aiharm", "why": "Eritrea: no formal digital or AI strategy as of April 2026"},
+{"url": "https://lexlint.io/law/er", "title": "Eritrea: AI, scraping, privacy, cybersecurity, communications, content-moderation, age-gating, and reuse law", "publisher": "LexLint", "published": "", "sub_indicator": "aiharm", "why": "No AI statute, no AI authority appointed; Penal Code 2015 has no AI provision"},
+{"url": "https://www.deep-lex.com/ai-regulation-tracker/eritrea", "title": "Eritrea AI Regulation", "publisher": "Deep Lex", "published": "", "sub_indicator": "aiharm", "why": "Tracker lists no AI regulation"},
+{"url": "https://dig.watch/countries/eritrea", "title": "Eritrea | Digital Watch Observatory", "publisher": "Digital Watch Observatory", "published": "", "sub_indicator": "aiharm", "why": "Only 1998 communications law; no cybersecurity strategy; AI readiness near bottom"}
+]

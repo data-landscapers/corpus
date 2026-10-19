@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "4",
-   "rule": "inforce",
-   "authority": "designated",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-001",
-   "gaps": "No source held since October 2023 gives an enforcement or redress decision about a harm from AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-002",
+      "gaps": "No source held says a rule on AI harms is in force or a body is designated by law or decree; the 2026 AI in Education Framework is a Cabinet-approved policy.",
+      "note": "Rebuild 2026-10-20: the AI in Education Framework is a policy approved by Cabinet, so its steering committee is not designated by law or decree and it is not a binding rule. The 2024 private member's bill on digital forgeries answers question 1.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source",
+ "select": true,
+ "aspect": "rule;authority",
+ "fact": "CIPESA's September 2025 report states Kenya has no dedicated AI law, that the Data Protection Act s.35 covers automated decisions, and that no body has clear jurisdiction over AI-generated harms such as deepfakes.",
+ "title": "State of Internet Freedom in Africa 2025: Navigating the Implications of AI on Digital Democracy in Kenya",
+ "publisher": "CIPESA",
+ "published": "2025-09"
+}

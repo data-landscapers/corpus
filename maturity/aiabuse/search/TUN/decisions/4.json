@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of March 2026 Tunisia has no text specifically governing AI use in the public sphere and no inter-ministerial AI governance body.",
+ "title": "L'IA au service de la Tunisie : les conditions d'une adoption réussie",
+ "publisher": "L'Economiste Maghrébin",
+ "published": "2026-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

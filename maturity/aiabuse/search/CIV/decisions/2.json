@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule",
+ "fact": "The RIARC/CIRCAF principles for regulating AI in audiovisual and digital communication, hosted by Côte d'Ivoire's HACA, prohibit AI deepfakes made to deceive the public, require machine-readable marking of synthetic content, and leave sanctions to a later regulatory text.",
+ "title": "Principes du Réseau des Instances Africaines de Régulation de la Communication (RIARC) en vue d'un cadre réglementaire pour la régulation de l'intelligence artificielle dans le secteur de la communication audiovisuelle et numérique en Afrique",
+ "publisher": "RIARC / HACA",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

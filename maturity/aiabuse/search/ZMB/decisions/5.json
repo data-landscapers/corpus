@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "rule",
+ "fact": "The Cyber Crimes Act, 2025 (Act 4 of 2025), gazetted 15 April 2025, makes it an offence to deceive users as to the origin of electronic communications (s19) and to disseminate information or images known to be false that damage reputation or expose a person to ridicule (s22), without naming AI.",
+ "title": "Cyber Crimes Act, 2025",
+ "publisher": "ZambiaLII (Government of Zambia, Supplement to the Government Gazette)",
+ "published": "2025-04-15",
+ "sub_indicator": "aiharm",
+ "why_not": "",
+ "date_source": "source"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The AI Policy Lab profile (evidence date 30 June 2026) records no AI-specific legislation enacted or drafted and no AI regulator in The Gambia, with the Information Commission lacking an explicit AI mandate.",
+ "title": "Country Profile on AI Governance: The Gambia",
+ "publisher": "AI Policy Lab (Africa AI Governance Index 2026)",
+ "published": "2026-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

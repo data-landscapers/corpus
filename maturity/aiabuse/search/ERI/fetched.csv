@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.levellers.ai/what-is/ai-regulation-eritrea,held,held as raw/2026/2026-06-08-levellers-ai-regulation-eritrea.md,,0,,
+2,https://africanaigovernanceindex.com/tracker,fetched,,scripts/.workroot/study/aiabuse/cache/ERI/2.txt,289,html,African AI Governance Index (AAGI)
+3,https://lexlint.io/law/er,fetched,,scripts/.workroot/study/aiabuse/cache/ERI/3.txt,2832,html,"Eritrea: AI, scraping, privacy, cybersecurity, communications, content-moderation, product-liability, age-gating, and reuse law · LexLint"
+4,https://www.deep-lex.com/ai-regulation-tracker/eritrea,fetched,,scripts/.workroot/study/aiabuse/cache/ERI/4.txt,35,html,Eritrea AI Regulation — Deep Lex
+5,https://dig.watch/countries/eritrea,fetched,,scripts/.workroot/study/aiabuse/cache/ERI/5.txt,2296,html,Eritrea | Digital Watch Observatory

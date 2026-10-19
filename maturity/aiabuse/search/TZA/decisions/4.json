@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "On 9 September 2025 TCRA warned that sharing AI-manipulated images, video or audio of politicians during the election campaign may be a criminal offence.",
+ "title": "TCRA warns against sharing manipulated information",
+ "publisher": "Daily News",
+ "published": "2025-09-10",
+ "date_source": "source",
+ "why_not": ""
+}

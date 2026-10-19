@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "In July 2025 Cameroon adopted its national AI strategy (SNIA), which calls for a future Cameroonian AI authority and a new legal framework; these bodies do not yet exist, and AI-driven disinformation is handled only under the 2010 cybercrime law.",
+ "title": "Protecting Electoral Integrity Against AI-Driven Disinformation",
+ "publisher": "Gefona Digital Foundation",
+ "published": "2026-05-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

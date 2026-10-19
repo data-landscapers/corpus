@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of 7 September 2026 Eritrea has no AI statute of any kind, has not enacted legislation implementing the AU Continental AI Strategy and has not appointed an AI authority; the 2015 Penal Code has no AI or automated-decision provision.",
+ "title": "Eritrea: AI, scraping, privacy, cybersecurity, communications, content-moderation, age-gating, and reuse law",
+ "publisher": "LexLint",
+ "published": "2026-09-07",
+ "date_source": "source",
+ "why_not": ""
+}

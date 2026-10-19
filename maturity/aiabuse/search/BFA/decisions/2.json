@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "aiharm",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "rule;authority",
+ "fact": "The GRAIN comparative study finds that Burkina Faso has no specific AI legislation and no authority dedicated to AI governance, although its 2021 data protection law refers explicitly to AI-based processing.",
+ "title": "Report on Inclusive and Responsible Artificial Intelligence in West Africa",
+ "publisher": "GRAIN (Gender and Responsible AI Network)",
+ "published": "2026-09-13"
+}

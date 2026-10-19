@@ -2,12 +2,12 @@
 
 ## AI harms
 
-**Rule in force.** [Malawi24 reports that the Copyright Society of Malawi announced it would not register or distribute royalties for works created entirely using AI](<https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/>). [Malawi's government announced it is drafting legislation to regulate the use of AI, addressing concerns over potential ethical risks, with ICT minister Shadric Namalomba saying the bill should be tabled in parliament before December 2026](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>). [Malawi's ICT ministry says a National AI Strategy will be supported by an AI Bill establishing a regulatory framework to promote innovation while safeguarding citizen privacy and ensuring operational accountability, per minister Shadric Namalomba](<https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85>).
+**Rule in force.** In August 2026 the government said it was [drafting legislation to regulate the use of AI over its ethical risks](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>), and ICT minister Shadric Namalomba said the bill should be tabled in parliament before December 2026. The ministry said the [AI Bill would set a regulatory framework that safeguards citizens' privacy and ensures operational accountability](<https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85>), alongside a National AI Strategy, and that it would govern the public sector's use of the technology.
 
-**Authority.** No source held since October 2023 says a body is designated with a mandate over AI. The nearest held fact: [the one given above](<https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/>).
+**Authority.** The nearest held fact is the ICT ministry's statement that [the AI Bill will establish a regulatory framework for AI](<https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85>), in August 2026.
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/>).
+**Enforced.** In August 2026 the AI Bill had still to reach parliament, where the ICT minister aimed to [table it before December 2026](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>).
 
 ***Noted, not assessed***. [National AI Strategy](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>).
 
-***Not held***. No source held since October 2023 says a body is designated with a mandate over AI.
+***Not held***. No source held says a rule on harms from AI is in force or a body is designated with a mandate over AI.

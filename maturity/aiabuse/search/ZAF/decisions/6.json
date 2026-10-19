@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule",
+ "fact": "As of March 2026 South Africa has no single law dedicated to AI or deepfakes; Cybercrimes Act s16 covers simulated intimate images, POPIA s99 gives damages and the Electoral Act bans false information to influence elections.",
+ "title": "Social media and AI: Legal risks and South Africa's response",
+ "publisher": "Cliffe Dekker Hofmeyr",
+ "published": "2026-03-18",
+ "date_source": "source",
+ "why_not": ""
+}

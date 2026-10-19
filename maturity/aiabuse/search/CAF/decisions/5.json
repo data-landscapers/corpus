@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority;enforced",
+ "fact": "The Africa AI Governance Index profile (evidence to 30 June 2026) finds no AI-specific legislation, no dedicated AI regulatory body and no enforcement actions in the Central African Republic.",
+ "title": "Country Profile on AI Governance: Central African Republic",
+ "publisher": "AI Policy Lab (Africa AI Governance Index 2026)",
+ "published": "2026-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

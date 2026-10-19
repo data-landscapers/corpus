@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority;enforced",
+ "fact": "Desk research of October 2026 found an unadopted draft National AI Policy, no AI-specific law, no AI governance body and no AI enforcement decision in Botswana.",
+ "title": "Country Profile on AI Governance: Botswana",
+ "publisher": "AI Policy Lab (Africa AI Governance Index 2026)",
+ "published": "2026-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

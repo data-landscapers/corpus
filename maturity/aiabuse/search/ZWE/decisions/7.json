@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "authority;rule",
+ "fact": "Section 5 of the Cyber and Data Protection Act 5 of 2021 designates POTRAZ as the Data Protection Authority, and s25 gives data subjects the right not to be subject to a decision based solely on automated processing.",
+ "title": "Data Protection Act [Chapter 11:12] No. 5/2021",
+ "publisher": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+ "published": "2022-03-11",
+ "date_source": "proxy",
+ "sub_indicator": "aiharm",
+ "why_not": ""
+}

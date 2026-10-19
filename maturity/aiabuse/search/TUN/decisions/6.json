@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The ARP Rights and Freedoms Committee minutes of 17 Feb 2026 record that the draft organic law on personal data includes regulation of AI use and a right against exclusively automated decisions, within a data protection authority framework.",
+ "title": "محضر اجتماع لجنة الحقوق والحريات عدد 3",
+ "publisher": "مجلس نواب الشعب",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

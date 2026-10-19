@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "In February 2026 the IEC chairperson said the Commission would rely on the Cybercrimes Act and the Electoral Code of Conduct against deliberate generative-AI disinformation in the 2026 local elections.",
+ "title": "IEC flags generative AI and hyper-local disinformation as risk ahead of local elections",
+ "publisher": "SAnews",
+ "published": "2026-02-18",
+ "date_source": "source",
+ "why_not": ""
+}

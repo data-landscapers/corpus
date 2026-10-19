@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The draft organic law on personal data under examination by the ARP rights committee in February 2026 would regulate AI use, give a right against solely automated decisions and require impact assessments for high-risk processing, with a data protection authority.",
+ "title": "L'ARP veut faire barrage aux risques de l'IA et des algorithmes",
+ "publisher": "African Manager",
+ "published": "2026-02-19",
+ "date_source": "source",
+ "why_not": ""
+}

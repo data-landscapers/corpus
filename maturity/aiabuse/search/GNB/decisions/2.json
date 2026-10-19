@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "LexLint records, as of 17 October 2026, that no AI-specific law was found for Guinea-Bissau and that Lei 5/2010 contains no provision on automated decisions or AI risk; no AI authority is named.",
+ "title": "Guinea-Bissau: AI, scraping, privacy, cybersecurity, communications, content-moderation, age-gating, and reuse law",
+ "publisher": "LexLint",
+ "published": "2026-10-17",
+ "date_source": "source",
+ "why_not": ""
+}

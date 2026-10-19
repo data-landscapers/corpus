@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "In November 2024 CIPESA stated there is no comprehensive legal and institutional governance framework dedicated to AI in Uganda.",
+ "title": "An Artificial Intelligence Eco-System for Uganda: Policy Brief",
+ "publisher": "CIPESA",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

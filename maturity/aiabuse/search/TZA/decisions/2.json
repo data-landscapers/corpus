@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule",
+ "fact": "As of August 2026 Tanzania has no specific law regulating AI or deepfakes; Cybercrimes Act s.16, s.23 and s.45 take-down and the Personal Data Protection Act may apply.",
+ "title": "Fake AI photos",
+ "publisher": "FB Attorneys",
+ "published": "2026-08-02",
+ "date_source": "source",
+ "why_not": ""
+}

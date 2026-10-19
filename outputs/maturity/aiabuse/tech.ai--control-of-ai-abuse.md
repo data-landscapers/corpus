@@ -1,6 +1,6 @@
 # Control of AI abuse: AI harms
 
-*As at 2026-10-18.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -20,21 +20,15 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 6 |
+| 5 Leading | 0 |
+| 4 Operating | 5 |
 | 3 Established | 10 |
-| 2 Nascent | 12 |
+| 2 Nascent | 14 |
 | 1 Absent | 8 |
 | Unplaced | 0 |
 | No evidence | 17 |
 
 ## Countries
-
-### Benin: 5 Leading
-
-A rule or body against harms from AI was enforced in 2026.
-
-- La Nation reports that a learner prosecuted for circulating retouched photographs of his teacher was heard by the CRIET on 8 October 2026 ([source, 2026-10-08](https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir)).
 
 ### Chad: 4 Operating
 
@@ -61,17 +55,17 @@ A body was designated with a mandate over AI in 2025; enforcement is not on reco
 
 - The article states the Nigeria Data Protection Commission issued the GAID and applies the NDPA and GAID provisions on automated decisions and AI ([source, 2025](https://theliberalist.org/nigeria-needs-no-ai-law-it-already-has-one/)).
 
-### Seychelles: 4 Operating
-
-A body was designated with a mandate over AI in 2026; enforcement is not on record.
-
-- The Cabinet-approved AI in Education Framework establishes a National AI in Education Steering Committee that approves AI tools for schools, ensures compliance on ethics and data protection, and keeps approved and prohibited AI tool lists (State House) ([source, 2026-07-22](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms)).
-
 ### Sudan: 4 Operating
 
 A body was designated with a mandate over AI in 2025; enforcement is not on record.
 
 - A November 2025 decree established the Sudanese Data and Artificial Intelligence Authority and the Sudanese Cybersecurity Authority, though neither had issued binding rules as of mid-2026, per the SCPS article citing the AI Regulation Tracker ([source, 2025-11](https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/)).
+
+### Benin: 3 Established
+
+Since 2026 a Code du numérique article punishes undisclosed montages of a person; no designated AI authority or enforcement decision is known.
+
+- La Nation states that article 576 of the Code du numerique provides five years' imprisonment and a FCFA 25 million fine for publishing online, without consent, a montage of a person's image or words whose artificial character is not evident or flagged ([source, 2026-10-11](https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir)).
 
 ### Burkina Faso: 3 Established
 
@@ -97,12 +91,6 @@ A rule addressing a harm from AI was in force in 2025; a designated authority is
 
 - On 28 November 2025 the HAC president announced a formal ban on all media, including their social-media channels, broadcasting AI-generated speech or images during the 28 December presidential campaign, to prevent manipulation; no sanctions schedule is stated ([source, 2025-11-28](https://guineematin.com/2025/11/28/campagne-electorale-la-hac-interdit-aux-medias-de-publier-des-contenus-generes-par-lintelligence-artificielle/)).
 - Guinea's ANSSI said on 12 September 2025 that manipulating and illicitly circulating AI-generated images or videos of public figures is punished under Guinean law, with civil and criminal liability including content removal and compensation, and 5 to 10 years' imprisonment with heavy fines ([source, 2025-09-12](https://www.guineenews.org/2025/09/12/manipulations-par-ia-en-guinee-lanssi-met-en-garde-contre-les-atteintes-a-limage-des-autorites/)).
-
-### Malawi: 3 Established
-
-A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
-
-- Malawi24 reports that the Copyright Society of Malawi announced it would not register or distribute royalties for works created entirely using AI ([source, 2026-07-23](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/)).
 
 ### Mauritius: 3 Established
 
@@ -184,12 +172,25 @@ A rule or authority on harms from AI was being drafted in 2026; none in force is
 
 - SMEX reports that Libya's National Charter for AI Ethics (adopted 1 June 2026) proposes a national oversight body for AI ethics, to be created by the Council of Ministers, to supervise compliance, approve high-risk systems and keep a registry of compliance certifications ([source, 2026-06-01](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
 
+### Malawi: 2 Nascent
+
+The government was drafting an AI Bill in 2026, to be tabled by December; no rule in force on AI harms is known.
+
+- Malawi's government announced it is drafting legislation to regulate the use of AI, addressing concerns over potential ethical risks, with ICT minister Shadric Namalomba saying the bill should be tabled in parliament before December 2026 ([source, 2026-08-10](https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445)).
+- Malawi's ICT ministry says a National AI Strategy will be supported by an AI Bill establishing a regulatory framework to promote innovation while safeguarding citizen privacy and ensuring operational accountability, per minister Shadric Namalomba ([source, 2026-08-06](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85)).
+
 ### Morocco: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
 
 - The Mouvement populaire group in the House of Representatives tabled a private member's bill regulating AI use that bars AI on social media from spreading false news, abusive speech or fabricated images and videos, bans unacceptable-risk systems from the market, and sets fines of MAD 50,000-500,000 and prison of 6 months to 5 years ([source, 2025-01-07](https://www.intelligencia.ma/politique-19/500322.html)).
 - Private member's bill no 53, tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group, aims to prevent malicious uses of content generation such as deepfakes and would create a National Artificial Intelligence Agency ([source, 2024-04-17](https://www.lebrief.ma/projet-loi-agence-nationale-ia-100156120/)).
+
+### Seychelles: 2 Nascent
+
+A 2024 private members' bill against digital forgeries had not reached parliament; no rule in force or designated body is known.
+
+- Seychelles News Agency reports a proposed private members' Pro-Human Technology Bill that would protect against audio and visual digital forgeries and prohibit certain high-risk technologies; the Speaker says it is far from reaching the National Assembly ([source, 2024-03-07](https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill)).
 
 ### South Sudan: 2 Nascent
 

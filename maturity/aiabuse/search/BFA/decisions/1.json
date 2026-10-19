@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "aiharm",
+ "date_source": "source",
+ "why_not": "",
+ "select": true,
+ "aspect": "rule;authority;enforced",
+ "fact": "The AI Policy Lab profile (version of 7 October 2026, evidence to 30 June 2026) records no AI-specific legislation, no dedicated AI governance body and no AI-related enforcement action in Burkina Faso, with the CIL as the data protection authority.",
+ "title": "Country Profile on AI Governance: Burkina Faso",
+ "publisher": "AI Policy Lab (LawyersHub), Africa AI Governance Index 2026",
+ "published": "2026-10-07"
+}

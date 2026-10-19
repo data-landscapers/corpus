@@ -2,12 +2,12 @@
 
 ## AI harms
 
-**Rule in force.** [Seychelles News Agency reports a proposed private members' Pro-Human Technology Bill that would protect against audio and visual digital forgeries and prohibit certain high-risk technologies; the Speaker says it is far from reaching the National Assembly](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>). A later answer places the country above that step. 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rule in force.** In March 2024 the Seychelles News Agency reported [a proposed private members' Pro-Human Technology Bill that would protect against audio and visual digital forgeries and prohibit certain high-risk technologies](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>). The bill came from members rather than the government, and the Speaker said then that it was still far from reaching the National Assembly, so it had not been debated or passed.
 
-**Authority.** [The Cabinet-approved AI in Education Framework establishes a National AI in Education Steering Committee that approves AI tools for schools, ensures compliance on ethics and data protection, and keeps approved and prohibited AI tool lists (State House)](<https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms>).
+**Authority.** The nearest held fact is [the 2024 bill's proposed bar on certain high-risk technologies](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>), as reported in March 2024; the report names no body that would apply it.
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms>).
+**Enforced.** The nearest held fact is [the 2024 bill's proposed protection against audio and visual digital forgeries](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>), which would apply only once the National Assembly had passed it.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not held***. No source held says a rule on harms from AI is in force or a body is designated by law or decree; the 2026 AI in Education Framework is a Cabinet-approved policy.

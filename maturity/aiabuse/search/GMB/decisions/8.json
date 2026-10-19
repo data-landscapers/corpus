@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of June 2026 The Gambia has no dedicated AI legislation; the Personal Data Protection and Privacy Act 2025 gives a right against solely automated decisions and designates the Information Commission as regulator (not yet in force, no commencement notice found).",
+ "title": "Gambia: AI, scraping, privacy, cybersecurity, communications, content-moderation, product-liability, age-gating, and reuse law",
+ "publisher": "LexLint",
+ "published": "2026-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,7 +1,7 @@
 iso3,stage,rule,authority,enforced,stage_sources
 AGO,2,draft,,,AGO-001
 BDI,2,draft,,,BDI-001
-BEN,5,inforce,designated,applied,BEN-003
+BEN,3,inforce,,,BEN-002
 BFA,3,inforce,,,BFA-001
 BWA,no evidence,,,,
 CAF,no evidence,,,,
@@ -32,7 +32,7 @@ MLI,no evidence,,,,
 MOZ,4,inforce,designated,,MOZ-001
 MRT,no evidence,,,,
 MUS,3,inforce,,,MUS-001
-MWI,3,inforce,,,MWI-003
+MWI,2,draft,,,MWI-001;MWI-002
 NAM,1,none,,,NAM-001
 NER,no evidence,,,,
 NGA,4,inforce,designated,,NGA-002
@@ -44,7 +44,7 @@ SOM,no evidence,,,,
 SSD,2,draft,,,SSD-001
 STP,1,none,,,STP-001;STP-002
 SWZ,no evidence,,,,
-SYC,4,inforce,designated,,SYC-001
+SYC,2,draft,,,SYC-002
 TCD,4,inforce,designated,,TCD-001
 TGO,no evidence,,,,
 TUN,2,draft,,,TUN-001;TUN-002

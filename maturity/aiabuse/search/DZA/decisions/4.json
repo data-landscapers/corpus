@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of March 2026 Algeria had no AI-specific legislation and no designated authority responsible for overseeing AI systems.",
+ "title": "Algeria's Emerging AI Regulation: Balancing Innovation",
+ "publisher": "AlgeriaTech",
+ "published": "2026-03-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of early 2026 Uganda has no comprehensive AI Act or deepfake law and distributes AI regulatory authority across agencies none of which holds a dedicated AI mandate, the Personal Data Protection Office being the most relevant.",
+ "title": "Artificial Intelligence 2026 - Uganda",
+ "publisher": "Chambers and Partners",
+ "published": "2026-05-21",
+ "date_source": "source",
+ "why_not": ""
+}
