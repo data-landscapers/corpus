@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-002;TGO-003",
-   "gaps": "No source held since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-003",
+      "gaps": "No source held since October 2023 says a satellite-based farming service publishes on a schedule.",
+      "note": "Rebuild 2026-10-20: ANAMET, a government agency, uses satellite data in the agro-hydro-climatic forecasts it prepares each year for farmers, a service in use; no source says the forecasts are published on a schedule.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

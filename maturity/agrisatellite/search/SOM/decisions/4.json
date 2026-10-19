@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The Ministry says agro-meteorological data collection and early warning are weak and government depends on FSNAU and SWALIM, and plans to use SWALIM's remote sensing and GIS for real-time monitoring of soil health and drought and flood warnings.",
+ "title": "Agriculture Transformation Strategy 2025-2029",
+ "publisher": "Ministry of Agriculture and Irrigation, Federal Government of Somalia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

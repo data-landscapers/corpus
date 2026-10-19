@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://anmeteo.gov.gn/produits/bulletin-agrom%C3%A9t%C3%A9orologique-mensuel/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://anmeteo.gov.gn/services/services/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://alnap.hacdn.io/media/documents/PIMS5552-GEF8023_TE20SAP20UNDP20Guinea_09-19-2023-2023.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/GIN/3.txt,30190,pdf,Microsoft Word - PIMS 5552_TE SAP UNDP Guinea FINAL_09.06.2023
+4,https://zaeg.anasa.gov.gn/wp-content/uploads/2023/04/20042023_reduit-.pdf,held,held as raw/2023/2023-04-01-gin-anasa-atlas-zonage-agro-ecologique.md,,0,,
+5,https://ignfi.fr/en/references/agro-ecological-zoning-of-guinean-territory-zaeg/,fetched,,scripts/.workroot/study/agrisatellite/cache/GIN/5.txt,344,html,Agro-ecological Zoning of Guinean Territory - ZAEG - IGNFI
+6,https://doi.org/10.52638/rfpt.2021.563,fetched,,scripts/.workroot/study/agrisatellite/cache/GIN/6.txt,400,html,Suivi de la dynamique de l’occupation du sol en République de Guinée par imagerie satellitaire Spot: Transfert technologique pour le développement d’outils performants d’aide à la décision
+7,https://anmeteo.gov.gn/imagerie-satellitaire/,held,held as raw/2026/2026-01-01-gin-anm-imagerie-satellitaire.md,,0,,

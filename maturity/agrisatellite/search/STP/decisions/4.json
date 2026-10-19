@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "agrisat",
+ "aspect": "",
+ "fact": "",
+ "title": "GBON National Contribution Plan, Sao Tome and Principe",
+ "publisher": "UN SOFF",
+ "published": "2024-09-24",
+ "date_source": "source",
+ "why_not": "Weather observation plan; satellite mentions are for forecasting, not farming."
+}

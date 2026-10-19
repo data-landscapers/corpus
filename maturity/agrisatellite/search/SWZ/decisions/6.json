@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The 2020 article proposes an integrated drought monitoring and early warning framework for Eswatini combining SPI and NDVI, because drought management is reactive and climate data collection is fragmented.",
+ "title": "Integrated drought monitoring framework for Eswatini applying standardised precipitation index and normalised difference vegetation index",
+ "publisher": "Jamba: Journal of Disaster Risk Studies (Mlenga and Jordaan)",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

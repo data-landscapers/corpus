@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cgspace.cgiar.org/server/api/core/bitstreams/63c4b826-6f85-4010-a394-1bd3cc00bbdb/content,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/1.txt,4413,pdf,
+2,https://doi.org/10.1109/jstars.2026.3698556,unfetchable,empty extraction; no usable Wayback capture,,0,,
+3,https://doi.org/10.60566/q6wj0-6n223,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/3.txt,259,html,"A strategy for sustainable capacity development in Earth observation-based crop monitoring and early warning systems in Mozambique: Tools, guidelines, and recommendations"
+4,https://inam.gov.mz/produtos/boletim-climatico-nacional/,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/4.txt,187,html,Boletim Climatico Nacional
+5,https://www.inam.gov.mz/index.php/pt/clima/monitoria-de-seca,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/5.txt,694,html,Boletim Climatico Nacional
+6,https://jornal.uem.mz/lancado-sistema-de-aviso-previo-de-secas-com-base-em-satelites/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+7,https://www.agricultura.gov.mz/agricultura/culturas-e-aviso-previo/boletim-agrometeorologico/,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/7.txt,417,html,Boletim Agrometeorológico
+8,https://www.hollard.co.mz/media-centre/press-releases/hollard-benefits-16-thousand-smallholder-farmers,fetched,,scripts/.workroot/study/agrisatellite/cache/MOZ/8.txt,363,html,"Hollard-Agri Supports 16,000 Farmers Affected by Drought"

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service;published",
+ "fact": "The FAO-authored Crop Watch Bulletin for March-August 2023 uses NDVI, satellite rainfall estimates, VHI and FAO's Agricultural Stress Index with State Ministry of Agriculture and Forestry input; it is an FAO product, not a government service.",
+ "title": "Crop Watch Bulletin, South Sudan, March - August 2023",
+ "publisher": "CLiMIS South Sudan (FAO)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

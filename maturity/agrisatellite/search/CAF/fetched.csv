@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.fao.org/geospatial/news/news-detail/FAO-Conducts-Training-in-Bangui-to-Enhance-Hydrological-and-Meteorological-Emergency-Management-Using-Space-Based-Data/en,held,held as raw/2023/2023-04-05-fao-bangui-training-space-based-data-hydromet.md,,0,,
+2,https://meteocentrafrique.com/services/m%C3%A9t%C3%A9o/,fetched,,scripts/.workroot/study/agrisatellite/cache/CAF/2.txt,264,html,Météo
+3,https://www.fao.org/giews/earthobservation/country/index.jsp?code=CAF,fetched,,scripts/.workroot/study/agrisatellite/cache/CAF/3.txt,872,html,FAO.org
+4,https://reliefweb.int/report/central-african-republic/r-publique-centrafricaine-analyse-satellitaire-dynamique-des,held,held as raw/2021/2021-04-19-caf-wfp-analyse-satellitaire-surfaces-cultivees.md,,0,,
+5,https://matheo.uliege.be/bitstream/2268.2/8725/1/s130097Dicara2020.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/CAF/5.txt,15578,pdf,
+6,https://executiveboard.wfp.org/document_download/WFP-0000145843,fetched,,scripts/.workroot/study/agrisatellite/cache/CAF/6.txt,14543,pdf,Central African Republic country strategic plan (2023–2027)
+7,https://www.fao.org/in-action/kore/publications/publications-details/en/c/1187149/,fetched,,scripts/.workroot/study/agrisatellite/cache/CAF/7.txt,146,html,Special Report: FAO/WFP Crop and Food Security Assessment Mission to the Central African Republic (Summary) |KORE

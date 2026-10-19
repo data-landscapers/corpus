@@ -2,11 +2,11 @@
 
 ## Satellite data in agriculture
 
-**Satellite service.** [The Namibian reports that a US$2.4 million government agreement with 6th Grain Corporation, since cancelled, was expected to use satellite imagery and geospatial analysis to monitor maize, millet, sorghum and wheat](<https://www.namibian.com.na/namibian-universities-urged-to-build-local-technology-skills/>). [The Windhoek Observer reports a one-year N$39.5 million agreement between the agriculture ministry and 6th Grain to use satellite imagery and remote sensing to monitor staple crops, improve crop forecasting and drought monitoring, with data owned by government](<https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/>).
+**Satellite service.** [Digital Earth Africa and SASSCAL agreed to build the AgriWatch dashboard on DE Africa Earth-observation products for crop-cycle, rangeland and rainfall monitoring, with AgriWatch covering this country among the six SASSCAL states](<https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/>). [China handed Namibia its first satellite data receiving ground station at the Telecom Earth Station outside Windhoek, which will let Namibia receive satellite data for fields including agriculture, and the president asked all sector ministries and agencies to maximise its benefits](<https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj>).
 
-**Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://www.namibian.com.na/namibian-universities-urged-to-build-local-technology-skills/>).
+**Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/>).
 
-**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://www.namibian.com.na/namibian-universities-urged-to-build-local-technology-skills/>).
+**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/>).
 
 ***Noted, not assessed***. [Satellite ground data receiving station, Telecom Earth Station](<https://english.news.cn/20260213/ac98481f75d04d62940dd4f79d74b953/c.html>).
 

@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says a satellite-based farming service publishes on a schedule.
+***Not held***. No source held since October 2023 says a government satellite-based farming service is in use. The DroughtMap Hub handbook describes a platform being built.

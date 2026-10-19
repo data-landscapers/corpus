@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://agroclima.inamet.gov.ao/pages/boletins/boletins-mensais/,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
+2,https://angop.ao/en/noticias/sociedade/minttics-lanca-ferramenta-tecnologica-de-apoio-ao-combate-a-seca-em-angola/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+3,https://angop.ao/en/noticias/economia/angola-lanca-sistema-de-monitoramento-da-seca-em-setembro/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+4,https://pti.ao/tech-agro-estudante-francesa-disserta-sobre-solucao-tecnologica-do-ggpen/,fetched,,scripts/.workroot/study/agrisatellite/cache/AGO/4.txt,360,html,Tech-Agro: estudante francesa disserta sobre solução tecnológica do GGPEN na Universidade Espacial Internacional
+5,https://iafastro.directory/iac/archive/browse/IAC-23/B1/5/78225/,fetched,,scripts/.workroot/study/agrisatellite/cache/AGO/5.txt,528,html,Use of Satellite Image for Crop Classification in Angola
+6,https://minagrif.gov.ao/web/noticias/governo-lanca-sistema-de-monitoramento-da-seca,fetched,,scripts/.workroot/study/agrisatellite/cache/AGO/6.txt,205,html,Governo lança sistema de monitoramento da seca - Portal - minagrif.gov.ao
+7,https://g4aw.spaceoffice.nl/files/Project%20closure%20flyers/A5%20folder%20Mavo%20Diami%202023.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/AGO/7.txt,879,pdf,
+8,https://ggpen.gov.ao/seca-no-sul-de-angola/,fetched,,scripts/.workroot/study/agrisatellite/cache/AGO/8.txt,361,html,Seca no Sul de Angola - GGPEN

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The Ministry of Energy and Water Resources report states it has limited capacity to access and integrate remote sensing products into hydro-meteorological services and early warning, and no formal requirements for such products have been identified.",
+ "title": "Comprehensive Assessment of Existing Centralized and Decentralized Early Warning Systems in Somalia: Final Report",
+ "publisher": "Ministry of Energy and Water Resources, Federal Government of Somalia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

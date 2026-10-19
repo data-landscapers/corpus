@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "agrisat",
+ "aspect": "",
+ "fact": "",
+ "title": "Agrometeorology",
+ "publisher": "South Sudan Meteorological Services",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Service page; dekadal bulletin named but no satellite data stated and undated."
+}

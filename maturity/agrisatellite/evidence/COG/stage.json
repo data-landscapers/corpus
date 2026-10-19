@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "3",
-   "service": "inservice",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-002",
-   "gaps": "No source held since October 2023 says a satellite-based farming service publishes on a schedule.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "2",
+      "service": "underway",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-001;COG-002",
+      "gaps": "No source held since October 2023 says a government satellite-based farming service is in use.",
+      "note": "Rebuild 2026-10-20: FAO's GIEWS brief is not a government service, so it answers question 1 only; the planned Earth-observation satellite is preparation.",
+      "as_at": "2026-10-20"
+    }
+  ]
 }

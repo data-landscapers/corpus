@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ethiomet.gov.et/products/dekadal-satellite-bulletin/,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/1.txt,246,html,Dekadal Satellite Bulletin
+2,https://www.ethiomet.gov.et/services/agrometeology/,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/2.txt,253,html,Agro-Meteorology
+3,https://www.fao.org/in-action/eostat/resources/news/news-detail/harnessing-earth-observation-and-process-based-models-for-crop-yield-estimation-in-ethiopia/en,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/3.txt,745,html,Harnessing Earth Observation and Process-Based Models for Crop Yield Estimation in Ethiopia
+4,https://www.wfp.org/publications/ethiopia-endline-evaluation-satellite-index-insurance-pastoralists-siipe,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/4.txt,594,html,"Ethiopia, Endline Evaluation of Satellite Index Insurance for Pastoralists (SIIPE) | World Food Programme"
+5,http://www.eiar.gov.et/training-workshops-for-satellite-based-crop-monitoring-in-china-and-ethiopia-held/,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/5.txt,606,html,Message From the Director General
+6,https://www.mdpi.com/2072-4292/16/5/866,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/6.txt,17154,html,Cropland and Crop Type Classification with Sentinel-1 and Sentinel-2 Time Series Using Google Earth Engine for Agricultural Monitoring in Ethiopia
+7,https://hdl.handle.net/10568/135666,fetched,,scripts/.workroot/study/agrisatellite/cache/ETH/7.txt,76,html,From Reactive to Proactive: Ethiopia’s Agricultural Stress Index System
+8,https://edrmc.gov.et/early-warning-response/projects/leap,held,held as raw/2026/2026-08-28-edrmc-leap-satellite-early-warning.md,,0,,

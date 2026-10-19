@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "agrisat",
+ "aspect": "",
+ "fact": "",
+ "title": "Eswatini Agrometeorological Quarter Bulletin, April-June 2026",
+ "publisher": "Eswatini Meteorological Service",
+ "published": "2026-07-30",
+ "date_source": "source",
+ "why_not": "Scheduled bulletin; no satellite data stated in the text."
+}

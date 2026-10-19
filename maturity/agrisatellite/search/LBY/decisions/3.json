@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "",
+ "fact": "",
+ "title": "Agrometeorological Forecasting Bulletin",
+ "publisher": "WMO",
+ "published": "2025-07-23",
+ "date_source": "proxy",
+ "why_not": "Page only links to an Arabic bulletin; text states no satellite use.",
+ "sub_indicator": "agrisat"
+}

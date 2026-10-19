@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://knowledgeweb.ndma.go.ke/content/librarydocuments/national_drought_early_warning_bulletin_feb_202620260311171955.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/KEN/1.txt,4178,pdf,
+2,https://knowledgeweb.ndma.go.ke/Public/Resources/Default.aspx?ID=7,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://ndma.go.ke/drought-information/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+4,https://hdl.handle.net/10568/172538,fetched,,scripts/.workroot/study/agrisatellite/cache/KEN/4.txt,294,html,Remote sensing based Information and Insurance for Crops in emerging economies (RIICE) in Kenya (2023 & 2024)
+5,https://spacewatchafrica.com/kenya-space-agency-announces-plan-to-implement-agriculture-eo-decision-support-pilot-project-in-muranga-county/,fetched,,scripts/.workroot/study/agrisatellite/cache/KEN/5.txt,255,html,Kenya Space Agency announces plan to implement Agriculture EO decision support pilot project in Murang’a County - Space Watch Africa
+6,https://publications.admkenya.eu/Final_ADMKenya.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/KEN/6.txt,1486,pdf,
+7,https://zep-re.com/wp-content/uploads/2023/10/JANUARY-FEBRUARY-2023-Season-Report-_-KENYA-1.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/KEN/7.txt,2715,pdf,
+8,https://www.financialprotectionforum.org/sites/default/files/Kenya%20IBLI%20experience.pdf,unfetchable,"ChunkedEncodingError; Wayback HTTP 429, not checked",,0,,

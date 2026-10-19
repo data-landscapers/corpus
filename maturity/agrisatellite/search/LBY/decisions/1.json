@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "service",
+ "fact": "At a July 2026 conference FAO presented the MerWat-Libya platform, which integrates satellite products to support crop monitoring and water-productivity assessment for national institutions in Libya.",
+ "title": "Geospatial Unit in action: Satellite-based applications for better resilient farming in Libya",
+ "publisher": "FAO",
+ "published": "2026-07-02",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "agrisat"
+}

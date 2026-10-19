@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [IGNN Teledetection et technique spatiales (TTS)](<https://ignn.net/la-teledetection-et-technique-spacialestts.html>); [SARRA crop model](<https://documents1.worldbank.org/curated/en/099943305072619092/pdf/IDU-63c24804-35f9-40e0-b867-a958698a0cd7.pdf>).
 
-***Not held***. No source held since October 2023 says a satellite-based farming service publishes on a schedule.
+***Not held***. No source held since October 2023 says a government satellite-based farming service is in use. The WRSI drought trigger is described as a pilot.

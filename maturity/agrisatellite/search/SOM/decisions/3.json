@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service;reach",
+ "fact": "The April 2025 bulletin states the ARC drought insurance payout to the government of Somalia was determined from parametric indices based on satellite data, funding aid for 44,853 people.",
+ "title": "Somalia Drought Insurance Payout Bulletin 2024-25 Deyr Season",
+ "publisher": "World Food Programme",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

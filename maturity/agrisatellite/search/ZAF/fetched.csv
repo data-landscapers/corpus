@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://testing.weathersa.co.za/Documents/Climate/nr_drought.pdf,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+2,https://www.agriseker.co.za/wp-content/uploads/2025/04/Cumulus-20250417.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/ZAF/2.txt,3430,pdf,
+3,https://www.kwanalu.co.za/wp-content/uploads/2024/03/UMLINDI-Issue-2024-02-February-2024.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/ZAF/3.txt,3427,pdf,UMLINDI_202006
+4,https://www.elsenburg.com/wp-content/uploads/2024/03/WCDoA-Mapping-of-Agricultural-Commodity-Final-Report-Part-1.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/ZAF/4.txt,17893,pdf,Professional Report
+5,https://doi.org/10.3390/cli11120239,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+6,https://www.wrc.org.za/wp-content/uploads/mdocs/29681.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/ZAF/6.txt,56548,pdf,
+7,https://www.drought.agric.za/,fetched,,scripts/.workroot/study/agrisatellite/cache/ZAF/7.txt,55,html,Drought Monitoring
+8,https://www.arc.agric.za/arc-iscw/Pages/Earth-Observation.aspx,held,held as raw/2026/2026-08-26-arc-iscw-earth-observation.md,,0,,

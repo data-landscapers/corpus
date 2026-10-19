@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The August 2020 National Drought Plan states the National Disaster Management Agency recently adopted SPI, NDVI and land surface temperature anomaly for drought monitoring and shows a preliminary combined drought index built from three satellite parameters for 2001 to 2019.",
+ "title": "Eswatini National Drought Plan",
+ "publisher": "Government of Eswatini, National Disaster Management Agency",
+ "published": "2020-08",
+ "date_source": "source",
+ "why_not": ""
+}

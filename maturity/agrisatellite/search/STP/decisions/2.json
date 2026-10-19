@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "agrisat",
+ "aspect": "",
+ "fact": "",
+ "title": "Country Hydromet Diagnostics: Sao Tome and Principe, NMS Peer Review Report",
+ "publisher": "KNMI for Alliance for Hydromet Development",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": "States INM uses EUMETSAT satellite data for weather forecasting, not farming; no agricultural satellite service stated."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "In February 2023 Digital Earth Africa trained 34 staff from 14 Somali institutions, including agriculture, to use Earth observation for crop productivity and land assessments.",
+ "title": "Timely Monitoring of Environmental SDG Indicators in Somalia with Earth Observation and Geospatial Tools",
+ "publisher": "Global Partnership for Sustainable Development Data",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "agrisat",
-      "stage": "5",
-      "service": "inservice",
-      "published": "scheduled",
-      "reach": "counted",
+      "stage": "2",
+      "service": "underway",
+      "published": "",
+      "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BFA-001",
+      "gaps": "No source held since October 2023 says a government satellite-based farming service is in use. GARBAL, which counts its users, is SNV's service run with the ministry and ANAM.",
+      "note": "Rebuild 2026-10-20: GARBAL is SNV's service, run with government partners, so it answers question 1, not 2; its user count is not a government service's reach. The 2023 drought early-warning process predates the window.",
+      "as_at": "2026-10-20"
     }
   ]
 }

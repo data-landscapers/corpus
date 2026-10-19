@@ -1,0 +1,12 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.cirad.fr/en/worldwide/cirad-worldwide/projects/obsydya-project,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/1.txt,456,html,Observatoire des dynamiques agricoles et des paysages ruraux du Bénin (zones nord et centre)
+2,https://cadreco.media/numerique/2025/dsi-awards-2025-quand-lintelligence-artificielle-sinvite-dans-les-champs-beninois,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/2.txt,598,html,DSI Awards 2025 : Quand l’intelligence artificielle s’invite dans les champs béninois
+3,https://publications.cirad.fr/une_notice.php?dk=615836,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/3.txt,338,html,Cartographie des systèmes agraires au nord et au centre du Bénin par télédétection spatiale et apprentissage automatique
+4,https://sgg.gouv.bj/doc/decret-2025-572/download,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+5,https://www.gouv.bj/article/2777/meteo-benin-renforce-systeme-satellitaire-travers-eumetsat/,held,held as raw/2024/2024-09-17-ben-gouvbj-meteo-benin-systeme-satellitaire-eumetsat.md,,0,,
+6,https://www.meteobenin.bj/documents/963/BULL_AOUT_III_2024.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/6.txt,602,pdf,
+7,https://agritrop.cirad.fr/616186/7/Synth%C3%A8se%20Atelier%20Obsydya_05062023.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/7.txt,4832,pdf,"Atelier de co-construction d'indicateurs spatialisés 
+
+Rapport de Synthèse
+juin 2023"
+8,https://www.unccd.int/sites/default/files/country_profile_documents/plan_national_secheresse_benin_2019-2024.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/BEN/8.txt,61113,pdf,PLAN NATIONAL SECHERESSE

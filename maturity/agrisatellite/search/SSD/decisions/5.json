@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The WMO assessment of December 2024 records that the South Sudan Meteorological Service has no satellite data receiving facilities.",
+ "title": "Capacity and Needs Assessment in South Sudan: Final Report",
+ "publisher": "World Meteorological Organization",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

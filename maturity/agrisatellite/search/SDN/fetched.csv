@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://reliefweb.int/report/sudan/sudan-drought-monitoring-tool-series,fetched,,scripts/.workroot/study/agrisatellite/cache/SDN/1.txt,201,html,Sudan: Drought Monitoring (Tool Series) - Sudan
+2,https://doi.org/10.15243/jdmlm.2024.113.5997,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+3,https://meteosudan.sd/products/monthly-agromet-bulletin/,fetched,,scripts/.workroot/study/agrisatellite/cache/SDN/3.txt,196,html,نشرة الأرصاد الزراعية الشهرية
+4,https://meteosudan.sd/Services/agrometeorology/,fetched,,scripts/.workroot/study/agrisatellite/cache/SDN/4.txt,279,html,الأرصاد الجوية الزراعية
+5,https://www.ctc-n.org/file-download/download/private/30212,fetched,,scripts/.workroot/study/agrisatellite/cache/SDN/5.txt,5815,pdf,
