@@ -1,5 +1,6 @@
 ## 19 October 2026
 
+- The Maturity Assessment map is no longer under construction, and its download buttons now work: one CSV for the selected indicator, or one for all of them. Each is a dated edition, and a new one is cut only when its stages change.
 - On the Maturity Assessment map, a country with no evidence is now left white and outlined, and grey means only unplaced: evidence held that meets no rung. The legend shows the two separately.
 - The map's Changes in the past six months box now counts only stage changes recorded from 20 October 2026. Everything earlier was the initial assessment filled in, not change.
 - Statistics from administrative data has new stages 4 and 5: statistics from one administrative source published twice in three years, and from three sources published twice. A product now counts only where its source says the figures come from administrative records; 27 countries changed stage, none is at stage 5 and 19 are at stage 4.

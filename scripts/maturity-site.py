@@ -13,19 +13,15 @@ the studies' issued files — every `outputs/maturity/{id}/assessment.csv`, `{IS
 `{indicator_id}.md` — and from `lookups/indicators.csv`. The map page holds no content of its
 own: `maturity.json` carries everything it shows, and `site/assets/js/maturity-map.js` draws it.
 
-**Soft launch** *(Bill, 2026-10-09)*. Every page carried `noindex` and the *Under construction*
-band. Draft stages are shown. **The country reports came out of hiding on 2026-10-17** *(Bill)*:
-they lost the band and joined the place's report bar, and every page dropped `noindex` the same
-day (`INDEXED`), because a search engine takes days to act on it. Launch is `LAUNCHED = True`
-here, which drops the remaining bands and cuts the downloads, and the menu entry in
-data-landscapers `_data/site_menu.yml`.
+**Launched 2026-10-19** *(Bill)*: `LAUNCHED = True` dropped the last *Under construction* labels
+and turned the downloads on. The country reports had come out of hiding on 2026-10-17, and every
+page dropped `noindex` that day (`INDEXED`).
 
-**Downloads wait for launch** *(Bill)*. A dated CSV once downloaded is kept for ever (`design.md`
-§9), so no draft is offered as one. Until launch the buttons are shown disabled, and the files they
-will serve are written undated to `maturity/preview-downloads/` — outside `site/` — for Bill to check.
-At launch `publish_downloads()` cuts them as editions beside the map, through `editions.publish`,
-and the map page carries a `dl-artefact` line for each. **From then this writes editions, so RENDER
-must run it before `r2-sync.py`**, not after as now.
+**Downloads are editions** (`design.md` §9). `publish_downloads()` cuts each file as a dated edition
+beside the map, through `editions.publish`, only when its bytes move, and the map page carries a
+`dl-artefact` line for each. Before launch the buttons were disabled and the files went undated to
+`maturity/preview-downloads/` instead; `LAUNCHED = False` restores that. **This writes editions, so
+RENDER runs Step 6b again after it** when it has cut one.
 
 **A build that would blank the map writes nothing.** `problems()` reads what was built and the map
 already published; anything it finds is printed and the run exits 1 with `site/` untouched.
@@ -34,7 +30,7 @@ already published; anything it finds is printed and the run exits 1 with `site/`
 until acceptance; `study.json` → `redraws` names the rows they stand in for, so the Indicator
 dropdown shows the sub-indicators where the first redrawn row sat and drops the others.
 
-**Writes no edition before launch.** Safe to run alone. RENDER runs it after `methodology.py`,
+**Writes editions.** Safe to run alone, followed by `r2-sync.py`. RENDER runs it after `methodology.py`,
 before `sitemap.py`.
 """
 from __future__ import annotations
@@ -72,7 +68,7 @@ GEO = ROOT / "lookups" / "africa.geojson"
 # pixels to a degree, so this is a fifth of a pixel; it takes africa.json from 917 KB to about 210 KB.
 GEO_TOLERANCE = 0.02
 
-LAUNCHED = False
+LAUNCHED = True
 # A redesign cuts no edition: the reports are rewritten under the editions they already serve.
 REDESIGN = "--redesign" in sys.argv
 # The changes box counts only moves recorded from this day: everything before it was the baseline
