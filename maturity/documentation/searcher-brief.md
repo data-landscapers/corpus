@@ -20,9 +20,9 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 ## Search
 
-**One Exa Agent run per sub-indicator** (`agent_run`, `effort: "medium"`). Load the Exa tools with ToolSearch if they are not listed. In the query: name the country and the sub-indicator in plain words, list the ladder's questions, and ask for **at most eight documents, ranked**, newest first, each with URL, title, publisher, date and one line on which question it answers. Ask in the country's working language as well as English. Ask for the study file's source types in its order, primary and official first, and for nothing dated before 2019 except a stated absence.
+**Standard Exa searches, never an Agent run** *(Bill, 2026-10-19)*: `web_search_exa`, one search per question of the ladder, in English and again in the country's working language. Load the Exa tools with ToolSearch if they are not listed. Each query describes the document wanted: the country, the sub-indicator in plain words and what a yes to that question would be, with the study file's source types, primary and official first.
 
-Do not search further by hand unless a run returns nothing. Leave out a return that is plainly another country's or not a document.
+From all the results, keep **at most eight documents, ranked**, newest first, each with URL, title, publisher, date and one line on which question it answers. Nothing dated before 2019 except a stated absence. Leave out a return that is plainly another country's or not a document.
 
 ## Fetch
 
