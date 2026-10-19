@@ -23,7 +23,7 @@ last_reviewed: 2026-10-18
 The same set difference as stages 4 and 4b, over a study's reading lists. From `scripts/.workroot/`:
 
 ```bash
-python scripts/study-select.py {id} --new          # each study: the arrivals onto its lists
+python scripts/study-select.py ALL --new          # every study's arrivals, from what changed since its stamp
 python scripts/study-arrivals.py triage            # instruments and pre-window stories closed unread
 python scripts/study-arrivals.py plan --cap 20     # shared calls; exit 0 with 0 calls = none
 python scripts/study-arrivals.py prompts {dir}     # one drafter file per call

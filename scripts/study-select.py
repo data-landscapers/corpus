@@ -7,6 +7,7 @@ r"""study-select.py — a maturity study's reading list, one per country.
     python scripts/study-select.py health --dry      # the counts, nothing written
     python scripts/study-select.py health --add      # Phase 2: append what ingest returned
     python scripts/study-select.py health --new      # upkeep: append what has arrived since
+    python scripts/study-select.py ALL --new         # the same for every study, index loaded once
 
 `maturity/documentation/maturity-study-method.md` §4. Writes
 `maturity/{id}/evidence/{ISO3}/readlist.csv`, the list drafters read from the top, and
@@ -84,6 +85,13 @@ already written still names its document.
 each list already holds, appended as `--add` appends and entered in `evidence/arrivals.csv`
 as open work for `study-update.py`. With `--dry` it counts and writes nothing.
 
+**`--new` reads only what changed** *(housekeeping 25, Bill 2026-10-19)*: the records written
+since the study's stamp, `evidence/listed.json`, and those its reports newly vouch for. A study
+with no stamp, or whose terms, subjects or carried rows changed since it was written, is
+rescanned whole, as is any with `--full`. `--new ALL`, or several ids, loads the index once:
+all 115 in under a minute, against about five hours one at a time.
+`test_study_select_many.py` holds both scans to the per-study one.
+
 The status sub-sections themselves head each list as `kind = status` rows. Runs from the
 workroot because it reads `raw/` through Corpus's own index.
 
@@ -144,6 +152,57 @@ def scan(rows: list[dict], read, terms: re.Pattern) -> dict[str, dict]:
             "folded": folded if found else "",
         }
     return out
+
+
+def scan_many(rows: list[dict], read, terms: dict[str, re.Pattern],
+              countries: dict[str, dict]) -> tuple[dict[str, dict], dict[str, dict]]:
+    """`scan` for many studies at once: each `raw/` document read and folded once.
+
+    Returns `(base, hits)`: `base` is slug -> the fields every study shares, and `hits` is
+    study -> slug -> its `terms`, `hits` and `titled`, for the documents that study's terms
+    reach. No body is kept. The one thing `select` needs of the text, whether a regional
+    document names a country, is answered here as `named`, the set of countries it names,
+    for a document filed to a region that some study's terms reach."""
+    names = {iso: study_lib.name_regex(iso, c) for iso, c in countries.items()}
+    region_codes = set().union(*(c["regions"] for c in countries.values()))
+    base: dict[str, dict] = {}
+    hits: dict[str, dict] = {s: {} for s in terms}
+    for r in rows:
+        d, fm = r["d"], r["fm"]
+        if d.get("folder") != "raw" or d.get("ext") != ".md":
+            continue
+        title = str(fm.get("title") or d["slug"])
+        folded = study_lib.fold(title + "\n" + (read(r) or ""))
+        folded_title = study_lib.fold(title)
+        places = [str(p) for p in vault_lib.as_list(fm.get("places"))]
+        any_hit = False
+        for s, pat in terms.items():
+            found = pat.findall(folded)
+            if found:
+                any_hit = True
+                hits[s][d["slug"]] = {"terms": sorted({t.lower() for t in found}),
+                                      "hits": len(found),
+                                      "titled": bool(pat.search(folded_title))}
+        named = (frozenset(iso for iso, n in names.items() if n.search(folded))
+                 if any_hit and set(places) & region_codes else frozenset())
+        base[d["slug"]] = {
+            "slug": d["slug"], "path": r["path"], "title": title,
+            "published": str(fm.get("published") or d.get("file_date") or ""),
+            "places": places,
+            "topics": [str(t) for t in vault_lib.as_list(fm.get("topics"))],
+            "url": str(fm.get("url") or ""),
+            "url_norm": d.get("url_norm", ""), "words": d.get("words", 0),
+            "named": named,
+        }
+    return base, hits
+
+
+NO_HIT = {"terms": [], "hits": 0, "titled": False}
+
+
+def view(base: dict[str, dict], hits: dict[str, dict]) -> dict[str, dict]:
+    """One study's `docs`, shaped as `scan` returns them, from `scan_many`'s output."""
+    return {slug: {**b, **hits.get(slug, NO_HIT), "folded": ""} for slug, b in base.items()}
 
 
 def around_terms(r: dict, weak: bool = True) -> bool:
@@ -362,7 +421,8 @@ def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
         in_country = iso in doc["places"]
         tagged = in_country and bool(set(doc["topics"]) & set(subjects))
         regional = (not in_country and bool(set(doc["places"]) & country["regions"])
-                    and bool(doc["hits"]) and bool(name.search(doc["folded"])))
+                    and bool(doc["hits"])
+                    and (iso in doc["named"] if "named" in doc else bool(name.search(doc["folded"]))))
         if not (in_country or regional or reported):
             continue
         if not doc["hits"] and not reported:
@@ -388,53 +448,17 @@ def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
     return rows, dropped
 
 
-def main(argv=None) -> int:
-    ap = argparse.ArgumentParser(description="A maturity study's reading list, per country.")
-    ap.add_argument("study")
-    ap.add_argument("--iso", action="append", help="one country; repeatable")
-    ap.add_argument("--dry", action="store_true", help="print the counts, write nothing")
-    ap.add_argument("--add", action="store_true",
-                    help="Phase 2: append the returned and completed documents, renumbering nothing")
-    ap.add_argument("--new", action="store_true",
-                    help="upkeep: append the documents that have arrived since, as open arrivals")
-    a = ap.parse_args(argv)
+def make_shorten(study_id: str, terms: re.Pattern, all_countries: dict, read, dry: bool):
+    """`shorten(r, iso)` for one study: point a long document's row at its passages file.
 
-    try:
-        study = study_lib.load(a.study)
-        index = vault_lib.load_index()
-    except (study_lib.StudyError, vault_lib.ForeignIndex, vault_lib.EmptyIndex) as e:
-        print(f"study-select: {e}")
-        return 2
-
-    def read(row):
-        try:
-            with open(os.path.join(vault_lib.ROOT, row["path"]), encoding="utf-8",
-                      errors="replace") as fh:
-                return fh.read()
-        except OSError:
-            return ""
-
-    terms = study_lib.term_regex(study["terms"])
-    docs = scan(index, read, terms)
-    by_url = {d["url_norm"]: s for s, d in docs.items() if d["url_norm"]}
-    all_countries = study_lib.countries()
-    wanted = a.iso or sorted(all_countries)
-    unknown = [i for i in wanted if i not in all_countries]
-    if unknown:
-        print(f"study-select: not a country in lookups/countries.csv: {', '.join(unknown)}")
-        return 2
-
-    base = os.path.join(study_lib.study_dir(a.study), "evidence")
-    cut_dir = os.path.join(vault_lib.ROOT, "study", a.study, "passages")
+    A country's own document is cut once, around the terms, however many lists carry it.
+    **A regional one is cut per country, around the country's name**: one continental
+    report was otherwise read at 29,000 words by each of 52 drafters, for the paragraph
+    or two that concerned theirs."""
+    cut_dir = os.path.join(vault_lib.ROOT, "study", study_id, "passages")
     cut: dict[tuple, int] = {}
 
     def shorten(r: dict, iso: str) -> None:
-        """Point a long document's row at its passages file.
-
-        A country's own document is cut once, around the terms, however many lists carry it.
-        **A regional one is cut per country, around the country's name**: one continental
-        report was otherwise read at 29,000 words by each of 52 drafters, for the paragraph
-        or two that concerned theirs."""
         slug, regional = r["slug"], "regional" in r["why"].split("+")
         key = (slug, iso if regional else "")
         path = os.path.join(cut_dir, iso, slug + ".md") if regional else \
@@ -447,15 +471,213 @@ def main(argv=None) -> int:
                     + passages(read({"path": r["path"]}),
                                study_lib.name_regex(iso, all_countries[iso]) if regional else terms))
             cut[key] = len(text.split())
-            if not a.dry:
+            if not dry:
                 os.makedirs(os.path.dirname(path), exist_ok=True)
                 with open(path, "w", encoding="utf-8", newline="\n") as fh:
                     fh.write(text)
         r.update(read="passages", words=cut[key],
                  path=os.path.relpath(path, study_lib.CORPUS).replace("\\", "/"))
+    return shorten
+
+
+STAMP = "listed.json"
+
+
+def stamp_key(study: dict) -> str:
+    """What a reading list was selected on: a change to any of it means a full rescan."""
+    import hashlib, json
+    basis = {k: study.get(k) for k in ("terms", "subjects", "carry")}
+    return hashlib.sha1(json.dumps(basis, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def read_stamp(study_id: str) -> dict:
+    import json
+    try:
+        with open(os.path.join(study_lib.study_dir(study_id), "evidence", STAMP), encoding="utf-8") as fh:
+            return json.load(fh)
+    except (OSError, ValueError):
+        return {}
+
+
+def write_stamp(study_id: str, study: dict, at: int) -> None:
+    import json
+    with open(os.path.join(study_lib.study_dir(study_id), "evidence", STAMP), "w",
+              encoding="utf-8", newline="\n") as fh:
+        json.dump({"at": at, "key": stamp_key(study)}, fh)
+        fh.write("\n")
+
+
+def raw_rows(index: list[dict]) -> list[dict]:
+    return [r for r in index if r["d"].get("folder") == "raw" and r["d"].get("ext") == ".md"]
+
+
+def url_map(index: list[dict]) -> dict[str, str]:
+    """url_norm -> slug over `raw/`, from the index alone: no document is read."""
+    return {r["d"]["url_norm"]: r["d"]["slug"] for r in raw_rows(index) if r["d"].get("url_norm")}
+
+
+def changed_docs(index: list[dict], since: int, routed: dict[str, dict], lists: dict[str, list],
+                 read, terms: re.Pattern) -> dict[str, dict]:
+    """`scan` over only the documents that can join a list: those written at or after `since`,
+    and those a country's report now vouches for (a route marked `!`) that its list does not
+    hold. A document unchanged since the stamp keeps its terms, places and tags, so a report's
+    word is the one thing that can newly admit it; a plain route admits nothing on its own."""
+    want = {r["d"]["slug"] for r in raw_rows(index) if int(r["d"].get("mtime", 0)) >= since}
+    for iso, rs in routed.items():
+        held = {r["slug"] for r in lists[iso] if r.get("kind") == "raw"}
+        want |= {s for s, how in rs.items() if s not in held and any(h.endswith("!") for h in how)}
+    return scan([r for r in raw_rows(index) if r["d"]["slug"] in want], read, terms)
+
+
+def list_new(study_id: str, study: dict, index: list[dict], by_url: dict[str, str],
+             wanted: list[str], all_countries: dict, terms: re.Pattern, read, dry: bool,
+             docs: dict[str, dict] | None = None) -> int:
+    """`--new` for one study: append each list's arrivals and enter them as open work.
+
+    **Only what can have changed is read** *(Bill, 2026-10-19)*. A document joins a list it
+    is not on only if it is new or was rewritten since the last listing - its `mtime` past the
+    study's stamp - or the country's own reports now cite it. Everything else gives the answer
+    it gave last time, so the night reads its arrivals and nothing else. `docs`, given, is a
+    full scan instead: the fallback where there is no stamp, or the terms, subjects or carried
+    rows have changed since it was written. Returns the number appended."""
+    base = os.path.join(study_lib.study_dir(study_id), "evidence")
+    register = os.path.join(base, "arrivals.csv")
+    arrivals, today, total = study_lib.read_csv(register), dt.date.today().isoformat(), 0
+    began = int(dt.datetime.now().timestamp())
+    lists, routed = {}, {}
+    for iso in wanted:
+        existing = study_lib.read_csv(os.path.join(base, iso, "readlist.csv"))
+        if not existing:
+            continue        # never listed: the study has not reached this country
+        lists[iso] = existing
+        routed[iso], _ = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url,
+                               tuple(study.get("carry", ())))
+    if docs is None:
+        docs = changed_docs(index, int(read_stamp(study_id)["at"]), routed, lists, read, terms)
+    shorten = make_shorten(study_id, terms, all_countries, read, dry)
+    for iso, existing in lists.items():
+        path = os.path.join(base, iso, "readlist.csv")
+        listed = {r["slug"] for r in existing if r.get("kind") == "raw"}
+        rows = [r for r in select(iso, all_countries[iso], docs, study["subjects"], routed[iso])[0]
+                if r["slug"] not in listed]
+        for r in rows:
+            if around_terms(r):
+                shorten(r, iso)
+        renumber(existing, rows, "new")
+        total += len(rows)
+        for r in rows:
+            arrivals.append({"iso3": iso, "n": r["n"], "slug": r["slug"], "listed": today,
+                             "outcome": "", "closed": ""})
+            print(f"  {iso}  {r['n']:>4}  {r['slug']}  {r['words']} words")
+        if rows and not dry:
+            study_lib.write_csv(path, study_lib.READLIST_FIELDS, existing + rows)
+    if total and not dry:
+        study_lib.write_csv(register, study_lib.ARRIVAL_FIELDS, arrivals)
+    if not dry:
+        write_stamp(study_id, study, began)
+    print(f"study-select: {study_id} - {total} new document(s) on the reading lists"
+          + (" (dry run, nothing written)." if dry else "."))
+    return total
+
+
+def read_raw(row: dict) -> str:
+    try:
+        with open(os.path.join(vault_lib.ROOT, row["path"]), encoding="utf-8",
+                  errors="replace") as fh:
+            return fh.read()
+    except OSError:
+        return ""
+
+
+def all_studies() -> list[str]:
+    """Every study id: a folder of `maturity/` holding a `study.json`."""
+    root = os.path.join(study_lib.CORPUS, "maturity")
+    return sorted(d for d in os.listdir(root)
+                  if os.path.isfile(os.path.join(root, d, "study.json")))
+
+
+def needs_full(study_id: str, study: dict) -> bool:
+    s = read_stamp(study_id)
+    return not s or s.get("key") != stamp_key(study)
+
+
+def new_many(ids: list[str], iso: list[str] | None, dry: bool, full: bool = False) -> int:
+    """`--new` over several studies with the index loaded once (housekeeping 25). Each study
+    reads only its own changes; those needing a full rescan share one read of `raw/`."""
+    try:
+        studies = {s: study_lib.load(s) for s in ids}
+        index = vault_lib.load_index()
+    except (study_lib.StudyError, vault_lib.ForeignIndex, vault_lib.EmptyIndex) as e:
+        print(f"study-select: {e}")
+        return 2
+    all_countries = study_lib.countries()
+    wanted = iso or sorted(all_countries)
+    unknown = [i for i in wanted if i not in all_countries]
+    if unknown:
+        print(f"study-select: not a country in lookups/countries.csv: {', '.join(unknown)}")
+        return 2
+    terms = {s: study_lib.term_regex(st["terms"]) for s, st in studies.items()}
+    by_url = url_map(index)
+    rescan = [s for s in ids if full or needs_full(s, studies[s])]
+    if rescan:
+        print(f"study-select: full rescan for {len(rescan)} studies: {', '.join(rescan)}")
+        base, hits = scan_many(index, read_raw, {s: terms[s] for s in rescan}, all_countries)
+    total = 0
+    for s in ids:
+        docs = view(base, hits[s]) if s in rescan else None
+        total += list_new(s, studies[s], index, by_url, wanted, all_countries, terms[s],
+                          read_raw, dry, docs)
+    print(f"study-select: {len(ids)} studies - {total} new document(s) in all"
+          + (" (dry run, nothing written)." if dry else "."))
+    return 0
+
+
+def main(argv=None) -> int:
+    ap = argparse.ArgumentParser(description="A maturity study's reading list, per country.")
+    ap.add_argument("study", nargs="+",
+                    help="a study id; with --new, several, or ALL for every study")
+    ap.add_argument("--iso", action="append", help="one country; repeatable")
+    ap.add_argument("--dry", action="store_true", help="print the counts, write nothing")
+    ap.add_argument("--add", action="store_true",
+                    help="Phase 2: append the returned and completed documents, renumbering nothing")
+    ap.add_argument("--new", action="store_true",
+                    help="upkeep: append the documents that have arrived since, as open arrivals")
+    ap.add_argument("--full", action="store_true",
+                    help="with --new: rescan the whole of raw/ rather than what changed since the stamp")
+    a = ap.parse_args(argv)
+
+    if a.study == ["ALL"] or len(a.study) > 1:
+        if not a.new or a.add:
+            print("study-select: several studies, or ALL, are taken with --new only")
+            return 2
+        return new_many(all_studies() if a.study == ["ALL"] else a.study, a.iso, a.dry, a.full)
+    study_id = a.study[0]
+    if a.new:
+        return new_many([study_id], a.iso, a.dry, a.full)
+
+    try:
+        study = study_lib.load(study_id)
+        index = vault_lib.load_index()
+    except (study_lib.StudyError, vault_lib.ForeignIndex, vault_lib.EmptyIndex) as e:
+        print(f"study-select: {e}")
+        return 2
+
+    read = read_raw
+    terms = study_lib.term_regex(study["terms"])
+    docs = scan(index, read, terms)
+    by_url = {d["url_norm"]: s for s, d in docs.items() if d["url_norm"]}
+    all_countries = study_lib.countries()
+    wanted = a.iso or sorted(all_countries)
+    unknown = [i for i in wanted if i not in all_countries]
+    if unknown:
+        print(f"study-select: not a country in lookups/countries.csv: {', '.join(unknown)}")
+        return 2
+
+    base = os.path.join(study_lib.study_dir(study_id), "evidence")
+    shorten = make_shorten(study_id, terms, all_countries, read, a.dry)
 
     if a.add:
-        search = os.path.join(study_lib.study_dir(a.study), "search")
+        search = os.path.join(study_lib.study_dir(study_id), "search")
         returned = study_lib.read_csv(os.path.join(search, "returned.csv"))
         reacquired = study_lib.read_csv(os.path.join(search, "reacquire.csv"))
         complete = {r["d"]["slug"] for r in index
@@ -475,36 +697,7 @@ def main(argv=None) -> int:
             if rows:
                 print(f"  {iso}  {len(rows):3d} added  {sum(int(r['words']) for r in rows):7d} words  "
                       f"calls {rows[0]['slice']}-{rows[-1]['slice']}")
-        print(f"study-select: {a.study} - {total} documents added to the reading lists"
-              + (" (dry run, nothing written)." if a.dry else "."))
-        return 0
-
-    if a.new:
-        register = os.path.join(base, "arrivals.csv")
-        arrivals, today, total = study_lib.read_csv(register), dt.date.today().isoformat(), 0
-        for iso in wanted:
-            path = os.path.join(base, iso, "readlist.csv")
-            existing = study_lib.read_csv(path)
-            if not existing:
-                continue        # never listed: the study has not reached this country
-            listed = {r["slug"] for r in existing if r.get("kind") == "raw"}
-            routes, _ = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url, tuple(study.get("carry", ())))
-            rows = [r for r in select(iso, all_countries[iso], docs, study["subjects"], routes)[0]
-                    if r["slug"] not in listed]
-            for r in rows:
-                if around_terms(r):
-                    shorten(r, iso)
-            renumber(existing, rows, "new")
-            total += len(rows)
-            for r in rows:
-                arrivals.append({"iso3": iso, "n": r["n"], "slug": r["slug"], "listed": today,
-                                 "outcome": "", "closed": ""})
-                print(f"  {iso}  {r['n']:>4}  {r['slug']}  {r['words']} words")
-            if rows and not a.dry:
-                study_lib.write_csv(path, study_lib.READLIST_FIELDS, existing + rows)
-        if total and not a.dry:
-            study_lib.write_csv(register, study_lib.ARRIVAL_FIELDS, arrivals)
-        print(f"study-select: {a.study} - {total} new document(s) on the reading lists"
+        print(f"study-select: {study_id} - {total} documents added to the reading lists"
               + (" (dry run, nothing written)." if a.dry else "."))
         return 0
 
@@ -535,7 +728,7 @@ def main(argv=None) -> int:
         print(f"  {s['iso3']}  {s['documents']:4d} documents  {s['words']:8d} words  "
               f"first pass {s['first_pass']:2d} / {s['first_words']:6d} words  "
               f"{s['tagged_no_term']:4d} tagged, no term")
-    print(f"study-select: {a.study} - {len(summary)} countries, "
+    print(f"study-select: {study_id} - {len(summary)} countries, "
           f"{sum(s['documents'] for s in summary)} listings, "
           f"{sum(s['words'] for s in summary)} words; " + ("about" if about else "first pass") + " "
           f"{sum(s['first_pass'] for s in summary)} listings, "
