@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Somalia Facts & Figures 2024, eighth edition (the seventh was October 2024), compiled by SNBS in October 2025, publishes statistics from ministry records: Ministry of Education, Culture and Higher Education (school returns, 2023 and 2024), Ministry of Health (2024), National Civil Servant Commission (2022), Ministry of Finance (revenue and expenditure, 2023) and the Somali Police Force Command Road Safety Unit (road accidents, to 2025).",
+ "title": "Somalia Facts & Figures 2024 (Eighth Edition)",
+ "publisher": "Somalia National Bureau of Statistics",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

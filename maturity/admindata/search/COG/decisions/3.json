@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "INS Congo reports that on 5 November 2025 in Dolisie it opened a workshop to finalise and validate the collection tools for the departmental statistical yearbooks (Annuaires statistiques départementaux); its latest national yearbook listed is Annuaire statistique du Congo 2018.",
+ "title": "Annuaires Statistiques du Congo",
+ "publisher": "Institut National de la Statistique (INS-Congo)",
+ "published": "2025-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

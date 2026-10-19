@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Health and Wellness published in October 2024 the 49th annual Health Statistics Report, for 2023, compiled from public hospital and Health Records Division data, private clinics and Ministry units (health facility reports), with vital statistics from the Civil Status Office obtained through Statistics Mauritius.",
+ "title": "Health Statistics Report 2023 (49th edition)",
+ "publisher": "Ministry of Health and Wellness",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

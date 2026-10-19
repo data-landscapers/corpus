@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Annuaire%20statistique%2F2024%2FAnnuaire_Statistique_E2024_VF.pdf?alt=media&token=8b8ff01b-c4da-4737-a11d-6e84c87ff00c,held,held as raw/2024/2024-01-01-dji-instad-annuaire-statistique-edition-2024.md,,0,,
+2,https://instad.dj/indice/bulletin,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://statafric.au.int/en/news/press-releases/2025-02-26/successful-peer-review-djiboutis-national-statistical-system,fetched,,scripts/.workroot/study/admindata/cache/DJI/3.txt,398,html,SUCCESSFUL PEER REVIEW OF DJIBOUTI'S NATIONAL STATISTICAL SYSTEM: KEY FINDINGS AND PROMISING PERSPECTIVES
+4,http://www.education.gov.dj/index.php/annuaire-statistique-menfop-2023-2024,fetched,,scripts/.workroot/study/admindata/cache/DJI/4.txt,19,html,Annuaire Statistique MENFOP 2023-2024
+5,https://sante.gouv.dj/publications,fetched,,scripts/.workroot/study/admindata/cache/DJI/5.txt,449,html,Ministère de la santé
+6,https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/Annuaire%20statistique%2F2023%2FAnnuaire_Statistique_2023.pdf?alt=media&token=c74335fa-0881-4b4f-93c6-357e0aba2d85,fetched,,scripts/.workroot/study/admindata/cache/DJI/6.txt,23237,pdf,
+7,http://www.education.gov.dj/index.php/annuaire-statistique-menfop-2022-2023,fetched,,scripts/.workroot/study/admindata/cache/DJI/7.txt,19,html,Annuaire Statistique MENFOP 2022-2023

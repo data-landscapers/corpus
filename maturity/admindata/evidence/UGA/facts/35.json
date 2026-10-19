@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-01-uga-annual-crime-report-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Uganda Police Force published its Annual Crime Report 2024 on 2025-02-01 (figures cover 2024); the passages read name no records it draws on.", "as_of": "2025-02-01", "date_precision": "day", "system": "Annual Crime Report 2024", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annual Crime Report 2024", "country_label": "Uganda", "class": "admin", "platform": "", "owner": "Uganda Police Force", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Education's GEPE published the Anuário Estatístico da Educação 2022/2023 (2025), compiled from school returns collected through the Sistema de Informação para Gestão da Educação (SIGE) via provincial, municipal and school directorates.",
+ "title": "Anuário Estatístico da Educação 2022-2023 (MED)",
+ "publisher": "Ministério da Educação, GEPE / INE",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

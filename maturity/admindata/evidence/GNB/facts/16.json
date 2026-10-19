@@ -1,0 +1,14 @@
+{
+  "slug": "2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;health",
+     "fact": "The Instituto Nacional de Estatísticas yearbook of vital statistics for 2018-2022 draws on paper civil-registration records of births, marriages and deaths held by the Ministry of Justice (databases sent to INE annually in Excel), with the RapidPro birth-registration platform, and on the DHIS2 health information system for deaths and causes; as_of is the document's published date (2022-01-01), the figures cover 2018-2022.",
+     "as_of": "2022-01-01", "date_precision": "day", "system": "Anuário Estatísticas Vitais da Guiné-Bissau 2018-2022", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Anuário Estatísticas Vitais da Guiné-Bissau 2018-2022", "country_label": "Guinea-Bissau", "class": "vital", "platform": "", "owner": "Instituto Nacional de Estatísticas", "tiers": ""},
+    {"system": "RapidPro", "country_label": "Guinea-Bissau", "class": "", "platform": "RapidPro", "owner": "", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Guinea-Bissau", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The 37th edition (year 2023, July 2024) of the Annuaire des statistiques sanitaires, issued by the Ministry of Public Health's Direction des Statistiques et de l'Information Sanitaire, compiles the data of the country's health facilities (public and private), entered through DHIS2 since 2022 after the earlier GESIS spreadsheets, with completeness above 95%, and it is published annually; source: health facility reports.",
+ "title": "Annuaire des statistiques sanitaires 2023, Tome A, 37ème édition",
+ "publisher": "Ministère de la Santé Publique, Direction des Statistiques et de l'Information Sanitaire",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

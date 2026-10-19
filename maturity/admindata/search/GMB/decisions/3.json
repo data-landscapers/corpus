@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Gambia Bureau of Statistics published The 2024 Gambia Statistical Abstract, whose tables draw on school returns (MoBSE/PPARBD Statistical Yearbook 2023/2024), health facility reports (HMIS/DHIS2 2024), the Gambia Police Force, the Central Bank, the Tourism Board and civil aviation records, with trade tables for 2009-2024; earlier abstracts for 2016-2023 are listed on the GBoS site.",
+ "title": "The 2024 Gambia Statistical Abstract",
+ "publisher": "Gambia Bureau of Statistics",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

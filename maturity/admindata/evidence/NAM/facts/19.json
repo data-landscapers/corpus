@@ -1,0 +1,13 @@
+{
+  "slug": "2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The Namibia Statistics Agency published the Namibia Vital Statistics Report 2018-2021 in April 2024 (figures cover births, deaths and marriages registered 2018-2021), stating its vital events are administrative data from the Civil Registration System, extracted from the National Population Registration System held by the Office of the Prime Minister up to 17 February 2022.", "as_of": "2024-04", "date_precision": "month", "system": "Namibia Vital Statistics Report 2018-2021", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration", "fact": "The report states the first Vital Statistics Report from civil registration data was published in 2020 (events of 2016 and 2017) and this second edition appeared in April 2024 (events of 2018-2021), made with the Ministries of Home Affairs and of Health.", "as_of": "2024-04", "date_precision": "month", "system": "Namibia Vital Statistics Report 2018-2021", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The report states the first Vital Statistics and Causes of Deaths Report was published in 2020, covering births, deaths and marriages registered in 2016 and 2017.", "as_of": "2020", "date_precision": "year", "system": "Namibia Vital Statistics Report 2016-2017", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "Namibia", "class": "vital", "platform": "SQL database", "owner": "Office of the Prime Minister", "tiers": ""},
+    {"system": "Civil Registration System (CRS)", "country_label": "Namibia", "class": "vital", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+  ],
+  "note": ""
+}

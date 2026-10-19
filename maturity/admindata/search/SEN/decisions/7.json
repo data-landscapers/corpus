@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The ANSD Situation économique et sociale de la région de Dakar, edition 2022-2023 (April 2025), publishes statistics drawn from administrative records: Division régionale de l'urbanisme de Dakar (2023), Inspection régionale des Eaux et Forêts (IREF) annual report 2023, the Direction des Statistiques du Travail et des Etudes annual labour statistics reports (2022 and 2023 editions), ANACIM, SEN'EAU, ONAS, the Brigade nationale des sapeurs-pompiers (2022-2023) and the DRNU/DGPSN national social register.",
+ "title": "Situation Economique et Sociale de la région de Dakar, Ed. 2022-2023",
+ "publisher": "Agence Nationale de la Statistique et de la Démographie (ANSD)",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

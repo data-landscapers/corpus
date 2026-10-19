@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "INSEED's page lists quarterly bulletins of international merchandise trade statistics published for Q1 2024 to Q2 2026 (every quarter of 2025, Q1-Q2 2026), the external trade statistics series that INSEED compiles from customs and extra-customs administrative data (customs source; editions Q1 2024 to Q2 2026).",
+ "title": "Les Echanges extérieurs - Bulletin trimestriel des statistiques du Commerce international des marchandises",
+ "publisher": "Institut national de la statistique et des études économiques et démographiques (INSEED)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "A Namibia Statistics Agency presentation of 18 March 2025 states an MoU between the NSA and the Ministry of Labour (MLIREC) establishes a high-level steering committee and technical working group to oversee data-sharing cooperation, while no law or MoU yet covers migration data from the Immigration records (Ministry of Home Affairs, EBMS and permit systems), so work is under way on administrative sources but nothing is published from them.",
+ "title": "SADC Regional Workshop on the Use of Administrative Data Sources for Migration Statistics: Namibia presentation",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

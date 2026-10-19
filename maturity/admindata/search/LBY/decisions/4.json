@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "الإحصاءات الحيوية والإدارية",
+ "publisher": "مصلحة الإحصاء والتعداد",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Fetched text is page chrome only; the page just links to documents."
+}

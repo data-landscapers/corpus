@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire des statistiques sanitaires et sociales 2023 (version of 17 September 2024) compiles routine health facility monthly activity reports entered in the DHIS2 Niger platform and reviewed by the Ministry's Direction des Statistiques, and draws on earlier yearbooks 2016 to 2022.",
+ "title": "Statistiques sanitaires et sociales 2023, Annuaire des statistiques, Niger 2023",
+ "publisher": "Ministère de la Santé Publique, de la Population et des Affaires Sociales, Direction des Statistiques",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

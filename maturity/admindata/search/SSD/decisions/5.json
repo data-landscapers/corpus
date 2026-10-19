@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The National Bureau of Statistics publishes Ministry of Health (2024) administrative counts of births notified to the registrar and deaths in outpatient departments by state for 2020 to 2023, with 151,004 births notified in 2023.",
+ "title": "Health Statistics",
+ "publisher": "National Bureau of Statistics, South Sudan",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

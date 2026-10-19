@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Statistical Year Book 2020/21, with a preface dated November 2023, publishes tables on external trade, health, education, crime and vital statistics, with sources including the Botswana Police Service Road Traffic Accident Unit, Civil Aviation Authority Botswana, Ministry of Transport and Communications, Department of Labour and Social Security and Human Resource Development Council.",
+ "title": "The Statistical Year Book 2020/21",
+ "publisher": "Statistics Botswana",
+ "published": "2023-11",
+ "date_source": "source",
+ "why_not": ""
+}

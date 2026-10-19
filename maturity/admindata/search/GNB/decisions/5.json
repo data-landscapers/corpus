@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The INE's 2023 annual report (Bissau, 1 February 2024) records that the first statistical bulletin on social protection (social security records, INPS) was being finalised through the GITEPS inter-institutional group trained in September 2023, and that a Ministry of Public Health working group with Justice, INE, WHO, UNICEF and UNFPA was set up to integrate health system data, allowing INE to prepare a delegated body at the Ministry.",
+ "title": "Relatório Anual de Actividades 2023",
+ "publisher": "Instituto Nacional de Estatística",
+ "published": "2024-02-01",
+ "date_source": "source",
+ "why_not": ""
+}

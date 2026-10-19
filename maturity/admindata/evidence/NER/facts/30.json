@@ -1,0 +1,10 @@
+{
+ "slug": "2025-01-01-ner-ins-annuaire-statistique-2020-2024",
+ "facts": [
+  {"sub_indicator": "admin", "aspect": "source", "value": "transport", "fact": "The INS yearbook 2020-2024 (edition 2025, validated by the INS quality committee on 30 April 2025) publishes tables sourced to the Ministry of Transport and Civil Aviation's own statistical yearbook; as_of is the edition year 2025 as no month is given, the figures cover 2020-2024.", "as_of": "2025", "date_precision": "year", "system": "Annuaire statistique 2020-2024, édition 2025", "class": "admin"}
+ ],
+ "systems": [
+  {"system": "Annuaire statistique 2020-2024, édition 2025", "country_label": "Niger", "class": "admin", "platform": "", "owner": "Institut National de la Statistique", "tiers": "national"}
+ ],
+ "note": "Captured text (cut at the fetch cap, in chapter 4) names ministries as sources only for transport; the contents list health, education, trade and justice chapters but their sources are not in the capture; the notes say sources are given at the head of each chapter and that data come from INS collection or official administrative documents; no dated statement of regular publication."
+}

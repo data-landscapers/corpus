@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Education's Direction générale des études, de la planification et des systèmes d'information published الإحصاء المدرسي 2023/2024, the school statistics yearbook of pupils, classes, teachers and schools by governorate drawn from school returns for the 2023/2024 school year.",
+ "title": "الإحصاء المدرسي - السنة الدراسية 2024/2023",
+ "publisher": "وزارة التربية، الإدارة العامة للدراسات والتخطيط ونظم المعلومات",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

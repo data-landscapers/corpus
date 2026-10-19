@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INAP-FTP Annuaire statistique de la formation technique et professionnelle en Mauritanie 2023-2024 et 2024-2025 (final report, April 2025) publishes enrolment, trainer and exam statistics drawn from extractions of the TEKWINE training-centre management platform and the institute's technical departments, one edition covering two school years, with an annual update promised.",
+ "title": "Annuaire statistique de la formation technique et professionnelle en Mauritanie 2023-2024 et 2024-2025",
+ "publisher": "Institut National de Promotion de la Formation Technique et Professionnelle (INAP-FTP), Ministère de la Formation Professionnelle, de l'Artisanat et des Métiers",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

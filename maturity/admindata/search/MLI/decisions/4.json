@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "INSTAT's Annuaire du commerce international des marchandises 2023, issued September 2025, is an annual publication whose main source is the customs database of the Direction Generale des Douanes (declarations reprocessed with EUROTRACE and validated by a committee), covering 2023 trade; INSTAT also publishes quarterly bulletins from customs declarations (Q4 2025 issued February 2026).",
+ "title": "Annuaire du commerce international des marchandises 2023",
+ "publisher": "Institut National de la Statistique (INSTAT)",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

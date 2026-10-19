@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministère de la Santé et de la Population posted the official Annuaire Statistique Sanitaire 2021-2023 on 25 August 2025, the health statistics yearbook (health facility reports, edition 2021-2023); the page names no source records.",
+ "title": "ANNUAIRE STATISTIQUE SANITAIRE 2021 – 2023",
+ "publisher": "Ministère de la Santé et de la Population",
+ "published": "2025-08-25",
+ "date_source": "source",
+ "why_not": ""
+}

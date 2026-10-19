@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ghana 2024 Trade Report (February 2025) presents 2024 trade statistics compiled from Customs Division of the Ghana Revenue Authority data accessed through ICUMS, a second customs-based annual edition alongside the 2025 report; customs declarations are the only administrative source it names.",
+ "title": "Ghana 2024 Trade Report",
+ "publisher": "Ghana Statistical Service",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

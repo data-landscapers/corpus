@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 11th Somalia Education Statistics Yearbook 2023-2024 compiles annual school-level returns submitted through the Ministry of Education's online EMIS (school records, one source, with Federal Member State validation) and compares them with 2022/2023, the previous yearbook edition; population denominators come from the 2014 Population Estimation Survey.",
+ "title": "Annual Education statistics yearbook (11th Somalia Education Statistics Yearbook 2023-2024)",
+ "publisher": "Ministry of Education, Culture and Higher Education",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

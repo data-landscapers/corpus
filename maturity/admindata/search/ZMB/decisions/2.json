@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;series",
+ "fact": "The Monthly Vol 272 (November 2025) published international merchandise trade statistics for January to October 2025, a second consecutive monthly edition of customs-based trade statistics (source ZRA customs per The Statistician, July 2025).",
+ "title": "The Monthly, Volume 272, November 2025",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

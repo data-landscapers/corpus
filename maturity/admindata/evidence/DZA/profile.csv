@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,admin,use,coverage,published,2024-07-13,DZA-001,,
-DZA,admin,vital,coverage,published,2024-07-13,DZA-002,,
+DZA,admin,use,coverage,,,,,nothing held
+DZA,admin,source,coverage,civil-registration,2024-07,DZA-001;DZA-002;DZA-003,,
 DZA,admin,series,coverage,,,,,nothing held

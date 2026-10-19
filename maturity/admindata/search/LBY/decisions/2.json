@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Bureau of Statistics and Census published its External Trade Statistics 2024 bulletin, with tables of exports and imports for 1999 to 2024, stating its data come from the National Oil Corporation plus UN Statistics Division partner-country data (not customs declarations), and listing earlier annual editions for 2020 to 2023 on its site.",
+ "title": "إحصاءات التجارة الخارجية 2024",
+ "publisher": "مصلحة الإحصاء والتعداد",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

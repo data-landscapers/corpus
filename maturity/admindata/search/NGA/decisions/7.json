@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The NBS Social Statistics Report 2023 (March 2024), covering 2020-2022, states its data primarily originate from administrative sources routinely collected from federal MDAs, among them WAEC and the Teachers Registration Council (education), the National Malaria Elimination Programme and NAFDAC (health), the Federal Road Safety Corps and Nigerian Ports Authority (transport), Corporate Affairs Commission registers, the Nigerian Correctional Service and Nigeria Police Force (security and justice).",
+ "title": "Social Statistics Report 2023",
+ "publisher": "National Bureau of Statistics",
+ "published": "2024-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-sao-tome-ine-ende-2025-2029",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The strategy's diagnostic of the national statistical system lists among its strengths the INE's use of administrative data in producing statistics, naming no source, product or edition; the document's date is inferred from its 2025-2029 period (published date used, year only).", "as_of": "2025", "date_precision": "year", "system": "Estratégia Nacional de Desenvolvimento da Estatística 2025-2029", "class": "admin"}
+  ],
+  "systems": [],
+  "note": "A strategy: its action plan (vital statistics, a health yearbook from 2026, data-sharing protocols, an admin-data interoperability platform) is planned only, so no preparing or source fact; only the diagnostic strength is stated."
+}

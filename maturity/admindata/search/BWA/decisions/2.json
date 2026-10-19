@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Vital Statistics Report 2023, published by Statistics Botswana in May 2025 as the thirteenth annual report in a series beginning from 2012, analyses births, deaths and marriages registered in 2023 from one administrative source, the Department of Civil and National Registration of the Ministry of Labour and Home Affairs.",
+ "title": "Vital Statistics Report 2023",
+ "publisher": "Statistics Botswana",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

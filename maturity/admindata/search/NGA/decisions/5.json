@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The NBS quarterly Foreign Trade in Goods Statistics report for Q2 2025 (report date September 2025) states its trade statistics are compiled from secondary sources: Nigeria Customs Service declarations via NICIS, plus NNPCL, NMDPRA, the Central Bank of Nigeria, NEPZA, OGFZA, NERC, FAAN, NCAA and the Nigerian Ports Authority; the series is quarterly, with Q1 2025 and Q3 2024 editions also issued.",
+ "title": "Foreign Trade in Goods Statistics (Q2 2025)",
+ "publisher": "National Bureau of Statistics",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

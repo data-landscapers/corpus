@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Women and Men 2023 Facts and Figures publishes 2019-2023 statistics drawn partly from administrative records of line ministries: Ministry of Health administrative data 2023 (maternal deaths, deliveries), Zambia Police Victim Support Unit 2023 National GBV Crime Statistics Returns, Ministry of Lands and Natural Resources administrative data 2023, and the 2019 and 2021 Education Statistics Bulletins (Ministry of Education school census).",
+ "title": "Women and Men 2023 Facts and Figures",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,admin,use,coverage,published,2026,UGA-003,UGA-004=preparing;UGA-001=preparing;UGA-002=preparing,
-UGA,admin,vital,coverage,published,2026,UGA-005,,
+UGA,admin,use,coverage,published,2025-12,UGA-003;UGA-007,UGA-001=preparing;UGA-004=preparing;UGA-002=preparing,
+UGA,admin,source,coverage,civil-registration;police,2026-04-02,UGA-005;UGA-006,,
 UGA,admin,series,coverage,,,,,nothing held

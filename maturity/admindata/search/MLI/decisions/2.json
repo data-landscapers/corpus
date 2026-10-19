@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INSTAT's Mali en chiffres, edition 2024 (June 2026), tabulates 2020-2024 figures drawn from health facility data (Annuaire SNISS 2020-2024), school returns (CPS/SE Bulletin statistique DGESRS 2020-2024), customs-based foreign trade statistics (Statistiques du commerce extérieur 2024, INSTAT), the state budget (DGB Budget citoyen), and CNDIFE, DNPIA and EDM-SA records.",
+ "title": "Mali en chiffres, édition 2024",
+ "publisher": "Institut National de la Statistique (INSTAT)",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

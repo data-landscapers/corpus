@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Quarterly Economic Bulletin 2025 Q1",
+ "publisher": "Ministry of Economic Planning and Development",
+ "published": "2025-06",
+ "date_source": "proxy",
+ "why_not": "Macro bulletin quoting trade and CSO figures; names no administrative source and no statistics compiled from administrative records."
+}

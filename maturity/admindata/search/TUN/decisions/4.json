@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The INS demographic bulletin of September 2025 reports births and deaths for 2014-2024 from civil registration (état civil) data and fertility of 1.7 children per woman from the 2022 état civil statistics.",
+ "title": "Bulletin démographique, septembre 2025",
+ "publisher": "Institut National de la Statistique",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

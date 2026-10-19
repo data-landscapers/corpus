@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-lby-bsc-statistical-book-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;education;health",
+     "fact": "The Bureau of Statistics and Census published the Statistical Book 2023, which tabulates births and deaths 2018-2022 sourced to the Civil Status Authority, school and university statistics sourced to the Ministry of Education and the Ministry of Higher Education and Scientific Research, and health facilities, staff and vaccination coverage sourced to the Ministry of Health; published January 2026 (month inferred from the upload path, no printed date), figures cover 2023 and earlier years.",
+     "as_of": "2026-01", "date_precision": "month", "system": "Statistical Book 2023", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration;education;health",
+     "fact": "The Bureau of Statistics and Census describes the Statistical Book 2023 as an annual bulletin and the 28th number of its series, drawing on Civil Status Authority, education ministry and Ministry of Health records; published January 2026 (month inferred from the upload path), the figures cover 2023 and earlier years.",
+     "as_of": "2026-01", "date_precision": "month", "system": "Statistical Book 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Statistical Book 2023", "country_label": "Libya", "class": "admin", "platform": "", "owner": "Bureau of Statistics and Census", "tiers": ""}
+  ],
+  "note": "The reading text is cut after the health tables, so the trade, finance and transport sections listed in the index are not seen and no customs, tax, justice or police source is claimed."
+}

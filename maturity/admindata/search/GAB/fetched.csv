@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://union.sonapresse.com/fr/education-vers-lelaboration-dun-annuaire-statistique,fetched,,scripts/.workroot/study/admindata/cache/GAB/1.txt,523,html,Éducation : Vers l'élaboration d'un annuaire statistique
+2,https://www.union.sonapresse.com/fr/projet-e-gabon-sis-un-dispositif-pour-mieux-connaitre-le-systeme-sanitaire,fetched,,scripts/.workroot/study/admindata/cache/GAB/2.txt,518,html,Projet E-Gabon SIS : un dispositif pour mieux connaître le système sanitaire
+3,https://www.afro.who.int/sites/default/files/2024-06/WHO%20GABON%20_%20Rapport%20Annuel%202023%20_%20OMS%20GABON.pdf,fetched,,scripts/.workroot/study/admindata/cache/GAB/3.txt,9416,pdf,
+4,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/GAB_Gabon_Plan-national-de-d%C3%A9veloppement-sanitaire_2024-2028.pdf,held,held as raw/2024/2024-02-23-gab-plan-national-de-developpement-sanitaire-du-gabon-2024-2028.md,,0,,
+5,https://www.sante.gouv.ga/9-actualites/1202-bilan-des-activites-de-2024/,fetched,,scripts/.workroot/study/admindata/cache/GAB/5.txt,903,html,Bilan des activités de 2024
+6,https://instatgabon.org/uploads/folder_1/RGOE/Annuaire_2020-2021_31_10_2023_.pdf,fetched,,scripts/.workroot/study/admindata/cache/GAB/6.txt,509,html,INSTAT GABON
+7,https://www.douanes.ga/medias/documents,fetched,,scripts/.workroot/study/admindata/cache/GAB/7.txt,93,html,Documents - Direction générale des douanes et droits indirects
+8,https://data.unicef.org/crvs/gabon/,unfetchable,HTTP 403; Wayback ConnectionError,,0,,

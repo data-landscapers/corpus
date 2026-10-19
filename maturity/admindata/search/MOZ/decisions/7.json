@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Health's Anuário Estatístico de Saúde 2022 (edition 2023), delegated by INE under Lei 7/96, publishes health statistics for January-December 2022 drawn from the routine facility data of the health information system SISMA (health facility reports), with population denominators from INE projections.",
+ "title": "ANUÁRIO ESTATÍSTICO DE SAÚDE 2022",
+ "publisher": "Ministério da Saúde de Moçambique, Direcção de Planificação e Cooperação, Departamento de Informação para a Saúde",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

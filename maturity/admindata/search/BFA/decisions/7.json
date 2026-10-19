@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire statistique de l'éducation préscolaire 2023/2024 (September 2024) publishes statistics from the ministry's annual administrative census of pre-school structures (school returns, MEBAPLN), with series back to 2014/2015.",
+ "title": "Annuaire statistique de l'éducation préscolaire 2023/2024",
+ "publisher": "Ministère de l'Enseignement de Base, de l'Alphabétisation et de la Promotion des Langues nationales (MEBAPLN)",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The NBS Statistical Abstract 2024, published in September 2025, states its supplementary information is primarily drawn from administrative records of ministries, departments and agencies, and cites as sources PO-RALG Basic Education Statistics (BEST) 2024 (education), the Ministry of Health 2024 (health), Tanzania Revenue Authority customs data 2024 (customs), the Tanzania Police Force Crime and Traffic Incidents Statistics Report 2024 (police), the Judiciary of Tanzania 2024 (justice), and Tanzania Ports Authority and TANROADS records (transport); it is the edition before the Statistical Abstract 2025.",
+ "title": "Statistical Abstract 2024",
+ "publisher": "National Bureau of Statistics",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

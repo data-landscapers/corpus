@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Estatísticas - Região Autónoma do Príncipe",
+ "publisher": "Governo Regional do Príncipe",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Fetched text is cookie banner only; no statistics or dates."
+}

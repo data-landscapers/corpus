@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "ZIMSTAT's Transport and Infrastructure page states its quarterly Transport Statistics Reports are compiled from administrative data obtained from institutions in transport and infrastructure (air, rail, inland water, road traffic accidents, energy, ICT, water), listing editions for 2025 Q1, Q2 and Q4, 2024 Q4 and 2023 Q3 and Q4; the specific record-holders are not named.",
+ "title": "Transport and Infrastructure - ZIMSTAT",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

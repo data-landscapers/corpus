@@ -1,0 +1,15 @@
+{
+  "slug": "2024-11-01-som-snbs-statistical-abstract-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education;justice;other",
+     "fact": "The Somalia National Bureau of Statistics published its Statistical Abstract 2024 (first edition, compiled November 2024; figures cover mostly 2018-2023), which states that it draws on administrative records from line ministries and agencies, naming the Ministry of Education (school enrolment), the Office of the Attorney General and the courts (criminal and court cases, 2022), the Immigration and Citizenship Agency (passenger movements, 2023), the Ministry of Finance and the Ministry of Livestock, Forestry and Range; as_of is the document's published date, November 2024.",
+     "as_of": "2024-11", "date_precision": "month", "system": "Statistical Abstract 2024 (1st edition)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "education;justice;other",
+     "fact": "The preface of the Statistical Abstract, published November 2024 as its inaugural edition, calls it a biennial publication of the Somalia National Bureau of Statistics compiled from surveys and administrative records of government ministries; as_of is the document's published date, November 2024.",
+     "as_of": "2024-11", "date_precision": "month", "system": "Statistical Abstract 2024 (1st edition)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Statistical Abstract 2024 (1st edition)", "country_label": "Somalia", "class": "admin", "platform": "", "owner": "Somalia National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

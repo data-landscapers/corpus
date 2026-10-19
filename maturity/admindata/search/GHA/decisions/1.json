@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 2025 Annual International Merchandise Trade Statistics Report, published in 2026 by the Ghana Statistical Service, compiles Ghana's 2025 trade statistics from administrative data of the Customs Division of the Ghana Revenue Authority, accessed through the Integrated Customs Management System (ICUMS); its source is customs declarations alone.",
+ "title": "2025 Annual International Merchandise Trade Statistics Report",
+ "publisher": "Ghana Statistical Service",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

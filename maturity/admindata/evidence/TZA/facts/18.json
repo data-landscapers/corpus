@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-nbs-manual-administrative-data-statistics",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "NBS and the Zanzibar Office of the Chief Government Statistician, under TSMP II (2022/23-2026/27), developed the first manual for integrating administrative data into official statistics, after assessing how sector bodies produce administrative data; the manual states that administrative data is not yet used for official statistics because of quality gaps, and the document carries no date, so its 2024 year is the published date and the as_of.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Manual for Strengthening and Integrating Administrative Data into National Official Statistics of Tanzania (2024)",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Manual for Strengthening and Integrating Administrative Data into National Official Statistics of Tanzania (2024)",
+   "country_label": "Tanzania",
+   "class": "admin",
+   "platform": "",
+   "owner": "NBS; OCGS Zanzibar",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

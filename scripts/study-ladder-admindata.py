@@ -5,13 +5,18 @@ r"""study-ladder-admindata.py — the admindata study's four questions, counted.
     python scripts/study-ladder-admindata.py --as-at 2026-09-30 --dry
 
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-censuses.py` does it.
-The ladder is `maturity-study-admindata.md` §2 and §3, every window three years:
+The ladder is `maturity-study-admindata.md` §2 and §3 as changed on 2026-10-19 *(Bill)*, every
+window three years:
 
 1. **Preparing**: a `use` of `preparing`, or a yes to any later question.
-2. **Published**: a `use` of `published`.
-3. **Vital statistics**: a `vital` of `published`.
-4. **Every year**: a `series` of `annual`, or two `vital` rows naming editions of successive
-   years (read from `system`, then `fact`), above a yes to question 3.
+2. **Published**: a `use` of `published`, or any `source` or `series` row.
+3. **Operating**: one administrative source published twice.
+4. **Leading**: three administrative sources, each published twice.
+
+**A publication is a `source` row's product**, `system` read as its set of words, so one report
+named two ways or carried by two rows counts once. A `series` row, a dated statement that a
+product is published regularly, counts as two for each source it names. A `use` of `published`
+names no source; its product, `system` without its years, counts towards question 3 only.
 
 **A later yes answers the earlier ones** (method §3.3). Stage 1 is a `use` of `none` with no
 other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
@@ -34,10 +39,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_lib  # noqa: E402
 
 STUDY = "admindata"
+SOURCES = ["civil-registration", "education", "health", "customs", "tax", "social-security", "justice",
+           "police", "transport", "other"]   # study.json -> aspects, source
 GAPS = {
     "5": "",
-    "4": "No source held reports vital statistics published for two successive years.",
-    "3": "No source held reports vital statistics from civil registration published since October 2023.",
+    "4": "No source held shows statistics from three administrative sources, each published twice since October 2023.",
+    "3": "No source held shows statistics from one administrative source published twice since October 2023.",
     "2": "No source held reports statistics from administrative records published since October 2023.",
     "1": "",
 }
@@ -67,40 +74,46 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
     return out, changed
 
 
-def edition(r: dict) -> int | None:
-    """The year a vital statistics row's edition names, where it names one."""
-    for text in (r.get("system", ""), r.get("fact", "")):
-        m = YEAR.search(text or "")
-        if m:
-            return int(m.group(1))
-    return None
+def words(r: dict, years: bool = True) -> frozenset:
+    """A publication as its set of words: `2022 Vital Statistics Report` is `Vital Statistics Report 2022`."""
+    w = re.findall(r"[a-z0-9]+", (r.get("system") or r.get("fact", "")[:80]).lower())
+    return frozenset(x for x in w if years or not x.isdigit())
 
 
 def stage(rows: list[dict], as_at: dt.date) -> dict:
-    live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and last_day(r["as_of"]) <= as_at]
-    live.sort(key=lambda p: p[0], reverse=True)
     three = study_lib.months_back(as_at, 36)
+    live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and three <= last_day(r["as_of"]) <= as_at]
+    live.sort(key=lambda p: p[0], reverse=True)
     pick = lambda aspect, values: [  # noqa: E731
-        r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values and d >= three]
-    vital = pick("vital", ("published",))
-    annual = pick("series", ("annual",))
-    years = {}
-    for d, r in live:
-        if r["aspect"] == "vital" and r["value"] == "published" and d >= study_lib.months_back(as_at, 60):
-            y = edition(r)
-            if y:
-                years.setdefault(y, r["row_id"])
-    pairs = [(years[y + 1], years[y]) for y in sorted(years, reverse=True) if y + 1 in years]
-    published = pick("use", ("published",))
-    preparing = pick("use", ("preparing",))
-    none = pick("use", ("none",))
+        r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values]
     if not rows:
-        return {"stage": "no evidence", "sources": [],
+        return {"stage": "no evidence", "sources": [], "source": "", "series": "",
                 "gaps": "Nothing held names statistics drawn from administrative records, or says there are none."}
-    if vital and (annual or pairs):
-        s, src = "5", (annual[:1] + vital[:1]) if annual else list(pairs[0])
-    elif vital:
-        s, src = "4", vital[:2]
+    pubs, series = {}, {}   # source -> {publication: first row}, source -> first row
+    for d, r in live:
+        names = [v.strip() for v in r["value"].split(";") if v.strip()]
+        if r["aspect"] == "source":
+            for s in names:
+                pubs.setdefault(s, {}).setdefault(words(r), r["row_id"])
+        elif r["aspect"] == "series":
+            for s in names:
+                series.setdefault(s, r["row_id"])
+        elif r["aspect"] == "use" and r["value"] == "published":
+            pubs.setdefault(("unnamed", words(r, years=False)), {}).setdefault(words(r), r["row_id"])
+    twice = {}   # source -> the rows that show it published twice
+    for s in set(pubs) | set(series):
+        if len(pubs.get(s, {})) >= 2:   # two editions held are named before a statement of a series
+            twice[s] = list(pubs[s].values())[:2]
+        elif s in series:
+            twice[s] = [series[s]]
+    named = [s for s in twice if isinstance(s, str)]
+    order = lambda ss: sorted(ss, key=lambda s: SOURCES.index(s) if s in SOURCES else len(SOURCES))  # noqa: E731
+    published = [i for k, p in pubs.items() if isinstance(k, str) for i in p.values()] + list(series.values())         + pick("use", ("published",))   # a named source first
+    preparing, none = pick("use", ("preparing",)), pick("use", ("none",))
+    if len(named) >= 3:
+        s, src = "5", [i for k in order(named)[:3] for i in twice[k]]
+    elif twice:
+        s, src = "4", twice[order(named)[0]] if named else next(iter(twice.values()))
     elif published:
         s, src = "3", published[:2]
     elif preparing:
@@ -108,10 +121,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     elif none:
         s, src = "1", none[:2]
     else:
-        return {"stage": "unplaced", "sources": [],
+        return {"stage": "unplaced", "sources": [], "source": "", "series": "",
                 "gaps": "No statistics from administrative records published, and no work towards them, "
                         "is on record since October 2023."}
-    return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s]}
+    return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
+            "source": ";".join(order(k for k in pubs if isinstance(k, str))),
+            "series": ";".join(order(series))}
 
 
 def main(argv=None) -> int:
@@ -138,18 +153,17 @@ def main(argv=None) -> int:
         s = cell["stage"]
         line = {"sub_indicator": "admin", "stage": s,
                 "use": "published" if s in ("3", "4", "5") else "preparing" if s == "2" else "none" if s == "1" else "",
-                "vital": "published" if s in ("4", "5") else "",
-                "series": "annual" if s == "5" else "", "cap": "", "flags": "",
+                "source": cell["source"], "series": cell["series"], "cap": "", "flags": "",
                 "stage_sources": ";".join(cell["sources"]), "gaps": cell["gaps"],
-                "note": "Counted from the four questions by study-ladder-admindata.py."}
-        test.append({"iso3": iso, **{k: line[k] for k in ("stage", "use", "vital", "series", "stage_sources")}})
+                "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19."}
+        test.append({"iso3": iso, **{k: line[k] for k in ("stage", "use", "source", "series", "stage_sources")}})
         if a.dry:
             continue
         os.makedirs(os.path.join(base, iso), exist_ok=True)
         study_lib.write_stage(os.path.join(base, iso, "stage.json"), iso, [line])
     if not a.dry:
         study_lib.write_csv(os.path.join(study_lib.study_dir(STUDY), "ladder-test.csv"),
-                            ["iso3", "stage", "use", "vital", "series", "stage_sources"], test)
+                            ["iso3", "stage", "use", "source", "series", "stage_sources"], test)
     print("study-ladder: " + ", ".join(f"{k}: {count[k]}" for k in sorted(count, reverse=True))
           + (" (dry run, nothing written)." if a.dry else "."))
     return 0

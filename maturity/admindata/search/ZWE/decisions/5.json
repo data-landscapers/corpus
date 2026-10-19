@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Zimbabwe's External Trade",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "Monthly trade report for September 2025 states figures but names no administrative record source (customs or otherwise) in its text."
+}

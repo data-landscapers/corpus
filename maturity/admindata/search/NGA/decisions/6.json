@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The NBS Foreign Trade in Goods Statistics report for Q3 2024 (report date December 2024) states its data come from the Nigeria Customs Service through NICIS, NNPCL, NMDPRA, NLNG, the Central Bank of Nigeria, NEPZA, OGFZA, NERC, FAAN, NCAA and the Nigerian Ports Authority, validated against samples of Customs outposts and entry ports.",
+ "title": "Foreign Trade in Goods Statistics (Q3 2024)",
+ "publisher": "National Bureau of Statistics",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

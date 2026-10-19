@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "CAPMAS's data catalogue lists the Annual Bulletin of Births and Deaths Statistics 2022 (civil registration records), entry created 4 April 2024, a bulletin edition published since October 2023; the page names no further sources.",
+ "title": "النشرة السنوية لإحصاءات المواليد والوفيات عام 2022",
+ "publisher": "الجهاز المركزي للتعبئة العامة والإحصاء",
+ "published": "2024-04-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

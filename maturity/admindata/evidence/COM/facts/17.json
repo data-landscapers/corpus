@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-01-com-mptf-sids-joint-programme-annual-report-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "The Joint SDG Fund annual report for 2023 says the programme supported the printing and dissemination of the health statistics yearbook 2021 and 2022 and of the quarterly statistical health information bulletins; the report was posted in June 2024 and gives no publication date for those products.", "as_of": "2024-06", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2021 et 2022", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health", "fact": "The report lists quarterly statistical health information bulletins as disseminated with programme support in 2023; the report was posted in June 2024 and dates no individual bulletin.", "as_of": "2024-06", "date_precision": "month", "system": "Bulletins statistiques trimestriels d'information sanitaire", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The report says a preliminary mission looked at improving the production of foreign and domestic trade statistics from information exchanged between Comoros customs services, and lists the 2023 health statistical yearbook as still to be drafted and validated; the report was posted in June 2024.", "as_of": "2024-06", "date_precision": "month", "system": "Statistiques du commerce extérieur (customs exchange) and Annuaire statistique de la santé 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "DHIS 2 with WHO Data Quality Tool", "country_label": "Comoros", "class": "admin", "platform": "DHIS2", "owner": "Direction de l'Information et des Statistiques Sanitaires", "tiers": ""}
+  ],
+  "note": ""
+}

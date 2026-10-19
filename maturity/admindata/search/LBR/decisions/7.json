@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Education published the Liberia Education Statistics Report 2021-22 in 2023, compiled from Annual School Census returns supplied by school principals (profile, enrolment, teachers), and calls it the third such report since 2016 after resuming annual reporting for 2019-20, 2020-21 and 2021-22.",
+ "title": "Liberia Education Statistics Report 2021-22",
+ "publisher": "Ministry of Education",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

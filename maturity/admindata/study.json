@@ -77,7 +77,7 @@
     "Statistics derived from at least one administrative data source have been published at least twice in the last three years.",
     "Statistics derived from at least three administrative data sources have been published at least twice in the last three years."
    ],
-   "criteria_of": "baad7494566b"
+   "criteria_of": "025741c8b18c"
   }
  ],
  "classes": [
@@ -104,29 +104,68 @@
    ]
   },
   {
-   "key": "vital",
-   "name": "Vital statistics published",
+   "key": "source",
+   "name": "Sources published from",
    "role": "coverage",
+   "multi": true,
    "defer": [],
    "prefer": [
-    "published"
+    "civil-registration",
+    "education",
+    "health",
+    "customs",
+    "tax",
+    "social-security",
+    "justice",
+    "police",
+    "transport",
+    "other"
    ],
    "values": [
-    "published"
+    "civil-registration",
+    "education",
+    "health",
+    "customs",
+    "tax",
+    "social-security",
+    "justice",
+    "police",
+    "transport",
+    "other"
    ]
   },
   {
    "key": "series",
-   "name": "Published every year",
+   "name": "Published regularly",
    "role": "coverage",
+   "multi": true,
    "defer": [],
    "prefer": [
-    "annual"
+    "civil-registration",
+    "education",
+    "health",
+    "customs",
+    "tax",
+    "social-security",
+    "justice",
+    "police",
+    "transport",
+    "other"
    ],
    "values": [
-    "annual"
+    "civil-registration",
+    "education",
+    "health",
+    "customs",
+    "tax",
+    "social-security",
+    "justice",
+    "police",
+    "transport",
+    "other"
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "searched": "2026-10-19"
 }

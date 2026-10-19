@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INSEED's Statistiques du commerce extérieur 2025 report states its data come from the customs information system SYDONIA (customs declarations from the Direction Générale des Douanes et des Droits Indirects, one source), covering 2021-2025 with imports of 997.1 billion FCFA in 2025.",
+ "title": "Statistiques du commerce extérieur 2025",
+ "publisher": "INSEED, Service des Statistiques du Commerce Extérieur",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

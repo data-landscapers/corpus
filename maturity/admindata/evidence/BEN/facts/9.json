@@ -1,0 +1,15 @@
+{
+  "slug": "2023-07-01-ben-annuaire-des-statistiques-sanitaires-2022",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health;civil-registration",
+     "fact": "The Ministry of Health's Annuaire des statistiques sanitaires 2022, dated July 2023 (figures cover 2022), says health statistics come from the routine health information subsystem (facility reports via zone sanitaire), complemented by subsystems including civil registration (état civil), and that maternal and infant deaths were corrected against the SIMR database.",
+     "as_of": "2023-07", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2022", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health",
+     "fact": "The Ministry of Health says the 2022 yearbook of health statistics, dated July 2023, is the fifth edition since the framework document for the yearbooks was drawn up.",
+     "as_of": "2023-07", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2022", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire des statistiques sanitaires 2022", "country_label": "Benin", "class": "admin", "platform": "SNIGS (national health information and management system)", "owner": "Ministry of Health, DPAF", "tiers": "national"}
+  ],
+  "note": ""
+}

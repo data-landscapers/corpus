@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "On 6 December 2023 the ILO published the 1.º Boletim Estatístico sobre Proteção Social - São Tomé e Príncipe, covering 2019 to 2021, compiled by the inter-institutional working group GITEPS of the Instituto Nacional de Estatística, the Instituto Nacional de Segurança Social and the Direção da Proteção Social, Solidariedade e Família; the administrative sources are the social security institute's and the social protection directorate's records, first edition.",
+ "title": "1.º Boletim Estatístico sobre Proteção Social – São Tomé e Príncipe",
+ "publisher": "International Labour Organization (with INE, INSS, Direção da Proteção Social, Solidariedade e Família)",
+ "published": "2023-12-06",
+ "date_source": "source",
+ "why_not": ""
+}

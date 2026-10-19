@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-2023-kenya-vital-statistics-report",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration",
+     "fact": "The Civil Registration Services' Kenya Vital Statistics Report 2023 states that it presents 2023 vital statistics extracted from the civil registration system, covering births, deaths and causes of death registered in health facilities and the community; the 2024 date is the publication year, the figures cover 2023.",
+     "as_of": "2024", "date_precision": "year", "system": "Kenya Vital Statistics Report 2023", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration",
+     "fact": "The report's foreword says the 2023 edition is the eleventh in a series of annual CRVS reports produced since 2010, so that production of an annual vital statistics report is a continuous process; dated by the report's 2024 publication year.",
+     "as_of": "2024", "date_precision": "year", "system": "Kenya Vital Statistics Report 2023", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Kenya Vital Statistics Report 2023", "country_label": "Kenya", "class": "vital", "platform": "", "owner": "Civil Registration Services (Department of Civil Registration)", "tiers": ""}
+  ],
+  "note": ""
+}

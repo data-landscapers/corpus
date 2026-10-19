@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.instat-mali.org/storage/346/anuair24_pub.pdf,fetched,,scripts/.workroot/study/admindata/cache/MLI/1.txt,24201,pdf,ANNUAIRE STATISTIQUEREGIONAL DU MALI 2020
+2,https://www.instat-mali.org/storage/355/machif24_pub.pdf,fetched,,scripts/.workroot/study/admindata/cache/MLI/2.txt,9825,pdf,
+3,https://www.instat-mali.org/storage/330/cmex-ctci3t25_pub.pdf,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+4,https://www.instat-mali.org/laravel-filemanager/files/shares/pub/anuair-stat-cmext23_pub.pdf,fetched,,scripts/.workroot/study/admindata/cache/MLI/4.txt,81364,pdf,
+5,https://www.instat-mali.org/laravel-filemanager/files/shares/pub/rap-act-statistique-2024_pub.pdf,fetched,,scripts/.workroot/study/admindata/cache/MLI/5.txt,28498,pdf,
+6,https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf,held,held as raw/2025/2025-05-01-mli-id4africa-dnec-identite-juridique-progres.md,,0,,
+7,https://bibliostat.instat.ml/greenstone3/library/collection/sant/document/HASH01915e0cf9b388acc96f8e9e?ed=1,held,held as raw/2025/2025-05-01-mli-annuaire-2023-du-systeme-national-d-information-sanitaire-et-social-sn.md,,0,,
+8,https://www.instat-mali.org/laravel-filemanager/files/shares/pub/anuair23_pub.pdf,fetched,,scripts/.workroot/study/admindata/cache/MLI/8.txt,24231,pdf,ANNUAIRE STATISTIQUEREGIONAL DU MALI 2020

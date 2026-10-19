@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INE's Anuário Estatístico de Cabo Verde 2022 (8th post-independence edition, published December 2024) compiles statistics from partner bodies the Ministério da Administração Interna, Ministério da Educação, Ministério da Saúde, Instituto Nacional de Previdência Social (INPS), customs-based external trade, and others, covering 2018-2022; it follows the 2021 edition (December 2023).",
+ "title": "Anuário Estatístico - Cabo Verde 2022",
+ "publisher": "Instituto Nacional de Estatística",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The NBS Statistical Abstract 2025, published in September 2026, states its tables are primarily derived from administrative records of ministries, departments and agencies, and cites as sources the PO-RALG Basic Education Statistics (BEST) 2025 (education), the Ministry of Health 2025 (health), Tanzania Revenue Authority customs data 2025 (customs), the Tanzania Police Force Crime and Traffic Incidents Statistics Report 2025 (police), the CRVS system 2025 (civil registration), the Judiciary of Tanzania 2025 (justice), and Tanzania Ports Authority, TANROADS, Tanzania Railway Corporation and TCRA records (transport and communications); the Statistical Abstract 2024 is the prior edition.",
+ "title": "Statistical Abstract 2025",
+ "publisher": "National Bureau of Statistics",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": ""
+}

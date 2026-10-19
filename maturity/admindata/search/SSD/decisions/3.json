@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The National Bureau of Statistics publishes international trade statistics compiled from customs declarations, with full-year files for 2022, 2023 and 2024 (each updated 18 July 2025) and monthly 2024 figures.",
+ "title": "Trade Statistics",
+ "publisher": "National Bureau of Statistics, South Sudan",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics South Africa published the 2022 edition of Mortality and causes of death in South Africa: Findings from death notification (P0309.3) on 28 August 2025, a regular series based solely on administrative records from Department of Home Affairs death notification forms (BI-1663, DHA-1663), covering 486 041 deaths in 2022; the 2023 edition followed on 25 March 2026.",
+ "title": "Mortality and causes of death in South Africa: Findings from death notification, 2022",
+ "publisher": "Statistics South Africa",
+ "published": "2025-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

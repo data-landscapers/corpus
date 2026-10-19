@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "CAPMAS issued the Statistical Yearbook 2024 (115th edition) on 27 January 2025, compiled with ministries and bodies, with series on external trade (customs), education, health, labour, justice, transport, finance and banks; the text names these sectors but not the underlying records.",
+ "title": "المركزي للتعبئة العامة يصدر الكتاب الإحصائي السنوي 2024",
+ "publisher": "بوابة الأهرام",
+ "published": "2025-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

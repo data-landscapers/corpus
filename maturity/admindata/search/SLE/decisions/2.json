@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The National Civil Registration Authority issued its Provisional Annual Report on Vital Events for the year ending 31 December 2024, statistics from one administrative source, civil registration, a second annual edition after the 2023 report, reported 1 January 2025.",
+ "title": "NCRA Releases 2024 Provisional Report On Vital Statistics",
+ "publisher": "Sierra Leone Monitor",
+ "published": "2025-01-01",
+ "date_source": "source",
+ "why_not": ""
+}

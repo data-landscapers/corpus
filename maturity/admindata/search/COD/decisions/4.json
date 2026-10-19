@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Institut National de la Statistique",
+ "publisher": "INS RDC",
+ "published": "",
+ "date_source": "",
+ "why_not": "Portal homepage; fetched text carries no dated statistics from administrative sources."
+}

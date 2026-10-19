@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INS Annuaire statistique de la région de Kindia 2024, edition October 2025, publishes 2024 regional statistics drawn from sector administrative sources: school returns of the education ministry's Bureau de Stratégie et de Développement (pre-university, NAFA centres, technical training, higher education), health information (BSD santé/SNIS), ANASA agricultural data, employment agency AGUIPE records, the Caisse nationale de sécurité sociale and sport and culture BSDs.",
+ "title": "Annuaire Statistique de la région de Kindia 2024",
+ "publisher": "Institut National de la Statistique (INS)",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

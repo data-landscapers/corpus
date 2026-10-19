@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The National Civil Registration Authority released its Provisional Annual Report on Vital Events for the year ending 31 December 2023, statistics from one administrative source, civil registration, reported 31 December 2023.",
+ "title": "NCRA Reveals Vital Statistics For Sierra Leone In 2023",
+ "publisher": "Sierra Leone Monitor",
+ "published": "2023-12-31",
+ "date_source": "source",
+ "why_not": ""
+}

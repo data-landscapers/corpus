@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,admin,use,coverage,published,2026-08-28,MUS-001,,
-MUS,admin,vital,coverage,published,2026-08-28,MUS-002,,
+MUS,admin,use,coverage,preparing,2023-10,MUS-003,,
+MUS,admin,source,coverage,civil-registration,2026-08-28,MUS-001;MUS-002,,
 MUS,admin,series,coverage,,,,,nothing held

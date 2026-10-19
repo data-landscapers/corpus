@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "ZIMSTAT's 2026 First Quarter Crime Statistics Report publishes police-recorded crime for January to March 2026 (428,634 offences), drawn on one administrative source, the Zimbabwe Republic Police Crime Report and Disposal System; the 2026 Q1 edition follows the 2025 Q4 edition.",
+ "title": "2026 First Quarter Crime Statistics Report",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

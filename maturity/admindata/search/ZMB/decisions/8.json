@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 2017 Vital Statistics Report (March 2020), generated from births and deaths registered and certified in 2017 by the Department of National Registration, Passport and Citizenship, states annual civil-registration vital statistics reports have been published since 2016 (2016 edition January 2019).",
+ "title": "2017 Vital Statistics Report",
+ "publisher": "Zambia Statistics Agency; Ministry of Home Affairs",
+ "published": "2020-03",
+ "date_source": "source",
+ "why_not": ""
+}

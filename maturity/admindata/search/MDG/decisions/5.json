@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministère de la Santé Publique's Annuaire des statistiques du secteur santé de Madagascar 2023, published 24 February 2024 as the 26th edition since 1998, covers 2023 health data drawn from the monthly activity reports (RMA) of community sites, basic health centres, district hospitals, regional and university hospitals.",
+ "title": "MSANP | Annuaire des statistiques du secteur santé de Madagascar - 2023",
+ "publisher": "Ministère de la Santé Publique (MSANP), hosted by INSTAT",
+ "published": "2024-02-24",
+ "date_source": "source",
+ "why_not": ""
+}

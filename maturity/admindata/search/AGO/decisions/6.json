@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Education's GEPE published the Anuário Estatístico da Educação 2020/2021 in February 2024, compiled from school returns collected through SIGE, an earlier edition of the same education source as the 2022/2023 yearbook.",
+ "title": "Anuário Estatístico da Educação (MED)",
+ "publisher": "Ministério da Educação, GEPE / INE",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

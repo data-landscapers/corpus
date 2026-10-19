@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Bulletin Mensuel de la Statistique for October 2025 publishes monthly births, deaths and marriages by governorate from civil registration (état civil), job applications and placements from the Agence Nationale de l'Emploi et du Travail Indépendant, arrivals and departures from the Ministère de l'Intérieur, and air, sea and land transport from the Office de l'Aviation Civile et des Aéroports, the Office de la Marine Marchande et des Ports and the Agence Technique des Transports Terrestres, in a monthly series.",
+ "title": "النشرة الشهرية للإحصائيات / Bulletin Mensuel de la Statistique, Octobre 2025",
+ "publisher": "Institut National de la Statistique",
+ "published": "2026-03-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

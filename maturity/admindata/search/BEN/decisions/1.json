@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Annuaire statistique 2024 (15th edition, December 2025) publishes tables for 2019-2024 drawn from administrative sources of the sector ministries: school returns (MEMP annuaires statistiques, MESTFP annuaires statistiques, SIPAGeS, MESRS), health facility reports (MS/DPAF annuaires des statistiques sanitaires, editions 2021-2023), public service records (DPAF/MTFP 2024), road transport records (MIT/CNSR, MTPT annuaire des transports terrestres), utility records (SBEE, SONEB) and meteorological records (METEO-BENIN), alongside INStaD's own prices and national accounts; the 2022 edition (December 2023) is the previous one.",
+ "title": "Annuaire statistique 2024",
+ "publisher": "Institut National de la Statistique et de la Démographie (INStaD)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

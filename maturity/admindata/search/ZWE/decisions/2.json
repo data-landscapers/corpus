@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "A news article of June 2026 reports the Ministry of Primary and Secondary Education's Primary and Secondary Education Statistics Report for 2025 (enrolment of 4,671,149 learners in 2025, dropouts by cause); the article does not name the school returns the report draws on, and the source is the ministry's school-based education data.",
+ "title": "Zimbabwe's Literacy Success Masks a Growing Crisis of School Dropouts",
+ "publisher": "The Anchor",
+ "published": "2026-06-08",
+ "date_source": "source",
+ "why_not": ""
+}

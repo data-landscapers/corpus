@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Annual Health Sector Performance Report 2024-2025 reports statistics from the Ministry of Health's health facility reports in DHIS2 and the Integrated Disease Surveillance and Response (IDSR) system, with outbreak data as of October 2025.",
+ "title": "Annual Health Sector Performance Report 2024 - 2025",
+ "publisher": "Ministry of Health, Republic of South Sudan",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-19 13:10 · **REBUILD** · 36m · admindata admin: 47 cells reassessed on the 2026-10-19 ladder, 29 moved; 54 searched, 204 staged; 59 held documents read; 114.6M tokens — ok
 2026-10-18 23:05 · **RENDER** · 17m · 207 documents, home, countries, catalogue, finance, datasets rendered; deployed f3fe1da - ok
 2026-10-18 22:47 · **REBUILD** · unclocked · admindata, agrisatellite, aiabuse not rebuilt: system ran low on memory this cycle; left unstamped, first in line
 2026-10-18 22:47 · **REVIEW** · 1m · BEN: status 1 section revised, mapping 6 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
@@ -645,16 +646,6 @@ title: Corpus process log
 2026-09-18 12:11 · **REVIEW** · 5m · BWA: status 2 sub-sections revised, progress 4 cells mapped, monthly 3 blocks, finance 1 duplicate row merged; 0 notes for OSINT, 1 message for Bill — ok
 2026-09-18 12:05 · **REVIEW** · 18m · BFA: status 3 sub-sections revised, progress 4 cells mapped, monthly 9 blocks, finance 0 rows; 0 notes for OSINT; frontmatter escape decode fixed estate-wide — ok
 2026-09-18 11:47 · **BUILD** · 51m · catalogue 22326, finance 62 places, scan 36 units, 34 ledgers updated, 68 bulletin summaries; scope 160 in remit, 4 XGL unverified, 0 unaccounted; register 45 standing hits — ok
-2026-09-17 23:05 · **RENDER** · 13m · 251 documents, 38 topic pages, catalogue 22,217, finance 1,455 deals US$110,621m, R2 1,490 objects, deployed — ok
-2026-09-17 22:52 · **REVIEW** · 3m · BEN: status 1 section revised, progress 2 cells, 3 rows mapped, monthly 0 blocks, finance 48 cells repaired estate-wide (sub-million amounts printed as zero); 0 notes for OSINT — ok
-2026-09-17 22:49 · **REVIEW** · 4m · BDI: status 2 sections revised, progress 4 cells, monthly 1 block, finance 0 rows repaired (1 double-count, notes-for-osint 144); 1 note for OSINT — ok
-2026-09-17 22:45 · **NOTES** · unclocked · notes-for-corpus 29 closed - OSINT's first two change-log entries added as sent
-2026-09-17 22:45 · **BUILD** · 30m · catalogue 22217, finance 62 places, scan 26 units / 55 sources, 18 rows moved, 27 minted, 3 duplicates merged, 2 baselines revised, bulletin 31 items, scope 0 unaccounted, register 45 ruled to stand — ok
-2026-09-17 12:06 · **RENDER** · 7m · 251 documents, 3 AGO editions cut from the review, change log page published, home, places, topics, progress, catalogue 22,162, alerts, finance 1,453 deals; prune 0, R2 3 uploaded; links clean; deployed — ok
-2026-09-17 10:22 · **REVIEW** · 6m · AGO: status 5 sections revised, progress 7 indicators remapped, monthly 9 paragraphs cut, 1 gap updated, finance unchanged; note 141 for OSINT; DRC power-line MoU left in AGO finance, messages at cap — ok
-2026-09-17 08:15 · **RENDER** · 16m · 251 documents rendered, 0 failed; home, places, topics, progress, catalogue 22,162, alerts, finance; 372 editions pruned, 4,245 objects to R2; deployed — ok
-2026-09-17 07:59 · **BUILD** · 38m · catalogue 22,162, 47 units and 264 sources read, 61 rows minted and 35 moved, 3 gaps settled, 2 retired-record citations struck, mojibake repaired in 31 reports; scope 236 in and 3 XGL unverified, register 63, bulletin 93 items — ok
-2026-09-17 07:21 · **NOTES** · unclocked · Note 28 closed: osint_lib.read_manifest reports a failed read as unreadable with path and exception, never as absent; two test cases hold it. Corpus c414e4d, share 4ff81af. Also committed OSINT's pending share edits (e1fc852).
 2026-09-16 06:13 · **CITE-REREAD** · unclocked · closed at 54 of 54: the 21 owed baselines re-read, gated and committed one apiece. 16,990 links, 15,562 checked, 3,774 claims repaired; 1,212 gateway and 137 not held. A/B/E/G/FM pass estate-wide; three residuals in the runbook — ok
 2026-09-11 18:15 · **FILLER** · unclocked · regions baseline filler (XWA XEA XCA XSA XNA): 61 rows, 31 staged (29 files, new-queue regions-baseline, undelivered), 25 held, 5 nil; notes-for-osint 137
 2026-09-10 16:31 · **DOC** · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically

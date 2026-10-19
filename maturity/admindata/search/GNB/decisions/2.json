@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Instituto Nacional de Saúde Pública (INASA) with the Ministry of Public Health published the Anuário Estatístico de 2022, a health statistics yearbook of health indicators (the health-sector information system of MINSAP and INASA) financed by the World Bank with WHO technical support; it is the second yearbook (edition 2022, published May 2024).",
+ "title": "Anuário estatístico de 2022",
+ "publisher": "Instituto Nacional de Saúde Pública (INASA)",
+ "published": "2024-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

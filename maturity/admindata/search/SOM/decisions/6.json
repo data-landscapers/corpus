@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Semi-Annual Health Statistics Bulletin January-June 2023 reports statistics from routine health facility reports entered into the national DHIS2 HMIS (588 public facilities reporting, 95 percent reporting rate), one source of the Ministry of Health's bulletin series.",
+ "title": "Somalia Health Bulletin Semi Annual Report from Jan to Jun 2023",
+ "publisher": "Ministry of Health & Human Services",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

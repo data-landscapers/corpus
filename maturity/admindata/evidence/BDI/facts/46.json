@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "The Ministry of Public Health published its Annuaire des statistiques sanitaires 2024 in August 2025 (figures for 2024), compiled from monthly reports of health facilities and community health groups entered in the national DHIS2 health information system.", "as_of": "2025-08", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2024", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health", "fact": "The Ministry's health information directorate states it produces a health statistics yearbook every year; the 2024 edition was published in August 2025 after validation by the statistical information technical committee (CTIS) and follows a 2023 edition.", "as_of": "2025-08", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2024", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire des statistiques sanitaires 2024", "country_label": "Annuaire des statistiques sanitaires 2024", "class": "admin", "platform": "DHIS2", "owner": "Ministere de la Sante Publique, DSNIS", "tiers": "health facility; health district; province; national"}
+  ],
+  "note": ""
+}

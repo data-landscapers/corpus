@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Basic and Secondary Education published Education Statistics 2024/2025 in May 2025, the 12th annual edition of its yearbook (released each May since 2014), compiled from the annual EMIS school questionnaire completed by head teachers, with the 2022 edition (2021/2022, 9th edition) also published.",
+ "title": "Education Statistics 2024/2025 (Statistical Yearbook)",
+ "publisher": "Ministry of Basic and Secondary Education, Directorate of Planning, Policy Analysis, Research & Budgeting",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

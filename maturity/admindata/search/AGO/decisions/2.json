@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INE published its Estatísticas do Comércio Externo for the first quarter of 2025, reporting a trade surplus of 3.33 trillion kwanzas, exports down 4.80% and imports up 34.71% year on year; the page does not name the record-holder, which the third-quarter 2025 edition gives as the customs and tax authority AGT plus the Ministry of Mineral Resources, Petroleum and Gas.",
+ "title": "Estatísticas de Comércio Externo (ECE), I Trimestre 2025",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -5,13 +5,13 @@
    "sub_indicator": "admin",
    "stage": "no evidence",
    "use": "",
-   "vital": "",
+   "source": "",
    "series": "",
    "cap": "",
    "flags": "",
    "stage_sources": "",
    "gaps": "Nothing held names statistics drawn from administrative records, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
+   "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19."
   }
  ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INS North-West regional agency published the Annuaire statistique de la région du Nord-Ouest, édition 2024, with chapters on education, health, justice, security, labour and social security, trade and public finance, drawing on the Governor's services, FEICOM, MINATD yearbooks and sectoral administrations' data, but many of its tables cite 2014-2022 sources.",
+ "title": "Annuaire statistique de la région du Nord-Ouest, édition 2024",
+ "publisher": "Institut National de la Statistique du Cameroun",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

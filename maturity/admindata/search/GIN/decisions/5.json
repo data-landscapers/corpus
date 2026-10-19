@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The INS Annuaire statistique 2022, edition December 2023, publishes administrative statistics from the ministry of health SNIS, education BSD school returns (pre-university, NAFA centres), INS external trade sub-directorate (customs), national road police and road safety directorates, the Caisse nationale de sécurité sociale, the central bank (BCRG), the investment promotion agency APIP, and port, water and meteorology services; it is an earlier edition of the yearbook whose 2024 edition appeared in October 2025.",
+ "title": "Annuaire statistique 2022",
+ "publisher": "Institut National de la Statistique (INS)",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-01-tza-annual-health-statistical-tables-and-figures-2024",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "health",
+   "fact": "The Ministry of Health's Annual Health Statistical Tables and Figures 2024, published September 2025 and covering January-December 2024, is compiled from routine facility records (HMIS registers and tally sheets) aggregated in DHIS2 from 11,805 health facilities, with HRHIS and the Health Facility Registry as further record sources.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Annual Health Statistical Tables and Figures 2024",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "health",
+   "fact": "The Ministry of Health states that, since 2009, its Monitoring and Evaluation Unit has consistently published the Annual Health Statistical Tables and Figures report each year for the preceding calendar year; this edition was published September 2025.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Annual Health Statistical Tables and Figures 2024",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Annual Health Statistical Tables and Figures 2024",
+   "country_label": "Tanzania Mainland",
+   "class": "admin",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health, Monitoring and Evaluation Unit",
+   "tiers": "national"
+  },
+  {
+   "system": "DHIS2 / HMIS",
+   "country_label": "Tanzania Mainland",
+   "class": "",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": "facility;council;region;national"
+  }
+ ],
+ "note": ""
+}

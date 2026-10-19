@@ -1,0 +1,10 @@
+{
+ "slug": "2024-12-01 Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)",
+ "facts": [
+  {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The INS Niger published an analysis report on registered civil-status events (births, deaths, marriages, divorces) for 2023, cover dated December 2024; as_of is the publication date, the figures cover 2023.", "as_of": "2024-12", "date_precision": "month", "system": "Niger Civil Status (État Civil) Analysis Report 2023", "class": "vital"}
+ ],
+ "systems": [
+  {"system": "Niger Civil Status (État Civil) Analysis Report 2023", "country_label": "Niger", "class": "vital", "platform": "", "owner": "Institut National de la Statistique", "tiers": "national"}
+ ],
+ "note": "Only a short excerpt is held; it also notes a companion Niamey-region volume dated March 2025 and that civil-status computerisation began in 2023 in over 130 communes (not recorded as a fact: no statistics use stated)."
+}

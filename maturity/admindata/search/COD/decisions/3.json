@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The INS (Direction des Statistiques Sociales) published the Annuaire Statistique de l'Éducation 2024-2025 on 10 October 2025, 120 pages, on access, quality and financing of the education system; the page names no administrative source beyond education statistics and no earlier edition.",
+ "title": "Annuaire Statistique de l'Éducation 2024-2025",
+ "publisher": "Institut National de la Statistique (INS RDC)",
+ "published": "2025-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

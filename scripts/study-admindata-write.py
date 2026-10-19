@@ -5,7 +5,7 @@ r"""study-admindata-write.py — the admindata study's summaries, written from i
     python scripts/study-admindata-write.py --dry
 
 `maturity/documentation/maturity-study-method.md` §8, as `study-censuses-write.py` does
-it. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
+it, on the ladder of 2026-10-19. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
 inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
@@ -29,9 +29,10 @@ import study_lib  # noqa: E402
 
 STUDY = "admindata"
 SUB = "admin"
-WINDOW = {"use:preparing": ("2023-10", "three"), "use:published": ("2023-10", "three"),
-          "vital:published": ("2023-10", "three"), "series:annual": ("2023-10", "three")}   # study §2
-ROOM = {"use": 100, "vital": 70, "series": 50}
+WINDOW = ("2023-10", "three")   # study §2, every question
+ROOM = {"use": 90, "source": 80, "series": 45}
+WORDS = {"civil-registration": "civil registration", "social-security": "social security",
+         "other": "other administrative"}
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"
                     r"gives no (?:\w+ )?date|no (?:launch )?date|undated|dated by|date .*not stated|period is used|"
@@ -40,24 +41,29 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "use": "No source held reports statistics from administrative records published, or work towards them, since October 2023. The nearest held fact: {l}.",
-    "vital": "No source held reports vital statistics from civil registration published since October 2023. The nearest held fact: {l}.",
-    "series": "No source held reports vital statistics published for two successive years. The nearest held fact: {l}.",
+    "use": "No source held reports work under way, or a product that leaves its sources unnamed, since October 2023. The nearest held fact: {l}.",
+    "source": "No source held names the administrative records a product published since October 2023 draws on. The nearest held fact: {l}.",
+    "series": "No source held states that statistics from administrative records are published regularly. The nearest held fact: {l}.",
 }
 
 
 def shorten(cell: dict, y: str, top: dict) -> str:
     """One sentence from what the cell holds: the step that set it, then the main unknown."""
     s, name = cell["stage"], product_name(top)
+    name = name[:1].upper() + name[1:]
+    first = top["value"].split(";")[0] if top["aspect"] in ("source", "series") else ""
+    what = f"Statistics from {WORDS.get(first, first)} records" if first else name
     if s == "1":
         return f"A {y} source says no official statistics are drawn from administrative records and no work is under way."
     if s == "2":
         return f"Work to draw statistics from administrative records was under way in {y}; nothing published since 2023 is known."
     if s == "3":
-        return f"{name[:1].upper() + name[1:]} was published from administrative records in {y}; no vital statistics report is known."
+        return f"{what} {'were' if first else 'was'} published in {y}; no administrative source is known to have been published twice since 2023."
     if s == "4":
-        return f"Vital statistics from civil registration were published in {y}; a report two years running is not known."
-    return f"Vital statistics from civil registration were published two years running, the latest in {y}."
+        what = what if first else re.sub(r"\s+\d{4}(?:[-/]\d{2,4})?\b", "", what)   # the product, not one edition
+        return (f"{what} {'were' if first else 'was'} published twice in three years, the latest in {y}; "
+                "three sources published twice are not known.")
+    return f"Statistics from three administrative sources or more were each published twice in three years, the latest in {y}."
 
 
 def product_name(r: dict) -> str:
@@ -89,7 +95,7 @@ def sentences(rows: list[dict], first: list[str], room: int) -> list[str]:
         if s in seen or (out and n + len(s.split()) > room):
             continue
         seen.add(s)
-        since, span = WINDOW.get(f"{r['aspect']}:{r['value']}", ("", ""))
+        since, span = WINDOW
         if (r["as_of"] + "-12")[:7] < since:   # a year stands for its last month, as the ladder reads it
             s += f" ({r['as_of'][:4]}, before the {span}-year window)"   # so the reader sees why it does not count
         out.append(link(r["url"], s) + ".")
@@ -131,12 +137,12 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
             if not body:   # the nearest held fact is linked once; a second empty aspect points back to it
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], "the one given above"))]
-                used = True
+            used = used or f"(<{top['url']}>)" in " ".join(body)   # linked once; later empty aspects point back
             if k == "use" and len(rows) <= 5:   # few facts held: say so, as the statistics law study did
                 body.append(("It is the only fact" if len(rows) == 1 else f"{['', '', 'Two', 'Three', 'Four', 'Five'][len(rows)]} facts are")
                             + " held on the country's statistics from administrative records" + ("" if len(rows) == 1 else ", all given here")
-                            + ": no news story or official notice read for this study says more, and the yearbooks and reports themselves were not read.")
-            if k == "vital" and len(rows) <= 5 and "no release date" in top["fact"] and top["aspect"] == "vital":
+                            + ": nothing else read for this study, including the yearbooks and reports the rebuild of 2026-10-19 found held, says more.")
+            if k == "source" and len(rows) <= 5 and "no release date" in top["fact"] and top["aspect"] == "source":
                 body.append("The source names the report in passing and gives no release date; "   # Namibia: the
                             "the report itself was not read for this study.")                          # only fact held
             parts += [f"**{a['name']}.** " + " ".join(body), ""]

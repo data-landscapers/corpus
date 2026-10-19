@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "In 2024 the Ministry of Health put the DHIS2 platform in place so that health data from local facilities reach the central level.",
+ "title": "Bilan des activités de 2024",
+ "publisher": "Ministère de la Santé",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

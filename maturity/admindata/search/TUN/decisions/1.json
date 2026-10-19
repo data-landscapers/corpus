@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Annuaire Statistique de la Tunisie 2019-2023 (edition 65, 2024 edition) publishes tables drawn from administrative sources: Ministère de l'Éducation school returns, Ministère de la Justice court activity, Ministère de la Santé health infrastructure and activity, Ministère de l'Intérieur (travellers, border posts), Ministère de l'Enseignement Supérieur, Ministère des Affaires Culturelles, Ministère de la Jeunesse et des Sports, the Banque Centrale de Tunisie, and INS-compiled series such as births, deaths and marriages from civil registration and foreign trade.",
+ "title": "Annuaire Statistique de la Tunisie 2019-2023",
+ "publisher": "Institut National de la Statistique",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

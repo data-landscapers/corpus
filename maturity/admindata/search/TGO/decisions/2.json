@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Direction de la Planification, des Statistiques et du Suivi-Evaluation lists national school statistics yearbooks (Annuaire national) for 2022-2023, 2023-2024, 2024-2025 and 2025-2026, school returns from the education ministry (education source; four editions).",
+ "title": "Liste des annuaires nationaux",
+ "publisher": "Direction de la Planification, des Statistiques et du Suivi-Evaluation (DPSSE), Ministère des enseignements primaire, secondaire, technique et de l'artisanat",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

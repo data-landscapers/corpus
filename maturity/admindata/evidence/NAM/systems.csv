@@ -4,3 +4,6 @@ NAM,2023 vital statistics report,2023 vital statistics report,vital,,,,2025-06-0
 NAM,National Labour Market Information System (NaLMIS),NaLMIS,other,,Namibia Statistics Agency with Ministry of Justice and Labour Relations,,2026-09-25-nam-nampa-labour-market-info-system
 NAM,Namibia Producer Price Index (NPPI),NPPI bulletin Q2 2026,other,Python-based processing system,Namibia Statistics Agency,,2026-08-25-namibian-new-system-rewrites-producer-price-data
 NAM,Namibia Producer Price Index Bulletin Q2 2026,NPPI Bulletin Q2 2026,other,Python-based system,Namibia Statistics Agency,,2026-08-21-nsa-namibia-producer-price-index-bulletin-q2-2026
+NAM,Education Management Information System (EMIS),Namibia,admin,,"Ministry of Education, Arts and Culture",,2024-01-01-education-management-information-system-emis
+NAM,National Population Registration System (NPRS),Namibia,vital,SQL database,Office of the Prime Minister,,2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021
+NAM,Civil Registration System (CRS),Namibia,vital,,"Ministry of Home Affairs, Immigration, Safety and Security",,2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-02-upf-annual-crime-report-2025",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "police", "fact": "The Uganda Police Force published its Annual Crime Report 2025 on 2026-04-02 (figures cover 2025), reporting 196,405 cases reported to Police, 115,301 submitted to the Office of the Director of Public Prosecutions, 79,291 taken to court and 24,899 cases with convictions.", "as_of": "2026-04-02", "date_precision": "day", "system": "Annual Crime Report 2025", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annual Crime Report 2025", "country_label": "Uganda", "class": "admin", "platform": "", "owner": "Uganda Police Force", "tiers": ""}
+  ],
+  "note": ""
+}

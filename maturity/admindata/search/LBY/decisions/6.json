@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Health's Health Information and Documentation Center published its Annual Statistical Report 2022, built from routine health facility data entered in DHIS2 and from births and deaths 2014-2021 supplied by the Civil Registry Authority, and states the center has issued annual statistical reports since 2006 (reports for 2019 and 2020 issued in 2022).",
+ "title": "التقرير الإحصائي السنوي 2022",
+ "publisher": "وزارة الصحة - مركز المعلومات والتوثيق الصحي",
+ "published": "2024-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

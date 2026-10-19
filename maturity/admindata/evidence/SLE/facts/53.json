@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-sle-analysis-report-2025-analysis-of-reproductive-maternal-newborn-child-a",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health",
+     "fact": "The Countdown to 2030 synthesis report, prepared by Statistics Sierra Leone, the Ministry of Health and APHRC, publishes RMNCAH indicators for 2019-2024 computed from routinely reported health facility data in DHIS2 (national reporting completeness 93-99 percent, annual data quality score 71-85); as_of is the report's published year, 2025, its figures cover 2019-2024.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "Analysis Report 2025: Analysis of Reproductive, Maternal, Newborn, Child and Adolescent Health Indicators for 2019-2024 (Synthesis Report, Sierra Leone)",
+     "class": "admin"}
+  ],
+  "systems": [
+    {"system": "DHIS2 routine health facility reporting", "country_label": "Sierra Leone", "class": "admin", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

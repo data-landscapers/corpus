@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-ghana-births-and-deaths-registry-2022-statistical-report",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration",
+     "fact": "The Births and Deaths Registry published its 2022 Statistical Report Birth Registration, with sections on birth registration process, data compilation and data source and figures on registered births in 2022 by region, sex, place of birth and mother's age; as_of is the publication date 2024 (copyright 2024), the figures cover 2022.",
+     "as_of": "2024-01-01", "date_precision": "year",
+     "system": "2022 Statistical Report Birth Registration", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "2022 Statistical Report Birth Registration", "country_label": "Ghana", "class": "vital", "platform": "", "owner": "Births and Deaths Registry", "tiers": ""}
+  ],
+  "note": "Passages only (7,493 words); a figure compares registered births with births recorded by Ghana Health Service but the text shown does not say it draws on health records, so only civil-registration is recorded."
+}

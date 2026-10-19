@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "In June 2024 the Ministry of Public Service validated a data inventory report on the Ministries of Higher Education, Basic and Secondary Education and Health, under the World Bank-supported Public Administration Modernization Project, with a data governance model.",
+ "title": "Data inventory for selected institutions validated",
+ "publisher": "The Point",
+ "published": "2024-06-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

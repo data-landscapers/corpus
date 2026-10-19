@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Institut National de Santé Publique published its monthly epidemiological returns (Relevés Epidémiologiques Mensuels, vol. XXXIV) for 2023, compiled from notifiable-disease cases declared by health services (health facility reports), the 2023 edition of an annual-volume series.",
+ "title": "Relevés Epidémiologiques Mensuels «R.E.M» Algérie, Situation épidémiologique de l'année 2023 sur la base des cas déclarés à l'I.N.S.P.",
+ "publisher": "Institut National de Santé Publique",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

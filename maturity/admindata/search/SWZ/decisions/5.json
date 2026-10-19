@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Economic Planning and Development annual report of 17 February 2025 states that the CSO Demographic and Vital Statistics Division provides vital events statistics (births, deaths and marriages) derived from civil registration, compiled annually.",
+ "title": "Ministry of Economic Planning and Development Annual Report 2024-25",
+ "publisher": "Ministry of Economic Planning and Development, Kingdom of Eswatini",
+ "published": "2025-02-17",
+ "date_source": "source",
+ "why_not": ""
+}

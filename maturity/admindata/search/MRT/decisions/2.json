@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "ANSADE published the Annuaire des statistiques du commerce extérieur 2025 (Numéro 27, March 2026), a yearly series of trade statistics for 2025 compiled from customs declarations, with every table sourced to the Direction Générale des Douanes/SYDONIA.",
+ "title": "Annuaire des statistiques du commerce extérieur 2025",
+ "publisher": "Agence Nationale de la Statistique et de l'Analyse Démographique et Economique (ANSADE)",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

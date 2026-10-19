@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-08-sierra-leone-nacsa-statistics-sl-amended-mou-sprint",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing",
+     "fact": "NaCSA and Statistics Sierra Leone signed an amended MoU on 8 April 2026 (reported in a page published 8 May 2026) on data collaboration for the PSSNYE project, to expand the SPRINT social protection registry to national coverage and support targeting, monitoring and impact evaluation; no statistics from the registry are stated as published.",
+     "as_of": "2026-04-08", "date_precision": "day",
+     "system": "SPRINT (Social Protection Registry for Integrated National Targeting)",
+     "class": "admin"}
+  ],
+  "systems": [
+    {"system": "SPRINT (Social Protection Registry for Integrated National Targeting)", "country_label": "Sierra Leone", "class": "admin", "platform": "", "owner": "National Commission for Social Action (NaCSA)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-23-gab-plan-national-de-developpement-sanitaire-du-gabon-2024-2028",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "The health development plan, adopted by the Council of Ministers on 23 February 2024, cites the Gabon statistical yearbooks of the last five years as the source of its leading causes of death among people over 60, naming no administrative record behind them; as_of is the plan's adoption date, as it gives no date for the yearbooks.",
+     "as_of": "2024-02-23", "date_precision": "day",
+     "system": "Annuaires statistiques du Gabon (last five years)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique de la santé", "country_label": "Gabon", "class": "admin", "platform": "", "owner": "Ministère de la Santé", "tiers": ""}
+  ],
+  "note": "The plan also says the yearbook and the health map are still to be institutionalised (target end 2028); a plan only, so no preparing fact."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The ANSD Situation économique et sociale du Sénégal, edition 2022-2023 (January 2025), publishes statistics drawn from administrative records of the Direction générale de l'Administration pénitentiaire (prison population, 2022 and 2023 data), the Ministry of Education's RNSE school returns (DPRE/MEN, 2022 and 2023), the Ministry of Health's Annuaire statistique des ressources humaines 2022, the Direction des Statistiques du Travail et des Etudes annual labour statistics report (2022 and 2023 editions), and the Treasury/DGCPT government financial operations table (TOFE).",
+ "title": "Situation économique et sociale du Sénégal, édition 2022-2023",
+ "publisher": "Agence nationale de la Statistique et de la Démographie (ANSD)",
+ "published": "2025-01",
+ "date_source": "source",
+ "why_not": ""
+}

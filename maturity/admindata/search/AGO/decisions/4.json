@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;series",
+ "fact": "INE's Anuário de Estatísticas de Comércio Externo, June 2024 edition, gives definitive 2024 external trade results (exports -0.90% in dollars, imports -4.82% in dollars versus 2023); the page does not name the record-holder, which INE's quarterly trade editions give as AGT customs data.",
+ "title": "Anuário de Estatísticas de Comércio Externo (ECE)",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

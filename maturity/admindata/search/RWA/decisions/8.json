@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Rwanda Statistical Year Book 2024 by NISR compiles statistics from administrative records, with table sources naming the Ministry of Education school census, R-HMIS and RBC health data, RSSB (social security), Rwanda National Police, Rwanda Investigation Bureau, Supreme Court, RRA, NAEB, RURA, REG, WASAC and RDB; it is the 2024 edition, a year before the 2025 edition.",
+ "title": "Rwanda Statistical Year Book 2024",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

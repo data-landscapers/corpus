@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,admin,use,coverage,published,2026-01,BDI-001;BDI-002;BDI-003,,
-BDI,admin,vital,coverage,,,,,nothing held
-BDI,admin,series,coverage,,,,,nothing held
+BDI,admin,use,coverage,published,2024-12,BDI-003,,
+BDI,admin,source,coverage,education;health;other,2026-01,BDI-001;BDI-002;BDI-004,,
+BDI,admin,series,coverage,health,2025-08,BDI-005,,

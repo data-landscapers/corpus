@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Bureau of Statistics and Census published Statistical Book 2023, number 28 in its annual series, with 2018-2022 births and deaths from the Civil Registry Authority, 2023-24 school statistics from the Ministry of Education and Ministry of Higher Education, 2023 health facility and disease statistics from the Ministry of Health, and further tables from the Social Security Fund, Ministry of Transportation and Traffic Affairs and Licensing Department, with the Central Bank of Libya, National Oil Corporation and General Electric Company as other sources.",
+ "title": "الكتاب الإحصائي 2023",
+ "publisher": "مصلحة الإحصاء والتعداد",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

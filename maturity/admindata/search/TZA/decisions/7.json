@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Mainland Tanzania Annual Vital Statistics Report 2020-2023, issued by RITA in June 2024, compiles vital statistics for 2020-2023 from the civil registration administrative data in the RITA CRVS system (births, deaths, marriages, divorces), with data from the Ministry of Health (causes of death via DHIS2) and NBS population estimates.",
+ "title": "Mainland Tanzania Annual Vital Statistics Report 2020-2023",
+ "publisher": "Registration, Insolvency and Trusteeship Agency (RITA)",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

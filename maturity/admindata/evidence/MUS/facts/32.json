@@ -1,0 +1,13 @@
+{
+  "slug": "2024-10-01-mus-statsmauritius-annual-report-2023-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing",
+     "fact": "Statistics Mauritius reports that two Statistics Finland experts, under the EU-funded PAS2 project, took stock of the various data sources used to populate and update its Statistical Business Register during a mission of 23-27 October 2023, and a study tour in Oslo on 21-24 May 2024 covered using administrative data and quality control of the business register; the dates are the events', the report was published 2024-10 (month precision).",
+     "as_of": "2023-10", "date_precision": "month",
+     "system": "Statistical Business Register", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Statistical Business Register", "country_label": "Mauritius", "class": "admin", "platform": "", "owner": "Statistics Mauritius", "tiers": ""}
+  ],
+  "note": "Annual performance report FY2023-24, not a statistical product; it says generally that data come from administrative sources but names none and cites no published product, so no source or series fact. Health statistics are stated to be the Ministry of Health's responsibility."
+}

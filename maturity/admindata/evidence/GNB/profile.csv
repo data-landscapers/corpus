@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GNB,admin,use,coverage,preparing,2025-08-08,GNB-001,,
-GNB,admin,vital,coverage,,,,,nothing held
+GNB,admin,source,coverage,civil-registration;health,2022-01-01,GNB-002,,nothing dated since 2023-10-19
 GNB,admin,series,coverage,,,,,nothing held

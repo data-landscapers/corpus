@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Observatoire Régional de la Santé d'Oran (INSP) publishes an annual regional bilan, here for 2023, drawn on weekly and monthly notifications of notifiable diseases from ten wilayas' health directorates (health reports) and on births and deaths registered with civil registration services (civil registration).",
+ "title": "Bilan ORS Oran année 2023",
+ "publisher": "Observatoire Régional de la Santé d'Oran, Institut National de Santé Publique",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "On 20 September 2025 the National Bureau of Statistics was reported to have released its second-quarter 2025 Crime, Justice and Security bulletin, drawing on data from the Police, Employment and Family Tribunals, Probation Services, the Prison Department and the Seychelles Revenue Commission (SRC).",
+ "title": "Crime and justice trends in Seychelles: What the latest statistics tell us",
+ "publisher": "Seychelles Nation",
+ "published": "2025-09-20",
+ "date_source": "source",
+ "why_not": ""
+}

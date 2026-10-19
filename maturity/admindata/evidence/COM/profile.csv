@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,admin,use,coverage,preparing,2024-06,COM-005,,
+COM,admin,source,coverage,health,2025-07-10,COM-001;COM-003,,
+COM,admin,series,coverage,health,2025-07-10,COM-002;COM-004,,

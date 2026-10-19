@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://upf.go.ug/wp-content/uploads/2026/04/2025-Official-Annual-Crime-Report-Web-Version.pdf,held,held as raw/2026/2026-04-02-upf-annual-crime-report-2025.md,,0,,
+2,https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/Uganda%20Bureau%20of%20Statistics_25.pdf,held,held as raw/2026/2026-01-01-ubos-vote-143-budget-performance.md,,0,,
+3,https://mglsd.go.ug/wp-content/uploads/2025/12/Final-Copy_Statistical-Abstract-2023-24.pdf,fetched,,scripts/.workroot/study/admindata/cache/UGA/3.txt,22640,pdf,
+4,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/uganda-vital-statistics-report-2024.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+5,https://upf.go.ug/wp-content/uploads/2025/02/ACR2024-Web.pdf,held,held as raw/2025/2025-02-01-uga-annual-crime-report-2024.md,,0,,
+6,https://ura.go.ug/en/download/annual-data-book-fy2024-2025/,fetched,,scripts/.workroot/study/admindata/cache/UGA/6.txt,71,html,ANNUAL DATA BOOK FY2024 - 2025 - Uganda Revenue Authority
+7,https://uganda.un.org/en/259264-united-nations-agencies-and-uganda-bureau-statistics-ubos-launch-us-41m-joint-programme-data,fetched,,scripts/.workroot/study/admindata/cache/UGA/7.txt,696,html,United Nations Agencies and Uganda Bureau of Statistics (UBOS) Launch US$ 41M Joint Programme for Data and Statistics
+8,https://www.ubos.org/2023-statistical-abstract/,fetched,,scripts/.workroot/study/admindata/cache/UGA/8.txt,42,html,2023 Statistical Abstract - Uganda Bureau of Statistics

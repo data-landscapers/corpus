@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,admin,use,coverage,published,2026-08-07,CMR-001,,
-CMR,admin,vital,coverage,,,,,nothing held
+CMR,admin,use,coverage,published,2026-08-07,CMR-001;CMR-003,,
+CMR,admin,source,coverage,civil-registration;health,2023-08,CMR-002,,nothing dated since 2023-10-19
 CMR,admin,series,coverage,,,,,nothing held

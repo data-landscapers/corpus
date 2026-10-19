@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INS Guinée en chiffres 2023, December 2024, publishes 2020-2023 figures citing administrative sources: the BSD of the ministry of territorial administration, the budget directorate's TOFE public finance table, INS external trade sub-directorate, Conakry port and airport (SOGEAC) records.",
+ "title": "Guinée en chiffres 2023",
+ "publisher": "Institut National de la Statistique (INS)",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

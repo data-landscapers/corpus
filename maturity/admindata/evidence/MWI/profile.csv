@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,admin,use,coverage,published,2025-04-23,MWI-001,,
-MWI,admin,vital,coverage,published,2025-04-23,MWI-002,,
+MWI,admin,use,coverage,,,,,nothing held
+MWI,admin,source,coverage,civil-registration,2025-04,MWI-001;MWI-002;MWI-003,,
 MWI,admin,series,coverage,,,,,nothing held

@@ -2,3 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ERI,Foreign trade statistics,"Foreign trade statistics 2003-2004 (compiled, unpublished)",admin,,National Statistics Office,,2007-01-08-norad-eritrea-nso-statistics-norway-mid-term-review
 ERI,Eritrea Population and Health Survey (EPHS 2025),EPHS 2025,other,CAPI,National Statistics Office,,2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)
 ERI,National accounts 2023,National accounts 2023,other,,National Statistics Office,,2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)
+ERI,Eritrea: Basic Education Statistics 2023/24,Eritrea,admin,,"Ministry of Education, Department of Research and HRD",,2024-12-01-eri-moe-basic-education-statistics-2023-24
+ERI,ASYCUDA World,Eritrea,other,ASYCUDA World (UNCTAD),Eritrea Customs Department,,2026-01-08-undp-eritrea-asycuda-world-digital-customs
+ERI,Annual Health Service Activity Report,Eritrea,admin,DHIS2,"Ministry of Health, HMIS unit",,2022-01-01-eri-who-eritrea-annual-report-2022
+ERI,National Health Observatory,Eritrea,admin,,Ministry of Health,,2022-01-01-eri-who-eritrea-annual-report-2022

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-bfa-insd-annuaire-statistique-national-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;other", "fact": "INSD's Annuaire statistique national 2024, published December 2025 (figures cover up to 2024), compiles data from sectoral ministries' yearbooks, dashboards and activity reports; its table list includes civil-registration indicators (table 2.1.26) and its tables cite the territorial administration ministry's statistics directorate (DGESS/MATDC); the captured text is cut before the later chapters.", "as_of": "2025-12", "date_precision": "month", "system": "Annuaire statistique national 2024 (edition 2025)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique national 2024 (edition 2025)", "country_label": "Burkina Faso", "class": "admin", "platform": "Open Data for Africa platform (Excel version)", "owner": "INSD", "tiers": "national"}
+  ],
+  "note": "No series fact: the note describes a compilation procedure but gives no dated statement of regular publication."
+}

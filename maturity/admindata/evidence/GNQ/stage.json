@@ -5,14 +5,14 @@
       "sub_indicator": "admin",
       "stage": "4",
       "use": "published",
-      "vital": "published",
+      "source": "civil-registration",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNQ-004",
-      "gaps": "No source held reports vital statistics published for two successive years.",
-      "note": "Counted from the four questions by study-ladder-admindata.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GNQ-001;GNQ-002",
+      "gaps": "No source held shows statistics from three administrative sources, each published twice since October 2023.",
+      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
+      "as_at": "2026-10-19"
     }
   ]
 }

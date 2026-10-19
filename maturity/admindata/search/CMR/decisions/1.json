@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INS published the 2024 edition (sixth edition) of the Annuaire statistique de la Région du Sud on 10 March 2025, compiling the statistics of the sectoral administrations present in the region (education, health, justice, security, labour and social security, trade, transport, public finance among its 25 chapters); the 2023 edition appeared on 2 August 2024.",
+ "title": "Annuaire Statistique de la Région du Sud, édition 2024",
+ "publisher": "Institut National de la Statistique du Cameroun",
+ "published": "2025-03-10",
+ "date_source": "source",
+ "why_not": ""
+}

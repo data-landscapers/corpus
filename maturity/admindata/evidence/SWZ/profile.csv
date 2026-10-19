@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,admin,use,coverage,published,2026-08-25,SWZ-002;SWZ-004;SWZ-007,,
-SWZ,admin,vital,coverage,published,2026-08-25,SWZ-001;SWZ-003;SWZ-005;SWZ-008,,
-SWZ,admin,series,coverage,annual,2025-08,SWZ-006;SWZ-009,,
+SWZ,admin,use,coverage,,,,,nothing held
+SWZ,admin,source,coverage,civil-registration,2026-08-25,SWZ-003;SWZ-004;SWZ-005;SWZ-007;SWZ-008,SWZ-001=civil-registration;SWZ-002=civil-registration,
+SWZ,admin,series,coverage,civil-registration,2025-08,SWZ-006;SWZ-009,,

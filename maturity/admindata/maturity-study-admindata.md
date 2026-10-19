@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-admindata.md — official statistics drawn from administrative records, in four questions
 last_reviewed: 2026-10-19
-status: run 2026-10-15; ladder changed 2026-10-19, restaged by that night's rebuild
+status: run 2026-10-15; ladder changed and rebuilt 2026-10-19
 ---
 
 # Maturity study: admindata
@@ -74,7 +74,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 - [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
 - [x] **D2. Read**: 107 drafters, four regional stories read once; 82 facts after the parent's corrections (`corrections.csv`).
 - [x] **D3. Staged** as at 2026-09-30: stage 5 Egypt, Eswatini; 4 Botswana, Cabo Verde, Côte d'Ivoire, Equatorial Guinea, Lesotho, Namibia, Rwanda, Seychelles, Uganda, Zimbabwe; 3 fourteen; 2 Ghana, Guinea-Bissau, Mozambique, Senegal, Sierra Leone; none at 1; unplaced Eritrea, Libya, São Tomé and Príncipe; no evidence twenty. The second drafter agreed on 19 of 20.
-- [ ] **D6. Ladder changed** *(Bill, 2026-10-19)*: §2 and §3 above. The rebuild of 2026-10-19 replaces `vital` and `series` with an aspect naming each published row's source, counts sources and editions in `study-ladder-admindata.py` and the gaps in `study-admindata-write.py`, re-reads each cell for the sources and editions it names, and logs every restaging `--kind ladder`. `study.json` → `criteria` already holds the new rungs.
+- [x] **D6. Ladder changed and rebuilt**, 2026-10-19 *(Bill)*: §2 and §3. `vital` and `series` became `source` and `series`, each naming the records a product draws on, and the 100 held facts were retagged by hand. All 54 countries were searched with standard Exa searches: 204 documents went to ingest. 59 held yearbooks and reports the search found, which no drafter had read, were read through their opening and source notes, and 9 facts were removed as weaker than the rung (`corrections.csv`). Staged: 5 Libya; 4 twenty-three; 3 eighteen; 2 four; unplaced São Tomé and Príncipe; no evidence seven. Every cell holding evidence is logged `--kind ladder`.
 - [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
 
 **Decided in the run**:

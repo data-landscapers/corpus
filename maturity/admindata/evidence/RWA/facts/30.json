@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-01-education-statistical-yearbook-2023-24",
+  "facts": [
+    {"sub_indicator":"admin","aspect":"source","value":"education","fact":"MINEDUC published the 2023/2024 Education Statistical Yearbook in March 2025 (figures cover the school year to July 2024), drawn mainly from the School Data Management System plus district, higher-education institution, Rwanda Correctional Services, Rwanda TVET Board and National Child Development Agency returns.","as_of":"2025-03","date_precision":"month","system":"2023/2024 Education Statistical Yearbook","class":"admin"}
+  ],
+  "systems": [
+    {"system":"2023/2024 Education Statistical Yearbook","country_label":"2023/2024 Education Statistical Yearbook","class":"admin","platform":"","owner":"Ministry of Education (MINEDUC)","tiers":""},
+    {"system":"School Data Management System (SDMS)","country_label":"School Data Management System","class":"admin","platform":"","owner":"Ministry of Education (MINEDUC)","tiers":""}
+  ],
+  "note": ""
+}

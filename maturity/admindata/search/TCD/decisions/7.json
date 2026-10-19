@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "On 27 May 2024 INSEED held a workshop presenting the results of a pilot system it set up to collect and analyse civil registration data (births, marriages, deaths) in the city of N'Djamena, with ANATS, the municipality and UNICEF attending; source: civil registration records.",
+ "title": "Etat civil : L'INSEED met en place un dispositif d'enregistrement",
+ "publisher": "ATPE",
+ "published": "2024-05-28",
+ "date_source": "source",
+ "why_not": ""
+}

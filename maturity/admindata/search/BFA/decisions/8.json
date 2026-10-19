@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire du commerce extérieur 2023 (June 2024) publishes foreign trade statistics compiled from the customs declarations file supplied monthly by the Burkina Faso customs, with a 2014-2023 series; it is the edition before the 2024 one.",
+ "title": "Annuaire du commerce extérieur 2023",
+ "publisher": "Institut National de la Statistique et de la Démographie (INSD)",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

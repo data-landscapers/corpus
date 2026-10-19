@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "admin",
-   "stage": "unplaced",
-   "use": "",
-   "vital": "",
-   "series": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No statistics from administrative records published, and no work towards them, is on record since October 2023.",
-   "note": "Counted from the four questions by study-ladder-admindata.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "admin",
+      "stage": "unplaced",
+      "use": "",
+      "source": "",
+      "series": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No statistics from administrative records published, and no work towards them, is on record since October 2023.",
+      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
+      "as_at": "2026-10-19"
+    }
+  ]
 }

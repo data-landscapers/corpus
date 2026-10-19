@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-18-rdc-masina-digitalisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing",
+     "fact": "A joint UN pilot (UNICEF, BCNUDH, UNHCR, UNFPA, funded by the Joint SDG Fund) is digitalising civil registration of births, marriages and deaths in Masina commune, Kinshasa, on DHIS2, with technical support from the national statistics institute (INS), to generate statistics for SDG monitoring; the pilot is described as under way (article published 2025-08-18, no start date given).",
+     "as_of": "2025-08-18", "date_precision": "day",
+     "system": "Masina civil registration digitalisation pilot (DHIS2)", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Masina civil registration digitalisation pilot (DHIS2)", "country_label": "DR Congo", "class": "vital", "platform": "DHIS2", "owner": "UNICEF, BCNUDH, UNHCR, UNFPA with INS and Masina civil registry", "tiers": "commune"}
+  ],
+  "note": ""
+}

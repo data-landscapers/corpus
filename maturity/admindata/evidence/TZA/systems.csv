@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TZA,2024 Updated Statistical Business Register Using Administrative Data,"2024 Updated Statistical Business Register Using Administrative Data, Tanzania",admin,,"National Bureau of Statistics; Office of the Chief Government Statistician, Zanzibar",,2025-10-24-statistical-business-register-administrative-data-2024
 TZA,Crime Statistics Management Information System (CSMIS),CSMIS,other,,Police Force,,2021-12-01-tanzania-statistical-master-plan-phase-two-tsmp-ii
+TZA,Manual for Strengthening and Integrating Administrative Data into National Official Statistics of Tanzania (2024),Tanzania,admin,,NBS; OCGS Zanzibar,national,2024-01-01-nbs-manual-administrative-data-statistics
+TZA,Annual Health Statistical Tables and Figures 2024,Tanzania Mainland,admin,DHIS2,"Ministry of Health, Monitoring and Evaluation Unit",national,2025-09-01-tza-annual-health-statistical-tables-and-figures-2024
+TZA,DHIS2 / HMIS,Tanzania Mainland,,DHIS2,Ministry of Health,facility;council;region;national,2025-09-01-tza-annual-health-statistical-tables-and-figures-2024

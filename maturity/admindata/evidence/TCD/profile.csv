@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,admin,use,coverage,published,2024-04-22,TCD-002,TCD-001=preparing,
-TCD,admin,vital,coverage,,,,,nothing held
+TCD,admin,use,coverage,preparing,2025-10-07,TCD-001,,
+TCD,admin,source,coverage,education;health;justice,2024-04-22,TCD-002,,
 TCD,admin,series,coverage,,,,,nothing held

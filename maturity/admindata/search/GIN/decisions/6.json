@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The INS Annuaire statistique du commerce extérieur 2022, published 2023, draws goods transactions from customs declarations held in the Customs services' SYDONIA system, and states the note is published annually by 31 August of the edition year.",
+ "title": "Annuaire statistique du Commerce Extérieur 2022",
+ "publisher": "Institut National de la Statistique (INS)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

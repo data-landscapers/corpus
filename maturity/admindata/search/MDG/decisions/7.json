@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INSTAT's October 2023 regional study Analyse des statistiques des faits d'état civil de la région Atsimo Atsinanana publishes civil registration statistics, 1,009 births in 2019, 1,066 in 2020, 1,056 in 2021 and 1,019 in 2022 and 130, 169, 126 and 86 deaths, for the Commune urbaine de Farafangana, from declaration forms filled by commune civil registrars.",
+ "title": "Analyse des statistiques des faits d'état civil de la région Atsimo Atsinanana",
+ "publisher": "INSTAT, Secrétariat Général, Ministère de l'Economie et de la Planification",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

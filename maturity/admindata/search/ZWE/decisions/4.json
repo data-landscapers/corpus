@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "ZIMSTAT's 2025 Second Quarter Crime Statistics Report publishes police-recorded crime for April to June 2025 (321,640 offences), drawn on one administrative source, the Zimbabwe Republic Police Crime Report and Disposal System; it is an earlier edition of the quarterly series later continued in 2026 Q1.",
+ "title": "2025 Second Quarter Crime Statistics Report",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

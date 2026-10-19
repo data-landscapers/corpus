@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-01-rwanda-vital-statistics-report-2024",
+  "facts": [
+    {"sub_indicator":"admin","aspect":"source","value":"civil-registration","fact":"NISR published the Rwanda Vital Statistics Report 2024 in April 2025 (figures cover vital events of 2024), generated from the NCI-CRVS civil registration system, with NIDA and the Rwanda Biomedical Centre helping to draft it.","as_of":"2025-04","date_precision":"month","system":"Rwanda Vital Statistics Report 2024","class":"vital"},
+    {"sub_indicator":"admin","aspect":"series","value":"civil-registration","fact":"The report calls itself Rwanda's sixth vital statistics report and the annual vital statistics report, a reference for future publications in the same scope; published April 2025 (covers 2024).","as_of":"2025-04","date_precision":"month","system":"Rwanda Vital Statistics Report 2024","class":"vital"}
+  ],
+  "systems": [
+    {"system":"Rwanda Vital Statistics Report 2024","country_label":"Rwanda Vital Statistics Report 2024","class":"vital","platform":"","owner":"National Institute of Statistics of Rwanda (NISR)","tiers":""},
+    {"system":"NCI-CRVS system","country_label":"National Centralized and Integrated Civil Registration and Vital Statistics system","class":"vital","platform":"","owner":"","tiers":"health facilities, cells, sectors, districts, embassies"}
+  ],
+  "note": ""
+}

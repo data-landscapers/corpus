@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The 2023 edition of the analysis report on the Annuaire statistique d'état civil, written by the Institut National de la Statistique on 2023 data, draws on three administrative sources (civil registration centres including 674 principal centres, health facility reports via DHIS 2, and court returns, plus consular posts since the 2022 edition); the yearbook has been produced since 2014, so this is an earlier edition of the civil registration series that the 2024 edition follows.",
+ "title": "Rapport d'analyse, édition 2023 (Annuaire statistique d'état civil)",
+ "publisher": "Institut National de la Statistique, Ministère de l'Intérieur et de la Sécurité",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

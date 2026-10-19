@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INSTAD Annuaire statistique, édition 2023 (data 2018-2022) publishes statistics drawn from administrative sources: civil registration births, deaths, marriages and divorces (Direction Générale de la Population et de la Famille, Tribunal de Statut Personnel), prison records (Direction de la prison civile), CNSS social security registers, ANEFIP employment service, Ministry of Health facility data, MENFOP school returns, port, airport and road transport records, the Direction du Budget and Direction de la Dette Publique, and the Banque Centrale de Djibouti.",
+ "title": "Annuaire statistique, édition 2023",
+ "publisher": "INSTAD",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

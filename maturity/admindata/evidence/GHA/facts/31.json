@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-gha-2022-statistical-report-death-registration",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration",
+     "fact": "The Births and Deaths Registry published its 2022 Statistical Report: Death Registration, which presents statistics on deaths registered in 2022 drawn from all 261 districts; the preface calls it the inaugural statistical report by the Registry; as_of is the publication date 2024 (copyright 2024), the figures cover 2022.",
+     "as_of": "2024-01-01", "date_precision": "year",
+     "system": "2022 Statistical Report: Death Registration", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "2022 Statistical Report: Death Registration", "country_label": "Ghana", "class": "vital", "platform": "", "owner": "Births and Deaths Registry", "tiers": ""}
+  ],
+  "note": "Passages only (6,642 words); no stated regularity (report called inaugural), so no series fact."
+}

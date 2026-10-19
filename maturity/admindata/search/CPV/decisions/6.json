@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health's Relatório Estatístico 2022 (Praia, July 2024) publishes health statistics from the National Health Service's services (mandatory notifiable diseases by health delegation, coverage, human resources, pharmacy), the 2022 edition of an annual series.",
+ "title": "Relatório Estatístico 2022",
+ "publisher": "Ministério da Saúde de Cabo Verde",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

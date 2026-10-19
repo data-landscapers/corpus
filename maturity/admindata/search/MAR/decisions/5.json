@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Office des Changes annual report on Morocco's foreign trade for 2024 states its goods trade statistics are drawn mainly from customs declarations filed with the Administration des Douanes et Impôts Indirects, supplemented by direct collection from operators; it is the 2024 edition of an annual series (2023 edition also exists).",
+ "title": "Commerce extérieur du Maroc, rapport annuel 2024",
+ "publisher": "Office des Changes",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

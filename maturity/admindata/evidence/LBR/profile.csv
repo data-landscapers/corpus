@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,admin,use,coverage,published,2023-12,LBR-001,,
-LBR,admin,vital,coverage,,,,,nothing held
+LBR,admin,use,coverage,published,2025-01-01,LBR-002,,
+LBR,admin,source,coverage,education;health;police;transport,2023-12,LBR-001,,
 LBR,admin,series,coverage,,,,,nothing held

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Education's 2023/24 Malawi Education Statistics Report (EMIS bulletin) presents primary, secondary and tertiary statistics, such as 5,420,159 primary pupils in 2023/24, drawn from one administrative source, the Annual School Census returns of schools, with 2022/23 comparatives; one edition, covering 2023/24.",
+ "title": "Malawi Education Statistics Report 2023/24",
+ "publisher": "Ministry of Education, Education Management Information System",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

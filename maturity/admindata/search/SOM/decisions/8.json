@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The NSDS II 2024-2029 states the collaboration between SNBS and federal ministries has been cemented by MOUs and letters of agreement for data sharing, and sets as Goal 3 the modernisation of administrative data systems and regular generation of statistics from administrative sources.",
+ "title": "National Strategy for the Development of Statistics (NSDSII) 2024-2029",
+ "publisher": "Somalia National Bureau of Statistics",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

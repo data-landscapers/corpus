@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The National Bureau of Statistics publishes migration statistics for 2024 drawn from the records of the Directorate of Citizenship, Registration and National Passport (917,291 entries), the Commission for Refugee Affairs with UNHCR, the Ministry of Labour (3,479 work permits) and the Relief and Rehabilitation Commission with IOM.",
+ "title": "Migration and Displacement Statistics",
+ "publisher": "National Bureau of Statistics, South Sudan",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

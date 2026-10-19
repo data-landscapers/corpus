@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire statistique 2019-2023, edition 2024 (validated by the INS quality committee on 11 March 2024), publishes statistics for 2019 to 2023 compiled from ministries' administrative records: Ministry of Education and Ministry of Higher Education yearbooks (education), Ministry of Public Health yearbook (health), INS foreign trade bulletin from customs declarations (customs), Ministry of Justice yearbook (justice), Ministry of Transport and Equipment yearbook (transport), Ministry of Agriculture and Livestock reports, and the Ministry of Public Service; it follows editions 2023 and 2022.",
+ "title": "Annuaire statistique 2019-2023, édition 2024",
+ "publisher": "Institut National de la Statistique du Niger",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

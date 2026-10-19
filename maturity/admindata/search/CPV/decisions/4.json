@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The INE's Estatísticas do Comércio Externo - Ano 2024 (published April 2025) states its base data come from the Direção Geral das Alfândegas (DGA) as electronic files resulting from the use of customs administrative acts (Sidónia ++), extracted monthly, so customs trade statistics have two editions (2024, and the 2025 annual summary).",
+ "title": "Estatísticas do Comércio Externo - Ano 2024",
+ "publisher": "Instituto Nacional de Estatística",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

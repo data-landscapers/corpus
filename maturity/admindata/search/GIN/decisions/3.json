@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health's Annuaire des statistiques sanitaires 2024, dated April 2025, publishes 2024 statistics from health facility reports entered on the DHIS2 platform of the national health information system (SNIS), plus eSIGL logistics data and campaign activity reports.",
+ "title": "Annuaire des statistiques sanitaires 2024",
+ "publisher": "Ministère de la Santé et de l'Hygiène Publique, Bureau de Stratégie et de Développement",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

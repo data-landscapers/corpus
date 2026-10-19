@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire statistique national 2023 (INSD, December 2024) compiles statistics from ministry administrative sources: DGESS education ministries (MEBAPLN, MESFPT, MESRSI school returns), health ministry (DGESS/MS health yearbook), MATDS civil registration (births, marriages, deaths by commune), justice (courts and prisons), police and gendarmerie records, transport, and external trade (customs).",
+ "title": "Annuaire statistique national 2023",
+ "publisher": "Institut national de la statistique et de la démographie (INSD)",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

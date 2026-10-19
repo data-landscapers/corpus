@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Namibia Statistics Agency's International Merchandise Trade Statistics Bulletin for April 2026, published June 2026, reports monthly trade (exports N$9.8 billion, imports N$14.2 billion) and says the figures are revised monthly as the data sources supply information; the text names no administrative source (customs declarations are not named), and the Dec 2025 bulletin is a second edition of the same series.",
+ "title": "Namibia International Merchandise Trade Statistics Bulletin April 2026",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-dji-instad-annuaire-statistique-edition-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;justice;social-security;health;education",
+     "fact": "INSTAD's Annuaire statistique 2024 (figures 2019-2023) publishes tables sourced to the Direction Generale de la Population et de la Famille (births and deaths registered in Djibouti-ville), the Tribunal de Statut Personnel (marriages and divorces), the Gabode civil prison, the CNSS (declared employees), the health ministry's DSIS and the education ministry's MENFOP yearbook; the 2024 date is the padded publication date, at year precision, not the figures' year.",
+     "as_of": "2024", "date_precision": "year", "system": "Annuaire statistique 2024", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration;justice;social-security;health;education",
+     "fact": "In the preface to the 2024 edition INSTAD commits to publish the statistical yearbook (and the external trade yearbook) regularly, under the national statistics development strategy, and thanks the institutions that supplied data; the edition's date is its padded publication date, not the figures' year (2019-2023).",
+     "as_of": "2024", "date_precision": "year", "system": "Annuaire statistique 2024", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique 2024", "country_label": "Djibouti", "class": "admin", "platform": "", "owner": "INSTAD", "tiers": ""}
+  ],
+  "note": "Document is an excerpt of about 13,300 words; first 4,000 words and source-lines read, tail of the PDF text not present (ends in the education chapter); customs and transport sources not visible in the text."
+}

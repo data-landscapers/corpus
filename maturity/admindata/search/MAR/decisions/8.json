@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Les indicateurs sociaux du Maroc, Edition 2024 (HCP) states it supplies data from health, education, vocational training and other departments drawn from administrative registers or surveys, with tables sourced to the Ministère de la Justice (marriages and divorces registered) and the Ministère de la Santé et de la Protection sociale.",
+ "title": "Les indicateurs sociaux du Maroc, Edition 2024",
+ "publisher": "Haut-Commissariat au Plan",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

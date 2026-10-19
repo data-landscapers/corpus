@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,admin,use,coverage,published,2025-04,LSO-001;LSO-003,,
-LSO,admin,vital,coverage,published,2025-04,LSO-002;LSO-004,,
-LSO,admin,series,coverage,annual,2025-04,LSO-005,,
+LSO,admin,use,coverage,,,,,nothing held
+LSO,admin,source,coverage,civil-registration;education;customs;police,2025-04,LSO-001;LSO-002;LSO-003;LSO-004,,
+LSO,admin,series,coverage,civil-registration,2025-04,LSO-005,,

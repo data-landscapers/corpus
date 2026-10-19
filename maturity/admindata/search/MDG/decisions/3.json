@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INSTAT's Tableau de bord socio-économique de la région Analanjirofo 2023 (October 2024) publishes regional statistics from commune civil registration (births and deaths 2020-2023, Commune urbaine de Fénérive-Est), tax records (Direction Régionale des Impôts: taxpayers and revenue), school returns (DREN Analanjirofo), health facility data (Direction Régionale de la Santé Publique), prison administration (DRAP) and the INSTAT register of formal establishments.",
+ "title": "Tableau de bord socio-économique de la région Analanjirofo 2023",
+ "publisher": "INSTAT, Direction interrégionale de Toamasina",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

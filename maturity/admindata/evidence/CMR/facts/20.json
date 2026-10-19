@@ -1,0 +1,12 @@
+{
+  "slug": "2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;health", "fact": "The INS report on civil-registration statistics 2018-2022, published August 2023 (the dates 2018-2022 are the years its figures cover), draws on civil-registration centre records for 2018 and on health-information (DHIS2) data for 2018-2022, alongside the 2018 demographic and health survey.", "as_of": "2023-08", "date_precision": "month", "system": "Rapport sur les statistiques de l'état civil au Cameroun (2018-2022), first edition", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The INS, with BUNEC and the Ministry of Public Health, published the first edition of the report on civil-registration statistics in August 2023, covering 2018-2022; many key tables are left partly or wholly empty for lack of data.", "as_of": "2023-08", "date_precision": "month", "system": "Rapport sur les statistiques de l'état civil au Cameroun (2018-2022), first edition", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Rapport sur les statistiques de l'état civil au Cameroun (2018-2022)", "country_label": "Cameroon", "class": "vital", "platform": "", "owner": "INS with BUNEC and MINSANTE", "tiers": ""},
+    {"system": "DHIS2", "country_label": "Cameroon", "class": "other", "platform": "DHIS2", "owner": "MINSANTE", "tiers": ""}
+  ],
+  "note": "Passages file (9,500 words) read through its opening and body; first edition, so no series fact; the report says annual production is recommended but not yet possible."
+}

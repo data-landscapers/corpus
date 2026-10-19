@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The ANSD Bulletin mensuel des statistiques économiques et financières of December 2024 publishes foreign trade (2024 exports 3,909,058 million FCFA, imports 7,161,394 million FCFA), budget revenue and electricity sales statistics, with sources named as ANSD, BCEAO, SENELEC, DGPPE/DPEE, AIBD and PAD (airport and port records).",
+ "title": "Bulletin mensuel des statistiques économiques et financières de décembre 2024",
+ "publisher": "Agence nationale de la Statistique et de la Démographie (ANSD)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

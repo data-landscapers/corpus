@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "LISGIS's Socioeconomic Statistical Bulletin Vol. 4 No. 01 (December 2023), compiled from administrative data of ministries, agencies and commissions under the World Bank HISWA Administrative Data Project, draws on Ministry of Education Annual School Census 2019/2020 returns, the Ministry of Health Health Information System, Ministry of Transport records, Liberia National Police Crime Statistics report and Ministry of Agriculture data.",
+ "title": "Socioeconomic Statistical Bulletin of Liberia, Vol. 4 No. 01",
+ "publisher": "Liberia Institute of Statistics and Geo-Information Services (LISGIS)",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

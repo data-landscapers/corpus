@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-education-management-information-system-emis",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "The Ministry of Education's EMIS page lists the EMIS Annual Education Census reports for 2019 to 2023 and the 15th School Day Report 2024, built from data the education regions collect from all state and private schools; page dated 2024-01-01, figures cover 2022 to January 2024.", "as_of": "2024-01-01", "date_precision": "day", "system": "EMIS Annual Education Census 2023", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "education", "fact": "The page states the education regions collect data twice a year from all schools and publish two reports, the Fifteenth School Day Report and the Annual Education Census, with annual census editions listed for 2019 to 2023; page dated 2024-01-01.", "as_of": "2024-01-01", "date_precision": "day", "system": "EMIS Annual Education Census 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "Namibia", "class": "admin", "platform": "", "owner": "Ministry of Education, Arts and Culture", "tiers": ""}
+  ],
+  "note": ""
+}

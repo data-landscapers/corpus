@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,admin,use,coverage,published,2025-12,SSD-001;SSD-002,,
-SSD,admin,vital,coverage,,,,,nothing held
+SSD,admin,use,coverage,,,,,nothing held
+SSD,admin,source,coverage,education;health,2025-12,SSD-001;SSD-002;SSD-003,,
 SSD,admin,series,coverage,,,,,nothing held

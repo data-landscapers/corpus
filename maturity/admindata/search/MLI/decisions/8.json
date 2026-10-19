@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "INSTAT's Annuaire statistique du Mali 2023, issued July 2025, publishes statistics compiled from ministry records: health facility reports (Annuaire SNISS 2019-2023), justice and prison records (CPS/SJ activity reports, CPS/SCJ), social services (SISo), livestock (DNPIA) and forests (DGEF) and gendarmerie road-accident counts; the 2024 edition followed in April 2026.",
+ "title": "Annuaire statistique du Mali 2023",
+ "publisher": "Institut National de la Statistique (INSTAT)",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

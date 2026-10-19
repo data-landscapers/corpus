@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health's Vital Statistics Report 2023, validated at a meeting on 20 February 2024, reports 2023 births and deaths drawn from the Department of Civil Status register, cross-checked with Seychelles Hospital ward, maternity and mortuary records, Praslin and La Digue hospitals and primary healthcare centres, with National Bureau of Statistics and Civil Status staff as contributors.",
+ "title": "Vital Statistics Report 2023",
+ "publisher": "Ministry of Health, Seychelles",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

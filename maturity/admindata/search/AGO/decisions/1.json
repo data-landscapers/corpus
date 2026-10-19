@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Anuário Estatístico Sanitário 2023 (MINSA)",
+ "publisher": "INE Angola / MINSA",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": "Already held in raw/ (not fetched)."
+}

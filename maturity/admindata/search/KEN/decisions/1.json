@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Statistical Abstract 2025, published by KNBS in 2025 (the 2025 edition of an annual series), compiles tables on 2015-2024 partly from other bodies' administrative records, cited by table as Civil Registration Services (registered births and deaths, completeness), KRA Customs and Border Control Department, Kenya Revenue Authority, National Police Service, Ministry of Education, Kenya Health Master Facility List, the Judiciary, Kenya Prison Service, Directorate of Immigration Services and National Treasury/IFMIS, and states that data from administrative sources are verified through sectoral Technical Working Groups.",
+ "title": "Statistical Abstract 2025",
+ "publisher": "Kenya National Bureau of Statistics",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

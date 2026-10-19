@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Morocco in Figures 2025 (HCP) tabulates administrative statistics from the Ministry of National Education, Preschool and Sports and Ministry of Higher Education (pupils and students 2023-2024), the Ministry of Health and Social Protection (physicians, 2024), the Ministry of Interior (administrative organisation, legal population base), the Ministry of Transport and Logistics (National Road Safety Agency) and the Ministry of Tourism.",
+ "title": "Morocco in Figures 2025",
+ "publisher": "Haut-Commissariat au Plan",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

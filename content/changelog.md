@@ -2,6 +2,7 @@
 
 - On the Maturity Assessment map, a country with no evidence is now left white and outlined, and grey means only unplaced: evidence held that meets no rung. The legend shows the two separately.
 - The map's Changes in the past six months box now counts only stage changes recorded from 20 October 2026. Everything earlier was the initial assessment filled in, not change.
+- Statistics from administrative data has new stages 4 and 5: statistics from one administrative source published twice in three years, and from three sources published twice. Vital statistics no longer set a rung; 29 countries changed stage, and one is now at stage 5 and 23 at stage 4.
 
 ## 18 October 2026
 

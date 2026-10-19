@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Gender, Labour and Social Development's Statistical Abstract 2023/2024, an annual publication released in 2025 (figures to September 2024), is compiled from the ministry's departmental administrative records (its directorates, programmes, projects and local governments, the Alternative Care Management Information System, the National Gender Based Violence Database, and Parliament, Electoral Commission and Equal Opportunities Commission statistics), quoting the Uganda Police annual crime report.",
+ "title": "Statistical Abstract 2023/2024",
+ "publisher": "Ministry of Gender, Labour and Social Development, Republic of Uganda",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

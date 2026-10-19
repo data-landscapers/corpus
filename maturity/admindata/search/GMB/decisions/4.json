@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "GBoS published the International Merchandise Trade Statistics Report for the Fourth Quarter 2024 in February 2025, compiled from monthly customs data extracted from the Gambia Revenue Authority ASYCUDA World database, as one of a quarterly series comparing Q4 2023 with Q4 2024.",
+ "title": "International Merchandise Trade Statistics Report, Fourth Quarter 2024",
+ "publisher": "Gambia Bureau of Statistics, Directorate of Economic Statistics",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

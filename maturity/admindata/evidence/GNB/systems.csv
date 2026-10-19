@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GNB,Civil registration (civil registry offices),Registo civil,other,,Ministry of Justice and Human Rights,,2025-08-08-unfpa-guinea-bissau-civil-registry-statistics-training
+GNB,Anuário Estatísticas Vitais da Guiné-Bissau 2018-2022,Guinea-Bissau,vital,,Instituto Nacional de Estatísticas,,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
+GNB,RapidPro,Guinea-Bissau,,RapidPro,,,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
+GNB,DHIS2,Guinea-Bissau,,DHIS2,Ministry of Health,,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022

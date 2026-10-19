@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "A World Bank-financed administrative-data inventory for the Government of The Gambia covered the Ministries of Health, Basic Education and Higher Education in 2024 and Public Service, Fisheries & Water Resources and Gender, Children & Social Welfare in 2025, producing a data governance policy and data exchange specifications.",
+ "title": "Government Data Assessment & Inventory",
+ "publisher": "2M Corp",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

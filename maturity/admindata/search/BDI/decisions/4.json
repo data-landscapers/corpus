@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Annuaire statistique de l'éducation, édition 2024-2025, Tome 1 (preschool and basic education), published by the Education Ministry's planning and statistics bureau (BPSE) in December 2025, reports data from the annual school census as at 15 November 2024 (schools, pupils and teachers), generated with StatEduc2; the 2022-2023 edition appeared in December 2023.",
+ "title": "Annuaire statistique de l'éducation, édition 2024-2025, Tome 1",
+ "publisher": "Ministère de l'Education Nationale et de la Recherche Scientifique, Bureau de la Planification et des Statistiques de l'Éducation",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The 2025 Health Statistics Abstract, the first edition (covering 2021 to 2024, with 2025 service delivery indicators), publishes statistics drawn from the Ministry of Health's routine health information system (DHIS2, health facility reports) and states that the National Bureau of Statistics compiled it with the Ministry from administrative systems, surveys and modelled estimates.",
+ "title": "2025 Health Statistics Abstract",
+ "publisher": "Ministry of Health, Republic of South Sudan (with the National Bureau of Statistics)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

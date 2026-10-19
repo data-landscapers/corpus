@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics South Africa published Recorded live births 2024 (P0305) on 30 October 2025, based on birth registration data from the Department of Home Affairs (direct-connect transaction files and SITA printouts), recording 863 858 births registered in 2024 against 932 138 in 2023.",
+ "title": "Recorded live births, 2024, Statistical release P0305",
+ "publisher": "Statistics South Africa",
+ "published": "2025-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-25-zimbabwe-nsds-iii-2021-2025",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "ZIMSTAT's NSDS III reports that statistical products were produced from administrative records and civil and vital registration during the NSDS II period (2016-2020); no product is named. As_of is the end of that period; the document was published 2024-01-25.", "as_of": "2020", "date_precision": "year", "system": "Statistical products from administrative records (NSDS II period)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "NSDS III states that statistical products of the NSDS II period (2016-2020) were drawn from civil and vital registration, among administrative records; as_of is the end of that period, the document was published 2024-01-25.", "as_of": "2020", "date_precision": "year", "system": "Statistical products from administrative records (NSDS II period)", "class": "vital"}
+  ],
+  "systems": [],
+  "note": "A strategy, not a statistical product: it names no yearbook, abstract or report, and gives no edition or regular schedule; its plans to strengthen administrative records are intent, not a dated event."
+}

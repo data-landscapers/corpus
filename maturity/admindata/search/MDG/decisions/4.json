@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Direction générale des douanes malagasy publishes monthly customs statistics, 'Importation et exonération de droits et taxes depuis 2015', in editions from January to December 2025 (customs declarations); the page gives no byline date, so the year is inferred from the latest edition (December 2025).",
+ "title": "Importation et exonération de droits et taxes 2025",
+ "publisher": "Direction générale des douanes malagasy",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INS Adamaoua regional agency published the Annuaire statistique de la région de l'Adamaoua, édition 2024, in February 2025, drawing on BUNEC regional agency civil registration data (2024), the DREDUB and MINESEC regional school mapping services (2024), the regional public health delegation DRSP (2024), DRADER agriculture, DRTSS labour and social security, Campost, DRFOF, DREFOP, DRMINJEC youth and TRANSTAT transport records, and the Tribunal Administratif and other justice chapters.",
+ "title": "Annuaire statistique de la région de l'Adamaoua, édition 2024",
+ "publisher": "Institut National de la Statistique du Cameroun",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

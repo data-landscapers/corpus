@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.statssa.gov.za/publications/P0307/P03072024.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/1.txt,14842,pdf,Statistical release
+2,https://www.statssa.gov.za/publications/P03093/P030932023.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/2.txt,27155,pdf,
+3,https://www.statssa.gov.za/publications/P03093/P030932022.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/3.txt,26682,pdf,
+4,https://www.statssa.gov.za/publications/P0305/P03052024.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/4.txt,10855,pdf,
+5,https://www.statssa.gov.za/publications/P0305/P03052023.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/5.txt,10952,pdf,
+6,https://www.sars.gov.za/about/sars-tax-and-customs-system/tax-statistics/,fetched,,scripts/.workroot/study/admindata/cache/ZAF/6.txt,61,html,Tax Statistics | South African Revenue Service
+7,https://www.sars.gov.za/customs-and-excise/trade-statistics/reports/,fetched,,scripts/.workroot/study/admindata/cache/ZAF/7.txt,594,html,Reports | South African Revenue Service
+8,https://www.education.gov.za/Programmes/EMIS/StatisticalPublications.aspx,fetched,,scripts/.workroot/study/admindata/cache/ZAF/8.txt,212,html,Success by Numbers

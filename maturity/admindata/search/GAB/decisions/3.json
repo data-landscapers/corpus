@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Health's Annuaire statistique 2022 (health information system) was produced with a data completeness rate of 63 percent, with WHO support in 2023; a strategic plan for the health information system 2024-2028 and DHIS2 rollout from 2024 were validated.",
+ "title": "Rapport Annuel 2023 OMS Gabon",
+ "publisher": "OMS Gabon",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

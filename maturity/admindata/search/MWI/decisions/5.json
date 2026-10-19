@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The NSO Statistical Yearbook 2023, its fortieth edition, publishes statistics drawn from administrative sources: Ministry of Health HMIS data for July 2020 to June 2023, Ministry of Education EMIS school returns, Directorate of Road Traffic and Safety Services road safety database, Ministry of Finance public finance records, and external trade statistics, among others.",
+ "title": "Statistical Yearbook 2023",
+ "publisher": "National Statistical Office",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

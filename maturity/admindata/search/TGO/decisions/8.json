@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "On 6-8 December 2023 INSEED hosted a six-country study visit on its use of extra-customs data to compile external trade statistics, presenting Togo as a model; the trade statistics draw on customs administrative data (customs source).",
+ "title": "L'INSEED a accueilli un voyage d'étude de six pays sur l'exploitation des données extra douanières dans le cadre de l'élaboration des statistiques du commerce extérieur",
+ "publisher": "INSEED",
+ "published": "2023-12-09",
+ "date_source": "source",
+ "why_not": ""
+}

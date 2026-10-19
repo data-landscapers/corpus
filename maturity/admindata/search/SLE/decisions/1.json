@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The National Civil Registration Authority published its Provisional Annual Report on Vital Events for the year ending 31 December 2025, statistics from one administrative source, civil registration (births, deaths, marriages, divorces, adoptions), reported 31 December 2025.",
+ "title": "NCRA Releases Provisional Vital Statistics For 2025",
+ "publisher": "Sierra Leone Monitor",
+ "published": "2025-12-31",
+ "date_source": "source",
+ "why_not": ""
+}

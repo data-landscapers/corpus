@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-10-rwa-annual-health-statistical-booklet-fiscal-year-2023-2024",
+  "facts": [
+    {"sub_indicator":"admin","aspect":"source","value":"health;civil-registration","fact":"The Ministry of Health published the Annual Health Statistical Booklet for FY 2023-2024 on 10 October 2025 (figures cover FY 2023/24), derived from the Rwanda Health Management Information System (facility registers, EMRs, community health worker data) and the CRVS system including verbal autopsies.","as_of":"2025-10-10","date_precision":"day","system":"Annual Health Statistical Booklet FY 2023-2024","class":"admin"}
+  ],
+  "systems": [
+    {"system":"Annual Health Statistical Booklet FY 2023-2024","country_label":"Annual Health Statistical Booklet Fiscal Year 2023-2024","class":"admin","platform":"","owner":"Ministry of Health","tiers":""},
+    {"system":"Rwanda Health Management Information System (R-HMIS)","country_label":"Rwanda Health Management Information System","class":"admin","platform":"","owner":"Ministry of Health","tiers":""},
+    {"system":"CRVS system","country_label":"Civil Registration and Vital Statistics system","class":"vital","platform":"","owner":"","tiers":""}
+  ],
+  "note": "The text names the booklet 'Annual' but gives no dated statement of regular publication, so no series fact."
+}

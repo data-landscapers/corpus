@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Education EMIS site publishes statistics from school returns (Annual School Census) for academic year 2024-2025 (1,274,610 enrolled students, 6,394 schools, 64,785 staff) and lists Annual School Census Reports 2024-2025, 2021-2022 and 2020-2021.",
+ "title": "Liberia EMIS - Education Management Information System",
+ "publisher": "Ministry of Education",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

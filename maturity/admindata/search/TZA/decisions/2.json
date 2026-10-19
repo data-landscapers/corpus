@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Zanzibar Statistical Abstract 2025, published by OCGS in May 2026, states it is the prime annual publication derived from censuses, surveys and administrative records of ministries, departments, agencies and local government authorities, and draws on the Education Statistical Abstract 2021-2025 (education), the Ministry of Health HMIS (health), civil registration births, marriages, divorces and deaths 2021-2025 (civil registration), Zanzibar Revenue Authority and Tanzania Revenue Authority records (tax and customs), the Zanzibar Examination Council and police case records.",
+ "title": "Zanzibar Statistical Abstract 2025",
+ "publisher": "Office of the Chief Government Statistician, Zanzibar",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

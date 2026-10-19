@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics South Africa published Marriages and Divorces 2024 (P0307) on 19 March 2026, compiled from two administrative sources: Department of Home Affairs marriage registration records (forms DHA-30, DHA-31, DHA-32, National Population Register) and divorce forms from the courts of the Department of Justice and Constitutional Development and Office of the Chief Justice (Stats SA divorce form 07-04); it is the annual series, the 2023 edition being the previous one.",
+ "title": "Marriages and Divorces 2024, Statistical release P0307",
+ "publisher": "Statistics South Africa",
+ "published": "2026-03-19",
+ "date_source": "source",
+ "why_not": ""
+}

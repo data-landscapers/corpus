@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Annuaire statistique 2022 (14th edition, December 2023) publishes 2017-2022 tables drawn from administrative sources: school returns (MEMP annuaires statistiques, MESTFP annuaires statistiques, SIPAGeS), health facility reports (MS/DPAF annuaires des statistiques sanitaires 2013-2022), public service records (DPAF/MTFP 2022, MSFTP), road transport records (MIT/CNSR), utility records (SBEE, SONEB, ANAEP-MR) and METEO-BENIN, alongside INStaD surveys and price data.",
+ "title": "Annuaire statistique 2022",
+ "publisher": "Institut National de la Statistique et de la Démographie (INStaD)",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

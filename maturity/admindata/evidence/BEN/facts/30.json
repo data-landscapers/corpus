@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-01-ben-instad-annuaire-statistiques-etat-civil-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration",
+     "fact": "INStaD published its yearbook of civil-status statistics for 2024 (births, marriages, deaths for all 77 communes, e.g. 468,570 births registered, 3,228 marriages, 9,707 deaths), compiled from the civil-registration database of ANIP; the figures cover 2024 and the yearbook is dated November 2025.",
+     "as_of": "2025-11", "date_precision": "month", "system": "Annuaire des statistiques des faits d'état civil au Bénin (2024)", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration",
+     "fact": "INStaD states it schedules a yearbook of civil-status statistics in its work plan every year, and that since 2023 its data come from the ANIP database; this 2024 edition is dated November 2025.",
+     "as_of": "2025-11", "date_precision": "month", "system": "Annuaire des statistiques des faits d'état civil au Bénin (2024)", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Annuaire des statistiques des faits d'état civil au Bénin (2024)", "country_label": "Benin", "class": "vital", "platform": "ANIP digital civil-status platform", "owner": "INStaD", "tiers": "national"}
+  ],
+  "note": ""
+}

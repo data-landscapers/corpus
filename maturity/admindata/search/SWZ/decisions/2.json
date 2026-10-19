@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The National General Education Progress Report 2024 presents Annual Education Census 2024 statistics (665 primary and 314 secondary institutions, 225,427 primary and 120,947 secondary enrolments) drawn from two administrative sources: school returns collected through the Ministry of Education and Training's DHIS2 EMIS, and Examinations Council of Eswatini examination records, with Ministry of Finance and CSO databases also used and MICS as a survey source; it compares 2022 to 2024.",
+ "title": "The National General Education Progress Report 2024",
+ "publisher": "Ministry of Education and Training, Kingdom of Eswatini",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

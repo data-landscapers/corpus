@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INE published the Anuário de Estatísticas Sociais 2017-2022 in 2024, drawn from administrative data across demography, education, health, employment, culture, gender, social action, energy and water, and states administrative coverage is still deficient nationally.",
+ "title": "Anuário de Estatísticas Sociais 2017 - 2022",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics South Africa published Mortality and causes of death in South Africa: Findings from death notification, 2023 (P0309.3) on 25 March 2026, based on the Department of Home Affairs civil registration death notification forms (BI-1663 and DHA-1663), with trends for 2002-2022.",
+ "title": "Mortality and causes of death in South Africa: Findings from death notification, 2023",
+ "publisher": "Statistics South Africa",
+ "published": "2026-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

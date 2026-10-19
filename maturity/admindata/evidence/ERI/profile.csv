@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ERI,admin,use,coverage,preparing,2007-01,ERI-001,,nothing dated since 2023-09-28
-ERI,admin,vital,coverage,,,,,nothing held
-ERI,admin,series,coverage,,,,,nothing held
+ERI,admin,use,coverage,preparing,2022,ERI-001;ERI-006,,nothing dated since 2023-10-19
+ERI,admin,source,coverage,education,2024-12,ERI-002,ERI-004=health,
+ERI,admin,series,coverage,education,2024-12,ERI-003,ERI-005=health,

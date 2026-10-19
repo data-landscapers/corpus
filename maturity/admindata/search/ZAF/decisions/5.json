@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics South Africa published Recorded live births 2023 (P0305) on 12 September 2024, based on Department of Home Affairs birth registration records for 1 January 2023 to 29 February 2024, the edition before the 2024 one of 30 October 2025.",
+ "title": "Recorded live births, 2023, Statistical release P0305",
+ "publisher": "Statistics South Africa",
+ "published": "2024-09-12",
+ "date_source": "source",
+ "why_not": ""
+}

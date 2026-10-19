@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.undp.org/sites/g/files/zskgke326/files/2025-08/undp_annual_report_2024.pdf,held,held as raw/2025/2025-01-01-undp-guinea-bissau-annual-report-2024.md,,0,,
+2,https://www.inasa.gw/anuario-estatistico-2022/,fetched,,scripts/.workroot/study/admindata/cache/GNB/2.txt,182,html,Anuário estatístico de 2022 - Instituto Nacional Saúde Pública - INASA
+3,https://www.afro.who.int/pt/countries/guinea-bissau/publication/segundo-anuario-estatistico-de-saude-da-guine-bissau,fetched,,scripts/.workroot/study/admindata/cache/GNB/3.txt,183,html,Segundo Anuário Estatístico de Saúde da Guiné-Bissau
+4,https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/projecoes/Anuario%20Final_de_Estatisticas_Vitais.pdf,held,held as raw/2022/2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022.md,,0,,
+5,https://www.stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/Regulamento%20e%20Estatuto%20Organico/RELATORIO_ANUAL_INE/INEGB-Relat%C3%B3rio_Anual_Atividades_2023_%20FINAL.pdf,fetched,,scripts/.workroot/study/admindata/cache/GNB/5.txt,5278,pdf,
+6,https://www.stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/IHPC/2023/Plano%20estrategico%202023-2028.pdf,fetched,,scripts/.workroot/study/admindata/cache/GNB/6.txt,2612,pdf,Microsoft Word - INEGB-Projeto de Plano Estratégico 2023-2020  para o Desenvolvimento do Sistema Estatístico Nacional da Guiné-Bissau (1)
+7,https://evaluationreports.unicef.org/GetDocument?documentID=18872&fileID=49018,fetched,,scripts/.workroot/study/admindata/cache/GNB/7.txt,80769,pdf,
+8,https://www.ipps.iscte-iul.pt/en/planning-and-evaluation/international/technical-consultancy-in-education-statistics-guinea-bissau,fetched,,scripts/.workroot/study/admindata/cache/GNB/8.txt,222,html,Technical Consultancy in Education Statistics (Guinea Bissau)

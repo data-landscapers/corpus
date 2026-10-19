@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The ANSD Situation économique et sociale de la région de Sédhiou, edition 2023/2024 (December 2025), publishes statistics drawn from regional administrative records: Ministère de la Justice (2023 and 2024), Inspection régionale du Travail et de la Sécurité sociale (2024), Inspection régionale des Eaux et Forêts (2024), Direction régionale du Développement rural (2024), Division régionale de l'urbanisme et de l'habitat (2024), Sen'Eau and the Service régional de l'assainissement.",
+ "title": "Situation Economique et Sociale de la région de Sédhiou, Ed. 2023/2024",
+ "publisher": "Agence Nationale de la Statistique et de la Démographie (ANSD)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

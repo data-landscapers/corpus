@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Vital Statistics",
+ "publisher": "National Civil Registration Authority",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Page only links the 2023 and 2022 reports; states no dated fact and carries no date."
+}

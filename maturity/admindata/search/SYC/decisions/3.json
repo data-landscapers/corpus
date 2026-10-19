@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health's Primary Healthcare Services Annual Statistical Report 2024 presents 2024 statistics compiled by its Statistics Unit from data submitted by public primary healthcare facilities and specialised clinics and units (health facility reports), with tables running 2015 to 2024 and a 2023 edition also issued.",
+ "title": "Primary Healthcare Services Annual Statistical Report 2024",
+ "publisher": "Ministry of Health, Seychelles",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

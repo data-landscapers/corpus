@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf,held,held as raw/2026/2026-03-01-liberia-national-data-governance-policy.md,,0,,
+2,https://www.emis-moe-lib.org/,fetched,,scripts/.workroot/study/admindata/cache/LBR/2.txt,287,html,Liberia's EducationData Hub
+3,https://moh.gov.lr/wp-content/uploads/Ministry-of-Health-Annual-Report.pdf,held,held as raw/2025/2025-01-01-liberia-moh-annual-health-service-performance-report-2024.md,,0,,
+4,https://lnp.gov.lr/statistics,fetched,,scripts/.workroot/study/admindata/cache/LBR/4.txt,9,html,Liberia National Police Website
+5,https://revenue.lra.gov.lr/wp-content/uploads/2024/06/LRA-2023-ANNUAL-REPORT-June-30-2024.pdf,held,held as raw/2024/2024-06-30-lra-2023-annual-report.md,,0,,
+6,https://lisgis.gov.lr/statisticalbulletine/socialstatisticsBulletin2023.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBR/6.txt,16835,pdf,
+7,http://www.moe.gov.lr/wp-content/uploads/2019/09/Final-EMIS_Education_Statistics_2022-4.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBR/7.txt,175503,pdf,
+8,https://au.int/sites/default/files/pressreleases/45348-pr-PR-_Liberia_Launches_Roadmap_for_Strengthened_and_Modernized_Education_Data_Systems.pdf,fetched,,scripts/.workroot/study/admindata/cache/LBR/8.txt,724,pdf,PR- Liberia Launches Roadmap for Strengthened and Modernized Education Data Systems

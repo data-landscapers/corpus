@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health's Annuaire des statistiques sanitaires 2023, dated 6 May 2024, presents national health statistics from the routine data collection system run through the levels of the health system, supplemented by the census, health map, health accounts and MICS.",
+ "title": "Annuaire des statistiques sanitaires 2023",
+ "publisher": "Ministère de la Santé (Mauritanie)",
+ "published": "2024-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

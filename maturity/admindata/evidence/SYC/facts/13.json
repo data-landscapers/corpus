@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-01-syc-annual-vital-statistics-report-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration;health",
+     "fact": "The Ministry of Health published its Annual Vital Statistics Report 2024 in March 2025 (figures cover 2024), drawing on Department of Civil Status registrations (1,333 live births, 850 deaths, named as the primary source and legal authority) cross-verified with hospital, maternity, mortuary and Statistics Unit records.",
+     "as_of": "2025-03", "date_precision": "month", "system": "Annual Vital Statistics Report 2024", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "civil-registration;health",
+     "fact": "The report is titled as an annual vital statistics report and carries registered births and deaths series for 2015-2024 from the Department of Civil Status and the MOH Statistics Unit, published March 2025 (figures cover 2024); it does not itself state an edition number.",
+     "as_of": "2025-03", "date_precision": "month", "system": "Annual Vital Statistics Report 2024", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Annual Vital Statistics Report 2024", "country_label": "Seychelles", "class": "vital", "platform": "", "owner": "Ministry of Health (Statistics Unit)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Annuaire statistique du Burundi, édition 2024, published by INSBU in August 2026 in 21 chapters, compiles tables sourced from administrative records of the health ministry (MSPLS Annuaire des statistiques sanitaires), the Ministry of the Interior and public security (police and interior sector yearbook), judicial statistics (Annuaire des statistiques judiciaires), social security (INSS) and pensions (ONPR) records, school statistics (Annuaire statistique scolaire), the foreign trade bulletin, the environment, agriculture, energy and mines ministry yearbooks, the Régie Nationale des Postes, ONATEL and the central bank (BRB); the preceding edition 2023 was published in December 2024.",
+ "title": "Annuaire statistique du Burundi, édition 2024",
+ "publisher": "Institut National de la Statistique du Burundi (INSBU)",
+ "published": "2026-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,admin,use,coverage,published,2026-08,BWA-001,BWA-003=preparing,
-BWA,admin,vital,coverage,published,2026-08,BWA-002,,
+BWA,admin,use,coverage,preparing,2024-03,BWA-003,,
+BWA,admin,source,coverage,civil-registration,2026-08,BWA-001;BWA-002,,
 BWA,admin,series,coverage,,,,,nothing held

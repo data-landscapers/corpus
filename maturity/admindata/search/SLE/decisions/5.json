@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The 2023 and 2024 Annual Schools Censuses Draft Report (EMIS, August 2024) publishes education statistics from one administrative source, the Annual School Census returns of 13,033 schools, covering the 2022/23 and 2023/24 school years in one edition.",
+ "title": "2023 and 2024 Annual Schools Censuses Draft Report",
+ "publisher": "Government of Sierra Leone, Ministry of Basic and Senior Secondary Education, EMIS",
+ "published": "2024-08",
+ "date_source": "source",
+ "why_not": ""
+}

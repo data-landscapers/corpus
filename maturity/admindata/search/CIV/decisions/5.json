@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Statistiques scolaires de poche 2023-2024 publish pupil, school and teacher counts for school year 2023-2024 (with 2019-2020 to 2023-2024 series, so the 2022-2023 and earlier pocket editions are its predecessors), drawn from the school returns (questionnaires entered on the STATMEN 2.0 platform by DRENA, IEPP and schools) of the Ministry of National Education, collected December 2023 to March 2024 with deliverables completed by end of August 2024.",
+ "title": "Statistiques scolaires de poche 2023-2024",
+ "publisher": "Ministère de l'Education Nationale et de l'Alphabétisation, DESPS",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

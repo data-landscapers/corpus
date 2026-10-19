@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Annuaire statistique de l'éducation nationale 2023-2024, edition 2025, publishes statistics from the 2023-2024 school census of pre-schools, primary, secondary, vocational and literacy centres, with examination results from DECCS and OBEECS; the Ministry of Education also lists yearbooks for 2019-2020 to 2024-2025.",
+ "title": "Statistiques de l'éducation nationale, de l'enseignement professionnel et de l'alphabétisation, Annuaire 2023-2024",
+ "publisher": "Ministère de l'Education Nationale, de l'Alphabétisation, de l'Enseignement Professionnel et de la Promotion des Langues Nationales (Niger)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

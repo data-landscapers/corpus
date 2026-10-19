@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The December 2024 Quarterly Statistical Bulletin of SNBS, on trade, inflation, exchange rates and remittance, says it analyses data collected through administrative sources supplemented by surveys and rests on estimates from government agencies; it names no source for trade and cites the Central Bank of Somalia for its tables.",
+ "title": "Quarterly Statistical Bulletin December 2024",
+ "publisher": "Somalia National Bureau of Statistics",
+ "published": "2024-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

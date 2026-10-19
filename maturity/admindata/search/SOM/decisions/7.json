@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Attorney General's Office annual report 2024 (Warbixin Sannadeedka 2024, a regular annual report; a 2021 one also exists) publishes statistics from its own case records: 4,375 files registered in 2024 across federal and member state offices, 2,917 of them at the national office, with 4,908 accused by type of crime for 2023-2024, drawing on prosecution records and police referrals.",
+ "title": "WARBIXIN SANNADEEDKA 2024",
+ "publisher": "Xafiiska Xeer Ilaaliyaha Guud ee Qaranka",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

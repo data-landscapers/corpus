@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Trends with Deaths by Cause in South Sudan (2019-2024)",
+ "publisher": "National Bureau of Statistics, South Sudan",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Modelled mortality estimates from GBD and demographic projections, stated to be made in the absence of civil registration; not statistics drawn from an administrative source."
+}

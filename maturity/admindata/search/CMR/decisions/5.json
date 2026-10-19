@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The INS published on 6 June 2024 the first edition of the Statistical Yearbook of the Education and Training Sector in Cameroon, 2021-2022, of education administrative data disaggregated by region down to district level, with more data on the online EMIS platform.",
+ "title": "Statistical Yearbook of the Education and Training Sector in Cameroon 2021-2022",
+ "publisher": "Institut National de la Statistique du Cameroun",
+ "published": "2024-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

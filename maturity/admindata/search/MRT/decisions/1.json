@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The August 2024 African Union peer review of Mauritania's national statistical system states that ANSADE uses administrative data to produce statistics, namely State budget execution data, tax declarations to the tax administration and customs declarations of imports and exports, with the tax administration reluctant to share some declarations.",
+ "title": "MAURITANIE - Rapport de la Revue par les Pairs du système statistique national",
+ "publisher": "Union Africaine (Programme statistique panafricain), financé par l'Union européenne",
+ "published": "2024-08",
+ "date_source": "source",
+ "why_not": ""
+}

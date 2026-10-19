@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Namibia Statistics Agency's International Merchandise Trade Statistics Bulletin for December 2025 reports exports of N$10.7 billion and imports of N$11.1 billion and notes monthly revision as the data sources supply information; the text names no administrative source (customs declarations are not named), and it is an earlier edition of the series continued by April 2026.",
+ "title": "Namibia International Merchandise Trade Statistics Bulletin December 2025",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

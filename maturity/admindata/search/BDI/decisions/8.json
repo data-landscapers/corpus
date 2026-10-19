@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Annuaire des statistiques scolaires 2022/2023, Tome 1, published by the Education Ministry's planning and statistics bureau (BPSE) in December 2023, reports the annual school census as at 15 November 2022 (school returns), generated with StatEduc2; it is the edition before 2024-2025.",
+ "title": "Annuaire des statistiques scolaires 2022/2023, Tome 1",
+ "publisher": "Ministère de l'Education Nationale et de la Recherche Scientifique, Bureau de la Planification et des Statistiques de l'Éducation",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

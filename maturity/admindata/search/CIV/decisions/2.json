@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The analysis report of the 2024 civil registration yearbook, written by the Agence Nationale de la Statistique, analyses births, adoptions, marriages, divorces and deaths for 2024 from the same three administrative sources as the yearbook (civil registration centres at home and abroad, public health facility reports, court returns); it is a second product from the civil registration records, not a new source.",
+ "title": "Rapport d'analyse de l'annuaire statistique d'état civil 2024",
+ "publisher": "Agence Nationale de la Statistique (ANStat), Ministère de l'Intérieur et de la Sécurité",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

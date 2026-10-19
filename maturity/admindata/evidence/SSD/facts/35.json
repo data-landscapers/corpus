@@ -1,0 +1,11 @@
+{
+ "slug": "2023-01-01-mogei-national-education-census-report-2023",
+ "facts": [
+  {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "The Ministry of General Education and Instruction's National Education Census Report 2023, drawn from the Annual Education Census of schools (enrolment, teachers, facilities) under its Education Management Information System, was published with data kept in a web-based repository; date is the document's published date (2023-01-01, a proxy), not the year its figures cover.", "as_of": "2023", "date_precision": "year", "system": "National Education Census Report 2023", "class": "admin"},
+  {"sub_indicator": "admin", "aspect": "series", "value": "education", "fact": "The Foreword calls the Annual Education Census an annual action under the Education Management Information System that has consistently provided school data and statistics; date is the report's published date (2023-01-01, a proxy).", "as_of": "2023", "date_precision": "year", "system": "Annual Education Census (National Education Census Report 2023)", "class": "admin"}
+ ],
+ "systems": [
+  {"system": "Annual Education Census / Education Management Information System", "country_label": "South Sudan", "class": "admin", "platform": "Android tablets and a web-based data repository (mogei.gov.ss/emis)", "owner": "Ministry of General Education and Instruction", "tiers": "national"}
+ ],
+ "note": ""
+}

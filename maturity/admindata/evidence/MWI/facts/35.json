@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-01-mwi-nso-vital-statistics-report-civil-registration",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration",
+     "fact": "The National Statistics Office, National Registration Bureau and Ministry of Health published Malawi's first vital statistics report from civil registration records (births 2015-2022, deaths 2017-2022, with causes of death), launched in April 2025; the date is the month of publication, not the years the figures cover.",
+     "as_of": "2025-04", "date_precision": "month", "system": "Malawi Vital Statistics Report 2022", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Electronic birth registration system (eBRS)", "country_label": "Malawi", "class": "vital", "platform": "", "owner": "National Registration Bureau", "tiers": "health facility; district registration office; headquarters"}
+  ],
+  "note": "The preface commits NSO, NRB and MoH to produce the report annually, but this is the first edition so no series is recorded."
+}

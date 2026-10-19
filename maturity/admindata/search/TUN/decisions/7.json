@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Institut National de la Santé report of March 2024 is the 8th report of national cause-of-death statistics, for 2021, compiled from 71,300 medical death certificates received against 100,454 deaths registered by the INS from civil registration, a coverage of 71.0 percent.",
+ "title": "Le système national d'information sur les causes médicales des décès - Statistiques nationales sur les causes des décès en Tunisie 2021",
+ "publisher": "Ministère de la Santé, Institut National de la Santé",
+ "published": "2024-03",
+ "date_source": "source",
+ "why_not": ""
+}

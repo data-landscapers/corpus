@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Annuaire statistique d'état civil 2024 (covering 1 January to 31 December 2024; produced yearly since 2014, the 2023 edition cited as its predecessor) compiles births, adoptions, marriages, divorces and deaths from three administrative sources: civil registration centres (sous-préfectures, mairies, embassies and consulates), public health facility reports (DHIS 2, Direction de l'Information Sanitaire) and court returns (Tribunaux de Première Instance and sections), with ANStat population projections as denominators.",
+ "title": "Annuaire statistique d'état civil 2024",
+ "publisher": "Ministère de l'Intérieur et de la Sécurité, DESPSE",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

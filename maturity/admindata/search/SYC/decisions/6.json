@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministry of Health Statistics Unit's Seychelles Hospital Services 2023 Annual Statistical Report gives January-December 2023 statistics from hospital units (accident and emergency, laboratory, oncology, inpatient wards, maternity, blood transfusion, radiology, theatre, nephrology), reported against 2022.",
+ "title": "Seychelles Hospital Services 2023 Annual Statistical Report",
+ "publisher": "Ministry of Health, Seychelles",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

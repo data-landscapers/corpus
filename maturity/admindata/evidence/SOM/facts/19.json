@@ -1,0 +1,12 @@
+{
+  "slug": "2023-12-01-som-quarterly-health-statistics-bulletin-july-september-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "The Ministry of Health and Human Services' Quarterly Health Statistics Bulletin, July-September 2023, published December 2023 (figures cover Q3 2023), draws on routine health data from health facilities in the DHIS2 HMIS, e.g. 579 reporting facilities, 1,685,815 OPD consultations and 71,607 live births in facilities.", "as_of": "2023-12", "date_precision": "month", "system": "Quarterly Health Statistics Bulletin, July-September 2023", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health", "fact": "The Ministry issues the bulletin quarterly (this is the Quarter 3, 2023 edition, published December 2023) from routine DHIS2 health data and says it will work to improve private-hospital coverage in subsequent editions.", "as_of": "2023-12", "date_precision": "month", "system": "Quarterly Health Statistics Bulletin, July-September 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Quarterly Health Statistics Bulletin", "country_label": "Quarterly Health Statistics Bulletin", "class": "admin", "platform": "DHIS2", "owner": "Ministry of Health and Human Services, HMIS section", "tiers": ""},
+    {"system": "DHIS2 HMIS", "country_label": "national HMIS platform (DHIS2)", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health and Human Services", "tiers": ""}
+  ],
+  "note": ""
+}

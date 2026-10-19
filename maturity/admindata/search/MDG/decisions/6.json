@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "MESUPRES | Documents",
+ "publisher": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Fetched page is empty ('Aucun document trouvé'); no text states a fact."
+}

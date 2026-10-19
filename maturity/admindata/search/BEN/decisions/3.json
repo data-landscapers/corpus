@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Annuaire des statistiques des faits d'état civil au Bénin (2023), published November 2025 by INStaD, compiles 2023 births, marriages and deaths for all 77 communes from the civil registration database of the Agence Nationale d'Identification des Personnes (ANIP), which replaced commune and Direction de l'Etat Civil returns from 2023; a 2024 edition of the same source appeared the same month.",
+ "title": "Annuaire des statistiques des faits d'état civil au Bénin (2023)",
+ "publisher": "Institut National de la Statistique et de la Démographie (INStaD), Direction des Statistiques Démographiques et Sociales",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

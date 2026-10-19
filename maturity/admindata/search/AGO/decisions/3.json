@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "INE's Estatísticas de Comércio Externo de Bens, Edição 2025, reports the third quarter 2025 trade balance (surplus 3.51 trillion kwanzas) drawing on two administrative sources, AGT (the tax and customs authority, Documento Único declarations) and the Ministry of Mineral Resources, Petroleum and Gas.",
+ "title": "Estatísticas de Comércio Externo de Bens, Edição 2025",
+ "publisher": "Instituto Nacional de Estatística",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

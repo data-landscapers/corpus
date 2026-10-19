@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The INE's Estatísticas do Comércio Externo - Resumo anual 2025 (published February 2026) states its base data come from the Direção Geral das Alfândegas (DGA) as electronic files resulting from the use of customs administrative acts (Sidónia ++), with monthly extractions, and that this is a partnership of some decades; it follows the 2024 edition.",
+ "title": "Estatísticas do Comércio Externo - Resumo anual 2025",
+ "publisher": "Instituto Nacional de Estatística",
+ "published": "2026-02",
+ "date_source": "source",
+ "why_not": ""
+}

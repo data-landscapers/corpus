@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-10-com-rapport-annuel-performances-et-perspectives-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "WHO Comoros reports having supported the Ministry of Health's Direction de l'Information et des Statistiques Sanitaires in producing the health statistical yearbooks for 2021 and 2022, which it describes as health-sector information; the report was published 2025-07-10 and the date the yearbooks came out is not given.", "as_of": "2025-07-10", "date_precision": "day", "system": "Annuaire statistique sanitaire 2021 and 2022", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health", "fact": "WHO Comoros reports having supported the first quarterly health information bulletins (bulletins trimestriels d'information sanitaire), a quarterly series from the health information system; the report was published 2025-07-10 and gives no date for the bulletins.", "as_of": "2025-07-10", "date_precision": "day", "system": "Bulletins trimestriels d'information sanitaire", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "DHIS 2 / health information system (DISS)", "country_label": "Comoros", "class": "admin", "platform": "DHIS2", "owner": "Direction de l'Information et des Statistiques Sanitaires, Ministry of Health", "tiers": ""}
+  ],
+  "note": "Passages only; facts are the health yearbooks and quarterly bulletins the WHO report says it supported."
+}

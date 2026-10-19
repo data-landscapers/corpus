@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Statistician, Volume Nine (July 2025) states Zambian international merchandise trade statistics are compiled mainly from ZRA customs declarations (Customs Bills of Entry, processed with Asycuda World data monthly), supplemented by ZESCO electricity export records and a survey of major importers and exporters, with a 2020-2024 trade profile published.",
+ "title": "The Statistician, July 2025, Volume Nine",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

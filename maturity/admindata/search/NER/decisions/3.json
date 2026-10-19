@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Bulletin des statistiques du commerce extérieur, données définitives 2020-2024 (N°02, October 2025) compiles Niger's external trade statistics from customs declarations entered by the Direction Générale des Douanes in SYDONIA and processed by the INS with EUROTRACE, with mining data from the Ministry of Mines; it is the second numbered annual bulletin.",
+ "title": "Bulletin des statistiques du commerce extérieur, données définitives 2020-2024",
+ "publisher": "Institut National de la Statistique du Niger",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

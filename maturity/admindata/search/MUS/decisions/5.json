@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use",
+ "fact": "The Ministry of Health and Wellness Health Statistics Report 2024, signed November 2025, compiles data from public hospitals through the Health Records Division, private clinics, Ministry units and the Commission for Health in Rodrigues (health facility reports), with vital statistics drawn from the Civil Status Office via Statistics Mauritius (2024 edition).",
+ "title": "Health Statistics Report 2024",
+ "publisher": "Ministry of Health and Wellness",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

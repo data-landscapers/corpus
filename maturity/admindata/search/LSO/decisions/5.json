@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 2023 Education Statistics Report (Education Statistics Bulletin 2023, Statistical Report No. 36 of 2024), covering 1,504 schools in 2023, compiles the Ministry of Education and Training's annual school returns (Annual Statistical Census forms sent via district education officers to principals), supplemented by Examinations Council, Secondary School Bursaries Unit, Council on Higher Education and National Manpower Development Secretariat records, and states that the education office produces the report annually.",
+ "title": "2023 Education Statistics Report: Education Statistics Bulletin 2023",
+ "publisher": "Ministry of Education and Training, Planning Unit, Statistics Office (Lesotho Government Statistical Report No. 36 of 2024)",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

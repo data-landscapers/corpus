@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Instituto Nacional de Saúde Pública launched on 17 May 2024 the Segundo Anuário Estatístico de Saúde da Guiné-Bissau, a health programme statistics yearbook (health service data) for 2022; being the second edition, a first yearbook preceded it.",
+ "title": "Segundo Anuário Estatístico de Saúde da Guiné-Bissau",
+ "publisher": "OMS Escritório Regional para a África",
+ "published": "2024-05-17",
+ "date_source": "source",
+ "why_not": ""
+}

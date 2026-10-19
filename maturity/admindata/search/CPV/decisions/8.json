@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Ministério da Educação's Anuário da Educação 2021/2022 (Praia, December 2022) publishes school statistics collected continuously from school returns via the SIGE school management platform plus an exhaustive census questionnaire, with social-action data from FICASE; the ministry publishes the yearbook annually.",
+ "title": "Anuário da Educação 2021/2022",
+ "publisher": "Ministério da Educação, Direcção Geral de Planeamento, Orçamento e Gestão",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

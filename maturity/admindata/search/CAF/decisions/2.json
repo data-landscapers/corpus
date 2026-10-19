@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "admin",
+ "aspect": "",
+ "fact": "",
+ "title": "Annuaire Statistique 2020-2022 des incidents de VBG",
+ "publisher": "ICASEES",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetched text is the ICASEES download landing page (file name, size, licence); the document body was not fetched, so no source or edition is stated."
+}

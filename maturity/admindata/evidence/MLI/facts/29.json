@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-01-mli-annuaire-2023-du-systeme-national-d-information-sanitaire-et-social-sn",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health;social-security", "fact": "The health and social sector planning unit (CPS/SSDSPF) published the Annuaire 2023 of the SNISS, compiled from the 2023 SISo, SIH and SLIS yearbooks and validated documents of the sector's structures, with tables on CANAM insurance, pensions and mutuelle coverage; the publication date of 1 May 2025 is the source's published date and the figures cover 2023.", "as_of": "2025-05-01", "date_precision": "day", "system": "Annuaire 2023 du Système National d'Information Sanitaire et Social (SNISS)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire 2023 du Système National d'Information Sanitaire et Social (SNISS)", "country_label": "Annuaire 2023 SNISS", "class": "admin", "platform": "", "owner": "CPS/SSDSPF (Ministère de la Santé et du Développement Social)", "tiers": ""},
+    {"system": "Annuaire Statistique SISo 2023", "country_label": "SISo yearbook 2023", "class": "admin", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

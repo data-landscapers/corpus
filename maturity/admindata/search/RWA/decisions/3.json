@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "NISR's Formal External Trade in Goods report for the fourth quarter of 2025 (copyright 2026) states its data are compiled from customs declarations collected by the Rwanda Revenue Authority Customs Department, and the series covers the quarters from 2022Q1 to 2025Q4.",
+ "title": "Formal External Trade in Goods, Fourth Quarter, 2025",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

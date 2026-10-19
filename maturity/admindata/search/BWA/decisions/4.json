@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The Statistics Botswana Annual Report 2024/25 states the office publishes statistics by processing administrative (operational records) data from government ministries, departments and agencies, reports vital statistics compiled from birth, death and marriage data from the Department of Civil and National Registration, and records a World Bank-delivered Survey Solutions training for 23 National Statistical System sectors on digitising administrative data.",
+ "title": "Statistics Botswana Annual Report 2024/25",
+ "publisher": "Statistics Botswana",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}
