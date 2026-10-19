@@ -40,7 +40,7 @@
    "label": "Gender gap in internet use",
    "subject": "include.access",
    "text": "Gender equity: gender gap in internet use",
-   "indicator_id": "include.access--gender-equity-gender-gap-in-internet-use",
+   "indicator_id": "include.access--gender-equity",
    "class": "gendergap",
    "norm_short": "The Maputo Protocol asks for women's access to and control of information technologies on equal terms; the Digital Transformation Strategy asks for digital skills for women and girls.",
    "criteria": [

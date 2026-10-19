@@ -78,7 +78,7 @@
       "label": "Government hosting and cloud policy",
       "subject": "gov.policy",
       "text": "Data storage / cloud strategy: hosting policy",
-      "indicator_id": "gov.policy--data-storage-cloud-strategy-hosting-policy",
+      "indicator_id": "gov.policy--data-storage-cloud-strategy",
       "norm_short": "The African Union's Data Policy Framework asks each state to set rules for hosting its own data, by category, and to build national or regional cloud capacity. Its Digital Transformation Strategy sets a target for hosting the continent's content on the continent.",
       "class": "policy",
       "criteria": [

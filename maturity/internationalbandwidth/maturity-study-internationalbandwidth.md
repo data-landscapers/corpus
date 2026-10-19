@@ -18,7 +18,7 @@ The study redraws `infra.connect--international-internet-bandwidth`, which as at
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Fibre routes to the rest of the world | International internet bandwidth: fibre routes to the rest of the world | `infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world` |
+| Fibre routes to the rest of the world | International internet bandwidth: fibre routes to the rest of the world | `infra.connect--international-internet-bandwidth` |
 
 Anything else the evidence names is `other`, noted and never staged: satellite and microwave links; a cable that passes the country without landing; a cable announced, financed or being laid but not in service; the national backbone inland, which `fibrebackbone` assesses; data centres and exchange points; bandwidth in gigabits, which is reported in the long summary and sets nothing.
 

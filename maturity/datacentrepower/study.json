@@ -81,7 +81,7 @@
    "label": "Power and water for data centres",
    "subject": "infra.energy",
    "text": "Sufficient energy and water for data centres: power and water for data centres",
-   "indicator_id": "infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres",
+   "indicator_id": "infra.energy--sufficient-energy-and-water-for-data-centres",
    "class": "datacentre",
    "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that data centres run on dual grid feeds with backup generation and report their power usage effectiveness.",
    "criteria": [

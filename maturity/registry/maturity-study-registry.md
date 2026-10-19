@@ -18,7 +18,7 @@ status: Bill's five rulings of 2026-10-10; staged, written and rendered; awaitin
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Civil registration | Digitalisation of rural registry offices: civil registration | `digital.rural--digitalisation-of-rural-registry-offices-civil-registration` |
+| Civil registration | Digitalisation of rural registry offices: civil registration | `digital.rural--digitalisation-of-rural-registry-offices` |
 
 The id enters `lookups/indicators.csv` at acceptance. **Identity enrolment and land registration get no ladder here.**
 

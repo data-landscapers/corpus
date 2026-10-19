@@ -72,7 +72,7 @@
    "label": "Long-distance fibre across the country",
    "subject": "infra.connect",
    "text": "National fibre backbone: long-distance fibre across the country",
-   "indicator_id": "infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country",
+   "indicator_id": "infra.connect--national-fibre-backbone",
    "class": "backbone",
    "norm_short": "The African Union's Digital Transformation Strategy and its Programme for Infrastructure Development in Africa ask each state to build a national backbone that reaches every region and to share it among operators.",
    "criteria": [

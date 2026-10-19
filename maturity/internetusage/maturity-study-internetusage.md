@@ -20,7 +20,7 @@ The study redraws `infra.connect--internet-usage`, which as at 2026-08-31 puts 1
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| People who use the internet | Internet usage: people who use the internet | `infra.connect--internet-usage-people-who-use-the-internet` |
+| People who use the internet | Internet usage: people who use the internet | `infra.connect--internet-usage` |
 
 Anything else the evidence names is `other`, noted and never staged: internet or mobile-data subscriptions, which count a person once for every line; an operator's or the regulator's count of "internet users" or its "penetration rate", which are counts of subscriptions; DataReportal's yearly country figures; a figure for adults only; households with internet; mobile internet users; social media users; network coverage; the price of data.
 

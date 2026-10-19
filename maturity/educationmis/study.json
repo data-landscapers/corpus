@@ -47,7 +47,7 @@
    "label": "Education information system",
    "subject": "dpi.mis",
    "text": "Education: education information system",
-   "indicator_id": "dpi.mis--education-education-information-system",
+   "indicator_id": "dpi.mis--education",
    "class": "emis",
    "norm_short": "The AU Digital Education Strategy asks for education management information systems to move from aggregate school returns to records for each learner, teacher and school.",
    "criteria": [

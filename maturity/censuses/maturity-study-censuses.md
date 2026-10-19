@@ -18,7 +18,7 @@ The study redraws `data.statistics--censuses-and-surveys`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Censuses and surveys | Censuses and surveys: censuses and surveys | `data.statistics--censuses-and-surveys-censuses-and-surveys` |
+| Censuses and surveys | Censuses and surveys: censuses and surveys | `data.statistics--censuses-and-surveys` |
 
 Anything else the evidence names is `other`, noted and never staged: an agricultural, economic or business census, a school or health facility census, a survey of firms, a survey by a ministry or an NGO alone, an opinion poll (Afrobarometer), voter registration, population projections, a census of one region.
 

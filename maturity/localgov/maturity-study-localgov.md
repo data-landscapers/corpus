@@ -18,7 +18,7 @@ status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, writt
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Office connection | ICT infrastructure for local government: office connection | `digital.localgov--ict-infrastructure-for-local-government-office-connection` |
+| Office connection | ICT infrastructure for local government: office connection | `digital.localgov--ict-infrastructure-for-local-government` |
 
 The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digitalisation-of-local-government-records` is not redrawn**: its evidence is logged in `applications.csv`.
 

@@ -87,7 +87,7 @@
    "label": "The price of mobile data against income",
    "subject": "infra.connect",
    "text": "Mobile affordability: the price of mobile data against income",
-   "indicator_id": "infra.connect--mobile-affordability-the-price-of-mobile-data-against-income",
+   "indicator_id": "infra.connect--mobile-affordability",
    "class": "price",
    "norm_short": "The African Union's Digital Transformation Strategy asks that access cost no more than one US cent a megabyte by 2030. The Broadband Commission's target, carried by the International Telecommunication Union, is entry-level broadband under 2 per cent of monthly income per person.",
    "criteria": [

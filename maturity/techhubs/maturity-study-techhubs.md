@@ -18,7 +18,7 @@ The study redraws `tech.innovate--technology-hubs`, which as at 2026-08-31 puts 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Technology hubs | Technology hubs: technology hubs | `tech.innovate--technology-hubs-technology-hubs` |
+| Technology hubs | Technology hubs: technology hubs | `tech.innovate--technology-hubs` |
 
 Anything else the evidence names is `other`, noted and never staged: a coworking space with no programme, a university department, a data centre, an economic zone with no technology tenants, a one-off hackathon or prize, a startup law or fund on its own.
 

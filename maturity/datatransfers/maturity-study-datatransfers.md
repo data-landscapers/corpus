@@ -18,7 +18,7 @@ The study redraws `gov.regional--cross-border-data-transfers`, which as at 2026-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Rule on sending data abroad | Cross-border data transfers: rule on sending data abroad | `gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad` |
+| Rule on sending data abroad | Cross-border data transfers: rule on sending data abroad | `gov.regional--cross-border-data-transfers` |
 
 Anything else the evidence names is `other`, noted and never staged: an agreement by the government to share data with another government or a donor, such as a health memorandum; a rule that data must be kept in the country, which the data localisation row holds; a treaty or trade protocol with a clause on data flows, which the regional law row holds; a regional guideline being drafted, or a meeting on data flows, which the regional policy row holds; membership of an international privacy forum; a data protection law with no source saying what it rules on sending data abroad.
 

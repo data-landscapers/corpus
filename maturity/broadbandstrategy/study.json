@@ -63,7 +63,7 @@
       "label": "National broadband plan",
       "subject": "gov.policy",
       "text": "Broadband strategy: national plan",
-      "indicator_id": "gov.policy--broadband-strategy-national-plan",
+      "indicator_id": "gov.policy--broadband-strategy",
       "norm_short": "The Broadband Commission's first target is a funded national broadband plan in every country by 2025. The African Union's Digital Transformation Strategy sets the 2030 outcome: universal access at 6 Mb/s or more, at no more than one US cent a megabyte.",
       "class": "plan",
       "criteria": [

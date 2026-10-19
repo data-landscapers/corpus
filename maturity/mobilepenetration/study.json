@@ -61,7 +61,7 @@
    "label": "People who own a mobile phone",
    "subject": "infra.connect",
    "text": "Mobile penetration: people who own a mobile phone",
-   "indicator_id": "infra.connect--mobile-penetration-people-who-own-a-mobile-phone",
+   "indicator_id": "infra.connect--mobile-penetration",
    "class": "ownership",
    "norm_short": "The African Union's Digital Transformation Strategy asks that every person be digitally empowered by 2030, with a device costing no more than USD 100. The International Telecommunication Union's 2030 target is that everyone aged 15 and over owns a mobile phone.",
    "criteria": [

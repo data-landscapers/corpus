@@ -18,7 +18,7 @@ The study redraws `tech.ai--use-of-ai-in-sectoral-management-information-systems
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| AI in sector systems | Use of AI in sectoral management information systems: AI in sector systems | `tech.ai--use-of-ai-in-sectoral-management-information-systems-ai-in-sector-systems` |
+| AI in sector systems | Use of AI in sectoral management information systems: AI in sector systems | `tech.ai--use-of-ai-in-sectoral-management-information-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: an AI chatbot or document tool for general administration, an AI strategy or law, a company's product with no public body using it, a training course or hackathon.
 

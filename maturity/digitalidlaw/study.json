@@ -142,7 +142,7 @@
       "label": "National identity law",
       "subject": "gov.legislate",
       "text": "Legislation covering digital id: national identity law",
-      "indicator_id": "gov.legislate--legislation-covering-digital-id-national-identity-law",
+      "indicator_id": "gov.legislate--legislation-covering-digital-id",
       "norm_short": "The African Union's Digital Transformation Strategy targets digital legal identity for 99.9% of people by 2030, and its Interoperability Framework for Digital ID asks for a harmonised legal framework. The AfCFTA Digital Trade Protocol, Article 14, commits each party to digital identity systems.",
       "class": "law",
       "criteria": [

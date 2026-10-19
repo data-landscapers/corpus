@@ -1,34 +1,34 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,DZA,dpi.pay--revenue-collection-revenue-collection,fact,3,3,DZA-001;DZA-004,Arrivals added DZA-007; stage unchanged.
-2026-10-17,EGY,dpi.pay--revenue-collection-revenue-collection,fact,3,5,EGY-008,Arrivals added EGY-006; EGY-007; EGY-008; stage 3 -> 5.
-2026-10-17,MAR,dpi.pay--revenue-collection-revenue-collection,fact,3,5,MAR-004,Arrivals added MAR-003; MAR-004; stage 3 -> 5.
-2026-10-17,MLI,dpi.pay--revenue-collection-revenue-collection,fact,5,5,MLI-002;MLI-004,Arrivals added MLI-009; stage unchanged.
-2026-10-18,BDI,dpi.pay--revenue-collection-revenue-collection,fact,3,3,BDI-004;BDI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,BEN,dpi.pay--revenue-collection-revenue-collection,fact,3,3,BEN-001;BEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,BWA,dpi.pay--revenue-collection-revenue-collection,fact,2,3,BWA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CIV,dpi.pay--revenue-collection-revenue-collection,fact,3,3,CIV-001;CIV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CPV,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,DZA,dpi.pay--revenue-collection-revenue-collection,fact,3,3,DZA-001;DZA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GAB,dpi.pay--revenue-collection-revenue-collection,fact,3,3,GAB-002;GAB-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GHA,dpi.pay--revenue-collection-revenue-collection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GMB,dpi.pay--revenue-collection-revenue-collection,fact,3,3,GMB-001;GMB-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,KEN,dpi.pay--revenue-collection-revenue-collection,review,no evidence,3,KEN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBY,dpi.pay--revenue-collection-revenue-collection,fact,3,3,LBY-002;LBY-001,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,LSO,dpi.pay--revenue-collection-revenue-collection,fact,4,4,LSO-002,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,MAR,dpi.pay--revenue-collection-revenue-collection,fact,5,5,MAR-004,Stage 4c: 4 news arrival(s) read; restaged from every row held.
-2026-10-18,MLI,dpi.pay--revenue-collection-revenue-collection,fact,5,5,MLI-002;MLI-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,MOZ,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,MOZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MUS,dpi.pay--revenue-collection-revenue-collection,fact,3,3,MUS-001;MUS-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MWI,dpi.pay--revenue-collection-revenue-collection,fact,2,2,MWI-001;MWI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NAM,dpi.pay--revenue-collection-revenue-collection,review,no evidence,3,NAM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NGA,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,NGA-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,RWA,dpi.pay--revenue-collection-revenue-collection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SEN,dpi.pay--revenue-collection-revenue-collection,fact,unplaced,3,SEN-001;SEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
-2026-10-18,STP,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,STP-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SWZ,dpi.pay--revenue-collection-revenue-collection,review,no evidence,3,SWZ-001;SWZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SYC,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,SYC-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,TCD,dpi.pay--revenue-collection-revenue-collection,fact,3,3,TCD-007;TCD-010,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,TGO,dpi.pay--revenue-collection-revenue-collection,fact,5,5,TGO-003,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,TUN,dpi.pay--revenue-collection-revenue-collection,fact,3,3,TUN-002;TUN-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,ZAF,dpi.pay--revenue-collection-revenue-collection,review,no evidence,3,ZAF-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZWE,dpi.pay--revenue-collection-revenue-collection,fact,no evidence,3,ZWE-002;ZWE-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-17,DZA,dpi.pay--revenue-collection,fact,3,3,DZA-001;DZA-004,Arrivals added DZA-007; stage unchanged.
+2026-10-17,EGY,dpi.pay--revenue-collection,fact,3,5,EGY-008,Arrivals added EGY-006; EGY-007; EGY-008; stage 3 -> 5.
+2026-10-17,MAR,dpi.pay--revenue-collection,fact,3,5,MAR-004,Arrivals added MAR-003; MAR-004; stage 3 -> 5.
+2026-10-17,MLI,dpi.pay--revenue-collection,fact,5,5,MLI-002;MLI-004,Arrivals added MLI-009; stage unchanged.
+2026-10-18,BDI,dpi.pay--revenue-collection,fact,3,3,BDI-004;BDI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BEN,dpi.pay--revenue-collection,fact,3,3,BEN-001;BEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BWA,dpi.pay--revenue-collection,fact,2,3,BWA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,dpi.pay--revenue-collection,fact,3,3,CIV-001;CIV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.pay--revenue-collection,fact,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.pay--revenue-collection,fact,3,3,DZA-001;DZA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GAB,dpi.pay--revenue-collection,fact,3,3,GAB-002;GAB-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GHA,dpi.pay--revenue-collection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GMB,dpi.pay--revenue-collection,fact,3,3,GMB-001;GMB-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,KEN,dpi.pay--revenue-collection,review,no evidence,3,KEN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,dpi.pay--revenue-collection,fact,3,3,LBY-002;LBY-001,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,LSO,dpi.pay--revenue-collection,fact,4,4,LSO-002,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,dpi.pay--revenue-collection,fact,5,5,MAR-004,Stage 4c: 4 news arrival(s) read; restaged from every row held.
+2026-10-18,MLI,dpi.pay--revenue-collection,fact,5,5,MLI-002;MLI-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MOZ,dpi.pay--revenue-collection,fact,no evidence,3,MOZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MUS,dpi.pay--revenue-collection,fact,3,3,MUS-001;MUS-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MWI,dpi.pay--revenue-collection,fact,2,2,MWI-001;MWI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,dpi.pay--revenue-collection,review,no evidence,3,NAM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NGA,dpi.pay--revenue-collection,fact,no evidence,3,NGA-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,RWA,dpi.pay--revenue-collection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,dpi.pay--revenue-collection,fact,unplaced,3,SEN-001;SEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
+2026-10-18,STP,dpi.pay--revenue-collection,fact,no evidence,3,STP-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SWZ,dpi.pay--revenue-collection,review,no evidence,3,SWZ-001;SWZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SYC,dpi.pay--revenue-collection,fact,no evidence,3,SYC-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,TCD,dpi.pay--revenue-collection,fact,3,3,TCD-007;TCD-010,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,TGO,dpi.pay--revenue-collection,fact,5,5,TGO-003,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,TUN,dpi.pay--revenue-collection,fact,3,3,TUN-002;TUN-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.pay--revenue-collection,review,no evidence,3,ZAF-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZWE,dpi.pay--revenue-collection,fact,no evidence,3,ZWE-002;ZWE-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.

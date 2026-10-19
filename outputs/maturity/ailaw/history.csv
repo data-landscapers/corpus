@@ -1,21 +1,21 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,CIV,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,COD,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,COD-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,COG,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,2,COG-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,EGY,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,3,EGY-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GIN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,GIN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,LBR,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,LBY,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SEN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,SEN-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SSD,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SYC,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,2,SYC-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TCD,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,TCD-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TUN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,2,TUN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ZMB,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ZWE,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,review,no evidence,1,ZWE-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-17,COM,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,3,3,COM-002;COM-001,Arrivals added COM-002; COM-003; stage unchanged.
-2026-10-17,SOM,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,no evidence,1,SOM-001,Arrivals added SOM-001; stage no evidence -> 1.
-2026-10-18,KEN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,2,2,KEN-014;KEN-005;KEN-008,"The Star, 15 Oct 2026: Senate ICT Committee recommends the AI Bill, 2026 not proceed; still a bill, stage 2 holds"
-2026-10-18,BEN,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,no evidence,1,BEN-001,"FID and ALCRER, April 2025: no specific binding AI regulation outside the strategy, no draft named: placed at 1 from no evidence"
-2026-10-18,ETH,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,no evidence,1,ETH-001,"UNESCO readiness profile, June 2026: legal framework not AI-specific, no draft named: placed at 1 from no evidence"
-2026-10-18,SSD,gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule,fact,no evidence,2,SSD-001,"Digital Rights Frontlines, October 2025: Cybercrimes and Computer Misuse Bill 2024 carries proposed AI provisions: a draft, placed at 2 from no evidence"
+2026-10-13,CIV,gov.legislate--ai-legislation-regulations,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,COD,gov.legislate--ai-legislation-regulations,review,no evidence,1,COD-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,COG,gov.legislate--ai-legislation-regulations,review,no evidence,2,COG-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,EGY,gov.legislate--ai-legislation-regulations,review,no evidence,3,EGY-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GIN,gov.legislate--ai-legislation-regulations,review,no evidence,1,GIN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,LBR,gov.legislate--ai-legislation-regulations,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,LBY,gov.legislate--ai-legislation-regulations,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SEN,gov.legislate--ai-legislation-regulations,review,no evidence,1,SEN-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SSD,gov.legislate--ai-legislation-regulations,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SYC,gov.legislate--ai-legislation-regulations,review,no evidence,2,SYC-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.legislate--ai-legislation-regulations,review,no evidence,1,TCD-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TUN,gov.legislate--ai-legislation-regulations,review,no evidence,2,TUN-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ZMB,gov.legislate--ai-legislation-regulations,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ZWE,gov.legislate--ai-legislation-regulations,review,no evidence,1,ZWE-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-17,COM,gov.legislate--ai-legislation-regulations,fact,3,3,COM-002;COM-001,Arrivals added COM-002; COM-003; stage unchanged.
+2026-10-17,SOM,gov.legislate--ai-legislation-regulations,fact,no evidence,1,SOM-001,Arrivals added SOM-001; stage no evidence -> 1.
+2026-10-18,KEN,gov.legislate--ai-legislation-regulations,fact,2,2,KEN-014;KEN-005;KEN-008,"The Star, 15 Oct 2026: Senate ICT Committee recommends the AI Bill, 2026 not proceed; still a bill, stage 2 holds"
+2026-10-18,BEN,gov.legislate--ai-legislation-regulations,fact,no evidence,1,BEN-001,"FID and ALCRER, April 2025: no specific binding AI regulation outside the strategy, no draft named: placed at 1 from no evidence"
+2026-10-18,ETH,gov.legislate--ai-legislation-regulations,fact,no evidence,1,ETH-001,"UNESCO readiness profile, June 2026: legal framework not AI-specific, no draft named: placed at 1 from no evidence"
+2026-10-18,SSD,gov.legislate--ai-legislation-regulations,fact,no evidence,2,SSD-001,"Digital Rights Frontlines, October 2025: Cybercrimes and Computer Misuse Bill 2024 carries proposed AI provisions: a draft, placed at 2 from no evidence"

@@ -1,11 +1,11 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,MAR,gov.policy--data-governance-policy-national-data-policy,review,no evidence,2,MAR-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,NGA,gov.policy--data-governance-policy-national-data-policy,review,no evidence,4,NGA-004;NGA-003,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,SOM,gov.policy--data-governance-policy-national-data-policy,review,no evidence,2,SOM-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ZMB,gov.policy--data-governance-policy-national-data-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,LSO,gov.policy--data-governance-policy-national-data-policy,review,3,3,LSO-007,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,BDI,gov.policy--data-governance-policy-national-data-policy,fact,2,2,BDI-001,Arrivals added BDI-005; stage unchanged.
-2026-10-17,SWZ,gov.policy--data-governance-policy-national-data-policy,fact,2,2,SWZ-005,Arrivals added SWZ-007; stage unchanged.
-2026-10-17,TUN,gov.policy--data-governance-policy-national-data-policy,fact,2,2,TUN-002,Arrivals added TUN-002; stage unchanged.
-2026-10-17,UGA,gov.policy--data-governance-policy-national-data-policy,fact,2,2,UGA-002,Arrivals added UGA-003; stage unchanged.
-2026-10-17,ZAF,gov.policy--data-governance-policy-national-data-policy,fact,3,3,ZAF-003;ZAF-001,Arrivals added ZAF-003; stage unchanged.
+2026-10-13,MAR,gov.policy--data-governance-policy,review,no evidence,2,MAR-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,NGA,gov.policy--data-governance-policy,review,no evidence,4,NGA-004;NGA-003,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,SOM,gov.policy--data-governance-policy,review,no evidence,2,SOM-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ZMB,gov.policy--data-governance-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,LSO,gov.policy--data-governance-policy,review,3,3,LSO-007,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,BDI,gov.policy--data-governance-policy,fact,2,2,BDI-001,Arrivals added BDI-005; stage unchanged.
+2026-10-17,SWZ,gov.policy--data-governance-policy,fact,2,2,SWZ-005,Arrivals added SWZ-007; stage unchanged.
+2026-10-17,TUN,gov.policy--data-governance-policy,fact,2,2,TUN-002,Arrivals added TUN-002; stage unchanged.
+2026-10-17,UGA,gov.policy--data-governance-policy,fact,2,2,UGA-002,Arrivals added UGA-003; stage unchanged.
+2026-10-17,ZAF,gov.policy--data-governance-policy,fact,3,3,ZAF-003;ZAF-001,Arrivals added ZAF-003; stage unchanged.

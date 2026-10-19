@@ -53,7 +53,7 @@
    "label": "Civil register",
    "subject": "dpi.registry",
    "text": "Civil register: civil register",
-   "indicator_id": "dpi.registry--civil-register-civil-register",
+   "indicator_id": "dpi.registry--civil-register",
    "class": "civil",
    "norm_short": "The African Union's Digital Transformation Strategy and the Africa Programme on Accelerated Improvement of CRVS ask for digital civil registration; the SDG target is every birth and 80% of deaths registered.",
    "criteria": [

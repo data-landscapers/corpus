@@ -20,7 +20,7 @@ The study redraws `finance.new--mobilisation-of-non-state-finance`, a measure of
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Private money for digital businesses | Mobilisation of non-state finance: private money for digital businesses | `finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses` |
+| Private money for digital businesses | Mobilisation of non-state finance: private money for digital businesses | `finance.new--mobilisation-of-non-state-finance` |
 
 Anything else the evidence names is `other`, noted and never staged: a loan or grant to the government or a state body, which is `finance.new--development-partner-project-financing`'s; money to a charity, a research body or an international organisation; a memorandum, a pledge or a plan with no amount; a deal announced and not signed; what an operator pays the state for a licence or spectrum; a tax break; the state's own budget and its funds.
 

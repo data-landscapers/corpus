@@ -1,6 +1,6 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,KEN,gov.legislate--statistics-legislation-statistics-law,fact,3,3,KEN-004;KEN-002,Arrivals added KEN-004; KEN-005; stage unchanged.
-2026-10-17,LBY,gov.legislate--statistics-legislation-statistics-law,fact,3,3,LBY-002;LBY-001,Arrivals added LBY-002; stage unchanged.
-2026-10-17,NGA,gov.legislate--statistics-legislation-statistics-law,fact,3,3,NGA-002;NGA-004,Arrivals added NGA-007; stage unchanged.
-2026-10-17,SLE,gov.legislate--statistics-legislation-statistics-law,fact,3,3,SLE-004;SLE-001,Arrivals added SLE-004; stage unchanged.
-2026-10-17,SSD,gov.legislate--statistics-legislation-statistics-law,fact,3,3,SSD-002;SSD-001,Arrivals added SSD-003; stage unchanged.
+2026-10-17,KEN,gov.legislate--statistics-legislation,fact,3,3,KEN-004;KEN-002,Arrivals added KEN-004; KEN-005; stage unchanged.
+2026-10-17,LBY,gov.legislate--statistics-legislation,fact,3,3,LBY-002;LBY-001,Arrivals added LBY-002; stage unchanged.
+2026-10-17,NGA,gov.legislate--statistics-legislation,fact,3,3,NGA-002;NGA-004,Arrivals added NGA-007; stage unchanged.
+2026-10-17,SLE,gov.legislate--statistics-legislation,fact,3,3,SLE-004;SLE-001,Arrivals added SLE-004; stage unchanged.
+2026-10-17,SSD,gov.legislate--statistics-legislation,fact,3,3,SSD-002;SSD-001,Arrivals added SSD-003; stage unchanged.

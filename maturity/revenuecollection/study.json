@@ -88,7 +88,7 @@
    "label": "Revenue collection",
    "subject": "dpi.pay",
    "text": "Revenue collection: revenue collection",
-   "indicator_id": "dpi.pay--revenue-collection-revenue-collection",
+   "indicator_id": "dpi.pay--revenue-collection",
    "class": "revenue",
    "norm_short": "The AfCFTA Digital Trade Protocol asks states to accept electronic payment and electronic documents for trade and dues.",
    "criteria": [

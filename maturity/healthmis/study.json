@@ -43,7 +43,7 @@
    "label": "Health information system",
    "subject": "dpi.mis",
    "text": "Health: health information system",
-   "indicator_id": "dpi.mis--health-health-information-system",
+   "indicator_id": "dpi.mis--health",
    "class": "hmis",
    "norm_short": "The Africa CDC Digital Transformation Strategy asks for national digital health systems strengthened to its Health Information Exchange Guidelines, with integrated surveillance.",
    "criteria": [

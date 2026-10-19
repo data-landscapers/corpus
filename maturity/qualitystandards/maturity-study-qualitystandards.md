@@ -18,7 +18,7 @@ The study redraws `gov.standards--national-quality-standards`, which as at 2026-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National standards for information technology and data | National quality standards: national standards for information technology and data | `gov.standards--national-quality-standards-national-standards-for-information-technology-and-data` |
+| National standards for information technology and data | National quality standards: national standards for information technology and data | `gov.standards--national-quality-standards` |
 
 Anything else the evidence names is `other`, noted and never staged: a national quality policy; the telecoms regulator's quality-of-service rules and its approval of equipment; national standards on food, goods or any other field; a quality management standard such as ISO 9001; standards a ministry sets for one sector; the technical standards government sets for its own systems, which the interoperability standards row holds; membership of the international or African standards organisations, which the international standards row holds; a company's certificate from a certifier abroad.
 

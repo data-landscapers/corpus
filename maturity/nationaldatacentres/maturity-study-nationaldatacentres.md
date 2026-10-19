@@ -18,7 +18,7 @@ The study redraws `infra.store--local-data-centre-capacity-national-providers`, 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Nationally owned data centres for hire | Local data centre capacity (national providers): nationally owned data centres for hire | `infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire` |
+| Nationally owned data centres for hire | Local data centre capacity (national providers): nationally owned data centres for hire | `infra.store--local-data-centre-capacity-national-providers` |
 
 Anything else the evidence names is `other`, noted and never staged: a foreign-owned data centre, which `datacentres` assesses; one announced, financed or under construction; one used only by its owner; a rule that data must stay in the country, which `datalocalisation` assesses.
 

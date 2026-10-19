@@ -105,7 +105,7 @@
       "label": "Data localisation rule",
       "subject": "gov.policy",
       "text": "Data localisation policies: localisation rule",
-      "indicator_id": "gov.policy--data-localisation-policies-localisation-rule",
+      "indicator_id": "gov.policy--data-localisation-policies",
       "norm_short": "The African Union's Data Policy Framework (2022) asks states to keep only certain kinds of data in the country. The AfCFTA Digital Trade Protocol (2024) says a state shall not require computing facilities to be in its territory, with exceptions for public policy.",
       "class": "rule",
       "criteria": [

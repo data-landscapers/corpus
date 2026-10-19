@@ -1,9 +1,9 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,STP,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,review,3,3,STP-001;STP-002,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,BFA,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,4,BFA-003;BFA-002,Arrivals added BFA-002; BFA-003; stage no evidence -> 4.
-2026-10-17,CAF,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,3,CAF-001,Arrivals added CAF-001; stage no evidence -> 3.
-2026-10-17,CMR,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,3,CMR-001,Arrivals added CMR-001; stage no evidence -> 3.
-2026-10-17,EGY,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,3,EGY-001;EGY-002,Arrivals added EGY-001; EGY-002; stage no evidence -> 3.
-2026-10-17,RWA,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,4,RWA-002;RWA-001,Arrivals added RWA-001; RWA-002; stage no evidence -> 4.
-2026-10-17,SWZ,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,4,SWZ-002;SWZ-001,Arrivals added SWZ-001; SWZ-002; stage no evidence -> 4.
-2026-10-17,TCD,gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad,fact,no evidence,3,TCD-001,Arrivals added TCD-001; stage no evidence -> 3.
+2026-10-13,STP,gov.regional--cross-border-data-transfers,review,3,3,STP-001;STP-002,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,BFA,gov.regional--cross-border-data-transfers,fact,no evidence,4,BFA-003;BFA-002,Arrivals added BFA-002; BFA-003; stage no evidence -> 4.
+2026-10-17,CAF,gov.regional--cross-border-data-transfers,fact,no evidence,3,CAF-001,Arrivals added CAF-001; stage no evidence -> 3.
+2026-10-17,CMR,gov.regional--cross-border-data-transfers,fact,no evidence,3,CMR-001,Arrivals added CMR-001; stage no evidence -> 3.
+2026-10-17,EGY,gov.regional--cross-border-data-transfers,fact,no evidence,3,EGY-001;EGY-002,Arrivals added EGY-001; EGY-002; stage no evidence -> 3.
+2026-10-17,RWA,gov.regional--cross-border-data-transfers,fact,no evidence,4,RWA-002;RWA-001,Arrivals added RWA-001; RWA-002; stage no evidence -> 4.
+2026-10-17,SWZ,gov.regional--cross-border-data-transfers,fact,no evidence,4,SWZ-002;SWZ-001,Arrivals added SWZ-001; SWZ-002; stage no evidence -> 4.
+2026-10-17,TCD,gov.regional--cross-border-data-transfers,fact,no evidence,3,TCD-001,Arrivals added TCD-001; stage no evidence -> 3.

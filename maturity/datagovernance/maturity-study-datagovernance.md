@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-governance-policy`, which as at 2026-08-31 p
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National data policy | Data governance policy: national data policy | `gov.policy--data-governance-policy-national-data-policy` |
+| National data policy | Data governance policy: national data policy | `gov.policy--data-governance-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a data protection law, an open data policy, a rule on keeping data in the country, an interoperability framework, a cloud policy, an AI strategy, a national strategy for statistics, one ministry's or one sector's data policy, a data exchange platform.
 

@@ -18,7 +18,7 @@ The study redraws `include.access--citizen-feedback-portals`, which as at 2026-0
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Citizen feedback channel | Citizen feedback portals: citizen feedback channel | `include.access--citizen-feedback-portals-citizen-feedback-channel` |
+| Citizen feedback channel | Citizen feedback portals: citizen feedback channel | `include.access--citizen-feedback-portals` |
 
 Anything else the evidence names is `other`, noted and never staged: a portal that only gives information, a company's customer-service line, an ombudsman or anti-corruption office with no digital channel on record, a line for reporting crimes, a consultation on a draft law or policy.
 

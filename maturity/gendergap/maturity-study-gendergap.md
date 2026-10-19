@@ -18,7 +18,7 @@ The study redraws `include.access--gender-equity`, which as at 2026-08-31 puts n
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Gender gap in internet use | Gender equity: gender gap in internet use | `include.access--gender-equity-gender-gap-in-internet-use` |
+| Gender gap in internet use | Gender equity: gender gap in internet use | `include.access--gender-equity` |
 
 Anything else the evidence names is `other`, noted and never staged: a gap in phone ownership, GSMA's mobile internet gender gap (a different definition), a figure for one city or group, a programme for women with no figure.
 

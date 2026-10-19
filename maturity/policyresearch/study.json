@@ -45,7 +45,7 @@
    "label": "Digital policy research",
    "subject": "capacity.research",
    "text": "Think tanks and academic departments contributing to DT policy: digital policy research",
-   "indicator_id": "capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy-digital-policy-research",
+   "indicator_id": "capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy",
    "class": "research",
    "norm_short": "STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funded toward 1 per cent of GDP and contributing to policy; neither counts think tanks.",
    "criteria": [

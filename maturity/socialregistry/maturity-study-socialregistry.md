@@ -18,7 +18,7 @@ The study redraws `dpi.registry--social-protection-register`, which as at 2026-0
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Social protection register | Social protection register: social protection register | `dpi.registry--social-protection-register-social-protection-register` |
+| Social protection register | Social protection register: social protection register | `dpi.registry--social-protection-register` |
 
 Anything else the evidence names is `other`, noted and never staged: one programme's own beneficiary list, a humanitarian agency's registration, a payment system, a census.
 

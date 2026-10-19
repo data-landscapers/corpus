@@ -22,7 +22,7 @@ The study redraws `gov.discourse--non-governmental-contribution-to-national-poli
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Consultation on digital law and policy | Non-governmental contribution to national policy: consultation on digital law and policy | `gov.discourse--non-governmental-contribution-to-national-policy-consultation-on-digital-law-and-policy` |
+| Consultation on digital law and policy | Non-governmental contribution to national policy: consultation on digital law and policy | `gov.discourse--non-governmental-contribution-to-national-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a national internet governance forum; a conference or debate with no named law or policy put to it; a consultation on something not digital; a civil-society report or campaign the government did not ask for; a workshop of officials, donors and consultants only; an open government action plan with no digital commitment; a regional or continental consultation.
 

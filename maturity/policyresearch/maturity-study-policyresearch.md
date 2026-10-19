@@ -18,7 +18,7 @@ The study redraws `capacity.research--think-tanks-and-academic-departments-contr
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Digital policy research | Think tanks and academic departments contributing to DT policy: digital policy research | `capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy-digital-policy-research` |
+| Digital policy research | Think tanks and academic departments contributing to DT policy: digital policy research | `capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a degree or training course with no research, a company's market report, a foreign body's study with no local institution named, a hackathon or conference with no research, a policy written by government alone.
 

@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-storage-cloud-strategy`, which as at 2026-08
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Government hosting and cloud policy | Data storage / cloud strategy: hosting policy | `gov.policy--data-storage-cloud-strategy-hosting-policy` |
+| Government hosting and cloud policy | Data storage / cloud strategy: hosting policy | `gov.policy--data-storage-cloud-strategy` |
 
 Anything else the evidence names is `other`, noted and never staged: a data centre or sovereign cloud built or planned with no policy behind it, an operator's commercial cloud, a rule on where private companies keep data, a data protection law.
 

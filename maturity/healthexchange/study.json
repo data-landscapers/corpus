@@ -52,7 +52,7 @@
    "label": "Interoperability of health systems",
    "subject": "dpi.exchange",
    "text": "Interoperability of health systems: interoperability of health systems",
-   "indicator_id": "dpi.exchange--interoperability-of-health-systems-interoperability-of-health-systems",
+   "indicator_id": "dpi.exchange--interoperability-of-health-systems",
    "class": "exchange",
    "norm_short": "Africa CDC's health information exchange guidelines and Smart Africa's digital health blueprint ask for a national exchange policy, common standards and identifiers, then exchanges in service across the health system.",
    "criteria": [

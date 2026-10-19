@@ -91,7 +91,7 @@
       "label": "Data protection system",
       "subject": "gov.protect",
       "text": "National data protection readiness: data protection system",
-      "indicator_id": "gov.protect--national-data-protection-readiness-data-protection-system",
+      "indicator_id": "gov.protect--national-data-protection-readiness",
       "norm_short": "The African Union's Data Policy Framework (2022) asks each member state for a data protection law, an independent authority and working practice, and to ratify the Malabo Convention. It sets no measure of them.",
       "class": "system",
       "criteria": [

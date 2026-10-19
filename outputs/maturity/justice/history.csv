@@ -1,27 +1,27 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-18,AGO,dpi.mis--justice-justice,review,no evidence,2,AGO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BEN,dpi.mis--justice-justice,review,no evidence,4,BEN-004,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BFA,dpi.mis--justice-justice,review,no evidence,2,BFA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CMR,dpi.mis--justice-justice,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CPV,dpi.mis--justice-justice,review,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ERI,dpi.mis--justice-justice,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ETH,dpi.mis--justice-justice,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GIN,dpi.mis--justice-justice,review,no evidence,2,GIN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
-2026-10-18,GMB,dpi.mis--justice-justice,review,no evidence,4,GMB-004,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GNQ,dpi.mis--justice-justice,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,KEN,dpi.mis--justice-justice,review,no evidence,4,KEN-003;KEN-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,dpi.mis--justice-justice,review,no evidence,2,LSO-001;LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MAR,dpi.mis--justice-justice,review,no evidence,4,MAR-003,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,dpi.mis--justice-justice,review,no evidence,3,MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MUS,dpi.mis--justice-justice,review,no evidence,unplaced,,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NAM,dpi.mis--justice-justice,review,no evidence,2,NAM-001;NAM-002,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SDN,dpi.mis--justice-justice,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,dpi.mis--justice-justice,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,STP,dpi.mis--justice-justice,review,no evidence,2,STP-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SYC,dpi.mis--justice-justice,review,no evidence,4,SYC-001;SYC-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.mis--justice-justice,review,no evidence,5,TGO-001,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TUN,dpi.mis--justice-justice,review,no evidence,2,TUN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TZA,dpi.mis--justice-justice,review,no evidence,3,TZA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,UGA,dpi.mis--justice-justice,fact,no evidence,5,UGA-009,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
-2026-10-18,ZAF,dpi.mis--justice-justice,review,no evidence,4,ZAF-005;ZAF-003,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZMB,dpi.mis--justice-justice,review,no evidence,2,ZMB-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,AGO,dpi.mis--justice,review,no evidence,2,AGO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BEN,dpi.mis--justice,review,no evidence,4,BEN-004,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BFA,dpi.mis--justice,review,no evidence,2,BFA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CMR,dpi.mis--justice,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CPV,dpi.mis--justice,review,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ERI,dpi.mis--justice,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ETH,dpi.mis--justice,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,dpi.mis--justice,review,no evidence,2,GIN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
+2026-10-18,GMB,dpi.mis--justice,review,no evidence,4,GMB-004,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNQ,dpi.mis--justice,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,dpi.mis--justice,review,no evidence,4,KEN-003;KEN-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.mis--justice,review,no evidence,2,LSO-001;LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,dpi.mis--justice,review,no evidence,4,MAR-003,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.mis--justice,review,no evidence,3,MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,dpi.mis--justice,review,no evidence,unplaced,,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NAM,dpi.mis--justice,review,no evidence,2,NAM-001;NAM-002,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,dpi.mis--justice,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.mis--justice,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,STP,dpi.mis--justice,review,no evidence,2,STP-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SYC,dpi.mis--justice,review,no evidence,4,SYC-001;SYC-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.mis--justice,review,no evidence,5,TGO-001,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TUN,dpi.mis--justice,review,no evidence,2,TUN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.mis--justice,review,no evidence,3,TZA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,UGA,dpi.mis--justice,fact,no evidence,5,UGA-009,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.mis--justice,review,no evidence,4,ZAF-005;ZAF-003,Stage 4c: 6 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZMB,dpi.mis--justice,review,no evidence,2,ZMB-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

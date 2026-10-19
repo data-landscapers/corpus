@@ -75,7 +75,7 @@
    "label": "Off-site backup for government systems",
    "subject": "infra.store",
    "text": "Off-site backup capacity: off-site backup for government systems",
-   "indicator_id": "infra.store--off-site-backup-capacity-off-site-backup-for-government-systems",
+   "indicator_id": "infra.store--off-site-backup-capacity",
    "class": "backupsite",
    "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that e-government run on a Tier-classified primary site with a secondary site for disaster recovery.",
    "criteria": [

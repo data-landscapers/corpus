@@ -71,7 +71,7 @@
    "label": "Censuses and surveys",
    "subject": "data.statistics",
    "text": "Censuses and surveys: censuses and surveys",
-   "indicator_id": "data.statistics--censuses-and-surveys-censuses-and-surveys",
+   "indicator_id": "data.statistics--censuses-and-surveys",
    "class": "census",
    "also_assessed": [
     "survey"

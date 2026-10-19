@@ -82,7 +82,7 @@
    "label": "Control of state data",
    "subject": "geopol.sovereignty",
    "text": "Digital sovereignty: control of state data",
-   "indicator_id": "geopol.sovereignty--digital-sovereignty-control-of-state-data",
+   "indicator_id": "geopol.sovereignty--digital-sovereignty",
    "class": "sovereignty",
    "norm_short": "The AU Data Policy Framework asks for localisation of certain categories of data only, with portability so that no one is locked into a single provider; the Digital Transformation Strategy asks for 30 per cent of content hosted in Africa by 2030.",
    "criteria": [

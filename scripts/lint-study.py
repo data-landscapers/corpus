@@ -25,7 +25,7 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
   closing lines, ***Noted, not assessed*** and ***Not held***. Every link on the page is a
   URL held in `raw/`. A cell with no stage needs only its section and the closing lines.
 - **The typology.** `systems.csv` has its columns, real countries and classes in the list.
-- **The ids.** Each sub-indicator's id is what `adding-an-indicator.md` §2 mints from its text.
+- **The ids.** Each sub-indicator's id is the row it redraws (`adding-an-indicator.md` §2).
 
 Prose quality is not counted here: `house-style.md` and `AI-speak.md` are a reader's job.
 
@@ -248,10 +248,16 @@ def main(argv=None) -> int:
     out_dir = study_lib.out_dir(a.study)
     rows = study_lib.read_csv(os.path.join(out_dir, "assessment.csv"))
     problems = []
+    # A sub-indicator is its row's id; only a study splitting one row into several mints from the
+    # text (Bill, 2026-10-19: health clinics' HMIS and EMR are the case).
+    split = len(study["sub_indicators"]) > len(study["redraws"])
     for s in study["sub_indicators"]:
-        if study_lib.mint(s["subject"], s["text"]) != s["indicator_id"]:
-            problems.append(f"study.json: `{s['indicator_id']}` is not what its text mints, "
-                            f"`{study_lib.mint(s['subject'], s['text'])}`")
+        want = study_lib.mint(s["subject"], s["text"]) if split else None
+        if split and want != s["indicator_id"]:
+            problems.append(f"study.json: `{s['indicator_id']}` is not what its text mints, `{want}`")
+        elif not split and s["indicator_id"] not in study["redraws"]:
+            problems.append(f"study.json: `{s['indicator_id']}` is not the id of a row it redraws, "
+                            f"{study['redraws']}")
     for iso, ev in evidence.items():
         problems += study_lib.evidence_problems(study, iso, ev)
     problems += held_problems(evidence, slugs, urls)

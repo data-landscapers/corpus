@@ -20,7 +20,7 @@ The study redraws `infra.energy--grid-reliability`, which as at 2026-08-31 puts 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Power outages a month | Grid reliability: power outages a month | `infra.energy--grid-reliability-power-outages-a-month` |
+| Power outages a month | Grid reliability: power outages a month | `infra.energy--grid-reliability` |
 
 Anything else the evidence names is `other`, noted and never staged: how long outages last (SAIDI); hours of load shedding or a load-shedding schedule; a national grid collapse; a power station's availability or breakdowns; a figure for one city, region or customer class; generation capacity or a supply shortfall; a blackout story with no count.
 

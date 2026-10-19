@@ -34,7 +34,7 @@
    "label": "ICT employment",
    "subject": "capacity.training",
    "text": "Graduates entering DT ecosystem: ICT employment",
-   "indicator_id": "capacity.training--graduates-entering-dt-ecosystem-ict-employment",
+   "indicator_id": "capacity.training--graduates-entering-dt-ecosystem",
    "class": "ictjobs",
    "norm_short": "Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM and youth unemployment down to 14 per cent by 2033; the Continental TVET Strategy asks for wider technical training.",
    "criteria": [

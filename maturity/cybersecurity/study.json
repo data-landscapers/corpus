@@ -104,7 +104,7 @@
    "label": "National cyber response",
    "subject": "infra.cybersec",
    "text": "National cybersecurity readiness: national cyber response",
-   "indicator_id": "infra.cybersec--national-cybersecurity-readiness-national-cyber-response",
+   "indicator_id": "infra.cybersec--national-cybersecurity-readiness",
    "class": "response",
    "norm_short": "The Malabo Convention, chapter III, asks each party for a national cybersecurity policy and strategy (Art. 24) and a body that governs cybersecurity (Art. 27). It sets no test of whether the body works.",
    "criteria": [

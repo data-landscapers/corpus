@@ -18,7 +18,7 @@ The study redraws `gov.legislate--access-to-information-legislation`, which as a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Access to information law | Access to information legislation: access to information law | `gov.legislate--access-to-information-legislation-access-to-information-law` |
+| Access to information law | Access to information legislation: access to information law | `gov.legislate--access-to-information-legislation` |
 
 Anything else the evidence names is `other`, noted and never staged: a constitutional right with no law behind it, an open data policy, an open government plan, a state secrets, press, whistleblower or archives law, the data protection law and its authority, a ranking of the law, the model law and the treaties.
 

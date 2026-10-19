@@ -64,7 +64,7 @@
    "label": "Use of open data",
    "subject": "data.open",
    "text": "Use of open data: use of open data",
-   "indicator_id": "data.open--use-of-open-data-use-of-open-data",
+   "indicator_id": "data.open--use-of-open-data",
    "class": "open",
    "norm_short": "The African Union's Data Policy Framework (2022) and the Africa Data Consensus (2015) ask governments to open the data they hold for anyone to use, and to see it used.",
    "criteria": [

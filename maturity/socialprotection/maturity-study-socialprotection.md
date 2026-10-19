@@ -18,7 +18,7 @@ The study redraws `dpi.mis--social-protection`, which as at 2026-08-31 puts 38 c
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Social protection | Social protection: social protection | `dpi.mis--social-protection-social-protection` |
+| Social protection | Social protection: social protection | `dpi.mis--social-protection` |
 
 Anything else the evidence names is `other`, noted and never staged: a social registry of households on its own, a payment provider with no programme system named, a programme's budget or size alone, a humanitarian agency's own list.
 

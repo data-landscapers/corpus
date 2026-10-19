@@ -18,7 +18,7 @@ The study redraws `capacity.literacy--digital-literacy-general-population`, whic
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Digital skills of the public | Digital literacy (general population): digital skills of the public | `capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public` |
+| Digital skills of the public | Digital literacy (general population): digital skills of the public | `capacity.literacy--digital-literacy-general-population` |
 
 Anything else the evidence names is `other`, noted and never staged: a course for civil servants only, computing in the school curriculum, a university degree, a one-off workshop or hackathon, a company's training for its own staff, a device giveaway with no training.
 

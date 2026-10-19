@@ -54,7 +54,7 @@
    "label": "National data exchange system",
    "subject": "dpi.exchange",
    "text": "National data exchange system: national data exchange system",
-   "indicator_id": "dpi.exchange--national-data-exchange-system-national-data-exchange-system",
+   "indicator_id": "dpi.exchange--national-data-exchange-system",
    "class": "exchange",
    "norm_short": "The African Union's Digital Transformation Strategy and its interoperability framework ask for a secure exchange layer through which government systems reuse each other's data and registers.",
    "criteria": [

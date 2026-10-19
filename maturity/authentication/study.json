@@ -111,7 +111,7 @@
    "label": "Authentication",
    "subject": "dpi.id",
    "text": "Authentication: authentication",
-   "indicator_id": "dpi.id--authentication-authentication",
+   "indicator_id": "dpi.id--authentication",
    "class": "authentication",
    "norm_short": "The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask for authentication and e-signature services in layers, up to remote authentication recognised across borders.",
    "criteria": [

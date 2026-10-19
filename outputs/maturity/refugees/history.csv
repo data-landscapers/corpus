@@ -1,15 +1,15 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,BFA,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,3,4,BFA-004,Arrivals added BFA-004; stage 3 -> 4.
-2026-10-17,CMR,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-005; CMR-006; stage unchanged.
-2026-10-17,COD,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,2,2,COD-002;COD-001,Arrivals added COD-002; stage unchanged.
-2026-10-17,DJI,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,no evidence,1,DJI-001,Arrivals added DJI-001; stage no evidence -> 1.
-2026-10-17,ETH,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,5,5,ETH-006;ETH-009,Arrivals added ETH-011; stage unchanged.
-2026-10-18,BEN,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,2,BEN-001;BEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CAF,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,3,3,CAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GMB,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GNB,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBY,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,3,LBY-001;LBY-004,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MRT,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,fact,5,5,MRT-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MUS,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,3,MUS-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NGA,include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people,review,no evidence,5,NGA-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,BFA,include.access--inclusion-of-refugees-and-idps,fact,3,4,BFA-004,Arrivals added BFA-004; stage 3 -> 4.
+2026-10-17,CMR,include.access--inclusion-of-refugees-and-idps,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-005; CMR-006; stage unchanged.
+2026-10-17,COD,include.access--inclusion-of-refugees-and-idps,fact,2,2,COD-002;COD-001,Arrivals added COD-002; stage unchanged.
+2026-10-17,DJI,include.access--inclusion-of-refugees-and-idps,fact,no evidence,1,DJI-001,Arrivals added DJI-001; stage no evidence -> 1.
+2026-10-17,ETH,include.access--inclusion-of-refugees-and-idps,fact,5,5,ETH-006;ETH-009,Arrivals added ETH-011; stage unchanged.
+2026-10-18,BEN,include.access--inclusion-of-refugees-and-idps,review,no evidence,2,BEN-001;BEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CAF,include.access--inclusion-of-refugees-and-idps,fact,3,3,CAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GMB,include.access--inclusion-of-refugees-and-idps,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNB,include.access--inclusion-of-refugees-and-idps,review,no evidence,unplaced,,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,include.access--inclusion-of-refugees-and-idps,review,no evidence,3,LBY-001;LBY-004,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,include.access--inclusion-of-refugees-and-idps,fact,5,5,MRT-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MUS,include.access--inclusion-of-refugees-and-idps,review,no evidence,3,MUS-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,include.access--inclusion-of-refugees-and-idps,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NGA,include.access--inclusion-of-refugees-and-idps,review,no evidence,5,NGA-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

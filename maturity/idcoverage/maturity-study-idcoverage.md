@@ -18,7 +18,7 @@ The study redraws `dpi.id--registration-of-entire-population`, which as at 2026-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Registration of entire population | Registration of entire population: registration of entire population | `dpi.id--registration-of-entire-population-registration-of-entire-population` |
+| Registration of entire population | Registration of entire population: registration of entire population | `dpi.id--registration-of-entire-population` |
 
 Anything else the evidence names is `other`, noted and never staged: a voter register, SIM registrations, a sectoral ID, an adults-only survey share (Findex), a count of cards produced or distributed.
 

@@ -18,7 +18,7 @@ The study redraws `gov.policy--ai-strategy`, which as at 2026-08-31 puts 26 coun
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National AI strategy | AI strategy: national AI strategy | `gov.policy--ai-strategy-national-ai-strategy` |
+| National AI strategy | AI strategy: national AI strategy | `gov.policy--ai-strategy` |
 
 Anything else the evidence names is `other`, noted and never staged: an AI law or regulation, an AI research centre, hub or lab, an AI readiness assessment, a company's or donor's AI project, a digital strategy that names AI as a priority.
 

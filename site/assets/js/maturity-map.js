@@ -55,6 +55,9 @@
 
   function readHash() {
     var h = decodeURIComponent((location.hash || "").slice(1)).split("|");
+    /* A bookmark from before 2026-10-19 carries a description after the id: keep the id. */
+    if (h[0] && !data.indicators[h[0]])
+      for (var id in data.indicators) if (h[0].indexOf(id + "-") === 0) { h[0] = id; break; }
     state.indicator = data.indicators[h[0]] ? h[0] : (state.indicator || firstStudied());
     state.country = h[1] && data.countries[h[1]] ? h[1] : (h[0] && data.indicators[h[0]] ? null : state.country);
   }

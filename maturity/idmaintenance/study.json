@@ -87,7 +87,7 @@
    "label": "National maintenance of id and credentials systems",
    "subject": "dpi.id",
    "text": "National maintenance of id and credentials systems: national maintenance of id and credentials systems",
-   "indicator_id": "dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems",
+   "indicator_id": "dpi.id--national-maintenance-of-id-and-credentials-systems",
    "class": "idsystem",
    "norm_short": "The African Union's interoperability framework asks that countries own and operate their identity systems on open standards, with no vendor lock-in and sustainable finance.",
    "criteria": [

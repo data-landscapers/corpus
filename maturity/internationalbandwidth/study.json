@@ -77,7 +77,7 @@
    "label": "Fibre routes to the rest of the world",
    "subject": "infra.connect",
    "text": "International internet bandwidth: fibre routes to the rest of the world",
-   "indicator_id": "infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world",
+   "indicator_id": "infra.connect--international-internet-bandwidth",
    "class": "route",
    "norm_short": "The African Union's Digital Transformation Strategy asks every member state for at least two international connections, and for operators to share infrastructure.",
    "criteria": [

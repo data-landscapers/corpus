@@ -1,12 +1,12 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,BDI,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,2,BDI-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,COD,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,3,COD-002,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,GAB,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,unplaced,2,GAB-003,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,MAR,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SWZ,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,2,SWZ-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TCD,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,LSO,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,2,2,LSO-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-13,NER,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,ETH,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,fact,3,3,ETH-003;ETH-002,Arrivals added ETH-005; stage unchanged.
-2026-10-17,LSO,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,fact,2,2,LSO-004,Arrivals added LSO-004; stage unchanged.
-2026-10-17,STP,gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework,fact,2,3,STP-004,Arrivals added STP-004; stage 2 -> 3.
+2026-10-13,BDI,gov.policy--data-interoperability-framework-roadmap,review,no evidence,2,BDI-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,COD,gov.policy--data-interoperability-framework-roadmap,review,no evidence,3,COD-002,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,GAB,gov.policy--data-interoperability-framework-roadmap,review,unplaced,2,GAB-003,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,MAR,gov.policy--data-interoperability-framework-roadmap,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SWZ,gov.policy--data-interoperability-framework-roadmap,review,no evidence,2,SWZ-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.policy--data-interoperability-framework-roadmap,review,no evidence,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,LSO,gov.policy--data-interoperability-framework-roadmap,review,2,2,LSO-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-13,NER,gov.policy--data-interoperability-framework-roadmap,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,ETH,gov.policy--data-interoperability-framework-roadmap,fact,3,3,ETH-003;ETH-002,Arrivals added ETH-005; stage unchanged.
+2026-10-17,LSO,gov.policy--data-interoperability-framework-roadmap,fact,2,2,LSO-004,Arrivals added LSO-004; stage unchanged.
+2026-10-17,STP,gov.policy--data-interoperability-framework-roadmap,fact,2,3,STP-004,Arrivals added STP-004; stage 2 -> 3.

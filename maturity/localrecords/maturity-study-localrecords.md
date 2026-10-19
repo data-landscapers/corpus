@@ -20,7 +20,7 @@ status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, writt
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Revenue records | Digitalisation of local government records: revenue records | `digital.localgov--digitalisation-of-local-government-records-revenue-records` |
+| Revenue records | Digitalisation of local government records: revenue records | `digital.localgov--digitalisation-of-local-government-records` |
 
 The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collection`, `dpi.registry--tax-register` and `dpi.mis--tax` stage the national tax authority and are not redrawn.
 

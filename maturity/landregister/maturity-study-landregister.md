@@ -18,7 +18,7 @@ The study redraws `dpi.registry--land-register`, which as at 2026-08-31 puts 23 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Land register | Land register: land register | `dpi.registry--land-register-land-register` |
+| Land register | Land register: land register | `dpi.registry--land-register` |
 
 Anything else the evidence names is `other`, noted and never staged: a land law or policy with no system, a mapping project with no register, a private property portal, a land dispute with no register named.
 

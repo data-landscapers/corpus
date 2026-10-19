@@ -18,7 +18,7 @@ The study redraws `include.access--inclusion-of-refugees-and-idps`, which as at 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Refugees and displaced people | Inclusion of refugees and IDPs: refugees and displaced people | `include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people` |
+| Refugees and displaced people | Inclusion of refugees and IDPs: refugees and displaced people | `include.access--inclusion-of-refugees-and-idps` |
 
 Anything else the evidence names is `other`, noted and never staged: aid, food or shelter with no registration or digital service, returnees or citizens abroad, a count of displaced people with no registration, a donor's statement of intent, a camp's health or school services.
 

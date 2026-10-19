@@ -18,7 +18,7 @@ The study redraws `dpi.registry--address-register`, which as at 2026-08-31 puts 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Address register | Address register: address register | `dpi.registry--address-register-address-register` |
+| Address register | Address register: address register | `dpi.registry--address-register` |
 
 Anything else the evidence names is `other`, noted and never staged: a private map or delivery app with no government role, a land cadastre, a postcode list with no addresses.
 

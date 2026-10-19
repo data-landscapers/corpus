@@ -20,7 +20,7 @@ The study redraws `infra.store--off-site-backup-capacity`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Off-site backup for government systems | Off-site backup capacity: off-site backup for government systems | `infra.store--off-site-backup-capacity-off-site-backup-for-government-systems` |
+| Off-site backup for government systems | Off-site backup capacity: off-site backup for government systems | `infra.store--off-site-backup-capacity` |
 
 Anything else the evidence names is `other`, noted and never staged: backup equipment or a site tendered, financed or under construction; a commercial provider selling backup or disaster recovery, unless a source states it holds government systems; a second network link or satellite route, which is redundancy of connection, not of data; backup power; a backup site nearer than 200 km, or in no named place.
 

@@ -18,7 +18,7 @@ The study redraws `gov.standards--national-interoperability-standards`, which as
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Technical standards for government systems | National interoperability standards: technical standards for government systems | `gov.standards--national-interoperability-standards-technical-standards-for-government-systems` |
+| Technical standards for government systems | National interoperability standards: technical standards for government systems | `gov.standards--national-interoperability-standards` |
 
 Anything else the evidence names is `other`, noted and never staged: an interoperability framework with no source saying it sets technical standards, which the interoperability framework row holds; a data exchange platform; standards for one sector only (health, statistics, land); a standard for one function, such as information security, electronic signatures, identity checks or payments; the telecoms regulator's equipment standards; a law on data sharing; a digital strategy that names standards as an aim.
 

@@ -1,5 +1,6 @@
 ## 19 October 2026
 
+- Every Maturity Assessment indicator is now named by its id alone, as in the indicator list, in links, bookmarks and download file names: `gov.policy--digital-transformation-strategy`, not `gov.policy--digital-transformation-strategy-national-strategy`. Old map bookmarks still open the right indicator; the downloads are new editions under the new names.
 - The Maturity Assessment map is no longer under construction, and its download buttons now work: one CSV for the selected indicator, or one for all of them. Each is a dated edition, and a new one is cut only when its stages change.
 - On the Maturity Assessment map, a country with no evidence is now left white and outlined, and grey means only unplaced: evidence held that meets no rung. The legend shows the two separately.
 - The map's Changes in the past six months box now counts only stage changes recorded from 20 October 2026. Everything earlier was the initial assessment filled in, not change.

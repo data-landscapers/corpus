@@ -1,12 +1,12 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,DJI,gov.legislate--access-to-information-legislation-access-to-information-law,review,no evidence,2,DJI-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ETH,gov.legislate--access-to-information-legislation-access-to-information-law,review,no evidence,3,ETH-003;ETH-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,MUS,gov.legislate--access-to-information-legislation-access-to-information-law,review,no evidence,1,MUS-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,STP,gov.legislate--access-to-information-legislation-access-to-information-law,review,no evidence,2,STP-002;STP-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TCD,gov.legislate--access-to-information-legislation-access-to-information-law,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,BEN,gov.legislate--access-to-information-legislation-access-to-information-law,review,no evidence,2,BEN-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,BEN,gov.legislate--access-to-information-legislation-access-to-information-law,fact,2,3,BEN-004,Arrivals added BEN-004; stage 2 -> 3.
-2026-10-17,GMB,gov.legislate--access-to-information-legislation-access-to-information-law,fact,4,4,GMB-004;GMB-006;GMB-008,Arrivals added GMB-008; GMB-009; stage unchanged.
-2026-10-17,SLE,gov.legislate--access-to-information-legislation-access-to-information-law,fact,4,4,SLE-003;SLE-008;SLE-012,Arrivals added SLE-012; stage unchanged.
-2026-10-17,ZAF,gov.legislate--access-to-information-legislation-access-to-information-law,fact,5,5,ZAF-003;ZAF-010;ZAF-001,Arrivals added ZAF-011; stage unchanged.
-2026-10-18,SEN,gov.legislate--access-to-information-legislation-access-to-information-law,review,4,3,SEN-005;SEN-002,"Rebuild: the OGP report says the law created the commission, not that it was appointed; read as Guinea's, so 4 to 3."
+2026-10-13,DJI,gov.legislate--access-to-information-legislation,review,no evidence,2,DJI-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ETH,gov.legislate--access-to-information-legislation,review,no evidence,3,ETH-003;ETH-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,MUS,gov.legislate--access-to-information-legislation,review,no evidence,1,MUS-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,STP,gov.legislate--access-to-information-legislation,review,no evidence,2,STP-002;STP-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.legislate--access-to-information-legislation,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,BEN,gov.legislate--access-to-information-legislation,review,no evidence,2,BEN-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,BEN,gov.legislate--access-to-information-legislation,fact,2,3,BEN-004,Arrivals added BEN-004; stage 2 -> 3.
+2026-10-17,GMB,gov.legislate--access-to-information-legislation,fact,4,4,GMB-004;GMB-006;GMB-008,Arrivals added GMB-008; GMB-009; stage unchanged.
+2026-10-17,SLE,gov.legislate--access-to-information-legislation,fact,4,4,SLE-003;SLE-008;SLE-012,Arrivals added SLE-012; stage unchanged.
+2026-10-17,ZAF,gov.legislate--access-to-information-legislation,fact,5,5,ZAF-003;ZAF-010;ZAF-001,Arrivals added ZAF-011; stage unchanged.
+2026-10-18,SEN,gov.legislate--access-to-information-legislation,review,4,3,SEN-005;SEN-002,"Rebuild: the OGP report says the law created the commission, not that it was appointed; read as Guinea's, so 4 to 3."

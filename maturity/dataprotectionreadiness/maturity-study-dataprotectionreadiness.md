@@ -18,7 +18,7 @@ The study redraws `gov.protect--national-data-protection-readiness`, which as at
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Data protection system | National data protection readiness: data protection system | `gov.protect--national-data-protection-readiness-data-protection-system` |
+| Data protection system | National data protection readiness: data protection system | `gov.protect--national-data-protection-readiness` |
 
 ## 2. The questions
 

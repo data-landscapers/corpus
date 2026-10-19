@@ -18,7 +18,7 @@ The study redraws `infra.connect--satellite-broadband-licensing-and-availability
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Satellite broadband licensed and on sale | Satellite broadband licensing and availability: satellite broadband licensed and on sale | `infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale` |
+| Satellite broadband licensed and on sale | Satellite broadband licensing and availability: satellite broadband licensed and on sale | `infra.connect--satellite-broadband-licensing-and-availability` |
 
 Anything else the evidence names is `other`, noted and never staged: a licence applied for, a framework drafted or a tender open; satellite links that carry a mobile operator's own traffic; direct-to-phone messaging; satellite links serving only government sites; satellite capacity for international routes, which `internationalbandwidth` assesses; prices and speeds, reported in the long summary and setting nothing.
 

@@ -18,7 +18,7 @@ The study redraws `dpi.id--robustness-of-system`, which as at 2026-08-31 puts 32
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Robustness of system | Robustness of system: robustness of system | `dpi.id--robustness-of-system-robustness-of-system` |
+| Robustness of system | Robustness of system: robustness of system | `dpi.id--robustness-of-system` |
 
 Anything else the evidence names is `other`, noted and never staged: a voter card, a passport, a sectoral ID (health, social, student), a civil register of births and deaths on its own, a law with no system.
 

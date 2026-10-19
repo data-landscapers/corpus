@@ -48,7 +48,7 @@
    "label": "Land",
    "subject": "dpi.mis",
    "text": "Land: land",
-   "indicator_id": "dpi.mis--land-land",
+   "indicator_id": "dpi.mis--land",
    "class": "landmis",
    "norm_short": "The AU Framework and Guidelines on Land Policy asks for a computerised land information system through which rights are registered and tracked across the administration's functions.",
    "criteria": [

@@ -87,7 +87,7 @@
    "label": "G2P functionality",
    "subject": "dpi.pay",
    "text": "G2P functionality: g2p functionality",
-   "indicator_id": "dpi.pay--g2p-functionality-g2p-functionality",
+   "indicator_id": "dpi.pay--g2p-functionality",
    "class": "g2p",
    "norm_short": "The African Union's Digital Transformation Strategy asks governments to digitise government-to-person payments.",
    "criteria": [

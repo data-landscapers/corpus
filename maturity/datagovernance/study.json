@@ -102,7 +102,7 @@
       "label": "National data policy",
       "subject": "gov.policy",
       "text": "Data governance policy: national data policy",
-      "indicator_id": "gov.policy--data-governance-policy-national-data-policy",
+      "indicator_id": "gov.policy--data-governance-policy",
       "norm_short": "The African Union's Data Policy Framework (2022) asks each member state to write a national data policy, put it into its own rules and institutions, and monitor it.",
       "class": "policy",
       "criteria": [

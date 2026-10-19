@@ -18,7 +18,7 @@ The study redraws `gov.legislate--ai-legislation-regulations`, which as at 2026-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| AI law or binding rule | AI legislation / regulations: AI law or binding rule | `gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule` |
+| AI law or binding rule | AI legislation / regulations: AI law or binding rule | `gov.legislate--ai-legislation-regulations` |
 
 Anything else the evidence names is `other`, noted and never staged: an AI strategy or policy, ethics principles or guidelines with no legal force, a data protection law's general rule on automated decisions, a readiness assessment, an AI council, office or institute, a court ruling, a treaty or a continental framework.
 

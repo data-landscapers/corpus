@@ -1,7 +1,7 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,GIN,gov.legislate--digital-payments-legislation-payments-law,review,unplaced,4,GIN-005;GIN-004;GIN-003,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-17,TGO,gov.legislate--digital-payments-legislation-payments-law,fact,5,5,TGO-002;TGO-003;TGO-005;TGO-007,Arrivals added TGO-007; stage unchanged.
-2026-10-17,UGA,gov.legislate--digital-payments-legislation-payments-law,fact,4,4,UGA-002;UGA-003,Arrivals added UGA-003; stage unchanged.
-2026-10-18,MWI,gov.legislate--digital-payments-legislation-payments-law,fact,3,4,MWI-003;MWI-001;MWI-002,"Reserve Bank licensed non-bank fintech PayChangu under the Payment Systems Act, 2016 on 30 September 2026 (MWI-003): 3 to 4."
-2026-10-18,SSD,gov.legislate--digital-payments-legislation-payments-law,fact,2,5,SSD-007;SSD-006;SSD-005,Electronic Money Regulation 2017 Amendment 2025 reported in effect 1 September 2026: licenses non-bank e-money issuers and requires every payment platform to connect through a licensed switch (SSD-005 to SSD-007): 2 to 5.
-2026-10-18,ZAF,gov.legislate--digital-payments-legislation-payments-law,fact,3,4,ZAF-008;ZAF-007,"Reserve Bank regulation page lists non-banks designated as clearing system participants under the NPS Act, Yoco 2021 and Payfast 2024 (ZAF-008): 3 to 4."
+2026-10-13,GIN,gov.legislate--digital-payments-legislation,review,unplaced,4,GIN-005;GIN-004;GIN-003,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-17,TGO,gov.legislate--digital-payments-legislation,fact,5,5,TGO-002;TGO-003;TGO-005;TGO-007,Arrivals added TGO-007; stage unchanged.
+2026-10-17,UGA,gov.legislate--digital-payments-legislation,fact,4,4,UGA-002;UGA-003,Arrivals added UGA-003; stage unchanged.
+2026-10-18,MWI,gov.legislate--digital-payments-legislation,fact,3,4,MWI-003;MWI-001;MWI-002,"Reserve Bank licensed non-bank fintech PayChangu under the Payment Systems Act, 2016 on 30 September 2026 (MWI-003): 3 to 4."
+2026-10-18,SSD,gov.legislate--digital-payments-legislation,fact,2,5,SSD-007;SSD-006;SSD-005,Electronic Money Regulation 2017 Amendment 2025 reported in effect 1 September 2026: licenses non-bank e-money issuers and requires every payment platform to connect through a licensed switch (SSD-005 to SSD-007): 2 to 5.
+2026-10-18,ZAF,gov.legislate--digital-payments-legislation,fact,3,4,ZAF-008;ZAF-007,"Reserve Bank regulation page lists non-banks designated as clearing system participants under the NPS Act, Yoco 2021 and Payfast 2024 (ZAF-008): 3 to 4."

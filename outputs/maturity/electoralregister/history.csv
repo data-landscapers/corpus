@@ -1,24 +1,24 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,BEN,dpi.registry--electoral-register-electoral-register,fact,5,5,BEN-003;BEN-006,Arrivals added BEN-004; BEN-005; BEN-006; stage unchanged.
-2026-10-17,COD,dpi.registry--electoral-register-electoral-register,fact,3,3,COD-001;COD-002,Arrivals added COD-002; stage unchanged.
-2026-10-17,LSO,dpi.registry--electoral-register-electoral-register,fact,no evidence,unplaced,,Arrivals added LSO-001; stage no evidence -> unplaced.
-2026-10-17,MWI,dpi.registry--electoral-register-electoral-register,fact,4,5,MWI-002,Arrivals added MWI-002; stage 4 -> 5.
-2026-10-18,AGO,dpi.registry--electoral-register-electoral-register,fact,5,5,AGO-001;AGO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,BFA,dpi.registry--electoral-register-electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COG,dpi.registry--electoral-register-electoral-register,review,no evidence,4,COG-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COM,dpi.registry--electoral-register-electoral-register,review,no evidence,4,COM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DJI,dpi.registry--electoral-register-electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DZA,dpi.registry--electoral-register-electoral-register,review,no evidence,2,DZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,dpi.registry--electoral-register-electoral-register,review,no evidence,5,EGY-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,dpi.registry--electoral-register-electoral-register,review,unplaced,5,LSO-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MAR,dpi.registry--electoral-register-electoral-register,review,no evidence,4,MAR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MOZ,dpi.registry--electoral-register-electoral-register,review,no evidence,4,MOZ-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MUS,dpi.registry--electoral-register-electoral-register,review,no evidence,4,MUS-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NER,dpi.registry--electoral-register-electoral-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,RWA,dpi.registry--electoral-register-electoral-register,review,no evidence,5,RWA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,dpi.registry--electoral-register-electoral-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SSD,dpi.registry--electoral-register-electoral-register,review,no evidence,1,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SYC,dpi.registry--electoral-register-electoral-register,review,unplaced,4,SYC-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TCD,dpi.registry--electoral-register-electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.registry--electoral-register-electoral-register,review,no evidence,2,TGO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TUN,dpi.registry--electoral-register-electoral-register,review,no evidence,4,TUN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,BEN,dpi.registry--electoral-register,fact,5,5,BEN-003;BEN-006,Arrivals added BEN-004; BEN-005; BEN-006; stage unchanged.
+2026-10-17,COD,dpi.registry--electoral-register,fact,3,3,COD-001;COD-002,Arrivals added COD-002; stage unchanged.
+2026-10-17,LSO,dpi.registry--electoral-register,fact,no evidence,unplaced,,Arrivals added LSO-001; stage no evidence -> unplaced.
+2026-10-17,MWI,dpi.registry--electoral-register,fact,4,5,MWI-002,Arrivals added MWI-002; stage 4 -> 5.
+2026-10-18,AGO,dpi.registry--electoral-register,fact,5,5,AGO-001;AGO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BFA,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COG,dpi.registry--electoral-register,review,no evidence,4,COG-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COM,dpi.registry--electoral-register,review,no evidence,4,COM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DJI,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.registry--electoral-register,review,no evidence,2,DZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.registry--electoral-register,review,no evidence,5,EGY-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.registry--electoral-register,review,unplaced,5,LSO-003,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,dpi.registry--electoral-register,review,no evidence,4,MAR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.registry--electoral-register,review,no evidence,4,MOZ-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,dpi.registry--electoral-register,review,no evidence,4,MUS-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NER,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,RWA,dpi.registry--electoral-register,review,no evidence,5,RWA-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,dpi.registry--electoral-register,review,no evidence,1,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SYC,dpi.registry--electoral-register,review,unplaced,4,SYC-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TCD,dpi.registry--electoral-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.registry--electoral-register,review,no evidence,2,TGO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TUN,dpi.registry--electoral-register,review,no evidence,4,TUN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

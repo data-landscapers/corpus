@@ -20,7 +20,7 @@ The study redraws `infra.capacity--robustness-of-government-hardware-and-softwar
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Core government systems | Robustness of government hardware and software: core government systems | `infra.capacity--robustness-of-government-hardware-and-software-core-government-systems` |
+| Core government systems | Robustness of government hardware and software: core government systems | `infra.capacity--robustness-of-government-hardware-and-software` |
 
 Anything else the evidence names is `other`, noted and never staged: a system bought, tendered or piloted but not in use; one ministry's or one region's system; customs (ASYCUDA and the like); a portal, a payment gateway or an ID system; a cyber attack that did not take a core system down.
 

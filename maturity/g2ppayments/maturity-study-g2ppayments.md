@@ -18,7 +18,7 @@ The study redraws `dpi.pay--g2p-functionality`, which as at 2026-08-31 puts 31 c
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| G2P functionality | G2P functionality: g2p functionality | `dpi.pay--g2p-functionality-g2p-functionality` |
+| G2P functionality | G2P functionality: g2p functionality | `dpi.pay--g2p-functionality` |
 
 Anything else the evidence names is `other`, noted and never staged: a donor's or NGO's own cash programme with no government role, a payment from a person to government, payments to firms.
 

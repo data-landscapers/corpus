@@ -18,7 +18,7 @@ The study redraws `capacity.training--dt-related-university-facilities-and-quali
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| STEM graduates | DT-related university facilities and qualifications: STEM graduates | `capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates` |
+| STEM graduates | DT-related university facilities and qualifications: STEM graduates | `capacity.training--dt-related-university-facilities-and-qualifications` |
 
 Anything else the evidence names is `other`, noted and never staged: a university's own campus network, a single university's lab or hub, a degree programme on its own.
 

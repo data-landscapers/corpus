@@ -18,7 +18,7 @@ The study redraws `include.divides--bridging-of-digital-divides`, which as at 20
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Rural internet gap | Bridging of digital divides: rural internet gap | `include.divides--bridging-of-digital-divides-rural-internet-gap` |
+| Rural internet gap | Bridging of digital divides: rural internet gap | `include.divides--bridging-of-digital-divides` |
 
 Anything else the evidence names is `other`, noted and never staged: a programme for schools or hospitals only, an operator's commercial roll-out with no government part, electricity with no internet, a national internet use figure with no rural and urban split, a figure for phone ownership or network coverage only.
 

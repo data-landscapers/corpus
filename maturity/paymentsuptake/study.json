@@ -84,7 +84,7 @@
    "label": "Population uptake",
    "subject": "dpi.pay",
    "text": "Population uptake: population uptake",
-   "indicator_id": "dpi.pay--population-uptake-population-uptake",
+   "indicator_id": "dpi.pay--population-uptake",
    "class": "survey",
    "norm_short": "The World Bank's Global Findex 2025 puts account ownership at 79% of adults worldwide; the frame takes that as the target.",
    "criteria": [

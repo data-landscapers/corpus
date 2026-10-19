@@ -18,7 +18,7 @@ The study redraws `dpi.registry--business-register`, which as at 2026-08-31 puts
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Business register | Business register: business register | `dpi.registry--business-register-business-register` |
+| Business register | Business register: business register | `dpi.registry--business-register` |
 
 Anything else the evidence names is `other`, noted and never staged: a chamber of commerce membership list, a tax register alone, a licence for one sector, a private directory.
 

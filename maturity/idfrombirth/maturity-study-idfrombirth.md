@@ -18,7 +18,7 @@ The study redraws `dpi.id--digital-id-from-birth`, which as at 2026-08-31 puts t
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Digital id from birth | Digital id from birth: digital id from birth | `dpi.id--digital-id-from-birth-digital-id-from-birth` |
+| Digital id from birth | Digital id from birth: digital id from birth | `dpi.id--digital-id-from-birth` |
 
 Anything else the evidence names is `other`, noted and never staged: a birth certificate with only a certificate serial number, an ID number given at 16 or 18, a health card number, a birth registration campaign with no number.
 

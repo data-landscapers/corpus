@@ -84,7 +84,7 @@
    "label": "Robustness of system",
    "subject": "dpi.id",
    "text": "Robustness of system: robustness of system",
-   "indicator_id": "dpi.id--robustness-of-system-robustness-of-system",
+   "indicator_id": "dpi.id--robustness-of-system",
    "class": "idsystem",
    "norm_short": "The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust.",
    "criteria": [

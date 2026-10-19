@@ -1,4 +1,4 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,MWI,infra.connect--mobile-affordability-the-price-of-mobile-data-against-income,fact,2,3,MWI-005,Arrivals added MWI-005; stage 2 -> 3.
-2026-10-17,UGA,infra.connect--mobile-affordability-the-price-of-mobile-data-against-income,fact,2,3,UGA-007,Arrivals added UGA-007; stage 2 -> 3.
-2026-10-17,ZWE,infra.connect--mobile-affordability-the-price-of-mobile-data-against-income,fact,unplaced,2,ZWE-003,Arrivals added ZWE-003; ZWE-004; stage unplaced -> 2.
+2026-10-17,MWI,infra.connect--mobile-affordability,fact,2,3,MWI-005,Arrivals added MWI-005; stage 2 -> 3.
+2026-10-17,UGA,infra.connect--mobile-affordability,fact,2,3,UGA-007,Arrivals added UGA-007; stage 2 -> 3.
+2026-10-17,ZWE,infra.connect--mobile-affordability,fact,unplaced,2,ZWE-003,Arrivals added ZWE-003; ZWE-004; stage unplaced -> 2.

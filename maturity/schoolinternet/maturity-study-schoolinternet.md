@@ -18,7 +18,7 @@ The study redraws `capacity.training--dt-related-training-in-secondary-education
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Internet in secondary schools | DT-related training in secondary education: internet in secondary schools | `capacity.training--dt-related-training-in-secondary-education-internet-in-secondary-schools` |
+| Internet in secondary schools | DT-related training in secondary education: internet in secondary schools | `capacity.training--dt-related-training-in-secondary-education` |
 
 Anything else the evidence names is `other`, noted and never staged: a connectivity or device programme, an optional or pilot course, a coding club, primary or university teaching.
 

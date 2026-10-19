@@ -1,10 +1,10 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,ETH,dpi.pay--cross-border-functionality-cross-border-functionality,fact,2,4,ETH-004;ETH-005,Arrivals added ETH-004; ETH-005; stage 2 -> 4.
-2026-10-18,CPV,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GIN,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,3,MDG-002;MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MRT,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SDN,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,2,SDN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SSD,dpi.pay--cross-border-functionality-cross-border-functionality,review,no evidence,3,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZAF,dpi.pay--cross-border-functionality-cross-border-functionality,fact,5,5,ZAF-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,dpi.pay--cross-border-functionality-cross-border-functionality,review,unplaced,5,ZWE-005,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,ETH,dpi.pay--cross-border-functionality,fact,2,4,ETH-004;ETH-005,Arrivals added ETH-004; ETH-005; stage 2 -> 4.
+2026-10-18,CPV,dpi.pay--cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,dpi.pay--cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.pay--cross-border-functionality,review,no evidence,3,MDG-002;MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.pay--cross-border-functionality,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,dpi.pay--cross-border-functionality,review,no evidence,2,SDN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,dpi.pay--cross-border-functionality,review,no evidence,3,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.pay--cross-border-functionality,fact,5,5,ZAF-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,dpi.pay--cross-border-functionality,review,unplaced,5,ZWE-005,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

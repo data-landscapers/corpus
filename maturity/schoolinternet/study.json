@@ -41,7 +41,7 @@
    "label": "Internet in secondary schools",
    "subject": "capacity.training",
    "text": "DT-related training in secondary education: internet in secondary schools",
-   "indicator_id": "capacity.training--dt-related-training-in-secondary-education-internet-in-secondary-schools",
+   "indicator_id": "capacity.training--dt-related-training-in-secondary-education",
    "class": "schoolinternet",
    "norm_short": "The AU Digital Education Strategy asks for half of institutions connected by 2027 and a digital literacy and coding framework for all students.",
    "criteria": [

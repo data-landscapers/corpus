@@ -56,7 +56,7 @@
    "label": "ICT exports and production",
    "subject": "tech.industry",
    "text": "National capacity in DT-related production: ICT exports and production",
-   "indicator_id": "tech.industry--national-capacity-in-dt-related-production-ict-exports-and-production",
+   "indicator_id": "tech.industry--national-capacity-in-dt-related-production",
    "class": "ictproduction",
    "norm_short": "The Digital Transformation Strategy's digital industry pillar asks for ICT assembling and manufacturing plants and growing ICT exports; STISA-2034 asks for technology-based production.",
    "criteria": [

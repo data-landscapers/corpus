@@ -18,7 +18,7 @@ The study redraws `dpi.mis--tax`, which as at 2026-08-31 puts 12 countries at st
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Tax | Tax: tax | `dpi.mis--tax-tax` |
+| Tax | Tax: tax | `dpi.mis--tax` |
 
 Anything else the evidence names is `other`, noted and never staged: a taxpayer register or number alone, a tax law or rate change, electronic invoicing or fiscal tills with no filing, customs duties.
 

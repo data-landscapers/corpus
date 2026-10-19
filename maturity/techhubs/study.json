@@ -57,7 +57,7 @@
    "label": "Technology hubs",
    "subject": "tech.innovate",
    "text": "Technology hubs: technology hubs",
-   "indicator_id": "tech.innovate--technology-hubs-technology-hubs",
+   "indicator_id": "tech.innovate--technology-hubs",
    "class": "hub",
    "norm_short": "The Digital Transformation Strategy asks for a technology park and incubation hub in each region, and local innovation centres.",
    "criteria": [

@@ -18,7 +18,7 @@ The study redraws `dpi.id--authentication`, which as at 2026-08-31 puts one coun
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Authentication | Authentication: authentication | `dpi.id--authentication-authentication` |
+| Authentication | Authentication: authentication | `dpi.id--authentication` |
 
 Anything else the evidence names is `other`, noted and never staged: a password login to one website, card inspection by eye, a law allowing e-signatures with no service, a payment app's own login.
 

@@ -18,7 +18,7 @@ The study redraws `dpi.exchange--interoperability-of-social-protection-systems`,
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Interoperability of social protection systems | Interoperability of social protection systems: interoperability of social protection systems | `dpi.exchange--interoperability-of-social-protection-systems-interoperability-of-social-protection-systems` |
+| Interoperability of social protection systems | Interoperability of social protection systems: interoperability of social protection systems | `dpi.exchange--interoperability-of-social-protection-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a beneficiary list kept for one programme with no link, a survey or targeting exercise, a payment made in cash with no system link, a plan or policy with no link in service.
 

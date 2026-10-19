@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-interoperability-framework-roadmap`, which a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Government interoperability framework | Data interoperability framework / roadmap: government interoperability framework | `gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework` |
+| Government interoperability framework | Data interoperability framework / roadmap: government interoperability framework | `gov.policy--data-interoperability-framework-roadmap` |
 
 Anything else the evidence names is `other`, noted and never staged: a data exchange platform built or planned with no framework behind it, an agreement between two agencies to share data, a framework for one sector only (health, land, spatial data), a digital strategy that names interoperability as an aim.
 

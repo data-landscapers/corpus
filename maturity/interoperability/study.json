@@ -88,7 +88,7 @@
       "label": "Government interoperability framework",
       "subject": "gov.policy",
       "text": "Data interoperability framework / roadmap: government interoperability framework",
-      "indicator_id": "gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework",
+      "indicator_id": "gov.policy--data-interoperability-framework-roadmap",
       "norm_short": "The African Union's Digital Transformation Strategy asks for an interoperability framework with implementing acts. Its Data Policy Framework asks for open data standards, and its interoperability framework for open standards with no dependence on one supplier.",
       "class": "framework",
       "criteria": [

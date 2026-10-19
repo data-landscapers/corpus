@@ -1,27 +1,27 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,TGO,dpi.registry--business-register-business-register,fact,no evidence,5,TGO-002,Arrivals added TGO-001; TGO-002; stage no evidence -> 5.
-2026-10-17,TUN,dpi.registry--business-register-business-register,fact,4,4,TUN-003,Arrivals added TUN-006; stage unchanged.
-2026-10-18,AGO,dpi.registry--business-register-business-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BDI,dpi.registry--business-register-business-register,review,unplaced,3,BDI-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BEN,dpi.registry--business-register-business-register,review,no evidence,4,BEN-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BWA,dpi.registry--business-register-business-register,review,no evidence,3,BWA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CIV,dpi.registry--business-register-business-register,review,no evidence,3,CIV-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CPV,dpi.registry--business-register-business-register,review,no evidence,3,CPV-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DJI,dpi.registry--business-register-business-register,fact,no evidence,3,DJI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,DZA,dpi.registry--business-register-business-register,review,no evidence,4,DZA-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,dpi.registry--business-register-business-register,review,no evidence,3,EGY-003;EGY-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GAB,dpi.registry--business-register-business-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GIN,dpi.registry--business-register-business-register,fact,no evidence,2,GIN-002;GIN-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GNB,dpi.registry--business-register-business-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GNQ,dpi.registry--business-register-business-register,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBY,dpi.registry--business-register-business-register,review,no evidence,2,LBY-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,dpi.registry--business-register-business-register,fact,2,2,LSO-001;LSO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MAR,dpi.registry--business-register-business-register,review,no evidence,3,MAR-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MOZ,dpi.registry--business-register-business-register,review,no evidence,5,MOZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MRT,dpi.registry--business-register-business-register,review,no evidence,4,MRT-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MUS,dpi.registry--business-register-business-register,review,unplaced,3,MUS-003;MUS-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,dpi.registry--business-register-business-register,review,no evidence,2,MWI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,dpi.registry--business-register-business-register,fact,no evidence,3,SLE-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,TGO,dpi.registry--business-register-business-register,fact,5,5,TGO-002;TGO-005,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
-2026-10-18,TZA,dpi.registry--business-register-business-register,fact,no evidence,3,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,dpi.registry--business-register-business-register,review,no evidence,3,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,TGO,dpi.registry--business-register,fact,no evidence,5,TGO-002,Arrivals added TGO-001; TGO-002; stage no evidence -> 5.
+2026-10-17,TUN,dpi.registry--business-register,fact,4,4,TUN-003,Arrivals added TUN-006; stage unchanged.
+2026-10-18,AGO,dpi.registry--business-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BDI,dpi.registry--business-register,review,unplaced,3,BDI-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BEN,dpi.registry--business-register,review,no evidence,4,BEN-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BWA,dpi.registry--business-register,review,no evidence,3,BWA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CIV,dpi.registry--business-register,review,no evidence,3,CIV-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CPV,dpi.registry--business-register,review,no evidence,3,CPV-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DJI,dpi.registry--business-register,fact,no evidence,3,DJI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DZA,dpi.registry--business-register,review,no evidence,4,DZA-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.registry--business-register,review,no evidence,3,EGY-003;EGY-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,dpi.registry--business-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,dpi.registry--business-register,fact,no evidence,2,GIN-002;GIN-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GNB,dpi.registry--business-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNQ,dpi.registry--business-register,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,dpi.registry--business-register,review,no evidence,2,LBY-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.registry--business-register,fact,2,2,LSO-001;LSO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MAR,dpi.registry--business-register,review,no evidence,3,MAR-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.registry--business-register,review,no evidence,5,MOZ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.registry--business-register,review,no evidence,4,MRT-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,dpi.registry--business-register,review,unplaced,3,MUS-003;MUS-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,dpi.registry--business-register,review,no evidence,2,MWI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.registry--business-register,fact,no evidence,3,SLE-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TGO,dpi.registry--business-register,fact,5,5,TGO-002;TGO-005,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.registry--business-register,fact,no evidence,3,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,dpi.registry--business-register,review,no evidence,3,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

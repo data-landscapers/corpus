@@ -52,7 +52,7 @@
    "label": "Tax register",
    "subject": "dpi.registry",
    "text": "Tax register: tax register",
-   "indicator_id": "dpi.registry--tax-register-tax-register",
+   "indicator_id": "dpi.registry--tax-register",
    "class": "tax",
    "norm_short": "The TADAT framework asks for every taxpayer to hold one unique identifier in one central database, shared with other registers.",
    "criteria": [

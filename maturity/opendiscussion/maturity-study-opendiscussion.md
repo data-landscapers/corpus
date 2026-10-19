@@ -22,7 +22,7 @@ The study redraws `gov.discourse--open-discussion-of-government-policy`, which a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Freedom to discuss policy online and in the press | Open discussion of government policy: freedom to discuss policy online and in the press | `gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press` |
+| Freedom to discuss policy online and in the press | Open discussion of government policy: freedom to discuss policy online and in the press | `gov.discourse--open-discussion-of-government-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a score or rank on a freedom index; a law that punishes speech under which no one is reported charged; a power to block or intercept that has not been used; a request to a platform to take content down; a licence or fee for online publishers; a rule on children's use of social media; a consultation, which is `publicconsultation`'s; an access-to-information law, which is `accesstoinformationlaw`'s.
 

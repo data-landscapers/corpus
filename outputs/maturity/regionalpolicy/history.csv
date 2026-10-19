@@ -1,23 +1,23 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,AGO,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,AGO-002;AGO-003,Arrivals added AGO-004; AGO-005; stage unchanged.
-2026-10-17,BWA,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,4,4,BWA-002;BWA-004;BWA-001,Arrivals added BWA-009; stage unchanged.
-2026-10-17,CIV,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,CIV-001;CIV-009,Arrivals added CIV-008; CIV-009; stage unchanged.
-2026-10-17,CPV,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,CPV-001,Arrivals added CPV-004; stage unchanged.
-2026-10-17,DZA,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,4,4,DZA-004;DZA-003,Arrivals added DZA-005; stage unchanged.
-2026-10-17,GAB,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,2,2,GAB-005;GAB-001,Arrivals added GAB-005; stage unchanged.
-2026-10-17,GIN,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,GIN-001;GIN-003,Arrivals added GIN-008; GIN-009; stage unchanged.
-2026-10-17,GNB,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,2,2,GNB-003;GNB-002,Arrivals added GNB-003; stage unchanged.
-2026-10-17,LBR,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,4,4,LBR-005;LBR-001,Arrivals added LBR-008; stage unchanged.
-2026-10-17,MOZ,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,MOZ-003;MOZ-001,Arrivals added MOZ-004; stage unchanged.
-2026-10-17,MUS,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,2,4,MUS-004,Arrivals added MUS-003; MUS-004; stage 2 -> 4.
-2026-10-17,RWA,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,5,5,RWA-004;RWA-009;RWA-001,Arrivals added RWA-012; stage unchanged.
-2026-10-17,SDN,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,2,2,SDN-004;SDN-003,Arrivals added SDN-004; stage unchanged.
-2026-10-17,SEN,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,4,4,SEN-005;SEN-008;SEN-004,Arrivals added SEN-013; stage unchanged.
-2026-10-17,SLE,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,SLE-003;SLE-005,Arrivals added SLE-006; stage unchanged.
-2026-10-17,SSD,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,SSD-003,Arrivals added SSD-005; stage unchanged.
-2026-10-17,SWZ,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,2,3,SWZ-007,Arrivals added SWZ-010; stage 2 -> 3.
-2026-10-17,TCD,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,TCD-006;TCD-001,Arrivals added TCD-006; stage unchanged.
-2026-10-17,TGO,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,4,4,TGO-003;TGO-001,Arrivals added TGO-005; stage unchanged.
-2026-10-17,TZA,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,5,5,TZA-002;TZA-004,Arrivals added TZA-004; TZA-005; stage unchanged.
-2026-10-17,UGA,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,5,5,UGA-005;UGA-009,Arrivals added UGA-008; UGA-009; stage unchanged.
-2026-10-17,ZWE,gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy,fact,3,3,ZWE-002;ZWE-003,Arrivals added ZWE-006; stage unchanged.
+2026-10-17,AGO,gov.regional--regional-policy-collaboration,fact,3,3,AGO-002;AGO-003,Arrivals added AGO-004; AGO-005; stage unchanged.
+2026-10-17,BWA,gov.regional--regional-policy-collaboration,fact,4,4,BWA-002;BWA-004;BWA-001,Arrivals added BWA-009; stage unchanged.
+2026-10-17,CIV,gov.regional--regional-policy-collaboration,fact,3,3,CIV-001;CIV-009,Arrivals added CIV-008; CIV-009; stage unchanged.
+2026-10-17,CPV,gov.regional--regional-policy-collaboration,fact,3,3,CPV-001,Arrivals added CPV-004; stage unchanged.
+2026-10-17,DZA,gov.regional--regional-policy-collaboration,fact,4,4,DZA-004;DZA-003,Arrivals added DZA-005; stage unchanged.
+2026-10-17,GAB,gov.regional--regional-policy-collaboration,fact,2,2,GAB-005;GAB-001,Arrivals added GAB-005; stage unchanged.
+2026-10-17,GIN,gov.regional--regional-policy-collaboration,fact,3,3,GIN-001;GIN-003,Arrivals added GIN-008; GIN-009; stage unchanged.
+2026-10-17,GNB,gov.regional--regional-policy-collaboration,fact,2,2,GNB-003;GNB-002,Arrivals added GNB-003; stage unchanged.
+2026-10-17,LBR,gov.regional--regional-policy-collaboration,fact,4,4,LBR-005;LBR-001,Arrivals added LBR-008; stage unchanged.
+2026-10-17,MOZ,gov.regional--regional-policy-collaboration,fact,3,3,MOZ-003;MOZ-001,Arrivals added MOZ-004; stage unchanged.
+2026-10-17,MUS,gov.regional--regional-policy-collaboration,fact,2,4,MUS-004,Arrivals added MUS-003; MUS-004; stage 2 -> 4.
+2026-10-17,RWA,gov.regional--regional-policy-collaboration,fact,5,5,RWA-004;RWA-009;RWA-001,Arrivals added RWA-012; stage unchanged.
+2026-10-17,SDN,gov.regional--regional-policy-collaboration,fact,2,2,SDN-004;SDN-003,Arrivals added SDN-004; stage unchanged.
+2026-10-17,SEN,gov.regional--regional-policy-collaboration,fact,4,4,SEN-005;SEN-008;SEN-004,Arrivals added SEN-013; stage unchanged.
+2026-10-17,SLE,gov.regional--regional-policy-collaboration,fact,3,3,SLE-003;SLE-005,Arrivals added SLE-006; stage unchanged.
+2026-10-17,SSD,gov.regional--regional-policy-collaboration,fact,3,3,SSD-003,Arrivals added SSD-005; stage unchanged.
+2026-10-17,SWZ,gov.regional--regional-policy-collaboration,fact,2,3,SWZ-007,Arrivals added SWZ-010; stage 2 -> 3.
+2026-10-17,TCD,gov.regional--regional-policy-collaboration,fact,3,3,TCD-006;TCD-001,Arrivals added TCD-006; stage unchanged.
+2026-10-17,TGO,gov.regional--regional-policy-collaboration,fact,4,4,TGO-003;TGO-001,Arrivals added TGO-005; stage unchanged.
+2026-10-17,TZA,gov.regional--regional-policy-collaboration,fact,5,5,TZA-002;TZA-004,Arrivals added TZA-004; TZA-005; stage unchanged.
+2026-10-17,UGA,gov.regional--regional-policy-collaboration,fact,5,5,UGA-005;UGA-009,Arrivals added UGA-008; UGA-009; stage unchanged.
+2026-10-17,ZWE,gov.regional--regional-policy-collaboration,fact,3,3,ZWE-002;ZWE-003,Arrivals added ZWE-006; stage unchanged.

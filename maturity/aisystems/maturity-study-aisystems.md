@@ -18,7 +18,7 @@ The study redraws `tech.ai--development-of-national-regional-ai-systems`, which 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| AI built at home | Development of national / regional AI systems: AI built at home | `tech.ai--development-of-national-regional-ai-systems-ai-built-at-home` |
+| AI built at home | Development of national / regional AI systems: AI built at home | `tech.ai--development-of-national-regional-ai-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a foreign AI product used with no local development, an AI strategy or law, a data centre with no AI computing named, a training course, hackathon or skills programme.
 

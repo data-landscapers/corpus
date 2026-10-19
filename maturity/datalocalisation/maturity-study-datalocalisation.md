@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-localisation-policies`, which as at 2026-08-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Data localisation rule | Data localisation policies: localisation rule | `gov.policy--data-localisation-policies-localisation-rule` |
+| Data localisation rule | Data localisation policies: localisation rule | `gov.policy--data-localisation-policies` |
 
 Anything else the evidence names is `other`, noted and never staged: a condition on sending data abroad, a data centre or sovereign cloud built or planned, a company choosing to host in the country, a statement that data ought to be kept at home, a data protection law.
 

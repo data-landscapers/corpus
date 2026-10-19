@@ -18,7 +18,7 @@ The study redraws `dpi.pay--b2b-and-b2g-functionality`, which as at 2026-08-31 p
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| B2B and B2G functionality | B2B and B2G functionality: b2b and b2g functionality | `dpi.pay--b2b-and-b2g-functionality-b2b-and-b2g-functionality` |
+| B2B and B2G functionality | B2B and B2G functionality: b2b and b2g functionality | `dpi.pay--b2b-and-b2g-functionality` |
 
 Anything else the evidence names is `other`, noted and never staged: a private marketplace, a bank's corporate banking service, a tax system, a procurement law with no system.
 

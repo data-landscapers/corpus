@@ -86,7 +86,7 @@
    "label": "Cross-border functionality",
    "subject": "dpi.pay",
    "text": "Cross-border functionality: cross-border functionality",
-   "indicator_id": "dpi.pay--cross-border-functionality-cross-border-functionality",
+   "indicator_id": "dpi.pay--cross-border-functionality",
    "class": "crossborder",
    "norm_short": "The African Union's Digital Transformation Strategy and the Pan-African Payment and Settlement System aim at a single African payments area, with cross-border mobile money regulated and costs brought down.",
    "criteria": [

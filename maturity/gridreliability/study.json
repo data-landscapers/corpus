@@ -67,7 +67,7 @@
    "label": "Power outages a month",
    "subject": "infra.energy",
    "text": "Grid reliability: power outages a month",
-   "indicator_id": "infra.energy--grid-reliability-power-outages-a-month",
+   "indicator_id": "infra.energy--grid-reliability",
    "class": "grid",
    "norm_short": "The African Union's single electricity market and Continental Power System Master Plan ask for secure, reliable and affordable electricity across the continent. They set no outage figure.",
    "criteria": [

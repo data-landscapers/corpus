@@ -18,7 +18,7 @@ The study redraws `dpi.exchange--interoperability-of-health-systems`, which as a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Interoperability of health systems | Interoperability of health systems: interoperability of health systems | `dpi.exchange--interoperability-of-health-systems-interoperability-of-health-systems` |
+| Interoperability of health systems | Interoperability of health systems: interoperability of health systems | `dpi.exchange--interoperability-of-health-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a single system on its own (the health study holds those), a policy, architecture or standard with no exchange in service, a dashboard drawing on one system, telemedicine, a donor's reporting link to its own platform.
 

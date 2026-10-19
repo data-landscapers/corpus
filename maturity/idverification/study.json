@@ -50,7 +50,7 @@
    "label": "Use of digital ID in other systems",
    "subject": "dpi.exchange",
    "text": "Use of digital id in other systems: use of digital id in other systems",
-   "indicator_id": "dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems",
+   "indicator_id": "dpi.exchange--use-of-digital-id-in-other-systems",
    "class": "relying",
    "norm_short": "The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask that a national digital ID be the credential other public and private services rely on, recognised across borders.",
    "criteria": [

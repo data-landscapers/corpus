@@ -18,7 +18,7 @@ The study redraws `tech.ai--use-of-ai-in-government-administration`, which as at
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| AI in administration | Use of AI in government administration: AI in administration | `tech.ai--use-of-ai-in-government-administration-ai-in-administration` |
+| AI in administration | Use of AI in government administration: AI in administration | `tech.ai--use-of-ai-in-government-administration` |
 
 Anything else the evidence names is `other`, noted and never staged: an AI strategy, law or policy on its own, AI inside a sector's management system (health, education, agriculture, tax, customs), a training course or workshop, a company's AI product with no government user.
 

@@ -18,7 +18,7 @@ The study redraws `gov.legislate--statistics-legislation`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Statistics law | Statistics legislation: statistics law | `gov.legislate--statistics-legislation-statistics-law` |
+| Statistics law | Statistics legislation: statistics law | `gov.legislate--statistics-legislation` |
 
 Anything else the evidence names is `other`, noted and never staged: a national strategy for the development of statistics, a statistics office's strategic plan or budget, a law or decree for one census or one survey, a civil registration law, the data protection and access to information laws, an open data policy, a peer review of the statistical system, the African Charter on Statistics and whether the country has ratified it.
 

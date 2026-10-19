@@ -18,7 +18,7 @@ The study redraws `include.access--inclusion-of-persons-with-disabilities`, whic
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Digital accessibility | Inclusion of persons with disabilities: digital accessibility | `include.access--inclusion-of-persons-with-disabilities-digital-accessibility` |
+| Digital accessibility | Inclusion of persons with disabilities: digital accessibility | `include.access--inclusion-of-persons-with-disabilities` |
 
 Anything else the evidence names is `other`, noted and never staged: a disability law or programme with nothing on information, communication or technology, physical access to buildings, a disability grant or job quota, a charity's device donation with no government part, an awareness day or event.
 

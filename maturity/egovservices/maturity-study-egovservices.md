@@ -18,7 +18,7 @@ The study redraws `dpi.govtech--e-government-services`, which as at 2026-08-31 p
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Government services online | e-government services: government services online | `dpi.govtech--e-government-services-government-services-online` |
+| Government services online | e-government services: government services online | `dpi.govtech--e-government-services` |
 
 Anything else the evidence names is `other`, noted and never staged: a website that only gives information, a tax or customs system used only by that agency, a payments platform with no government service named, a private company's app, a consultation or complaints channel.
 

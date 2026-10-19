@@ -1,22 +1,22 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,ZAF,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,3,3,ZAF-001;ZAF-002,Arrivals added ZAF-005; stage unchanged.
-2026-10-18,BFA,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,BFA-001;BFA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COG,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,COG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CPV,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,2,3,CPV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,DJI,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,DJI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DZA,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,3,DZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,4,4,EGY-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ETH,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GAB,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,3,GAB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GMB,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,no evidence,3,GMB-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GNQ,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,3,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,KEN,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,2,3,KEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,LBY,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,LSO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,3,3,MDG-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NAM,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,3,NAM-001;NAM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SEN,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,no evidence,3,SEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SLE,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,SLE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SYC,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,SYC-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZAF,tech.ai--use-of-ai-in-government-administration-ai-in-administration,fact,3,3,ZAF-001;ZAF-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,tech.ai--use-of-ai-in-government-administration-ai-in-administration,review,no evidence,2,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,ZAF,tech.ai--use-of-ai-in-government-administration,fact,3,3,ZAF-001;ZAF-002,Arrivals added ZAF-005; stage unchanged.
+2026-10-18,BFA,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,BFA-001;BFA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COG,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,COG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CPV,tech.ai--use-of-ai-in-government-administration,fact,2,3,CPV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,DJI,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,DJI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,tech.ai--use-of-ai-in-government-administration,review,no evidence,3,DZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,tech.ai--use-of-ai-in-government-administration,fact,4,4,EGY-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,tech.ai--use-of-ai-in-government-administration,review,no evidence,3,GAB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GMB,tech.ai--use-of-ai-in-government-administration,fact,no evidence,3,GMB-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GNQ,tech.ai--use-of-ai-in-government-administration,review,no evidence,3,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,tech.ai--use-of-ai-in-government-administration,fact,2,3,KEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LBY,tech.ai--use-of-ai-in-government-administration,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,LSO-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,tech.ai--use-of-ai-in-government-administration,fact,3,3,MDG-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,tech.ai--use-of-ai-in-government-administration,review,no evidence,3,NAM-001;NAM-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,tech.ai--use-of-ai-in-government-administration,fact,no evidence,3,SEN-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SLE,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,SLE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SYC,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,SYC-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,tech.ai--use-of-ai-in-government-administration,fact,3,3,ZAF-001;ZAF-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,tech.ai--use-of-ai-in-government-administration,review,no evidence,2,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

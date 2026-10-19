@@ -18,7 +18,7 @@ The study redraws `infra.connect--national-fibre-backbone`, which as at 2026-08-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Long-distance fibre across the country | National fibre backbone: long-distance fibre across the country | `infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country` |
+| Long-distance fibre across the country | National fibre backbone: long-distance fibre across the country | `infra.connect--national-fibre-backbone` |
 
 Anything else the evidence names is `other`, noted and never staged: fibre within one city; fibre to homes and offices; sea cables and landing stations; a link across a border on its own, which `regionalinfrastructure` assesses; microwave and satellite links; data centres and exchange points; a study, a plan or money promised with no contract.
 

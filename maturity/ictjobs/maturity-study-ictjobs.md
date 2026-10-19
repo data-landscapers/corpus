@@ -18,7 +18,7 @@ The study redraws `capacity.training--graduates-entering-dt-ecosystem`, which as
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| ICT employment | Graduates entering DT ecosystem: ICT employment | `capacity.training--graduates-entering-dt-ecosystem-ict-employment` |
+| ICT employment | Graduates entering DT ecosystem: ICT employment | `capacity.training--graduates-entering-dt-ecosystem` |
 
 Anything else the evidence names is `other`, noted and never staged: a jobs or skills programme, an overall unemployment rate with no youth figure, an estimate with no survey named.
 

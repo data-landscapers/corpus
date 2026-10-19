@@ -1,7 +1,7 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-18,MAR,include.access--gender-equity-gender-gap-in-internet-use,review,unplaced,3,MAR-002,"2024 census (HCP) gap of 14.6 per cent, older evidence from the maturity-gaps-3 search; first figure for 2023 or later, placed at 3"
-2026-10-18,SEN,include.access--gender-equity-gender-gap-in-internet-use,review,no evidence,5,SEN-001,"ARTP's ENTICS 2024: women 59.7, men 50.8 per cent online, gap -17.5 counts as parity; placed at 5 from no evidence"
-2026-10-18,MDG,include.access--gender-equity-gender-gap-in-internet-use,review,no evidence,unplaced,,"MICS6 2018 gap of 33.3 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
-2026-10-18,RWA,include.access--gender-equity-gender-gap-in-internet-use,review,no evidence,unplaced,,"RIA After Access 2017/18 gap of 62 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
-2026-10-18,SOM,include.access--gender-equity-gender-gap-in-internet-use,review,no evidence,unplaced,,"SIHBS 2022 gap of 19.8 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
-2026-10-18,TZA,include.access--gender-equity-gender-gap-in-internet-use,review,no evidence,unplaced,,"2022 census ICT monograph gap of 13.9 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
+2026-10-18,MAR,include.access--gender-equity,review,unplaced,3,MAR-002,"2024 census (HCP) gap of 14.6 per cent, older evidence from the maturity-gaps-3 search; first figure for 2023 or later, placed at 3"
+2026-10-18,SEN,include.access--gender-equity,review,no evidence,5,SEN-001,"ARTP's ENTICS 2024: women 59.7, men 50.8 per cent online, gap -17.5 counts as parity; placed at 5 from no evidence"
+2026-10-18,MDG,include.access--gender-equity,review,no evidence,unplaced,,"MICS6 2018 gap of 33.3 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
+2026-10-18,RWA,include.access--gender-equity,review,no evidence,unplaced,,"RIA After Access 2017/18 gap of 62 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
+2026-10-18,SOM,include.access--gender-equity,review,no evidence,unplaced,,"SIHBS 2022 gap of 19.8 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"
+2026-10-18,TZA,include.access--gender-equity,review,no evidence,unplaced,,"2022 census ICT monograph gap of 13.9 per cent, from the maturity-gaps-3 search; no figure for 2023 or later, so unplaced"

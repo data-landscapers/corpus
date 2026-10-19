@@ -1,34 +1,34 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,BFA,dpi.registry--civil-register-civil-register,fact,4,4,BFA-002,Arrivals added BFA-006; stage unchanged.
-2026-10-17,CIV,dpi.registry--civil-register-civil-register,fact,4,4,CIV-003;CIV-005,Arrivals added CIV-008; stage unchanged.
-2026-10-17,CMR,dpi.registry--civil-register-civil-register,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-004; stage unchanged.
-2026-10-17,COD,dpi.registry--civil-register-civil-register,fact,2,2,COD-001;COD-002,Arrivals added COD-002; stage unchanged.
-2026-10-17,CPV,dpi.registry--civil-register-civil-register,fact,5,5,CPV-001;CPV-002,Arrivals added CPV-002; stage unchanged.
-2026-10-17,DZA,dpi.registry--civil-register-civil-register,fact,unplaced,3,DZA-004,Arrivals added DZA-002; DZA-003; DZA-004; stage unplaced -> 3.
-2026-10-17,ETH,dpi.registry--civil-register-civil-register,fact,4,4,ETH-002,Arrivals added ETH-007; stage unchanged.
-2026-10-17,GMB,dpi.registry--civil-register-civil-register,fact,2,3,GMB-004,Arrivals added GMB-004; stage 2 -> 3.
-2026-10-17,LBR,dpi.registry--civil-register-civil-register,fact,2,2,LBR-002;LBR-001,Arrivals added LBR-002; stage unchanged.
-2026-10-17,MOZ,dpi.registry--civil-register-civil-register,fact,2,2,MOZ-003;MOZ-004,Arrivals added MOZ-004; stage unchanged.
-2026-10-17,MUS,dpi.registry--civil-register-civil-register,fact,no evidence,4,MUS-002,Arrivals added MUS-001; MUS-002; stage no evidence -> 4.
-2026-10-17,MWI,dpi.registry--civil-register-civil-register,fact,2,4,MWI-007;MWI-006,Arrivals added MWI-005; MWI-006; MWI-007; stage 2 -> 4.
-2026-10-17,NER,dpi.registry--civil-register-civil-register,fact,2,2,NER-005;NER-001,Arrivals added NER-009; stage unchanged.
-2026-10-17,NGA,dpi.registry--civil-register-civil-register,fact,2,2,NGA-001;NGA-002,Arrivals added NGA-004; NGA-005; NGA-006; stage unchanged.
-2026-10-17,SOM,dpi.registry--civil-register-civil-register,fact,2,4,SOM-007;SOM-009,Arrivals added SOM-006; SOM-007; SOM-008; SOM-009; SOM-010; stage 2 -> 4.
-2026-10-17,STP,dpi.registry--civil-register-civil-register,fact,4,4,STP-003,Arrivals added STP-005; stage unchanged.
-2026-10-17,TCD,dpi.registry--civil-register-civil-register,fact,2,2,TCD-003;TCD-001,Arrivals added TCD-003; stage unchanged.
-2026-10-17,TUN,dpi.registry--civil-register-civil-register,fact,2,3,TUN-004;TUN-005,Arrivals added TUN-004; TUN-005; stage 2 -> 3.
-2026-10-17,ZAF,dpi.registry--civil-register-civil-register,fact,no evidence,2,ZAF-001,Arrivals added ZAF-001; stage no evidence -> 2.
-2026-10-17,ZMB,dpi.registry--civil-register-civil-register,fact,4,4,ZMB-002,Arrivals added ZMB-003; stage unchanged.
-2026-10-18,BDI,dpi.registry--civil-register-civil-register,fact,2,2,BDI-001;BDI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CAF,dpi.registry--civil-register-civil-register,fact,2,2,CAF-005;CAF-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CMR,dpi.registry--civil-register-civil-register,fact,2,2,CMR-001;CMR-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,COG,dpi.registry--civil-register-civil-register,fact,2,2,COG-001;COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ETH,dpi.registry--civil-register-civil-register,fact,4,4,ETH-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,GNQ,dpi.registry--civil-register-civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MOZ,dpi.registry--civil-register-civil-register,fact,2,3,MOZ-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NGA,dpi.registry--civil-register-civil-register,fact,2,2,NGA-001;NGA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,SEN,dpi.registry--civil-register-civil-register,fact,2,3,SEN-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SOM,dpi.registry--civil-register-civil-register,fact,4,4,SOM-007;SOM-009,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SYC,dpi.registry--civil-register-civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TZA,dpi.registry--civil-register-civil-register,fact,4,4,TZA-003;TZA-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZAF,dpi.registry--civil-register-civil-register,review,2,2,ZAF-001;ZAF-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,BFA,dpi.registry--civil-register,fact,4,4,BFA-002,Arrivals added BFA-006; stage unchanged.
+2026-10-17,CIV,dpi.registry--civil-register,fact,4,4,CIV-003;CIV-005,Arrivals added CIV-008; stage unchanged.
+2026-10-17,CMR,dpi.registry--civil-register,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-004; stage unchanged.
+2026-10-17,COD,dpi.registry--civil-register,fact,2,2,COD-001;COD-002,Arrivals added COD-002; stage unchanged.
+2026-10-17,CPV,dpi.registry--civil-register,fact,5,5,CPV-001;CPV-002,Arrivals added CPV-002; stage unchanged.
+2026-10-17,DZA,dpi.registry--civil-register,fact,unplaced,3,DZA-004,Arrivals added DZA-002; DZA-003; DZA-004; stage unplaced -> 3.
+2026-10-17,ETH,dpi.registry--civil-register,fact,4,4,ETH-002,Arrivals added ETH-007; stage unchanged.
+2026-10-17,GMB,dpi.registry--civil-register,fact,2,3,GMB-004,Arrivals added GMB-004; stage 2 -> 3.
+2026-10-17,LBR,dpi.registry--civil-register,fact,2,2,LBR-002;LBR-001,Arrivals added LBR-002; stage unchanged.
+2026-10-17,MOZ,dpi.registry--civil-register,fact,2,2,MOZ-003;MOZ-004,Arrivals added MOZ-004; stage unchanged.
+2026-10-17,MUS,dpi.registry--civil-register,fact,no evidence,4,MUS-002,Arrivals added MUS-001; MUS-002; stage no evidence -> 4.
+2026-10-17,MWI,dpi.registry--civil-register,fact,2,4,MWI-007;MWI-006,Arrivals added MWI-005; MWI-006; MWI-007; stage 2 -> 4.
+2026-10-17,NER,dpi.registry--civil-register,fact,2,2,NER-005;NER-001,Arrivals added NER-009; stage unchanged.
+2026-10-17,NGA,dpi.registry--civil-register,fact,2,2,NGA-001;NGA-002,Arrivals added NGA-004; NGA-005; NGA-006; stage unchanged.
+2026-10-17,SOM,dpi.registry--civil-register,fact,2,4,SOM-007;SOM-009,Arrivals added SOM-006; SOM-007; SOM-008; SOM-009; SOM-010; stage 2 -> 4.
+2026-10-17,STP,dpi.registry--civil-register,fact,4,4,STP-003,Arrivals added STP-005; stage unchanged.
+2026-10-17,TCD,dpi.registry--civil-register,fact,2,2,TCD-003;TCD-001,Arrivals added TCD-003; stage unchanged.
+2026-10-17,TUN,dpi.registry--civil-register,fact,2,3,TUN-004;TUN-005,Arrivals added TUN-004; TUN-005; stage 2 -> 3.
+2026-10-17,ZAF,dpi.registry--civil-register,fact,no evidence,2,ZAF-001,Arrivals added ZAF-001; stage no evidence -> 2.
+2026-10-17,ZMB,dpi.registry--civil-register,fact,4,4,ZMB-002,Arrivals added ZMB-003; stage unchanged.
+2026-10-18,BDI,dpi.registry--civil-register,fact,2,2,BDI-001;BDI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CAF,dpi.registry--civil-register,fact,2,2,CAF-005;CAF-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CMR,dpi.registry--civil-register,fact,2,2,CMR-001;CMR-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,dpi.registry--civil-register,fact,2,2,COG-001;COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,dpi.registry--civil-register,fact,4,4,ETH-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,GNQ,dpi.registry--civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.registry--civil-register,fact,2,3,MOZ-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.registry--civil-register,fact,2,2,NGA-001;NGA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.registry--civil-register,fact,2,3,SEN-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SOM,dpi.registry--civil-register,fact,4,4,SOM-007;SOM-009,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SYC,dpi.registry--civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.registry--civil-register,fact,4,4,TZA-003;TZA-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--civil-register,review,2,2,ZAF-001;ZAF-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

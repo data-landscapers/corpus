@@ -143,7 +143,7 @@
       "label": "Statistics law",
       "subject": "gov.legislate",
       "text": "Statistics legislation: statistics law",
-      "indicator_id": "gov.legislate--statistics-legislation-statistics-law",
+      "indicator_id": "gov.legislate--statistics-legislation",
       "norm_short": "The African Charter on Statistics (2009) obliges its parties to bring national law into line with its principles: professional independence, confidentiality and coordination.",
       "class": "law",
       "criteria": [

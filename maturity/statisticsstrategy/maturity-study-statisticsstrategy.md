@@ -18,7 +18,7 @@ The study redraws `data.statistics--national-strategy-for-development-of-statist
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Statistics strategy | National strategy for development of statistics: statistics strategy | `data.statistics--national-strategy-for-development-of-statistics-statistics-strategy` |
+| Statistics strategy | National strategy for development of statistics: statistics strategy | `data.statistics--national-strategy-for-development-of-statistics` |
 
 Anything else the evidence names is `other`, noted and never staged: the statistics office's own corporate plan where it does not cover the whole system, a strategy for one sector's statistics (agriculture, health, education), the statistics law, a census or survey, a donor project, the regional strategy (SHaSA) and the African Charter on Statistics.
 

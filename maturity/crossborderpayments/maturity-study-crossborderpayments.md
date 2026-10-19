@@ -18,7 +18,7 @@ The study redraws `dpi.pay--cross-border-functionality`, which as at 2026-08-31 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Cross-border functionality | Cross-border functionality: cross-border functionality | `dpi.pay--cross-border-functionality-cross-border-functionality` |
+| Cross-border functionality | Cross-border functionality: cross-border functionality | `dpi.pay--cross-border-functionality` |
 
 Anything else the evidence names is `other`, noted and never staged: a cash remittance agent with no digital channel, a card network used abroad with no named corridor, a remittance figure with no channel named.
 

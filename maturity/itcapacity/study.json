@@ -97,7 +97,7 @@
    "label": "In-house capacity",
    "subject": "infra.capacity",
    "text": "Local capacity to maintain, manage and develop government systems: in-house capacity",
-   "indicator_id": "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity",
+   "indicator_id": "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems",
    "class": "staff",
    "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 21, asks for systematic capacity development across the public service; the Digital Transformation Strategy asks for skills built in state institutions.",
    "criteria": [

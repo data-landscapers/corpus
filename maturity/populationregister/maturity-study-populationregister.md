@@ -18,7 +18,7 @@ The study redraws `dpi.registry--population-register`, which as at 2026-08-31 pu
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Population register | Population register: population register | `dpi.registry--population-register-population-register` |
+| Population register | Population register: population register | `dpi.registry--population-register` |
 
 Anything else the evidence names is `other`, noted and never staged: an ID card or passport issued with no register named, a census count, a voter roll, a programme's own beneficiary list.
 

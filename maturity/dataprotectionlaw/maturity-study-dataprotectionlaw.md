@@ -24,7 +24,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| General law | Data protection legislation: general law | `gov.legislate--data-protection-legislation-general-law` |
+| General law | Data protection legislation: general law | `gov.legislate--data-protection-legislation` |
 
 **`gov.protect--data-protection-authority` is not redrawn**: its own study. **`gov.protect--national-data-protection-readiness` is not touched**: a composite of this row, the authority row and ratification, proposed for retirement with the authority study.
 

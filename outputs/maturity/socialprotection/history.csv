@@ -1,26 +1,26 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,SEN,dpi.mis--social-protection-social-protection,fact,no evidence,3,SEN-001,Arrivals added SEN-001; stage no evidence -> 3.
-2026-10-17,SSD,dpi.mis--social-protection-social-protection,fact,3,3,SSD-001;SSD-003,Arrivals added SSD-005; stage unchanged.
-2026-10-18,BEN,dpi.mis--social-protection-social-protection,review,no evidence,3,BEN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BWA,dpi.mis--social-protection-social-protection,review,no evidence,1,BWA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COD,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COM,dpi.mis--social-protection-social-protection,review,no evidence,4,COM-004;COM-007,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
-2026-10-18,CPV,dpi.mis--social-protection-social-protection,review,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GIN,dpi.mis--social-protection-social-protection,review,no evidence,4,GIN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GMB,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GNQ,dpi.mis--social-protection-social-protection,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBR,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBY,dpi.mis--social-protection-social-protection,review,no evidence,3,LBY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,dpi.mis--social-protection-social-protection,review,no evidence,3,LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,dpi.mis--social-protection-social-protection,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
-2026-10-18,MRT,dpi.mis--social-protection-social-protection,review,no evidence,3,MRT-002;MRT-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NGA,dpi.mis--social-protection-social-protection,fact,4,4,NGA-003;NGA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,RWA,dpi.mis--social-protection-social-protection,review,no evidence,3,RWA-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SDN,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SWZ,dpi.mis--social-protection-social-protection,review,no evidence,3,SWZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TZA,dpi.mis--social-protection-social-protection,review,no evidence,4,TZA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,UGA,dpi.mis--social-protection-social-protection,review,no evidence,5,UGA-002,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZAF,dpi.mis--social-protection-social-protection,fact,no evidence,4,ZAF-004,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,dpi.mis--social-protection-social-protection,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-17,SEN,dpi.mis--social-protection,fact,no evidence,3,SEN-001,Arrivals added SEN-001; stage no evidence -> 3.
+2026-10-17,SSD,dpi.mis--social-protection,fact,3,3,SSD-001;SSD-003,Arrivals added SSD-005; stage unchanged.
+2026-10-18,BEN,dpi.mis--social-protection,review,no evidence,3,BEN-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BWA,dpi.mis--social-protection,review,no evidence,1,BWA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COD,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COM,dpi.mis--social-protection,review,no evidence,4,COM-004;COM-007,Stage 4c: 7 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
+2026-10-18,CPV,dpi.mis--social-protection,review,no evidence,3,CPV-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,dpi.mis--social-protection,review,no evidence,4,GIN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GMB,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNQ,dpi.mis--social-protection,review,no evidence,2,GNQ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBR,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,dpi.mis--social-protection,review,no evidence,3,LBY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.mis--social-protection,review,no evidence,3,LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.mis--social-protection,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held. Top-stage check corrected the row it stood on.
+2026-10-18,MRT,dpi.mis--social-protection,review,no evidence,3,MRT-002;MRT-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NGA,dpi.mis--social-protection,fact,4,4,NGA-003;NGA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,RWA,dpi.mis--social-protection,review,no evidence,3,RWA-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SWZ,dpi.mis--social-protection,review,no evidence,3,SWZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.mis--social-protection,review,no evidence,4,TZA-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,UGA,dpi.mis--social-protection,review,no evidence,5,UGA-002,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZAF,dpi.mis--social-protection,fact,no evidence,4,ZAF-004,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

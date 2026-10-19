@@ -18,7 +18,7 @@ The study redraws `dpi.exchange--use-of-digital-id-in-other-systems`, which as a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Use of digital ID in other systems | Use of digital id in other systems: use of digital id in other systems | `dpi.exchange--use-of-digital-id-in-other-systems-use-of-digital-id-in-other-systems` |
+| Use of digital ID in other systems | Use of digital id in other systems: use of digital id in other systems | `dpi.exchange--use-of-digital-id-in-other-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: the ID system's own enrolment or card issue, a register merely keyed on the number with no check (the ID row's `use-by-other-systems` holds that), a foreign passport or a sectoral ID with no link to the national one, a law that allows use with none on record.
 

@@ -18,7 +18,7 @@ The study redraws `gov.protect--data-protection-authority`, which as at 2026-08-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Supervisory authority | Data protection authority: supervisory authority | `gov.protect--data-protection-authority-supervisory-authority` |
+| Supervisory authority | Data protection authority: supervisory authority | `gov.protect--data-protection-authority` |
 
 Anything else the evidence names is `other`, noted and never staged: a regulator that watches personal data in its own sector only, a ministry unit with no law behind it, a court, a cybersecurity agency.
 

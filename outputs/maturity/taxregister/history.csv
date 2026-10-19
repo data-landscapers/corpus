@@ -1,29 +1,29 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,BEN,dpi.registry--tax-register-tax-register,fact,no evidence,5,BEN-001,Arrivals added BEN-001; stage no evidence -> 5.
-2026-10-17,ETH,dpi.registry--tax-register-tax-register,fact,no evidence,unplaced,,Arrivals added ETH-001; stage no evidence -> unplaced.
-2026-10-17,LBR,dpi.registry--tax-register-tax-register,fact,no evidence,5,LBR-001,Arrivals added LBR-001; stage no evidence -> 5.
-2026-10-17,LSO,dpi.registry--tax-register-tax-register,fact,no evidence,3,LSO-001,Arrivals added LSO-001; stage no evidence -> 3.
-2026-10-18,BEN,dpi.registry--tax-register-tax-register,review,5,5,BEN-001;BEN-005,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CAF,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COG,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CPV,dpi.registry--tax-register-tax-register,fact,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
-2026-10-18,DJI,dpi.registry--tax-register-tax-register,review,no evidence,4,DJI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GAB,dpi.registry--tax-register-tax-register,review,no evidence,3,GAB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GIN,dpi.registry--tax-register-tax-register,fact,no evidence,4,GIN-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GMB,dpi.registry--tax-register-tax-register,review,no evidence,4,GMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LSO,dpi.registry--tax-register-tax-register,review,3,3,LSO-001;LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,dpi.registry--tax-register-tax-register,review,no evidence,3,MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MLI,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MRT,dpi.registry--tax-register-tax-register,fact,no evidence,4,MRT-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,MUS,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,dpi.registry--tax-register-tax-register,review,no evidence,3,MWI-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NER,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NGA,dpi.registry--tax-register-tax-register,fact,5,5,NGA-001;NGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SEN,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,dpi.registry--tax-register-tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.registry--tax-register-tax-register,review,no evidence,4,TGO-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TZA,dpi.registry--tax-register-tax-register,fact,no evidence,3,TZA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZAF,dpi.registry--tax-register-tax-register,review,no evidence,3,ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZMB,dpi.registry--tax-register-tax-register,review,no evidence,3,ZMB-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZWE,dpi.registry--tax-register-tax-register,fact,3,3,ZWE-001;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-17,BEN,dpi.registry--tax-register,fact,no evidence,5,BEN-001,Arrivals added BEN-001; stage no evidence -> 5.
+2026-10-17,ETH,dpi.registry--tax-register,fact,no evidence,unplaced,,Arrivals added ETH-001; stage no evidence -> unplaced.
+2026-10-17,LBR,dpi.registry--tax-register,fact,no evidence,5,LBR-001,Arrivals added LBR-001; stage no evidence -> 5.
+2026-10-17,LSO,dpi.registry--tax-register,fact,no evidence,3,LSO-001,Arrivals added LSO-001; stage no evidence -> 3.
+2026-10-18,BEN,dpi.registry--tax-register,review,5,5,BEN-001;BEN-005,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CAF,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COG,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CPV,dpi.registry--tax-register,fact,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 2 news arrival(s) read; restaged from every row held.
+2026-10-18,DJI,dpi.registry--tax-register,review,no evidence,4,DJI-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,dpi.registry--tax-register,review,no evidence,3,GAB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GIN,dpi.registry--tax-register,fact,no evidence,4,GIN-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GMB,dpi.registry--tax-register,review,no evidence,4,GMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LSO,dpi.registry--tax-register,review,3,3,LSO-001;LSO-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.registry--tax-register,review,no evidence,3,MDG-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MLI,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MRT,dpi.registry--tax-register,fact,no evidence,4,MRT-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MUS,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,dpi.registry--tax-register,review,no evidence,3,MWI-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NER,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NGA,dpi.registry--tax-register,fact,5,5,NGA-001;NGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,dpi.registry--tax-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.registry--tax-register,review,no evidence,4,TGO-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,dpi.registry--tax-register,fact,no evidence,3,TZA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZAF,dpi.registry--tax-register,review,no evidence,3,ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZMB,dpi.registry--tax-register,review,no evidence,3,ZMB-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZWE,dpi.registry--tax-register,fact,3,3,ZWE-001;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.

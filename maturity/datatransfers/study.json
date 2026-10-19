@@ -90,7 +90,7 @@
       "label": "Rule on sending data abroad",
       "subject": "gov.regional",
       "text": "Cross-border data transfers: rule on sending data abroad",
-      "indicator_id": "gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad",
+      "indicator_id": "gov.regional--cross-border-data-transfers",
       "norm_short": "The Malabo Convention, Article 14, bars sending personal data outside the African Union unless the receiving country protects it adequately. The Data Policy Framework (2022) and the AfCFTA Digital Trade Protocol (2024) ask states to let data cross borders under stated safeguards.",
       "class": "rule",
       "criteria": [

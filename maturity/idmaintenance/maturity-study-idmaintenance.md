@@ -18,7 +18,7 @@ The study redraws `dpi.id--national-maintenance-of-id-and-credentials-systems`, 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National maintenance of id and credentials systems | National maintenance of id and credentials systems: national maintenance of id and credentials systems | `dpi.id--national-maintenance-of-id-and-credentials-systems-national-maintenance-of-id-and-credentials-systems` |
+| National maintenance of id and credentials systems | National maintenance of id and credentials systems: national maintenance of id and credentials systems | `dpi.id--national-maintenance-of-id-and-credentials-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a passport or voter-card contract, a supplier's sale of equipment with no operating role, a law with no system.
 

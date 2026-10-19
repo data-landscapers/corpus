@@ -41,7 +41,7 @@
    "label": "AI in administration",
    "subject": "tech.ai",
    "text": "Use of AI in government administration: AI in administration",
-   "indicator_id": "tech.ai--use-of-ai-in-government-administration-ai-in-administration",
+   "indicator_id": "tech.ai--use-of-ai-in-government-administration",
    "class": "govai",
    "norm_short": "The Continental AI Strategy asks for AI adopted in the public sector under a governance framework, with innovation-friendly procurement and use cases shared and reported.",
    "criteria": [

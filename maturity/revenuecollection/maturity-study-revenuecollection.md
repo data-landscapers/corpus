@@ -18,7 +18,7 @@ The study redraws `dpi.pay--revenue-collection`, which as at 2026-08-31 puts 41 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Revenue collection | Revenue collection: revenue collection | `dpi.pay--revenue-collection-revenue-collection` |
+| Revenue collection | Revenue collection: revenue collection | `dpi.pay--revenue-collection` |
 
 Anything else the evidence names is `other`, noted and never staged: a payment from government to people, a revenue authority's internal system with no payment, a municipal parking app with no state revenue role.
 

@@ -421,6 +421,9 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
                 if c["state"] == "staged" and not c["summary"].strip():
                     out.append(f"{iid} {iso}: staged, and no section in {iso}.md")
     for iid in sorted(set((published or {}).get("indicators", {})) - set(data["indicators"])):
+        # Sub-indicator ids lost their description suffix on 2026-10-19 (Bill): a renamed one is not lost.
+        if any(iid.startswith(b + "-") for b in data["indicators"]):
+            continue
         out.append(f"{iid}: on the published map and not in this build")
     return out
 

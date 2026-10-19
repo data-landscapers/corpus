@@ -1,19 +1,19 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-18,AGO,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,CMR,dpi.pay--population-uptake-population-uptake,review,no evidence,3,CMR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,dpi.pay--population-uptake-population-uptake,review,no evidence,3,EGY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ETH,dpi.pay--population-uptake-population-uptake,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,KEN,dpi.pay--population-uptake-population-uptake,review,no evidence,4,KEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MDG,dpi.pay--population-uptake-population-uptake,review,no evidence,1,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MOZ,dpi.pay--population-uptake-population-uptake,review,no evidence,2,MOZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MUS,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,dpi.pay--population-uptake-population-uptake,review,no evidence,3,MWI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,NAM,dpi.pay--population-uptake-population-uptake,review,no evidence,3,NAM-002;NAM-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SDN,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SEN,dpi.pay--population-uptake-population-uptake,review,no evidence,4,SEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SSD,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TCD,dpi.pay--population-uptake-population-uptake,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TUN,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,UGA,dpi.pay--population-uptake-population-uptake,review,no evidence,3,UGA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,ZWE,dpi.pay--population-uptake-population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,AGO,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,CMR,dpi.pay--population-uptake,review,no evidence,3,CMR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,dpi.pay--population-uptake,review,no evidence,3,EGY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ETH,dpi.pay--population-uptake,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,dpi.pay--population-uptake,review,no evidence,4,KEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MDG,dpi.pay--population-uptake,review,no evidence,1,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MOZ,dpi.pay--population-uptake,review,no evidence,2,MOZ-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,dpi.pay--population-uptake,review,no evidence,3,MWI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,NAM,dpi.pay--population-uptake,review,no evidence,3,NAM-002;NAM-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SEN,dpi.pay--population-uptake,review,no evidence,4,SEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TCD,dpi.pay--population-uptake,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TUN,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,UGA,dpi.pay--population-uptake,review,no evidence,3,UGA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,ZWE,dpi.pay--population-uptake,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

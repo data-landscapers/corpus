@@ -1,18 +1,18 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,COM,gov.legislate--e-commerce-legislation-e-commerce-law,review,unplaced,3,COM-005,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,KEN,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,4,KEN-005;KEN-002;KEN-004,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,MRT,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,3,MRT-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SEN,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,4,SEN-002;SEN-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,SSD,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TGO,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,4,TGO-002;TGO-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,UGA,gov.legislate--e-commerce-legislation-e-commerce-law,review,no evidence,4,UGA-003;UGA-004,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,NAM,gov.legislate--e-commerce-legislation-e-commerce-law,review,5,5,NAM-003;NAM-012;NAM-015;NAM-002,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-13,NER,gov.legislate--e-commerce-legislation-e-commerce-law,review,3,3,NER-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,CMR,gov.legislate--e-commerce-legislation-e-commerce-law,fact,4,4,CMR-004;CMR-005,Arrivals added CMR-005; stage unchanged.
-2026-10-17,GHA,gov.legislate--e-commerce-legislation-e-commerce-law,fact,5,5,GHA-002;GHA-004,Arrivals added GHA-004; stage unchanged.
-2026-10-17,LBY,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,LBY-002;LBY-001,Arrivals added LBY-002; LBY-003; stage unchanged.
-2026-10-17,MRT,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,MRT-003;MRT-002,Arrivals added MRT-003; stage unchanged.
-2026-10-17,SWZ,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,SWZ-002;SWZ-003,Arrivals added SWZ-002; SWZ-003; stage unchanged.
-2026-10-17,TUN,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,4,TUN-004;TUN-001,Arrivals added TUN-003; TUN-004; stage 3 -> 4.
-2026-10-17,UGA,gov.legislate--e-commerce-legislation-e-commerce-law,fact,4,4,UGA-003;UGA-005,Arrivals added UGA-005; stage unchanged.
-2026-10-18,DZA,gov.legislate--e-commerce-legislation-e-commerce-law,fact,3,3,DZA-005;DZA-004,"Law 26-02 of 17 February 2026 on trust services is in force, replacing the 2025 draft (DZA-005); no rules under it held, stage unchanged."
+2026-10-13,COM,gov.legislate--e-commerce-legislation,review,unplaced,3,COM-005,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,KEN,gov.legislate--e-commerce-legislation,review,no evidence,4,KEN-005;KEN-002;KEN-004,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,MRT,gov.legislate--e-commerce-legislation,review,no evidence,3,MRT-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SEN,gov.legislate--e-commerce-legislation,review,no evidence,4,SEN-002;SEN-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,SSD,gov.legislate--e-commerce-legislation,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TGO,gov.legislate--e-commerce-legislation,review,no evidence,4,TGO-002;TGO-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,UGA,gov.legislate--e-commerce-legislation,review,no evidence,4,UGA-003;UGA-004,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,NAM,gov.legislate--e-commerce-legislation,review,5,5,NAM-003;NAM-012;NAM-015;NAM-002,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-13,NER,gov.legislate--e-commerce-legislation,review,3,3,NER-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,CMR,gov.legislate--e-commerce-legislation,fact,4,4,CMR-004;CMR-005,Arrivals added CMR-005; stage unchanged.
+2026-10-17,GHA,gov.legislate--e-commerce-legislation,fact,5,5,GHA-002;GHA-004,Arrivals added GHA-004; stage unchanged.
+2026-10-17,LBY,gov.legislate--e-commerce-legislation,fact,3,3,LBY-002;LBY-001,Arrivals added LBY-002; LBY-003; stage unchanged.
+2026-10-17,MRT,gov.legislate--e-commerce-legislation,fact,3,3,MRT-003;MRT-002,Arrivals added MRT-003; stage unchanged.
+2026-10-17,SWZ,gov.legislate--e-commerce-legislation,fact,3,3,SWZ-002;SWZ-003,Arrivals added SWZ-002; SWZ-003; stage unchanged.
+2026-10-17,TUN,gov.legislate--e-commerce-legislation,fact,3,4,TUN-004;TUN-001,Arrivals added TUN-003; TUN-004; stage 3 -> 4.
+2026-10-17,UGA,gov.legislate--e-commerce-legislation,fact,4,4,UGA-003;UGA-005,Arrivals added UGA-005; stage unchanged.
+2026-10-18,DZA,gov.legislate--e-commerce-legislation,fact,3,3,DZA-005;DZA-004,"Law 26-02 of 17 February 2026 on trust services is in force, replacing the 2025 draft (DZA-005); no rules under it held, stage unchanged."

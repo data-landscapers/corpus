@@ -33,7 +33,7 @@
    "label": "STEM graduates",
    "subject": "capacity.training",
    "text": "DT-related university facilities and qualifications: STEM graduates",
-   "indicator_id": "capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates",
+   "indicator_id": "capacity.training--dt-related-university-facilities-and-qualifications",
    "class": "stemgraduates",
    "norm_short": "The AU Digital Education Strategy asks for a national research and education network in every country by 2027; Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM by 2033.",
    "criteria": [

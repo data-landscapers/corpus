@@ -18,7 +18,7 @@ The study redraws `dpi.pay--p2p-p2g-and-p2b-functionality`, which as at 2026-08-
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| P2P, P2G and P2B functionality | P2P, P2G and P2B functionality: p2p, p2g and p2b functionality | `dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality` |
+| P2P, P2G and P2B functionality | P2P, P2G and P2B functionality: p2p, p2g and p2b functionality | `dpi.pay--p2p-p2g-and-p2b-functionality` |
 
 Anything else the evidence names is `other`, noted and never staged: a card scheme for banks alone, a payment from government to people, a crypto-asset exchange, a bank's internal system.
 

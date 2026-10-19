@@ -52,7 +52,7 @@
    "label": "Tax",
    "subject": "dpi.mis",
    "text": "Tax: tax",
-   "indicator_id": "dpi.mis--tax-tax",
+   "indicator_id": "dpi.mis--tax",
    "class": "taxsystem",
    "norm_short": "TADAT asks for electronic filing and payment of all core taxes, filing mandatory for designated taxpayers, with immediate confirmation.",
    "criteria": [

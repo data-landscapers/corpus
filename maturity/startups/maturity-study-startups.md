@@ -18,7 +18,7 @@ The study redraws `tech.innovate--tech-startup-ecosystem`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Startup law and funding | Tech startup ecosystem: startup law and funding | `tech.innovate--tech-startup-ecosystem-startup-law-and-funding` |
+| Startup law and funding | Tech startup ecosystem: startup law and funding | `tech.innovate--tech-startup-ecosystem` |
 
 Anything else the evidence names is `other`, noted and never staged: a private investor's deal with no public scheme, a hub's own programme, a general small-business scheme with no startup measures, a hackathon or prize on its own.
 

@@ -18,7 +18,7 @@ The study redraws `dpi.pay--population-uptake`, which as at 2026-08-31 puts five
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Population uptake | Population uptake: population uptake | `dpi.pay--population-uptake-population-uptake` |
+| Population uptake | Population uptake: population uptake | `dpi.pay--population-uptake` |
 
 Anything else the evidence names is `other`, noted and never staged: a count of mobile money or bank accounts, registered or active, a provider's customer count, a SIM count.
 

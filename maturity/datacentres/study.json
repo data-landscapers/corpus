@@ -46,7 +46,7 @@
    "label": "Data centres for hire in service",
    "subject": "infra.store",
    "text": "Local data centre capacity (all providers): data centres for hire in service",
-   "indicator_id": "infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service",
+   "indicator_id": "infra.store--local-data-centre-capacity-all-providers",
    "class": "datacentre",
    "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks every country for data centres built to recognised tiers, so that content and data can be hosted in Africa.",
    "criteria": [

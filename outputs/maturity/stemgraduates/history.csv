@@ -1,4 +1,4 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-18,AGO,capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates,review,unplaced,1,AGO-002,"MESCTI yearbook via Economia e Mercado: 11 per cent of 2022/23 graduates in STEM, first figure for 2023 or later; placed at 1"
-2026-10-18,ETH,capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates,review,no evidence,1,ETH-001,"UNESCO AI readiness profile, June 2026: 11.2 per cent of graduates in STEM; placed at 1 from no evidence"
-2026-10-18,MWI,capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates,review,no evidence,unplaced,,"DSTI tracer study: 30.1 per cent of 2022 graduates in STEM, and MAREN in service; no figure for 2023 or later, so unplaced"
+2026-10-18,AGO,capacity.training--dt-related-university-facilities-and-qualifications,review,unplaced,1,AGO-002,"MESCTI yearbook via Economia e Mercado: 11 per cent of 2022/23 graduates in STEM, first figure for 2023 or later; placed at 1"
+2026-10-18,ETH,capacity.training--dt-related-university-facilities-and-qualifications,review,no evidence,1,ETH-001,"UNESCO AI readiness profile, June 2026: 11.2 per cent of graduates in STEM; placed at 1 from no evidence"
+2026-10-18,MWI,capacity.training--dt-related-university-facilities-and-qualifications,review,no evidence,unplaced,,"DSTI tracer study: 30.1 per cent of 2022 graduates in STEM, and MAREN in service; no figure for 2023 or later, so unplaced"

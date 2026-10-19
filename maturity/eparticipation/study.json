@@ -53,7 +53,7 @@
    "label": "Online participation in policy",
    "subject": "include.access",
    "text": "Citizen participation in policy: online participation in policy",
-   "indicator_id": "include.access--citizen-participation-in-policy-online-participation-in-policy",
+   "indicator_id": "include.access--citizen-participation-in-policy",
    "class": "eparticipation",
    "norm_short": "The African Charter on Democracy, Elections and Governance asks for citizen participation in the development process; the UN E-Participation Index measures it online.",
    "criteria": [

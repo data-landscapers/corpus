@@ -18,7 +18,7 @@ The study redraws `infra.connect--internet-exchange-points`, which as at 2026-08
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Exchange points keeping traffic local | Internet exchange points: exchange points keeping traffic local | `infra.connect--internet-exchange-points-exchange-points-keeping-traffic-local` |
+| Exchange points keeping traffic local | Internet exchange points: exchange points keeping traffic local | `infra.connect--internet-exchange-points` |
 
 Anything else the evidence names is `other`, noted and never staged: an exchange decreed, planned, financed or being equipped but with no networks exchanging traffic; a content cache inside one operator's network; data centres; regional exchanges planned between countries, which `regionalinfrastructure` assesses; member counts and traffic in gigabits, which are reported in the long summary and set nothing except under question 3.
 

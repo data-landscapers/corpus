@@ -20,7 +20,7 @@ The study redraws `gov.regional--regional-legal-harmonisation`, which as at 2026
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Regional digital law taken into national law | Regional legal harmonisation: regional digital law taken into national law | `gov.regional--regional-legal-harmonisation-regional-digital-law-taken-into-national-law` |
+| Regional digital law taken into national law | Regional legal harmonisation: regional digital law taken into national law | `gov.regional--regional-legal-harmonisation` |
 
 Anything else the evidence names is `other`, noted and never staged: a United Nations, Council of Europe, Arab League or Lusophone convention or charter; a shared law that is not digital, such as a land, accounting or statistics directive, a free movement rule or a business law act; a regional strategy, declaration or guideline that is not law; a roaming cut, a joint body, a meeting hosted or a seat won, which the regional policy row holds; a national law with no source tying it to a shared one.
 

@@ -80,7 +80,7 @@
    "label": "Registration of entire population",
    "subject": "dpi.id",
    "text": "Registration of entire population: registration of entire population",
-   "indicator_id": "dpi.id--registration-of-entire-population-registration-of-entire-population",
+   "indicator_id": "dpi.id--registration-of-entire-population",
    "class": "idsystem",
    "norm_short": "The African Union's Digital Transformation Strategy sets a target of 99.9% of people in Africa holding a digital legal identity by 2030, from birth.",
    "criteria": [

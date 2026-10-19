@@ -51,7 +51,7 @@
    "label": "Social protection",
    "subject": "dpi.mis",
    "text": "Social protection: social protection",
-   "indicator_id": "dpi.mis--social-protection-social-protection",
+   "indicator_id": "dpi.mis--social-protection",
    "class": "socialmis",
    "norm_short": "The African Union's Protocol on Social Protection asks for an integrated social protection information system across schemes, with disaggregated data published.",
    "criteria": [

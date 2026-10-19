@@ -18,7 +18,7 @@ The study redraws `infra.energy--rural-electrification`, which as at 2026-08-31 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Rural access to electricity | Rural electrification: rural access to electricity | `infra.energy--rural-electrification-rural-access-to-electricity` |
+| Rural access to electricity | Rural electrification: rural access to electricity | `infra.energy--rural-electrification` |
 
 ## 2. The questions
 

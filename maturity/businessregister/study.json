@@ -53,7 +53,7 @@
    "label": "Business register",
    "subject": "dpi.registry",
    "text": "Business register: business register",
-   "indicator_id": "dpi.registry--business-register-business-register",
+   "indicator_id": "dpi.registry--business-register",
    "class": "business",
    "norm_short": "The African Union's Digital Transformation Strategy asks for an electronic business register, and the AfCFTA Digital Trade Protocol for the identity of firms to be recognised across borders.",
    "criteria": [

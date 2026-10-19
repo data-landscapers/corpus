@@ -83,7 +83,7 @@
    "label": "Governance role of central bank",
    "subject": "dpi.pay",
    "text": "Governance role of central bank: governance role of central bank",
-   "indicator_id": "dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank",
+   "indicator_id": "dpi.pay--governance-role-of-central-bank",
    "class": "oversight",
    "norm_short": "The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks to oversee payment systems, make them interoperate at home and across borders, and join the continent's Pan-African Payment and Settlement System.",
    "criteria": [

@@ -18,7 +18,7 @@ The study redraws `gov.regional--shared-regional-infrastructure`, which as at 20
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Digital links and facilities shared with other African countries | Shared regional infrastructure: digital links and facilities shared with other African countries | `gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries` |
+| Digital links and facilities shared with other African countries | Shared regional infrastructure: digital links and facilities shared with other African countries | `gov.regional--shared-regional-infrastructure` |
 
 Anything else the evidence names is `other`, noted and never staged: a roaming cut, a frequency agreement or a joint body, which the regional policy row holds; a regional payment switch or settlement system, which the cross-border payments row holds; an identity card or a police or customs system shared across borders; a link to a country outside Africa; a submarine cable landing with no other African country named; a national backbone, exchange point or data centre that no other country is reported using.
 

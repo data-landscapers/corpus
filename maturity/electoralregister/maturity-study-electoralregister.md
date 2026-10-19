@@ -18,7 +18,7 @@ The study redraws `dpi.registry--electoral-register`, which as at 2026-08-31 put
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Electoral register | Electoral register: electoral register | `dpi.registry--electoral-register-electoral-register` |
+| Electoral register | Electoral register: electoral register | `dpi.registry--electoral-register` |
 
 Anything else the evidence names is `other`, noted and never staged: a party membership list, a turnout figure, voting machines or result transmission with no register, a census.
 

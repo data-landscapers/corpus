@@ -18,7 +18,7 @@ The study redraws `data.statistics--statistics-from-administrative-data`, which 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Statistics from administrative data | Statistics from administrative data: statistics from administrative data | `data.statistics--statistics-from-administrative-data-statistics-from-administrative-data` |
+| Statistics from administrative data | Statistics from administrative data: statistics from administrative data | `data.statistics--statistics-from-administrative-data` |
 
 Anything else the evidence names is `other`, noted and never staged: a census or survey, a ministry's report on its own activity, a dashboard or information system with no published statistics from it, central bank statistics, a register digitised or linked to identity, an international compilation of national figures.
 

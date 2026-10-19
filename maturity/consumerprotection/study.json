@@ -85,7 +85,7 @@
    "label": "Consumer protection",
    "subject": "dpi.pay",
    "text": "Consumer protection: consumer protection",
-   "indicator_id": "dpi.pay--consumer-protection-consumer-protection",
+   "indicator_id": "dpi.pay--consumer-protection",
    "class": "protection",
    "norm_short": "The African Union's Digital Transformation Strategy asks for consumer protection in digital financial services across disclosure, responsible lending, data privacy and dispute resolution.",
    "criteria": [

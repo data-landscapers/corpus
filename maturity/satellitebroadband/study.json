@@ -48,7 +48,7 @@
    "label": "Satellite broadband licensed and on sale",
    "subject": "infra.connect",
    "text": "Satellite broadband licensing and availability: satellite broadband licensed and on sale",
-   "indicator_id": "infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale",
+   "indicator_id": "infra.connect--satellite-broadband-licensing-and-availability",
    "class": "satellite",
    "norm_short": "The African Telecommunications Union's Recommendation 005-0 asks every country to license satellite broadband simply, so that users can buy it from more than one provider.",
    "criteria": [

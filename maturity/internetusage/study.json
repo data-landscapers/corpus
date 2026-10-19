@@ -65,7 +65,7 @@
    "label": "People who use the internet",
    "subject": "infra.connect",
    "text": "Internet usage: people who use the internet",
-   "indicator_id": "infra.connect--internet-usage-people-who-use-the-internet",
+   "indicator_id": "infra.connect--internet-usage",
    "class": "use",
    "norm_short": "The African Union's Agenda 2063 plan asks that broadband reach 80 per cent of the population by 2033. The International Telecommunication Union's 2030 target is that everyone aged 15 and over uses the internet.",
    "criteria": [

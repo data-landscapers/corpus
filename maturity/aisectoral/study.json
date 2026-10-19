@@ -43,7 +43,7 @@
    "label": "AI in sector systems",
    "subject": "tech.ai",
    "text": "Use of AI in sectoral management information systems: AI in sector systems",
-   "indicator_id": "tech.ai--use-of-ai-in-sectoral-management-information-systems-ai-in-sector-systems",
+   "indicator_id": "tech.ai--use-of-ai-in-sectoral-management-information-systems",
    "class": "sectorai",
    "norm_short": "The Continental AI Strategy asks for AI adopted in the core sectors, with national centres of excellence or datasets supporting it and outcomes reported.",
    "criteria": [

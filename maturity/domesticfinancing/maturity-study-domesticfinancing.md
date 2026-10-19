@@ -20,7 +20,7 @@ The study redraws `finance.budget--sustainable-domestic-financing-of-digital-tra
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| The state's own money for digital programmes | Sustainable domestic financing of digital transformation: state money for digital programmes | `finance.budget--sustainable-domestic-financing-of-digital-transformation-state-money-for-digital-programmes` |
+| The state's own money for digital programmes | Sustainable domestic financing of digital transformation: state money for digital programmes | `finance.budget--sustainable-domestic-financing-of-digital-transformation` |
 
 Anything else the evidence names is `other`, noted and never staged: a loan or grant from a donor or lender; a tax break or customs exemption; private investment and an operator's own spending; a fund that invests in start-ups or private firms; a regulator's income from licence fees that no law assigns to digital programmes; a tax on digital services whose yield goes to the general budget; the share of digital spending the state carries, which is `finance.sustain`'s.
 

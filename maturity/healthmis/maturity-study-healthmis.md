@@ -18,7 +18,7 @@ The study redraws `dpi.mis--health`, which as at 2026-08-31 puts 13 countries at
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Health information system | Health: health information system | `dpi.mis--health-health-information-system` |
+| Health information system | Health: health information system | `dpi.mis--health` |
 
 Anything else the evidence names is `other`, noted and never staged: a system run by one hospital, clinic or district on its own, a patient record at one hospital, a telemedicine app, a health insurance system, a donor's project database, a laboratory or vaccine-stock system with no link to routine reporting on record.
 

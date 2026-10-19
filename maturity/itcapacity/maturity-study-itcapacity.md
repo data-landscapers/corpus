@@ -20,7 +20,7 @@ The study redraws `infra.capacity--local-capacity-to-maintain-manage-and-develop
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| In-house capacity | Local capacity to maintain, manage and develop government systems: in-house capacity | `infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity` |
+| In-house capacity | Local capacity to maintain, manage and develop government systems: in-house capacity | `infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a training course, workshop or digital-skills school; skills for citizens or young people; a recruitment advertisement with no appointment; a donor project unit or consultants; a system built by a contractor; a regulator; a capacity programme announced but not running.
 

@@ -1,10 +1,10 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,LBR,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,3,3,LBR-002,Arrivals added LBR-003; LBR-004; stage unchanged.
-2026-10-17,MAR,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,no evidence,3,MAR-001,Arrivals added MAR-001; stage no evidence -> 3.
-2026-10-17,MWI,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,4,4,MWI-004,Arrivals added MWI-005; stage unchanged.
-2026-10-17,NGA,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,4,4,NGA-015;NGA-005,Arrivals added NGA-021; stage unchanged.
-2026-10-17,TCD,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,3,3,TCD-002;TCD-003,Arrivals added TCD-011; stage unchanged.
-2026-10-17,TZA,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,5,5,TZA-012;TZA-010,Arrivals added TZA-016; TZA-017; stage unchanged.
-2026-10-18,BFA,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,3,4,BFA-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GAB,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,3,3,GAB-001;GAB-012,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,TZA,infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country,fact,5,5,TZA-012;TZA-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-17,LBR,infra.connect--national-fibre-backbone,fact,3,3,LBR-002,Arrivals added LBR-003; LBR-004; stage unchanged.
+2026-10-17,MAR,infra.connect--national-fibre-backbone,fact,no evidence,3,MAR-001,Arrivals added MAR-001; stage no evidence -> 3.
+2026-10-17,MWI,infra.connect--national-fibre-backbone,fact,4,4,MWI-004,Arrivals added MWI-005; stage unchanged.
+2026-10-17,NGA,infra.connect--national-fibre-backbone,fact,4,4,NGA-015;NGA-005,Arrivals added NGA-021; stage unchanged.
+2026-10-17,TCD,infra.connect--national-fibre-backbone,fact,3,3,TCD-002;TCD-003,Arrivals added TCD-011; stage unchanged.
+2026-10-17,TZA,infra.connect--national-fibre-backbone,fact,5,5,TZA-012;TZA-010,Arrivals added TZA-016; TZA-017; stage unchanged.
+2026-10-18,BFA,infra.connect--national-fibre-backbone,fact,3,4,BFA-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GAB,infra.connect--national-fibre-backbone,fact,3,3,GAB-001;GAB-012,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,infra.connect--national-fibre-backbone,fact,5,5,TZA-012;TZA-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.

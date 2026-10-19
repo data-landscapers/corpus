@@ -18,7 +18,7 @@ The study redraws `dpi.pay--governance-role-of-central-bank`, which as at 2026-0
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Governance role of central bank | Governance role of central bank: governance role of central bank | `dpi.pay--governance-role-of-central-bank-governance-role-of-central-bank` |
+| Governance role of central bank | Governance role of central bank: governance role of central bank | `dpi.pay--governance-role-of-central-bank` |
 
 Anything else the evidence names is `other`, noted and never staged: a commercial bank's own service, a telecoms regulator's rules, a finance ministry policy with no central bank role, a law not yet adopted described only as text.
 

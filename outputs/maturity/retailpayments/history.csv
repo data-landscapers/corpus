@@ -1,26 +1,26 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,ETH,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,ETH-012;ETH-005,Arrivals added ETH-023; stage unchanged.
-2026-10-17,LBR,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,LBR-002;LBR-010,Arrivals added LBR-019; stage unchanged.
-2026-10-17,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Arrivals added ZWE-014; stage unchanged.
-2026-10-18,BFA,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,BFA-002;BFA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CAF,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,CAF-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CIV,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,CIV-002;CIV-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,COG,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,COG-014,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,COM,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,COM-003;COM-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CPV,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,review,no evidence,3,CPV-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DJI,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,review,no evidence,3,DJI-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DZA,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,DZA-005;DZA-010,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,ERI,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,3,3,ERI-001;ERI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,LSO,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,LSO-008;LSO-014,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MDG,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,MDG-003;MDG-001,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,MLI,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,MLI-009;MLI-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MOZ,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,MOZ-003;MOZ-022,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MUS,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,MUS-003;MUS-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MWI,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,5,MWI-017,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,NER,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,NER-008;NER-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,SEN,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,SEN-001;SEN-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.
-2026-10-18,SSD,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,3,3,SSD-006;SSD-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,STP,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,review,no evidence,3,STP-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,TGO-001;TGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZMB,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,5,5,ZMB-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-17,ETH,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,ETH-012;ETH-005,Arrivals added ETH-023; stage unchanged.
+2026-10-17,LBR,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,LBR-002;LBR-010,Arrivals added LBR-019; stage unchanged.
+2026-10-17,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Arrivals added ZWE-014; stage unchanged.
+2026-10-18,BFA,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,BFA-002;BFA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CAF,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,CAF-010,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,CIV-002;CIV-008,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,COG-014,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COM,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,COM-003;COM-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,dpi.pay--p2p-p2g-and-p2b-functionality,review,no evidence,3,CPV-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DJI,dpi.pay--p2p-p2g-and-p2b-functionality,review,no evidence,3,DJI-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DZA,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,DZA-005;DZA-010,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,ERI,dpi.pay--p2p-p2g-and-p2b-functionality,fact,3,3,ERI-001;ERI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,LSO,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,LSO-008;LSO-014,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,MDG-003;MDG-001,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,MLI,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,MLI-009;MLI-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MOZ,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,MOZ-003;MOZ-022,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MUS,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,MUS-003;MUS-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MWI,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,5,MWI-017,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,NER,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,NER-008;NER-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,SEN-001;SEN-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-18,SSD,dpi.pay--p2p-p2g-and-p2b-functionality,fact,3,3,SSD-006;SSD-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,STP,dpi.pay--p2p-p2g-and-p2b-functionality,review,no evidence,3,STP-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,TGO-001;TGO-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,5,ZMB-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,ZWE-004;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.

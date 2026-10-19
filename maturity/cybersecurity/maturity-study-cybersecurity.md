@@ -20,7 +20,7 @@ The study redraws `infra.cybersec--national-cybersecurity-readiness`, which as a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National cyber response | National cybersecurity readiness: national cyber response | `infra.cybersec--national-cybersecurity-readiness-national-cyber-response` |
+| National cyber response | National cybersecurity readiness: national cyber response | `infra.cybersec--national-cybersecurity-readiness` |
 
 Anything else the evidence names is `other`, noted and never staged: a cybercrime law, an arrest or a prosecution; a police cybercrime unit; a team serving one sector only, such as banks; a company's security centre; training, awareness campaigns, conferences and drills; an attack on its own; a cooperation memorandum; ratifying the Malabo or Budapest Convention; a rank in an index.
 

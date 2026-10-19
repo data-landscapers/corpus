@@ -18,7 +18,7 @@ The study redraws `gov.policy--broadband-strategy`, which as at 2026-08-31 puts 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National broadband plan | Broadband strategy: national plan | `gov.policy--broadband-strategy-national-plan` |
+| National broadband plan | Broadband strategy: national plan | `gov.policy--broadband-strategy` |
 
 Anything else the evidence names is `other`, noted and never staged: a single fibre or tower project, an operator's rollout, a regulator's licence or pricing decision, a universal service fund with no plan behind it.
 

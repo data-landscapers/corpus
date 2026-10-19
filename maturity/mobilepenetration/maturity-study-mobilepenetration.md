@@ -20,7 +20,7 @@ The study redraws `infra.connect--mobile-penetration`, which as at 2026-08-31 pu
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| People who own a mobile phone | Mobile penetration: people who own a mobile phone | `infra.connect--mobile-penetration-people-who-own-a-mobile-phone` |
+| People who own a mobile phone | Mobile penetration: people who own a mobile phone | `infra.connect--mobile-penetration` |
 
 Anything else the evidence names is `other`, noted and never staged: SIM cards or subscriptions per 100 people, which count a person once for every SIM; an operator's or the regulator's subscriber count; unique subscribers; households with a phone; a figure for adults only; smartphone ownership; network coverage; the price of a handset.
 

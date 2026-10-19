@@ -20,7 +20,7 @@ The study redraws `gov.regional--regional-policy-collaboration`, which as at 202
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Regional cooperation on digital policy | Regional policy collaboration: regional cooperation on digital policy | `gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy` |
+| Regional cooperation on digital policy | Regional policy collaboration: regional cooperation on digital policy | `gov.regional--regional-policy-collaboration` |
 
 Anything else the evidence names is `other`, noted and never staged: an agreement with a government or body outside Africa, or with a company; a global body or campaign; an Arab League or Francophonie body; a donor's programme no African body runs; a national law brought into line with a regional model, a shared cable or exchange point, and a rule on sending data abroad, each of which has its own row; a trade or political agreement that is not about digital policy.
 

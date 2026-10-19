@@ -54,7 +54,7 @@
    "label": "Satellite data in weather services",
    "subject": "data.satellite",
    "text": "Meteorological use of satellite data: satellite data in weather services",
-   "indicator_id": "data.satellite--meteorological-use-of-satellite-data-satellite-data-in-weather-services",
+   "indicator_id": "data.satellite--meteorological-use-of-satellite-data",
    "class": "metsat",
    "norm_short": "The Integrated African Strategy on Meteorology asks for sustained access to geostationary and polar-orbiting satellites, WMO's observing standards and ISO 9001 certification for every national weather service.",
    "criteria": [

@@ -18,7 +18,7 @@ The study redraws `gov.policy--open-data-policy`, which as at 2026-08-31 puts 33
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Open data policy | Open data policy: national open data policy | `gov.policy--open-data-policy-national-open-data-policy` |
+| Open data policy | Open data policy: national open data policy | `gov.policy--open-data-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a portal with no policy behind it, a statistics office's data portal, a portal run by a donor or a development bank, an access to information law, a national data policy, one ministry's, one sector's or one city's open data policy, an open data licence, a hackathon, a commitment in an Open Government Partnership plan.
 

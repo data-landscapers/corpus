@@ -1,21 +1,21 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,ERI,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,review,unplaced,3,ERI-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GNB,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-17,AGO,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,AGO-009;AGO-005,Arrivals added AGO-009; stage unchanged.
-2026-10-17,BWA,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,BWA-005,Arrivals added BWA-006; stage unchanged.
-2026-10-17,CMR,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,CMR-004;CMR-001,Arrivals added CMR-003; CMR-004; stage unchanged.
-2026-10-17,GHA,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,4,4,GHA-002;GHA-001,Arrivals added GHA-004; stage unchanged.
-2026-10-17,GIN,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,GIN-002;GIN-001,Arrivals added GIN-002; stage unchanged.
-2026-10-17,GMB,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,GMB-002,Arrivals added GMB-003; stage unchanged.
-2026-10-17,KEN,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,KEN-003;KEN-004,Arrivals added KEN-006; stage unchanged.
-2026-10-17,LBY,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,2,2,LBY-001;LBY-002,Arrivals added LBY-002; stage unchanged.
-2026-10-17,MLI,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,4,4,MLI-006;MLI-001;MLI-007,Arrivals added MLI-007; MLI-008; MLI-009; MLI-010; stage unchanged.
-2026-10-17,MOZ,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,MOZ-003;MOZ-001,Arrivals added MOZ-007; stage unchanged.
-2026-10-17,NER,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,4,4,NER-004;NER-002;NER-003,Arrivals added NER-003; NER-004; stage unchanged.
-2026-10-17,NGA,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,4,4,NGA-014;NGA-005;NGA-013,Arrivals added NGA-013; NGA-014; stage unchanged.
-2026-10-17,RWA,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,RWA-001;RWA-002,Arrivals added RWA-002; stage unchanged.
-2026-10-17,SSD,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,SSD-012;SSD-013,Arrivals added SSD-015; SSD-016; stage unchanged.
-2026-10-17,SWZ,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,SWZ-002;SWZ-001,Arrivals added SWZ-004; SWZ-005; stage unchanged.
-2026-10-17,ZAF,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,ZAF-002;ZAF-001,Arrivals added ZAF-002; stage unchanged.
-2026-10-17,ZMB,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,4,ZMB-008;ZMB-002,Arrivals added ZMB-004; ZMB-005; ZMB-006; ZMB-007; ZMB-008; stage 3 -> 4.
-2026-10-17,ZWE,gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law,fact,3,3,ZWE-002;ZWE-001,Arrivals added ZWE-002; stage unchanged.
+2026-10-13,ERI,gov.legislate--cybersecurity-legislation,review,unplaced,3,ERI-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GNB,gov.legislate--cybersecurity-legislation,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-17,AGO,gov.legislate--cybersecurity-legislation,fact,3,3,AGO-009;AGO-005,Arrivals added AGO-009; stage unchanged.
+2026-10-17,BWA,gov.legislate--cybersecurity-legislation,fact,3,3,BWA-005,Arrivals added BWA-006; stage unchanged.
+2026-10-17,CMR,gov.legislate--cybersecurity-legislation,fact,3,3,CMR-004;CMR-001,Arrivals added CMR-003; CMR-004; stage unchanged.
+2026-10-17,GHA,gov.legislate--cybersecurity-legislation,fact,4,4,GHA-002;GHA-001,Arrivals added GHA-004; stage unchanged.
+2026-10-17,GIN,gov.legislate--cybersecurity-legislation,fact,3,3,GIN-002;GIN-001,Arrivals added GIN-002; stage unchanged.
+2026-10-17,GMB,gov.legislate--cybersecurity-legislation,fact,3,3,GMB-002,Arrivals added GMB-003; stage unchanged.
+2026-10-17,KEN,gov.legislate--cybersecurity-legislation,fact,3,3,KEN-003;KEN-004,Arrivals added KEN-006; stage unchanged.
+2026-10-17,LBY,gov.legislate--cybersecurity-legislation,fact,2,2,LBY-001;LBY-002,Arrivals added LBY-002; stage unchanged.
+2026-10-17,MLI,gov.legislate--cybersecurity-legislation,fact,4,4,MLI-006;MLI-001;MLI-007,Arrivals added MLI-007; MLI-008; MLI-009; MLI-010; stage unchanged.
+2026-10-17,MOZ,gov.legislate--cybersecurity-legislation,fact,3,3,MOZ-003;MOZ-001,Arrivals added MOZ-007; stage unchanged.
+2026-10-17,NER,gov.legislate--cybersecurity-legislation,fact,4,4,NER-004;NER-002;NER-003,Arrivals added NER-003; NER-004; stage unchanged.
+2026-10-17,NGA,gov.legislate--cybersecurity-legislation,fact,4,4,NGA-014;NGA-005;NGA-013,Arrivals added NGA-013; NGA-014; stage unchanged.
+2026-10-17,RWA,gov.legislate--cybersecurity-legislation,fact,3,3,RWA-001;RWA-002,Arrivals added RWA-002; stage unchanged.
+2026-10-17,SSD,gov.legislate--cybersecurity-legislation,fact,3,3,SSD-012;SSD-013,Arrivals added SSD-015; SSD-016; stage unchanged.
+2026-10-17,SWZ,gov.legislate--cybersecurity-legislation,fact,3,3,SWZ-002;SWZ-001,Arrivals added SWZ-004; SWZ-005; stage unchanged.
+2026-10-17,ZAF,gov.legislate--cybersecurity-legislation,fact,3,3,ZAF-002;ZAF-001,Arrivals added ZAF-002; stage unchanged.
+2026-10-17,ZMB,gov.legislate--cybersecurity-legislation,fact,3,4,ZMB-008;ZMB-002,Arrivals added ZMB-004; ZMB-005; ZMB-006; ZMB-007; ZMB-008; stage 3 -> 4.
+2026-10-17,ZWE,gov.legislate--cybersecurity-legislation,fact,3,3,ZWE-002;ZWE-001,Arrivals added ZWE-002; stage unchanged.

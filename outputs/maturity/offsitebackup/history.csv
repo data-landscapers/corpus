@@ -1,3 +1,3 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,NGA,infra.store--off-site-backup-capacity-off-site-backup-for-government-systems,fact,unplaced,unplaced,,Arrivals added NGA-002; stage unchanged.
-2026-10-18,NAM,infra.store--off-site-backup-capacity-off-site-backup-for-government-systems,review,no evidence,unplaced,,"Housekeeping 20: restated from the ledger; the Office of the Prime Minister's Disaster Recovery Centre (New Era, 2015) is now held, in no named place, so the cell is unplaced rather than without evidence"
+2026-10-17,NGA,infra.store--off-site-backup-capacity,fact,unplaced,unplaced,,Arrivals added NGA-002; stage unchanged.
+2026-10-18,NAM,infra.store--off-site-backup-capacity,review,no evidence,unplaced,,"Housekeeping 20: restated from the ledger; the Office of the Prime Minister's Disaster Recovery Centre (New Era, 2015) is now held, in no named place, so the cell is unplaced rather than without evidence"

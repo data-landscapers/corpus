@@ -18,7 +18,7 @@ The study redraws `include.access--citizen-participation-in-policy`, which as at
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Online participation in policy | Citizen participation in policy: online participation in policy | `include.access--citizen-participation-in-policy-online-participation-in-policy` |
+| Online participation in policy | Citizen participation in policy: online participation in policy | `include.access--citizen-participation-in-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a consultation held only in person, a channel for complaints about a service, a workshop of officials and donors, a social-media post announcing a policy with no call for views, an internet governance forum, an election or referendum.
 

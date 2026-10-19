@@ -22,7 +22,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Sector policy | ICT strategy: sector policy | `gov.policy--ict-strategy-sector-policy` |
+| Sector policy | ICT strategy: sector policy | `gov.policy--ict-strategy` |
 
 ## 2. Typology
 

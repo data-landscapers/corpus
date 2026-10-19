@@ -1,13 +1,13 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,COG,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,2,2,COG-001,Arrivals added COG-002; stage unchanged.
-2026-10-17,ZAF,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,3,3,ZAF-007;ZAF-004,Arrivals added ZAF-007; stage unchanged.
-2026-10-18,BDI,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,review,no evidence,2,BDI-001;BDI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BWA,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,4,4,BWA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CIV,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,2,2,CIV-001;CIV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,EGY,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,unplaced,3,EGY-003;EGY-004,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GHA,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,3,3,GHA-009;GHA-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GMB,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,2,2,GMB-001;GMB-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NAM,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,2,2,NAM-001;NAM-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SEN,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,review,no evidence,3,SEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,STP,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,no evidence,2,STP-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZWE,capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public,fact,4,4,ZWE-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-17,COG,capacity.literacy--digital-literacy-general-population,fact,2,2,COG-001,Arrivals added COG-002; stage unchanged.
+2026-10-17,ZAF,capacity.literacy--digital-literacy-general-population,fact,3,3,ZAF-007;ZAF-004,Arrivals added ZAF-007; stage unchanged.
+2026-10-18,BDI,capacity.literacy--digital-literacy-general-population,review,no evidence,2,BDI-001;BDI-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BWA,capacity.literacy--digital-literacy-general-population,fact,4,4,BWA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,capacity.literacy--digital-literacy-general-population,fact,2,2,CIV-001;CIV-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,EGY,capacity.literacy--digital-literacy-general-population,fact,unplaced,3,EGY-003;EGY-004,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GHA,capacity.literacy--digital-literacy-general-population,fact,3,3,GHA-009;GHA-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GMB,capacity.literacy--digital-literacy-general-population,fact,2,2,GMB-001;GMB-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,capacity.literacy--digital-literacy-general-population,fact,2,2,NAM-001;NAM-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,capacity.literacy--digital-literacy-general-population,review,no evidence,3,SEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,STP,capacity.literacy--digital-literacy-general-population,fact,no evidence,2,STP-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZWE,capacity.literacy--digital-literacy-general-population,fact,4,4,ZWE-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.

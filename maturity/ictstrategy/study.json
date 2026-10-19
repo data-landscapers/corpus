@@ -74,7 +74,7 @@
       "label": "Sector policy",
       "subject": "gov.policy",
       "text": "ICT strategy: sector policy",
-      "indicator_id": "gov.policy--ict-strategy-sector-policy",
+      "indicator_id": "gov.policy--ict-strategy",
       "norm_short": "The African Union's Digital Transformation Strategy for Africa 2020-2030 asks states for \"national and sectorial digital strategies\". It names the subject and sets no measure.",
       "class": "sector",
       "criteria_of": "0cfbea3c517b",

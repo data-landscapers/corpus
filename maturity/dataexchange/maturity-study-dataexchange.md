@@ -18,7 +18,7 @@ The study redraws `dpi.exchange--national-data-exchange-system`, which as at 202
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National data exchange system | National data exchange system: national data exchange system | `dpi.exchange--national-data-exchange-system-national-data-exchange-system` |
+| National data exchange system | National data exchange system: national data exchange system | `dpi.exchange--national-data-exchange-system` |
 
 Anything else the evidence names is `other`, noted and never staged: a framework, standard or law with no platform running (the interoperability studies hold those), a portal or e-services site for citizens, a data centre or cloud, a single ministry's internal integration, a regional platform between states, a payments switch.
 

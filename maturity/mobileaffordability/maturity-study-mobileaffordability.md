@@ -20,7 +20,7 @@ The study redraws `infra.connect--mobile-affordability`, which as at 2026-08-31 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| The price of mobile data against income | Mobile affordability: the price of mobile data against income | `infra.connect--mobile-affordability-the-price-of-mobile-data-against-income` |
+| The price of mobile data against income | Mobile affordability: the price of mobile data against income | `infra.connect--mobile-affordability` |
 
 Anything else the evidence names is `other`, noted and never staged: a price cut or rise that gives no price; a promotional, night-only, daily or weekly bundle; a price floor or cap set by the regulator; a ranking with no price; fixed broadband; the price of a handset; taxes on data, airtime or phones; zero-rated sites; what people say they spend.
 

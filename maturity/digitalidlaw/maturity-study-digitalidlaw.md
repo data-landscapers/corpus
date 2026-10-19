@@ -18,7 +18,7 @@ The study redraws `gov.legislate--legislation-covering-digital-id`, which as at 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National identity law | Legislation covering digital id: national identity law | `gov.legislate--legislation-covering-digital-id-national-identity-law` |
+| National identity law | Legislation covering digital id: national identity law | `gov.legislate--legislation-covering-digital-id` |
 
 Anything else the evidence names is `other`, noted and never staged: the identity system or project itself, a digital identity strategy or policy, a data protection law, a law on electronic signatures alone, a civil registration law that sets up no identity number or card, SIM card registration rules, a voters' roll law, a nationality or passport law, a treaty.
 

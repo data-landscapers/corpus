@@ -18,7 +18,7 @@ The study redraws `dpi.mis--land`, which as at 2026-08-31 puts 21 countries at s
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Land | Land: land | `dpi.mis--land-land` |
+| Land | Land: land | `dpi.mis--land` |
 
 Anything else the evidence names is `other`, noted and never staged: a land law or policy with no system, a mapping or titling drive with no system named, a private property portal, a land dispute with no system named.
 

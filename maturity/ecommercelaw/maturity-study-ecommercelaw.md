@@ -18,7 +18,7 @@ The study redraws `gov.legislate--e-commerce-legislation`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| E-commerce law | E-commerce legislation: e-commerce law | `gov.legislate--e-commerce-legislation-e-commerce-law` |
+| E-commerce law | E-commerce legislation: e-commerce law | `gov.legislate--e-commerce-legislation` |
 
 Anything else the evidence names is `other`, noted and never staged: an e-commerce strategy or policy, a tax on digital services or online sales, an electronic invoicing rule, a copyright or intellectual property bill, a law on online media, platforms or social networks, rules for ride-hailing or courier services, a consumer protection law that says nothing of online selling, a signature platform or public key system itself, the data protection, cybercrime and payments laws, a treaty or a regional model law.
 

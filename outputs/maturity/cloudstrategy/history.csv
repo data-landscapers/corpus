@@ -1,17 +1,17 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,BDI,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,CIV,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,3,CIV-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,CMR,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,COD,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,2,COD-002,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,DZA,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,ETH,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GAB,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GIN,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GNB,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,MUS,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SOM,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TCD,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,UGA,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,4,UGA-004;UGA-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,ZMB,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,3,ZMB-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,NAM,gov.policy--data-storage-cloud-strategy-hosting-policy,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,ZAF,gov.policy--data-storage-cloud-strategy-hosting-policy,fact,3,3,ZAF-003;ZAF-007,Arrivals added ZAF-007; stage unchanged.
+2026-10-13,BDI,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,CIV,gov.policy--data-storage-cloud-strategy,review,no evidence,3,CIV-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,CMR,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,COD,gov.policy--data-storage-cloud-strategy,review,no evidence,2,COD-002,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,DZA,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,ETH,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GAB,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GIN,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GNB,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,MUS,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SOM,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,UGA,gov.policy--data-storage-cloud-strategy,review,no evidence,4,UGA-004;UGA-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,ZMB,gov.policy--data-storage-cloud-strategy,review,no evidence,3,ZMB-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,NAM,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,ZAF,gov.policy--data-storage-cloud-strategy,fact,3,3,ZAF-003;ZAF-007,Arrivals added ZAF-007; stage unchanged.

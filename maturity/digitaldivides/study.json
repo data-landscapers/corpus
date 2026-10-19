@@ -50,7 +50,7 @@
    "label": "Rural internet gap",
    "subject": "include.divides",
    "text": "Bridging of digital divides: rural internet gap",
-   "indicator_id": "include.divides--bridging-of-digital-divides-rural-internet-gap",
+   "indicator_id": "include.divides--bridging-of-digital-divides",
    "class": "ruralaccess",
    "norm_short": "The Digital Transformation Strategy asks for universal, equitable and affordable access for all people wherever they live; the ITU's 2030 targets ask for universal internet use.",
    "criteria": [

@@ -46,7 +46,7 @@
    "label": "Refugees and displaced people",
    "subject": "include.access",
    "text": "Inclusion of refugees and IDPs: refugees and displaced people",
-   "indicator_id": "include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people",
+   "indicator_id": "include.access--inclusion-of-refugees-and-idps",
    "class": "displaced",
    "norm_short": "The Kampala Convention asks for registers and documents for internally displaced people; the Global Digital Compact and UNHCR ask for their digital inclusion.",
    "criteria": [

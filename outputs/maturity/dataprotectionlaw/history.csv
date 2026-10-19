@@ -1,15 +1,15 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,LBY,gov.legislate--data-protection-legislation-general-law,review,no evidence,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,STP,gov.legislate--data-protection-legislation-general-law,review,3,3,STP-005;STP-007,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,CAF,gov.legislate--data-protection-legislation-general-law,fact,3,3,CAF-001;CAF-007,"Arrivals added CAF-005, CAF-006, CAF-007; restaged by hand: stage unchanged."
-2026-10-17,CMR,gov.legislate--data-protection-legislation-general-law,fact,3,3,CMR-004,"Arrivals added CMR-006, CMR-007; restaged by hand: stage unchanged."
-2026-10-17,DZA,gov.legislate--data-protection-legislation-general-law,fact,3,3,DZA-001;DZA-007;DZA-011,"Arrivals added DZA-025, DZA-026, DZA-027, DZA-028; restaged by hand: stage unchanged."
-2026-10-17,EGY,gov.legislate--data-protection-legislation-general-law,fact,3,3,EGY-015;EGY-013;EGY-002;EGY-008;EGY-003;EGY-004;EGY-006;EGY-005;EGY-011,"Arrivals added EGY-014, EGY-015; restaged by hand: stage unchanged."
-2026-10-17,ETH,gov.legislate--data-protection-legislation-general-law,fact,3,3,ETH-001;ETH-003;ETH-004,Arrivals added ETH-008; restaged by hand: stage unchanged.
-2026-10-17,GHA,gov.legislate--data-protection-legislation-general-law,fact,4,4,GHA-030;GHA-038;GHA-039;GHA-037;GHA-028;GHA-027,"Arrivals added GHA-030, GHA-031, GHA-032, GHA-033, GHA-034, GHA-035, GHA-036, GHA-037, GHA-038, GHA-039, GHA-040, GHA-041; restaged by hand: stage unchanged."
-2026-10-17,GIN,gov.legislate--data-protection-legislation-general-law,fact,3,3,GIN-007;GIN-003,"Arrivals added GIN-006, GIN-007; restaged by hand: stage unchanged."
-2026-10-17,GMB,gov.legislate--data-protection-legislation-general-law,fact,3,3,GMB-010;GMB-012;GMB-014,Arrivals added GMB-014; restaged by hand: stage unchanged.
-2026-10-17,GNB,gov.legislate--data-protection-legislation-general-law,fact,2,2,GNB-004;GNB-003,Arrivals added GNB-005; restaged by hand: stage unchanged.
-2026-10-17,KEN,gov.legislate--data-protection-legislation-general-law,fact,4,4,KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001,Arrivals added KEN-022; restaged by hand: stage unchanged.
-2026-10-17,LBY,gov.legislate--data-protection-legislation-general-law,fact,unplaced,2,LBY-003;LBY-004,"Arrivals added LBY-003, LBY-004, LBY-005; restaged by hand: stage unplaced -> 2."
-2026-10-18,TCD,gov.legislate--data-protection-legislation-general-law,fact,2,3,TCD-003,"July 2026 legal analysis treats Loi 007/PR/2015 as the personal data law in force (fact closed 2026-10-17, merged tonight): 2 to 3, under revision"
+2026-10-13,LBY,gov.legislate--data-protection-legislation,review,no evidence,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,STP,gov.legislate--data-protection-legislation,review,3,3,STP-005;STP-007,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,CAF,gov.legislate--data-protection-legislation,fact,3,3,CAF-001;CAF-007,"Arrivals added CAF-005, CAF-006, CAF-007; restaged by hand: stage unchanged."
+2026-10-17,CMR,gov.legislate--data-protection-legislation,fact,3,3,CMR-004,"Arrivals added CMR-006, CMR-007; restaged by hand: stage unchanged."
+2026-10-17,DZA,gov.legislate--data-protection-legislation,fact,3,3,DZA-001;DZA-007;DZA-011,"Arrivals added DZA-025, DZA-026, DZA-027, DZA-028; restaged by hand: stage unchanged."
+2026-10-17,EGY,gov.legislate--data-protection-legislation,fact,3,3,EGY-015;EGY-013;EGY-002;EGY-008;EGY-003;EGY-004;EGY-006;EGY-005;EGY-011,"Arrivals added EGY-014, EGY-015; restaged by hand: stage unchanged."
+2026-10-17,ETH,gov.legislate--data-protection-legislation,fact,3,3,ETH-001;ETH-003;ETH-004,Arrivals added ETH-008; restaged by hand: stage unchanged.
+2026-10-17,GHA,gov.legislate--data-protection-legislation,fact,4,4,GHA-030;GHA-038;GHA-039;GHA-037;GHA-028;GHA-027,"Arrivals added GHA-030, GHA-031, GHA-032, GHA-033, GHA-034, GHA-035, GHA-036, GHA-037, GHA-038, GHA-039, GHA-040, GHA-041; restaged by hand: stage unchanged."
+2026-10-17,GIN,gov.legislate--data-protection-legislation,fact,3,3,GIN-007;GIN-003,"Arrivals added GIN-006, GIN-007; restaged by hand: stage unchanged."
+2026-10-17,GMB,gov.legislate--data-protection-legislation,fact,3,3,GMB-010;GMB-012;GMB-014,Arrivals added GMB-014; restaged by hand: stage unchanged.
+2026-10-17,GNB,gov.legislate--data-protection-legislation,fact,2,2,GNB-004;GNB-003,Arrivals added GNB-005; restaged by hand: stage unchanged.
+2026-10-17,KEN,gov.legislate--data-protection-legislation,fact,4,4,KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001,Arrivals added KEN-022; restaged by hand: stage unchanged.
+2026-10-17,LBY,gov.legislate--data-protection-legislation,fact,unplaced,2,LBY-003;LBY-004,"Arrivals added LBY-003, LBY-004, LBY-005; restaged by hand: stage unplaced -> 2."
+2026-10-18,TCD,gov.legislate--data-protection-legislation,fact,2,3,TCD-003,"July 2026 legal analysis treats Loi 007/PR/2015 as the personal data law in force (fact closed 2026-10-17, merged tonight): 2 to 3, under revision"

@@ -37,7 +37,7 @@
       "label": "General law",
       "subject": "gov.legislate",
       "text": "Data protection legislation: general law",
-      "indicator_id": "gov.legislate--data-protection-legislation-general-law",
+      "indicator_id": "gov.legislate--data-protection-legislation",
       "norm_short": "The African Union's Malabo Convention: Article 8(1) commits each party to a legal framework for personal data, Article 13 sets the principles and Articles 16 to 19 the rights. It sets no test of whether a law is applied.",
       "class": "general",
       "criteria": [

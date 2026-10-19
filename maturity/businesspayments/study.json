@@ -85,7 +85,7 @@
    "label": "B2B and B2G functionality",
    "subject": "dpi.pay",
    "text": "B2B and B2G functionality: b2b and b2g functionality",
-   "indicator_id": "dpi.pay--b2b-and-b2g-functionality-b2b-and-b2g-functionality",
+   "indicator_id": "dpi.pay--b2b-and-b2g-functionality",
    "class": "procurement",
    "norm_short": "The AfCFTA Digital Trade Protocol asks states to enable electronic transactions, electronic invoicing and interoperable payments between businesses and with government.",
    "criteria": [

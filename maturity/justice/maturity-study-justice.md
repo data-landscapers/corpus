@@ -18,7 +18,7 @@ The study redraws `dpi.mis--justice`, which as at 2026-08-31 puts 17 countries a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Justice | Justice: justice | `dpi.mis--justice-justice` |
+| Justice | Justice: justice | `dpi.mis--justice` |
 
 Anything else the evidence names is `other`, noted and never staged: a police or prison system with no court system named, a justice reform or law with no system, hearings by video alone, a legal-information site run privately.
 

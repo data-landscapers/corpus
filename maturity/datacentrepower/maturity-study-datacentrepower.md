@@ -18,7 +18,7 @@ The study redraws `infra.energy--sufficient-energy-and-water-for-data-centres`. 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Power and water for data centres | Sufficient energy and water for data centres: power and water for data centres | `infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres` |
+| Power and water for data centres | Sufficient energy and water for data centres: power and water for data centres | `infra.energy--sufficient-energy-and-water-for-data-centres` |
 
 Anything else the evidence names is `other`, noted and never staged: standby generators and batteries alone, which every data centre has; a plant, line or contract planned, tendered or under construction; the national grid's capacity, outages or water supply where no source ties them to a data centre; a PUE or water figure for a data centre not yet in service.
 

@@ -50,7 +50,7 @@
    "label": "Digital accessibility",
    "subject": "include.access",
    "text": "Inclusion of persons with disabilities: digital accessibility",
-   "indicator_id": "include.access--inclusion-of-persons-with-disabilities-digital-accessibility",
+   "indicator_id": "include.access--inclusion-of-persons-with-disabilities",
    "class": "accessibility",
    "norm_short": "The AU Disability Protocol asks for public information in accessible formats and technologies and for affordable devices; the UN CRPD asks the same of states.",
    "criteria": [

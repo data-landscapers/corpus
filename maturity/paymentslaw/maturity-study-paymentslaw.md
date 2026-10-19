@@ -18,7 +18,7 @@ The study redraws `gov.legislate--digital-payments-legislation`, which as at 202
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Payments law | Digital payments legislation: payments law | `gov.legislate--digital-payments-legislation-payments-law` |
+| Payments law | Digital payments legislation: payments law | `gov.legislate--digital-payments-legislation` |
 
 Anything else the evidence names is `other`, noted and never staged: a payment system, switch or instant payment scheme itself, a law or rules on crypto and virtual assets, a central bank digital currency, a general banking or central bank law that says nothing of payment providers, anti-money-laundering rules, a regulatory sandbox, a payments strategy or vision, a tax on mobile money, a treaty.
 

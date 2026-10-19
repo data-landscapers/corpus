@@ -51,7 +51,7 @@
    "label": "Government services online",
    "subject": "dpi.govtech",
    "text": "e-government services: government services online",
-   "indicator_id": "dpi.govtech--e-government-services-government-services-online",
+   "indicator_id": "dpi.govtech--e-government-services",
    "class": "eservices",
    "norm_short": "The Digital Transformation Strategy asks for a single digital gateway carrying government services to citizens, businesses and government; the AU Public Service Charter asks for modern technologies in service delivery.",
    "criteria": [

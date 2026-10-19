@@ -18,7 +18,7 @@ The study redraws `tech.industry--national-capacity-in-dt-related-production`, w
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| ICT exports and production | National capacity in DT-related production: ICT exports and production | `tech.industry--national-capacity-in-dt-related-production-ict-exports-and-production` |
+| ICT exports and production | National capacity in DT-related production: ICT exports and production | `tech.industry--national-capacity-in-dt-related-production` |
 
 Anything else the evidence names is `other`, noted and never staged: a plant announced or being built, an importer or retailer, a software company, a data centre, a chip ambition with no production.
 

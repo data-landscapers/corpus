@@ -58,7 +58,7 @@
    "label": "Land register",
    "subject": "dpi.registry",
    "text": "Land register: land register",
-   "indicator_id": "dpi.registry--land-register-land-register",
+   "indicator_id": "dpi.registry--land-register",
    "class": "land",
    "norm_short": "The AU Framework and Guidelines on Land Policy asks for land rights, customary tenure included, to be registered and tracked in a computerised land information system with public access.",
    "criteria": [

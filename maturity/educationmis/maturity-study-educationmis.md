@@ -18,7 +18,7 @@ The study redraws `dpi.mis--education`, which as at 2026-08-31 puts one country 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Education information system | Education: education information system | `dpi.mis--education-education-information-system` |
+| Education information system | Education: education information system | `dpi.mis--education` |
 
 Anything else the evidence names is `other`, noted and never staged: records kept by one school or district on its own, a learning platform or e-learning content, an exam board's results portal on its own, a school's own software, a university admissions system, a donor's survey with no ministry system on record.
 

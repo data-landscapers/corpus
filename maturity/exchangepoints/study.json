@@ -52,7 +52,7 @@
    "label": "Exchange points keeping traffic local",
    "subject": "infra.connect",
    "text": "Internet exchange points: exchange points keeping traffic local",
-   "indicator_id": "infra.connect--internet-exchange-points-exchange-points-keeping-traffic-local",
+   "indicator_id": "infra.connect--internet-exchange-points",
    "class": "exchange",
    "norm_short": "The African Union's Digital Transformation Strategy and its African Internet Exchange System ask every country for an exchange point that keeps local traffic local and links to the region.",
    "criteria": [

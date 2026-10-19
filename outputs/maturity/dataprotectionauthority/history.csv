@@ -1,24 +1,24 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,LBY,gov.protect--data-protection-authority-supervisory-authority,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,NAM,gov.protect--data-protection-authority-supervisory-authority,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TCD,gov.protect--data-protection-authority-supervisory-authority,review,no evidence,3,TCD-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-17,BEN,gov.protect--data-protection-authority-supervisory-authority,fact,5,5,BEN-003;BEN-020,Arrivals added BEN-020; BEN-021; stage unchanged.
-2026-10-17,BFA,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,BFA-016;BFA-015,Arrivals added BFA-016; stage unchanged.
-2026-10-17,CAF,gov.protect--data-protection-authority-supervisory-authority,fact,2,2,CAF-001;CAF-003,Arrivals added CAF-003; stage unchanged.
-2026-10-17,CMR,gov.protect--data-protection-authority-supervisory-authority,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-002; stage unchanged.
-2026-10-17,DZA,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,DZA-003;DZA-001,Arrivals added DZA-007; DZA-008; stage unchanged.
-2026-10-17,GHA,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,GHA-013;GHA-014,Arrivals added GHA-013; GHA-014; GHA-015; GHA-016; stage unchanged.
-2026-10-17,GMB,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,GMB-001,Arrivals added GMB-005; stage unchanged.
-2026-10-17,KEN,gov.protect--data-protection-authority-supervisory-authority,fact,4,4,KEN-013;KEN-007;KEN-016,Arrivals added KEN-016; KEN-017; stage unchanged.
-2026-10-17,LBY,gov.protect--data-protection-authority-supervisory-authority,fact,no evidence,1,LBY-001,Arrivals added LBY-001; stage no evidence -> 1.
-2026-10-17,MLI,gov.protect--data-protection-authority-supervisory-authority,fact,5,5,MLI-003;MLI-008;MLI-001,Arrivals added MLI-017; MLI-018; stage unchanged.
-2026-10-17,RWA,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,RWA-001;RWA-002,Arrivals added RWA-002; stage unchanged.
-2026-10-17,SSD,gov.protect--data-protection-authority-supervisory-authority,fact,1,1,SSD-003;SSD-004,Arrivals added SSD-004; stage unchanged.
-2026-10-17,SWZ,gov.protect--data-protection-authority-supervisory-authority,fact,4,4,SWZ-006;SWZ-007;SWZ-001,Arrivals added SWZ-015; stage unchanged.
-2026-10-17,TCD,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,TCD-001,Arrivals added TCD-002; stage unchanged.
-2026-10-17,TGO,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,TGO-009;TGO-001,Arrivals added TGO-011; stage unchanged.
-2026-10-17,TUN,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,TUN-006;TUN-004,Arrivals added TUN-006; stage unchanged.
-2026-10-17,TZA,gov.protect--data-protection-authority-supervisory-authority,fact,4,4,TZA-010;TZA-011;TZA-001,Arrivals added TZA-014; stage unchanged.
-2026-10-17,UGA,gov.protect--data-protection-authority-supervisory-authority,fact,4,4,UGA-004;UGA-003;UGA-001,Arrivals added UGA-016; stage unchanged.
-2026-10-17,ZAF,gov.protect--data-protection-authority-supervisory-authority,fact,5,5,ZAF-014;ZAF-028,Arrivals added ZAF-036; stage unchanged.
-2026-10-17,ZWE,gov.protect--data-protection-authority-supervisory-authority,fact,3,3,ZWE-015;ZWE-001,Arrivals added ZWE-015; ZWE-016; stage unchanged.
+2026-10-13,LBY,gov.protect--data-protection-authority,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,NAM,gov.protect--data-protection-authority,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.protect--data-protection-authority,review,no evidence,3,TCD-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-17,BEN,gov.protect--data-protection-authority,fact,5,5,BEN-003;BEN-020,Arrivals added BEN-020; BEN-021; stage unchanged.
+2026-10-17,BFA,gov.protect--data-protection-authority,fact,3,3,BFA-016;BFA-015,Arrivals added BFA-016; stage unchanged.
+2026-10-17,CAF,gov.protect--data-protection-authority,fact,2,2,CAF-001;CAF-003,Arrivals added CAF-003; stage unchanged.
+2026-10-17,CMR,gov.protect--data-protection-authority,fact,2,2,CMR-001;CMR-002,Arrivals added CMR-002; stage unchanged.
+2026-10-17,DZA,gov.protect--data-protection-authority,fact,3,3,DZA-003;DZA-001,Arrivals added DZA-007; DZA-008; stage unchanged.
+2026-10-17,GHA,gov.protect--data-protection-authority,fact,3,3,GHA-013;GHA-014,Arrivals added GHA-013; GHA-014; GHA-015; GHA-016; stage unchanged.
+2026-10-17,GMB,gov.protect--data-protection-authority,fact,3,3,GMB-001,Arrivals added GMB-005; stage unchanged.
+2026-10-17,KEN,gov.protect--data-protection-authority,fact,4,4,KEN-013;KEN-007;KEN-016,Arrivals added KEN-016; KEN-017; stage unchanged.
+2026-10-17,LBY,gov.protect--data-protection-authority,fact,no evidence,1,LBY-001,Arrivals added LBY-001; stage no evidence -> 1.
+2026-10-17,MLI,gov.protect--data-protection-authority,fact,5,5,MLI-003;MLI-008;MLI-001,Arrivals added MLI-017; MLI-018; stage unchanged.
+2026-10-17,RWA,gov.protect--data-protection-authority,fact,3,3,RWA-001;RWA-002,Arrivals added RWA-002; stage unchanged.
+2026-10-17,SSD,gov.protect--data-protection-authority,fact,1,1,SSD-003;SSD-004,Arrivals added SSD-004; stage unchanged.
+2026-10-17,SWZ,gov.protect--data-protection-authority,fact,4,4,SWZ-006;SWZ-007;SWZ-001,Arrivals added SWZ-015; stage unchanged.
+2026-10-17,TCD,gov.protect--data-protection-authority,fact,3,3,TCD-001,Arrivals added TCD-002; stage unchanged.
+2026-10-17,TGO,gov.protect--data-protection-authority,fact,3,3,TGO-009;TGO-001,Arrivals added TGO-011; stage unchanged.
+2026-10-17,TUN,gov.protect--data-protection-authority,fact,3,3,TUN-006;TUN-004,Arrivals added TUN-006; stage unchanged.
+2026-10-17,TZA,gov.protect--data-protection-authority,fact,4,4,TZA-010;TZA-011;TZA-001,Arrivals added TZA-014; stage unchanged.
+2026-10-17,UGA,gov.protect--data-protection-authority,fact,4,4,UGA-004;UGA-003;UGA-001,Arrivals added UGA-016; stage unchanged.
+2026-10-17,ZAF,gov.protect--data-protection-authority,fact,5,5,ZAF-014;ZAF-028,Arrivals added ZAF-036; stage unchanged.
+2026-10-17,ZWE,gov.protect--data-protection-authority,fact,3,3,ZWE-015;ZWE-001,Arrivals added ZWE-015; ZWE-016; stage unchanged.

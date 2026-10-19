@@ -18,7 +18,7 @@ The study redraws `dpi.registry--tax-register`, which as at 2026-08-31 puts one 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Tax register | Tax register: tax register | `dpi.registry--tax-register-tax-register` |
+| Tax register | Tax register: tax register | `dpi.registry--tax-register` |
 
 Anything else the evidence names is `other`, noted and never staged: tax payment or filing with no register named, a business register alone, customs declarations, a tax law with no register.
 

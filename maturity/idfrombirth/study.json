@@ -106,7 +106,7 @@
    "label": "Digital id from birth",
    "subject": "dpi.id",
    "text": "Digital id from birth: digital id from birth",
-   "indicator_id": "dpi.id--digital-id-from-birth-digital-id-from-birth",
+   "indicator_id": "dpi.id--digital-id-from-birth",
    "class": "birthnumber",
    "norm_short": "The African Union's Digital Transformation Strategy asks for a digital legal identity for every person from birth, through civil registration; the SDG target is all births and 80% of deaths registered.",
    "criteria": [

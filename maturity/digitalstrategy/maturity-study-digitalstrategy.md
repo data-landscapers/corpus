@@ -23,7 +23,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| National strategy | Digital transformation strategy: national strategy | `gov.policy--digital-transformation-strategy-national-strategy` |
+| National strategy | Digital transformation strategy: national strategy | `gov.policy--digital-transformation-strategy` |
 
 **`gov.policy--ict-strategy` is not redrawn.** It stages on the same document as this row in at least 14 countries; that is its own study's to settle.
 

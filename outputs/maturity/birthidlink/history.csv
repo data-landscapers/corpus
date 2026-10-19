@@ -1,22 +1,22 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,CIV,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,CIV-001;CIV-004,Arrivals added CIV-004; stage unchanged.
-2026-10-17,COD,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,no evidence,3,COD-001,Arrivals added COD-001; stage no evidence -> 3.
-2026-10-17,COM,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,no evidence,2,COM-001,Arrivals added COM-001; stage no evidence -> 2.
-2026-10-17,DZA,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,unplaced,3,DZA-002;DZA-003,Arrivals added DZA-003; stage unplaced -> 3.
-2026-10-17,ETH,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,no evidence,2,ETH-002,Arrivals added ETH-001; ETH-002; stage no evidence -> 2.
-2026-10-17,GMB,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,GMB-001;GMB-003,Arrivals added GMB-003; stage unchanged.
-2026-10-17,LBR,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,LBR-002;LBR-001,Arrivals added LBR-002; stage unchanged.
-2026-10-17,MLI,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,no evidence,3,MLI-001,Arrivals added MLI-001; stage no evidence -> 3.
-2026-10-17,MOZ,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,unplaced,3,MOZ-002,Arrivals added MOZ-002; stage unplaced -> 3.
-2026-10-17,MWI,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,unplaced,4,MWI-005;MWI-003,Arrivals added MWI-002; MWI-003; MWI-004; MWI-005; MWI-006; stage unplaced -> 4.
-2026-10-17,NGA,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,NGA-001;NGA-003,Arrivals added NGA-002; NGA-003; NGA-004; stage unchanged.
-2026-10-17,SOM,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,SOM-001;SOM-003,Arrivals added SOM-003; stage unchanged.
-2026-10-17,TCD,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,3,TCD-005,Arrivals added TCD-005; stage 2 -> 3.
-2026-10-17,TUN,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,TUN-002;TUN-003,Arrivals added TUN-002; TUN-003; stage unchanged.
-2026-10-17,ZMB,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,ZMB-002,Arrivals added ZMB-006; stage unchanged.
-2026-10-18,BDI,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,BDI-001;BDI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ETH,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,ETH-004;ETH-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,MDG,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,MDG-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NGA,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,3,3,NGA-001;NGA-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,SEN,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,2,SEN-001;SEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,TZA,dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id,fact,2,3,TZA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-17,CIV,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,CIV-001;CIV-004,Arrivals added CIV-004; stage unchanged.
+2026-10-17,COD,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,no evidence,3,COD-001,Arrivals added COD-001; stage no evidence -> 3.
+2026-10-17,COM,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,no evidence,2,COM-001,Arrivals added COM-001; stage no evidence -> 2.
+2026-10-17,DZA,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,unplaced,3,DZA-002;DZA-003,Arrivals added DZA-003; stage unplaced -> 3.
+2026-10-17,ETH,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,no evidence,2,ETH-002,Arrivals added ETH-001; ETH-002; stage no evidence -> 2.
+2026-10-17,GMB,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,GMB-001;GMB-003,Arrivals added GMB-003; stage unchanged.
+2026-10-17,LBR,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,LBR-002;LBR-001,Arrivals added LBR-002; stage unchanged.
+2026-10-17,MLI,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,no evidence,3,MLI-001,Arrivals added MLI-001; stage no evidence -> 3.
+2026-10-17,MOZ,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,unplaced,3,MOZ-002,Arrivals added MOZ-002; stage unplaced -> 3.
+2026-10-17,MWI,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,unplaced,4,MWI-005;MWI-003,Arrivals added MWI-002; MWI-003; MWI-004; MWI-005; MWI-006; stage unplaced -> 4.
+2026-10-17,NGA,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,NGA-001;NGA-003,Arrivals added NGA-002; NGA-003; NGA-004; stage unchanged.
+2026-10-17,SOM,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,SOM-001;SOM-003,Arrivals added SOM-003; stage unchanged.
+2026-10-17,TCD,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,3,TCD-005,Arrivals added TCD-005; stage 2 -> 3.
+2026-10-17,TUN,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,TUN-002;TUN-003,Arrivals added TUN-002; TUN-003; stage unchanged.
+2026-10-17,ZMB,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,ZMB-002,Arrivals added ZMB-006; stage unchanged.
+2026-10-18,BDI,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,BDI-001;BDI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,ETH-004;ETH-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,MDG,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,MDG-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,3,3,NGA-001;NGA-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,SEN,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,2,SEN-001;SEN-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,TZA,dpi.id--interoperability-of-birth-registration-and-digital-id,fact,2,3,TZA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.

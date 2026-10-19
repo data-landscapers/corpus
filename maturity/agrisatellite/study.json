@@ -52,7 +52,7 @@
    "label": "Satellite data in agriculture",
    "subject": "data.satellite",
    "text": "Agricultural use of satellite data: satellite data in agriculture",
-   "indicator_id": "data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture",
+   "indicator_id": "data.satellite--agricultural-use-of-satellite-data",
    "class": "agrisat",
    "norm_short": "The African Space Strategy asks that space-derived products be used for decision-making; the AU Digital Agriculture Strategy asks for remote sensing in monitoring and forecasting.",
    "criteria": [

@@ -102,7 +102,7 @@
       "label": "Open data policy",
       "subject": "gov.policy",
       "text": "Open data policy: national open data policy",
-      "indicator_id": "gov.policy--open-data-policy-national-open-data-policy",
+      "indicator_id": "gov.policy--open-data-policy",
       "norm_short": "The African Commission's 2019 Declaration of Principles, Principle 29, asks public bodies to publish information of public interest without being asked, including by digital means. The African Union's Data Policy Framework (2022) asks states to open government data.",
       "class": "policy",
       "criteria": [

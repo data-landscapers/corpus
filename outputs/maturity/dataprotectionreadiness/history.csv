@@ -1,19 +1,19 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,LBY,gov.protect--national-data-protection-readiness-data-protection-system,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,STP,gov.protect--national-data-protection-readiness-data-protection-system,review,3,3,STP-005;STP-010;STP-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
-2026-10-17,CAF,gov.protect--national-data-protection-readiness-data-protection-system,fact,2,2,CAF-003;CAF-006,Arrivals added CAF-006; stage unchanged.
-2026-10-17,CMR,gov.protect--national-data-protection-readiness-data-protection-system,fact,2,2,CMR-001;CMR-006,Arrivals added CMR-006; CMR-007; CMR-008; CMR-009; stage unchanged.
-2026-10-17,DZA,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,DZA-005;DZA-002;DZA-006,Arrivals added DZA-020; DZA-021; stage unchanged.
-2026-10-17,EGY,gov.protect--national-data-protection-readiness-data-protection-system,fact,3,3,EGY-012;EGY-004,Arrivals added EGY-012; EGY-013; EGY-014; stage unchanged.
-2026-10-17,GHA,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,GHA-029;GHA-032;GHA-028,Arrivals added GHA-027; GHA-028; GHA-029; GHA-030; GHA-031; GHA-032; GHA-033; GHA-034; GHA-035; stage unchanged.
-2026-10-17,GIN,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,1,GIN-001;GIN-003;GIN-009,Arrivals added GIN-008; GIN-009; stage unchanged.
-2026-10-17,MRT,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,MRT-001;MRT-003;MRT-034,Arrivals added MRT-035; stage unchanged.
-2026-10-17,RWA,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,RWA-002;RWA-007;RWA-005,Arrivals added RWA-006; RWA-007; stage unchanged.
-2026-10-17,SWZ,gov.protect--national-data-protection-readiness-data-protection-system,fact,5,5,SWZ-018;SWZ-019;SWZ-028,Arrivals added SWZ-029; SWZ-030; stage unchanged.
-2026-10-17,TCD,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,1,TCD-001;TCD-002,Arrivals added TCD-004; stage unchanged.
-2026-10-17,TUN,gov.protect--national-data-protection-readiness-data-protection-system,fact,3,3,TUN-012;TUN-006,Arrivals added TUN-014; stage unchanged.
-2026-10-17,ZWE,gov.protect--national-data-protection-readiness-data-protection-system,fact,4,4,ZWE-038;ZWE-002;ZWE-041,Arrivals added ZWE-039; ZWE-040; ZWE-041; ZWE-042; ZWE-043; ZWE-044; stage unchanged.
-2026-10-18,GMB,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,1,GMB-012;GMB-001,"Minister said The Gambia ratified the Malabo Convention in March 2024 (GMB-014), against the AU list's signature only; no law commenced, stage unchanged."
-2026-10-18,TCD,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,3,TCD-004,"The law study holds Loi 007/PR/2015 in force (TCD-004, 2026-07); with an authority appointed the cell takes stage 3, so the three rows agree"
-2026-10-19,GIN,gov.protect--national-data-protection-readiness-data-protection-system,fact,1,3,GIN-008;GIN-009,"The law study holds Guinea's 2016 law in force; with the Malabo Convention ratified the cell rises to 3, no authority appointed"
-2026-10-19,LBY,gov.protect--national-data-protection-readiness-data-protection-system,fact,no evidence,1,LBY-002,"The law study places Libya with a data protection law still in draft; stage 1, not no evidence"
+2026-10-13,LBY,gov.protect--national-data-protection-readiness,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,STP,gov.protect--national-data-protection-readiness,review,3,3,STP-005;STP-010;STP-001,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
+2026-10-17,CAF,gov.protect--national-data-protection-readiness,fact,2,2,CAF-003;CAF-006,Arrivals added CAF-006; stage unchanged.
+2026-10-17,CMR,gov.protect--national-data-protection-readiness,fact,2,2,CMR-001;CMR-006,Arrivals added CMR-006; CMR-007; CMR-008; CMR-009; stage unchanged.
+2026-10-17,DZA,gov.protect--national-data-protection-readiness,fact,4,4,DZA-005;DZA-002;DZA-006,Arrivals added DZA-020; DZA-021; stage unchanged.
+2026-10-17,EGY,gov.protect--national-data-protection-readiness,fact,3,3,EGY-012;EGY-004,Arrivals added EGY-012; EGY-013; EGY-014; stage unchanged.
+2026-10-17,GHA,gov.protect--national-data-protection-readiness,fact,4,4,GHA-029;GHA-032;GHA-028,Arrivals added GHA-027; GHA-028; GHA-029; GHA-030; GHA-031; GHA-032; GHA-033; GHA-034; GHA-035; stage unchanged.
+2026-10-17,GIN,gov.protect--national-data-protection-readiness,fact,1,1,GIN-001;GIN-003;GIN-009,Arrivals added GIN-008; GIN-009; stage unchanged.
+2026-10-17,MRT,gov.protect--national-data-protection-readiness,fact,4,4,MRT-001;MRT-003;MRT-034,Arrivals added MRT-035; stage unchanged.
+2026-10-17,RWA,gov.protect--national-data-protection-readiness,fact,4,4,RWA-002;RWA-007;RWA-005,Arrivals added RWA-006; RWA-007; stage unchanged.
+2026-10-17,SWZ,gov.protect--national-data-protection-readiness,fact,5,5,SWZ-018;SWZ-019;SWZ-028,Arrivals added SWZ-029; SWZ-030; stage unchanged.
+2026-10-17,TCD,gov.protect--national-data-protection-readiness,fact,1,1,TCD-001;TCD-002,Arrivals added TCD-004; stage unchanged.
+2026-10-17,TUN,gov.protect--national-data-protection-readiness,fact,3,3,TUN-012;TUN-006,Arrivals added TUN-014; stage unchanged.
+2026-10-17,ZWE,gov.protect--national-data-protection-readiness,fact,4,4,ZWE-038;ZWE-002;ZWE-041,Arrivals added ZWE-039; ZWE-040; ZWE-041; ZWE-042; ZWE-043; ZWE-044; stage unchanged.
+2026-10-18,GMB,gov.protect--national-data-protection-readiness,fact,1,1,GMB-012;GMB-001,"Minister said The Gambia ratified the Malabo Convention in March 2024 (GMB-014), against the AU list's signature only; no law commenced, stage unchanged."
+2026-10-18,TCD,gov.protect--national-data-protection-readiness,fact,1,3,TCD-004,"The law study holds Loi 007/PR/2015 in force (TCD-004, 2026-07); with an authority appointed the cell takes stage 3, so the three rows agree"
+2026-10-19,GIN,gov.protect--national-data-protection-readiness,fact,1,3,GIN-008;GIN-009,"The law study holds Guinea's 2016 law in force; with the Malabo Convention ratified the cell rises to 3, no authority appointed"
+2026-10-19,LBY,gov.protect--national-data-protection-readiness,fact,no evidence,1,LBY-002,"The law study places Libya with a data protection law still in draft; stage 1, not no evidence"

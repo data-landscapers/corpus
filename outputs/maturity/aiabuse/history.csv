@@ -1,11 +1,11 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-18,KEN,tech.ai--control-of-ai-abuse-ai-harms,fact,2,2,KEN-002;KEN-001,"The Star, 15 Oct 2026: committee recommends rejecting the AI Bill, 2026 and its AI Commissioner; still a draft, stage 2 holds"
-2026-10-18,BEN,tech.ai--control-of-ai-abuse-ai-harms,review,unplaced,5,BEN-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,COD,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,DJI,tech.ai--control-of-ai-abuse-ai-harms,fact,1,1,DJI-002;DJI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ETH,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MAR,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,2,MAR-002;MAR-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,RWA,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,no evidence,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SSD,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,2,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TZA,tech.ai--control-of-ai-abuse-ai-harms,fact,no evidence,2,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,ZMB,tech.ai--control-of-ai-abuse-ai-harms,review,no evidence,3,ZMB-001;ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,tech.ai--control-of-ai-abuse,fact,2,2,KEN-002;KEN-001,"The Star, 15 Oct 2026: committee recommends rejecting the AI Bill, 2026 and its AI Commissioner; still a draft, stage 2 holds"
+2026-10-18,BEN,tech.ai--control-of-ai-abuse,review,unplaced,5,BEN-003,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,COD,tech.ai--control-of-ai-abuse,review,no evidence,no evidence,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,DJI,tech.ai--control-of-ai-abuse,fact,1,1,DJI-002;DJI-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ETH,tech.ai--control-of-ai-abuse,review,no evidence,2,ETH-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,tech.ai--control-of-ai-abuse,review,no evidence,2,MAR-002;MAR-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,RWA,tech.ai--control-of-ai-abuse,review,no evidence,no evidence,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SSD,tech.ai--control-of-ai-abuse,review,no evidence,2,SSD-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TZA,tech.ai--control-of-ai-abuse,fact,no evidence,2,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,ZMB,tech.ai--control-of-ai-abuse,review,no evidence,3,ZMB-001;ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.

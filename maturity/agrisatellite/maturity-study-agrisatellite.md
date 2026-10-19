@@ -18,7 +18,7 @@ The study redraws `data.satellite--agricultural-use-of-satellite-data`, which as
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Satellite data in agriculture | Agricultural use of satellite data: satellite data in agriculture | `data.satellite--agricultural-use-of-satellite-data-satellite-data-in-agriculture` |
+| Satellite data in agriculture | Agricultural use of satellite data: satellite data in agriculture | `data.satellite--agricultural-use-of-satellite-data` |
 
 Anything else the evidence names is `other`, noted and never staged: weather forecasting with no farming product, mapping for a census or for cities, a satellite launch or a space agency with no farming use on record, an insurance or agritech product sold by a company with no government part, a donor study of the region.
 

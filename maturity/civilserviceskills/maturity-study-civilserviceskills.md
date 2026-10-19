@@ -18,7 +18,7 @@ The study redraws `capacity.literacy--digital-literacy-civil-service`, which as 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Civil service digital skills | Digital literacy (civil service): civil service digital skills | `capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills` |
+| Civil service digital skills | Digital literacy (civil service): civil service digital skills | `capacity.literacy--digital-literacy-civil-service` |
 
 Anything else the evidence names is `other`, noted and never staged: training for the public, students or companies, a course for a ministry's own IT staff only, a strategy or law that only promises training, a study tour abroad.
 

@@ -52,7 +52,7 @@
    "label": "Customs",
    "subject": "dpi.mis",
    "text": "Customs: customs",
-   "indicator_id": "dpi.mis--customs-customs",
+   "indicator_id": "dpi.mis--customs",
    "class": "customs",
    "norm_short": "The AfCFTA Protocol on Trade in Goods asks for customs automation, a single window connecting border agencies and electronic exchange with trading partners.",
    "criteria": [

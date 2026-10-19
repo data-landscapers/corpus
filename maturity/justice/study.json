@@ -55,7 +55,7 @@
    "label": "Justice",
    "subject": "dpi.mis",
    "text": "Justice: justice",
-   "indicator_id": "dpi.mis--justice-justice",
+   "indicator_id": "dpi.mis--justice",
    "class": "justice",
    "norm_short": "The African Commission's Fair Trial Principles ask for systems recording proceedings and storing court information, with public access to decisions.",
    "criteria": [

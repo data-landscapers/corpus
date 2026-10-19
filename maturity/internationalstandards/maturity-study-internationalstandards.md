@@ -18,7 +18,7 @@ The study redraws `gov.standards--adoption-of-international-standards`, which as
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| International standards for information technology and data | Adoption of international standards: international standards for information technology and data | `gov.standards--adoption-of-international-standards-international-standards-for-information-technology-and-data` |
+| International standards for information technology and data | Adoption of international standards: international standards for information technology and data | `gov.standards--adoption-of-international-standards` |
 
 Anything else the evidence names is `other`, noted and never staged: a system built to an international standard, such as a passport to the aviation specification, payments moved to the ISO 20022 message format or an identity platform on an open-source one; a company's or a data centre's certificate; certification in the country, which the national standards row holds; regional standards and membership of the African or a regional standards organisation; international standards on food, goods or any other field; a regulator's rule for one sector, such as banks; membership of the International Telecommunication Union, which every country holds; a statistical or accounting standard.
 

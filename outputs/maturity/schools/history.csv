@@ -1,17 +1,17 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,AGO,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,BWA,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,CAF,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,CMR,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,DZA,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,3,DZA-005;DZA-007;DZA-008,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,EGY,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,2,EGY-006;EGY-004,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ERI,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GNB,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,2,GNB-004;GNB-005;GNB-006,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GNQ,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SEN,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,2,SEN-004;SEN-005;SEN-006,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,STP,digital.rural--digitalisation-of-rural-primary-schools-emis,review,no evidence,2,STP-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,TCD,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,ZMB,digital.rural--digitalisation-of-rural-primary-schools-emis,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-17,BEN,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,3,3,BEN-004;BEN-005;BEN-006,"Arrivals added BEN-022, BEN-023, BEN-024, BEN-025; restaged by hand: stage unchanged."
-2026-10-17,CIV,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,2,2,CIV-006;CIV-007;CIV-009;CIV-004;CIV-005,"Arrivals added CIV-009, CIV-010; restaged by hand: stage unchanged."
-2026-10-18,TZA,digital.rural--digitalisation-of-rural-primary-schools-emis,fact,2,2,TZA-002;TZA-003;TZA-004;TZA-005,"PO-RALG's July 2025 privacy policy describes the School Information System as built for per-learner attendance and assessment entered by school staff; it does not say schools use it, so the stage stays 2."
+2026-10-13,AGO,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,BWA,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,CAF,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,CMR,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,DZA,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,3,DZA-005;DZA-007;DZA-008,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,EGY,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,2,EGY-006;EGY-004,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ERI,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GNB,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,2,GNB-004;GNB-005;GNB-006,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GNQ,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SEN,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,2,SEN-004;SEN-005;SEN-006,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,STP,digital.rural--digitalisation-of-rural-primary-schools,review,no evidence,2,STP-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,TCD,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,ZMB,digital.rural--digitalisation-of-rural-primary-schools,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-17,BEN,digital.rural--digitalisation-of-rural-primary-schools,fact,3,3,BEN-004;BEN-005;BEN-006,"Arrivals added BEN-022, BEN-023, BEN-024, BEN-025; restaged by hand: stage unchanged."
+2026-10-17,CIV,digital.rural--digitalisation-of-rural-primary-schools,fact,2,2,CIV-006;CIV-007;CIV-009;CIV-004;CIV-005,"Arrivals added CIV-009, CIV-010; restaged by hand: stage unchanged."
+2026-10-18,TZA,digital.rural--digitalisation-of-rural-primary-schools,fact,2,2,TZA-002;TZA-003;TZA-004;TZA-005,"PO-RALG's July 2025 privacy policy describes the School Information System as built for per-learner attendance and assessment entered by school staff; it does not say schools use it, so the stage stays 2."

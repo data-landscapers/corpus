@@ -18,7 +18,7 @@ The study redraws `dpi.pay--consumer-protection`, which as at 2026-08-31 puts te
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Consumer protection | Consumer protection: consumer protection | `dpi.pay--consumer-protection-consumer-protection` |
+| Consumer protection | Consumer protection: consumer protection | `dpi.pay--consumer-protection` |
 
 Anything else the evidence names is `other`, noted and never staged: a general consumer law with no financial services rule, a data protection law alone, a provider's own customer service.
 

@@ -55,7 +55,7 @@
    "label": "Address register",
    "subject": "dpi.registry",
    "text": "Address register: address register",
-   "indicator_id": "dpi.registry--address-register-address-register",
+   "indicator_id": "dpi.registry--address-register",
    "class": "address",
    "norm_short": "The Universal Postal Union's Addressing the World asks every country for a national addressing policy, an address for everyone and an address register other systems can use.",
    "criteria": [

@@ -1,20 +1,20 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-13,BEN,gov.policy--broadband-strategy-national-plan,review,no evidence,3,BEN-002;BEN-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,CIV,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,COG,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,EGY,gov.policy--broadband-strategy-national-plan,review,no evidence,3,EGY-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,ETH,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,GAB,gov.policy--broadband-strategy-national-plan,review,no evidence,2,GAB-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GHA,gov.policy--broadband-strategy-national-plan,review,no evidence,3,GHA-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GIN,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,GNQ,gov.policy--broadband-strategy-national-plan,review,no evidence,2,GNQ-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,LBY,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,MLI,gov.policy--broadband-strategy-national-plan,review,no evidence,2,MLI-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
-2026-10-13,NER,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SEN,gov.policy--broadband-strategy-national-plan,review,no evidence,2,SEN-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SOM,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,STP,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SWZ,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,SYC,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-13,TGO,gov.policy--broadband-strategy-national-plan,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
-2026-10-18,MAR,gov.policy--broadband-strategy-national-plan,fact,3,5,MAR-004;MAR-005;MAR-003,"Minister and ministry report PNHD phase one at about 99 per cent of target (2024) and phase two funded by the Universal Service Fund (MAR-004, MAR-005, MAR-007): 3 to 5."
+2026-10-13,BEN,gov.policy--broadband-strategy,review,no evidence,3,BEN-002;BEN-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,CIV,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,COG,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 3 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,EGY,gov.policy--broadband-strategy,review,no evidence,3,EGY-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,ETH,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,GAB,gov.policy--broadband-strategy,review,no evidence,2,GAB-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GHA,gov.policy--broadband-strategy,review,no evidence,3,GHA-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GIN,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,GNQ,gov.policy--broadband-strategy,review,no evidence,2,GNQ-002,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,LBY,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,MLI,gov.policy--broadband-strategy,review,no evidence,2,MLI-003,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,NER,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SEN,gov.policy--broadband-strategy,review,no evidence,2,SEN-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SOM,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,STP,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SWZ,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SYC,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TGO,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-18,MAR,gov.policy--broadband-strategy,fact,3,5,MAR-004;MAR-005;MAR-003,"Minister and ministry report PNHD phase one at about 99 per cent of target (2024) and phase two funded by the Universal Service Fund (MAR-004, MAR-005, MAR-007): 3 to 5."

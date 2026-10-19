@@ -79,7 +79,7 @@
    "label": "Core government systems",
    "subject": "infra.capacity",
    "text": "Robustness of government hardware and software: core government systems",
-   "indicator_id": "infra.capacity--robustness-of-government-hardware-and-software-core-government-systems",
+   "indicator_id": "infra.capacity--robustness-of-government-hardware-and-software",
    "class": "core",
    "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 8, asks that modern technologies support public service delivery; the Digital Transformation Strategy asks for mission-critical systems hosted to a standard.",
    "criteria": [

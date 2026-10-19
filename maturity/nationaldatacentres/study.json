@@ -75,7 +75,7 @@
    "label": "Nationally owned data centres for hire",
    "subject": "infra.store",
    "text": "Local data centre capacity (national providers): nationally owned data centres for hire",
-   "indicator_id": "infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire",
+   "indicator_id": "infra.store--local-data-centre-capacity-national-providers",
    "class": "datacentre",
    "norm_short": "The African Union's Data Policy Framework asks that national providers hold data centre capacity and that the state's sensitive data be hosted under national jurisdiction.",
    "criteria": [

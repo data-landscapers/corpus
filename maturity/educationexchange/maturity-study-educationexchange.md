@@ -18,7 +18,7 @@ The study redraws `dpi.exchange--interoperability-of-education-systems`, which a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Interoperability of education systems | Interoperability of education systems: interoperability of education systems | `dpi.exchange--interoperability-of-education-systems-interoperability-of-education-systems` |
+| Interoperability of education systems | Interoperability of education systems: interoperability of education systems | `dpi.exchange--interoperability-of-education-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a school census or EMIS on its own (the schools study holds those), a learning platform, a plan or standard with no link in service, a single school's software, a donor's reporting tool.
 

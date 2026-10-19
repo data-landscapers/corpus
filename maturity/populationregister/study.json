@@ -48,7 +48,7 @@
    "label": "Population register",
    "subject": "dpi.registry",
    "text": "Population register: population register",
-   "indicator_id": "dpi.registry--population-register-population-register",
+   "indicator_id": "dpi.registry--population-register",
    "class": "population",
    "norm_short": "The African Union's Digital Transformation Strategy puts an electronic population register first among the base registers, continuously updated from civil registration.",
    "criteria": [

@@ -47,7 +47,7 @@
    "label": "AI built at home",
    "subject": "tech.ai",
    "text": "Development of national / regional AI systems: AI built at home",
-   "indicator_id": "tech.ai--development-of-national-regional-ai-systems-ai-built-at-home",
+   "indicator_id": "tech.ai--development-of-national-regional-ai-systems",
    "class": "localai",
    "norm_short": "The Continental AI Strategy asks that a country can manage its own data and AI, Local First: sovereign or regional computing, open national datasets and talent, taking part in continental AI infrastructure.",
    "criteria": [

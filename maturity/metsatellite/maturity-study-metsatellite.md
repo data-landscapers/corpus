@@ -18,7 +18,7 @@ The study redraws `data.satellite--meteorological-use-of-satellite-data`, which 
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Satellite data in weather services | Meteorological use of satellite data: satellite data in weather services | `data.satellite--meteorological-use-of-satellite-data-satellite-data-in-weather-services` |
+| Satellite data in weather services | Meteorological use of satellite data: satellite data in weather services | `data.satellite--meteorological-use-of-satellite-data` |
 
 Anything else the evidence names is `other`, noted and never staged: a ground weather station or radar with no satellite data, a farming service using satellite maps, a satellite launch or a space agency, a mobile operator's weather app, a regional centre's product with no national use on record.
 

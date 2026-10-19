@@ -55,7 +55,7 @@
    "label": "Citizen feedback channel",
    "subject": "include.access",
    "text": "Citizen feedback portals: citizen feedback channel",
-   "indicator_id": "include.access--citizen-feedback-portals-citizen-feedback-channel",
+   "indicator_id": "include.access--citizen-feedback-portals",
    "class": "feedback",
    "norm_short": "The AU Charter on Decentralisation asks that ICT be used so residents can give feedback to their representatives; the UN E-Participation Index ranks e-information, e-consultation and e-decision-making.",
    "criteria": [

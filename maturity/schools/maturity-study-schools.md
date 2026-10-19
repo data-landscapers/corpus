@@ -20,7 +20,7 @@ status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| EMIS | Digitalisation of rural primary schools: EMIS | `digital.rural--digitalisation-of-rural-primary-schools-emis` |
+| EMIS | Digitalisation of rural primary schools: EMIS | `digital.rural--digitalisation-of-rural-primary-schools` |
 
 The id enters `lookups/indicators.csv` only at acceptance, when both old rows are retired. **The census gets no ladder of its own** *(Bill)*.
 

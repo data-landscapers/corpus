@@ -56,7 +56,7 @@
    "label": "Electoral register",
    "subject": "dpi.registry",
    "text": "Electoral register: electoral register",
-   "indicator_id": "dpi.registry--electoral-register-electoral-register",
+   "indicator_id": "dpi.registry--electoral-register",
    "class": "electoral",
    "norm_short": "The African Charter on Democracy, Elections and Governance and the AU's election observation guidelines ask for an accurate voters' roll, open to public inspection and kept up to date.",
    "criteria": [

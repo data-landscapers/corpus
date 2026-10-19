@@ -18,7 +18,7 @@ The study redraws `tech.ai--control-of-ai-abuse`, which as at 2026-08-31 puts 11
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| AI harms | Control of AI abuse: AI harms | `tech.ai--control-of-ai-abuse-ai-harms` |
+| AI harms | Control of AI abuse: AI harms | `tech.ai--control-of-ai-abuse` |
 
 Anything else the evidence names is `other`, noted and never staged: an AI strategy with no rule, a workshop, guideline or ethics principle with no legal effect, a general data-protection or cybercrime law unless the source says it applies to AI or deepfakes, a company's own policy.
 

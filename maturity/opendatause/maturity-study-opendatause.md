@@ -18,7 +18,7 @@ The study redraws `data.open--use-of-open-data`, which as at 2026-08-31 puts fiv
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Use of open data | Use of open data: use of open data | `data.open--use-of-open-data-use-of-open-data` |
+| Use of open data | Use of open data: use of open data | `data.open--use-of-open-data` |
 
 Anything else the evidence names is `other`, noted and never staged: a dashboard or report with no data to download, a portal announced or being built, a portal run by a donor, a development bank or an international body, an international compilation of national figures, a rating such as the Open Data Inventory, an access to information request, a policy or law with no data published under it, a hackathon whose data is not said to be the government's.
 

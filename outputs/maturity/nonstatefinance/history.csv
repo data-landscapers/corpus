@@ -1,6 +1,6 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,EGY,finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses,fact,4,4,EGY-020;EGY-013;EGY-004;EGY-014,Arrivals added EGY-022; stage unchanged.
-2026-10-17,GAB,finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses,fact,unplaced,2,GAB-002,Arrivals added GAB-002; GAB-003; stage unplaced -> 2.
-2026-10-17,MLI,finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses,fact,no evidence,2,MLI-001,Arrivals added MLI-001; stage no evidence -> 2.
-2026-10-17,MUS,finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses,fact,unplaced,2,MUS-002,Arrivals added MUS-002; stage unplaced -> 2.
-2026-10-17,TUN,finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses,fact,no evidence,2,TUN-001,Arrivals added TUN-001; TUN-002; stage no evidence -> 2.
+2026-10-17,EGY,finance.new--mobilisation-of-non-state-finance,fact,4,4,EGY-020;EGY-013;EGY-004;EGY-014,Arrivals added EGY-022; stage unchanged.
+2026-10-17,GAB,finance.new--mobilisation-of-non-state-finance,fact,unplaced,2,GAB-002,Arrivals added GAB-002; GAB-003; stage unplaced -> 2.
+2026-10-17,MLI,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,MLI-001,Arrivals added MLI-001; stage no evidence -> 2.
+2026-10-17,MUS,finance.new--mobilisation-of-non-state-finance,fact,unplaced,2,MUS-002,Arrivals added MUS-002; stage unplaced -> 2.
+2026-10-17,TUN,finance.new--mobilisation-of-non-state-finance,fact,no evidence,2,TUN-001,Arrivals added TUN-001; TUN-002; stage no evidence -> 2.

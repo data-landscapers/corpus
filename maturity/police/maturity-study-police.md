@@ -18,7 +18,7 @@ status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, writt
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Station records | Digitalisation of rural police stations: station records | `digital.rural--digitalisation-of-rural-police-stations-station-records` |
+| Station records | Digitalisation of rural police stations: station records | `digital.rural--digitalisation-of-rural-police-stations` |
 
 The id enters `lookups/indicators.csv` at acceptance. **`dpi.mis--justice` is not redrawn**: it stages the courts' case management, and its evidence is logged in `exchange.csv`.
 

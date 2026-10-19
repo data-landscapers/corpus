@@ -48,7 +48,7 @@
    "label": "AI harms",
    "subject": "tech.ai",
    "text": "Control of AI abuse: AI harms",
-   "indicator_id": "tech.ai--control-of-ai-abuse-ai-harms",
+   "indicator_id": "tech.ai--control-of-ai-abuse",
    "class": "aiharm",
    "norm_short": "The Continental AI Strategy asks for risk-based regulation, an independent oversight body with enforcement and redress, technical safety standards and a part in regional oversight.",
    "criteria": [

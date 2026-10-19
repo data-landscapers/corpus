@@ -18,7 +18,7 @@ The study redraws `dpi.id--interoperability-of-birth-registration-and-digital-id
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Interoperability of birth registration and digital id | Interoperability of birth registration and digital id: interoperability of birth registration and digital id | `dpi.id--interoperability-of-birth-registration-and-digital-id-interoperability-of-birth-registration-and-digital-id` |
+| Interoperability of birth registration and digital id | Interoperability of birth registration and digital id: interoperability of birth registration and digital id | `dpi.id--interoperability-of-birth-registration-and-digital-id` |
 
 Anything else the evidence names is `other`, noted and never staged: a civil register or ID system on its own, a statistics office's use of civil records, a birth registration campaign with no link to the ID, a plan with no link.
 

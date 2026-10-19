@@ -18,7 +18,7 @@ The study redraws `dpi.registry--civil-register`, which as at 2026-08-31 puts 18
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Civil register | Civil register: civil register | `dpi.registry--civil-register-civil-register` |
+| Civil register | Civil register: civil register | `dpi.registry--civil-register` |
 
 Anything else the evidence names is `other`, noted and never staged: a health facility's own records, a national ID enrolment, a census, a paper register with no digital system named.
 

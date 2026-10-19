@@ -80,7 +80,7 @@
    "label": "Use by other systems",
    "subject": "dpi.id",
    "text": "Use by other systems: use by other systems",
-   "indicator_id": "dpi.id--use-by-other-systems-use-by-other-systems",
+   "indicator_id": "dpi.id--use-by-other-systems",
    "class": "register",
    "norm_short": "The African Union's interoperability framework and Data Policy Framework ask that the national ID be the single source of truth for identity across public registers.",
    "criteria": [

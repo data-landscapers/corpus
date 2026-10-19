@@ -1,29 +1,29 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,AGO,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,no evidence,2,AGO-001,Arrivals added AGO-001; stage no evidence -> 2.
-2026-10-17,GHA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,GHA-009;GHA-004,Arrivals added GHA-010; stage unchanged.
-2026-10-17,NGA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,2,NGA-003;NGA-002,Arrivals added NGA-003; stage unchanged.
-2026-10-18,AGO,include.divides--bridging-of-digital-divides-rural-internet-gap,review,2,3,AGO-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BDI,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,2,BDI-001;BDI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,BEN,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,BWA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,BWA-003;BWA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
-2026-10-18,CIV,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,4,4,CIV-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,COG,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,COG-002;COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,CPV,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,5,CPV-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,EGY,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,3,EGY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GAB,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,2,GAB-003;GAB-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,GMB,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,2,GMB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,GNQ,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,2,GNQ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,KEN,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,2,KEN-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,LBY,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MAR,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,no evidence,4,MAR-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
-2026-10-18,MRT,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,3,MRT-001;MRT-002,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MUS,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,MWI,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,MWI-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NAM,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,3,3,NAM-005;NAM-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,NGA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,3,NGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
-2026-10-18,RWA,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SDN,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,2,SDN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,SLE,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,3,SLE-001;SLE-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TGO,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,TUN,include.divides--bridging-of-digital-divides-rural-internet-gap,review,no evidence,2,TUN-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
-2026-10-18,UGA,include.divides--bridging-of-digital-divides-rural-internet-gap,fact,2,2,UGA-003;UGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-17,AGO,include.divides--bridging-of-digital-divides,fact,no evidence,2,AGO-001,Arrivals added AGO-001; stage no evidence -> 2.
+2026-10-17,GHA,include.divides--bridging-of-digital-divides,fact,3,3,GHA-009;GHA-004,Arrivals added GHA-010; stage unchanged.
+2026-10-17,NGA,include.divides--bridging-of-digital-divides,fact,2,2,NGA-003;NGA-002,Arrivals added NGA-003; stage unchanged.
+2026-10-18,AGO,include.divides--bridging-of-digital-divides,review,2,3,AGO-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BDI,include.divides--bridging-of-digital-divides,fact,2,2,BDI-001;BDI-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,BEN,include.divides--bridging-of-digital-divides,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,BWA,include.divides--bridging-of-digital-divides,fact,3,3,BWA-003;BWA-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-18,CIV,include.divides--bridging-of-digital-divides,fact,4,4,CIV-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,COG,include.divides--bridging-of-digital-divides,fact,3,3,COG-002;COG-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,CPV,include.divides--bridging-of-digital-divides,review,no evidence,5,CPV-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,EGY,include.divides--bridging-of-digital-divides,review,no evidence,3,EGY-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GAB,include.divides--bridging-of-digital-divides,fact,2,2,GAB-003;GAB-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,GMB,include.divides--bridging-of-digital-divides,review,no evidence,2,GMB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,GNQ,include.divides--bridging-of-digital-divides,review,no evidence,2,GNQ-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,KEN,include.divides--bridging-of-digital-divides,review,no evidence,2,KEN-002,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,LBY,include.divides--bridging-of-digital-divides,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MAR,include.divides--bridging-of-digital-divides,fact,no evidence,4,MAR-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-18,MRT,include.divides--bridging-of-digital-divides,review,no evidence,3,MRT-001;MRT-002,Stage 4c: 5 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MUS,include.divides--bridging-of-digital-divides,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,MWI,include.divides--bridging-of-digital-divides,fact,3,3,MWI-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NAM,include.divides--bridging-of-digital-divides,fact,3,3,NAM-005;NAM-007,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,NGA,include.divides--bridging-of-digital-divides,fact,2,3,NGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-18,RWA,include.divides--bridging-of-digital-divides,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SDN,include.divides--bridging-of-digital-divides,review,no evidence,2,SDN-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,SLE,include.divides--bridging-of-digital-divides,review,no evidence,3,SLE-001;SLE-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TGO,include.divides--bridging-of-digital-divides,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,TUN,include.divides--bridging-of-digital-divides,review,no evidence,2,TUN-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-18,UGA,include.divides--bridging-of-digital-divides,fact,2,2,UGA-003;UGA-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.

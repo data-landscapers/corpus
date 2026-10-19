@@ -18,7 +18,7 @@ The study redraws `gov.legislate--cybersecurity-legislation`, which as at 2026-0
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Cybercrime and cybersecurity law | Cybersecurity legislation: cybercrime and cybersecurity law | `gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law` |
+| Cybercrime and cybersecurity law | Cybersecurity legislation: cybercrime and cybersecurity law | `gov.legislate--cybersecurity-legislation` |
 
 Anything else the evidence names is `other`, noted and never staged: a cybersecurity strategy or policy, an agency or response team, a treaty.
 

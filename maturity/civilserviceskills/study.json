@@ -49,7 +49,7 @@
    "label": "Civil service digital skills",
    "subject": "capacity.literacy",
    "text": "Digital literacy (civil service): civil service digital skills",
-   "indicator_id": "capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills",
+   "indicator_id": "capacity.literacy--digital-literacy-civil-service",
    "class": "csskills",
    "norm_short": "The AU Charter on the Principles of Public Service and Administration asks for systematic capacity development of public servants; the Digital Transformation Strategy asks for digital and data skills in state institutions.",
    "criteria": [

@@ -18,7 +18,7 @@ The study redraws `gov.legislate--legislation-enabling-data-interoperability`, w
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Data sharing law | Legislation enabling data interoperability: data sharing law | `gov.legislate--legislation-enabling-data-interoperability-data-sharing-law` |
+| Data sharing law | Legislation enabling data interoperability: data sharing law | `gov.legislate--legislation-enabling-data-interoperability` |
 
 Anything else the evidence names is `other`, noted and never staged: a data exchange platform itself, an interoperability framework or standard issued as guidance with no legal force, a law for one sector only (health, land, tax), a data protection law, an access to information law, an open data policy, a national identity law, an electronic transactions law that says nothing of public bodies exchanging data, an agreement between two agencies, a digital strategy, a treaty.
 

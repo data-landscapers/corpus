@@ -64,7 +64,7 @@
    "label": "Statistics from administrative data",
    "subject": "data.statistics",
    "text": "Statistics from administrative data: statistics from administrative data",
-   "indicator_id": "data.statistics--statistics-from-administrative-data-statistics-from-administrative-data",
+   "indicator_id": "data.statistics--statistics-from-administrative-data",
    "class": "admin",
    "also_assessed": [
     "vital"

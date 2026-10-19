@@ -18,7 +18,7 @@ The study redraws `dpi.mis--customs`, which as at 2026-08-31 puts 34 countries a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Customs | Customs: customs | `dpi.mis--customs-customs` |
+| Customs | Customs: customs | `dpi.mis--customs` |
 
 Anything else the evidence names is `other`, noted and never staged: a port's own terminal system, a cargo tracking seal with no clearance, a tariff or trade agreement, a business one-stop shop.
 

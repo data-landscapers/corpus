@@ -82,7 +82,7 @@
    "label": "P2P, P2G and P2B functionality",
    "subject": "dpi.pay",
    "text": "P2P, P2G and P2B functionality: p2p, p2g and p2b functionality",
-   "indicator_id": "dpi.pay--p2p-p2g-and-p2b-functionality-p2p-p2g-and-p2b-functionality",
+   "indicator_id": "dpi.pay--p2p-p2g-and-p2b-functionality",
    "class": "retail",
    "norm_short": "The African Union's Digital Transformation Strategy asks for interoperable e-money and digital financial services, with low-cost channels and agents reaching underserved areas.",
    "criteria": [

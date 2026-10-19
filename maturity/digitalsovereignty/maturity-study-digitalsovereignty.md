@@ -18,7 +18,7 @@ The study redraws `geopol.sovereignty--digital-sovereignty`, which as at 2026-08
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Control of state data | Digital sovereignty: control of state data | `geopol.sovereignty--digital-sovereignty-control-of-state-data` |
+| Control of state data | Digital sovereignty: control of state data | `geopol.sovereignty--digital-sovereignty` |
 
 Anything else the evidence names is `other`, noted and never staged: a private company's data centre with no government data in it, a data protection law on personal data alone, a cybersecurity strategy, a foreign loan or donor project with no data terms on record, a statement about sovereignty in general.
 

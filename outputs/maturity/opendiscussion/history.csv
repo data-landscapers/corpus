@@ -1,27 +1,27 @@
 date,iso3,indicator_id,kind,from,to,sources,note
-2026-10-17,BDI,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,unplaced,,Arrivals added BDI-001; BDI-002; BDI-003; stage no evidence -> unplaced.
-2026-10-17,BEN,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,unplaced,,Arrivals added BEN-001; BEN-002; BEN-003; BEN-004; stage no evidence -> unplaced.
-2026-10-17,BFA,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,2,BFA-003;BFA-001;BFA-004,Arrivals added BFA-003; BFA-004; BFA-005; BFA-006; stage unplaced -> 2.
-2026-10-17,CIV,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,CIV-003,Arrivals added CIV-001; CIV-002; CIV-003; CIV-004; stage no evidence -> 2.
-2026-10-17,COD,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,unplaced,,Arrivals added COD-002; stage unchanged.
-2026-10-17,COM,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,COM-002;COM-001,Arrivals added COM-001; COM-002; COM-003; stage no evidence -> 2.
-2026-10-17,CPV,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,CPV-002,Arrivals added CPV-001; CPV-002; stage no evidence -> 2.
-2026-10-17,DJI,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,1,DJI-001;DJI-004,Arrivals added DJI-001; DJI-002; DJI-003; DJI-004; stage no evidence -> 1.
-2026-10-17,EGY,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,2,EGY-006;EGY-008;EGY-007,Arrivals added EGY-006; EGY-007; EGY-008; stage unplaced -> 2.
-2026-10-17,ETH,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,unplaced,,Arrivals added ETH-002; ETH-003; stage no evidence -> unplaced.
-2026-10-17,GMB,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,4,GMB-002,Arrivals added GMB-001; GMB-002; stage no evidence -> 4.
-2026-10-17,KEN,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,4,4,KEN-001;KEN-002,Arrivals added KEN-012; stage unchanged.
-2026-10-17,LBY,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,LBY-002;LBY-001,Arrivals added LBY-001; LBY-002; stage no evidence -> 2.
-2026-10-17,LSO,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,4,LSO-001,Arrivals added LSO-001; stage no evidence -> 4.
-2026-10-17,MAR,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,MAR-001,Arrivals added MAR-001; MAR-002; stage no evidence -> 2.
-2026-10-17,MLI,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,2,MLI-010;MLI-011;MLI-001,Arrivals added MLI-007; MLI-008; MLI-009; MLI-010; MLI-011; stage unplaced -> 2.
-2026-10-17,MRT,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,unplaced,,Arrivals added MRT-001; MRT-002; MRT-003; MRT-004; MRT-005; stage no evidence -> unplaced.
-2026-10-17,MUS,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,no evidence,2,MUS-004;MUS-002,Arrivals added MUS-001; MUS-002; MUS-003; MUS-004; stage no evidence -> 2.
-2026-10-17,NER,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,1,NER-011,Arrivals added NER-009; NER-010; NER-011; stage unplaced -> 1.
-2026-10-17,NGA,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,2,2,NGA-014;NGA-015;NGA-013,Arrivals added NGA-015; stage unchanged.
-2026-10-17,SOM,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,2,2,SOM-002;SOM-003,Arrivals added SOM-003; stage unchanged.
-2026-10-17,SSD,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,unplaced,2,SSD-002,Arrivals added SSD-002; SSD-003; stage unplaced -> 2.
-2026-10-17,SWZ,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,2,2,SWZ-001,Arrivals added SWZ-002; stage unchanged.
-2026-10-17,TZA,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,1,1,TZA-006;TZA-010,Arrivals added TZA-010; TZA-011; TZA-012; stage unchanged.
-2026-10-17,ZMB,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,2,2,ZMB-013;ZMB-009;ZMB-010,Arrivals added ZMB-014; stage unchanged.
-2026-10-17,ZWE,gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press,fact,2,2,ZWE-006;ZWE-007;ZWE-008,Arrivals added ZWE-006; ZWE-007; ZWE-008; ZWE-009; stage unchanged.
+2026-10-17,BDI,gov.discourse--open-discussion-of-government-policy,fact,no evidence,unplaced,,Arrivals added BDI-001; BDI-002; BDI-003; stage no evidence -> unplaced.
+2026-10-17,BEN,gov.discourse--open-discussion-of-government-policy,fact,no evidence,unplaced,,Arrivals added BEN-001; BEN-002; BEN-003; BEN-004; stage no evidence -> unplaced.
+2026-10-17,BFA,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,BFA-003;BFA-001;BFA-004,Arrivals added BFA-003; BFA-004; BFA-005; BFA-006; stage unplaced -> 2.
+2026-10-17,CIV,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,CIV-003,Arrivals added CIV-001; CIV-002; CIV-003; CIV-004; stage no evidence -> 2.
+2026-10-17,COD,gov.discourse--open-discussion-of-government-policy,fact,unplaced,unplaced,,Arrivals added COD-002; stage unchanged.
+2026-10-17,COM,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,COM-002;COM-001,Arrivals added COM-001; COM-002; COM-003; stage no evidence -> 2.
+2026-10-17,CPV,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,CPV-002,Arrivals added CPV-001; CPV-002; stage no evidence -> 2.
+2026-10-17,DJI,gov.discourse--open-discussion-of-government-policy,fact,no evidence,1,DJI-001;DJI-004,Arrivals added DJI-001; DJI-002; DJI-003; DJI-004; stage no evidence -> 1.
+2026-10-17,EGY,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,EGY-006;EGY-008;EGY-007,Arrivals added EGY-006; EGY-007; EGY-008; stage unplaced -> 2.
+2026-10-17,ETH,gov.discourse--open-discussion-of-government-policy,fact,no evidence,unplaced,,Arrivals added ETH-002; ETH-003; stage no evidence -> unplaced.
+2026-10-17,GMB,gov.discourse--open-discussion-of-government-policy,fact,no evidence,4,GMB-002,Arrivals added GMB-001; GMB-002; stage no evidence -> 4.
+2026-10-17,KEN,gov.discourse--open-discussion-of-government-policy,fact,4,4,KEN-001;KEN-002,Arrivals added KEN-012; stage unchanged.
+2026-10-17,LBY,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,LBY-002;LBY-001,Arrivals added LBY-001; LBY-002; stage no evidence -> 2.
+2026-10-17,LSO,gov.discourse--open-discussion-of-government-policy,fact,no evidence,4,LSO-001,Arrivals added LSO-001; stage no evidence -> 4.
+2026-10-17,MAR,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,MAR-001,Arrivals added MAR-001; MAR-002; stage no evidence -> 2.
+2026-10-17,MLI,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,MLI-010;MLI-011;MLI-001,Arrivals added MLI-007; MLI-008; MLI-009; MLI-010; MLI-011; stage unplaced -> 2.
+2026-10-17,MRT,gov.discourse--open-discussion-of-government-policy,fact,no evidence,unplaced,,Arrivals added MRT-001; MRT-002; MRT-003; MRT-004; MRT-005; stage no evidence -> unplaced.
+2026-10-17,MUS,gov.discourse--open-discussion-of-government-policy,fact,no evidence,2,MUS-004;MUS-002,Arrivals added MUS-001; MUS-002; MUS-003; MUS-004; stage no evidence -> 2.
+2026-10-17,NER,gov.discourse--open-discussion-of-government-policy,fact,unplaced,1,NER-011,Arrivals added NER-009; NER-010; NER-011; stage unplaced -> 1.
+2026-10-17,NGA,gov.discourse--open-discussion-of-government-policy,fact,2,2,NGA-014;NGA-015;NGA-013,Arrivals added NGA-015; stage unchanged.
+2026-10-17,SOM,gov.discourse--open-discussion-of-government-policy,fact,2,2,SOM-002;SOM-003,Arrivals added SOM-003; stage unchanged.
+2026-10-17,SSD,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,SSD-002,Arrivals added SSD-002; SSD-003; stage unplaced -> 2.
+2026-10-17,SWZ,gov.discourse--open-discussion-of-government-policy,fact,2,2,SWZ-001,Arrivals added SWZ-002; stage unchanged.
+2026-10-17,TZA,gov.discourse--open-discussion-of-government-policy,fact,1,1,TZA-006;TZA-010,Arrivals added TZA-010; TZA-011; TZA-012; stage unchanged.
+2026-10-17,ZMB,gov.discourse--open-discussion-of-government-policy,fact,2,2,ZMB-013;ZMB-009;ZMB-010,Arrivals added ZMB-014; stage unchanged.
+2026-10-17,ZWE,gov.discourse--open-discussion-of-government-policy,fact,2,2,ZWE-006;ZWE-007;ZWE-008,Arrivals added ZWE-006; ZWE-007; ZWE-008; ZWE-009; stage unchanged.

@@ -48,7 +48,7 @@
    "label": "Social protection register",
    "subject": "dpi.registry",
    "text": "Social protection register: social protection register",
-   "indicator_id": "dpi.registry--social-protection-register-social-protection-register",
+   "indicator_id": "dpi.registry--social-protection-register",
    "class": "social",
    "norm_short": "The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments.",
    "criteria": [

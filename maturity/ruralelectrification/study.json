@@ -63,7 +63,7 @@
    "label": "Rural access to electricity",
    "subject": "infra.energy",
    "text": "Rural electrification: rural access to electricity",
-   "indicator_id": "infra.energy--rural-electrification-rural-access-to-electricity",
+   "indicator_id": "infra.energy--rural-electrification",
    "class": "ruralpower",
    "norm_short": "The African Union's Agenda 2063 first ten-year plan asks for 80% of households to have electricity; Mission 300 aims to connect 300 million Africans by 2030.",
    "criteria": [

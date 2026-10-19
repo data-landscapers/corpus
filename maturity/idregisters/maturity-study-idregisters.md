@@ -18,7 +18,7 @@ The study redraws `dpi.id--use-by-other-systems`, which as at 2026-08-31 puts 13
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Use by other systems | Use by other systems: use by other systems | `dpi.id--use-by-other-systems-use-by-other-systems` |
+| Use by other systems | Use by other systems: use by other systems | `dpi.id--use-by-other-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a private service checking customers against the ID (the idverification study holds those), SIM registration, a register with its own numbering and no link, a plan with no register.
 

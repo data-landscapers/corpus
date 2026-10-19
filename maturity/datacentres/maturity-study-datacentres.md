@@ -18,7 +18,7 @@ The study redraws `infra.store--local-data-centre-capacity-all-providers`, which
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Data centres for hire in service | Local data centre capacity (all providers): data centres for hire in service | `infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service` |
+| Data centres for hire in service | Local data centre capacity (all providers): data centres for hire in service | `infra.store--local-data-centre-capacity-all-providers` |
 
 Anything else the evidence names is `other`, noted and never staged: a data centre announced, financed or under construction; one used only by its owner, such as a bank's, a mobile operator's own network or a government data centre serving only the state; who owns the data centres, which `local-data-centre-capacity-national-providers` assesses; cloud and hosting policy, which `cloudstrategy` and `datalocalisation` assess; megawatts, racks and floor space, reported in the long summary and setting nothing.
 
