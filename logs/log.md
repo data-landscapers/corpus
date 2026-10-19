@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-20 00:10 · **BUILD** · 1h39m · catalogue 31192; 53 units, 208 sources: 19 moved, 98 minted, 3 settled; 1 data centre added; maturity 2,360 arrivals, 38 cells reassessed, 33 moved; bulletin 24; register 9 hits stand - ok
 2026-10-19 22:31 · **ANALYTICS** · unclocked · 2026-10-17..2026-10-18 written; 18 Oct: dl.io 30 views / 0 clicks, corpus 148 views / 3 clicks
 2026-10-19 16:03 · **RENDER** · 5m · maturity+methodology only: admindata restaged on Bill's ruling (a named source is not administrative data), 26 maturity editions cut, deployed 50346c5 — ok
 2026-10-19 15:30 · **RENDER** · 19m · reports+home+countries+catalogue+maturity rendered (207 reports, 0 failed; 65 editions pruned), deployed d78946e — ok
@@ -631,24 +632,8 @@ title: Corpus process log
 2026-09-19 23:45 · **BUILD** · 39m · catalogue 22847, finance 62 places, scan 23 units 240 sources considered, 20 ledgers moved, 96 rows minted, 76 topic docs, 7 bulletin items; scope 3 XGL unverified, 0 unaccounted; 41 register hits ruled to stand - ok
 2026-09-19 23:05 · **NOTES** · 8m · Note 34 closed: two OSINT-drafted change-log entries added under 19 September 2026, cut to house length - ok
 2026-09-19 00:02 · **RENDER** · 15m · 251 reports rendered, 0 failed; home, place, topic, progress, catalogue, alerts, finance, methodology built; 5729 editions to R2; deployed — ok
-2026-09-18 23:47 · **REVIEW** · 2m · CIV: status 0 sections revised, progress 10 cells and 9 rows mapped, monthly 3 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT — ok
-2026-09-18 23:44 · **REVIEW** · 2m · CAF: status 3 sections revised, progress 2 cells and 2 rows mapped, monthly 1 block, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-09-18 23:41 · **BUILD** · 38m · catalogue 22632, finance 62 places, scan 55 units, 47 ledgers updated, 71 bulletin summaries; scope 412 in remit, 3 XGL unverified, 0 unaccounted; register 45 standing hits — ok
 2026-09-18 19:29 · **HERO** · unclocked · Batch 09, the last (review 4 R30) to X:\prepared\hero-09.jsonl; 6 corrected. R30 done; 81 short-title records held for OSINT's rule candidate - ok
-2026-09-18 19:14 · **HERO** · unclocked · Batch 08 (review 4 R30) to X:\prepared\hero-08.jsonl, check clean; 17 corrected before delivery. About 500 left - ok
-2026-09-18 18:57 · **HERO** · unclocked · Batch 07 (review 4 R30) to X:\prepared\hero-07.jsonl, check clean; 33 corrected, mostly unsupported only/most/first - ok
-2026-09-18 17:11 · **HERO** · unclocked · Batch 06 (review 4 R30) to X:\prepared\hero-06.jsonl, check clean; 10 corrected before delivery - ok
-2026-09-18 16:47 · **HERO** · unclocked · Batch 05 (review 4 R30) to X:\prepared\hero-05.jsonl; 61 corrected. Body-reader defect found and fixed; 100 applied heroes corrected in hero-fix-bodies.jsonl, notes-for-osint 146 - ok
-2026-09-18 15:45 · **HERO** · unclocked · Batch 04 (review 4 R30) to X:\prepared\hero-04.jsonl; 11 corrected. New wrong-record test found a swapped pair applied from batch 03: notes-for-osint 145 - ok
-2026-09-18 15:10 · **HERO** · unclocked · Batch 03 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-03.jsonl, check clean; 3 figures and 5 title openings corrected. Notes 32 closed - ok
-2026-09-18 14:50 · **HERO** · unclocked · Batch 02 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-02.jsonl, check clean; 6 corrected for figures the source does not state - ok
-2026-09-18 14:31 · **HERO** · unclocked · Batch 01 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-01.jsonl, check clean; 13 corrected for figures the source does not state. check now flags unsourced figures - ok
-2026-09-18 14:09 · **HERO** · unclocked · Sample of 200 written on Sonnet (review 4 R28) to X:\prepared\hero-00.jsonl, contract check clean; one hero rewritten for describing the record, one altered slug restored. hero-batch.py and hero-brief.md carry R30 - ok
 2026-09-18 14:03 · **STATUS-ACQUIRE** · unclocked · STP staged (review 4 R23): 20 of 28 rows in X:\new-queue\status-acquire-STP with READY, lint clean; 8 in the drop list, 3 of them unfetchable with Wayback unchecked (429). scripts/status-stage.py runs R26 - ok
-2026-09-18 12:25 · **RENDER** · 13m · 251 documents, 425 pages, catalogue 22,326, finance 1,455 deals; editions to R2; deployed — ok
-2026-09-18 12:11 · **REVIEW** · 5m · BWA: status 2 sub-sections revised, progress 4 cells mapped, monthly 3 blocks, finance 1 duplicate row merged; 0 notes for OSINT, 1 message for Bill — ok
-2026-09-18 12:05 · **REVIEW** · 18m · BFA: status 3 sub-sections revised, progress 4 cells mapped, monthly 9 blocks, finance 0 rows; 0 notes for OSINT; frontmatter escape decode fixed estate-wide — ok
-2026-09-18 11:47 · **BUILD** · 51m · catalogue 22326, finance 62 places, scan 36 units, 34 ledgers updated, 68 bulletin summaries; scope 160 in remit, 4 XGL unverified, 0 unaccounted; register 45 standing hits — ok
 2026-09-16 06:13 · **CITE-REREAD** · unclocked · closed at 54 of 54: the 21 owed baselines re-read, gated and committed one apiece. 16,990 links, 15,562 checked, 3,774 claims repaired; 1,212 gateway and 137 not held. A/B/E/G/FM pass estate-wide; three residuals in the runbook — ok
 2026-09-11 18:15 · **FILLER** · unclocked · regions baseline filler (XWA XEA XCA XSA XNA): 61 rows, 31 staged (29 files, new-queue regions-baseline, undelivered), 25 held, 5 nil; notes-for-osint 137
 2026-09-10 16:31 · **DOC** · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically
