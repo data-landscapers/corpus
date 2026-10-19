@@ -2,11 +2,11 @@
 type: brief
 reader: cc
 title: searcher-brief.md — what one searcher does for one country of a maturity study
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-19
 status: first used for maturity study health, task H5
 ---
 
-# Searcher brief: find what the study lacks
+# Searcher brief: search one country afresh
 
 *(Method §5 as instructions. The parent stages what you select; you write decisions, never documents.)*
 
@@ -15,12 +15,12 @@ status: first used for maturity study health, task H5
 A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 1. Read `maturity/{id}/study.json` and the study file it names: the typology, the aspects, the ladders.
-2. Read `maturity/{id}/evidence/{ISO3}/profile.csv`. **A row with text in `gap` is what you search for**; rows with a value are what is already held. Read `evidence.csv` beside it for the held facts. **A first-pass study has neither**: the gaps are each cell's `gaps` in `stage.json`, and the held facts its `stage_sources` and `note`.
+2. **Every question of the ladder is searched, whatever is held** *(Bill, 2026-10-19)*. What the country holds, in `maturity/{id}/evidence/{ISO3}/evidence.csv` or a first-pass cell's `stage.json`, does not narrow the search.
 3. **A sub-indicator named by the parent** is the only one searched.
 
 ## Search
 
-**One Exa Agent run per sub-indicator that has a gap** (`agent_run`, `effort: "medium"`). Load the Exa tools with ToolSearch if they are not listed. In the query: name the country and the sub-indicator in plain words, list the gaps as questions, give the held facts in a line so they are not returned again, and ask for **at most eight documents, ranked**, each with URL, title, publisher, date and one line on which gap it answers. Ask in the country's working language as well as English. Ask for the study file's source types in its order, primary and official first, and for nothing dated before 2019 except a stated absence.
+**One Exa Agent run per sub-indicator** (`agent_run`, `effort: "medium"`). Load the Exa tools with ToolSearch if they are not listed. In the query: name the country and the sub-indicator in plain words, list the ladder's questions, and ask for **at most eight documents, ranked**, newest first, each with URL, title, publisher, date and one line on which question it answers. Ask in the country's working language as well as English. Ask for the study file's source types in its order, primary and official first, and for nothing dated before 2019 except a stated absence.
 
 Do not search further by hand unless a run returns nothing. Leave out a return that is plainly another country's or not a document.
 
@@ -43,9 +43,9 @@ Read each fetched text. Over 20,000 words, search it for the study's terms and t
  "published": "", "date_source": "source", "why_not": ""}
 ```
 
-**Select a document only when its text states a dated fact, on an aspect with a gap, that nothing held states.** One such fact is enough. A document about the right system that states no such fact is not selected. Nor is one about another country, an Exa summary, or a page that only links to the document.
+**Select a document when its text states a dated fact on one of the sub-indicator's aspects.** `fetch` has already screened out what is held. One such fact is enough. A document about the right system that states no such fact is not selected. Nor is one about another country, an Exa summary, or a page that only links to the document.
 
-- `aspect`: the gap aspects the text answers, joined by `;`.
+- `aspect`: the aspects the text answers, joined by `;`.
 - `fact`: the dated fact, in one sentence, as the text states it.
 - `title`, `publisher`: the document's own, in its own language and spelling.
 - `published`: **the document's own date** from its byline, imprint or metadata, as `YYYY-MM-DD`, `YYYY-MM` or `YYYY`. Never the date you fetched it, a file stamp, a date in the URL or folder, the date of the event or meeting it reports, or the end of the financial year it covers. **Give only the precision the imprint gives**: a year is `YYYY`, never padded to `-01-01`. `date_source` is `source` where the document states it, `proxy` where you inferred it.
