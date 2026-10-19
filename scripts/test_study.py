@@ -421,6 +421,33 @@ try:
         cell = json.load(open(path, encoding="utf-8"))["cells"][0]
         check("a rerun keeps the as_at study-update.py log stamped", (cell["stage"], cell.get("as_at")),
               ("3", "2026-10-09"))
+        check("a ladder counts a logged cell at its own, later as_at",
+              study_lib.counted_at(path, dt.date(2026, 9, 30)), dt.date(2026, 10, 9))
+        check("and at the study's where that is later",
+              study_lib.counted_at(path, dt.date(2026, 11, 30)), dt.date(2026, 11, 30))
+        check("and at the study's where nothing is held",
+              study_lib.counted_at(os.path.join(d, "UGA", "stage.json"), dt.date(2026, 9, 30)), dt.date(2026, 9, 30))
+        hand = {"sub_indicator": "law", "stage": "1", "note": "Enacted, not commenced: stage 1."}
+        open(path, "w", encoding="utf-8").write(json.dumps({"iso3": "KEN", "cells": [hand]}))
+        study_lib.write_stage(path, "KEN", [{"sub_indicator": "law", "stage": "3",
+                                            "note": "Counted from the four questions by study-ladder-t.py."}])
+        check("a cell staged by hand is kept as it stands",
+              json.load(open(path, encoding="utf-8"))["cells"][0], hand)
+        counted = {"sub_indicator": "law", "stage": "2", "note": "First pass: counted from the four questions by x."}
+        open(path, "w", encoding="utf-8").write(json.dumps({"iso3": "KEN", "cells": [counted]}))
+        study_lib.write_stage(path, "KEN", [dict(counted, stage="4")])
+        check("a counted cell is recounted", json.load(open(path, encoding="utf-8"))["cells"][0]["stage"], "4")
+        logged = dict(counted, stage="3", stage_sources="KEN-009", as_at="2026-10-17")
+        open(path, "w", encoding="utf-8").write(json.dumps({"iso3": "KEN", "cells": [logged]}))
+        before = open(path, "rb").read()
+        study_lib.write_stage(path, "KEN", [dict(counted, stage="3", stage_sources="KEN-011")])
+        check("a logged cell counted at the same stage keeps its sources, and the file its bytes",
+              open(path, "rb").read(), before)
+    uncounted = [p.name for p in sorted(HERE.glob("study-ladder-*.py")) + [HERE / "study_first_ladder.py",
+                                                                          HERE / "study_figure.py"]
+                 if "study_lib.write_stage(" in p.read_text(encoding="utf-8")
+                 and "study_lib.counted_at(" not in p.read_text(encoding="utf-8")]
+    check("every ladder that writes stage.json counts at study_lib.counted_at", uncounted, [])
     bare = [p.name for p in sorted(HERE.glob("study-ladder-*.py"))
             if '"stage.json"' in p.read_text(encoding="utf-8") and "study_lib.write_stage(" not in p.read_text(encoding="utf-8")]
     check("every ladder that writes stage.json writes it through study_lib.write_stage", bare, [])

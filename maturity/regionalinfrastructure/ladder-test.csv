@@ -34,16 +34,16 @@ MRT,4,,in-service,MRT-001
 MUS,no evidence,,,
 MWI,4,,in-service,MWI-002
 NAM,2,agreed,,NAM-002;NAM-001
-NER,4,building,in-service,NER-001;NER-002;NER-003
+NER,4,building,in-service,NER-009;NER-012
 NGA,4,agreed,in-service,NGA-003
 RWA,unplaced,,,
 SDN,2,agreed,,SDN-003;SDN-004
-SEN,4,,in-service,SEN-002;SEN-001
+SEN,4,,in-service,SEN-001
 SLE,2,agreed,,SLE-003;SLE-002
 SOM,4,agreed,in-service,SOM-003
 SSD,2,agreed,,SSD-004;SSD-006
 STP,4,,in-service,STP-003
-SWZ,unplaced,,,
+SWZ,2,agreed,,SWZ-001
 SYC,no evidence,,,
 TCD,3,building,,TCD-001;TCD-002;TCD-007
 TGO,5,agreed,in-use,TGO-002

@@ -27,7 +27,7 @@ LBR,3,inservice,,,LBR-004
 LBY,2,underway,,,LBY-001
 LSO,4,inservice,measured,,LSO-001
 MAR,3,inservice,,,MAR-003
-MDG,2,underway,,,MDG-001;MDG-002
+MDG,2,underway,,,MDG-002;MDG-003
 MLI,2,underway,,,MLI-001;MLI-002
 MOZ,2,underway,,,MOZ-003;MOZ-002
 MRT,3,inservice,,,MRT-002
@@ -35,7 +35,7 @@ MUS,4,inservice,measured,,MUS-001;MUS-002
 MWI,2,underway,,,MWI-001;MWI-002
 NAM,2,underway,,,NAM-001;NAM-002
 NER,3,inservice,,,NER-003
-NGA,2,underway,,,NGA-005;NGA-006
+NGA,2,underway,,,NGA-002;NGA-003
 RWA,2,underway,,,RWA-001
 SDN,no evidence,,,,
 SEN,3,inservice,,,SEN-002

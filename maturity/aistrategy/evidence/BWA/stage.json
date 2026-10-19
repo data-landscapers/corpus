@@ -8,7 +8,7 @@
    "use": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "BWA-001",
+   "stage_sources": "BWA-002",
    "gaps": "No source held says a national AI strategy is adopted and still running.",
    "note": "Counted from the four questions by study-ladder-aistrategy.py."
   }

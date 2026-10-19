@@ -112,7 +112,7 @@ def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=Non
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = stage(study, rows, as_at, gaps, empty, unplaced)
+        cell = stage(study, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at, sub), gaps, empty, unplaced)
         s = cell["stage"]
         count[s] = count.get(s, 0) + 1
         line = {"sub_indicator": sub, "stage": s,

@@ -35,7 +35,7 @@ MUS,2,published,,,MUS-001;MUS-002
 MWI,2,published,,,MWI-001
 NAM,2,published,,,NAM-001
 NER,3,licensed,,,NER-002
-NGA,2,published,,,NGA-002
+NGA,unplaced,,,,
 RWA,2,published,,,RWA-001
 SDN,no evidence,,,,
 SEN,5,licensed,several,reused,SEN-001
@@ -50,6 +50,6 @@ TGO,4,licensed,several,,TGO-003
 TUN,no evidence,,,,
 TZA,2,published,,,TZA-002;TZA-003
 UGA,2,published,,,UGA-003;UGA-004
-ZAF,2,published,,,ZAF-002;ZAF-001
+ZAF,2,published,,,ZAF-001
 ZMB,4,licensed,several,,ZMB-002
 ZWE,2,published,,,ZWE-002;ZWE-001

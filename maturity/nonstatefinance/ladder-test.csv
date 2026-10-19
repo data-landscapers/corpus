@@ -7,7 +7,7 @@ BWA,2,committed,,,BWA-001
 CAF,no evidence,,,,
 CIV,2,committed,,,CIV-011
 CMR,3,committed,,,CMR-001;CMR-002
-COD,2,committed,,,COD-002
+COD,2,committed,,,COD-006
 COG,2,committed,,,COG-001
 COM,2,committed,,,COM-003
 CPV,no evidence,,,,
@@ -17,7 +17,7 @@ EGY,4,committed,raised,,EGY-020;EGY-013;EGY-004;EGY-014
 ERI,no evidence,,,,
 ETH,3,committed,,,ETH-005;ETH-006
 GAB,2,committed,,,GAB-002
-GHA,3,committed,,,GHA-003;GHA-010
+GHA,3,committed,,,GHA-006;GHA-010
 GIN,2,committed,,,GIN-001
 GMB,3,committed,,brought,GMB-002;GMB-001
 GNB,2,committed,,,GNB-001
@@ -50,6 +50,6 @@ TGO,3,committed,,,TGO-004;TGO-001
 TUN,2,committed,raised,,TUN-001
 TZA,3,committed,,,TZA-002;TZA-006
 UGA,2,committed,,,UGA-004
-ZAF,4,committed,raised,,ZAF-011;ZAF-017;ZAF-001;ZAF-005
+ZAF,4,committed,raised,,ZAF-011;ZAF-017;ZAF-003;ZAF-005
 ZMB,2,committed,,,ZMB-003
-ZWE,2,committed,,,ZWE-003
+ZWE,unplaced,,,,

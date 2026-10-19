@@ -32,7 +32,7 @@ MLI,4,inservice,electronic,,MLI-003
 MOZ,3,inservice,,,MOZ-002;MOZ-003
 MRT,4,inservice,electronic,,MRT-002
 MUS,5,inservice,electronic,most,MUS-003
-MWI,2,underway,,,MWI-001
+MWI,unplaced,,,,
 NAM,3,inservice,,,NAM-002;NAM-001
 NER,unplaced,,,,
 NGA,4,inservice,electronic,,NGA-005
@@ -41,7 +41,7 @@ SDN,no evidence,,,,
 SEN,5,inservice,electronic,most,SEN-006;SEN-003
 SLE,4,inservice,electronic,,SLE-002
 SOM,2,underway,,,SOM-001
-SSD,4,inservice,electronic,,SSD-002;SSD-001
+SSD,4,inservice,electronic,,SSD-001
 STP,unplaced,,,,
 SWZ,4,inservice,electronic,,SWZ-003
 SYC,2,underway,,,SYC-001

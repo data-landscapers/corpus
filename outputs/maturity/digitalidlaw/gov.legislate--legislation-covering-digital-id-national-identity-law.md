@@ -278,6 +278,7 @@ South Africa's 1997 Identification Act is in force; a replacement bill is due in
 Tanzania's 1986 registration and identification law is in force. Whether it provides for a digital identity is not known.
 
 - The Registration and Identification of Persons Act (Cap. 36, originally Act No. 11 of 1986), an Act of Parliament providing for registration of persons and issue of identity cards, is recorded as still in force in the Cap. 36 R.E. 2023 edition, per the Attorney-General's e-Library catalogue record dated 2025-07-01 ([source, 2025-07-01](https://tanzanialaws.com/r/320-registration-and-identification-of-persons-act)).
+- NIDA gives its legal framework as the Registration and Identification Act 1986 (revised edition 2012), with NIDA established in 2008 under instrument GN 122/2008 ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
 
 ### Zambia: 3 Established
 

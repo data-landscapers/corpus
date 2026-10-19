@@ -250,6 +250,7 @@ A 2014 cybercrime law is in force; a replacement bill was postponed in September
 A cybercrime and cybersecurity law has been in force since 2017; no case under it is known.
 
 - The Electronic Transactions and Cyber Security Act (Act 33 of 2016, Chapter 74:02), which criminalises offences related to computer systems and ICT, was published in the Gazette on 4 November 2016 and commenced on 1 June 2017 ([source, 2017-06-01](https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31)).
+- The Ministry of Information and Digitalization says draft regulations were developed to help administer the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02 of the Laws of Malawi), including draft Cyber Security Regulations, 2024 ([source, 2016](https://digmap.pppc.mw/invitation-to-a-hybrid-public-stakeholder-consultation-meeting-on-the-electronic-transactions-and-cyber-security-act-etca-regulations-bingu-international-conference-centre-bicc-in-lilong/)).
 
 ### Mauritania: 3 Established
 

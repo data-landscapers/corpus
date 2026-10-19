@@ -287,16 +287,59 @@ def write_csv(path: str, fields: list[str], rows: list[dict]) -> None:
         w.writerows(rows)
 
 
-def write_stage(path: str, iso: str, cells: list[dict]) -> None:
-    """A ladder's `stage.json`. A cell's `as_at` is carried over from the file it replaces:
-    `study-update.py log` stamps it, and a rerun of the ladder is not a reassessment."""
+LADDER_NOTE = re.compile(r"counted from the four questions by ", re.I)
+
+
+def held_cells(path: str) -> dict[str, dict]:
+    """sub-indicator -> the cell `stage.json` holds."""
     try:
         with open(path, encoding="utf-8") as fh:
-            held = {c.get("sub_indicator"): c.get("as_at") for c in json.load(fh).get("cells", [])}
+            return {c.get("sub_indicator"): c for c in json.load(fh).get("cells", [])}
     except (OSError, ValueError, AttributeError):
-        held = {}
-    cells = [{**c, "as_at": held[c.get("sub_indicator")]}
-             if held.get(c.get("sub_indicator")) and "as_at" not in c else c for c in cells]
+        return {}
+
+
+def by_hand(cell: dict | None) -> bool:
+    """A cell a reader staged: it carries a note, and not a ladder's own."""
+    note = ((cell or {}).get("note") or "").strip()
+    return bool(note) and not LADDER_NOTE.search(note)
+
+
+def counted_at(path: str, as_at: dt.date, sub: str | None = None) -> dt.date:
+    """The date a ladder counts a country at: the study's as-at, or the cell's own where
+    `study-update.py log` stamped a later one. Counted at the study's, a rerun drops the facts
+    a night's arrivals added and restages the country back (14 cells did on 2026-10-18)."""
+    held = held_cells(path)
+    cell = held.get(sub) if sub else next(iter(held.values()), None)
+    own = parse_as_of((cell or {}).get("as_at") or "")
+    return max(own, as_at) if own else as_at
+
+
+def write_stage(path: str, iso: str, cells: list[dict]) -> None:
+    """A ladder's `stage.json`. A cell's `as_at` is carried over from the file it replaces:
+    `study-update.py log` stamps it, and a rerun of the ladder is not a reassessment. **A cell
+    staged by hand is kept as it stands** (`by_hand`), and named where the count differs; so is
+    a logged cell the count leaves at the same stage, whose sources a reassessment chose. A file
+    whose cells come out unchanged keeps its bytes."""
+    held = held_cells(path)
+    out = []
+    for c in cells:
+        h = held.get(c.get("sub_indicator"))
+        same = h is not None and str(h.get("stage")) == str(c.get("stage"))
+        if by_hand(h):
+            if not same:
+                print(f"study-ladder: {iso} {c.get('sub_indicator')} staged by hand at {h.get('stage')}; "
+                      f"counted {c.get('stage')}, left")
+            out.append(h)
+        elif h and h.get("as_at") and same:
+            out.append(h)
+        elif h and h.get("as_at") and "as_at" not in c:
+            out.append({**c, "as_at": h["as_at"]})
+        else:
+            out.append(c)
+    cells = out
+    if held and list(held.values()) == cells:
+        return
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="\n") as fh:
         fh.write(json.dumps({"iso3": iso, "cells": cells}, ensure_ascii=False, indent=1) + "\n")

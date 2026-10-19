@@ -8,7 +8,7 @@
    "reach": "non-bank",
    "cap": "",
    "flags": "",
-   "stage_sources": "STP-003;STP-001",
+   "stage_sources": "STP-004;STP-003;STP-001",
    "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
    "note": "Counted from the four questions by study-ladder-paymentslaw.py."
   }

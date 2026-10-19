@@ -43,7 +43,7 @@ Ghana's 2019 Right to Information Act is in force, and its commission fined 254 
 Kenya's 2016 Access to Information Act is in force, with regulations made under it in 2023; decisions on requests are not known.
 
 - The Star reports that the 2023 Access to Information Regulations, made under the Act, define proactive disclosure and set what public entities must publish ([source, 2023](https://www.the-star.co.ke/news/2026-09-27-state-vows-proactive-disclosure-as-kenya-marks-access-to-information-day)).
-- The Daily Nation reports that the Access to Information Act guarantees the right to information under Article 35 of the Constitution; the document gives no year for it, so the date is the article's publication date ([source, 2026-07-02](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338)).
+- The Commission on Administrative Justice (Ombudsman) says it will engage 54 public institutions to strengthen compliance with the Access to Information (ATI) Act, 2016, and says many institutions do not routinely publish information the Act requires ([source, 2026-08-25](https://kahawatungu.com/ombudsman-raises-alarm-over-delays-in-resolving-public-complaints/)).
 
 ### Malawi: 5 Leading
 

@@ -158,6 +158,7 @@ The information technology agency invited comments on a draft data bill in Novem
 
 A government agency put a draft state information security policy to digital-sector people in April 2025; whether a report was published is not known.
 
+- The Cite des sciences et de l'innovation, under the higher education ministry, held the DounIA conference on 30 April 2025 in Conakry with researchers, technology firm heads, innovators and students to co-build a national digital data and AI strategy, closed by the Prime Minister ([source, 2025-04-30](https://lelynx.net/2025/05/cite-des-sciences-de-guinee-une-conference-autour-de-lintelligence-artificielle/)).
 - ANSSI, under the Ministry of Posts, Telecommunications and the Digital Economy, held a workshop to validate the draft State Information Systems Security Policy (PSSIE), attended by public institution representatives, cybersecurity experts and digital-sector actors, who analysed, enriched and validated its components ([source, 2025-04-18](https://anssi.gov.gn/atelier-de-validation-de-la-politique-de-securite-des-systemes-dinformation-de-letat-pssie/)).
 
 ### Guinea-Bissau: 2 Nascent
@@ -171,6 +172,7 @@ The regulator opened a public consultation on a draft electronic transactions la
 The ministry sent the draft Cybersecurity Bill out for review in August 2026 and held workshops on it; what was said is not known.
 
 - The Ministry of Information, Communications, Science, Technology and Innovation circulated the draft Cybersecurity Bill 2026 for stakeholder review in August 2026, and opened a second two-day consultation workshop on it in Maseru on 2026-09-23 with the Lesotho Communications Authority and UNDP, as the Department of Information reports ([source, 2026-08](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/)).
+- The Lesotho Communications Authority published a public consultation document on proposed amendment rules to its licensing classification and fees rules, 2024 ([source, 2024-10-01](https://lca.org.ls/wp-content/uploads/2024/10/PROPOSED-AMENDMENT-TO-LICENSING-FRAMEWORK_public-consultation-document.pdf)).
 
 ### Malawi: 2 Nascent
 
@@ -261,6 +263,7 @@ A workshop on the data protection bill was held with civil society, reported in 
 In 2026 regulators and academic institutions gave views on a draft data governance strategy at a workshop; whether they were published is not known.
 
 - On 12 March 2026 UNECA, in collaboration with the Government of Tanzania, convened a national validation workshop on the draft Tanzania Electronic Data Governance Strategy in Dodoma, where regulatory authorities, academic institutions and sectoral agencies gave feedback that informed refinements to the strategy, and the Ministry of Communication and Information Technology closed it ([source, 2026-03-12](https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
+- Minister Jerry Silaa opened a stakeholder forum in Arusha and questionnaires for entrepreneurs and investors on the national startup policy, to expand to major cities, The Citizen reports ([source, 2025-03-15](https://www.thecitizen.co.tz/tanzania/news/national/government-kicks-off-consultations-for-tanzania-s-first-startup-policy-4966048)).
 
 ### Togo: 2 Nascent
 

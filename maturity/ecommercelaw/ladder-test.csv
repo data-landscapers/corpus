@@ -12,7 +12,7 @@ COG,3,in-force,,COG-001;COG-003
 COM,3,in-force,,COM-005
 CPV,3,in-force,,CPV-001
 DJI,2,draft,,DJI-001;DJI-002
-DZA,3,in-force,,DZA-004;DZA-001
+DZA,3,in-force,,DZA-004;DZA-005
 EGY,4,in-force,rules,EGY-003;EGY-005;EGY-001
 ERI,unplaced,,,
 ETH,4,in-force,rules,ETH-002;ETH-001
@@ -26,20 +26,20 @@ KEN,4,in-force,rules,KEN-005;KEN-002;KEN-004
 LBR,3,in-force,,LBR-001
 LBY,3,in-force,,LBY-002;LBY-001
 LSO,2,draft,,LSO-001;LSO-003
-MAR,5,in-force,applied,MAR-002;MAR-006;MAR-005;MAR-001
+MAR,5,in-force,applied,MAR-006;MAR-007;MAR-005;MAR-004
 MDG,3,in-force,,MDG-004;MDG-001
 MLI,3,in-force,,MLI-001;MLI-002
 MOZ,5,in-force,applied,MOZ-009;MOZ-002;MOZ-001
 MRT,3,in-force,,MRT-003;MRT-002
-MUS,3,in-force,,MUS-001;MUS-003
-MWI,3,in-force,,MWI-001
+MUS,3,in-force,,MUS-003;MUS-002
+MWI,3,in-force,,MWI-001;MWI-002
 NAM,5,in-force,applied,NAM-003;NAM-012;NAM-015;NAM-002
 NER,3,in-force,,NER-001
 NGA,2,draft,,NGA-004
 RWA,3,in-force,,RWA-001
 SDN,3,in-force,,SDN-001
 SEN,4,in-force,rules,SEN-002;SEN-001
-SLE,3,in-force,,SLE-005;SLE-001
+SLE,3,in-force,,SLE-006;SLE-005
 SOM,2,draft,,SOM-001
 SSD,no evidence,,,
 STP,3,in-force,,STP-001

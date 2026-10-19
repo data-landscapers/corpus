@@ -2,7 +2,7 @@ iso3,stage,register,shared,nationalid,stage_sources
 AGO,3,inservice,,,AGO-001
 BDI,3,inservice,,,BDI-001;BDI-002
 BEN,5,inservice,shared,linked,BEN-001;BEN-005
-BFA,unplaced,,,,
+BFA,4,inservice,shared,,BFA-002
 BWA,no evidence,,,,
 CAF,unplaced,,,,
 CIV,no evidence,,,,

@@ -15,9 +15,9 @@ DJI,no evidence,,,,
 DZA,no evidence,,,,
 EGY,3,inforce,,,EGY-003
 ERI,no evidence,,,,
-ETH,5,inforce,redress,enforced,ETH-003
+ETH,3,inforce,,,ETH-001
 GAB,2,draft,,,GAB-001
-GHA,3,inforce,,,GHA-002;GHA-005
+GHA,3,inforce,,,GHA-005;GHA-001
 GIN,unplaced,,,,
 GMB,3,inforce,,,GMB-001
 GNB,no evidence,,,,
@@ -36,7 +36,7 @@ MWI,3,inforce,,,MWI-001
 NAM,3,inforce,,,NAM-001
 NER,1,none,,,NER-001
 NGA,5,inforce,redress,enforced,NGA-002
-RWA,4,inforce,redress,,RWA-004;RWA-005
+RWA,4,inforce,redress,,RWA-005
 SDN,5,inforce,redress,enforced,SDN-001;SDN-004
 SEN,4,inforce,redress,,SEN-001
 SLE,unplaced,,,,

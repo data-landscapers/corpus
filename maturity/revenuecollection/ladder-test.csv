@@ -34,10 +34,10 @@ MRT,5,inservice,main,reported,MRT-002;MRT-007
 MUS,3,inservice,,,MUS-001;MUS-003
 MWI,2,underway,,,MWI-001;MWI-002
 NAM,3,inservice,,,NAM-002
-NER,3,inservice,,,NER-001;NER-002
+NER,3,inservice,,,NER-002
 NGA,3,inservice,,,NGA-002
 RWA,unplaced,,,,
-SDN,3,inservice,,,SDN-004;SDN-001
+SDN,3,inservice,,,SDN-002;SDN-005
 SEN,3,inservice,,,SEN-001;SEN-002
 SLE,3,inservice,,,SLE-001
 SOM,3,inservice,,,SOM-001;SOM-002

@@ -58,7 +58,8 @@ Egypt's national AI strategy for 2025 to 2030 is followed up by a national counc
 Ethiopia adopted a national AI policy in 2024 and named its AI institute to coordinate it; public money allocated to it is not known.
 
 - CIPESA says Ethiopia's AI policy designates the Ethiopian Artificial Intelligence Institute as national coordinating body for implementation, standards and capacity building, with the Ministry of Innovation and Technology providing policy oversight; the document gives no date for this, so its published date is used ([source, 2026-07-23](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/)).
-- UNDP's release says the Ethiopian AI Institute's director general stated Ethiopia had recently published its National Artificial Intelligence Policy; no date is given, so the document's published date of 2026-02-16 is used ([source, 2026-02-16](https://www.undp.org/ethiopia/press-releases/ethiopia-launches-ai-unipod)).
+- UNESCO's profile says the Ethiopian Artificial Intelligence Institute holds a statutory mandate to formulate, draft and monitor national AI policies and coordinate implementation across government ([source, 2026-06-30](https://www.unesco.org/ethics-ai/en/ethiopia)).
+- UNESCO's profile says Ethiopia has adopted a National Artificial Intelligence Policy and developed a National AI Strategy ([source, 2026-06-30](https://www.unesco.org/ethics-ai/en/ethiopia)).
 
 ### Kenya: 4 Operating
 
@@ -94,7 +95,7 @@ Zambia's national AI strategy runs to the end of 2026 and names a council and a 
 Benin adopted a national AI and big data strategy in 2023, running to 2027; whether a body carries it out is not known.
 
 - A ministry representative on 16 July 2026 described the University of Abomey-Calavi's own AI strategy as in line with the national AI and big-data strategy (2023-2027), which is thereby shown as current; the university's own strategy is not the national one ([source, 2026-07-16](https://lanation.bj/numerique/intelligence-artificielle-luac-adopte-une-strategie-un-cadre-ethique-et-une-charte-dusage)).
-- GRAIN's comparative report on four West African countries says Benin was the first of the four to adopt a national AI strategy, in 2023 ([source, 2023](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/)).
+- The brochure refers to Benin's national AI and big-data strategy 2023-2027 as the existing national framework to which the April 2024 workshop adapted the recommendations ([source, 2025-04](https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf)).
 
 ### Cameroon: 3 Established
 
@@ -159,7 +160,7 @@ Angola's national AI strategy was drafted and awaiting formal approval in 2026; 
 
 Botswana's government was still finalising a national AI policy in 2026; when it will be adopted is not known.
 
-- At the Botswana Tech Summit on 13 August 2025 the Assistant Minister of Communications and Innovation said government was working on finalising a National Artificial Intelligence Policy, following an AI readiness exercise with UNESCO; no adoption is reported ([source, 2025-08-13](https://dailynews.gov.bw/news-detail/88106)).
+- A Parliament of Botswana researcher writes that the Government of Botswana is advancing toward finalizing its first National Artificial Intelligence Policy, which the brief calls the draft AI Policy ([source, 2026-07-28](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7263340)).
 
 ### Burkina Faso: 2 Nascent
 

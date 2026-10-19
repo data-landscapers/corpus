@@ -3,7 +3,7 @@ AGO,2,underway,,,AGO-001
 BDI,no evidence,,,,
 BEN,5,inservice,several,rules,BEN-001
 BFA,2,underway,,,BFA-001;BFA-002
-BWA,2,underway,,,BWA-001
+BWA,unplaced,,,,
 CAF,no evidence,,,,
 CIV,3,inservice,,,CIV-002;CIV-001
 CMR,3,inservice,,,CMR-001;CMR-002
@@ -18,7 +18,7 @@ ERI,no evidence,,,,
 ETH,2,underway,,,ETH-001
 GAB,3,inservice,,,GAB-001
 GHA,3,inservice,,,GHA-002;GHA-001
-GIN,2,underway,,,GIN-001
+GIN,unplaced,,,,
 GMB,3,inservice,,,GMB-002
 GNB,no evidence,,,,
 GNQ,3,inservice,,,GNQ-001
@@ -49,7 +49,7 @@ TCD,no evidence,,,,
 TGO,no evidence,,,,
 TUN,2,underway,,,TUN-001
 TZA,2,underway,,,TZA-001
-UGA,3,inservice,,,UGA-001
+UGA,2,underway,,,UGA-002;UGA-003
 ZAF,3,inservice,,,ZAF-001;ZAF-002
 ZMB,no evidence,,,,
 ZWE,2,underway,,,ZWE-001

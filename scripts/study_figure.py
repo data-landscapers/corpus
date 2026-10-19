@@ -268,7 +268,7 @@ def ladder(sid: str, as_at_s: str, dry: bool) -> int:
         rows, changed = correct(rows, [f for f in fixes if f["iso3"] == iso])
         if changed and not dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = stage(c, rows, as_at)
+        cell = stage(c, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at, c["sub"]))
         count[cell["stage"]] = count.get(cell["stage"], 0) + 1
         line = {"sub_indicator": c["sub"], "stage": cell["stage"], **{a: cell[a] for a in aspects},
                 "cap": "", "flags": "", "stage_sources": ";".join(cell["sources"]), "gaps": cell["gaps"],

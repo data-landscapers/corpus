@@ -1,6 +1,6 @@
 iso3,stage,use,sectors,usage,stage_sources
 AGO,2,underway,,,AGO-001
-BDI,5,inservice,several,reported,BDI-003
+BDI,3,inservice,,,BDI-002;BDI-001
 BEN,5,inservice,several,reported,BEN-002;BEN-005
 BFA,unplaced,,,,
 BWA,3,inservice,,,BWA-001

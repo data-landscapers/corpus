@@ -23,10 +23,8 @@ finding no law in force. A country the law study could not place has no evidence
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
 `evidence.csv` first, once. Writes each `stage.json` and `ladder-test.csv`.
 
-**A cell is counted at its own `as_at`** where `study-update.py log` stamped one later than
-`--as-at`: counted at the study's, a rerun drops the facts a night added and restages the
-country (14 did on 2026-10-18). **A cell staged by hand is left alone**: one whose `note` is
-not this script's own. Its count is still made and printed where the stage differs.
+Like every ladder, it counts a country at `study_lib.counted_at` and leaves a cell staged
+by hand, which `study_lib.write_stage` keeps.
 
 Exit: 0 written, 2 the study cannot be read.
 """
@@ -35,7 +33,6 @@ from __future__ import annotations
 import argparse
 import calendar
 import datetime as dt
-import json
 import os
 import sys
 
@@ -53,15 +50,6 @@ GAPS = {
     "1": "",
 }
 NOTE = "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-
-
-def held_cell(path: str) -> dict:
-    """The cell `stage.json` holds, or nothing."""
-    try:
-        with open(path, encoding="utf-8") as fh:
-            return json.load(fh)["cells"][0]
-    except (OSError, ValueError, KeyError, IndexError):
-        return {}
 
 
 def last_day(as_of: str) -> dt.date:
@@ -151,22 +139,16 @@ def main(argv=None) -> int:
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cur = held_cell(os.path.join(base, iso, "stage.json"))
-        # A cell `study-update.py log` stamped counts at its own as-at, so tonight's facts stand.
-        own = dt.date.fromisoformat(cur["as_at"]) if cur.get("as_at") else as_at
-        cell = stage(rows, max(own, as_at), law.get(iso, ""), body.get(iso, {}))
+        cell = stage(rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at),
+                     law.get(iso, ""), body.get(iso, {}))
+        count[cell["stage"]] = count.get(cell["stage"], 0) + 1
         line = {"sub_indicator": "system", "stage": cell["stage"], "law": cell["law"],
                 "treaty": cell["treaty"], "authority": cell["authority"], "practice": cell["practice"],
                 "cap": "", "flags": "", "stage_sources": ";".join(cell["sources"]), "gaps": cell["gaps"],
                 "note": NOTE}
-        held = cur if cur.get("note", NOTE) != NOTE else None
-        if held and str(held.get("stage")) != line["stage"]:
-            print(f"study-ladder: {iso} staged by hand at {held.get('stage')}; counted {line['stage']}, left")
-        line = held or line
-        count[line["stage"]] = count.get(line["stage"], 0) + 1
-        test.append({"iso3": iso, **{k: line.get(k, "") for k in ("stage", "law", "treaty", "authority",
-                                                                 "practice", "stage_sources")}})
-        if a.dry or held:
+        test.append({"iso3": iso, **{k: line[k] for k in ("stage", "law", "treaty", "authority",
+                                                         "practice", "stage_sources")}})
+        if a.dry:
             continue
         os.makedirs(os.path.join(base, iso), exist_ok=True)
         study_lib.write_stage(os.path.join(base, iso, "stage.json"), iso, [line])

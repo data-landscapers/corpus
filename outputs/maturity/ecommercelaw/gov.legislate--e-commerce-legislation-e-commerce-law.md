@@ -277,6 +277,7 @@ Madagascar has had electronic transactions and signature laws since 2014, and a 
 Malawi's electronic transactions act has been in force since June 2017; rules made under it and how it is applied are not known.
 
 - The Electronic Transactions and Cyber Security Act (Act 33 of 2016, Chapter 74:02), published in the Gazette on 4 November 2016, commenced on 1 June 2017 and gives legal recognition to electronic writing, electronic signatures and digital signature certificates (Part III) and defines electronic commerce and distance contracts; the MalawiLII version includes amendments published up to 31 October 2021 ([source, 2017-06-01](https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31)).
+- The Ministry of Information and Digitalization refers to the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02) as the Act its draft 2024 regulations on certification authority and encryption would administer; the regulations are drafts, not yet made ([source, 2016](https://digmap.pppc.mw/invitation-to-a-hybrid-public-stakeholder-consultation-meeting-on-the-electronic-transactions-and-cyber-security-act-etca-regulations-bingu-international-conference-centre-bicc-in-lilong/)).
 
 ### Mali: 3 Established
 
@@ -327,8 +328,8 @@ Seychelles has had an electronic transactions act in force since 2001, recognisi
 
 Sierra Leone's Electronic Transactions Act has been in force since 2019, but in July 2026 its enforcement was not fully set up.
 
+- The embassy's account lists an Electronic Transactions Act among Sierra Leone's enacted legislation, and says it is currently under review ([source, 2026-09-21](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)).
 - The UNECA digital trade profile names the Electronic Transactions Act of 2019 as a Sierra Leone framework carrying intermediary safe-harbour and consumer-protection provisions, though no general e-commerce law; the profile has no date, so its proxied publication year 2023 is used ([source, 2023](https://dtri.uneca.org/v1/uploads/country-profile/sle-country-profile-en.pdf)).
-- Sierra Loaded reports the Electronic Transactions Act, enacted in January 2019 by its account, gives legal recognition to electronic signatures, consumer protection and digital communications in courts ([source, 2019](https://sierraloaded.sl/news/government-activate-e-transactions-law/)).
 
 ### Sudan: 3 Established
 

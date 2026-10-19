@@ -17,12 +17,12 @@ EGY,3,inservice,,,EGY-003;EGY-002
 ERI,3,inservice,,,ERI-002;ERI-004
 ETH,3,inservice,,,ETH-002;ETH-003
 GAB,3,inservice,,,GAB-001;GAB-002
-GHA,3,inservice,,,GHA-002;GHA-003
+GHA,3,inservice,,,GHA-004;GHA-007
 GIN,3,inservice,,,GIN-001;GIN-003
 GMB,4,inservice,checked,,GMB-010
 GNB,3,inservice,,,GNB-003;GNB-001
-GNQ,3,inservice,,,GNQ-002;GNQ-001
-KEN,3,inservice,,,KEN-003;KEN-004
+GNQ,3,inservice,,,GNQ-001
+KEN,3,inservice,,,KEN-005;KEN-006
 LBR,3,inservice,,,LBR-008;LBR-005
 LBY,5,inservice,checked,certified,LBY-008
 LSO,3,inservice,,,LSO-007;LSO-008
@@ -31,7 +31,7 @@ MDG,4,inservice,checked,,MDG-008;MDG-015
 MLI,3,inservice,,,MLI-001;MLI-002
 MOZ,3,inservice,,,MOZ-004;MOZ-001
 MRT,3,inservice,,,MRT-001;MRT-003
-MUS,3,inservice,,,MUS-006;MUS-005
+MUS,3,inservice,,,MUS-005;MUS-004
 MWI,3,inservice,,,MWI-003;MWI-004
 NAM,3,inservice,,,NAM-004;NAM-006
 NER,3,inservice,,,NER-001;NER-002

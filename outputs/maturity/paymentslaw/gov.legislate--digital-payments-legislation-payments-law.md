@@ -320,6 +320,7 @@ Nigeria's central bank licenses mobile money operators and payment providers, re
 
 São Tomé and Príncipe's 2018 payment system law lets the central bank license non-bank providers; no rule requiring providers to connect is known.
 
+- The BCSTP licenses payment institutions, and has eased the documentation required of national entities seeking to formalise, since June 2023 and again for twelve months from January 2025 ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
 - Lei n.º 17/2018 (2018) lets the central bank BCSTP authorise and licence payment service providers, defined as any entity providing payment services including e-money issuance, separately from banks, which need no new authorisation for payment services but do need one to operate systems ([source, 2018-09-07](https://www.africa-laws.org/Saotome/banking%20and%20finance%20law/Law%20no%2017-2018%20%20Legal%20System%20of%20the%20National%20Payment%20System%20(in%20Portuguese).pdf)).
 - Lei n.º 03/2025, the central bank's organic law (published 5 June 2025, which is the date used), makes the Banco Central responsible for regulating and overseeing payment systems and lets its board adopt binding regulations and decide licences for payment systems and financial institutions; it replaces Lei n.º 08/92 and refers detailed payment rules to special legislation ([source, 2025-06-05](https://www.bcstp.st/Upload/Documentos/Gabinete_Governador/Lei_organica.pdf)).
 
@@ -422,6 +423,7 @@ Tanzania's 2015 National Payment Systems Act is in force and covers electronic m
 
 Zambia's 2007 National Payment Systems Act is in force; whether it licenses companies that are not banks is not known.
 
+- The Bank of Zambia issued binding directives on 14 September 2024 on charges and fees for electronic money services, with penalties for Electronic Money Institutions that violate them, Zambia Monitor reports ([source, 2024-09-14](https://www.zambiamonitor.com/bank-of-zambia-cracks-down-on-unwarranted-charges-for-electronic-money-services/)).
 - The Bank of Zambia's page says the National Payment Systems Act was enacted by parliament on 12 April 2007 to give legal backing to the operation of payment mechanisms in Zambia and to empower the Bank to regulate them ([source, 2007-04-12](https://www.boz.zm/national-payment-systems-act.htm)).
 
 ### Zimbabwe: 3 Established

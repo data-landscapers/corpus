@@ -31,8 +31,8 @@ MDG,3,in-force,,MDG-011;MDG-013
 MLI,4,in-force,used,MLI-006;MLI-001;MLI-007
 MOZ,3,in-force,,MOZ-003;MOZ-001
 MRT,3,in-force,,MRT-001
-MUS,3,in-force,,MUS-001;MUS-002
-MWI,3,in-force,,MWI-001
+MUS,3,in-force,,MUS-002;MUS-003
+MWI,3,in-force,,MWI-001;MWI-002
 NAM,2,bill,,NAM-001;NAM-002
 NER,4,in-force,used,NER-004;NER-002;NER-003
 NGA,4,in-force,used,NGA-014;NGA-005;NGA-013

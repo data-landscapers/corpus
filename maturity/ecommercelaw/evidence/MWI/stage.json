@@ -8,7 +8,7 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "MWI-001",
+   "stage_sources": "MWI-001;MWI-002",
    "gaps": "No source held names a decree, regulation or order made under the law.",
    "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
   }

@@ -238,7 +238,7 @@ def main(argv=None) -> int:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
         owned = owners_of(iso, study_lib.read_csv(os.path.join(base, iso, "systems.csv")), table)
         owned.update(fallback(iso, rows, owned, table, dataset))
-        cell = stage(rows, as_at, owned, iso)
+        cell = stage(rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at), owned, iso)
         if a.show and a.show == iso:
             for r in rows:
                 if r["aspect"] in ("centre", "state", "owner"):

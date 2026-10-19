@@ -4,7 +4,7 @@ BDI,3,two,,BDI-002
 BEN,4,independent,,BEN-001
 BFA,4,independent,,BFA-002
 BWA,4,independent,,BWA-002
-CAF,4,independent,,CAF-001;CAF-003
+CAF,4,independent,,CAF-003
 CIV,3,two,,CIV-007
 CMR,3,two,,CMR-006;CMR-004
 COD,5,independent,open,COD-001;COD-002
@@ -34,11 +34,11 @@ MRT,2,one,,MRT-001;MRT-004
 MUS,3,two,,MUS-001;MUS-003
 MWI,4,independent,,MWI-001;MWI-002
 NAM,3,two,,NAM-003;NAM-011
-NER,3,two,,NER-002;NER-001
+NER,2,one,,NER-001
 NGA,5,independent,open,NGA-025;NGA-026
 RWA,2,one,,RWA-001
 SDN,3,two,,SDN-004;SDN-001
-SEN,3,two,,SEN-003;SEN-004
+SEN,3,two,,SEN-004;SEN-005
 SLE,3,two,,SLE-003;SLE-001
 SOM,5,independent,open,SOM-005;SOM-006
 SSD,2,one,,SSD-001

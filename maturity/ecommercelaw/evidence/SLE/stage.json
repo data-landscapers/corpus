@@ -8,7 +8,7 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "SLE-005;SLE-001",
+   "stage_sources": "SLE-006;SLE-005",
    "gaps": "No source held names a decree, regulation or order made under the law.",
    "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
   }

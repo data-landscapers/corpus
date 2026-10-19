@@ -22,7 +22,7 @@ GIN,3,inservice,,,GIN-001
 GMB,3,inservice,,,GMB-004
 GNB,4,inservice,digital,,GNB-007;GNB-005
 GNQ,unplaced,,,,
-KEN,2,underway,,,KEN-002;KEN-003
+KEN,2,underway,,,KEN-003;KEN-001
 LBR,2,underway,,,LBR-002;LBR-001
 LBY,2,underway,,,LBY-002;LBY-003
 LSO,2,underway,,,LSO-004;LSO-002
@@ -39,7 +39,7 @@ NGA,2,underway,,,NGA-001;NGA-002
 RWA,5,inservice,digital,target,RWA-005;RWA-009
 SDN,2,underway,,,SDN-001;SDN-002
 SEN,3,inservice,,,SEN-006
-SLE,2,underway,,,SLE-003;SLE-001
+SLE,2,underway,,,SLE-001;SLE-002
 SOM,4,inservice,digital,,SOM-007;SOM-009
 SSD,no evidence,,,,
 STP,4,inservice,digital,,STP-003

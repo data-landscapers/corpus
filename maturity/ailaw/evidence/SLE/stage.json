@@ -8,7 +8,7 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "SLE-001",
+   "stage_sources": "SLE-001;SLE-002",
    "gaps": "",
    "note": "Counted from the four questions by study-ladder-ailaw.py."
   }

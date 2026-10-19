@@ -10,7 +10,7 @@ CMR,2,estimate:46.3,CMR-004
 COD,1,estimate:19.7,COD-005
 COG,2,estimate:47.3,COG-004
 COM,2,estimate:32.5,COM-004
-CPV,3,estimate:74.7,CPV-004
+CPV,3,survey:77.3,CPV-005
 DJI,3,estimate:65.3,DJI-005
 DZA,3,estimate:77.4,DZA-004
 EGY,3,estimate:74.6,EGY-004
@@ -33,7 +33,7 @@ MOZ,1,estimate:20.5,MOZ-006
 MRT,2,estimate:45.8,MRT-006
 MUS,3,survey:73.3,MUS-004
 MWI,1,estimate:19,MWI-005
-NAM,3,estimate:64.9,NAM-004
+NAM,3,survey:53,NAM-005
 NER,1,estimate:15.6,NER-004
 NGA,2,estimate:41.2,NGA-004
 RWA,2,estimate:31.7,RWA-008

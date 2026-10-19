@@ -1,5 +1,5 @@
 iso3,stage,service,published,reach,stage_sources
-AGO,2,underway,,,AGO-002;AGO-003
+AGO,2,underway,,,AGO-003;AGO-001
 BDI,2,underway,,,BDI-001
 BEN,2,underway,,,BEN-001
 BFA,5,inservice,scheduled,counted,BFA-002
@@ -46,7 +46,7 @@ STP,no evidence,,,,
 SWZ,3,inservice,,,SWZ-001
 SYC,no evidence,,,,
 TCD,3,inservice,,,TCD-001
-TGO,2,underway,,,TGO-001;TGO-002
+TGO,2,underway,,,TGO-002;TGO-003
 TUN,2,underway,,,TUN-002;TUN-001
 TZA,3,inservice,,,TZA-002
 UGA,2,underway,,,UGA-001;UGA-002

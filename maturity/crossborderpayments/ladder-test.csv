@@ -5,7 +5,7 @@ BEN,5,inservice,regional,reported,BEN-005
 BFA,4,inservice,regional,,BFA-002;BFA-003
 BWA,4,inservice,regional,,BWA-003
 CAF,4,inservice,regional,,CAF-001;CAF-007
-CIV,4,inservice,regional,,CIV-002;CIV-003
+CIV,4,inservice,regional,,CIV-003
 CMR,4,inservice,regional,,CMR-006;CMR-014
 COD,2,underway,,,COD-002;COD-001
 COG,4,inservice,regional,,COG-005;COG-008
@@ -17,7 +17,7 @@ EGY,5,inservice,regional,reported,EGY-011
 ERI,no evidence,,,,
 ETH,4,inservice,regional,,ETH-004;ETH-005
 GAB,4,inservice,regional,,GAB-004;GAB-012
-GHA,4,inservice,regional,,GHA-003;GHA-005
+GHA,3,inservice,,,GHA-006
 GIN,unplaced,,,,
 GMB,4,inservice,regional,,GMB-002;GMB-001
 GNB,4,inservice,regional,,GNB-002;GNB-005
@@ -35,7 +35,7 @@ MUS,4,inservice,regional,,MUS-002
 MWI,4,inservice,regional,,MWI-002
 NAM,4,inservice,regional,,NAM-001
 NER,4,inservice,regional,,NER-004;NER-002
-NGA,4,inservice,regional,,NGA-008;NGA-005
+NGA,4,inservice,regional,,NGA-005;NGA-001
 RWA,3,inservice,,,RWA-003
 SDN,2,underway,,,SDN-001
 SEN,4,inservice,regional,,SEN-002;SEN-003

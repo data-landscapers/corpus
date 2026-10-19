@@ -115,7 +115,7 @@ def main(argv=None) -> int:
         rows, changed = correct(study_lib.read_csv(path), [f for f in fixes if f["iso3"] == iso])
         if changed and not a.dry:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
-        cell = stage(iso, rows, as_at)
+        cell = stage(iso, rows, study_lib.counted_at(os.path.join(base, iso, "stage.json"), as_at))
         count[cell["stage"]] = count.get(cell["stage"], 0) + 1
         line = {"sub_indicator": SUB, "stage": cell["stage"], "cost": cell["cost"],
                 "cap": "", "flags": "", "stage_sources": ";".join(cell["sources"]),

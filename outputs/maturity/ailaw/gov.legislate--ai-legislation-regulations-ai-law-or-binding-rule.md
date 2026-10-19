@@ -216,6 +216,7 @@ A July 2024 diagnostic found no AI-specific legal text in Senegal; whether a dra
 The justice minister said in September 2026 that no specific AI legislation has been enacted; no draft is named.
 
 - Sierra Leone's attorney-general and justice minister Alpha Sesay told UNESCO in Riyadh that the country has established a position on AI but has not yet enacted specific AI legislation (meeting 2026-09-16, reported 2026-09-17) ([source, 2026-09-16](https://sierraloaded.sl/news/sierra-leone-unesco-governance-saudi-arabia/)).
+- Attorney-General Alpha Sesay told the 4th UNESCO Global Forum on the Ethics of AI that Sierra Leone has "no AI-specific statute at all" ([source, 2026-09-15](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/)).
 
 ### Somalia: 1 Absent
 

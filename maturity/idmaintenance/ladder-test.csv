@@ -15,14 +15,14 @@ DJI,3,national,,,DJI-001;DJI-002
 DZA,5,national,national,owned,DZA-003
 EGY,4,national,national,,EGY-001
 ERI,no evidence,,,,
-ETH,3,national,,,ETH-004;ETH-001
+ETH,3,national,,,ETH-005;ETH-002
 GAB,no evidence,,,,
 GHA,4,national,national,,GHA-002
 GIN,5,national,national,owned,GIN-001
 GMB,3,national,,,GMB-004;GMB-009
 GNB,3,national,,,GNB-001
 GNQ,3,national,,,GNQ-001
-KEN,3,national,,,KEN-001
+KEN,unplaced,,,,
 LBR,3,national,,,LBR-002
 LBY,3,national,,,LBY-002
 LSO,1,supplier,,,LSO-002
@@ -35,7 +35,7 @@ MUS,3,national,,,MUS-001
 MWI,3,national,,,MWI-002
 NAM,3,national,,,NAM-001;NAM-002
 NER,2,transfer,,,NER-001
-NGA,4,national,national,,NGA-002
+NGA,3,national,,,NGA-003;NGA-004
 RWA,3,national,,,RWA-001;RWA-002
 SDN,5,national,national,owned,SDN-002
 SEN,3,national,,,SEN-003;SEN-004
