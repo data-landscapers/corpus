@@ -115,7 +115,7 @@ Stale place or topic labels mean `outputs/vocab/` wants refreshing from OSINT's 
 ```bash
 python scripts/country.py         # every country -> site/countries/{ISO}/ finance tables + CSVs; index.html forwards to News
 python scripts/region.py          # every region  -> site/countries/{X__}/finance.html + CSVs; index.html forwards to News
-python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html
+python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html, a stub forwarding to its news
 ```
 
 **`topic-page.py` and `region.py` run after Step 2**, whose output they read. The finance CSVs are dated editions, written before the pages that link them by name.

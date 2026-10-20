@@ -1,5 +1,6 @@
 ## 20 October 2026
 
+- The boxes on the Topics page now open each topic's News page, and the topic landing pages are retired. Their old addresses forward to the News page, whose bar reaches the topic's Progress report.
 - The country and region report bars now keep the page you are on, in black, as the topic bars do. The full set of a place's reports stays in view from any one of them.
 - Topic reports open with a News · Progress bar, with the chapters moved below the title, and the topic Progress pages now share the News pages' head. A reader can switch between a topic's news and its progress, and move across chapters and topics, from either.
 - The progress reports are back for every country, region and topic, with the two progress tables, and Progress returns to the menu after Maturity. Maturity compares countries; Progress shows each country's own movement, and both stay.

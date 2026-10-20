@@ -45,7 +45,7 @@ The "commit anything outstanding" line runs **after** the gate: running it first
 
 `home.py` writes three pages from one set of catalogue counts — home, the country matrix, the taxonomy matrix. The topics page prints `lookups/taxonomy.csv` in its order and wording, so it goes stale when a subject is added there.
 
-**`topic-page.py`, `region.py` and `progress.py` run after Step 2** because each reads what Step 2 actually rendered: the landing page a topic box opens, a region's Reports section, an indicator row's bookmark inside a topic progress report.
+**`topic-page.py`, `region.py` and `progress.py` run after Step 2** because each reads what Step 2 actually rendered: the stub forwarding a retired topic page to the topic's news, a region's Reports section, an indicator row's bookmark inside a topic progress report.
 
 **`region.py` reuses `country.py`'s machinery** — report rows, the finance pivot, the catalogue cut. Regions differ in one thing: a region issues a monthly update and a progress report, never a status (`REPORT-REGION.md`). **`site/metadata/non-state-finance-metadata.csv` is one field dictionary for the whole site**, hand-maintained and undated because it describes a shape, not a finding; both builders refuse to build without it.
 

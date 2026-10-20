@@ -1,252 +1,51 @@
 #!/usr/bin/env python3
-"""topic-page.py — the landing page each topic box on the topics page opens.
+"""topic-page.py — forwards each retired `/topics/{slug}/` page to the topic's news.
 
-Every box on `/topics/` links to `/topics/{slug}/`. A directory is not a page: `site/topics/
-dpi-pay/` holds `dpi-pay-monthly.html`, `dpi-pay-progress.html` and their PDFs, and a link to the
-directory itself 404s. This writes the `index.html` that makes the link land somewhere — the same
-shape as a country's, and for the same reason: a place to choose a document from, with the two
-documents, their editions and their PDFs on it.
+**The topic landing pages are retired** *(Bill, 2026-10-20)*. Each was an index to the topic's
+two reports, and the report head's News · Progress bar now carries that, as the place pages'
+did before them (`country.py` → `retire_page`). The boxes on `/topics/` open the news page
+directly (`home.topic_href`). A stub rather than a deletion, because `/topics/{slug}/` is linked
+from pages already out; `sitemap.py` leaves a refresh page out of the sitemap.
 
-**The Level-1 category pages are not built any more** *(Bill, 2026-08-24)*. There were ten, one per
-category, written because each sub-topic row on the home page ended with an *All {category}* box
-pointing at `/topics/{l1}/`. That box has gone: it was the only link on the topics page that led to
-an index rather than to reports, and Level-1 roll-up reports are deliberately not built
-(`documentation/topic-reports.md` — the taxonomy is a strict single-parent tree, so a Level-1
-report is a later composition of the same material and costs nothing to defer). A page nothing
-links to, which exists to say that the thing it names does not exist, is not worth the ten files;
-`/topics/` itself lists every category and every topic beneath it, which is what those pages were
-for. The ten `site/topics/{l1}/index.html` were deleted in the same change.
-
-Nothing here reads a ledger or a source. It reads what BUILD wrote into `outputs/topics/` and what
-RENDER wrote into `site/topics/`, and links the two together.
+Nothing here reads a ledger or a source: only what BUILD wrote into `outputs/topics/`.
 
 Usage:
-  python scripts/topic-page.py            # 38 topic pages
+  python scripts/topic-page.py            # one stub per topic folder under site/topics/
 """
 import os
-import re
 import sys
-from datetime import date
-from html import escape as e
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import editions  # noqa: E402  — §9's filename grammar has one implementation
-import vault_lib  # noqa: E402
-from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
-from copy_lib import copy_inline  # noqa: E402
+from home import SITE_BASE, topic_href  # noqa: E402
 
-CORPUS = Path(__file__).resolve().parent.parent
-OUTPUTS = CORPUS / "outputs"
-SITE = CORPUS / "site"
-SITE_BASE = "https://corpus.data-landscapers.io"
-MAIN_SITE = "https://data-landscapers.io"
-
-MONTHS = ("January", "February", "March", "April", "May", "June",
-          "July", "August", "September", "October", "November", "December")
-
-L1 = {"infra": "ICT Infrastructure", "dpi": "Digital public infrastructure",
-      "gov": "Governance and regulation", "include": "Inclusion",
-      "tech": "Technology", "geopol": "Geopolitics", "capacity": "Capacity",
-      "digital": "Digitalisation", "data": "Data", "finance": "Finance"}
-
-KINDS = (("monthly", "News",
-          "What moved this month, place by place — every block carried from that place&rsquo;s own "
-          "news page."),
-         ("progress", "Progress report",
-          "Twelve months of movement, indicator by indicator — each indicator&rsquo;s own table "
-          "of the countries with evidence for it."))
+SITE = Path(__file__).resolve().parent.parent / "site"
 
 
-def front_matter(path: Path) -> dict:
-    out = {}
-    if not path.exists():
-        return out
-    text = path.read_text(encoding="utf-8")
-    if not text.startswith("---"):
-        return out
-    for line in text.split("\n---", 2)[0].split("\n")[1:]:
-        if ":" in line:
-            k, v = line.split(":", 1)
-            out[k.strip()] = v.strip()
-    return out
-
-
-def period_label(kind: str, period: str) -> str:
-    """A monthly is named by the month it opens in; a progress report states its window."""
-    if kind == "monthly":
-        m = re.match(r"(\d{4})-(\d{2})", period or "")
-        return f"{MONTHS[int(m.group(2)) - 1]} {m.group(1)}" if m else ""
-    return (period or "").replace(" to ", " &ndash; ")
-
-
-def edition_pdf(folder: Path, stem: str) -> str:
-    """The dated PDF this document's page is offering, or "".
-
-    **Read off the rendered page, not off the directory** *(2026-09-09)*. This globbed
-    `{stem}-20*.pdf` and took the newest by `editions.py`'s ordering, which was right while the
-    dated file was in the tree. Since the editions moved to R2 on 2026-09-08 and
-    `--prune-local` deletes the local copy, the glob matches nothing on any document that was
-    not re-cut by the run in progress — so a topic whose documents had not moved would have
-    silently lost its download links. `country.py` had the identical fault and lost its whole
-    Reports section to it.
-
-    The page carries the edition it was cut with in `data-edition`, is never pruned, and is
-    written by the same run that cut the PDF; the filename follows from it by `render.py`'s
-    own naming, and the Worker serves it from the bucket at that path."""
-    edition = editions.edition_on_page(folder / f"{stem}.html")
-    return f"{stem}-{edition}.pdf" if edition else ""
-
-
-def document_rows(slug_path: str) -> str:
-    src = OUTPUTS / "topics" / slug_path
-    out = SITE / "topics" / slug_path
-    rows = []
-    for kind, label, blurb in KINDS:
-        stem = f"{slug_path}-{kind}"
-        html = out / f"{stem}.html"
-        if not html.exists():
-            continue
-        meta = front_matter(src / f"{stem}.md")
-        places = len([p for p in (meta.get("places") or "").split(";") if p.strip()])
-        period = period_label(kind, meta.get("period", ""))
-        pdf = edition_pdf(out, stem)
-        bits = [f'{places} places'] if places else []
-        if period:
-            bits.append(period)
-        if meta.get("compiled"):
-            bits.append(f'compiled <span class="mono">{e(meta["compiled"])}</span>')
-        rows.append(f"""
-      <div class="report-row">
-        <div class="report-row__main">
-          <div class="report-row__kind">{label}</div>
-          <div class="report-row__blurb">{blurb}</div>
-          <div class="report-row__meta byline">{' &nbsp;·&nbsp; '.join(bits)}</div>
-        </div>
-        <div class="report-row__acts">
-          <a class="btn" href="{stem}.html">Read</a>
-          {f'<a class="btn btn--accent" href="{pdf}">&darr; PDF</a>' if pdf else ''}
-        </div>
-      </div>""")
-    if not rows:
-        return f'<p class="table-note">{copy_inline("topic", "no-documents")}</p>'
-    return "\n".join(rows)
-
-
-# The header and footer this file used to carry were deleted on 2026-08-24 and
-# come from `chrome_lib` now. They were a fourth variant of the site chrome: no
-# main-site row at all, a nav offering Home but neither Regions nor Method, and
-# a footer in prose where every other page carries the licence line. That is
-# exactly what `chrome_lib`'s own header note predicted would happen to a copy
-# nothing compares against — see documentation/archived/house-style-review-2026-08-24.md
-# §2. Nothing about the chrome belongs in this file.
-
-PAGE = """<!DOCTYPE html>
+def retire_page(out_dir: Path, url: str) -> None:
+    (out_dir / "index.html").write_text(f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{title} — Data Landscapers</title>
-<meta name="description" content="{description}">
-<link rel="canonical" href="{base}/topics/{path}/">
-{styles}
-<link rel="icon" href="{favicon}" type="image/svg+xml">
-<meta property="og:title" content="{title} — Data Landscapers">
-<meta property="og:description" content="{description}">
-<meta property="og:url" content="{base}/topics/{path}/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Data Landscapers">
-{ga}
+<title>Moved — Data Landscapers</title>
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={url}">
+<link rel="canonical" href="{url}">
 </head>
 <body>
-<div class="site-wrap">
-
-{chrome}
-
-  <main id="main">
-  <div class="container">
-
-    <header class="article-header article-header--norule">
-      <div class="article-header__crumb"><a href="{base}/topics/">Topics</a> &nbsp;/&nbsp; {crumb}</div>
-      {feedback}
-      <h1 class="article-header__title">{title}</h1>
-      <div class="article-header__byline">{meta}</div>
-    </header>
-
-{body}
-
-  </div>
-  </main>
-
-{foot}
-
-</div>
+<p>This page has moved <a href="{url}">here</a>.</p>
 </body>
 </html>
-"""
-
-TOPIC_BODY = """    <h2 class="section-heading">Documents</h2>
-{rows}
-
-    <h2 class="section-heading">How to read these</h2>
-    <p>{how_to_read}</p>
-    <p>Where a place has nothing on record for this topic in the period, it has no section: an
-       absent heading means no evidence held, not nothing happening. The place&rsquo;s own report
-       is the fuller account &mdash; <a href="{base}/countries/">browse by country</a>.</p>
-"""
-
-
-def write(path: str, title: str, description: str, crumb: str, meta: str, body: str) -> Path:
-    out_dir = SITE / "topics" / path
-    out_dir.mkdir(parents=True, exist_ok=True)
-    dst = out_dir / "index.html"
-    dst.write_text(external_links(PAGE.format(
-        feedback=feedback(title, f"{SITE_BASE}/topics/{path}/"),
-        base=SITE_BASE, path=path, title=e(title), description=e(description),
-        crumb=crumb, meta=meta, body=body,
-        favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        styles=styles(2, "country.css"), ga=ga(),
-        chrome=chrome("topics", depth=2),
-        foot=foot(depth=2),
-    )), encoding="utf-8")
-    return dst
-
-
-def taxonomy_path() -> Path:
-    """The vocabulary snapshot, never OSINT's `lookups/`.
-
-    RENDER runs from the repo root and must never have to read outside `outputs/` — which is why
-    stage 1 of the build snapshots the vocabularies into `outputs/vocab/` in the first place.
-    `vault_lib.load_taxonomy()`'s default resolves to `ROOT/lookups/`, which does not exist here,
-    so the path is passed rather than defaulted."""
-    for p in (OUTPUTS / "vocab" / "taxonomy.md", CORPUS / "outputs" / "vocab" / "taxonomy.md"):
-        if p.exists():
-            return p
-    raise SystemExit("no taxonomy snapshot: run `python scripts/rebuild.py --vocab` first")
+""", encoding="utf-8", newline="")
 
 
 def main() -> int:
-    _, label, _ = vault_lib.load_taxonomy(str(taxonomy_path()))
-    built = date.today().isoformat()
     wrote = 0
-
-    for slug in sorted(label):
-        path = slug.replace(".", "-")
-        if not (SITE / "topics" / path).is_dir():
-            print(f"  {slug}: nothing rendered under site/topics/{path}/ — skipped")
-            continue
-        cat = L1.get(slug.split(".")[0], slug.split(".")[0])
-        write(path, label[slug],
-              f"{label[slug]} across Africa: news compiled place by place and progress "
-              f"reports compiled indicator by indicator from the Data Landscapers base.",
-              e(label[slug]),
-              f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '
-              f'&nbsp;·&nbsp; page built {built}',
-              TOPIC_BODY.format(rows=document_rows(path), base=SITE_BASE,
-                                how_to_read=copy_inline("topic", "how-to-read")))
+    for folder in sorted(p for p in (SITE / "topics").iterdir() if p.is_dir()):
+        # A topic with no report forwards to the topics page, which lists it.
+        retire_page(folder, topic_href(folder.name) or f"{SITE_BASE}/topics/")
         wrote += 1
-
-    print(f"topic pages: {wrote} written -> site/topics/")
+    print(f"topic pages: {wrote} forwarded -> site/topics/")
     return 0
 
 

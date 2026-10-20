@@ -34,11 +34,10 @@ page is right today and needs no rewrite when the file lands.
 country and region boxes sum to more than the document total — they measure
 coverage, not documents, and the caveat travels with them on the page.
 
-Country and region boxes link to the place's news page (`box_href`), and topic boxes to
-`{SITE_BASE}/topics/{slug-with-hyphens}/` regardless of whether those pages exist yet —
-pull exhaustively, publish selectively (documentation/design.md §8): the box is accurate
-about what the base holds even before the page that would serve it is
-written.
+Country and region boxes link to the place's news page (`box_href`), and topic boxes to the topic's
+news page (`topic_href`). A box prints whether or not a page serves it — pull exhaustively,
+publish selectively (documentation/design.md §8): the box is accurate about what the base
+holds even before the page that would serve it is written.
 """
 
 from __future__ import annotations
@@ -171,6 +170,17 @@ def box_href(code: str) -> str:
     return f"{SITE_BASE}/catalogue/#places={code}"
 
 
+def topic_href(slug: str) -> str | None:
+    """Where a topic box goes: **the topic's news page** *(Bill, 2026-10-20)*, its progress
+    report where it issues no news, or nowhere where it issues neither. The topic landing pages
+    are retired (`topic-page.py`)."""
+    s = slug.replace(".", "-")
+    for kind in ("monthly", "progress"):
+        if (OUTPUTS / "topics" / s / f"{s}-{kind}.md").exists():
+            return f"{SITE_BASE}/topics/{s}/{s}-{kind}.html"
+    return None
+
+
 def country_boxes(by_place: dict[str, int]) -> str:
     """Shaded by volume, so an uneven base looks uneven at a glance rather than
     presenting as even coverage. Every box links to the country's news page
@@ -255,7 +265,7 @@ def topic_grid(by_topic: dict[str, int]) -> str:
     nobody will read it as a way in. The category pages `topic-page.py` writes are
     left alone; nothing links to them from here now.
 
-    Boxes are shaded within their own row and open `/topics/{key-subject}/`. The
+    Boxes are shaded within their own row and open the topic's news page. The
     dot survives in the vocabulary, where it means something, and not in the path,
     where it reads as an extension — so `dpi.pay` links as `dpi-pay`."""
     order: list[str] = []
@@ -286,18 +296,18 @@ def topic_grid(by_topic: dict[str, int]) -> str:
         # means the label needs every line but the first at full width, or three
         # of the taxonomy's labels run to three lines.
         #
-        # **A box is a link only where there is a page behind it.** `topic-page.py`
-        # writes one directory per taxonomy subject, so a slug the catalogue holds
-        # and the taxonomy does not has no page and never will — linking it puts a
-        # 404 on a published page. The box still prints, with its real count, which
-        # is what the paragraph above asks for; only the anchor goes.
+        # **A box is a link only where there is a page behind it**: the topic's news
+        # (`topic_href`). A slug with no report, or one the catalogue holds and the
+        # taxonomy does not, has no page — linking it puts a 404 on a published page.
+        # The box still prints, with its real count, which is what the paragraph
+        # above asks for; only the anchor goes.
         def box(s: str) -> str:
             inner = (f'<span class="sbox__n">{by_topic.get(s, 0):,}</span>'
                      f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span>')
             attrs = f'title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}"'
-            if s in known:
-                return (f'      <a class="sbox" href="{SITE_BASE}/topics/'
-                        f'{s.replace(".", "-")}/" {attrs}>{inner}</a>')
+            href = topic_href(s) if s in known else None
+            if href:
+                return f'      <a class="sbox" href="{href}" {attrs}>{inner}</a>'
             return f'      <span class="sbox sbox--nopage" {attrs}>{inner}</span>'
 
         boxes = [box(s) for s in slugs]
@@ -593,9 +603,8 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
 def build_topics() -> Path:
     """`site/topics/index.html` — the taxonomy, with counts, on a page of its own.
 
-    Written into the directory that already holds the 48 topic and category
-    folders `topic-page.py` builds, so `/topics/` resolves and every
-    `/topics/{slug}/` goes on resolving beneath it. `ntopics` counts the
+    Written into the directory that holds the topic folders, so `/topics/`
+    resolves; the retired `/topics/{slug}/` beneath it forward (`topic-page.py`). `ntopics` counts the
     taxonomy rather than the catalogue's distinct topics: the page prints a box
     per subject in the file, so the count in the page description and the number
     of boxes are the same number, which they were not while one counted what had
