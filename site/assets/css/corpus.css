@@ -265,8 +265,9 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 }
 @media print { .place-switch { display: none; } }
 .report-siblings { margin: 0; }
-/* A topic monthly's chapter and topic bars link pages, and mark the one the reader is in. */
-.report-head .article-toc a[aria-current] { color: var(--ink); font-weight: 700; }
+/* A bar of sibling pages marks the one the reader is in, in black: report bars,
+   and the finance, progress and hosting views (Bill, 2026-10-20). */
+.article-toc a[aria-current] { color: var(--ink); font-weight: 700; }
 /* A topic monthly's places, in green (Bill, 2026-10-20). */
 .topic-places a { color: var(--green); }
 .monthly-toc { margin-bottom: 1.5rem; gap: 0.4rem 0.35rem; }
