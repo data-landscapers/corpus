@@ -1,5 +1,6 @@
 ## 20 October 2026
 
+- The line above each country, region and topic report's title, naming the place or topic, is now larger and darker. The title beneath it leaves the place or topic out, so this line is what says whose report it is.
 - The boxes on the Topics page now open each topic's News page, and the topic landing pages are retired. Their old addresses forward to the News page, whose bar reaches the topic's Progress report.
 - The country and region report bars now keep the page you are on, in black, as the topic bars do. The full set of a place's reports stays in view from any one of them.
 - Topic reports open with a News · Progress bar, with the chapters moved below the title, and the topic Progress pages now share the News pages' head. A reader can switch between a topic's news and its progress, and move across chapters and topics, from either.

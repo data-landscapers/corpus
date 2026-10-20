@@ -247,15 +247,17 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 /* The place's reports, above the title: a kicker, a rule, the links, a rule. */
 .report-family { margin-top: 2rem; }
 .report-family__kicker {
-  font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase;
-  letter-spacing: 0.1em; color: var(--ink-faint);
+  /* Larger and darker than a kicker (Bill, 2026-10-20): it names the place or topic the title
+     below leaves out, so the title is not understood without it. */
+  font-family: var(--mono); font-size: 0.95rem; font-weight: 500; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--ink-light);
   border-bottom: 1px solid var(--rule);
   padding-bottom: 0.6rem; margin-bottom: 0.7rem;
   display: flex; justify-content: space-between; align-items: center;
   flex-wrap: wrap; gap: 0.4rem 1rem;
 }
 /* "Change country", the kicker's right end (Bill, 2026-10-17). */
-.place-switch { display: inline-flex; align-items: center; gap: 0.5rem; }
+.place-switch { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.72rem; font-weight: 400; color: var(--ink-faint); }
 .place-switch select {
   font: inherit; text-transform: none; letter-spacing: 0; color: var(--ink);
   background: var(--paper); border: 1px solid var(--rule); border-radius: 3px;
