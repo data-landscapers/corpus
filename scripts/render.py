@@ -459,8 +459,8 @@ def family_page(unit: str, kind: str) -> tuple[str, Path]:
 
 def report_family(md_path: Path, kind: str, meta: dict) -> str:
     subject = (meta.get("subject") or "").strip()
-    if tree_of(md_path) == "topics" and kind == "monthly" and subject:
-        return topic_family(subject)
+    if tree_of(md_path) == "topics" and kind in TOPIC_KINDS and subject:
+        return topic_family(subject, kind)
     unit = (meta.get("place") or "").strip()
     if kind not in FAMILY_PAGES or not unit or tree_of(md_path) != "reports":
         return ""
@@ -509,14 +509,18 @@ def place_switch(unit: str, kind: str) -> str:
             + "".join(opts) + "</select></label>")
 
 
-# **A topic monthly wears the place reports' head** *(Bill, 2026-10-20)*: "Topic reports:
-# {topic}", then the taxonomy's Level-1 chapters where a place has its other reports, the title,
-# the chapter's topics where a place has its sections, and the places under that. The chapters
-# and topics are pages, not anchors, so they are built here as chrome and stay out of the source:
-# a topic that starts issuing changes its siblings' bars without moving their material.
-def topic_pages() -> tuple[list[tuple[str, list[tuple[str, str]]]], dict]:
+# **A topic report wears the place reports' head** *(Bill, 2026-10-20)*: "Topic reports:
+# {topic}", then the topic's reports, News and Progress, where a place has its other reports;
+# the title; the taxonomy's Level-1 chapters, then the chapter's topics, under it; and the
+# places or indicators in the body. The chapters and topics are pages, not anchors, so they are
+# built here as chrome and stay out of the source: a topic that starts issuing changes its
+# siblings' bars without moving their material. Each bar links within the reader's own kind.
+TOPIC_KINDS = {"monthly": "News", "progress": "Progress"}
+
+
+def topic_pages(kind: str = "monthly") -> tuple[list[tuple[str, list[tuple[str, str]]]], dict]:
     """([(chapter, [(slug, label)])], {slug: url}) — the taxonomy in its own order, and the
-    topics that have a monthly to link to."""
+    topics that have a report of this kind to link to."""
     # `lookups/taxonomy.csv`, the display vocabulary: its order is the one the lookups page shows.
     import taxonomy_lib
     label, l1_of = taxonomy_lib.labels(), taxonomy_lib.level1s()
@@ -526,8 +530,8 @@ def topic_pages() -> tuple[list[tuple[str, list[tuple[str, str]]]], dict]:
     urls = {}
     for slug in label:
         s = slug.replace(".", "-")
-        if (CORPUS / "outputs" / "topics" / s / f"{s}-monthly.md").exists():
-            urls[slug] = f"{SITE_BASE}/topics/{s}/{s}-monthly.html"
+        if (CORPUS / "outputs" / "topics" / s / f"{s}-{kind}.md").exists():
+            urls[slug] = f"{SITE_BASE}/topics/{s}/{s}-{kind}.html"
     return list(chapters.items()), urls
 
 
@@ -539,24 +543,34 @@ def topic_nav(items: list[tuple[str, str, bool]], cls: str, aria: str) -> str:
     return f'<nav class="article-toc {cls}" aria-label="{aria}">\n{links}\n</nav>\n'
 
 
-def topic_family(subject: str) -> str:
-    chapters, urls = topic_pages()
-    here = next((c for c, topics in chapters if subject in dict(topics)), "")
+def topic_family(subject: str, kind: str) -> str:
+    chapters, _ = topic_pages()
     name = dict(t for _, topics in chapters for t in topics).get(subject, subject)
-    bar = topic_nav([(c, urls[first], c == here) for c, topics in chapters
-                     for first in [next((s for s, _ in topics if s in urls), None)] if first],
-                    "report-siblings", "Topic chapters")
+    s = subject.replace(".", "-")
+    bar = topic_nav([(label, f"{SITE_BASE}/topics/{s}/{s}-{k}.html", k == kind)
+                     for k, label in TOPIC_KINDS.items()
+                     if (CORPUS / "outputs" / "topics" / s / f"{s}-{k}.md").exists()],
+                    "report-siblings", f"Reports for {name}")
     return ('<div class="report-family">\n'
             f'<div class="report-family__kicker"><span>Topic reports: {name}</span></div>\n'
             f'{bar}</div>\n')
 
 
-def topic_bar(subject: str) -> str:
-    """The chapter's topics, in the place of a place report's sections bar."""
-    chapters, urls = topic_pages()
-    chapter, topics = next(((c, t) for c, t in chapters if subject in dict(t)), ("", []))
-    return topic_nav([(lbl, urls[s], s == subject) for s, lbl in topics if s in urls],
-                     "monthly-toc", f"Topics in {chapter}")
+def topic_bar(subject: str, kind: str) -> str:
+    """The chapters, then the chapter's topics, in the place of a place report's sections bar."""
+    chapters, urls = topic_pages(kind)
+    here, topics = next(((c, t) for c, t in chapters if subject in dict(t)), ("", []))
+    return (topic_nav([(c, urls[first], c == here) for c, ts in chapters
+                       for first in [next((s for s, _ in ts if s in urls), None)] if first],
+                      "monthly-toc topic-chapters", "Topic chapters")
+            + topic_nav([(lbl, urls[s], s == subject) for s, lbl in topics if s in urls],
+                        "monthly-toc", f"Topics in {here}"))
+
+
+def after_standfirst(html: str, insert: str) -> str:
+    """`insert` under the opening standfirst, or first if there is none."""
+    lead = re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)', html, re.S)
+    return (lead.group(1) + insert + html[lead.end():]) if lead else insert + html
 
 
 def contents_bar(html: str) -> str:
@@ -847,22 +861,27 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
     pre_header = report_family(md_path, kind, meta)
     if pre_header and tree_of(md_path) == "topics":
-        html_body = topic_bar(meta["subject"].strip()) + html_body
+        # A topic progress report's indicators sit in the body, where the monthly's places do.
+        bars = topic_bar(meta["subject"].strip(), kind)
+        if kind == "progress":
+            bars += contents_bar(html_body).replace(
+                'class="article-toc"', 'class="article-toc monthly-subnav"', 1)
+        html_body = after_standfirst(html_body, bars)
     if kind in ("status", "monthly", "progress", "finance", "hosting") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
             bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)
         if bar:
-            lead =re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)',
-                            html_body, re.S)
-            html_body = (lead.group(1) + bar + html_body[lead.end():]) if lead \
-                else bar + html_body
+            html_body = after_standfirst(html_body, bar)
 
     title = meta.get("title") or h1 or md_path.stem
     # Under the family heading the place is already named, so the hand-authored status report,
     # which has no H1 of its own, is titled by its kind alone. The tab keeps `title`.
     if pre_header and not h1:
         h1 = KIND_LABEL.get(kind) or None
+    # The topic is in the kicker, so its progress report is titled as its News is: "Progress, …".
+    if pre_header and h1 and tree_of(md_path) == "topics" and kind == "progress":
+        h1 = re.sub(r"^.*?:\s*progress report,\s*", "Progress, ", h1)
     # The HTML permalink carries no period *(Bill, 2026-08-13)*: `AGO-monthly.html`,
     # not `AGO-monthly-2026-07.html`. The HTML is always the current document, so a
     # period in its name is a contradiction — it would freeze a permanent URL to one
@@ -1042,7 +1061,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         lead = re.match(r'\A\s*<div class="report-standfirst">(.*?)</div>\s*', html_body, re.S)
         if lead:
             html_body = html_body[lead.end():]
-        toc = re.search(r'<nav class="article-toc monthly-toc".*?</nav>\s*', html_body, re.S)
+        toc = re.search(r'(?:<nav class="article-toc monthly-toc[^"]*".*?</nav>\s*)+', html_body, re.S)
         if toc:
             html_body = html_body[:toc.start()] + html_body[toc.end():]
         head_open = '<div class="report-head">\n'

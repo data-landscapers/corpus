@@ -1,5 +1,6 @@
 ## 20 October 2026
 
+- Topic reports open with a News · Progress bar, with the chapters moved below the title, and the topic Progress pages now share the News pages' head. A reader can switch between a topic's news and its progress, and move across chapters and topics, from either.
 - The progress reports are back for every country, region and topic, with the two progress tables, and Progress returns to the menu after Maturity. Maturity compares countries; Progress shows each country's own movement, and both stay.
 - Topic News pages take the country reports' form: each opens with the topic's chapter, a bar of every chapter, the title, the chapter's topics and its countries in green. Their stories are listed as in the country News pages, with headline, publisher, date and summary, and are current again.
 
