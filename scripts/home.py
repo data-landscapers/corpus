@@ -6,7 +6,7 @@
                              ->  site/topics/index.html      (the taxonomy matrix)
 
 **The home page is one screen mapping the site** *(Bill, 2026-10-20)*: the
-masthead without the Corpus nav row, a banner, then News, Reports and Datasets
+masthead and Corpus nav row, a banner, then News, Reports and Datasets
 as rounded boxes of links (`TEMPLATE`, styled by `home.css`). It replaced the
 stat bar and the run of section intros that stood there since 2026-08-11.
 
@@ -301,7 +301,7 @@ def topic_grid(by_topic: dict[str, int]) -> str:
 
 # **The home page is a map of the site** *(Bill, 2026-10-20)*: the masthead, then one screen of
 # rounded boxes, News, Reports and Datasets, each linking to what it names. It replaced the
-# stat bar and the run of section intros, and it carries no Corpus nav row because it is one.
+# stat bar and the run of section intros; the Corpus nav row stays above it.
 # The sample links (Algeria's news, Angola's status, Benin's progress) are Bill's choice.
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -400,18 +400,18 @@ TEMPLATE = """<!DOCTYPE html>
   </main>
   <script>
     // The vh-scaled sizes fit most screens; this catches the rest by stepping the
-    // root font size down until the map no longer overflows (floor 75%).
+    // map's font size down until it no longer overflows (floor 75%); the masthead keeps its size.
     (function () {{
-      var root = document.documentElement, cols = document.querySelectorAll('.col');
+      var map = document.getElementById('main'), cols = document.querySelectorAll('.col');
       function over() {{
         for (var i = 0; i < cols.length; i++) if (cols[i].scrollHeight > cols[i].clientHeight + 1) return true;
         return false;
       }}
       function fit() {{
-        root.style.fontSize = '';
+        map.style.fontSize = '';
         if (getComputedStyle(document.querySelector('.site-wrap')).overflow !== 'hidden') return;
         for (var pct = 100; pct > 75 && over(); pct -= 2.5) {{
-          root.style.fontSize = pct - 2.5 + '%';
+          map.style.fontSize = pct - 2.5 + '%';
         }}
       }}
       fit();
@@ -664,12 +664,10 @@ def build() -> Path:
     ntopics = sum(1 for slug in taxonomy_lib.keys()
                   if (OUTPUTS / "topics" / slug.replace(".", "-")
                       / f"{slug.replace('.', '-')}-monthly.md").exists())
-    # The map is the Corpus navigation, so the page takes the masthead without the nav row.
-    head = re.sub(r'\n\s*<nav class="corpus-nav.*?</nav>\n?', "\n", chrome(None, depth=0), flags=re.S)
     doc = TEMPLATE.format(
         base=SITE_BASE, favicon=f"{MAIN_SITE}/assets/favicon.svg",
         catalogue_n=catalogue_n, ntopics=ntopics,
-        chrome=head, foot=foot(depth=0),
+        chrome=chrome(None, depth=0), foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
     )
     SITE.mkdir(parents=True, exist_ok=True)

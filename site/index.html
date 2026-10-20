@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://corpus.data-landscapers.io/">
 <link rel="stylesheet" href="assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="assets/css/corpus.css?v=0c335593">
-<link rel="stylesheet" href="assets/css/home.css?v=dfbcee40">
+<link rel="stylesheet" href="assets/css/home.css?v=6b06c2c3">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="Corpus — Data Landscapers">
 <meta property="og:description" content="Real-time research on African digital transformation.">
@@ -92,6 +92,18 @@
     </div>
   </header>
 
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/maturity/">Maturity</a>
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
   <main id="main" class="map">
 
     <header class="map__head">
@@ -169,18 +181,18 @@
   </main>
   <script>
     // The vh-scaled sizes fit most screens; this catches the rest by stepping the
-    // root font size down until the map no longer overflows (floor 75%).
+    // map's font size down until it no longer overflows (floor 75%); the masthead keeps its size.
     (function () {
-      var root = document.documentElement, cols = document.querySelectorAll('.col');
+      var map = document.getElementById('main'), cols = document.querySelectorAll('.col');
       function over() {
         for (var i = 0; i < cols.length; i++) if (cols[i].scrollHeight > cols[i].clientHeight + 1) return true;
         return false;
       }
       function fit() {
-        root.style.fontSize = '';
+        map.style.fontSize = '';
         if (getComputedStyle(document.querySelector('.site-wrap')).overflow !== 'hidden') return;
         for (var pct = 100; pct > 75 && over(); pct -= 2.5) {
-          root.style.fontSize = pct - 2.5 + '%';
+          map.style.fontSize = pct - 2.5 + '%';
         }
       }
       fit();
