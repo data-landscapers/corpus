@@ -14,10 +14,10 @@
 (function () {
   var head = document.querySelector('.report-head');
   if (!head) return;
-  var root = document.documentElement;
+  var root = document.documentElement, top = 0;
 
   function place() {
-    var top = 0;
+    top = 0;
     ['.site-header', '.corpus-nav'].forEach(function (sel) {
       var el = document.querySelector(sel);
       if (el && getComputedStyle(el).position === 'sticky') top += el.offsetHeight;
@@ -28,10 +28,66 @@
     root.style.setProperty('--report-head-clear', (top + head.offsetHeight + 12) + 'px');
   }
 
+  /* A status report's head carries a third bar, the topics of each section
+     (Bill, 2026-10-20). Show the group for the section in view and mark that
+     section and topic as current, which the house style puts in black. The bar
+     is held at its tallest group's height so a swap never moves the page. */
+  var bar = head.querySelector('.status-topics');
+  var sections = head.querySelector('nav[aria-label="Sections in this report"]');
+  var groups = bar ? bar.querySelectorAll('.status-topics__group') : [];
+  var heads = document.querySelectorAll('.article-body h2[id], .article-body h3[id]');
+
+  function mark(nav, id) {
+    if (!nav) return;
+    nav.querySelectorAll('a[aria-current]').forEach(function (a) { a.removeAttribute('aria-current'); });
+    var a = id && nav.querySelector('a[href="#' + id + '"]');
+    if (a) a.setAttribute('aria-current', 'true');
+  }
+
+  function hold() {
+    var tallest = 0;
+    bar.style.minHeight = '';
+    var shown = [].filter.call(groups, function (g) { return !g.hidden; });
+    groups.forEach(function (g) {
+      groups.forEach(function (o) { o.hidden = o !== g; });
+      tallest = Math.max(tallest, bar.offsetHeight);
+    });
+    groups.forEach(function (g) { g.hidden = shown.indexOf(g) < 0; });
+    bar.style.minHeight = tallest + 'px';
+  }
+
+  var chapter = null;
+  function spy() {
+    // Below the pinned head, or below the site chrome where the head is not pinned.
+    var line = Math.max(head.getBoundingClientRect().bottom, top) + 16, h2 = null, h3 = null;
+    heads.forEach(function (h) {
+      if (h.getBoundingClientRect().top > line) return;
+      if (h.tagName === 'H2') { h2 = h; h3 = null; } else { h3 = h; }
+    });
+    var id = h2 ? h2.id : (heads[0] && heads[0].id);
+    if (id !== chapter) {
+      chapter = id;
+      groups.forEach(function (g) { g.hidden = g.getAttribute('data-chapter') !== id; });
+      mark(sections, id);
+    }
+    mark(bar, h3 && h3.id);
+  }
+
+  if (bar && groups.length) {
+    hold();
+    spy();
+    var ticking = false;
+    window.addEventListener('scroll', function () {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(function () { ticking = false; spy(); });
+    }, { passive: true });
+  }
+
   place();
   var pending;
   window.addEventListener('resize', function () {
     clearTimeout(pending);
-    pending = setTimeout(place, 120);
+    pending = setTimeout(function () { if (bar && groups.length) hold(); place(); }, 120);
   });
 })();

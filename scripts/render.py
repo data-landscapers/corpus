@@ -588,6 +588,29 @@ def contents_bar(html: str) -> str:
             f"{links}\n</nav>\n")
 
 
+def topics_bar(html: str) -> str:
+    """The `<h3>`s under each `<h2>`, one hidden group a section, for the status report's head.
+
+    **A third tier in the pinned head** *(Bill, 2026-10-20)*: `report-head.js` shows the group
+    for the section in view and marks the section and topic being read. Every group starts
+    hidden, so with the script blocked the head is the two bars it was. Screen only: the PDF has
+    no section in view."""
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    groups, chapter = [], None
+    for m in re.finditer(r'<h([23]) id="([^"]+)">(.*?)</h\1>', html, re.S):
+        text = re.sub(r"<[^>]+>", "", m.group(3)).strip()
+        if m.group(1) == "2":
+            chapter = (m.group(2), [])
+            groups.append(chapter)
+        elif chapter:
+            chapter[1].append(f'<a href="#{m.group(2)}">{text}</a>')
+    spans = "\n".join(f'<span class="status-topics__group" data-chapter="{anchor}" hidden>'
+                      + f"\n{sep}\n".join(links) + "</span>"
+                      for anchor, links in groups if links)
+    return ('<nav class="article-toc monthly-toc status-topics screen-only" '
+            f'aria-label="Topics in this section">\n{spans}\n</nav>\n') if spans else ""
+
+
 def promote_key(html: str) -> str:
     return re.sub(
         r"<p>(<strong>Status values\.</strong>.*?)</p>",
@@ -873,6 +896,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
             bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)
+            if kind == "status":
+                bar += topics_bar(html_body)
         if bar:
             html_body = after_standfirst(html_body, bar)
 
