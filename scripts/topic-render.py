@@ -11,14 +11,12 @@ script is that note, executed.
 
 What the document carries:
 
-  monthly    every `<!-- narrative: {section}--{subject} -->` block a place's monthly holds for
-             this subject, verbatim, under a `## {place}` heading. **Every** one, not the first: a
-             subject may sit in more than one section of a place's report — the ledger carries a
-             per-row `section` and five units override it, putting BEN's `gov.regional` in four
-             sections at once — so the blocks are matched on the subject half of the key and
-             printed in document order under the one place heading. Matching on the key is also
-             what makes the section irrelevant here: no section map is consulted and no key is
-             guessed.
+  monthly    every `### {topic}` block of story cards a place's monthly holds for this subject,
+             verbatim, under a `## {place}` heading. **Every** one, not the first: a subject may
+             sit in more than one section of a place's report — the ledger carries a per-row
+             `section` and five units override it — so the blocks are matched on the topic
+             heading and printed in document order under the one place heading. No section map
+             is consulted.
 
 Usage:
   python scripts/topic-render.py                 write every slug's documents
@@ -32,6 +30,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import taxonomy_lib  # noqa: E402
 import vault_lib  # noqa: E402
 
 _spec = importlib.util.spec_from_file_location(
@@ -45,9 +44,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
 TOPICS = os.path.join(ROOT, "outputs", "topics")
-
-PLACEHOLDER = "_(narrative not yet written)_"
-
 
 def slug_path(subject):
     """`dpi.pay` -> `dpi-pay`. The dot survives in the vocabulary, where it means something, and
@@ -89,24 +85,43 @@ def document(unit, kind):
     return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
 
 
+HEADING = re.compile(r"^(#{2,3}) (.+)$", re.M)
+CARD = re.compile(r'<div class="bulletin-item" markdown="1">\n\n(.+?)\n\n.*?</div>\n', re.S)
+XREF = re.compile(r'<div class="bulletin-item bulletin-item--xref" markdown="1">\n\n(.+?)\n\n'
+                  r'Summarised under .*?</div>\n', re.S)
+EMPTY_STORY = re.compile(r'<div class="monthly-story" markdown="1">\n\n'
+                         r'<p class="monthly-story__name">[^<]*</p>\s*</div>\n')
+
+
 def monthly_blocks(text, subject):
-    """[(key, body)] — every narrative block in this document for this subject, in document order.
+    """[body] — every `### {topic}` block this place's monthly holds, in document order.
 
-    Matched on the subject half of the key, so a section override changes nothing here: BEN's
-    `gov.policy` prose sits under `dpi--gov-policy` and `infrastructure--gov-policy`, and both are
-    this subject's. An empty block, or one still carrying the old placeholder, is not carried — it
-    would publish a heading with nothing under it, and check L already counts it where it lives."""
-    tail = f"--{slug_path(subject)}"
-    out = []
-    for key, body in rr.MARKER.findall(text):
-        if not key.endswith(tail):
+    **Lifted by heading, not by marker** *(2026-10-20)*. The place monthly carried a
+    `<!-- narrative: section--subject -->` block per subject until 2026-10-16, when it became story
+    cards under `### {topic}` headings and this matched nothing, so no topic report was issued.
+    A subject may still sit in more than one section of a place's report, so every block under its
+    heading is taken. A card summarised under another topic of the same report is a link to an
+    anchor this page does not have, so the full card it points to stands in for it, once."""
+    label = taxonomy_lib.label(subject)
+    home = {m.group(1): m.group(0) for m in CARD.finditer(text)}
+    parts = HEADING.split(text)
+    out, seen = [], set()
+    # `split` with two groups gives [lead, hashes, title, body, hashes, title, body, ...].
+    for i in range(1, len(parts) - 2, 3):
+        if parts[i] != "###" or parts[i + 1].strip() != label:
             continue
-        body = body.strip()
-        if not body or body == PLACEHOLDER:
-            continue
-        out.append((key, body))
+
+        def card(m):
+            head = m.group(1)
+            if head in seen:
+                return ""
+            seen.add(head)
+            return home.get(head, "") if m.re is XREF else m.group(0)
+        body = CARD.sub(card, XREF.sub(card, parts[i + 2]))
+        body = EMPTY_STORY.sub("", body).strip()
+        if body:
+            out.append(body)
     return out
-
 
 
 def period_of(texts):
@@ -129,7 +144,7 @@ def period_of(texts):
     return f"{min(starts)} to {max(closes)}", False
 
 
-def span_label(period):
+def span_label(period, short=False):
     """`2025-09-01 to 2026-09-08` -> `September 2025 – September 2026`; a window inside one month
     gives that month alone.
 
@@ -142,7 +157,7 @@ def span_label(period):
     """
     parts = (period or "").split(" to ")
     try:
-        return rr.month_span(parts[0], parts[-1])
+        return rr.month_span(parts[0], parts[-1], short=short)
     except (ValueError, IndexError):
         return period or ""
 
@@ -154,7 +169,7 @@ def build_monthly(subject, label, today):
     carried = [(u, b) for u, b in carried if b]
     if not carried:
         return None, []
-    period, one_window = period_of([texts[u] for u, _ in carried])
+    period, _ = period_of([texts[u] for u, _ in carried])
     places = [u for u, _ in carried]
     out = [
         "---",
@@ -166,17 +181,16 @@ def build_monthly(subject, label, today):
         rr.PENDING,
         "---",
         "",
-        f"# {label}: News, {span_label(period)}",
+        # The place monthly's title and nothing else *(Bill, 2026-10-20)*: the kicker above it
+        # names the topic, and the places bar below it replaces the standfirst that counted them.
+        f"# News, {span_label(period, short=True)}",
         "",
-        f"*{len(places)} places. Every block below is carried verbatim from that place's own "
-        f"news page, where it was written, sourced and checked; nothing is written here.*",
     ]
-    if not one_window:
-        out += ["", "*The place reports do not share one window; the period above is the range "
-                    "they span.*"]
+    out += rr.jump_bar([rr.place_name(u) for u in places], "monthly-subnav topic-places",
+                       "Places in this report")[:-1]
     for unit, blocks in carried:
         out += ["", f"## {rr.place_name(unit)}", ""]
-        out.append("\n\n".join(body for _, body in blocks))
+        out.append("\n\n".join(blocks))
     out.append("")
     return out, places
 

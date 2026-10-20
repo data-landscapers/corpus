@@ -1,30 +1,84 @@
 ---
 title: EU activities — News, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-18
 subject: geopol.eu
 places: CPV; GNQ; GMB; SEN
-record: 7896e151e91e
+record: acc03a9c2fe8
 ---
 
-# EU activities: News, September – October 2026
+# News, Sep – Oct 2026
 
-*4 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#equatorial-guinea">Equatorial Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+</nav>
 
 ## Cape Verde
 
-[The 14th special partnership ministerial in Brussels on 9 October 2026 reported a Global Gateway digital pipeline in preparation, covering submarine cables and inter-island connectivity, and progress in European support for the national data and AI strategies](https://www.eeas.europa.eu/eeas/joint-communique-fourteenth-ministerial-meeting-european-union-eu-cabo-verde-special-partnership_en).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU special partnership digital pillar and Global Gateway package</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint Communique: Fourteenth Ministerial Meeting European Union (EU) – Cabo Verde Special Partnership](https://www.eeas.europa.eu/eeas/joint-communique-fourteenth-ministerial-meeting-european-union-eu-cabo-verde-special-partnership_en)** — European External Action Service, 9 October 2026
+
+The 14th ministerial meeting of the EU–Cabo Verde Special Partnership, held in Brussels on 9 October 2026, reported Global Gateway digital projects in preparation: domestic and international submarine cables, better connections between the islands and access to European digital infrastructure. It also noted progress in EU support for Cabo Verde's national data and AI strategies. No amounts are given.
+
+</div>
+
+</div>
 
 ## Equatorial Guinea
 
-The Commission's own country page states the position plainly: [no European Union delegation and no country programme for Equatorial Guinea, with ties run from a neighbouring capital](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">European Union digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial - Asociaciones Internacionales - Comisión Europea](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es)** — Comisión Europea, Dirección General de Asociaciones Internacionales (DG INTPA), 2 September 2026
+
+The European Commission's country page states that the EU has no delegation in Equatorial Guinea; cooperation is supervised from its delegation in Yaoundé, Cameroon. Equatorial Guinea received no bilateral allocation under the 11th EDF and has no multiannual indicative programme for 2021-2027, but takes part in thematic civil-society and human-rights programmes and in regional programmes through ECCAS.
+
+</div>
+
+</div>
 
 ## Gambia
 
-The Commission's country page sets the frame at [EUR 193m of grants for 2021-2027, with digitalisation named as one clause under jobs and growth](https://international-partnerships.ec.europa.eu/countries/gambia_en), so the digital share remains unstated.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">European Union digital cooperation with The Gambia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Gambia - International Partnerships - European Commission](https://international-partnerships.ec.europa.eu/countries/gambia_en)** — European Commission, Directorate-General for International Partnerships, 3 September 2026
+
+The European Commission programmes EUR 193m of grants for The Gambia over 2021-2027, with digitalisation named only as one clause under jobs and growth. The digital share is not stated, against delivered items that are smaller and specific.
+
+</div>
+
+</div>
 
 ## Senegal
 
-The delegation's own statement settles what the relationship is not. Cooperation [runs through the union's investment strategy and Team Europe financing rather than a standalone instrument](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr), and the delegation states it accompanied Senegal in drawing up its data-management and artificial-intelligence strategies and will support implementation of the priority actions those strategies set out. No standalone memorandum on the digital economy, data or digital governance was located.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">European Union digital cooperation with Senegal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Global Gateway | EEAS — Stratégie Global Gateway au Sénégal](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr)** — Service européen pour l'action extérieure (SEAE) — Délégation de l'Union européenne au Sénégal, 3 September 2026
+
+The EU delegation in Senegal sets out its Global Gateway strategy there, under which Team Europe (the EU, France and Germany) supports digital services and narrowing the urban-rural digital divide. The EU says it helped Senegal draft its data and artificial intelligence strategies and will support their priority actions. The page is undated and names no digital memorandum or amounts specific to Senegal.
+
+</div>
+
+</div>

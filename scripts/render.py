@@ -355,6 +355,9 @@ def family_page(unit: str, kind: str) -> tuple[str, Path]:
 
 
 def report_family(md_path: Path, kind: str, meta: dict) -> str:
+    subject = (meta.get("subject") or "").strip()
+    if tree_of(md_path) == "topics" and kind == "monthly" and subject:
+        return topic_family(subject)
     unit = (meta.get("place") or "").strip()
     if kind not in FAMILY_PAGES or not unit or tree_of(md_path) != "reports":
         return ""
@@ -401,6 +404,56 @@ def place_switch(unit: str, kind: str) -> str:
             '<select translate="no" class="notranslate"'
             ' onchange="if (this.value) location.href = this.value">'
             + "".join(opts) + "</select></label>")
+
+
+# **A topic monthly wears the place reports' head** *(Bill, 2026-10-20)*: "Topic reports:
+# {topic}", then the taxonomy's Level-1 chapters where a place has its other reports, the title,
+# the chapter's topics where a place has its sections, and the places under that. The chapters
+# and topics are pages, not anchors, so they are built here as chrome and stay out of the source:
+# a topic that starts issuing changes its siblings' bars without moving their material.
+def topic_pages() -> tuple[list[tuple[str, list[tuple[str, str]]]], dict]:
+    """([(chapter, [(slug, label)])], {slug: url}) — the taxonomy in its own order, and the
+    topics that have a monthly to link to."""
+    # `lookups/taxonomy.csv`, the display vocabulary: its order is the one the lookups page shows.
+    import taxonomy_lib
+    label, l1_of = taxonomy_lib.labels(), taxonomy_lib.level1s()
+    chapters: dict[str, list[tuple[str, str]]] = {}
+    for slug in taxonomy_lib.keys():
+        chapters.setdefault(l1_of[slug], []).append((slug, label[slug]))
+    urls = {}
+    for slug in label:
+        s = slug.replace(".", "-")
+        if (CORPUS / "outputs" / "topics" / s / f"{s}-monthly.md").exists():
+            urls[slug] = f"{SITE_BASE}/topics/{s}/{s}-monthly.html"
+    return list(chapters.items()), urls
+
+
+def topic_nav(items: list[tuple[str, str, bool]], cls: str, aria: str) -> str:
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    current = ' aria-current="true"'
+    links = f"\n{sep}\n".join(
+        f'<a href="{url}"{current if here else ""}>{text}</a>' for text, url, here in items)
+    return f'<nav class="article-toc {cls}" aria-label="{aria}">\n{links}\n</nav>\n'
+
+
+def topic_family(subject: str) -> str:
+    chapters, urls = topic_pages()
+    here = next((c for c, topics in chapters if subject in dict(topics)), "")
+    name = dict(t for _, topics in chapters for t in topics).get(subject, subject)
+    bar = topic_nav([(c, urls[first], c == here) for c, topics in chapters
+                     for first in [next((s for s, _ in topics if s in urls), None)] if first],
+                    "report-siblings", "Topic chapters")
+    return ('<div class="report-family">\n'
+            f'<div class="report-family__kicker"><span>Topic reports: {name}</span></div>\n'
+            f'{bar}</div>\n')
+
+
+def topic_bar(subject: str) -> str:
+    """The chapter's topics, in the place of a place report's sections bar."""
+    chapters, urls = topic_pages()
+    chapter, topics = next(((c, t) for c, t in chapters if subject in dict(t)), ("", []))
+    return topic_nav([(lbl, urls[s], s == subject) for s, lbl in topics if s in urls],
+                     "monthly-toc", f"Topics in {chapter}")
 
 
 def contents_bar(html: str) -> str:
@@ -688,6 +741,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # A document that brings its own contents keeps them: the country and region monthlies carry
     # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
     pre_header = report_family(md_path, kind, meta)
+    if pre_header and tree_of(md_path) == "topics":
+        html_body = topic_bar(meta["subject"].strip()) + html_body
     if kind in ("status", "monthly", "finance", "hosting") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do

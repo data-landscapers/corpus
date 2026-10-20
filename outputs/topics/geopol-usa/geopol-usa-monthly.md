@@ -1,50 +1,205 @@
 ---
 title: US / hyperscaler activities — News, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 subject: geopol.usa
 places: CPV; DJI; EGY; KEN; LBY; MUS; ZAF; ZMB; ZWE
-record: 2d8dd148adf3
+record: e5ca3ae71f6f
 ---
 
-# US / hyperscaler activities: News, September – October 2026
+# News, Sep – Oct 2026
 
-*9 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
+</nav>
 
 ## Cape Verde
 
-The one United States instrument on the record has gone. The national press reported on 12 September that [the third Millennium Challenge compact, whose initial agreement was signed in April 2024, was officially terminated in December 2025 after the corporation's global aid was cut, and that the country is on the eligible list for FY2027 published on 31 August](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583). The ministry responsible gave no answer on whether it will apply.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Third Millennium Challenge compact</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Millennium Challenge Corporation - Cabo Verde elegível, mas ainda não se sabe se vai avançar com candidatura](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583)** — Expresso das Ilhas, 12 September 2026
+
+Cabo Verde is among 42 countries listed as candidates for a new Millennium Challenge Corporation compact in the US agency's fiscal year 2027 report, published at the end of August 2026. The country has completed two compacts and had a third cancelled. Cabo Verde's ministry for special projects and fund access did not say whether it will apply.
+
+</div>
+
+</div>
 
 ## Djibouti
 
-The communications minister [received the United States ambassador on 31 August to discuss American investment in new technologies and telecommunications, and training for media professionals](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/). It was a courtesy call: no instrument, sum or timetable followed. On 7 September Google, Meta, Microsoft and Amazon [were among the prospective partners and customers shown the Horizon terrestrial fibre corridor in Addis Ababa](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), and none of them is reported to have committed to it.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital and media cooperation with the United States</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti–États-Unis : un nouvel élan pour la coopération numérique et médiatique](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/)** — La Nation, 1 September 2026
+
+Djibouti's communications minister, Mohamed Abdoulkader Moussa Helem, received the US ambassador, Cynthia Kierscht, on 31 August 2026. They discussed US investment in new technologies and telecommunications, and training for journalists and media staff. No agreement, figure or timetable was announced.
+
+</div>
+
+</div>
 
 ## Egypt
 
-The prime minister [witnessed the signing of a letter of intent between the communications ministry and Cisco Systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/) on 1 September, on scaling artificial intelligence across government and priority sectors. The letter carries no value, scope of works or deadline, unlike the Mediterranean capacity partnership already on the ledger.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mediterranean capacity partnership with Cisco</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PM witnesses inking of letter of intent between communications ministry, Cisco systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/)** — State Information Service (Egypt), 1 September 2026
+
+Egypt's prime minister witnessed the signing of a letter of intent between the communications ministry and Cisco Systems. A letter of intent carries no value, scope of works or delivery date.
+
+</div>
+
+</div>
 
 ## Kenya
 
-Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with the Hoover Institution's Emerging Markets Working Group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya, Hoover Institution sign AI data pact](https://www.itweb.africa/article/kenya-hoover-institution-sign-ai-data-pact/Gb3BwMWaOnlv2k6V)** — ITWeb Africa, 21 September 2026
+
+Kenya's foreign ministry signed a five-year memorandum of understanding with the Emerging Markets Working Group at Stanford's Hoover Institution during the UN General Assembly in New York. The signing date was not given. The first project is an El Niño monitoring and response system that brings climate, geospatial, water, farming and infrastructure data together by county. Later work is to include a digital trade readiness index and a tracker for public-private partnerships.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Joint Declaration with Anthropic</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya signs AI deal with Claude AI to boost public-sector skills](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude)** — The Standard, 23 September 2026
+
+Kenya signed a Joint Declaration with Anthropic in New York during UNGA 81, covering AI applications in education and health, research, capacity building, and AI safety and evaluation. The next step is to develop specific pilots and institutional partnerships with government agencies.
+
+</div>
+
+</div>
 
 ## Libya
 
-The communications authority and the United States State Department [signed a strategic cooperation framework covering digital infrastructure, artificial intelligence, data centres, cybersecurity and satellite communications](https://lana.gov.ly/post.php?id=367155&lang=en).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategic cooperation framework with the United States on telecommunications and technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Libya and the US Sign Strategic Cooperation Framework](https://lana.gov.ly/post.php?id=367155&lang=en)** — Libyan News Agency, 8 October 2026
+
+Libya's communications authority and the US State Department signed a cooperation framework in Washington covering digital infrastructure, AI, data centres, cybersecurity and satellite communications. No programme or amount was published.
+
+</div>
+
+</div>
 
 ## Mauritius
 
-The incumbent operator and the cloud company [held an executive workshop on cloud, data and artificial intelligence for more than 125 delegates of state-owned enterprises](https://lexpress.mu/node/563331).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Amazon Web Services memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cloud, données et IA : Mauritius Telecom et AWS mobilisent les entreprises publiques](https://lexpress.mu/node/563331)** — L'Express (Maurice), 7 October 2026
+
+Mauritius Telecom and Amazon Web Services brought more than 125 delegates from state-owned enterprises to an executive workshop on cloud, data and AI at Ebene on 6 October, to identify uses in public services.
+
+</div>
+
+</div>
 
 ## South Africa
 
-Microsoft [told a government technology briefing that it has committed R25.8bn to cloud and AI investment in the country through 2027](https://techreviewafrica.com/news/7405/), offering departments its two in-country cloud regions and deployment options down to disconnected private environments under customer-held keys. The figure is the company's own, with no spend to date or delivery measure published.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Microsoft cloud and AI investment commitment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Microsoft South Africa highlights six dimensions of digital sovereignty for AI Era](https://techreviewafrica.com/news/7405/)** — Tech Review Africa, 24 September 2026
+
+At a GovTech breakfast for senior officials, Microsoft South Africa set out six dimensions of digital sovereignty: data, control, operational, AI, resilience and assurance. It presented sovereignty as a range of controls set by workload and regulatory risk rather than a yes-or-no choice, and pointed to its two Azure regions in South Africa.
+
+</div>
+
+</div>
 
 ## Zambia
 
-The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/). Zambia and the United States [signed the five-year health financing memorandum, put at US$2.49bn, after the specimen-sharing and patient-data clauses were removed](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms). A Zambian outlet reported [a data sharing agreement signed beside the health memorandum, limited to aggregated and de-identified programme data](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">United States health financing memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Ready To Sign US$1.5 Billion US Health Deal After Specimen-Sharing Clause Is Dropped](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/)** — Lusaka Times, 6 October 2026
+
+Zambia's health minister said the five-year health memorandum with the United States is finalised and due for signature this week, after negotiators removed a clause requiring Zambia to share specimens from its disease-surveillance system. The revised text also addresses health data, intellectual property and benefit sharing; this account puts US funding at US$1.5 billion over five years, tapering annually, and an opposition party wants the final text published before signing.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia, US finalise $3.6 billion health deal after public outcry over contentious clauses](https://www.zambiamonitor.com/zambia-us-finalise-3-6-billion-health-deal-after-public-outcry-over-contentious-clauses/)** — Zambia Monitor, 6 October 2026
+
+A second account of the Zambian health minister's briefing puts the money to be mobilised for the sector at US$3.6 billion and gives Thursday as the signing day. The minister said the contested clauses on data protection, intellectual property, benefit sharing and specimens have all been reviewed, and that the specimen-sharing obligation is gone entirely.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[U.S., Zambia sign $2.49-billion health financing pact after removing data and specimen-sharing terms](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms)** — Los Angeles Times, 8 October 2026
+
+Zambia and the United States signed their five-year health financing memorandum in Lusaka after clauses on specimen sharing and patient data were removed. The State Department put it at US$2.49 billion, US$1.52 billion from the United States and US$975 million from Zambia, and Zambia said minerals were not part of it.
+
+</div>
+
+
+</div>
 
 ## Zimbabwe
 
-The embassy [said on 25 September that all US funding for the country's health programmes ends at the end of the month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bilateral health cooperation memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[A data-sharing clause derailed US-Zimbabwe health talks. Now all funding ends this month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html)** — The Independent (AP wire, by Farai Mutsaka), 25 September 2026
+
+The US Embassy in Harare said on 25 September 2026 that US funding for Zimbabwe's health programmes ends at the end of September, after Zimbabwe declined a bilateral health memorandum. Zimbabwe objected in part to a requirement to share sensitive health data, including virus samples. Ambassador Pamela Tremont said relations would shift to trade and investment.
+
+</div>
+
+</div>

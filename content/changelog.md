@@ -1,3 +1,7 @@
+## 20 October 2026
+
+- Topic News pages take the country reports' form: each opens with the topic's chapter, a bar of every chapter, the title, the chapter's topics and its countries in green. Their stories are listed as in the country News pages, with headline, publisher, date and summary, and are current again.
+
 ## 19 October 2026
 
 - Every Maturity Assessment indicator is now named by its id alone, as in the indicator list, in links, bookmarks and download file names: `gov.policy--digital-transformation-strategy`, not `gov.policy--digital-transformation-strategy-national-strategy`. Old map bookmarks still open the right indicator; the downloads are new editions under the new names.

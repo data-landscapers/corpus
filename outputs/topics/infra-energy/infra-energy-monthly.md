@@ -1,64 +1,182 @@
 ---
 title: Energy — News, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 subject: infra.energy
-places: BWA; COD; EGY; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
-record: 9fe8ad766aac
+places: BWA; COG; COD; ETH; KEN; LBY; SLE; ZAF; SSD
+record: 82fa12ab4c9d
 ---
 
-# Energy: News, September – October 2026
+# News, Sep – Oct 2026
 
-*12 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
+</nav>
 
 ## Botswana
 
-The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
+<div class="monthly-story" markdown="1">
 
-The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country. The gas supplier [has begun planning a dedicated pipeline from a second well to the centre's generators](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o), subject to funding and approvals.
+<p class="monthly-story__name">Electricity tariff application 2026-27</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BPC 2026-27 Electricity Tariff Application — Consultation Paper](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf)** — Botswana Energy Regulatory Authority (BERA), 15 December 2025
+
+Botswana Power Corporation's tariff application for 2026/27, put to consultation by the regulator BERA, seeks a 46% increase from 1 April 2026. BPC puts its revenue requirement at P9.585bn against current revenue of P6.108bn excluding subsidy, a gap of P3.477bn.
+
+</div>
+
+</div>
+
+## Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Energy cost and reliability for digital infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo/Télécommunications : L’Arpce présente la 2e édition du Livre blanc et le projet d’adressage postal numérique](https://www.aci.cg/congo-telecommunications-larpce-presente-la-2e-edition-du-livre-blanc-et-le-projet-dadressage-postal-numerique/)** — Agence Congolaise d'Information, 17 October 2026
+
+Congo's communications regulator Arpce presented the second edition of its white paper and a digital postal addressing project on 15 October 2026, the state news agency reported. Figures cited include internet penetration of 57%, mobile money use of 55.8% and 22 internet service providers.
+
+</div>
+
+</div>
 
 ## DR Congo
 
-A philanthropic accelerator [announced on 24 September a demonstration that will add computing load to an existing solar plant with underused generation, serving more than 30,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), to test whether demand for compute can make mini-grids pay without raising local tariffs. The site, operator, computing load and start date have not been stated.
+<div class="monthly-story" markdown="1">
 
-## Egypt
+<p class="monthly-story__name">Emergent Grid compute-anchored mini-grid demonstration</p>
 
-A government official said [the electricity ministry had approved an EGP 3bn expansion of the El Alamein and Dabaa transformer zones, with two 500 kV substations, to serve data centres](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/).
+<div class="bulletin-item" markdown="1">
+
+**[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
+
+</div>
+
+</div>
 
 ## Ethiopia
 
-The state utility then [cut the electricity it supplies to bitcoin and other data-mining customers by about 75 per cent, to around 23 per cent of contracted volumes, as reservoir levels fell ahead of the dry season](https://norvanreports.com/ethiopia-sacrifices-lucrative-bitcoin-mining-revenue-as-hydropower-crisis-deepens/), putting households and domestic industry first. How long the curtailment will last is not stated.
+<div class="monthly-story" markdown="1">
 
-## Gambia
+<p class="monthly-story__name">Bitdeer Oromia bitcoin-mining site</p>
 
-The power the digital estate runs on was explained and priced in the same month. The utility put the year's worst outages down to [ageing generating units and spare parts taking six to seven months to import, promising relief within a fortnight](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/); a lender's public finance review puts [tariffs at an average US$0.21 a kilowatt-hour, among the highest globally, driven by weak utility financial performance with subsidies found misdirected](https://standard.gm/world-bank-says-weak-financial-performance-makes-gambias-electricity-tariffs-among-the-highest-globally/). The target above both is now traceable to its instrument: a [draft national compact seeking US$552m to reach 100% access by 2030](https://nawec.gm/wp-content/uploads/2025/09/Gambia-Compact-M300.pdf), unsigned and unfunded.
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Sacrifices Lucrative Bitcoin Mining Revenue as Hydropower Crisis Deepens](https://norvanreports.com/ethiopia-sacrifices-lucrative-bitcoin-mining-revenue-as-hydropower-crisis-deepens/)** — Norvanreports, 15 September 2026
+
+The state power utility cut supply to bitcoin mining and data-mining operations as a hydropower shortfall deepened, giving up the revenue that load was earning.
+
+</div>
+
+</div>
 
 ## Kenya
 
-On 24 September a Rockefeller Foundation accelerator [announced five Kenyan sites to test computing load as the anchor customer for new solar-plus-storage mini-grids serving about 50,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with community demand given priority over compute. No site, developer, capacity or start date is named.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Emergent Grid compute-anchored mini-grid demonstration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
+
+</div>
+
+</div>
 
 ## Libya
 
-The renewable energy authority's [off-grid programme](https://reaol.ly/index.php/portfolio/pro1/) covers 400 solar systems at 310 kW peak for remote clusters and border posts.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Off-grid solar electrification of remote areas</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مشروع كهربة المناطق النائية باستخدام منظومات الخلايا الشمسية](https://reaol.ly/index.php/portfolio/pro1/)** — جهاز الطاقات المتجددة (Renewable Energy Authority of Libya, REAOL), 3 September 2026
+
+Libya's renewable energy authority sets out its off-grid programme: 400 solar systems at 310 kW peak, serving remote population clusters and border posts. It is the largest counted state provision outside the cities the repository holds for the country.
+
+</div>
+
+</div>
 
 ## Sierra Leone
 
-Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Emergent Grid computing pilot at rural mini-grids</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
+
+</div>
+
+</div>
 
 ## South Africa
 
-A [Strategic Framework for Offshore Wind Development, published on 10 September 2026, was launched at the Africa Green Hydrogen Summit on 17 September](https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategic Framework for Offshore Wind Development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[A Strategic Framework for Offshore Wind Development in South Africa](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099091026151019349)** — World Bank / ESMAP, 10 September 2026
+
+The World Bank published a strategic framework for offshore wind in South Africa, prepared by the Carbon Trust with the Department of Electricity and Energy and funded by ESMAP, posted on 10 September 2026. It estimates about 95 GW of technical potential along the 2,800 km coastline and notes that rules on site exclusivity and seabed leasing have not been enacted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa sees offshore wind powering AI data centres](https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/)** — TechCentral, 17 September 2026
+
+South Africa's electricity and energy department published a strategic framework for offshore wind, identifying about 95GW of technical potential along the coastline and naming energy-hungry coastal users, data centres among them, as the customers who could justify building it. The laws and regulations the build would need do not yet exist and the costs are large.
+
+</div>
+
+</div>
 
 ## South Sudan
 
-The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
+<div class="monthly-story" markdown="1">
 
-## Togo
+<p class="monthly-story__name">CREI solar-hybrid telecom energy programme</p>
 
-The energy ministry [put out an international tender for 5,200 smart-metering devices for the state utility CEET, 1,200 modems for medium-voltage meters and 4,000 low-voltage data concentrators, under its revenue protection programme and financed from the IDA-backed IDEA project, with bids due 28 October 2026; official 2026 figures put the utility's technical and commercial losses at nearly 16%](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility).
+<div class="bulletin-item" markdown="1">
 
-## Zimbabwe
+**[MTN South Sudan Expands Network Coverage to 85% Through Infrastructure Modernisation](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/)** — Tech Africa News, 14 September 2026
 
-The listed tower company [reported a 30% reduction in fuel consumption for the half year to 31 August 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf), credited to site solarisation, its fuel management system, battery cycling and better grid availability together. It gives no figure for any one of these alone. Construction of the first phase of its planned 100MW solar farm began in the same period.
+MTN South Sudan says population broadband coverage rose from 76.6% to 85% and network availability to 99% over two years, after more than 500 sites were modernised with CREI's solar-hybrid power. Diesel use at supported sites fell by more than half; no investment figure is given.
+
+</div>
+
+</div>

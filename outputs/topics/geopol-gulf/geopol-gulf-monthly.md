@@ -1,26 +1,66 @@
 ---
 title: Gulf/UAE activities — News, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-19
 subject: geopol.gulf
 places: AGO; EGY; GMB
-record: 2decdf5c1827
+record: 2e69a5bd24d8
 ---
 
-# Gulf/UAE activities: News, September – October 2026
+# News, Sep – Oct 2026
 
-*3 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+</nav>
 
 ## Angola
 
-The national space programme office [signed a letter of intent with the UAE Space Agency at the Africa Space Expo in Abidjan, naming satellite-data exchange, Earth-observation applications and satellite development as areas for cooperation](https://techreviewafrica.com/news/7466/). It carries no money, programme or timetable.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Space cooperation letter of intent with the UAE Space Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola and UAE strengthen space cooperation through new letter of intent](https://techreviewafrica.com/news/7466/)** — Tech Review Africa, 25 September 2026
+
+Angola's space programme office GGPEN and the UAE Space Agency signed a letter of intent on cooperation in the peaceful uses of outer space, covering space sciences, technologies and applications. It was signed in Abidjan on 25 September at the Africa Space Expo, where Angola is guest country of honour.
+
+</div>
+
+</div>
 
 ## Egypt
 
-On 21 September Abu Dhabi's sovereign investor [co-led a US$35m pre-Series C round in an Egyptian-founded payments company](https://www.mubadala.com/en/news/paymob-raises-35-million-in-pre-series-c-round-co-led-by-mubadala-and-ebrd). It is the only Gulf commitment in the window; no Saudi or Qatari commitment is held.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gulf-state technology investment in Egypt</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paymob raises $35 million in pre-series C round co-led by Mubadala and EBRD to accelerate expansion in the MENA region](https://www.mubadala.com/en/news/paymob-raises-35-million-in-pre-series-c-round-co-led-by-mubadala-and-ebrd)** — Mubadala, 21 September 2026
+
+Egyptian payments company Paymob raised $35 million in a pre-Series C round co-led by Abu Dhabi's Mubadala and the EBRD, with BII, Global Ventures and DPI Ventures also taking part (21 September 2026). The money will fund expansion across the Middle East and North Africa. Paymob says revenue from the Gulf grew sevenfold in 18 months and now makes up close to half the total.
+
+</div>
+
+</div>
 
 ## Gambia
 
-Gulf involvement is now on the record in two forms, neither carrying a figure. The Islamic Development Bank's own sector page records it [financing the regional fibre backbone reaching The Gambia alongside two other lenders, with no date or sum given](https://www.isdb.org/sectors/ict), and a Bahraini firm's [January memorandum with the regulator offers a free critical-infrastructure security tier with no value or duration stated](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gulf state digital investment in The Gambia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information & Communications Technology | Sectors | IsDB](https://www.isdb.org/sectors/ict)** — Islamic Development Bank, 3 September 2026
+
+The Islamic Development Bank records financing the regional fibre backbone reaching The Gambia, alongside two other lenders. No date or sum is given, so the scale of the contribution cannot be stated.
+
+</div>
+
+</div>

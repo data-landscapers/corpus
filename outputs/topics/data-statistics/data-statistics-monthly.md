@@ -1,132 +1,701 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 subject: data.statistics
-places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 8f76da8bf92b
+places: BWA; BFA; BDI; CMR; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
+record: a33dc8aa423f
 ---
 
-# National statistics: News, September – October 2026
+# News, Sep – Oct 2026
 
-*27 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-The statistics institute [put a revision of the statistics law and a draft national strategy for the development of statistics to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), following an extraordinary plenary of the national statistics council in August. Neither draft text is held.
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#equatorial-guinea">Equatorial Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea">Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
+</nav>
 
 ## Botswana
 
-One absence in that system was dated this month. No gambling participation statistics are held as the country moves to lower the legal betting age, while an investigation reports [unregistered betting influencers drawing 4,000 to 15,000 responses to a single betting slip and directing followers to bookmakers through referral links](https://www.thegazette.news/news/weaving-the-slip/). The activity is documented and the population is not counted, which is the gap a statistical strategy would have to close.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gambling participation statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Weaving the Slip](https://www.thegazette.news/news/weaving-the-slip/)** — Botswana Gazette, 2 September 2026
+
+A Botswana Gazette investigation published on 2 September 2026 reports that Botswana keeps no gambling statistics as it moves to lower the legal betting age. Unregistered betting influencers draw 4,000 to 15,000 responses to a single slip and refer followers to bookmakers, while parents in Mathethe and Digawana describe children funding bets from household mobile-money and bank accounts.
+
+</div>
+
+</div>
 
 ## Burkina Faso
 
-The statistics institute [announced a national statistical innovation observatory at the statistics council's session of 11 September, using satellite imagery, mobile-phone, web and weather data and artificial intelligence to produce indicators for all 351 communes within days](https://lefaso.net/spip.php?article149178). The same session reviewed a [draft 2027 statistical programme costed at CFA 10.6 billion, 52.7% of it state-financed](https://lefaso.net/spip.php?article149178). No timetable for the observatory and no data-access agreement with mobile operators is stated.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National statistical innovation observatory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : Le Conseil national de la statistique tient sa première session ordinaire de l’année 2026](https://lefaso.net/spip.php?article149178)** — leFaso.net, 11 September 2026
+
+Burkina Faso's National Statistics Council held its first 2026 session on 11 September, reviewing a draft 2027 statistical programme costed at CFA 10.6 billion, 52.7% funded by the state. The statistics institute INSD reported 67.8% execution of the 2025 programme. It plans an observatory using satellite, mobile-phone and web data and AI to produce indicators for all 351 communes.
+
+</div>
+
+</div>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General Enterprise Census of Burundi 2026 (RGEB-2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Primature lance officiellement les activités du Recensement Général des Entreprises du Burundi, édition 2026](https://primature.gov.bi/la-primature-lance-officiellement-les-activites-du-recensement-general-des-entreprises-du-burundi-edition-2026/)** — Primature du Burundi, 15 October 2026
+
+Burundi's Prime Minister's Office launched the 2026 General Enterprise Census on 15 October 2026 to count formal and informal enterprises nationwide. The data will update the national enterprise register and feed the rebasing of the national accounts, and will be covered by statistical secrecy and barred from use in tax control or judicial investigation.
+
+</div>
+
+</div>
 
 ## Cameroon
 
-Counting for the fourth population and agriculture census [closed on 15 September 2026](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/), the date set by the prime minister's July order, after a start on 24 April and two extensions. Coverage is stated to have stayed below expectation; no final rate or date for results is published.
+<div class="monthly-story" markdown="1">
 
-## Central African Republic
+<p class="monthly-story__name">Fourth population and agriculture census</p>
 
-The statistics institute posted the regulator's first-half 2026 market observatory on 16 September, compiled from the returns operators must file under the regulator's decision of 25 June 2025. [It puts internet clients at more than 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0).
+<div class="bulletin-item" markdown="1">
 
-The institute [held the mid-term evaluation of the second national statistics strategy in Bangui on 7 to 9 October 2026, financed by UNDP; the strategy is to be updated with revised indicators and a realigned calendar](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
+**[Cameroun : le 4e Recensement général de la population et de l'habitat s'achève](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/)** — Journalducameroun.com, 15 September 2026
 
-## Chad
+Counting closed on 15 September for the fourth population and housing census, coupled with the agriculture and livestock census, after a start on 24 April and extensions in May and July. Coverage remained below expectation.
 
-The statistics institute set out what it publishes and on what terms: [five channels, from an Open Data Portal to a development-plan indicator tracker](https://www.inseed.td/), against an archive policy [barring transmission of microdata without prior written agreement](https://anad.inseed.td/index.php/politique-dacc). The pipes are built and the licence is what is missing.
+</div>
+
+</div>
 
 ## Congo
 
-The statistics institute [held a workshop to set up a permanent statistical system for informal cross-border trade](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel), with a baseline survey planned for 2027.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Permanent statistical system for informal cross-border trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commerce transfrontalier : l'INS cible l'informel](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel)** — Brazzavillois, 6 October 2026
+
+Congo's statistics institute held a workshop in Brazzaville on 2 October to set up a permanent statistical system for informal cross-border trade. A mapping of border crossings is under way, a baseline survey is planned for 2027 and quarterly collection is to feed the balance of payments, with World Bank support.
+
+</div>
+
+</div>
 
 ## DR Congo
 
-The central census bureau's technical coordinator said on 1 September that [the cartography phase of the second general population census is under way with digital tools and satellite imagery](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours). No enumeration date is published. Census cartography [was launched on 28 September, the operation costed at USD 192 million with general enumeration from July 2027](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir); ministers said the census counts residents and identifies no one.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second general population and housing census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opérations de la cartographie en cours d'opérationnalisation en RDC](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours)** — Radio Okapi, 1 September 2026
+
+The cartography phase of the DRC's second population census is being operationalised with digital tools and satellite imagery, the central census bureau's technical coordinator said — 42 years after the country's only previous census, in 1984.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recensement, identification et enrôlement en RDC : ce qu’il faut savoir](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)** — 7sur7.cd, 1 October 2026
+
+Two DRC ministers, Patrick Muyaya and Guylain Nyembo, said on 30 September 2026 that the second population and housing census counts people but does not identify them, unlike the separate identification process that is to issue national identity cards. Census mapping began on 28 September; enumeration starts in July 2027, and the operation is costed at US$192m.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School statistics yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : l’annuaire statistique scolaire 2023-2024 désormais accessible au public](https://congojournal.com/articles/5462/rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-public)** — BETO (Beto.cd), republished by CongoJournal, 3 October 2026
+
+The Democratic Republic of the Congo's education ministry put its school statistics yearbook for 2023-2024 online on 3 October 2026, after validating it on 5 June 2026. It covers schools, classes, pupils, teachers, staff and infrastructure for pre-primary, primary and secondary education, and applies only to that school year.
+
+</div>
+
+</div>
 
 ## Equatorial Guinea
 
-The statistics institute went out to the ministries rather than waiting for their returns. A [ministry-by-ministry supervision tour of statistical services began on 2 September at the interior and education ministries and runs to 9 September, ordered by the national statistics council's eighth session of 27 August, to assess each service's state and consolidate the national statistical system](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/). No findings, service inventory or report from the tour is published, and the account is the institute's own.
+<div class="monthly-story" markdown="1">
 
-On 25 September INEGE [presented the ninth national statistical yearbook, covering the last five years](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/), naming weak administrative registers, undigitised processes and poor interoperability between information systems among its outstanding challenges. It restated the plan for the fifth population census and the first agricultural census without giving dates.
+<p class="monthly-story__name">Statistics from administrative records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE inicia una gira por los servicios estadísticos de los ministerios para consolidar el Sistema Estadístico Nacional](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/)** — Revista Real Equatorial Guinea, 3 September 2026
+
+Equatorial Guinea's statistics institute, INEGE, began a tour of ministries' statistical services on 2 September 2026, starting with the interior and education ministries, to assess their capacity and needs. Both were found short of working materials. The tour runs to 9 September under resolutions of the National Statistics Council's session of 27 August 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE presenta la novena edición del Anuario Estadístico y llama a convertir los datos en decisiones](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/)** — AHORAEG, 25 September 2026
+
+Equatorial Guinea's statistics institute INEGE presented the ninth edition of the national Statistical Yearbook in Malabo, covering the last five years. It named stronger administrative registers, digitised processes and interoperable information systems as outstanding challenges, and announced a fifth population and housing census and a first agricultural census, with no dates.
+
+</div>
+
+</div>
 
 ## Eswatini
 
-The inclusion survey is in the field: [the 2026 FinScope round covers 3,200 households in 320 enumeration areas, the first measurement since the 2018 round put inclusion at 87%](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/), with no publication date given.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FinScope Consumer Survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eswatini targets 100% financial inclusion through FinScope survey](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/)** — Eswatini Positive News, 10 September 2026
+
+Eswatini's Central Statistical Office has begun fieldwork for the FinScope 2026 Consumer Survey, covering 3,200 households in all four regions until the end of October 2026. It is the first such survey since 2018, when financial inclusion stood at 87%, and will look at use of banking, mobile money and digital financial services as well as access.
+
+</div>
+
+</div>
 
 ## Gabon
 
-On 18 September the Council of Ministers [adopted three statistics decrees, amending the statistics institute's statutes and reorganising the National Statistics Council and the Special Fund for Statistics, the last to secure financing and reduce dependence on external funds](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf).
+<div class="monthly-story" markdown="1">
 
-The energy ministry [is building a national energy information system to produce energy balances and SDG 7 indicators, fed by the 2026 census](https://agpgabon.ga/gabon-energie-les-resultats-du-recensement-2026-alimenteront-le-calcul-des-indicateurs-du-sie-ministere-de-lenergie/). No start date or first balance is stated.
+<p class="monthly-story__name">National energy information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Énergie : «Les résultats du recensement 2026 alimenteront le calcul des indicateurs du SIE» (Ministère de l'Énergie)](https://agpgabon.ga/gabon-energie-les-resultats-du-recensement-2026-alimenteront-le-calcul-des-indicateurs-du-sie-ministere-de-lenergie/)** — AGP - Agence Gabonaise de Presse, 23 September 2026
+
+Gabon's energy statistics director, Armand-Colyn Abessolo Nkewele, said on 23 September 2026 that results of the 2026 population census will feed the country's energy information system and indicators, including those for SDG 7. He spoke at a regional workshop on a shared energy information system for CEMAC states. No date for the census results is given.
+
+</div>
+
+</div>
 
 ## Ghana
 
-The statistical service and Statistics Denmark [agreed the design of a third three-year phase of their cooperation, centred on integrating administrative data held by ministries and agencies](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data); no start date or funding figure is stated.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategic Sector Cooperation on Statistics with Denmark</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana, Denmark Plan New Phase of Cooperation on Government Data](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data)** — Ecofin Agency, 22 September 2026
+
+Ghana's statistical service and Statistics Denmark agreed the design of a third, three-year phase of their statistics cooperation, focused on institutional capacity and on integrating administrative data held by ministries and agencies. The service signed data-sharing agreements with 25 ministries, departments and agencies in March 2026. No start date or funding figure is given.
+
+</div>
+
+</div>
 
 ## Guinea
 
-The planning minister [launched the country's first general census of enterprises on 16 September, with two months of field collection in the Kindia pilot region](https://agpguinee.com/kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique-guineen/). No national schedule, method or budget has been published.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">First general census of enterprises (RGE-1)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kindia/INS : le RGE-1 officiellement lancé pour cartographier le tissu économique guinéen](https://agpguinee.com/kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique-guineen/)** — AGP GUINEE, 17 September 2026
+
+Guinea's planning minister Ismaël Nabé launched the country's first general business census, RGE-1, in Kindia on 16 September 2026, with Kindia as the pilot region. Run by the national statistics institute, it covers formal and informal economic units, and 1,000 trained agents will collect data with digital tools over two months before the census extends to other regions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RGE-1 : la Guinée lance son premier recensement général des entreprises, un tournant historique pour cartographier son économie - Bambouguinee](https://bambouguinee.com/2026/09/17/rge-1-la-guinee-lance-son-premier-recensement-general-des-entreprises-un-tournant-historique-pour-cartographier-son-economie/)** — Bambouguinee, 17 September 2026
+
+Guinea's national statistics institute launched the country's first general census of enterprises in Conakry on 17 September 2026, with 912 trained agents deployed for two months of data collection on formal and informal firms. The World Bank finances the census through its Fasoc project.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : Mamadi Doumbouya institue le premier Recensement Général des Entreprises (RGE1)](https://www.africaguinee.com/guinee-mamadi-doumbouya-institue-le-premier-recensement-general-des-entreprises-rge1/)** — Africa Guinée, 19 September 2026
+
+Guinea's president, Mamadi Doumbouya, instituted the country's first general census of businesses (RGE1) by decree on 18 September 2026, under the planning ministry, with a national council chaired by the prime minister and a technical bureau run by the national statistics institute. It is to count and geolocate formal and informal businesses, build a statistical business register and help rebase the national accounts. No budget is given.
+
+</div>
+
+</div>
 
 ## Kenya
 
-The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held. The social development directorate [drafted a second Inclusive Data Charter action plan for 2026 to 2030, widening the first plan's disability focus to gender, children and older persons](https://www.data4sdgs.org/news/kenyas-second-idc-action-plan-expands-countrys-commitments-inclusive-data).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National survey on child online protection and safety</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Reviews National Survey Findings on Child Online Protection and Safety](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/)** — Tech Africa News, 9 September 2026
+
+The Communications Authority of Kenya and the University of Nairobi's Institute for Development Studies have begun reviewing preliminary findings from a joint national survey on children's online experiences and safety, agreeing the report structure and thematic areas ahead of validation. The authority says the findings are intended as the evidence base for regulatory interventions on child online protection; nothing has been published yet.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Inclusive Data Charter Action Plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's second IDC Action Plan expands the country's commitments to inclusive data](https://www.data4sdgs.org/news/kenyas-second-idc-action-plan-expands-countrys-commitments-inclusive-data)** — Global Partnership for Sustainable Development Data, 8 October 2026
+
+Kenya drafted its second Inclusive Data Charter action plan, for 2026 to 2030, at a workshop on 5 to 7 October. It widens the first plan's focus on disability to gender, children and older persons.
+
+</div>
+
+</div>
 
 ## Lesotho
 
-Census enumeration [is complete, with mop-up operations still running in Maseru on 17 September 2026](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/); it is the first census to ask questions recognising gender identity and sexuality. A [second phase of the mapping of financial access points was tendered in September](https://selibeng.com/consultancy-data-collection-and-analytics-for-lesotho-gis-financial-access-points-mapping-project-phase-2/), to update the 2018 baseline across the ten districts.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GIS Financial Access Points Mapping</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consultancy - Data Collection and Analytics for Lesotho GIS Financial Access Points Mapping Project – Phase 2](https://selibeng.com/consultancy-data-collection-and-analytics-for-lesotho-gis-financial-access-points-mapping-project-phase-2/)** — Selibeng.com (FinMark Trust terms of reference), 13 September 2026
+
+FinMark Trust issued terms of reference for Phase 2 of Lesotho's GIS Financial Access Points Mapping Project, to update a 2018 baseline of 5,597 geo-referenced access points. The work covers every mobile-money agent, bank branch, ATM and post office across ten districts, with spatial analytics and a web map.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**["We felt like part of the Basotho": Census gives LGBTIQ+ community a place in national data](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/)** — Public Eye, 17 September 2026
+
+Lesotho's 2026 census asked questions recognising gender identity and sexuality for the first time, after the statistics bureau brought an advocacy organisation into the first consultation. The round had a reference night of 11 April, employed more than 8,000 temporary field staff and has finished enumeration with mop-up still running in Maseru; advocates welcomed the inclusion while warning that the answers need explicit privacy and confidentiality safeguards.
+
+</div>
+
+</div>
 
 ## Libya
 
-The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published. A green industry centre [published a report of industrial and environmental indicators recording 305 registered industrial establishments, 301 of them private, and 26,034 workers](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Engineering Report of Industrial and Environmental Indicators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Green Industry Centre report provides valuable sector data for policy and plan formulation](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation)** — Libya Herald, 10 September 2026
+
+Libya's industry ministry has published an engineering report of industrial and environmental indicators compiled from its own database of facilities. It records 305 registered industrial establishments, 301 of them private, and 26,034 workers, alongside data on industrial activity, resource and energy consumption and waste management.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified Directory for National Indicators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The General Authority for Information continues its technical meetings to follow up on the work of the Unified Directory for National Indicators with sectoral information centers - GIA](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/)** — GIA - General Authority for Information, 15 September 2026
+
+Libya's General Authority for Information met information centres from the Prime Minister's Office and the ministries of oil and gas, marine wealth, economy and trade, and vocational education in Tripoli on 14 September 2026 to work on a Unified Directory for National Indicators. Each body is to send its draft to the authority, which will prepare a final version for approval by the High Technical Committee for the National Information System.
+
+</div>
+
+</div>
 
 ## Mali
 
-The Council of Ministers [took note on 9 October 2026 of the fourth Schéma Directeur de la Statistique and its action plan for 2026 to 2030, on a written communication from the economy and finance minister](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). It sets four axes: [management of the national statistical system, its capacity, statistical production, and analysis with modernised dissemination and use](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). The text is not held.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : Communiqué du conseil des ministres du vendredi 9 octobre 2026 - CM N°2026-40/SGG](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/)** — Icimali (communiqué du Secrétariat Général du Gouvernement), 10 October 2026
+
+Mali's Council of Ministers on 9 October 2026 took note of the country's fourth statistics master plan and its 2026-2030 action plan, presented by the economy and finance minister. It rests on four axes: managing the national statistical system, building its capacity, statistical production and analysis, and modernised dissemination. No cost is given.
+
+</div>
+
+</div>
 
 ## Mauritius
 
-The central bank opened its own statistics rather than waiting for the statutory framework to be rewritten. It [launched a central statistical database on 3 September, developed with the International Monetary Fund and the African Development Bank, opening statistical information to businesses, researchers, policymakers and citizens](https://gis.govmu.org/gis/?page_id=4008); the prime minister said a standards and codes report had underscored the need to strengthen statistical capacity and modernise dissemination, and that the statistics statute and the central bank statute are being reviewed. No series list, update cadence, licence or machine-readable access route is stated for the portal.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank central statistical database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PM unveils BOMStats, a new gateway to trusted, timely economic and financial data](https://gis.govmu.org/gis/?page_id=4008)** — Government Information Service, Mauritius, 3 September 2026
+
+Mauritius's prime minister, Navinchandra Ramgoolam, launched BOMStats, the Bank of Mauritius's central statistical database, in Port-Louis on 3 September 2026, the bank's 59th anniversary. It was developed with the IMF and the African Development Bank. Ramgoolam said the Statistics Act and the Bank of Mauritius Act are being reviewed after an IMF assessment of data standards.
+
+</div>
+
+</div>
 
 ## Mozambique
 
-A journalism school [announced a Media Barometer on 4 September 2026](https://clubofmozambique.com/news/mozambique-new-barometer-to-monitor-media-combat-disinformation-and-fake-news/), a permanent mechanism to track audience trust in the media, disinformation and deepfakes.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media Barometer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: New barometer to monitor media, combat disinformation and fake news](https://clubofmozambique.com/news/mozambique-new-barometer-to-monitor-media-combat-disinformation-and-fake-news/)** — Club of Mozambique, 5 September 2026
+
+Mozambique is to introduce a Media Barometer to measure audience trust and track disinformation and deepfakes, announced on 4 September 2026 at the Government Information Office's coordinating council in Maputo. The Higher School of Journalism designed it. A 2025 survey counted 1,207 active media outlets, including 275 radio stations and 147 television channels.
+
+</div>
+
+</div>
 
 ## Nigeria
 
-The agriculture ministry [said on 29 September it had finalised a Federal Department of Agricultural Data and Analytics](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/) to coordinate a single standard for a national farmers register. No establishing instrument is held.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central government data repository and Standing Committee on Macroeconomic Data and Assumptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to enhance Nigeria's economic management planning, budgeting](https://tribuneonlineng.com/fg-moves-to-enhance-nigerias-economic-management-planning-budgeting/)** — Tribune Online, 2 September 2026
+
+Nigeria's finance ministry and its budget and economic planning ministry set up a Standing Committee on Macroeconomic Data and Assumptions and agreed to build a central government data repository, according to a statement reported on 2 September 2026. A validation workshop found wide gaps between past budget assumptions and outcomes, especially for oil output and revenue. The workshop's date is not given.
+
+</div>
+
+</div>
 
 ## Rwanda
 
-The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
+<div class="monthly-story" markdown="1">
 
-The same announcement records that Kigali [hosts the UN regional hub for big data and data science, run with the statistics institute and two UN bodies to help African statistical offices use new data sources](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/); no output figure is stated.
+<p class="monthly-story__name">Higher Education Performance Measurement Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Building Data-Driven Framework to Measure Quality of Higher Education](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/)** — Taarifa Rwanda, 16 September 2026
+
+Rwanda's Higher Education Council is developing a national framework to measure the performance of universities and other higher learning institutions. Director general Kadozi Edward said data on students, lecturers, research and graduate outcomes will be collected, digitised and published, and shared with bodies such as UNESCO and the World Bank. No adoption date is given.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute microdata catalogue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NISR Data Catalog](https://microdatabk.statistics.gov.rw/home)** — National Institute of Statistics of Rwanda, 15 October 2026
+
+Rwanda's statistics institute NISR runs an online catalogue of official microdata, listing 75 datasets and 74,146 variables as of 15 October 2026. The most recent addition is the 2025 Labour Force Survey.
+
+</div>
+
+</div>
 
 ## Senegal
 
-An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them. [The statistics agency said it is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-status agency statistical mandate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accueil - Agence nationale de l'Etat civil](https://anec.sn/)** — Agence nationale de l'État civil (ANEC), Sénégal, 3 September 2026
+
+Senegal's National Civil Registration Agency, ANEC, states its mandate on its website, including producing an annual statistical yearbook of civil-status data and passing those data to the statistics services. It is also charged with running a centralised national and consular civil-status database, linking it to other databases, and digitising and indexing the registers. The page carries no reliable publication date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Report on the observance of standards and codes for macroeconomic statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IMF calls for stronger coordination of Senegal's economic data](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/)** — channelafrica.co.za, 3 September 2026
+
+An International Monetary Fund report on standards and codes found Senegal's macroeconomic statistics generally reliable but its statistical system running at two speeds, with sector agencies short of staff and money, Channel Africa reported on 3 September 2026. The IMF recommended a permanent inter-agency committee chaired by the national statistics agency ANSD and wider public-debt reporting; the authorities broadly accepted the recommendations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Remote access to the statistics agency's anonymised microdata</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’ANSD envisage de faciliter l’accès à distance aux données anonymisées (DG)](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/)** — Agence de Presse Sénégalaise, 13 October 2026
+
+Senegal's statistics agency is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres. Its director-general named personal-data protection, access security and conditions of use as the questions to settle.
+
+</div>
+
+</div>
 
 ## Sierra Leone
 
-The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
+<div class="monthly-story" markdown="1">
 
-The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/). [The statistics office said the census budget had risen from an initial US$7 million to nearly US$60 million after the cartographic mapping](https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/), [as the 50-day countdown to the first fully digital enumeration opened](https://www.thesierraleonetelegraph.com/sierra-leone-counts-down-to-first-fully-digital-census/).
+<p class="monthly-story__name">2025 Vital Statistics Report</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCRA Begins Validation of Sierra Leone's 2025 Vital Statistics Report](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/)** — Sierra Loaded, 11 September 2026
+
+Sierra Leone's National Civil Registration Authority held a two-day meeting on 10 and 11 September 2026 to validate the draft 2025 Vital Statistics Report, focusing on fertility and mortality data. Director General Mohamed Mubashir Massaquoi called for greater national ownership of civil registration data and said figures from multiple external sources produce inconsistencies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">2026 Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone's President Bio Calls For Faster Development Delivery, Stronger Coordination At DEPAC Meeting](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/)** — Office of the President of Sierra Leone, 11 September 2026
+
+Sierra Leone's President Julius Maada Bio told the Presidential Development Partners Committee in Freetown on 10 September 2026 that the 2026 Population and Housing Census faces a US$37 million financing gap. Government has committed US$24 million, about US$15 million of it disbursed, and partners about US$1.5 million; Census Night is set for 1 December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stats SL Completes Nationwide Mapping Ahead of December Census](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/)** — Sierraloaded, 18 September 2026
+
+Statistics Sierra Leone completed nationwide mapping for the December 2026 census, the country's first digital census, and the census technical committee received the mapping completion report on 15 September. The committee also reviewed an August mock census; Census Night is set for 1 December.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stats SL Completes Mapping, Deploys Digital Systems Ahead of 2026 Census](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/)** — SierraLoaded, 7 October 2026
+
+Statistics Sierra Leone announced on 7 October 2026 that it has deployed the technology for the December census, including 500 tablets for mapping, ArcGIS Pro and satellite imagery. It said the government has spent more than US$20 million on census preparations. Enumerators will collect data on tablets from 2 to 16 December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[2026 Census Budget Rises From $7 Million to Nearly $60 Million – Stats SL Boss Andrew Johnny](https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/)** — SierraLoaded, 12 October 2026
+
+The budget for Sierra Leone's 2026 Population and Housing Census has risen from an initial US$7 million to nearly US$60 million, Statistics Sierra Leone's Andrew Bob Johnny said at the 50-day countdown event in Freetown. The estimate was revised after nationwide mapping and covers enumeration through dissemination; funding is expected from government, donors and the private sector.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone counts down to first fully digital census](https://www.thesierraleonetelegraph.com/sierra-leone-counts-down-to-first-fully-digital-census/)** — The Sierra Leone Telegraph, 13 October 2026
+
+Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Census, its first fully digital enumeration. Census Night is 1 December and nationwide enumeration starts the next day.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
+
+Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
+
+</div>
+
+</div>
 
 ## South Africa
 
-An [expression of interest for a consultant to develop South Africa's National Strategy for the Development of Statistics was issued on 9 September 2026](https://www.sadc.int/procurement-opportunities/individual-consultancy-develop-national-strategy-development-statistics-0), under a regional statistics project run through the SADC secretariat. [A deputy minister in the Presidency said in a keynote address on 9 October 2026 that Census 2031 is in development, and called statistical independence a constitutional safeguard](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Strategy for the Development of Statistics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Individual consultancy to develop the National Strategy for Development of Statistics (NSDS) of South Africa - BW-SADC-563161-CS-INDV](https://www.sadc.int/procurement-opportunities/individual-consultancy-develop-national-strategy-development-statistics-0)** — SADC Secretariat, 9 September 2026
+
+The SADC Secretariat issued a call on 9 September 2026 for an individual consultant to draft South Africa's National Strategy for the Development of Statistics over 180 days. The work is funded by a World Bank IDA grant to the Regional Statistics Project (P175731).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Census 2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Keynotes address by Deputy Minister in The Presidency, Nonceba Mhlauli, on the occasion of celebrating the Stats SA Census 30th Anniversary in South Africa, Isibalo House, Pretoria](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census)** — The Presidency of the Republic of South Africa, 9 October 2026
+
+South Africa's deputy minister in the Presidency, Nonceba Mhlauli, marked 30 years of censuses by Statistics South Africa in Pretoria, in a speech published on 9 October 2026. She said Census 2031 is already in development, called statistical independence a constitutional safeguard, and said South Africa, as chair of the SADC Statistics Council, seeks to share experience with the region.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistical Abstract</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Statistical Abstract 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)** — National Bureau of Statistics, 1 September 2026
+
+Tanzania's National Bureau of Statistics published the Statistical Abstract 2025 in September 2026. It is an annual compendium of official tables, largely drawn from ministry administrative records.
+
+</div>
+
+</div>
 
 ## Togo
 
-The statistics institute's third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december).
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Census and household survey programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Launches Household Living Conditions Survey, Running Through December](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december)** — Togo First, 4 September 2026
+
+Togo's statistics institute INSEED is running a national household living-conditions survey from 7 September to December 2026, the second wave of the third harmonised survey (EHCVM-3), with the WAEMU Commission and the World Bank. It covers income, spending and access to education, health and jobs. The previous survey, in 2021–22, put monetary poverty at 43.8%.
+
+</div>
+
+</div>
 
 ## Tunisia
 
-The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique. The regulator's survey [breaks internet use down by age, income, sex and district](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/): 99.2 per cent at 18 to 24 against 54.1 per cent at 60 to 70, and 69.1 per cent in the poorest households against 95.9 per cent in the richest.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Institute of Statistics development strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المجلس الوطني للإحصاء يستعرض استراتيجية تطوير المعهد الوطني للإحصاء وبرنامج عمله لسنة 2027](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027)** — Assabah News, 17 September 2026
+
+Tunisia's National Statistics Council reviewed the statistics institute's development strategy and its 2027 work programme at its second plenary of the year, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Usages des TIC en Tunisie : Un taux d’accès de 85,9 %, une consommation nocturne et la primauté du Sud](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/)** — L'Echo Tunisien, 1 October 2026
+
+Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, puts the national internet access rate at 85.9% in its latest ICT use barometer, reported on 1 October 2026. Use is 99.2% among 18–24 year-olds and 54.1% among 60–70 year-olds, and ranges from 69.1% in the lowest-income households to 95.9% in the highest. The barometer's fieldwork date is not given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : près de 86 % des 10-70 ans sont connectés et près d’un internaute sur deux utilise l’IA](https://www.leconomistemaghrebin.com/2026/10/16/86pc-10-70-ans-tunisie-connectes/)** — L'Économiste Maghrébin Tunisie, 16 October 2026
+
+Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% of people aged 10 to 70 use the internet, 10.9 points more than in 2023, and that 47.9% of users use AI applications, ahead of e-commerce (36.9%) and online government services (26.5%). The face-to-face survey of 5,077 people ran from 15 May to 10 June 2026; fibre accounts for 4% of connections.
+
+</div>
+
+</div>
 
 ## Uganda
 
-The bureau went to cultural institutions for the administrative records the civil register does not capture, signing [memoranda with the Samia Bugwe and Tieng Adhola institutions on collecting, managing and sharing community-generated information, births and deaths particularly](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/), with the bureau providing technical support and training. Its own argument for it is the interesting part: better administrative records would strengthen the population register and reduce what a national census costs. Neither text is held and no coverage or start date is published.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fourth Plan for National Statistical Development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBOS partners with Samia Bugwe and Tieng Adhola to improve community data](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/)** — Uganda Broadcasting Corporation, 6 September 2026
+
+The Uganda Bureau of Statistics signed memoranda of understanding with the Samia Bugwe and Tieng Adhola cultural institutions to collect and share community data, with a focus on births and deaths. The bureau will help the institutions set up statistics units and train staff. No cost or timetable is given.
+
+</div>
+
+</div>

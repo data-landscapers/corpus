@@ -1,30 +1,124 @@
 ---
 title: China activities — News, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 subject: geopol.china
-places: BWA; DJI; EGY; GMB
-record: 8dc4acb47f6e
+places: BWA; DJI; EGY; GMB; TGO
+record: 065e6bdb0e22
 ---
 
-# China activities: News, September – October 2026
+# News, Sep – Oct 2026
 
-*4 places. Every block below is carried verbatim from that place's own news page, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+<nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
+</nav>
 
 ## Botswana
 
-[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm). [Botswana signed a cooperation agreement on digital transformation with Huawei, covering government cloud hosting, smart education, telemedicine and AI-powered public security](https://dailynews.gov.bw/news-detail/93668); no sum is stated.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">China-Botswana comprehensive strategic partnership joint statement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[中华人民共和国和博茨瓦纳共和国关于建立全面战略合作伙伴关系的联合声明](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm)** — Embassy of the People's Republic of China in Tanzania (republishing the China-Botswana joint statement), 13 October 2026
+
+China and Botswana raised relations to a comprehensive strategic partnership in a joint statement issued during President Duma Boko's state visit. It affirms digital sovereignty and each state's right to choose its own path on artificial intelligence; Botswana joins China's digital economy trade-cooperation initiative and will consider joining the World AI Cooperation Organization.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huawei cooperation agreement on digital transformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Huawei critical partner in digital transformation](https://dailynews.gov.bw/news-detail/93668)** — Botswana Daily News (BOPA), 14 October 2026
+
+Botswana signed a cooperation agreement on digital transformation with Huawei at the company's Beijing Research Institute on 13 October 2026, during President Duma Boko's state visit to China. It covers cloud hosting of government data, smart education, telemedicine and AI-powered public security for the police. No value is stated.
+
+</div>
+
+</div>
 
 ## Djibouti
 
-The month's only movement here is a conversation. Djibouti [discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes between Africa, Asia and the Middle East and its stated ambition to be a regional digital hub](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques). Nothing held records an agreement, a project or a value behind it.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Talks with Huawei on digital infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti échange avec Huawei sur le développement de ses infrastructures numériques](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques)** — wearetech.africa, 17 September 2026
+
+Djibouti discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes linking Africa, Asia and the Middle East and its stated ambition to become a regional digital hub. No agreement or project has been published.
+
+</div>
+
+</div>
 
 ## Egypt
 
-During the Chinese president's September visit the communications minister [signed a memorandum on technological and digital cooperation covering cloud computing, data centres, semiconductors and cybersecurity](https://www.alnaharegypt.com/1196580). The text is not held, and no project, value or timetable is attached to it.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-China memorandum on technological and digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مصر تشعل سباق مراكز بيانات الذكاء الاصطناعي بين واشنطن وبكين ..وخبراء مصر أمام فرصة ذهبية](https://www.alnaharegypt.com/1196580)** — النهار (Al-Nahar Egypt), 20 September 2026
+
+Egypt's communications minister, Raafat Hindy, signed a memorandum with China on cloud computing, data centres, semiconductors and cybersecurity during President Xi Jinping's visit, and then received a US data-centre consortium. Huawei had earlier offered to build AI data centres using 1,408 Ascend 950 chips within 12 months; Nvidia, AMD and Microsoft have formed a rival US bid.
+
+</div>
+
+</div>
 
 ## Gambia
 
-Chinese engagement remained visible as training rather than infrastructure. A second channel opened at official level: on a visit to Guizhou University the country's permanent representative in Geneva [announced four initiatives — the Guizhou Provincial Big Data Laboratory as a data-governance research centre for the UN science and technology commission, a national data laboratory in The Gambia replicating it, scholarships in big data and artificial-intelligence governance, and a joint summer school](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university). They are announcements, not agreements: no text, funding or timetable is held, and none is a Gambian government instrument.
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gambia-Guizhou data cooperation initiatives</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ambassador Kah delivers keynote address at China's Big Data Expo 2026, secures landmark cooperation with Guizhou University](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university)** — The Point, 4 September 2026
+
+The Gambia's ambassador in Geneva, Muhammadou Kah, vice-chair of the UN Commission on Science and Technology for Development, gave a keynote at China's Big Data Expo in Guiyang on 28 August 2026. The next day at Guizhou University he announced plans for a Gambian national data laboratory, a UN research centre in Guizhou, scholarships and a joint summer school. No funding is stated.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chinese digital or technology cooperation instrument</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo-Chine : une douzaine d'accords multisectoriels signés à Pékin pour renforcer le partenariat bilatéral](https://presidenceduconseil.gouv.tg/2026/10/16/togo-chine-de-nouveaux-accords-multisectoriels-pour-renforcer-le-partenariat-bilateral/)** — Présidence du Conseil (Togo), 16 October 2026
+
+Togo and China signed thirteen agreements and memoranda in Beijing on 15 October 2026, two days after raising relations to a 'China-Togo community with a shared future for the new era'. They include cooperation on digital commerce and supply chains, an Authorised Economic Operator protocol between Togo's revenue office and Chinese customs, China Media Group partnerships with Télévision togolaise and partial cancellation of Togo's debt; a separate memorandum covers China's Global Security Initiative.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
+
+Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given.
+
+</div>
+
+</div>

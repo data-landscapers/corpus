@@ -24,7 +24,7 @@ reader: cc
 
 ## It is a lift, with nothing added
 
-The monthly carries everything under a place heading verbatim from that place's document: every block keyed `{section}--{subject}` — **the section is read off the ledger row, never derived from the subject**, and a place can hold more than one block for one subject, all printed in document order under the single place heading. A heading with nothing to carry under it is not printed.
+The monthly carries everything under a place heading verbatim from that place's document: the story cards under every `### {topic}` heading — a place can hold the topic in more than one section, all printed in document order under the single place heading, and a card cross-referenced to another topic of that place is replaced by the card itself, once. A heading with nothing to carry under it is not printed. The head is the place reports' (Bill, 2026-10-20): topic, chapters, title, the chapter's topics, then the places.
 
 **Nothing is authored here — no summary, no cross-place block, no connecting sentence.** An authored summary was proposed and refused. The monthly is the country material, sliced by subject and ordered by place.
 
