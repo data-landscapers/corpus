@@ -59,6 +59,7 @@ LICENCE, LICENCE_URL = "CC BY 4.0", "https://creativecommons.org/licenses/by/4.0
 KIND_LABEL = {
     "status": "Status report",
     "monthly": "News",               # the monthly update, renamed (Bill, 2026-10-17)
+    "progress": "Progress report",
     # The hyperscaler scan's country fact sheet, published by `hyperscaler-publish.py` from
     # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30); renamed from Institution
     # hosting (Bill, 2026-10-17).
@@ -81,6 +82,48 @@ BADGE = [
     ("planned",         "badge--grey"),
     ("discontinued",    "badge--grey"),
 ]
+
+# The progress report's own vocabulary, for its Movement column (see the
+# "Movement values" key each report opens with: Advanced, Stalled, Regressed,
+# Closed, No change, Baseline not held). Kept apart from BADGE rather than
+# merged into it: the two tables share no terms, and a shared list would be
+# one collision away from a status word mis-colouring a movement cell or vice
+# versa.
+BADGE_MOVEMENT = [
+    ("baseline not held", "badge--red"),
+    ("movement",          "badge--green"),
+    ("stalled",           "badge--amber"),
+    ("regressed",         "badge--red"),
+    ("closed",            "badge--grey"),
+    ("no change",         "badge--grey"),
+]
+
+# The indicator frame's Progress column (`progress-report-redesign.md` §3), a third vocabulary
+# and a third list, on the same reasoning that keeps the first two apart. It shares four terms
+# with BADGE_MOVEMENT and is not the same set: *Mixed* has no counterpart there, and **No
+# evidence is grey rather than red**. Baseline not held is red because it marks a report that
+# cannot answer a question it asked; No evidence is the frame answering exactly as designed —
+# a hundred red rows on a median country would read as a broken document rather than a thin
+# base, which is the reading §4's opening paragraph exists to prevent.
+BADGE_PROGRESS = [
+    ("no evidence", "badge--grey"),
+    ("movement",    "badge--green"),
+    ("advanced",    "badge--green"),
+    ("stalled",     "badge--amber"),
+    ("regressed",   "badge--red"),
+    ("mixed",       "badge--amber"),
+    ("no change",   "badge--grey"),
+]
+
+# **`Movement` is this column's positive value and `Advanced` is the old name for it**
+# *(2026-09-10)*. The reports' own key was rewritten to *Movement* and the renderer's list was
+# not, so 8,982 cells across the estate fell through to `badge--grey` — every positive row on
+# every country and topic progress report printed the same colour as *No change*, which is the
+# one distinction the column exists to make. `Advanced` stays because 235 rows still carry it;
+# it is not a synonym kept for taste, it is a value still in the corpus. The region reports'
+# ledgers followed on 2026-09-11 (Bill): `report-render.py` prints their `Advanced` as `Movement`,
+# which is why `BADGE_MOVEMENT` carries `movement` and no longer `advanced`.
+
 
 def frontmatter(text: str) -> tuple[dict, str]:
     """Split the frontmatter from the body. The reports use flat scalar keys
@@ -119,7 +162,7 @@ PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
 PRIOR_EDITION = re.compile(r'data-edition="([^"]+)"')
 
 
-KINDS = ("status", "monthly", "hosting", "finance", "bulletin")
+KINDS = ("status", "monthly", "progress", "hosting", "finance", "bulletin")
 
 
 def parse_name(path: Path) -> tuple[str, str]:
@@ -203,17 +246,40 @@ def badge_class(text: str, vocab=BADGE) -> str:
 
 
 def classify_table(headers: list[str]) -> str:
-    """A report's tables are told apart by their header row.
+    """A report holds four shapes of table, told apart by their header row.
 
-    The ledgers are `System or instrument | Status | As at`. Most else is
-    gaps-shaped: `System or instrument | What would settle it | Last probed`,
-    whose middle column is prose. Badging by column position alone put status
-    chrome on paragraphs of explanation, so the header row decides instead.
-    The progress reports' movement and indicator tables retired with them on
-    2026-10-17 (Bill).
+    The ledgers are `System or instrument | Status | As at`. The region progress
+    report's movement tables are `System or instrument | At <date> |
+    At <date> | Movement` — four columns, not three, and the badge belongs on
+    the last one rather than the second. A country progress report is the
+    indicator frame, `Topic | Indicator | Developments | Progress`, also four
+    and also badged on the last, told apart by that header. Everything else is
+    gaps-shaped:
+    `System or instrument | What would settle it | Last probed`, whose middle
+    column is prose. Badging by column position alone put status chrome on
+    paragraphs of explanation, so the header row decides instead.
     """
     if len(headers) > 1 and headers[1].startswith("status"):
         return "ledger"
+    # The region ledger's last column has been headed `Progress` since 2026-09-11 (Bill), so its
+    # `At <date>` second column is what tells it from the indicator frame now.
+    if len(headers) == 4 and (headers[3].startswith("movement")
+                              or (headers[1].startswith("at ") and headers[3].startswith("progress"))):
+        return "movement"
+    # The indicator frame: `Topic | Indicator | Developments | Progress`. Four columns like the
+    # movement table and badged on the last like it, but a different vocabulary and very
+    # different widths — the Developments cell carries prose and the row's expander.
+    if len(headers) == 4 and headers[3].startswith("progress"):
+        return "indicator"
+    # The topic progress report's own shape, `Country | Developments | Progress` — the same
+    # indicator frame sliced by subject rather than by place, so the same vocabulary and the
+    # same badges *(Bill, 2026-09-09)*. It fell through to `gaps` while the test was the
+    # four-column one, which is why the Progress column printed as plain text on
+    # `/topics/` and as a coloured badge on the country report it was lifted from. A class
+    # of its own rather than `indicator`: the widths are keyed on `nth-child` and there is
+    # one column fewer.
+    if len(headers) == 3 and headers[2].startswith("progress"):
+        return "topic-progress"
     # The Institution hosting report's two tables (`hyperscaler-publish.py`, 2026-09-30): the
     # banks-against-government split, a short table of figures sized to its content, and the
     # seven-column institution table, which the three-column gaps widths could not hold.
@@ -237,6 +303,15 @@ def style_tables(html: str) -> str:
         if cls == "ledger":
             table = label_status_header(table)
             return badge_rows(table, col=1, vocab=BADGE)
+        if cls == "movement":
+            # The start column is prose, except where there is no start: that cell is boxed
+            # like the Progress value it forces *(Bill, 2026-09-11)*.
+            table = badge_rows(table, col=3, vocab=BADGE_MOVEMENT, split_qualifier=True)
+            return badge_rows(table, col=1, vocab=BADGE_MOVEMENT, only="baseline not held")
+        if cls == "indicator":
+            return badge_rows(table, col=3, vocab=BADGE_PROGRESS, split_qualifier=True)
+        if cls == "topic-progress":
+            return badge_rows(table, col=2, vocab=BADGE_PROGRESS, split_qualifier=True)
         return table
 
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
@@ -259,16 +334,24 @@ def label_status_header(table: str) -> str:
     )
 
 
-def badge_rows(table: str, col: int, vocab) -> str:
+def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False,
+               only: str | None = None) -> str:
     """Turn one column into the site's badge component.
 
-    The cell is often a source link (always, for a ledger's Status), so the badge is applied *to*
-    the link where there is one rather than around it — the status keeps its colour and stays one
-    click from the record it came from.
+    The cell is often a source link (always, for a ledger's Status; never,
+    for a progress report's Movement, which is derived rather than cited),
+    so the badge is applied *to* the link where there is one rather than
+    around it — the status keeps its colour and stays one click from the
+    record it came from.
+
+    `only` badges a cell whose whole text is that value and leaves every other
+    cell in the column alone — for a column of prose that sometimes holds a
+    vocabulary value instead.
 
     **The cell is replaced by position, not by matching its text** *(2026-09-11)*.
     It was `row.replace(cell, …, 1)`, which rewrites the *first* identical cell in
-    the row, which is not always the one being badged.
+    the row: a region row whose start and Progress cells both read ***Baseline not
+    held*** had its start cell boxed and its Progress cell left plain.
     """
     def do_row(m: re.Match) -> str:
         row = m.group(0)
@@ -277,9 +360,29 @@ def badge_rows(table: str, col: int, vocab) -> str:
             return row
         target = cells[col]
         inner = re.sub(r"^<td[^>]*>|</td>$", "", target.group(0), flags=re.S).strip()
+        if only and re.sub(r"<[^>]+>", "", inner).strip().lower() != only:
+            return row
         cls = badge_class(inner, vocab)
         if inner.startswith("<a "):
             new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
+        elif split_qualifier and re.fullmatch(r"(<strong><em>)?[^<>,]+,[^<>]+(</em></strong>)?", inner):
+            # **The badge carries the stem; the qualifying clause sits beside it.** A badge is a
+            # label and has to read as one at a glance. That held while qualifiers were "Advanced,
+            # slipped", and stops holding on the indicator frame, where *Mixed* must name which
+            # instruments moved which way (`progress-report-redesign.md` §3) and the clause is
+            # routinely longer than the value it qualifies. Colouring is unaffected: `badge_class`
+            # already keys on the head term.
+            #
+            # The region ledger's Progress column took the same treatment on 2026-09-13 (Bill):
+            # its qualifiers ("No change, a fiftieth deposit announced for September 2026") were
+            # printing inside the badge. A ***Baseline not held*** value arrives bold-italic from
+            # `report-render.py`'s `mark()`, so the marker is lifted off and put back on the stem.
+            marked = inner.startswith("<strong><em>")
+            plain = re.sub(r"</?(strong|em)>", "", inner)
+            head, _, tail = plain.partition(",")
+            head = f"<strong><em>{head.strip()}</em></strong>" if marked else head.strip()
+            new = (f'<span class="badge {cls}">{head}</span>'
+                   f'<span class="badge-note">{tail.strip()}</span>')
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
         return row[:target.start()] + f"<td>{new}</td>" + row[target.end():]
@@ -339,10 +442,10 @@ H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 # in it. Built here rather than in the source, because the status report is authored by hand
 # and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
 # are brought into line.
-# In reading order *(Bill, 2026-10-17)*.
-FAMILY = (("monthly", "News"), ("status", "Status"), ("maturity", "Maturity"),
-          ("finance", "Finance"), ("hosting", "Online hosting"))
-FAMILY_PAGES = {"status", "monthly", "finance", "hosting"}
+# In reading order *(Bill, 2026-10-17)*; Progress returned after Status on 2026-10-20 (Bill).
+FAMILY = (("monthly", "News"), ("status", "Status"), ("progress", "Progress"),
+          ("maturity", "Maturity"), ("finance", "Finance"), ("hosting", "Online hosting"))
+FAMILY_PAGES = {"status", "monthly", "progress", "finance", "hosting"}
 
 
 def family_page(unit: str, kind: str) -> tuple[str, Path]:
@@ -571,9 +674,11 @@ BULLETIN_NOTES = copy("document", "bulletin-notes")
 META_KEY = {
     ("reports", "status"):   "meta-status",
     ("reports", "monthly"):  "meta-monthly",
+    ("reports", "progress"): "meta-progress",
     ("reports", "hosting"):  "meta-hosting",
     ("reports", "finance"):  "meta-finance",
     ("topics",  "monthly"):  "meta-topic-monthly",
+    ("topics",  "progress"): "meta-topic-progress",
 }
 
 # The place or subject a report's title opens with: `South Africa: status report`,
@@ -743,7 +848,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     pre_header = report_family(md_path, kind, meta)
     if pre_header and tree_of(md_path) == "topics":
         html_body = topic_bar(meta["subject"].strip()) + html_body
-    if kind in ("status", "monthly", "finance", "hosting") and "monthly-toc" not in html_body:
+    if kind in ("status", "monthly", "progress", "finance", "hosting") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
             bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)

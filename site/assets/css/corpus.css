@@ -60,10 +60,10 @@ html:has(.dl-datatable) { scroll-behavior: auto; }
 }
 
 /* ── WIDE TABLES ON A PHONE ──
- * The country pivot and other wide tables are wider than a phone and pushed
+ * The country pivot and the progress tables are wider than a phone and pushed
  * the whole page sideways (2026-09-11). Wrapped in this, they scroll in their
  * own frame instead. Phone widths only: a scrolling box is its own sticky
- * context, so on a wider screen it would unpin a sticky table header. */
+ * context, so on a wider screen it would unpin the progress table's header. */
 @media (max-width: 720px) {
   .table-scroll { overflow-x: auto; }
 }

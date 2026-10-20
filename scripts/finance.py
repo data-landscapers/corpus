@@ -8,7 +8,7 @@
       -> site/finance/budgets/budgets-all-countries-{edition}.csv   likewise, for budgets
       -> site/finance/all/index.html               the two joined: all finance, with its table
 
-**Two pages under one toc bar** *(Bill, 2026-09-22)*.
+**Two pages under one toc bar, the Progress arrangement** *(Bill, 2026-09-22)*.
 `/finance/` carries non-state finance and nothing else; `/finance/budgets/` carries the
 budget work. Its table came off the site on 2026-09-22 and returned on 2026-09-30 (Bill)
 as `budgets/budgets-all-countries.csv`, every line Corpus has read from a state's own budget
@@ -174,9 +174,9 @@ FOOT = foot(depth=1)
 
 
 def toc(current: str) -> str:
-    """NON-STATE FINANCE · BUDGETS · ALL FINANCE, a toc bar over the views. Every item is a
-    link, the current one pointing at itself with `aria-current`, because `.article-toc a`
-    styles the whole bar."""
+    """NON-STATE FINANCE · BUDGETS · ALL FINANCE, the bar `progress.py` → `toc` puts over
+    its views. Every item is a link, the current one pointing at itself with
+    `aria-current`, for the reason given there: `.article-toc a` styles the whole bar."""
     up = "" if current == "non-state" else "../"      # `/finance/` is the non-state page
     items = [(key, label, "./" if key == current else (up + path or "./"))
              for key, label, path in (("non-state", "Non-state finance", ""),

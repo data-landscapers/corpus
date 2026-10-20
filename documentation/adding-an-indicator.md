@@ -26,7 +26,7 @@ So a new indicator either sits under an existing subject — preferred, a Corpus
 
 ## 2. The id
 
-**`{subject-slug}--{slug-of-full-indicator-text}`, minted mechanically, never composed by hand, never reissued, never renamed** (`archived/progress-report-redesign.md` §2, carried into the assessment). The slug is the indicator's full text lower-cased with every run of non-alphanumerics collapsed to one hyphen, leading and trailing hyphens dropped: *P2P, P2G and P2B functionality* → `p2p-p2g-and-p2b-functionality`. A sort number is never part of an id. Check `indicators_lib.ids()` for a collision before writing the row; on a collision the text changes, not the id rule. **A study's sub-indicator takes the id of the row it redraws** *(Bill, 2026-10-19)*: bookmarks, files and downloads carry that id and no description. Only a study splitting one row into several mints its sub-indicators from their text — the rural health clinics' `-hmis` and `-emr`.
+**`{subject-slug}--{slug-of-full-indicator-text}`, minted mechanically, never composed by hand, never reissued, never renamed** (`progress-report-redesign.md` §2, carried into the assessment). The slug is the indicator's full text lower-cased with every run of non-alphanumerics collapsed to one hyphen, leading and trailing hyphens dropped: *P2P, P2G and P2B functionality* → `p2p-p2g-and-p2b-functionality`. A sort number is never part of an id. Check `indicators_lib.ids()` for a collision before writing the row; on a collision the text changes, not the id rule.
 
 ## 3. The frame row
 

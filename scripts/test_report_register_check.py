@@ -106,6 +106,7 @@ check("rate pattern finds nothing in a flat line",
 print("\na skeleton that stops naming a document is fatal, not a silent skip")
 for kind, text, want_missing in (
         ("country", "**Prose only: 300 + 25 to 1,200 + 55 words a row for a monthly.**\n", "status"),
+        ("region", "**Prose only: 300 + 25 to 900 + 55 words a row for a monthly.**\n", "progress"),
         ("country", "**Prose only: no numbers at all.**\n", "status")):
     err = io.StringIO()
     code = None

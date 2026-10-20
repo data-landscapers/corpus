@@ -770,7 +770,7 @@ def write_current(reports: Path, unit: str, staged: dict[str, dict]) -> None:
             r[c] = s.get(c, "") if s else ""
     # A measure staged on a compiled or reference figure may have no row here at all: nothing was
     # ever mapped to it (finance.sustain, new at B3, in most units). It gets one, `No evidence` in
-    # the retired progress column, which is true of its mapping, carrying its stage columns.
+    # the progress column, which is true of its mapping, carrying its stage columns.
     held = {(r.get("indicator_id") or "").strip() for r in rows}
     order = {r["indicator_id"]: n for n, r in enumerate(indicators_lib.frame())}
     for iid in sorted(set(staged) - held, key=lambda i: order.get(i, 10**6)):

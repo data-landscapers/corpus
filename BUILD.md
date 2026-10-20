@@ -121,6 +121,7 @@ python scripts/topic-render.py --check    # check G over what it wrote
 
 ```bash
 python scripts/report-register-check.py     # no --unit: the default is all 60
+python scripts/lint-considered.py           # every unit; the "No evidence" trap
 ```
 
 **This is the step that stops a finding living in a console** — every other check runs per unit, on the units the pass worked. Its counts go in the log line at step 3, anything the run did not clear gets a block at step 2, and it is **not a gate**.

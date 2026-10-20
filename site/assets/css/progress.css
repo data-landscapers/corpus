@@ -1,0 +1,53 @@
+/* progress.css — the two progress count tables, /progress/ and /progress/countries/.
+   Corpus-owned, like methodology.css: main.css is a copy carrying MAIN-CSS-FROM and
+   nothing that belongs to one page of this site goes into it.
+
+   .article-body table in main.css already gives the borders, padding and mono
+   header. What is here is only what a table of 726 counts needs on top: figures
+   that line up, a band that reads as a band, and a zero that stays out of the way. */
+
+.progress-table { font-variant-numeric: tabular-nums; }
+
+/* The label column carries the weight; the six counts are narrow and equal, so a
+   number is compared with the one above it rather than measured against its own
+   column width. */
+.progress-table .rowhead { width: 40%; }
+.progress-table th.num, .progress-table td.num { width: 10%; text-align: right; white-space: nowrap; }
+
+/* 159 rows on the topics table, 59 on the other: the header outruns the screen on
+   both, and a count column is unreadable once its heading has scrolled off.
+
+   Static until `progress-sticky.js` has measured the site chrome and said so. The
+   site header and the Corpus nav are themselves sticky and between them 100-160px
+   tall depending on whether the nav has wrapped, so an offset guessed here is
+   wrong at some width — and an offset that is too small parks the header *under*
+   the nav, which loses the labels with nothing on screen to explain it. Sticking
+   nothing is the safe default; the script upgrades it. */
+.progress-table thead th { position: static; }
+.progress-sticky .progress-table thead th { position: sticky; top: var(--progress-top, 0px); z-index: 2; }
+
+.progress-table .indicator, .progress-table .country { padding-left: 1.75rem; }
+.progress-table .indicator a, .progress-table .country a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); }
+.progress-table .indicator a:hover, .progress-table .country a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* The band. Bold caps in the display face, and the six cells beside it left blank
+   by instruction — so the row needs to read as a heading rather than as a country
+   whose counts failed to render. */
+.progress-table tr.group th { font-family: var(--display); font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink); background: var(--paper-warm); text-align: left; vertical-align: middle; }
+.progress-table tr.group th a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule); }
+.progress-table tr.group th a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.progress-table tr.group td { background: var(--paper-warm); }
+.progress-table tbody tr.group:hover td, .progress-table tbody tr.group:hover th { background: var(--paper-warm); }
+
+/* Counted, none. The digit is always printed — a blank cell in a count table reads
+   as "not counted", which is a different claim — and greyed so the eye passes over
+   it and lands on the movement. */
+.progress-table td.zero { color: var(--ink-faint); }
+
+@media (max-width: 720px) {
+  .progress-table { font-size: 0.78rem; }
+  .progress-table .rowhead { width: auto; }
+  .progress-table th.num, .progress-table td.num { width: auto; }
+  .progress-table th, .progress-table td { padding: 0.4rem 0.35rem; }
+  .progress-table .indicator, .progress-table .country { padding-left: 0.75rem; }
+}

@@ -15,9 +15,19 @@ the object's name rather than the report's prose — *Attack surface of the onli
 is a system this base carries, and flagging it would be flagging the world rather than the
 writing. URLs are masked before matching so a slug containing `unlock` is not a register hit.
 
-Drafted prose sits in `<!-- narrative: key -->` markers inside the document, or is the whole
-of an authored status baseline. The progress reports, whose prose this also checked, retired on
-2026-10-17 (Bill).
+**Drafted prose lives in two places now** *(2026-08-26)*. The status report, the monthly and a
+region's progress report keep it in `<!-- narrative: key -->` markers inside the document. A
+**country's** progress report keeps it in `outputs/reports/{unit}/indicators.csv`, two columns
+per indicator (`progress-report-redesign.md` §5), and that file is read here too — it is the
+longest body of prose the site publishes and a check that saw only the markers would have
+stopped seeing all of it. Its budget is per indicator rather than per document, for the reason
+the country skeleton gives: how many indicators carry prose is a fact about the base, not about
+the writing.
+
+The changeover needs no flag day and gets none. A country progress report that still carries
+markers has not been re-rendered yet, so it is still what the site publishes and is still
+checked as a document — minus the whole-document band, which stopped applying to it. One that
+carries none has moved, and is checked through its `indicators.csv` instead.
 
 The budget is read from the skeleton rather than duplicated here, because the skeleton is
 the knob: change the numbers there and this follows. If its line is reworded past the
@@ -30,6 +40,7 @@ Usage:
 """
 import argparse
 import collections
+import csv
 import glob
 import os
 import re
@@ -181,17 +192,17 @@ def _num(s):
 # `main()` skips a kind with no band, so a reworded line for one document would silently stop
 # budgeting that document while every other check kept reporting normally. That is the shape the
 # rate line makes likelier, being a longer sentence than the flat one, so it is closed here.
+# A country's progress prose is budgeted per indicator, so the country skeleton does not name it.
 # **The monthly carries no prose since 2026-10-16** (Bill: the bulletin's cards, not narrative),
-# so neither skeleton budgets it and a monthly is skipped below as a kind with no band. A region
-# issues nothing else since the progress report retired (2026-10-17), so it requires no band.
-REQUIRED = {"country": {"status"}, "region": set()}
+# so neither skeleton budgets it and a monthly is skipped below as a kind with no band.
+REQUIRED = {"country": {"status"}, "region": {"progress"}}
 
 
 def budgets(kind="country"):
     """{doc kind: Band} read from that process's skeleton, which is the knob.
 
-    The patterns read each budget independently and in either form, so a skeleton may name any
-    number of documents."""
+    The patterns read each budget independently and in either form, so a skeleton may name one
+    document (a region, which issues the progress report and a monthly) or three."""
     path = SKELETONS[kind]
     text = open(path, encoding="utf-8").read()
     found = {m.group(3): Band(_num(m.group(1)), 0, _num(m.group(2)), 0)
@@ -292,7 +303,7 @@ def line_of(text, offset):
 
 def kind_of(path):
     name = os.path.basename(path)
-    for k in ("status", "monthly"):
+    for k in ("status", "monthly", "progress"):
         if f"-{k}" in name:
             return k
     return None
@@ -371,6 +382,101 @@ def unprovenanced(block):
     return list(dict.fromkeys(out))
 
 
+INDICATOR_LINE = re.compile(
+    r"([\d,]+)\s*[–-]\s*([\d,]+)(?: words)? for an indicator (summary|developments)")
+
+
+def indicator_budget():
+    """`{field: (low, high)}` — the per-indicator bands, read from the country skeleton.
+
+    **The progress report's prose is budgeted per indicator and not per document** *(the country
+    skeleton, → *Word budget*, 2026-08-26)*. A whole-document band would fail a country for the
+    state of the base rather than the state of its writing: five indicators carrying evidence and
+    eighty are both correct, and no single number can hold both. Read from the skeleton for the
+    same reason the document bands are — the skeleton is the knob, and a number duplicated here
+    would be a second knob nobody turns.
+    """
+    path = SKELETONS["country"]
+    found = {m.group(3): (int(m.group(1).replace(",", "")), int(m.group(2).replace(",", "")))
+             for m in INDICATOR_LINE.finditer(open(path, encoding="utf-8").read())}
+    missing = {"summary", "developments"} - set(found)
+    if missing:
+        print(f"FATAL: the per-indicator word-budget line in {os.path.relpath(path, ROOT)} no "
+              f"longer names {', '.join(sorted(missing))}. Fix one or the other — a check that "
+              f"silently stops checking is worse than no check.", file=sys.stderr)
+        sys.exit(2)
+    return found
+
+
+# **Provenance in indicator prose is a slug, not a URL.** The narrative blocks cite the web
+# directly and `CITED` tests for that; `indicators.csv` cites the base by catalogue slug and the
+# renderer resolves it (`report-render.py` -> `cite_prose`). Testing the stored prose for
+# `](https://` would therefore find no citation anywhere and report every figure in every
+# indicator as unprovenanced — a check firing on all of its input, which is how a check stops
+# being read. Check M is what tests that the slug is real; this only asks that one is there.
+CITED_ANY = re.compile(r"\]\([^)]+\)")
+
+
+def unprovenanced_slug(block):
+    """`unprovenanced()`'s rule — a figure needs a source in its own sentence — for slug prose."""
+    out = []
+    for s in sentences(block):
+        if CITED_ANY.search(s):
+            continue
+        out += [f for f in dict.fromkeys(FIGURE.findall(s)) if not YEAR.match(f.strip())]
+    return list(dict.fromkeys(out))
+
+
+INDICATOR_FIELDS = ("summary", "developments")
+
+
+def check_indicators_file(path, bands):
+    """The register, the per-indicator budget and check H, over one unit's `indicators.csv`.
+
+    **The country progress report's prose stopped living in the document it appears in**
+    (`progress-report-redesign.md` §5), and a register check that reads only `<!-- narrative -->`
+    markers stopped seeing any of it — while it became the longest body of prose the site
+    publishes. This reads the two prose columns of `indicators.csv` instead. Same register, same
+    check H, same rule that it verifies and never repairs.
+
+    Line numbers are real ones, found by locating each `indicator_id` at the start of its row, so
+    a hit is something an editor can open the file at rather than a row number to count to.
+
+    Returns `(hits, rows_over_band, unprovenanced)` — the counts are per **cell**, not per
+    document, because that is the unit the band is set in.
+    """
+    text = open(path, encoding="utf-8-sig").read()
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        rows = list(csv.DictReader(fh))
+    hits, over, figs = [], [], []
+    for r in rows:
+        iid = (r.get("indicator_id") or "").strip()
+        if not iid:
+            continue
+        m = re.search(r"^" + re.escape(iid) + r"[,\r\n]", text, re.M)
+        line = line_of(text, m.start()) if m else 0
+        for field in INDICATOR_FIELDS:
+            raw = (r.get(field) or "").strip()
+            if not raw:
+                # An empty cell is check L's business, not the register's: it knows whether the
+                # row is No evidence, where empty is correct, and this does not.
+                continue
+            block = mask_urls(raw)
+            countable = ANCHOR.sub(r"\1", raw)
+            words = len(re.sub(r"\[([^\]]*)\]", r"\1", countable).split())
+            lo, hi = bands[field]
+            if not lo <= words <= hi:
+                over.append((line, iid, field, words, lo, hi))
+            for label, patterns, icase in TERMS:
+                for pat in patterns:
+                    for mm in re.finditer(pat, block, re.I if icase else 0):
+                        hits.append((line, f"{iid}/{field}", label, mm.group(0)))
+            for mm in first_person_hits(block):
+                hits.append((line, f"{iid}/{field}", "first person", mm.group(0)))
+            bare = unprovenanced_slug(raw)
+            if bare:
+                figs.append((line, f"{iid}/{field}", bare))
+    return sorted(hits), sorted(over), sorted(figs)
 
 DERIVED = "<!-- derived -->"
 
@@ -434,6 +540,7 @@ def main():
         return 0
 
     budget = {k: budgets(k) for k in SKELETONS}
+    bands = indicator_budget()
 
     # **`--unit all` used to match a unit literally named `all` and report a clean pass over nothing**
     # *(2026-08-20)*. It printed `register: 0 hit(s); budget: 0 document(s) outside band; check H: 0`
@@ -452,6 +559,12 @@ def main():
             return 2
 
     flagged = over = uncited = 0
+    # **A country's progress prose is in `indicators.csv`, so that is what gets checked**
+    # *(2026-08-26)*. The document itself carries no narrative markers any more, so reading it
+    # would score every country at nought words and report 54 documents under band — a check
+    # loudly measuring a thing that moved. The regions are untouched: their progress report is
+    # still the movement document and its prose is still in its markers.
+    seen_units = []
     for path in sorted(glob.glob(pattern)):
         kind = kind_of(path)
         if not kind:
@@ -459,19 +572,35 @@ def main():
         unit = os.path.basename(os.path.dirname(path))
         region = unit.startswith("X")
         band_for = budget["region" if region else "country"]
+        if not region and unit not in seen_units:
+            seen_units.append(unit)
+        # **A country's progress prose moved to `indicators.csv`, so the whole-document band no
+        # longer applies to the document** — but the document does not vanish the moment the band
+        # does. Until the mapping pass has run and the report been re-rendered, the old one is
+        # still what the site publishes and its narrative blocks are still live prose. So the
+        # band is dropped for it and the register and check H are not: skipping it outright
+        # would leave 54 published documents and ~590k characters unchecked for the length of
+        # the migration, which is exactly the window in which nobody would notice.
+        legacy = kind == "progress" and not region
+        if legacy and not MARKER.search(open(path, encoding="utf-8").read()):
+            continue                             # re-rendered: its prose is in indicators.csv now
         # **An initialised unit's status report is authored, not rendered, and carries no
         # narrative markers** — `REPORT-UPDATE.md` → *Maintaining the status baseline*. Reading it for
         # marker words scored 40 of the 54 status reports at nought and reported each of them
-        # 1,000 words under band, while every one of them held thousands of words of live prose,
-        # in the one place a deficit can never be true. The band is dropped for it; the register
-        # and check H are not.
+        # 1,000 words under band, while every one of them held thousands of words of live prose:
+        # the same defect this file already names for the progress document, in the one place a
+        # deficit can never be true. The band is dropped for it; the register and check H are
+        # not, because unlike the progress case the prose is in this document and nowhere else.
         authored = (kind == "status" and not region
                     and not MARKER.search(open(path, encoding="utf-8").read()))
-        if not authored and kind not in band_for:  # not budgeted by the skeleton
+        if not (legacy or authored) and kind not in band_for:  # not budgeted by the skeleton
             continue
         hits, words, figs, sections = check_file(path, band_for, authored=authored)
         rel = os.path.relpath(path, ROOT)
-        if authored:
+        if legacy:
+            # No band, and said so rather than printed as a clean nought.
+            head = f"{rel}  {words} words (not budgeted — prose moves to indicators.csv)"
+        elif authored:
             head = f"{rel}  (not budgeted — authored baseline, prose outside the markers)"
         else:
             budget_band = band_for[kind]
@@ -499,9 +628,41 @@ def main():
         flagged += len(hits)
         uncited += len(figs)
 
-    print(f"\nregister: {flagged} hit(s) to rule on; budget: {over} document(s) outside band")
-    print(f"check H: {uncited} block(s) carrying a figure with no source to follow")
-    return 1 if (flagged or over) else 0
+    cells = missing = checked = 0
+    for unit in seen_units:
+        ipath = os.path.join(REPORTS, unit, "indicators.csv")
+        if not os.path.exists(ipath):
+            # Named, not skipped in silence. Until the mapping pass has run for a unit there is
+            # no progress prose to check, and a run that says nothing about it is indistinguish-
+            # able from one that checked it and found nothing — the `--unit all` mistake of
+            # 2026-08-20, in a second place.
+            missing += 1
+            continue
+        checked += 1
+        hits, band, figs = check_indicators_file(ipath, bands)
+        rel = os.path.relpath(ipath, ROOT)
+        print(f"{rel}  {len(hits)} register hit(s)"
+              + (f"  {len(band)} cell(s) outside band" if band else "")
+              + (f"  {len(figs)} uncited cell(s)" if figs else ""))
+        for line, where, label, txt in hits:
+            print(f"    {rel}:{line}  [{label}] {where}: {txt}")
+        for line, where, field, words, lo, hi in band:
+            how = f"OVER by {words - hi}" if words > hi else f"UNDER by {lo - words}"
+            print(f"    {rel}:{line}  [budget] {where}/{field}: {words} words ({lo}-{hi})  {how}")
+        for line, where, bare in figs:
+            print(f"    {rel}:{line}  [check H] no citation in this cell: {where}: "
+                  f"{', '.join(bare)}")
+        flagged += len(hits)
+        cells += len(band)
+        uncited += len(figs)
+
+    print(f"\nregister: {flagged} hit(s) to rule on; budget: {over} document(s) outside band"
+          + (f", {cells} indicator cell(s) outside band in {checked} file(s)" if checked else ""))
+    print(f"check H: {uncited} block(s) or cell(s) carrying a figure with no source to follow")
+    if missing:
+        print(f"indicator prose: {missing} country unit(s) have no indicators.csv — the mapping "
+              f"pass has not run for them, so their progress prose was not checked")
+    return 1 if (flagged or over or cells) else 0
 
 
 if __name__ == "__main__":

@@ -20,7 +20,7 @@ status: in force; Corpus-owned
 ---
 title: {Place or subject} — {document type}{, period}
 compiled: YYYY-MM-DD          # the render date
-period: YYYY-MM-DD to YYYY-MM-DD   # monthly only
+period: YYYY-MM-DD to YYYY-MM-DD   # monthly and progress only
 place: ISO3                   # or subject: slug, for a topic report
 ledger_rows: N                # script-emitted
 not_held: N                   # script-emitted; the count a reader is owed
@@ -44,11 +44,11 @@ not_held: N                   # script-emitted; the count a reader is owed
 | 8 | Inclusion | `include.*` |
 | 9 | Data | `data.*` |
 | 10 | Geopolitics | `geopol.*` |
-| — | Gaps to fill / Where the record is thin | The ***Not held*** rows, with what would settle each. Status only. |
+| — | Gaps to fill / Where the record is thin | The ***Not held*** rows, with what would settle each. Status and progress only. |
 
-**The headings are identical across both documents** so they read side by side, and an empty section in one is visible rather than hidden. **A section with no ledger rows is written as one sentence saying so** — never padded, never silently dropped.
+**The headings are identical across all three documents** so they read side by side, and an empty section in one is visible rather than hidden. **A section with no ledger rows is written as one sentence saying so** — never padded, never silently dropped.
 
-**Within a section, the renderer sub-groups by taxonomy Level-2 subject** — a `###` sub-heading with the subject's `taxonomy.csv` label, in the taxonomy's own order. Status gets one small table per subject; monthly gets that subject's story groups of item cards, and no marker. A subject with no rows, or no moved rows that month, gets no sub-heading and no block. `ledger.csv` is kept sorted the same way (Level-1, Level-2, name) by the renderer on every load.
+**Within a section, the renderer sub-groups by taxonomy Level-2 subject** — a `###` sub-heading with the subject's `taxonomy.csv` label, in the taxonomy's own order. Status and progress get one small table per subject; monthly gets that subject's story groups of item cards, and no marker. A subject with no rows, or no moved rows that month, gets no sub-heading and no block. `ledger.csv` is kept sorted the same way (Level-1, Level-2, name) by the renderer on every load.
 
 The unwritten section blocks left by the six-section → ten-chapter migration are drafting work, counted by check L; `documentation/archived/narrative-backlog-four-chapters.md` was the work list as measured on 2026-08-27; check L is the live count.
 
@@ -56,11 +56,11 @@ The unwritten section blocks left by the six-section → ten-chapter migration a
 
 - **Status** — state only. Each section opens with the **inventory table**: *system or instrument · status · as at*, where *as at* is the milestone that fixed the position, never a bare date. Then prose on what the position *is* and why. **No chronology.** The test: a sentence that would read oddly six weeks from now belongs in the monthly.
 - **Monthly** — events between the first of the month just closed and the date of issue, dated and cited. **No table**: a table of rows that moved restates the ledger without telling a reader what happened. **No maturity verdicts** — that is the status report's job.
-**The progress report retired on 2026-10-17** *(Bill)*; the maturity assessment replaced it.
+- **Progress** — the **movement table**: *system or instrument · at {start} · at {end} · movement*, the two middle cells carrying the **substance** of the position rather than its label. Then prose on what moved. It is the only one of the three that can truthfully say nothing changed, and it must be willing to.
 
-**The window does not stop at the month's close** (`report-layer.md` §2): it runs to the day the issue is cut. Print the true period; never let the month in the title stand in for it.
+**Neither window stops at the month's close** (`report-layer.md` §2): both run to the day the issue is cut. Print the true period; never let the month in the title stand in for it.
 
-Where one object belongs in more than one document: the monthly carries **what moved**, the status **what it means for the current position**. One deliberate repetition is allowed where the same fact is the hinge of two documents.
+Where one object belongs in more than one document: the monthly carries **what moved**, the status **what it means for the current position**, the progress report **the delta**. One deliberate repetition is allowed where the same fact is the hinge of two documents.
 
 ## Register
 
@@ -71,6 +71,8 @@ Where one object belongs in more than one document: the monthly carries **what m
 **Prose only, tables excluded: 1,000–1,450 words for a status report.**
 
 **The monthly carries no prose and has no budget** *(Bill, 2026-10-16)*. It is the bulletin's item cards over the window, grouped by the ledger row each source moved, oldest first; `render_monthly()` in `report-render.py` holds the rule.
+
+**The progress report is budgeted per indicator, not per document: 8–40 words for an indicator summary, 25–200 for an indicator developments** (`documentation/progress-report-redesign.md`). A country's progress prose is one entry per indicator that carries evidence, and how many that is depends on what the base holds — five for a thin country and eighty for a thick one, both correct; a whole-document band would fail one of them for the state of the base rather than the state of the writing. The **summary** band is a layout constraint first — the table shows it in a cell, and a summary past forty words is a paragraph in a cell. The **developments** text sits behind the row's expander, where length costs the reader nothing until they ask — room for two to four dated events at roughly thirty words an event. Neither band applies to a ***No evidence*** row, which carries no prose: the value is the statement.
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`); counting raw markdown scores URL path segments as words.
 
@@ -96,6 +98,6 @@ Every agent prompt carries these six, verbatim in substance:
    - **`position_start` and `position_end` carry substance, not labels.** Where the base establishes the thing did not exist at the start, the cell says `Did not exist` — a fact, and not the same as ***Baseline not held***.
 2. **Resolve slugs yourself** against the index (`scripts/vault_lib.py`), and **if a slug is not there, say so and drop the claim** — never reconstruct a plausible URL. A source with no `url:` field is correctly uncitable, not a bad slug.
 3. **Report absence rather than filling it.** A thin or absent evidence base is a finding to report, not to pad over — this produces the single most useful output of a run, and the default behaviour without it is balanced-looking prose over nothing.
-4. **Both ends dated, always** — even for a status report. **Ask explicitly what the base said about each row twelve months ago**: the same status carried earlier is `since` and is *not* movement; a different status is movement; nothing at all is ***Baseline not held***. An agent not asked returns only the newest date, and the ledger then dates a standing position to its build.
+4. **Both ends dated, always** — even for a status report. **Ask explicitly what the base said about each row twelve months ago**: the same status carried earlier is `since` and is *not* movement; a different status is movement; nothing at all is ***Baseline not held***. An agent not asked returns only the newest date, and the progress report then reports the ledger's build date as a year of change.
 5. **No web search. Local files only.** An agent that helpfully fetches a fresh source has broken the sweep containment boundary and put unadmitted material into a deliverable.
 6. **The Corpus editorial register (`report-layer.md` → §10), in full**, wherever the agent writes narrative. An agent given a shape and no register writes to the register it thinks a report on Africa wants, which is the magazine one; pasting the rules costs a few hundred tokens and editing them out afterwards costs a redraft.

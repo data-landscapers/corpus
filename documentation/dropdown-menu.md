@@ -10,8 +10,11 @@ status: built 2026-09-28; the live list is data-landscapers _data/site_menu.yml,
 * Portfolio
 * About
 * Corpus
+* Progress
+
+  * Topics
+  * Countries
 * Bulletin
-* Maturity
 * Countries \& Regions
 * Topics
 * Datasets

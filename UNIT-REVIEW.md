@@ -29,10 +29,10 @@ python scripts/unit-review.py next           # any other cycle
 
 ## What a unit issues
 
-| | status | mapping | monthly | non-state finance |
+| | status | progress | monthly | non-state finance |
 |---|---|---|---|---|
-| **country** | `outputs/reports/{U}/{U}-status.md` | `indicators.csv` | `{U}-monthly.md` | `outputs/non-state-finance/{U}-nonstate.csv` |
-| **region** | never | never | where it exists | where the CSV exists |
+| **country** | `outputs/reports/{U}/{U}-status.md` | `{U}-progress.md` + `indicators.csv` | `{U}-monthly.md` | `outputs/non-state-finance/{U}-nonstate.csv` |
+| **region** | never | where `outputs/reports/{U}/` exists | where it exists | where the CSV exists |
 
 `XGL` and `XSS` issue finance tables and no reports. A document a unit does not issue is not reviewed and not created.
 
@@ -51,7 +51,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
 3. **Review each document against the question the checks cannot ask — is it still right?**
    - **Status** (countries). Does each sub-section state the position the ledger and the newest held sources now establish? Superseded facts, figures whose *as of* has been overtaken, an opening sentence no longer carrying the best-evidenced news, a claim its link does not make. Revise under `REPORT-UPDATE.md` → *Maintaining the status baseline*, whose rules apply whole — including its revert rule and *a borderline source changes nothing*.
-   - **Mapping.** Does `indicators.csv` map every moved or minted ledger row to the indicators it answers? The maturity assessment reads its evidence from `row_ids`, so a row left unmapped is evidence it never sees. `documentation/indicator-mapping-conventions.md` is the procedure.
+   - **Progress.** Does `indicators.csv` answer from the ledger as it stands — every moved or minted row mapped, each Developments cell current, each Progress judgement supported by what it cites? A *No evidence* over a ledger that holds the answer is the `considered-not-carried.md` defect and is repaired here. `documentation/indicator-mapping-conventions.md` is the procedure.
    - **Monthly.** Item cards, no prose: check that each story's sources are reports of one development. A source attached to the wrong row is a ledger fix.
    - **Non-state finance.** The table is derived and **never hand-edited**. Read the rows for a deal counted twice, a recipient that is not this place, an amount whose basis or quality the description contradicts, a financier name that did not resolve, a row that is state finance — and read the unit's held sources for **a deal with no row at all**. **Repair where the defect lives.** A fault in how Corpus compiles the rows — `scripts/build-finance-page.py` or `scripts/finance_lib.py` — is fixed here, then `python scripts/build-finance-page.py --all`. The other two cases are OSINT's, and take different routes:
      - **A deal with no record is minted, not asked for.** Write the draft deal record to `wiki/finance-record-spec.md` — its five-fact test, template, filename and *Verification* list — from the held source, whose `url:` it carries. First search `raw/` for the source's `deal_id`, project ID and financier-plus-recipient, so a deal already held is not drafted twice. Drafts go in `C:\corpus-osint-xfer\new-queue\unit-review-{U}\`, one folder a unit a night; **write `READY` last**, once every draft is in and checked. The cycle pulls the folder and ingest decides — a draft is not admitted by being queued, and one that duplicates a held record is dropped there. No note is written for a draft.
@@ -65,7 +65,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
 
    ```bash
-   python scripts/unit-review.py done {U} --status <n> --mapping <n>   # the counts step 6 logs
+   python scripts/unit-review.py done {U} --status <n> --progress <n>   # the counts step 6 logs
    git add outputs/reports/{U} outputs/non-state-finance outputs/budgets scripts logs/unit-review.csv   # only what the run touched
    git commit -F - <<'EOF'
    Review {U}: <what changed, in counts>
@@ -77,7 +77,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 6. **Log it**:
 
    ```bash
-   python scripts/log-line.py review "{U}: status <n> sections revised, mapping <n> cells, finance <n> rows; <n> deals queued, <n> notes for OSINT — ok"
+   python scripts/log-line.py review "{U}: status <n> sections revised, progress <n> cells, finance <n> rows; <n> deals queued, <n> notes for OSINT — ok"
    ```
 
    Counts of zero are written, not omitted, so a line says what was looked at.

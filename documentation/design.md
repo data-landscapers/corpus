@@ -34,9 +34,9 @@ Decisions taken and not to be re-opened without a reason. Each is Bill's decisio
 | Surface | Source | Notes |
 |---|---|---|
 | Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | metadata only, never bodies; the CSV is the download, the JSON is internal |
-| Country reports | `outputs/reports/{ISO3}/` | Status, monthly update (the progress report retired 2026-10-17) |
-| Regional reports | `outputs/reports/{X__}/` | Monthly update |
-| Topic reports | `outputs/topics/{slug}/` | One Level-2 slug across places, a monthly update each |
+| Country reports | `outputs/reports/{ISO3}/` | Status, monthly update, twelve-month progress |
+| Regional reports | `outputs/reports/{X__}/` | Progress only |
+| Topic reports | `outputs/topics/{slug}/` | One Level-2 slug across places, two documents each |
 | National budgets | `outputs/budgets/{ISO3}-budget.csv` | 17 countries initialised |
 | Non-state finance | `outputs/non-state-finance/` | Per country, plus the all-Africa editions |
 | Metadata | frontmatter, facets, freshness | Part of the offer rather than an afterthought |

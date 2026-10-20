@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """topic-render.py — BUILD stage 6: the topic reports, lifted from the place reports.
 
-One Level-2 taxonomy slug is a unit; it issues one document, `{slug}-monthly.md`, into
-`outputs/topics/{slug}/`. The topic progress report retired on 2026-10-17 (Bill).
+One Level-2 taxonomy slug is a unit; it issues two documents, `{slug}-monthly.md` and
+`{slug}-progress.md`, into `outputs/topics/{slug}/`.
 
 **Nothing is authored here** *(Bill, 2026-08-14)*. There is no summary, no cross-place block and
 no connecting sentence: a topic document is the place documents' material, sliced by subject and
 reordered, and that is the whole of it. The design note is `documentation/topic-reports.md`; this
 script is that note, executed.
 
-What the document carries:
+What each document carries:
 
   monthly    every `### {topic}` block of story cards a place's monthly holds for this subject,
              verbatim, under a `## {place}` heading. **Every** one, not the first: a subject may
@@ -17,6 +17,21 @@ What the document carries:
              `section` and five units override it — so the blocks are matched on the topic
              heading and printed in document order under the one place heading. No section map
              is consulted.
+
+  progress   **countries only** — the frame covers them and not the three regions
+             (`progress-report-redesign.md` §1), and a region's own progress report is not built
+             on the frame at all. Sectioned by **indicator**, not by place: each indicator this
+             subject's frame carries gets an `## {indicator}` heading and a `| Country |
+             Developments | Progress |` table, one row per country whose own progress report
+             carries a Developments cell for it — read off that country's rendered document, the
+             same table `render_progress_indicators()` writes, never rebuilt here. An indicator no
+             country has evidence for prints no heading, the same lift-only rule the monthly
+             follows. *(2026-09-02, replacing the section-keyed movement table the pre-indicator
+             country progress report used to carry.)*
+
+**Regions issue no monthly and, since 2026-09-02, sit in no topic progress report either** — their
+own progress report is slated to move onto topics rather than the country frame, at which point it
+rejoins this one.
 
 Usage:
   python scripts/topic-render.py                 write every slug's documents
@@ -31,6 +46,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import taxonomy_lib  # noqa: E402
+import indicators_lib  # noqa: E402
 import vault_lib  # noqa: E402
 
 _spec = importlib.util.spec_from_file_location(
@@ -124,6 +140,30 @@ def monthly_blocks(text, subject):
     return out
 
 
+def indicator_cells(text, topic, indicator):
+    """(developments, progress) for one (topic, indicator) pair, read off a rendered country
+    progress document's own indicator table — or None where that country's report carries no
+    developments for it.
+
+    **Read off the document, never rebuilt from `indicators.csv`**, for the same reason the old
+    per-place movement table was always lifted rather than recomputed: a table rebuilt here could
+    disagree with the one the country publishes, and citations resolve at render time, not here.
+    The row is matched on its first two cells, which is exact because `indicator_id` is unique per
+    (subject, indicator-text) pair (`indicators_lib.frame()` refuses a duplicate) and this
+    function is always called with both cells drawn from the same frame row.
+
+    A ***No evidence*** row — Developments empty — returns `None`: it carries nothing to lift, the
+    same rule that has always kept an empty block out of a topic document."""
+    m = re.search(r"^\| " + re.escape(topic) + r" \| " + re.escape(indicator) +
+                  r" \| (.*) \| (.+?) \|\s*$", text, re.M)
+    if not m:
+        return None
+    developments = m.group(1).strip()
+    if not developments:
+        return None
+    return developments, m.group(2).strip()
+
+
 def period_of(texts):
     """(period string, spans_one_window). The sources' period, never a window of this stage's own.
 
@@ -195,11 +235,74 @@ def build_monthly(subject, label, today):
     return out, places
 
 
+def build_progress(subject, label, today):
+    """Progress — one table per indicator, columns Country | Developments | Progress.
+
+    **Countries only** *(Bill, 2026-09-02)*. The indicator frame covers the 54 countries
+    (`progress-report-redesign.md` §1); the three regions still answer the old per-subject
+    movement ledger, which has no indicator to key a table on, and their own progress report is
+    slated to move onto topics rather than the country frame. Mixing the two table shapes under
+    one heading would misrepresent one of them as the other, so regions are simply absent here
+    until their report changes, rather than carried in a shape this document does not use.
+
+    The unit is the **indicator**, not the place: every indicator this subject's frame carries
+    gets its own `## {indicator}` heading, holding every country whose own progress report has a
+    Developments cell for it. An indicator no country has evidence for prints no heading at all —
+    the lift-only rule the monthly has always followed, extended from places to indicators."""
+    countries, _ = units()
+    order = by_full_name(countries)
+    texts = {u: document(u, "progress") for u in order}
+    inds = [i for i in indicators_lib.frame() if i["subject"] == subject]
+    sections_out, seen_places = [], []
+    for ind in inds:
+        rows = []
+        for u in order:
+            cells = indicator_cells(texts[u], ind["topic"], ind["indicator"]) if texts[u] else None
+            if cells is None:
+                continue
+            rows.append((u,) + cells)
+            if u not in seen_places:
+                seen_places.append(u)
+        if rows:
+            sections_out.append((ind["indicator"], rows))
+    if not sections_out:
+        return None, []
+    places = by_full_name(seen_places)
+    period, one_window = period_of([texts[u] for u in places])
+    out = [
+        "---",
+        f"title: {label} — progress report, {span_label(period)}",
+        f"compiled: {today}",
+        f"period: {period}",
+        f"subject: {subject}",
+        f"places: {'; '.join(places)}",
+        rr.PENDING,
+        "---",
+        "",
+        f"# {label}: progress report, {span_label(period)}",
+        "",
+        f"*{len(places)} countries. Each row below is carried verbatim from that country's own "
+        f"progress report, which answers a fixed frame of indicators over the period; nothing is "
+        f"written here. A country not listed under an indicator has ***No evidence*** on it in "
+        f"its own report.*",
+        "",
+        rr.PROGRESS_VOCAB,
+    ]
+    if not one_window:
+        out += ["", "*The place reports do not share one window; the period above is the range "
+                    "they span.*"]
+    for indicator, rows in sections_out:
+        out += ["", f"## {indicator}", "", "| Country | Developments | Progress |", "|---|---|---|"]
+        for unit, developments, progress in rows:
+            out.append(f"| {rr.place_name(unit)} | {developments} | {progress} |")
+    out.append("")
+    return out, places
+
 
 def render(subject, label, today):
     folder = os.path.join(TOPICS, slug_path(subject))
     wrote = 0
-    for kind, builder in (("monthly", build_monthly),):
+    for kind, builder in (("monthly", build_monthly), ("progress", build_progress)):
         out, places = builder(subject, label, today)
         path = os.path.join(folder, f"{slug_path(subject)}-{kind}.md")
         if out is None:

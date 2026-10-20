@@ -76,7 +76,7 @@ IH_FILTERS = ("iso3", "type", "tangled_hybrid")
 IH_NUMERIC = ("names", "routable", "us_hyperscaler_share", "african_region_share", "us_saas_share",
               "cdn_share", "national_or_self_share", "telco_share", "african_dc_share", "foreign_host_share",
               "chinese_cloud_share", "unusable_share", "unattributed")
-# The views the Institution Hosting pages link across, in `.article-toc` like Finance's
+# The views the Institution Hosting pages link across, in `.article-toc` like Progress's
 # Topics · Countries. (slug below the dataset, or an absolute URL, label).
 IH_VIEWS = (("", "Dataset"), ("methodology", "Methodology"),
             ("https://data-landscapers.io/2026/09/30/institution-hosting/", "Continental analysis"))
@@ -460,7 +460,7 @@ def read_csv(path: Path) -> list[dict]:
 
 def ih_views(current: str) -> str:
     """Dataset · Methodology, from the page one is on. Every entry is a link, the current one
-    to itself with `aria-current`."""
+    to itself with `aria-current` (progress.py → `toc` sets out why)."""
     up = "../" if current else ""
     links = []
     for slug, label in IH_VIEWS:

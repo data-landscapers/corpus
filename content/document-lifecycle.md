@@ -86,7 +86,7 @@ Most sources move nothing, and that is the point of a record layer: a report on 
 
 ## Different outputs for different needs
 
-The news page (called the monthly update until 17 October 2026) is a slice of the ledger: it renders the rows that moved in the last month. A month in which nothing moved still issues a news page that says so. (The progress report, a second slice that compared each indicator across twelve months, retired on 17 October 2026; the maturity assessment replaced it.) The **status report** answers *where is this now*: for most countries it is authored from sources the repository will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
+The news page (called the monthly update until 17 October 2026) and the progress report are two slices of the same ledger, which is why they cannot disagree: the news page renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a news page that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the repository will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
 The **bulletin** has no ledger and selects on a window of *publication* — today and yesterday, or today alone from 18:00 — — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 

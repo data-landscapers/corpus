@@ -10,9 +10,7 @@ status: in force; Corpus-owned
 
 **One layer, several processes.** Country, region (six `X__` codes, first-class places) and topic reports share everything below; each process owns its unit, outstanding list, section layout, skeleton and initialisation shell.
 
-**A process may issue fewer than two documents.** A region issues a **monthly update, never a status**; `scripts/report-render.py` refuses the status for an `X__` unit.
-
-**The progress report retired on 2026-10-17** *(Bill)*: the maturity assessment replaced it. Its design is `documentation/archived/progress-report-redesign.md`. The ledger columns it read (`kind: measure`, `position_start`, `position_end`, `movement`) are still kept, and the indicator mapping it read is the maturity assessment's evidence.
+**A process may issue fewer than three documents.** A region issues a **monthly update and a progress report, never a status**; `scripts/report-render.py` refuses the status for an `X__` unit.
 
 ---
 
@@ -28,36 +26,36 @@ status: in force; Corpus-owned
 | `place` | ISO-3 or `X__` from `countries.csv`; a country ledger repeats its own. |
 | `subject` | One `taxonomy.md` slug. |
 | `section` | **Derived, not authoritative**: the `subject`'s Level-1 chapter in `lookups/taxonomy.csv` (country), or its group in `report-region-sections.csv` (region). `normalise_ledger()` keeps it in step; not overridable per row. |
-| `kind` | `instrument` (default) — in the status inventory and the movement ledger. `measure` — a dated measure of one (a breach notification rate, delivered data-centre load): in no document, never listed as current state; the maturity assessment reads it. |
+| `kind` | `instrument` (default) — in the status inventory and the movement ledger. `measure` — a dated measure of one (a breach notification rate, delivered data-centre load): **progress report only**, no status, never listed as current state. |
 | `name` | As a reader would name it, short; qualifiers go in `note` or prose. |
 | `status` | A status stem from §3, optionally with a qualifying clause: `Implemented, under appeal`. |
 | `published` | Publication date of the most recent record the row cites, read off the `raw/` slug — the field every period selects on. Not an event date. |
 | `milestone` | Status table's third column: the **event that fixed the position**, never a bare date — `Gazetted 2026-07-24`, `Submissions close 2026-08-21`, `No appropriation line found`, `Since 1998`. None prints an em-dash. |
-| `position_start`, `position_end` | The two ends of a movement: **the substance of the position, not its label** — `30 branches, five banks (2025-08)` against `296 branches, four banks`. Where the thing did not exist at the start: `Did not exist`, `None published`, `No date`. |
+| `position_start`, `position_end` | The progress table's two ends: **the substance of the position, not its label** — `30 branches, five banks (2025-08)` against `296 branches, four banks`. Where the thing did not exist at the start: `Did not exist`, `None published`, `No date`. |
 | `since` | Date the base first puts the row in its **current** status, where earlier than `published` — a source that only refreshes a figure has not moved the row. Empty: the cited record is the first to report it. |
 | `movement` | A movement stem from §3, optionally qualified: `Advanced, slipped`. |
 | `sources` | Slugs, `\|`-separated, resolved to URLs at render time through `outputs/catalogue/catalogue-internal.csv`. |
 | `probe_at` | ***Not held*** rows: date the gap was last searched for (§4). Empty on a held row. |
 | `note` | One clause, only for a caveat a reader would otherwise ask for. |
 
-**A row's `published` is a fact about a source, not about the run.** A run that changes no row is normal. `published` also ages a row out of the monthly.
+**A row's `published` is a fact about a source, not about the run.** A run that changes no row is normal. `published` also ages a row out of the monthly and progress report.
 
-**But a source naming something the ledger holds nothing on mints a row.** A named system shown to exist and be live opens at `movement: Baseline not held`. Not minting it is the error `documentation/archived/considered-not-carried.md` records: the indicator frame then holds no evidence, true of the ledger and false of the base.
+**But a source naming something the ledger holds nothing on mints a row.** A named system shown to exist and be live opens at `movement: Baseline not held`. Not minting it is the error `documentation/considered-not-carried.md` records: the indicator frame then reports ***No evidence***, true of the ledger and false of the base.
 
 **The file is kept sorted by taxonomy Level-1, then Level-2, then name.** `resort_ledger()` re-orders on every load, rewriting only when the order changes; content, `row_id`s and column order are untouched.
 
 **`since` is what stops a first build reading as a year of upheaval.** A row is baseline-less only when the base genuinely has no position for it before the window opened.
 
-**The documents are renderings of this file, not drafts.** *Status* renders the current rows, *monthly* the rows whose `published` falls in the window.
+**The three documents are renderings of this file, not drafts.** *Status* renders the current rows, *monthly* the rows whose `published` falls in the window, *progress* compares `position_start` against `position_end`.
 
 ## 2. Cadence — the windows slide, and a document changes only when the ledger moves
 
 **The ledger is updated whenever the base moves; a document changes only when the ledger moved.**
 
-- **At initialisation, both are issued together** — the base is read once.
+- **At initialisation, all three are issued together** — the base is read once.
 - **On every build**, at BUILD.md stage 4: `report-scan.py` names initialised units holding sources the layer has not looked at; a model reads only those against the ledger and moves any row they move. Places with no ledger are skipped — this pass never initialises. The unconsidered set is a **set difference over slugs, not a date window**, so an interrupted build resumes cleanly.
 - **The status report is refreshed on any build where a row moved.** Its filename carries no period.
-- **The monthly moves with its window.** It opens on the first of the last closed month and closes on the day the document last changed.
+- **The monthly and the progress report move with their windows.** The monthly's opens on the first of the last closed month, the progress report's twelve months earlier; both close on the day the document last changed.
 - **A month in which nothing moved still issues a monthly, and the monthly says so**, in the renderer's voice.
 
 **Both windows open on a month boundary and run to the present**: on 14 August the monthly covers 1 July–14 August, and says so.
@@ -86,7 +84,7 @@ status: in force; Corpus-owned
 
 Both lists are the authoritative statement of `report-render.py`'s `STATUSES` and `MOVEMENTS` tuples; a change to one is a change to the other.
 
-**A ledger may say *Advanced* or *Movement*** *(Bill, 2026-09-11)*; check I accepts either.
+**The region progress report prints *Advanced* as *Movement*, under a column headed *Progress*** *(Bill, 2026-09-11)*. The ledger keeps *Advanced*; `as_progress()` translates, and check I accepts either.
 
 **Both vocabularies are stems, not fixed strings.** A value may take a comma and a short qualifying clause where the plain stem would mislead: *Implemented, under appeal* · *Planned, not proceeding* · *Advanced, slipped*. Check I tests the stem.
 
@@ -118,17 +116,17 @@ Prose here. Every interpretive sentence carries its citation.
 
 **No document carries an unwritten narrative block, in any form.** An unwritten block is emitted **empty**, and check L fails on it. REPORT-UPDATE.md → *Narrative integrity* governs: remove the section, or write the sentence explaining why there is no suitable narrative.
 
-**Every table row carries its citation on the cell that makes the claim** — the status — linked to the first of the row's `sources` that resolves through the catalogue. A ***Not held*** or ***Baseline not held*** cell is never linked.
+**Every table row carries its citation on the cell that makes the claim** — status, or progress end-position — linked to the first of the row's `sources` that resolves through the catalogue. A ***Not held*** or ***Baseline not held*** cell is never linked.
 
 **The narrative carries its own citations, even where the table above links the same source.** Link the claim, not the sentence: one link where the fact is asserted.
 
 **The monthly update carries no table and no prose** *(Bill, 2026-10-16)*: the bulletin's item cards for the in-window sources of the rows that moved, each row's sources grouped as one story, oldest first. A summary is the bulletin's where one was written, otherwise the record's `catalogue_hero`. It opens on links to the place's other reports, ruled off; then its sections on one line, ruled off; and each section's subjects on a line under its heading.
 
-**A country report's sections are the taxonomy's Level-1 chapters, in `lookups/taxonomy.csv`'s order** — ten, opening on Governance, the same in both documents and the bulletin (`report-country-skeleton.md` → *Sections*). A region's `report-region-sections.csv` groups its own objects, not the taxonomy.
+**A country report's sections are the taxonomy's Level-1 chapters, in `lookups/taxonomy.csv`'s order** — ten, opening on Governance, the same in all three documents and the bulletin (`report-country-skeleton.md` → *Sections*). A region's `report-region-sections.csv` groups its own objects, not the taxonomy.
 
-**Within a section, every process sub-groups by taxonomy Level-2 subject, in the taxonomy's own order.** Status prints one table per subject under a `###` sub-heading carrying its `taxonomy.csv` label. Monthly prints that subject's stories under its own `###` sub-heading.
+**Within a section, every process sub-groups by taxonomy Level-2 subject, in the taxonomy's own order.** Status and progress print one table per subject under a `###` sub-heading carrying its `taxonomy.csv` label. Monthly prints that subject's stories under its own `###` sub-heading.
 
-**An empty section or sub-section is not printed at all, and the status report is the only exception.** In the monthly (nothing moved), it gets no heading. The status report states the absence in a renderer sentence: *"The base holds no {section} rows for {place}. A thin evidence base is a finding, not a gap in this document."*
+**An empty section or sub-section is not printed at all, and the status report is the only exception.** In the monthly (nothing moved) and the progress report, it gets no heading. The status report states the absence in a renderer sentence: *"The base holds no {section} rows for {place}. A thin evidence base is a finding, not a gap in this document."*
 
 **Figures are script-emitted from the ledger**; a hand-written number in a narrative block is a defect (check H). A table refresh never touches prose; blocks carry across by marker id.
 
@@ -139,7 +137,7 @@ Checks A–F live in OSINT. G, I, J, L and M are in `report-render.py --check`; 
 - **G. Every link is held.** Each URL in a rendered report must be in `outputs/catalogue/catalogue-internal.csv`, Corpus's catalogue of everything `raw/` holds, with the `slug` a citation resolves by (`build-catalogue.py` → `CSV_COLS`). `report-render.py` refuses a catalogue `raw/` has moved past, counted as well as timed. **Non-optional, and re-run after every edit pass.**
 - **H. A figure in narrative prose has a source.** Reports any narrative block carrying a substantive figure — money, a percentage, a count of a thousand or more — and no citation. **It asks only that a source exists**, per block: provenance, not fact-checking. A person rules. A source is a wikilink to a dated `raw/` slug or an inline URL.
 - **I. Vocabulary.** No status or movement value outside §3; every ***Not held*** row in `gaps.csv`; the document's not-held count equals the ledger's. `kind: measure` rows are skipped.
-- **J. As-of honesty.** A document compiled before the newest `published` on its ledger fails.
+- **J. As-of honesty.** A document compiled before the newest `published` on its ledger fails. Every progress report carries its shape check (§7), emitted by `render_progress()`. J also prints, and does not rule on, the lag to the newest evidence.
 - **L. No unwritten narrative.** **Fails** on any empty or placeholder narrative block. BUILD owns this.
 - **M. Every piece of evidence has a source, and the source resolves.** Fails on any row that states a position and cites nothing, cites a slug the base does not hold (a ledger mistake), or cites no slug carrying a `url:` (OSINT's to fix, §8) — the two reported apart. ***Not held*** is the only exemption. **Measures are in scope.**
 - **K. Register and budget.** Reads narrative blocks, never tables; reports register terms, any `## Comment` heading, and any document outside its skeleton's word budget. **It reports; a person rules.** The budget is read from the skeleton; the script exits 2 if that line is reworded past it.
@@ -150,7 +148,7 @@ Checks A–F live in OSINT. G, I, J, L and M are in `report-render.py --check`; 
 
 ## 7. Shape check before any period comparison
 
-Retired with the progress report, the one document that compared periods (2026-10-17).
+Count the unit's sources per month across the window **before** promising a comparison. Where the earlier half is thin, narrow the window or say it is a shorter comparison wearing a longer label, with the counts, once, near the top. Each initialisation shell prints this and flags the cliff.
 
 ## 8. Byproducts — the pass is a defect detector
 
@@ -163,12 +161,13 @@ outputs/reports/{unit}/ledger.csv                  # the record layer, maintaine
 outputs/reports/{unit}/gaps.csv                    # not-held rows, with probe dates
 outputs/reports/{unit}/{unit}-status.md            # current position
 outputs/reports/{unit}/{unit}-monthly.md           # the monthly report; `period:` states its window
+outputs/reports/{unit}/{unit}-progress.md          # the progress report; `period:` states its window
 outputs/reports/{unit}/considered.txt              # slugs the ledger has looked at — the set difference §2 works over
 ```
 
 Every document carries `compiled:` and `record:` in its frontmatter, never written by hand.
 
-**There are no issues.** Each unit has one monthly whose window slides; an earlier state is an earlier commit. **No markdown filename carries a period.** RENDER dates the PDF and CSV, which citations point at; the HTML is always current.
+**There are no issues.** Each unit has one monthly and one progress report whose windows slide; an earlier state is an earlier commit. **No markdown filename carries a period.** RENDER dates the PDF and CSV, which citations point at; the HTML is always current.
 
 **Narrative always carries across.** Moving a window on is an **edit** — BUILD removes what has aged out and writes in what has arrived, including any sentence still describing a period that has moved on — never a fresh composition.
 

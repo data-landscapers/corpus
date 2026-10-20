@@ -20,7 +20,7 @@ last_reviewed: 2026-09-20
 
 ## Step 0 — a finished build behind you, then a clean tree
 
-Stamp the clock first, before the gate, so a Step 0 stop logs a duration too:
+Stamp the clock before the gate, so a Step 0 stop logs a duration:
 
 ```bash
 python scripts/log-line.py --start render
@@ -60,13 +60,13 @@ git rev-parse HEAD > BUILT-FROM
 
 ## Step 2 — render every report to HTML + PDF
 
-`render.py` writes HTML + PDF into `site/…`, the output tree taken from the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition; a redesign is `--redesign` (`CLAUDE.md` → *Editions*).
+`render.py` writes HTML + PDF into `site/…`, mirroring the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition; a redesign is `--redesign` (`CLAUDE.md` → *Editions*).
 
 ```bash
 python scripts/finance-report.py      # -> outputs/reports/{ISO3}/{ISO3}-finance.md
 rendered=0; failed=0
-for md in outputs/reports/*/*-status.md outputs/reports/*/*-monthly.md \
-          outputs/reports/*/*-finance.md outputs/topics/*/*-monthly.md; do
+for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/reports/*/*-monthly.md \
+          outputs/reports/*/*-finance.md outputs/topics/*/*-progress.md outputs/topics/*/*-monthly.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
@@ -85,12 +85,12 @@ for md in "R&D/Hyperscaler-dependence/scan/"*/*-hosting.md; do
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md' ! -name '*-maturity.md' | wc -l)
+present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
 if [ "$missed" -gt 0 ]; then
   echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
-  find outputs/reports outputs/topics outputs/bulletins -name '*.md' ! -name '*-maturity.md' | grep -Ev -- '-(status|monthly|finance|bulletin)\.md$'
+  find outputs/reports outputs/topics outputs/bulletins -name '*.md'        ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
   exit 1
 fi
 if [ "$failed" -gt 0 ]; then
@@ -118,7 +118,15 @@ python scripts/region.py          # every region  -> site/countries/{X__}/financ
 python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html
 ```
 
-**`topic-page.py` and `region.py` run after Step 2** — both read what Step 2 rendered. The finance CSVs are dated editions, written before the pages that link them by name.
+**`topic-page.py` and `region.py` run after Step 2**, whose output they read. The finance CSVs are dated editions, written before the pages that link them by name.
+
+## Step 4a — build the two progress tables
+
+```bash
+python scripts/progress.py        # -> site/progress/ and site/progress/countries/
+```
+
+After Step 2. It writes no edition, so it may run alone after an edit to either `content/progress-*.md`.
 
 ## Step 5 — build the catalogue page
 

@@ -43,9 +43,9 @@ The remit rule is a reading of a body, and a lint cannot read. So `lint-scope.py
 
 **The default outcome was read for two years as though it were about the source, and it is about the ledger.** *Nothing moves* means *this does not move a position the ledger already holds*. Where the ledger holds no position on the thing a source names, the source is not reporting activity on a row — it is the first record of a row.
 
-The cost of the other reading was **467 false *No evidence* rows across 22 units**, and it is silent: a source read and defaulted leaves no trace anywhere — no row, no mapping, no baseline sentence — and step 4 then marks it so nothing ever reads it again. `documentation/archived/considered-not-carried.md` is the defect in full and `documentation/archived/REREAD.md` the repair loop, both retired with the progress report.
+The cost of the other reading was **467 false *No evidence* rows across 22 units**, and it is silent: a source read and defaulted leaves no trace anywhere — no row, no mapping, no baseline sentence — and step 4 then marks it so nothing ever reads it again. `considered-not-carried.md` is the defect in full and `REREAD.md` the repair loop.
 
-**Mapping is part of the move, not a separate job.** The maturity assessment reads its evidence from `indicators.csv`'s `row_ids`, so a ledger the build moves and an `indicators.csv` it does not leaves that evidence unseen. (It fed the progress report until that retired on 2026-10-17.)
+**Mapping is part of the move, not a separate job.** The progress report renders from `indicators.csv`, so a ledger the build moves and an `indicators.csv` it does not leaves that document stating a position the base no longer holds. Checks I and L test the frame's own consistency, not whether the mapping was done.
 
 **The three authoring rules in step 5 are stated where the writing happens**, because each fails invisibly. A citation on a summary block's opening sentence does not source the three that follow. The window selects rows by the publication date of the newest record they cite, so a July source restating a 2023 measurement puts its row in the window while the measurement belongs in the status report. And a carried narrative sentence describing a period that has moved on **passes every check** — finding it is the point of the revision.
 
@@ -71,7 +71,7 @@ Integrity is maintained where the prose is written. A check in RENDER would be a
 
 ## Stages 5 and 6
 
-**Stage 5 always runs** because whether something changed underneath the documents is exactly what an unattended run cannot be sure of. It costs nothing — an agreeing unit prints `unchanged` — and it issues no rendered status report for an initialised unit, so a format change reaches the monthlies and leaves the baselines alone.
+**Stage 5 always runs** because whether something changed underneath the documents is exactly what an unattended run cannot be sure of. It costs nothing — an agreeing unit prints `unchanged` — and it issues no rendered status report for an initialised unit, so a format change reaches the monthlies and progress reports and leaves the baselines alone.
 
 **Stage 6's ordering is its integrity mechanism.** A topic document derived from a place document stage 4 has not moved is stale in a way nothing downstream can detect, so stages 4 and 5 are a precondition in the same run and there is no check for it beyond the ordering. Check G and nothing else: the ledger checks belong to the place documents, and there is no topic ledger. Design note: `topic-reports.md`.
 
@@ -85,7 +85,7 @@ Integrity is maintained where the prose is written. A check in RENDER would be a
 
 **Every other check in Job 1 runs per unit, on the units the pass worked** — so a finding in a unit nobody touched is reported to nobody, and accumulates. The first time the estate-wide run was made it found **203 register hits over 54 files**, two progress reports outside their word band and one indicator cell, none of it in any log line or message.
 
-`lint-considered.py` ran here too, reading the progress reports' *No evidence* rows; it retired with them on 2026-10-17.
+`lint-considered.py` runs here for the same reason *(2026-09-17, R13)*: it is the one query that would have caught the 467 rows — a source marked considered, over an indicator the report says the base holds nothing on, cited by no ledger row. The repair is done and it reads clean; it runs estate-wide from here **so that it goes on being read after everyone has forgotten what it was for**. It is a disclosure the run computes rather than one the operator has to remember, and it is not a gate.
 
 **The sentinel comes off after the commit, never before.** Removing it earlier opens a window in which RENDER sees a finished build whose work is uncommitted. **On failure the word is `errored`**, because `RENDER.md` Step 0 matches that word: a failure line phrased any other way reads downstream as a success.
 
