@@ -286,6 +286,8 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 .report-head__row .article-header__title { margin-bottom: 0; }
 .report-head .feedback-ask { float: none; margin: 0 0.5rem 0 0; }
 .report-head .monthly-toc { margin-bottom: 0; }
+/* The topic bar keeps clear of the rule under the chapters (Bill, 2026-10-20). */
+.report-head .topic-chapters { margin-bottom: 0.7rem; }
 .report-head-sticky .report-head { position: sticky; top: var(--report-head-top, 0px); z-index: 50; }
 .report-head-sticky .report-head .report-family { padding-top: 0.75rem; }
 .report-head-sticky .article-body :is(h2, h3, h4) { scroll-margin-top: var(--report-head-clear); }

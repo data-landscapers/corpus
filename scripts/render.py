@@ -473,10 +473,12 @@ def family_bar(unit: str, kind: str) -> str:
     name = bulletin.place_names().get(unit, unit)
     family = "Region reports" if unit.startswith("X") else "Country reports"
     sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    # The page's own report stays in the bar, in black, as the topic bars mark theirs (Bill, 2026-10-20).
+    current = ' aria-current="true"'
     links = f"\n{sep}\n".join(
-        f'<a href="{family_page(unit, k)[0]}">{label}</a>'
+        f'<a href="{family_page(unit, k)[0]}"{current if k == kind else ""}>{label}</a>'
         for k, label in FAMILY
-        if k != kind and family_page(unit, k)[1].exists())
+        if k == kind or family_page(unit, k)[1].exists())
     return ('<div class="report-family">\n'
             f'<div class="report-family__kicker"><span>{family}: {name}</span>'
             f'{place_switch(unit, kind)}</div>\n'
