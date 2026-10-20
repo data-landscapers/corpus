@@ -7,7 +7,7 @@
 <meta name="description" content="Every procedure Corpus runs, in the order the work happens: what each step does, and which instruction file or script does it.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/methodology/process-inventory/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=3d23705e">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=662b8c7c">
 <link rel="stylesheet" href="../../assets/css/methodology.css?v=f43303f4">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -45,6 +45,12 @@
             <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
             <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
             <li><a href="https://corpus.data-landscapers.io/maturity/">Maturity</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
             <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
             <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
             <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
@@ -86,6 +92,7 @@
     <div class="corpus-nav__inner">
       <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
       <a href="https://corpus.data-landscapers.io/maturity/">Maturity</a>
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
       <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
       <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
       <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
@@ -294,7 +301,7 @@
       <tr>
       <td><strong>Map it into the fixed frame of questions</strong></td>
       <td><code>lookups/<wbr>indicators.csv</code> (the frame), <code>outputs/<wbr>reports/<wbr>{unit}/<wbr>indicators.csv</code> (the country's answers)</td>
-      <td>The same indicators asked of every country. Each ledger row that moves is mapped to the indicators it answers, and the maturity assessment reads its evidence from that mapping; a row left unmapped is evidence it never sees.</td>
+      <td>121 indicators asked of every country, so a progress report is shaped by the frame and not by whichever records accumulated. An indicator the country's file does not answer is rendered <em>No evidence</em>. A ledger row that moves without being mapped would leave the progress report stating a position the repository no longer holds.</td>
       </tr>
       <tr>
       <td><strong>Ask whether the standing account changed</strong></td>
@@ -304,7 +311,7 @@
       <tr>
       <td><strong>Review each place's reports whole, about once a month</strong></td>
       <td><code>UNIT-<wbr>REVIEW.md</code>, <code>scripts/<wbr>unit-<wbr>review.py</code></td>
-      <td>The build reads only what is new to a country, so nothing else re-reads its reports as a whole. On each overnight cycle the two countries or regions reviewed longest ago have their status, monthly and non-state finance reports and their indicator mapping checked against the evidence as it now stands, and what is no longer right is repaired before the site is rebuilt. A rotation file records when each was last reviewed. Regions have no status report.</td>
+      <td>The build reads only what is new to a country, so nothing else re-reads its reports as a whole. On each overnight cycle the two countries or regions reviewed longest ago have their status, progress, monthly and non-state finance reports checked against the evidence as it now stands, and what is no longer right is repaired before the site is rebuilt. A rotation file records when each was last reviewed. Regions have no status report.</td>
       </tr>
       <tr>
       <td><strong>Re-render every report from its ledger</strong></td>
