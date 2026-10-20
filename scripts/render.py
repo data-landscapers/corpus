@@ -881,9 +881,11 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # which has no H1 of its own, is titled by its kind alone. The tab keeps `title`.
     if pre_header and not h1:
         h1 = KIND_LABEL.get(kind) or None
-    # The topic is in the kicker, so its progress report is titled as its News is: "Progress, …".
-    if pre_header and h1 and tree_of(md_path) == "topics" and kind == "progress":
+    # The place or topic is in the kicker, so a progress report is titled as News is:
+    # "Progress, Oct 2025 – Oct 2026" (Bill, 2026-10-20).
+    if pre_header and h1 and kind == "progress":
         h1 = re.sub(r"^.*?:\s*progress report,\s*", "Progress, ", h1)
+        h1 = re.sub(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]+\b", r"\1", h1)
     # The HTML permalink carries no period *(Bill, 2026-08-13)*: `AGO-monthly.html`,
     # not `AGO-monthly-2026-07.html`. The HTML is always the current document, so a
     # period in its name is a contradiction — it would freeze a permanent URL to one
