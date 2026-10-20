@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: SLE
-ledger_rows: 212
-not_held: 5
+ledger_rows: 223
+not_held: 4
 indicators: 123
-record: 28a43be57ebb
+record: 9c9cabed98aa
 ---
 
 # Sierra Leone: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,7 +211,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | NCRA-SLRSA register-to-register data-sharing agreement | The signed agreement or a published summary stating what data classes flow, on what legal basis and with what retention limit. | 2026-08-09 |
 | Legal basis for data sharing between government registers | A data-sharing instrument, regulation or protocol governing exchanges between the identity register and other agencies. | not yet probed |
 | Bank of Sierra Leone RTGS and ACH re-platforming | An award notice from the Bank of Sierra Leone or the National Public Procurement Authority for references 8922483/8922484, naming supplier, value and scope. The only listing found was an inadmissible-origin tender aggregator, retired 2026-08-10; neither contracting authority's procurement page carries a matching entry. | 2026-08-10 |
-| Court case management system | A judiciary or Justice Sector Coordination Office record of a deployed case management system, or a procurement award for one. | 2026-09-06 |
 | Recurrent financing after the Digital Transformation Project closes | a transition plan or budget line taking over the running costs of the systems the World Bank project funds when it closes on 30 September 2027 would settle it; probed 2026-09-25, none published and the 2026 estimates print no government counterpart | 2026-09-25 |
 | Universal Access Development Fund levy receipts and disbursements | the fund's audited accounts or annual report giving levy receipts, appropriations and disbursements would settle it; probed 2026-09-25, the regulations and an audit finding on unpaid levies are held but no figure for the fund's scale | 2026-09-25 |
 | Rule on where state data is hosted | the data governance framework the ministry is drafting, the Data Protection and Right to Access Information Bill 2025 as enacted, or a government hosting policy fixing where state data is held; probed 2026-09-25, only telecoms subscriber-data rules are in force | 2026-09-25 |

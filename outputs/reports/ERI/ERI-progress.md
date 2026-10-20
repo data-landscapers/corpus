@@ -1,12 +1,12 @@
 ---
 title: Eritrea — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: ERI
-ledger_rows: 94
-not_held: 23
+ledger_rows: 99
+not_held: 22
 indicators: 123
-record: 6f9f1619e431
+record: 8e0feee810d9
 ---
 
 # Eritrea: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -210,7 +210,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National foundational digital ID | A named programme, pilot or vendor engagement for a foundational digital-ID system distinct from the passport/civil-registration base already on file. | not yet probed |
 | Submarine fibre-optic cable landing | A licensing decision, application, or a dated update to the Submarine Networks registry's coastal-state count. | not yet probed |
 | Starlink satellite internet service | A licence application, refusal, or an updated Starlink coverage-map entry for Eritrea. | not yet probed |
-| Mobile money / digital payments service | A named mobile-money operator, licence or pilot, or a central-bank statement on digital payments distinct from the cash-deposit ultimatum. | not yet probed |
 | Data-protection law | A published data-protection bill, statute or regulator designation. | not yet probed |
 | Artificial intelligence law and strategy | A published national AI strategy or draft, or any statute or regulation addressed to artificial intelligence. | 2026-08-31 |
 | Electronic transactions and e-commerce framework | A proclamation, regulation or gazetted bill giving legal effect to electronic signatures, records or contracts. | 2026-08-31 |

@@ -1,12 +1,12 @@
 ---
 title: Gabon — progress report, October 2025 – October 2026
-compiled: 2026-10-17
-period: 2025-10-01 to 2026-10-17
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: GAB
-ledger_rows: 221
-not_held: 14
+ledger_rows: 235
+not_held: 13
 indicators: 123
-record: d3205455ab7b
+record: cf78cf241dfb
 ---
 
 # Gabon: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-17.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -220,7 +220,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Named national digital-literacy programme | The national strategy for the digitalisation of teaching, or a ministerial programme document with a cohort target; digital literacy is named as a budget axis with no programme behind it | 2026-09-04 |
 | Named national research funding for digital technology or artificial intelligence | A research council or higher-education ministry programme document or budget line; the only capacity finance the repository holds closed in 2023 | 2026-09-04 |
 | Enforcement of service-quality obligations | a regulator quality-of-service determination, decision or sanction would settle it; probed 2026-08-25, reporting of that date states that at a departmental capital the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator inaction to the president of its regulatory council; no determination, decision or sanction is published | 2026-09-04 |
-| Artificial intelligence in public systems | Any named artificial-intelligence system in production inside a Gabonese public administration or sectoral information system, or a use-case register. | 2026-12-01 |
 | Outturn against the digital appropriations | A loi de règlement, budget execution report or treasury outturn statement printing executed amounts for the digital-economy programme, the universal-service account or the conceded receipts. | 2026-09-25 |
 | Hosting of the biometric register and identity-card database | A government, ANINF or supplier statement naming where the IBOGA register and the identity-card database are hosted and who administers them. | 2026-09-25 |
 | Data terms of the Presight, Huawei and IN Groupe arrangements | Published text of the Presight memorandum, the Huawei memoranda or the identity-card supply contract, covering data jurisdiction, portability and exit. | 2026-09-25 |

@@ -1,12 +1,12 @@
 ---
 title: Congo — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: COG
-ledger_rows: 160
-not_held: 6
+ledger_rows: 171
+not_held: 5
 indicators: 123
-record: 8595d78b032b
+record: c13f73804879
 ---
 
 # Congo: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -209,7 +209,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|
 | Agency annual report on the state of national cybersecurity | any single published annual report, or a board deliberation showing the statutory obligation waived | 2026-09-04 |
 | National cybersecurity and ICT workforce stock | the national training plan now out to tender, an agency or regulator annual report, or an international index country profile with workforce data | 2026-09-04 |
-| Energy cost and reliability for digital infrastructure | the industry report's underlying cost tables, a regulator cost-of-service study, or the gas-plant data-centre feasibility study output | 2026-09-04 |
 | Electronic-communications framework law of 2009 | the 2009 law's number and gazette text, and any bill or ordinance revising it | 2026-09-04 |
 | Audited outturn for any digital line | a settlement law later than exercise 2020, with its annexed tables reproduced | 2026-09-04 |
 | National digital-literacy programme | a national digital-literacy programme document, a fund or project training outturn broken out by literacy rather than skills, or a published digital-literacy rate | 2026-09-04 |

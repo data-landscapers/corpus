@@ -1,12 +1,12 @@
 ---
 title: Malawi — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: MWI
-ledger_rows: 289
-not_held: 32
+ledger_rows: 302
+not_held: 31
 indicators: 123
-record: 9a095b5fb117
+record: 033bc900491d
 ---
 
 # Malawi: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -217,7 +217,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Customary land registration under the Customary Land Act 2016 | A lands ministry figure for customary estates registered and district land registries operating; the only source held is a 2020 donor programme reflection reporting three district registries | not yet probed |
 | Driver's licence online renewal | A road traffic directorate or national platform service listing; it is named as a presidential directive target and an industry association ask, with no delivery record | not yet probed |
 | Central bank digital currency proof of concept | The National Payments Systems Vision and Strategy document itself; the held press account of the launch names no such work, and the wiki holds no central bank publication | not yet probed |
-| National Statistical Office release programme | The office's published release calendar, or the census and integrated household survey report pages; no statistical office output at all is held for Malawi | not yet probed |
 | Financial inclusion consumer survey, next round | A survey round later than the 2023 edition published August 2024; the repository holds no successor and no announced fieldwork date | not yet probed |
 | Enforcement under the Data Protection Act 2024 | A regulator enforcement register, annual report or published determination; no fine, order, breach notification, complaint or prosecution under the Act appears in anything held, more than two years after commencement | not yet probed |
 | Regulator misinformation and disinformation tracking system | A regulator notice or procurement record establishing when the system was introduced, its legal basis and its data-handling terms; the repository has only a newspaper year-review reporting its introduction in 2025 | not yet probed |

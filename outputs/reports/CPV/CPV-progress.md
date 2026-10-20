@@ -1,12 +1,12 @@
 ---
 title: Cape Verde — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: CPV
-ledger_rows: 215
+ledger_rows: 231
 not_held: 28
 indicators: 123
-record: e8729743db5c
+record: 9576bb4f69ea
 ---
 
 # Cape Verde: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -231,9 +231,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | ICT sector share of GDP and ICT sector employment | A statistics institute national-accounts or business-survey release breaking out the information and communication sector; the 7%-to-25% figures in circulation are ministerial targets, not measurements | not yet probed |
 | Technology park disbursement statements and Phase I appraisal | African Development Bank disbursement statements for the two technology-park operations and the Phase I appraisal report; both are on the wiki's acquisition list | not yet probed |
 | National research funding line for digital or artificial-intelligence research | A budget-table entry naming research or the national university's technology and engineering research centre, in any of the FY2024-FY2026 budget documents held | not yet probed |
-| Free public internet points | A digital economy ministry or universal service fund list of installed sites with dates, or a budget line naming the programme | not yet probed |
 | Island-level and urban-rural access disaggregation | The regulator's quarterly indicators broken down by island or municipality, or the census or household survey ICT module at sub-national grain | not yet probed |
 | Data-protection commission appropriation for FY2026 | The National Assembly resolution approving the private budget for 2026; no such resolution is indexed in the Boletim Oficial, breaking a series that ran CVE 35,255,451 for FY2024 and CVE 36,313,115 for FY2025 | not yet probed |
 | Accession to Council of Europe Convention 108 | The Council of Europe treaty office status page, or a national accession resolution in the Boletim Oficial; the repository establishes accession to the AU Malabo Convention and nothing on Convention 108 | not yet probed |
 | Data and exit terms of the Technology Park data-centre concession and the Safe City agreements | the DC2 concession or operating contract, or the Safe City implementation agreements with China, stating data jurisdiction, access, portability and exit clauses | 2026-09-25 |
+| Accessibility rule for digital financial services | A central bank notice or regulation setting accessibility requirements for digital payment channels and card terminals; the central bank said on 2026-07-17 that no specific rule exists | not yet probed |
 

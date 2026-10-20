@@ -1,12 +1,12 @@
 ---
 title: Botswana — progress report, October 2025 – October 2026
-compiled: 2026-10-17
-period: 2025-10-01 to 2026-10-17
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: BWA
-ledger_rows: 231
-not_held: 7
+ledger_rows: 249
+not_held: 5
 indicators: 123
-record: 8503adcac813
+record: de310d57256d
 ---
 
 # Botswana: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-17.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,8 +211,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National IPv6 transition plan | a regulator or ministry IPv6 transition plan with a target date, or a published IPv6 adoption percentage for Botswana | not yet probed |
 | Audited outturn for digital budget lines | the Auditor General's report on the accounts of the Government of Botswana for FY2024/25 or FY2025/26 | not yet probed |
 | National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
-| National digital literacy measure | a dated statistics-office or regulator household ICT survey reporting a digital-literacy or digital-skills rate | not yet probed |
-| Official internet penetration figure | the regulator's annual report, or a statistics-office household ICT access survey | 2026-08-31 |
 | Gambling participation statistics | An official participation series, an age breakdown or any independent research establishing who is betting, at what age and with whose money. None is held as the legal betting age is being lowered. | not yet probed |
 | Universal Access and Service Fund receipts and disbursements | the fund's audited annual accounts or BOCRA annual-report figures for levy receipts, surplus transfers and disbursements would settle it; probed 2026-09-25, the framework states the sources but no held document gives their scale | 2026-09-25 |
 | Financing source of recurrent digital lines | the recurrent estimates print no financing column; a statement of whether any recurrent digital spending is externally financed would settle it; probed 2026-09-25, none held | 2026-09-25 |

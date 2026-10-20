@@ -1,12 +1,12 @@
 ---
 title: Togo — progress report, October 2025 – October 2026
-compiled: 2026-10-16
-period: 2025-10-01 to 2026-10-16
+compiled: 2026-10-20
+period: 2025-10-01 to 2026-10-20
 place: TGO
-ledger_rows: 246
-not_held: 19
+ledger_rows: 264
+not_held: 18
 indicators: 123
-record: 4b7d2575eb94
+record: 3a458ca7205a
 ---
 
 # Togo: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-16.*
+*The period is 2025-10-01 to 2026-10-20.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -220,7 +220,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Start-up statute or legal framework | A law or decree on start-up labelling and incentives, or a ministerial statement that none exists; the industry association's own remedy for legal uncertainty was a private law-firm partnership | not yet probed |
 | Gender-disaggregated digital access measure | A sex-disaggregated figure from an international telecommunications or financial-inclusion series, or the national statistics institute's own household survey; the only gender figure in the section is a 2020 programme statistic carried by a 2023 reference study | 2026-09-06 |
 | Rural and urban connectivity gap measure | A regulator coverage or penetration series broken down by region or by rural and urban area; the repository holds only a sub-Saharan regional figure and Togo's rural population share | 2026-09-06 |
-| Universal service fund | The fund's constituting instrument and any published annual report or regulator accounts showing its balance, governance body and disbursements; the only held reference is the article of the fee decree allocating 30 per cent of fine proceeds to it | 2026-09-06 |
 | Gulf-state digital or technology cooperation instrument | Any investment, data-centre agreement or sovereign-fund commitment naming Togo; the subject returns no Togolese source at all | 2026-09-06 |
 | Indian digital or technology cooperation instrument | Any memorandum, credit line, training-programme participation or supplier contract naming Togo; the subject returns no Togolese source | 2026-09-06 |
 | Loi n 2017-006 d'orientation sur la societe de l'information | The statute's own text or a gazette reference; it is known only from another decree's visas | 2026-09-06 |
