@@ -31,7 +31,10 @@
   /* A status report's head carries a third bar, the topics of each section
      (Bill, 2026-10-20). Show the group for the section in view and mark that
      section and topic as current, which the house style puts in black. The bar
-     is held at its tallest group's height so a swap never moves the page. */
+     is held at its tallest group's height so a swap never moves the page.
+     A section link shows its topics and stays put, so a reader can click
+     through the sections to see what each holds; a topic link jumps. The next
+     scroll hands the bar back to the section in view. */
   var bar = head.querySelector('.status-topics');
   var sections = head.querySelector('nav[aria-label="Sections in this report"]');
   var groups = bar ? bar.querySelectorAll('.status-topics__group') : [];
@@ -57,6 +60,12 @@
   }
 
   var chapter = null;
+  function show(id) {
+    chapter = id;
+    groups.forEach(function (g) { g.hidden = g.getAttribute('data-chapter') !== id; });
+    mark(sections, id);
+  }
+
   function spy() {
     // Below the pinned head, or below the site chrome where the head is not pinned.
     var line = Math.max(head.getBoundingClientRect().bottom, top) + 16, h2 = null, h3 = null;
@@ -65,17 +74,21 @@
       if (h.tagName === 'H2') { h2 = h; h3 = null; } else { h3 = h; }
     });
     var id = h2 ? h2.id : (heads[0] && heads[0].id);
-    if (id !== chapter) {
-      chapter = id;
-      groups.forEach(function (g) { g.hidden = g.getAttribute('data-chapter') !== id; });
-      mark(sections, id);
-    }
+    if (id !== chapter) show(id);
     mark(bar, h3 && h3.id);
   }
 
   if (bar && groups.length) {
     hold();
     spy();
+    if (sections) sections.addEventListener('click', function (e) {
+      var a = e.target.closest('a[href^="#"]'), id = a && a.getAttribute('href').slice(1);
+      // A section without topics has nothing to preview, so its link jumps as before.
+      if (!id || !bar.querySelector('[data-chapter="' + id + '"]')) return;
+      e.preventDefault();
+      show(id);
+      mark(bar, null);
+    });
     var ticking = false;
     window.addEventListener('scroll', function () {
       if (ticking) return;

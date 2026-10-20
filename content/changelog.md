@@ -1,6 +1,6 @@
 ## 20 October 2026
 
-- Status reports carry a third bar in their head: the topics of the section being read. As you scroll, the section and topic you are in show in black.
+- Status reports carry a third bar in their head: the topics of a section, in black where you are reading. Clicking a section shows its topics without leaving your place, so you can browse them before clicking one to jump.
 - Progress reports are titled as the News pages are, as "Progress, Oct 2025 – Oct 2026", with the country, region or topic named in the line above. Every report in a family now reads the same way.
 - The line above each country, region and topic report's title, naming the place or topic, is now larger and darker. The title beneath it leaves the place or topic out, so this line is what says whose report it is.
 - The boxes on the Topics page now open each topic's News page, and the topic landing pages are retired. Their old addresses forward to the News page, whose bar reaches the topic's Progress report.
