@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
-<meta name="description" content="A living record of digital transformation and data governance across Africa: 31,192 sources, country and topic reports, and the finance behind them.">
+<meta name="description" content="Real-time research on African digital transformation: daily news, country and topic reports, maturity and progress assessments, finance and other datasets.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/">
 <link rel="stylesheet" href="assets/css/main.css?v=646ebba6">
-<link rel="stylesheet" href="assets/css/corpus.css?v=2f1cce48">
-<link rel="stylesheet" href="assets/css/home.css?v=d08bae72">
+<link rel="stylesheet" href="assets/css/corpus.css?v=0c335593">
+<link rel="stylesheet" href="assets/css/home.css?v=dfbcee40">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="Corpus — Data Landscapers">
-<meta property="og:description" content="A working record of digital transformation and data governance across Africa.">
+<meta property="og:description" content="Real-time research on African digital transformation.">
 <meta property="og:url" content="https://corpus.data-landscapers.io/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
@@ -25,7 +25,6 @@
 </head>
 <body>
 <div class="site-wrap">
-
   <header class="site-header">
     <div class="site-header__inner">
       <a href="https://data-landscapers.io/" class="site-logo">
@@ -93,81 +92,108 @@
     </div>
   </header>
 
-  <nav class="corpus-nav" aria-label="Corpus navigation">
-    <div class="corpus-nav__inner">
-      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
-      <a href="https://corpus.data-landscapers.io/maturity/">Maturity</a>
-      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
-      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
-      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
-      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
-      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
-      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+  <main id="main" class="map">
+
+    <header class="map__head">
+      <h1 class="map__title">Corpus</h1>
+      <p class="map__sub">Real-time research on African digital transformation</p>
+    </header>
+
+    <div class="map__cols">
+
+      <section class="col" aria-labelledby="col-news">
+        <h2 class="col__title" id="col-news">News</h2>
+        <a class="card" href="https://corpus.data-landscapers.io/bulletin/">
+          <span class="card__name">Bulletin</span>
+          <span class="card__text">Yesterday&rsquo;s news stories, collected overnight.</span>
+        </a>
+        <a class="card" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html">
+          <span class="card__name">Country &amp; region</span>
+          <span class="card__text">Every story published since the start of last month: a report for each country and region, grouped by topic and story.</span>
+        </a>
+        <a class="card" href="https://corpus.data-landscapers.io/topics/gov-policy/gov-policy-monthly.html">
+          <span class="card__name">Topic</span>
+          <span class="card__text">The same stories, in a report for each of the 38 topics, grouped by country.</span>
+        </a>
+        <a class="card" href="https://corpus.data-landscapers.io/alerts/">
+          <span class="card__name">Custom alerts</span>
+          <span class="card__text">Weekly emails or RSS feeds built from your own choice of countries and topics.</span>
+        </a>
+      </section>
+
+      <section class="col" aria-labelledby="col-reports">
+        <h2 class="col__title" id="col-reports">Reports</h2>
+        <a class="card" href="https://corpus.data-landscapers.io/reports/AGO/AGO-status.html">
+          <span class="card__name">Status</span>
+          <span class="card__text">An overall assessment of each country&rsquo;s digital transformation.</span>
+        </a>
+        <a class="card" href="https://corpus.data-landscapers.io/reports/BEN/BEN-progress.html">
+          <span class="card__name">Progress</span>
+          <span class="card__text">For each country and indicator, the progress made over the past twelve months.</span>
+        </a>
+        <a class="card" href="https://corpus.data-landscapers.io/maturity/#gov.policy--digital-transformation-strategy">
+          <span class="card__name">Maturity</span>
+          <span class="card__text">Progress compared across all countries, by topic and indicator.</span>
+        </a>
+      </section>
+
+      <section class="col" aria-labelledby="col-data">
+        <h2 class="col__title" id="col-data">Datasets</h2>
+        <div class="card">
+          <a class="card__name" href="https://corpus.data-landscapers.io/finance/all/">Finance</a>
+          <span class="card__text">The financing of digital transformation, by country and topic.</span>
+          <span class="chips">
+            <a href="https://corpus.data-landscapers.io/finance/budgets/">National budgets</a>
+            <a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a>
+            <a href="https://corpus.data-landscapers.io/finance/all/">The two combined</a>
+          </span>
+        </div>
+        <a class="card" href="https://corpus.data-landscapers.io/catalogue/">
+          <span class="card__name">Catalogue</span>
+          <span class="card__text">A searchable index of over 30,000 news stories and other documents held in Corpus.</span>
+        </a>
+        <div class="card">
+          <a class="card__name" href="https://corpus.data-landscapers.io/datasets/">Ad hoc datasets</a>
+          <span class="card__text">Compiled for standalone research projects.</span>
+          <span class="chips">
+            <a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data centres</a>
+            <a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Hosting of state institutions</a>
+          </span>
+        </div>
+      </section>
+
     </div>
-  </nav>
 
-  <div class="stat-bar">
-    <div class="stat-bar__inner">
-      <span class="stat-bar__label">Primary sources in corpus</span>
-      <span class="stat-bar__item">Total <strong>31,192</strong></span>
-      <span class="stat-bar__item">Published this year <strong>16,839</strong></span>
-      <span class="stat-bar__item">Published this month <strong>1,332</strong></span>
-    </div>
-  </div>
+    <p class="map__foot">Corpus is a public good for all analysts, planners and practitioners working towards the digital transformation of Africa.</p>
 
-  <main id="main">
-  <div class="container">
-
-    <div class="hero">
-      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Corpus%20home&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
-<p>Corpus is a repository of summaries and indices of public documents tracking progress on digital transformation, digital public infrastructures and data governance across Africa. It is updated every night through automated processes that search, fetch, classify and analyse evidence from a wide range of publicly available sources.</p>
-<p>It is provided as a public good for all working towards the digital transformation of Africa.</p>
-    </div>
-
-    <h2 class="section-heading" id="maturity"><a href="https://corpus.data-landscapers.io/maturity/">Maturity</a></h2>
-    <p class="section-intro">Where each African country stands on each studied indicator, on a five-stage scale.</p>
-
-    <h2 class="section-heading" id="progress"><a href="https://corpus.data-landscapers.io/progress/">Progress</a></h2>
-    <p class="section-intro">Digital transformation involves far more than the headline strategies, acts and systems. We track 123 indicators across 54 countries and collate the evidence of progress, however small it may be.</p>
-
-
-    <h2 class="section-heading" id="bulletin"><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></h2>
-    <p class="section-intro">The bulletin lists the latest new content. Typically this is yesterday's news, built automatically overnight. On occasion an additional data collection run takes place during the day and the bulletin will reflect both today and yesterday. The bulletin can be filtered by country and topic.</p>
-
-    <h2 class="section-heading" id="alerts"><a href="https://corpus.data-landscapers.io/catalogue/">Weekly news alerts</a></h2>
-    <p class="section-intro">You can subscribe to customised weekly news updates that will be delivered every Monday morning. Go to the <a href="https://corpus.data-landscapers.io/catalogue/">catalogue</a> and click on "Get alerts".</p>
-
-    <h2 class="section-heading" id="countries"><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></h2>
-    <p class="section-intro">For each country four reports have been built and are modified whenever newly arrived content merits an update. The <strong><em>Status Report</em></strong> attempts to summarise the current state of the digital transformation landscape, The <strong><em>News</em></strong> page references all new content published since the beginning of the last calendar month. The <strong><em>Progress Report</em></strong> tracks movement on <a href="https://corpus.data-landscapers.io/methodology/lookups/#indicators">123 indicators</a> over the past 12 months. The <strong><em>Non-state Finance Report</em></strong> lists all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.</p>
-    <p class="section-intro">Content that covers regions or regional institutions rather than named countries is delivered in two reports for each of the five geographic regions as well as Sub-Saharan Africa, Africa, and relevant Global information. The <strong><em>News</em></strong> page references all new content published since the beginning of the last calendar month. The <strong><em>Progress Report</em></strong> tracks movement on <a href="https://corpus.data-landscapers.io/methodology/lookups/#topics">40 topics</a> over the past 12 months.</p>
-
-    <h2 class="section-heading" id="topics"><a href="https://corpus.data-landscapers.io/topics/">Topics</a></h2>
-    <p class="section-intro">All documents in the repository are classified according to a <a href="https://corpus.data-landscapers.io/methodology/lookups/#topics">two-tier taxonomy</a> of 40 topics and 123 indicators. Two reports are delivered for each of the topics. The <strong><em>News</em></strong> page references all new content published since the beginning of the last calendar month. The <strong><em>Progress Report</em></strong> tracks movement on the <a href="https://corpus.data-landscapers.io/methodology/lookups/#indicators">indicators</a> over the past 12 months. The content in both is reproduced from the country reports.</p>
-
-    <h2 class="section-heading" id="finance"><a href="https://corpus.data-landscapers.io/finance/">Finance</a></h2>
-    <p class="section-intro">We are developing two datasets covering all financing of digital transformation. The first collects information on non-state financing. The second, still under development, will cover national budgeting, expenditure and audit.</p>
-
-    <h2 class="section-heading" id="catalogue"><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></h2>
-    <p class="section-intro">All our reports have been built from documents collected into the repository. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you the metadata to assess and access the original, published documents.</p>
-
-    <div class="colophon">
-      <strong>About this page</strong>
-      <dl>
-        <dt>Built</dt><dd class="mono">2026-10-20</dd>
-        <dt>Counts</dt><dd>counted from <code>raw-catalogue.csv</code> &mdash; <code>outputs/catalogue/stats.json</code> not yet published</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-  </div>
   </main>
+  <script>
+    // The vh-scaled sizes fit most screens; this catches the rest by stepping the
+    // root font size down until the map no longer overflows (floor 75%).
+    (function () {
+      var root = document.documentElement, cols = document.querySelectorAll('.col');
+      function over() {
+        for (var i = 0; i < cols.length; i++) if (cols[i].scrollHeight > cols[i].clientHeight + 1) return true;
+        return false;
+      }
+      function fit() {
+        root.style.fontSize = '';
+        if (getComputedStyle(document.querySelector('.site-wrap')).overflow !== 'hidden') return;
+        for (var pct = 100; pct > 75 && over(); pct -= 2.5) {
+          root.style.fontSize = pct - 2.5 + '%';
+        }
+      }
+      fit();
+      addEventListener('resize', fit);
+      if (document.fonts) document.fonts.ready.then(fit);
+    })();
+  </script>
 
   <footer class="site-footer">
     <div class="site-footer__inner">
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
     </div>
   </footer>
-
 </div>
 </body>
 </html>

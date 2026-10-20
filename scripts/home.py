@@ -5,12 +5,10 @@
                              ->  site/countries/index.html   (the 54-box matrix, then the region matrix)
                              ->  site/topics/index.html      (the taxonomy matrix)
 
-Promoted from prototypes/build-home-page.py once the wireframe was agreed;
-revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
-header mirrors data-landscapers.io's own nav with Corpus added on the left;
-a second nav bar for the corpus sections; a highlighted total/this-year/
-this-month stat bar; a two-line statement of what the corpus is; then
-Countries & Regions and Topics.
+**The home page is one screen mapping the site** *(Bill, 2026-10-20)*: the
+masthead without the Corpus nav row, a banner, then News, Reports and Datasets
+as rounded boxes of links (`TEMPLATE`, styled by `home.css`). It replaced the
+stat bar and the run of section intros that stood there since 2026-08-11.
 
 **The country and topic matrices are now a heading, an intro and a link**
 *(Bill, 2026-08-24)*. Each moved to a page of their own on the same day, for
@@ -45,6 +43,7 @@ from __future__ import annotations
 import csv
 import html
 import json
+import re
 from collections import Counter
 from datetime import date
 import sys
@@ -214,26 +213,6 @@ def region_boxes(by_place: dict[str, int]) -> str:
         for c in codes)
 
 
-def bulletin_section() -> str:
-    """The bulletin, at the top of the page because it is the one thing here that is about today
-    *(2026-08-17)*.
-
-    **Heading and one paragraph** *(Bill, 2026-08-21)*. It used to carry two boxes — *By country*
-    and *By topic*, each showing the window's item count — and a caveat under them explaining
-    that both counted the same sources. The country bulletin is retired, which leaves one box
-    counting one document, and a box matrix of one is a link wearing a costume. So the heading
-    is the link, and the paragraph beneath it is the section.
-
-    The section is omitted entirely where the document does not exist — unlike the country and
-    topic boxes, which link ahead of the pages they open (design.md §8), there is nothing here to
-    be accurate *about* until a build has written one."""
-    if not (OUTPUTS / "bulletins" / "corpus-bulletin.md").exists():
-        return ""
-    return (f'\n    <h2 class="section-heading" id="bulletin">'
-            f'<a href="{SITE_BASE}/bulletin/">Bulletin</a></h2>\n'
-            f'    <p class="section-intro">{copy_inline("home", "bulletin-intro")}</p>\n')
-
-
 def topic_grid(by_topic: dict[str, int]) -> str:
     """The topic matrix, for `site/topics/`: an h3 per Level-1 category, and a row
     of boxes beneath it with the category's own box first.
@@ -320,18 +299,22 @@ def topic_grid(by_topic: dict[str, int]) -> str:
     return "\n".join(out)
 
 
+# **The home page is a map of the site** *(Bill, 2026-10-20)*: the masthead, then one screen of
+# rounded boxes, News, Reports and Datasets, each linking to what it names. It replaced the
+# stat bar and the run of section intros, and it carries no Corpus nav row because it is one.
+# The sample links (Algeria's news, Angola's status, Benin's progress) are Bill's choice.
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corpus — Data Landscapers</title>
-<meta name="description" content="A living record of digital transformation and data governance across Africa: {docs} sources, country and topic reports, and the finance behind them.">
+<meta name="description" content="Real-time research on African digital transformation: daily news, country and topic reports, maturity and progress assessments, finance and other datasets.">
 <link rel="canonical" href="{base}/">
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 <meta property="og:title" content="Corpus — Data Landscapers">
-<meta property="og:description" content="A working record of digital transformation and data governance across Africa.">
+<meta property="og:description" content="Real-time research on African digital transformation.">
 <meta property="og:url" content="{base}/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
@@ -339,63 +322,105 @@ TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
 <div class="site-wrap">
-
 {chrome}
+  <main id="main" class="map">
 
-  <div class="stat-bar">
-    <div class="stat-bar__inner">
-      <span class="stat-bar__label">Primary sources in corpus</span>
-      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
-      <span class="stat-bar__item">Published this year <strong>{docs_year}</strong></span>
-      <span class="stat-bar__item">Published this month <strong>{docs_month}</strong></span>
+    <header class="map__head">
+      <h1 class="map__title">Corpus</h1>
+      <p class="map__sub">Real-time research on African digital transformation</p>
+    </header>
+
+    <div class="map__cols">
+
+      <section class="col" aria-labelledby="col-news">
+        <h2 class="col__title" id="col-news">News</h2>
+        <a class="card" href="{base}/bulletin/">
+          <span class="card__name">Bulletin</span>
+          <span class="card__text">Yesterday&rsquo;s news stories, collected overnight.</span>
+        </a>
+        <a class="card" href="{base}/reports/DZA/DZA-monthly.html">
+          <span class="card__name">Country &amp; region</span>
+          <span class="card__text">Every story published since the start of last month: a report for each country and region, grouped by topic and story.</span>
+        </a>
+        <a class="card" href="{base}/topics/gov-policy/gov-policy-monthly.html">
+          <span class="card__name">Topic</span>
+          <span class="card__text">The same stories, in a report for each of the {ntopics} topics, grouped by country.</span>
+        </a>
+        <a class="card" href="{base}/alerts/">
+          <span class="card__name">Custom alerts</span>
+          <span class="card__text">Weekly emails or RSS feeds built from your own choice of countries and topics.</span>
+        </a>
+      </section>
+
+      <section class="col" aria-labelledby="col-reports">
+        <h2 class="col__title" id="col-reports">Reports</h2>
+        <a class="card" href="{base}/reports/AGO/AGO-status.html">
+          <span class="card__name">Status</span>
+          <span class="card__text">An overall assessment of each country&rsquo;s digital transformation.</span>
+        </a>
+        <a class="card" href="{base}/reports/BEN/BEN-progress.html">
+          <span class="card__name">Progress</span>
+          <span class="card__text">For each country and indicator, the progress made over the past twelve months.</span>
+        </a>
+        <a class="card" href="{base}/maturity/#gov.policy--digital-transformation-strategy">
+          <span class="card__name">Maturity</span>
+          <span class="card__text">Progress compared across all countries, by topic and indicator.</span>
+        </a>
+      </section>
+
+      <section class="col" aria-labelledby="col-data">
+        <h2 class="col__title" id="col-data">Datasets</h2>
+        <div class="card">
+          <a class="card__name" href="{base}/finance/all/">Finance</a>
+          <span class="card__text">The financing of digital transformation, by country and topic.</span>
+          <span class="chips">
+            <a href="{base}/finance/budgets/">National budgets</a>
+            <a href="{base}/finance/">Non-state finance</a>
+            <a href="{base}/finance/all/">The two combined</a>
+          </span>
+        </div>
+        <a class="card" href="{base}/catalogue/">
+          <span class="card__name">Catalogue</span>
+          <span class="card__text">A searchable index of over {catalogue_n} news stories and other documents held in Corpus.</span>
+        </a>
+        <div class="card">
+          <a class="card__name" href="{base}/datasets/">Ad hoc datasets</a>
+          <span class="card__text">Compiled for standalone research projects.</span>
+          <span class="chips">
+            <a href="{base}/datasets/data-centres/">Data centres</a>
+            <a href="{base}/datasets/institution-hosting/">Hosting of state institutions</a>
+          </span>
+        </div>
+      </section>
+
     </div>
-  </div>
 
-  <main id="main">
-  <div class="container">
+    <p class="map__foot">Corpus is a public good for all analysts, planners and practitioners working towards the digital transformation of Africa.</p>
 
-    <div class="hero">
-      {feedback}
-{hero}
-    </div>
-
-    <h2 class="section-heading" id="maturity"><a href="{base}/maturity/">Maturity</a></h2>
-    <p class="section-intro">{maturity_intro}</p>
-
-    <h2 class="section-heading" id="progress"><a href="{base}/progress/">Progress</a></h2>
-    <p class="section-intro">{progress_intro}</p>
-
-{bulletin}
-    <h2 class="section-heading" id="alerts"><a href="{base}/catalogue/">Weekly news alerts</a></h2>
-    <p class="section-intro">{alerts_intro}</p>
-
-    <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
-    <p class="section-intro">{countries_intro}</p>
-    <p class="section-intro">{regions_intro}</p>
-
-    <h2 class="section-heading" id="topics"><a href="{base}/topics/">Topics</a></h2>
-    <p class="section-intro">{topics_intro}</p>
-
-    <h2 class="section-heading" id="finance"><a href="{base}/finance/">Finance</a></h2>
-    <p class="section-intro">{finance_intro}</p>
-
-    <h2 class="section-heading" id="catalogue"><a href="{base}/catalogue/">Catalogue</a></h2>
-    <p class="section-intro">{catalogue_intro}</p>
-
-    <div class="colophon">
-      <strong>About this page</strong>
-      <dl>
-        <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Counts</dt><dd>{counts_from}</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-  </div>
   </main>
+  <script>
+    // The vh-scaled sizes fit most screens; this catches the rest by stepping the
+    // root font size down until the map no longer overflows (floor 75%).
+    (function () {{
+      var root = document.documentElement, cols = document.querySelectorAll('.col');
+      function over() {{
+        for (var i = 0; i < cols.length; i++) if (cols[i].scrollHeight > cols[i].clientHeight + 1) return true;
+        return false;
+      }}
+      function fit() {{
+        root.style.fontSize = '';
+        if (getComputedStyle(document.querySelector('.site-wrap')).overflow !== 'hidden') return;
+        for (var pct = 100; pct > 75 && over(); pct -= 2.5) {{
+          root.style.fontSize = pct - 2.5 + '%';
+        }}
+      }}
+      fit();
+      addEventListener('resize', fit);
+      if (document.fonts) document.fonts.ready.then(fit);
+    }})();
+  </script>
 
 {foot}
-
 </div>
 </body>
 </html>
@@ -634,34 +659,18 @@ def build_topics() -> Path:
 
 def build() -> Path:
     s = load_stats()
-
-    built = date.today().isoformat()
-    this_year, this_month = built[:4], built[:7]
+    # Floored to the ten thousand, so the box does not move with every night's ingest.
+    catalogue_n = f"{s['documents'] // 10_000 * 10_000:,}"
+    ntopics = sum(1 for slug in taxonomy_lib.keys()
+                  if (OUTPUTS / "topics" / slug.replace(".", "-")
+                      / f"{slug.replace('.', '-')}-monthly.md").exists())
+    # The map is the Corpus navigation, so the page takes the masthead without the nav row.
+    head = re.sub(r'\n\s*<nav class="corpus-nav.*?</nav>\n?', "\n", chrome(None, depth=0), flags=re.S)
     doc = TEMPLATE.format(
-        base=SITE_BASE, main_site=MAIN_SITE, built=built,
-        favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        docs=f"{s['documents']:,}", year=built[:4],
-        docs_year=f"{s['by_year'].get(this_year, 0):,}",
-        docs_month=f"{s['by_month'].get(this_month, 0):,}",
-        bulletin=bulletin_section(),
-        # Under the bulletin: the other way to hear about new material (Bill, 2026-09-16).
-        alerts_intro=copy_inline("home", "weekly-news-alerts-intro"),
-        chrome=chrome(None, depth=0), foot=foot(depth=0),
+        base=SITE_BASE, favicon=f"{MAIN_SITE}/assets/favicon.svg",
+        catalogue_n=catalogue_n, ntopics=ntopics,
+        chrome=head, foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
-        feedback=feedback("Corpus home", f"{SITE_BASE}/"),
-        hero=copy("home", "hero"),
-        maturity_intro=copy_inline("home", "maturity-intro"),
-        progress_intro=copy_inline("home", "progress-intro"),
-        countries_intro=copy_inline("home", "countries-intro"),
-        regions_intro=copy_inline("home", "regions-intro"),
-        topics_intro=copy_inline("home", "topics-intro"),
-        finance_intro=copy_inline("home", "finance-intro"),
-        catalogue_intro=copy_inline("home", "catalogue-intro"),
-        counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
-                     + s.get("generated", "")
-                     if "source" not in s else
-                     "counted from <code>raw-catalogue.csv</code> &mdash; "
-                     "<code>outputs/catalogue/stats.json</code> not yet published"),
     )
     SITE.mkdir(parents=True, exist_ok=True)
     out = SITE / "index.html"

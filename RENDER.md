@@ -100,7 +100,7 @@ fi
 
 **`*-maturity.md` is not published yet** *(2026-09-24)*: the maturity assessment's first pass waits on Bill's decision in `documentation/maturity-rethink.md`, so the count leaves it out; publishing it is a loop line, not a removal here.
 
-**A document the loop never listed stops the run; a document tried and failed does not** — note it, render on, deploy, list it in the message. Topic documents land in `site/topics/{slug}/` and the loop already reaches them; **if the taxonomy grows a slug, check the link, not just the box** — every `/topics/…` href in `site/index.html` against `site/topics/…/index.html`.
+**A document the loop never listed stops the run; a document tried and failed does not** — note it, render on, deploy, list it in the message. Topic documents land in `site/topics/{slug}/` and the loop already reaches them; **if the taxonomy grows a slug, check the link, not just the box** — every `/topics/…` href in `site/topics/index.html` resolves.
 
 ## Step 3 — build the home page
 

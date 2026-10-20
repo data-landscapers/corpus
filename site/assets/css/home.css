@@ -1,34 +1,60 @@
-/* home.css — the Corpus home page, and nothing else.
- *
- * **Loaded by `home.py`'s `build()` alone since 2026-09-11.** It had become a
- * second `corpus.css`: the box grids, the topic matrix, the colophon and the
- * section intros were used on the countries, topics, country, finance, progress
- * and methodology pages, so all of them loaded it and `finance.html` loaded five
- * sheets. Those rules moved to `corpus.css`; what is left is the hero, which is
- * this page's only. (The house checklist: at most one page-type stylesheet.)
- */
+/* home.css — the Corpus home page: a map of everything the site publishes
+   (Bill, 2026-10-20), built by `scripts/home.py`.
 
-/* Hero: smaller type and no trailing whitespace, so the copy sits right above
- * the Countries rule (Bill, 2026-08-13, item 3). Text is placeholder pending a
- * rewrite, so the size is deliberately modest.
- *
- * **The zero bottom margin is the *last* paragraph's, not every paragraph's**
- * *(2026-09-10)*. The hero was one paragraph when it was written and became two
- * when Bill split it; a blanket `margin-bottom: 0` set the two solid against
- * each other, which reads as one paragraph with a line break in the wrong place.
- * `p + p` puts the space back between them and leaves the trailing zero — the
- * thing the rule was actually for — where it was. */
-/* **Body size since 2026-09-11** (Bill): it was 1.05rem, a step above the prose,
- * and read as a standfirst on a page whose sections are all body text. */
-.hero { padding: 1.75rem 0 0; margin-bottom: 0.6rem; }
-.hero p { font-size: var(--prose, 1rem); line-height: 1.6; max-width: 46rem; margin-bottom: 0; }
-.hero p + p { margin-top: 0.7rem; }
+   One screen, no scroll: the page is a fixed-height grid (header / map / footer)
+   and the sizes below scale with viewport height, so the three columns shrink
+   together rather than overflow; the page's fit script catches what they miss.
+   Short or narrow screens fall back to a normal scrolling stack. */
+:root {
+  --map-deep: var(--green);
+  --map-mid:  var(--accent);
+  --map-tint: var(--paper-warm);
+  --map-line: var(--rule);
+  --map-r:    14px;
+}
 
-/* The feedback ask on the home page, which has no `h1` to sit beside.
-   Elsewhere it floats onto the heading's line; here it takes a line of its own
-   above the standfirst, right-aligned. Both of the other arrangements were
-   tried and both are wrong on this page: a float re-rags the first two lines of
-   the standfirst, and taking it out of flow overlaps them, because `.hero p`
-   is capped at 46rem and 46rem is wider than what the container leaves. */
-.hero .feedback-ask { display: block; float: none; text-align: right;
-  margin: 0 0 0.55rem; }
+html, body { height: 100%; }
+body { background: var(--paper); }
+.site-wrap { height: 100vh; height: 100dvh; display: grid; grid-template-rows: auto 1fr auto; overflow: hidden; }
+.site-footer { margin-top: 0; padding-top: clamp(0.4rem, 1.2vh, 1rem); padding-bottom: clamp(0.4rem, 1.2vh, 1rem); }
+
+.map { min-height: 0; max-width: 1180px; width: 100%; margin: 0 auto;
+  padding: clamp(0.6rem, 2vh, 1.6rem) 1.25rem;
+  display: grid; grid-template-rows: auto 1fr auto; gap: clamp(0.5rem, 1.6vh, 1.1rem); }
+
+.map__head { background: var(--accent); color: var(--paper);
+  border-radius: var(--map-r); padding: clamp(0.7rem, 2.4vh, 1.6rem) 1.5rem; text-align: center; }
+.map__title { font-family: var(--display); font-weight: 700; color: var(--paper); margin: 0;
+  font-size: clamp(1.4rem, 4.2vh, 2.2rem); line-height: 1.05; letter-spacing: 0.01em; }
+.map__sub { margin: 0.3em 0 0; font-size: clamp(1rem, 2.6vh, 1.4rem); }
+
+.map__cols { min-height: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(0.5rem, 1.6vh, 1rem); }
+.col { min-height: 0; background: var(--map-tint); border: 1px solid var(--map-line); border-radius: var(--map-r);
+  padding: clamp(0.5rem, 1.6vh, 0.9rem); display: flex; flex-direction: column; gap: clamp(0.35rem, 1.1vh, 0.65rem); }
+.col__title { font-family: var(--display); font-weight: 700; color: var(--map-deep); margin: 0 0.2rem;
+  font-size: clamp(1.05rem, 3vh, 1.45rem); line-height: 1.1; display: flex; align-items: baseline; gap: 0.5rem; }
+.col__title::after { content: ""; flex: 1; border-bottom: 2px solid var(--map-line); transform: translateY(-0.25em); }
+
+.card { flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center;
+  background: #fff; border: 1px solid var(--map-line); border-left: 4px solid var(--map-mid); border-radius: 10px;
+  padding: clamp(0.35rem, 1.2vh, 0.75rem) 0.85rem; color: var(--ink); text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s; }
+a.card:hover, a.card:focus-visible { border-color: var(--map-mid); border-left-color: var(--green); box-shadow: 0 3px 12px rgba(42,107,58,0.14); transform: translateY(-1px); }
+.card__name { font-family: var(--serif); font-weight: 700; color: var(--map-deep); font-size: clamp(0.88rem, 2vh, 1.05rem); line-height: 1.2; border: none; text-decoration: none; }
+a.card:hover .card__name, a.card__name:hover { color: var(--accent); }
+.card__text { margin: 0.2em 0 0; color: var(--ink-light); font-size: clamp(0.72rem, 1.65vh, 0.88rem); line-height: 1.35; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.45em; }
+.chips a { font-size: clamp(0.66rem, 1.45vh, 0.78rem); padding: 0.12em 0.6em; border-radius: 999px;
+  background: var(--map-tint); color: var(--map-deep); border: 1px solid var(--map-line); text-decoration: none; white-space: nowrap; }
+.chips a:hover { background: var(--green); color: var(--paper); border-color: var(--green); }
+
+.map__foot { margin: 0; text-align: center; color: var(--ink-light); font-style: italic; font-size: clamp(0.8rem, 1.9vh, 1rem); }
+
+@media (max-width: 900px), (max-height: 600px) {
+  html, body { height: auto; }
+  .site-wrap { height: auto; overflow: visible; display: block; }
+  .map { display: block; padding: 1rem 16px; }
+  .map > * + * { margin-top: 1rem; }
+  .card { flex: none; }
+}
+@media (max-width: 900px) { .map__cols { grid-template-columns: 1fr; } }
