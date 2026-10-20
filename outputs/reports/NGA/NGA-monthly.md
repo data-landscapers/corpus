@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-20
 place: NGA
 ledger_rows: 158
 not_held: 9
-record: de166be8efab
+record: bf249c848410
 ---
 
 # News, Sep – Oct 2026
@@ -1126,6 +1126,14 @@ At the Nigerian Communications Commission's Digital Connectivity Investment Foru
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Why cheaper fibre fees fail to spark Nigerian infrastructure investment](https://techcabal.com/2026/10/19/cheaper-fibre-fees-dont-spark-investment/)** — TechCabal, 19 October 2026
+
+A TechCabal analysis of Nigerian Communications Commission portal data from July 2026 finds that state right-of-way fees do not neatly predict where fibre has been built. Ogun charges up to ₦6,600 per metre yet has 4,246 km of fibre, while Jigawa and Zamfara, which waive the fee, have 970 km and 1,101 km. The piece notes that construction costs and other factors are not captured in the portal data.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1795,6 +1803,14 @@ Airtel Money's London listing leaves out its Nigerian business. Its prospectus, 
 **[Onafriq shuts down its Nigerian agent banking business after five years](https://techcabal.com/2026/10/16/onafriq-shuts-down-nigeria-agent-banking/)** — TechCabal, 16 October 2026
 
 Onafriq said on 16 October 2026 that it is closing Baxi, its Nigerian agent-banking business, after five years, citing inflation, naira depreciation, rising costs and the growth of instant account-to-account transfers. Baxi agents have been moved to another principal bank, and Onafriq will stay in Nigeria for payments and card issuing.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Onafriq tried to sell its Nigerian agent banking business before shutdown](https://techcabal.com/2026/10/19/onafriq-baxi-shutdown/)** — TechCabal, 19 October 2026
+
+Onafriq had been negotiating the sale of Baxi, its Nigerian agent-banking business, before it announced a shutdown on 16 October 2026, according to UK-filed accounts approved on 29 July 2026. The accounts record a non-binding memorandum of terms for a full divestment, agency services revenue down 56% to $13.4 million in 2024, and ₦19.9 billion in overdrafts owed to Zenith Bank and Stanbic IBTC.
 
 </div>
 

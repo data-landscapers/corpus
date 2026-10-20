@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: LBR
 ledger_rows: 34
 not_held: 6
-record: 38143f0b6b5e
+record: f5a8edc38cbf
 ---
 
 # News, Sep – Oct 2026
@@ -419,6 +419,14 @@ Liberian civil society group Naymote, in a statement of 15 October 2026, urged t
 **[Liberian Senate Orders Review of US$52 Million Digital Identity Concession Agreement - Liberia Public Radio](https://liberiapublicradio.com/2026/10/16/liberian-senate-orders-review-of-us52-million-digital-identity-concession-agreement/)** — Liberia Public Radio, 16 October 2026
 
 Liberia's Senate sent President Boakai's proposed US$52 million build-operate-transfer concession with Germany's OeSD International for a national ID, civil registry and vital statistics system (NIDCRVS) to three committees. They are to report to plenary within two weeks, before any vote on ratification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberian MPs begin scrutinizing PPP concession deal for new national ID](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)** — Biometric Update, 19 October 2026
+
+Liberia's House of Representatives referred a proposed $52 million build-operate-transfer concession for a national ID and civil registration system to a joint committee on 16 October 2026, giving it two weeks to report. The system would hold records for up to 10 million people, and civil society groups are asking for scrutiny of the financial terms and data protection. The National Identification Registry says fewer than 800,000 people hold a national ID.
 
 </div>
 

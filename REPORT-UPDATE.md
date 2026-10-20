@@ -11,7 +11,7 @@ last_reviewed: 2026-10-03
 
 ## The update, per unit
 
-`documentation/report-layer.md` is the spec. This stage reads only the sources the ledger has **not** yet considered — a set difference over slugs, so **an item already considered is never reopened** (`scripts/reopen-considered.py` is the only thing that can undo a mark). The work order (from `--all`, or `rebuild.py --scan`) lists each initialised unit and its unconsidered count. For **each** unit:
+`documentation/report-layer.md` is the spec. This stage reads only the sources the ledger has **not** yet considered — a set difference over slugs, so **an item already considered is never reopened** (striking its line from the unit's `considered.txt` is the only way to undo a mark). The work order (from `--all`, or `rebuild.py --scan`) lists each initialised unit and its unconsidered count. For **each** unit:
 
 1. **List the new slugs.** `python scripts/report-scan.py --slugs {ISO3}` (from `scripts/.workroot/`). Read each slug's `hub_line`, facets, and body only where the line is not enough.
 

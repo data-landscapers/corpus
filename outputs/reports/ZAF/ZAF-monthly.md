@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-20
 place: ZAF
 ledger_rows: 150
 not_held: 21
-record: 5267c5fe87fc
+record: ffcb8bfcd343
 ---
 
 # News, Sep – Oct 2026
@@ -1181,6 +1181,14 @@ The Gauteng legislature's e-government committee rejected the provincial departm
 **[ACCOUNTABILITY OVER ALLEGED E-PANIC BUTTON SECURITY BREACH - Yo School Mag](https://nyakaza.org.za/accountability-over-alleged-e-panic-button-security-breach/)** — Yo School Mag, 8 October 2026
 
 Gauteng legislature committees said after a joint meeting on 5 October 2026 that the provincial Department of e-Government notified the Information Regulator of the e-Panic Button data exposure only that morning, about two weeks after being alerted on 21 September. The department could not say how many records were exposed, and the committees demanded an investigation independent of the app's service provider.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**['You didn't need to bypass any access controls': Gauteng eGov weighs charges over e-panic button flaw](https://www.citizen.co.za/news/gauteng-egov-possible-criminal-charges-panic-button-security-incident/)** — The Citizen, 19 October 2026
+
+Gauteng's e-Government department said on 19 October 2026 it will decide whether to pursue criminal charges against student Joel Cedras, who exposed a flaw in the e-Panic Button app, once an investigation report due the following week is in. The DA's Michael Waters said the department had sought his prosecution, and that police advised the app's developers would have to open the case.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: MUS
 ledger_rows: 27
 not_held: 7
-record: ec7b0c2b3f99
+record: df34d991ce69
 ---
 
 # News, Sep – Oct 2026
@@ -597,6 +597,14 @@ Mauritius Telecom and Amazon Web Services brought more than 125 delegates from s
 **[Partenariat SIL–TCS : Maurice accélère sa transformation numérique](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique)** — Top FM, 16 October 2026
 
 Mauritius's State Informatics Limited and India's Tata Consultancy Services signed a memorandum of understanding on 15 October 2026 covering digital solutions, skills transfer and modernisation of public and private services. ICT minister Avinash Ramtohul presented it as part of Mauritius-India technology cooperation; no value or timetable was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius’ SIL signs MoU with TCS to strengthen digital transformation](https://techafricanews.com/2026/10/19/mauritius-sil-signs-mou-tcs-digital-transformation/)** — TechAfrica News, 19 October 2026
+
+Mauritius' State Informatics Ltd signed a memorandum of understanding with India's Tata Consultancy Services on digital transformation, technology cooperation and innovation. IT Minister Avinash Ramtohul said it would support knowledge transfer and local digital skills, and he pointed to the planned AI City and the automation of public-sector workflows.
 
 </div>
 

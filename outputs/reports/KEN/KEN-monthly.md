@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-20
+period: 2026-09-01 to 2026-10-20
 place: KEN
-ledger_rows: 142
+ledger_rows: 143
 not_held: 7
-record: 5e23eb8491d6
+record: a5c0d64ec7a9
 ---
 
 # News, Sep – Oct 2026
@@ -1551,6 +1551,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Airtel’s virtual card will test Safaricom’s grip on Kenya’s online payments](https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/)** — TechCabal, 14 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoovnPay wallet agreement with Mastercard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 October 2026, to add Mastercard prepaid cards, tokenisation, online acceptance, Pay Local and cross-border transfers to the MoovnPay wallet. Pay Local is to expand across Kenya and Tanzania, and the Shooga prepaid Mastercard portfolio is to launch next.
 
 </div>
 
