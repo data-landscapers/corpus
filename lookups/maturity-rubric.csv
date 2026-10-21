@@ -149,21 +149,11 @@ finance.budget--sustainable-domestic-financing-of-digital-transformation,2,"Digi
 finance.budget--sustainable-domestic-financing-of-digital-transformation,3,"A recurring programme or budget line for digital transformation in the appropriation, in a read budget document or on record, without a dedicated fund or own-source revenue.",yes
 finance.budget--sustainable-domestic-financing-of-digital-transformation,4,"A dedicated mechanism in law: a digital or universal-service fund, a levy or own-source revenue assigned to digital programmes, or a multi-year programme with published execution.",yes
 finance.budget--sustainable-domestic-financing-of-digital-transformation,5,"The DTS and Goal 20 posture: a sovereignty fund or equivalent sustained domestic mechanism with published execution, and external finance confined to capital.",no
-finance.sustain--financial-sustainability-of-digital-systems,1,"Domestic-state share below 20 % (provisional; bottom quintile once cut), or no domestic-state digital line in a read budget document.",yes
-finance.sustain--financial-sustainability-of-digital-systems,2,Share 20–40 % (provisional; second quintile): digital lines appropriated but the majority externally financed.,yes
-finance.sustain--financial-sustainability-of-digital-systems,3,"Share 40–60 % (provisional; middle quintile), with recurrent lines present and domestic.",yes
-finance.sustain--financial-sustainability-of-digital-systems,4,"Share 60–80 % (provisional; fourth quintile), recurrent costs domestic, and execution against voted on record where an outturn is held.",yes
-finance.sustain--financial-sustainability-of-digital-systems,5,"Share 80 % or more (provisional; top quintile) with multi-year domestic financing, external finance confined to capital, and an audited outturn published — the Goal 20 posture applied to the digital estate.","partly — Goal 20 states the posture, not the digital share"
 finance.new--mobilisation-of-non-state-finance,1,"No non-state commitment to a private digital beneficiary starting in the three years, on the compile.",yes
 finance.new--mobilisation-of-non-state-finance,2,Bottom two quintiles of the non-zero figures once cut; provisionally above zero and below 0.02 % of GDP a year.,yes
 finance.new--mobilisation-of-non-state-finance,3,Middle quintile; provisionally 0.02–0.1 %.,yes
 finance.new--mobilisation-of-non-state-finance,4,Fourth quintile; provisionally 0.1–0.25 %.,yes
 finance.new--mobilisation-of-non-state-finance,5,"Top quintile, provisionally 0.25 % or more, with private digital capital from domestic as well as foreign financiers on record — the Goal 20 and Smart Africa posture of mobilised private finance.","partly — the continental ambition, not a country figure"
-finance.new--development-partner-project-financing,1,Less than 20 % of partner digital finance to the state printed in its budget document (provisional).,yes
-finance.new--development-partner-project-financing,2,20–40 % on budget (provisional).,yes
-finance.new--development-partner-project-financing,3,40–60 % on budget (provisional).,yes
-finance.new--development-partner-project-financing,4,60–85 % on budget (provisional).,yes
-finance.new--development-partner-project-financing,5,85 % or more of partner digital finance on budget and executed through the state's own systems on record — Goal 20's posture of a continent financing its development through its own institutions.,partly — Goal 20 states the posture; the 85 % line is the reference's
 infra.connect--mobile-penetration,1,Bottom Africa quintile of mobile-phone ownership among people 10+; provisionally below 50 %.,yes
 infra.connect--mobile-penetration,2,Second quintile; provisionally 50–65 %.,yes
 infra.connect--mobile-penetration,3,Middle quintile; provisionally 65–80 %.,yes

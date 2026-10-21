@@ -160,9 +160,10 @@ def stem(value: str) -> str:
 
 
 def load_indicators():
-    """`lookups/indicators.csv`, in its own sort order, as the frame's spine."""
-    rows = list(csv.DictReader((LOOKUPS / "indicators.csv").read_text(
-        encoding="utf-8-sig").splitlines()))
+    """`lookups/indicators.csv`, in its own sort order, as the frame's spine — less the rows
+    `removed` from the progress report (`indicators_lib.shown()`)."""
+    rows = [r for r in csv.DictReader((LOOKUPS / "indicators.csv").read_text(
+        encoding="utf-8-sig").splitlines()) if not (r.get("removed") or "").strip()]
     rows.sort(key=lambda r: (int(r["Topic Sort"]), int(r["Indicator Sort"])))
     return rows
 

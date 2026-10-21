@@ -1,21 +1,21 @@
 ---
 title: Equatorial Guinea — progress report, October 2025 – October 2026
-compiled: 2026-10-20
-period: 2025-10-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2025-10-01 to 2026-10-21
 place: GNQ
 ledger_rows: 149
 not_held: 6
-indicators: 123
-record: 2ea0d923dbb3
+indicators: 120
+record: 74f26ae6f206
 ---
 
 # Equatorial Guinea: progress report, October 2025 – October 2026
 
-This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
+This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance across the subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-20.*
+*The period is 2025-10-01 to 2026-10-21.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -60,10 +60,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
 | Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The telecommunications ministry's vote [fell 23 per cent to CFA 5,802,246 thousand for 2026](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf), 0.4 per cent of the total budget. <details><summary>Full record</summary>The prior year's figure was CFA 7,556,246 thousand, and the 2026 vote includes CFA 140,000 thousand for the telecommunications school at the new capital, against a total budget of CFA 1,294,282m ([budget law](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf)).<br>It is the only domestic appropriation for the sector the repository holds at any date, and it fell in the year the ministry adopted a 35-objective plan it states is not yet financed.</details> | Regressed |
-| Financial sustainability | Financial sustainability of digital systems |  | ***No evidence*** |
-| MoUs and other agreements | Strategic relationships | A [Huawei electronic government memorandum](https://www.guineaecuatorialpress.com/noticias/telecomunicaciones_y_huawei_firman_un_mou_para_acelerar_la_implementacion_del_gobierno_electronico) of December 2025, followed by [contract annexes](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato) and a [network contract](https://www.guineaecuatorialpress.com/noticias/getesa_y_huawei_firman_un_contrato_de_colaboracion_para_la_optimizacion_de_la_red_telefonica). <details><summary>Full record</summary>The relationship that carries most of the estate is one vendor's. A [memorandum to accelerate electronic government was signed in December 2025 with no financial terms disclosed](https://www.guineaecuatorialpress.com/noticias/telecomunicaciones_y_huawei_firman_un_mou_para_acelerar_la_implementacion_del_gobierno_electronico); [annexes to the surveillance contract closed in March 2026 adding plate recognition and 80 technicians to train in China](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato); and the state operator [signed a six-month network optimisation contract in July, value undisclosed](https://www.guineaecuatorialpress.com/noticias/getesa_y_huawei_firman_un_contrato_de_colaboracion_para_la_optimizacion_de_la_red_telefonica).<br>Others are proposals rather than agreements: a [Nigerian company's submarine cable and data centre deal with no figures disclosed](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_nigeria_estrechan_lazos_con_un_acuerdo_clave_para_la_transformacion_digital), and a [sovereign artificial intelligence pitch at Davos](https://www.guineaecuatorialpress.com/noticias/amini_presenta_una_propuesta_de_colaboracion_para_la_transformacion_digital).</details> | Movement |
 | New investments | Mobilisation of non-state finance | A private group offered [US$50m for the second state operator with a 49 per cent state stake](https://www.guineaecuatorialpress.com/noticias/la_empresa_egsa_eloita_presenta_al_gobierno_una_propuesta_de_inversion_de_50_millones_de_dolares_usa) in January 2026. <details><summary>Full record</summary>State telecom assets were [listed for privatisation as a lending benchmark in 2022](https://minhacienda-gob.com/privatizacion-de-activos-del-estado/), which is the frame the offers arrive into.<br>Two arrived in the window: [US$50m to launch the second state operator, replacing the incumbent state telco, with a 49 per cent state stake](https://www.guineaecuatorialpress.com/noticias/la_empresa_egsa_eloita_presenta_al_gobierno_una_propuesta_de_inversion_de_50_millones_de_dolares_usa), and a [Nigerian company's agreement for a submarine cable and a commercial data centre with no figures disclosed](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_nigeria_estrechan_lazos_con_un_acuerdo_clave_para_la_transformacion_digital). Neither is recorded as closed.</details> | Movement |
-| New investments | Development-partner project financing | Two Chinese policy-bank facilities, [US$402m for a submarine cable](https://www.pdge-guineaecuatorial.com/la-pareja-presidencial-asiste-a-la-inauguracion-del-cable-de-fibra-optica-ceiba-2/) and [US$70.3m for video surveillance](https://minhacienda-gob.com/wp-content/uploads/2020/02/LF-2020.pdf), carry no repayment or delivery record. <details><summary>Full record</summary>The cable credit is drawn and the cable is in service, with no repayment or restructuring on record ([cable credit](https://www.pdge-guineaecuatorial.com/la-pareja-presidencial-asiste-a-la-inauguracion-del-cable-de-fibra-optica-ceiba-2/)).<br>The surveillance loan is committed, with no delivery, siting or oversight arrangement for the system on record ([surveillance loan](https://minhacienda-gob.com/wp-content/uploads/2020/02/LF-2020.pdf)).<br>Together they are the only external project financing the repository holds for the sector, and neither has a disbursement or completion statement against it.</details> | No change |
 
 
 ## ICT Infrastructure

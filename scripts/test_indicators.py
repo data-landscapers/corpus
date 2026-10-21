@@ -76,9 +76,11 @@ check("the assessed view holds no row with assessed = 0",
       [r["indicator_id"] for r in il.assessed() if not r["assessed"]], [])
 check("the assessed view is the frame less the unassessed rows",
       len(il.assessed()), sum(1 for r in frame if r["assessed"]))
-check("the frame itself still returns every row, assessed or not — the progress report "
-      "prints them all until it retires",
+check("the frame itself still returns every row, assessed or not",
       len(frame) > len(il.assessed()), True)
+check("the progress view is the frame less the removed rows, and every removed row is retired",
+      (len(il.shown()), [r["indicator_id"] for r in frame if r["removed"] and not r["retired"]]),
+      (sum(1 for r in frame if not r["removed"]), []))
 check("the id is the subject plus a slug of the indicator, so it is composable by nobody",
       all(r["indicator_id"].startswith(r["subject"] + "--") for r in frame), True)
 
@@ -86,7 +88,7 @@ order = [s for _, s, _ in rr.sections("ZAF")[0]]
 grouped = il.by_chapter(order)
 check("by_chapter returns the taxonomy's chapters in the taxonomy's order",
       [c for c, _ in grouped], [c for c in order if c in {r["chapter"] for r in frame}])
-check("grouping loses no indicator", sum(len(v) for _, v in grouped), len(frame))
+check("grouping loses no shown indicator", sum(len(v) for _, v in grouped), len(il.shown()))
 
 # --- the rendering --------------------------------------------------------------------------
 print("\nthe cell")

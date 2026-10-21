@@ -172,7 +172,7 @@ import indicators_lib as il  # noqa: E402
 
 STRAT = "gov.policy--digital-transformation-strategy"          # instrument
 TALK = "gov.discourse--open-discussion-of-government-policy"   # instrument, look-back anchors
-MEAS = "finance.new--development-partner-project-financing"    # measure
+MEAS = "finance.new--mobilisation-of-non-state-finance"       # measure
 FIX_RUBRIC = {iid: {s: {"anchor": f"stage {s} anchor", "interpolated": "yes"} for s in range(1, 6)}
               for iid in (STRAT, TALK, MEAS)}
 FIX_RUBRIC[TALK][2]["anchor"] = "restrictions on record in the 12 months to the as-at date"

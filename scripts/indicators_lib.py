@@ -54,7 +54,9 @@ UNIT_FIELDS = UNIT_FIELDS + STAGE_FIELDS
 # The maturity assessment's three frame columns (`documentation/archived/maturity-assessment.md` §4 and
 # `adding-an-indicator.md` §§3, 10). `kind` picks the rubric family; `assessed = 0` keeps a row
 # for its id and its mapped rows without staging it, and `retired` dates when that began. An id
-# is never deleted, so retirement is these two cells and nothing else.
+# is never deleted, so retirement is these two cells and nothing else. `removed` dates a retired
+# row's leaving the progress report too (Bill, 2026-10-21); a row retired without it still prints
+# there, as the five geopol MoU rows do.
 KINDS = ("instrument", "system", "measure")
 
 _frame: list[dict] | None = None
@@ -67,7 +69,7 @@ def frame() -> list[dict]:
     `subject` being the taxonomy Level-2 key the indicator hangs off, `chapter` its Level-1
     parent, `topic` the Level-2 label the report prints in its first column, and the last three
     the maturity assessment's (`KINDS`; `assessed` a bool; `retired` a date or empty). Every row
-    is returned, assessed or not: the progress report still prints all of them until it retires.
+    is returned, assessed or not; the progress report prints all but the `removed` (`shown()`).
     """
     global _frame
     if _frame is None:
@@ -79,7 +81,7 @@ def frame() -> list[dict]:
         with open(INDICATORS_CSV, encoding="utf-8-sig", newline="") as fh:
             rows = list(csv.DictReader(fh))
         want = {"indicator_id", "Topic Sort", "Indicator Sort", "Topic L1", "Topic", "Topic L2",
-                "Progress indicator", "kind", "assessed", "retired"}
+                "Progress indicator", "kind", "assessed", "retired", "removed"}
         missing = want - set(rows[0] if rows else {})
         if missing:
             raise SystemExit(
@@ -113,6 +115,9 @@ def frame() -> list[dict]:
             if assessed == "0" and not retired:
                 raise SystemExit(f"indicators_lib: {iid} is not assessed and has no retired "
                                  f"date")
+            removed = (r["removed"] or "").strip()
+            if removed and assessed == "1":
+                raise SystemExit(f"indicators_lib: {iid} is removed but still assessed")
             out.append({
                 "indicator_id": iid,
                 "subject": (r["Topic L2"] or "").strip(),
@@ -125,6 +130,7 @@ def frame() -> list[dict]:
                 "kind": kind,
                 "assessed": assessed == "1",
                 "retired": retired,
+                "removed": removed,
             })
         _frame = sorted(out, key=lambda r: r["sort"])
     return _frame
@@ -139,6 +145,11 @@ def assessed() -> list[dict]:
     return [r for r in frame() if r["assessed"]]
 
 
+def shown() -> list[dict]:
+    """The frame the progress report prints: every row not `removed`, in order."""
+    return [r for r in frame() if not r["removed"]]
+
+
 def by_chapter(order: list[str]) -> list[tuple[str, list[dict]]]:
     """[(chapter, [indicator, ...])] in `order` — the taxonomy's Level-1 chapters.
 
@@ -148,7 +159,7 @@ def by_chapter(order: list[str]) -> list[tuple[str, list[dict]]]:
     currently arise, and it is a cheaper thing to allow than to assert.
     """
     groups: dict[str, list[dict]] = {}
-    for r in frame():
+    for r in shown():
         groups.setdefault(r["chapter"], []).append(r)
     return [(c, groups[c]) for c in order if c in groups]
 

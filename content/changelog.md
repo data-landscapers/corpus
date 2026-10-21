@@ -1,3 +1,7 @@
+## 21 October 2026
+
+- Three finance indicators are removed: Financial sustainability of digital systems, Strategic relationships, and Development-partner project financing. They no longer appear in the progress reports or the Maturity Assessment, and the MoUs and other agreements topic has no progress report.
+
 ## 20 October 2026
 
 - The Corpus home page is now a single-screen map of the site: News, Reports and Datasets, each box linking to what it names. The Countries & Regions and Topics pages, and every other page, are reached from it or from the menu.

@@ -62,7 +62,7 @@ The frame checks in `archived/maturity-assessment.md` §11 must pass: a norms ro
 
 ## 10. Retiring an indicator
 
-**An id is never deleted and never reused.** Retirement is `assessed = 0` in the frame row and a `retired` date in a column added for the purpose; the row stays, its mapped rows stay, its history rows stay, and the renderers stop staging it from the retirement date. The reason goes in the commit body and, if readers could notice, the changelog. The mapped rows are kept for any indicator that replaces it.
+**An id is never deleted and never reused.** Retirement is `assessed = 0` in the frame row and a `retired` date in a column added for the purpose; the row stays, its mapped rows stay, its history rows stay, and the renderers stop staging it from the retirement date. The reason goes in the commit body and, if readers could notice, the changelog. The mapped rows are kept for any indicator that replaces it. **A retired row still prints in the progress report until a `removed` date takes it out of that too** *(Bill, 2026-10-21)*; its rubric, norm and measure rows go with the retirement, since the lints hold those to the assessed frame.
 
 ## 11. The specific document
 

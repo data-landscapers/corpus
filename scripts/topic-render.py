@@ -252,7 +252,7 @@ def build_progress(subject, label, today):
     countries, _ = units()
     order = by_full_name(countries)
     texts = {u: document(u, "progress") for u in order}
-    inds = [i for i in indicators_lib.frame() if i["subject"] == subject]
+    inds = [i for i in indicators_lib.shown() if i["subject"] == subject]
     sections_out, seen_places = [], []
     for ind in inds:
         rows = []

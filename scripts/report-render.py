@@ -1654,7 +1654,7 @@ def render_progress_indicators(unit, today, month, window, end=None):
     out = front(f"{name} — progress report, {span}", today, unit, len(ledger),
                 sum(1 for r in ledger if stem(r["status"]) == NOT_HELD),
                 period=f"{start} to {CLOSE}",
-                extra={"indicators": len(indicators_lib.frame())}) + [
+                extra={"indicators": len(indicators_lib.shown())}) + [
         f"# {name}: progress report, {span}",
         "",
         FRAME_NOTE,
@@ -1698,7 +1698,7 @@ def render_progress_indicators(unit, today, month, window, end=None):
         print(f"  !! {unit}: {len(orphan)} mapped row_id(s) are not on this ledger: "
               f"{', '.join(orphan[:4])}")
     note = ", ".join(f"{n} {v.lower()}" for v, n in counts.most_common())
-    return write(path, out, unit, f"{len(indicators_lib.frame())} indicators — {note}",
+    return write(path, out, unit, f"{len(indicators_lib.shown())} indicators — {note}",
                  today, end)
 
 def check(unit):
