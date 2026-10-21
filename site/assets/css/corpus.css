@@ -320,11 +320,11 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 .info-btn {
   display: inline-flex; align-items: center; justify-content: center;
   width: 1.05rem; height: 1.05rem; margin-left: 0.3rem; padding: 0;
-  vertical-align: super; border: 1.5px solid var(--link); border-radius: 50%;
-  background: none; color: var(--link); cursor: pointer;
+  vertical-align: super; border: 1.5px solid var(--green); border-radius: 50%;
+  background: none; color: var(--green); cursor: pointer;
   font: italic 700 0.7rem/1 Georgia, serif;
 }
-.info-btn:hover, .info-btn:focus-visible { background: var(--link); color: var(--paper); }
+.info-btn:hover, .info-btn:focus-visible { background: var(--green); color: var(--paper); }
 .info-pop {
   /* main.css zeroes margins, which undoes the browser's centring of a popover. */
   inset: 0; margin: auto; height: fit-content; box-sizing: border-box;
