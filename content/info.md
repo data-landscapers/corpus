@@ -14,9 +14,9 @@ Corpus' work on building finance datasets is aimed at overcoming three challenge
 - No one has joined up the full spectrum of cross-border and domestic, public and private investment.
 - With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.
 
-The *Non-state Finance* dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. 
+The *Non-state Finance* dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.
 
-We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so `commitment_usd_m` counts 50% of a commitment whose scope is partial or unclear.
+We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so `commitment_usd_m` counts 50% of a commitment whose scope is partial or unclear. The `scope_basis` column explains why a row was judged that way,
 
 The *Budgets* dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.
 
