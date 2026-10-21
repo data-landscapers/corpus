@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 19-10-2026 at 19:49 — Covering sources published on 19 October 2026
-window_start: 2026-10-19
-window_end: 2026-10-19
-items: 24
-collected_to: 2026-10-19 19:49
-compiled: 2026-10-19 20:39
+subtitle: Last updated 20-10-2026 at 21:08 — Covering sources published on 20 October 2026
+window_start: 2026-10-20
+window_end: 2026-10-21
+items: 33
+collected_to: 2026-10-20 21:08
+compiled: 2026-10-20 23:25
 ---
 
 # Bulletin
@@ -37,29 +37,25 @@ compiled: 2026-10-19 20:39
 <option value="">All countries and regions</option>
 <optgroup label="Regions">
 <option value="XAF">Africa</option>
+<option value="XCA">Central Africa</option>
+<option value="XGL">Global</option>
+<option value="XWA">West Africa</option>
 </optgroup>
 <optgroup label="Countries">
-<option value="DZA">Algeria</option>
 <option value="BEN">Benin</option>
-<option value="CAF">CAR</option>
+<option value="BFA">Burkina Faso</option>
 <option value="CMR">Cameroon</option>
-<option value="SWZ">Eswatini</option>
-<option value="GAB">Gabon</option>
+<option value="EGY">Egypt</option>
 <option value="GHA">Ghana</option>
-<option value="KEN">Kenya</option>
 <option value="LBR">Liberia</option>
 <option value="LBY">Libya</option>
-<option value="MUS">Mauritius</option>
 <option value="MOZ">Mozambique</option>
 <option value="NGA">Nigeria</option>
 <option value="RWA">Rwanda</option>
-<option value="SYC">Seychelles</option>
-<option value="SLE">Sierra Leone</option>
-<option value="SOM">Somalia</option>
+<option value="SEN">Senegal</option>
 <option value="ZAF">South Africa</option>
-<option value="SDN">Sudan</option>
-<option value="TZA">Tanzania</option>
-<option value="TGO">Togo</option>
+<option value="UGA">Uganda</option>
+<option value="ZWE">Zimbabwe</option>
 </optgroup>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -69,129 +65,217 @@ compiled: 2026-10-19 20:39
 
 ### Strategies, plans and policies
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="EGY" markdown="1">
 
-**[Why cheaper fibre fees fail to spark Nigerian infrastructure investment](https://techcabal.com/2026/10/19/cheaper-fibre-fees-dont-spark-investment/)** — TechCabal, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[وزير الاتصالات: السيادة الرقمية تقوم على 5 محاور تشمل البنية التحتية والأمن السيبرانى والذكاء الاصطناعى](https://www.youm7.com/story/2026/10/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D9%85-%D8%B9%D9%84%D9%89-5-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%AA%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9/7587192)** — Youm7, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-A TechCabal analysis of Nigerian Communications Commission portal data from July 2026 finds that state right-of-way fees do not neatly predict where fibre has been built. Ogun charges up to ₦6,600 per metre yet has 4,246 km of fibre, while Jigawa and Zamfara, which waive the fee, have 970 km and 1,101 km. The piece notes that construction costs and other factors are not captured in the portal data. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
-
-</div>
-
-### Legislation and regulation
-
-<div class="bulletin-item" data-places="SDN" markdown="1">
-
-**[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
-
-Sudan's prime minister issued a decision on 19 October 2026 forming a National Mechanism to Combat Informatics Crimes, chaired by an assistant attorney general. It is tasked with combating cybercrime and publications deemed harmful to the state and society, monitoring media and social platforms, and taking preventive and legal action, including lawsuits on the state's behalf. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
+Egypt's Communications and IT Minister Raafat Hindy presented a digital sovereignty strategy with five pillars at the Digital Egypt session of Egypt Forum 2026, reported on 20 October 2026. The pillars are sovereign digital infrastructure, cybersecurity, AI development, data protection and technology talent. He defined sovereignty as state control over its own infrastructure, data and services, not isolation. <span class="bulletin-item__also">*Also under [Digital sovereignty](#digital-sovereignty), [Cybersecurity](#cybersecurity) and [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="MUS" markdown="1">
+<div class="bulletin-item" data-places="XGL XAF" markdown="1">
 
-**[Mauritius’ SIL signs MoU with TCS to strengthen digital transformation](https://techafricanews.com/2026/10/19/mauritius-sil-signs-mou-tcs-digital-transformation/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+**[World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs)** — World Bank Group, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Mauritius' State Informatics Ltd signed a memorandum of understanding with India's Tata Consultancy Services on digital transformation, technology cooperation and innovation. IT Minister Avinash Ramtohul said it would support knowledge transfer and local digital skills, and he pointed to the planned AI City and the automation of public-sector workflows. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Training and skills](#training-and-skills).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GAB" markdown="1">
-
-**[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
-
-Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individuals and legal entities using social networks and online platforms to formally identify themselves. Gabon Media Time reports that article 4 does not say what documents are needed, how identity will be checked or how existing accounts are treated. It also does not make the personal identification number mandatory for this purpose. <span class="bulletin-item__also">*Also under [Data protection](#data-protection) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+The World Bank Group launched its first digital strategy in Seoul on 20 October 2026, with four priorities: connectivity, affordable devices and data, digital services and skills, and AI readiness. It also announced an AI Infrastructure and Readiness Initiative that gives emerging-market governments shared pay-as-you-go GPU capacity, starting with Africa and Latin America, with Cassava Technologies and NVIDIA as knowledge partners. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity), [Digital divides](#digital-divides) and [AI](#ai).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CMR" markdown="1">
+<div class="bulletin-item" data-places="UGA" markdown="1">
 
-**[Dr Hervé Tiwa : « Il y a un vide juridique actuellement qu’il faut combler »](https://www.digitalbusiness.africa/dr-herve-tiwa-il-y-a-un-vide-juridique-actuellement-quil-faut-combler/)** — Digital Business Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
-In an interview with Digital Business Africa, digital transformation and AI expert Hervé Tiwa argues that Cameroon has a legal gap on AI and should fill it. He favours a broader digital law that absorbs the cybercrime law rather than a separate law for each new technology, with clear prohibitions against misuse such as disinformation and deepfakes. <span class="bulletin-item__also">*Also under [AI](#ai) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
-
-</div>
-
-### Data protection
-
-<div class="bulletin-item" data-places="LBR" markdown="1">
-
-**[Liberian MPs begin scrutinizing PPP concession deal for new national ID](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-Liberia's House of Representatives referred a proposed $52 million build-operate-transfer concession for a national ID and civil registration system to a joint committee on 16 October 2026, giving it two weeks to report. The system would hold records for up to 10 million people, and civil society groups are asking for scrutiny of the financial terms and data protection. The National Identification Registry says fewer than 800,000 people hold a national ID. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Registries](#registries).*</span>
+The Uganda Communications Commission said on 20 October 2026 that commercial Wi-Fi hotspot resellers must be licensed and must stop reselling home internet packages. Its seven-day deadline for unlicensed operators ended on 19 October 2026. It will open a registration system by service category and set up a joint committee with government, security agencies and seven hotspot operators. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item" data-places="SEN" markdown="1">
 
-**['You didn't need to bypass any access controls': Gauteng eGov weighs charges over e-panic button flaw](https://www.citizen.co.za/news/gauteng-egov-possible-criminal-charges-panic-button-security-incident/)** — The Citizen, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[Sénégal : une nouvelle instance pour harmoniser les projets numériques de l’État](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-une-nouvelle-instance-pour-harmoniser-les-projets-numeriques-de-l-etat)** — wearetech.africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Gauteng's e-Government department said on 19 October 2026 it will decide whether to pursue criminal charges against student Joel Cedras, who exposed a flaw in the e-Panic Button app, once an investigation report due the following week is in. The DA's Michael Waters said the department had sought his prosecution, and that police advised the app's developers would have to open the case. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
-
-**[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Senegal's Prime Minister installed the Comité de gouvernance du numérique (GouVNum) on 16 October 2026 to coordinate state digital projects and rationalise digital spending. The telecoms and digital ministry acts as its permanent secretariat. The 2034 targets under the New Deal technologique are 90% of administrative procedures dematerialised and a digital identity for 90% of citizens. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
-### Regional collaboration
+<div class="bulletin-item" data-places="BEN" markdown="1">
 
-<div class="bulletin-item" data-places="BEN GHA RWA XAF" markdown="1">
+**[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
-**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Data Exchange](#data-exchange).*</span>
-
-</div>
-
-### Public debate and participation in policymaking
-
-<div class="bulletin-item" data-places="GHA" markdown="1">
-
-**[The Missing Plumbing of the State: Why Ghana's Next Digital Leap Depends on a Whole-of-Government Data Exchange](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)** — Imani Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-John Sitsofe Mensah, an IMANI associate, argues that Ghana needs a whole-of-government data exchange to connect state databases, now that identity and payment systems are in place. He warns against agencies hosting core records on offshore cloud servers instead of the national government cloud run by NITA, citing legal, sovereignty and vendor lock-in risks. He also says a single exchange would stop citizens being asked for information the state already holds. <span class="bulletin-item__also">*Also under [Data Exchange](#data-exchange), [Digital sovereignty](#digital-sovereignty) and [Data Storage](#data-storage).*</span>
+Benin created a National Digital Committee under the President of the Republic by decree n° 2026-579 of 2 September 2026, reported on 20 October 2026. The head of state chairs it and it meets quarterly. It tracks digital projects through a quarterly dashboard from a permanent secretariat, and gives prior opinions on structuring digital projects and on technology partnerships that could affect national digital sovereignty. <span class="bulletin-item__also">*Also under [Digital sovereignty](#digital-sovereignty) and [Cybersecurity](#cybersecurity).*</span>
 
 </div>
 
 <div class="bulletin-item" data-places="MOZ" markdown="1">
 
-**[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Mozambique: Government plans to track and monitor businesses on digital platforms](https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/)** — Club of Mozambique, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
 
-Fees at Mozambique's new Centro Pronto document centre have drawn public anger, as the private centre adds its own fee and 16% VAT to the state fee. An adult identity-card renewal costs MZN 1,058.12 in total, of which the state fee is MZN 160. A driving-licence renewal costs MZN 5,201.84 and an express passport renewal MZN 10,725.10. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Access to services](#access-to-services).*</span>
+Mozambique's government will track and monitor businesses operating on digital platforms, including online credit providers, under its recently approved decree on electronic transactions and e-commerce. The Council of Ministers' spokesperson said so on 20 October 2026. The Digital Transformation Agency is among the bodies that will supervise operators. <span class="bulletin-item__also">*Also under [Legislation and regulation](#legislation-and-regulation).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
+<div class="bulletin-item" data-places="BFA" markdown="1">
 
-**[Dr Hervé Tiwa : « Il y a un vide juridique actuellement qu’il faut combler »](https://www.digitalbusiness.africa/dr-herve-tiwa-il-y-a-un-vide-juridique-actuellement-quil-faut-combler/)** — Digital Business Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026. <span class="bulletin-item__also">*Also under [Data protection](#data-protection).*</span>
+
+</div>
+
+### Legislation and regulation
+
+<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+
+**[Mozambique: Government plans to track and monitor businesses on digital platforms](https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/)** — Club of Mozambique, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+### Data protection
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[Nigeria Data Protection Commission hosts Sri Lankan delegation for study tour](https://techreviewafrica.com/news/7823/nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu)** — Tech Review Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria's Data Protection Commission hosted a delegation from Sri Lanka's Data Protection Authority for a two-day study tour, reported on 20 October 2026. Sri Lanka is the eighteenth country to visit the Commission for knowledge exchange, and the World Bank supported the visit. National Commissioner Vincent Olatunji presented the Commission's roadmap and its public-private partnership model.
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Legal Aid SA resets all passwords after phishing attack](https://www.itweb.co.za/article/legal-aid-sa-resets-all-passwords-after-phishing-attack/kYbe97Xbj2oqAWpG)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Legal Aid South Africa ordered a password reset for all staff and compulsory cyber-security training after phishing e-mails posing as National Prosecuting Authority summonses circulated around 8 and 9 October 2026. It said it knew of no successful breach, and the Information Regulator said it had received no security-compromise notification. This was reported on 20 October 2026. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GHA" markdown="1">
+
+**[Data Protection Commission warns against exposure of evacuated Ghanaians’ personal information](https://www.adomonline.com/data-protection-commission-warns-against-exposure-of-evacuated-ghanaians-personal-information/)** — Adomonline.com, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Ghana's Data Protection Commission said, in a statement reported on 20 October 2026, that publishing the names, signatures and financial-assistance records of 1,964 Ghanaians evacuated from South Africa exposed them to identity theft and fraud. It told the Minority Caucus, the Foreign Affairs Ministry and media houses that registering as data controllers does not exempt them from the Data Protection Act. It urged redaction and announced a review of the legal basis for the disclosures.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BFA" markdown="1">
+
+**[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+### Regional collaboration
+
+<div class="bulletin-item" data-places="XCA" markdown="1">
+
+**[Gabon/Télécommunications : l'ARTAC engage à Libreville la révision de ses textes fondateurs](https://agpgabon.ga/gabon-telecommunications-lartac-engage-a-libreville-la-revision-de-ses-textes-fondateurs/)** — Agence Gabonaise de Presse, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+The Central African telecoms regulators' assembly ARTAC opened its 4th extraordinary session in Libreville on 20 October 2026, running two days and hosted by Gabon's ARCEP. Digital Economy Minister Mark-Alexandre Doumba launched it. Participants are reviewing ARTAC's statutes, rules of procedure and financial regulations, and São Tomé and Príncipe's regulator formally presented its membership application.
+
+</div>
+
+<div class="bulletin-item" data-places="XCA" markdown="1">
+
+**[Gabon/ARTAC : six groupes de travail permanents créés pour harmoniser la réglementation en Afrique centrale](https://agpgabon.ga/gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la-reglementation-en-afrique-centrale/)** — Agence Gabonaise de Presse, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+ARTAC created six permanent technical working groups at its 4th extraordinary Conference of Regulators session in Libreville on 20 October 2026. They cover radiocommunications, technical standards on safety and environmental protection, regulatory governance, postal regulation, digital financial services and consumer protection. The session, hosted by ARCEP Gabon, is also reviewing ARTAC's statutes, rules of procedure and financial regulations. <span class="bulletin-item__also">*Also under [Standards](#standards).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XWA" markdown="1">
+
+**[Burkina Faso : Les régulateurs du numérique de l’UEMOA réunis à Ouagadougou pour renforcer leur coopération](https://lefaso.net/spip.php?article150075=)** — leFaso.net, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The second session of the UEMOA national digital regulators' committee (CRNN) opened in Ouagadougou on 20 October 2026 and runs until 22 October. The agenda covers regulation of digital financial services, sharing of telecoms infrastructure and community roaming. Burkina Faso currently chairs the committee, and the first session was held in Cotonou from 28 to 31 October 2025. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech) and [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="BEN GHA RWA XAF" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Data Exchange](#data-exchange).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XCA" markdown="1">
+
+**[Afrique centrale : l’ARTAC veut harmoniser les règles du jeu numérique](https://www.gabonreview.com/afrique-centrale-lartac-veut-harmoniser-les-regles-du-jeu-numerique/)** — GabonReview, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Central African telecoms regulators are meeting in Libreville on 20 and 21 October 2026 to revise the founding texts of ARTAC. Minister Mark-Alexandre Doumba opened the 4th extraordinary session on 20 October. Delegations from DR Congo, Congo, Cameroon, Chad, Equatorial Guinea, the Central African Republic and São Tomé and Príncipe are reviewing revised statutes, rules of procedure and financial regulations. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
+
+</div>
+
+### Standards
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[NCC device verification questions Nigeria's phone imports](https://techcabal.com/2026/10/20/device-verification-phones-nigeria/)** — TechCabal, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria's Communications Commission launched a Device Checker on 7 October 2026 that lets buyers dial *315# to see whether a phone is type approved, using its IMEI. An article on 20 October 2026 notes that 99% of smartphones are imported and about 63 million devices are sold each year, and questions how well the NCC can enforce compliance. Buyers of flagged phones have no standard refund route. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XCA" markdown="1">
+
+**[Gabon/ARTAC : six groupes de travail permanents créés pour harmoniser la réglementation en Afrique centrale](https://agpgabon.ga/gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la-reglementation-en-afrique-centrale/)** — Agence Gabonaise de Presse, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+### Public debate and participation in policymaking
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[TikTok launches election centre ahead of SA local govt polls](https://www.itweb.co.za/article/tiktok-launches-election-centre-ahead-of-sa-local-govt-polls/LPp6VMrBrEBMDKQz)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+TikTok announced on 20 October 2026 an in-app election centre built with the Electoral Commission of South Africa for the 4 November 2026 local government elections. It links to an AI media-literacy hub. TikTok said it removed about 90,000 South African videos between January and March 2026 for civic-integrity, misinformation and misleading AI-content violations. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Ramaphosa to meet Silicon Valley AI giants as South Africa eyes tech future](https://www.citizen.co.za/news/south-africa/ramaphosa-meet-silicon-valley-ai-giants-south-africa-eyes-tech-future/)** — The Citizen, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+President Cyril Ramaphosa said at the Black Wednesday commemoration lunch on Monday 19 October 2026 that he will lead a delegation to Silicon Valley after the local government elections. It will include people from government, universities, business and youth, to meet AI company leaders and learn how the technology works. No travel dates were given. <span class="bulletin-item__also">*Also under [AI](#ai) and [US / hyperscaler activities](#us-hyperscaler-activities).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[ISPA urges free data for poor households](https://www.itweb.co.za/article/ispa-urges-free-data-for-poor-households/O2rQGMAEWyPMd1ea)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa's Internet Service Providers' Association called on 20 October 2026 for a free basic data allowance for people below the poverty line. It said the communications department has listed a cost-to-communicate programme for years without a substantive plan. It also said the Competition Commission's proposed Electronic Communications Act amendments are unlikely to be finalised before the end of 2027. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides) and [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[IEC receives over 700 election misinformation complaints, enlists Google, Meta and TikTok ahead of November vote](https://www.citizen.co.za/news/south-africa/elections/iec-receives-election-misinformation-complaints-enlists-google-meta-and-tiktok-ahead-of-november-vote/)** — The Citizen, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa's Electoral Commission said on 20 October 2026 that it has received more than 700 election-misinformation complaints, most about posts on X, ahead of the 4 November 2026 local government elections. It is working with Google, Meta, Microsoft, TikTok and Moxii Africa against disinformation. Electoral Code breaches carry fines up to R200,000 or five to ten years' imprisonment. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF XAF" markdown="1">
+
+**[Borrowed trust: Africa and algorithms](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-10/borrowed-trust-africa-and-algorithms.html)** — Wits University, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The University of the Witwatersrand published a research feature on 20 October 2026 featuring Professor Keith Breckenridge of WiSER. It considers whether digital finance tools such as biometric IDs, automated credit scoring and asset registers will reduce Africa's credit exclusion or deepen it, and which institutions of trust would be needed. No figures were given. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
 
 </div>
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
+### New investments
 
-<div class="bulletin-item" data-places="SYC" markdown="1">
+<div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a>
+**[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Seychelles plans to begin implementing a digital human resource management system in 2027, Vice-President Sebastien Pillay announced after meeting Canadian vendor FreeBalance at State House on 14 October 2026. The system would cover employee records, payroll, performance management and workforce analytics. Pillay said technology alone would not improve efficiency unless administrative procedures are also reviewed. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-### MoUs and other agreements
-
-<div class="bulletin-item" data-places="TGO" markdown="1">
-
-**[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
-
-Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [China activities](#china-activities).*</span>
+Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
 
 </div>
 
@@ -199,71 +283,125 @@ Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2
 
 ### Connectivity
 
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Vodacom South Africa Invests R600 Million to Expand Connectivity in Mpumalanga](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Tech Africa News, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Vodacom said on 20 October 2026 that it is investing more than R600 million in Mpumalanga network infrastructure this financial year, after R620 million in 2025/26. Its sites in the province have grown from just over 1,300 to 1,408, and the share connected by fibre from 41% to 45%. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria's NITDA began its first IPv6 migration readiness training for federal ministries, departments and agencies, with AFRINIC and the Nigeria IPv6 Council, as reported on 20 October 2026. It runs in two streams, for management and for technical staff, and NITDA is funding certification for the technical staff. The move is tied to online public services and the National Sovereign Cloud Initiative. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[NIGCOMSAT CEO highlights impact of Nigeria’s first NUCAP base station on rural connectivity](https://techreviewafrica.com/news/7829/nigcomsat-ceo-highlights-impact-of-nigerias-first-nucap-base-station-o)** — Tech Review Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+NIGCOMSAT chief executive Jane Egerton-Idehen, with Minister Bosun Tijani and others, visited Nigeria's first NUCAP base station in Bende, Abia State, as reported on 20 October 2026. The solar-powered 45-metre station covers a radius of about eight kilometres and is expected to serve the community school and hospital. NUCAP plans 3,700 base stations in total. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="LBY" markdown="1">
 
-**[Libya’s O3 Group Unveils Digital Infrastructure Plans After Medusa Cable Landing](https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+**[Medusa Submarine Cable System Completes Shore-End Installation in Libya](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/)** — Tech Africa News, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
-Libya's O3 Group, a private telecoms company founded in 2024 and based in Benghazi, set out its infrastructure plans as the Medusa submarine cable made its first Libyan landing at Benghazi on 17 October 2026. The plans include a 12,000 to 13,000 km national fibre network, a Tier III data centre in Benghazi and a mobile service. A second Medusa landing is planned for Tripoli. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="CMR" markdown="1">
-
-**[Camtel, Socadel explore infrastructure sharing deal](https://www.itweb.africa/article/camtel-socadel-explore-infrastructure-sharing-deal/Olx4z7kaBQmq56km)** — ITWeb Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
-
-Cameroon's Camtel and electricity utility Socadel signed a memorandum of understanding in Yaoundé on 16 October 2026 to study infrastructure sharing. It would pair Camtel's national fibre backbone with Socadel's poles and rights-of-way to extend fibre along overhead power lines. Feasibility studies and pilot sites come next.
+The Medusa submarine cable system completed its Pre-Laid Shore End installation in Benghazi, Libya, as reported on 20 October 2026. This is the pre-installed cable section between the landing site and the offshore connection point. No value or completion date was given.
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XGL XAF" markdown="1">
 
-**[Why cheaper fibre fees fail to spark Nigerian infrastructure investment](https://techcabal.com/2026/10/19/cheaper-fibre-fees-dont-spark-investment/)** — TechCabal, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs)** — World Bank Group, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-### Data Storage
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+**[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-**[The Missing Plumbing of the State: Why Ghana's Next Digital Leap Depends on a Whole-of-Government Data Exchange](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)** — Imani Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [New investments](#new-investments).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="LBY" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
 
-**[Libya’s O3 Group Unveils Digital Infrastructure Plans After Medusa Cable Landing](https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+**[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
-Summarised under [Connectivity](#connectivity).
-
-</div>
-
-### Technical Capacity
-
-<div class="bulletin-item" data-places="DZA" markdown="1">
-
-**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
-
-Algeria's higher-education ministry agreed on 19 October 2026 with public and private companies to set up a joint framework for drafting a 2030 roadmap to finance GPU-based high-performance computing and AI research capacity. Its four aims are company co-funding of GPUs, research steered to economic needs, a stronger national AI and data centre, and recruiting diaspora talent. <span class="bulletin-item__also">*Also under [AI](#ai) and [Research institutions](#research-institutions).*</span>
-
-</div>
-
-### Cybersecurity
-
-<div class="bulletin-item bulletin-item--xref" data-places="SDN" markdown="1">
-
-**[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**['You didn't need to bypass any access controls': Gauteng eGov weighs charges over e-panic button flaw](https://www.citizen.co.za/news/gauteng-egov-possible-criminal-charges-panic-button-security-incident/)** — The Citizen, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[ISPA urges free data for poor households](https://www.itweb.co.za/article/ispa-urges-free-data-for-poor-households/O2rQGMAEWyPMd1ea)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
+
+**[Burkina Faso : Les régulateurs du numérique de l’UEMOA réunis à Ouagadougou pour renforcer leur coopération](https://lefaso.net/spip.php?article150075=)** — leFaso.net, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XCA" markdown="1">
+
+**[Afrique centrale : l’ARTAC veut harmoniser les règles du jeu numérique](https://www.gabonreview.com/afrique-centrale-lartac-veut-harmoniser-les-regles-du-jeu-numerique/)** — GabonReview, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+### Data Storage
+
+<div class="bulletin-item" data-places="LBR" markdown="1">
+
+**[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+
+Liberia's Office of the Chief Information Officer met ministries and agencies on 17 and 18 October 2026 to validate 16 priority government services for digitalisation with World Bank support. They assessed readiness and procurement for an e-Liberia one-stop portal, a Government Service Bus for real-time data sharing, National Data Center upgrades and digitised County Service Centers. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Data Exchange](#data-exchange).*</span>
+
+</div>
+
+### Cybersecurity
+
+<div class="bulletin-item" data-places="ZWE" markdown="1">
+
+**[Zim strengthens digital risk management systems](https://itweb.africa/article/zim-strengthens-digital-risk-management-systems/WnxpE74YlR3MV8XL)** — ITWeb Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+Zimbabwe's ICT ministry told its departments to submit validated risk registers by 6 November 2026 and to include risk assessments in every new major project proposal from now on. The instructions came out of an enterprise risk-management workshop the minister opened in Harare on 19 October 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
+
+**[وزير الاتصالات: السيادة الرقمية تقوم على 5 محاور تشمل البنية التحتية والأمن السيبرانى والذكاء الاصطناعى](https://www.youm7.com/story/2026/10/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D9%85-%D8%B9%D9%84%D9%89-5-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%AA%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9/7587192)** — Youm7, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BEN" markdown="1">
+
+**[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Legal Aid SA resets all passwords after phishing attack](https://www.itweb.co.za/article/legal-aid-sa-resets-all-passwords-after-phishing-attack/kYbe97Xbj2oqAWpG)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Summarised under [Data protection](#data-protection).
 
@@ -273,25 +411,17 @@ Summarised under [Data protection](#data-protection).
 
 ### Data Exchange
 
-<div class="bulletin-item" data-places="SOM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
 
-**[Open tender — Eastern Africa Regional Digital Integration Project: Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal — for Somalia by WB in Public Sector Governance, ICT & Telecommunications sectors —](https://www.developmentaid.org/tenders/view/1732699/eastern-africa-regional-digital-integration-project-design-deployment-and-operationalization-of-the)** — DevelopmentAid, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+**[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
-Somalia invited expressions of interest on 19 October 2026 for the design, deployment and operation of a government API gateway, a government single sign-on system and a national digital government portal. The work falls under the World Bank-financed Eastern Africa Regional Digital Integration Project. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[The Missing Plumbing of the State: Why Ghana's Next Digital Leap Depends on a Whole-of-Government Data Exchange](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)** — Imani Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
-
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="BEN GHA RWA XAF" markdown="1">
 
-**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 
@@ -299,153 +429,95 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 ### Digital Identity and CRVS
 
-<div class="bulletin-item" data-places="SOM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF XAF" markdown="1">
 
-**[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
-
-Somalia's Unified Public Service Delivery Center, known as Halmeel, plans to launch a unified digital government services platform by the end of March 2027, starting with about 70 services. The national ID will be the only accepted credential, its director general told Biometric Update. Halmeel, created by Cabinet resolution on 23 April, is integrating with the national ID agency NIRA, which had about 2 million people registered as of October 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="BEN GHA RWA XAF" markdown="1">
-
-**[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
-
-**[Liberian MPs begin scrutinizing PPP concession deal for new national ID](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
-
-**[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
-
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
-
-**[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Borrowed trust: Africa and algorithms](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-10/borrowed-trust-africa-and-algorithms.html)** — Wits University, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="BEN GHA RWA XAF" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ### Digital Payments and Fintech
 
-<div class="bulletin-item" data-places="CAF" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[Open tender — CAR- Public Sector Digital Governance Project: Acquisition des Kits pour la mise en place d'agent de monnaie mobile — for Central African Republic by WB in ICT & Telecommunications sector —](https://www.developmentaid.org/tenders/view/1732706/car-public-sector-digital-governance-project-acquisition-des-kits-pour-la-mise-en-place-dagent-de-mo)** — DevelopmentAid, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
+**[Stanbic Ghana explores stablecoin trade settlement](https://itweb.africa/article/stanbic-ghana-explores-stablecoin-trade-settlement/xnklOvz1Pj4q4Ymz)** — ITWeb Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-The Central African Republic opened an invitation for bids on 19 October 2026 for goods: kits to set up mobile money agents. The tender falls under the World Bank-financed Public Sector Digital Governance Project. No budget is stated and no award has been made. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[Onafriq tried to sell its Nigerian agent banking business before shutdown](https://techcabal.com/2026/10/19/onafriq-baxi-shutdown/)** — TechCabal, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Onafriq had been negotiating the sale of Baxi, its Nigerian agent-banking business, before it announced a shutdown on 16 October 2026, according to UK-filed accounts approved on 29 July 2026. The accounts record a non-binding memorandum of terms for a full divestment, agency services revenue down 56% to $13.4 million in 2024, and ₦19.9 billion in overdrafts owed to Zenith Bank and Stanbic IBTC. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="KEN TZA" markdown="1">
-
-**[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
-
-Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 October 2026, to add Mastercard prepaid cards, tokenisation, online acceptance, Pay Local and cross-border transfers to the MoovnPay wallet. Pay Local is to expand across Kenya and Tanzania, and the Shooga prepaid Mastercard portfolio is to launch next. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
-
-</div>
-
-### Registries
-
-<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
-
-**[Liberian MPs begin scrutinizing PPP concession deal for new national ID](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-### Other GovTech and e-Gov
-
-<div class="bulletin-item" data-places="SWZ" markdown="1">
-
-**[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
-
-Eswatini's ICT ministry presented a proposed platform for reaching government services and payments by mobile device at the Global AI & Digital Summit in Seoul on 19 October 2026. No implementation date was announced. The ministry also cited digital-skills targets of 300,000 citizens through a UAE partnership and 200,000 through a World Bank-supported initiative. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GAB" markdown="1">
-
-**[Gabon/Sécurité alimentaire : l’AGASA lancera la plateforme numérique Nexus le 2 novembre prochain - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-novembre-prochain/)** — Agence Gabonaise de Presse, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
-
-Gabon's food safety agency AGASA will launch Nexus, a digital platform for food and plant-health operators, on 2 November 2026. Operators will be able to apply remotely for approvals, import authorisations and health certificates, and track their files. Operators are asked to visit AGASA offices from 20 to 29 October with identity documents to update their data and get login details.
+Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 October 2026, that they are exploring a stablecoin-backed cross-border settlement service for Ghanaian importers paying Asian suppliers. Stanbic would handle onboarding, KYC and local-currency settlement, and RD Technologies the digital-asset rails. Next steps are regulatory engagement, technical validation and a controlled pilot, all subject to regulatory no-objection.
 
 </div>
 
 <div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[BMA vehicle crime crackdown shifts into digital gear](https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew)** — ITWeb South Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+**[Postbank full-service banking licence still miles off](https://www.itweb.co.za/article/postbank-full-service-banking-licence-still-miles-off/rxP3jMBEGAG7A2ye)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-South Africa's Border Management Authority launched its Vehicle Targeting System at Lebombo Port of Entry on 18 October 2026. It reports 83 vehicles worth R46.6 million recovered in the six months since the system went live at land ports on 1 April 2026, with rollout to eight land ports planned by the end of February 2027.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="TGO" markdown="1">
-
-**[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
-
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
+Communications Minister Solly Malatsi told Parliament, as reported on 20 October 2026, that South Africa's Postbank has been directed to submit a new application to establish a bank under section 12 of the Banks Act and has not yet done so. Outstanding items are recapitalisation, which is with National Treasury, banking-system modernisation and a Bank Controlling Company. Postbank paid social grants to about 1.9 million beneficiaries in September 2026. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SOM" markdown="1">
+<div class="bulletin-item" data-places="EGY" markdown="1">
 
-**[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+**[Orange Egypt Partners With Botim to Enable UAE-to-Egypt Remittances](https://techafricanews.com/2026/10/20/orange-egypt-botim-uae-egypt-remittances/)** — Tech Africa News, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SYC" markdown="1">
-
-**[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a>
-
-Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egypt remittance route that pays directly into Orange Cash wallets. It is Botim's first partnership with an Egyptian mobile operator. Botim has more than 2 million Egyptian users and Orange Cash about 10 million.
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SOM" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
 
-**[Open tender — Eastern Africa Regional Digital Integration Project: Design, Deployment and Operationalization of the Government API Gateway, Government Single Sign-On (SSO) and National Digital Government Portal — for Somalia by WB in Public Sector Governance, ICT & Telecommunications sectors —](https://www.developmentaid.org/tenders/view/1732699/eastern-africa-regional-digital-integration-project-design-deployment-and-operationalization-of-the)** — DevelopmentAid, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+**[Burkina Faso : Les régulateurs du numérique de l’UEMOA réunis à Ouagadougou pour renforcer leur coopération](https://lefaso.net/spip.php?article150075=)** — leFaso.net, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Summarised under [Data Exchange](#data-exchange).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CAF" markdown="1">
-
-**[Open tender — CAR- Public Sector Digital Governance Project: Acquisition des Kits pour la mise en place d'agent de monnaie mobile — for Central African Republic by WB in ICT & Telecommunications sector —](https://www.developmentaid.org/tenders/view/1732706/car-public-sector-digital-governance-project-acquisition-des-kits-pour-la-mise-en-place-dagent-de-mo)** — DevelopmentAid, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
-
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="MUS" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF XAF" markdown="1">
 
-**[Mauritius’ SIL signs MoU with TCS to strengthen digital transformation](https://techafricanews.com/2026/10/19/mauritius-sil-signs-mou-tcs-digital-transformation/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+**[Borrowed trust: Africa and algorithms](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-10/borrowed-trust-africa-and-algorithms.html)** — Wits University, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
+
+**[Zim strengthens digital risk management systems](https://itweb.africa/article/zim-strengthens-digital-risk-management-systems/WnxpE74YlR3MV8XL)** — ITWeb Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+
+**[Sénégal : une nouvelle instance pour harmoniser les projets numériques de l’État](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-une-nouvelle-instance-pour-harmoniser-les-projets-numeriques-de-l-etat)** — wearetech.africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
@@ -453,45 +525,43 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### AI
 
-<div class="bulletin-item bulletin-item--xref" data-places="DZA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
+**[وزير الاتصالات: السيادة الرقمية تقوم على 5 محاور تشمل البنية التحتية والأمن السيبرانى والذكاء الاصطناعى](https://www.youm7.com/story/2026/10/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D9%85-%D8%B9%D9%84%D9%89-5-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%AA%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9/7587192)** — Youm7, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Summarised under [Technical Capacity](#technical-capacity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SWZ" markdown="1">
-
-**[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
-
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CMR" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="XGL XAF" markdown="1">
 
-**[Dr Hervé Tiwa : « Il y a un vide juridique actuellement qu’il faut combler »](https://www.digitalbusiness.africa/dr-herve-tiwa-il-y-a-un-vide-juridique-actuellement-quil-faut-combler/)** — Digital Business Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+**[World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs)** — World Bank Group, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-### ICT Industry
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
-
-**[Onafriq tried to sell its Nigerian agent banking business before shutdown](https://techcabal.com/2026/10/19/onafriq-baxi-shutdown/)** — TechCabal, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
-
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN TZA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+**[TikTok launches election centre ahead of SA local govt polls](https://www.itweb.co.za/article/tiktok-launches-election-centre-ahead-of-sa-local-govt-polls/LPp6VMrBrEBMDKQz)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Ramaphosa to meet Silicon Valley AI giants as South Africa eyes tech future](https://www.citizen.co.za/news/south-africa/ramaphosa-meet-silicon-valley-ai-giants-south-africa-eyes-tech-future/)** — The Citizen, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[IEC receives over 700 election misinformation complaints, enlists Google, Meta and TikTok ahead of November vote](https://www.citizen.co.za/news/south-africa/elections/iec-receives-election-misinformation-complaints-enlists-google-meta-and-tiktok-ahead-of-november-vote/)** — The Citizen, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
@@ -499,29 +569,11 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 ### Training and skills
 
-<div class="bulletin-item bulletin-item--xref" data-places="MUS" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[Mauritius’ SIL signs MoU with TCS to strengthen digital transformation](https://techafricanews.com/2026/10/19/mauritius-sil-signs-mou-tcs-digital-transformation/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+**[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Summarised under [Legislation and regulation](#legislation-and-regulation).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SWZ" markdown="1">
-
-**[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
-
-Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
-
-</div>
-
-### Research institutions
-
-<div class="bulletin-item bulletin-item--xref" data-places="DZA" markdown="1">
-
-**[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside une séance de travail consacrée à la mobilisation des financements nationaux et au développement des infrastructures de calcul haute performance et d'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-une-seance-de-travail-consacree-a-la-mobilisation-des-financements-nationaux-et-au-developpement-des-infrastruct/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algérie), 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
-
-Summarised under [Technical Capacity](#technical-capacity).
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -529,9 +581,51 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 ### Access to services
 
-<div class="bulletin-item bulletin-item--xref" data-places="MOZ" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+**[Vodacom South Africa Invests R600 Million to Expand Connectivity in Mpumalanga](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Tech Africa News, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Postbank full-service banking licence still miles off](https://www.itweb.co.za/article/postbank-full-service-banking-licence-still-miles-off/rxP3jMBEGAG7A2ye)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[NCC device verification questions Nigeria's phone imports](https://techcabal.com/2026/10/20/device-verification-phones-nigeria/)** — TechCabal, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Summarised under [Standards](#standards).
+
+</div>
+
+### Digital divides
+
+<div class="bulletin-item bulletin-item--xref" data-places="XGL XAF" markdown="1">
+
+**[World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs)** — World Bank Group, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[NIGCOMSAT CEO highlights impact of Nigeria’s first NUCAP base station on rural connectivity](https://techreviewafrica.com/news/7829/nigcomsat-ceo-highlights-impact-of-nigerias-first-nucap-base-station-o)** — Tech Review Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[ISPA urges free data for poor households](https://www.itweb.co.za/article/ispa-urges-free-data-for-poor-households/O2rQGMAEWyPMd1ea)** — ITWeb South Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
@@ -539,34 +633,50 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 
 ## Data
 
-### National statistics
+### Use of satellite data
 
-<div class="bulletin-item" data-places="SLE" markdown="1">
+<div class="bulletin-item" data-places="CMR" markdown="1">
 
-**[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+**[Données, modélisation & géomatique - ONACC](https://www.onacc.cm/fr/data)** — Observatoire National sur les Changements Climatiques (ONACC), 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
+Cameroon's national climate observatory ONACC lists a library of 11 data, modelling and geomatics products on its website, seen on 20 October 2026. They include a national climate and geospatial database on PostgreSQL/PostGIS, risk maps, Sentinel satellite imagery, drought indices and web services. The page says connection to the database tables will be added later.
+
+</div>
+
+<div class="bulletin-item" data-places="BFA" markdown="1">
+
+**[Bulletin agrométéorologique décadaire](https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/)** — Agence Nationale de la Météorologie du Burkina Faso (ANAM), Météo Burkina, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+Météo Burkina Faso publishes a ten-day agrometeorological bulletin covering rainfall, temperature and humidity anomalies and vegetation index data. The page seen on 20 October 2026 lists a latest update for 13 to 19 October 2026, describing monsoon winds with some harmattan incursions. Earlier updates cover periods back to early September 2026.
 
 </div>
 
 ## Geopolitics
 
-### China activities
+### US / hyperscaler activities
 
-<div class="bulletin-item bulletin-item--xref" data-places="TGO" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
-**[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+**[Ramaphosa to meet Silicon Valley AI giants as South Africa eyes tech future](https://www.citizen.co.za/news/south-africa/ramaphosa-meet-silicon-valley-ai-giants-south-africa-eyes-tech-future/)** — The Citizen, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
 ### Digital sovereignty
 
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[The Missing Plumbing of the State: Why Ghana's Next Digital Leap Depends on a Whole-of-Government Data Exchange](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)** — Imani Africa, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+**[وزير الاتصالات: السيادة الرقمية تقوم على 5 محاور تشمل البنية التحتية والأمن السيبرانى والذكاء الاصطناعى](https://www.youm7.com/story/2026/10/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D9%85-%D8%B9%D9%84%D9%89-5-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%AA%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9/7587192)** — Youm7, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BEN" markdown="1">
+
+**[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
