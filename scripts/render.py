@@ -33,7 +33,7 @@ import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chrome_lib import (asset_version, chrome, external_links, feedback,  # noqa: E402
-                        feedback_row, foot, ga, styles)
+                        feedback_row, foot, ga, info, styles)
 from copy_lib import copy, copy_md  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -1085,6 +1085,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # only describe the document make way for it. Every page with the family heading takes it.
     # `data-edition` moves with the edition onto the colophon, where `editions.py` still finds it.
     fb = feedback(h1 or title, url_html)
+    # The ⓘ by the title: one explanation per page type, from content/info.md (Bill, 2026-10-21).
+    # News and status are explained as a country's; a region's or a topic's carries none yet.
+    country = tree_of(md_path) == "reports" and not md_path.parent.name.upper().startswith("X")
+    key = {"bulletin": "Bulletin"}.get(kind) or (
+        {"monthly": "Country news", "status": "Country status"}.get(kind) if country else None)
+    info_btn, info_panel = info(key) if key else ("", "")
+    if info_panel:
+        info_panel = f"        {info_panel}\n"
     head_open = head_close = edition_attr = about_rows = ""
     if pre_header:
         lead = re.match(r'\A\s*<div class="report-standfirst">(.*?)</div>\s*', html_body, re.S)
@@ -1097,9 +1105,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         head_close = (toc.group(0).rstrip() + "\n" if toc else "") + "</div>\n"
         header_inner = (
             '        <div class="article-header__meta report-head__row">\n'
-            f'          <h1 class="article-header__title">{h1 or title}</h1>\n'
+            f'          <h1 class="article-header__title">{h1 or title}{info_btn}</h1>\n'
             f'          <div class="article-header__actions screen-only">{fb}{download}</div>\n'
-            "        </div>")
+            "        </div>\n"
+            f"{info_panel}").rstrip("\n")
         edition_attr = f' data-edition="{edition}"'
         compiled = re.sub(r"^compiled\s+", "", subtitle)
         about_rows = f"          <dt>Compiled</dt><dd>{compiled[:1].upper()}{compiled[1:]}</dd>\n"
@@ -1113,7 +1122,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     else:
         header_inner = (
             f"        {fb}\n"
-            f'        <h1 class="article-header__title">{h1 or title}</h1>\n'
+            f'        <h1 class="article-header__title">{h1 or title}{info_btn}</h1>\n'
+            f"{info_panel}"
             '        <div class="article-header__meta">\n'
             f'          <div class="article-header__byline" data-edition="{edition}">{byline}</div>\n'
             f'          <div class="article-header__actions screen-only">{download}</div>\n'

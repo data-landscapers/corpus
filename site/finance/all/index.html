@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://corpus.data-landscapers.io/finance/all/">
 
 <link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=0c335593">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=e0aa1c82">
 <link rel="stylesheet" href="../../assets/css/country.css?v=8ad99761">
 <link rel="stylesheet" href="../../assets/css/datatable.css?v=284d32e1">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -234,8 +234,19 @@
 
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20All%20finance&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/finance/all/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
-      <h1 class="article-header__title">Finance</h1>
+      <h1 class="article-header__title">Finance<button type="button" class="info-btn" popovertarget="info-finance" aria-label="About this page">i</button></h1>
     </header>
+    <div class="info-pop" id="info-finance" popover>
+<button type="button" class="info-pop__close" popovertarget="info-finance" popovertargetaction="hide" aria-label="Close">&times;</button>
+<p>Corpus' work on building finance datasets is aimed at overcoming three challenges: 
+- No one has integrated non-state finance data with national budgets, expenditure and audits.
+- No one has joined up the full spectrum of cross-border and domestic, public and private investment.
+- With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</p>
+<p>The <em>Non-state Finance</em> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. </p>
+<p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear.</p>
+<p>The <em>Budgets</em> dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.</p>
+<p>The <em>All Finance</em> dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.</p>
+</div>
 
     <nav class="article-toc" aria-label="Finance views">
     <a href="../">Non-state finance</a>

@@ -21,6 +21,7 @@ We parse the text accompanying each commitment to arrive at a primary topic cate
 The *Budgets* dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.
 
 The *All Finance* dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.
+
 ## Country news
 
 This report collects all sources relating to your selected country that have been published since the beginning of last month; The sources are grouped by chapter, topic and story. Each story links to the original source. 

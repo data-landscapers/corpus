@@ -57,7 +57,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 from country import AID_LABELS, FILTER_ALL, FINANCE_DETAIL, attr_json  # noqa: E402  - the row panel's fields, one list for every finance table
 # `BUDGETS_DATED` is the launch switch, set in `country.py`: one flag for this page's file
 # and every country's. `BUDGET_TABLE_OMIT` keeps `doc_locator` and `notes` out of the table,
@@ -70,6 +70,8 @@ OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
 SITE_BASE = "https://corpus.data-landscapers.io"
+# The ⓘ by the title: one explanation for all three Finance pages, from content/info.md.
+ABOUT, PANEL = info("Finance")
 MAIN_SITE = "https://data-landscapers.io"
 
 # The one field dictionary for every non-state finance table (country.py writes the
@@ -214,8 +216,9 @@ PAGE = """<!DOCTYPE html>
 
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">Finance</h1>
+      <h1 class="article-header__title">Finance{about}</h1>
     </header>
+    {panel}
 
 {toc}
 
@@ -296,8 +299,9 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">Finance</h1>
+      <h1 class="article-header__title">Finance{about}</h1>
     </header>
+    {panel}
 
 {toc}
 
@@ -466,6 +470,7 @@ def publish_budgets(out: Path, names: dict) -> None:
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in BUDGET_NUMERIC]
     page.write_text(table_page(page.parent, BUDGETS_PAGE.format(
+        about=ABOUT, panel=PANEL,
         feedback=feedback("National budgets", f"{SITE_BASE}/finance/budgets/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),
         foot=foot(depth=2), styles=styles(2, "country.css", "datatable.css"), ga=ga(),
@@ -515,8 +520,9 @@ ALL_PAGE = """<!DOCTYPE html>
 
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">Finance</h1>
+      <h1 class="article-header__title">Finance{about}</h1>
     </header>
+    {panel}
 
 {toc}
 
@@ -650,6 +656,7 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
     used = sorted({r["country"] for r in rows})
     years = sorted({int(r["year"]) for r in rows if r["year"].isdigit()})
     page.write_text(table_page(page.parent, ALL_PAGE.format(
+        about=ABOUT, panel=PANEL,
         feedback=feedback("All finance", f"{SITE_BASE}/finance/all/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),
         foot=foot(depth=2), styles=styles(2, "country.css", "datatable.css"), ga=ga(),
@@ -745,6 +752,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
     labels = attr_json({"recipient": used, **AID_LABELS})
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     return PAGE.format(
+        about=ABOUT, panel=PANEL,
         feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         styles=styles(1, "country.css", "datatable.css"), ga=ga(),
