@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://lexlint.io/law/ne,fetched,,scripts/.workroot/study/ailaw/cache/NER/1.txt,4727,html,"Niger: AI, privacy and software law · LexLint"
+2,https://ailawradar.com/jurisdictions/niger,fetched,,scripts/.workroot/study/ailaw/cache/NER/2.txt,2218,html,Niger â AI regulation & deadlines
+3,https://www.levellers.ai/what-is/ai-regulation-niger,fetched,,scripts/.workroot/study/ailaw/cache/NER/3.txt,2497,html,What is AI regulation in Niger? | Levellers.ai
+4,https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf,held,held as raw/2022/2022-12-16-niger-loi-2022-59-protection-donnees.md,,0,,
+5,https://www.lesahel.org/semaine-de-lintelligence-artificielle-et-des-technologies-geospatiales-siateg-un-espace-dechanges-entre-les-acteurs-du-secteur-sur-les-enjeux-et-defis-de-lia/,fetched,,scripts/.workroot/study/ailaw/cache/NER/5.txt,586,html,Semaine de l’Intelligence Artificielle et des Technologies Géospatiales (SIATeG) : Un espace d’échanges entre les acteurs du secteur sur les enjeux et défis de l’IA
