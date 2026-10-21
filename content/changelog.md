@@ -1,6 +1,6 @@
 ## 21 October 2026
 
-- Three finance indicators are removed: Financial sustainability of digital systems, Strategic relationships, and Development-partner project financing. They no longer appear in the progress reports or the Maturity Assessment, and the MoUs and other agreements topic has no progress report.
+- Eight indicators are removed: three in Finance (Financial sustainability of digital systems, Strategic relationships, Development-partner project financing) and the five Geopolitics MoU indicators for the US, China, the EU, the Gulf and India. They no longer appear in the progress reports or the Maturity Assessment, and the six topics left with no indicator are no longer listed in either.
 
 ## 20 October 2026
 

@@ -116,9 +116,9 @@ data.statistics--statistics-from-administrative-data,32,113,Data,National statis
 data.open--use-of-open-data,33,114,Data,Open data,data.open,Use of open data,system,1,,
 data.satellite--agricultural-use-of-satellite-data,34,115,Data,Use of satellite data,data.satellite,Agricultural use of satellite data,system,1,,
 data.satellite--meteorological-use-of-satellite-data,34,116,Data,Use of satellite data,data.satellite,Meteorological use of satellite data,system,1,,
-geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,35,117,Geopolitics,US / hyperscaler activities,geopol.usa,"USA / hyperscaler MoUs, engagements and commitments",,0,2026-09-22,
-geopol.china--chinese-mous-engagements-and-commitments,36,118,Geopolitics,China activities,geopol.china,"Chinese MoUs, engagements and commitments",,0,2026-09-22,
-geopol.eu--eu-mous-engagements-and-commitments,37,119,Geopolitics,EU activities,geopol.eu,"EU MoUs, engagements and commitments",,0,2026-09-22,
-geopol.gulf--gulf-mous-engagements-and-commitments,38,120,Geopolitics,Gulf/UAE activities,geopol.gulf,"Gulf MoUs, engagements and commitments",,0,2026-09-22,
-geopol.india--india-mous-engagements-and-commitments,39,121,Geopolitics,India activities,geopol.india,"India MoUs, engagements and commitments",,0,2026-09-22,
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,35,117,Geopolitics,US / hyperscaler activities,geopol.usa,"USA / hyperscaler MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
+geopol.china--chinese-mous-engagements-and-commitments,36,118,Geopolitics,China activities,geopol.china,"Chinese MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
+geopol.eu--eu-mous-engagements-and-commitments,37,119,Geopolitics,EU activities,geopol.eu,"EU MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
+geopol.gulf--gulf-mous-engagements-and-commitments,38,120,Geopolitics,Gulf/UAE activities,geopol.gulf,"Gulf MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
+geopol.india--india-mous-engagements-and-commitments,39,121,Geopolitics,India activities,geopol.india,"India MoUs, engagements and commitments",,0,2026-09-22,2026-10-21
 geopol.sovereignty--digital-sovereignty,40,1,Geopolitics,Digital sovereignty,geopol.sovereignty,Digital sovereignty,instrument,1,,

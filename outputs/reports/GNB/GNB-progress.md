@@ -5,8 +5,8 @@ period: 2025-10-01 to 2026-10-21
 place: GNB
 ledger_rows: 109
 not_held: 2
-indicators: 120
-record: 92f9b36133ee
+indicators: 115
+record: efe5983390b4
 ---
 
 # Guinea-Bissau: progress report, October 2025 – October 2026
@@ -192,11 +192,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments | No United States digital engagement is recorded for Guinea-Bissau. <details><summary>Full record</summary>Nothing in the repository names a United States agency, development finance instrument or cloud company in connection with Guinean digital infrastructure.<br>The financing relationships that do exist are multilateral: the [fund's extended credit facility](https://www.imf.org/en/news/articles/2026/06/12/pr-26204-guinea-bissau-imf-completes-the-11th-rev-under-ecf-arrang) and the [US$60m regional digital programme launched in August 2026](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/).</details> | No change |
-| China activities | Chinese MoUs, engagements and commitments | The public works ministry [joined an artificial intelligence capacity forum](https://www.gov.mo/pt/noticias/831509/) under the Sino-Lusophone framework. <details><summary>Full record</summary>The [forum of June 2026](https://www.gov.mo/pt/noticias/831509/) on artificial intelligence in infrastructure, convened under the Sino-Lusophone cooperation framework among more than 120 delegates, is the repository's only record of Chinese digital engagement with Guinea-Bissau.<br>No instrument, financing or system follows from it, and no Chinese vendor appears anywhere else in the unit's file.</details> | Movement |
-| EU activities | EU MoUs, engagements and commitments | European funding runs through programmes rather than instruments — the [justice caravans](https://ang.gw/pnud-e-uniao-europeia-lancam-terceira-edicao-da-candonga-di-justica-2026/) are one. <details><summary>Full record</summary>No European Union memorandum or country digital programme appears in the repository for Guinea-Bissau. What appears is co-financing of specific operations: the [third mobile justice caravan launched jointly with the development programme in June 2026](https://ang.gw/pnud-e-uniao-europeia-lancam-terceira-edicao-da-candonga-di-justica-2026/), using the digital registration system for children's birth registration.<br>European involvement is otherwise institutional and educational: a [Portuguese polytechnic opening places for Guinean students in informatics and telecommunications](https://ipv.pt/wp-content/uploads/2025/12/EDITAL-IPV-DGES_GW_Protocolo_Colaboracao_Guine-Bissau-2025_2026_signed.pdf).</details> | Movement |
-| Gulf/UAE activities | Gulf MoUs, engagements and commitments | No Gulf state digital engagement is recorded for Guinea-Bissau. <details><summary>Full record</summary>Nothing in the repository names a Gulf state, sovereign fund or operator in connection with Guinean digital infrastructure, financing or skills.<br>The country's external digital financing is multilateral and regional: the [US$60m programme launched in August 2026](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/) and the [fund's credit facility reviews](https://www.imf.org/en/news/articles/2026/06/12/pr-26204-guinea-bissau-imf-completes-the-11th-rev-under-ecf-arrang).</details> | No change |
-| India activities | India MoUs, engagements and commitments | No Indian digital engagement is recorded for Guinea-Bissau. <details><summary>Full record</summary>Nothing in the repository names an Indian agency, credit line, training programme or system in connection with Guinea-Bissau's digital estate.<br>Where the country's officials have travelled for technology capacity building it has been to the [Sino-Lusophone forum in Macau](https://www.gov.mo/pt/noticias/831509/) rather than to an Indian programme.</details> | No change |
 | Digital sovereignty | Digital sovereignty |  | ***No evidence*** |
 
 
