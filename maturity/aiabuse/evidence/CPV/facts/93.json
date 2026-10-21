@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Cabo Verde's Prime Minister told the National Assembly that social media and artificial intelligence are used to manipulate and violate constitutional limits on free expression in the absence of any mechanism of regulation and accountability, and that AI needs regulating.",
+   "as_of": "2025-01-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

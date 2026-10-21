@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-03-sle-dubawa-ai-generated-images-fake-tourism-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Dubawa says Sierra Leone currently has no specific legislation regulating the use or attribution of AI-generated images, though Section 6 of the Independent Media Commission Regulations 2022, which prohibits broadcasting untrue information, may apply in some contexts.",
+   "as_of": "2025-08-03",
+   "date_precision": "day",
+   "system": "Independent Media Commission Regulations 2022",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CAZOS says Lei n.º 22/11 of 17 June, the data protection law, has been in force for more than a decade; the APD's revision of it, with an AI chapter, finished public consultation in April 2025 and is not in force.",
+   "as_of": "2011-06-17",
+   "date_precision": "day",
+   "system": "Lei n.º 22/11",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, exists, supervises and has sanctioning powers.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

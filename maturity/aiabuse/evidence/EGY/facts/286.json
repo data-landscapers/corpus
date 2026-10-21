@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "People of Internet says the Draft Artificial Intelligence Law (2024) is in stakeholder consultation ahead of parliament and would set up the Egyptian Center for Responsible AI with audit and compliance-certification powers.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Draft Artificial Intelligence Law (2024)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egyptian Center for Responsible AI (ECRAI)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "proposed in the draft AI law",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

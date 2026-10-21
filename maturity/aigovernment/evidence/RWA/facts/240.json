@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Proto says it and the Ministry of Local Government (MINALOC) began designing the Mbaza AI agent for citizen complaints in October 2025, aiming to deploy in early 2026.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Mbaza",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Proto says the National Bank of Rwanda deployed its Intumwa AI agent in 2021 to process complaints across more than 600 financial institutions, and was expanding it as of November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Intumwa",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mbaza",
+   "country_label": "Mbaza",
+   "class": "govai",
+   "platform": "Proto AI agent",
+   "owner": "MINALOC with RISA",
+   "tiers": ""
+  },
+  {
+   "system": "Intumwa",
+   "country_label": "Intumwa",
+   "class": "govai",
+   "platform": "Proto AI agent",
+   "owner": "National Bank of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

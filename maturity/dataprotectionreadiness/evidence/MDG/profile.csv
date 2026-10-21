@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,system,law,coverage,in-force,2025-10-17,MDG-007;MDG-010,MDG-005=not-yet;MDG-013=not-yet,
-MDG,system,treaty,coverage,ratified,2025-07-17,MDG-015,,
+MDG,system,law,coverage,in-force,2025-10-17,MDG-007;MDG-010;MDG-017,MDG-005=not-yet;MDG-013=not-yet,
+MDG,system,treaty,coverage,ratified,2025-07-17,MDG-015;MDG-018,,
 MDG,system,authority,coverage,appointed,2026-03-27,MDG-001;MDG-002;MDG-003;MDG-009;MDG-012;MDG-016,MDG-004=none;MDG-006=none;MDG-014=none,
 MDG,system,practice,coverage,none,2026-01,MDG-008,,

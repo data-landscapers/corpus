@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-07-zaf-ask-lwazi-sars-ai-assistant-our-upgraded-artificial-intelligence-assis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lwazi AI Assistant",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "SARS website and SARS MobiApp",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": "A citizen-facing support chatbot; the document states no diagnosis, score, forecast or decision output inside a sector system."
+}

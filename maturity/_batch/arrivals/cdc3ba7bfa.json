@@ -1,0 +1,61 @@
+{
+ "slug": "2026-02-20-tza-courts-adopt-ai-integrated-data-systems",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only court filing is described; no services portal or count of online services is stated."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "justice",
+       "aspect": "cases",
+       "value": "inservice",
+       "fact": "Chief Court Administrator Elisante Ole Gabriel said the judiciary's electronic case management system is gradually phasing out paper-based files, and is being expanded.",
+       "as_of": "2026-02-19",
+       "date_precision": "day",
+       "system": "electronic case management system",
+       "class": "justice"
+      },
+      {
+       "sub_indicator": "justice",
+       "aspect": "filing",
+       "value": "online",
+       "fact": "Chief Court Administrator Elisante Ole Gabriel said litigants can now file cases online from anywhere and track case progress.",
+       "as_of": "2026-02-19",
+       "date_precision": "day",
+       "system": "electronic case management system",
+       "class": "justice"
+      }
+     ],
+     "systems": [
+      {
+       "system": "electronic case management system",
+       "country_label": "Tanzania Judiciary",
+       "class": "justice",
+       "platform": "",
+       "owner": "Judiciary of Tanzania",
+       "tiers": ""
+      },
+      {
+       "system": "Transcription and Translation Software (TTS)",
+       "country_label": "Tanzania Judiciary",
+       "class": "other",
+       "platform": "",
+       "owner": "Judiciary of Tanzania",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

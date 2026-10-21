@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-29-lbr-oraclenews-kamara-ai-taskforce-memorandum",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Oracle News Daily reports Abdullah Kamara's memorandum saying Liberia currently lacks clear guardrails for how AI should be used or governed, and that the Ministry of Post & Telecommunications, the Liberia Telecommunications Authority and the National Security Agency have yet to establish AI-specific frameworks.",
+   "as_of": "2026-03-29",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

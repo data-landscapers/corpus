@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-zwe-government-launches-learner-s-hub-chatbot-at-zitf",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Ministry of Primary and Secondary Education launched the Learner's Hub Chatbot at the Zimbabwe International Trade Fair, giving learners, teachers and parents academic and psychosocial support, with an AI academic assistant, built by consultants UChat Africa.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Learner's Hub Chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Learner's Hub Chatbot",
+   "country_label": "Zimbabwe",
+   "class": "govai",
+   "platform": "UChat Africa",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

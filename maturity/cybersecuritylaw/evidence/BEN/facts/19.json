@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-02-ben-benin-l-usage-non-autorise-de-l-ia-sur-l-image-d-autrui-peut-couter-44",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Benin's national digital investigations centre (CNIN) said on 29 May 2026 that offences involving AI images are prosecutable under article 576 of the Digital Code.",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "Code du numerique",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

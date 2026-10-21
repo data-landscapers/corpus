@@ -1,0 +1,5 @@
+{"slug": "2026-09-08-zaf-electoral-commission-introduces-new-disinformation-code-ahead-of-2026", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "The Electoral Commission of South Africa promulgated the Electoral Code of Conduct Countering Disinformation on 4 September 2026 under section 88(a) of the Municipal Electoral Act, in force immediately until the election results, requiring parties and candidates to label AI-generated content clearly, with the Electoral Code of Conduct's sanctions.", "as_of": "2026-09-04", "date_precision": "day", "system": "Electoral Code of Conduct Countering Disinformation in the Local Government Elections", "class": "aiharm"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government offices' connection."}}},
+"opendiscussion": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Code says it protects lawful criticism and debate; no dated criticism, cut or punishment is stated."}}}
+}}

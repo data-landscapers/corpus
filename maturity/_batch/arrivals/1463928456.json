@@ -1,0 +1,81 @@
+{
+ "slug": "2026-06-12-ner-niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-service digital skills training."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Niger's President signed a decree on 8 June 2026 abolishing the Haute Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel (HAPDP), ending its officials' functions from signature and transferring its missions to the Ministry of Justice and the Ministry of the Interior, per the Secretariat General of Government communique.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "HAPDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "HAPDP",
+       "country_label": "Haute Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "Niger's President signed a decree on 8 June 2026 abolishing the Haute Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel (HAPDP), ending its officials' functions from signature and transferring its missions to the Ministry of Justice and the Ministry of the Interior, per the Secretariat General of Government communique.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "HAPDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "HAPDP",
+       "country_label": "Haute Autorit\u00e9 de Protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  }
+ }
+}

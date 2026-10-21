@@ -1,0 +1,22 @@
+{"slug": "2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Portal de TI reports that Angola's Proposta de Lei sobre a Inteligência Artificial is in public consultation, and that the country has no AI-specific legislation yet.", "as_of": "2025-12-08", "date_precision": "day", "system": "Proposta de Lei sobre a Inteligência Artificial", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "APD legal director Njunjulo António says the right not to be subject to automated decisions already exists and that the agency's inspection and audit of AI use rests on data-processing principles of transparency, purpose and lawfulness.", "as_of": "2025-12-08", "date_precision": "day", "system": "Right not to be subject to automated decisions", "class": "aiharm"}
+], "systems": [], "note": "APD reports no AI-related data breach case to date, so no enforcement is recorded."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Portal de TI reports that Angola's Proposta de Lei sobre a Inteligência Artificial is in public consultation, and that the country does not yet have AI-specific legislation.", "as_of": "2025-12-08", "date_precision": "day", "system": "Proposta de Lei sobre a Inteligência Artificial", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"dataprotectionauthority": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Portal de TI quotes Njunjulo António, legal director of Angola's Agência de Protecção de Dados (APD), describing the agency's inspection and audit work.", "as_of": "2025-12-08", "date_precision": "day", "system": "Agência de Protecção de Dados (APD)", "class": "authority"}
+], "systems": [{"system": "Agência de Protecção de Dados (APD)", "country_label": "Agência de Protecção de Dados (APD)", "class": "authority", "platform": "", "owner": "Government of Angola", "tiers": ""}], "note": "No ruling against a named organisation is stated."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "APD legal director Njunjulo António says the agency's inspection and audit data show no reported case of data leak or misuse involving AI.", "as_of": "2025-12-08", "date_precision": "day", "system": "Agência de Protecção de Dados (APD)", "class": "general"}
+], "systems": [], "note": "The law itself is not named or dated."}}},
+"eparticipation": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The consultation on the AI bill is not stated to be online."}}},
+"publicconsultation": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Portal de TI reports that Angola's Proposta de Lei sobre a Inteligência Artificial is in public consultation.", "as_of": "2025-12-08", "date_precision": "day", "system": "Proposta de Lei sobre a Inteligência Artificial", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

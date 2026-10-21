@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LSO,taxsystem,filing,coverage,inservice,2025-06,LSO-001;LSO-003;LSO-005;LSO-006,,
-LSO,taxsystem,payment,coverage,electronic,2025-06,LSO-002;LSO-004;LSO-007,,
+LSO,taxsystem,payment,coverage,electronic,2025-10-07,LSO-002;LSO-004;LSO-007;LSO-008,,
 LSO,taxsystem,uptake,coverage,,,,,nothing held

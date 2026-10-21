@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,aiharm,rule,coverage,none,2026-06-23,ZWE-001,,
+ZWE,aiharm,rule,coverage,inforce,2025-12-25,ZWE-002,ZWE-001=none,
 ZWE,aiharm,authority,coverage,,,,,nothing held
-ZWE,aiharm,enforced,coverage,,,,,nothing held
+ZWE,aiharm,enforced,coverage,applied,2026-05-22,ZWE-003,,

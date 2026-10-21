@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MLI,RIICE,Mali,agrisat,RIICE digital platform,"AfricaRice, IRRI, sarmap with Ministry of Agriculture, IER, Mali-Meteo",national,2026-05-14-aiccra-institutionnalisation-outil-riice-mali
+MLI,MaliDMS,Mali,agrisat,"WaPOR, Google Earth Engine",Direction Nationale de l'Agriculture (planned),,2025-10-01-mli-drought-monitoring-mali-tool-series
+MLI,WaPOR drought monitoring platform,Mali,agrisat,WaPOR,Direction Nationale de l'Agriculture,,2024-03-21-mli-iwmi-dna-wapor-drought-monitoring-platform-workshop

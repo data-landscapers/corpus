@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,agrisat,service,coverage,inservice,2025-01-01,DZA-002,DZA-001=underway;DZA-003=underway;DZA-004=underway,
+DZA,agrisat,service,coverage,inservice,2025-02-02,DZA-002;DZA-005,DZA-006=underway;DZA-001=underway;DZA-003=underway;DZA-004=underway,
 DZA,agrisat,published,coverage,,,,,nothing held
 DZA,agrisat,reach,coverage,,,,,nothing held

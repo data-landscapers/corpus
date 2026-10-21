@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Ministry of Digital Transition says it created a national reference of digital public services with more than 600 services available online: 300 for citizens, 200 for businesses and 100 for administrations.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "référentiel national des services publics numériques / Idarati",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IDARATI X.0",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "app with national digital wallet",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": ""
+  },
+  {
+   "system": "public employment portal",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

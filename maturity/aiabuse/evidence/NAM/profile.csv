@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,aiharm,rule,coverage,none,2026-02,NAM-001,,
+NAM,aiharm,rule,coverage,draft,2025-10-30,NAM-002;NAM-003,NAM-001=none,
 NAM,aiharm,authority,coverage,,,,,nothing held
 NAM,aiharm,enforced,coverage,,,,,nothing held

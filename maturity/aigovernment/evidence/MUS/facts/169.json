@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-10-mus-national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritiu",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Avinash Ramtohul said the ministry has developed DIVA, a government-led AI-powered platform aimed at enhancing public service delivery; the source does not say it is in service.",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "Digital Interactive Virtual Assistant (DIVA)",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Interactive Virtual Assistant (DIVA)",
+   "country_label": "DIVA",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

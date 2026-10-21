@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Proto says MINALOC, which runs the contact centre where citizens report issues to local leaders, began designing the Mbaza AI agent for citizen complaints in October 2025, aiming to deploy in early 2026.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Mbaza",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

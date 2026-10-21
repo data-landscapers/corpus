@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Newsday reports that Revenue Services Lesotho has incorporated artificial intelligence into its customer service operations, per Commissioner General Mokoko.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "RSL AI customer service",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

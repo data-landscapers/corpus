@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,eservices,services,coverage,underway,2026-06-23,SYC-001;SYC-002,,
+SYC,eservices,services,coverage,underway,2026-07-30,SYC-001;SYC-002;SYC-004,,
 SYC,eservices,gateway,coverage,single,2024,SYC-003,,
 SYC,eservices,usage,coverage,,,,,nothing held

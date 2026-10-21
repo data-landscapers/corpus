@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-002",
+      "gaps": "No source held shows AI in service in a second sector's public system, or measured results.",
+      "note": "Fact 2026-10-21: the AI retinopathy screening system operating in six public hospitals and health centres is AI in service in health; the revenue service's fiscalisation system is a tender, so no second sector is held.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

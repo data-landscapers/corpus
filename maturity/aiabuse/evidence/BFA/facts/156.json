@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-bfa-burkinamedia-bclcc-fausses-cartes-grises-ia",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "Burkina Faso's Brigade Centrale de Lutte Contre la Cybercriminalite (BCLCC) arrested a 36-year-old suspect who used AI tools to generate fake vehicle registration cards sent by WhatsApp to 14 victims (421,000 FCFA lost) and referred him to the Ouaga I prosecutor; no rule is named.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "BCLCC case on AI-generated fake registration cards",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

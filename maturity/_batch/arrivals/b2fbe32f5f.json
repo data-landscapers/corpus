@@ -1,0 +1,17 @@
+{"slug": "2026-03-09-gha-gna-bandim-azumah-data-protection-law-update-ai", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Ghana News Agency reports Data Protection Commission head Dr Arnold Kavaarpuo saying Ghana was introducing a new bill to regulate AI, automated decision-making and cross-border data transfers.", "as_of": "2026-03-09", "date_precision": "day", "system": "Data Protection Commission bill", "class": "aiharm"}
+], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Ghana News Agency reports the Data Protection Commission's bill, covering AI, automated decision-making and cross-border transfers, was set to be presented to Parliament, per committee chairman Abednego Bandim Azumah and Commissioner Dr Arnold Kavaarpuo.", "as_of": "2026-03-09", "date_precision": "day", "system": "Data Protection Commission bill", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Ghana News Agency quotes Dr Arnold Kavaarpuo as Executive Director and Commissioner of Ghana's Data Protection Commission, which was acting on emerging AI and deepfake challenges.", "as_of": "2026-03-09", "date_precision": "day", "system": "Data Protection Commission", "class": "authority"}
+], "systems": [{"system": "Data Protection Commission", "country_label": "Data Protection Commission", "class": "authority", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Committee chairman Abednego Bandim Azumah is quoted by Ghana News Agency saying the current Data Protection Act (Act 843) of 2012 needs revision; a Data Protection Commission bill to strengthen it was set to go to Parliament.", "as_of": "2026-03-09", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

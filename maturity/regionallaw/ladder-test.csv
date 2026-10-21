@@ -5,7 +5,7 @@ BEN,3,ratified,,BEN-002
 BFA,1,none,,BFA-001
 BWA,1,none,,BWA-001
 CAF,no evidence,,,
-CIV,3,ratified,,CIV-001;CIV-002
+CIV,3,ratified,,CIV-004;CIV-001
 CMR,2,signed,,CMR-002;CMR-003
 COD,3,ratified,,COD-001
 COG,3,ratified,,COG-002
@@ -33,10 +33,10 @@ MOZ,3,ratified,,MOZ-001;MOZ-003
 MRT,3,ratified,,MRT-004;MRT-001
 MUS,3,ratified,,MUS-001
 MWI,1,none,,MWI-001
-NAM,3,ratified,,NAM-003
+NAM,3,ratified,,NAM-004;NAM-003
 NER,3,ratified,,NER-001
 NGA,2,signed,,NGA-001
-RWA,3,ratified,,RWA-004
+RWA,3,ratified,,RWA-006;RWA-004
 SDN,2,signed,,SDN-003;SDN-002
 SEN,3,ratified,,SEN-001
 SLE,2,signed,,SLE-001

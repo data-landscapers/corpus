@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-zwe-from-soil-to-systems-how-zimbabwe-is-scaling-innovation-for-food-secur",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO says its EOSTAT system helps Zimbabwe generate crop and yield estimates from satellite data with over 80 percent accuracy and tracks droughts and floods in real time, and a Ministry early warning specialist describes it as modernising agricultural monitoring.",
+   "as_of": "2025-07-11",
+   "date_precision": "day",
+   "system": "EOSTAT",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EOSTAT",
+   "country_label": "Zimbabwe",
+   "class": "agrisat",
+   "platform": "satellite data",
+   "owner": "FAO with the Ministry of Agriculture; Zimbabwe Space Agency and NUST trained",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

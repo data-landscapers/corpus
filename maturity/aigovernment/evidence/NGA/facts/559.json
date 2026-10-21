@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-21-nga-fmcide-and-meta-launch-govguide-nigeria-an-ai-powered-government-servi",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Federal Ministry of Communications, Innovation and Digital Economy says it launched GovGuide Nigeria with Meta, NCAIR and Publica AI, a fully operational voice and text AI chatbot on the web giving information on government services in English, Hausa, Igbo and Yoruba.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "GovGuide Nigeria",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovGuide Nigeria",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "web; Meta Llama models",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy; built by Publica AI with NCAIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Digital Policy Alert says the government recently updated the National Digital Strategy, prioritising infrastructure and cybersecurity in over 500 digital projects planned for 2025-2026.",
+   "as_of": "2025-04-16",
+   "date_precision": "day",
+   "system": "National Digital Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

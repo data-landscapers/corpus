@@ -1,0 +1,8 @@
+{"slug": "2026-04-14-lby-ministry-of-labour-integrated-digital-platform-ai", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished.", "as_of": "2026-04-14", "date_precision": "day", "system": "المنصة الرقمية المتكاملة (integrated digital platform)", "class": "govai"}],
+"systems": [{"system": "Integrated digital platform, Ministry of Labour and Rehabilitation", "country_label": "Libya", "class": "govai", "platform": "", "owner": "Ministry of Labour and Rehabilitation with Al-Nasr Information Technology", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The platform links ministry departments and no sector tool giving a diagnosis, score or decision is described."}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}}
+}}

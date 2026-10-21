@@ -1,0 +1,24 @@
+{"slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "CAZOS says the MINTTICS AI bill (86 articles, in public consultation since September 2025) would criminalise algorithmic discrimination and create an AI authority, and the APD's draft revision of Lei 22/11 has an AI chapter (arts. 36-38) banning algorithmic social scoring; neither is in force.", "as_of": "2026-06", "date_precision": "month", "system": "MINTTICS AI bill; APD revision of Lei 22/11", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "CAZOS says Lei n.º 22/11 of 17 June, the data protection law in force, already governs decisions taken by automated means.", "as_of": "2011-06-17", "date_precision": "day", "system": "Lei n.º 22/11", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola.", "as_of": "2026-06", "date_precision": "month", "system": "Agência de Protecção de Dados (APD)", "class": "aiharm"}
+], "systems": [{"system": "Agência de Protecção de Dados (APD)", "country_label": "Agência de Protecção de Dados (APD)", "class": "aiharm", "platform": "", "owner": "Government of Angola", "tiers": ""}], "note": ""}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "CAZOS says a dedicated AI law drawn up by MINTTICS (86 articles, nine chapters) has been in public consultation since September 2025 and is not in force.", "as_of": "2025-09", "date_precision": "month", "system": "MINTTICS AI bill", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"dataprotectionauthority": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, exists, supervises and has sanctioning powers.", "as_of": "2026-06", "date_precision": "month", "system": "Agência de Protecção de Dados (APD)", "class": "authority"}
+], "systems": [{"system": "Agência de Protecção de Dados (APD)", "country_label": "Agência de Protecção de Dados (APD)", "class": "authority", "platform": "", "owner": "Government of Angola", "tiers": ""}], "note": "No ruling is stated."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "CAZOS says Lei n.º 22/11 of 17 June, the data protection law, has been in force for more than a decade; the APD's revision of it, with an AI chapter, finished public consultation in April 2025 and is not in force.", "as_of": "2011-06-17", "date_precision": "day", "system": "Lei n.º 22/11", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, exists, supervises and has sanctioning powers.", "as_of": "2026-06", "date_precision": "month", "system": "Agência de Protecção de Dados (APD)", "class": "general"}
+], "systems": [], "note": ""}}},
+"eparticipation": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The consultations are not stated to be held online."}}},
+"publicconsultation": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "CAZOS says the MINTTICS AI bill has been in public consultation since September 2025, and the APD's public consultation on revising the data protection law Lei 22/11 closed in April 2025.", "as_of": "2025-09", "date_precision": "month", "system": "MINTTICS AI bill; APD revision of Lei 22/11", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

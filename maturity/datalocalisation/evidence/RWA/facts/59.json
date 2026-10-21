@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the Personal Data Protection and Privacy Law of October 2021 generally requires personal data to be stored in Rwanda unless the supervisory authority grants a certificate.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Law Relating to the Protection of Personal Data and Privacy",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "Digital Policy Alert says the Rwanda Utilities Regulatory Authority fined MTN Rwanda FRW 7.03 billion in May 2017 for hosting its IT services outside the country.",
+   "as_of": "2017-05",
+   "date_precision": "month",
+   "system": "Rwanda Utilities Regulatory Authority",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

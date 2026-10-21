@@ -1,37 +1,37 @@
 iso3,stage,rule,authority,enforced,stage_sources
-AGO,2,draft,,,AGO-001
-BDI,2,draft,,,BDI-001
-BEN,3,inforce,,,BEN-002
+AGO,4,inforce,designated,,AGO-004
+BDI,2,draft,,,BDI-001;BDI-002
+BEN,3,inforce,,,BEN-002;BEN-005
 BFA,3,inforce,,,BFA-001
 BWA,no evidence,,,,
 CAF,no evidence,,,,
 CIV,no evidence,,,,
-CMR,no evidence,,,,
+CMR,1,none,,,CMR-001;CMR-002
 COD,no evidence,,,,
 COG,no evidence,,,,
 COM,3,inforce,,,COM-001
-CPV,1,none,,,CPV-001
+CPV,1,none,,,CPV-001;CPV-002
 DJI,1,none,,,DJI-002;DJI-003
 DZA,2,draft,,,DZA-001
 EGY,4,inforce,designated,,EGY-003;EGY-004
 ERI,1,none,,,ERI-001
 ETH,2,draft,,,ETH-001
-GAB,no evidence,,,,
-GHA,2,draft,,,GHA-001
-GIN,3,inforce,,,GIN-001;GIN-002
+GAB,4,inforce,designated,,GAB-003
+GHA,3,inforce,,,GHA-002
+GIN,3,inforce,,,GIN-004;GIN-001
 GMB,no evidence,,,,
 GNB,no evidence,,,,
 GNQ,2,draft,,,GNQ-002
 KEN,2,draft,,,KEN-002;KEN-001
-LBR,no evidence,,,,
+LBR,1,none,,,LBR-002
 LBY,2,draft,,,LBY-001
 LSO,1,none,,,LSO-001
-MAR,2,draft,,,MAR-002;MAR-001
+MAR,4,inforce,designated,,MAR-008;MAR-011
 MDG,no evidence,,,,
-MLI,no evidence,,,,
+MLI,1,none,,,MLI-001
 MOZ,4,inforce,designated,,MOZ-001
 MRT,no evidence,,,,
-MUS,3,inforce,,,MUS-001
+MUS,3,inforce,,,MUS-001;MUS-002
 MWI,2,draft,,,MWI-001;MWI-002
 NAM,1,none,,,NAM-001
 NER,no evidence,,,,
@@ -39,7 +39,7 @@ NGA,4,inforce,designated,,NGA-002
 RWA,no evidence,,,,
 SDN,4,inforce,designated,,SDN-002
 SEN,3,inforce,,,SEN-002
-SLE,no evidence,,,,
+SLE,1,none,,,SLE-001
 SOM,no evidence,,,,
 SSD,2,draft,,,SSD-001
 STP,1,none,,,STP-001;STP-002
@@ -49,7 +49,7 @@ TCD,4,inforce,designated,,TCD-001
 TGO,no evidence,,,,
 TUN,2,draft,,,TUN-001;TUN-002
 TZA,2,draft,,,TZA-002
-UGA,3,inforce,,,UGA-001
-ZAF,3,inforce,,,ZAF-001
+UGA,3,inforce,,,UGA-001;UGA-003
+ZAF,3,inforce,,,ZAF-001;ZAF-003
 ZMB,3,inforce,,,ZMB-001;ZMB-002
-ZWE,1,none,,,ZWE-001
+ZWE,3,inforce,,,ZWE-002

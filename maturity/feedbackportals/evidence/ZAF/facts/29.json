@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-zaf-electoral-code-countering-disinformation-gn4138",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Real411",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "online complaints mechanism",
+   "owner": "designated by the Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Real411 takes disinformation complaints, not complaints about public services."
+}

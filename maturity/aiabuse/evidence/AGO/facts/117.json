@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "CAZOS says the MINTTICS AI bill (86 articles, in public consultation since September 2025) would criminalise algorithmic discrimination and create an AI authority, and the APD's draft revision of Lei 22/11 has an AI chapter (arts. 36-38) banning algorithmic social scoring; neither is in force.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "MINTTICS AI bill; APD revision of Lei 22/11",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "CAZOS says Lei n.º 22/11 of 17 June, the data protection law in force, already governs decisions taken by automated means.",
+   "as_of": "2011-06-17",
+   "date_precision": "day",
+   "system": "Lei n.º 22/11",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados (APD)",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

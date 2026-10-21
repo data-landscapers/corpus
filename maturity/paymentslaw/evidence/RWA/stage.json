@@ -8,7 +8,7 @@
    "reach": "connect",
    "cap": "",
    "flags": "",
-   "stage_sources": "RWA-002;RWA-004;RWA-001",
+   "stage_sources": "RWA-002;RWA-004;RWA-006;RWA-001",
    "gaps": "Nothing on the four questions.",
    "note": "Counted from the four questions by study-ladder-paymentslaw.py."
   }

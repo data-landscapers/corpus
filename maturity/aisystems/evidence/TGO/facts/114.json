@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Togo Data Lab, working with CEGA, is developing a satellite-imagery and AI project with the Ministry of Agriculture using MOSAIKS tools, and the lab has grown to more than 20 data scientists.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "Togo Data Lab (MOSAIKS)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

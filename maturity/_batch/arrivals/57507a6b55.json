@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-21-mli-iwmi-dna-wapor-drought-monitoring-platform-workshop",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "IWMI, with Mali's Direction Nationale de l'Agriculture and FAO, held a workshop on 21 March 2024 in Bamako to co-develop an agricultural drought monitoring platform using WaPOR remote sensing data.",
+       "as_of": "2024-03-21",
+       "date_precision": "day",
+       "system": "WaPOR drought monitoring platform",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WaPOR drought monitoring platform",
+       "country_label": "Mali",
+       "class": "agrisat",
+       "platform": "WaPOR",
+       "owner": "Direction Nationale de l'Agriculture",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

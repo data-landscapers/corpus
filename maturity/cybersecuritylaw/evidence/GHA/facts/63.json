@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-gha-myjoyonline-deepfakes-ai-cloning-mahama-arrests",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "MyJoyOnline names Ghana's Cybersecurity Act, 2020 (Act 1038) as existing law covering impersonation, fraud and other cyber-related offences.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Cybersecurity Act, 2020 (Act 1038)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The May 2026 deepfake arrests are not said to be under the Act, so no use is recorded."
+}

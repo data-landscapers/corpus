@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-mar-cndp-communique-ia-protection-donnees-auditions",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CNDP says it was created by Dahir 1-09-15 of 18 February 2009 promulgating Law 09-08, and that it is carrying out its mission of checking compliance, including work on a deliberation on AI processing.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

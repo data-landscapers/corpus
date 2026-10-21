@@ -214,6 +214,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
+- Decree 2026-579 of 2 September 2026 created a National Digital Committee under the President, with protection of strategic data among its priorities and a mandate to give a prior opinion on technology partnerships that could engage national digital sovereignty ([source, 2026-09-02](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)).
 - Benin's digital agency ASIN, in a June 2026 bulletin, proposes a governance framework for generative-AI use in public administration, including sovereign hosting of data on national infrastructure or equivalent, contractual reversibility and full data return, and a ban on transfers to Cloud Act or FISA jurisdictions ([source, 2026-06](https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage)).
 
 ### Burundi: 2 Nascent
@@ -233,6 +234,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 Keeping state data under national control was a stated goal in 2024; a rule in force is not on record.
 
+- The national data governance strategy and AI strategy, handed to the Prime Minister on 13 March 2025 and awaiting government adoption, call for data centres and sovereign clouds to host and secure the country's data locally ([source, 2025-03-13](https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/)).
 - The Ministry of Digital Transition's national data governance strategy SNGD 2030 sets as a principle that all data classified as critical information infrastructure must be processed and stored inside Côte d'Ivoire, by staff at least 20% Ivorian, with a copy kept in the country for law enforcement; the document gives no date of its own, so its published date of 2024-01-01 is used ([source, 2024-01-01](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf)).
 
 ### Gabon: 2 Nascent

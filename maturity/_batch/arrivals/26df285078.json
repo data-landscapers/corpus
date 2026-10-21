@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Data Center",
+       "country_label": "National Data Center",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": "National Data Center is named only as an upgrade target; no statement that it rents to others, nor tier or cloud region."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government Service Bus",
+       "country_label": "Government Service Bus",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": "Government Service Bus is proposed and its procurement is still being identified; not stated as procured, built or piloted."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Data Center",
+       "country_label": "National Data Center",
+       "class": "other",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": "National Data Center is named only as an upgrade target; no statement of hire, tier or hosting of state data."
+    }
+   }
+  }
+ }
+}

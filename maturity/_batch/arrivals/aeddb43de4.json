@@ -1,0 +1,9 @@
+{"slug": "2024-02-25-egy-caoa-kmt-ai-chatbot-civil-service-launch", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The press release states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The Central Agency for Organization and Administration launched the AI chatbot KMT, which answers more than 50,000 civil-service legal and administrative questions for civil servants and the public via its website, WhatsApp and Facebook, according to the USAID Economic Governance Activity press release.", "as_of": "2024-02-25", "date_precision": "day", "system": "KMT", "class": "govai"}], "systems": [{"system": "KMT", "country_label": "KMT", "class": "govai", "platform": "CAOA website, WhatsApp, Facebook", "owner": "Central Agency for Organization and Administration (CAOA)", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "KMT is a general civil-service chatbot, not a sector system."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "KMT is a government chatbot; the release gives no local AI model release, dataset or AI computing as such."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No digital-skills training for civil servants is stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Widebot is mentioned only as the chatbot's builder; no startup law, labelling or fund is stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No technology hub or park is stated."}}}
+}}

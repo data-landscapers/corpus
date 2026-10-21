@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2025-07-15-ago-especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-se,,2026-10-21
 AGO,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
 AGO,2026-07-01-africa-ai-governance-index-2026-report,,2026-10-19
 AGO,2026-07-23-unesco-global-ai-ethics-and-governance-observatory-angola,,2026-10-19
@@ -7,6 +8,7 @@ AGO,2026-09-08-pti-angola-ai-platform-world-bank-pada,,2026-10-19
 BDI,2025-11-28-pnud-burundi-feuille-route-ia,,2026-10-19
 BDI,2026-03-31 EAC moves to create unified AI Sovereignty bloc,,2026-10-19
 BDI,2026-04-22-abp-validation-strategie-nationale-ia,,2026-10-19
+BDI,2026-04-22-bdi-burundi-la-strategie-nationale-de-l-intelligence-artificielle-validee,,2026-10-21
 BDI,2026-04-23-burundi-six-pillar-ai-strategy-wearetech,,2026-10-19
 BDI,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 BDI,2026-08-12-bmz-eac-ai4eac-innovation-challenge,,2026-10-19
@@ -28,14 +30,19 @@ BFA,2026-06-17-national-ai-roadmap-2026-2030-validated-techafricanews,,2026-10-1
 BFA,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 BFA,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 BFA,2026-08-10-grain-west-africa-ai-governance-comparative-study,,2026-10-19
+BFA,2026-10-15-bfa-l-essentiel-bf-plateforme-numerique-francais-moore,,2026-10-21
 BWA,2025-01-01-bwa-unesco-ai-readiness-assessment-report,,2026-10-19
 BWA,2025-08-13-bwa-ai-policy-final-stage,,2026-10-19
 BWA,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
 BWA,2026-07-28-bwa-ssrn-sectoral-mapping-draft-ai-policy,,2026-10-19
+BWA,2026-09-18-bwa-yourbotswana-openevidence-penn-ai-clinical-decision-support,,2026-10-21
+BWA,2026-10-13-bwa-china-botswana-joint-statement-comprehensive-strategic-partnership,,2026-10-21
+BWA,2026-10-14-bwa-dailynews-huawei-digital-transformation-agreement,,2026-10-21
 CAF,2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic,,2026-10-20
 CAF,2024-11-21-caf-atda-minister-ai-strategy-elaboration,,2026-10-19
 CIV,2024-01-01-strategie-nationale-intelligence-artificielle-snia-2030-civ,,2026-10-19
 CIV,2025-03-14-ai-data-governance-strategy-wearetech,,2026-10-19
+CIV,2025-03-19-civ-cote-d-ivoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-stra,,2026-10-21
 CIV,2025-11-01-civ-itu-wtdc25-ministerial-statement,,2026-10-19
 CIV,2026-04-12 Côte d'Ivoire convenes strategic seminar to align digital transformation agenda,,2026-10-19
 CIV,2026-07-01-cipit-ai-and-intellectual-property-in-africa,,2026-10-19
@@ -97,6 +104,7 @@ DJI,2026-09-03-dji-adi-snia-ambitions-epreuve-action,,2026-10-20
 DJI,2026-09-06-dji-lanation-forum-ia-strategie-2026-2030,,2026-10-19
 DJI,2026-09-08-dji-lobservateur-strategie-nationale-ia-2026-2030,,2026-10-19
 DJI,2026-10-09-au-stc-cict-6th-ordinary-session-libreville,,2026-10-19
+DZA,2025-04-16-dza-dpa-digital-digest-algeria-2025,,2026-10-21
 DZA,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
 DZA,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
 DZA,2026-05-25-dz-aps-strategie-nationale-ia,,2026-10-19
@@ -106,6 +114,7 @@ DZA,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 DZA,2026-08-05-algerie-premieres-etapes-mise-en-oeuvre-strategie-nationale-intelligence-artificielle,,2026-10-19
 DZA,2026-08-06-strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route,,2026-10-19
 DZA,2026-09-08-dza-mesrs-premiere-reunion-coordination-strategie-nationale-ia,,2026-10-19
+DZA,2026-09-09-dza-mesrs-deuxieme-reunion-coordination-strategie-nationale-ia,,2026-10-21
 DZA,2026-09-22-dza-dzwatch-ai-strategy-implementation-phase,,2026-10-19
 DZA,2026-10-19-dza-mesrs-baddari-gpu-calcul-haute-performance-ia-2030,,2026-10-20
 EGY,2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective,,2026-10-19
@@ -114,6 +123,7 @@ EGY,2026-02-11-ai-everything-mea-opens-in-cairo,,2026-10-19
 EGY,2026-03-11-ncai-reviews-national-ai-strategy-progress-adopts-governance-framework,,2026-10-19
 EGY,2026-06-10-egypt-ai-national-security-strategy-karnak-ahram,,2026-10-19
 EGY,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
+EGY,2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap,,2026-10-21
 EGY,2026-07-01-africa-ai-governance-index-2026-report,,2026-10-19
 EGY,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 EGY,2026-07-28-how-african-governments-are-regulating-ai,,2026-10-19
@@ -134,6 +144,7 @@ ERI,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research,,2026-10-19
 ERI,2026-01-01-oxford-insights-government-ai-readiness-index-2025,,2026-10-19
 ERI,2026-06-08-levellers-ai-regulation-eritrea,,2026-10-19
 ETH,2024-06-28-eth-ethiopianmonitor-council-approves-ai-policy,,2026-10-19
+ETH,2025-01-01-eth-dpa-digital-digest-ethiopia-2025,,2026-10-21
 ETH,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
 ETH,2026-02-16-ethiopia-launches-ai-unipod,,2026-10-19
 ETH,2026-04-16-au-psc-1339th-meeting-communique-ai-governance-peace-security,,2026-10-19
@@ -156,6 +167,7 @@ GHA,2024-12-03-gha-acet-equitable-data-ecosystem-ai-development,,2026-10-19
 GHA,2025-04-02-dpa-digital-digest-ghana-2025,,2026-10-19
 GHA,2025-04-29-ghana-launches-national-ai-strategy-moc,,2026-10-19
 GHA,2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages,,2026-10-20
+GHA,2025-08-14-gha-minister-advocates-for-ai-readiness-and-cost-saving-it-reforms,,2026-10-21
 GHA,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
 GHA,2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment,,2026-10-19
 GHA,2026-02-26-citinewsroom-ghana-ai-strategy-cabinet-approval,,2026-10-19
@@ -260,6 +272,7 @@ KEN,2026-10-15-ken-thestar-senate-committee-rejects-ai-bill-2026,,2026-10-19
 KEN,2026-10-18-ken-mps-probe-ai-classrooms-hospitals-new-rules,,2026-10-20
 LBR,2025-04-04 Africa Declaration on Artificial Intelligence,,2026-10-19
 LBR,2025-11-21-undp-liberia-ai-training-for-government,,2026-10-19
+LBR,2026-03-29-lbr-oraclenews-kamara-ai-taskforce-memorandum,,2026-10-21
 LBR,2026-05-05 Africa's data protection laws began to bite in 2025,,2026-10-19
 LBR,"2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI",,2026-10-19
 LBR,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
@@ -322,12 +335,15 @@ MRT,2026-07-01-africa-ai-governance-index-2026-report,,2026-10-19
 MRT,2026-09-16-mrt-ami-conseil-ministres-protection-espace-numerique,,2026-10-19
 MRT,2026-10-09-mrt-ecofin-telecom-quality-are-inspection,,2026-10-19
 MUS,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
+MUS,2026-02-13-mus-highlights-of-cabinet-meeting-friday-13-february-2026,,2026-10-21
 MUS,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
+MUS,2026-04-10-mus-national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritiu,,2026-10-21
 MUS,2026-04-23-ai-strategy-fair-ethics-before-execution-techcabal,,2026-10-19
 MUS,2026-05-15 Africa–Europe Cooperation on AI Governance Report,,2026-10-19
 MUS,2026-05-29-rodrigues-port-mathurin-ai-cybersecurity-mission-lexpress,,2026-10-19
 MUS,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 MUS,2026-07-01-cipit-ai-and-intellectual-property-in-africa,,2026-10-19
+MUS,2026-07-01-mus-vers-un-parlement-intelligent-comment-maurice-construit-un-avenir-pret,,2026-10-21
 MUS,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 MUS,2026-07-28-how-african-governments-are-regulating-ai,,2026-10-19
 MUS,2026-08-21-cajnews-mauritius-ai-innovation-lab-stempower,,2026-10-19
@@ -345,7 +361,9 @@ MWI,2026-06-26-itweb-sadc-regional-ai-strategy-regulatory-framework,,2026-10-19
 MWI,2026-08-06-malawi-drafts-ai-bill-to-govern-public-sector-tech,,2026-10-19
 MWI,2026-08-20-wbg-digital-ai-implementation-plan-fy26-30,,2026-10-19
 MWI,2026-08-29-maravipost-malawis-ai-strategy-needs-a-verification-standard-before,,2026-10-19
+NAM,2025-06-04-nam-namibia-finalising-ai-data-security-laws,,2026-10-21
 NAM,2025-09-08-namibia-national-ai-strategy-technical-advisory-committees,,2026-10-19
+NAM,2025-09-30-nam-ai-law-on-the-cards,,2026-10-21
 NAM,2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc,,2026-10-19
 NAM,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 NAM,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
@@ -387,7 +405,9 @@ NGA,2026-09-26-africa-ai-dependency-opinion-iol,,2026-10-19
 NGA,2026-09-28-nga-businessday-nigeria-66-fibre-delays-unfinished-digital-agenda,,2026-10-19
 NGA,2026-09-29-xaf-techafricanews-au-question-continental-ai-governance,,2026-10-19
 NGA,2026-10-15-ncc-survey-finds-gaps-in-licensees-readiness-for-internet-code,,2026-10-19
+RWA,2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition,,2026-10-21
 RWA,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
+RWA,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen,,2026-10-21
 RWA,2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment,,2026-10-19
 RWA,2026-03-19-ai-capacity-building-cdo-techafricanews,,2026-10-19
 RWA,2026-03-31 EAC moves to create unified AI Sovereignty bloc,,2026-10-19
@@ -426,6 +446,7 @@ SLE,2026-05-28-national-ai-strategy-readiness,,2026-10-19
 SLE,2026-06-22-sle-penn-today-healthcare-logistics-ai,,2026-10-20
 SLE,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 SLE,2026-06-24-sle-calabash-mbsse-edith-ai-platform,,2026-10-20
+SLE,2026-07-29-sle-the-graduate-who-brought-ai-to-sierra-leone-s-ministry-of-education,,2026-10-21
 SLE,2026-09-21-sle-calabash-ai-strategy-authority-limits-agents,,2026-10-19
 SLE,2026-09-21-sle-truthmedia-ag-no-ai-specific-statute-unesco-riyadh,,2026-10-19
 SLE,2026-09-23-sle-calabash-bio-ai-shared-sovereignty-unga,,2026-10-19
@@ -476,6 +497,7 @@ TGO,2024-11-26-togo-mentd-autour-de-lia-ambition-pionnier-ia,,2026-10-19
 TGO,2026-07-12-togo-ia-au-service-des-langues-locales,,2026-10-19
 TGO,2026-10-16-tgo-ecofin-voix-du-togo-collecte-donnees-langues-ia,,2026-10-19
 TUN,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
+TUN,2026-03-13-tun-leconomistemaghrebin-tribune-gouvernance-ia-quatre-conditions,,2026-10-21
 TUN,2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique,,2026-10-19
 TUN,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
 TUN,2026-07-22-tun-thd-strategie-nationale-ia-introuvable-2026,,2026-10-19
@@ -500,6 +522,7 @@ UGA,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 UGA,2026-07-30-cipit-east-african-ai-policy-outlook-report,,2026-10-19
 UGA,2026-08-04-ministry-reviews-5-year-performance-on-ugandas-digital-transformation-journey,,2026-10-19
 UGA,2026-08-12-bmz-eac-ai4eac-innovation-challenge,,2026-10-19
+UGA,2026-08-26-uga-government-develops-national-ai-strategy-wants-computer-misuse-act-ame,,2026-10-21
 UGA,2026-09-10-nilepost-uganda-ai-sovereignty-strategy,,2026-10-19
 UGA,2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness,,2026-10-19
 ZAF,2025-04-02-zaf-dpsa-data-governance-directive,,2026-10-19

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the 2023 personal data law allows transfers to states with adequate protection and with prior ANPDP authorisation, or on stated conditions such as explicit consent, and bars transfers endangering public security.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "Law Relating to the Protection of Individuals in the Processing of Personal Data",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "none",
+   "fact": "Digital Policy Alert says the ANPDP has not issued the list of adequate jurisdictions or the declarations for obtaining transfer authorisations.",
+   "as_of": "2025-04-16",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

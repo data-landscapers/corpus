@@ -1,0 +1,97 @@
+{
+ "slug": "2025-08-20-zmb-from-promise-to-practice-making-ai-work-in-lmic-governments",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The International Growth Centre says it worked with ZamStats to test OpenAI's GPT-4 Turbo on coding open-ended labour survey responses to job and industry codes, where it outperformed human coders in industry and broad occupation categories.",
+       "as_of": "2025-08-20",
+       "date_precision": "day",
+       "system": "GPT-4 Turbo coding test with ZamStats",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The ZamStats test is general statistical coding, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a foreign model (GPT-4 Turbo) tested; no local development stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing about Zambia that answers this study's questions."
+    }
+   }
+  }
+ }
+}

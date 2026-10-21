@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-01-ner-niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-car",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "Africa Data Protection reports that the HAPDP was abolished by decree on 8 June 2026 and the provisions of the December 2022 data protection law that founded it were repealed by ordonnance, with its tasks passing to two ministries.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "regressing",
+   "fact": "Africa Data Protection reports that on 8 June 2026 an ordonnance repealed provisions of Niger's December 2022 data protection law that founded the supervisory authority, which a decree abolished the same day.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Loi de decembre 2022 sur la protection des donnees",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi de decembre 2022 sur la protection des donnees",
+   "country_label": "Loi 2022-59",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

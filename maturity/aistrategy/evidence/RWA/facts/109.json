@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Proto's page says Rwanda's National Artificial Intelligence Policy was launched earlier in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

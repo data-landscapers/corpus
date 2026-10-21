@@ -410,7 +410,7 @@ Namibia has no law in force and no authority appointed, so none has ruled agains
 
 - IPC shadow trade minister Rodney Cloete told the Windhoek Observer that Namibia has no data protection statute, so no legal definition of a data controller and no cross-border transfer rules; this is an opposition MP's statement, dated by the article's publication date ([source, 2026-08-04](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)).
 - ICT minister Emma Theofelus said Namibia is finalising the Data Protection Bill, speaking at the first meeting of the new CRAN board on the Monday before the 14 July 2026 article ([source, 2026-07-13](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
-- The African Union's status list of 2 February 2026 records that Namibia ratified or acceded to the Malabo Convention on 2019-01-25 and deposited its instrument on 2019-02-01 ([source, 2019-01-25](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
+- New Era says the African Union Convention on Cyber Security and Personal Data Protection is a framework "which Namibia ratified" ([source, 2025-09-30](https://neweralive.na/ai-law-on-the-cards/)).
 
 ### Sierra Leone: 1 Absent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-03-zaf-update-to-our-catalogue-of-ai-public-sector-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Stellenbosch University Policy Innovation Lab lists among South African AI tools in deployment the CSIR body and number plate recognition system and the University of Johannesburg facial recognition access control.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "CSIR Body and number plate recognition system",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

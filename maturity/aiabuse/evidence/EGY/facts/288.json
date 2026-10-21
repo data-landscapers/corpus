@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-22-egy-elwatan-mansoura-student-detained-ai-fabricated-video",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "El Watan reports that Egypt's Public Prosecution ordered a Mansoura student held in custody pending investigation for fabricating an indecent AI-generated video of a female classmate, after a police complaint dated 28 May 2025.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Polygon says Senegal's chatbot Anta, developed by Sénégal Numérique SA, uses AI intent detection and voice recognition to answer users and guide them through administrative procedures on the Service Public portal.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Anta",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Anta",
+   "country_label": "Senegal",
+   "class": "govai",
+   "platform": "Service Public portal",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

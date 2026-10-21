@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001",
-      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "EGY-001;EGY-003",
+      "gaps": "No source held reports measured results of a sectoral AI system in service.",
+      "note": "Fact 2026-10-21: NARSS's AI crop inventory for the agriculture ministry joins the judicial assistant, two sectors with AI in service; no results are reported.",
+      "as_at": "2026-10-21"
     }
   ]
 }

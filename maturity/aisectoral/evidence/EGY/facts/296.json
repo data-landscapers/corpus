@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Daily News Egypt reports NARSS, with the Ministry of Agriculture and Land Reclamation, used remote sensing and artificial intelligence to inventory and classify crops by governorate, producing a 2023-24 winter crop map presented in November 2024.",
+   "as_of": "2024-11-05",
+   "date_precision": "day",
+   "system": "NARSS winter crop map",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NARSS winter crop map",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "remote sensing and AI",
+   "owner": "NARSS with Ministry of Agriculture and Land Reclamation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-25-ben-benin-une-expansion-en-vue-pour-l-assistant-virtuel-gpt-bj",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "La Marina BJ reports that GPT BJ, the government's virtual assistant launched in 2023, answers citizens' questions on the tax, digital, labour and penal codes, and that the agency ASIN is preparing an expansion funded by the national budget.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "GPT BJ",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPT BJ",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "virtual assistant",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

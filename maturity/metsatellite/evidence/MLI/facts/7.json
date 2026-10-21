@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-14-aiccra-institutionnalisation-outil-riice-mali",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RIICE",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "Sentinel-1/2",
+   "owner": "AfricaRice/Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": "RIICE is a satellite rice-monitoring tool for farming; no satellite data use by Mali-Meteo's forecasts or warnings is stated."
+}

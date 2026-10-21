@@ -1,0 +1,16 @@
+{"slug": "2025-03-18-mar-cndp-communique-ia-protection-donnees-auditions", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "The CNDP stated that AI processing of personal data is governed by Law 09-08, and that automatic decisions need attention so citizens keep access to redress.", "as_of": "2025-03-18", "date_precision": "day", "system": "Law 09-08", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "The CNDP stated that one of its missions is to ensure that AI processing of personal data complies with Law 09-08.", "as_of": "2025-03-18", "date_precision": "day", "system": "CNDP", "class": "aiharm"}
+], "systems": [{"system": "CNDP", "country_label": "Morocco", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"dataprotectionauthority": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The CNDP says it was created by Dahir 1-09-15 of 18 February 2009 promulgating Law 09-08, and that it is carrying out its mission of checking compliance, including work on a deliberation on AI processing.", "as_of": "2025-03-18", "date_precision": "day", "system": "CNDP", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The CNDP states that Law 09-08 on the protection of individuals regarding personal data processing, promulgated by Dahir 1-09-15 of 18 February 2009 (BO 5714 of 5 March 2009), governs AI processing of personal data.", "as_of": "2025-03-18", "date_precision": "day", "system": "Law 09-08", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CNDP, created by the Dahir promulgating Law 09-08, says it supervises compliance of data processing, including AI, with that law.", "as_of": "2025-03-18", "date_precision": "day", "system": "CNDP", "class": "authority"}
+], "systems": [], "note": ""}}}
+}}

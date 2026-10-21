@@ -1,0 +1,9 @@
+{"slug": "2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "Cabo Verde's Prime Minister told the National Assembly that social media and artificial intelligence are used to manipulate and violate constitutional limits on free expression in the absence of any mechanism of regulation and accountability, and that AI needs regulating.", "as_of": "2025-01-22", "date_precision": "day", "system": "", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states no AI built or hosted in the country."}}},
+"egovservices": {"countries": {"CPV": {"facts": [], "systems": [{"system": "Portal Único de Serviços Públicos Digitais", "country_label": "Cabo Verde", "class": "eservices", "platform": "", "owner": "Government of Cabo Verde", "tiers": ""}], "note": "The single public services portal is only under construction; Portal da Justiça is named without its services."}}},
+"localgov": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states nothing on local government office connections."}}},
+"opendiscussion": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Speech states no press or party criticism, cut or punishment."}}}
+}}

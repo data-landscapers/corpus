@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-20-nga-nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns IPv6 internet addressing, not a place address register."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the National Sovereign Cloud Initiative only in passing; no strategy, rule, hosting or contract terms stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national digital strategy stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "IXPN is named only as the facilitator's organisation; no traffic exchange stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    }
+   }
+  }
+ }
+}

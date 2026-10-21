@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the Law on electronic commerce of November 2018 obliges e-commerce businesses to host websites on a .dz domain and register with the national trade registry.",
+   "as_of": "2018-11",
+   "date_precision": "month",
+   "system": "Law on electronic commerce",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

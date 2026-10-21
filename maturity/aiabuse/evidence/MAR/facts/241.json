@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Le360 reports that the Moroccan digital-transition department has prepared a draft digitalisation bill that will frame AI in administrative processes, covering algorithm transparency, the right to explanation and to contest automated decisions, and non-discrimination.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Draft digitalisation bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

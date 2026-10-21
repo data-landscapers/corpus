@@ -1,0 +1,8 @@
+{"slug": "2026-06-12-gha-gra-says-publican-ai-boosting-revenue-mobilisation-trade-compliance", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The AI tool works inside customs valuation, recorded under sector systems."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Ghana News Agency quotes Ghana Revenue Authority customs officials saying the Publican AI tool, which analyses importer, bank transfer, trade document and customs history data and presents risk indicators to officers on valuation, classification and origin, was piloted in February and fully deployed on 12 March 2026.", "as_of": "2026-03-12", "date_precision": "day", "system": "Publican AI", "class": "sectorai"}],
+"systems": [{"system": "Publican AI", "country_label": "Ghana", "class": "sectorai", "platform": "", "owner": "Ghana Revenue Authority, Customs Division (CTSB)", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document does not say where the Publican AI model was built."}}}
+}}

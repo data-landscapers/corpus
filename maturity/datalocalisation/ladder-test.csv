@@ -12,10 +12,10 @@ COG,no evidence,,,
 COM,no evidence,,,
 CPV,no evidence,,,
 DJI,3,in-force,,DJI-001
-DZA,3,in-force,,DZA-001
+DZA,4,in-force,enforcer,DZA-003;DZA-004
 EGY,3,in-force,,EGY-001
 ERI,unplaced,,,
-ETH,3,in-force,,ETH-001
+ETH,4,in-force,enforcer,ETH-004;ETH-002
 GAB,3,in-force,,GAB-001
 GHA,2,draft,,GHA-001
 GIN,no evidence,,,
@@ -36,7 +36,7 @@ MWI,3,in-force,,MWI-001
 NAM,4,in-force,enforcer,NAM-002;NAM-001
 NER,no evidence,,,
 NGA,4,in-force,enforcer,NGA-023;NGA-011;NGA-009
-RWA,4,in-force,enforcer,RWA-002;RWA-001
+RWA,4,in-force,enforcer,RWA-002;RWA-004;RWA-001
 SDN,1,none,,SDN-001;SDN-002
 SEN,3,in-force,,SEN-001
 SLE,no evidence,,,

@@ -1,0 +1,37 @@
+{
+ "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The OIF says the Malagasy data protection commission must ensure personal data processing meets the requirements of law no. 2014-038 on personal data protection, which the document treats as the law in force.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Law no. 2014-038 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The OIF says the Malagasy government has adopted an application decree, no. 2023-1541, for the data protection law.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Decree 2023-1541",
+   "class": "regulation"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The OIF says AFAPDP experts worked on 10-21 February 2025 to make the Malagasy Commission de l'Informatique et des Libertes (CMIL) operational, and speaks of the 'future CMIL' and its members.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "CMIL",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

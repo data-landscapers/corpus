@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-orange-egypt-partners-with-botim-to-enable-uae-to-egypt-remittances",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech Africa News reports that Orange Egypt's Orange Cash wallet is in service with approximately 10 million users and lets customers transfer money, pay, make purchases and withdraw cash at 300,000+ cash-out points, per Orange Egypt in October 2026.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Orange Cash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Cash",
+   "country_label": "Orange Cash",
+   "class": "retail",
+   "platform": "",
+   "owner": "Orange Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

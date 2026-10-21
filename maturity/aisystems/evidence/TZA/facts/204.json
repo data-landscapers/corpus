@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The e-Government Authority says Msaada AI, Muhtasari AI and Tafsiri AI were designed at its e-Government Research, Innovation and Development Centre, and Msaada AI is in use by two institutions.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{"slug": "2025-10-07-mdg-lagent-svo-deploye-la-douane-franchit-une-nouvelle-etape", "studies": {
+"aiabuse": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The AI agent works inside customs invoice control, recorded under sector systems."}}},
+"aisectoral": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Madagascar's customs directorate says it launched on 7 October 2025 the generative-AI agent SVO, which automatically analyses invoices and detects manipulations, inconsistencies and false invoices to strengthen the fight against fraud.", "as_of": "2025-10-07", "date_precision": "day", "system": "Agent IA générative SVO", "class": "sectorai"}],
+"systems": [{"system": "Agent IA générative SVO", "country_label": "Madagascar", "class": "sectorai", "platform": "", "owner": "Direction générale des douanes; developed by CEDIA", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document names CEDIA as developer but does not say where it is based or that the model was built in the country."}}}
+}}

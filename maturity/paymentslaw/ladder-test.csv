@@ -15,7 +15,7 @@ DJI,3,in-force,,DJI-001
 DZA,4,in-force,non-bank,DZA-003;DZA-005;DZA-002
 EGY,3,in-force,,EGY-002;EGY-001
 ERI,no evidence,,,
-ETH,4,in-force,non-bank,ETH-002;ETH-001
+ETH,4,in-force,non-bank,ETH-002;ETH-004;ETH-003
 GAB,4,in-force,non-bank,GAB-003;GAB-004;GAB-002
 GHA,5,in-force,connect,GHA-005;GHA-002;GHA-001
 GIN,4,in-force,non-bank,GIN-008;GIN-005;GIN-007
@@ -36,7 +36,7 @@ MWI,4,in-force,non-bank,MWI-003;MWI-002
 NAM,4,in-force,non-bank,NAM-002;NAM-008;NAM-005
 NER,5,in-force,connect,NER-001;NER-003;NER-002
 NGA,4,in-force,non-bank,NGA-002
-RWA,5,in-force,connect,RWA-002;RWA-004;RWA-001
+RWA,5,in-force,connect,RWA-002;RWA-004;RWA-006;RWA-001
 SDN,4,in-force,non-bank,SDN-002;SDN-005;SDN-001
 SEN,5,in-force,connect,SEN-004;SEN-001;SEN-007;SEN-009
 SLE,4,in-force,non-bank,SLE-004;SLE-002
@@ -49,7 +49,7 @@ TCD,4,in-force,non-bank,TCD-002;TCD-007;TCD-001
 TGO,5,in-force,connect,TGO-002;TGO-003;TGO-005;TGO-007
 TUN,4,in-force,non-bank,TUN-004;TUN-008;TUN-003
 TZA,3,in-force,,TZA-001
-UGA,4,in-force,non-bank,UGA-002;UGA-003
+UGA,4,in-force,non-bank,UGA-002;UGA-004;UGA-003
 ZAF,4,in-force,non-bank,ZAF-008;ZAF-007
-ZMB,3,in-force,,ZMB-002;ZMB-001
+ZMB,3,in-force,,ZMB-002;ZMB-003
 ZWE,3,in-force,,ZWE-001

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,aiharm,rule,coverage,draft,2026-08-06,GHA-001,,
+GHA,aiharm,rule,coverage,inforce,2026-06-30,GHA-002,GHA-001=draft;GHA-005=draft,
 GHA,aiharm,authority,coverage,,,,,nothing held
-GHA,aiharm,enforced,coverage,,,,,nothing held
+GHA,aiharm,enforced,coverage,applied,2026-05,GHA-003;GHA-004,,

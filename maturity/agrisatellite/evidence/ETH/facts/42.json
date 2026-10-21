@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-eth-harnessing-earth-observation-and-process-based-models-for-crop-yield-e",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO's EOSTAT project, with the Ethiopian Statistics Service, trained national experts in February 2025 in Adama and ran a pilot wheat yield study in Arsi Zone using DSSAT with Earth observation data and the GCVI vegetation index.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "EOSTAT DSSAT yield estimation pilot",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EOSTAT DSSAT yield estimation",
+   "country_label": "Ethiopia (Arsi Zone)",
+   "class": "agrisat",
+   "platform": "DSSAT; Google Earth Engine",
+   "owner": "Ethiopian Statistics Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{"slug": "2025-03-19-civ-cote-d-ivoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-stra", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The AI strategy's governance pillar speaks of a legal and ethical framework to be installed; no draft rule or authority is stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Digital Transition Minister Ibrahim Kalil Konaté handed the National AI Strategy to the Prime Minister on 13 March 2025, to be submitted to government for adoption and inclusion in the 2026-2030 National Development Plan.", "as_of": "2025-03-13", "date_precision": "day", "system": "Stratégie nationale de l'Intelligence artificielle", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No built model, dataset or AI computing is stated."}}},
+"datacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A national data centre is only planned under PARAE; none in service is stated."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The national data governance strategy and AI strategy, handed to the Prime Minister on 13 March 2025 and awaiting government adoption, call for data centres and sovereign clouds to host and secure the country's data locally.", "as_of": "2025-03-13", "date_precision": "day", "system": "Stratégie nationale de la gouvernance des données", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A national data centre is only planned under PARAE; none in service is stated."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub or park is stated."}}}
+}}

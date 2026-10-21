@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-03-zaf-update-to-our-catalogue-of-ai-public-sector-use-cases",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Stellenbosch University Policy Innovation Lab says its June 2025 catalogue update adds 23 South African AI tools currently deployed across public sector domains, including Cape Town's Smart Safety Technology Suite that analyses CCTV footage.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Smart Safety Technology Suite",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "The Stellenbosch University Policy Innovation Lab says 23 South African AI tools are currently deployed across public sector domains, while calling adoption not widespread and limited in scope.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Safety Technology Suite",
+   "country_label": "South Africa",
+   "class": "govai",
+   "platform": "CCTV analytics",
+   "owner": "City of Cape Town",
+   "tiers": ""
+  },
+  {
+   "system": "SANRAL AI pothole and crack detection",
+   "country_label": "South Africa",
+   "class": "govai",
+   "platform": "",
+   "owner": "SANRAL",
+   "tiers": "pilot"
+  }
+ ],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "1",
-   "rule": "none",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "No source held since October 2023 says: is a rule or authority on ai harms being drafted.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002",
+      "gaps": "No source held since October 2023 says a body is designated with a mandate over AI.",
+      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

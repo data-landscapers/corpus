@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,g2p,payment,coverage,inservice,2026-09-18,UGA-001,,
+UGA,g2p,payment,coverage,inservice,2026-09-18,UGA-001,UGA-002=underway,
 UGA,g2p,streams,coverage,,,,,nothing held
-UGA,g2p,linked,coverage,,,,,nothing held
+UGA,g2p,linked,coverage,linked,2026-10-19,UGA-003,,

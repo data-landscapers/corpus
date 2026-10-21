@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "We are Tech reports Burkina Faso has established the Permanent Secretariat for Innovation and Monitoring of Emerging Digital Technologies (SPIVTEN), tasked with overseeing and regulating AI development, as Minister Aminata Zerbo/Sabane told the Transitional Legislative Assembly.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "SPIVTEN",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

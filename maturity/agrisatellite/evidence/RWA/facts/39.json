@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "BMZ Digital.Global says the Rwanda Space Agency, the Ministry of Agriculture, Alliance Bioversity-CIAT and FAIR Forward developed a satellite and AI crop mapping method that is currently being tested in four districts for rice, maize, potatoes and beans.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "satellite and AI crop type maps",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "satellite and AI crop type maps",
+   "country_label": "Rwanda",
+   "class": "agrisat",
+   "platform": "satellite imagery and field data",
+   "owner": "Rwanda Space Agency, Ministry of Agriculture, Alliance Bioversity-CIAT, BMZ FAIR Forward",
+   "tiers": "four-district test"
+  }
+ ],
+ "note": ""
+}

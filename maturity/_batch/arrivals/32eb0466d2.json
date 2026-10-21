@@ -1,0 +1,544 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest says no AI-specific law or regulation exists and no enforcement is on record, but names no rule, draft or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Digital Policy Alert says Rwanda's Ministry of ICT and Innovation released the National AI Policy in April 2023, the country's primary AI framework.",
+       "as_of": "2023-04",
+       "date_precision": "month",
+       "system": "National AI Policy",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "Digital Policy Alert says the National AI Policy empowers the Rwanda Information Society Authority to oversee national AI initiatives and provides for a Responsible AI Office under the Ministry.",
+       "as_of": "2023-04",
+       "date_precision": "month",
+       "system": "National AI Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "Digital Policy Alert says the National Bank of Rwanda issued licensing procedures for digital payment providers in September 2023 and earlier licensing rules for electronic money issuers.",
+       "as_of": "2023-09",
+       "date_precision": "month",
+       "system": "National Bank of Rwanda",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Digital Policy Alert says Rwanda's National Cyber Security Authority was established in July 2017 and oversees data governance.",
+       "as_of": "2017-07",
+       "date_precision": "month",
+       "system": "National Cyber Security Authority",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Digital Policy Alert says Rwanda launched its National Cybersecurity Strategy in August 2024, with seven objectives.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "National Cybersecurity Strategy",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says the 2018 Law on the Prevention and Punishment of Cyber Crimes is Rwanda's main cybersecurity framework and criminalises unauthorised access and data interception.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Law on the Prevention and Punishment of Cyber Crimes",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest names no data centre in Rwanda."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says the Personal Data Protection and Privacy Law of October 2021 generally requires personal data to be stored in Rwanda unless the supervisory authority grants a certificate.",
+       "as_of": "2021-10",
+       "date_precision": "month",
+       "system": "Law Relating to the Protection of Personal Data and Privacy",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "applied",
+       "fact": "Digital Policy Alert says the Rwanda Utilities Regulatory Authority fined MTN Rwanda FRW 7.03 billion in May 2017 for hosting its IT services outside the country.",
+       "as_of": "2017-05",
+       "date_precision": "month",
+       "system": "Rwanda Utilities Regulatory Authority",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Digital Policy Alert says the National Cyber Security Authority oversees data governance and set up its Data Protection Office in 2022, which issues guidelines.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "NCSA Data Protection Office",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "none",
+       "fact": "Digital Policy Alert says there are no public, official sources on enforcement action by the National Cyber Security Authority or its Data Protection Office.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "NCSA Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says Rwanda implemented the Law Relating to the Protection of Personal Data and Privacy in October 2021.",
+       "as_of": "2021-10",
+       "date_precision": "month",
+       "system": "Law Relating to the Protection of Personal Data and Privacy",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Digital Policy Alert says the law requires registration with the National Cyber Security Authority, which oversees data governance through a Data Protection Office set up in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "NCSA Data Protection Office",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "Digital Policy Alert says the Data Protection Office issued guidance on registration in June 2023, standard contractual clauses in February 2024, and further guidance in April and July 2024, with no public enforcement action on record.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "NCSA Data Protection Office",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says Rwanda implemented its personal data protection law in October 2021.",
+       "as_of": "2021-10",
+       "date_precision": "month",
+       "system": "Law Relating to the Protection of Personal Data and Privacy",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "Digital Policy Alert says Rwanda ratified the African Union Convention on Cyber Security and Personal Data Protection in November 2019.",
+       "as_of": "2019-11",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "Digital Policy Alert says the National Cyber Security Authority oversees data governance and established its Data Protection Office in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "NCSA Data Protection Office",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "Digital Policy Alert says the Data Protection Office issued guidance on registration of controllers and processors in June 2023 and further guidance through July 2024.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "NCSA Data Protection Office",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says the October 2021 data protection law allows transfers abroad through authority authorisation, data subject consent, or specific exceptions.",
+       "as_of": "2021-10",
+       "date_precision": "month",
+       "system": "Law Relating to the Protection of Personal Data and Privacy",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "means",
+       "fact": "Digital Policy Alert says the Data Protection Office issued standard contractual clauses for cross-border transfers in February 2024.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "NCSA Data Protection Office",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "Digital Policy Alert says the 2017 National Data Revolution Policy requires critical government data to be hosted in a national data centre.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "National Data Revolution Policy",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest names the Economy Digitalization Program and National Strategy for Transformation only in passing, with no scope, standing or period."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Digital Policy Alert says Rwanda implemented the Law Governing the Payment System in November 2021, setting licensing requirements for payment providers.",
+       "as_of": "2021-11",
+       "date_precision": "month",
+       "system": "Law Governing the Payment System",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "Digital Policy Alert says the National Bank of Rwanda issued a regulation in September 2023 on licensing procedures for digital payment providers, after earlier licensing rules for electronic money issuers.",
+       "as_of": "2023-09",
+       "date_precision": "month",
+       "system": "National Bank of Rwanda licensing regulation",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Digital Policy Alert says Rwanda ratified the African Union Convention on Cyber Security and Personal Data Protection in November 2019.",
+       "as_of": "2019-11",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest names no African digital-policy body Rwanda belongs to or agreement it signed."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest says only that Rwanda established a partnership with Starlink; no licence or sale is stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digest names the Rwanda Innovation Fund only in passing, with no financing of startups stated."
+    }
+   }
+  }
+ }
+}

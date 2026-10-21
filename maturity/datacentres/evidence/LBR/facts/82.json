@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "National Data Center is named only as an upgrade target; no statement that it rents to others, nor tier or cloud region."
+}

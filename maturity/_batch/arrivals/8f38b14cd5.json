@@ -1,0 +1,10 @@
+{"slug": "2024-12-03-ken-ruto-eyes-24-7-services-on-e-citizen-with-ai-addition", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [{"system": "e-Citizen", "country_label": "Kenya", "class": "other", "platform": "e-Citizen", "owner": "Government of Kenya", "tiers": ""}], "note": "The AI upgrade of e-Citizen is only planned as the next phase of investment, not piloted or in service."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or computing built or hosted in the country."}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Business Daily quotes President William Ruto saying the e-Citizen platform offers 20,855 government services.", "as_of": "2024-12-03", "date_precision": "day", "system": "e-Citizen", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "Business Daily quotes President William Ruto saying e-Citizen serves about 13 million active users.", "as_of": "2024-12-03", "date_precision": "day", "system": "e-Citizen", "class": "eservices"}],
+"systems": [{"system": "e-Citizen", "country_label": "Kenya", "class": "eservices", "platform": "e-Citizen", "owner": "Government of Kenya", "tiers": ""}], "note": ""}}}
+}}

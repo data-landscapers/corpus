@@ -1,0 +1,14 @@
+{"slug": "2025-11-19-uga-ai-misuse-sparks-calls-for-stronger-data-control", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The Data Protection and Privacy Act is not said to apply to AI or deepfakes; the PDPO director only describes AI image manipulation as a problem."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"dataprotectionauthority": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Daily Monitor reports Baker Birikujja as director of the Personal Data Protection Office, which the Data Protection and Privacy Act (2019) empowers to enforce privacy rights and penalise unlawful use of personal data.", "as_of": "2025-11-19", "date_precision": "day", "system": "Personal Data Protection Office", "class": "authority"}
+], "systems": [{"system": "Personal Data Protection Office", "country_label": "Uganda", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Daily Monitor says the Data Protection and Privacy Act (2019) empowers the PDPO to enforce privacy rights and penalise unlawful use of personal data.", "as_of": "2025-11-19", "date_precision": "day", "system": "Data Protection and Privacy Act 2019", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Personal Data Protection Office is acting under the Act, with Baker Birikujja named as its director.", "as_of": "2025-11-19", "date_precision": "day", "system": "Personal Data Protection Office", "class": "authority"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Pollicy is named as a digital rights organisation but no research, publication or policy role is stated."}}}
+}}

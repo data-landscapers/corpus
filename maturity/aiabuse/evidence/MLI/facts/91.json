@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-16-mli-voixdemopti-deepfakes-chantage-sexuel",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "La Voix de Mopti reports that Mali's 2024 Penal Code includes cybercrime provisions but does not specifically recognise deepfakes or digital sextortion, leaving a legal vacuum that makes convictions difficult.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "Code pénal 2024",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

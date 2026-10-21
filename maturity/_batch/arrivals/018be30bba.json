@@ -1,0 +1,7 @@
+{"slug": "2026-08-13-zmb-alleged-ai-misuse-on-eve-of-today-s-elections-in-zambia", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The article says Zambia declared AI content a national-security threat in March and enacted cyber laws in 2025, but states no rule, authority or enforcement decision on AI harms."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Zambia is stated."}}},
+"cybersecuritylaw": {"countries": {"ZMB": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "CAJ News Africa reports that Zambia enacted the Cyber Security Act and the Cyber Crimes Act in 2025, which critics say are aimed at stifling dissent.", "as_of": "2025", "date_precision": "year", "system": "Cyber Security Act and Cyber Crimes Act 2025", "class": "law"}], "systems": [], "note": ""}}}
+}}

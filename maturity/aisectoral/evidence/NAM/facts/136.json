@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NASA Harvest says its AI and machine-learning team built a high-resolution national cropland mask for Namibia, provided to the Ministry of Agriculture, Water and Land Reform under a pilot to better target monitoring and assessments.",
+   "as_of": "2024-03-30",
+   "date_precision": "day",
+   "system": "NASA Harvest cropland mask",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

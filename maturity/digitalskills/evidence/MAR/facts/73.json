@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Le360 reports the creation of Al-Jazari institutes in different regions, aimed at training young people in digital skills.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "Al-Jazari institutes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Al-Jazari institutes",
+   "country_label": "Morocco",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Morocco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

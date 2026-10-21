@@ -1,0 +1,173 @@
+{
+ "slug": "2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Newsday reports that Revenue Services Lesotho has incorporated artificial intelligence into its customer service operations, per Commissioner General Mokoko.",
+       "as_of": "2025-10-07",
+       "date_precision": "day",
+       "system": "RSL AI customer service",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Lesotho."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Newsday reports that the Revenue Services Lesotho e-Tax platform now enables electronic payments, with the RSL Commissioner General giving the account.",
+       "as_of": "2025-10-07",
+       "date_precision": "day",
+       "system": "e-Tax",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Tax",
+       "country_label": "Lesotho",
+       "class": "revenue",
+       "platform": "e-Tax",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "Newsday reports that the Revenue Services Lesotho e-Tax platform now enables electronic payments, online registration and near-instant Tax Clearance Certificates.",
+       "as_of": "2025-10-07",
+       "date_precision": "day",
+       "system": "e-Tax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Tax",
+       "country_label": "Lesotho",
+       "class": "taxsystem",
+       "platform": "e-Tax",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

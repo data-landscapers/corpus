@@ -1,6 +1,6 @@
 # Control of AI abuse: AI harms
 
-*As at 2026-09-30.*
+*As at 2026-10-21.*
 
 ## The norm
 
@@ -21,14 +21,20 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 5 |
-| 3 Established | 10 |
-| 2 Nascent | 14 |
-| 1 Absent | 8 |
+| 4 Operating | 8 |
+| 3 Established | 11 |
+| 2 Nascent | 11 |
+| 1 Absent | 10 |
 | Unplaced | 0 |
-| No evidence | 17 |
+| No evidence | 14 |
 
 ## Countries
+
+### Angola: 4 Operating
+
+A body was designated with a mandate over AI in 2026; enforcement is not on record.
+
+- CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola ([source, 2026-06](https://revista.cazosadvogados.com/pt/governacao-digital-ia)).
 
 ### Chad: 4 Operating
 
@@ -42,6 +48,19 @@ A body was designated with a mandate over AI in 2026; enforcement is not on reco
 
 - Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister ([source, 2026-01-18](https://www.elwatannews.com/news/details/8210438)).
 - Minister Raafat Hindi told the Senate that the Egyptian Responsible AI Center was established in the communications ministry at the end of 2025 to support safe AI use in government bodies and develop regulatory models ([source, 2025-12](https://gate.ahram.org.eg/News/5670246.aspx)).
+
+### Gabon: 4 Operating
+
+A body was designated with a mandate over AI in 2026; enforcement is not on record.
+
+- Village de la Justice says ordinance n°0013/PR/2026 gives the Haute Autorité de la Communication (HAC) express competence to regulate digital platforms, and that the HAC is given the task of auditing AI systems ([source, 2026-04](https://www.village-justice.com/articles/gabon-dote-droit-des-reseaux-sociaux-analyse-des-ordonnances-fevrier-2026,57009.html)).
+
+### Morocco: 4 Operating
+
+A body was designated with a mandate over AI in 2026; enforcement is not on record.
+
+- EuroMedAI says HACA, the audiovisual authority, adopted Decision No. 50-26 on AI-generated electoral content on radio and television, and the CNDP issued guidance in late August 2026 asking that AI-produced content be identified ([source, 2026-06-16](https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/)).
+- The CNDP stated that one of its missions is to ensure that AI processing of personal data complies with Law 09-08 ([source, 2025-03-18](https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf)).
 
 ### Mozambique: 4 Operating
 
@@ -79,24 +98,25 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 
 - The CNPA says the new Code de l'information et de la communication (Loi N°25-021/AU of 26 December 2025, promulgated by Décret N°26-023/PR of 2 February 2026) requires explicit labelling of any content generated or heavily modified by artificial intelligence, under its Article 231 ([source, 2026-02-02](https://www.cnpa-comores.org/un-nouveau-souffle-pour-le-cnpa/)).
 
-### Gabon: 3 Established
+### Ghana: 3 Established
 
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
-- Gabon Media Time reports that the law ratifying the social-network ordinance, promulgated by decree 0436/PR of 5 October 2026, bans deepfakes of public or private persons (art. 32) and requires editors within 12 months to deploy AI-content detection and a visible, permanent label on AI-generated content (art. 53) ([source, 2026-10-05](https://gabonmediatime.com/gabon-amendes-jusqua-50-millions-et-peines-de-prison-pour-les-abus-commis-sur-les-reseaux-sociaux/)).
+- MyJoyOnline says Ghana's Cybersecurity Act, 2020 (Act 1038), covering impersonation, fraud and other cyber offences, can be applied to AI-assisted crimes such as voice cloning and manipulated videos used in scams, though it does not regulate AI itself ([source, 2026-06-30](https://www.myjoyonline.com/when-ai-lies-the-rising-danger-of-deepfakes-ai-cloning/)).
 
 ### Guinea: 3 Established
 
-A rule addressing a harm from AI was in force in 2025; a designated authority is not on record.
+A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
+- The Haute Autorité de la Communication's decision N°016/HAC/P/2026 of 25 April 2026, effective immediately, has article 17 strictly forbidding AI-manipulated deceptive content and deepfakes in private media coverage of the 31 May 2026 elections, with sanctions up to suspension from the campaign ([source, 2026-04-25](https://topafrica.org/elections-2026-en-guinee-la-hac-encadre-la-couverture-mediatique-des-medias-prives/)).
 - On 28 November 2025 the HAC president announced a formal ban on all media, including their social-media channels, broadcasting AI-generated speech or images during the 28 December presidential campaign, to prevent manipulation; no sanctions schedule is stated ([source, 2025-11-28](https://guineematin.com/2025/11/28/campagne-electorale-la-hac-interdit-aux-medias-de-publier-des-contenus-generes-par-lintelligence-artificielle/)).
-- Guinea's ANSSI said on 12 September 2025 that manipulating and illicitly circulating AI-generated images or videos of public figures is punished under Guinean law, with civil and criminal liability including content removal and compensation, and 5 to 10 years' imprisonment with heavy fines ([source, 2025-09-12](https://www.guineenews.org/2025/09/12/manipulations-par-ia-en-guinee-lanssi-met-en-garde-contre-les-atteintes-a-limage-des-autorites/)).
 
 ### Mauritius: 3 Established
 
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
 - The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing ([source, 2026-09-28](https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead)).
+- The Director of Public Prosecutions' April 2024 newsletter, by Senior State Counsel Nisha Pem, says the Cybersecurity and Cybercrime Act 2021 makes creating and sharing obscene deepfakes with intent to harm punishable by criminal penalties ([source, 2024-04](https://lexpress.mu/node/534256)).
 
 ### Senegal: 3 Established
 
@@ -109,12 +129,14 @@ A rule addressing a harm from AI was in force in 2025; a designated authority is
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
 - SAPS Free State says section 68 of Act 68 of 1995 prohibits falsely presenting oneself as a police member or implying a connection to the service, and warns this can apply to AI-generated and face-swapped images in SAPS uniform ([source, 2026-09-07](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o)).
+- The Electoral Commission of South Africa promulgated the Electoral Code of Conduct Countering Disinformation on 4 September 2026 under section 88(a) of the Municipal Electoral Act, in force immediately until the election results, requiring parties and candidates to label AI-generated content clearly, with the Electoral Code of Conduct's sanctions ([source, 2026-09-04](https://www.gov.za/news/media-statements/electoral-commission-introduces-new-disinformation-code-ahead-2026-local)).
 
 ### Uganda: 3 Established
 
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
 
 - The Ministry of ICT permanent secretary says Uganda is still developing a dedicated AI legal framework but existing laws already apply, and election misconduct is unlawful online, with misuse of AI to mislead carrying consequences ([source, 2026-01-02](https://ict.go.ug/media/news/safeguarding-our-democracy-in-the-age-of-artificial-intelligence-ai)).
+- Uganda Communications Commission Executive Director Nyombi Thembo, speaking on AI-generated deepfakes and disinformation, said the Computer Misuse (Amendment) Act 2022 is in full effect, with up to 7 years' imprisonment or a Shs10 million fine for hate speech, cyber stalking and malicious information ([source, 2025-12-18](https://publicisteastafrica.com/ucc-boss-nyombi-thembo-issues-stark-warning-on-ai-ethics-and-the-computer-misuse-act/)).
 
 ### Zambia: 3 Established
 
@@ -123,23 +145,24 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 - Zambia Police Service spokesperson Godfrey Chilabi said creating and spreading false, manipulated or misleading content through computer systems, which he applied to AI-generated content, is an offence under the Cyber Crimes Act No. 4 of 2025 ([source, 2026-06-22](https://www.zambiamonitor.com/zambia-police-warn-against-ai-generated-fake-content-targeting-officials/)).
 - The Zambia Cyber Security Agency said creating, altering or sharing misleading AI-generated audio, video and images may be an offence under Section 19 of the Cyber Crimes Act No. 4 of 2025, with a fine up to K280,000 and 2 to 7 years in prison ([source, 2026-05-08](https://zambia24.com/2026/05/08/misleading-online-content-risks-jail-term/)).
 
+### Zimbabwe: 3 Established
+
+A rule addressing a harm from AI was in force in 2025; a designated authority is not on record.
+
+- The Zimbabwe Republic Police said on 25 December 2025 that the Cyber and Data Protection Act [Chapter 12:07] criminalises creating or sharing false or misleading digital content, including deepfake videos and AI-generated content that misrepresents reality ([source, 2025-12-25](https://www.zimeye.net/2025/12/25/famous-socialite-in-trouble-over-deepfake-zrp-video/)).
+
 ### Algeria: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
 
 - Higher Education Minister Kamal Badari, in an answer dated 23 October 2025, said the government is preparing a comprehensive legal text governing ethical use of AI across all sectors and strengthening the regulatory authority ([source, 2025-10-23](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82)).
 
-### Angola: 2 Nascent
-
-A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
-
-- TechHive Advisory reviews Angola's draft AI law, a risk-based framework governing development, supply and use of AI with human-centric safeguards ([source, 2025-12-29](https://www.techhiveadvisory.africa/insights/review-of-angolas-proposed-law-on-artificial-intelligence)).
-
 ### Burundi: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
 
 - Burundi's national AI strategy, presented at its validation workshop, provides for a national AI commission, an ethics charter and regulatory adaptation ([source, 2026-04](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/)).
+- The national AI strategy validated on 21-22 April 2026 with UNDP provides for creating a National AI Commission (CNIA) and a Strategic Intelligence Centre under its governance axis, which also covers ethics and compliance ([source, 2026-04-22](https://www.digitalbusiness.africa/burundi-la-strategie-nationale-de-lintelligence-artificielle-validee-axes-et-objectifs/)).
 
 ### Equatorial Guinea: 2 Nascent
 
@@ -152,12 +175,6 @@ A rule or authority on harms from AI was being drafted in 2025; none in force is
 A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
 
 - Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill ([source, 2026-05](https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0)).
-
-### Ghana: 2 Nascent
-
-A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
-
-- Ghana's Ministry of Health says it is developing a National AI Health Policy and Guidelines with accountability mechanisms, addressing risks including patient data privacy and algorithmic bias ([source, 2026-08-06](https://www.myjoyonline.com/health-ministry-develops-ai-policy-to-guide-safe-use-of-artificial-intelligence-in-ghanas-healthcare-system/)).
 
 ### Kenya: 2 Nascent
 
@@ -178,13 +195,6 @@ The government was drafting an AI Bill in 2026, to be tabled by December; no rul
 
 - Malawi's government announced it is drafting legislation to regulate the use of AI, addressing concerns over potential ethical risks, with ICT minister Shadric Namalomba saying the bill should be tabled in parliament before December 2026 ([source, 2026-08-10](https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445)).
 - Malawi's ICT ministry says a National AI Strategy will be supported by an AI Bill establishing a regulatory framework to promote innovation while safeguarding citizen privacy and ensuring operational accountability, per minister Shadric Namalomba ([source, 2026-08-06](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85)).
-
-### Morocco: 2 Nascent
-
-A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
-
-- The Mouvement populaire group in the House of Representatives tabled a private member's bill regulating AI use that bars AI on social media from spreading false news, abusive speech or fabricated images and videos, bans unacceptable-risk systems from the market, and sets fines of MAD 50,000-500,000 and prison of 6 months to 5 years ([source, 2025-01-07](https://www.intelligencia.ma/politique-19/500322.html)).
-- Private member's bill no 53, tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group, aims to prevent malicious uses of content generation such as deepfakes and would create a National Artificial Intelligence Agency ([source, 2024-04-17](https://www.lebrief.ma/projet-loi-agence-nationale-ia-100156120/)).
 
 ### Seychelles: 2 Nascent
 
@@ -222,6 +232,7 @@ A 2026 source says nothing addresses harms from AI.
 A 2025 source says nothing addresses harms from AI.
 
 - Cabo Verde's data protection commission CNPD recognised the need to give the country a law to regulate artificial intelligence, after setting out the data protection rules that bear on AI ([source, 2025-10-03](https://www.cnpd.cv/cnpd-participa-na-workshop-e-na-reuniao-de-stakeholders-da-inteligencia-artificial-ia-na-africa-sobre-governanca-inovadora-e-capacitacao/)).
+- Cabo Verde's Prime Minister told the National Assembly that social media and artificial intelligence are used to manipulate and violate constitutional limits on free expression in the absence of any mechanism of regulation and accountability, and that AI needs regulating ([source, 2025-01-22](https://www.governo.cv/discurso-do-primeiro-ministro-na-sessao-ordinaria-protecao-e-aprimoramento-da-democracia-e-da-boa-governanca/)).
 
 ### Djibouti: 1 Absent
 
@@ -242,6 +253,18 @@ A 2025 source says nothing addresses harms from AI.
 
 - The Government of Lesotho's press statement, reproduced by DRAA, says Lesotho currently lacks a dedicated cyber law to address AI-generated deepfake videos of the King and the Prime Minister ([source, 2025-08-15](https://digitalrightsalliance.africa/lesotho-government-warns-public-on-deep-fakes-amid-lack-of-cyber-law/)).
 
+### Liberia: 1 Absent
+
+A 2026 source says nothing addresses harms from AI.
+
+- Oracle News Daily reports Abdullah Kamara's memorandum saying Liberia currently lacks clear guardrails for how AI should be used or governed, and that the Ministry of Post & Telecommunications, the Liberia Telecommunications Authority and the National Security Agency have yet to establish AI-specific frameworks ([source, 2026-03-29](https://oraclenewsdaily.com/2026/03/29/liberia-tech-expert-issues-early-warning-as-ai-threatens-liberias-job-market-security/)).
+
+### Mali: 1 Absent
+
+A 2025 source says nothing addresses harms from AI.
+
+- La Voix de Mopti reports that Mali's 2024 Penal Code includes cybercrime provisions but does not specifically recognise deepfakes or digital sextortion, leaving a legal vacuum that makes convictions difficult ([source, 2025-10-16](https://voixdemopti.com/deepfakes-et-chantage-sexuel-le-nouveau-visage-des-violences-numeriques/)).
+
 ### Namibia: 1 Absent
 
 A 2026 source says nothing addresses harms from AI.
@@ -255,11 +278,11 @@ A 2026 source says nothing addresses harms from AI.
 - UNESCO's country profile from the Readiness Assessment Methodology states São Tomé and Príncipe has no national AI strategy and no AI-specific laws or regulations governing the development, use or deployment of AI, and no National AI Ethics Commission or dedicated AI governance structure ([source, 2026-01-22](https://www.unesco.org/ethics-ai/en/saotomeeprincipe)).
 - The UNESCO readiness report quotes the Minister of Education as saying no specific laws or regulations exist on the development, use and deployment of AI and no national AI ethics commission or other specific structure exists ([source, 2025](https://unesdoc.unesco.org/ark:/48223/pf0000394953)).
 
-### Zimbabwe: 1 Absent
+### Sierra Leone: 1 Absent
 
-A 2026 source says nothing addresses harms from AI.
+A 2025 source says nothing addresses harms from AI.
 
-- MISA Zimbabwe says the national AI strategy has no direct legal force and that enforceable legal safeguards on AI are missing, with legislation still to be drafted ([source, 2026-06-23](https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/)).
+- Dubawa says Sierra Leone currently has no specific legislation regulating the use or attribution of AI-generated images, though Section 6 of the Independent Media Commission Regulations 2022, which prohibits broadcasting untrue information, may apply in some contexts ([source, 2025-08-03](https://dubawa.org/facebook-user-posts-ai-generated-images-to-portray-non-existent-tourist-side-of-sierra-leone/)).
 
 ### Botswana: No evidence
 
@@ -309,19 +332,7 @@ Nothing held names a rule or authority against harms from AI or says there is no
 
 Not established: Nothing held says whether anything addresses harms from AI.
 
-### Liberia: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
 ### Madagascar: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Mali: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
 
@@ -340,12 +351,6 @@ Nothing held names a rule or authority against harms from AI or says there is no
 Not established: Nothing held says whether anything addresses harms from AI.
 
 ### Rwanda: No evidence
-
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing held says whether anything addresses harms from AI.
-
-### Sierra Leone: No evidence
 
 Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
 

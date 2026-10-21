@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-13-tun-leconomistemaghrebin-tribune-gouvernance-ia-quatre-conditions",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The column describes organic law 2004-63 on personal data protection as dating from before ChatGPT and as the law now governing data protection.",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "Organic law 2004-63",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

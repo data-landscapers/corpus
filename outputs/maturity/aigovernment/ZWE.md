@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [SIRDC says the 2nd piloting workshop of Zimbabwe's National Budget Automation System (the Blue Book System), described as AI-driven automation of public finance management, was held in Kwekwe on 21-25 September 2026](<https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** In April 2026 the Ministry of Primary and Secondary Education [launched the Learner's Hub chatbot at the Zimbabwe International Trade Fair](<https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/>), giving learners, teachers and parents academic and psychosocial support through an AI academic assistant. The chatbot was [built for the ministry by the consultants UChat Africa](<https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/>).
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/>).
+**Several bodies.** Only the education ministry is held with AI in service. The [National Budget Automation System, described as AI-driven, held its second piloting workshop in September 2026](<https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/>). The budget system is still being piloted and is not reported in service.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://sirdc.ac.zw/the-2nd-national-budget-automation-system-piloting-workshop/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is [the chatbot's launch](<https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/>), which states no rules.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.

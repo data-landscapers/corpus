@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Digital Policy Alert states that the government launched the Digital Ethiopia 2025 Strategy in 2020 to boost the digital economy.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Ethiopia 2025",
+   "country_label": "Ethiopia",
+   "class": "national",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

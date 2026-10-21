@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-mar-al3omk-seghrouchni-digital-administration-bill-ai",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Al3omk reports the minister delegate for digital transition, Amal El Fallah Seghrouchni, telling parliament in a written answer that the ministry is preparing a digital administration bill with AI-specific provisions that takes account of personal data protection and information security.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "Digital administration bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

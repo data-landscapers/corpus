@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-11-mar-telquel-aanaiber-deepfakes-moroccan-law",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Analyst Meryem Aanaiber writes in Telquel that Penal Code Articles 447-1 to 447-3 (added by Law No. 103-13 of 2018) are the most directly applicable legal basis against deepfakes, with penalties of one to three years' imprisonment for 447-2, though no law defines deepfakes.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "Penal Code Articles 447-1 to 447-3",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Telquel's op-ed says a 17-article bill under discussion in the House of Representatives would provide specific penalties for deepfake abuses and digital manipulation.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "17-article AI bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,localai,build,coverage,inservice,2026-09-17,ZAF-001,ZAF-003=underway,
+ZAF,localai,build,coverage,inservice,2026-09-17,ZAF-001;ZAF-004,ZAF-003=underway,
 ZAF,localai,compute,coverage,compute,2026-09-17,ZAF-002,,
 ZAF,localai,shared,coverage,,,,,nothing held

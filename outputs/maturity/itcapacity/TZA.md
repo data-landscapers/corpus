@@ -6,10 +6,10 @@
 
 **A technology body for government.** [The e-Government Authority, mandated to coordinate ICT across public institutions, runs MUVU (over 6,000 cooperative societies registered), M-Kilimo, the Government Mailing System and e-Office for the agriculture ministry and its institutions](<https://dailynews.co.tz/ega-drives-digital-farming/>). [The e-Government Authority says it designed and built the e-Mrejesho system, used by all government institutions, with the President's Office Public Service Management](<https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma>).
 
-**Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://dailynews.co.tz/ega-drives-digital-farming/>).
+**Built in-house.** The e-Government Authority says [Msaada AI, designed at its own research centre, is in use by two institutions](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), the Tanzania Tourist Board on its website and the President's Office Public Service Management in its e-Mrejesho feedback system, as of July 2026. It says it [keeps improving the system from users' needs and feedback](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>).
 
 **A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://dailynews.co.tz/ega-drives-digital-farming/>).
 
 ***Noted, not assessed***. [National ICT Broadband Backbone (NICTBB)](<https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/>); [e-Mrejesho](<https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma>).
 
-***Not held***. No source held says a system built by government staff went live since October 2023.
+***Not held***. An ICT cadre, scheme of service or establishment for the government's IT staff is not known.

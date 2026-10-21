@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-sle-the-graduate-who-brought-ai-to-sierra-leone-s-ministry-of-education",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "EdTech Hub reports that the Ministry of Education's eight-person delivery team uses an internal WhatsApp chatbot (retrieval pipeline with GPT-4) to get figures such as teacher and pupil numbers and exam results for reports, and that the team uses it most days according to the logs.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "internal WhatsApp chatbot for the Ministry of Education delivery team",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry of Education internal WhatsApp chatbot (RAG, GPT-4)",
+   "country_label": "Sierra Leone",
+   "class": "govai",
+   "platform": "WhatsApp business interface",
+   "owner": "Ministry of Education (built under EdTech Hub's Ministry of Education AI Challenge)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

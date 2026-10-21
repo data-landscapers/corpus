@@ -1,0 +1,8 @@
+{"slug": "2026-01-06-ago-igape-considera-em-fase-final-plataforma-de-ia-para-o-sector-publico", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Targeting, citing Jornal de Angola, reports that IGAPE has developed the AI and RPA platform SEP360, in its final phase, to automate collection, analysis and monitoring of state-enterprise data, with launch expected by the end of January 2026.", "as_of": "2026-01-06", "date_precision": "day", "system": "SEP360", "class": "govai"}],
+"systems": [{"system": "SEP360", "country_label": "Angola", "class": "govai", "platform": "AI and Robotic Process Automation", "owner": "IGAPE", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "SEP360 supervises state enterprises, which is general administration rather than a named sector system."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document states a government platform with AI, not an AI model, dataset or computing facility."}}}
+}}

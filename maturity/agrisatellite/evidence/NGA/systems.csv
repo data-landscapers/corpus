@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,Anchor Borrowers' Programme,Nigeria,agrisat,satellite information and GeoAI,Central Bank of Nigeria,,2026-09-02-techcabal-kayode-adeniyi-geospatial-ai-water
 NGA,Crop Watch,Nigeria,agrisat,remote sensing and ground observation,NASRDA,,2024-07-02-nga-punch-crop-watch-launch
+NGA,Nigeria CropWatch,Nigeria,agrisat,CropWatch cloud platform (cropwatchng.netlify.app),NASRDA with AIRCAS,,2026-04-21-nga-report-on-the-results-at-national-level-on-cropwatch-programme
+NGA,Earth Observation-based Agricultural Innovations Project,Nigeria,agrisat,,"NASRDA with ESA, funded by EU",,2026-04-01-nga-fg-launches-space-powered-agricultural-innovation-project-for-food-sec

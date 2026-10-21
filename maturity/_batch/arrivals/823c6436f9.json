@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-06-ken-kenya-space-agency-announces-plan-to-implement-agriculture-eo-decision",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Space Watch Africa reports the Kenya Space Agency presented a multi-phased, one-year pilot proposed for Murang'a County on crop-type mapping, crop condition monitoring and yield estimation using satellite-derived data.",
+       "as_of": "2024-11-06",
+       "date_precision": "day",
+       "system": "Agriculture EO decision support pilot, Murang'a",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agriculture EO decision support pilot",
+       "country_label": "Kenya (Murang'a County)",
+       "class": "agrisat",
+       "platform": "",
+       "owner": "Kenya Space Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

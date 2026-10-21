@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "no evidence",
-      "use": "",
-      "bodies": "",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says whether government bodies use AI.",
-      "note": "Rebuild 2026-10-20: ASIN's June 2026 legal note is advisory and issues no rules, and it names no AI system a body uses; nothing else is held.",
-      "as_at": "2026-10-20"
+      "stage_sources": "BEN-002;BEN-003",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI; ASIN's legal note is advisory.",
+      "note": "Fact 2026-10-21: ANIP's Seyna chatbot and ASIN's GPT BJ assistant are AI in service in two government bodies; no rules or register are held.",
+      "as_at": "2026-10-21"
     }
   ]
 }

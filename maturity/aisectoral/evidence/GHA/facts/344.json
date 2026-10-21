@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-16-gha-ghana-to-plug-us-127bn-revenue-leakages-with-new-ai-customs-tool",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Deputy Finance Minister Thomas Ampem Nyarko said a November 2025 pilot of the Publican AI digital inspection tool flagged anomalies in 18 of 43 test transactions and recovered GHS15 million from five companies, with nationwide rollout beside ICUMS due from 1 February 2026.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Publican Digital Inspection Solution",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Publican Digital Inspection Solution",
+   "country_label": "Publican",
+   "class": "sectorai",
+   "platform": "ICUMS",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

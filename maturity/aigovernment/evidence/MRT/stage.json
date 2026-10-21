@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "2",
-   "use": "underway",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "No source held since October 2023 says: is an ai system in service in administration.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002;MRT-003",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-10-21: the civil service ministry's Mourchid assistant and the national police's AI road-safety cameras are AI in service in two government bodies; no rules or register are held.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

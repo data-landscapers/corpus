@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-ner-niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-car",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Africa Data Protection reports that a decree of 8 June 2026 abolished Niger's Haute Autorite de protection des donnees a caractere personnel (HAPDP), that an ordonnance of the same day repealed the 2022 law's provisions founding it, and that its tasks pass to the Justice and Interior ministries.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute Autorite de protection des donnees a caractere personnel (HAPDP)",
+   "country_label": "HAPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

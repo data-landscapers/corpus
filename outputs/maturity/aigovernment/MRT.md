@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [The digital transition minister said AI will check candidate files, generate the questions and mark the papers in the competitive recruitment of 3,000 civil servants, with tools already tested in the past, under a draft decree approved by the Council of Ministers](<https://ami.mr/fr/archives/290261>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** In June 2026 the Ministry of Youth Empowerment, Employment, Sports and Civil Service [launched Mourchid, an AI assistant in Arabic and French](<https://erribat.info/?p=80889>) that answers on jobs, the civil service and youth programmes from ministry databases. In February 2026 the digital transition minister said [AI would check files, set questions and mark papers in recruiting 3,000 civil servants](<https://ami.mr/fr/archives/290261>).
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://ami.mr/fr/archives/290261>).
+**Several bodies.** A second body runs AI in service. In December 2025 the authorities announced that [an AI road-safety system built by the Agence numérique de l'État was operating on the national network](<https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere>), run by the national police, with cameras that detect overloaded vehicles and unworn seat belts.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://ami.mr/fr/archives/290261>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is [Mourchid's launch](<https://erribat.info/?p=80889>), which states no rules.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. Rules or a register for the government's own use of AI are not known.

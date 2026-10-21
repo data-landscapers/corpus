@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [We Are Tech Africa reports officials said Madagascar's courts already use AI technologies for certain research and document management functions](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>). [Newsmada says Madagascar's Customs has used AI since 2022 to analyse data, strengthen controls and anticipate risks (2022, before the three-year window)](<https://newsmada.com/2025/08/22/gestion-des-donnees-donnees-ia-et-souverainete-madagascar-engage-le-debat/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** [We Are Tech Africa reports officials said Madagascar's courts already use AI technologies for certain research and document management functions](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>), in June 2026.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>).
+**Several bodies.** A second body runs AI in service. The customs directorate says on its own site that its [AI customs chatbot answers the most common customs questions 24 hours a day](<https://www.douanes.gov.mg/la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la-digitalisation-et-lintelligence-artificielle-avec-le-tariff-et-le-chatbot-douanier/>), and showed it beside its e-Tariff portal at the Madagascar International Fair in May 2025. [Newsmada says customs has used AI since 2022 to analyse data and anticipate risks](<https://newsmada.com/2025/08/22/gestion-des-donnees-donnees-ia-et-souverainete-madagascar-engage-le-debat/>).
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [customs directorate's account of its chatbot](<https://www.douanes.gov.mg/la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la-digitalisation-et-lintelligence-artificielle-avec-le-tariff-et-le-chatbot-douanier/>), which states no rules.
 
-***Noted, not assessed***. [Logipenal](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>).
+***Noted, not assessed***. Logipenal; [e-Tariff](<https://www.douanes.gov.mg/la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la-digitalisation-et-lintelligence-artificielle-avec-le-tariff-et-le-chatbot-douanier/>).
 
-***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.
+***Not held***. Rules or a register for the government's own use of AI are not known.

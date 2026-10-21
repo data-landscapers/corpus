@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Digital Policy Alert states that INSA reported in October 2024 that it addressed approximately 8,854 data breach cases.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "INSA",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Ethiopia",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

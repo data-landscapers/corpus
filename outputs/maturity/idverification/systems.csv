@@ -31,6 +31,7 @@ BEN,Alafia microcredit programme,Benin,relying,,,,2025-11-01 Identification Syst
 BEN,fID QR-code authentication app,Benin,relying,mobile application,,,2025-11-01 Identification System in Benin Increasing Access to Services
 BEN,Certificat NPI/fID (C'est moi),Benin,other,WURI project,,,2024-06-27 WURI digital ID project improving access to public services in Benin
 BEN,fID mobile application,Benin,relying,mobile application,,,2024-06-27 WURI digital ID project improving access to public services in Benin
+BEN,Smart Africa Data Exchange (SADX),SADX,relying,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,relying,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,identité digitale pour tous,Burkina Faso,other,,Ministry of Digital Transition,,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
@@ -40,6 +41,7 @@ BFA,identification unique électronique de la personne,Burkina Faso,other,,Minis
 BFA,Subscriber identification under Decree 2018-1270 (SIM card sales),Burkina Faso,other,,Telecom operators and service providers,,2023-03-20-mdenp-decret-identification-abonnes-sim-cnib
 BFA,"IRAPOL (Identification, Rapprochement, Analyse de Police)",Burkina Faso,other,"five interconnected modules: IRAPOL core, Police judiciaire, detainee and prison management, civilian-arms tracking, IRAPOL SMART mobile",Ministere de la Securite,,2026-02-05-sig-conseil-ministres-n004-irapol
 BFA,Carte Nationale d'Identite Burkinabe (CNIB),Burkina Faso,relying,,,,2024-05-13-bfa-burkina24-anotel-cnib-carte-sim
+BFA,CIB-AES,Burkina Faso,other,,,,2026-10-16-bfa-aconews-gendarmerie-cib-aes
 BWA,National electronic Know-Your-Customer (eKYC) project,Botswana,relying,,Bankers' Association of Botswana,,2026-09-11-bwa-businesstechafrica-national-ekyc
 BWA,Bankers' Association of Botswana eKYC system (2021),Botswana,relying,,Bankers' Association of Botswana,,2026-09-11-bwa-businesstechafrica-national-ekyc
 BWA,Botswana Savings Bank eKYC and anti-money-laundering automation system,Botswana,other,,Botswana Savings Bank,,2026-09-11-bwa-businesstechafrica-national-ekyc
@@ -188,6 +190,7 @@ ETH,Fayda,Ethiopia,other,MOSIP,National ID Program,,2025-07-12 How Fayda powers 
 ETH,MESOB,Ethiopia,relying,,,,2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform
 ETH,Farmer Profile Project,Ethiopia,relying,,Agricultural Transformation Institute,,2025-01-30-farmer-profile-initiative
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
+ETH,teleSign,Ethiopia,relying,mobile app and website,Ethio Telecom,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
 GAB,Declaration unique des salaires (DUS),Gabon,relying,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,plateforme de consultation de la liste électorale (www.consultation.listelectorale.ga),Gabon,other,,Ministère de l'Intérieur,,2025-09-01-gabon-interieur-verifiez-inscription-liste-electorale-nip
 GHA,NIA Identity Verification System,Ghana,other,,National Identification Authority,,2026-07-23-graphic-ghana-card-photocopying-november-2-deadline
@@ -540,6 +543,7 @@ RWA,Single Digital Identification System (SDIS),Rwanda,other,,NIDA,,2025-10-28-n
 RWA,Single Digital Identification System (SDIS),Rwanda,other,,NIDA,,2025-08-08 Rwanda National Identification Agency begins digital ID enrollment
 RWA,Single Digital Identification System (SDIS),Rwanda,other,,NIDA,,2025-08-07-nida-digital-id-national-launch
 RWA,Single Digital Identity (SDID) system,RWA,other,,competent authority for population identification and civil registration,,2023-06-14-rwanda-sdid-law-029-2023
+RWA,Smart Africa Data Exchange (SADX),SADX,relying,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 SDN,SudaPass banking eKYC integration,Sudan,relying,SudaPass,Ministry of Digital Transformation and Communications; Central Bank of Sudan; banks,,2026-08-20-sudan-sudapass-digital-id-banking-ekyc
 SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications; Sudanese Cybersecurity Authority,,2026-08-20-sudan-sudapass-digital-id-banking-ekyc
 SDN,SudaPass,Sudan,other,,National Authority for Digital Certification (NADC),,2026-01-01-sudan-sudapass-privacy-policy

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-cmr-cameroon-tests-an-innovative-census-strategy-in-crisis-zones",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "FAO Cameroon says the government, with FAO and UNFPA support, launched on 21 October 2025 a field test (to 7 November 2025) of a hybrid census method ahead of the fourth General Population and Housing Census merged with the agriculture and livestock census, scheduled for 2026.",
+   "as_of": "2025-10-21",
+   "date_precision": "day",
+   "system": "Fourth GPHC / GCAL 2026",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fourth GPHC and GCAL (integrated)",
+   "country_label": "Fourth GPHC / GCAL 2026",
+   "class": "census",
+   "platform": "smartphone collection, satellite imagery, sampling",
+   "owner": "Government of Cameroon with FAO and UNFPA",
+   "tiers": "field test in four localities"
+  }
+ ],
+ "note": ""
+}

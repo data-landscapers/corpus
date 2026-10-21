@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
-      "results": "",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002",
-      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GHA-002;GHA-004;GHA-005",
+      "gaps": "No source held reports results for the tax analytics, and the health surveillance work is not shown in service.",
+      "note": "Fact 2026-10-21: Publican Trade Solution, rolled out at ports in March 2026, puts AI in the customs system beside the revenue authority's tax analytics, two sectors, and the Ministry of Finance reports its measured output.",
+      "as_at": "2026-10-21"
     }
   ]
 }

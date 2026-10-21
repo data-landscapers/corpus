@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,system,law,coverage,in-force,2025-11-15,ETH-001;ETH-005,ETH-007=not-yet,
+ETH,system,law,coverage,in-force,2025-11-15,ETH-001;ETH-005;ETH-009,ETH-007=not-yet,
 ETH,system,treaty,coverage,none,2026-02-02,ETH-004,,
-ETH,system,authority,coverage,appointed,2025-11-15,ETH-003;ETH-006,ETH-008=none,
-ETH,system,practice,coverage,implementing,2025-11,ETH-002,,
+ETH,system,authority,coverage,appointed,2025-11-15,ETH-003;ETH-006;ETH-010,ETH-008=none,
+ETH,system,practice,coverage,implementing,2025-11,ETH-002,ETH-011=none,

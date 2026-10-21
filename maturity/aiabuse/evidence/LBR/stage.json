@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "no evidence",
-   "rule": "",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether anything addresses harms from AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "1",
+      "rule": "none",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-002",
+      "gaps": "No source held since October 2023 says: is a rule or authority on ai harms being drafted.",
+      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

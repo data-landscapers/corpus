@@ -21,8 +21,8 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 6 |
-| 3 Established | 9 |
+| 4 Operating | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 16 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
@@ -91,6 +91,12 @@ Startups were labelled under the startup law or strategy in 2025; a public fund 
 
 - NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act ([source, 2025-04-29](https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/)).
 
+### Tunisia: 4 Operating
+
+Startups were labelled under the startup law or strategy in 2026; a public fund under it is not known.
+
+- The column cites 1,450 labelled startups in Tunisia ([source, 2026-03-13](https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/)).
+
 ### Angola: 3 Established
 
 A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
@@ -141,13 +147,6 @@ A startup law or strategy was adopted by 2025; startups labelled under it are no
 
 - APS reports the startup law was adopted 'in January last', granting three years of tax exemption and easing access to finance and public procurement, with its implementing decree and the Ecosysteme Startup platform launched on 20 November 2025 ([source, 2025-01](https://aps.sn/ecosysteme-startup-un-nouveau-dispositif-pour-accompagner-linnovation/)).
 - Senegal's government adopted the implementing decree for Startup Law No. 2020-01 of 6 January 2020, setting criteria (one-third Senegalese capital) and incentives ([source, 2025-01-29](https://www.wearetech.africa/en/fils-uk/news/tech/senegals-startup-law-advances-into-implementation-phase)).
-
-### Tunisia: 3 Established
-
-A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
-
-- The article says Tunisia's entrepreneurial ecosystem is carried by a pioneering Startup Act ([source, 2026-08](https://www.tunisie.fr/the-dot-lance-un-programme-dedie-aux-entrepreneurs-de-la-diaspora-tunisienne/)).
-- The article describes the Startup Act as the legal framework promoting startups in Tunisia, on which the JICA programme draws ([source, 2026-07-28](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/)).
 
 ### Burkina Faso: 2 Nascent
 

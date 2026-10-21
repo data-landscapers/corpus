@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-31-mdg-douanes-malagasy-lancement-du-projet-pilote-de-modernisation-du-system",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Madagascar's Customs Directorate launched the pilot phase of a Korean-customs-financed project in which ERA (Enhanced Risk Management), an automated AI risk system, will be integrated into the Sydonia World clearance platform.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "ERA (Enhanced Risk Management)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ERA (Enhanced Risk Management)",
+   "country_label": "ERA",
+   "class": "sectorai",
+   "platform": "Sydonia World",
+   "owner": "Direction Generale des Douanes Madagascar",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

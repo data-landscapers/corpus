@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-mar-la-cnss-investit-6-millions-de-dirhams-pour-deployer-un-chatbot-au-ser",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Lodj.ma reports that the CNSS launched a tender, estimated at 6 million dirhams, to select a provider for an AI chatbot that CNSS staff will use to query its document and database holdings, with a later phase planned to serve insured members.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "Chatbot CNSS",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chatbot CNSS",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "Caisse Nationale de Sécurité Sociale (CNSS)",
+   "tiers": "internal first, insured members later"
+  }
+ ],
+ "note": ""
+}

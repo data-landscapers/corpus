@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Togo Data Lab is developing with the Ministry of Agriculture a project using satellite images, ground data and AI for farmers, not yet reported in service.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "Togo Data Lab agriculture project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-17-tun-arp-pv-commission-droits-libertes-3-proposition-95-2025",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Rights and Liberties Committee's minutes of 17 February 2026 record sponsors presenting a 132-article organic-law proposal on personal data that regulates the use of AI, gives a right not to be subject to a solely automated decision and requires impact assessment for high-risk processing; the committee decided to continue examining it.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Organic-law proposal on personal data protection (proposal 95/2025)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

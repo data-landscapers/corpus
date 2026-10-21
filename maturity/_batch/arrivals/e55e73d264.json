@@ -1,0 +1,29 @@
+{"slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro", "studies": {
+"agrisatellite": {"countries": {
+"MWI": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "NASA Harvest says the machine-learning and remote-sensing GEOCIF yield forecast model, downscaled to Admin-2 level in Malawi, supplies maize yield forecasts that the Ministry of Agriculture uses operationally to support its regular crop estimates.", "as_of": "2024-03-30", "date_precision": "day", "system": "GEOCIF", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "published", "value": "scheduled", "fact": "NASA Harvest says GEOCIF maize yield forecast estimates are provided to Malawi's Ministry of Agriculture monthly, during the 2022/2023 season and the 2023/2024 season.", "as_of": "2024-03-30", "date_precision": "day", "system": "GEOCIF", "class": "agrisat"}],
+"systems": [{"system": "GEOCIF", "country_label": "Malawi", "class": "agrisat", "platform": "ML and remote sensing, with Survey123 field data", "owner": "NASA Harvest and FAO for the Ministry of Agriculture", "tiers": "Admin-2 level"}], "note": ""},
+"NAM": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "NASA Harvest says satellite-based tools and high-resolution cropland masks built for Namibia, provided to the Ministry of Agriculture, Water and Land Reform under a USAID-funded FAO pilot, were used operationally in 2023 and continue to support regular crop monitoring.", "as_of": "2023", "date_precision": "year", "system": "NASA Harvest cropland masks and monitoring tools", "class": "agrisat"}],
+"systems": [{"system": "NASA Harvest cropland masks and monitoring tools", "country_label": "Namibia", "class": "agrisat", "platform": "NASA Harvest Data Portal, Survey123", "owner": "NASA Harvest and FAO with the Ministry", "tiers": ""}], "note": ""}}},
+"aiabuse": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."},
+"NAM": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "The machine-learning model serves agriculture, a sector system, not general administration."},
+"NAM": {"facts": [], "systems": [], "note": "The machine-learning product serves agriculture, a sector system, not general administration."}}},
+"aisectoral": {"countries": {
+"MWI": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "NASA Harvest says the machine-learning GEOCIF model provides the Malawi Ministry of Agriculture with monthly maize yield forecasts that support its regular crop estimates.", "as_of": "2024-03-30", "date_precision": "day", "system": "GEOCIF", "class": "sectorai"}],
+"systems": [], "note": ""},
+"NAM": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "NASA Harvest says its AI and machine-learning team built a high-resolution national cropland mask for Namibia, provided to the Ministry of Agriculture, Water and Land Reform under a pilot to better target monitoring and assessments.", "as_of": "2024-03-30", "date_precision": "day", "system": "NASA Harvest cropland mask", "class": "sectorai"}],
+"systems": [], "note": ""}}},
+"aisystems": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "The models were built by NASA Harvest; no build in Malawi is stated."},
+"NAM": {"facts": [], "systems": [], "note": "The cropland mask was built by NASA Harvest; no build in Namibia is stated."}}},
+"opendatause": {"countries": {
+"MWI": {"facts": [], "systems": [{"system": "NASA Harvest Data Portal", "country_label": "NASA Harvest Data Portal (nasaharvest.org)", "class": "other", "platform": "", "owner": "NASA Harvest", "tiers": ""}], "note": "Datasets are published on a NASA Harvest portal, not by a Malawian public body."},
+"NAM": {"facts": [], "systems": [{"system": "NASA Harvest Data Portal", "country_label": "NASA Harvest Data Portal (nasaharvest.org)", "class": "other", "platform": "", "owner": "NASA Harvest", "tiers": ""}], "note": "Cropland masks are published on a NASA Harvest portal, not by a Namibian public body."}}}
+}}

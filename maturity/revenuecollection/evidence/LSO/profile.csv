@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,revenue,payment,coverage,inservice,2026-02-11,LSO-001;LSO-005;LSO-006,LSO-003=underway;LSO-004=underway,
+LSO,revenue,payment,coverage,inservice,2026-02-11,LSO-001;LSO-005;LSO-006;LSO-007,LSO-003=underway;LSO-004=underway,
 LSO,revenue,main,coverage,main,2026-02-11,LSO-002,,
 LSO,revenue,reported,coverage,,,,,nothing held

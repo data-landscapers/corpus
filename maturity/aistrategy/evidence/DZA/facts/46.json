@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Digital Policy Alert says Algeria's AI Council announced the AI strategy in December 2024, covering research, innovation and infrastructure.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Council",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research and Ministry of Knowledge Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

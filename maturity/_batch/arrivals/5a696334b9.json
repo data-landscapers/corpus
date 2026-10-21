@@ -1,0 +1,98 @@
+{
+ "slug": "2025-12-17-nga-federal-civil-service-deploys-ai-tool-trained-on-laws-service-rules",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "PRNigeria reports that the Head of the Civil Service of the Federation announced the deployment of a Service-Wide GPT trained on the Constitution, Public Service Rules and circulars, which has recorded over 25,000 chats.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "Service-Wide GPT",
+       "class": "govai"
+      },
+      {
+       "sub_indicator": "govai",
+       "aspect": "bodies",
+       "value": "several",
+       "fact": "PRNigeria reports the Head of the Civil Service of the Federation saying the Service-Wide GPT, with over 25,000 chats, shows growing adoption across Ministries, Departments and Agencies.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "Service-Wide GPT",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Service-Wide GPT",
+       "country_label": "Nigeria",
+       "class": "govai",
+       "platform": "Service-Wide GPT",
+       "owner": "Office of the Head of the Civil Service of the Federation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Personnel records and performance management are named as automated; no finance, revenue or payroll system is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

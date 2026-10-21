@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "BMZ Digital.Global says a method mapping agricultural land with satellite imagery and artificial intelligence, developed with the Rwanda Space Agency and the Ministry of Agriculture, is currently being tested in four districts.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "satellite and AI crop type maps",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

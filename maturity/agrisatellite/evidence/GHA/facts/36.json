@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-gha-esa-gda-eo-tools-fsrp-climtag",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ESA states that VITO built Earth-observation crop classifiers from nearly 800 FSRP field points collected in August-September 2023, trained Ministry of Food and Agriculture officials in March 2024, and adapted a Ghana CLIMTAG dashboard, with Ghana planning to operationalise it in the GhAAP platform.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Ghana CLIMTAG dashboard / Crop Observe",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CLIMTAG Ghana dashboard",
+   "country_label": "Ghana",
+   "class": "agrisat",
+   "platform": "VITO CLIMTAG",
+   "owner": "VITO for World Bank FSRP, used by MoFA and GMet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert states that Ethiopia amended the National Payment System Proclamation in February 2023 and the National Bank issued an October 2023 directive on licensing payment instruments including electronic money.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "National Payment System Proclamation / NBE directive",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Digital Policy Alert states that the National Bank's April 2020 directive allowed non-financial institutions such as mobile operators and fintech companies to offer mobile money.",
+   "as_of": "2020-04",
+   "date_precision": "month",
+   "system": "NBE mobile money directive",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

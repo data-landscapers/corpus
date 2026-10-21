@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [Presidential Order 342/26 authorises US$6 million of World Bank PADA funds to acquire an artificial-intelligence platform for the public sector, as reported by the Portal de T.I](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** The telecoms regulator INACOM [relaunched its portal in June 2025 with a 24-hour AI chatbot](<https://inacom.gov.ao/2025/06/12/novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao/>) that answers questions and tracks the status of applications. The state-enterprise institute IGAPE said in January 2026 that its [AI and process-automation platform SEP360 was in its final phase](<https://targeting.ao/inteligencia-artificial/igape-considera-em-fase-final-plataforma-de-ia-para-o-sector-publico/>), and [Presidential Order 342/26 authorises US$6 million of World Bank PADA funds for an AI platform for the public sector](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>).
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>).
+**Several bodies.** Only INACOM is held with AI in service. In July 2025 the IMA director said [AI in public services was limited to small experimental modules](<https://revistaexecutivo.com/especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-sector-publico-e-privado/>), with no structured project yet.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [order funding a public-sector AI platform](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>), which sets no rules.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.

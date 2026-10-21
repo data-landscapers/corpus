@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "3",
+      "stage": "4",
       "inhouse": "yes",
       "agency": "operating",
-      "built": "",
+      "built": "live",
       "cadre": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-001",
-      "gaps": "No source held says a system built by government staff went live since October 2023.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TZA-002;TZA-001;TZA-006",
+      "gaps": "No source held says the government has adopted an ICT cadre or scheme of service for its IT staff.",
+      "note": "Fact 2026-10-21: Msaada AI, designed at the e-Government Authority's own research centre, is live in two institutions, a system built by government staff in the last three years; no ICT cadre is held.",
+      "as_at": "2026-10-21"
     }
   ]
 }

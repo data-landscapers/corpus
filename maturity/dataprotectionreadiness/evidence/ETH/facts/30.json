@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Digital Policy Alert states that Ethiopia implemented the Personal Data Protection Proclamation in July 2024.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Proclamation",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Digital Policy Alert states that the Ethiopian Communications Authority oversees compliance with the Proclamation.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Ethiopian Communications Authority",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "none",
+   "fact": "Digital Policy Alert states there are no public, official sources on enforcement action or guidelines by the Ethiopian Communications Authority.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ethiopian Communications Authority",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

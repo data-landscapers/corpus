@@ -1,0 +1,7 @@
+{"slug": "2024-05-04-mus-le-bureau-du-dpp-aborde-les-deepfakes-et-la-violence-numerique", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "The Director of Public Prosecutions' April 2024 newsletter, by Senior State Counsel Nisha Pem, says the Cybersecurity and Cybercrime Act 2021 makes creating and sharing obscene deepfakes with intent to harm punishable by criminal penalties.", "as_of": "2024-04", "date_precision": "month", "system": "Cybersecurity and Cybercrime Act 2021", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Mauritius is stated."}}},
+"cybersecuritylaw": {"countries": {"MUS": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Director of Public Prosecutions' April 2024 newsletter cites the Cybersecurity and Cybercrime Act 2021 as the law under which obscene deepfakes made with intent to harm carry criminal penalties.", "as_of": "2024-04", "date_precision": "month", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"}], "systems": [], "note": ""}}}
+}}

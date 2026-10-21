@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "ANIP's eservices.anip.bj platform lets users obtain identification certificates, birth certificates and residence certificates online, as presented on 14 February 2025.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "eservices.anip.bj",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eservices.anip.bj",
+   "country_label": "Benin (eservices.anip.bj)",
+   "class": "eservices",
+   "platform": "web",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "ANIP BJ",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

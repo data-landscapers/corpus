@@ -2,7 +2,7 @@
 
 ## AI harms
 
-**Rule in force.** [The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing](<https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Rule in force.** [The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing](<https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead>). [The Director of Public Prosecutions' April 2024 newsletter, by Senior State Counsel Nisha Pem, says the Cybersecurity and Cybercrime Act 2021 makes creating and sharing obscene deepfakes with intent to harm punishable by criminal penalties](<https://lexpress.mu/node/534256>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Authority.** No source held since October 2023 says a body is designated with a mandate over AI. The nearest held fact: [the one given above](<https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead>).
 

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,agrisat,service,coverage,inservice,2025-07-29,MRT-001,,
+MRT,agrisat,service,coverage,inservice,2025-07-29,MRT-001,MRT-002=underway,
 MRT,agrisat,published,coverage,,,,,nothing held
-MRT,agrisat,reach,coverage,,,,,nothing held
+MRT,agrisat,reach,coverage,counted,2025-06-12,MRT-003,,

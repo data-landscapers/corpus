@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 KEN,Crop Measurement and Evaluation (CroME) Initiative,Kenya,agrisat,satellite imagery and AI,"Ministry of Agriculture and Livestock Development with Kenya Space Agency, Microsoft AI for Good Lab, NASA Harvest",national,2026-02-10-crome-initiative-launch-kenya-space-agency
+KEN,ADM-Kenya,Kenya,agrisat,RCMRD and icipe geoportals,"ZALF, icipe, RCMRD, Ministry of Agriculture",,2024-11-20-ken-integrated-use-of-multisource-remote-sensing-data-for-national-scale-a
+KEN,DRIVE satellite pasture index insurance,Kenya,agrisat,,"ZEP-RE with government, World Bank financed",,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
+KEN,Agriculture EO decision support pilot,Kenya (Murang'a County),agrisat,,Kenya Space Agency,,2024-11-06-ken-kenya-space-agency-announces-plan-to-implement-agriculture-eo-decision

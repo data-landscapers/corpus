@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-22-nga-nigeria-unveils-ai-public-services-platform",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ITWeb Africa reports Nigeria launched GovGuideNigeria, an AI platform giving real-time conversational answers on immigration procedures, documents and public programmes via WhatsApp and the web in English, Hausa, Igbo and Yoruba.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "GovGuideNigeria",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "ITWeb Africa says GovGuideNigeria consolidates information from more than 35 federal ministries and over 60 government agencies.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "GovGuideNigeria",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovGuideNigeria",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "WhatsApp and web",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

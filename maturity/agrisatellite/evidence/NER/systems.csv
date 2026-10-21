@@ -3,3 +3,4 @@ NER,IGNN Teledetection et technique spatiales (TTS),Niger,other,Sentinel optical
 NER,Wadata Talaka shock-response drought trigger (WRSI),Niger,agrisat,WRSI from FEWS NET/USGS satellite rainfall estimates,"Cellule Filets Sociaux, Prime Minister's Office, with World Bank support",communes,2024-01-01-ner-worldbank-drought-index-wrsi
 NER,SARRA crop model,Niger,other,,CIRAD with AGRHYMET,,2024-01-01-ner-worldbank-drought-index-wrsi
 NER,WRSI drought trigger (Programme Pilote de Reponse a la Secheresse),Niger,agrisat,FEWS NET website,"Government of Niger, Wadata Talaka",,2022-03-10-ner-worldbank-satellite-drought-response
+NER,Rayuwa,Rayuwa,other,mobile app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training

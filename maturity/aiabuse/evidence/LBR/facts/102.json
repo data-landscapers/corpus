@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-lbr-liberianinvestigator-dopoh-premature-cybercrime-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "The Liberian Investigator reports the arrest, days before 15 October 2026, of Jerry Nyantee Wrotto, accused of cyberbullying Vice President Jeremiah Kpan Koung with AI-generated images and videos, while the Executive was enforcing the new Cybercrime Law.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Liberia Cybercrime Act",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

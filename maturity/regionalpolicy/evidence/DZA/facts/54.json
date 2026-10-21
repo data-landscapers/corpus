@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Digital Policy Alert says the ANPDP signed a memorandum in October 2024 with the Personal Data Protection Authority of Mauritius to strengthen cooperation on data protection rules.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "ANPDP-Mauritius memorandum",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

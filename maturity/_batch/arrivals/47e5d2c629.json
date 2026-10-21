@@ -1,0 +1,212 @@
+{
+ "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The OIF says the Malagasy data protection commission must ensure personal data processing meets the requirements of law no. 2014-038 on personal data protection, which the document treats as the law in force.",
+       "as_of": "2025-02-21",
+       "date_precision": "day",
+       "system": "Law no. 2014-038 on personal data protection",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "regulations",
+       "value": "issued",
+       "fact": "The OIF says the Malagasy government has adopted an application decree, no. 2023-1541, for the data protection law.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Decree 2023-1541",
+       "class": "regulation"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The OIF says AFAPDP experts worked on 10-21 February 2025 to make the Malagasy Commission de l'Informatique et des Libertes (CMIL) operational, and speaks of the 'future CMIL' and its members.",
+       "as_of": "2025-02-21",
+       "date_precision": "day",
+       "system": "CMIL",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMIL",
+       "country_label": "Commission malgache de l'Informatique et des Libertes",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Madagascar",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The OIF says the Malagasy commission must ensure personal data processing meets the requirements of law no. 2014-038, for which an application decree was adopted.",
+       "as_of": "2025-02-21",
+       "date_precision": "day",
+       "system": "Law no. 2014-038 on personal data protection",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "The OIF says the Malagasy government ratified the Malabo Convention in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "The OIF says the Malagasy government ratified the Malabo Convention in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The OIF account of a data protection mission states nothing this study asks."
+    }
+   }
+  }
+ }
+}

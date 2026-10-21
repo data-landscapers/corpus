@@ -1,0 +1,8 @@
+{"slug": "2025-07-25-cod-decentralization-of-state-examination-correction-centers-a-first-in-th", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The AI use named is exam grading in the education sector, recorded under sector systems."}}},
+"aisectoral": {"countries": {"COD": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Ministry of National Education press release says AI is integrated into State Exam grading at the National Grading Center in Kinshasa (inaugurated 10 April 2025) and at the Lubumbashi branch, which is operational and equipped to process more than 100,000 answer sheets, with Mbuji-Mayi as a second pilot centre.", "as_of": "2025-07-24", "date_precision": "day", "system": "National Grading Center (State Exam grading with AI software)", "class": "sectorai"}],
+"systems": [{"system": "National Grading Center, State Exam", "country_label": "DR Congo", "class": "sectorai", "platform": "", "owner": "Ministry of National Education and New Citizenship (MINEDU-NC)", "tiers": "Kinshasa; Lubumbashi and Mbuji-Mayi pilot centres"}], "note": ""}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document does not say the AI software was built in the country."}}}
+}}

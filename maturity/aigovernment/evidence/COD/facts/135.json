@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-25-cod-drc-the-government-adopts-the-information-system-for-monitoring-govern",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Numerico reports that the Information System for Monitoring Government Actions (SISAG), developed and maintained by the Digital Development Agency (ADN) and including AI algorithms that generate decision proposals for programme implementation, was presented by the Minister of Planning and adopted at the Council of Ministers on 21 February 2025, with full implementation still to come.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "SISAG",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SISAG (Information System for Monitoring Government Actions)",
+   "country_label": "DR Congo",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Planning; built and run by the Digital Development Agency (ADN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

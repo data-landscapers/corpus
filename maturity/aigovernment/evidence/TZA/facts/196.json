@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The e-Government Authority (e-GA) says its Msaada AI system is in use by the Tanzania Tourist Board on its website and by the President's Office Public Service Management in its e-Mrejesho system.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "The e-Government Authority says Msaada AI is used by two institutions, the Tanzania Tourist Board and the President's Office Public Service Management.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Msaada AI",
+   "country_label": "Tanzania",
+   "class": "govai",
+   "platform": "Tanzania Tourist Board website; e-Mrejesho",
+   "owner": "e-Government Authority (e-GA)",
+   "tiers": ""
+  },
+  {
+   "system": "Muhtasari AI",
+   "country_label": "Tanzania",
+   "class": "govai",
+   "platform": "",
+   "owner": "e-Government Authority (e-GA)",
+   "tiers": ""
+  },
+  {
+   "system": "Tafsiri AI",
+   "country_label": "Tanzania",
+   "class": "govai",
+   "platform": "",
+   "owner": "e-Government Authority (e-GA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

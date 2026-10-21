@@ -81,6 +81,8 @@ GHA,GCNet / National Single Window,Ghana,customs,,,,2026-09-07-graphic-ghana-cus
 GHA,ICUMS,Integrated Customs Management System,customs,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Ghana,customs,,Ghana Revenue Authority Customs Division,,2026-08-19-myjoyonline-understanding-ghana-new-integrated-tax-administration
 GHA,Integrated Tax Administration System (ITAS),Ghana,other,commercial off-the-shelf,GRA Domestic Tax Revenue Division,,2026-08-19-myjoyonline-understanding-ghana-new-integrated-tax-administration
+GHA,ICUMS,ICUMS,customs,,Ghana Revenue Authority,,2026-04-08-gha-freight-forwarders-importers-raise-concern-over-publican-ai
+GHA,ICUMS,ICUMS,customs,,Ghana Revenue Authority,,2026-01-16-gha-ghana-to-plug-us-127bn-revenue-leakages-with-new-ai-customs-tool
 GIN,GUCEG,Guinean Single Window for Foreign Trade,customs,,,,2026-06-26-guceg-impact-360-sept-ans-guichet-unique
 GIN,Port Community System (PCS),Port Community System,other,,,,2026-06-26-guceg-impact-360-sept-ans-guichet-unique
 GIN,SIGMAT,Interconnected System for the Management of Goods in Transit,customs,,ECOWAS Commission,,2025-11-05-ecowas-sigmat-cote-divoire-guinea-liberia
@@ -140,8 +142,10 @@ MDG,TradeNet,Madagascar,customs,,,,2020-12-22-mdg-douanes-nouvelle-technologie-s
 MDG,SYDONIA,Madagascar,customs,ASYCUDA,Madagascar customs,,2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement
 MDG,TradeNet,Madagascar,customs,,Malagasy Community Network Services S.A.,,2015-12-22-mdg-arrete-36657-dematerialisation-dedouanement
 MDG,système automatisé de dédouanement,Madagascar,customs,,Direction Générale des Douanes,,2023-01-01-mdg-douanes-code-art-84-88-declaration-electronique
+MDG,Sydonia World,Sydonia World,customs,ASYCUDA World,Direction Generale des Douanes Madagascar,,2024-07-31-mdg-douanes-malagasy-lancement-du-projet-pilote-de-modernisation-du-system
 MLI,Sydonia World,Mali,customs,ASYCUDA World,Direction generale des douanes du Mali,,2018-12-31-mli-douanes-migration-sydoniaworld
 MLI,SYGOCE,Mali,other,,Primature,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
+MLI,SYDONIAWorld,SYDONIAWorld,customs,ASYCUDA World,Direction Generale des Douanes du Mali,,2026-02-23-mli-allocution-de-monsieur-le-directeur-general-des-douanes-a-loccasion-de
 MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,MCNet,,2013-01-31-moz-mcnet-balanco-jue-2012
 MOZ,Janela Unica Electronica (JUE),Mozambique,customs,,Alfandegas de Mocambique,,2012-09-03-moz-verdade-jue-obrigatoria
 MRT,SYDONIA World,Mauritanie,customs,ASYCUDA World (UNCTAD),Direction Generale des Douanes,,2026-01-01-mrt-douanes-guide-procedures-dedouanement
@@ -227,6 +231,7 @@ ZAF,Vehicle Targeting System (VTS),South Africa,other,International Vehicle Iden
 ZMB,ASYCUDAWorld,Zambia,customs,ASYCUDAWorld (UNCTAD),Zambia Revenue Authority,,2025-12-16-zmb-tma-asycudaworld-upgrade-agreement
 ZMB,ASYCUDA World,Zambia,customs,ASYCUDA World,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization
 ZMB,Zambia Electronic Single Window (ZESW),Zambia,customs,,Zambia Revenue Authority,,2026-06-23-zmb-wco-integrity-customs-modernization
+ZMB,ASYCUDA World,ASYCUDA World,other,,,,2026-09-01-zmb-auditor-general-report-2025-companion
 ZWE,COMESA Electronic Single Window System,Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
 ZWE,COMESA Electronic Certificate of Origin (e-CO),Zimbabwe,other,,COMESA,,2026-04-01-zwe-comesa-trade-customs-division
 ZWE,Zimbabwe Electronic Single Window,Zimbabwe,customs,,ZIMRA,,2023-01-01-zwe-zimra-electronic-single-window-system

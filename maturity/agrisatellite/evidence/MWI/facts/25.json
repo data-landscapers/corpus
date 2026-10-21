@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GEOCIF",
+   "country_label": "Malawi",
+   "class": "agrisat",
+   "platform": "ML and remote sensing, with Survey123 field data",
+   "owner": "NASA Harvest and FAO for the Ministry of Agriculture",
+   "tiers": "Admin-2 level"
+  }
+ ],
+ "note": "GEOCIF forecasts come from an international project, not a government service (the study ruled so in its run)."
+}

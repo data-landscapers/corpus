@@ -1,0 +1,47 @@
+{
+ "slug": "2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "transition",
+   "fact": "People of Internet says Personal Data Protection Law No. 151 of 2020 has a full compliance deadline of 1 November 2026.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Personal Data Protection Law No. 151 of 2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "People of Internet says the Executive Regulations of Law No. 151 of 2020 entered force in November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Personal Data Protection Law No. 151 of 2020",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "People of Internet says the Personal Data Protection Center has been operational since late 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Personal Data Protection Center",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "People of Internet says the Personal Data Protection Center's initial guidance has focused on consent and breach-notification requirements.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Personal Data Protection Center",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

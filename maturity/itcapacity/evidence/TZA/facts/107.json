@@ -1,0 +1,37 @@
+{
+ "slug": "2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The e-Government Authority says it keeps receiving improvements to Msaada AI from users' needs and feedback, a system it designed itself.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The e-Government Authority says its Msaada AI system is used by the Tanzania Tourist Board and the President's Office Public Service Management.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The e-Government Authority says Msaada AI, designed at its own research centre, is in use by two institutions.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Msaada AI",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

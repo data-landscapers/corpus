@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, exists, supervises and has sanctioning powers.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados (APD)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling is stated."
+}

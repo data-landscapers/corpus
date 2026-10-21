@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-12-mrt-empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Copernicus Sentinel Online says InsightEx's data scientist is building AI models to detect weeds, disease and pest damage from drone and satellite data for the TechghilAgro pilot with TECHGHIL, and AI yield prediction models are planned for the next phase.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "TechghilAgro",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

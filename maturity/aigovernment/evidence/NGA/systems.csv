@@ -2,3 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 NGA,GovGuide Nigeria,Nigeria,govai,Meta Llama,"Federal Ministry of Communications, Innovation and Digital Economy",,"2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access"
 NGA,Ask INU,Nigeria (Lagos State),govai,WhatsApp,Lagos State Domestic and Sexual Violence Agency (DSVA),subnational,2025-02-25-ai-chatbot-domestic-violence-portal
 NGA,Domestic and Sexual Violence Case Management System (DSVCMS),Nigeria (Lagos State),other,lagosdsvcms.org,Lagos State Domestic and Sexual Violence Agency (DSVA),subnational,2025-02-25-ai-chatbot-domestic-violence-portal
+NGA,GovGuide Nigeria,Nigeria,govai,web; Meta Llama models,"Federal Ministry of Communications, Innovation and Digital Economy; built by Publica AI with NCAIR",,2026-05-21-nga-fmcide-and-meta-launch-govguide-nigeria-an-ai-powered-government-servi
+NGA,Service-Wise GPT,Service-Wise GPT,govai,,Office of the Head of the Civil Service of the Federation,,2026-05-25-nga-nigeria-deploys-ai-sovereign-digital-infrastructure-to-drive-public-se
+NGA,GovGuideNigeria,Nigeria,govai,WhatsApp and web,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-05-22-nga-nigeria-unveils-ai-public-services-platform
+NGA,Service-Wide GPT,Nigeria,govai,Service-Wide GPT,Office of the Head of the Civil Service of the Federation,,2025-12-17-nga-federal-civil-service-deploys-ai-tool-trained-on-laws-service-rules

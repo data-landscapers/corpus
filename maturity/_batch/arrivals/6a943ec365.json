@@ -1,0 +1,88 @@
+{
+ "slug": "2025-12-11-zaf-invitation-to-bidders-to-submit-proposals-for-the-implementation-of-an",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Companies and Intellectual Property Commission (CIPC) invited bids (bid 10/2025/2026, closing 2026-02-06) for an AI-powered multi-channel transactional chatbot with natural language processing.",
+       "as_of": "2025-12-11",
+       "date_precision": "day",
+       "system": "CIPC AI-powered multi-channel transactional chatbot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CIPC AI-powered multi-channel transactional chatbot",
+       "country_label": "South Africa",
+       "class": "govai",
+       "platform": "",
+       "owner": "Companies and Intellectual Property Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

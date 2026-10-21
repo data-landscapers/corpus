@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Le360, citing expert Marouane Harmach, reports that the Direction generale des impots uses a chatbot to assist taxpayers.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "DGI chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGI chatbot",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

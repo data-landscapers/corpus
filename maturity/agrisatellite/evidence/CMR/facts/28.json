@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-cmr-cameroon-tests-an-innovative-census-strategy-in-crisis-zones",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO Cameroon says the government, with FAO and UNFPA, launched on 21 October 2025 a field test in Bamenda, Buea, Fongo Tongo and Mora of an earth observation method that uses remote sensing to estimate cultivated areas and crop types for the agriculture and livestock census.",
+   "as_of": "2025-10-21",
+   "date_precision": "day",
+   "system": "earth observation method for the General Census of Agriculture and Livestock",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

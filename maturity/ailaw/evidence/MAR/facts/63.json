@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "EuroMedAI says Organic Law No. 53.25, promulgated on 16 January 2026, names artificial intelligence tools among the means by which electoral offences can be committed.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "Organic Law No. 53.25",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "none",
+   "fact": "EuroMedAI says the electoral provisions are not part of a general law on AI.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

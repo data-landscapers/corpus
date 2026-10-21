@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-moz-mozambique-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:19.8",
+   "fact": "UNESCO's profile reports the ITU figure of 19.8% of Mozambique's population using the internet, last documented in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU internet use share",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

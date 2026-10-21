@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-uga-government-develops-national-ai-strategy-wants-computer-misuse-act-ame",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Justine Kasule Lumumba told Parliament's ICT committee the ministry has developed a draft National AI and Emerging Technologies Strategy, awaiting ministry top management before going to Cabinet.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "National AI and Emerging Technologies Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

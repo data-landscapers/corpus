@@ -25,6 +25,7 @@ ETH,Urban Flash Flood Forecasting System (UFFFS),Ethiopia (Addis Abeba pilot cit
 GAB,PUMA reception station (Transition Météorologique en Afrique),Gabon,metsat,Meteosat Second Generation,Direction de la Météorologie Nationale,,2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma
 GAB,Libreville weather radar,Gabon,other,radar,Direction de la Météorologie Nationale,,2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma
 GHA,NWCSAF,Ghana,metsat,"EUMETSAT MSG via Atlantic Bird 2, Tellicast",GMet and KNUST,,2022-07-06-gha-authorea-nwcsaf-high-impact-weather-forecasting
+GHA,GEOMAIZE,GEOMAIZE,other,,GSSTI with VITO,,2026-03-17-gha-geoglam-geomaize-yield
 GIN,WIS2box website with CAP composer,Guinea,other,WIS2box,ANM,,2026-02-05-crews-project-improves-meteorological-service-guinea
 GMB,MTG PUMA station,The Gambia,metsat,Meteosat Third Generation,"Department of Water Resources, meteorology unit",national,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations
 GMB,ClimSA station,The Gambia,metsat,ClimSA,"Department of Water Resources, meteorology unit",national,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations
@@ -37,6 +38,7 @@ MAR,Amtar supercomputer,Morocco,other,high-performance computer,DGM,,2025-12-21-
 MAR,Meteosat Third Generation,Maroc,metsat,Eumetcast Europe (Ku-band),DGM,,2025-01-07-mar-aujourdhui-dgm-meteosat-troisieme-generation
 MDG,PUMA 2015 station,Madagascar,metsat,MSG-3 IODC imagery,Direction Generale de la Meteorologie,,2019-01-01-mdg-wmo-tc-monitoring-forecasting-wfo-madagascar
 MLI,PUMA 2025 / ClimSA station,Mali,metsat,Meteosat Third Generation,Mali-Meteo,,2026-03-11-mli-apanews-mali-meteo-systeme-satellitaire-puma2025
+MLI,RIICE,Mali,other,Sentinel-1/2,AfricaRice/Ministry of Agriculture,,2026-05-14-aiccra-institutionnalisation-outil-riice-mali
 MOZ,Sistema de alerta antecipado,Moçambique,metsat,"satellite imagery, radar and observation network",INAM (with INGD and ICS),warning by INAM; dissemination by ICS radios and brigades; coordination by INGD,2023-09-11-moz-worldbank-sistema-alerta-antecipado-salva-vidas
 MOZ,Mozambique early warning system,Mozambique,metsat,,,,2025-03-17-moz-wmo-life-saving-early-warning-systems
 MRT,AGRIFEMIA,Mauritania,other,AI-based agro-hydro-meteorological early warning platform,Office national de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
@@ -55,6 +57,7 @@ RWA,EUMETCast (MSG/MTG),Rwanda,metsat,EUMETCast,METEO Rwanda,,2026-07-13-rwa-und
 RWA,EUMETSAT ground-based satellite receiver,Rwanda,metsat,EUMETSAT,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
 RWA,PUMA system (ECMWF products),Rwanda,other,PUMA,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
 SEN,Meteosat Third Generation data,ANACIM (Senegal),metsat,,ANACIM,,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest
+SEN,AgData Hub,Senegal,other,,ANACIM,,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
 SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,"Government of Sierra Leone (GCF-funded, AfDB Accredited Entity)",,2023-10-25-gcf-sle-sap033-2023-climate-information-systems
 SOM,Hydro Meteorological Working Group (HWG),Somalia,other,,Ministry of Energy and Water Resources,,2025-04-01-somalia-country-hydromet-diagnostics
 SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Aviation Authority,,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system

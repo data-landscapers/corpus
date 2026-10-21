@@ -1,0 +1,79 @@
+{
+ "slug": "2026-10-20-ben-presidence-de-la-republique-un-comite-national-du-numerique-cree",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The committee is to anticipate AI developments and alert authorities; no rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government use of an AI system is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a sector's public system is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or computing is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article concerns state data security, not a data protection law."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Decree 2026-579 of 2 September 2026 created a National Digital Committee under the President, with protection of strategic data among its priorities and a mandate to give a prior opinion on technology partnerships that could engage national digital sovereignty.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Comité national du Numérique",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Comité national du Numérique",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "Presidency of the Republic",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

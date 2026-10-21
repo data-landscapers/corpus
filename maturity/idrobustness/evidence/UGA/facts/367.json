@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Gender, Labour and Social Development and the SAGE head describe national identity cards, registered through NIRA, as carrying each person's recorded date of birth and being used to decide SAGE eligibility.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "national identity card (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national identity card (NIRA)",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification and Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

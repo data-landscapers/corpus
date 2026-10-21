@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-gin-elections-2026-en-guinee-la-hac-encadre-la-couverture-mediatique-des-m",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The Haute Autorité de la Communication's decision N°016/HAC/P/2026 of 25 April 2026, effective immediately, has article 17 strictly forbidding AI-manipulated deceptive content and deepfakes in private media coverage of the 31 May 2026 elections, with sanctions up to suspension from the campaign.",
+   "as_of": "2026-04-25",
+   "date_precision": "day",
+   "system": "Decision N°016/HAC/P/2026",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

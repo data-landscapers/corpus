@@ -1,0 +1,79 @@
+{
+ "slug": "2025-11-24-moz-bmchat-o-assistente-de-ia-do-banco-de-mocambique-para-atendimento-perm",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions data security standards only; no AI rule or authority."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "BmChat is a public-information chatbot, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No local model, dataset or compute is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says BmChat fits the bank's own digital transformation strategy; no national strategy."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No national standards body or standard is named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Diario Economico reports the Banco de Mocambique recently launched BmChat, an AI chatbot available 24 hours a day on WhatsApp, Facebook and its website, answering questions on statistics, credit data, interest and exchange rates and inflation.",
+       "as_of": "2025-11-24",
+       "date_precision": "day",
+       "system": "BmChat",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BmChat",
+       "country_label": "Mozambique",
+       "class": "govai",
+       "platform": "WhatsApp, Facebook, website",
+       "owner": "Banco de Mocambique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

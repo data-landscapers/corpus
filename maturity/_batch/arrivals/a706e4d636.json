@@ -1,6 +1,14 @@
-{"slug": "2026-10-19-nga-techcabal-cheaper-fibre-fees-dont-spark-investment", "studies": {
-"datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Data centres are named only as users of connectivity in Lagos and the FCT; no facility, tier or cloud region is stated."}}},
-"digitaldivides": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The article covers state right-of-way fees and fibre kilometres; no rural access programme or rural-urban use figures are stated."}}},
-"internationalbandwidth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only domestic fibre is discussed; no international route is stated."}}},
-"nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is named."}}}
-}}
+{
+ "slug": "2026-10-19-nga-techcabal-cheaper-fibre-fees-dont-spark-investment",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives state-level deployed fibre km and right-of-way fees; does not say a backbone links the capital to other regions or is being built or sold."
+    }
+   }
+  }
+ }
+}

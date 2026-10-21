@@ -1,0 +1,32 @@
+{
+  "slug": "2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap",
+  "studies": {
+    "aiabuse": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "People of Internet says the Draft Artificial Intelligence Law (2024) is in stakeholder consultation ahead of parliament and would set up the Egyptian Center for Responsible AI with audit and compliance-certification powers.", "as_of": "2026-06-23", "date_precision": "day", "system": "Draft Artificial Intelligence Law (2024)", "class": "aiharm"}
+    ], "systems": [{"system": "Egyptian Center for Responsible AI (ECRAI)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "proposed in the draft AI law", "tiers": ""}], "note": ""}}},
+    "aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+    "ailaw": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "People of Internet says the Draft Artificial Intelligence Law (2024) is moving through stakeholder consultation ahead of expected parliamentary consideration, and that Egypt has no statute naming deepfakes.", "as_of": "2026-06-23", "date_precision": "day", "system": "Draft Artificial Intelligence Law (2024)", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+    "aistrategy": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "People of Internet refers to Egypt's National AI Strategy 2025-2030 and its stated goal of a trustworthy AI ecosystem.", "as_of": "2026-06-23", "date_precision": "day", "system": "National AI Strategy 2025-2030", "class": "strategy"}
+    ], "systems": [], "note": ""}}},
+    "aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Egypt is stated."}}},
+    "cybersecuritylaw": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "People of Internet calls Law No. 175 of 2018 on Anti-Cyber and Information Technology Crimes Egypt's principal cybercrime statute.", "as_of": "2018", "date_precision": "year", "system": "Law No. 175 of 2018", "class": "law"},
+      {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "People of Internet says Egyptian courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025, with sentences from six-month suspended terms to two years and a fine of EGP 100,000 each.", "as_of": "2025-11", "date_precision": "month", "system": "Law No. 175 of 2018", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "dataprotectionlaw": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "People of Internet says Personal Data Protection Law No. 151 of 2020 has a full compliance deadline of 1 November 2026.", "as_of": "2025-11", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+      {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "People of Internet says the Executive Regulations of Law No. 151 of 2020 entered force in November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+      {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "People of Internet says the Personal Data Protection Center has been operational since late 2025.", "as_of": "2025", "date_precision": "year", "system": "Personal Data Protection Center", "class": "general"},
+      {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "People of Internet says the Personal Data Protection Center's initial guidance has focused on consent and breach-notification requirements.", "as_of": "2025", "date_precision": "year", "system": "Personal Data Protection Center", "class": "general"}
+    ], "systems": [], "note": ""}}},
+    "idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+    "opendiscussion": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The convictions are for content breaching family values, not stated to be about the government or public affairs; the criticism cited is of a law, not a named government decision."}}},
+    "publicconsultation": {"countries": {"EGY": {"facts": [
+      {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "People of Internet says the Draft Artificial Intelligence Law (2024) is moving through stakeholder consultation.", "as_of": "2026-06-23", "date_precision": "day", "system": "Draft Artificial Intelligence Law (2024)", "class": "consultation"}
+    ], "systems": [], "note": ""}}}
+  }
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-001",
+      "gaps": "No source held shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2026-10-21: the higher education ministry's admissions chatbot is an automated assistant in service in one body; no second body is held.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

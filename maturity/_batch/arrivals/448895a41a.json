@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-07-bfa-ecofin-video-verbalisation-bilan",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "vid\u00e9o-verbalisation",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "roadside cameras",
+       "owner": "Ministry of Security",
+       "tiers": ""
+      }
+     ],
+     "note": "Automated road-offence enforcement; no online service, portal or user count for citizens is stated."
+    }
+   }
+  }
+ }
+}

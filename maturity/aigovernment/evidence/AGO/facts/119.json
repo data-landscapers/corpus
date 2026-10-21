@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-12-ago-novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "INACOM says its relaunched portal now has a 24-hour chatbot with artificial intelligence that answers questions and tracks the status of processes.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "INACOM portal AI chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INACOM portal AI chatbot",
+   "country_label": "Angola",
+   "class": "govai",
+   "platform": "INACOM portal and WhatsApp",
+   "owner": "INACOM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

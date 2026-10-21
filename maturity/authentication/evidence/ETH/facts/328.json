@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ethio Telecom's teleSign app, launched 30-31 March 2026 with the Ministries of Foreign Affairs and Justice and the Federal Documents Authentication and Registration Service, checks users online through integration with the Fayda National Digital ID plus AI video liveness detection.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "teleSign",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "teleSign",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "mobile app and website",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Fayda National Digital ID",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

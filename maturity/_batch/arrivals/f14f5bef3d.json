@@ -1,0 +1,374 @@
+{
+ "slug": "2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "ANIP's mobile app includes Seyna, an AI-built chatbot that answers frequently asked questions and helps users make requests, presented at a press conference on 14 February 2025.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "Seyna",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Seyna",
+       "country_label": "Benin",
+       "class": "govai",
+       "platform": "ANIP BJ app",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "ANIP's eservices.anip.bj platform lets users obtain identification certificates, birth certificates and residence certificates online, as presented on 14 February 2025.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "eservices.anip.bj",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eservices.anip.bj",
+       "country_label": "Benin (eservices.anip.bj)",
+       "class": "eservices",
+       "platform": "web",
+       "owner": "ANIP",
+       "tiers": ""
+      },
+      {
+       "system": "ANIP BJ",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "ANIP says a double validation system has been built into the Registre national des personnes physiques to guarantee data authenticity and ease verification by administrations and businesses.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "Registre national des personnes physiques",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des personnes physiques",
+       "country_label": "Benin",
+       "class": "population",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The ANIP BJ mobile app lets users pay administrative fees through mobile money, as presented on 14 February 2025.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "ANIP BJ mobile money payment",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The ANIP BJ mobile app has an option to pay administrative fees by mobile money, as presented on 14 February 2025.",
+       "as_of": "2025-02-14",
+       "date_precision": "day",
+       "system": "ANIP BJ",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

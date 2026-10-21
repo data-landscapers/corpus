@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the October 2021 data protection law allows transfers abroad through authority authorisation, data subject consent, or specific exceptions.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Law Relating to the Protection of Personal Data and Privacy",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "means",
+   "fact": "Digital Policy Alert says the Data Protection Office issued standard contractual clauses for cross-border transfers in February 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "NCSA Data Protection Office",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

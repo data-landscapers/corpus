@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "People of Internet refers to Egypt's National AI Strategy 2025-2030 and its stated goal of a trustworthy AI ecosystem.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "National AI Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

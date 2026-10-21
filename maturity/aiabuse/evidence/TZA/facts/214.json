@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-02-tza-fake-ai-photos",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "FB Attorneys says Tanzania has no specific law regulating AI or deepfakes, and that the government's AI Strategic Framework acknowledges AI-generated misinformation and deepfakes are not comprehensively addressed in current law.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

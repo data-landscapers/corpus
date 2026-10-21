@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-17-nga-federal-civil-service-deploys-ai-tool-trained-on-laws-service-rules",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "PRNigeria reports that the Head of the Civil Service of the Federation announced the deployment of a Service-Wide GPT trained on the Constitution, Public Service Rules and circulars, which has recorded over 25,000 chats.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Service-Wide GPT",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "PRNigeria reports the Head of the Civil Service of the Federation saying the Service-Wide GPT, with over 25,000 chats, shows growing adoption across Ministries, Departments and Agencies.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Service-Wide GPT",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service-Wide GPT",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "Service-Wide GPT",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "EuroMedAI says a draft framework law known as Digital X.0, covering data governance, digital identity and interoperability, was reported in late 2025 to be under review at the General Secretariat of the Government.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital X.0",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

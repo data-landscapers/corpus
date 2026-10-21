@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-04-zaf-electoral-code-countering-disinformation-gn4138",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The Electoral Commission of South Africa issued by Government Gazette notice 4138 of 4 September 2026 an Electoral Code of Conduct binding on parties and candidates until results are declared, which requires AI-generated 'synthetic content' to be labelled before distribution and bars deceptive synthetic content intended to mislead.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Electoral Code of Conduct Countering Disinformation in the Local Government Elections",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electoral Code of Conduct Countering Disinformation in the Local Government Elections",
+   "country_label": "South Africa",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Electoral Commission of South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-nam-namibia-finalising-ai-data-security-laws",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Speaker Saara Kuugongelwa-Amadhila said Namibia is finalising a Draft Artificial Intelligence Bill to guide ethical AI deployment and a Cybercrime Bill to address digital threats including AI misuse.",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Draft Artificial Intelligence Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

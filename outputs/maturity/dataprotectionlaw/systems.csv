@@ -53,6 +53,7 @@ BFA,Loi n°001-2021/AN portant protection des personnes à l'égard du traitemen
 BFA,Commission de l'Informatique et des Libertés (CIL),CIL,authority,,State of Burkina Faso,national,2024-01-15-comprendre-protection-donnees-personnelles-burkina-faso
 BFA,Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel,Loi n°001-2021/AN,general,,Assemblée nationale,national,2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel
 BFA,Commission de l'Informatique et des Libertés (CIL),CIL,authority,,State of Burkina Faso,national,2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel
+BFA,Autorité de Régulation de la communication et du traitement des données à caractère personnel,merged CSC and CIL authority,authority,,,,2026-10-20-bfa-autorite-de-regulation-de-la-communication-et-du-traitement-des-donnee
 BWA,Data Protection Act No. 18 of 2024,Data Protection Act,general,,,national; public and private controllers,2026-07-28-mmegi-govt-e-payslip-fails-data-protection-compliance-test
 BWA,Information and Data Protection Commission,IDPC,authority,,,national,2026-07-28-mmegi-govt-e-payslip-fails-data-protection-compliance-test
 BWA,Data Protection Act No. 18 of 2024,Data Protection Act,general,,,national,2026-07-18-bwa-idpc-suspends-dpsm-epayslip-portal
@@ -149,6 +150,7 @@ GHA,National Data Sharing Policy,National Data Sharing Policy (NDSP),policy,,,,2
 GHA,"National Identity Register Regulations, 2012 (L.I. 2111), as amended 2026",National Identity Register Regulations,sectoral,,National Identification Authority,all organisations that use the Ghana Card for identity verification,2026-07-15-photocopying-ghana-card-illegal-fines-graphic
 GHA,"Data Protection Act, 2012 (Act 843)","Data Protection Act, 2012 (Act 843)",general,,Parliament of Ghana,data controllers and processors,2024-09-18-gha-justice-noah-adade-vrs-bolt-ghana-limited-bolt-holdings-ou-suit-no-c11
 GHA,Data Protection Commission,Data Protection Commission (DPC),authority,,Government of Ghana,national,2024-09-18-gha-justice-noah-adade-vrs-bolt-ghana-limited-bolt-holdings-ou-suit-no-c11
+GHA,Data Protection Commission,Data Protection Commission,authority,,,,2026-10-20-gha-data-protection-commission-warns-against-exposure-of-evacuated-ghanaians-personal
 GIN,Autorité de Protection des Données à caractère Personnel (APDP),APDP,authority,,Republic of Guinea (bill before the CNT),,2024-06-21-cnt-autorite-protection-donnees-apdp-en-debat
 GIN,Loi L/2016/037/AN relative à la cybersécurité et la protection des données à caractère personnel,Loi L/2016/037/AN,general,,Assemblée nationale de Guinée,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
 GIN,Autorité de Protection des données à caractère personnel,Autorité de Protection,authority,,,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -201,6 +203,7 @@ MAR,Loi 09-08,Loi n° 09-08 (protection des personnes physiques à l'égard du t
 MAR,CNDP,Commission nationale de contrôle de la protection des données à caractère personnel,authority,,,,2026-08-04-protection-des-donnees-la-confiance-moteur-de-leconomie-numerique
 MAR,CNDP,Commission nationale de contrôle de la protection des données à caractère personnel,authority,,,,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
 MAR,CNDP,Commission Nationale de contrôle de la protection des Données à caractère Personnel,authority,,,,2025-11-28-morocco-cndp-nouvelles-deliberations
+MAR,CNDP,Morocco,authority,,Government of Morocco,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MDG,Loi n° 2014-038 sur la protection des données à caractère personnel,Loi n° 2014-038,general,,,,2026-03-27-ugd-rapport-annuel-confidentialite-protection-donnees
 MDG,Commission Malagasy de l'Informatique et des Libertés (CMIL),CMIL,authority,,,,2026-03-27-ugd-rapport-annuel-confidentialite-protection-donnees
 MDG,Commission Malagasy de l'Informatique et des Libertés (CMIL),CMIL,authority,,,,2025-08-06-cmil-operationalisation
@@ -320,6 +323,8 @@ NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),H
 NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),HAPDP,authority,,State of Niger,,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel
 NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),HAPDP,authority,,State of Niger,,2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)
 NER,Law no. 2019-71 of 24 December 2019 amending law 2017-28,Loi 2019-71,general,,Republic of Niger,,2019-12-24 Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28)
+NER,Loi de decembre 2022 sur la protection des donnees,Loi 2022-59,general,,,,2026-08-01-ner-niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-car
+NER,HAPDP,Haute Autorité de Protection des Données à Caractère Personnel,authority,,,,2026-06-12-ner-niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,,,2026-09-16-nga-digitalbusiness-etat-reprend-ndpc-recettes-9-millions
@@ -355,6 +360,7 @@ NGA,"Cybercrimes (Prohibition, Prevention, etc.) Act 2015",Cybercrimes Act 2015,
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,National Assembly; enforced by the NDPC,national,2026-02-23-ndpc-probes-schools-data-privacy
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria Data Protection Commission,authority,,Federal Government; National Commissioner and CEO Vincent Olatunji,national,2026-02-23-ndpc-probes-schools-data-privacy
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,general,,Nigeria Data Protection Commission,,2024-06-12-nga-seven-firms-pay-n400-million-to-ndpc-as-sanction-for-data-breach
+NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),general,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
 SDN,Sudanese Data and Artificial Intelligence Authority,Sudanese Data and Artificial Intelligence Authority,authority,,Ministry of Digital Transformation and Communications,national,2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt

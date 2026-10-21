@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "We are Tech reports the DJAM platform and regulatory chatbots have been launched in Burkina Faso to streamline digital access and automate administrative processes, per Minister Aminata Zerbo/Sabane.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "DJAM platform and regulatory chatbots",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DJAM platform",
+   "country_label": "DJAM",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+{"slug":"2025-01-29-lby-cabinet-decision-40-2025-national-ai-digital-transformation-programme","studies":{
+"aiabuse":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Cabinet Decision 40 of 2025 creates an AI programme with no mandate over AI harms."}}},
+"aigovernment":{"countries":{"LBY":{"facts":[],"systems":[{"system":"National Programme for AI and Digital Transformation","country_label":"Libya","class":"other","platform":"","owner":"Government Communication Centre","tiers":""}],"note":"Decision sets up a programme with a mandate to speed government processes with AI; no AI system in use, tender or pilot is stated."}}},
+"aisectoral":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No sector AI tool is stated."}}},
+"aisystems":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No model, dataset or compute is stated as built or planned with a named site."}}},
+"digitalsovereignty":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Nothing on control or hosting of state data in the decision text."}}}}}

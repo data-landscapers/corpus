@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-20-xca-gabon-telecommunications-l-artac-engage-a-libreville-la-revision-de-ses",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon's ARCEP hosted the 4th extraordinary session of ARTAC, the Central African telecoms regulators' assembly, in Libreville on 20-21 October 2026, opened by the digital minister, per Agence Gabonaise de Presse.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARTAC",
+       "country_label": "Gabon",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

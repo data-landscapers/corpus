@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-001;EGY-002",
-   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "used",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-004;EGY-003",
+      "gaps": "No published count of cases investigated, prosecuted or decided under the law is held.",
+      "note": "Stage 4 on 2026-10-21: courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025. No count of cases is published, so not 5.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

@@ -8,3 +8,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,ZMB,gov.policy--data-localisation-policies,review,no evidence,4,ZMB-002;ZMB-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,STP,gov.policy--data-localisation-policies,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
 2026-10-17,NGA,gov.policy--data-localisation-policies,fact,4,4,NGA-023;NGA-011;NGA-009,Arrivals added NGA-031; NGA-032; stage unchanged.
+2026-10-21,DZA,gov.policy--data-localisation-policies,fact,3,4,DZA-003;DZA-004,"Stage 4c: a policy digest names the telecoms regulator's 2017 rule requiring public cloud operators to host data in Algeria, issued for the operators it licenses; restaged from every row held."
+2026-10-21,ETH,gov.policy--data-localisation-policies,fact,3,4,ETH-004;ETH-002,Stage 4c: a policy digest names the Communications Authority's 2021 directive requiring telecom providers to process consumer data in Ethiopia; restaged from every row held.

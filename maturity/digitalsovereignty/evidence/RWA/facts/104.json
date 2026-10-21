@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "Digital Policy Alert says the 2017 National Data Revolution Policy requires critical government data to be hosted in a national data centre.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "National Data Revolution Policy",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

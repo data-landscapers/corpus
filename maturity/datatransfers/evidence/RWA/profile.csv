@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,rule,standing,coverage,in-force,2024-02,RWA-001,,
-RWA,rule,use,coverage,means,2024-02,RWA-002,,
+RWA,rule,standing,coverage,in-force,2024-02,RWA-001;RWA-003,,
+RWA,rule,use,coverage,means,2024-02,RWA-002;RWA-004,,

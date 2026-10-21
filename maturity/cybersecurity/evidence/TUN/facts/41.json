@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-13-tun-leconomistemaghrebin-tribune-gouvernance-ia-quatre-conditions",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The column says the ANCS was created by decree-law no. 2023-17 to replace the ANSI.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ANCS",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The column says tunCERT declared more than 413,000 security incidents in 2024, and cites the ANCS for over 20,000 cyberattacks recorded in 2024-2025.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "tunCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCS",
+   "country_label": "Agence nationale de cybersecurite",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-20-gha-data-protection-commission-warns-against-exposure-of-evacuated-ghanaians-personal",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Ghana's Data Protection Commission said the Ministry of Foreign Affairs and Parliament are registered data controllers in good standing whose registration does not exempt them from continuing obligations under the Data Protection Act (Act 843).",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Act (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Ghana's Data Protection Commission issued a statement reported on 2026-10-20 warning the Minority Caucus, the Ministry of Foreign Affairs and media houses over disclosure of the personal data of 1,964 evacuees, and announced a regulatory review under Act 843.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Ghana's Data Protection Commission said the Ministry of Foreign Affairs and Parliament are registered data controllers in good standing whose registration does not exempt them from continuing obligations under the Data Protection Act (Act 843). It urged redaction of identifiers and registered-controller duties, with no decision against a named organisation.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Act (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

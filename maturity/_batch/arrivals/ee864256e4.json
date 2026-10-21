@@ -1,0 +1,17 @@
+{"slug": "2026-06-30-gha-myjoyonline-deepfakes-ai-cloning-mahama-arrests", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "MyJoyOnline says Ghana's Cybersecurity Act, 2020 (Act 1038), covering impersonation, fraud and other cyber offences, can be applied to AI-assisted crimes such as voice cloning and manipulated videos used in scams, though it does not regulate AI itself.", "as_of": "2026-06-30", "date_precision": "day", "system": "Cybersecurity Act, 2020 (Act 1038)", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "MyJoyOnline says the Ghana Police Service arrested eleven individuals, including Nigerian nationals, in May 2026 after a deepfake video of President Mahama was spread on social media.", "as_of": "2026-05", "date_precision": "month", "system": "Ghana Police Service", "class": "aiharm"}
+], "systems": [{"system": "Cybersecurity Act, 2020 (Act 1038)", "country_label": "Ghana", "class": "aiharm", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "MyJoyOnline says Ghana currently has no standalone law specifically regulating artificial intelligence.", "as_of": "2026-06-30", "date_precision": "day", "system": "", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"cybersecuritylaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "MyJoyOnline names Ghana's Cybersecurity Act, 2020 (Act 1038) as existing law covering impersonation, fraud and other cyber-related offences.", "as_of": "2020", "date_precision": "year", "system": "Cybersecurity Act, 2020 (Act 1038)", "class": "law"}
+], "systems": [], "note": "The May 2026 deepfake arrests are not said to be under the Act, so no use is recorded."}}},
+"opendiscussion": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The May 2026 arrests concern a deepfake video, not stated speech about the government; not recorded as punishment."}}},
+"police": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on station records."}}}
+}}

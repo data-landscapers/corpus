@@ -1,0 +1,8 @@
+{"slug": "2026-09-10-lbr-transforming-taxpayer-services-lra-advances-ai-powered-contact-center", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "The Liberia Revenue Authority says in its own post that it is developing an AI-powered Contact Center, with the Kwagei Group, to give taxpayers tax and customs information, and that a working retreat prepared the tax and customs knowledge base for it.", "as_of": "2026-09-10", "date_precision": "day", "system": "LRA AI-powered Contact Center", "class": "govai"}],
+"systems": [{"system": "LRA AI-powered Contact Center", "country_label": "Liberia", "class": "govai", "platform": "", "owner": "Liberia Revenue Authority, Taxpayer Services Division, with Kwagei Group", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The contact center gives information and guidance and is not yet operating, with no score, forecast or decision described."}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document does not say an AI model or dataset is built in the country."}}}
+}}

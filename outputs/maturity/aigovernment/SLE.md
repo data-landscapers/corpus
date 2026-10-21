@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [The Ministry of Basic and Senior Secondary Education developed EDITH, an AI system for ministry officials' information-management tasks, by March 2026, and is preparing handover to its IT Department from pilot status](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** EdTech Hub reported in July 2026 that the education ministry's eight-person delivery team [uses an internal WhatsApp chatbot built on GPT-4 most days](<https://edtechhub.org/case-study/the-graduate-who-brought-ai-to-sierra-leones-ministry-of-education/>) to pull teacher and pupil numbers and exam results for reports. The Ministry of Basic and Senior Secondary Education [developed EDITH, an AI system for officials' information management, by March 2026](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>), and was moving it out of pilot.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>).
+**Several bodies.** Only the education ministry is held with AI in service. The nearest held fact is [EdTech Hub's account](<https://edtechhub.org/case-study/the-graduate-who-brought-ai-to-sierra-leones-ministry-of-education/>). Both tools serve the education ministries' own staff.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is [EDITH's development](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>), which states no rules.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.

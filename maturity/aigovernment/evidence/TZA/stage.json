@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "no evidence",
-      "use": "",
-      "bodies": "",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says whether government bodies use AI.",
-      "note": "Rebuild 2026-10-20: the Ports Authority chatbot was built and tested by a university, not by a government body, so question 1 is not answered.",
-      "as_at": "2026-10-20"
+      "stage_sources": "TZA-002;TZA-003",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-10-21: the e-Government Authority's Msaada AI serves two institutions, one government platform serving several; no rules or register are held.",
+      "as_at": "2026-10-21"
     }
   ]
 }

@@ -2,16 +2,20 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,AGT in-house AI system,Angola,localai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 BDI,AgriHyphen AI,Burundi,localai,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
 BEN,Fon voice-to-voice AI model,Benin,localai,NVIDIA A100/H100 GPUs,IIDIA and ASIN,,2025-06-30-techafricanews-benin-fon-voice-ai-lab
+BEN,Fon voice-to-voice AI model,Benin,localai,,IIDIA and ASIN,,2025-06-24-ben-benin-hosts-the-regional-innovation-and-digital-technology-lab-with-a
 BFA,national AI model,Burkina Faso,localai,,Ministere de la Transition digitale,,2026-08-15-burkina-faso-nigeria-digital-cooperation-ouagadougou
 BFA,CITADEL Mooré-French translation tool,Burkina Faso,localai,,"CITADEL, Virtual University of Burkina",,2025-10-23-bfa-bma-mtdpce-rtb-ai-partnership
 BFA,L'Essentiel.bf,Burkina Faso,localai,web and mobile app,CITADEL and Data Lab,,2026-10-15-bfa-l-essentiel-bf-plateforme-numerique-francais-moore
 CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CIV,Projet d'appui au renforcement de l'administration electronique (PARAE),Cote d'Ivoire,other,,"Government of Cote d'Ivoire with AfDB, 60 billion FCFA",,2026-08-10-cote-divoire-afdb-parae-egovernment-financing
+CIV,laboratoire d'IA et de big data (PARAE),Côte d'Ivoire,localai,,Ministry of Digital Transition; financed by the African Development Bank,,2026-04-15-civ-cote-d-ivoire-la-bad-finance-un-laboratoire-d-ia-et-de-big-data-pourqu
 CMR,GPT Cameroon,Cameroon,localai,large language model (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,Edge computing nodes,Cameroon,localai,15 solar-microgrid edge nodes (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,GPU Cloud Africa,Cameroon,localai,NVIDIA GPU cloud,ST Digital,,2025-02-12-st-digital-gpu-cloud-africa-itweb
+CMR,LAD-IA (Laboratoire d'Analyse de Données et d'Intelligence Artificielle),Cameroon,localai,,MINPOSTEL,,2026-01-28-cmr-avis-d-appel-a-manifestation-d-interet-n0000002-ami-mpt-sg-dag-sdbm-sm
 COD,Lingala linguistic data collection project,DRC,localai,,Ministry of Digital Economy with UNDP,,2026-08-07-drc-digital-code-public-awareness-campaign-launched
+COD,correction automatisée de l'Examen d'État,DR Congo,localai,,Ministry of National Education and New Citizenship,,2025-12-21-cod-1ere-edition-des-casp-raissa-malu-presente-l-ia-comme-un-outil-d-effic
 COG,African Center for Research in Artificial Intelligence (CARIA),Congo,localai,,Government of Congo,,2026-04-21-congo-russia-digital-ai-cooperation-caria-techafricanews
 COG,Lingala and Kituba digital corpus,Congo,localai,,"Ministry of Posts, Telecommunications and Digital Economy, with UNDP",,2026-05-06-strategie-nationale-ia-langues-nationales-pnud-ldb
 COM,Komori TTS,Comoros,localai,web application (Komori IA site),Soilahoudine Mohamed (individual),,2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori
@@ -65,6 +69,7 @@ MAR,Sovereign Meeting Assistant,Morocco,localai,Marketplace souveraine,,,2026-09
 MAR,Nexus AI Factory,Morocco,localai,,,,2026-09-01-mar-aujourdhui-data-centers-avec-quelle-electricite
 MAR,Nexus AI Factory,Morocco,localai,,,,2026-08-18-mar-telquel-ai-data-centers-energy-water
 MAR,Igoudar Digital Complex,Morocco,localai,,CDG and Mohammed VI Investment Fund (backers),,2026-08-18-mar-telquel-ai-data-centers-energy-water
+MAR,CNDP LLM platform,Morocco,localai,,CNDP,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
 MLI,African Next Voices Bambara dataset (AFVoices) and ASR models,Mali,localai,Hugging Face,RobotsMali AI4D Lab,,2025-11-26-mli-robotsmali-african-next-voices-bambara

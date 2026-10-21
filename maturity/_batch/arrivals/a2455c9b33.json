@@ -1,0 +1,23 @@
+{
+ "slug": "2024-11-04-syc-seychelles-to-test-digital-traffic-tech-for-road-offences",
+ "studies": {
+  "police": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Acusensus digital traffic enforcement trial",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "cameras",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": "Road-offence camera trial; no police station record system is stated."
+    }
+   }
+  }
+ }
+}

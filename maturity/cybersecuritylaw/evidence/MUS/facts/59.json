@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-04-mus-le-bureau-du-dpp-aborde-les-deepfakes-et-la-violence-numerique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Director of Public Prosecutions' April 2024 newsletter cites the Cybersecurity and Cybercrime Act 2021 as the law under which obscene deepfakes made with intent to harm carry criminal penalties.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

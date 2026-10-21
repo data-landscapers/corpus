@@ -1,0 +1,15 @@
+{"slug": "2025-06-12-mrt-empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro", "studies": {
+"agrisatellite": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "Copernicus Sentinel Online reports a pilot by InsightEx with the National Employment Agency (TECHGHIL) in which the TechghilAgro app and admin dashboard give near-real-time Sentinel-2 vegetation and irrigation indicators for rice farms in Rosso and R'kiz, with a second season planned for October 2025.", "as_of": "2025-06-12", "date_precision": "day", "system": "TechghilAgro", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "reach", "value": "counted", "fact": "Copernicus Sentinel Online says the TechghilAgro pilot reached 102 rice farmers (21 in Rosso, 81 in R'kiz) over 612 hectares in its first season, with 737 app interactions.", "as_of": "2025-06-12", "date_precision": "day", "system": "TechghilAgro", "class": "agrisat"}],
+"systems": [{"system": "TechghilAgro", "country_label": "Mauritania", "class": "agrisat", "platform": "Sentinel-2 mobile app and admin dashboard", "owner": "InsightEx with National Employment Agency (TECHGHIL)", "tiers": "two pilot sites, Rosso and R'kiz"}], "note": ""}}},
+"aisectoral": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Copernicus Sentinel Online says InsightEx's data scientist is building AI models to detect weeds, disease and pest damage from drone and satellite data for the TechghilAgro pilot with TECHGHIL, and AI yield prediction models are planned for the next phase.", "as_of": "2025-06-12", "date_precision": "day", "system": "TechghilAgro", "class": "sectorai"}],
+"systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Training described is for farmers on one pilot app, not a civil-service digital-skills programme."}}},
+"digitalskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Five farmer training sessions in one pilot are not a national digital-skills programme."}}},
+"metsatellite": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document concerns farming use of Sentinel-2, nothing on the national weather service."}}},
+"schoolinternet": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document does not mention schools."}}},
+"startups": {"countries": {"MRT": {"facts": [], "systems": [], "note": "InsightEx is named as a startup, but no startup law, labelling or public fund is stated."}}},
+"techhubs": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document names no hub, incubator or technology park."}}}
+}}

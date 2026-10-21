@@ -1,0 +1,90 @@
+{
+ "slug": "2025-11-10-nga-public-hearing-on-national-digital-economy-and-e-governance-bill-2025",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill is said to provide risk-based AI governance but no harm, rule text or authority is named."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Senate and House joint committees held a public hearing on the National Digital Economy and e-Governance Bill 2025, which the Ministry says seeks ethical, transparent and risk-based governance of emerging technologies such as AI.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "National Digital Economy and e-Governance Bill 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Nigeria."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill mandates digital transformation of public institutions; nothing is said about public bodies sharing data."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Senate and House joint committees held a one-day public hearing on the National Digital Economy and e-Governance Bill 2025 with public and private sector stakeholders, and the Ministry says the bill was presented to stakeholders in all 36 states and the FCT.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "National Digital Economy and e-Governance Bill 2025",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

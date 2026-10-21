@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-18-mar-cndp-communique-ia-protection-donnees-auditions",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CNDP states that Law 09-08 on the protection of individuals regarding personal data processing, promulgated by Dahir 1-09-15 of 18 February 2009 (BO 5714 of 5 March 2009), governs AI processing of personal data.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNDP, created by the Dahir promulgating Law 09-08, says it supervises compliance of data processing, including AI, with that law.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

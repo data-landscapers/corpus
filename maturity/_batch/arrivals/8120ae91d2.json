@@ -1,0 +1,144 @@
+{
+ "slug": "2025-06-25-mwi-malawi-s-higher-education-minister-dr-kabwila-reaffirms-govt-commitmen",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Higher Education Minister Jessie Kabwila acknowledged that Malawi has not yet passed a dedicated AI law.",
+       "as_of": "2025-06-25",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2028",
+       "fact": "Minister Kabwila cited Malawi's National Digitalisation Policy (2023-2028) among its legal foundations; the document does not describe its scope.",
+       "as_of": "2025-06-25",
+       "date_precision": "day",
+       "system": "National Digitalisation Policy",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Digitalisation Policy",
+       "country_label": "Malawi",
+       "class": "national",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  }
+ }
+}

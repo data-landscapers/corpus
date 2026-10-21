@@ -1,6 +1,6 @@
 # Agricultural use of satellite data: satellite data in agriculture
 
-*As at 2026-10-18.*
+*As at 2026-10-21.*
 
 ## The norm
 
@@ -21,14 +21,21 @@ The African Space Strategy asks that space-derived products be used for decision
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
-| 3 Established | 4 |
-| 2 Nascent | 40 |
+| 4 Operating | 3 |
+| 3 Established | 6 |
+| 2 Nascent | 37 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 5 |
 
 ## Countries
+
+### Burkina Faso: 4 Operating
+
+The meteorological agency publishes a ten-day satellite crop bulletin (2026); how many farmers it reaches is not known.
+
+- ANAM describes its ten-day agro-meteorological bulletin for Burkina Faso as a current product carrying NDVI and NDVI anomalies with rainfall, temperature and humidity anomalies ([source, 2026-10](https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/)).
+- ANAM publishes the bulletin every ten days, the newest listed update covering 13-19 October 2026 ([source, 2026-10](https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/)).
 
 ### Nigeria: 4 Operating
 
@@ -48,6 +55,12 @@ A farming service using satellite data was in use in 2025; regular published out
 
 - The CGIAR tool series says the WaPOR-based Water Use Tool is used by the WaPOR Digital Unit at the Ministry of Agriculture and Rural Development, hosted by its Department of Statistics and Strategies, and uses 20 m WaPOR satellite data to compute dekadal irrigation water use and map irrigated and rainfed parcels, with a dashboard for the Mitidja West scheme ([source, 2025-01-01](https://cgspace.cgiar.org/server/api/core/bitstreams/ecbc9233-d7ab-4c68-ac2b-4ce6928ecb05/content)).
 
+### Egypt: 3 Established
+
+A government satellite crop map was produced for the 2023-24 winter season; whether it is published on a schedule is not known.
+
+- Daily News Egypt reports NARSS and the Ministry of Agriculture and Land Reclamation presented a crop map for the 2023-24 winter season, with each governorate using remote sensing data to inventory and classify wheat, clover and sugar beet ([source, 2024-11-05](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/)).
+
 ### Mauritania: 3 Established
 
 A farming service using satellite data was in use in 2025; regular published outputs are not on record.
@@ -65,6 +78,12 @@ A farming service using satellite data was in use in 2026; regular published out
 A farming service using satellite data was in use in 2025; regular published outputs are not on record.
 
 - The agriculture ministry states that, with FSRP support, ANAMET has been equipped with a satellite-image reception antenna and now accesses satellite data used for the agro-hydro-climatic forecasts it prepares each year for farmers and planners ([source, 2025-10-23](https://agriculture.gouv.tg/au-coeur-de-linnovation-climatique-une-nouvelle-meteo-pour-une-agriculture-plus-resiliente/)).
+
+### Zambia: 3 Established
+
+A national satellite crop monitor was launched across all provinces in 2024; whether it publishes on a schedule is not known.
+
+- AICCRA reports that Zambia's National Crop Monitor, a GIS-based GEOGLAM tool using MODIS, VIIRS, CHIRPS, Landsat and Sentinel 2 data, was launched at a Lusaka workshop with provincial teams from Zambia's 10 provinces ([source, 2024-08-16](https://aiccra.cgiar.org/news/zambia-launches-national-crop-monitor-enhance-agricultural-resilience-amidst-drought-crisis)).
 
 ### Angola: 2 Nascent
 
@@ -85,12 +104,6 @@ Satellite data was being put to use in farming in 2026; a service in use is not 
 
 - University of Botswana researchers used CHIRPS satellite rainfall and CHIRTS satellite-derived temperature data (25 km) to compute drought indices and test them against national crop-yield data for agricultural drought monitoring in Botswana ([source, 2026-03-25](https://doi.org/10.3390/cli14040077)).
 - University of Botswana researchers used CHIRPS satellite rainfall estimates (1981-2024, 25 km) to regionalise Botswana into drought zones and recommended building Nino 3.4 and SOI indices into national drought forecasting and early-warning systems ([source, 2026-03-20](https://doi.org/10.1007/s00704-026-06154-6)).
-
-### Burkina Faso: 2 Nascent
-
-Satellite data was being put to use in farming in 2024; a service in use is not on record.
-
-- SNV says its GARBAL call service, run since 2015 with the Ministry of Animal Resources and ANAM, integrates satellite data with weather station and government data to advise farmers and herders ([source, 2024-07-01](https://www.snv.org/update/using-satellite-data-to-transform-agri-food-in-burkina-faso)).
 
 ### Burundi: 2 Nascent
 
@@ -140,13 +153,6 @@ Satellite data was being put to use in farming in 2026; a service in use is not 
 Satellite data was being put to use in farming in 2026; a service in use is not on record.
 
 - IGAD, under World Bank/IDA-financed FSRP-AF, sought a consultant in March 2026 to monitor and forecast crop conditions across the IGAD region using satellite-derived NDVI, VCI and soil moisture, feeding ICPAC's regional agricultural early warning dashboards (regional scope, not Djibouti-specific) ([source, 2026-03-05](https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/)).
-
-### Egypt: 2 Nascent
-
-Satellite data was being put to use in farming in 2026; a service in use is not on record.
-
-- ESA used Copernicus Sentinel-2 imagery from 2015 and 2025 to show reclaimed irrigated cropland in Egypt's Western Desert, stating such data are useful for mapping land use, crop type and crop health ([source, 2026-06-26](https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland)).
-- FAO's WaPOR Phase 2 project, in partnership with Egypt's Ministry of Water Resources and Irrigation and Ministry of Agriculture and Land Reclamation, produced a 10 m Sentinel-2 crop type map of Mallawi, Minya for 2023-2024, published 2026-06-24 ([source, 2026-06-24](https://data.apps.fao.org/catalog/dataset/59eee02c-ff3f-43d1-a7d1-a85b087fb2bf)).
 
 ### Eritrea: 2 Nascent
 
@@ -310,12 +316,6 @@ Satellite data was being put to use in farming in 2026; a service in use is not 
 
 - KijaniSpace deployed a field monitoring station at Greater Hope Farm, Mayuge District, as part of a crop farming pilot to be integrated with its Space-IoT Box and Copernicus Earth Observation data for irrigation, crop health and advisory services ([source, 2026-08-03](https://www.kijanispace.eu/2026/08/03/kijanispace-deploys-smart-field-monitoring-infrastructure-at-greater-hope-farm-in-uganda/)).
 - NASA Harvest, which uses satellite imagery for agriculture, and its Africa director Catherine Nakalembe of the University of Maryland map cropland, classify crop types and estimate yields in Uganda, Kenya and Senegal using machine learning ([source, 2026-03](https://restofworld.org/2026/ai-agriculture-local-data/)).
-
-### Zambia: 2 Nascent
-
-Satellite data was being put to use in farming in 2025; a service in use is not on record.
-
-- Digital Earth Africa and SASSCAL agreed to build the AgriWatch dashboard on DE Africa Earth-observation products for crop-cycle, rangeland and rainfall monitoring, with AgriWatch covering this country among the six SASSCAL states ([source, 2025-09-01](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/)).
 
 ### Zimbabwe: 2 Nascent
 

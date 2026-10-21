@@ -1,0 +1,7 @@
+{"slug": "2025-06-30-gha-csa-cert-gh-alert-deepfake-fake-investments-drugs", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The advisory warns of deepfakes and says the CSA works with platforms to remove them, but cites no rule, mandate or dated takedown."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Ghana is stated."}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [{"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "The Cyber Security Authority's CERT-GH issued public advisory CSA/CERT/MPA/2025-06/01 on 30 June 2025 warning of AI-generated deepfake videos promoting fake investments and drugs.", "as_of": "2025-06-30", "date_precision": "day", "system": "Cyber Security Authority (CERT-GH)", "class": "response"}], "systems": [{"system": "Cyber Security Authority (CERT-GH)", "country_label": "Cyber Security Authority", "class": "response", "platform": "", "owner": "Cyber Security Authority", "tiers": ""}], "note": ""}}}
+}}

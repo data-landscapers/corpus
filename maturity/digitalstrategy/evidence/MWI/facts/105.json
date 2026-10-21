@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-25-mwi-malawi-s-higher-education-minister-dr-kabwila-reaffirms-govt-commitmen",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2028",
+   "fact": "Minister Kabwila cited Malawi's National Digitalisation Policy (2023-2028) among its legal foundations; the document does not describe its scope.",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "National Digitalisation Policy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digitalisation Policy",
+   "country_label": "Malawi",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

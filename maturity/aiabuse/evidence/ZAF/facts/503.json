@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-21-zaf-deepfakes-and-south-african-law-remedies-on-paper-gaps-in-practice",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "A The Conversation analysis of September 2025 says South African statutes cover deepfake harms: the Cybercrimes Act 19 of 2020 criminalises electronic publication of intimate images without consent, and the Electoral Act 73 of 1998 bans publishing false information to influence elections.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Cybercrimes Act 19 of 2020; Electoral Act 73 of 1998",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

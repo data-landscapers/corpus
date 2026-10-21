@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Digital Policy Alert says Rwanda's National Cyber Security Authority was established in July 2017 and oversees data governance.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "National Cyber Security Authority",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Digital Policy Alert says Rwanda launched its National Cybersecurity Strategy in August 2024, with seven objectives.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Cybersecurity Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

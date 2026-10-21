@@ -1,122 +1,30 @@
 {
  "slug": "2026-09-28-bwa-dailynews-crvs-strategic-plan",
  "studies": {
-  "admindata": {
+  "businessregister": {
    "countries": {
     "BWA": {
      "facts": [],
      "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
+     "note": "Document covers a CRVS plan only; states nothing on this register."
     }
    }
   },
-  "authentication": {
+  "electoralregister": {
    "countries": {
     "BWA": {
      "facts": [],
      "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
+     "note": "Document covers a CRVS plan only; states nothing on this register."
     }
    }
   },
-  "birthidlink": {
+  "landregister": {
    "countries": {
     "BWA": {
      "facts": [],
      "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "internationalstandards": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "populationregister": {
-   "countries": {
-    "BWA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document is a plan launch; states no delivered system, figure or value the study asks."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "BWA": {
-     "facts": [
-      {
-       "sub_indicator": "civil",
-       "aspect": "governance",
-       "value": "plan:current",
-       "fact": "Botswana's Ministry of Labour and Home Affairs launched the CRVS Strategic Implementation Plan 2026-2031, which names a digital CRVS data management system as a key outcome (BOPA/Daily News).",
-       "as_of": "2026-09-24",
-       "date_precision": "day",
-       "system": "Civil Registration and Vital Statistics Strategic Implementation Plan (CRVSSIP) 2026-2031",
-       "class": "civil"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "Document covers a CRVS plan only; states nothing on this register."
     }
    }
   }

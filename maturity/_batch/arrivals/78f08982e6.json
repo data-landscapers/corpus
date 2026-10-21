@@ -1,0 +1,11 @@
+{"slug": "2026-10-20-zaf-borrowed-trust-africa-and-algorithms", "studies": {
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link in South Africa."}}},
+"civilregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on digital civil registration in South Africa."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Names the National Credit Act as a consumer-credit law but does not say it covers digital financial services, complaints or enforcement."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Biometric ID is discussed for Africa in general; no South African ID system described."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No survey share of adults with an account given."}}},
+"populationregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on a population register in South Africa."}}},
+"registry": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on a registry system in South Africa."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on revenue collection."}}}
+}}

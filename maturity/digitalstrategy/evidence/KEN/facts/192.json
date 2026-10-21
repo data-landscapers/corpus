@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-29-ken-digital-leaders-spotlight-kenya",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "GovStack cites Kenya's Digital Master Plan (2022-2032) as setting the aim of digitalising 80% of government services.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Digital Master Plan (2022-2032)",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2032",
+   "fact": "GovStack names the Digital Master Plan's period as 2022-2032.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Digital Master Plan (2022-2032)",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

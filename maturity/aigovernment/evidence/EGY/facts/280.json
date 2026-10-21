@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-25-egy-caoa-kmt-ai-chatbot-civil-service-launch",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Central Agency for Organization and Administration launched the AI chatbot KMT, which answers more than 50,000 civil-service legal and administrative questions for civil servants and the public via its website, WhatsApp and Facebook, according to the USAID Economic Governance Activity press release.",
+   "as_of": "2024-02-25",
+   "date_precision": "day",
+   "system": "KMT",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KMT",
+   "country_label": "KMT",
+   "class": "govai",
+   "platform": "CAOA website, WhatsApp, Facebook",
+   "owner": "Central Agency for Organization and Administration (CAOA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

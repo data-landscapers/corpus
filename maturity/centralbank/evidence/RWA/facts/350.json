@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Digital Policy Alert says the National Bank of Rwanda issued licensing procedures for digital payment providers in September 2023 and earlier licensing rules for electronic money issuers.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "National Bank of Rwanda",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

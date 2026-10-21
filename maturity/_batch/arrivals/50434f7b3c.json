@@ -1,0 +1,24 @@
+{
+  "slug": "2026-03-29-lbr-oraclenews-kamara-ai-taskforce-memorandum",
+  "studies": {
+    "aiabuse": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "Oracle News Daily reports Abdullah Kamara's memorandum saying Liberia currently lacks clear guardrails for how AI should be used or governed, and that the Ministry of Post & Telecommunications, the Liberia Telecommunications Authority and the National Security Agency have yet to establish AI-specific frameworks.", "as_of": "2026-03-29", "date_precision": "day", "system": "", "class": "aiharm"}
+    ], "systems": [], "note": ""}}},
+    "aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a recommendation for interim guidelines on public sector AI use; no government use is stated."}}},
+    "ailaw": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Oracle News Daily reports Abdullah Kamara's memorandum saying Liberia lacks clear guardrails on AI and recommending legislation to regulate high-risk AI applications.", "as_of": "2026-03-29", "date_precision": "day", "system": "", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+    "aistrategy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The memorandum recommends a national AI policy and taskforce; it does not state that none exists or is being written."}}},
+    "aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No AI built or hosted in Liberia is stated; AI tools in use are said to be hosted abroad."}}},
+    "civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
+    "datacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data centre in Liberia is stated."}}},
+    "dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Data protection is raised as a risk; no law or bill is named."}}},
+    "digitalskills": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "Oracle News Daily says the Liberia Digital Transformation Project, chaired by Abdullah Kamara, trained 10,000 young Liberians in digital skills as promised by President Joseph Boakai.", "as_of": "2026-03-29", "date_precision": "day", "system": "Liberia Digital Transformation Project", "class": "publicskills"}
+    ], "systems": [{"system": "Liberia Digital Transformation Project", "country_label": "Liberia", "class": "publicskills", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "idrobustness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+    "nationaldatacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data centre in Liberia is stated."}}},
+    "schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+  }
+}

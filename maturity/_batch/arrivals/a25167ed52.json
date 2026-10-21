@@ -1,0 +1,9 @@
+{"slug": "2024-11-20-cpv-cabo-verde-inicia-fase-de-implementacao-do-acordo-estrategico-com-a-mi", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "The Government of Cabo Verde says the implementation phase of its Microsoft Digital Development Program has begun, with Copilot AI technology to be implemented in public administration to optimise workflows.", "as_of": "2024-11-20", "date_precision": "day", "system": "Microsoft Copilot", "class": "govai"}], "systems": [{"system": "Microsoft Copilot", "country_label": "Cabo Verde", "class": "govai", "platform": "Microsoft", "owner": "Government of Cabo Verde", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "AI named is for general administration, not a sector's public system."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}},
+"schoolinternet": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Gives M365 licences for teachers and students; no school internet share or compulsory digital curriculum stated."}}},
+"startups": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Only a Microsoft commitment to 100 startups a year; no state startup law or public fund stated."}}},
+"techhubs": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
+}}

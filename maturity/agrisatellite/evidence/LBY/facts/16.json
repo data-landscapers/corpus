@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-02-lby-geospatial-unit-in-action-satellite-based-applications-for-better-resi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MerWat-Libya",
+   "country_label": "Libya",
+   "class": "agrisat",
+   "platform": "geospatial workspace of satellite products and field data",
+   "owner": "FAO Geospatial Unit for national institutions",
+   "tiers": "parcel level"
+  }
+ ],
+ "note": "MerWat-Libya is FAO's platform, not a Libyan institution's use."
+}

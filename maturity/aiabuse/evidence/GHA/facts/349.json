@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-09-gha-gna-bandim-azumah-data-protection-law-update-ai",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Ghana News Agency reports Data Protection Commission head Dr Arnold Kavaarpuo saying Ghana was introducing a new bill to regulate AI, automated decision-making and cross-border data transfers.",
+   "as_of": "2026-03-09",
+   "date_precision": "day",
+   "system": "Data Protection Commission bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

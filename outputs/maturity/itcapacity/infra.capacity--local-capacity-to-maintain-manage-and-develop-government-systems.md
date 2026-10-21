@@ -21,8 +21,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 7 |
-| 3 Established | 24 |
+| 4 Operating | 8 |
+| 3 Established | 23 |
 | 2 Nascent | 4 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
@@ -75,6 +75,14 @@ Government staff built a system that went live in 2026; no career structure for 
 - The e-Sénégal single-window platform and mobile app, developed by state company Sénégal Numérique SA, was launched on 24 March 2026 with judicial-record and nationality-certificate procedures ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
 - Sénégal Numérique SA, the state operator, says on its own page that the Diamniadio national Tier 3 datacenter hosts and stores the state's data, and that its Espaces Sénégal Services are connected to all administrations; page undated, published date used ([source, 2026-09-03](https://senegalnumeriquesa.sn/en/projets/smart-s%C3%A9n%C3%A9gal)).
 - Sénégal Numérique SA said its own Cyberdefense, Systems and Networks teams were mobilised to protect its information systems after attempted cyberattacks, per its communique of 9 February 2026 ([source, 2026-02-09](https://www.enqueteplus.com/content/cybersécurité-sénégal-numérique-signale-des-tentatives-de-cyberattaques-et-restreint)).
+
+### Tanzania: 4 Operating
+
+Tanzania's e-Government Authority builds and runs systems for government, and its own AI tool went live in 2026; an IT cadre is not known.
+
+- The e-Government Authority, mandated to coordinate ICT across public institutions, runs MUVU (over 6,000 cooperative societies registered), M-Kilimo, the Government Mailing System and e-Office for the agriculture ministry and its institutions; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
+- The e-Government Authority says it developed the M-Kilimo system with the Ministry of Agriculture, the MUVU Cooperative Management System with the Cooperative Development Commission, and the Fertiliser Information System with the fertiliser regulator; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
+- The e-Government Authority says Msaada AI, designed at its own research centre, is in use by two institutions ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
 
 ### Zambia: 4 Operating
 
@@ -206,13 +214,6 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - The communications minister's written reply to Parliament states the State IT Agency (SITA) delivered 117 e-services through 35 digital products to more than 30 government departments and public entities in 2025/26; the reply gives no date, published 2026-10-05 ([source, 2026](https://pmg.org.za/committee-question/41100/)).
 - The Electoral Commission's ICT department is stated to run its ICT environment, on VMware as the core virtualisation platform, for which it seeks licence renewal ([source, 2026-07-20](https://www.itweb.co.za/article/top-ict-tenders-iec-targets-tech-upgrades-renewals/Pero3MZ31YYqQb6m)).
-
-### Tanzania: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- The e-Government Authority, mandated to coordinate ICT across public institutions, runs MUVU (over 6,000 cooperative societies registered), M-Kilimo, the Government Mailing System and e-Office for the agriculture ministry and its institutions; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
-- The e-Government Authority says it developed the M-Kilimo system with the Ministry of Agriculture, the MUVU Cooperative Management System with the Cooperative Development Commission, and the Fertiliser Information System with the fertiliser regulator; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
 
 ### Togo: 3 Established
 

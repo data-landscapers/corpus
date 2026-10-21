@@ -12,27 +12,27 @@ COG,2,draft,,COG-001
 COM,3,in-force,,COM-002;COM-001
 CPV,no evidence,,,
 DJI,1,none,,DJI-001
-DZA,no evidence,,,
+DZA,1,none,,DZA-002
 EGY,3,in-force,,EGY-002
 ERI,1,none,,ERI-001
-ETH,1,none,,ETH-001
-GAB,3,in-force,,GAB-001
-GHA,2,draft,,GHA-002
+ETH,1,none,,ETH-001;ETH-002
+GAB,3,in-force,,GAB-001;GAB-002
+GHA,2,draft,,GHA-002;GHA-004
 GIN,1,none,,GIN-002
 GMB,1,none,,GMB-001
 GNB,no evidence,,,
 GNQ,2,draft,,GNQ-001
 KEN,2,draft,,KEN-014;KEN-015
-LBR,no evidence,,,
-LBY,no evidence,,,
+LBR,1,none,,LBR-001
+LBY,1,none,,LBY-001
 LSO,no evidence,,,
-MAR,3,in-force,,MAR-002
+MAR,3,in-force,,MAR-002;MAR-008
 MDG,no evidence,,,
 MLI,no evidence,,,
 MOZ,2,draft,,MOZ-003
 MRT,no evidence,,,
 MUS,3,in-force,,MUS-002
-MWI,no evidence,,,
+MWI,1,none,,MWI-003
 NAM,1,none,,NAM-003;NAM-004
 NER,no evidence,,,
 NGA,3,in-force,,NGA-004

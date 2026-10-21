@@ -23,10 +23,10 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 6 |
-| 2 Nascent | 41 |
+| 2 Nascent | 42 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -227,6 +227,12 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 - CSquared states Liberia has begun preparing for AI through AI training for civil servants with the UNDP ([source, 2026-09-08](https://www.einpresswire.com/article/939735610/csquared-completes-commercial-broadband-programme-in-liberia-with-support-from-microsoft)).
 
+### Madagascar: 2 Nascent
+
+Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
+
+- Madagascar Newsroom reports that a training session on AI use in administration was held for the Treasury's director general and several colleagues, in partnership with the Projet Poles Integres de Croissance (PIC), described as a first step ([source, 2026-09](https://www.madagascarnewsroom.com/2026/09/tresor-public-formation-ia.html)).
+
 ### Malawi: 2 Nascent
 
 Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
@@ -364,12 +370,6 @@ Nothing held names digital-skills training for civil servants or says there is n
 Not established: Nothing held says whether civil servants are trained in digital skills.
 
 ### Libya: No evidence
-
-Nothing held names digital-skills training for civil servants or says there is none, so no stage is set.
-
-Not established: Nothing held says whether civil servants are trained in digital skills.
-
-### Madagascar: No evidence
 
 Nothing held names digital-skills training for civil servants or says there is none, so no stage is set.
 

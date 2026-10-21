@@ -1,0 +1,11 @@
+{"slug": "2025-08-14-gha-minister-advocates-for-ai-readiness-and-cost-saving-it-reforms", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI harm rule or authority is stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a planned phased AI rollout to five ministries in 2026 is stated; no pilot or system in use."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+"aistrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "A meeting reviewed a summary of the National AI Strategy, but adoption, body and funding are not stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or AI computing is stated."}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Cyber Security Authority is named but no creation, response, alert or designation is stated."}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "National Data Centre is named for an upgrade; renting to others and tier are not stated."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "National Data Centre upgrade is discussed; hire, tier and hosting of state data are not stated."}}},
+"qualitystandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No standards body, standard or certification is stated."}}}
+}}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The OIF says the Malagasy commission must ensure personal data processing meets the requirements of law no. 2014-038, for which an application decree was adopted.",
+   "as_of": "2025-02-21",
+   "date_precision": "day",
+   "system": "Law no. 2014-038 on personal data protection",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "The OIF says the Malagasy government ratified the Malabo Convention in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

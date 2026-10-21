@@ -1,0 +1,8 @@
+{"slug": "2026-05-01-rwa-effects-of-artificial-intelligence-adoption-on-productivity-and-servic", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract states nothing on AI rules or authority."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "A survey of 76 managerial-level staff in Rwanda's public sector found AI systems widely used (mean 4.03 of 5) and supported by institutions, according to the study's authors.", "as_of": "2026-05", "date_precision": "month", "system": "AI systems in Rwanda's public sector (unnamed)", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract names no sector system using AI."}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract states no AI model, dataset or computing built in Rwanda."}}},
+"civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract mentions a skills gap but no training programme for civil servants."}}},
+"digitalskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract states no programme or measured share of digital skills for the public."}}}
+}}

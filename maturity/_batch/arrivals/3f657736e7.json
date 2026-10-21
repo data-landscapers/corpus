@@ -1,0 +1,22 @@
+{
+  "slug": "2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s",
+  "studies": {
+    "aiabuse": {"countries": {"BFA": {"facts": [
+      {"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "We are Tech reports Burkina Faso has established the Permanent Secretariat for Innovation and Monitoring of Emerging Digital Technologies (SPIVTEN), tasked with overseeing and regulating AI development, as Minister Aminata Zerbo/Sabane told the Transitional Legislative Assembly.", "as_of": "2025-03-11", "date_precision": "day", "system": "SPIVTEN", "class": "aiharm"}
+    ], "systems": [], "note": ""}}},
+    "aigovernment": {"countries": {"BFA": {"facts": [
+      {"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "We are Tech reports the DJAM platform and regulatory chatbots have been launched in Burkina Faso to streamline digital access and automate administrative processes, per Minister Aminata Zerbo/Sabane.", "as_of": "2025-03-11", "date_precision": "day", "system": "DJAM platform and regulatory chatbots", "class": "govai"}
+    ], "systems": [{"system": "DJAM platform", "country_label": "DJAM", "class": "govai", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications", "tiers": ""}], "note": ""}}},
+    "ailaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No law or draft on AI is named."}}},
+    "aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Healthcare and education are named only as aims; no sector AI tool is stated."}}},
+    "aistrategy": {"countries": {"BFA": {"facts": [
+      {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "We are Tech reports an AI action plan is under development in Burkina Faso and will be integrated into the national digital strategy.", "as_of": "2025-03-11", "date_precision": "day", "system": "AI action plan", "class": "strategy"}
+    ], "systems": [], "note": ""}}},
+    "aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The G-Cloud is described as investment providing computing for AI; no AI facility or model is stated in service."}}},
+    "digitalsovereignty": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Sovereignty is a stated aim only; no rule or government hosting is described."}}},
+    "digitalstrategy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A national digital strategy is mentioned without its standing."}}},
+    "fibrebackbone": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A national backbone is named as an investment with no works, service or reach stated."}}},
+    "startups": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+    "techhubs": {"countries": {"BFA": {"facts": [], "systems": [], "note": "AI centres of excellence are funded under PACDIGITAL but no hub is stated open."}}}
+  }
+}

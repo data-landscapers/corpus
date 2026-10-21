@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Digital Policy Alert says the ANPDP, the National Data Protection Authority, oversees data protection compliance and in October 2024 signed a cooperation memorandum with Mauritius's Data Protection Authority.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "ANPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANPDP",
+   "country_label": "Algeria",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

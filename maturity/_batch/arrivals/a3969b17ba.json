@@ -1,0 +1,8 @@
+{"slug": "2026-06-13-uga-uganda-launches-ai-platform-uggov-agent-to-boost-digital-governance", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "NTV Uganda reports that Uganda launched UGGov Agent, an AI platform letting citizens access government services, track public projects and engage public institutions in 16 local languages over WhatsApp and SMS; the report does not name the launching body.", "as_of": "2026-06-13", "date_precision": "day", "system": "UGGov Agent", "class": "govai"}],
+"systems": [{"system": "UGGov Agent", "country_label": "Uganda", "class": "govai", "platform": "WhatsApp and SMS", "owner": "", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "UGGov Agent is a general government-services platform, not a sector system."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document does not say who built UGGov Agent or its model."}}}
+}}

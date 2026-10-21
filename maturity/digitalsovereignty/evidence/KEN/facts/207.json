@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-ken-digital-sovereignty-not-tech-dependency",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "GIZ says it is working with the Kenyan Government at the Digital Transformation Center in Nairobi to develop a national roadmap for digital building blocks as part of a sovereign public infrastructure, with data processed within the country.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "GovStack national roadmap",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

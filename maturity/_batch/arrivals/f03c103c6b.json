@@ -1,0 +1,11 @@
+{"slug": "2026-09-09-dza-mesrs-deuxieme-reunion-coordination-strategie-nationale-ia", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "An AI-based tax management system is only programmed for the short term; no pilot or use is stated."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "An AI-based tax management system is only programmed for the short term; no tool is stated as built, piloted or in service."}}},
+"aistrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Le Jour d'Algerie, quoting a ministry communique, reports that the Minister of Higher Education and Scientific Research chaired the second coordination meeting on implementing Algeria's national AI strategy.", "as_of": "2026-09-08", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The ministry communique reports that five thematic commissions (data and infrastructure, financing, large language models, AI doctorate, continuing AI training) were installed around the strategy's main axes, after the first coordination meeting of 5 August set up a joint follow-up commission for the strategy's roadmap.", "as_of": "2026-09-08", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle", "class": "strategy"}],
+"systems": [{"system": "Stratégie nationale d'intelligence artificielle", "country_label": "Algeria", "class": "strategy", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A national AI and data research centre and an Algerian multisectoral AI system are only decided or programmed, with no builder, funder or site named."}}},
+"policyresearch": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states no research on digital policy by a local institution."}}}
+}}

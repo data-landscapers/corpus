@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-12-mrt-empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Copernicus Sentinel Online reports a pilot by InsightEx with the National Employment Agency (TECHGHIL) in which the TechghilAgro app and admin dashboard give near-real-time Sentinel-2 vegetation and irrigation indicators for rice farms in Rosso and R'kiz, with a second season planned for October 2025.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "TechghilAgro",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "reach",
+   "value": "counted",
+   "fact": "Copernicus Sentinel Online says the TechghilAgro pilot reached 102 rice farmers (21 in Rosso, 81 in R'kiz) over 612 hectares in its first season, with 737 app interactions.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "TechghilAgro",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TechghilAgro",
+   "country_label": "Mauritania",
+   "class": "agrisat",
+   "platform": "Sentinel-2 mobile app and admin dashboard",
+   "owner": "InsightEx with National Employment Agency (TECHGHIL)",
+   "tiers": "two pilot sites, Rosso and R'kiz"
+  }
+ ],
+ "note": ""
+}

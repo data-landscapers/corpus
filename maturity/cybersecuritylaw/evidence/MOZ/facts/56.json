@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-moz-mozambique-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "UNESCO's profile lists a draft Cybersecurity Law among Mozambique's existing regulatory instruments, as a partial foundation for AI governance.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Cybersecurity Law (draft)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

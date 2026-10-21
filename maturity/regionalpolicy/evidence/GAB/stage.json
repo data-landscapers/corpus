@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "2",
-      "part": "member",
+      "stage": "3",
+      "part": "active",
       "effect": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-005;GAB-001",
-      "gaps": "No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
+      "stage_sources": "GAB-006;GAB-007",
+      "gaps": "No source held says a thing the country agreed has been put into effect.",
       "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-21"
     }
   ]
 }

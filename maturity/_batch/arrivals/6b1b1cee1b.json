@@ -1,0 +1,8 @@
+{"slug": "2025-12-26-mrt-la-mauritanie-met-en-service-une-solution-dia-dediee-a-la-securite-rou", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Agence Ecofin reports that Mauritanian authorities announced on 26 December 2025 an AI road-safety solution, developed by the Agence numérique de l'État and operated by the national police (DGSN), now operational on the national road network with cameras detecting vehicle overloading and unworn seat belts.", "as_of": "2025-12-26", "date_precision": "day", "system": "solution d'IA dédiée à la sécurité routière", "class": "govai"}],
+"systems": [{"system": "solution d'IA dédiée à la sécurité routière", "country_label": "Mauritania", "class": "govai", "platform": "smart cameras, computer vision", "owner": "Agence numérique de l'État (AN-État) under MTNIMA; operated by DGSN", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Road traffic enforcement is not one of the study's named sector systems and is recorded under administration."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states a government road-safety system with AI, not an AI model, dataset or computing facility released or hosted."}}}
+}}

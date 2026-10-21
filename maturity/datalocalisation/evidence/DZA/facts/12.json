@@ -1,0 +1,37 @@
+{
+ "slug": "2025-04-16-dza-dpa-digital-digest-algeria-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the Regulatory Authority of Post and Electronic Communications issued a rule in November 2017 requiring public cloud computing operators to build infrastructure in Algeria and host and store data locally.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "ARPCE public cloud rule",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The same cloud localisation rule was issued by the Regulatory Authority of Post and Electronic Communications, which licenses cloud data hosting providers, per Digital Policy Alert.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "ARPCE public cloud rule",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says the Law on Audiovisual Activity entered into force in December 2024, requiring online audiovisual services to be hosted on servers physically located in Algeria.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Law on Audiovisual Activity",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

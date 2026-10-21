@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "no evidence",
-      "standing": "",
+      "stage": "1",
+      "standing": "none",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.",
+      "stage_sources": "LBR-001",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-10-13"
+      "as_at": "2026-10-21"
     }
   ]
 }

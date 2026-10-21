@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "3",
-   "use": "inservice",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-002",
-   "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "4",
+      "use": "inservice",
+      "bodies": "several",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-007",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-10-21: the tax directorate's taxpayer chatbot joins the digital transition ministry's Idarati AI, so two government bodies have AI in service; no rules or register are held.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

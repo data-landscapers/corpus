@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-alnafezah-mcit-baraka-genai-government-policy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "MCIT adviser Huda Baraka says Egypt works under the second edition of its national AI strategy, launched in January 2025.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National AI Strategy, second edition",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The National Council for AI (now for AI, Quantum Computing and Emerging Technologies), created in 2019, recently discussed the report of the strategy's achievements for the first half of 2026, per MCIT adviser Huda Baraka.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Council for Artificial Intelligence",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

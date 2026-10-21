@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-28-cmr-avis-d-appel-a-manifestation-d-interet-n0000002-ami-mpt-sg-dag-sdbm-sm",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LAD-IA (Laboratoire d'Analyse de Données et d'Intelligence Artificielle)",
+   "country_label": "Cameroon",
+   "class": "localai",
+   "platform": "",
+   "owner": "MINPOSTEL",
+   "tiers": ""
+  }
+ ],
+ "note": "Fact set aside at merge: does not meet the drafter brief."
+}

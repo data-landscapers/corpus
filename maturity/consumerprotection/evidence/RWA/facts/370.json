@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "Proto says the National Bank of Rwanda's Intumwa AI agent, deployed in 2021, processes complaints across more than 600 financial institutions and was being expanded as of November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Intumwa",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

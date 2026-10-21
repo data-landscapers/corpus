@@ -1,0 +1,190 @@
+{
+ "slug": "2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Ministry of Gender, Labour and Social Development's SAGE head said the ministry had started piloting mobile money payments of the SAGE older-persons grant as an alternative to the existing payment-point system, to be extended nationwide if the pilot succeeds.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "SAGE",
+       "class": "g2p"
+      },
+      {
+       "sub_indicator": "g2p",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The SAGE programme head said eligible older people are refused the grant because the date of birth on their national ID card puts them below the age-80 threshold, and 43,000 complaints have been received.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "SAGE",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SAGE",
+       "country_label": "Uganda",
+       "class": "g2p",
+       "platform": "payment points; mobile money pilot",
+       "owner": "Ministry of Gender, Labour and Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Gender, Labour and Social Development and the SAGE head describe national identity cards, registered through NIRA, as carrying each person's recorded date of birth and being used to decide SAGE eligibility.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "national identity card (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national identity card (NIRA)",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification and Registration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report on SAGE eligibility and ID date-of-birth errors; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-19-uga-ai-misuse-sparks-calls-for-stronger-data-control",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Daily Monitor says the Data Protection and Privacy Act (2019) empowers the PDPO to enforce privacy rights and penalise unlawful use of personal data.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Personal Data Protection Office is acting under the Act, with Baker Birikujja named as its director.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

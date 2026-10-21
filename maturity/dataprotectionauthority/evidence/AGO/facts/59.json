@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Portal de TI quotes Njunjulo António, legal director of Angola's Agência de Protecção de Dados (APD), describing the agency's inspection and audit work.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados (APD)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "No ruling against a named organisation is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Egypt Today reports the Ministry of Irrigation and Water Resources began a pilot in Kafr El Sheikh developing machine-learning algorithms that produce crop type maps from satellite images to guide irrigation water distribution.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "Satellite crop type mapping pilot",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Satellite crop type mapping pilot",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "machine learning",
+   "owner": "Ministry of Irrigation and Water Resources",
+   "tiers": "pilot"
+  }
+ ],
+ "note": ""
+}

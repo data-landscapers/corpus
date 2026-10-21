@@ -1,0 +1,348 @@
+{
+ "slug": "2025-06-24-ben-benin-hosts-the-regional-innovation-and-digital-technology-lab-with-a",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI model is only launched for development, no body testing or using it yet."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "IIDIA and Benin's ASIN launched in Cotonou the development of a Fon-language voice-to-voice AI model, with a prototype due in nine months, trained on NVIDIA A100/H100 GPUs, supported by the Gates Foundation.",
+       "as_of": "2025-06-24",
+       "date_precision": "day",
+       "system": "Fon voice-to-voice AI model",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fon voice-to-voice AI model",
+       "country_label": "Benin",
+       "class": "localai",
+       "platform": "",
+       "owner": "IIDIA and ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-mrt-erribat-mourchid-ai-government-assistant",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Erribat.info reports that the Minister of Youth Empowerment, Employment, Sports and Civil Service launched Mourchid, a government AI assistant working in Arabic and French that answers on jobs, civil service, youth and sports programmes from ministry databases and official documents, with voice search, around the clock.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Mourchid (مرشد)",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mourchid",
+   "country_label": "Mauritania",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Youth Empowerment, Employment, Sports and Civil Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

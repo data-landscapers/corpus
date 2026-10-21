@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-17-nga-fake-ai-ads-feature-pastor-adeboye-okinbaloye-without-consent-arcon",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "The Guardian Nigeria reports that the Advertising Regulatory Council of Nigeria (ARCON) launched an investigation into fake adverts using AI-simulated voice and image of public figures on Facebook and Instagram, set up a special enforcement unit to monitor them in real time, and said it would explore legal action against Meta and others.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "ARCON investigation into AI-generated fake adverts",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "CAZOS says a dedicated AI law drawn up by MINTTICS (86 articles, nine chapters) has been in public consultation since September 2025 and is not in force.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "MINTTICS AI bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

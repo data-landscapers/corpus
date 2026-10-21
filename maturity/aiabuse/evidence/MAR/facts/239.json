@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "EuroMedAI says Organic Law No. 53.25, promulgated by Dahir No. 1.25.70 on 16 January 2026, names AI tools among the means of electoral offences, including a new Article 51 bis on fabricated content, with penalties of 2 to 5 years and MAD 50,000-100,000.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "Organic Law No. 53.25",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "EuroMedAI says HACA Decision No. 50-26 of 16 June 2026 prohibits broadcasting falsified or AI-generated electoral content liable to mislead the public and requires a notice on AI-generated educational content on radio and television.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "HACA Decision No. 50-26",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "EuroMedAI says HACA, the audiovisual authority, adopted Decision No. 50-26 on AI-generated electoral content on radio and television, and the CNDP issued guidance in late August 2026 asking that AI-produced content be identified.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "HACA",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

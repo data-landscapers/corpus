@@ -1,0 +1,90 @@
+{
+ "slug": "2025-07-03-zmb-tender-for-the-provision-of-an-artificial-intelligence-enabled-ai-endp",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The National Pension Scheme Authority (NAPSA) tendered a three-month AI-enabled endpoint detection and response service; the Zambia Public Procurement Authority record shows bids opened 2025-07-03 and status Awarded, with one bid from Digital Safe Limited at ZMW 1,135,120.80.",
+       "as_of": "2025-07-03",
+       "date_precision": "day",
+       "system": "AI-enabled Endpoint Detection and Response (EDR)",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-enabled Endpoint Detection and Response (EDR)",
+       "country_label": "Zambia",
+       "class": "govai",
+       "platform": "",
+       "owner": "National Pension Scheme Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Zambia Public Procurement Authority e-GP portal publishes opened bid details for the NAPSA tender, with closing and bid-opening dates of 2025-07-03, supplier, bid value and award status.",
+       "as_of": "2025-07-03",
+       "date_precision": "day",
+       "system": "Zambia Public Procurement Authority e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zambia Public Procurement Authority e-GP",
+       "country_label": "Zambia",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Zambia Public Procurement Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

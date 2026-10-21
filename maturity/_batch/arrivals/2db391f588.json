@@ -1,0 +1,7 @@
+{"slug": "2026-09-09-moz-cedsif-seeks-artificial-intelligence-consultancy-in-mozambique", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The tender listing states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "CEDSIF's call is for AI consultancy services, not for an AI system in testing or use."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"coresystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The listing names no finance, tax or payroll system in use."}}}
+}}

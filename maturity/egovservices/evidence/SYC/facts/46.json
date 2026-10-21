@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-30-syc-seychelles-pension-fund-showcases-digital-innovation-during-productivi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Seychelles Pension Fund says members can access their Statement of Account online through My e-Services and employers can submit contribution records through the e-Contribution Platform.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "My e-Services; e-Contribution Platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "My e-Services",
+   "country_label": "Seychelles",
+   "class": "eservices",
+   "platform": "SPF online",
+   "owner": "Seychelles Pension Fund",
+   "tiers": ""
+  },
+  {
+   "system": "e-Contribution Platform",
+   "country_label": "Seychelles",
+   "class": "eservices",
+   "platform": "SPF online",
+   "owner": "Seychelles Pension Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

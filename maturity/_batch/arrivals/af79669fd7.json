@@ -1,0 +1,283 @@
+{
+ "slug": "2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Proto says it and the Ministry of Local Government (MINALOC) began designing the Mbaza AI agent for citizen complaints in October 2025, aiming to deploy in early 2026.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Mbaza",
+       "class": "govai"
+      },
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Proto says the National Bank of Rwanda deployed its Intumwa AI agent in 2021 to process complaints across more than 600 financial institutions, and was expanding it as of November 2025.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Intumwa",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mbaza",
+       "country_label": "Mbaza",
+       "class": "govai",
+       "platform": "Proto AI agent",
+       "owner": "MINALOC with RISA",
+       "tiers": ""
+      },
+      {
+       "system": "Intumwa",
+       "country_label": "Intumwa",
+       "class": "govai",
+       "platform": "Proto AI agent",
+       "owner": "National Bank of Rwanda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Proto's page says Rwanda's National Artificial Intelligence Policy was launched earlier in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Artificial Intelligence Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "Proto says the National Bank of Rwanda's Intumwa AI agent, deployed in 2021, processes complaints across more than 600 financial institutions and was being expanded as of November 2025.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Intumwa",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Proto says MINALOC, which runs the contact centre where citizens report issues to local leaders, began designing the Mbaza AI agent for citizen complaints in October 2025, aiming to deploy in early 2026.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Mbaza",
+       "class": "feedback"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  }
+ }
+}

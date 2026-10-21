@@ -1,0 +1,8 @@
+{"slug": "2025-06-20-zaf-new-tender-rfi03-2025-implementation-of-ai-driven-digital-twinning-cog", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms; it only mentions explainability and human oversight as requirements."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The AI solution is for SARS tax and customs administration, recorded under sector systems."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The South African Revenue Service issued RFI 03/2025 on 20 June 2025 seeking vendors for an AI-driven digital twinning (cognitive decision automation) solution to automate a high-volume tax administration decision process, stating it is a market engagement exercise, not a formal procurement, that may lead to a proof of concept.", "as_of": "2025-06-20", "date_precision": "day", "system": "RFI 03/2025 AI-Driven Digital Twinning (Cognitive Decision Automation) Solution", "class": "sectorai"}],
+"systems": [{"system": "AI-Driven Digital Twinning (Cognitive Decision Automation) Solution", "country_label": "South Africa", "class": "sectorai", "platform": "", "owner": "South African Revenue Service", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The RFI seeks vendor solutions and states no AI model, dataset or computing built or hosted in the country."}}}
+}}

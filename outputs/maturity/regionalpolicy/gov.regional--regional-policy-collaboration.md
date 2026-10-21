@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 11 |
-| 3 Established | 24 |
-| 2 Nascent | 13 |
+| 3 Established | 25 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -214,6 +214,13 @@ Ethiopia signed a three-year digital identity memorandum with Mozambique in Apri
 - Prime Minister Abiy Ahmed was recently named African Union Champion for AI and Digital Health; the article gives no exact date, so its published date (April 2026) is used ([source, 2026-04](https://www.biometricupdate.com/202604/mozambique-taps-ethiopias-digital-id-expertise-in-dpi-partnership)).
 - Ethiopia's National ID Program and its business arm FaydaVerse signed a three-year digital identity and DPI memorandum of understanding with Mozambique's Digital Transformation and Innovation Agency in Addis Ababa on 27 April 2026. Biometric Update reports it ([source, 2026-04-27](https://www.biometricupdate.com/202604/mozambique-taps-ethiopias-digital-id-expertise-in-dpi-partnership)).
 
+### Gabon: 3 Established
+
+Gabon hosted the Central African regulators' assembly in October 2026; nothing it agreed is known to be in effect.
+
+- Gabon hosted the fourth extraordinary session of the ARTAC regulators' conference in Libreville on 20-21 October 2026, opened by its digital economy minister with ARCEP Gabon's support, per GabonReview ([source, 2026-10-20](https://www.gabonreview.com/afrique-centrale-lartac-veut-harmoniser-les-regles-du-jeu-numerique/)).
+- Agence Gabonaise de Presse reports that the 4th extraordinary session of the Conference of Regulators of ARTAC, the Central African telecoms regulators' assembly, was held in Libreville on 20 October 2026, hosted by ARCEP Gabon, and set up six permanent technical working groups ([source, 2026-10-20](https://agpgabon.ga/gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la-reglementation-en-afrique-centrale/)).
+
 ### Guinea: 3 Established
 
 Guinea hosted Smart Africa's summit in November 2025 and signed a roaming protocol with Sierra Leone; nothing agreed is known to be in effect.
@@ -339,13 +346,6 @@ Equatorial Guinea took part in a Lusophone data governance workshop in June 2026
 
 - Equatorial Guinea was one of six countries whose delegations took part in the Second Lusophone Africa Data Governance Workshop in Luanda, 15-17 June 2026, hosted by Angola's data protection agency with Smart Africa, the World Bank, CETIC.br and UNESCO; the UNESCO article is dated 2026-07-28 ([source, 2026-06](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda)).
 - Equatorial Guinea is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 alongside the African Union and Smart Africa ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
-
-### Gabon: 2 Nascent
-
-Gabon sat in Smart Africa's agency council in 2025 and backed African ITU proposals in 2026; no agreement signed or seat won is known.
-
-- The ATU reports that the country is among 23 states that have endorsed the 49 African Common Proposals for the ITU Plenipotentiary Conference 2026 ([source, 2026-10-16](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
-- The African Union announced on 9 October 2026 that the 6th Ordinary Session of its Specialised Technical Committee on Communication and ICT will be held in Libreville, Gabon, on 26-29 October 2026 (a forward notice; the meeting had not yet taken place), with ministers of AU member states attending; no date is given for the event announcement, so the published date is used ([source, 2026-10-09](https://www.au.int/en/newsevents/20261026/au-innovation-festival-au-innofest26-theme-vibrant-youth-ecosystems-ai-and)).
 
 ### Guinea-Bissau: 2 Nascent
 

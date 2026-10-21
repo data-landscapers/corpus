@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says Rwanda implemented the Law Governing the Payment System in November 2021, setting licensing requirements for payment providers.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "Law Governing the Payment System",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Digital Policy Alert says the National Bank of Rwanda issued a regulation in September 2023 on licensing procedures for digital payment providers, after earlier licensing rules for electronic money issuers.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "National Bank of Rwanda licensing regulation",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

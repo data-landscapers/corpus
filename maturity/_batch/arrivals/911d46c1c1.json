@@ -1,0 +1,32 @@
+{
+ "slug": "2026-03-31-mrt-communique-de-presse-ministere-de-la-transformation-numerique-et-de-la",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document reports a digital police recruitment exam; names no data protection law, authority or decision."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Khidmaty",
+       "country_label": "Khidmaty",
+       "class": "other",
+       "platform": "",
+       "owner": "MTNIMA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a recruitment exam via Khidmaty, not station records of reports or cases."
+    }
+   }
+  }
+ }
+}

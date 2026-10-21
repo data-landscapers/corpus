@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "AICCRA says ANACIM, the national meteorological agency, now generates crop-specific agro-climatic bulletins through the AgData Hub that combine near-real-time forecasts, satellite observations and seasonal outlooks.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "AgData Hub",
+   "class": "metsat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AgData Hub",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "ANACIM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

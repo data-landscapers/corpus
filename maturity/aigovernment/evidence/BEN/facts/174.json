@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ANIP's mobile app includes Seyna, an AI-built chatbot that answers frequently asked questions and helps users make requests, presented at a press conference on 14 February 2025.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Seyna",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seyna",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "ANIP BJ app",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

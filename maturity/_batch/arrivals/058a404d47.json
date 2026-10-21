@@ -1,0 +1,8 @@
+{"slug": "2026-07-16-zmb-techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Zambia Monitor quotes the Zambia Revenue Authority's Commissioner-General saying that on 16 July 2026 the ZRA already has an Artificial Intelligence Unit and has introduced an AI-powered chatbot, an HS Code search engine and a taxpayer nudging system.", "as_of": "2026-07-16", "date_precision": "day", "system": "ZRA AI-powered chatbot", "class": "govai"}],
+"systems": [{"system": "ZRA AI-powered chatbot", "country_label": "Zambia", "class": "govai", "platform": "", "owner": "Zambia Revenue Authority", "tiers": ""}, {"system": "ZRA taxpayer nudging system", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Zambia Revenue Authority", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The document does not say the nudging system or search engine uses AI, and gives no score, forecast or decision from the chatbot."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated; the Secure Data Lab is a revenue data facility."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-22-bdi-burundi-la-strategie-nationale-de-l-intelligence-artificielle-validee",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The national AI strategy validated on 21-22 April 2026 with UNDP provides for creating a National AI Commission (CNIA) and a Strategic Intelligence Centre under its governance axis, which also covers ethics and compliance.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Commission Nationale de l'Intelligence Artificielle (CNIA), planned",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": "The commission is planned only; no rule in force or designated authority is stated."
+}

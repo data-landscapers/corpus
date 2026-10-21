@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-12-dza-asal-cntga-2023-geospatial-agriculture-conference",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ASAL states that its first national conference on geospatial technologies for agriculture, held 29-30 November 2023 in Oran, heard presentations on ASAL's agriculture studies, Alsat-1B imagery to identify desert soils for farming, and the CropWatch crop-monitoring experience in Algeria.",
+   "as_of": "2023-11-30",
+   "date_precision": "day",
+   "system": "CropWatch Algérie / Alsat-1B agricultural studies",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CropWatch",
+   "country_label": "Algeria",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "ASAL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

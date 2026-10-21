@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Al3omk reports that the Ministry of Digital Transition built a new AI-oriented data model converting 400 of about 2,400 administrative procedures for the IA Idarati answerbot, improving data quality by about 50 per cent.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "IA Idarati data model",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

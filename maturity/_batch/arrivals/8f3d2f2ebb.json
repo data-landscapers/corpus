@@ -1,0 +1,7 @@
+{"slug": "2025-10-22-egy-elwatan-mansoura-student-detained-ai-fabricated-video", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "El Watan reports that Egypt's Public Prosecution ordered a Mansoura student held in custody pending investigation for fabricating an indecent AI-generated video of a female classmate, after a police complaint dated 28 May 2025.", "as_of": "2025-10-22", "date_precision": "day", "system": "", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states no AI built or hosted in the country."}}},
+"police": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on how stations record reports digitally."}}}
+}}

@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert states that the Personal Data Protection Proclamation, implemented in July 2024, requires controllers and processors to store personal data collected locally on a server or data centre within Ethiopia.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Personal Data Protection Proclamation",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert states that in August 2021 the Ethiopian Communications Authority adopted a consumer rights directive requiring telecom providers to process consumer personal data only on servers or data centres in Ethiopia.",
+   "as_of": "2021-08",
+   "date_precision": "month",
+   "system": "ECA consumer rights directive",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "Digital Policy Alert states that the Ethiopian Communications Authority, which issued the telecom localisation directive, oversees compliance with data protection rules; it adds that no official enforcement sources are published.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Ethiopian Communications Authority",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

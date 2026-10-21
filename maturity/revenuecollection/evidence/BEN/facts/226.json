@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The ANIP BJ mobile app has an option to pay administrative fees by mobile money, as presented on 14 February 2025.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "ANIP BJ",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

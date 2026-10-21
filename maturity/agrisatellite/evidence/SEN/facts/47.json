@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-17-sen-modernizing-agricultural-monitoring-in-west-africa-using-earth-observa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SERVIR WA cropland mapping",
+   "country_label": "Senegal",
+   "class": "agrisat",
+   "platform": "Google Earth Engine",
+   "owner": "CSE / DAPSA",
+   "tiers": ""
+  }
+ ],
+ "note": "A training session, not a study, pilot or service using the data."
+}

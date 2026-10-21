@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NASA Harvest Data Portal",
+   "country_label": "NASA Harvest Data Portal (nasaharvest.org)",
+   "class": "other",
+   "platform": "",
+   "owner": "NASA Harvest",
+   "tiers": ""
+  }
+ ],
+ "note": "Cropland masks are published on a NASA Harvest portal, not by a Namibian public body."
+}

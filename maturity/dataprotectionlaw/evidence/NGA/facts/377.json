@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Nigeria's Data Protection Commission (NDPC), led by National Commissioner Vincent Olatunji, hosted a two-day study tour for Sri Lanka's Data Protection Authority, reported 2026-10-20.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

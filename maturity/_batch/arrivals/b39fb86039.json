@@ -1,0 +1,7 @@
+{"slug": "2025-10-03-ben-videos-truquees-par-ia-au-benin-le-cnin-alerte-et-met-en-garde", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "La Nouvelle Tribune reports a communique of the Centre national d'investigation numerique (CNIN) saying the law protects victims of AI-generated fake videos and that creators and sharers face prosecution, with courts applying the same penalties to both.", "as_of": "2025-10-03", "date_precision": "day", "system": "", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states no AI built or hosted in the country."}}},
+"internetusage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document gives no internet usage figure."}}}
+}}

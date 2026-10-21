@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-22-bdi-burundi-la-strategie-nationale-de-l-intelligence-artificielle-validee",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Digital Business Africa, citing UNDP Burundi, reports the national AI strategy was validated on 21-22 April 2026 by UNDP and Finance, Budget and Digital Economy Ministry representatives over two days of discussion; no cabinet approval or launch is stated.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'Intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "The strategy plans a CNIA and a CIS; neither is stated as set up."
+}

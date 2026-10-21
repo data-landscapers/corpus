@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 EGY,Copernicus Sentinel-2,Egypt,agrisat,satellite imagery,European Space Agency,,2026-06-26-esa-earth-from-space-desert-cropland-egypt
 EGY,WaPOR,Egypt,agrisat,Sentinel-2 imagery with field data,FAO with Egypt's Ministry of Water Resources and Irrigation and Ministry of Agriculture and Land Reclamation,,2026-06-24-fao-wapor-crop-type-mapping-mallawi-egypt
+EGY,NARSS-ARC protocol,Egypt,agrisat,,NARSS and Agricultural Research Center,,2026-03-12-egy-almasryalyoum-narss-agricultural-research-center-protocol
+EGY,NARSS winter crop map,Egypt,agrisat,remote sensing and AI,NARSS with Ministry of Agriculture and Land Reclamation,governorates,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
+EGY,Satellite crop type mapping pilot,Egypt,agrisat,machine learning on satellite images; RIBASIM for water distribution,Ministry of Irrigation and Water Resources,Kafr El Sheikh pilot,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i

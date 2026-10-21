@@ -1,0 +1,37 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert says Rwanda implemented the Law Relating to the Protection of Personal Data and Privacy in October 2021.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Law Relating to the Protection of Personal Data and Privacy",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Digital Policy Alert says the law requires registration with the National Cyber Security Authority, which oversees data governance through a Data Protection Office set up in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "NCSA Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Digital Policy Alert says the Data Protection Office issued guidance on registration in June 2023, standard contractual clauses in February 2024, and further guidance in April and July 2024, with no public enforcement action on record.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "NCSA Data Protection Office",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

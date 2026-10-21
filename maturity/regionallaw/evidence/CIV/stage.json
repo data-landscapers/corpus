@@ -8,7 +8,7 @@
    "effect": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "CIV-001;CIV-002",
+   "stage_sources": "CIV-004;CIV-001",
    "gaps": "No source held says a national law or rule was passed to give effect to a shared text.",
    "note": "Counted from the four questions by study-ladder-regionallaw.py."
   }

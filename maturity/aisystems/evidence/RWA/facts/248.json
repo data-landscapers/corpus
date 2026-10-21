@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "BMZ Digital.Global says a satellite and AI crop mapping method was developed by the Rwanda Space Agency, the Ministry of Agriculture, Alliance Bioversity-CIAT and FAIR Forward, is freely accessible and documented, and is being tested in four districts.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "satellite and AI crop type maps",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

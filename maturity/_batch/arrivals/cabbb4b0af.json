@@ -1,0 +1,145 @@
+{
+ "slug": "2026-10-20-gab-afrique-centrale-lartac-veut-harmoniser-les-regles-du-jeu-numerique",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a working group on consumer protection but no rules in force, drafted or complaints body for digital finance."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a working group on consumer protection but no rules in force, drafted or complaints body for digital finance."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a working group on consumer protection but no rules in force, drafted or complaints body for digital finance."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a working group on consumer protection but no rules in force, drafted or complaints body for digital finance."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government office connection."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers regulator cooperation and statutes of ARTAC, not a digital legal text signed, ratified or transposed."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers regulator cooperation and statutes of ARTAC, not a digital legal text signed, ratified or transposed."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers regulator cooperation and statutes of ARTAC, not a digital legal text signed, ratified or transposed."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers regulator cooperation and statutes of ARTAC, not a digital legal text signed, ratified or transposed."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Central African Republic sent a delegation to the fourth extraordinary session of the ARTAC regulators' conference held in Libreville on 20-21 October 2026, per GabonReview.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Democratic Republic of the Congo sent a delegation to the fourth extraordinary session of the ARTAC regulators' conference held in Libreville on 20-21 October 2026, per GabonReview.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Congo sent a delegation to the fourth extraordinary session of the ARTAC regulators' conference held in Libreville on 20-21 October 2026, per GabonReview.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon hosted the fourth extraordinary session of the ARTAC regulators' conference in Libreville on 20-21 October 2026, opened by its digital economy minister with ARCEP Gabon's support, per GabonReview.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

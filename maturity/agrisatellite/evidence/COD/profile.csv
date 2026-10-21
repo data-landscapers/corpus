@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,agrisat,service,coverage,underway,2026-06-16,COD-001,,
+COD,agrisat,service,coverage,underway,2026-06-16,COD-001;COD-002;COD-003,,
 COD,agrisat,published,coverage,,,,,nothing held
 COD,agrisat,reach,coverage,,,,,nothing held

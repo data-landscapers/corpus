@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002;SEN-001",
-      "gaps": "No source held says a government body uses an AI system in service.",
-      "note": "Rebuild 2026-10-20: the APPEL assistant is in the platform's pilot phase and the Pikine court's archive AI is a pilot; piloted is question 1, not in service.",
-      "as_at": "2026-10-20"
+      "stage_sources": "SEN-003",
+      "gaps": "No source held shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2026-10-21: the Anta chatbot on the government's Service Public portal is AI in service; ARCOP's assistant and the Pikine court's archive AI are pilots, so no second body is held.",
+      "as_at": "2026-10-21"
     }
   ]
 }

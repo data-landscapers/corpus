@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002",
+      "gaps": "No source held shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2026-10-21: the National Bank's Intumwa agent is AI in service in one public body; MINALOC's Mbaza was still being designed, so no second body is held.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

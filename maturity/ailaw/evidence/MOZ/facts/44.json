@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-moz-mozambique-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "UNESCO's Readiness Assessment profile says Mozambique has no specific AI legislation, with the Ministry of Science, Technology and Higher Education leading development of national AI policies.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "UNESCO Readiness Assessment Methodology profile",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

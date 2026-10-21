@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-15-ago-especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-se",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "IMA director Meick Afonso says small experimental-module AI initiatives exist in public services but no structured project yet.",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "experimental AI initiatives in public services",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

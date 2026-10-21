@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-20-egy-youm7-digital-sovereignty-five-pillars-communications-minister",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "AI development is named as a pillar of a sovereignty strategy; no rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No government use of an AI system is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a sector's public system is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "AI development is named as a strategy pillar without a model, dataset or facility, builder, funder or site."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection is named as a strategy pillar; no law is described."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Communications and IT Minister Raafat Hindy said Egypt's digital sovereignty strategy rests on five pillars: sovereign digital infrastructure, cybersecurity, AI, data protection and technology talent.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Digital sovereignty strategy",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

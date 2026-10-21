@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Al3omk reports that the Ministry of Digital Transition told the House justice committee it developed the automated answerbot IA Idarati on a new AI-oriented data model covering 400 of about 2,400 administrative procedures, with prototype accuracy above 90 per cent.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "IA Idarati",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IA Idarati",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "Idarati national procedures portal",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": "prototype"
+  }
+ ],
+ "note": ""
+}

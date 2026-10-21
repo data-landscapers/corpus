@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "EuroMedAI says the CNDP issued guidance at the end of August 2026 to political parties on processing voters' data under Law No. 09-08.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Law No. 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "EuroMedAI says the CNDP, the National Commission for the Control of Personal Data Protection, issued guidance under Law No. 09-08 and opened a helpline, 3020.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "EuroMedAI says the CNDP's guidance to parties recalls duties to declare processing, obtain consent and control transfers abroad, and asks that AI-produced content be identified.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

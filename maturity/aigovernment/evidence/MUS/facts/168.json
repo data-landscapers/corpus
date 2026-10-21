@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-01-mus-vers-un-parlement-intelligent-comment-maurice-construit-un-avenir-pret",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI Hansard transcription system",
+   "country_label": "Mauritius National Assembly",
+   "class": "govai",
+   "platform": "cloud-hosted",
+   "owner": "National Assembly of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "Generative AI portal (RAG)",
+   "country_label": "Mauritius National Assembly",
+   "class": "other",
+   "platform": "retrieval-augmented generation on parliamentary data",
+   "owner": "National Assembly of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "The generative AI portal and an official AI policy are described as being built or prepared; no government-wide rules are stated."
+}

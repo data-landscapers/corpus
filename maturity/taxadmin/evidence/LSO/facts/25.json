@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Newsday reports that the Revenue Services Lesotho e-Tax platform now enables electronic payments, online registration and near-instant Tax Clearance Certificates.",
+   "as_of": "2025-10-07",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Lesotho",
+   "class": "taxsystem",
+   "platform": "e-Tax",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

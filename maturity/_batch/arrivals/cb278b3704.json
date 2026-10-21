@@ -1,0 +1,7 @@
+{"slug": "2024-06-25-ben-benin-une-expansion-en-vue-pour-l-assistant-virtuel-gpt-bj", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document mentions bias correction in a chatbot but no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "La Marina BJ reports that GPT BJ, the government's virtual assistant launched in 2023, answers citizens' questions on the tax, digital, labour and penal codes, and that the agency ASIN is preparing an expansion funded by the national budget.", "as_of": "2024-06-25", "date_precision": "day", "system": "GPT BJ", "class": "govai"}], "systems": [{"system": "GPT BJ", "country_label": "Benin", "class": "govai", "platform": "virtual assistant", "owner": "ASIN", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "GPT BJ is a general administration assistant, not inside a sector's system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document does not say who built GPT BJ or name the partner firm for the expansion."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document does not say government staff build or run GPT BJ; the expansion is with an outside AI firm."}}}
+}}

@@ -3,4 +3,4 @@ NER,general,authority,qualifier,constituted,2025-07,NER-004;NER-007,NER-001=none
 NER,general,standing,coverage,in-force,2026-04,NER-003;NER-006;NER-008,,
 NER,general,regulations,coverage,,,,,nothing held
 NER,general,application,coverage,activity,2025,NER-005,,
-NER,general,last12,qualifier,regressing,2026-06-13,NER-002,,
+NER,general,last12,qualifier,regressing,2026-06-13,NER-002;NER-010,,

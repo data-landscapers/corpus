@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,govai,use,coverage,underway,2025-10-21,BFA-001;BFA-002,,
+BFA,govai,use,coverage,inservice,2025-03-11,BFA-003,BFA-001=underway;BFA-002=underway,
 BFA,govai,bodies,coverage,,,,,nothing held
 BFA,govai,rules,coverage,,,,,nothing held

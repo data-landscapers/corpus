@@ -2,7 +2,7 @@
 
 ## Satellite data in agriculture
 
-**Satellite service.** [A June 2026 Addis Ababa workshop co-hosted by the Ethiopian Institute of Agricultural Research and the Agricultural Transformation Institute trained 50+ staff from seven countries including Ethiopia on the satellite-based CropWatch and ETWatch platforms for crop area, yield and evapotranspiration mapping, per AIRCAS](<https://english.aircas.ac.cn/newsroom/nu/202607/t20260706_1176333.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Satellite service.** [A June 2026 Addis Ababa workshop co-hosted by the Ethiopian Institute of Agricultural Research and the Agricultural Transformation Institute trained 50+ staff from seven countries including Ethiopia on the satellite-based CropWatch and ETWatch platforms for crop area, yield and evapotranspiration mapping, per AIRCAS](<https://english.aircas.ac.cn/newsroom/nu/202607/t20260706_1176333.html>). [FAO's EOSTAT project with the Ethiopian Statistics Service trained national experts in Adama and ran a pilot wheat-yield study in Arsi Zone, combining crop models with Earth-observation vegetation data, in February 2025](<https://www.fao.org/in-action/eostat/resources/news/news-detail/harnessing-earth-observation-and-process-based-models-for-crop-yield-estimation-in-ethiopia/en>).
 
 **Published regularly.** No source held since October 2023 says a satellite-based farming service publishes on a schedule. The nearest held fact: [the one given above](<https://english.aircas.ac.cn/newsroom/nu/202607/t20260706_1176333.html>).
 

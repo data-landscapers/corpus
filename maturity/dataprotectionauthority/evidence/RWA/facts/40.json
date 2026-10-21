@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Digital Policy Alert says the National Cyber Security Authority oversees data governance and set up its Data Protection Office in 2022, which issues guidelines.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "NCSA Data Protection Office",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "none",
+   "fact": "Digital Policy Alert says there are no public, official sources on enforcement action by the National Cyber Security Authority or its Data Protection Office.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "NCSA Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

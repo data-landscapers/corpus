@@ -21,8 +21,8 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 6 |
-| 3 Established | 10 |
+| 4 Operating | 7 |
+| 3 Established | 9 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -93,6 +93,13 @@ Cases could be filed with the courts online in 2026; judgments or case status op
 - The directive requires process to be uploaded for issuing on Court Online and supporting documents uploaded once the case number is allocated, by legal practitioners and litigants ([source, 2026-06](https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf)).
 - Nel said Court Online, now live for the Eastern Cape High Court, is powered by Microsoft for e-filing and case management ([source, 2025-07-16](https://justice.gov.za/m_speeches/2025/20250716-CourtOnline-DMin.html)).
 
+### Tanzania: 4 Operating
+
+Courts run electronic case management and litigants can file online (2026); public case look-up is not known.
+
+- Chief Court Administrator Elisante Ole Gabriel said litigants can now file cases online from anywhere and track case progress ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
+- Chief Court Administrator Elisante Ole Gabriel said the judiciary's electronic case management system is gradually phasing out paper-based files, and is being expanded ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
+
 ### Cape Verde: 3 Established
 
 Courts managed cases electronically in 2024; online filing is not on record.
@@ -147,12 +154,6 @@ Courts managed cases electronically in 2026; online filing is not on record.
 Courts managed cases electronically in 2025; online filing is not on record.
 
 - Goobjoog reports the Federal Government launched the Justice Sector Integrated Electronic Case Management System (IECMS) in Mogadishu on 9 October 2025, linking the CID, the Office of the Prosecutor, the courts and the prison service in one electronic workflow that officials say replaces the paper-based process ([source, 2025-10-09](https://en.goobjoog.com/somalia-launches-digital-case-management-system-to-modernize-justice-sector/)).
-
-### Tanzania: 3 Established
-
-Courts managed cases electronically in 2025; online filing is not on record.
-
-- The Judiciary's Chief Court Administrator named the Judiciary Electronic Case Management System (JoT e-CMS) among its platforms, and the ICT Centre director said Judiciary systems interface with 16 national institutions, enabling real-time tracking of all registered and adjudicated cases from the Court of Appeal to District Courts ([source, 2025-05-25](https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/)).
 
 ### Angola: 2 Nascent
 

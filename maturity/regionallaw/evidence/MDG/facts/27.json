@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-mdg-oif-afapdp-mission-cmil-operationalisation",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "ratified",
+   "fact": "The OIF says the Malagasy government ratified the Malabo Convention in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

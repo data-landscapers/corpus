@@ -1,0 +1,10 @@
+{"slug": "2026-02-18-zaf-iec-flags-generative-ai-and-hyper-local-disinformation-as-risk-ahead-o", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only the IEC's expectation of deepfakes and its reliance on the Cybercrimes Act; no AI-specific rule, authority or enforcement is stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"cybersecuritylaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Cybercrimes Act is named as a mechanism the IEC will rely on, but the document does not say it is in force or used."}}},
+"electoralregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Verification portals for registration status are part of a strategy being implemented, not stated as open; no register status stated."}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"opendiscussion": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No cut, punishment or criticism of a named government policy is stated."}}}
+}}

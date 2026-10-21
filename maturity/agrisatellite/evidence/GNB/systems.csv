@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GNB,FAO/GIEWS Earth Observation for Crop Monitoring,Guinea-Bissau,agrisat,,FAO GIEWS,,2026-02-06-fao-giews-country-brief-guinea-bissau
 GNB,Bulletin de suivi de la saison pluvieuse,Guinée-Bissau,agrisat,"Google Earth Engine, ArcGIS Pro",WFP Guinea-Bissau,,2025-08-01-wfp-guine-bissau-bulletin-suivi-saison-pluvieuse-aout-2025
+GNB,GTP bulletin,Guinea-Bissau,agrisat,,INM-led working group,,2026-08-27-gnb-capacitacao-dos-quadros-de-sistemas-de-informacao-da-guine-bissau-sobr

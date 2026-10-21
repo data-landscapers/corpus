@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,SWALIM remote sensing and image analysis unit,Somalia,agrisat,VHR/MR/LR satellite imagery,FAO SWALIM,national,2026-08-29-swalim-remote-sensing-service
 SOM,Somalia Monthly Vegetation Conditions (NDVI),Somalia,agrisat,NOAA/USGS E-MODIS NDVI,FSNAU,national,2026-08-19-fsnau-ndvi-vegetation-conditions
+SOM,DE Africa Maps and Sandbox,Somalia,other,Digital Earth Africa,Digital Earth Africa,,2025-11-06-som-building-capacity-for-earth-observation-in-somalia-a-three-phase-journ
+SOM,DRIVE satellite pasture index insurance,Somalia,agrisat,,"ZEP-RE with government, World Bank financed",,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
+SOM,ARC drought insurance (satellite-based parametric indices),Somalia,other,,African Risk Capacity,,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season

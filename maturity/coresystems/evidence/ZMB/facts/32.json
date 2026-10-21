@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-zmb-auditor-general-report-2025-companion",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Auditor General's report on the 2025 accounts audits the PMEC civil-service payroll as a running SAP system, finding workflow controls on only 8 of 29 infotypes, an unsupported Oracle database and no interface with IFMIS, with findings stated as at 31 August 2026.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "PMEC",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PMEC",
+   "country_label": "PMEC",
+   "class": "core",
+   "platform": "SAP, Oracle database",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

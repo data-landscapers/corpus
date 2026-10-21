@@ -22,3 +22,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,UGA,gov.protect--data-protection-authority,fact,4,4,UGA-004;UGA-003;UGA-001,Arrivals added UGA-016; stage unchanged.
 2026-10-17,ZAF,gov.protect--data-protection-authority,fact,5,5,ZAF-014;ZAF-028,Arrivals added ZAF-036; stage unchanged.
 2026-10-17,ZWE,gov.protect--data-protection-authority,fact,3,3,ZWE-015;ZWE-001,Arrivals added ZWE-015; ZWE-016; stage unchanged.
+2026-10-21,NER,gov.protect--data-protection-authority,fact,2,1,NER-007;NER-006,"Decree of 8 June 2026 abolished the HAPDP and an ordonnance repealed the law's provisions founding it (ANP, Africa Data Protection); 2 to 1"

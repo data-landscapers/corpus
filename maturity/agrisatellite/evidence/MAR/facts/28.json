@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-26-mar-fnh-mamda-multirisque-climatique-imagerie-satellitaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Multirisque climatique (MAMDA)",
+   "country_label": "Morocco",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "MAMDA with Ministries of Agriculture and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "MAMDA is a mutual insurer, not a ministry, agency or research institute."
+}

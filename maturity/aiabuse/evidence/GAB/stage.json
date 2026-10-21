@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "aiharm",
-      "stage": "3",
+      "stage": "4",
       "rule": "inforce",
-      "authority": "",
+      "authority": "designated",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GAB-001",
-      "gaps": "No source held since October 2023 says a body is designated with a mandate over AI.",
+      "stage_sources": "GAB-003",
+      "gaps": "No source held since October 2023 gives an enforcement or redress decision about a harm from AI.",
       "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-20"
+      "as_at": "2026-10-21"
     }
   ]
 }

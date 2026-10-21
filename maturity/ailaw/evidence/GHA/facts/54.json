@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-gha-myjoyonline-deepfakes-ai-cloning-mahama-arrests",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "MyJoyOnline says Ghana currently has no standalone law specifically regulating artificial intelligence.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

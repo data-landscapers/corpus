@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a public sector's system uses AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No source held shows an AI tool in service in a public sector's system.",
+      "note": "Fact 2026-10-21: the meteorological agency's October 2025 convention to bring AI into forecasting, as a pilot, answers question 1; nothing is in service.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

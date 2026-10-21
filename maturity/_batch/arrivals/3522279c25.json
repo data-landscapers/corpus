@@ -1,0 +1,5 @@
+{"slug": "2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a", "studies": {
+"aisectoral": {"countries": {"RWA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A MININFRA official says the ministry and the Rwanda Housing Authority released on 4 November 2025 an AI agent on Kubaka.gov.rw, the national building permits platform, that reviews design documents against the Building Code and zoning rules, with an instant yes or no for applicants promised only 'in the near future'.", "as_of": "2025-11-04", "date_precision": "day", "system": "AI agent on Kubaka.gov.rw", "class": "sectorai"}], "systems": [{"system": "Kubaka.gov.rw", "country_label": "Rwanda", "class": "other", "platform": "national building permits platform", "owner": "MININFRA and Rwanda Housing Authority", "tiers": ""}], "note": ""}}},
+"eparticipation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on online public participation in policy."}}},
+"publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on consultation on a digital law or policy."}}}
+}}

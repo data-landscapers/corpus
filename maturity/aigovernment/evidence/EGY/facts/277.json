@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-25-egy-alnafezah-mcit-baraka-genai-government-policy",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MCIT adviser Huda Baraka says more than 40 AI applications are already in use in various government bodies.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "AI applications in government bodies",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "MCIT adviser Huda Baraka says more than 40 AI applications are in use across different government bodies, and a number of ministries and agencies have begun using small language models.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "AI applications in government bodies",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": "A generative AI policy for government and a procurement guide are discussed or being prepared, not issued."
+}

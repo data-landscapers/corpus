@@ -114,6 +114,7 @@ Rwanda's central bank directive of January 2026 requires banks and e-money issue
 
 - Following the central bank's January 2026 directive, from 14 July 2026 all transfers between bank accounts and electronic money issuers (account-to-wallet, wallet-to-account, account-to-account, wallet-to-wallet) are routed through eKash, per RSwitch ([source, 2026-07-14](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye)).
 - The Rwanda Bankers' Association states that, effective 14 July 2026 under Directive No. 45/2026, every transfer between banks and electronic money issuers runs through the single eKash instant payment rail ([source, 2026-07-14](https://rba.rw/a-fully-connected-rwanda-what-ekash-interoperability-means-for-the-future-of-financial-inclusion/)).
+- Digital Policy Alert says the National Bank of Rwanda issued a regulation in September 2023 on licensing procedures for digital payment providers, after earlier licensing rules for electronic money issuers ([source, 2023-09](https://digitalpolicyalert.org/digest/dpa-digital-digest-rwanda)).
 - A National Bank of Rwanda directive issued in January 2026 required domestic interoperable retail payments between banks and electronic money issuers to move to the eKash platform, per ITWeb Africa reporting RSwitch ([source, 2026-01](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye)).
 
 ### Senegal: 5 Leading
@@ -222,7 +223,8 @@ Equatorial Guinea is under the 2018 regional payment services regulation, which 
 Ethiopia's 2020 central bank directives license payment operators and wallet issuers that are not banks; no rule requiring providers to connect is known.
 
 - The Reporter says the 2020 Payment Systems Operators directive created four licence categories (switch, POS, ATM and payment gateway operators) under which non-bank firms such as Chapa, Arifpay, Santimpay and Kacha were licensed, and the Payment Instrument Issuers directives enabled telecom operators to launch mobile wallets such as Telebirr and M-Pesa ([source, 2020](https://www.thereporterethiopia.com/52044/)).
-- The Reporter says the National Bank of Ethiopia introduced two regulatory frameworks in 2020, the Payment Instrument Issuers directives and the Payment Systems Operators directive, and that firms were licensed and operating under them through 2025 ([source, 2020](https://www.thereporterethiopia.com/52044/)).
+- Digital Policy Alert states that the National Bank's April 2020 directive allowed non-financial institutions such as mobile operators and fintech companies to offer mobile money ([source, 2020-04](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
+- Digital Policy Alert states that Ethiopia amended the National Payment System Proclamation in February 2023 and the National Bank issued an October 2023 directive on licensing payment instruments including electronic money ([source, 2023-10](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 
 ### Gabon: 4 Operating
 
@@ -424,7 +426,7 @@ Tanzania's 2015 National Payment Systems Act is in force and covers electronic m
 Zambia's 2007 National Payment Systems Act is in force; whether it licenses companies that are not banks is not known.
 
 - The Bank of Zambia issued binding directives on 14 September 2024 on charges and fees for electronic money services, with penalties for Electronic Money Institutions that violate them, Zambia Monitor reports ([source, 2024-09-14](https://www.zambiamonitor.com/bank-of-zambia-cracks-down-on-unwarranted-charges-for-electronic-money-services/)).
-- The Bank of Zambia's page says the National Payment Systems Act was enacted by parliament on 12 April 2007 to give legal backing to the operation of payment mechanisms in Zambia and to empower the Bank to regulate them ([source, 2007-04-12](https://www.boz.zm/national-payment-systems-act.htm)).
+- The Bank of Zambia's 2024 e-money charges directives, issued under the National Payment Systems Act 2007 and the Bank of Zambia Act 2022 and binding on all e-money institutions, banks and financial institutions from 2 August 2024, set prohibited and capped e-money fees ([source, 2024-08-02](https://regalert.today/document/directives-on-unwarranted-charges-and-fees-on-electronic-money-services-bca3f339-2d82-4256-967c-905e4917c5f1)).
 
 ### Zimbabwe: 3 Established
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Digital Policy Alert states that the National Bank of Ethiopia has exclusive authority to license payment system operators and issuers of payment instruments, and issued a licensing and authorisation directive in October 2023.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "National Payment System Proclamation (amended Feb 2023)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

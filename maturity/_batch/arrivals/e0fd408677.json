@@ -1,0 +1,10 @@
+{"slug": "2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on authentication services."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a 2034 target of a digital identity for 90% of citizens; no count of people enrolled."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on an ID system in service or under way beyond a 2034 target."}}},
+"interoperability": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Names a project on interoperability of public information systems launched in March 2026 but no framework, decree or roadmap."}}}
+}}

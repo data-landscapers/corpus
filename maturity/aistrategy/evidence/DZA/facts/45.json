@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-09-dza-mesrs-deuxieme-reunion-coordination-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Le Jour d'Algerie, quoting a ministry communique, reports that the Minister of Higher Education and Scientific Research chaired the second coordination meeting on implementing Algeria's national AI strategy.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Stratégie nationale d'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The ministry communique reports that five thematic commissions (data and infrastructure, financing, large language models, AI doctorate, continuing AI training) were installed around the strategy's main axes, after the first coordination meeting of 5 August set up a joint follow-up commission for the strategy's roadmap.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Stratégie nationale d'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale d'intelligence artificielle",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

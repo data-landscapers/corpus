@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-13-tun-leconomistemaghrebin-tribune-gouvernance-ia-quatre-conditions",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The column says the Ministry of Communication Technologies has been finalising a national AI strategy since November 2024 and its formal adoption is still awaited.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,GEOCIF,Malawi,agrisat,NASA Harvest machine-learning yield forecast model,"NASA Harvest with FAO, for the Ministry of Agriculture",district,2026-02-01-in-season-yield-forecasting-malawi
 MWI,National Committee on Crop Estimates,Malawi,other,,Ministry of Agriculture,national,2026-02-01-in-season-yield-forecasting-malawi
+MWI,PRISM,Malawi,agrisat,,"DCCMS, with WFP",,2025-08-14-mwi-malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resi
+MWI,GEOCIF,Malawi,agrisat,"ML and remote sensing, with Survey123 field data",NASA Harvest and FAO for the Ministry of Agriculture,Admin-2 level,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro

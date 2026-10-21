@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-23-mdg-la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Madagascar's customs directorate says on its own site that its AI-based customs chatbot gives instant answers 24 hours a day on the most common customs procedures, and showed it with the e-Tariff portal at the Foire Internationale de Madagascar on 22-26 May 2025.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "chatbot douanier",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "chatbot douanier",
+   "country_label": "Madagascar",
+   "class": "govai",
+   "platform": "",
+   "owner": "Direction générale des douanes",
+   "tiers": ""
+  },
+  {
+   "system": "e-Tariff",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction générale des douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

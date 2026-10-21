@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-gha-ghanafact-csa-social-media-monitoring-deepfakes",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "At a 4 August 2025 press briefing with the Police CID, the Cyber Security Authority's Director-General Divine Selassie Agbeti said the Authority had taken down multiple accounts spreading AI-generated deepfakes and scams, though takedowns depend on platform owners' own investigations.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Cyber Security Authority social media monitoring team",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority social media monitoring team",
+   "country_label": "CSA social media monitoring team",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Cyber Security Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

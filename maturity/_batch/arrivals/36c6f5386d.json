@@ -1,0 +1,23 @@
+{
+ "slug": "2024-06-24-ben-dossier-d-appel-d-offres-pour-la-mise-en-oeuvre-des-solutions-d-ia-dev",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GPT BJ",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": "A tender notice for a GPT BJ platform; no government staff running, building or employed on a system is stated."
+    }
+   }
+  }
+ }
+}

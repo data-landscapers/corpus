@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-09-gmb-fao-gambia-geolab-geo-for-good",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO says the Gambia GeoLab, a national geospatial platform on Google Earth Engine developed under the ROOTS project, translates satellite data into indicators for monitoring land cover, rice production, mangroves and forests.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Gambia GeoLab",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gambia GeoLab",
+   "country_label": "Gambia",
+   "class": "agrisat",
+   "platform": "Google Earth Engine",
+   "owner": "FAO, ROOTS project",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

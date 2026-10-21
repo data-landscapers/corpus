@@ -1,6 +1,6 @@
 # Data localisation policies: localisation rule
 
-*As at 2026-09-30.*
+*As at 2026-10-21.*
 
 ## The norm
 
@@ -21,8 +21,8 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 10 |
-| 3 Established | 13 |
+| 4 Operating | 12 |
+| 3 Established | 11 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -30,12 +30,26 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 
 ## Countries
 
+### Algeria: 4 Operating
+
+Algeria's telecoms regulator has required public cloud data to be hosted in the country since 2017; no order under the rule is known.
+
+- The same cloud localisation rule was issued by the Regulatory Authority of Post and Electronic Communications, which licenses cloud data hosting providers, per Digital Policy Alert ([source, 2017-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
+- Digital Policy Alert says the Law on Audiovisual Activity entered into force in December 2024, requiring online audiovisual services to be hosted on servers physically located in Algeria ([source, 2024-12](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
+
 ### Angola: 4 Operating
 
 A 2020 decree keeps Angola's credit bureaux' data centres in the country and names an enforcer; whether it has been applied is not known.
 
 - Decree 275/20 makes the Agência de Protecção de Dados responsible for authorising, supervising, inspecting and fining private credit bureaux (Articles 6 and 53), and for approving any use of cloud storage for their data (Article 21); breaching the regulation, including cloud adoption without that approval, is a fineable contravention (Articles 51 and 52) ([source, 2020-10-21](https://angolex.com/paginas/decreto-presidencial/regulamento-da-actividade-das-centrais-privadas-de-informacao-de-credito.html)).
 - Presidential Decree 275/20 of 21 October 2020 (Article 19) requires private credit information bureaux to have their primary data processing centres in national territory and replica facilities for data recovery also inside national territory, at least 30 km from the primary centre (Article 20); the document gives no later compliance date and no repeal ([source, 2020-10-21](https://angolex.com/paginas/decreto-presidencial/regulamento-da-actividade-das-centrais-privadas-de-informacao-de-credito.html)).
+
+### Ethiopia: 4 Operating
+
+Ethiopia's communications authority has required telecom data to stay in the country since 2021; no order under the rule is known.
+
+- Digital Policy Alert states that the Ethiopian Communications Authority, which issued the telecom localisation directive, oversees compliance with data protection rules; it adds that no official enforcement sources are published ([source, 2024-07](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
+- Digital Policy Alert states that the Personal Data Protection Proclamation, implemented in July 2024, requires controllers and processors to store personal data collected locally on a server or data centre within Ethiopia ([source, 2024-07](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 
 ### Libya: 4 Operating
 
@@ -71,6 +85,7 @@ Nigeria's central bank ordered in June 2026 payment data be stored in Nigeria fr
 Rwanda requires public sector data in the government data centre or approved sites, a 2025 brief says; whether that has been applied is not known.
 
 - The brief states that local storage of some data in Rwanda depends on certification by the National Cyber Security Authority; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
+- Digital Policy Alert says the Rwanda Utilities Regulatory Authority fined MTN Rwanda FRW 7.03 billion in May 2017 for hosting its IT services outside the country ([source, 2017-05](https://digitalpolicyalert.org/digest/dpa-digital-digest-rwanda)).
 - The brief (Xalam Analytics for the Digital Investment Facility) states there is no blanket localisation requirement in Rwanda but some data must be stored locally depending on circumstances, and public sector data must be hosted in the government data center or in facilities meeting Rwanda Development Board standards, under the 2021 Law on Data Privacy and Protection; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
 
 ### Tanzania: 4 Operating
@@ -101,12 +116,6 @@ Zimbabwe's data protection authority requires core banking and critical financia
 - The guidelines name POTRAZ, the Data Protection Authority, as the body whose prior written approval, backed by a risk assessment and justification, is required for any exception to local hosting of highly sensitive systems such as core banking; the document gives no date, so its published date of 2025-01-01 is used ([source, 2025](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf)).
 - POTRAZ, as the designated Data Protection Authority, states in its implementation guidelines that it will not permit highly sensitive information such as core banking platforms and critical financial systems to be hosted outside Zimbabwe and that such systems must be hosted locally; the document gives no date, so its published date of 2025-01-01 is used ([source, 2025](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf)).
 
-### Algeria: 3 Established
-
-Algeria's personal data law, in force since August 2023, makes storing data in the country mandatory; the enforcer is not known.
-
-- The US International Trade Administration's country commercial guide states that data localisation is mandatory in Algeria, with data to be stored in-country, under Law No. 18-07, which came into force on 10 August 2023 ([source, 2023-08-10](https://www.trade.gov/country-commercial-guides/algeria-digital-economy)).
-
 ### Botswana: 3 Established
 
 Botswana's data protection law, in effect since January 2025, requires a copy of data to stay in the country; the enforcer is not known.
@@ -136,12 +145,6 @@ Since 2020 a decree requires the national register of persons' data to be stored
 Egypt's Cloud First Policy, in force since August 2024, requires secret data to be hosted only in Egypt; the enforcer is not known.
 
 - Digital Policy Alert records that Egypt's Cloud First Policy, adopted by the Supreme Council of Digital Society on 13 March 2024, entered into force on 22 August 2024 and requires data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
-
-### Ethiopia: 3 Established
-
-Ethiopia's 2024 personal data protection proclamation requires personal data collected in the country to be stored on servers there; the enforcer is not known.
-
-- Digital Policy Alert records that Personal Data Protection Proclamation No. 1321/2024, adopted by Parliament on 4 April 2024, entered into force on 24 July 2024 and requires data controllers and processors to store locally collected personal data on servers in Ethiopia ([source, 2024-07-24](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024)).
 
 ### Gabon: 3 Established
 

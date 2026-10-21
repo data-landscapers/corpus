@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-20-uga-ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Hotspot licensing rules only; no user share or mobile price stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Hotspot licensing rules only; no user share or mobile price stated."
+    }
+   }
+  }
+ }
+}

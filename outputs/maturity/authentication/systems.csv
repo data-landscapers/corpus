@@ -35,6 +35,7 @@ BEN,Registre national des personnes physiques (RNPP),Benin,other,,Agence nationa
 BEN,Numero personnel d'identification (NPI),Benin,other,,ANIP,simple authentication; strong authentication; data exchange,2024-03-29-ben-lanation-interoperabilite-rnpp-npi
 BEN,Preuve de Vie app,Preuve de Vie,other,mobile app and biometric kiosks,FNRB,,2026-10-17-ben-ecofin-preuve-de-vie-pensioners-app
 BEN,Smart Africa Data Exchange (SADX),Benin,other,SADX under the Smart Africa Trust Alliance,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
+BEN,Smart Africa Data Exchange (SADX),SADX,authentication,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
@@ -187,6 +188,8 @@ ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-e
 ETH,Fayda,Ethiopia,other,,National ID Program (NIDP),,2025-02-12-eth-biometricupdate-unicef-birth-registration-fayda
 ETH,INSA public key infrastructure (Root CA),Ethiopia,authentication,PKI data centre,Information Network Security Agency (INSA),,2024-09-01-eth-addisfortune-insa-pki-data-centre
 ETH,FaydaVerse,FaydaVerse (National ID),authentication,,FaydaVerse,,2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification
+ETH,teleSign,Ethiopia,other,mobile app and website,Ethio Telecom,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
+ETH,Fayda National Digital ID,Ethiopia,authentication,,,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -234,6 +237,7 @@ GHA,Ghana Electronic Document Wallet,Ghana,other,PKI,NITA,,2026-06-26-nita-gedw-
 GHA,Ghana Card / National Identification System,GHA,other,Margins ID Group identity management system under PPP,NIA,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,NIA verification system,NIA verification system,authentication,,National Identification Authority,,2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,SADX under the Smart Africa Trust Alliance,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
+GHA,Smart Africa Data Exchange (SADX),SADX,authentication,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 GIN,fichier électoral biométrique (DGE),Guinea,other,,DGE,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identité (RNPP),Guinea,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
@@ -311,6 +315,7 @@ MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometric
 MAR,Mon e-ID,MAR,authentication,iDAKTO with Idemia Smart Identity by IN Group,ADD and DGSN,,2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)
 MAR,Idarati X.0,Morocco,authentication,,,,2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework
 MAR,CNIE,Morocco,other,,,,2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques
+MAR,IDARATI X.0,Morocco,authentication,national digital wallet linked to the electronic national ID card,Ministry of Digital Transition and Administration Reform,,2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MLI,SIGRH,Mali,other,,Ministry of Refondation de l'Etat,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
 MLI,NINA,Mali,other,,ANSAEC,,2026-02-20-lessor-sigrh-controle-biometrique-agents-etat
@@ -343,6 +348,7 @@ MUS,MauPass,Mauritius,other,maupass.govmu.org,"Ministry of Information Technolog
 MUS,KOREK! app,Mauritius,other,Google Play; App Store; Huawei AppGallery,"Ministry of Information Technology, Communication and Innovation",,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
 MUS,Digital Driving Licence,Mauritius,other,KOREK!,Mauritius Police Force,,2026-10-03-permis-de-conduire-numerique-compte-a-rebours
 MUS,Mobile digital ID,Mauritius,authentication,mobile,,,2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate
+MUS,MauPass,Mauritius,authentication,MauPass authentication platform,Government of Mauritius,,2026-02-13-mus-highlights-of-cabinet-meeting-friday-13-february-2026
 MWI,Biometric SIM registration,Malawi,other,NRB systems integration,Airtel; TNM,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Malawi Social Registry (MSR),Malawi,other,NRB integration module,,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Biometric KYC pilots,Malawi,other,NRB verification gateway,Standard Bank; First Capital Bank; National Bank; Centenary Bank; Old Mutual,,2026-02-01-mwi-undp-idt4m-annual-report-2025
@@ -484,6 +490,7 @@ RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-contr
 RWA,e-Indangamuntu digital ID,Rwanda,other,,NIDA,"number, digital token, card with QR code",2026-03-16 Digital IDs How registration is progressing so far
 RWA,Digital ID,Rwanda,authentication,,NIDA,,2026-08-17-newtimes-rwanda-digital-id-enrollment-8-million
 RWA,Smart Africa Data Exchange (SADX),Rwanda,other,SADX under the Smart Africa Trust Alliance,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
+RWA,Smart Africa Data Exchange (SADX),SADX,authentication,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
 SDN,Omdurman National Bank digital channels,Sudan,other,,Omdurman National Bank,,2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc
 SDN,SudaPass,Sudan,other,,Ministry of Digital Transformation and Communications,,2026-08-23-sudantribune-bank-of-sudan-sudapass-data-update

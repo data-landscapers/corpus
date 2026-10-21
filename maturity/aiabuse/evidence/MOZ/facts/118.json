@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-moz-rpcj-viage-tipificacao-penal-cibercrimes-ia",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "A law journal article by Bitone Viage says Mozambique has no specific legal provisions on AI-enabled digital crime such as deepfakes, algorithmic manipulation of data and automated attacks, a significant normative void.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

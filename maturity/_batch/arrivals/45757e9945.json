@@ -1,0 +1,18 @@
+{"slug": "2026-08-02-tza-fake-ai-photos", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "FB Attorneys says Tanzania has no specific law regulating AI or deepfakes, and that the government's AI Strategic Framework acknowledges AI-generated misinformation and deepfakes are not comprehensively addressed in current law.", "as_of": "2026-08-02", "date_precision": "day", "system": "", "class": "aiharm"}
+], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "FB Attorneys says Tanzania does not yet have a specific law regulating AI or deepfake technology.", "as_of": "2026-08-02", "date_precision": "day", "system": "", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"cybersecuritylaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "FB Attorneys describes Tanzania's Cybercrimes Act as criminalising false or misleading published information (section 16) and cyberbullying (section 23), and setting a take-down notification procedure (section 45).", "as_of": "2026-08-02", "date_precision": "day", "system": "Cybercrimes Act", "class": "law"}
+], "systems": [], "note": "No dated use of the Act is given."}}},
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "FB Attorneys says Tanzania's Personal Data Protection Act requires personal data to be collected and processed lawfully, fairly and transparently, with mechanisms for investigation, enforcement and compensation.", "as_of": "2026-08-02", "date_precision": "day", "system": "Personal Data Protection Act", "class": "general"}
+], "systems": [], "note": "No authority, regulation or dated decision is named."}}},
+"opendiscussion": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on public discussion, cuts or punishment."}}}
+}}

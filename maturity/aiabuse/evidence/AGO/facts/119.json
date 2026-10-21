@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Portal de TI reports that Angola's Proposta de Lei sobre a Inteligência Artificial is in public consultation, and that the country has no AI-specific legislation yet.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Proposta de Lei sobre a Inteligência Artificial",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "APD legal director Njunjulo António says the right not to be subject to automated decisions already exists and that the agency's inspection and audit of AI use rests on data-processing principles of transparency, purpose and lawfulness.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Right not to be subject to automated decisions",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": "APD reports no AI-related data breach case to date, so no enforcement is recorded."
+}

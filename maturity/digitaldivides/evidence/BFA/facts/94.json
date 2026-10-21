@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-19-dcd-burkina-faso-800-telecom-towers",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Burkina Faso's government connected 183 'white zone' areas without network coverage in 2022 at a cost of CFA6.2 billion, per DCD citing Ecofin Agency.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "white zones programme",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Burkina Faso's government plans 800 telecom towers this year, 250 through the Digital Transformation Acceleration Project and 550 financed by the Universal Access and Service Fund (FASU), to reach 1,000 white zones by 2027, per DCD citing Ecofin Agency.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "FASU white zones programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access and Service Fund (FASU)",
+   "country_label": "FASU",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

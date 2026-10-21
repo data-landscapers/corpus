@@ -1,0 +1,8 @@
+{"slug": "2024-03-26-civ-cote-d-ivoire-le-bnetd-presente-la-carte-d-occupation-des-sols-2020-av", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The AI use named is a land-cover map for agriculture and forests, not general administration."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Abidjan.net reports that BNETD presented the 2020 land-cover map on 26 March 2024, with AI recognition of forests on 2020 Sentinel imagery, offered through an online platform as a monitoring tool for the national sustainable cocoa strategy, as stated by BNETD's digital director and ministry representatives.", "as_of": "2024-03-26", "date_precision": "day", "system": "carte d'occupation des sols 2020 (BNETD)", "class": "sectorai"}],
+"systems": [{"system": "carte d'occupation des sols 2020", "country_label": "Côte d'Ivoire", "class": "sectorai", "platform": "online land-cover data access platform", "owner": "BNETD (CIGN)", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states AI used to classify imagery but no AI model, dataset made for AI or AI computing developed or hosted in the country."}}}
+}}

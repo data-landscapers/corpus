@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Chatbot WhatsApp de l'OBR",
+   "country_label": "Burundi",
+   "class": "govai",
+   "platform": "WhatsApp",
+   "owner": "Office Burundais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": "Fact set aside at merge: does not meet the drafter brief."
+}

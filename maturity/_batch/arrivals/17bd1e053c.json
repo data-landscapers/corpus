@@ -1,0 +1,8 @@
+{"slug": "2026-05-22-zwe-chivayo-withdraws-charges-against-ex-wife-and-her-mother-after-nights", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "NewZimbabwe reports that two women were charged under Section 164B of the Criminal Law (Codification and Reform) Act for allegedly circulating AI-generated images and videos of a businessman with South Africa's president, were held in custody for three to four nights, and the complainant withdrew the charges in court on 22 May 2026.", "as_of": "2026-05-22", "date_precision": "day", "system": "Section 164B, Criminal Law (Codification and Reform) Act", "class": "aiharm"}],
+"systems": [], "note": ""}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI tool in a public sector's system is stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}}
+}}

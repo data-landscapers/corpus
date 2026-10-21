@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,agrisat,service,coverage,inservice,2023,NER-001,NER-003=underway,
+NER,agrisat,service,coverage,underway,2023,NER-001;NER-003,,
 NER,agrisat,published,coverage,,,,,nothing held
-NER,agrisat,reach,coverage,counted,2021-10,NER-002,,nothing dated since 2023-10-18
+NER,agrisat,reach,coverage,counted,2021-10,NER-002,,nothing dated since 2023-10-21

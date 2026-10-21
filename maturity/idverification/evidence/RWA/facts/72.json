@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Smart Africa says Rwanda completed Phase 1 of the SADX pilot, in which a traveller's identity is checked against the home country's official records, tested on synthetic data.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Smart Africa Data Exchange (SADX)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Data Exchange (SADX)",
+   "country_label": "SADX",
+   "class": "relying",
+   "platform": "Ascend Digital Solutions",
+   "owner": "Smart Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-28-egy-tafsela-hadayek-el-kobba-ai-fabricated-interior-ministry-videos",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "Tafsela reports that the Hadayek El Kobba prosecution ordered a suspect held four days pending investigation for using AI to doctor images from the Interior Ministry's official page and reposting them for views and profit.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "Hadayek El Kobba prosecution detention order",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

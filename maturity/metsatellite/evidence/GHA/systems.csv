@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GHA,NWCSAF,Ghana,metsat,"EUMETSAT MSG via Atlantic Bird 2, Tellicast",GMet and KNUST,,2022-07-06-gha-authorea-nwcsaf-high-impact-weather-forecasting
+GHA,GEOMAIZE,GEOMAIZE,other,,GSSTI with VITO,,2026-03-17-gha-geoglam-geomaize-yield

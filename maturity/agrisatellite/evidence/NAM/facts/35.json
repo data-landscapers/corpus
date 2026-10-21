@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "NASA Harvest says satellite-based tools and high-resolution cropland masks built for Namibia, provided to the Ministry of Agriculture, Water and Land Reform under a USAID-funded FAO pilot, were used operationally in 2023 and continue to support regular crop monitoring.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "NASA Harvest cropland masks and monitoring tools",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NASA Harvest cropland masks and monitoring tools",
+   "country_label": "Namibia",
+   "class": "agrisat",
+   "platform": "NASA Harvest Data Portal, Survey123",
+   "owner": "NASA Harvest and FAO with the Ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

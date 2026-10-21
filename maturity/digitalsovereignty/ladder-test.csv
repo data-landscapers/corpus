@@ -1,11 +1,11 @@
 iso3,stage,rule,hosted,terms,stage_sources
 AGO,2,underway,,,AGO-002;AGO-003
 BDI,2,underway,,,BDI-001
-BEN,2,underway,,,BEN-001
+BEN,2,underway,,,BEN-002;BEN-001
 BFA,4,inservice,national,,BFA-003;BFA-006
 BWA,3,inservice,,,BWA-001
 CAF,1,none,,,CAF-001
-CIV,2,underway,,,CIV-001
+CIV,2,underway,,,CIV-002;CIV-001
 CMR,4,inservice,national,,CMR-001
 COD,4,inservice,national,,COD-002
 COG,4,inservice,national,,COG-006

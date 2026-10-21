@@ -1,0 +1,8 @@
+{"slug": "2025-10-14-bfa-burkina-faso-le-gouvernement-integre-l-intelligence-artificielle-au-se", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The minister speaks of mastering AI risks; no rule or authority is stated."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only an ambition and a ministry AI roadmap being finalised; the AI convention is for weather forecasting, a sector."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Burkina Faso's digital transition minister and the director general of the national meteorological agency ANAM signed a collaboration and research convention on 10 October 2025 to bring AI into forecasting, with ANAM saying it was chosen as the pilot structure.", "as_of": "2025-10-10", "date_precision": "day", "system": "ANAM AI forecasting convention", "class": "sectorai"}], "systems": [{"system": "ANAM AI forecasting convention", "country_label": "Burkina Faso", "class": "sectorai", "platform": "", "owner": "Agence Nationale de la Meteorologie (ANAM)", "tiers": "pilot"}], "note": ""}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or computing built or hosted in the country."}}},
+"metsatellite": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document mentions AI for forecasts but no satellite data."}}},
+"police": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Document names the national police only as a planned AI convention partner, with no station records."}}}
+}}

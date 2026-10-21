@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-01-mus-mauritius-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "UNESCO says Mauritius's National AI Strategy 2018 exists, though it judges it outdated.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National AI Strategy 2018",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "UNESCO says the 2018 National AI Strategy led to the setup of the Mauritius Emerging Technologies Council (METC), the leading institution for AI awareness and development.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Mauritius Emerging Technologies Council",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2018",
+   "country_label": "Mauritius",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "Mauritius Emerging Technologies Council",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

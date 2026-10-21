@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Egypt Today reports the Ministry of Irrigation and Water Resources is developing machine-learning algorithms for crop type mapping in a pilot in Kafr El Sheikh governorate.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "Satellite crop type mapping pilot",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

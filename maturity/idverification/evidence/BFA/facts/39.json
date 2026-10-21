@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-16-bfa-aconews-gendarmerie-cib-aes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIB-AES",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Gendarmerie brigades now enrol people for the CIB-AES card, which is the ID system's own enrolment; no other system checking against the ID is stated."
+}

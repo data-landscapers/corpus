@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-08-gin-ia-et-protection-des-donnees-personnelles-la-ministre-rose-pola-pricem",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Minister Rose Pola Pricemou says Guinea has the Agence nationale de sécurité des systèmes d'information (ANSSI), which checks that State information systems and holders of critical data follow security rules.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

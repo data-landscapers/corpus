@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-001;EGY-002",
-   "gaps": "No source held since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003",
+      "gaps": "No source held says a government satellite-based farming service publishes on a schedule, or counts farmers reached.",
+      "note": "Stage 3 on 2026-10-21: NARSS and the agriculture ministry produced a remote-sensing winter crop map for 2023-24, inventorying crops by governorate. No schedule of publication is on record, so not 4.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

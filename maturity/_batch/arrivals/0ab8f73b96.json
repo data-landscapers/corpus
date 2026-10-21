@@ -1,0 +1,7 @@
+{"slug": "2025-01-30-zmb-zambia-to-introduce-ai-power-system-to-tackle-misinformation-disinform", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "SMART Zambia AI chatbot", "country_label": "Zambia", "class": "other", "platform": "chatbot", "owner": "SMART Zambia", "tiers": "planned"}], "note": "Only a declared intention to create the AI system, with no pilot, tender or launch."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states no AI tool in a sector's public system."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document names no builder, funder or site for the planned system."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states no government staff running or building a system."}}}
+}}

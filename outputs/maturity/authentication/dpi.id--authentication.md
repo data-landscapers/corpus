@@ -65,8 +65,8 @@ People could prove who they are online with a digital ID in 2024.
 
 People could prove who they are online with a digital ID in 2026.
 
+- The ministry announced the launch of the unified public digital services project through the IDARATI X.0 app, based on a national digital wallet linked to the electronic national identity card ([source, 2026-06-11](https://al3omk.com/1166931.html)).
 - Mon e-ID is already in use to let citizens carry the digital version of their national ID card, per DGSN officials ([source, 2026-05](https://www.biometricupdate.com/202606/morocco-moves-national-id-renewal-online-as-digital-identity-modernization-advances)).
-- Biometric Update reports Morocco is working on a digital wallet super app, with work ongoing (underway, not in service) ([source, 2026-05-12](https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens)).
 
 ### Somalia: 5 Leading
 

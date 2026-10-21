@@ -1,0 +1,12 @@
+{"slug": "2025-11-01-lby-jaf-ai-crimes-legislative-gaps-libya", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "none", "fact": "The Journal of the Academic Forum article abstract says a legislative vacuum in Libya leaves AI-related crimes, including deepfakes, unaddressed, and that Libyan legislation must be updated.", "as_of": "2025-11-01", "date_precision": "day", "system": "", "class": "aiharm"}
+], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"ailaw": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The Journal of the Academic Forum article abstract says Libya has a legislative vacuum on AI-related crimes and that Libyan legislation needs updating to cover them.", "as_of": "2025-11-01", "date_precision": "day", "system": "", "class": "law"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"cybersecuritylaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only a reference-list title mentions a cybercrime law; the body states nothing on its standing or use."}}}
+}}

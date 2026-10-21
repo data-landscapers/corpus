@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-nam-namibia-to-develop-national-guidelines-for-responsible-ai-adoption",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Brief reports that the Communications Regulatory Authority of Namibia (CRAN) says it is drafting national guidelines on the responsible adoption and use of AI, covering governance, transparency and accountability, and is preparing a regulatory sandbox.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "CRAN guidelines on AI and emerging technologies",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CRAN guidelines on AI and emerging technologies",
+   "country_label": "Namibia",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Communications Regulatory Authority of Namibia (CRAN)",
+   "tiers": "draft"
+  }
+ ],
+ "note": ""
+}

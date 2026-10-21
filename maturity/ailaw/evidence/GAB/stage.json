@@ -8,7 +8,7 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "GAB-001",
+   "stage_sources": "GAB-001;GAB-002",
    "gaps": "No source held says a law on AI itself, applying across sectors, is in force.",
    "note": "Counted from the four questions by study-ladder-ailaw.py."
   }

@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Cloud unificada governamental (cloud nacional),Angola,sovereignty,Camama main data centre (204 server cabinets) and Rangel backup data centre,State of Angola,"three levels: organs of sovereignty, State administration, information society",2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel
 BDI,Setic data center,Burundi,sovereignty,,Secretariat executif des technologies de l'information et de la communication (Setic),,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
+BEN,Comité national du Numérique,Benin,other,,Presidency of the Republic,,2026-10-20-ben-presidence-de-la-republique-un-comite-national-du-numerique-cree
 BFA,"Two modular government datacenters, Ouagadougou",BFA,other,government cloud,Ministry of Digital Transition (state),,2026-01-25-gouvernement-inaugure-deux-datacenters
 BFA,Planned national datacenter,BFA,other,,state (planned),,2026-01-25-gouvernement-inaugure-deux-datacenters
 BFA,Government cloud modular datacenters (Ouagadougou),BFA,other,government cloud,Ministry of Digital Transition (state),,2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental
@@ -179,6 +180,7 @@ SEN,Diamniadio National Datacenter (DND),Data Center National de Diamniadio,othe
 SEN,"sovereign data center (planned, Cybastion)",Senegal,sovereignty,,Cybastion with the Senegalese government,,2026-09-17-panafricanvisions-senegal-cybastion-digital-fast-track-sovereign-data-centre
 SEN,Data Center de Sénégal Numérique (SENUM),Senegal,sovereignty,,Sénégal Numérique (SENUM),,2026-08-20-seneweb-loi-securite-numerique-adoption
 SEN,Datacenter national (SENUM SA),Datacenter national,other,,SENUM SA,,2024-02-02-sen-osiris-dossier-patient-unique-partage
+SEN,Stellarix sovereign cloud,Senegal,other,cloud,Stellarix,,2026-10-15-sen-stellarix-sen-startup-cloud-souverain
 SLE,Government Data Centre,Sierra Leone,sovereignty,NatCA Tower,"Ministry of Communication, Technology and Innovation",redundancy site planned at State House,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SOM,Government Data and Cybersecurity Center,Somaliland,sovereignty,government data centre (under construction),Ministry of Information and Communication Technology,,2025-10-20-taiwanicdf-somaliland-government-data-center
 SOM,S-Road,Somaliland,other,e-governance system,,,2025-10-20-taiwanicdf-somaliland-government-data-center

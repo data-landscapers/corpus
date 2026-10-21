@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-24-ben-benin-hosts-the-regional-innovation-and-digital-technology-lab-with-a",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "IIDIA and Benin's ASIN launched in Cotonou the development of a Fon-language voice-to-voice AI model, with a prototype due in nine months, trained on NVIDIA A100/H100 GPUs, supported by the Gates Foundation.",
+   "as_of": "2025-06-24",
+   "date_precision": "day",
+   "system": "Fon voice-to-voice AI model",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fon voice-to-voice AI model",
+   "country_label": "Benin",
+   "class": "localai",
+   "platform": "",
+   "owner": "IIDIA and ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Digital Policy Alert states that the June 2020 Electronic Transactions Proclamation set cybersecurity requirements for e-commerce platforms, including secure data transmission and storage.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Electronic Transactions Proclamation",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

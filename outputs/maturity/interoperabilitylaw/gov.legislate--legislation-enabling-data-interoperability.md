@@ -204,8 +204,8 @@ A government data sharing regulation was proposed in June 2026; nothing in force
 
 A framework bill covering interoperability between government institutions was under government review in November 2025; nothing is in force.
 
-- Biometric Update reports that Morocco's 'Digital X.o' draft law, covering AI governance, data interoperability and digital identity, was still being worked on before submission to parliament, and that the Minister Delegate for Digital Transition said it clarifies data interoperability among government institutions (a draft bill, not in force); no event date is given, so the article's published date is used ([source, 2025-11-06](https://www.biometricupdate.com/202511/morocco-prepares-new-legislation-to-accelerate-digital-transformation)).
-- We Are Tech Africa reports that Morocco's 'Digital X.0' framework bill, on AI, data governance, digital identity and interoperability, was under review by the General Secretariat of the Government, and that it sets an interoperability model in which any exchange of information between public agencies is authorised by the user through traceable consent (a draft bill, not in force); no event date is given, so the article's published date is used ([source, 2025-11-04](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-drafts-landmark-law-to-govern-ai-data-and-digital-identity)).
+- The Ministry of Digital Transition says it is preparing a draft law on digitising administrative services that provides for data-exchange platforms between administrations and bars asking users for documents or information public bodies already hold ([source, 2026-06-11](https://al3omk.com/1166931.html)).
+- EuroMedAI says a draft framework law known as Digital X.0, covering data governance, digital identity and interoperability, was reported in late 2025 to be under review at the General Secretariat of the Government ([source, 2025](https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/)).
 
 ### Senegal: 2 Nascent
 

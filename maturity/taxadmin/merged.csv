@@ -1,7 +1,9 @@
 iso3,source_slug,read,merged_on
 BDI,2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform,,2026-10-19
+BDI,2026-10-15-bdi-primature-rgeb-2026-recensement-entreprises-lancement,,2026-10-21
 BEN,2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss,,2026-10-19
 BEN,2024-05-25-ben-digitalbusinessafrica-dgi-e-services-launch,,2026-10-19
+BEN,2026-02-13-ben-lamarina-tcc-trois-e-services,,2026-10-21
 BFA,2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire,,2026-10-19
 BWA,2020-03-17-bwa-dailynews-lekgetho-live-tax-system,,2026-10-19
 BWA,2020-08-20-bwa-dailynews-burs-tax-return-threshold-efiling,,2026-10-19
@@ -38,8 +40,11 @@ CPV,2019-03-08-cpv-dnre-novo-meio-pagamento-impostos-online,,2026-10-19
 CPV,2024-05-28-cpv-dnre-funcionamento-portal-declaracoes,,2026-10-19
 DJI,2025-01-01-wb-dji-001-djibouti-economic-and-financial-governance-project,,2026-10-19
 DJI,2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance,,2026-10-19
+DZA,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations,,2026-10-21
 DZA,2024-12-01-dza-sentinelle-sigb-premiere-phase-deploiement,,2026-10-19
 DZA,2026-06-15-algeriezoom-impots-jibayatic-generalisation,,2026-10-19
+DZA,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas,,2026-10-21
+DZA,2026-09-08-dza-elwatan-dme-deadline-15-november,,2026-10-21
 DZA,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil,,2026-10-19
 EGY,2026-08-29-egypt-etax-ai-identity-verification,,2026-10-19
 EGY,2026-09-07-eta-egypt-homepage,,2026-10-19
@@ -49,6 +54,7 @@ ETH,2024-01-31 E-tax adoption and tax compliance in Ethiopia (ICTD WP180),,2026-
 ETH,2024-07-04-eth-2024-156-01-pr034,,2026-10-19
 ETH,2024-10-08-eth-insa-e-invoice-system,,2026-10-19
 ETH,2025-07-19-eth-addisfortune-ecourt-ethiopia,,2026-10-19
+ETH,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems,,2026-10-21
 ETH,2026-06-30-ethiopian-statistical-service-proclamation-approved,,2026-10-19
 ETH,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi,,2026-10-19
 GAB,2025-08-18-gabon-etax-dgi-portal-launch,,2026-10-19
@@ -93,6 +99,7 @@ LSO,2024-05-06-lso-newsday-rsl-implements-e-taxation,,2026-10-19
 LSO,2024-09-16-lso-newsday-rsl-automatic-compliance-project,,2026-10-19
 LSO,2025-02-06-lesotho-rsl-e-taxation-platform-guide,,2026-10-19
 LSO,2025-06-01-lso-rsl-guide-on-tax-registration,,2026-10-19
+LSO,2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid,,2026-10-21
 LSO,2026-04-20-lesotho-undp-lehokela-digital-policing-launch,,2026-10-19
 LSO,2026-05-11-lesotho-lemis-dhis2-education-data-system,,2026-10-19
 LSO,2026-05-18-lesotho-ip-offices-conference-digital-transformation,,2026-10-19
@@ -118,6 +125,7 @@ MRT,2026-09-16-dgi-mauritanie-teleservices,,2026-10-19
 MUS,2025-01-01-mra-individual-e-filing-season-2025,,2026-10-19
 MUS,2025-10-22-mus-judiciary-e-judiciary-home-notices,,2026-10-19
 MUS,2026-01-01-mra-vat-digital-services-foreign-suppliers,,2026-10-19
+MWI,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade,,2026-10-21
 MWI,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai,,2026-10-19
 MWI,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements,,2026-10-19
 NAM,2025-01-01-integrated-tax-administration-system-e-portal,,2026-10-19
@@ -127,6 +135,7 @@ NAM,2025-07-17-nam-namibian-e-justice-supreme-court,,2026-10-19
 NAM,2026-05-05-nam-newera-namra-asycudaworld-upgrade,,2026-10-19
 NAM,2026-05-19-nam-observer-namra-customs-11-versions-behind,,2026-10-19
 NAM,2026-06-18-nam-economist-itas-deadline-extended,,2026-10-19
+NAM,2026-10-16-nam-nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-service,,2026-10-21
 NER,2021-06-14-ner-finances-lancement-e-sisic,,2026-10-19
 NER,2023-08-02-ner-anp-paiement-impots-guichets-dgi,,2026-10-19
 NER,2024-02-15-ner-lesahel-e-secef-sensibilisation-dgi,,2026-10-19
@@ -156,6 +165,7 @@ SSD,2026-10-15-ssd-ssra-zambian-delegation-digital-tax,,2026-10-19
 STP,2022-04-11-stp-di-mais-uma-fase-sit-iva,,2026-10-19
 SWZ,2024-02-29-swz-epn-ers-launches-tax-ease-portal,,2026-10-19
 SWZ,2024-09-19-swz-edn-ers-tax-filing-season-taxease,,2026-10-19
+SWZ,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health,,2026-10-21
 SYC,2024-01-01-new-lmis-system-to-boost-local-labour-market-efficiency,,2026-10-19
 SYC,2024-03-04-syc-src-dedicated-return-forms-payment-slip,,2026-10-19
 SYC,2024-07-01-syc-imf-gfs-psds-mission-summary,,2026-10-19
@@ -167,6 +177,7 @@ SYC,2025-10-21-asp-connect-digital-system-launch,,2026-10-19
 SYC,2025-11-24-nationalassembly-si-65-2025-electronic-filing,,2026-10-19
 SYC,2025-11-26-syc-judiciary-e-service-platform-launch,,2026-10-19
 SYC,2026-06-23-statehouse-ecms-launch,,2026-10-19
+SYC,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service,,2026-10-21
 TCD,2024-03-20-tcd-tchadinfos-e-tax-experts-comptables,,2026-10-19
 TCD,2024-06-06-tcd-ndjampost-justice-online-complaints-platform,,2026-10-19
 TCD,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement,,2026-10-19
@@ -192,6 +203,7 @@ TZA,2026-01-25-tza-dailynews-idras-compliance,,2026-10-19
 UGA,2025-07-17-nam-namibian-e-justice-supreme-court,,2026-10-19
 UGA,2026-03-03-ura-non-tax-revenues,,2026-10-19
 UGA,2026-07-29-uganda-ura-electronic-tax-software-e-tax2-procurement-scandal,,2026-10-19
+UGA,2026-10-17-uga-more-than-3mn-tax-records-await-nin-match-before-login-switch,,2026-10-21
 ZAF,2023-11-01-zaf-sars-annual-report-2022-23,,2026-10-19
 ZAF,2024-07-16-zaf-sars-filing-season-2024,,2026-10-19
 ZAF,2025-07-16-zaf-doj-court-online-go-live-gqeberha,,2026-10-19

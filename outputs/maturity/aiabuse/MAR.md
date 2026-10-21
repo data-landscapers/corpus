@@ -2,12 +2,12 @@
 
 ## AI harms
 
-**Rule in force.** [The Mouvement populaire group in the House of Representatives tabled a private member's bill regulating AI use that bars AI on social media from spreading false news, abusive speech or fabricated images and videos, bans unacceptable-risk systems from the market, and sets fines of MAD 50,000-500,000 and prison of 6 months to 5 years](<https://www.intelligencia.ma/politique-19/500322.html>). [Private member's bill no 53, tabled in the Chamber of Councillors on 17 April 2024 by the UGTM group, aims to prevent malicious uses of content generation such as deepfakes and would create a National Artificial Intelligence Agency](<https://www.lebrief.ma/projet-loi-agence-nationale-ia-100156120/>).
+**Rule in force.** [Telquel's op-ed says a 17-article bill under discussion in the House of Representatives would provide specific penalties for deepfake abuses and digital manipulation](<https://telquel.ma/2026/09/11/op-ed-deepfakes-can-moroccan-law-really-protect-your-reputation_2005122>). [Analyst Meryem Aanaiber writes in Telquel that Penal Code Articles 447-1 to 447-3 (added by Law No. 103-13 of 2018) are the most directly applicable legal basis against deepfakes, with penalties of one to three years' imprisonment for 447-2, though no law defines deepfakes](<https://telquel.ma/2026/09/11/op-ed-deepfakes-can-moroccan-law-really-protect-your-reputation_2005122>). [The CNDP stated that AI processing of personal data is governed by Law 09-08, and that automatic decisions need attention so citizens keep access to redress](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
 
-**Authority.** No source held since October 2023 says a body is designated with a mandate over AI. The nearest held fact: [the one given above](<https://www.intelligencia.ma/politique-19/500322.html>).
+**Authority.** [EuroMedAI says HACA, the audiovisual authority, adopted Decision No. 50-26 on AI-generated electoral content on radio and television, and the CNDP issued guidance in late August 2026 asking that AI-produced content be identified](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>). [The CNDP stated that one of its missions is to ensure that AI processing of personal data complies with Law 09-08](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://www.intelligencia.ma/politique-19/500322.html>).
+**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [CNDP](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
 
-***Not held***. No source held since October 2023 says: is a rule on ai harms in force.
+***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.

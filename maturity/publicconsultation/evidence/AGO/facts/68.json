@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "CAZOS says the MINTTICS AI bill has been in public consultation since September 2025, and the APD's public consultation on revising the data protection law Lei 22/11 closed in April 2025.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "MINTTICS AI bill; APD revision of Lei 22/11",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

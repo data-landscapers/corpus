@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,govai,use,coverage,,,,,nothing held
+BEN,govai,use,coverage,inservice,2025-02-14,BEN-002;BEN-003,,
 BEN,govai,bodies,coverage,,,,,nothing held
-BEN,govai,rules,coverage,rules,2026-06,BEN-001,,
+BEN,govai,rules,coverage,,,,,nothing held

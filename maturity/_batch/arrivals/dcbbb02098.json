@@ -1,0 +1,162 @@
+{
+ "slug": "2026-05-07-ken-digital-sovereignty-not-tech-dependency",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "GIZ says Kenya is currently developing a GovStack-based AI-powered chatbot on the eCitizen platform to answer citizens' questions.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "eCitizen AI chatbot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "eCitizen",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "GIZ says it is working with the Kenyan Government at the Digital Transformation Center in Nairobi to develop a national roadmap for digital building blocks as part of a sovereign public infrastructure, with data processed within the country.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "GovStack national roadmap",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Kenya."
+    }
+   }
+  }
+ }
+}

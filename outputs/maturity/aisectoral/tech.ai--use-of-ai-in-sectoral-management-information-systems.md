@@ -20,13 +20,13 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 0 |
-| 3 Established | 18 |
+| 5 Leading | 7 |
+| 4 Operating | 2 |
+| 3 Established | 16 |
 | 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -35,6 +35,14 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 Measured results of AI in a public sector's system were reported in 2025.
 
 - Minister Malu reported AI exam processing cut processing time by 30-40 percent, raised speed tenfold, and lifted scanning from 8-10 to 80-100 papers a minute ([source, 2025-08-15](https://www.theeastafrican.co.ke/tea/sustainability/innovation/ai-cuts-exam-marking-time-in-congo-5161318)).
+
+### Ghana: 5 Leading
+
+Ghana uses AI in tax and, since March 2026, in customs valuation, where it cleared 75.3% of declarations and flagged 24.7% in its first weeks.
+
+- GRA Deputy Commissioner Elsie Appau-Klu says the Ghana Revenue Authority is using AI and machine learning to identify anomalies in tax filings, expose suspicious trade activities and trigger targeted audits ([source, 2025-05-22](https://www.ghanaweb.com/GhanaHomePage/business/GRA-doubles-down-on-AI-ML-to-combat-tax-leakages-1984925)).
+- The Ministry of Finance and Ghana Revenue Authority said Publican Trade Solution, an AI-based tool helping customs officers value and classify imports, was fully rolled out at ports of entry on 11 March 2026 beside ICUMS ([source, 2026-03-11](https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html)).
+- The Ministry of Finance said that since its introduction on 11 March 2026 Publican Trade Solution had endorsed clearing of 75.3 percent of customs declarations and flagged 24.7 percent as below accepted global values ([source, 2026-03-30](https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html)).
 
 ### Sierra Leone: 5 Leading
 
@@ -67,6 +75,20 @@ Measured results of AI in a public sector's system were reported in 2026.
 
 - The system had detected over four million violations by the end of September 2026, up from 2.3 million in mid-August, said police spokesperson Paul Nyathi ([source, 2026-09](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)).
 
+### Cote d'Ivoire: 4 Operating
+
+Côte d'Ivoire uses AI in tax administration and in land-cover mapping for cocoa monitoring; measured results are not known.
+
+- Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud ([source, 2025-05-16](https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national)).
+- Abidjan.net reports that BNETD presented the 2020 land-cover map on 26 March 2024, with AI recognition of forests on 2020 Sentinel imagery, offered through an online platform as a monitoring tool for the national sustainable cocoa strategy, as stated by BNETD's digital director and ministry representatives ([source, 2024-03-26](https://news.abidjan.net/articles/729948/cote-divoire-le-bnetd-presente-la-carte-doccupation-des-sols-2020-avec-lappui-du-programme-cacao-durable-de-lunion-europeenne)).
+
+### Egypt: 4 Operating
+
+Egypt has AI in service in justice and in agricultural crop mapping as of 2024-26; measured results are not known.
+
+- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+- Daily News Egypt reports NARSS, with the Ministry of Agriculture and Land Reclamation, used remote sensing and artificial intelligence to inventory and classify crops by governorate, producing a 2023-24 winter crop map presented in November 2024 ([source, 2024-11-05](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/)).
+
 ### Cameroon: 3 Established
 
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
@@ -74,23 +96,17 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 - Cameroon's secondary-education ministry (MINESEC) presented on 17 August 2026 the official integration of AI-generated simulations in secondary schools, with teacher demonstrations and more than 250 simulations produced, per MINESEC ([source, 2026-08-17](https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/)).
 - The CNPS director general said the pension fund runs a symbolic-AI system for automatic processing of old-age pension files, presented 17 February 2026 ([source, 2026-02-17](https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/)).
 
-### Cote d'Ivoire: 3 Established
-
-An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
-
-- Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud ([source, 2025-05-16](https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national)).
-
 ### Djibouti: 3 Established
 
 An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
 
 - The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours ([source, 2025-12](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia)).
 
-### Egypt: 3 Established
+### Eswatini: 3 Established
 
-An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
+Eswatini's public hospitals have screened for diabetic eye disease with AI since 2025; AI in other sectors and its results are not known.
 
-- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+- Swazi24 reports that an AI-powered diabetic retinopathy diagnostic system, from the Taiwan Technical Mission's NCD Project, was launched and is operational at six public hospitals and health centres (Mbabane Government, Piggs Peak, Mankayane, RFM, Dvokolwako, Emkhuzweni), officiated by the Minister of Health ([source, 2025-08-07](https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/)).
 
 ### Ethiopia: 3 Established
 
@@ -104,12 +120,6 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 - The Gambia Revenue Authority now uses the Rental Tax Compliance System's ML-estimated rental values and compliance risk scores to prioritise property owner records for audit and visit, per the DIAL case study ([source, 2026-05-01](https://dial.global/wp-content/uploads/2026/05/AI-x-DPI-Case-study-The-Gambia.pdf)).
 - The Ministry of Higher Education unveiled the TITA mobile app on 2025-04-24 in Banjul, whose admin panel uses AI to generate institution-wide academic timetables automatically for tertiary institutions ([source, 2025-04-24](https://www.kerrfatou.com/gambias-higher-education-ministry-launches-innovative-tita-mobile-app-to-modernize-tertiary-institutions/)).
-
-### Ghana: 3 Established
-
-An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
-
-- GRA Deputy Commissioner Elsie Appau-Klu says the Ghana Revenue Authority is using AI and machine learning to identify anomalies in tax filings, expose suspicious trade activities and trigger targeted audits ([source, 2025-05-22](https://www.ghanaweb.com/GhanaHomePage/business/GRA-doubles-down-on-AI-ML-to-combat-tax-leakages-1984925)).
 
 ### Kenya: 3 Established
 
@@ -206,6 +216,12 @@ An AI tool for a public sector's system was under way in 2025; none in service i
 - Assistant Minister Shawn Nthaile said government is piloting AI for health diagnostics in remote areas ([source, 2025-08-13](https://dailynews.gov.bw/news-detail/88106)).
 - Health Minister Stephen Modise said trial systems incorporating AI have been approved under the Ministry of Health's digital health pilot ([source, 2025-02-23](https://www.thegazette.news/news/moh-pilots-digital-health-ecosystem/)).
 
+### Burkina Faso: 2 Nascent
+
+Burkina Faso's weather agency agreed in 2025 to pilot AI in forecasting; no sector AI tool is known to be in service.
+
+- Burkina Faso's digital transition minister and the director general of the national meteorological agency ANAM signed a collaboration and research convention on 10 October 2025 to bring AI into forecasting, with ANAM saying it was chosen as the pilot structure ([source, 2025-10-10](https://digitalmagazine.bf/2025/10/14/burkina-faso-le-gouvernement-integre-lintelligence-artificielle-au-service-de-la-meteo/)).
+
 ### Burundi: 2 Nascent
 
 An AI tool for a public sector's system was under way in 2025; none in service is on record.
@@ -229,12 +245,6 @@ An AI tool for a public sector's system was under way in 2026; none in service i
 An AI tool for a public sector's system was under way in 2025; none in service is on record.
 
 - The health ministry officially launched on 6 June 2025 'Guinea Salud', an AI chatbot answering the public on vaccines, medical evacuation, clinic licensing and HIV, in a pilot phase ([source, 2025-06-06](https://realequatorialguinea.com/salud/sanidad-lanza-el-asistente-digital-guinea-salud-primer-chatbot-sanitario-con-ia-de-guinea-ecuatorial/)).
-
-### Eswatini: 2 Nascent
-
-An AI tool for a public sector's system was under way in 2025; none in service is on record.
-
-- The Eswatini Revenue Service issued a request for proposals for a fiscalisation system using machine learning and AI for tax risk assessment and fraud detection, per Eswatini Financial Times ([source, 2025-05-13](https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/)).
 
 ### Lesotho: 2 Nascent
 
@@ -291,12 +301,6 @@ An AI tool for a public sector's system was under way in 2026; none in service i
 Nothing held since 2023 names AI in a sector's public system, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether an AI tool is in service in a public sector's system.
-
-### Burkina Faso: No evidence
-
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether a public sector's system uses AI.
 
 ### Cape Verde: No evidence
 

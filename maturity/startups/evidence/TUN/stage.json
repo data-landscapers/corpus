@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "3",
-   "law": "adopted",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-001;TUN-002",
-   "gaps": "No source held since October 2023 says startups are labelled or registered under a startup law or strategy.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "4",
+      "law": "adopted",
+      "labelled": "labelled",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-003",
+      "gaps": "No source held since October 2023 says a public fund under the startup law or strategy has financed startups.",
+      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
+      "as_at": "2026-10-21"
+    }
+  ]
 }

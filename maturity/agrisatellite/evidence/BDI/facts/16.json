@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-16-bdi-enabel-integrates-sat-and-drone-data-to-boost-agriculture",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "EOS Data Analytics states that Enabel's PAIOSA programme, run with the Belgian and Burundian governments, began satellite monitoring of 4,500 hectares of smallholder farmland in Burundi with EOSDA Crop Monitoring in November 2021, with field scouting and targeted recommendations.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "EOSDA Crop Monitoring (PAIOSA)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EOSDA Crop Monitoring",
+   "country_label": "Burundi",
+   "class": "agrisat",
+   "platform": "EOSDA Crop Monitoring",
+   "owner": "Enabel (PAIOSA programme)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

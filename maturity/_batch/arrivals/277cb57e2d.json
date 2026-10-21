@@ -1,0 +1,253 @@
+{
+ "slug": "2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "Le360 reports that the Moroccan digital-transition department has prepared a draft digitalisation bill that will frame AI in administrative processes, covering algorithm transparency, the right to explanation and to contest automated decisions, and non-discrimination.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Draft digitalisation bill",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Le360, citing expert Marouane Harmach, reports that the Direction generale des impots uses a chatbot to assist taxpayers.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "DGI chatbot",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGI chatbot",
+       "country_label": "Morocco",
+       "class": "govai",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Le360, citing expert Marouane Harmach, reports that the Direction generale des impots is deploying AI in fraud detection.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "DGI AI fraud detection",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGI AI fraud detection",
+       "country_label": "Morocco",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Le360 reports that on 11 September 2025 Morocco signed a convention with the CNDP to create a national responsible-AI framework and develop a platform based on a large language model reflecting Moroccan culture, language and legal framework.",
+       "as_of": "2025-09-11",
+       "date_precision": "day",
+       "system": "CNDP LLM platform convention",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP LLM platform",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "",
+       "owner": "CNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Le360 reports that the CNDP plays a central role in regulating personal data protection in Morocco.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "CNDP",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Morocco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Le360 reports that the CNDP plays a central role in regulating personal data protection in Morocco.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "CNDP",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNDP",
+       "country_label": "Morocco",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Morocco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Le360 reports the creation of Al-Jazari institutes in different regions, aimed at training young people in digital skills.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "Al-Jazari institutes",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Al-Jazari institutes",
+       "country_label": "Morocco",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Government of Morocco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

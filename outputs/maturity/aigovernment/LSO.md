@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [Revenue Services Lesotho invited proposals for supply and delivery of a generative AI customer relationship management system, closing 9 August 2024](<https://www.rsl.org.ls/node/584>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** In October 2025 the Commissioner General of Revenue Services Lesotho said the authority [had incorporated AI into its customer service operations](<https://newsdayonline.co.ls/lesotho-cautioned-over-reliance-on-foreign-aid/>). It had [tendered for a generative AI customer relationship management system in July 2024](<https://www.rsl.org.ls/node/584>).
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://www.rsl.org.ls/node/584>).
+**Several bodies.** Only the revenue authority is held with AI in service. The nearest held fact is the [commissioner's account](<https://newsdayonline.co.ls/lesotho-cautioned-over-reliance-on-foreign-aid/>), which concerns that one body. The commissioner [gave the account in remarks on domestic revenue and reliance on foreign aid](<https://newsdayonline.co.ls/lesotho-cautioned-over-reliance-on-foreign-aid/>), and named no other agency using AI.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.rsl.org.ls/node/584>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [2024 tender](<https://www.rsl.org.ls/node/584>), which sets no rules. His account of AI in customer service does not mention any rules either.
 
 ***Noted, not assessed***. [FAO digital agriculture extension chatbot (TCP/LES/4002, Digital Villages Initiative)](<https://agricresearch.org.ls/dar-researchers-drive-content-scrutiny-for-fao-chatbot-initiative/>).
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.

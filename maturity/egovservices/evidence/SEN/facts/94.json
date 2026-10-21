@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Polygon says the Service Public portal of Senegal lists nearly 700 administrative procedures available online, as a single window for information and forms.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Service Public portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service Public portal",
+   "country_label": "Senegal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Nigeria's Data Protection Commission (NDPC), led by National Commissioner Vincent Olatunji, hosted a two-day study tour for Sri Lanka's Data Protection Authority, reported 2026-10-20.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Protection Commission",
+       "country_label": "NDPC",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "The NDPC's National Commissioner said the Nigeria Data Protection Act, 2023 was signed by President Tinubu.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Nigeria Data Protection Act, 2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Nigeria's Data Protection Commission (NDPC), led by National Commissioner Vincent Olatunji, hosted a two-day study tour for Sri Lanka's Data Protection Authority, reported 2026-10-20.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Data Protection Commission",
+       "country_label": "NDPC",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names World Bank support for a study tour only; no private money put into a digital business."
+    }
+   }
+  }
+ }
+}

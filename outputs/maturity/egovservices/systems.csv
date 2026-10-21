@@ -14,11 +14,14 @@ BEN,etudiant.uac.bj,Benin,eservices,web portal,Universite d'Abomey-Calavi,,2025-
 BEN,e-Procurement,Bénin,other,,DGTCP,,2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement
 BEN,SIGMAP,Bénin,other,,,,2025-12-29-ben-dgtcp-vendredi-reformes-e-procurement
 BEN,SIGMaP,SIGMaP,other,,ARMP,,2025-10-27-ben-armp-dematerialisation-commande-publique
+BEN,eservices.anip.bj,Benin (eservices.anip.bj),eservices,web,ANIP,,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees
+BEN,ANIP BJ,Benin,other,mobile app,ANIP,,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Lanaya and e-BDT,Burkina Faso,other,,Public treasury,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-02-20-service-public-bf-lancement-portail-v2
 BFA,G-Cloud,Burkina Faso,other,private cloud,ANPTIC,national,2024-01-31-bfa-anptic-g-cloud-projet
 BFA,SECOP,SECOP,eservices,,Ministry of Economy and Finance,,2025-06-23-bfa-faso7-secop-lancement
+BFA,vidéo-verbalisation,Burkina Faso,other,roadside cameras,Ministry of Security,,2026-09-07-bfa-ecofin-video-verbalisation-bilan
 BWA,1Gov1Citizen,Botswana,eservices,integrated e-services platform,Government of Botswana,national,2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget
 BWA,National Digital Identification System,Botswana,other,,Government of Botswana,national,2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget
 CAF,national digital portal,Central African Republic,eservices,,government of the Central African Republic,"transport, justice, education, healthcare, businesses, NGOs, financial operators",2026-10-15-caf-africabusinessinsight-digital-public-services-connectivity-barriers
@@ -47,6 +50,7 @@ CPV,Portal de Servicos Publicos Digitais Integrados do Estado,Cabo Verde,eservic
 CPV,Consular Portal,Cabo Verde,eservices,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,Single Government Portal (Portal Unico),Cabo Verde,eservices,,Government of Cabo Verde,planned,2024-01-01-nosi-operational-nucleus-information-society
 CPV,SNIAC,Cabo Verde,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,Portal Único de Serviços Públicos Digitais,Cabo Verde,eservices,,Government of Cabo Verde,,2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim
 DJI,egouv.dj,Djibouti,eservices,www.egouv.dj,Government of Djibouti,,2023-08-06-dji-lanation-centre-services-citoyens
 DJI,Plateforme des marches publics,Plateforme des marches publics,other,,ANSIE,,2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics
 DZA,البوابة الوطنية للخدمات الحكومية الرقمية,National portal of digital government services,eservices,,High Commission for Digitalisation,,2026-08-23-echorouk-algeria-takwin-service-national-digital-services-portal
@@ -100,6 +104,8 @@ KEN,eTIMS,Kenya,other,,Kenya Revenue Authority,,2026-08-31-nation-kra-etims-invo
 KEN,eCitizen,Kenya,eservices,eCitizen,National Treasury,,2026-08-28-sokodirectory-treasury-unveils-plan-to-replace-ecitizen-convenience-fees
 KEN,eCitizen,Kenya,eservices,eCitizen,National Treasury,,2026-08-27-peopledaily-mps-demand-clarity-on-ecitizen-ownership-as-treasury
 KEN,eCitizen,Kenya,eservices,,,,2024-07-12-ken-psc-certifies-141-data-protection-cybersecurity
+KEN,e-Citizen,Kenya,eservices,e-Citizen,Government of Kenya,,2024-12-03-ken-ruto-eyes-24-7-services-on-e-citizen-with-ai-addition
+KEN,eCitizen,Kenya,eservices,,Government of Kenya,,2024-09-29-ken-digital-leaders-spotlight-kenya
 LBR,LRA eServices,Liberia,other,,Liberia Revenue Authority,,2026-04-07-liberia-lra-adjustment-goods-and-services-tax-rates
 LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
@@ -117,6 +123,8 @@ MAR,Simpl,Morocco,other,web (J2EE),Direction generale des impots,,2024-09-03-mar
 MAR,Education ministry candidate e-services,Morocco,eservices,,"Ministry of National Education, Preschool and Sports",,2024-03-24-mar-lematin-bac-2024-cnie-services-electroniques
 MAR,www.listeselectorales.ma,Morocco,eservices,,Ministry of the Interior,,2026-03-13-mar-adala-arrete-503-26-site-listes-electorales
 MAR,Mahakim.ma / Mahakim-Mobile,Maroc,eservices,web portal and mobile app,Ministry of Justice,,2026-01-01-mar-mahakim-portail-suivi-dossiers
+MAR,IDARATI X.0,Morocco,eservices,app with national digital wallet,Ministry of Digital Transition and Administration Reform,,2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures
+MAR,public employment portal,Morocco,eservices,,Ministry of Digital Transition and Administration Reform,,2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures
 MDG,Torolalana,Madagascar,eservices,portal,Unite de Gouvernance Digitale,,2024-05-15-mdg-ugd-torolalana-portal-releases
 MDG,Torolalana,Torolalana,eservices,"multi-channel portal (digital, telephone, post-office counter)","Digital Governance Unit, Ministry of Digital Development","digital channel, telephone channel, physical channel (Mahatoky)",2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
 MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital Governance Unit with Paositra Malagasy,pilot in 4 post offices,2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
@@ -177,6 +185,7 @@ SEN,ETAX,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plat
 SEN,MON ESPACE PERSO,Senegal,other,web platform,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,SEN-ETAFI,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,e-OSC,Senegal,eservices,web platform,Ministère de l'Intérieur et de la Sécurité publique (DGAT),,2026-10-16-sen-aps-e-osc-plateforme-ong-associations
+SEN,Service Public portal,Senegal,eservices,,,,2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa
 SLE,WanGov,Sierra Leone,eservices,,Sierra Leone Road Safety Authority / Korlie Ltd,,2025-10-17-sle-sierraloaded-wangov-guinea-border
 SLE,One Government Platform,Sierra Leone,eservices,,Ministry of Communications and Innovation,,2025-06-04-sle-statehouse-digital-innovation-summit-2025
 SLE,WanGov,Sierra Leone,eservices,mobile app,"Ministry of Communication, Technology and Innovation",,2025-02-04-sle-sierraloaded-wangov-app-launch
@@ -206,6 +215,8 @@ SYC,gov.sc,Seychelles,eservices,,Government of Seychelles,,2026-06-23-nation-sc-
 SYC,monServis,Seychelles,eservices,,Government of Seychelles,,2024-01-01-monservis-government-services-portal
 SYC,SeyID,Seychelles,other,,Government of Seychelles,,2024-01-01-monservis-government-services-portal
 SYC,Biz Auth,Seychelles,other,,,,2024-01-01-monservis-government-services-portal
+SYC,My e-Services,Seychelles,eservices,SPF online,Seychelles Pension Fund,,2026-07-30-syc-seychelles-pension-fund-showcases-digital-innovation-during-productivi
+SYC,e-Contribution Platform,Seychelles,eservices,SPF online,Seychelles Pension Fund,,2026-07-30-syc-seychelles-pension-fund-showcases-digital-innovation-during-productivi
 TCD,e-Notaire,Tchad,eservices,online platform,Ministry of Finance,,2024-12-03-tcd-portail-td-lancement-e-notaire
 TGO,national public services portal,Togo,eservices,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-29-tgo-togofirst-online-public-services-portal-adds-procedures
 TGO,National Portal for Digitalized Administrative Procedures (GNDAD),Togo,eservices,service-public.gouv.tg,Agence Togo Digital,"web, mobile, certified agents",2025-01-01-agence-togo-digital-mandate-platforms

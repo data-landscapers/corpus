@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "3",
+      "system": "inservice",
       "window": "",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether customs declarations are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MLI-002",
+      "gaps": "No source held says a trade single window is in service or that declaration data is exchanged with another country's customs.",
+      "note": "Stage 3 on 2026-10-21: the Director-General of Customs said in February 2026 that SYDONIAWorld, adopted in 2015, covers over 95 percent of customs procedures. No single window is on record, so not 4.",
+      "as_at": "2026-10-21"
     }
   ]
 }

@@ -1,0 +1,9 @@
+{"slug":"2024-07-24-uga-artificial-intelligence-technologies-usage-for-improved-service-delive","studies":{
+"aiabuse":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Abstract names AI ethical concerns only; no rule, draft, authority or enforcement is stated."}}},
+"aigovernment":{"countries":{"UGA":{"facts":[
+{"sub_indicator":"govai","aspect":"use","value":"inservice","fact":"A peer-reviewed study by Nalubega and Uwizeyimana finds the Ugandan government is deploying AI technologies in various agencies, including for fraud detection and personalised citizen services.","as_of":"2024-07","date_precision":"month","system":"AI technologies in Ugandan government agencies","class":"govai"},
+{"sub_indicator":"govai","aspect":"bodies","value":"several","fact":"The same study says AI technologies are being deployed in various Ugandan government agencies, without naming them.","as_of":"2024-07","date_precision":"month","system":"AI technologies in Ugandan government agencies","class":"govai"}],
+"systems":[{"system":"AI technologies in Ugandan government agencies","country_label":"Uganda","class":"govai","platform":"","owner":"Government of Uganda","tiers":""}],"note":""}}},
+"aisectoral":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Abstract names no sector system or output."}}},
+"aisystems":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in the country."}}},
+"digitaldivides":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Digital divide appears only as an ethical concern; no programme or rural-urban figure."}}}}}

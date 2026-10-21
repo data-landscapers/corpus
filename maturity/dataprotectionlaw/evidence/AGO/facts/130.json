@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "APD legal director Njunjulo António says the agency's inspection and audit data show no reported case of data leak or misuse involving AI.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "The law itself is not named or dated."
+}

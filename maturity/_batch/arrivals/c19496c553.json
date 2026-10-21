@@ -1,0 +1,8 @@
+{"slug": "2026-04-15-civ-cote-d-ivoire-la-bad-finance-un-laboratoire-d-ia-et-de-big-data-pourqu", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document describes a planned AI and big data laboratory, not a government AI system piloted or in use."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI tool in a public sector's system is stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Comdisrupt reports that the Ministry of Digital Transition published on 13 April 2026 tender IAS n°01/2026/PARAE, financed by an African Development Bank loan, for equipment for an AI and big data laboratory under the PARAE e-government project, with 180-day delivery.", "as_of": "2026-04-13", "date_precision": "day", "system": "laboratoire d'IA et de big data (PARAE)", "class": "localai"}],
+"systems": [{"system": "laboratoire d'IA et de big data (PARAE)", "country_label": "Côte d'Ivoire", "class": "localai", "platform": "", "owner": "Ministry of Digital Transition; financed by the African Development Bank", "tiers": ""}], "note": ""}}}
+}}

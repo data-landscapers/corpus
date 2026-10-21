@@ -1,0 +1,7 @@
+{"slug": "2026-02-23-mli-allocution-de-monsieur-le-directeur-general-des-douanes-a-loccasion-de", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The speech states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "AI and chatbots are named only as strategic-plan projects, not as under way or in service."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "AI in customs processes is a strategic-plan project; no pilot or service is stated."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"customs": {"countries": {"MLI": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures.", "as_of": "2026-02-23", "date_precision": "day", "system": "SYDONIAWorld", "class": "customs"}], "systems": [{"system": "SYDONIAWorld", "country_label": "SYDONIAWorld", "class": "customs", "platform": "ASYCUDA World", "owner": "Direction Generale des Douanes du Mali", "tiers": ""}], "note": ""}}}
+}}

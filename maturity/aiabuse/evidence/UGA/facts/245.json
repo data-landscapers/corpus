@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-19-uga-ucc-boss-nyombi-thembo-issues-stark-warning-on-ai-ethics-and-the-compu",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Uganda Communications Commission Executive Director Nyombi Thembo, speaking on AI-generated deepfakes and disinformation, said the Computer Misuse (Amendment) Act 2022 is in full effect, with up to 7 years' imprisonment or a Shs10 million fine for hate speech, cyber stalking and malicious information.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "Computer Misuse (Amendment) Act 2022",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

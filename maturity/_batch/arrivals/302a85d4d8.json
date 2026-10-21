@@ -1,21 +1,23 @@
-{"slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession", "studies": {
-"admindata": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on published administrative statistics."}}},
-"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document names no authentication service."}}},
-"birthidlink": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "Liberia's National Identification Registry executive director Andrew Peters said the ID upgrade includes a component to link the civil registration and national ID systems in a life cycle identity management architecture.", "as_of": "2026-09", "date_precision": "month", "system": "NIDCRVS", "class": "crvslink"}
-], "systems": [{"system": "National Identification Central Digital Civil Registration and Vital Statistics system (NIDCRVS)", "country_label": "NIDCRVS", "class": "crvslink", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
-"civilregister": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Liberia has signed a US$52 million build-operate-transfer concession with Austrian State Printing Company (OSD) for the NIDCRVS digital civil registration and vital statistics system, which the House of Representatives referred to a joint committee on 16 October 2026 for a two-week review.", "as_of": "2026-10-16", "date_precision": "day", "system": "NIDCRVS", "class": "civil"}
-], "systems": [{"system": "National Identification Central Digital Civil Registration and Vital Statistics system (NIDCRVS)", "country_label": "NIDCRVS", "class": "civil", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
-"dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a civil society demand for data protection safeguards is stated, with no law named."}}},
-"idcoverage": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "The National Identification Registry says fewer than 800,000 people in Liberia hold a national ID, against a planned database for up to 10 million people, and issuance has been suspended since June 2025.", "as_of": "2026-10-19", "date_precision": "day", "system": "National Identification Registry", "class": "idsystem"}
-], "systems": [], "note": ""}}},
-"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on an ID number given at birth."}}},
-"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The proposed build-operate-transfer concession is not yet approved, so no operating arrangement is stated as in place."}}},
-"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a call for targets on connected government agencies is stated, with no register keyed on the ID number."}}},
-"idrobustness": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Liberia signed a US$52 million concession with Austrian State Printing Company (OSD) to design, install, operate and maintain a new national ID system with a database of demographic and biometric records for up to 10 million people, pending House committee review from 16 October 2026.", "as_of": "2026-10-16", "date_precision": "day", "system": "NIDCRVS", "class": "idsystem"}
-], "systems": [], "note": ""}}},
-"registry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on civil registration offices entering events digitally."}}}
-}}
+{
+ "slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDCRVS",
+       "country_label": "Liberia",
+       "class": "other",
+       "platform": "",
+       "owner": "National Identification Registry",
+       "tiers": ""
+      }
+     ],
+     "note": "A US$52m build-operate-transfer concession is signed but awaiting legislative review, and the article does not say the private partner invests the amount."
+    }
+   }
+  }
+ }
+}

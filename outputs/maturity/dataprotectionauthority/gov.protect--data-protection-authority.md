@@ -23,8 +23,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | 5 Leading | 5 |
 | 4 Operating | 8 |
 | 3 Established | 22 |
-| 2 Nascent | 11 |
-| 1 Absent | 5 |
+| 2 Nascent | 10 |
+| 1 Absent | 6 |
 | Unplaced | 3 |
 | No evidence | 0 |
 
@@ -350,13 +350,6 @@ Liberia's 2026 Act gives the work to an existing commissioner; no ruling against
 
 - The Act (ss.8 and 10) confers data protection functions on the Independent Information Commissioner, the oversight body created by the Freedom of Information Act of 2010; the Act does not state that the Commissioner has begun acting under it ([source, 2026-03-23](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf)).
 
-### Niger: 2 Nascent
-
-Niger's authority was running in 2025, but a June 2026 report says it was abolished; no rulings or figures are known.
-
-- Article 6 as amended by Law 2023-31 creates the Haute Autorité de Protection des Données à caractère Personnel (HAPDP), attached to the Presidency, and Articles 7 and 8 as amended by Ordinance 2024-29 set a 10-member composition with members named by decree in the Council of Ministers; the document states no appointment actually made ([source, 2024-06](https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf)).
-- Africa Data Protection reports that the government has by decree abolished the HAPDP and split its powers between the Ministry of Justice and the Ministry of the Interior; the decree date is not given, so the report's publication date is used ([source, 2026-06-13](https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html)).
-
 ### Eritrea: 1 Absent
 
 Eritrea has no data protection authority and has issued no rulings or figures, as of 2026.
@@ -383,6 +376,13 @@ Mozambique has no data protection authority yet; none has ruled against an organ
 
 - The World Bank restructuring paper says the Data Protection Office is not yet established, which prevents its operationalisation, and the project envelope for it was cut from US$18m to US$11m; the date is the paper's October 2025 status ([source, 2025-10](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012626175535228)).
 - The inception report states that Mozambique has no data regulatory authority, though INTIC, INCM, INAGE and CEDSIF impliedly oversee parts of data governance ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
+
+### Niger: 1 Absent
+
+Niger abolished its data protection authority in June 2026 and repealed the law founding it; whether the ministries do the job is not known.
+
+- Niger's President signed a decree on 8 June 2026 abolishing the Haute Autorité de Protection des Données à Caractère Personnel (HAPDP), ending its officials' functions from signature and transferring its missions to the Ministry of Justice and the Ministry of the Interior, per the Secretariat General of Government communique ([source, 2026-06-08](https://anp.ne/niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de-la-primature-et-du-secretariat-general-du-gouvernement-supprimes/)).
+- Africa Data Protection reports that a decree of 8 June 2026 abolished Niger's Haute Autorite de protection des donnees a caractere personnel (HAPDP), that an ordonnance of the same day repealed the 2022 law's provisions founding it, and that its tasks pass to the Justice and Interior ministries ([source, 2026-06-08](https://www.africadataprotection.org/niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel.html)).
 
 ### South Sudan: 1 Absent
 

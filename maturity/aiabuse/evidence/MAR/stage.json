@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "aiharm",
-      "stage": "2",
-      "rule": "draft",
-      "authority": "",
+      "stage": "4",
+      "rule": "inforce",
+      "authority": "designated",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-002;MAR-001",
-      "gaps": "No source held since October 2023 says: is a rule on ai harms in force.",
+      "stage_sources": "MAR-008;MAR-011",
+      "gaps": "No source held since October 2023 gives an enforcement or redress decision about a harm from AI.",
       "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-21"
     }
   ]
 }

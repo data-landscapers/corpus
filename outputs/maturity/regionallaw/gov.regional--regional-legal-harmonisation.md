@@ -60,8 +60,8 @@ Congo ratified the African Union's cyber security and data protection convention
 
 Cote d'Ivoire ratified the African Union's cyber security and data protection convention in 2023; no national law giving effect to it is known.
 
+- Linfodrome reports that Cote d'Ivoire ratified the Malabo Convention on 3 April 2023 ([source, 2023-04-03](https://www.linfodrome.com/societe/126588-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien)).
 - The African Union Commission's status list of 02/02/2026 records Cote d'Ivoire as having ratified the Malabo Convention on 08/03/2023, with the instrument deposited on 03/04/2023, and no date of signature ([source, 2023-03-08](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
-- ALT Advisory's Data Protection Africa fact sheet for Cote d'Ivoire lists the Malabo Convention as ratified; it gives no ratification date, so the page's last-updated date of 23 May 2022 is used ([source, 2022-05-23](https://dataprotection.africa/cote-divoire/)).
 
 ### DR Congo: 3 Established
 
@@ -145,6 +145,7 @@ Mozambique ratified the African Union's cyber security and data protection conve
 
 Namibia ratified the African Union's cyber security and data protection convention in 2019; no national law giving effect to it is known.
 
+- New Era says Namibia ratified the African Union Convention on Cyber Security and Personal Data Protection ([source, 2025-09-30](https://neweralive.na/ai-law-on-the-cards/)).
 - The African Union's status list of 02/02/2026 records Namibia as having ratified the Malabo Convention on 25/01/2019 and deposited the instrument on 01/02/2019, with no signature date shown ([source, 2019-01-25](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).
 
 ### Niger: 3 Established

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NASA Harvest says the machine-learning GEOCIF model provides the Malawi Ministry of Agriculture with monthly maize yield forecasts that support its regular crop estimates.",
+   "as_of": "2024-03-30",
+   "date_precision": "day",
+   "system": "GEOCIF",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

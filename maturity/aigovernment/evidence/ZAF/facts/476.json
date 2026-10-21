@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-04-zaf-question-to-the-minister-of-public-service-and-administration-nw4354",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "In a written parliamentary reply of 4 September 2026 the Minister of Public Service and Administration described the Batho Pele AI Chatbot as successfully implemented, helping public servants find policies, directives and procedures faster, and said it could be scaled across government in phases.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Batho Pele AI Chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Batho Pele AI Chatbot",
+   "country_label": "South Africa",
+   "class": "govai",
+   "platform": "",
+   "owner": "Department of Public Service and Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-10-20-legal-aid-sa-resets-all-passwords-after-phishing-attack", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI and deepfakes appear only as training topics; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Information Regulator told ITWeb it had received no security-compromise notification from Legal Aid SA and described the breach-reporting duty the organisation would carry.", "as_of": "2026-10-20", "date_precision": "day", "system": "Information Regulator", "class": "authority"}
+], "systems": [{"system": "Information Regulator", "country_label": "South Africa", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"offsitebackup": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a Legal Aid SA tender for disaster recovery services is mentioned; no site in service or place is stated."}}}
+}}

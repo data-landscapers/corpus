@@ -1,0 +1,23 @@
+{"slug": "2024-09-23-tgo-togo-leverages-new-data-science-lab-to-drive-public-sector-innovation", "studies": {
+"agrisatellite": {"countries": {"TGO": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "CEGA says the Togo Data Lab, housed in the Ministry of Digital Economy and Transformation, plans as its first use case to institutionalise the MOSAIKS satellite-imagery machine-learning tool within the Ministry of Agriculture for predictive models.", "as_of": "2024-09-23", "date_precision": "day", "system": "MOSAIKS", "class": "agrisat"}], "systems": [{"system": "Togo Data Lab", "country_label": "Togo", "class": "other", "platform": "MOSAIKS", "owner": "Ministry of Digital Economy and Transformation with CEGA", "tiers": ""}], "note": ""}}},
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document names a data science lab and planned use cases, not an AI system in service or testing in administration."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The Ministry of Agriculture use case is only planned; nothing is piloted or built."}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "MOSAIKS is CEGA's tool; no AI model, dataset or computing is stated as built in Togo."}}},
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention the central bank."}}},
+"civilserviceskills": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document describes training of lab data scientists, not a civil-service digital-skills programme."}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"digitaldivides": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document gives no rural programme or rural and urban figures."}}},
+"digitalskills": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document describes no programme teaching digital skills to the public."}}},
+"digitalstrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Strategy named only in passing; document states no adoption, text, period or reporting."}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Novissi is mentioned for its targeting; the document does not say how payments were made."}}},
+"mobilepenetration": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document gives no mobile ownership figure."}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"policyresearch": {"countries": {"TGO": {"facts": [], "systems": [], "note": "CEGA is a foreign institution; no Togo-based research institution is named."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mobile money is mentioned only as a general gain, with no service details."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}},
+"schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document does not mention schools."}}},
+"socialprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Novissi is described by its targeting and 150,000 extra households, not by a management information system."}}}
+}}

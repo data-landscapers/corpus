@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 RWA,Planet national satellite data program,Rwanda,agrisat,Planet satellite data,Rwanda Space Agency,national,2026-08-10-itweb-planet-rwanda-national-satellite-data-program
 RWA,GeoHub,Rwanda,agrisat,satellite images,Rwanda Space Agency,national,2024-09-30 Rwanda's digital transformation an effort at intergovernmental collaboration
+RWA,satellite and AI crop type maps,Rwanda,agrisat,satellite imagery and field data,"Rwanda Space Agency, Ministry of Agriculture, Alliance Bioversity-CIAT, BMZ FAIR Forward",four-district test,2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning
+RWA,GDA Agriculture EO products (GMV),Rwanda,other,"Sentinel-1, Sentinel-2",GMV for World Bank project,,2025-06-01-uga-eo-for-agroclimatic-resilience-and-climate-smart-agriculture-rwanda-an
+RWA,Crop Type Mapping for Rwanda,Rwanda,agrisat,"Sentinel-1/2/3, Planet, Worldview",Alliance Bioversity-CIAT with MinAgri and Rwanda Space Agency,pilot in four districts,2025-01-01-rwa-crop-type-mapping-for-rwanda

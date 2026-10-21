@@ -1,0 +1,8 @@
+{"slug": "2024-03-06-mar-signature-de-convention-pour-un-poc-innovant-en-agriculture-utilisant", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The only AI tool named sits in the agriculture sector, which is not general administration."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse announced on 6 March 2024 the signing of an agreement with Russian firm BTI Group for a proof of concept using satellites and AI for crop recognition, parcel delineation and water consumption, at the R'Mel irrigated perimeter (Loukkos) and the commune of Ait Harz Allah (El Hajeb).", "as_of": "2024-03-06", "date_precision": "day", "system": "POC satellites et IA (Pôle Digital de l'Agriculture / BTI Group)", "class": "sectorai"}],
+"systems": [{"system": "POC satellites et IA (Pôle Digital de l'Agriculture / BTI Group)", "country_label": "Morocco", "class": "sectorai", "platform": "", "owner": "Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse with BTI Group", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The proof of concept is run with a Russian firm and the document states no AI model or dataset built in Morocco."}}}
+}}

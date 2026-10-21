@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-20-cmr-donnees-modelisation-geomatique-onacc",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only climate series and a climate yearbook from stations and satellites; no administrative records stated."
+    }
+   }
+  },
+  "agrisatellite": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "ONACC's page cites a 2023 geomatic pilot combining satellite analysis, GIS, SPI/SPEI drought indices and field observation to map flood and agronomic drought risk, crops and exposed people in seven Far North localities.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ONACC geomatic pilot, Far North",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ONACC satellite products and climate database",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "PostgreSQL/PostGIS; Sentinel, MODIS, GPM",
+       "owner": "ONACC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No local government office connection stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No school records system stated."
+    }
+   }
+  }
+ }
+}

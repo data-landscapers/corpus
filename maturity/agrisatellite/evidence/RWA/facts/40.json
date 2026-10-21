@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-01-uga-eo-for-agroclimatic-resilience-and-climate-smart-agriculture-rwanda-an",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GDA Agriculture EO products (GMV)",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "Sentinel-1, Sentinel-2",
+   "owner": "GMV for World Bank project",
+   "tiers": ""
+  }
+ ],
+ "note": "Page names no Rwandan ministry, agency or institute using the EO products."
+}

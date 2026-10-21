@@ -21,8 +21,8 @@ The Malabo Convention's third chapter commits each party to legal measures again
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 11 |
-| 3 Established | 36 |
+| 4 Operating | 12 |
+| 3 Established | 35 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -44,6 +44,13 @@ A 2024 cybersecurity ordinance is in force; the cybercrime platform handled 12,1
 
 - The national information-security agency ANSSI's 2024 report, presented on 22 May 2025, says its cybercrime platform received and handled 12,100 files in 2024, up from 8,132 the year before, including fraudulent access to information systems and online fraud; the report as relayed does not name the law they were handled under ([source, 2024](https://www.fratmat.info/article/2634113/societe/cybercriminalite-en-cote-divoire-12-100-dossiers-traites-pour-un-prejudice-de-7-milliards-de-fcfa)).
 - The Senate unanimously adopted on 16 June 2025 a bill, described by the source as a cybersecurity bill, ratifying Ordinance No. 2024-950 and updating the 2017 electronic-exchanges ordinance; no entry into force is stated ([source, 2025-06-16](https://techreviewafrica.com/news/2427/ivory-coast-senate-unanimously-approves-cybersecurity-and-e-government-bill)).
+
+### Egypt: 4 Operating
+
+A 2018 information technology crimes law is in force and courts convicted content creators under it in 2025; no count of cases is known.
+
+- People of Internet says Egyptian courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025, with sentences from six-month suspended terms to two years and a fine of EGP 100,000 each ([source, 2025-11](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
+- People of Internet calls Law No. 175 of 2018 on Anti-Cyber and Information Technology Crimes Egypt's principal cybercrime statute ([source, 2018](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
 
 ### Equatorial Guinea: 4 Operating
 
@@ -191,13 +198,6 @@ A digital code has been in force since 2023, and in August 2026 police were told
 
 - The Attorney General at the Court of Cassation told judicial police officers on 17 August 2026 to take up offences under the Digital Code on their own initiative, treating the Code as in force ([source, 2026-08-17](https://acp.cd/anglais/drc-judicial-police-officers-advised-to-prosecute-perpetrators-of-digital-offences/)).
 - ACP states that the Code du numérique, promulgated in 2023, makes non-consensual sharing of intimate content, privacy breaches and cyberharassment criminal offences in the DRC ([source, 2023](https://acp.cd/genre/violence-numerique-une-proposition-de-loi-de-protection-des-victimes-annoncee-a-kinshasa/)).
-
-### Egypt: 3 Established
-
-A 2018 law on information technology crimes is in force; two bills in April 2026 would amend it. No use of it is known.
-
-- An MP's bill of 22 April 2026 to amend Law 175 of 2018 on combating information technology crimes treats that law as the current law, whose provisions it would tighten ([source, 2026-04-22](https://www.elwatannews.com/news/details/8270615)).
-- A separate MP bill, referred to committees by the House speaker, amends Law 175 of 2018 on combating information technology crimes, which the sponsor calls the current law with penalties too weak ([source, 2026-04-22](https://www.elbalad.news/6945377)).
 
 ### Eritrea: 3 Established
 

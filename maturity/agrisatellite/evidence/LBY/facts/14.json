@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-lby-implementation-of-the-partnership-agreement-between-oss-and-the-libyan",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "OSS says experts from the Libyan Authority for Grain Production and the Agronomic Research Center of Misrata, which support the Ministry of Agriculture, trialled the GMES services MISBAR, GUETCROP and SAQIYA on their own plots and plan to adopt them for larger areas.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "GMES North Africa services (MISBAR, GUETCROP, SAQIYA)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GMES North Africa services (MISBAR, GUETCROP, SAQIYA)",
+   "country_label": "Libya",
+   "class": "agrisat",
+   "platform": "Earth Observation",
+   "owner": "OSS, with the Libyan Authority for Grain Production",
+   "tiers": "training trial"
+  }
+ ],
+ "note": ""
+}

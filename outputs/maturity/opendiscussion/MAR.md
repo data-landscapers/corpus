@@ -2,7 +2,7 @@
 
 ## Freedom to discuss policy online and in the press
 
-**Public criticism of government policy.** Human Rights Watch says the youth movement GenZ212 [called nationwide protests from 27 September 2025](<https://www.hrw.org/news/2025/10/15/morocco-protests-met-with-repression-violence>), criticising public spending on mega-sporting events and demanding more for health care and education. No other criticism of a government policy inside the country is held.
+**Public criticism of government policy.** Human Rights Watch says the youth movement GenZ212 [called nationwide protests from 27 September 2025](<https://www.hrw.org/news/2025/10/15/morocco-protests-met-with-repression-violence>), criticising public spending on mega-sporting events and demanding more for health care and education. No other criticism of a government policy inside the country is held. [Opposition members proposed deleting part of Article 51 bis of Organic Law 53.25 as a threat to free expression; the government rejected the amendment (December 2025)](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>).
 
 **Cuts and blocks, and a bar on them.** No internet cut, no blocked service and no law or court ruling barring one is held. The nearest held fact is the set of nationwide protests that began on 27 September 2025, [as Human Rights Watch reports](<https://www.hrw.org/news/2025/10/15/morocco-protests-met-with-repression-violence>).
 

@@ -1,0 +1,97 @@
+{
+ "slug": "2026-01-28-cmr-avis-d-appel-a-manifestation-d-interet-n0000002-ami-mpt-sg-dag-sdbm-sm",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A planned lab to improve statistical production is a plan only; no records, pilot or publication stated."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A call for consultants to study a future AI lab is a plan, not an AI system tendered, piloted or in use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Cameroon's Ministry of Posts and Telecommunications issued a call for expressions of interest on 28 January 2026 for firms to carry out technical, institutional, architectural and financial studies to set up a Data Analysis and AI Laboratory (LAD-IA), funded by the FSE 2026 account, at a named building site behind the Poste Centrale.",
+       "as_of": "2026-01-28",
+       "date_precision": "day",
+       "system": "LAD-IA",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LAD-IA (Laboratoire d'Analyse de Donn\u00e9es et d'Intelligence Artificielle)",
+       "country_label": "Cameroon",
+       "class": "localai",
+       "platform": "",
+       "owner": "MINPOSTEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions digital sovereignty as an aim only; no strategy, rule, hosting or contract terms stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions."
+    }
+   }
+  }
+ }
+}

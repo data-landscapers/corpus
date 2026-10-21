@@ -1,0 +1,6 @@
+{"slug": "2025-08-25-moz-mozambique-adopts-ai-to-transform-vat-and-boost-tax-compliance", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The AI tools are planned for tax administration, a sector, and the document says only that they will be deployed."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The document describes planned AI tools for VAT administration in the fiscal plan, with no pilot, test or build stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}}
+}}

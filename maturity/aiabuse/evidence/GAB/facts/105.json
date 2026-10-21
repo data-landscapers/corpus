@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-16-gab-village-justice-droit-reseaux-sociaux-ordonnances-analyse",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Village de la Justice says Gabon's ordinance n°0011/PR/2026, signed 26 February 2026 and published in Journal Officiel n°110 of 8-15 April 2026, bans sexual deepfakes without consent and deepfakes attributing false statements to public figures, with a right to report and removal within 24 hours.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Ordonnance n°0011/PR/2026",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "Village de la Justice says ordinance n°0013/PR/2026 gives the Haute Autorité de la Communication (HAC) express competence to regulate digital platforms, and that the HAC is given the task of auditing AI systems.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Haute Autorité de la Communication (HAC)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ordonnance n°0011/PR/2026",
+   "country_label": "Gabon",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Presidency of Gabon",
+   "tiers": ""
+  },
+  {
+   "system": "Haute Autorité de la Communication (HAC)",
+   "country_label": "Gabon",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

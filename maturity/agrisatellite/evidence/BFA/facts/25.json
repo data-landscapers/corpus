@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-20-bfa-bulletin-agrometeorologique-decadaire",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ANAM describes its ten-day agro-meteorological bulletin for Burkina Faso as a current product carrying NDVI and NDVI anomalies with rainfall, temperature and humidity anomalies.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Bulletin agrométéorologique décadaire",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "published",
+   "value": "scheduled",
+   "fact": "ANAM publishes the bulletin every ten days, the newest listed update covering 13-19 October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Bulletin agrométéorologique décadaire",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bulletin agrométéorologique décadaire",
+   "country_label": "Burkina Faso",
+   "class": "agrisat",
+   "platform": "meteoburkina.bf",
+   "owner": "ANAM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

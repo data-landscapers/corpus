@@ -9,7 +9,7 @@
    "remote": "wallet",
    "cap": "",
    "flags": "",
-   "stage_sources": "MAR-009;MAR-011",
+   "stage_sources": "MAR-020;MAR-009",
    "gaps": "",
    "note": "First pass: counted from the four questions by study-ladder-authentication.py."
   }

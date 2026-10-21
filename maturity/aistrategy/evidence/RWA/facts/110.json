@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Digital Policy Alert says Rwanda's Ministry of ICT and Innovation released the National AI Policy in April 2023, the country's primary AI framework.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "National AI Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Digital Policy Alert says the National AI Policy empowers the Rwanda Information Society Authority to oversee national AI initiatives and provides for a Responsible AI Office under the Ministry.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Berkeley News says that in the 2020 COVID response the Togolese government used AI to target households and then delivered modest cash transfers to them via digital networks.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "COVID cash transfers",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

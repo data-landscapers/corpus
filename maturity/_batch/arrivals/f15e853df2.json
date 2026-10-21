@@ -1,0 +1,8 @@
+{"slug": "2025-11-12-mar-la-cnss-investit-6-millions-de-dirhams-pour-deployer-un-chatbot-au-ser", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Lodj.ma reports that the CNSS launched a tender, estimated at 6 million dirhams, to select a provider for an AI chatbot that CNSS staff will use to query its document and database holdings, with a later phase planned to serve insured members.", "as_of": "2025-11-12", "date_precision": "day", "system": "Chatbot CNSS", "class": "govai"}],
+"systems": [{"system": "Chatbot CNSS", "country_label": "Morocco", "class": "govai", "platform": "", "owner": "Caisse Nationale de Sécurité Sociale (CNSS)", "tiers": "internal first, insured members later"}], "note": ""}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The chatbot is a tender for an internal information tool and gives no diagnosis, score or decision."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The provider is yet to be selected and no AI model or dataset built in the country is stated."}}}
+}}

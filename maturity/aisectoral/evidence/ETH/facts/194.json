@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled an AI-powered Passenger Risk Management System among eight digital systems on 12 October 2025.",
+   "as_of": "2025-10-12",
+   "date_precision": "day",
+   "system": "AI-powered Passenger Risk Management System",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-eth-dpa-digital-digest-ethiopia-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Digital Policy Alert states that Ethiopia has not yet adopted laws or regulations specifically governing the development and use of AI.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "none",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

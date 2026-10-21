@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-04-zaf-question-to-the-minister-of-public-service-and-administration-nw4354",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Minister's written reply of 4 September 2026 says the Department is working on Data Quality and Data Classification Guidelines for the Public Service, alongside a Determination and Directive on Public Service Data Management and a Directive on the Public Service Data Architecture Framework.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Data Quality and Data Classification Guidelines",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

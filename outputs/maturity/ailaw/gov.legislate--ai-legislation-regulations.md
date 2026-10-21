@@ -24,9 +24,9 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 10 |
-| 1 Absent | 17 |
+| 1 Absent | 21 |
 | Unplaced | 0 |
-| No evidence | 20 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -48,6 +48,7 @@ A 2024 financial regulator decree on robo-advisors is in force; a general AI law
 An ordinance of April 2026 governs AI-generated content and bans deepfakes; there is no law on AI itself.
 
 - The article cites an ordinance of April 2026 governing AI-generated content, notably prohibiting deepfakes, as evidence of Gabon's will to regulate; it gives no article numbers or text ([source, 2026-04](https://www.echosdeleco.com/articles/ia-le-gabon-dans-le-top-13-africain-mais-le-fosse-entre-les-engagements-officiels-et-la-realite-reste-beant)).
+- Village de la Justice says ordinance n°0011/PR/2026, published in Journal Officiel n°110 of 8-15 April 2026, prohibits sexual deepfakes without consent and deepfakes attributing false statements to public figures ([source, 2026-04](https://www.village-justice.com/articles/gabon-dote-droit-des-reseaux-sociaux-analyse-des-ordonnances-fevrier-2026,57009.html)).
 
 ### Mauritius: 3 Established
 
@@ -60,6 +61,7 @@ Regulations in force since March 2026 govern AI in higher education; there is no
 The electoral law revised for the 2026 elections makes AI-made falsehoods a crime; a general AI bill of 2025 has not passed.
 
 - A Hespress interview with academic Adel Ben Hamza (published 2026-07-30) says Morocco's legislator wrote into the revised electoral framework for the 2026 legislative elections provisions that criminalise use of AI and digital means to alter the truth or harm the private lives of individuals and candidates, and excluded electoral offences from alternative penalties; it names no law or article, and the date is the publication date ([source, 2026-07-30](https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html)).
+- EuroMedAI says Organic Law No. 53.25, promulgated on 16 January 2026, names artificial intelligence tools among the means by which electoral offences can be committed ([source, 2026-01-16](https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/)).
 
 ### Nigeria: 3 Established
 
@@ -97,6 +99,7 @@ A ministry was revising a preliminary draft of an AI law in 2025; no rule on AI 
 A draft information technology bill of 2026 would regulate AI among other technologies; no rule on AI is in force.
 
 - MyJoyOnline reported on 26 May 2026 that the proposed National Information Technology Authority Draft Bill, to overhaul the 2008 ICT law, includes regulation of emerging technologies such as AI and blockchain ([source, 2026-05](https://www.myjoyonline.com/what-are-they-hiding-tech-consultant-questions-rush-for-15-digital-bills/)).
+- Ghana News Agency reports the Data Protection Commission's bill, covering AI, automated decision-making and cross-border transfers, was set to be presented to Parliament, per committee chairman Abednego Bandim Azumah and Commissioner Dr Arnold Kavaarpuo ([source, 2026-03-09](https://gna.org.gh/2026/03/committee-chairman-pushes-for-law-update-to-tackle-tech-challenges/)).
 
 ### Kenya: 2 Nascent
 
@@ -136,6 +139,12 @@ The Council of Ministers discussed a draft data and AI law in August 2026; no ru
 A draft data protection law including AI use was before a committee in February 2026; no rule on AI is known in force.
 
 - Organic law proposal 095/2025 on personal data protection, 132 articles in 6 chapters and including regulation of AI use, was heard before the Assembly's Rights and Freedoms Committee on 17 February 2026 ([source, 2026-02-17](https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/)).
+
+### Algeria: 1 Absent
+
+In 2025 Algeria had adopted no law or regulation on AI; no draft is named.
+
+- Digital Policy Alert states Algeria has not yet adopted laws or regulations specifically governing the development and use of AI ([source, 2025-04-16](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
 
 ### Benin: 1 Absent
 
@@ -184,6 +193,24 @@ An assessment of June 2026 says The Gambia has no legislation on AI and none pro
 A ministry official said in October 2025 that Guinea has no AI law or framework; whether a draft is under way is not known.
 
 - The secretary-general of the Ministry of Posts, Telecommunications and Digital Economy said at the opening of an AI diagnostic workshop that Guinea lacks a legislative and regulatory framework on AI and has not yet adopted a specific AI law ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
+
+### Liberia: 1 Absent
+
+In 2026 Liberia had no guardrails on AI in law; no draft is named.
+
+- Oracle News Daily reports Abdullah Kamara's memorandum saying Liberia lacks clear guardrails on AI and recommending legislation to regulate high-risk AI applications ([source, 2026-03-29](https://oraclenewsdaily.com/2026/03/29/liberia-tech-expert-issues-early-warning-as-ai-threatens-liberias-job-market-security/)).
+
+### Libya: 1 Absent
+
+In 2025 Libya had a legislative vacuum on AI; no draft is named.
+
+- The Journal of the Academic Forum article abstract says Libya has a legislative vacuum on AI-related crimes and that Libyan legislation needs updating to cover them ([source, 2025-11-01](https://journals.asmarya.edu.ly/jaf/index.php/jaf/article/view/803)).
+
+### Malawi: 1 Absent
+
+In 2025 Malawi had passed no dedicated AI law; an AI bill is announced but no draft is known.
+
+- Higher Education Minister Jessie Kabwila acknowledged that Malawi has not yet passed a dedicated AI law ([source, 2025-06-25](https://www.maravipost.com/malawis-higher-education-minister-dr-kabwila-reaffirms-govt-commitment-on-ethical-inclusive-ai-development/)).
 
 ### Namibia: 1 Absent
 
@@ -243,12 +270,6 @@ A review of September 2026 says Uganda has no AI laws in place; a 2025 governmen
 An analyst wrote in July 2026 that Zimbabwe has no AI law and no draft; whether one has been introduced since is not known.
 
 - African Law Matters analyst Tashinga Magaya writes that the National AI Strategy is not a law, that the proposed regulator has no enabling Act, and that the Cyber and Data Protection Act is the law that applies to AI today, so no AI-specific rule is in force and she urges that a draft AI Act be introduced within twelve to eighteen months ([source, 2026-07-27](https://www.africanlawmatters.com/blog/strategy-without-statute-reading-zimbabwes-national-ai-strategy)).
-
-### Algeria: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Botswana: No evidence
 
@@ -310,25 +331,7 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
-### Liberia: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Libya: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Madagascar: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Malawi: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

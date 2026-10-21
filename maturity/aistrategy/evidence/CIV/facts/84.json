@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-19-civ-cote-d-ivoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-stra",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Digital Transition Minister Ibrahim Kalil Konaté handed the National AI Strategy to the Prime Minister on 13 March 2025, to be submitted to government for adoption and inclusion in the 2026-2030 National Development Plan.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'Intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [The Eswatini Revenue Service issued a request for proposals for a fiscalisation system using machine learning and AI for tax risk assessment and fraud detection, per Eswatini Financial Times](<https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** In August 2025 the health minister launched [an AI diagnostic system for diabetic retinopathy, operating at six public hospitals and health centres](<https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/>), among them Mbabane Government, Piggs Peak and Mankayane, under the Taiwan Technical Mission's non-communicable disease project.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/>).
+**Several sectors.** Only health is held with AI in service. The Eswatini Revenue Service [sought proposals for a fiscalisation system using machine learning for tax risk assessment and fraud detection](<https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/>) in May 2025. No tool is reported awarded or in service under that call.
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/>).
+**Results reported.** No measured results of a sectoral AI system are held. The nearest held fact is the [screening system's launch](<https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/>), which gives no count of patients screened. Nor does it say how many sites will follow.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. AI in service in a second sector, and measured results, are not known.

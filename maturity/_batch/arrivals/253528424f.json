@@ -1,0 +1,10 @@
+{"slug": "2025-07-15-ago-especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-se", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only studies of a framework AI law are said to be running; no draft, rule or authority is stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "IMA director Meick Afonso says small experimental-module AI initiatives exist in public services but no structured project yet.", "as_of": "2025-07-14", "date_precision": "day", "system": "experimental AI initiatives in public services", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sector system using AI is named."}}},
+"aistrategy": {"countries": {"AGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "IMA director Meick Afonso says the government is working on a strategy for adopting AI in public administration, with a new legal base also in preparation.", "as_of": "2025-07-14", "date_precision": "day", "system": "AI adoption strategy for public administration", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No locally built model, dataset or AI computing is stated."}}},
+"civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No civil-service digital-skills training is stated."}}},
+"digitalskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Forum launches an AI community; no national public digital-skills programme or measured share is stated."}}},
+"schoolinternet": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum is stated."}}}
+}}

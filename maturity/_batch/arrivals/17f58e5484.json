@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-19-uga-fdc-opposes-ucc-crackdown-on-unlicensed-wi-fi-resellers",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a Wi-Fi reseller licensing dispute; no government rural connection programme or rural-urban survey figure."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on online government services."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Per-gigabyte figures given are for licensed and unlicensed internet resale, not stated as a 30-day mobile data price."
+    }
+   }
+  }
+ }
+}

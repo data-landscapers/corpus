@@ -22,10 +22,10 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 13 |
-| 3 Established | 24 |
+| 3 Established | 25 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 0 |
 
 ## Countries
@@ -235,6 +235,12 @@ Customs declarations were processed electronically in 2023; a single window is n
 
 - The Customs Code (art. 87, as amended by the 2023 finance law) requires declarations at customs offices equipped with computer systems to be lodged electronically, and art. 88 refers to an automated clearance system ([source, 2023](https://www.douanes.gov.mg/code/titre-iv-operations-de-dedouanement/chapitre-premier-declaration-en-detail/section-i-caractere-obligatoire-de-la-declaration-en-detail/)).
 
+### Mali: 3 Established
+
+Customs runs on an automated system covering most procedures (2026); a trade single window is not known.
+
+- Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures ([source, 2026-02-23](https://douanes.gouv.ml/node/535)).
+
 ### Mauritius: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -342,12 +348,6 @@ An automated customs system was under way in 2025; none in service is on record.
 - Customs spokesman Chokri Jarraya said on 12 November 2025 that the SINDA 2 customs system will be ready in 2026, with the first applications entering service at the end of 2025 ([source, 2025-11-12](https://www.lapresse.tn/2025/11/12/douane-le-systeme-informatique-sinda-2-operationnel-a-partir-de-2026-2/)).
 
 ### Cote d'Ivoire: Unplaced
-
-Nothing held since 2023 names an automated customs system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
-
-### Mali: Unplaced
 
 Nothing held since 2023 names an automated customs system, so no stage is set.
 

@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GMB,ROOTS geospatial platform,The Gambia,agrisat,geospatial monitoring platform,"Government of The Gambia (ROOTS project, IFAD-supported, FAO technical support)",national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
 GMB,National Land Cover Reference System (NLCRS),The Gambia,agrisat,land cover classification and map,FAO with Gambian partners,national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
+GMB,Gambia GeoLab,Gambia,agrisat,Google Earth Engine,"FAO, ROOTS project",,2025-12-09-gmb-fao-gambia-geolab-geo-for-good
+GMB,Digital Farming platform (Google Earth Engine app),Gambia,agrisat,Google Earth Engine,Department of Water Resources (planned hand-over),,2024-01-01-gmb-weather-impact-dcas-gee-platform

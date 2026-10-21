@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-02-tza-fake-ai-photos",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "FB Attorneys says Tanzania's Personal Data Protection Act requires personal data to be collected and processed lawfully, fairly and transparently, with mechanisms for investigation, enforcement and compensation.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No authority, regulation or dated decision is named."
+}

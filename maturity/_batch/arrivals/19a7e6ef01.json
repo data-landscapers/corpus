@@ -1,0 +1,12 @@
+{"slug": "2026-10-20-xca-gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on business payments in Gabon."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on a central bank."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A regional working group on consumer protection is set up; it states no Gabon rules, complaints body or enforcement."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on local government connection."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No survey share of adults with an account given."}}},
+"regionalpolicy": {"countries": {"GAB": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Agence Gabonaise de Presse reports that the 4th extraordinary session of the Conference of Regulators of ARTAC, the Central African telecoms regulators' assembly, was held in Libreville on 20 October 2026, hosted by ARCEP Gabon, and set up six permanent technical working groups.", "as_of": "2026-10-20", "date_precision": "day", "system": "Assemblee des regulateurs des telecommunications de l'Afrique centrale (ARTAC)", "class": "cooperation"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on retail payments."}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated on revenue collection."}}}
+}}
