@@ -192,6 +192,11 @@ def lookup_tables(text: str, out_dir: Path) -> str:
                                  f"which is not there.")
             with open(src, encoding="utf-8-sig", newline="") as fh:
                 header, *rows = [r for r in csv.reader(fh) if r]
+            # A row dated in `removed` has left the frame but keeps its id in the lookup
+            # (indicators.csv, 2026-10-21); the page lists what is live, the download keeps all.
+            if "removed" in header:
+                k = header.index("removed")
+                rows = [r for r in rows if not (k < len(r) and r[k].strip())]
             if m.group(2):
                 cols = [c.strip() for c in m.group(2).split(",")]
                 gone = [c for c in cols if c not in header]
