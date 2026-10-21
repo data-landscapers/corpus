@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-21 12:06 · **RENDER** · 11m · scoped: 54 country progress reports, finance/geopol topic docs, progress tables, maturity, methodology; 8 indicators removed, deployed — ok
 2026-10-21 02:32 · **RENDER** · 29m · 306 documents, home, countries, catalogue, finance, datasets, maturity rendered; 1 edition pruned; deployed 9b08bb9; mirror skipped (on hold until new drive) — ok
 2026-10-21 02:03 · **REBUILD** · 1m · aistrategy: rung 4 read two ways (a ministry named in charge as the body: BEN 3->4); not messaged, 5 open; staged as worded
 2026-10-21 02:03 · **REBUILD** · 12m · aistrategy strategy: 0 cells reassessed, 0 moved; 54 searched, 207 staged; 4.9M subagent tokens — ok
