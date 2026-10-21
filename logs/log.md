@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-21 01:49 · **BUILD** · 47m · catalogue 31,573; 57 units, 413 sources: 23 moved, 124 minted, 38 status sections revised, owed re-reads partly targeted; data centres 8; maturity 1,795 read, 46 cells moved, 3 ladder readings unmessaged (cap); bulletin 33; register 11 stand — ok
 2026-10-21 01:02 · **ANALYTICS** · unclocked · 2026-10-19..2026-10-20 written; 20 Oct: dl.io 26 views / 0 clicks, corpus 361 views / 3 clicks
 2026-10-20 15:34 · **RENDER** · 19m · progress reports reinstated beside Maturity: 306 documents rendered, progress PDFs re-cut, every page repaged for nav; deployed; mirror skipped (on hold) — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
