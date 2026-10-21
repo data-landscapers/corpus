@@ -1,6 +1,6 @@
 ---
 title: South Africa: finance
-compiled: 2026-10-20
+compiled: 2026-10-21
 place: ZAF
 ---
 
@@ -12,7 +12,7 @@ place: ZAF
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">1,206</td><td class="num">160</td><td class="num">1,700</td><td class="num">846</td><td class="num">1,606</td><td class="num">438</td><td class="num total">5,956</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">458</td><td class="num">71</td><td class="num">1,400</td><td class="num total">3,465</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">458</td><td class="num">71</td><td class="num">1,433</td><td class="num total">3,498</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">174</td><td class="num">205</td><td class="num">219</td><td class="num total">599</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">142</td><td class="num">159</td><td class="num">165</td><td class="num total">467</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">76</td><td class="num">120</td><td class="num">71</td><td class="num total">267</td></tr>
@@ -32,11 +32,11 @@ place: ZAF
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">6</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,832</td><td class="num">2,318</td><td class="num">2,558</td><td class="num total">11,462</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,832</td><td class="num">2,318</td><td class="num">2,591</td><td class="num total">11,495</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 291 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 292 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -82,7 +82,7 @@ place: ZAF
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Data Storage</th><td class="num">1,206</td><td class="num">160</td><td class="num">1,700</td><td class="num">846</td><td class="num">1,606</td><td class="num">438</td><td class="num total">5,956</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">417</td><td class="num zero"></td><td class="num">1,384</td><td class="num total">3,337</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">809</td><td class="num">700</td><td class="num">27</td><td class="num">417</td><td class="num zero"></td><td class="num">1,417</td><td class="num total">3,370</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">56</td><td class="num">10</td><td class="num">32</td><td class="num zero"></td><td class="num">4</td><td class="num">118</td><td class="num total">220</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">36</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">36</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">11</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">18</td></tr>
@@ -90,11 +90,11 @@ place: ZAF
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">3</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,270</td><td class="num">1,611</td><td class="num">1,946</td><td class="num total">9,582</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">2,120</td><td class="num">870</td><td class="num">1,764</td><td class="num">1,270</td><td class="num">1,611</td><td class="num">1,979</td><td class="num total">9,615</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 56 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 57 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate-2026-10-20.csv" download>&darr; Download CSV</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Burkina Faso: finance
-compiled: 2026-10-18
+compiled: 2026-10-21
 place: BFA
 ---
 
@@ -11,8 +11,8 @@ place: BFA
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">107</td><td class="num">21</td><td class="num">153</td><td class="num">3</td><td class="num">3</td><td class="num total">288</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">138</td><td class="num zero"></td><td class="num">9</td><td class="num">17</td><td class="num">10</td><td class="num total">174</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">97</td><td class="num">21</td><td class="num">153</td><td class="num">3</td><td class="num">3</td><td class="num total">278</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">128</td><td class="num zero"></td><td class="num">9</td><td class="num">17</td><td class="num">10</td><td class="num total">164</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">28</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num">5</td><td class="num total">10</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">5</td><td class="num total">7</td></tr>
@@ -28,7 +28,7 @@ place: BFA
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Regional collaboration</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">278</td><td class="num">21</td><td class="num">171</td><td class="num">28</td><td class="num">25</td><td class="num total">524</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">258</td><td class="num">21</td><td class="num">171</td><td class="num">28</td><td class="num">25</td><td class="num total">504</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
@@ -73,14 +73,14 @@ place: BFA
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">107</td><td class="num">21</td><td class="num">150</td><td class="num zero"></td><td class="num total">278</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">138</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">138</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">97</td><td class="num">21</td><td class="num">150</td><td class="num zero"></td><td class="num total">268</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">128</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">128</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">28</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">278</td><td class="num">21</td><td class="num">150</td><td class="num">1</td><td class="num total">450</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">258</td><td class="num">21</td><td class="num">150</td><td class="num">1</td><td class="num total">430</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 

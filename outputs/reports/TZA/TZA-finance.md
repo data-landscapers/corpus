@@ -1,6 +1,6 @@
 ---
 title: Tanzania: finance
-compiled: 2026-10-16
+compiled: 2026-10-21
 place: TZA
 ---
 
@@ -29,13 +29,14 @@ place: TZA
 <tr><th scope="row">Cybersecurity</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">535</td><td class="num">115</td><td class="num">26</td><td class="num">207</td><td class="num">239</td><td class="num">516</td><td class="num total">1,637</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">535</td><td class="num">115</td><td class="num">26</td><td class="num">207</td><td class="num">241</td><td class="num">516</td><td class="num total">1,639</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 445 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 446 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -91,13 +92,14 @@ place: TZA
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Use of satellite data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">535</td><td class="num">115</td><td class="num">26</td><td class="num">56</td><td class="num">102</td><td class="num">358</td><td class="num total">1,192</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">535</td><td class="num">115</td><td class="num">26</td><td class="num">56</td><td class="num">104</td><td class="num">358</td><td class="num total">1,194</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 49 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 50 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-nonstate-2026-10-13.csv" download>&darr; Download CSV</a>
 </div>
