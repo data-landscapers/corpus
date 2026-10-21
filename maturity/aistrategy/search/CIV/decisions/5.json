@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "The Stratégie Nationale de l'IA à l'horizon 2030 provides for creating an Agence Nationale de l'Intelligence Artificielle (ANIA) containing a Conseil National de l'IA, and a temporary Task Force to prepare it.",
+ "title": "Stratégie Nationale de l'Intelligence Artificielle à l'horizon 2030",
+ "publisher": "Ministère de la Transition Numérique et de la Digitalisation",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

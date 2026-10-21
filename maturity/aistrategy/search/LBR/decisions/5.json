@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The strategy's as-is table says no national AI strategy, policy or regulation has been developed, and sets a target of developing and approving an AI strategy by Q1 2027.",
+ "title": "Government of Liberia \"Whole of Government\" National Digital Strategy",
+ "publisher": "Government of Liberia, Ministry of Posts and Telecommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

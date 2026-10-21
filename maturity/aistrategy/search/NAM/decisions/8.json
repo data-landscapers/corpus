@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "CAJ News reported on 20 February 2025 that Namibia had officially launched its National AI Strategy, founded on a National AI Council with sector Technical Working Groups; later official statements (August 2025 and 2026) say no strategy yet exists, so this report conflicts with them.",
+ "title": "Namibia launches national AI strategy",
+ "publisher": "CAJ News Africa",
+ "published": "2025-02-20",
+ "date_source": "source",
+ "why_not": "Contradicted by the minister's statement of August 2025 and 2026 sources that the strategy is still being written."
+}

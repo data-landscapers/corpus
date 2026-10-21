@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "The 2026 National Budget statement says Cabinet approved the Zimbabwe National AI Strategy 2026-2030 and that the 2026 Budget will allocate resources to AI capacity development, infrastructure and regulatory frameworks.",
+ "title": "2026 National Budget Statement",
+ "publisher": "Ministry of Finance, Economic Development and Investment Promotion",
+ "published": "2025-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

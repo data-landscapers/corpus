@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "On 26 April 2026 the minister withdrew the Draft National AI Policy, approved by Cabinet on 25 March 2026 and gazetted 10 April, over fabricated references.",
+ "title": "Minister announces withdrawal of draft AI Policy",
+ "publisher": "SAnews",
+ "published": "2026-04-26",
+ "date_source": "source",
+ "why_not": ""
+}

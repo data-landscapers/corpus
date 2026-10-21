@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Techzim reports the strategy was launched on 13 March 2026 and that it includes no budget, with funding left to government allocations, private sector, partners and other financing.",
+ "title": "Zimbabwe's AI Strategy is Here. Will It Matter?",
+ "publisher": "Techzim",
+ "published": "2026-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

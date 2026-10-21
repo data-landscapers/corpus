@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Mauritius officially launched its national AI strategy, AI for Mauritius (AIM), with the FAIR guidelines on 9 April 2026, carried by the AI Unit with UNDP support.",
+ "title": "Maurice adopte une stratégie nationale pour encadrer l'intelligence artificielle",
+ "publisher": "Agence Ecofin",
+ "published": "2026-04-13",
+ "date_source": "source",
+ "why_not": ""
+}

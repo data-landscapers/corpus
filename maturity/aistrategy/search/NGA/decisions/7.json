@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The ministry issued the National AI Strategy in September 2025, a five-year strategy (34 strategies in five pillars) that includes establishing an AI governance regulatory body.",
+ "title": "National Artificial Intelligence Strategy",
+ "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

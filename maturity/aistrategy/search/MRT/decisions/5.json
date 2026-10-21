@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing",
+ "fact": "The International Conference on AI in Nouakchott, opened on 26 May 2025, included a presentation of and round table on the national artificial intelligence strategy.",
+ "title": "Ouverture de la Conférence internationale de Nouakchott sur l'IA",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2025-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

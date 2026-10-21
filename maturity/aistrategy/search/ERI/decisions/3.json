@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "strategy",
+ "aspect": "",
+ "fact": "",
+ "title": "African AI Governance Index",
+ "publisher": "African AI Governance Index",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": "Fetched text has continental counts only; no Eritrea line."
+}

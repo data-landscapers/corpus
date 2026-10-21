@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "A parliamentary working group report found no unified national AI strategy and no central body to coordinate AI in public action; the article says nothing had moved since the report was adopted.",
+ "title": "Maroc et intelligence artificielle : qui pilote la machine ?",
+ "publisher": "Le Matin",
+ "published": "2025-05-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

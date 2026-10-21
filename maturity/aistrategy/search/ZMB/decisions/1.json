@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "OECD.AI lists the National AI Strategy of Zambia 2024-2026 as active, with strategic guidance from a National AI Council, Technical Working Groups and coordination by the Ministry of Technology and Science.",
+ "title": "National Artificial Intelligence Strategy of Zambia 2024-2026",
+ "publisher": "OECD.AI",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

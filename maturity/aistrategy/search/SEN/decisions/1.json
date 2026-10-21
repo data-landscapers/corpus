@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Desk research in October 2026 found Senegal's national AI strategy and roadmap published in 2023 with implementation started in 2024, and a single report that 7 billion FCFA was allocated over two years, with no AI-specific governance body found.",
+ "title": "Country Profile on AI Governance: Senegal",
+ "publisher": "Africa AI Policy Lab",
+ "published": "2026-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Desk research of October 2026 found no national AI strategy or policy for Sudan and no AI budget; the one AI step recorded is the Prime Minister's decree of 5 November 2025 creating a Sudanese Data and Artificial Intelligence Authority.",
+ "title": "Country Profile on AI Governance: Sudan",
+ "publisher": "Africa AI Governance Index 2026 (AI Policy Lab)",
+ "published": "2026-10-07",
+ "date_source": "source",
+ "why_not": ""
+}

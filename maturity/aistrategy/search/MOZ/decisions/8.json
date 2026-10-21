@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Mozambique's ministerial statement lists the National Artificial Intelligence Strategy as under drafting and harmonization and records the National Commission for AI established by Council of Ministers decree on 10 March 2026.",
+ "title": "Ministerial Roundtable on the role of science, technology, and innovation (Mozambique statement)",
+ "publisher": "Government of Mozambique, UNCTAD CSTD 29th session",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}
