@@ -63,4 +63,4 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **ZMB FY2025** — audited-accounts adds audited: [[2026-09-01-zmb-auditor-general-report-2025-companion]] (queued 2026-10-21).
+- **ZMB FY2025** — audited-accounts adds audited: [[2026-09-01-zmb-auditor-general-report-2025-companion]] (queued 2026-10-21). *2026-10-21: read, nil: the report prints programme totals per head only; the outturn by sub-programme is Statement C of the Financial Report, already the source of the actual stage, and the report prints no line figure that could carry an audited stage.*
