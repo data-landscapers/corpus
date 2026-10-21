@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: CIV
 ledger_rows: 45
 not_held: 10
-record: d0da7917fa0b
+record: 7d5f9cd67427
 ---
 
 # News, Sep – Oct 2026
@@ -151,14 +151,6 @@ The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouatt
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Hosting of the final African preparatory meeting for the ITU Plenipotentiary Conference 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ATU opens fifth Africa Innovation Challenge with US$60,000 prize pool](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)** — TechReviewAfrica, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-The African Telecommunications Union opened applications for the fifth Africa Innovation Challenge, with a total prize pool of US$60,000. Côte d'Ivoire's digital minister, Djibril Ouattara, launched it in Abidjan during Africa's final preparatory meeting for the 2026 ITU Plenipotentiary Conference. The call focuses on AI-based software.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
