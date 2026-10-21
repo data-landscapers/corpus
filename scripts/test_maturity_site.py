@@ -96,7 +96,13 @@ def main() -> int:
           all(f'id="{i}"' in page for i in data["indicators"])
           and all(f'id="{a}"' in page for a in ms.re.findall(r'<a href="#((?:chapter|topic)-[^"]+)"', page)))
 
-    report = ms.country_page(iso, "X", data, {})
+    # The page's record moves with these fixture bodies, so a real call would cut a dated PDF
+    # into site/reports/ — a stray edition on every test run. The edition is not under test here.
+    cut, ms.report_edition = ms.report_edition, lambda iso3, rec: ("2026-01-01", False)
+    try:
+        report = ms.country_page(iso, "X", data, {})
+    finally:
+        ms.report_edition = cut
     groups = list(dict.fromkeys(t["group"] for t in data["topics"]))
     check("a country report opens on a bar of every chapter",
           report.count('aria-label="Sections in this report"') == 1 and all(ms.html.escape(g) in report for g in groups))

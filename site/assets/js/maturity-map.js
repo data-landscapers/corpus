@@ -313,14 +313,19 @@
     if (!iso) { box.innerHTML = '<p class="mat-side__empty">Select a country.</p>'; return; }
     var c = cell(iso), s = stageInfo(c);
     var moved = c.reassessed ? "Reassessed " + c.reassessed : (c.moved || "First assessment");
+    /* The status report opens at the indicator's topic where it holds that topic, else at its top. */
+    var held = data.status && data.status[iso], ind = data.indicators[state.indicator] || {};
+    var at = held && [ind.anchor, ind.chapter].filter(function (a) { return a && held.indexOf(a) >= 0; })[0];
+    var statusLink = held ? '<a class="mat-btn mat-btn--primary" href="../reports/' + iso + "/" + iso + "-status.html" +
+      (at ? "#" + esc(at) : "") + '">Country status report</a>' : "";
     box.innerHTML =
       '<div class="mat-side__head"><div class="mat-side__name"><h2>' + esc(data.countries[iso] || iso) + "</h2>" +
       '<span class="mat-chip' + (s === data.blank ? " mat-chip--blank" : "") + '" style="background:' + s.color + ";color:" + s.ink + '">' +
       esc(stageText(c)) + "</span></div>" +
       '<div class="mat-side__row"><p class="mat-side__meta"><span><b>Last assessed</b> ' + esc(c.assessed || "—") + "</span>" +
       "<span><b>Stage last moved</b> " + esc(moved) + "</span></p>" +
-      '<a class="mat-btn mat-btn--primary" href="countries/' + iso.toLowerCase() + "/#" + esc(state.indicator) +
-      '">View in country report</a></div></div>' +
+      '<span class="mat-side__btns"><a class="mat-btn mat-btn--primary" href="countries/' + iso.toLowerCase() + "/#" +
+      esc(state.indicator) + '">Country maturity report</a>' + statusLink + "</span></div></div>" +
       '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
       '<div class="mat-side__long">' + (c.summary || "") + "</div>";
     box.scrollTop = 0;

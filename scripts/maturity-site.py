@@ -47,6 +47,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 import markdown
+from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
@@ -267,9 +268,24 @@ def build_data(studies, indicators, countries) -> dict:
                 assessed=month(r["as_at"]),
                 **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
+    # The sidebar's second button opens the country's status report at the indicator's topic
+    # (Bill, 2026-10-21). The anchor is the heading's id as `render.py`'s `toc` extension mints
+    # it, and it is offered only where that report holds the topic: a status report prints only
+    # the sections it has rows for, so the link otherwise opens the topic's chapter, or the top.
+    group = {t["name"]: t["group"] for t in topics}
+    for i in inds.values():
+        i["anchor"] = slugify(i["topic"], "-") if i["topic"] else ""
+        i["chapter"] = slugify(group.get(i["topic"], ""), "-")
+    wanted = {a for i in inds.values() for a in (i["anchor"], i["chapter"]) if a}
+    status = {}
+    for c in countries:
+        iso = c["iso-3"]
+        page = SITE / "reports" / iso / f"{iso}-status.html"
+        if not iso.startswith("X") and page.exists():
+            status[iso] = sorted(wanted & set(re.findall(r' id="([^"]+)"', page.read_text(encoding="utf-8"))))
     # No build date: nothing read it, and it rewrote the file on every day's render.
     return dict(launched=LAUNCHED, stages=STAGES, grey=GREY, blank=BLANK, downloads={},
-                topics=topics, indicators=inds, cells=cells, changes=changes,
+                topics=topics, indicators=inds, cells=cells, changes=changes, status=status,
                 countries={c["iso-3"]: c["country-name"] for c in countries
                            if not c["iso-3"].startswith("X")})
 
