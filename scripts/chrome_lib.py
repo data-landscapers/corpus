@@ -413,16 +413,20 @@ def info(key: str) -> tuple[str, str]:
     no entry is a build error, not a page without its explanation."""
     import markdown
     entries = {h.strip().lower(): b.strip()
-               for h, b in re.findall(r"^## (.+)\n(.*?)(?=^## |\Z)",
+               for h, b in re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)",
                                       INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
     text = entries[key.lower()]
     pid = "info-" + re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-")
     button = (f'<button type="button" class="info-btn" popovertarget="{pid}" '
               f'aria-label="About this page">i</button>')
+    # Every link in the panel opens a new tab, our own pages too *(Bill, 2026-10-21)*, so the
+    # reader keeps the page the panel explains. `external_links()` leaves a stated target alone.
+    body = re.sub(r"<a ", '<a target="_blank" rel="noopener" ',
+                  markdown.markdown(text, extensions=["sane_lists"]))
     panel = (f'<div class="info-pop" id="{pid}" popover>\n'
              f'<button type="button" class="info-pop__close" popovertarget="{pid}" '
              f'popovertargetaction="hide" aria-label="Close">&times;</button>\n'
-             f'{markdown.markdown(text, extensions=["sane_lists"])}\n</div>')
+             f'{body}\n</div>')
     return button, panel
 
 
