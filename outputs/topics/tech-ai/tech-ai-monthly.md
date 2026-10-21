@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GHA; GIN; KEN; LSO; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 393dfbd44ce4
+places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3a8b0cbbd413
 ---
 
 # News, Sep – Oct 2026
@@ -22,9 +22,15 @@ record: 393dfbd44ce4
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -36,13 +42,21 @@ record: 393dfbd44ce4
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea-bissau">Guinea-Bissau</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -55,6 +69,8 @@ record: 393dfbd44ce4
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -71,6 +87,8 @@ record: 393dfbd44ce4
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -104,6 +122,20 @@ Algeria's higher education minister, Kamel Baddari, chaired an inter-ministerial
 **[AI Strategy Moves to Implementation Phase](https://dzwatch.dz/?p=79285)** — DZWatch, 22 September 2026
 
 A follow-up meeting on Algeria's national AI strategy approved an updated draft decree creating a National Research Centre for Artificial Intelligence and Data, which now goes through legal procedures. Committees set 17 infrastructure and 14 data operations for 2026 and 85 training operations. The meeting date and chair are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-based tax management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Baddari préside la deuxième réunion de coordination sur la mise en œuvre de la Stratégie nationale d’intelligence artificielle](https://www.lejourdalgerie.com/baddari-preside-la-deuxieme-reunion-de-coordination-sur-la-mise-en-oeuvre-de-la-strategie-nationale-dintelligence-artificielle/)** — Le Jour d'Algérie, 9 September 2026
+
+Algeria's Minister of Higher Education and Scientific Research, Kamel Baddari, chaired the second coordination meeting on the national AI strategy, reported on 9 September 2026. Five thematic commissions were installed, a national AI and data research centre was decided, and the meeting set a target of training 50,000 AI specialists by 2030.
 
 </div>
 
@@ -236,7 +268,35 @@ OpenEvidence and Penn Medicine announced on 15 September 2026 a partnership to d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Botswana](https://www.aipolicy.africa/country-profiles/botswana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked joint 29 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are assigned values, and its strongest are Strategy and Vision and Ethics and Inclusion (1.40 each).
+
+</div>
+
+</div>
+
 ## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Burkina Faso](https://www.aipolicy.africa/country-profiles/burkina-faso)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Burkina Faso scored 1.10 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 31 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (1.40) and its weakest is Implementation and Impact (0.60).
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -263,6 +323,38 @@ Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Ess
 **[Intelligence artificielle : à Séoul, le Burundi présente ses ambitions](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions)** — wearetech.africa, 10 September 2026
 
 Burundi presented the ambitions of its national artificial intelligence strategy at the Korea-Africa economic cooperation ministerial in Seoul, seeking the financing and partnerships to turn it into concrete projects. The strategy, validated in April, provides for strengthening connectivity, data infrastructure and local skills; the country's digital capacity remains limited.
+
+</div>
+
+</div>
+
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Cape Verde](https://www.aipolicy.africa/country-profiles/cabo-verde)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 38 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.70) and its weakest is Implementation and Impact (0.11).
+
+</div>
+
+</div>
+
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Central African Republic](https://www.aipolicy.africa/country-profiles/central-african-republic)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+The Central African Republic scored 0.25 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 51 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (0.70); four pillars score 0.00.
 
 </div>
 
@@ -303,6 +395,22 @@ An unsigned CamerPressAgency editorial reports that a workshop to pre-validate C
 **[Intelligence artificielle I Le diagnostic Ram 2.0 révèle les défis des Comores](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html)** — Al-watwan, 2 October 2026
 
 Comoros presented its UNESCO AI readiness assessment, RAM 2.0, prepared with UNESCO and Japan, at the fourth forum on AI ethics in Riyadh on 14–17 September 2026. It places the country at an emerging stage, with no national AI strategy, no AI-specific law and no independent ethics body, and makes 23 recommendations to 2030.
+
+</div>
+
+</div>
+
+## Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Republic of the Congo](https://www.aipolicy.africa/country-profiles/congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 18 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (1.00).
 
 </div>
 
@@ -461,6 +569,20 @@ Djibouti's ministry for the digital economy ran the country's first national AI 
 **[Djibouti Telecom forme 35 ingénieurs à l'intelligence artificielle](https://www.adi.dj/article/138906)** — Agence Djiboutienne d'Information (ADI), 17 September 2026
 
 Djibouti's state operator certified 35 of its engineers in artificial intelligence at a ceremony presided over by the communications minister, who cited the national AI readiness assessment run on UNESCO's methodology: it credits engaged digital transformation, strategic infrastructure and a nascent academic base while finding room to improve on skills, governance and research. He called for closer ties between the operator, the university and research centres.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Djibouti](https://www.aipolicy.africa/country-profiles/djibouti)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Djibouti scored 0.93 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 35 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillars are Strategy and Vision and Infrastructure and Data (1.20 each) and its weakest is Implementation and Impact (0.10).
 
 </div>
 
@@ -626,6 +748,38 @@ Eswatini has hired a consultant to draft a national AI strategy, the ICT ministe
 
 </div>
 
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 11 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.70) and its weakest is Innovation and Ecosystem (1.00).
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: The Gambia](https://www.aipolicy.africa/country-profiles/gambia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 37 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.30) and its weakest is Implementation and Impact (0.22).
+
+</div>
+
+</div>
+
 ## Ghana
 
 <div class="monthly-story" markdown="1">
@@ -736,6 +890,20 @@ A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Ghana](https://www.aipolicy.africa/country-profiles/ghana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Ghana scored 2.23 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 8 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.80) and its weakest is Implementation and Impact (1.60).
+
+</div>
+
+</div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -762,6 +930,22 @@ Ghana's communications minister said national AI language models will be built l
 **[Routes en Guinée : Bah Oury veut réduire les coûts grâce à l’intelligence artificielle](https://guineejet.info/routes-en-guinee-bah-oury-veut-reduire-les-couts-grace-a-lintelligence-artificielle/)** — Guinéejet, 12 October 2026
 
 Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise public procurement and use artificial intelligence to check road construction prices against market prices and flag overbilling, with technical support from Rwanda. The system is to use national statistics institute data and assessments by the major projects control body, and to be operational by the end of the year. No cost is given.
+
+</div>
+
+</div>
+
+## Guinea-Bissau
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Guinea-Bissau](https://www.aipolicy.africa/country-profiles/guinea-bissau)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Guinea-Bissau scored 0.53 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 49 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.30) and its weakest is Strategy and Vision (0.10).
 
 </div>
 
@@ -967,6 +1151,22 @@ Lesotho's prime minister, Samuel Matekane, told the second UN Digital Cooperatio
 
 </div>
 
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue authority AI-powered contact centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transforming Taxpayer Services: LRA Advances AI-Powered Contact Center](https://www.linkedin.com/posts/liberiarevenueauthority_transforming-taxpayer-services-lra-advances-activity-7503618260676984832-UCBw)** — Liberia Revenue Authority, 10 September 2026
+
+The Liberia Revenue Authority said on 10 September 2026 that it is developing an AI-powered contact center for taxpayer information on tax and customs matters. Its Tax Knowledge Governance Committee recently held a working retreat in Margibi County on the contact center's knowledge base; the Taxpayer Services Division is leading the work with the Kwagei Group.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -1161,6 +1361,22 @@ Morocco's digital ministry and Mistral AI released their first open-source tools
 **[Le ministère de la Transition numérique et Mistral annoncent les premières briques d'IA développées | Maroc.ma](https://www.maroc.ma/fr/actualites/le-ministere-de-la-transition-numerique-et-mistral-annoncent-les-premieres-briques-dia-developpees)** — Maroc.ma (Government of Morocco), 30 September 2026
 
 Morocco's digital transition ministry and Mistral released the first open-source tools from their AI partnership: a classifier that distinguishes Arabic dialects including Darija, and a Voxtral speech-recognition model for Darija that handles switching between Arabic, French and English. The ministry says further language and public-service models are in development.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public finance systems centre AI consultancy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEDSIF Seeks Artificial Intelligence Consultancy in Mozambique](https://360mozambique.com/tenders/cedsif-seeks-artificial-intelligence-consultancy-in-mozambique/)** — 360 Mozambique, 9 September 2026
+
+Mozambique's Centre for Development of Financial Information Systems (CEDSIF) issued an open call for expressions of interest for artificial intelligence consultancy services, reported on 9 September 2026. The consultancy would support its digital transformation and information systems development; no value or deadline was given.
 
 </div>
 
@@ -1413,6 +1629,20 @@ Seychelles' tourism minister Amanda Bernstein told the Seychelles Tourism Forum 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Seychelles](https://www.aipolicy.africa/country-profiles/seychelles)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 39 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (1.44) and its weakest is Implementation and Impact (0.30).
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -1453,6 +1683,20 @@ Sierra Leone launched a national artificial-intelligence and deepfake awareness 
 **[Sierra Leone to develop national AI roadmap for justice sector with UNESCO support](https://techreviewafrica.com/news/7565/x)** — Tech Review Africa, 5 October 2026
 
 Sierra Leone's judiciary and the attorney-general's office are to draft a national artificial-intelligence roadmap for the justice sector with UNESCO, beginning with the security sector. Participants at the convening pointed to electronic filing and digital case management; no timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Sierra Leone](https://www.aipolicy.africa/country-profiles/sierra-leone)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 43 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.30) and its weakest is Implementation and Impact (0.00).
 
 </div>
 
@@ -1625,6 +1869,22 @@ South Africa's Financial Sector Conduct Authority told Parliament's finance comm
 **[The biggest AI security risk may already be inside your company](https://techcabal.com/2026/10/06/south-africans-bypassed-work-ai-rules/)** — TechCabal, 6 October 2026
 
 Half of 903 South Africans surveyed had got round their employer's restrictions on AI tools in the past year, an Oliver Wyman partner told a cybersecurity roundtable in Johannesburg, citing a report due in November. He said 35% had seen AI-generated work passed off as human, and that consumer trust in AI rose from 11% in 2023 to 44% in 2026.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University admissions chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Soudan: Un assistant automatisé pour répondre immédiatement aux questions concernant les candidatures universitaires en ligne](https://fr.allafrica.com/stories/202609250240.html)** — allAfrica.com, 25 September 2026
+
+Sudan's Ministry of Higher Education and Scientific Research launched a chatbot on its online admissions portal, reported on 25 September 2026. It answers general admission questions in Arabic and refers complex or personal-data requests to a human support centre reachable on the number 2511, as part of the 2026-2027 registration campaign.
 
 </div>
 

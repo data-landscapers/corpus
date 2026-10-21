@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: data.satellite
-places: COM; COG; CIV; DJI; GNB; NGA; TGO; ZMB
-record: 8162dd5025ea
+places: COM; COG; CIV; DJI; GNB; LSO; NGA; TGO; ZMB
+record: 16b86b7e29c9
 ---
 
 # News, Sep – Oct 2026
@@ -19,6 +19,8 @@ record: 8162dd5025ea
 <a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea-bissau">Guinea-Bissau</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -124,6 +126,22 @@ Djibouti's president took part in the second day of the first International Spac
 **[Nova estação CLIMSA e PUMA2025](https://meteoguinebissau.gw/noticias/nova-esta%C3%A7%C3%A3o-climsa-e-puma2025/)** — Instituto Nacional de Meteorologia da Guiné-Bissau, 8 September 2026
 
 Guinea-Bissau's meteorological institute installed a CLIMSA/PUMA2025 satellite receiving station between 21 and 25 August 2026, supplied by the African Union with EU support. It receives Meteosat Third Generation imagery in near real time, at intervals of up to ten minutes and 1 km resolution.
+
+</div>
+
+</div>
+
+## Lesotho
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite weather-index crop insurance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beyond the harvest: can agricultural insurance protect Lesotho's smallholders?](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/)** — The Reporter Lesotho, 16 October 2026
+
+The Reporter, on 16 October 2026, covered a weather-index agricultural insurance pilot in Lesotho during the 2025/2026 season, run by the agriculture ministry's SADP II with the World Food Programme, LNIG Hollard and African Risk Capacity. It covered maize and beans in Mafeteng, Mohale's Hoek and Quthing, with more than US$1.2 million in insured value reported.
 
 </div>
 

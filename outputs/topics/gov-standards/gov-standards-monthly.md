@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: gov.standards
 places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 14193be8da1e
+record: 534743abde76
 ---
 
 # News, Sep – Oct 2026
@@ -492,6 +492,34 @@ Nigeria's mobile operators have built 8,526 of 12,179 committed coverage and cap
 **[Nigeria’s Phone Crackdown: Protecting Networks or Pricing Out Everyday Users?](https://techafricanews.com/2026/10/16/nigerias-phone-crackdown-protecting-networks-or-pricing-out-everyday-users/)** — Tech Africa News, 16 October 2026
 
 From 10 October 2026, Nigeria's communications regulator began texting owners of phones not verified under type approval that network access could be blocked after 30 days of active use. The checks run on the NCC's Device Management System against each phone's IMEI, and grey-market and overseas-bought phones are among those flagged. A registration route and official fees had not been clearly published by 16 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Device Checker for type-approved handsets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC device verification questions Nigeria's phone imports](https://techcabal.com/2026/10/20/device-verification-phones-nigeria/)** — TechCabal, 20 October 2026
+
+Nigeria's Communications Commission launched a Device Checker on 7 October 2026 that lets buyers dial *315# to see whether a phone is type approved, using its IMEI. An article on 20 October 2026 notes that 99% of smartphones are imported and about 63 million devices are sold each year, and questions how well the NCC can enforce compliance. Buyers of flagged phones have no standard refund route.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-sector IPv6 migration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026
+
+Nigeria's NITDA began its first IPv6 migration readiness training for federal ministries, departments and agencies, with AFRINIC and the Nigeria IPv6 Council, as reported on 20 October 2026. It runs in two streams, for management and for technical staff, and NITDA is funding certification for the technical staff. The move is tied to online public services and the National Sovereign Cloud Initiative.
 
 </div>
 

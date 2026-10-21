@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: infra.capacity
-places: BDI; CMR; COD; KEN; LBY; RWA; ZAF; TGO
-record: 14889a6714a0
+places: BDI; CMR; COD; KEN; LBY; RWA; ZAF; TGO; ZWE
+record: f70e2148359f
 ---
 
 # News, Sep – Oct 2026
@@ -25,6 +25,8 @@ record: 14889a6714a0
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Burundi
@@ -172,6 +174,22 @@ South Africa's domain registry reports 1.5 million active registrations across i
 **[5. Étape de gouvernance des services — Documentation Cadre de Digitalisation des Services Publics au Togo](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html)** — Agence Togo Digital / Ministère de l’Économie Numérique et de la Transformation Digitale, République Togolaise, 4 September 2026
 
 Togo's framework for digitising public services sets out who builds and maintains government systems: the digital economy ministry sets policy, Agence Togo Digital deploys solutions and standards, public institutions fund modernisation, and a super-integrator trains and supervises integrators on the agency's low-code platforms. Giving the framework the force of law is listed as a step still to be taken. The page carries no date.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry risk registers and project risk assessments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zim strengthens digital risk management systems](https://itweb.africa/article/zim-strengthens-digital-risk-management-systems/WnxpE74YlR3MV8XL)** — ITWeb Africa, 20 October 2026
+
+Zimbabwe's ICT ministry told its departments to submit validated risk registers by 6 November 2026 and to include risk assessments in every new major project proposal from now on. The instructions came out of an enterprise risk-management workshop the minister opened in Harare on 19 October 2026.
 
 </div>
 

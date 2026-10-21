@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f711d578a0aa
+record: 5fe63a1a2bb2
 ---
 
 # News, Sep – Oct 2026
@@ -423,6 +423,20 @@ Burkina Faso's digital ministry reports 46.70% average physical execution of its
 </div>
 
 ## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue office WhatsApp chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'OBR lance officiellement son Chatbot WhatsApp : l'assistance fiscale et douanière dans la dynamique digitale à portée de main !](https://www.obr.bi/index.php/actualites/2597-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-et-douaniere-dans-la-dynamique-digitale-a-portee-de-main)** — Office Burundais des Recettes, 1 September 2026
+
+Burundi's revenue office, the OBR, launched a WhatsApp chatbot for tax and customs questions on 1 September 2026. It answers in French, Kirundi, English and Swahili, is available around the clock, and refers cases needing an officer to the relevant OBR service.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1638,6 +1652,20 @@ Liberia's General Auditing Commission has begun automating public-sector audits,
 **[Police Online Clearance Generates US$200K](https://www.thenewdawnliberia.com/police-online-clearance-generates-us200k/)** — The New Dawn Liberia, 8 October 2026
 
 Liberia's online police clearance system has generated more than US$200,000 since May 2026, the deputy information minister said. No figure for the manual system it replaced was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Liberia one-stop portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026
+
+Liberia's Office of the Chief Information Officer met ministries and agencies on 17 and 18 October 2026 to validate 16 priority government services for digitalisation with World Bank support. They assessed readiness and procurement for an e-Liberia one-stop portal, a Government Service Bus for real-time data sharing, National Data Center upgrades and digitised County Service Centers.
 
 </div>
 

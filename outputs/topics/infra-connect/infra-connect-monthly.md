@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 5198a804e48d
+record: 5106ef4f5047
 ---
 
 # News, Sep – Oct 2026
@@ -1627,6 +1627,14 @@ Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submar
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Medusa Submarine Cable System Completes Shore-End Installation in Libya](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/)** — Tech Africa News, 20 October 2026
+
+The Medusa submarine cable system completed its Pre-Laid Shore End installation in Benghazi, Libya, as reported on 20 October 2026. This is the pre-installed cable section between the landing site and the offshore connection point. No value or completion date was given.
+
+</div>
+
 </div>
 
 ## Madagascar
@@ -2925,6 +2933,28 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 **[Media Statement: Committee Concerned as Public Service Institution Connectivity Reaches Only 49.1% of Spectrum Obligation Target](https://www.parliament.gov.za/press-releases/media-statement-committee-concerned-public-service-institution-connectivity-reaches-only-491-spectrum-obligation-target)** — Parliament of South Africa, 14 October 2026
 
 South Africa's mobile operators had connected 10,851 of the 21,878 public service institutions required under their 2022 spectrum licence obligations, 49.1%, by March 2026, the regulator ICASA told Parliament's communications committee on 14 October 2026. Vodacom, Telkom and Liquid met the 65% minimum threshold; MTN and Rain did not.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom Mpumalanga network investment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom South Africa Invests R600 Million to Expand Connectivity in Mpumalanga](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Tech Africa News, 20 October 2026
+
+Vodacom said on 20 October 2026 that it is investing more than R600 million in Mpumalanga network infrastructure this financial year, after R620 million in 2025/26. Its sites in the province have grown from just over 1,300 to 1,408, and the share connected by fibre from 41% to 45%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026
+
+Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities.
 
 </div>
 

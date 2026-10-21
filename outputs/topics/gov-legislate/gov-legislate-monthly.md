@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8a3be0721053
+record: 46a173dac578
 ---
 
 # News, Sep – Oct 2026
@@ -727,6 +727,20 @@ An Eritrean human-rights group reports that a central bank legal notice of 9 Sep
 **[New proposed law to screen foreigners entering country](https://times.co.sz/43339/news/new-proposed-law-to-screen-foreigners-entering-country/)** — Times of Eswatini, 10 September 2026
 
 Eswatini's Immigration Bill would set up an information system to vet foreign nationals before entry and block those who fail requirements or are judged a risk. It was discussed at a consultation between Parliament and stakeholders in Ezulwini. The workshop heard that implementation would cost about E6 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Critical Infrastructure Protection Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senators back E5m fines, 10-year jail terms for critical infrastructure offences](https://independentnews.co.sz/49620/news/politics/senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure-offences/)** — Independent News Eswatini, 19 October 2026
+
+Eswatini's Senate adopted the ICT portfolio committee's report on the Critical Infrastructure Bill No. 16 of 2025 on 19 October 2026. It backs fines of up to E5 million for companies, and E1 million or up to 10 years' imprisonment for individuals, for offences against telecom towers, fibre and energy lines.
 
 </div>
 
@@ -1471,6 +1485,20 @@ Mozambique's education ministry says its law regulating the use of artificial in
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree on electronic transactions and e-commerce</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: Government plans to track and monitor businesses on digital platforms](https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/)** — Club of Mozambique, 20 October 2026
+
+Mozambique's government will track and monitor businesses operating on digital platforms, including online credit providers, under its recently approved decree on electronic transactions and e-commerce. The Council of Ministers' spokesperson said so on 20 October 2026. The Digital Transformation Agency is among the bodies that will supervise operators.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1775,6 +1803,52 @@ ICASA has asked the Constitutional Court to settle whether it may condone a late
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Electoral Code of Conduct on Countering Disinformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Code of Conduct Countering Disinformation in the Local Government Elections (General Notice 4138 of 2026, Government Gazette No. 55341)](https://www.elections.org.za/content/Documents/Laws-and-regulations/Municipal-Elections/Electoral-Code-of-Conduct-Countering-Disinformation-in-Local-Government-Elections-No-55341/)** — Electoral Commission of South Africa, 4 September 2026
+
+South Africa's Electoral Commission published the Electoral Code of Conduct Countering Disinformation in the Local Government Elections as General Notice 4138 in Government Gazette No. 55341 on 4 September 2026. It issued the code under section 88 of the Municipal Electoral Act, 2000, and designated Real 411 as the online complaints mechanism for disinformation.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Commission introduces new Disinformation Code ahead of 2026 Local Government Elections](https://www.gov.za/news/media-statements/electoral-commission-introduces-new-disinformation-code-ahead-2026-local)** — South African Government, 8 September 2026
+
+South Africa's Electoral Commission said it promulgated its Disinformation Code on 4 September 2026, ahead of the 4 November 2026 local government elections. Parties and candidates must retract and correct false information within 36 hours of becoming aware of it and clearly label AI-generated content.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC gazettes code to tackle election disinformation](https://www.itweb.co.za/article/iec-gazettes-code-to-tackle-election-disinformation/mYZRXv9gbRKMOgA8)** — ITWeb South Africa, 9 September 2026
+
+South Africa's Electoral Commission has gazetted a Disinformation Code for the local government elections on 4 November, binding political parties, candidates and anyone acting on their instruction or for reward across all election-related communication, online or offline, paid or unpaid. Parties and candidates must check information before sharing it, publicly retract and correct anything false within 36 hours of becoming aware of it, label AI-generated content and political advertising, and report online disinformation to Real411 within 36 hours; fake accounts, bot networks, coordinated inauthentic behaviour, doxing and cyberbullying are prohibited, as is disinformation targeting the commission or its staff. Contravention carries the sanctions applying to the Electoral Code of Conduct under the Municipal Electoral Act 27 of 2000, and parties will undertake to comply at the signing ceremony on 23 September; the source gives no gazette number or date for the final code.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Commission and Digital Platforms Partner to Counter Disinformation and Protect Election Information Integrity in South Africa's 2026 Local Government Elections](https://www.elections.org.za/content/About-Us/News/Electoral-Commission-and-Digital-Platforms-Partner-to-Counter-Disinformation-and-Protect-Election-Information-Integrity-in-South-Africa-s-2026-Local-Government-Elections/)** — Electoral Commission of South Africa, 19 October 2026
+
+South Africa's Electoral Commission announced on 19 October 2026 a partnership with Google, Meta, Microsoft, TikTok and Moxii Africa to counter disinformation ahead of the 4 November 2026 local government elections. It follows a similar framework signed with the platforms before the 2024 national and provincial elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC receives over 700 election misinformation complaints, enlists Google, Meta and TikTok ahead of November vote](https://www.citizen.co.za/news/south-africa/elections/iec-receives-election-misinformation-complaints-enlists-google-meta-and-tiktok-ahead-of-november-vote/)** — The Citizen, 20 October 2026
+
+South Africa's Electoral Commission said on 20 October 2026 that it has received more than 700 election-misinformation complaints, most about posts on X, ahead of the 4 November 2026 local government elections. It is working with Google, Meta, Microsoft, TikTok and Moxii Africa against disinformation. Electoral Code breaches carry fines up to R200,000 or five to ten years' imprisonment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Operator association exemption to share infrastructure planning data</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1790,20 +1864,6 @@ South Africa's main telecoms operators, through the Association of Communication
 **[South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity](https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/)** — Tech Africa News, 8 September 2026
 
 South Africa's operator association has asked the Competition Commission for a five-year exemption letting Vodacom, MTN, Telkom, Cell C, Rain and Liquid share limited infrastructure planning information through an independent third party, to find connectivity gaps and avoid duplicated build. The communications minister, who called the proposal encouraging for rural areas and townships, also argued that disruption to Middle East routes gives the country an opening as an alternative submarine cable hub.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electoral Code of Conduct on Countering Disinformation</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IEC gazettes code to tackle election disinformation](https://www.itweb.co.za/article/iec-gazettes-code-to-tackle-election-disinformation/mYZRXv9gbRKMOgA8)** — ITWeb South Africa, 9 September 2026
-
-South Africa's Electoral Commission has gazetted a Disinformation Code for the local government elections on 4 November, binding political parties, candidates and anyone acting on their instruction or for reward across all election-related communication, online or offline, paid or unpaid. Parties and candidates must check information before sharing it, publicly retract and correct anything false within 36 hours of becoming aware of it, label AI-generated content and political advertising, and report online disinformation to Real411 within 36 hours; fake accounts, bot networks, coordinated inauthentic behaviour, doxing and cyberbullying are prohibited, as is disinformation targeting the commission or its staff. Contravention carries the sanctions applying to the Electoral Code of Conduct under the Municipal Electoral Act 27 of 2000, and parties will undertake to comply at the signing ceremony on 23 September; the source gives no gazette number or date for the final code.
 
 </div>
 
@@ -2098,6 +2158,14 @@ Uganda's communications regulator said it is reviewing its enforcement against u
 **[Press Release on Illegal Wi-Fi Hotspots](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)** — Uganda Communications Commission, 13 October 2026
 
 The Uganda Communications Commission said on 13 October 2026 that about 4,000 unlicensed operators resell public Wi-Fi at UGX 1,000 per GB against UGX 2,000 from licensed providers, costing about UGX 148 billion a year in tax. The Uganda Revenue Authority will block equipment imports by unlicensed operators, and a nationwide exercise to take down installations and seize routers is imminent.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026
+
+The Uganda Communications Commission said on 20 October 2026 that commercial Wi-Fi hotspot resellers must be licensed and must stop reselling home internet packages. Its seven-day deadline for unlicensed operators ended on 19 October 2026. It will open a registration system by service category and set up a joint committee with government, security agencies and seven hotspot operators.
 
 </div>
 

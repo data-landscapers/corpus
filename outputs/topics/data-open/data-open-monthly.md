@@ -1,10 +1,10 @@
 ---
 title: Open data — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: data.open
 places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; MDG; MWI; MUS; NGA; SEN; SOM; TZA; TUN; ZMB
-record: cb48fe2f0bbc
+record: 76b64fefd5e2
 ---
 
 # News, Sep – Oct 2026

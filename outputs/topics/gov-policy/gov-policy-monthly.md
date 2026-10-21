@@ -1,16 +1,18 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: gov.policy
-places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 399c2c6849d0
+places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: c1af3e9f0cea
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -118,6 +120,30 @@ An El Moudjahid editorial on Algeria's Algérie Numérique 2030 strategy cites t
 **[Portail national des services numériques : Le HCN va assurer des formations](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)** — El Moudjahid, 19 September 2026
 
 Algeria's High Commission for Digitisation trained information system managers from several sectors to use a mechanism it built for verifying electronic documents issued through the Dzair Digital Services portal. Administrative bodies can then accept these documents without asking citizens to obtain them again from the issuing office. The training follows presidential instructions of 12 July 2026 to widen the portal's use.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Décret N° 2026-579 du 02 septembre 2026 portant création, attributions, organisation et fonctionnement du Comité national du Numérique](https://sgg.gouv.bj/doc/decret-2026-579/)** — Secrétariat général du Gouvernement du Bénin, 2 September 2026
+
+Benin issued Decree No. 2026-579 on 2 September 2026 creating the National Digital Committee and setting its functions, organisation and operation. The item gives the decree only as an attached PDF and states no further details.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026
+
+Benin created a National Digital Committee under the President of the Republic by decree n° 2026-579 of 2 September 2026, reported on 20 October 2026. The head of state chairs it and it meets quarterly. It tracks digital projects through a quarterly dashboard from a permanent secretariat, and gives prior opinions on structuring digital projects and on technology partnerships that could affect national digital sovereignty.
 
 </div>
 
@@ -1168,6 +1194,20 @@ Senegal's digital ministry validated a draft national Blueprint on Data Valorisa
 **[Senegal targets postal sector restructuring by 2027 under New Deal Technologique](https://techreviewafrica.com/news/7747/senegal-targets-postal-sector-restructuring-by-2027-under-new-deal-technologique)** — Tech Review Africa, 15 October 2026
 
 Senegal's telecoms and digital ministry aims to restructure the postal sector by 2027 under its New Deal Technologique, refocusing the state-owned La Poste on digital and trusted services, e-commerce logistics and private partnerships. The minister set out the plan at World Post Day celebrations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital governance steering committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : une nouvelle instance pour harmoniser les projets numériques de l’État](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-une-nouvelle-instance-pour-harmoniser-les-projets-numeriques-de-l-etat)** — wearetech.africa, 20 October 2026
+
+Senegal's Prime Minister installed the Comité de gouvernance du numérique (GouVNum) on 16 October 2026 to coordinate state digital projects and rationalise digital spending. The telecoms and digital ministry acts as its permanent secretariat. The 2034 targets under the New Deal technologique are 90% of administrative procedures dematerialised and a digital identity for 90% of citizens.
 
 </div>
 

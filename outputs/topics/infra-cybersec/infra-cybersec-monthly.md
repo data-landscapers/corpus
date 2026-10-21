@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: a1c071c2b494
+record: e0a4e9cec536
 ---
 
 # News, Sep – Oct 2026
@@ -555,6 +555,14 @@ Liberia's opposition CDC says it will ask the Supreme Court to rule on the const
 **[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026
 
 A Monrovia criminal court gave the police a last opportunity to justify holding Jerry Nyantee Wrato, a suspect under the Cybercrime Act, after no officer appeared for the second time. The judge found the state had not shown the case was lawfully before the court and postponed the habeas corpus hearing to 25 September.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senator Dopoh Accuses Executive of Prematurely Enforcing Cybercrime Law, Demands Key Safeguards](https://liberianinvestigator.com/dopoh-liberia-cybercrime-law-enforcement-safeguards/)** — The Liberian Investigator, 16 October 2026
+
+Liberian Senator Francis Dopoh, chair of the Senate Committee on Posts and Telecommunications, told the Senate on 15 October 2026 that the Executive is enforcing the new Cybercrime Law before setting up the Cybersecurity Council and specialised cybercrime team it requires. He asked the Senate to notify the Executive and demand corrective measures, following the reported arrest of a man accused of posting AI-generated images of the Vice President.
 
 </div>
 

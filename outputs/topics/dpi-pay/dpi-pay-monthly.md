@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a6c98d0cc0e9
+record: 8552b0f8ec84
 ---
 
 # News, Sep – Oct 2026
@@ -807,6 +807,20 @@ The Central Bank of Egypt's governor, Hassan Abdalla, told the Council of Arab C
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UAE-to-Egypt remittances into Orange Cash wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Egypt Partners With Botim to Enable UAE-to-Egypt Remittances](https://techafricanews.com/2026/10/20/orange-egypt-botim-uae-egypt-remittances/)** — Tech Africa News, 20 October 2026
+
+Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egypt remittance route that pays directly into Orange Cash wallets. It is Botim's first partnership with an Egyptian mobile operator. Botim has more than 2 million Egyptian users and Orange Cash about 10 million.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1194,6 +1208,26 @@ Access Bank Ghana and Visa launched Visa Accept on 18 September 2026, a feature 
 **[Chipper Cash launches bank-backed virtual accounts with UMB](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html)** — Graphic Online, 23 September 2026
 
 Fintech firm Chipper Cash began opening bank-backed virtual accounts for customers in Ghana through an API link with Universal Merchant Bank, reported on 23 September 2026. The bank had received Bank of Ghana and Securities and Exchange Commission approval to offer virtual accounts to businesses in the virtual asset sector; the approval date is not stated.
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank-led stablecoin settlement for importers' payments to Asia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stanbic Ghana explores stablecoin trade settlement](https://itweb.africa/article/stanbic-ghana-explores-stablecoin-trade-settlement/xnklOvz1Pj4q4Ymz)** — ITWeb Africa, 20 October 2026
+
+Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 October 2026, that they are exploring a stablecoin-backed cross-border settlement service for Ghanaian importers paying Asian suppliers. Stanbic would handle onboarding, KYC and local-currency settlement, and RD Technologies the digital-asset rails. Next steps are regulatory engagement, technical validation and a controlled pilot, all subject to regulatory no-objection.
 
 </div>
 
@@ -2587,6 +2621,28 @@ Paystack introduced an onsite card checkout for Shopify merchants in South Afric
 **[Absa sets digital asset custody milestone](https://www.itweb.africa/article/absa-sets-digital-asset-custody-milestone/WnpNgM21yNz7VrGd)** — ITWeb Africa, 30 September 2026
 
 Absa launched institutional digital-asset custody for South African clients on 21 September on Ripple's technology, the first such service by an African bank. It is for institutional and large corporate clients, not retail crypto.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postbank authorisation as a bank</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Question to the Minister of Communications and Digital Technologies - NW5143](https://pmg.org.za/committee-question/41351/)** — Parliamentary Monitoring Group, 15 October 2026
+
+In a written reply dated 15 October 2026, South Africa's Communications Minister said Postbank has been directed by the Prudential Authority to submit a new bank authorisation application, with no submission date set. The reply said Postbank paid grants to about 1.9 million beneficiaries as at September 2026, and that its SASSA agreement remains in force under Constitutional Court directions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Postbank full-service banking licence still miles off](https://www.itweb.co.za/article/postbank-full-service-banking-licence-still-miles-off/rxP3jMBEGAG7A2ye)** — ITWeb South Africa, 20 October 2026
+
+Communications Minister Solly Malatsi told Parliament, as reported on 20 October 2026, that South Africa's Postbank has been directed to submit a new application to establish a bank under section 12 of the Banks Act and has not yet done so. Outstanding items are recapitalisation, which is with National Treasury, banking-system modernisation and a Bank Controlling Company. Postbank paid social grants to about 1.9 million beneficiaries in September 2026.
 
 </div>
 

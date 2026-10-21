@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0da91d33bc6d
+record: 37b1a0d85440
 ---
 
 # News, Sep – Oct 2026
@@ -1810,6 +1810,20 @@ Uganda's Judiciary is reconciling physical case files with its existing case adm
 </div>
 
 ## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payroll Management and Establishment Control (PMEC) system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Report of the Auditor General on the Accounts of the Republic for the Financial Year Ended 31st December 2025](https://www.ago.gov.zm/wp-content/uploads/AUDITOR-GENERAL-REPORT-On-the-Accounts-of-the-Republic-for-the-Financial-Year-Ended-31st-Dec-2025.pdf)** — Office of the Auditor General, Zambia, 1 September 2026
+
+Zambia's Office of the Auditor General issued its report on the accounts of the Republic for the year ended 31 December 2025; the document prints no issue date. The 258-page report covers ministries, provinces and agencies, and finds that the PMEC payroll has workflow controls on only 8 of 29 SAP infotypes.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

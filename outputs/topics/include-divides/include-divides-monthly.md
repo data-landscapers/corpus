@@ -1,16 +1,18 @@
 ---
 title: Digital divides — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: include.divides
-places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: b0984e8b3859
+places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
+record: e2b3633aa9ea
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -60,6 +62,22 @@ record: b0984e8b3859
 **[Sistema de Internet em Madimba e Serra da Kanda volta a funcionar](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/)** — Angop (Angola Press Agency), 6 September 2026
 
 Two Conecta Angola satellite internet points at Madimba and Serra da Kanda in Zaire province, installed in 2024 and linked through Angosat-2, were restored after battery and software faults, Angola's national space programme office said. About 1,400 residents use them free of charge, and further points and school routers are planned in the province.
+
+</div>
+
+</div>
+
+## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Localities without network coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Faso Digital 2026 : L'ARCEP expose les défis d'un numérique accessible à tous les Burkinabè](https://lefaso.net/spip.php?article150068)** — leFaso.net, 19 October 2026
+
+Burkina Faso's regulator ARCEP reported about 3,514 white zones with no operator, nearly 40% of localities and some 4.7 million people, at the Le Faso Digital conference on 19 October 2026. Its figures at 30 June 2026 show about 30 million mobile subscriptions, nearly 20 million mobile-internet and 328,764 fixed-internet subscriptions.
 
 </div>
 

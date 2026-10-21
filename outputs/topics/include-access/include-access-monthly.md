@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 2ab1ceff0cb6
+record: b9c87eae51c7
 ---
 
 # News, Sep – Oct 2026
@@ -1151,6 +1151,20 @@ GSMA research finds identity rules for SIM registration push refugee women in Et
 **[Buhadyo Primary School Smart Classroom Enhancing E-Learning in Butaleja District](https://ict.go.ug/media/news/buhadyo-primary-school-smart-classroom-enhancing-e-learning-in-butaleja-district)** — Ministry of ICT and National Guidance, Uganda, 23 September 2026
 
 Uganda's ICT ministry said a smart classroom at Buhadyo Primary School in Butaleja District, built with Huawei under the Smart Villages pilot, lets pupils join the same e-learning lessons as Nakasero Primary School in Kampala. The pilot adds a telecoms tower and a 120-panel solar system that also powers 25 households. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Senior citizens' grant (SAGE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[43,000 Elderly Ugandans Locked Out of SAGE Benefits Over National ID Errors](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)** — Nile Post, 19 October 2026
+
+Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000 eligible older people cannot draw SAGE cash grants because the birth dates on their national ID cards make them appear too young. SAGE reaches about 318,000 of more than 2.4 million potential beneficiaries, and mobile-money payment is being piloted.
 
 </div>
 

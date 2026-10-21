@@ -1,15 +1,15 @@
 ---
 title: Digital sovereignty — progress report, October 2025 – October 2026
-compiled: 2026-10-20
-period: 2025-10-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2025-10-01 to 2026-10-21
 subject: geopol.sovereignty
-places: NAM
-record: de7b8b418db2
+places: NAM; ZWE
+record: 283afd7bfdcb
 ---
 
 # Digital sovereignty: progress report, October 2025 – October 2026
 
-*1 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
+*2 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -18,3 +18,4 @@ record: de7b8b418db2
 | Country | Developments | Progress |
 |---|---|---|
 | Namibia | The Prime Minister said his office and the ICT ministry [had begun assessing who owns government data and digital infrastructure](https://www.nbcnews.na/node/115022) in 2026. <details><summary>Full record</summary>2026 - the Prime Minister told the National Assembly that [preliminary assessments of the ownership of government data and digital infrastructure had begun, after a question on a foreign-run online visa system](https://www.nbcnews.na/node/115022). No terms, findings or completion date are published.<br>No rule on where state data is held or under whose law it is processed is in force, and the repository holds no published result of the assessment.</details> | Movement, on the Prime Minister's own account |
+| Zimbabwe | [Core banking and critical financial systems may not be hosted abroad without the regulator's approval](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf), yet [the largest operator moved its estate, mobile money included, onto a foreign public cloud](https://itweb.africa/article/econet-targets-zim-enterprise-cloud-market/rW1xL75ngDKMRk6m). <details><summary>Full record</summary>2025 — [the data protection guidelines bar core banking platforms and critical financial systems from being hosted outside the country without the authority's prior written approval](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf).<br>2026-08-27 — [the country's largest operator said it had fully migrated its operations, mobile money and network infrastructure included, from its own data centres onto a US hyperscaler's public cloud](https://itweb.africa/article/econet-targets-zim-enterprise-cloud-market/rW1xL75ngDKMRk6m). No contract term or data-residency terms are published, and the repository does not show whether the regulator approved the move.</details> | Mixed, a localisation rule stands while the largest operator moved onto a foreign cloud |

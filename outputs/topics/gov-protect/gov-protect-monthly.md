@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 subject: gov.protect
 places: AGO; BEN; BFA; CPV; COG; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4386f62030a0
+record: c5cef6226012
 ---
 
 # News, Sep – Oct 2026
@@ -124,6 +124,20 @@ Seventeen officers of the data protection authority were sworn in before the Cot
 **[Demande d’autorisation de transfert de données vers un pays étranger](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)** — Commission de l’Informatique et des Libertés (CIL), Burkina Faso, 1 September 2026
 
 Burkina Faso's data protection authority, the CIL, publishes the form for applying to transfer personal data abroad. It asks for the foreign recipient, whether the destination country has a data protection authority, and the purpose, consent and security arrangements behind the transfer.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Merged communication and data-protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026
+
+Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026.
 
 </div>
 
