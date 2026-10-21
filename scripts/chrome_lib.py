@@ -400,6 +400,32 @@ def feedback_row(what: str, url: str) -> str:
             f'{FEEDBACK_TO}</a></dd>\n')
 
 
+INFO_MD = Path(__file__).resolve().parents[1] / "content" / "info.md"
+
+
+def info(key: str) -> tuple[str, str]:
+    """The ⓘ beside a page title and the panel it opens: `(button, panel)`.
+
+    **One explanation per page type, all in `content/info.md`** *(Bill, 2026-10-21)*, each under
+    a `## Heading` matched to `key` ignoring case. The button goes inside the `<h1>`; the panel
+    goes after it, since a block may not sit in a heading. The panel is a native `popover`, so it
+    opens, closes on Esc or an outside click, and takes the keyboard with no script. A key with
+    no entry is a build error, not a page without its explanation."""
+    import markdown
+    entries = {h.strip().lower(): b.strip()
+               for h, b in re.findall(r"^## (.+)\n(.*?)(?=^## |\Z)",
+                                      INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
+    text = entries[key.lower()]
+    pid = "info-" + re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-")
+    button = (f'<button type="button" class="info-btn" popovertarget="{pid}" '
+              f'aria-label="About this page">i</button>')
+    panel = (f'<div class="info-pop" id="{pid}" popover>\n'
+             f'<button type="button" class="info-pop__close" popovertarget="{pid}" '
+             f'popovertargetaction="hide" aria-label="Close">&times;</button>\n'
+             f'{markdown.markdown(text, extensions=["sane_lists"])}\n</div>')
+    return button, panel
+
+
 def foot(depth: int = 1, year: int | None = None) -> str:
     """The footer. `depth` is unused today — the footer holds no relative paths —
     and is taken anyway so that a caller need not know that, and so adding one

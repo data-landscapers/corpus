@@ -1,5 +1,6 @@
 ## 21 October 2026
 
+- The Maturity Assessment title now carries an ⓘ button that opens a short explanation of the page. Other pages will follow, each with one explanation per page type.
 - On the Maturity Assessment map, a country's box now has two buttons: Country maturity report, which was View in country report, and Country status report. The second opens the country's status report at the selected indicator's topic.
 - Eight indicators are removed: three in Finance (Financial sustainability of digital systems, Strategic relationships, Development-partner project financing) and the five Geopolitics MoU indicators for the US, China, the EU, the Gulf and India. They no longer appear in the progress reports or the Maturity Assessment, and the six topics left with no indicator are no longer listed in either.
 

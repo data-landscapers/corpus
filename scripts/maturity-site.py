@@ -50,7 +50,7 @@ import markdown
 from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 from render import family_bar  # noqa: E402
 import editions  # noqa: E402
 
@@ -506,9 +506,11 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
                    f'        <button class="mat-btn" id="mat-dl-all" type="button"{dl}>Download all (CSV)</button>\n'
                    '        <span class="mat-dl-note">Downloads available at launch</span>')
         uc = ' <span class="mat-title__uc">Under construction</span>'
+    about, panel = info("Maturity assessment")
     body = f"""  <div class="mat-wrap">
     <div class="mat-head">
-      <h1 class="mat-title">Maturity Assessment{uc}</h1>
+      <h1 class="mat-title">Maturity Assessment{about}{uc}</h1>
+      {panel}
       <div class="mat-buttons">
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
         {buttons}

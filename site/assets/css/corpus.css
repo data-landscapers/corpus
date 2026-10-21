@@ -312,3 +312,33 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 @media print {
   .report-head .report-family { padding-top: 0; }
 }
+
+/* The ⓘ beside a page title and the panel it opens (Bill, 2026-10-21): one
+   explanation per page type, from `content/info.md` through `chrome_lib.info()`.
+   The panel is a native popover, centred in the window, so a long entry reads
+   as a page and not a tooltip. Here, not upstream, until the website wants it. */
+.info-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 1.05rem; height: 1.05rem; margin-left: 0.3rem; padding: 0;
+  vertical-align: super; border: 1.5px solid var(--link); border-radius: 50%;
+  background: none; color: var(--link); cursor: pointer;
+  font: italic 700 0.7rem/1 Georgia, serif;
+}
+.info-btn:hover, .info-btn:focus-visible { background: var(--link); color: var(--paper); }
+.info-pop {
+  /* main.css zeroes margins, which undoes the browser's centring of a popover. */
+  inset: 0; margin: auto; height: fit-content; box-sizing: border-box;
+  max-width: min(36rem, calc(100vw - 2rem)); max-height: 80vh; overflow-y: auto;
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem; border: 1px solid var(--rule); border-radius: 4px;
+  background: var(--paper); color: var(--ink); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+  font-family: var(--serif); font-size: 0.95rem; line-height: 1.55;
+}
+.info-pop::backdrop { background: rgba(26, 26, 24, 0.25); }
+.info-pop p { margin: 0 0 0.75rem; }
+.info-pop > :last-child { margin-bottom: 0; }
+.info-pop__close {
+  position: absolute; top: 0.4rem; right: 0.6rem; padding: 0 0.25rem;
+  border: none; background: none; color: var(--ink-faint); cursor: pointer; font-size: 1.4rem; line-height: 1;
+}
+.info-pop__close:hover { color: var(--ink); }
+@media print { .info-btn, .info-pop { display: none; } }
