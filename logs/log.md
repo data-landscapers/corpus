@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-21 01:02 · **ANALYTICS** · unclocked · 2026-10-19..2026-10-20 written; 20 Oct: dl.io 26 views / 0 clicks, corpus 361 views / 3 clicks
 2026-10-20 15:34 · **RENDER** · 19m · progress reports reinstated beside Maturity: 306 documents rendered, progress PDFs re-cut, every page repaged for nav; deployed; mirror skipped (on hold) — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
 2026-10-20 09:12 · **RENDER** · 12m · reopened 8 bulletin items, 6 onto rows; reports+site rendered, deployed — ok
@@ -639,11 +640,6 @@ title: Corpus process log
 2026-09-20 08:08 · **REGISTER-R34A** · 1h10m · lens dropped from the catalogue build, the vault index and the row shape; the row is 12 fields, not 13. Published data rebuilds byte-identical. New test_catalogue_rowshape.py checks the four readings of a row without node.
 2026-09-20 04:53 · **REGISTER-R33** · 55m · Job 88: ingested-backfill.py and its brief on prepared/job-88/. Scope is zero -- all 22,847 raw/ records carry ingested:, none before published: -- so no record list, and R34 is an audit. The no-follow method would have stamped the shard date.
 2026-09-20 00:09 · **RENDER** · 17m · 251 reports rendered, 0 failed; home, place, topic, progress, catalogue, alerts, finance, methodology built; 10214 editions to R2; deployed - ok
-2026-09-19 23:52 · **REVIEW** · 3m · COD: status 3 sections revised, progress 2 cells created, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
-2026-09-19 23:49 · **REVIEW** · 4m · CMR: status 2 sections revised, progress 3 cells created, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
-2026-09-19 23:45 · **BUILD** · 39m · catalogue 22847, finance 62 places, scan 23 units 240 sources considered, 20 ledgers moved, 96 rows minted, 76 topic docs, 7 bulletin items; scope 3 XGL unverified, 0 unaccounted; 41 register hits ruled to stand - ok
-2026-09-19 23:05 · **NOTES** · 8m · Note 34 closed: two OSINT-drafted change-log entries added under 19 September 2026, cut to house length - ok
-2026-09-19 00:02 · **RENDER** · 15m · 251 reports rendered, 0 failed; home, place, topic, progress, catalogue, alerts, finance, methodology built; 5729 editions to R2; deployed — ok
 2026-09-18 19:29 · **HERO** · unclocked · Batch 09, the last (review 4 R30) to X:\prepared\hero-09.jsonl; 6 corrected. R30 done; 81 short-title records held for OSINT's rule candidate - ok
 2026-09-18 14:03 · **STATUS-ACQUIRE** · unclocked · STP staged (review 4 R23): 20 of 28 rows in X:\new-queue\status-acquire-STP with READY, lint clean; 8 in the drop list, 3 of them unfetchable with Wayback unchecked (429). scripts/status-stage.py runs R26 - ok
 2026-09-16 06:13 · **CITE-REREAD** · unclocked · closed at 54 of 54: the 21 owed baselines re-read, gated and committed one apiece. 16,990 links, 15,562 checked, 3,774 claims repaired; 1,212 gateway and 137 not held. A/B/E/G/FM pass estate-wide; three residuals in the runbook — ok
