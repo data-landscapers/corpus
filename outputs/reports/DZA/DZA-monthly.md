@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: DZA
 ledger_rows: 42
 not_held: 5
-record: f2c3aefd76a9
+record: 84dfaef89cad
 ---
 
 # News, Sep – Oct 2026
@@ -718,7 +718,7 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 
 **[Baddari préside la deuxième réunion de coordination sur la mise en œuvre de la Stratégie nationale d’intelligence artificielle](https://www.lejourdalgerie.com/baddari-preside-la-deuxieme-reunion-de-coordination-sur-la-mise-en-oeuvre-de-la-strategie-nationale-dintelligence-artificielle/)** — Le Jour d'Algérie, 9 September 2026
 
-Five thematic commissions installed; national AI and data research centre, AI tax system, 50,000 specialists by 2030.
+Algeria's Minister of Higher Education and Scientific Research, Kamel Baddari, chaired the second coordination meeting on the national AI strategy, reported on 9 September 2026. Five thematic commissions were installed, a national AI and data research centre was decided, and the meeting set a target of training 50,000 AI specialists by 2030.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: GNB
 ledger_rows: 10
 not_held: 2
-record: 708e96d38970
+record: 384d706a6338
 ---
 
 # News, Sep – Oct 2026
@@ -190,7 +190,7 @@ Bissau's municipal council launched CMB+, its integrated modernisation and digit
 
 **[Country Profile on AI Governance: Guinea-Bissau](https://www.aipolicy.africa/country-profiles/guinea-bissau)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.53 of 4, rank 49 of 54 (2026); no AI strategy, no data-protection law or authority.
+Guinea-Bissau scored 0.53 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 49 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.30) and its weakest is Strategy and Vision (0.10).
 
 </div>
 

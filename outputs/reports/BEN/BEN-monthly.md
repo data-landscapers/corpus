@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: BEN
 ledger_rows: 38
 not_held: 4
-record: a1c17ae9350d
+record: 1d192119f620
 ---
 
 # News, Sep – Oct 2026
@@ -50,7 +50,7 @@ record: a1c17ae9350d
 
 **[Décret N° 2026-579 du 02 septembre 2026 portant création, attributions, organisation et fonctionnement du Comité national du Numérique](https://sgg.gouv.bj/doc/decret-2026-579/)** — Secrétariat général du Gouvernement du Bénin, 2 September 2026
 
-Five-page scanned decree text as posted by the SGG; creation, remit, organisation and functioning of the committee.
+Benin issued Decree No. 2026-579 on 2 September 2026 creating the National Digital Committee and setting its functions, organisation and operation. The item gives the decree only as an attached PDF and states no further details.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: SWZ
 ledger_rows: 42
 not_held: 3
-record: 05f485e40d6a
+record: 647e90e07cba
 ---
 
 # News, Sep – Oct 2026
@@ -64,7 +64,7 @@ Eswatini's Immigration Bill would set up an information system to vet foreign na
 
 **[Senators back E5m fines, 10-year jail terms for critical infrastructure offences](https://independentnews.co.sz/49620/news/politics/senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure-offences/)** — Independent News Eswatini, 19 October 2026
 
-Senate adopts Bill No. 16 of 2025 report; E5m company fines, 10-year terms; AG urges ministry-neutral wording.
+Eswatini's Senate adopted the ICT portfolio committee's report on the Critical Infrastructure Bill No. 16 of 2025 on 19 October 2026. It backs fines of up to E5 million for companies, and E1 million or up to 10 years' imprisonment for individuals, for offences against telecom towers, fibre and energy lines.
 
 </div>
 

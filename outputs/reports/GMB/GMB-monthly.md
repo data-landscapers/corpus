@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: GMB
 ledger_rows: 48
 not_held: 2
-record: 491ddebdfd16
+record: aa9e7ec83a1b
 ---
 
 # News, Sep – Oct 2026
@@ -374,7 +374,7 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 
 **[Country Profile on AI Governance: The Gambia](https://www.aipolicy.africa/country-profiles/gambia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.91 of 4, rank 37 of 54 (2026); no adopted AI strategy or AI regulator.
+The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 37 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.30) and its weakest is Implementation and Impact (0.22).
 
 </div>
 

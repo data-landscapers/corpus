@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: UGA
 ledger_rows: 70
 not_held: 11
-record: 7e401e69f71c
+record: 3833870ced5e
 ---
 
 # News, Sep – Oct 2026
@@ -1286,7 +1286,7 @@ Uganda's ICT ministry said a smart classroom at Buhadyo Primary School in Butale
 
 **[43,000 Elderly Ugandans Locked Out of SAGE Benefits Over National ID Errors](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)** — Nile Post, 19 October 2026
 
-ID birth-date errors bar 43,000 from age-80 grant; 318,000 paid of 2.4m eligible; Shs25,000 a month; mobile-money pilot.
+Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000 eligible older people cannot draw SAGE cash grants because the birth dates on their national ID cards make them appear too young. SAGE reaches about 318,000 of more than 2.4 million potential beneficiaries, and mobile-money payment is being piloted.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: MOZ
 ledger_rows: 45
 not_held: 18
-record: e32975f4b32b
+record: 5688c1a9d429
 ---
 
 # News, Sep – Oct 2026
@@ -860,7 +860,7 @@ Fees at Mozambique's new Centro Pronto document centre have drawn public anger, 
 
 **[CEDSIF Seeks Artificial Intelligence Consultancy in Mozambique](https://360mozambique.com/tenders/cedsif-seeks-artificial-intelligence-consultancy-in-mozambique/)** — 360 Mozambique, 9 September 2026
 
-Open call for expressions of interest in AI consultancy for the finance-systems centre behind e-SISTAFE.
+Mozambique's Centre for Development of Financial Information Systems (CEDSIF) issued an open call for expressions of interest for artificial intelligence consultancy services, reported on 9 September 2026. The consultancy would support its digital transformation and information systems development; no value or deadline was given.
 
 </div>
 

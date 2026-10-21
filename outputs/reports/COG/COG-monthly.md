@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: COG
 ledger_rows: 22
 not_held: 5
-record: a7d4510d9bb3
+record: f1f20b6f6c55
 ---
 
 # News, Sep – Oct 2026
@@ -372,7 +372,7 @@ The steering committee of Congo's task force on digitalising the administration,
 
 **[Country Profile on AI Governance: Republic of the Congo](https://www.aipolicy.africa/country-profiles/congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.75 of 4, 18th of 54 (2026); no standalone AI strategy; data-protection commission law gazetted 2025.
+The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 18 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (1.00).
 
 </div>
 

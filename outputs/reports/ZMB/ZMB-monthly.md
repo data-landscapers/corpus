@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: ZMB
 ledger_rows: 44
 not_held: 35
-record: 172254672c86
+record: 50e6278798be
 ---
 
 # News, Sep – Oct 2026
@@ -498,7 +498,7 @@ Zambia's Department of National Registration, Passport and Citizenship said on 3
 
 **[Report of the Auditor General on the Accounts of the Republic for the Financial Year Ended 31st December 2025](https://www.ago.gov.zm/wp-content/uploads/AUDITOR-GENERAL-REPORT-On-the-Accounts-of-the-Republic-for-the-Financial-Year-Ended-31st-Dec-2025.pdf)** — Office of the Auditor General, Zambia, 1 September 2026
 
-PMEC payroll on unsupported Oracle database; 21 of 29 infotypes without workflow approval; no PMEC-IFMIS interface.
+Zambia's Office of the Auditor General issued its report on the accounts of the Republic for the year ended 31 December 2025; the document prints no issue date. The 258-page report covers ministries, provinces and agencies, and finds that the PMEC payroll has workflow controls on only 8 of 29 SAP infotypes.
 
 </div>
 

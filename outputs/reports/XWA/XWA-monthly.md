@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: XWA
 ledger_rows: 32
 not_held: 1
-record: 97b2c9db75c3
+record: c26f03388c0d
 ---
 
 # News, Sep – Oct 2026
@@ -138,7 +138,7 @@ Ten member states held the founding interministerial meeting of the West African
 
 **[THE COMMUNICATIONS DIRECTORATE OF THE ECOWAS COMMISSION ORGANISED THE SECOND MEETING OF ITS DISINFORMATION WORKING GROUP TO DRAW UP A WORK PLAN ON INFORMATION INTEGRITY IN WEST AFRICA](https://www.ecowas.int/the-communications-directorate-of-the-ecowas-commission-organised-the-second-meeting-of-its-disinformation-working-group-to-draw-up-a-work-plan-on-information-integrity-in-west-africa/)** — ECOWAS, 19 October 2026
 
-Accra meeting, 15-16 Oct 2026, on institutionalising the group and the 2026-2030 Information Integrity Roadmap.
+The ECOWAS Commission's Communications Directorate held the second meeting of its Disinformation Working Group in Accra, Ghana, on 15 and 16 October 2026. The meeting brought together ECOWAS institutions and partners to plan a coordinated regional response to information integrity challenges.
 
 </div>
 

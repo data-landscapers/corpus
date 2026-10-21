@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: ETH
 ledger_rows: 32
 not_held: 5
-record: ddca30333948
+record: e75066e65007
 ---
 
 # News, Sep – Oct 2026
@@ -568,7 +568,7 @@ Ethiopian Shipping and Logistics launched a web and mobile self-service platform
 
 **[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 2.12 of 4, 11th of 54 (2026); strategy pillar 3.70, innovation 1.00, Malabo unratified.
+Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 11 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.70) and its weakest is Innovation and Ecosystem (1.00).
 
 </div>
 

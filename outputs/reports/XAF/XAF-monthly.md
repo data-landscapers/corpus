@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: XAF
 ledger_rows: 108
 not_held: 3
-record: a9e826b3914e
+record: 140d10488e05
 ---
 
 # News, Sep – Oct 2026
@@ -1818,7 +1818,7 @@ A European-funded regulatory capacity programme is holding its eighth cohort in 
 
 **[African Union InnoFest '26 unveils continental coalition and Youth HackLab to combat digital abuse across Africa](https://www.spotlightinitiative.org/latest/news/african-union-innofest-26-unveils-continental-coalition-and-youth-hacklab-combat)** — Spotlight Initiative, 19 October 2026
 
-Addis Ababa, 29-30 Sep 2026; first continental community of practice on tech-facilitated GBV; HackLab for ages 18-35.
+The African Union Commission convened the first African Community of Practice on Technology-Facilitated Violence Against Women and Girls and launched the SafeTech Africa HackLab for innovators aged 18 to 35. Both took place at AU InnoFest'26 in Addis Ababa on 29 and 30 September 2026, with UNDP, UNFPA, UN Women and the Spotlight Initiative.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: GHA
 ledger_rows: 111
 not_held: 9
-record: f83c5861e32e
+record: eda618a56d64
 ---
 
 # News, Sep – Oct 2026
@@ -1754,7 +1754,7 @@ A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI 
 
 **[Country Profile on AI Governance: Ghana](https://www.aipolicy.africa/country-profiles/ghana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 2.23 of 4, rank 8 of 54 (2026); Emerging Technologies Bill still in draft.
+Ghana scored 2.23 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 8 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.80) and its weakest is Implementation and Impact (1.60).
 
 </div>
 

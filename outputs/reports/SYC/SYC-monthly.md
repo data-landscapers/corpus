@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: SYC
 ledger_rows: 14
 not_held: 6
-record: 3fbaf0204d3b
+record: 9fe5a3f2c7ee
 ---
 
 # News, Sep – Oct 2026
@@ -298,7 +298,7 @@ Seychelles' tourism minister Amanda Bernstein told the Seychelles Tourism Forum 
 
 **[Country Profile on AI Governance: Seychelles](https://www.aipolicy.africa/country-profiles/seychelles)** — AI Policy Lab (LawyersHub), 7 October 2026
 
-Index score 0.84 of 4, rank 39 of 54 (2026); no AI strategy, law or body; Pro-Human Technology Bill untabled.
+Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 39 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (1.44) and its weakest is Implementation and Impact (0.30).
 
 </div>
 

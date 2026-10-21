@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: CPV
 ledger_rows: 18
 not_held: 28
-record: a8f002c78e3a
+record: a6b0ac0aecb9
 ---
 
 # News, Sep – Oct 2026
@@ -256,7 +256,7 @@ A second evaluation of Cabo Verde's justice information system reports 46,000 cr
 
 **[Country Profile on AI Governance: Cape Verde](https://www.aipolicy.africa/country-profiles/cabo-verde)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.91 of 4, 38th of 54 (2026); national AI strategy still under development, no AI-specific law.
+Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 38 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.70) and its weakest is Implementation and Impact (0.11).
 
 </div>
 

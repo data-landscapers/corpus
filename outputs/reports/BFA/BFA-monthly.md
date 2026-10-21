@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: BFA
 ledger_rows: 43
 not_held: 7
-record: 5ecfbb03bf58
+record: 4186c7aec86f
 ---
 
 # News, Sep – Oct 2026
@@ -666,7 +666,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Country Profile on AI Governance: Burkina Faso](https://www.aipolicy.africa/country-profiles/burkina-faso)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.10 of 4, rank 31 of 54 (2026); no adopted AI strategy, CIL lacks an AI mandate.
+Burkina Faso scored 1.10 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 31 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (1.40) and its weakest is Implementation and Impact (0.60).
 
 </div>
 
@@ -762,7 +762,7 @@ Burkina Faso's digital transition ministry trained the secretaries general of mi
 
 **[Le Faso Digital 2026 : L'ARCEP expose les défis d'un numérique accessible à tous les Burkinabè](https://lefaso.net/spip.php?article150068)** — leFaso.net, 19 October 2026
 
-Q2 2026 data: 30m mobile and 14.2m 4G subscriptions; regulator has no direct power over retail prices.
+Burkina Faso's regulator ARCEP reported about 3,514 white zones with no operator, nearly 40% of localities and some 4.7 million people, at the Le Faso Digital conference on 19 October 2026. Its figures at 30 June 2026 show about 30 million mobile subscriptions, nearly 20 million mobile-internet and 328,764 fixed-internet subscriptions.
 
 </div>
 

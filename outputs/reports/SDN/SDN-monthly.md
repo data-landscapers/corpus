@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: SDN
 ledger_rows: 30
 not_held: 5
-record: 565235a687d3
+record: fc076404fdb6
 ---
 
 # News, Sep – Oct 2026
@@ -584,7 +584,7 @@ Sudan's Khartoum State government signed six partnership memoranda, including wi
 
 **[Soudan: Un assistant automatisé pour répondre immédiatement aux questions concernant les candidatures universitaires en ligne](https://fr.allafrica.com/stories/202609250240.html)** — allAfrica.com, 25 September 2026
 
-Arabic chatbot on admission.gov.sd for the 2026-27 intake; personal-data queries routed to human agents.
+Sudan's Ministry of Higher Education and Scientific Research launched a chatbot on its online admissions portal, reported on 25 September 2026. It answers general admission questions in Arabic and refers complex or personal-data requests to a human support centre reachable on the number 2511, as part of the 2026-2027 registration campaign.
 
 </div>
 

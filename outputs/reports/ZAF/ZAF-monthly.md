@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: ZAF
 ledger_rows: 152
 not_held: 21
-record: 65e2f264a83f
+record: 2f986e810290
 ---
 
 # News, Sep – Oct 2026
@@ -228,7 +228,7 @@ ICASA has asked the Constitutional Court to settle whether it may condone a late
 
 **[Electoral Code of Conduct Countering Disinformation in the Local Government Elections (General Notice 4138 of 2026, Government Gazette No. 55341)](https://www.elections.org.za/content/Documents/Laws-and-regulations/Municipal-Elections/Electoral-Code-of-Conduct-Countering-Disinformation-in-Local-Government-Elections-No-55341/)** — Electoral Commission of South Africa, 4 September 2026
 
-Binding until results declared; AI synthetic content must be labelled; Real411 complaints; 36-hour corrections.
+South Africa's Electoral Commission published the Electoral Code of Conduct Countering Disinformation in the Local Government Elections as General Notice 4138 in Government Gazette No. 55341 on 4 September 2026. It issued the code under section 88 of the Municipal Electoral Act, 2000, and designated Real 411 as the online complaints mechanism for disinformation.
 
 </div>
 
@@ -236,7 +236,7 @@ Binding until results declared; AI synthetic content must be labelled; Real411 c
 
 **[Electoral Commission introduces new Disinformation Code ahead of 2026 Local Government Elections](https://www.gov.za/news/media-statements/electoral-commission-introduces-new-disinformation-code-ahead-2026-local)** — South African Government, 8 September 2026
 
-Code promulgated 2026-09-04: AI content labelling, 36-hour retraction and Real411 reporting for parties and candidates.
+South Africa's Electoral Commission said it promulgated its Disinformation Code on 4 September 2026, ahead of the 4 November 2026 local government elections. Parties and candidates must retract and correct false information within 36 hours of becoming aware of it and clearly label AI-generated content.
 
 </div>
 
@@ -252,7 +252,7 @@ South Africa's Electoral Commission has gazetted a Disinformation Code for the l
 
 **[Electoral Commission and Digital Platforms Partner to Counter Disinformation and Protect Election Information Integrity in South Africa's 2026 Local Government Elections](https://www.elections.org.za/content/About-Us/News/Electoral-Commission-and-Digital-Platforms-Partner-to-Counter-Disinformation-and-Protect-Election-Information-Integrity-in-South-Africa-s-2026-Local-Government-Elections/)** — Electoral Commission of South Africa, 19 October 2026
 
-Google, Meta, Microsoft, TikTok and Moxii Africa sign IEC framework for 4 November 2026 polls; no user-data sharing.
+South Africa's Electoral Commission announced on 19 October 2026 a partnership with Google, Meta, Microsoft, TikTok and Moxii Africa to counter disinformation ahead of the 4 November 2026 local government elections. It follows a similar framework signed with the platforms before the 2024 national and provincial elections.
 
 </div>
 
@@ -1690,7 +1690,7 @@ Absa launched institutional digital-asset custody for South African clients on 2
 
 **[Question to the Minister of Communications and Digital Technologies - NW5143](https://pmg.org.za/committee-question/41351/)** — Parliamentary Monitoring Group, 15 October 2026
 
-Postbank told to file new section 12 Banks Act application, not yet submitted; 1.9m grant recipients Sept 2026.
+In a written reply dated 15 October 2026, South Africa's Communications Minister said Postbank has been directed by the Prudential Authority to submit a new bank authorisation application, with no submission date set. The reply said Postbank paid grants to about 1.9 million beneficiaries as at September 2026, and that its SASSA agreement remains in force under Constitutional Court directions.
 
 </div>
 

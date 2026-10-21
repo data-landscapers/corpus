@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: BWA
 ledger_rows: 19
 not_held: 5
-record: 7045e4f7ca9b
+record: f70b38f3beaa
 ---
 
 # News, Sep – Oct 2026
@@ -282,7 +282,7 @@ OpenEvidence and Penn Medicine announced on 15 September 2026 a partnership to d
 
 **[Country Profile on AI Governance: Botswana](https://www.aipolicy.africa/country-profiles/botswana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.11 of 4, joint 29th of 54 (2026); National AI Policy still a draft to September 2026.
+Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked joint 29 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are assigned values, and its strongest are Strategy and Vision and Ethics and Inclusion (1.40 each).
 
 </div>
 

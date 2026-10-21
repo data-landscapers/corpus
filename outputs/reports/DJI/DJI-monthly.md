@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: DJI
 ledger_rows: 15
 not_held: 11
-record: 55f95f816c62
+record: fcf67279bac1
 ---
 
 # News, Sep – Oct 2026
@@ -244,7 +244,7 @@ Djibouti's state operator certified 35 of its engineers in artificial intelligen
 
 **[Country Profile on AI Governance: Djibouti](https://www.aipolicy.africa/country-profiles/djibouti)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.93 of 4, 35th of 54 (2026); SNIA 2026-2030 presented Sep 2026, unadopted; Digital Code 2025.
+Djibouti scored 0.93 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 35 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillars are Strategy and Vision and Infrastructure and Data (1.20 each) and its weakest is Implementation and Impact (0.10).
 
 </div>
 

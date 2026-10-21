@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: LSO
 ledger_rows: 17
 not_held: 4
-record: e414c948f3ce
+record: 89dbff22fe73
 ---
 
 # News, Sep – Oct 2026
@@ -366,7 +366,7 @@ Lesotho's 2026 census asked questions recognising gender identity and sexuality 
 
 **[Beyond the harvest: can agricultural insurance protect Lesotho's smallholders?](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/)** — The Reporter Lesotho, 16 October 2026
 
-Satellite weather-index pilot 2025/26, over USD 1.2m insured; LNIG Hollard to sell in all ten districts from Nov 2026.
+The Reporter, on 16 October 2026, covered a weather-index agricultural insurance pilot in Lesotho during the 2025/2026 season, run by the agriculture ministry's SADP II with the World Food Programme, LNIG Hollard and African Risk Capacity. It covered maize and beans in Mafeteng, Mohale's Hoek and Quthing, with more than US$1.2 million in insured value reported.
 
 </div>
 

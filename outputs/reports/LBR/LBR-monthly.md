@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-21
 place: LBR
 ledger_rows: 36
 not_held: 6
-record: 0c66034fe704
+record: 2225b202014f
 ---
 
 # News, Sep – Oct 2026
@@ -322,7 +322,7 @@ A Monrovia criminal court gave the police a last opportunity to justify holding 
 
 **[Senator Dopoh Accuses Executive of Prematurely Enforcing Cybercrime Law, Demands Key Safeguards](https://liberianinvestigator.com/dopoh-liberia-cybercrime-law-enforcement-safeguards/)** — The Liberian Investigator, 16 October 2026
 
-Senator says Act enforced before Cybersecurity Council and cybercrime team exist; asks Senate to notify Executive.
+Liberian Senator Francis Dopoh, chair of the Senate Committee on Posts and Telecommunications, told the Senate on 15 October 2026 that the Executive is enforcing the new Cybercrime Law before setting up the Cybersecurity Council and specialised cybercrime team it requires. He asked the Senate to notify the Executive and demand corrective measures, following the reported arrest of a man accused of posting AI-generated images of the Vice President.
 
 </div>
 
@@ -672,7 +672,7 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 
 **[Transforming Taxpayer Services: LRA Advances AI-Powered Contact Center](https://www.linkedin.com/posts/liberiarevenueauthority_transforming-taxpayer-services-lra-advances-activity-7503618260676984832-UCBw)** — Liberia Revenue Authority, 10 September 2026
 
-LRA builds AI contact centre with Kwagei Group; knowledge-base retreat on tax and customs guidance.
+The Liberia Revenue Authority said on 10 September 2026 that it is developing an AI-powered contact center for taxpayer information on tax and customs matters. Its Tax Knowledge Governance Committee recently held a working retreat in Margibi County on the contact center's knowledge base; the Taxpayer Services Division is leading the work with the Kwagei Group.
 
 </div>
 
