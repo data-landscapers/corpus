@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: CPV
-ledger_rows: 17
+ledger_rows: 18
 not_held: 28
-record: 39f505ed3e3f
+record: a8f002c78e3a
 ---
 
 # News, Sep – Oct 2026
@@ -241,8 +241,26 @@ A second evaluation of Cabo Verde's justice information system reports 46,000 cr
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Cape Verde](https://www.aipolicy.africa/country-profiles/cabo-verde)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.91 of 4, 38th of 54 (2026); national AI strategy still under development, no AI-specific law.
+
+</div>
+
+</div>
 
 ### Innovation ecosystem
 

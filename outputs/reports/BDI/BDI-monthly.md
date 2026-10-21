@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: BDI
-ledger_rows: 16
+ledger_rows: 17
 not_held: 10
-record: 10f387bf459f
+record: cccbd99156af
 ---
 
 # News, Sep – Oct 2026
@@ -243,6 +243,20 @@ Burundi is preparing an E-Justice platform to link the penal chain from the judi
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue office WhatsApp chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'OBR lance officiellement son Chatbot WhatsApp : l'assistance fiscale et douanière dans la dynamique digitale à portée de main !](https://www.obr.bi/index.php/actualites/2597-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-et-douaniere-dans-la-dynamique-digitale-a-portee-de-main)** — Office Burundais des Recettes, 1 September 2026
+
+Revenue office's 24/7 WhatsApp assistant answers tax and customs queries in four languages.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: XCA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 0
-record: 67a82d9b91cd
+record: 2094de67a2d1
 ---
 
 # News, Sep – Oct 2026
@@ -101,6 +101,28 @@ The Central Africa Internet Governance Forum, held from 13 to 15 October 2026 wi
 **[Numérique : clôture de l’édition 2026 du Forum sur la Gouvernance de l’Internet-Afrique Centrale - Dari Infos](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)** — Dari Infos, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 October after four days, with the adoption of the Declaration of N'Djamena. Its commitments include a joint CEEAC and ARTAC platform against cyberattacks by August 2027, fibre interconnection and laws on AI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ARTAC (Central African Telecommunications Regulators Conference)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/ARTAC : six groupes de travail permanents créés pour harmoniser la réglementation en Afrique centrale](https://agpgabon.ga/gabon-artac-six-groupes-de-travail-permanents-crees-pour-harmoniser-la-reglementation-en-afrique-centrale/)** — Agence Gabonaise de Presse, 20 October 2026
+
+ARTAC created six permanent technical working groups at its 4th extraordinary Conference of Regulators session in Libreville on 20 October 2026. They cover radiocommunications, technical standards on safety and environmental protection, regulatory governance, postal regulation, digital financial services and consumer protection. The session, hosted by ARCEP Gabon, is also reviewing ARTAC's statutes, rules of procedure and financial regulations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Télécommunications : l'ARTAC engage à Libreville la révision de ses textes fondateurs](https://agpgabon.ga/gabon-telecommunications-lartac-engage-a-libreville-la-revision-de-ses-textes-fondateurs/)** — Agence Gabonaise de Presse, 20 October 2026
+
+The Central African telecoms regulators' assembly ARTAC opened its 4th extraordinary session in Libreville on 20 October 2026, running two days and hosted by Gabon's ARCEP. Digital Economy Minister Mark-Alexandre Doumba launched it. Participants are reviewing ARTAC's statutes, rules of procedure and financial regulations, and São Tomé and Príncipe's regulator formally presented its membership application.
 
 </div>
 

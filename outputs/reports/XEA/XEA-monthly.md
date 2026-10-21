@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: XEA
-ledger_rows: 21
+ledger_rows: 22
 not_held: 0
-record: 6799760bc145
+record: 48a214c86af4
 ---
 
 # News, Sep – Oct 2026
@@ -211,6 +211,8 @@ The East African Community, the Inter-University Council for East Africa and the
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-exchange">Data Exchange</a>
@@ -221,6 +223,22 @@ The East African Community, the Inter-University Council for East Africa and the
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB district-level connectivity gap platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mapping Digital Connectivity Gaps to Guide Infrastructure Investment in East Africa](https://datapartnership.org/updates/mapping-digital-connectivity-gaps-to-guide-infrastructure-investment-in-east-africa/)** — Development Data Partnership, 19 October 2026
+
+AfDB platform scores 8,925 districts in 11 countries on Ookla speed-test, coverage, population and facility data.
+
+</div>
+
+</div>
 
 ### Cybersecurity
 

@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: CAF
-ledger_rows: 20
+ledger_rows: 21
 not_held: 5
-record: d0676032ffdc
+record: 9aeb9dabea0e
 ---
 
 # News, Sep – Oct 2026
@@ -307,8 +307,26 @@ The Central African Republic launched a national portal for online government se
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Central African Republic](https://www.aipolicy.africa/country-profiles/central-african-republic)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.25 of 4, rank 51 of 54 (2026); four pillars at zero, no AI strategy, data authority not confirmed.
+
+</div>
+
+</div>
 
 ### ICT Industry
 

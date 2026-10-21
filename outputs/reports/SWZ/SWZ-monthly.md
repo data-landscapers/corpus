@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: SWZ
-ledger_rows: 41
+ledger_rows: 42
 not_held: 3
-record: 3b55434f4100
+record: 05f485e40d6a
 ---
 
 # News, Sep – Oct 2026
@@ -51,6 +51,20 @@ record: 3b55434f4100
 **[New proposed law to screen foreigners entering country](https://times.co.sz/43339/news/new-proposed-law-to-screen-foreigners-entering-country/)** — Times of Eswatini, 10 September 2026
 
 Eswatini's Immigration Bill would set up an information system to vet foreign nationals before entry and block those who fail requirements or are judged a risk. It was discussed at a consultation between Parliament and stakeholders in Ezulwini. The workshop heard that implementation would cost about E6 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Critical Infrastructure Protection Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senators back E5m fines, 10-year jail terms for critical infrastructure offences](https://independentnews.co.sz/49620/news/politics/senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure-offences/)** — Independent News Eswatini, 19 October 2026
+
+Senate adopts Bill No. 16 of 2025 report; E5m company fines, 10-year terms; AG urges ministry-neutral wording.
 
 </div>
 

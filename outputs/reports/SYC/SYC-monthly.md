@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: SYC
-ledger_rows: 13
+ledger_rows: 14
 not_held: 6
-record: 366ed578fbc3
+record: 3fbaf0204d3b
 ---
 
 # News, Sep – Oct 2026
@@ -285,6 +285,20 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 **[Seychelles' tourism minister pushes for AI and data-driven approach to reshape tourism sector](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector)** — Seychelles News Agency, 2 October 2026
 
 Seychelles' tourism minister Amanda Bernstein told the Seychelles Tourism Forum on 1 October 2026 that the country plans to use AI and real-time data to forecast pressures from tourism, with attention to small locally owned businesses. The forum presented Lazio HRM, a tourism workforce platform built for the tourism department by Cloudbay Solutions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Seychelles](https://www.aipolicy.africa/country-profiles/seychelles)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Index score 0.84 of 4, rank 39 of 54 (2026); no AI strategy, law or body; Pro-Human Technology Bill untabled.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: RWA
 ledger_rows: 46
 not_held: 7
-record: acc93c066a3d
+record: e98a2c9a1b01
 ---
 
 # News, Sep – Oct 2026
@@ -109,6 +109,14 @@ Rwanda was chosen on 21 September 2026 to host the seventh UN World Data Forum, 
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: GHA
-ledger_rows: 109
+ledger_rows: 111
 not_held: 9
-record: db184314d81f
+record: f83c5861e32e
 ---
 
 # News, Sep – Oct 2026
@@ -369,6 +369,14 @@ Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo D
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
 
 </div>
 
@@ -1382,6 +1390,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank-led stablecoin settlement for importers' payments to Asia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stanbic Ghana explores stablecoin trade settlement](https://itweb.africa/article/stanbic-ghana-explores-stablecoin-trade-settlement/xnklOvz1Pj4q4Ymz)** — ITWeb Africa, 20 October 2026
+
+Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 October 2026, that they are exploring a stablecoin-backed cross-border settlement service for Ghanaian importers paying Asian suppliers. Stanbic would handle onboarding, KYC and local-currency settlement, and RD Technologies the digital-asset rails. Next steps are regulatory engagement, technical validation and a controlled pilot, all subject to regulatory no-objection.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1719,6 +1741,20 @@ Researchers at Ghana's Kwame Nkrumah University of Science and Technology have d
 **[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Ghana](https://www.aipolicy.africa/country-profiles/ghana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 2.23 of 4, rank 8 of 54 (2026); Emerging Technologies Bill still in draft.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: XAF
-ledger_rows: 106
+ledger_rows: 108
 not_held: 3
-record: b988d68a7893
+record: a9e826b3914e
 ---
 
 # News, Sep – Oct 2026
@@ -784,6 +784,20 @@ Paradigm Initiative, a digital rights organisation, told the African Commission 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank AI Infrastructure and Readiness Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs)** — World Bank Group, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The World Bank Group launched its first digital strategy in Seoul on 20 October 2026, with four priorities: connectivity, affordable devices and data, digital services and skills, and AI readiness. It also announced an AI Infrastructure and Readiness Initiative that gives emerging-market governments shared pay-as-you-go GPU capacity, starting with Africa and Latin America, with Cassava Technologies and NVIDIA as knowledge partners.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
@@ -1095,6 +1109,14 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
+
+Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
 
 </div>
 
@@ -1695,6 +1717,8 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia completed a t
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
 <a href="#training-and-skills">Training and skills</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
 
@@ -1779,6 +1803,22 @@ Nearly 50 women cybersecurity professionals from across Africa met in Addis Abab
 **[African telecom regulators convene in Nairobi to strengthen cooperation on emerging digital challenges](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/)** — iPRIS, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 A European-funded regulatory capacity programme is holding its eighth cohort in Nairobi from 5 to 9 October. Regulators from Liberia, Mauritius, Namibia, Sierra Leone, Tanzania and Zimbabwe are taking part with three regional regulators' associations.
+
+</div>
+
+</div>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AU community of practice on technology-facilitated violence against women</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Union InnoFest '26 unveils continental coalition and Youth HackLab to combat digital abuse across Africa](https://www.spotlightinitiative.org/latest/news/african-union-innofest-26-unveils-continental-coalition-and-youth-hacklab-combat)** — Spotlight Initiative, 19 October 2026
+
+Addis Ababa, 29-30 Sep 2026; first continental community of practice on tech-facilitated GBV; HackLab for ages 18-35.
 
 </div>
 

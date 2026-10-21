@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-10-19
+compiled: 2026-10-21
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 161
+sources_cited: 162
 sections_written: 39
 not_established: 7
 acquire_lines: 49
@@ -239,7 +239,7 @@ Connectivity and power set the ceiling. [Digital infrastructure is concentrated 
 ### AI
 <!-- tech.ai -->
 
-Sudan has a national authority for artificial intelligence and no artificial intelligence running in government. [Artificial intelligence is not in use in the state's data exchange](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) (2025), and the [data and artificial intelligence authority created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), sitting under the Ministry of Digital Transformation and Communications, carries a mandate to plan such capability rather than a system that runs. No national artificial intelligence strategy had been adopted as at August 2026.
+Sudan has a national authority for artificial intelligence and one artificial-intelligence service running in government: [the higher education ministry added an Arabic chatbot to its online admissions portal in September 2026, answering routine questions and passing complex ones to staff](https://fr.allafrica.com/stories/202609250240.html). [Artificial intelligence is not in use in the state's data exchange](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) (2025), and the [data and artificial intelligence authority created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), sitting under the Ministry of Digital Transformation and Communications, carries a mandate to plan such capability rather than a system that runs. No national artificial intelligence strategy had been adopted as at August 2026.
 
 Nor is there a statute. The instrument that would govern the field — a combined draft law pairing data and artificial intelligence in one text — [was not advanced when ministers considered it in August 2026](https://sudantribune.net/article/317108). What exists in the meantime is closer to a prospectus than an installation: the [state data centre in Khartoum was returned to service in October 2025](https://actumsudan.substack.com/p/sudan-pushes-digital-transformation) with cloud and artificial-intelligence support systems, and the infrastructure and transport ministry has [put artificial intelligence and transport-management technology to investors as part of post-war reconstruction](https://www.fananews.com/language/en/infrastructure-and-transport-minister-sudan-open-to-smart-arab-partnerships-to-rebuild-transport-sector/) (July 2026). Neither is a deployed service, and none is offered to citizens.
 

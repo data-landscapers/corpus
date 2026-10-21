@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: ETH
-ledger_rows: 31
+ledger_rows: 32
 not_held: 5
-record: 5a86f40ef9a7
+record: ddca30333948
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: 5a86f40ef9a7
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -545,6 +547,28 @@ The Ethiopia Commodity Exchange launched a digital portal, built by its own IT s
 **[Digital logistics overhaul aims to boost regional trade competitiveness](https://capitalethiopia.com/2026/09/13/digital-logistics-overhaul-aims-to-boost-regional-trade-competitiveness/)** — Capital Newspaper, 13 September 2026
 
 Ethiopian Shipping and Logistics launched a web and mobile self-service platform on 4 September 2026 for shipment orders, cargo tracking, freight payment and documents. The Ethio-Djibouti Railway has introduced its own customer portal for booking, tracking and payment.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 2.12 of 4, 11th of 54 (2026); strategy pillar 3.70, innovation 1.00, Malabo unratified.
 
 </div>
 

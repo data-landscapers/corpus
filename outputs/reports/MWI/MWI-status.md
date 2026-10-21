@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-19
+compiled: 2026-10-21
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 235
+sources_cited: 236
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -353,7 +353,7 @@ Two additions in mid-2026 run the other way. In June the government [launched a 
 ### Use of satellite data
 <!-- data.satellite -->
 
-Two uses are now on the record and neither is a programme. The climate change and meteorological services department [installed the 2025 generation of the regional satellite reception system in August 2025, giving it access to third-generation geostationary products](https://www.metmalawi.gov.mw/news/dccms-enhances-weather-monitoring-capabilities-with-climsa-satellite-system-upgrade/), and its staff took operational training on it that October. Separately the agriculture ministry [uses a satellite-based in-season yield model, which the national committee on crop estimates has recommended incorporating into the national crop-estimate survey](https://eohandbook.com/2026casestudies/malawi.html). No national earth-observation strategy, budget line or data product from either is published, and nothing connects the meteorological capability to the agricultural use that would be its most obvious domestic customer.
+Three uses are now on the record and none is a programme. The climate change and meteorological services department [installed the 2025 generation of the regional satellite reception system in August 2025, giving it access to third-generation geostationary products](https://www.metmalawi.gov.mw/news/dccms-enhances-weather-monitoring-capabilities-with-climsa-satellite-system-upgrade/), and its staff took operational training on it that October. Separately the agriculture ministry [uses a satellite-based in-season yield model, which the national committee on crop estimates has recommended incorporating into the national crop-estimate survey](https://eohandbook.com/2026casestudies/malawi.html). The same department [piloted the WFP-supported PRISM drought tool, which combines satellite imagery and vegetation indices with socioeconomic data, in five drought-prone districts](https://www.maravipost.com/malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resilience/) (August 2025). No national earth-observation strategy, budget line or data product from any of them is published, and nothing connects the meteorological capability to the agricultural use that would be its most obvious domestic customer.
 
 ## Geopolitics
 

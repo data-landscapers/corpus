@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: BWA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 5
-record: 32e11741b81c
+record: 7045e4f7ca9b
 ---
 
 # News, Sep – Oct 2026
@@ -269,6 +269,20 @@ Botswana's Ministry of Transport and Infrastructure announced interim manual mea
 **[OpenEvidence and Penn Medicine partner to extend AI clinical decision support to Botswana](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/)** — YourBotswana, 18 September 2026
 
 OpenEvidence and Penn Medicine announced on 15 September 2026 a partnership to deploy OpenEvidence's AI clinical decision-support platform to Penn's clinicians and to extend it to Botswana through the Botswana-UPenn Partnership. A customised set of tools is to be built with the partnership's clinicians. No timetable, site count or cost for Botswana is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Botswana](https://www.aipolicy.africa/country-profiles/botswana)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.11 of 4, joint 29th of 54 (2026); National AI Policy still a draft to September 2026.
 
 </div>
 

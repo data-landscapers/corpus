@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-10-18
+compiled: 2026-10-21
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 223
+sources_cited: 225
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -352,6 +352,8 @@ Coverage is strongest on [poverty and income, education facilities and labour, a
 Satellite feeds are one input to Morocco's [national water digital twin](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/), which fuses them with sensor and basin-agency data on a sovereign platform hosted in the country, at the EHTP scientific tower with LPEE and CID, running hydrological, hydraulic and hydrogeological models with AI set to accelerate analysis and auto-detect territorial change rather than replace the models (July 2026). [No pilot had yet run](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/) as at July 2026.
 
 Weather forecasting is the established use: the meteorological directorate [switched from Meteosat Second Generation to Meteosat Third Generation data in January 2025](https://aujourdhui.ma/actualite/anticipation-des-risques-meteorologiques-la-dgm-se-dote-du-systeme-meteosat-3eme-generation), and its forecast chain [combines satellite images every ten minutes with some 430 automatic stations and 44 observation centres](https://fr.le360.ma/societe/de-lobservation-aux-alertes-comment-la-dgm-prepare-ses-bulletins-meteo_74T4ZDGOOZEBTD4RQVUTJNIYPE/) (December 2025).
+
+Agriculture has project-built tools: [a satellite drought index was operationalised for rainfed cereals and rangelands in 2021-2022 under the MENAdrought project, with a web interface for drought statistics](https://menadrought.iwmi.org/wp-content/uploads/sites/44/2023/10/menadrought_project_achievements_and_prospects_in_morocco-final_report.pdf), and [the SAT'IRR irrigation platform was installed at the Royal Centre for Remote Sensing, initially advising about ten farmers in the Gharb and Haouz](https://www.spaceclimateobservatory.org/irrisat-maroc).
 
 ## Geopolitics
 

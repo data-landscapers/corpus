@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: DZA
-ledger_rows: 41
+ledger_rows: 42
 not_held: 5
-record: e98b2fb435c5
+record: f2c3aefd76a9
 ---
 
 # News, Sep – Oct 2026
@@ -705,6 +705,20 @@ Algeria's higher education minister, Kamel Baddari, chaired an inter-ministerial
 **[AI Strategy Moves to Implementation Phase](https://dzwatch.dz/?p=79285)** — DZWatch, 22 September 2026
 
 A follow-up meeting on Algeria's national AI strategy approved an updated draft decree creating a National Research Centre for Artificial Intelligence and Data, which now goes through legal procedures. Committees set 17 infrastructure and 14 data operations for 2026 and 85 training operations. The meeting date and chair are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-based tax management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Baddari préside la deuxième réunion de coordination sur la mise en œuvre de la Stratégie nationale d’intelligence artificielle](https://www.lejourdalgerie.com/baddari-preside-la-deuxieme-reunion-de-coordination-sur-la-mise-en-oeuvre-de-la-strategie-nationale-dintelligence-artificielle/)** — Le Jour d'Algérie, 9 September 2026
+
+Five thematic commissions installed; national AI and data research centre, AI tax system, 50,000 specialists by 2030.
 
 </div>
 

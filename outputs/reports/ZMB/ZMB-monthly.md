@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: ZMB
-ledger_rows: 43
+ledger_rows: 44
 not_held: 35
-record: db0ef768758f
+record: 172254672c86
 ---
 
 # News, Sep – Oct 2026
@@ -489,6 +489,20 @@ Zambia's Department of National Registration, Passport and Citizenship said on 3
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payroll Management and Establishment Control (PMEC) system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Report of the Auditor General on the Accounts of the Republic for the Financial Year Ended 31st December 2025](https://www.ago.gov.zm/wp-content/uploads/AUDITOR-GENERAL-REPORT-On-the-Accounts-of-the-Republic-for-the-Financial-Year-Ended-31st-Dec-2025.pdf)** — Office of the Auditor General, Zambia, 1 September 2026
+
+PMEC payroll on unsupported Oracle database; 21 of 29 infotypes without workflow approval; no PMEC-IFMIS interface.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

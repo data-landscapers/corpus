@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: LBY
 ledger_rows: 40
 not_held: 4
-record: c0a537bc2be2
+record: 601a694ee490
 ---
 
 # News, Sep – Oct 2026
@@ -227,6 +227,14 @@ Al-Bunya Investment and Services Company, a subsidiary of Libya's state telecoms
 **[افتتاح مجموعة ( أوزون ) للاتصالات ببنغازي والإعلان عن وصول كابل (ميدوسا) البحري](https://lana.gov.ly/post.php?id=367839&lang=ar)** — وكالة الأنباء الليبية (LANA), 18 October 2026
 
 Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submarine cable has reached the city. It plans a 16,000 km fibre network, a Tier III data centre and a 5G trial by the end of 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Medusa Submarine Cable System Completes Shore-End Installation in Libya](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/)** — Tech Africa News, 20 October 2026
+
+The Medusa submarine cable system completed its Pre-Laid Shore End installation in Benghazi, Libya, as reported on 20 October 2026. This is the pre-installed cable section between the landing site and the offshore connection point. No value or completion date was given.
 
 </div>
 

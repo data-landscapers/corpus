@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: GNB
-ledger_rows: 9
+ledger_rows: 10
 not_held: 2
-record: d3cb22d2d440
+record: 708e96d38970
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: d3cb22d2d440
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -167,6 +169,28 @@ Bissau city council announced the launch of a modernisation and digital transfor
 **["Transformação Digital deve estar ao serviço dos cidadãos de forma a contribuir para uma aministração eficiente", diz Carlos Nelson Sanó](https://ang.gw/transformacao-digital-deve-estar-ao-servico-dos-cidadaos-de-forma-a-contribuir-para-uma-aministracao-eficiente-diz-carlos-nelson-sano/)** — Agencia de Noticias da Guine (ANG), 23 September 2026
 
 Bissau's municipal council launched CMB+, its integrated modernisation and digital transformation project, on 22 September, including a municipal portal for access to council services. The territorial administration minister spoke at the launch.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Guinea-Bissau](https://www.aipolicy.africa/country-profiles/guinea-bissau)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.53 of 4, rank 49 of 54 (2026); no AI strategy, no data-protection law or authority.
 
 </div>
 

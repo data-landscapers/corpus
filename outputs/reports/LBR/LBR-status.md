@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-10-18
+compiled: 2026-10-21
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 189
+sources_cited: 190
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -175,7 +175,7 @@ Readiness to run what government commissions is being assembled a box at a time.
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-The law Liberia's digital defences rest on can now be read: [the printed Cybercrime Act of 2025 creates a National Cybersecurity Council with the financial intelligence agency seated and the national CERT as its technical arm, requires breach reports to the CERT within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf).
+The law Liberia's digital defences rest on can now be read: [the printed Cybercrime Act of 2025 creates a National Cybersecurity Council with the financial intelligence agency seated and the national CERT as its technical arm, requires breach reports to the CERT within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf), but [one of its Senate sponsors said in October 2026 that it was being enforced before the Council and the specialised cybercrime team it requires had been set up](https://liberianinvestigator.com/dopoh-liberia-cybercrime-law-enforcement-safeguards/).
 
 There is no adopted strategy behind it. [The Ministry of Posts and Telecommunications' National Cybersecurity Strategy carries a July 2024 cover date for a 2025-2029 period while its own running headers read "Draft National Cybersecurity Strategy 2024-2029", and no adoption instrument accompanies it](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf). It nonetheless sets [a dated legislative programme running from Q3 2025 to Q1 2026](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) and commits the country to [acceding to the Budapest and Malabo Conventions, to neither of which it is a party](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf). Measured readiness matches: Liberia sits in [the lowest "building" tier of the ITU's Global Cybersecurity Index (2024)](https://statbase.org/data/lbr-global-cybersecurity-index/).
 

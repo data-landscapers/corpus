@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-10-18
+compiled: 2026-10-21
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 319
+sources_cited: 322
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -236,7 +236,7 @@ Kenya scores far better on the policy than on the outcome: [first of 54 African 
 ### AI
 <!-- tech.ai -->
 
-A constitutional challenge to artificial intelligence in Kenyan payments [reached the High Court in April 2026](https://nation.africa/kenya/business/safaricom-sued-over-ai-use-in-customer-service-and-m-pesa-decisions-5433484), brought against Safaricom over its Zuri chatbot and the automated decisioning behind M-Pesa approvals, reversals, fraud detection and credit scoring. It arrives ahead of any binding instrument. Kenya published a [National Artificial Intelligence Strategy 2025-2030](https://ict.go.ke/sites/default/files/2025-01/Kenya%20National%20AI%20Strategy%20%28Draft%29%20for%20Public%20Validation%20%20%5B14-01-2025%5D.pdf) setting direction across broadband, cybersecurity, data centres, data protection, digital identification and payments, but the [draft Artificial Intelligence and Other Emerging Technologies Policy](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf), issued for public participation on 21 July 2026, remains a draft, and the data protection regulator has [moved on offshore AI data transfers ahead of it, with draft guidance in August 2026](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966).
+A constitutional challenge to artificial intelligence in Kenyan payments [reached the High Court in April 2026](https://nation.africa/kenya/business/safaricom-sued-over-ai-use-in-customer-service-and-m-pesa-decisions-5433484), brought against Safaricom over its Zuri chatbot and the automated decisioning behind M-Pesa approvals, reversals, fraud detection and credit scoring. It arrives ahead of any binding instrument, and the one bill is stalled: [the Senate ICT committee recommended in October 2026 that the Senate not proceed with the Artificial Intelligence Bill 2026 until a national AI policy is published](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai), and [the National Assembly gave its innovation committee a month to report on AI in schools, hospitals and the public service](https://nation.africa/kenya/news/ai-in-classrooms-and-hospitals-mps-launch-probe-seek-new-rules-5636232). [A petition over the absence of any AI law was admitted for priority hearing in April 2026, with the ICT ministry ordered to report its progress towards regulation](https://kenyalaw.org/akn/ke/judgment/kehc/2026/5690/eng@2026-04-30); the repository holds no judgment. Kenya published a [National Artificial Intelligence Strategy 2025-2030](https://ict.go.ke/sites/default/files/2025-01/Kenya%20National%20AI%20Strategy%20%28Draft%29%20for%20Public%20Validation%20%20%5B14-01-2025%5D.pdf) setting direction across broadband, cybersecurity, data centres, data protection, digital identification and payments, but the [draft Artificial Intelligence and Other Emerging Technologies Policy](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf), issued for public participation on 21 July 2026, remains a draft, and the data protection regulator has [moved on offshore AI data transfers ahead of it, with draft guidance in August 2026](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966).
 
 The draft would [tier AI systems by risk](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf), attaching mandatory impact assessments and independent audits to high-risk deployments and requiring human-in-the-loop oversight where decisions affect legal rights, health or public benefits. It would give people [a right to know when an AI system is acting on them](https://techcabal.com/2026/07/29/kenyan-companies-disclose-ai-under-new-policy/), covering automated decisions materially affecting rights or access to services and AI-generated or substantially altered public content. And it would require [a centralised public registry of AI systems deployed in the public sector](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf), pointing the transparency duty at what the state itself runs.
 

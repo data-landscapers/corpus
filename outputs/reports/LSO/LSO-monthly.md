@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: LSO
-ledger_rows: 16
+ledger_rows: 17
 not_held: 4
-record: 23110a5debb7
+record: e414c948f3ce
 ---
 
 # News, Sep – Oct 2026
@@ -322,6 +322,8 @@ Lesotho's communications minister took part in the 21st Smart Africa Alliance me
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#use-of-satellite-data">Use of satellite data</a>
 </nav>
 
 ### National statistics
@@ -349,6 +351,22 @@ FinMark Trust issued terms of reference for Phase 2 of Lesotho's GIS Financial A
 **["We felt like part of the Basotho": Census gives LGBTIQ+ community a place in national data](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/)** — Public Eye, 17 September 2026
 
 Lesotho's 2026 census asked questions recognising gender identity and sexuality for the first time, after the statistics bureau brought an advocacy organisation into the first consultation. The round had a reference night of 11 April, employed more than 8,000 temporary field staff and has finished enumeration with mop-up still running in Maseru; advocates welcomed the inclusion while warning that the answers need explicit privacy and confidentiality safeguards.
+
+</div>
+
+</div>
+
+### Use of satellite data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite weather-index crop insurance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beyond the harvest: can agricultural insurance protect Lesotho's smallholders?](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/)** — The Reporter Lesotho, 16 October 2026
+
+Satellite weather-index pilot 2025/26, over USD 1.2m insured; LNIG Hollard to sell in all ten districts from Nov 2026.
 
 </div>
 

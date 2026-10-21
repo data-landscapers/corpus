@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: BFA
-ledger_rows: 40
+ledger_rows: 43
 not_held: 7
-record: 188b6ba8a0ad
+record: 5ecfbb03bf58
 ---
 
 # News, Sep – Oct 2026
@@ -26,6 +26,8 @@ record: 188b6ba8a0ad
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -87,6 +89,20 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 **[Demande d’autorisation de transfert de données vers un pays étranger](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)** — Commission de l’Informatique et des Libertés (CIL), Burkina Faso, 1 September 2026
 
 Burkina Faso's data protection authority, the CIL, publishes the form for applying to transfer personal data abroad. It asks for the foreign recipient, whether the destination country has a data protection authority, and the purpose, consent and security arrangements behind the transfer.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Merged communication and data-protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026
+
+Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026.
 
 </div>
 
@@ -644,6 +660,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Burkina Faso](https://www.aipolicy.africa/country-profiles/burkina-faso)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.10 of 4, rank 31 of 54 (2026); no adopted AI strategy, CIL lacks an AI mandate.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">L'Essentiel.bf AI news platform (French and Moore)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -711,6 +741,28 @@ Burkina Faso's national association of blind and visually impaired students, ANE
 **[Utilisation de l'intelligence artificielle : des secrétaires généraux à l'école des bonnes pratiques](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/)** — Sidwaya, 24 September 2026
 
 Burkina Faso's digital transition ministry trained the secretaries general of ministries and institutions in the use of artificial intelligence in Ouagadougou on 24–25 September 2026. The course covered generative AI tools and which administrative data can be entered into them without disclosing confidential information.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#digital-divides">Digital divides</a>
+</nav>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Localities without network coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Faso Digital 2026 : L'ARCEP expose les défis d'un numérique accessible à tous les Burkinabè](https://lefaso.net/spip.php?article150068)** — leFaso.net, 19 October 2026
+
+Q2 2026 data: 30m mobile and 14.2m 4G subscriptions; regulator has no direct power over retail prices.
 
 </div>
 

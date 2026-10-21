@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-19
+compiled: 2026-10-21
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 160
+sources_cited: 163
 sections_written: 39
 not_established: 3
 acquire_lines: 39
@@ -234,7 +234,7 @@ Rural governance itself is not uniformly weak. [Rural representation and partici
 
 Mauritania has a [national artificial-intelligence strategy dated 2024](https://mtnima.gov.mr/wp-content/uploads/2024/07/strategie-AR-Final-26-07-2024-.pdf), [drafted by the digital transformation ministry in April 2024 for 2024–2029 around five strategic priorities, twelve objectives and thirty measures, with sector projects from health and education to fisheries, energy and defence](https://mtnima.gov.mr/sites/default/files/Mauritani%20AI%20Strategy%20Draft%20April-2024.pdf).
 
-Commercial interest so far comes from the mobile market: the operator that [launched the country's first 5G network in August 2026](https://lequotidien.mr/?p=39791) presented it as groundwork for AI, cloud computing and connected-device services in sectors from health and education to mining and finance.
+The state is already running it: [the state digital agency's AI cameras detecting overloading and seat-belt offences went into service across the national road network in December 2025](https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere), and [a police recruitment competition in March 2026 used AI to check applicants' documents, generate the questions and mark the papers](https://www.cridem.org/C_Info.php?article=792096). Commercial interest so far comes from the mobile market: the operator that [launched the country's first 5G network in August 2026](https://lequotidien.mr/?p=39791) presented it as groundwork for AI, cloud computing and connected-device services in sectors from health and education to mining and finance.
 
 ### ICT Industry
 <!-- tech.industry -->
@@ -332,6 +332,8 @@ The 2024 Ibrahim Index separates what citizens can reach from what the state cho
 <!-- data.satellite -->
 
 Mauritania's telecoms regulator ARE [had selected three companies to provide satellite telecommunications services in the country by July 2026, after a tender launched in January](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite).
+
+Observation has reached farming as a pilot: [the national employment agency's TechghilAgro project gives more than 100 rice farmers at Rosso and R'kiz a mobile app built on Sentinel-2 data to follow crop growth and irrigation needs](https://sentinels.copernicus.eu/web/success-stories/-/empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro-success-story) (June 2025).
 
 ## Geopolitics
 

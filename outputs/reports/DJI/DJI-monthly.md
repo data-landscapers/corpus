@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: DJI
-ledger_rows: 14
+ledger_rows: 15
 not_held: 11
-record: 933f2529a225
+record: 55f95f816c62
 ---
 
 # News, Sep – Oct 2026
@@ -231,6 +231,20 @@ Djibouti's ministry for the digital economy ran the country's first national AI 
 **[Djibouti Telecom forme 35 ingénieurs à l'intelligence artificielle](https://www.adi.dj/article/138906)** — Agence Djiboutienne d'Information (ADI), 17 September 2026
 
 Djibouti's state operator certified 35 of its engineers in artificial intelligence at a ceremony presided over by the communications minister, who cited the national AI readiness assessment run on UNESCO's methodology: it credits engaged digital transformation, strategic infrastructure and a nascent academic base while finding room to improve on skills, governance and research. He called for closer ties between the operator, the university and research centres.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Djibouti](https://www.aipolicy.africa/country-profiles/djibouti)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.93 of 4, 35th of 54 (2026); SNIA 2026-2030 presented Sep 2026, unadopted; Digital Code 2025.
 
 </div>
 

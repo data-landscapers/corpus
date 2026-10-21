@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: ZAF
-ledger_rows: 150
+ledger_rows: 152
 not_held: 21
-record: ffcb8bfcd343
+record: 65e2f264a83f
 ---
 
 # News, Sep – Oct 2026
@@ -222,6 +222,52 @@ ICASA has asked the Constitutional Court to settle whether it may condone a late
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Electoral Code of Conduct on Countering Disinformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Code of Conduct Countering Disinformation in the Local Government Elections (General Notice 4138 of 2026, Government Gazette No. 55341)](https://www.elections.org.za/content/Documents/Laws-and-regulations/Municipal-Elections/Electoral-Code-of-Conduct-Countering-Disinformation-in-Local-Government-Elections-No-55341/)** — Electoral Commission of South Africa, 4 September 2026
+
+Binding until results declared; AI synthetic content must be labelled; Real411 complaints; 36-hour corrections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Commission introduces new Disinformation Code ahead of 2026 Local Government Elections](https://www.gov.za/news/media-statements/electoral-commission-introduces-new-disinformation-code-ahead-2026-local)** — South African Government, 8 September 2026
+
+Code promulgated 2026-09-04: AI content labelling, 36-hour retraction and Real411 reporting for parties and candidates.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC gazettes code to tackle election disinformation](https://www.itweb.co.za/article/iec-gazettes-code-to-tackle-election-disinformation/mYZRXv9gbRKMOgA8)** — ITWeb South Africa, 9 September 2026
+
+South Africa's Electoral Commission has gazetted a Disinformation Code for the local government elections on 4 November, binding political parties, candidates and anyone acting on their instruction or for reward across all election-related communication, online or offline, paid or unpaid. Parties and candidates must check information before sharing it, publicly retract and correct anything false within 36 hours of becoming aware of it, label AI-generated content and political advertising, and report online disinformation to Real411 within 36 hours; fake accounts, bot networks, coordinated inauthentic behaviour, doxing and cyberbullying are prohibited, as is disinformation targeting the commission or its staff. Contravention carries the sanctions applying to the Electoral Code of Conduct under the Municipal Electoral Act 27 of 2000, and parties will undertake to comply at the signing ceremony on 23 September; the source gives no gazette number or date for the final code.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Electoral Commission and Digital Platforms Partner to Counter Disinformation and Protect Election Information Integrity in South Africa's 2026 Local Government Elections](https://www.elections.org.za/content/About-Us/News/Electoral-Commission-and-Digital-Platforms-Partner-to-Counter-Disinformation-and-Protect-Election-Information-Integrity-in-South-Africa-s-2026-Local-Government-Elections/)** — Electoral Commission of South Africa, 19 October 2026
+
+Google, Meta, Microsoft, TikTok and Moxii Africa sign IEC framework for 4 November 2026 polls; no user-data sharing.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC receives over 700 election misinformation complaints, enlists Google, Meta and TikTok ahead of November vote](https://www.citizen.co.za/news/south-africa/elections/iec-receives-election-misinformation-complaints-enlists-google-meta-and-tiktok-ahead-of-november-vote/)** — The Citizen, 20 October 2026
+
+South Africa's Electoral Commission said on 20 October 2026 that it has received more than 700 election-misinformation complaints, most about posts on X, ahead of the 4 November 2026 local government elections. It is working with Google, Meta, Microsoft, TikTok and Moxii Africa against disinformation. Electoral Code breaches carry fines up to R200,000 or five to ten years' imprisonment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Operator association exemption to share infrastructure planning data</p>
 
 <div class="bulletin-item" markdown="1">
@@ -237,20 +283,6 @@ South Africa's main telecoms operators, through the Association of Communication
 **[South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity](https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/)** — Tech Africa News, 8 September 2026
 
 South Africa's operator association has asked the Competition Commission for a five-year exemption letting Vodacom, MTN, Telkom, Cell C, Rain and Liquid share limited infrastructure planning information through an independent third party, to find connectivity gaps and avoid duplicated build. The communications minister, who called the proposal encouraging for rural areas and townships, also argued that disruption to Middle East routes gives the country an opening as an alternative submarine cable hub.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Electoral Code of Conduct on Countering Disinformation</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[IEC gazettes code to tackle election disinformation](https://www.itweb.co.za/article/iec-gazettes-code-to-tackle-election-disinformation/mYZRXv9gbRKMOgA8)** — ITWeb South Africa, 9 September 2026
-
-South Africa's Electoral Commission has gazetted a Disinformation Code for the local government elections on 4 November, binding political parties, candidates and anyone acting on their instruction or for reward across all election-related communication, online or offline, paid or unpaid. Parties and candidates must check information before sharing it, publicly retract and correct anything false within 36 hours of becoming aware of it, label AI-generated content and political advertising, and report online disinformation to Real411 within 36 hours; fake accounts, bot networks, coordinated inauthentic behaviour, doxing and cyberbullying are prohibited, as is disinformation targeting the commission or its staff. Contravention carries the sanctions applying to the Electoral Code of Conduct under the Municipal Electoral Act 27 of 2000, and parties will undertake to comply at the signing ceremony on 23 September; the source gives no gazette number or date for the final code.
 
 </div>
 
@@ -817,6 +849,28 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 **[Media Statement: Committee Concerned as Public Service Institution Connectivity Reaches Only 49.1% of Spectrum Obligation Target](https://www.parliament.gov.za/press-releases/media-statement-committee-concerned-public-service-institution-connectivity-reaches-only-491-spectrum-obligation-target)** — Parliament of South Africa, 14 October 2026
 
 South Africa's mobile operators had connected 10,851 of the 21,878 public service institutions required under their 2022 spectrum licence obligations, 49.1%, by March 2026, the regulator ICASA told Parliament's communications committee on 14 October 2026. Vodacom, Telkom and Liquid met the 65% minimum threshold; MTN and Rain did not.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom Mpumalanga network investment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom South Africa Invests R600 Million to Expand Connectivity in Mpumalanga](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Tech Africa News, 20 October 2026
+
+Vodacom said on 20 October 2026 that it is investing more than R600 million in Mpumalanga network infrastructure this financial year, after R620 million in 2025/26. Its sites in the province have grown from just over 1,300 to 1,408, and the share connected by fibre from 41% to 45%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026
+
+Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities.
 
 </div>
 
@@ -1623,6 +1677,28 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Absa sets digital asset custody milestone](https://www.itweb.africa/article/absa-sets-digital-asset-custody-milestone/WnpNgM21yNz7VrGd)** — ITWeb Africa, 30 September 2026
 
 Absa launched institutional digital-asset custody for South African clients on 21 September on Ripple's technology, the first such service by an African bank. It is for institutional and large corporate clients, not retail crypto.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postbank authorisation as a bank</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Question to the Minister of Communications and Digital Technologies - NW5143](https://pmg.org.za/committee-question/41351/)** — Parliamentary Monitoring Group, 15 October 2026
+
+Postbank told to file new section 12 Banks Act application, not yet submitted; 1.9m grant recipients Sept 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Postbank full-service banking licence still miles off](https://www.itweb.co.za/article/postbank-full-service-banking-licence-still-miles-off/rxP3jMBEGAG7A2ye)** — ITWeb South Africa, 20 October 2026
+
+Communications Minister Solly Malatsi told Parliament, as reported on 20 October 2026, that South Africa's Postbank has been directed to submit a new application to establish a bank under section 12 of the Banks Act and has not yet done so. Outstanding items are recapitalisation, which is with National Treasury, banking-system modernisation and a Bank Controlling Company. Postbank paid social grants to about 1.9 million beneficiaries in September 2026.
 
 </div>
 

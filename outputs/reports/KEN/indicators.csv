@@ -89,7 +89,9 @@ gov.legislate--ai-legislation-regulations,Movement,Two tracks run in parallel: a
 
 A human-rights organisation argued on 24 August 2026 that the governance act carries no child-specific protections and no consultation mechanism, setting it against the country's membership of a children's protection coalition and against a global drive to age assurance that the analysis argues adds data trails and surveillance risk rather than closing the harms it names; the act's text, sponsor and date remain unestablished ([critique](2026-08-24-amnesty-childrens-digital-rights-age-assurance)).
 
-A four-country legal review published in 2026 reports that [neither the constitution, the labour code nor the data-protection act names automated hiring decisions](2026-01-01-afri-sparc-bias-algorithmic-hiring-legal-review) in Kenya or in the three states it compares. Whether the general data-protection statute's automated-decision provisions reach recruitment is left open.",KEN-gov.legislate-ai-governance-act|KEN-tech.ai-kenya-artificial-intelligence-bill-2026|KEN-tech.ai-automated-hiring-rules,2,KEN-tech.ai-kenya-artificial-intelligence-bill-2026|KEN-gov.legislate-ai-governance-act,,,,,,,2026-08-31,0,AI bill before the Senate; no law or sectoral rule with legal effect in force
+A four-country legal review published in 2026 reports that [neither the constitution, the labour code nor the data-protection act names automated hiring decisions](2026-01-01-afri-sparc-bias-algorithmic-hiring-legal-review) in Kenya or in the three states it compares. Whether the general data-protection statute's automated-decision provisions reach recruitment is left open.
+
+2026-04-30 — [the High Court admitted a petition over the absence of AI regulation for priority hearing and ordered the ICT ministry to report on its progress towards regulating AI](2026-04-30-ken-kehc-5690-wangai-v-cs-ict-ai-regulation-ruling); the repository holds no judgment.",KEN-gov.legislate-ai-governance-act|KEN-tech.ai-kenya-artificial-intelligence-bill-2026|KEN-tech.ai-automated-hiring-rules|KEN-tech.ai-high-court-ai-regulation-petition,2,KEN-tech.ai-kenya-artificial-intelligence-bill-2026|KEN-gov.legislate-ai-governance-act,,,,,,,2026-08-31,0,AI bill before the Senate; no law or sectoral rule with legal effect in force
 gov.legislate--e-commerce-legislation,Movement,"A [copyright bill](2026-07-31-amenya-kenya-copyright-bill-ai-age) and an [intellectual property bill](2026-08-16-kenya-intellectual-property-bill-2026) are both out for comment, alongside an adopted inter-agency piracy enforcement framework.","The copyright bill would create a copyright authority and a disputes tribunal, and carries the 2001 computer-generated-work authorship rule forward unchanged; its comment window's closing date is not on file ([copyright bill](2026-07-31-amenya-kenya-copyright-bill-ai-age)).
 
 The intellectual property bill would merge the industrial property institute, the copyright board and the anti-counterfeit authority into one regulator with a tribunal, replace the 2001 and 2008 statutes, and set rules distinguishing artificial-intelligence-assisted from artificial-intelligence-generated inventions ([property bill](2026-08-16-kenya-intellectual-property-bill-2026)).
@@ -512,15 +514,13 @@ dpi.mis--health,"Mixed, the record system is deployed against rising targets whi
 
 2026-10-01 - the health ministry [extended to 30 October the deadline for larger public, faith-based and private facilities to move to the health management information system](2026-10-01-ken-duale-grants-one-month-extension-for-sha-hmis-transition).
 
-2026-09-28 - the authority [published the revised contract pack for the 2026 to 2029 cycle](2026-09-28-ken-sha-hakika-provider-contract-pack-2026-2029), which requires a certified information system.
-
 2026-10-05 - the health ministry and the governors' health committee [agreed that current facility contracts will not be extended again and set contracting clinics in every county to 14 October](2026-10-05-duale-and-governors-set-14-october-deadline).
 
 2026-10-06 - the health ministry [put migration at 6,427 public, 38 private and 38 of 518 faith-based facilities](2026-10-06-cs-duale-calls-for-timely-transition-to).
 
 2026-10-14 — Murang'a [lost access to its AfyaKE records system and asked the High Court to restore it across more than 176 facilities](2026-10-16-nation-muranga-county-sues-state-afyake-shutdown), putting [65,000 patient records out of reach](2026-10-16-nation-afyake-shutdown-65000-patient-records-kangata-duale); [the health ministry denied switching it off and said it was never submitted for certification](2026-10-15-ken-citizen-moh-denies-tampering-muranga-health-portal).
 
-2026-10 — [the health ministry disabled its real-time outbreak reporting module in the middle of the Ebola response](2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled), with no announced replacement.",KEN-dpi.mis-taifacare-hmis|KEN-dpi.mis-digital-health-act-2023-and-digital-health-a|KEN-dpi.mis-social-health-authority-claims-platform|KEN-gov.standards-digital-pharmacy-guidelines|KEN-dpi.mis-health-products-track-and-trace|KEN-dpi.mis-sha-provider-contracting-platform|KEN-dpi.mis-sha-facility-migration-to-hmis|KEN-dpi.mis-muranga-afyake-records-system|KEN-dpi.mis-rmncah-digital-health-platform|KEN-dpi.mis-adam-outbreak-module,3,KEN-dpi.mis-taifacare-hmis,,,,,,,2026-08-31,0,HMIS in 1500 public facilities; reporting completeness and private coverage not published
+2026-10 — [the health ministry disabled its real-time outbreak reporting module in the middle of the Ebola response](2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled).",KEN-dpi.mis-taifacare-hmis|KEN-dpi.mis-digital-health-act-2023-and-digital-health-a|KEN-dpi.mis-social-health-authority-claims-platform|KEN-gov.standards-digital-pharmacy-guidelines|KEN-dpi.mis-health-products-track-and-trace|KEN-dpi.mis-sha-provider-contracting-platform|KEN-dpi.mis-sha-facility-migration-to-hmis|KEN-dpi.mis-muranga-afyake-records-system|KEN-dpi.mis-rmncah-digital-health-platform|KEN-dpi.mis-adam-outbreak-module,3,KEN-dpi.mis-taifacare-hmis,,,,,,,2026-08-31,0,HMIS in 1500 public facilities; reporting completeness and private coverage not published
 dpi.mis--education,Stalled,"Registration on the education management information system is [mandatory for capitation](2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation), after [98 per cent of 32,000 schools submitted enrolment data](2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud), yet [the latest capitation round was paid on manually verified data](2026-09-09-ken-techweez-nemis-kemis-migration).","The pilot was due in July 2025 and full go-live promised by September, with a unique identifier for every child; nothing is on file as at August 2026 ([system](2025-05-27-harmonize-education-data-maisha-namba-biometricupdate)).
 
 It is the one national register that would connect the identity system to schooling, and the donor project that takes half the sector's budget is meanwhile equipping junior secondary schools.
@@ -561,11 +561,9 @@ dpi.govtech--e-government-services,"Mixed, the platform's legal footing advanced
 
 The tax invoicing platform reached through eCitizen was then down for three days to 31 August, stalling invoice-dependent payments ([outage](2026-08-31-nation-kra-etims-invoice-outage)).
 
-Against that, the Treasury presented draft regulations on 27 August to replace the convenience fee with a statutory access fee and vest the platform in the Treasury ([regulations](2026-08-28-sokodirectory-treasury-unveils-plan-to-replace-ecitizen-convenience-fees)), and members of parliament demanded clarity on ownership ([demand](2026-08-27-peopledaily-mps-demand-clarity-on-ecitizen-ownership-as-treasury)).
+Against that, the Treasury presented draft regulations on 27 August to replace the convenience fee with a statutory access fee and vest the platform in the Treasury ([regulations](2026-08-28-sokodirectory-treasury-unveils-plan-to-replace-ecitizen-convenience-fees)).
 
-No uptime figure for the platform is held.
-
-On the one citizen survey held, [adoption stands at 49% and net satisfaction fell five points to 64%, with 12% of users reporting no problems, the lowest of 44 countries](2026-09-10-ken-techtrends-bcg-digital-government-survey).
+On the one citizen survey held, [adoption stands at 49% and net satisfaction fell five points to 64%](2026-09-10-ken-techtrends-bcg-digital-government-survey).
 
 2025-12-17 - the World Bank's [2025 GovTech Maturity Index placed the country in Group A](2025-12-17-govtech-maturity-index-2025-tracking-public-sector-digital-transformation), up from Group B [in 2022](2023-03-01-govtech-maturity-index-2022-regional-brief-afe).
 
@@ -642,8 +640,6 @@ Pre-parliamentary proposals would amend the sexual offences statute to cover sex
 2026-09-11 - a model provider [disclosed and removed a domestic actor's account mass-producing election posts praising the energy minister and targeting the opposition](2026-09-11-itweb-anthropic-kenya-ai-influence-operation); the minister [denied any ministry role](2026-09-11-the-star-wandayi-distances-himself-ai-campaign). No Kenyan authority is on record investigating it.
 
 2026-09-14 — the scale of ungoverned automated lending was stated: [256 licensed digital credit providers have disbursed 8.37 million loans worth over KES 150bn](2026-09-14-capitalfm-mutiso-ai-credit-scoring-governance-kenya), decided by models rather than credit officers, with no rule on how they are built, tested or appealed.
-
-2026-09-24 - Kenya co-hosted the launch of a [2026-2027 roadmap for children's rights and protection in the age of AI, backed by 23 states](2026-09-24-ken-childrens-rights-ai-roadmap); no national instrument implementing it is held.
 
 2026-09-22 - the central bank [said its AI survey will feed a guidance note for the banking sector](2026-09-22-ken-cbk-bank-supervision-annual-report-2025) on data and AI governance, risk mitigation and third-party vendors; no draft is published.
 
@@ -777,7 +773,13 @@ data.satellite--agricultural-use-of-satellite-data,Movement,"A [crop measurement
 
 The agricultural observatory platform was extended with a national data hub integrating climate, soil, market and crop information, reported as serving over 700,000 farmers ([hub](2026-01-14-kaop-agdata-hub-story)).
 
-A partnership with a French remote-sensing firm was signed in May 2026 to predict crop yields ([partnership](2026-05-11-drsrs-diginove-telecense-ai-deal)). The farmer figure is the programme's own, and no amount or deliverable is stated for the partnership.",KEN-data.satellite-crome|KEN-data.satellite-kaop|KEN-data.satellite-drsrs-ai-partnership,2,KEN-data.satellite-crome|KEN-data.satellite-drsrs-ai-partnership,,,,,,,2026-08-31,0,Initiative launched and partnership signed; satellite service outputs not on record
+A partnership with a French remote-sensing firm was signed in May 2026 to predict crop yields ([partnership](2026-05-11-drsrs-diginove-telecense-ai-deal)). The farmer figure is the programme's own, and no amount or deliverable is stated for the partnership.
+
+2026-04-07 — [satellite-indexed livestock insurance paid more than 20,000 Kenyan pastoralist households after the 2025 short rains failed, without a claim being filed](2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway); the figure is the reinsurer's own.
+
+2024-11-06 — [the space agency proposed a one-year satellite crop-monitoring pilot in Murang'a county](2024-11-06-ken-kenya-space-agency-announces-plan-to-implement-agriculture-eo-decision); no start or result is on file.
+
+2024-12-12 — [a satellite rice-monitoring platform was piloted with the National Irrigation Authority over two seasons](2024-12-12-ken-remote-sensing-based-information-and-insurance-for-crops-in-emerging-e).",KEN-data.satellite-crome|KEN-data.satellite-kaop|KEN-data.satellite-drsrs-ai-partnership|KEN-data.satellite-drive-livestock-insurance|KEN-data.satellite-muranga-eo-decision-support-pilot|KEN-data.satellite-riice-rice-monitoring,2,KEN-data.satellite-crome|KEN-data.satellite-drsrs-ai-partnership,,,,,,,2026-08-31,0,Initiative launched and partnership signed; satellite service outputs not on record
 data.satellite--meteorological-use-of-satellite-data,Movement,A [national framework for climate services](2025-03-01-national-framework-climate-services-kenya) was published in March 2025 and a modernisation agreement signed in May 2026.,"The environment ministry and the meteorological department published a national framework for climate services in March 2025 as the guide to improving national climate services ([framework](2025-03-01-national-framework-climate-services-kenya)).
 
 A space-based early warning project under the Africa-EU space partnership programme was published in October 2025 ([project](2025-10-24-sewa-strengthening-early-warning-africa)).

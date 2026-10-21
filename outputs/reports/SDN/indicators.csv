@@ -536,7 +536,9 @@ tech.ai--use-of-ai-in-government-administration,Movement,"A [data and artificial
 
 In March 2026 the prime minister directed that strategic projects be brought onto a national projects-management platform, alongside directives on AI in higher education and hospital digitisation ([directives](2026-03-30-sudan-pm-ai-bachelor-directive-hospital-digitisation)).
 
-No deployed administrative AI system is documented. The mandate and the directive are the whole of the record.",SDN-tech.ai-data-ai-authority,,,,,,,,,2026-08-31,0,data and AI authority only; no AI system in administration or cited absence
+No deployed administrative AI system is documented. The mandate and the directive are the whole of the record.
+
+2026-09 — [the higher education ministry launched an Arabic chatbot on its online admissions portal for routine questions, handing complex queries to human staff](2026-09-25-sdn-soudan-un-assistant-automatise-pour-repondre-immediatement-aux-questio).",SDN-tech.ai-data-ai-authority|SDN-tech.ai-university-admissions-chatbot,,,,,,,,,2026-08-31,0,data and AI authority only; no AI system in administration or cited absence
 tech.ai--use-of-ai-in-sectoral-management-information-systems,Movement,"A [school-detection model reached 95 per cent accuracy](2026-08-10-omdena-giga-unicef-sudan-ai-school-detection) from satellite imagery, and an [education AI roadmap](2024-01-01-unesco-sudan-ai-it-education-strategy-project) is 70 per cent complete.","A deep-learning model detecting school locations and boundaries from satellite imagery was built at 95 per cent accuracy across Sudan by 52 engineers over six weeks, designed for integration into a school-connectivity mapping system ([case study](2026-08-10-omdena-giga-unicef-sudan-ai-school-detection)).
 
 A project running from January 2024 to December 2025 to build official capacity and develop a roadmap for integrating artificial intelligence and information technology into literacy and out-of-school education programmes stood at 70 per cent progress in the fourth quarter of 2025, on a USD 20,000 budget ([project](2024-01-01-unesco-sudan-ai-it-education-strategy-project)).

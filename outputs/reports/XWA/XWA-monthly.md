@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: XWA
-ledger_rows: 30
+ledger_rows: 32
 not_held: 1
-record: e599d8bb720c
+record: 97b2c9db75c3
 ---
 
 # News, Sep – Oct 2026
@@ -125,6 +125,34 @@ The third Mano River Union Internet Governance Forum met in Paynesville, Liberia
 **[Souveraineté numérique : Les pays ouest-africains connectent leurs stratégies](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/)** — Le Soleil, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Ten member states held the founding interministerial meeting of the West African Network of National Backbones, ROA-BN, in Dakar on 8 October 2026. Its founding texts, a 2026–2030 strategic plan and its bodies are still to be adopted. Senegal's telecoms minister Samba Diouf called for common rules on cross-border fibre and keeping West African data in transit within the region.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Information Integrity Roadmap 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[THE COMMUNICATIONS DIRECTORATE OF THE ECOWAS COMMISSION ORGANISED THE SECOND MEETING OF ITS DISINFORMATION WORKING GROUP TO DRAW UP A WORK PLAN ON INFORMATION INTEGRITY IN WEST AFRICA](https://www.ecowas.int/the-communications-directorate-of-the-ecowas-commission-organised-the-second-meeting-of-its-disinformation-working-group-to-draw-up-a-work-plan-on-information-integrity-in-west-africa/)** — ECOWAS, 19 October 2026
+
+Accra meeting, 15-16 Oct 2026, on institutionalising the group and the 2026-2030 Information Integrity Roadmap.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UEMOA committee of national digital regulators (CRNN)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Les régulateurs du numérique de l’UEMOA réunis à Ouagadougou pour renforcer leur coopération](https://lefaso.net/spip.php?article150075=)** — leFaso.net, 20 October 2026
+
+The second session of the UEMOA national digital regulators' committee (CRNN) opened in Ouagadougou on 20 October 2026 and runs until 22 October. The agenda covers regulation of digital financial services, sharing of telecoms infrastructure and community roaming. Burkina Faso currently chairs the committee, and the first session was held in Cotonou from 28 to 31 October 2025.
 
 </div>
 

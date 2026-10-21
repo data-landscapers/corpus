@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: GMB
-ledger_rows: 47
+ledger_rows: 48
 not_held: 2
-record: 1bb0469069b6
+record: 491ddebdfd16
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: 1bb0469069b6
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -351,6 +353,28 @@ The Gambia began issuing a biometric driving licence valid for three years on 7 
 **[GPPA trains procurement cadre on new act, regulations & standard documents](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents)** — The Point, 8 October 2026
 
 The Gambia Public Procurement Authority held training from 8 to 10 October 2026 for procurement officers on the Public Procurement Act 2022, the 2024 Regulations, new standard documents and the rollout of the electronic government procurement system. Officials said use of the new instruments becomes mandatory from January 2027.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: The Gambia](https://www.aipolicy.africa/country-profiles/gambia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.91 of 4, rank 37 of 54 (2026); no adopted AI strategy or AI regulator.
 
 </div>
 

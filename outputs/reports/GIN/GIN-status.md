@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-10-19
+compiled: 2026-10-21
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 187
+sources_cited: 188
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -36,7 +36,7 @@ The tightening that has happened has come by decree rather than by statute: [a p
 ### Data protection
 <!-- gov.protect -->
 
-Guinea has had a data protection statute for a decade and has never stood up the authority to enforce it: [the body provided for in the 2016 cybersecurity and personal data law has never been established, and a draft law to create the Autorité de Protection des Données Personnelles was still before the National Transition Council in 2024, leaving the country with data protection legislation but no enforcement body](https://cnt.gov.gn/apdp/). The statute itself, [Law L/2016/037/AN of 28 July 2016, covers sensitive categories including biometric data and sets out rights of access, rectification and erasure](https://www.dlapiperdataprotection.com/?t=law&c=GN) — rights that at present have no regulator to vindicate them.
+Guinea has had a data protection statute for a decade and has never stood up the authority to enforce it: [the body provided for in the 2016 cybersecurity and personal data law has never been established, and a draft law to create the Autorité de Protection des Données Personnelles was still before the National Transition Council in 2024, leaving the country with data protection legislation but no enforcement body](https://cnt.gov.gn/apdp/), and in October 2025 [the digital minister said a personal-data bill creating a supervisory authority had been submitted](https://www.africaguinee.com/ia-et-protection-des-donnees-personnelles-la-ministre-rose-pola-pricemou-annonce-des-mesures/), with no adoption on file since. The statute itself, [Law L/2016/037/AN of 28 July 2016, covers sensitive categories including biometric data and sets out rights of access, rectification and erasure](https://www.dlapiperdataprotection.com/?t=law&c=GN) — rights that at present have no regulator to vindicate them.
 
 Localisation is imposed sectorally rather than generally. Under the [credit bureau law of 30 December 2019, moving credit databases or their backup sites outside Guinea requires prior authorisation from the central bank, granted only where the host country guarantees security measures equivalent to or exceeding Guinea's, and no comparable mandate applies in other sectors](https://cnt.gov.gn/archive.assemblee/www.assemblee.gov.gn/conakry-le-30-decembre-2019-l20190056an-loi-relative-aux-bureaux-dinformation-sur-le-credit.html). Beyond that, [the government named stronger local data hosting among its priorities for 2026](https://www.wearetech.africa/en/fils-uk/news/tech/guinea-reviews-2025-digital-sector-gains-targets-faster-rollout-in-2026), while [the WURI governance framework Guinea signed with other West African pilot states in April 2023 set cross-border data-sharing and mutual recognition arrangements for identity credentials](https://www.zawya.com/en/press-release/africa-press-releases/west-africa-unique-identification-for-regional-integration-and-inclusion-wuri-pilot-countries-adopt-governance-wgrmb9qc) that no domestic regulator supervises.
 

@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: MOZ
-ledger_rows: 43
+ledger_rows: 45
 not_held: 18
-record: e35e87b9ae83
+record: e32975f4b32b
 ---
 
 # News, Sep – Oct 2026
@@ -191,6 +191,20 @@ Mozambique's Council of Ministers approved a Postal Security Regulation on 15 Se
 **[Governo prepara lei para regular IA na educação](https://integritymagazine.co.mz/arquivos/69322)** — Integrity Magazine, 17 September 2026
 
 Mozambique's education ministry says its law regulating the use of artificial intelligence in education is almost ready and will reach the Council of Ministers before the end of 2026, covering every institution from primary schooling to higher education with all of them consulted. The text is still being drafted and is not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree on electronic transactions and e-commerce</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: Government plans to track and monitor businesses on digital platforms](https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/)** — Club of Mozambique, 20 October 2026
+
+Mozambique's government will track and monitor businesses operating on digital platforms, including online credit providers, under its recently approved decree on electronic transactions and e-commerce. The Council of Ministers' spokesperson said so on 20 October 2026. The Digital Transformation Agency is among the bodies that will supervise operators.
 
 </div>
 
@@ -831,8 +845,26 @@ Fees at Mozambique's new Centro Pronto document centre have drawn public anger, 
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public finance systems centre AI consultancy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEDSIF Seeks Artificial Intelligence Consultancy in Mozambique](https://360mozambique.com/tenders/cedsif-seeks-artificial-intelligence-consultancy-in-mozambique/)** — 360 Mozambique, 9 September 2026
+
+Open call for expressions of interest in AI consultancy for the finance-systems centre behind e-SISTAFE.
+
+</div>
+
+</div>
 
 ### ICT Industry
 

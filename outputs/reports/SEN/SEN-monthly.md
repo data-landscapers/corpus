@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: SEN
-ledger_rows: 63
+ledger_rows: 64
 not_held: 2
-record: 1e0e7c4aabcf
+record: 8a8143e0b735
 ---
 
 # News, Sep – Oct 2026
@@ -159,6 +159,20 @@ Senegal's digital ministry validated a draft national Blueprint on Data Valorisa
 **[Senegal targets postal sector restructuring by 2027 under New Deal Technologique](https://techreviewafrica.com/news/7747/senegal-targets-postal-sector-restructuring-by-2027-under-new-deal-technologique)** — Tech Review Africa, 15 October 2026
 
 Senegal's telecoms and digital ministry aims to restructure the postal sector by 2027 under its New Deal Technologique, refocusing the state-owned La Poste on digital and trusted services, e-commerce logistics and private partnerships. The minister set out the plan at World Post Day celebrations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital governance steering committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : une nouvelle instance pour harmoniser les projets numériques de l’État](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-une-nouvelle-instance-pour-harmoniser-les-projets-numeriques-de-l-etat)** — wearetech.africa, 20 October 2026
+
+Senegal's Prime Minister installed the Comité de gouvernance du numérique (GouVNum) on 16 October 2026 to coordinate state digital projects and rationalise digital spending. The telecoms and digital ministry acts as its permanent secretariat. The 2034 targets under the New Deal technologique are 90% of administrative procedures dematerialised and a digital identity for 90% of citizens.
 
 </div>
 

@@ -588,7 +588,9 @@ tech.ai--use-of-ai-in-government-administration,"Movement, at policy and pilot s
 
 No AI system is described as running in government administration. The repository holds a policy, a plan and a pilot.
 
-2025-04-01 — [the revenue authority reported completing the purchase of a customer relationship management system it describes as AI-based, meant to unify client correspondence and measure service across channels](2025-04-01-rsl-commissioner-general-media-briefing-2024-25-revenue-performance). No go-live is reported.",LSO-gov.policy-aipolicy|LSO-tech.ai-agriculture-extension-chatbot|LSO-gov.policy-national-ai-strategy|LSO-tech.ai-revenue-authority-ai-crm,2,LSO-tech.ai-revenue-authority-ai-crm,,,,,,,2026-08-31,0,revenue authority AI system acquired with no go-live reported
+2025-04-01 — [the revenue authority reported completing the purchase of a customer relationship management system it describes as AI-based, meant to unify client correspondence and measure service across channels](2025-04-01-rsl-commissioner-general-media-briefing-2024-25-revenue-performance). No go-live is reported.
+
+2025-10 — [the revenue authority said it had built artificial intelligence into its customer service](2025-10-07-lso-lesotho-cautioned-over-reliance-on-foreign-aid).",LSO-gov.policy-aipolicy|LSO-tech.ai-agriculture-extension-chatbot|LSO-gov.policy-national-ai-strategy|LSO-tech.ai-revenue-authority-ai-crm,2,LSO-tech.ai-revenue-authority-ai-crm,,,,,,,2026-08-31,0,revenue authority AI system acquired with no go-live reported
 tech.ai--use-of-ai-in-sectoral-management-information-systems,Movement,"[Computer-aided screening is in use in tuberculosis case-finding](2025-06-04-cad4tb-ai-tb-screening-lesotho-south-africa), the one production system the repository holds.","2025-06-04 — [a peer-reviewed study confirms computer-aided chest X-ray screening operating in tuberculosis case-finding](2025-06-04-cad4tb-ai-tb-screening-lesotho-south-africa).
 
 2026-05-11 — [the agricultural research department was validating content for an extension chatbot ahead of a pilot](2026-05-11-lesotho-dar-fao-chatbot-content-scrutiny).
@@ -701,7 +703,9 @@ data.satellite--agricultural-use-of-satellite-data,Movement,"A [public land cove
 
 2026-06-25 — [the June food security outlook draws on satellite rainfall and remote-sensing indicators for crop-condition and drought assessment](2026-06-25-lesotho-fews-net-food-security-outlook-june-2026).
 
-No figure for use of the dashboard, or for advisory services reaching farmers from it, is published.",LSO-data.satellite-national-land-cover-mapping|LSO-data.satellite-food-security-monitoring|LSO-data.satellite-gis-dashboard-platform,3,LSO-data.satellite-national-land-cover-mapping,,,,,,,2026-08-31,0,Operational Sentinel-2 land cover mapping with public dashboard; no national crop-monitoring schedule
+No figure for use of the dashboard, or for advisory services reaching farmers from it, is published.
+
+2026-10 — [a satellite weather-index crop insurance pilot covered more than USD 1.2m in 2025/26, with sales in all ten districts planned from November 2026](2026-10-16-lso-beyond-the-harvest-can-agricultural-insurance-protect-lesotho-s-smallh).",LSO-data.satellite-national-land-cover-mapping|LSO-data.satellite-food-security-monitoring|LSO-data.satellite-gis-dashboard-platform|LSO-data.satellite-weather-index-crop-insurance,3,LSO-data.satellite-national-land-cover-mapping,,,,,,,2026-08-31,0,Operational Sentinel-2 land cover mapping with public dashboard; no national crop-monitoring schedule
 data.satellite--meteorological-use-of-satellite-data,Movement,"A [nowcasting system integrating satellite data with observations was set up in 2026](2026-04-08-wis-lesotho-climate-weather-enhancement-initiative), over a network described as fragmented.","2011-07-19 — [regional forecasting arrangements put satellite products into the cascading framework the national service works within](2011-07-19-wmo-swfdp-southern-africa-rtit-report).
 
 2025-09-29 — [technical assistance opened to modernise a meteorological network of more than ninety stations and the multi-hazard early-warning systems on it](2025-09-29-ctcn-accessing-ews4all-lesotho).

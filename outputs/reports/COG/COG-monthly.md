@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: COG
-ledger_rows: 21
+ledger_rows: 22
 not_held: 5
-record: 11c3d846f974
+record: a7d4510d9bb3
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 11c3d846f974
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -349,6 +351,28 @@ Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met th
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
 
 The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 January 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Governance Index position</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Republic of the Congo](https://www.aipolicy.africa/country-profiles/congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.75 of 4, 18th of 54 (2026); no standalone AI strategy; data-protection commission law gazetted 2025.
 
 </div>
 

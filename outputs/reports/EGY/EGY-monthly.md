@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: EGY
-ledger_rows: 96
+ledger_rows: 97
 not_held: 41
-record: 1702ae577801
+record: b34c80855eb9
 ---
 
 # News, Sep – Oct 2026
@@ -837,6 +837,20 @@ Shareholders of Egypt's e-finance for Digital and Financial Investments approved
 **[Egypt’s IPN records 1.47 bln transactions worth EGP 4.33 tln in 2Q 2026: CBE governor](https://english.ahram.org.eg/News/577944.aspx)** — Ahram Online, 1 October 2026
 
 The Central Bank of Egypt's governor, Hassan Abdalla, told the Council of Arab Central Banks in Abu Dhabi on 29 September 2026 that Egypt's Instant Payment Network had recorded 1.47 billion transactions worth about EGP 4.33tn by the end of the second quarter of 2026, with about 22 million registered customers. The report does not say whether the figures cover the quarter or the network's life to date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UAE-to-Egypt remittances into Orange Cash wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Egypt Partners With Botim to Enable UAE-to-Egypt Remittances](https://techafricanews.com/2026/10/20/orange-egypt-botim-uae-egypt-remittances/)** — Tech Africa News, 20 October 2026
+
+Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egypt remittance route that pays directly into Orange Cash wallets. It is Botim's first partnership with an Egyptian mobile operator. Botim has more than 2 million Egyptian users and Orange Cash about 10 million.
 
 </div>
 

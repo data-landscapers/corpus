@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-19
+compiled: 2026-10-21
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 192
+sources_cited: 194
 sections_written: 39
 not_established: 3
 acquire_lines: 38
@@ -332,6 +332,8 @@ Where public information does reach the page it comes mostly through audit. The 
 <!-- data.satellite -->
 
 No national programme for the state's use of earth-observation or geospatial data was in place as at August 2026: [a partner-run remote-sensing service estimates cultivable area and production and maps land use](https://faoswalim.org/information-management/information-services/remote-sensing) (August 2026). One state body reads satellite data itself: [the civil aviation authority installed a Meteosat Third Generation receiver in Mogadishu and a PUMA-2025 workstation, replacing a decade-old platform, to track lightning and convective storms](https://spaceinafrica.com/2025/07/02/somalia-launches-advanced-satellite-system-to-boost-aviation-weather-monitoring/) (July 2025).
+
+Insurance is where satellite data reaches money. [The African Risk Capacity's drought policy, modelled on satellite rainfall, paid about US$2.18m to the government and the Start Network after the poor 2024 Deyr rains](https://docs.wfp.org/api/documents/WFP-0000165657/download/), and [the World Bank-financed DRIVE livestock insurance, triggered by a satellite pasture index, paid US$3.88m to 17,734 Somali pastoralists in March 2026 with no claims filed](https://zep-re.com/no-one-filed-a-claim-71290-pastoralist-families-got-paid-anyway/).
 
 ## Geopolitics
 

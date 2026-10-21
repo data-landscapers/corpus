@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: BEN
-ledger_rows: 37
+ledger_rows: 38
 not_held: 4
-record: 34e8dd10c61a
+record: a1c17ae9350d
 ---
 
 # News, Sep – Oct 2026
@@ -29,6 +29,8 @@ record: 34e8dd10c61a
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
@@ -37,6 +39,30 @@ record: 34e8dd10c61a
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Committee</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Décret N° 2026-579 du 02 septembre 2026 portant création, attributions, organisation et fonctionnement du Comité national du Numérique](https://sgg.gouv.bj/doc/decret-2026-579/)** — Secrétariat général du Gouvernement du Bénin, 2 September 2026
+
+Five-page scanned decree text as posted by the SGG; creation, remit, organisation and functioning of the committee.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026
+
+Benin created a National Digital Committee under the President of the Republic by decree n° 2026-579 of 2 September 2026, reported on 20 October 2026. The head of state chairs it and it meets quarterly. It tracks digital projects through a quarterly dashboard from a permanent secretariat, and gives prior opinions on structuring digital projects and on technology partnerships that could affect national digital sovereignty.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -151,6 +177,14 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 **[Smart Africa moves cross-border digital ID interoperability toward live testing](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing)** — Biometric Update, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Benin, Ghana and Rwanda have connected their national identity systems through the Smart Africa Data Exchange and are moving toward real-world testing of cross-border ID verification, Biometric Update reported on 19 October 2026. Pilots are planned for Benin-Rwanda air travel and Ghana-Benin land crossings. No date for live testing has been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: SLE
-ledger_rows: 34
+ledger_rows: 35
 not_held: 4
-record: b7ccbc3d9159
+record: 888f07a71cd9
 ---
 
 # News, Sep – Oct 2026
@@ -479,6 +479,20 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[Sierra Leone to develop national AI roadmap for justice sector with UNESCO support](https://techreviewafrica.com/news/7565/x)** — Tech Review Africa, 5 October 2026
 
 Sierra Leone's judiciary and the attorney-general's office are to draft a national artificial-intelligence roadmap for the justice sector with UNESCO, beginning with the security sector. Participants at the convening pointed to electronic filing and digital case management; no timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Sierra Leone](https://www.aipolicy.africa/country-profiles/sierra-leone)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.72 of 4, rank 43 of 54 (2026); AI strategy still in drafting, no data protection law in force.
 
 </div>
 

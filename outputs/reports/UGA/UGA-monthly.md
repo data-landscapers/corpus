@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: UGA
-ledger_rows: 69
+ledger_rows: 70
 not_held: 11
-record: 79d0012bc227
+record: 7e401e69f71c
 ---
 
 # News, Sep – Oct 2026
@@ -157,6 +157,14 @@ Uganda's communications regulator said it is reviewing its enforcement against u
 **[Press Release on Illegal Wi-Fi Hotspots](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)** — Uganda Communications Commission, 13 October 2026
 
 The Uganda Communications Commission said on 13 October 2026 that about 4,000 unlicensed operators resell public Wi-Fi at UGX 1,000 per GB against UGX 2,000 from licensed providers, costing about UGX 148 billion a year in tax. The Uganda Revenue Authority will block equipment imports by unlicensed operators, and a nationwide exercise to take down installations and seize routers is imminent.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026
+
+The Uganda Communications Commission said on 20 October 2026 that commercial Wi-Fi hotspot resellers must be licensed and must stop reselling home internet packages. Its seven-day deadline for unlicensed operators ended on 19 October 2026. It will open a registration system by service category and set up a joint committee with government, security agencies and seven hotspot operators.
 
 </div>
 
@@ -1265,6 +1273,20 @@ GSMA research finds identity rules for SIM registration push refugee women in Et
 **[Buhadyo Primary School Smart Classroom Enhancing E-Learning in Butaleja District](https://ict.go.ug/media/news/buhadyo-primary-school-smart-classroom-enhancing-e-learning-in-butaleja-district)** — Ministry of ICT and National Guidance, Uganda, 23 September 2026
 
 Uganda's ICT ministry said a smart classroom at Buhadyo Primary School in Butaleja District, built with Huawei under the Smart Villages pilot, lets pupils join the same e-learning lessons as Nakasero Primary School in Kampala. The pilot adds a telecoms tower and a 120-panel solar system that also powers 25 households. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Senior citizens' grant (SAGE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[43,000 Elderly Ugandans Locked Out of SAGE Benefits Over National ID Errors](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)** — Nile Post, 19 October 2026
+
+ID birth-date errors bar 43,000 from age-80 grant; 318,000 paid of 2.4m eligible; Shs25,000 a month; mobile-money pilot.
 
 </div>
 

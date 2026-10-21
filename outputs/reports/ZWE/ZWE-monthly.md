@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: ZWE
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: 5c29b4726b70
+record: 518b25b8f591
 ---
 
 # News, Sep – Oct 2026
@@ -217,6 +217,8 @@ Zimbabwe's ICT ministry said its permanent secretary, Beaullah Chirume, has been
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -269,6 +271,22 @@ Econet InfraCo, the tower, power and property company listed in Victoria Falls, 
 **[Econet InfraCo - Unaudited Abridged Interim Financial Statements for the Half Year Ended 31 August 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf)** — Econet Infrastructure Company Limited, 1 October 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry risk registers and project risk assessments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zim strengthens digital risk management systems](https://itweb.africa/article/zim-strengthens-digital-risk-management-systems/WnxpE74YlR3MV8XL)** — ITWeb Africa, 20 October 2026
+
+Zimbabwe's ICT ministry told its departments to submit validated risk registers by 6 November 2026 and to include risk assessments in every new major project proposal from now on. The instructions came out of an enterprise risk-management workshop the minister opened in Harare on 19 October 2026.
 
 </div>
 

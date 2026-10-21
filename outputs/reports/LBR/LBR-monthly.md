@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: LBR
-ledger_rows: 34
+ledger_rows: 36
 not_held: 6
-record: f5a8edc38cbf
+record: 0c66034fe704
 ---
 
 # News, Sep – Oct 2026
@@ -315,6 +315,14 @@ Liberia's opposition CDC says it will ask the Supreme Court to rule on the const
 **[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026
 
 A Monrovia criminal court gave the police a last opportunity to justify holding Jerry Nyantee Wrato, a suspect under the Cybercrime Act, after no officer appeared for the second time. The judge found the state had not shown the case was lawfully before the court and postponed the habeas corpus hearing to 25 September.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senator Dopoh Accuses Executive of Prematurely Enforcing Cybercrime Law, Demands Key Safeguards](https://liberianinvestigator.com/dopoh-liberia-cybercrime-law-enforcement-safeguards/)** — The Liberian Investigator, 16 October 2026
+
+Senator says Act enforced before Cybersecurity Council and cybercrime team exist; asks Senate to notify Executive.
 
 </div>
 
@@ -632,11 +640,43 @@ Liberia's online police clearance system has generated more than US$200,000 sinc
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Liberia one-stop portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026
+
+Liberia's Office of the Chief Information Officer met ministries and agencies on 17 and 18 October 2026 to validate 16 priority government services for digitalisation with World Bank support. They assessed readiness and procurement for an e-Liberia one-stop portal, a Government Service Bus for real-time data sharing, National Data Center upgrades and digitised County Service Centers.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue authority AI-powered contact centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transforming Taxpayer Services: LRA Advances AI-Powered Contact Center](https://www.linkedin.com/posts/liberiarevenueauthority_transforming-taxpayer-services-lra-advances-activity-7503618260676984832-UCBw)** — Liberia Revenue Authority, 10 September 2026
+
+LRA builds AI contact centre with Kwagei Group; knowledge-base retreat on tax and customs guidance.
+
+</div>
+
+</div>
 
 ### Innovation ecosystem
 

@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-21
+period: 2026-09-01 to 2026-10-21
 place: SDN
-ledger_rows: 29
+ledger_rows: 30
 not_held: 5
-record: 1b7f69f915a5
+record: 565235a687d3
 ---
 
 # News, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: 1b7f69f915a5
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 </nav>
@@ -561,6 +563,28 @@ Sudan's Khartoum State Supreme Council for Strategy and Information launched the
 **[ولاية الخرطوم توقع ست مذكرات تفاهم الشراكات الاستراتيجية المساندة لتنفيذ المنظومة الاستراتيجية العشرية للتعافي والاعمار - موقع أخبار السودان](https://alakhbar-alsudan.com/?p=45974)** — Akhbar Al-Sudan, 6 October 2026
 
 Sudan's Khartoum State government signed six partnership memoranda, including with Sudatel and the Central Bureau of Statistics, to support its ten-year recovery and reconstruction strategy. At the same event it restarted its standard systems, connected a government fibre and internet network to 36 state units including the state presidency, and moved all state data to the cloud. No amounts are stated.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University admissions chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Soudan: Un assistant automatisé pour répondre immédiatement aux questions concernant les candidatures universitaires en ligne](https://fr.allafrica.com/stories/202609250240.html)** — allAfrica.com, 25 September 2026
+
+Arabic chatbot on admission.gov.sd for the 2026-27 intake; personal-data queries routed to human agents.
 
 </div>
 
