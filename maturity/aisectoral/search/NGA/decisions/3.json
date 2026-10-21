@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;sectors",
+ "fact": "Anambra State launched the AI-driven SmartGov platform in beta on 24 December 2025, covering tax, health, education and other public service categories through the NORA assistant.",
+ "title": "Anambra State Launches AI-Powered SmartGov Platform",
+ "publisher": "Voice of Nigeria",
+ "published": "2025-12-24",
+ "date_source": "source",
+ "why_not": ""
+}

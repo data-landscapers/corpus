@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "From October 2019 CAD4TB AI software has screened chest x-rays for TB in Eritrea, including offline in remote areas, reportedly about 7,000 people a day.",
+ "title": "Eritrea joins forces with Dutch AI-Company to combat TB",
+ "publisher": "Fair Focus",
+ "published": "2019-12",
+ "date_source": "source",
+ "why_not": ""
+}

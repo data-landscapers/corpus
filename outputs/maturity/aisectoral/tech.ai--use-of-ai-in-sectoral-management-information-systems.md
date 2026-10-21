@@ -20,9 +20,9 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 2 |
-| 3 Established | 16 |
+| 5 Leading | 6 |
+| 4 Operating | 0 |
+| 3 Established | 19 |
 | 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -40,15 +40,8 @@ Measured results of AI in a public sector's system were reported in 2025.
 
 Ghana uses AI in tax and, since March 2026, in customs valuation, where it cleared 75.3% of declarations and flagged 24.7% in its first weeks.
 
-- GRA Deputy Commissioner Elsie Appau-Klu says the Ghana Revenue Authority is using AI and machine learning to identify anomalies in tax filings, expose suspicious trade activities and trigger targeted audits ([source, 2025-05-22](https://www.ghanaweb.com/GhanaHomePage/business/GRA-doubles-down-on-AI-ML-to-combat-tax-leakages-1984925)).
 - The Ministry of Finance and Ghana Revenue Authority said Publican Trade Solution, an AI-based tool helping customs officers value and classify imports, was fully rolled out at ports of entry on 11 March 2026 beside ICUMS ([source, 2026-03-11](https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html)).
 - The Ministry of Finance said that since its introduction on 11 March 2026 Publican Trade Solution had endorsed clearing of 75.3 percent of customs declarations and flagged 24.7 percent as below accepted global values ([source, 2026-03-30](https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html)).
-
-### Sierra Leone: 5 Leading
-
-Measured results of AI in a public sector's system were reported in 2026.
-
-- Penn Today reports a pilot in five districts found a 19% increase in consumption of allocated medical products in treated areas, published in Nature ([source, 2026-06-22](https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai)).
 
 ### South Africa: 5 Leading
 
@@ -75,20 +68,6 @@ Measured results of AI in a public sector's system were reported in 2026.
 
 - The system had detected over four million violations by the end of September 2026, up from 2.3 million in mid-August, said police spokesperson Paul Nyathi ([source, 2026-09](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)).
 
-### Cote d'Ivoire: 4 Operating
-
-Côte d'Ivoire uses AI in tax administration and in land-cover mapping for cocoa monitoring; measured results are not known.
-
-- Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud ([source, 2025-05-16](https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national)).
-- Abidjan.net reports that BNETD presented the 2020 land-cover map on 26 March 2024, with AI recognition of forests on 2020 Sentinel imagery, offered through an online platform as a monitoring tool for the national sustainable cocoa strategy, as stated by BNETD's digital director and ministry representatives ([source, 2024-03-26](https://news.abidjan.net/articles/729948/cote-divoire-le-bnetd-presente-la-carte-doccupation-des-sols-2020-avec-lappui-du-programme-cacao-durable-de-lunion-europeenne)).
-
-### Egypt: 4 Operating
-
-Egypt has AI in service in justice and in agricultural crop mapping as of 2024-26; measured results are not known.
-
-- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
-- Daily News Egypt reports NARSS, with the Ministry of Agriculture and Land Reclamation, used remote sensing and artificial intelligence to inventory and classify crops by governorate, producing a 2023-24 winter crop map presented in November 2024 ([source, 2024-11-05](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/)).
-
 ### Cameroon: 3 Established
 
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
@@ -96,11 +75,24 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 - Cameroon's secondary-education ministry (MINESEC) presented on 17 August 2026 the official integration of AI-generated simulations in secondary schools, with teacher demonstrations and more than 250 simulations produced, per MINESEC ([source, 2026-08-17](https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/)).
 - The CNPS director general said the pension fund runs a symbolic-AI system for automatic processing of old-age pension files, presented 17 February 2026 ([source, 2026-02-17](https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/)).
 
+### Cote d'Ivoire: 3 Established
+
+Côte d'Ivoire's tax administration uses AI to segment taxpayers; no source says AI is in service in several sectors.
+
+- Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud ([source, 2025-05-16](https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national)).
+
 ### Djibouti: 3 Established
 
 An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
 
 - The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours ([source, 2025-12](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia)).
+
+### Egypt: 3 Established
+
+Egypt has AI in service in justice and in crop mapping, reported separately; no measured results are known.
+
+- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+- Daily News Egypt reports NARSS, with the Ministry of Agriculture and Land Reclamation, used remote sensing and artificial intelligence to inventory and classify crops by governorate, producing a 2023-24 winter crop map presented in November 2024 ([source, 2024-11-05](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/)).
 
 ### Eswatini: 3 Established
 
@@ -170,6 +162,12 @@ An AI tool was in service in a public sector's system in 2025; AI in several sec
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
 
 - UNDP says a EUR 400,000 AI-driven customs and logistics upgrade has been implemented through the Port Victoria Management Information System, with real-time analysis of port, logistics and customs data ([source, 2026-02-23](https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/)).
+
+### Sierra Leone: 3 Established
+
+Sierra Leone's machine-learning medicine allocation tool is in service nationwide; the only measured results held are from its earlier pilot.
+
+- Penn Today reports Sierra Leone's government scaled a machine-learning medicine demand forecasting and allocation tool nationwide, now supporting over 70 products, with ownership fully transferred to the government ([source, 2026-06-22](https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai)).
 
 ### Somalia: 3 Established
 

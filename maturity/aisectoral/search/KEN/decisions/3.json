@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "A Health Committee report tabled in Parliament found that SHA's AI-driven claims processing system rejects some legitimate claims as fraudulent without adequate human oversight, based on visits to 11 hospitals in five counties.",
+ "title": "AI system flaws push SHA into chaos, MPs say in explosive report",
+ "publisher": "The Star",
+ "published": "2025-12-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

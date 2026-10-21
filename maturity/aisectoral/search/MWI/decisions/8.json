@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "use",
+ "fact": "Malawi's Ministry of Health DHIS2 systems have AI-informed tasking for community health workers and malaria predictive modelling, which are in testing and validation (DHIS2 Climate & Health project 2024-2026).",
+ "title": "Malawi - DHIS2",
+ "publisher": "DHIS2",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "sectorai"
+}

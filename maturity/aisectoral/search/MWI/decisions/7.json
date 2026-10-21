@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "use",
+ "fact": "WMO announced a CREWS-funded pilot to test an AI-based weather prediction system with Malawi's Department of Climate Change and Meteorological Services.",
+ "title": "WMO supports Artificial Intelligence forecasting pilot in Africa",
+ "publisher": "World Meteorological Organization",
+ "published": "2025-06-30",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "sectorai"
+}

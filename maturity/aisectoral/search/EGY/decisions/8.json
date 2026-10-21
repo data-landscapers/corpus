@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "Webb Fontaine's AI/ML risk engine was deployed across all Egyptian customs centres by August 2022 on the Nafeza single window, and a 22% fraud detection rate was reported for March 2023 to February 2024, with clearance falling from 15 to 5 days.",
+ "title": "NAFEZA — Egypt's AI-Powered National Single Window for Trade Facilitation and Customs Risk Management",
+ "publisher": "Evidoria",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

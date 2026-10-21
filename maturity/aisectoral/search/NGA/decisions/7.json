@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "A survey of official government websites at all levels in Nigeria found AI chat systems are not generally available.",
+ "title": "Adoption level of AI conversational systems by governments in Nigeria towards reducing inequality to information access",
+ "publisher": "International Journal of Electronic Governance",
+ "published": "2025-04-18",
+ "date_source": "source",
+ "why_not": ""
+}

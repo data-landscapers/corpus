@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "Eritrea's Ministry of Health procured a Delft Light with CAD4TB AI software in 2018 to detect TB-related abnormalities, was supplied 2 Delft Light and 6 CAD4TB in 2024, and expanded the roll-out with 8 more CAD4TB in 2026.",
+ "title": "Eritrea",
+ "publisher": "Delft Imaging",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

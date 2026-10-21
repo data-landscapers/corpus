@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;sectors",
+ "fact": "Edo State's data governance platform, powered by DHIS2 and AI, supports education, health and agriculture ministries with over 100 decision dashboards and over 500 actionable insights.",
+ "title": "Edo Data for Governance Project",
+ "publisher": "Data Science Nigeria",
+ "published": "2025-06-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

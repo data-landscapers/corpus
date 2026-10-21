@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "DPCR's CorridorVision AI road-monitoring system is in deployment and calibration and has covered over 844 km, identifying 2,174 detections across 4 defect types.",
+ "title": "CorridorVision AI: AI-Powered Road Condition Monitoring for Djibouti's Trade Corridors",
+ "publisher": "DPCR (Djibouti Ports Corridor Road SA)",
+ "published": "2026-01-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "The Federal Ministry of Education's AI service desk AskFME, built by ministry staff, had a pilot launched at the end of March 2026 and was tested by 22 external evaluators, with answer retrieval accuracy up from 74.5% to 80%.",
+ "title": "The AI Adviser Who Supported a Ministry to Build Their Own Tool",
+ "publisher": "EdTech Hub",
+ "published": "2026-08-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

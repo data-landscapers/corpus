@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;sectors",
+ "fact": "The article lists AI already deployed in government: AI-assisted university orientation, facial recognition at Houari Boumediene airport, and an AI flood-warning system in Ghardaia operating since 2021.",
+ "title": "L'IA au service de l'État : le point de départ pratique pour la transformation numérique",
+ "publisher": "ALGERIATECH",
+ "published": "2025-12-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

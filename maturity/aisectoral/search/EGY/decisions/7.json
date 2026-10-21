@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;sectors",
+ "fact": "The Applied Innovation Centre had developed an AI diabetic retinopathy screening application and a telemedicine platform, an Arabic speech transcription system used in tribunals, and AI modules for agriculture.",
+ "title": "OECD Artificial Intelligence Review of Egypt",
+ "publisher": "OECD",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

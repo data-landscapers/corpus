@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "use;sectors",
+ "fact": "UNDP's catalogue lists AI in practice in Malawi government-owned systems: chatbots on the National Registration Bureau, Electoral Commission and procurement-review office websites and the Magwero AI early-warning system, with AI risk forecasting for disaster management only planned.",
+ "title": "UNDP IDT4M Digital Systems Catalogue",
+ "publisher": "UNDP Malawi",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "sectorai"
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "5",
+      "stage": "3",
       "use": "inservice",
-      "sectors": "several",
-      "results": "reported",
+      "sectors": "",
+      "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SLE-001",
+      "gaps": "The only measured results held are from the five-district pilot published in Nature, not from the system in service nationwide; no source says AI is in service in a second sector.",
+      "note": "Review 2026-10-21: the medicine allocation tool is in service nationwide; the 19% result was measured in the pilot, before it was in service, so rung 5 is not met.",
+      "as_at": "2026-10-21"
     }
   ]
 }

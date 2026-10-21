@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "At a 21 September 2026 meeting on the national AI strategy, four large language models were reported, two finished and two in development, including a prototype chatbot on Algerian tax legislation.",
+ "title": "Troisième réunion multisectorielle de suivi de la Stratégie nationale de l'intelligence artificielle",
+ "publisher": "Ministère de l'Enseignement supérieur et de la Recherche scientifique",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

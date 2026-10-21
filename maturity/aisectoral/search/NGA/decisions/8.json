@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "AI-enabled chest X-ray reading (qXR v3) was used in TB active case finding camps in public facilities in Gombe and Adamawa, identifying 3205 presumptive cases and 85 bacteriologically confirmed TB cases.",
+ "title": "Implementation costs and cost-effectiveness of ultraportable chest X-ray with artificial intelligence in active case finding for tuberculosis in Nigeria",
+ "publisher": "PLOS Global Public Health (via PMC)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

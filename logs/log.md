@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-21 02:00 · **REBUILD** · 1m · aisectoral: rung 4 read two ways (sectors from separate sources: CIV, EGY 3->4, GMB, CMR 3->4); not messaged, 5 open; staged as worded
+2026-10-21 02:00 · **REBUILD** · 14m · aisectoral sectorai: 4 cells reassessed, 3 moved (CIV, EGY 4->3; SLE 5->3); second drafter 18/20; 54 searched, 184 staged; 5.4M subagent tokens — ok
 2026-10-21 01:57 · **REBUILD** · 1m · ailaw: stage 2 read two ways (unpublished draft: MOZ 2->1, SYC 2->unplaced); not messaged, 5 open; staged as worded
 2026-10-21 01:57 · **REBUILD** · 7m · ailaw law: 0 cells reassessed, 0 moved; 54 searched, 186 staged; 4.1M subagent tokens (runs overlapped, study-tokens not separable) — ok
 2026-10-21 01:53 · **REVIEW** · 4m · CIV: status 3 sections revised, progress 2 cells, finance 0 rows; 0 deals queued, 1 note for OSINT — ok
