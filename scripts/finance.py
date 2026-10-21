@@ -224,10 +224,6 @@ PAGE = """<!DOCTYPE html>
 
     <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} countries &nbsp;·&nbsp; {regions} regions &nbsp;·&nbsp; {yr}</div>
 
-{non_state_intro}
-
-{table_note}
-
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
@@ -306,8 +302,6 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 {toc}
 
     <div class="byline">{lines} budget lines &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; fiscal years {yr}</div>
-
-{budgets_intro}
 
     <div class="dl-datatable"
       data-src="{table_csv}"
@@ -437,7 +431,8 @@ def absences_html(used: list[str], names: dict) -> str:
 
 
 def publish_budgets(out: Path, names: dict) -> None:
-    """`/finance/budgets/`: the intro, then every budget line in one table *(Bill, 2026-09-30)*.
+    """`/finance/budgets/`: every budget line in one table *(Bill, 2026-09-30)*. The intro that
+    stood above it is the ⓘ panel since 2026-10-21.
 
     The CSV is cut as a dated edition like every other download here, so the file a reader
     keeps is never revised under them. The table shows the file's first nine columns and the
@@ -479,7 +474,7 @@ def publish_budgets(out: Path, names: dict) -> None:
                    if BUDGETS_DATED else ""),
         edition_rows=edition_rows,
         jsonld=budgets_dataset(rows, meta, csv_path, edition, years),
-        toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
+        toc=toc("budgets"),
         absences=absences_html(used, names),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
         cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
@@ -527,8 +522,6 @@ ALL_PAGE = """<!DOCTYPE html>
 {toc}
 
     <div class="byline">{rows} rows &nbsp;·&nbsp; {deals} non-state commitments &nbsp;·&nbsp; {lines} budget lines &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; {regions} regions &nbsp;·&nbsp; {yr}</div>
-
-{all_intro}
 
     <div class="dl-datatable"
       data-src="{csv_src}"
@@ -677,7 +670,7 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
             temporal=structured_data.year_span([years[0], years[-1]] if years else [None, None]),
             modified=edition or None, version=edition or None,
             extra_keywords=("Development finance", "Government budgets", "Public finance")),
-        toc=toc("all"), all_intro=indent(copy("finance", "all-intro")),
+        toc=toc("all"),
         csv_name=csv_path.name, csv_src=editions.versioned(csv_path.name, body),
         metadata=ALL_METADATA_CSV,
         cols=", ".join(ALL_TABLE_COLS),
@@ -760,9 +753,6 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV, detail=FINANCE_DETAIL,
         filter_all=attr_json(FILTER_ALL),
         artefacts=artefacts, toc=toc("non-state"),
-        non_state_intro=indent(copy("finance", "non-state-intro")
-                               + "\n" + copy("finance", "non-state-scope")),
-        table_note=indent(copy("finance", "non-state-table-note")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], regions=agg["regions"], yr=yr,
         jsonld=dataset(agg, csv_name, edition, size),

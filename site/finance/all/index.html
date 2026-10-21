@@ -258,10 +258,6 @@
 
     <div class="byline">12,162 rows &nbsp;·&nbsp; 486 non-state commitments &nbsp;·&nbsp; 11,676 budget lines &nbsp;·&nbsp; 52 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2024–2026</div>
 
-    <p>This table joins the two finance tables from 2024 onwards: every non-state commitment and every national budget line, in one set of columns. It shows the money for a country, a year or a topic from every source together.</p>
-    <p><code>type</code> says what a row is: aid (a grant, concessional loan or technical assistance), other African finance or other non-African finance (every other non-state commitment, by whether the financier is African) or budget (the state's own money). Each row's full record is in <a href="../">non-state finance</a> or <a href="../budgets/">national budgets</a>, under the same <code>deal_id</code>.</p>
-    <p>Read totals with care. A non-state row is a commitment and sits wholly in the year it was made; a budget row is one fiscal year's figure. Commitments made before 2024 are in the non-state table only. Some rows are only partly digital and the digital part cannot be separated, so <code>value_usd</code> counts 50% of a row whose scope is partial or unclear. Double it for the full amount; <code>scope_basis</code> says why the row was judged as it was. Filter on scope to list the rows counted at half. Some non-state rows are for a region, not a country.</p>
-
     <div class="dl-datatable"
       data-src="all-finance.csv?v=8c4a018cbe8f"
       data-cols="country, year, primary_topic, type, value_usd, financier, recipient, title, description"
