@@ -619,6 +619,8 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
     def build(for_pdf: bool) -> str:
         actions = (feedback(f"{name} — Maturity Assessment", canonical)
                    + f'<a href="{pdf_url}" class="btn btn--accent">&darr; PDF</a>')
+        # The ⓘ from info.md's Maturity assessment entry (Bill, 2026-10-22); the PDF carries none.
+        about, panel = ("", "") if for_pdf else info("Maturity assessment")
         body = f"""  <div class="container mat-report">
       <div class="print-masthead">
         <img src="../../../assets/logo.png" alt="Data Landscapers">
@@ -627,9 +629,10 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
       <div class="report-head">
 {family_bar(iso3, "maturity")}<header class="article-header">
         <div class="article-header__meta report-head__row">
-          <h1 class="article-header__title">Maturity Assessment</h1>
+          <h1 class="article-header__title">Maturity Assessment{about}</h1>
           <div class="article-header__actions screen-only">{actions}</div>
         </div>
+        {panel}
         <div class="article-header__byline mat-report__edition" data-edition="{edition}">{name} &middot; edition of {edition}</div>
       </header>
 {bar}

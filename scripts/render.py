@@ -1091,7 +1091,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     tree = tree_of(md_path)
     country = tree == "reports" and not md_path.parent.name.upper().startswith("X")
     key = {"bulletin": "Bulletin"}.get(kind) or (
-        {"monthly": "Country news", "status": "Country status", "progress": "Progress"}.get(kind)
+        {"monthly": "Country news", "status": "Country status", "progress": "Progress",
+         "finance": "Finance"}.get(kind)
         if country else None) or ("Progress" if kind == "progress" and tree == "topics" else None)
     info_btn, info_panel = info(key) if key else ("", "")
     if info_panel:

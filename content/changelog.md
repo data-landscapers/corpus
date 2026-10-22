@@ -1,6 +1,6 @@
 ## 22 October 2026
 
-- Country and topic Progress reports now carry the ⓘ button. It explains what the report tracks and what Movement means.
+- Country and topic Progress reports, and each country's Finance and Maturity Assessment reports, now carry the ⓘ button. It explains what the report covers and how it is made.
 - On every Methodology page the title and its menus now stay pinned at the top as you scroll. The section menu is always one click away, however far down a long page you are.
 - Finance is back in the menu bar in place of Datasets, on Corpus and on data-landscapers.io. Datasets is still listed in the ☰ menu.
 - The Process Inventory is brought up to date: it now covers the maturity assessment, the datasets, budget reading and deploy checks, and its counts and file names match the system as it runs. Two retired descriptions, of budget handling and of how the two sides exchange notes, are corrected.
