@@ -89,7 +89,9 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
         for iid, r in snap.items():
             f = frame.get(iid)
             st = (r.get("stage") or "").strip()
-            if not f or not f["assessed"]:
+            # An edition is never revised, so one dated before an indicator's retirement may
+            # stage it: assessed is judged as at the edition, not as at today.
+            if not f or not (f["assessed"] or (f["retired"] and str(at) < f["retired"])):
                 bad["N"].append(f"{tag} {iid}: staged but not an assessed indicator")
                 continue
             rows = split(r.get("stage_rows"))
