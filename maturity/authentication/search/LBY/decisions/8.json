@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "On 31 January 2021 the Ministry of Labour signed an agreement with the Civil Status Authority to link their electronic systems, including verification of national numbers.",
+ "title": "وزارة العمل توقع اتفاقية الربط الإلكتروني مع مصلحة الأحوال المدنية",
+ "publisher": "ليبيا أوبزيرفر",
+ "published": "2021-01-31",
+ "date_source": "source",
+ "why_not": ""
+}

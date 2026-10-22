@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Le 3 février 2025, Orange Bank Africa et l'ONECI ont signé une convention pour intégrer les solutions d'authentification de l'ONECI (API) à la vérification instantanée des identités des clients.",
+  "title": "Côte d'Ivoire : Signature d'une convention entre OBA et l'ONECI pour renforcer la sécurité des transactions",
+  "publisher": "KOACI",
+  "published": "2025-02-03",
+  "date_source": "source",
+  "why_not": ""
+}

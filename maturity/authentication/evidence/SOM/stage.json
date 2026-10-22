@@ -9,10 +9,10 @@
       "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-008;SOM-011",
+      "stage_sources": "SOM-008;SOM-011;SOM-017",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the eAqoonsi app carries the national ID as a legally valid digital credential, obtained remotely (SOM-008, SOM-011), and over 100 services use the national ID system (SOM-017). Top rung.",
+      "as_at": "2026-10-22"
     }
   ]
 }

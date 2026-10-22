@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Reports the launch of the Hewiyeti app for document requests; states no authentication, e-signature or remote proof-of-identity fact."
+}

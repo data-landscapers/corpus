@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "reach": "several",
-      "remote": "",
+      "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-016",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "ETH-011;ETH-017;ETH-016",
+      "gaps": "",
+      "note": "Rebuild, raised from 4: the Fayda Wallet is in service for remote bank onboarding (ETH-011) and customers open accounts remotely with Fayda credentials (ETH-017), which the first pass did not read as remote proof. 150 enterprises use Fayda verification (ETH-016).",
+      "as_at": "2026-10-22"
     }
   ]
 }

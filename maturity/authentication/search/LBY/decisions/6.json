@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "Law No. 6 of 2022 on electronic transactions has the National Authority for Information Security and Safety license authentication service providers and accredit electronic authentication.",
+ "title": "Law No. 6 of 2022 concerning Electronic Transactions",
+ "publisher": "House of Representatives, Libya",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

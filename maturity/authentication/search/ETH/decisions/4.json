@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "INSA officially launched the National Country Sign Certificate Authority, a root certificate authority now issuing digital certificates for the security of the Fayda digital ID, after an earlier root CA for e-passports.",
+ "title": "Launch Ceremony Held for the Digital Certificate Service Ensuring Fayda Digital ID Security",
+ "publisher": "Information Network Security Administration (INSA)",
+ "published": "2025-12-09",
+ "date_source": "source",
+ "why_not": ""
+}

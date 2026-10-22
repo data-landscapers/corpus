@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "A presidential decree set rules for electronic signatures based on certificates from recognised certification authorities, with a national certificate registry and an inter-ministerial committee to monitor implementation.",
+  "title": "Doumbouya sets legal framework for electronic signatures in Guinea",
+  "publisher": "Radio Guinée",
+  "published": "2026-08-20",
+  "date_source": "source",
+  "why_not": ""
+}

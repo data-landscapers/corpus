@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "4",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-015;GHA-034",
-   "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "4",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-034;GHA-015;GHA-031",
+      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "note": "Rebuild: NIA biometric verification is used by GRA, NHIS, the Passport Office and banks (GHA-034). The Ghana Card e-wallet is announced, not in service (GHA-009).",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

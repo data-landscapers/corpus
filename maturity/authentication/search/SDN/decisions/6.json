@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Sudan officially launched its National Root Key for the Public Key Infrastructure on 12 March 2026, the base for e-signature services; e-signature services for official documents were still to be launched.",
+  "title": "Launch of the National Root Key for the Public Key Infrastructure (PKI)",
+  "publisher": "Sudanese Cybersecurity Authority",
+  "published": "2026-03-12",
+  "date_source": "source",
+  "why_not": ""
+}

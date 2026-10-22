@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "On 10 March 2026 the Finance ministry and ANATS signed an agreement for the ministry to consult the national biometric population register to improve identification, verification and authentication, with banks and mobile money operators present and ANATS saying public and private partners will authenticate identities through it.",
+ "title": "Tchad : le ministère des Finances et l'ANATS signent un accord pour sécuriser et partager les données d'identité",
+ "publisher": "Tchadinfos",
+ "published": "2026-03-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "reach",
+  "fact": "DGSSI approved Damanesign as a trust service provider under law 43-20 for qualified electronic signature and seal certificates, its commission having met on 13 February 2025 and the approval running to 3 March 2027.",
+  "title": "Décision n° 2/PSCo/2025 portant agrément de la société Damanesign en qualité de prestataire de services de confiance",
+  "publisher": "Direction Générale de la Sécurité des Systèmes d'Information (DGSSI)",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "The draft Digital Services Bill, 2025 (dated 4 June 2025) would require the Office to establish a Public Key Infrastructure to verify identities online and the registration ministry to provide an online platform to verify unique identifiers.",
+ "title": "Digital Services Bill, 2025",
+ "publisher": "Government of Botswana",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

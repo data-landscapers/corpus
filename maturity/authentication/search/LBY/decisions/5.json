@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "The NESDB summary says government departments already match national numbers in some digital services and that a working group is preparing a digital identity project with a citizen digital identity wallet.",
+ "title": "Executive Summary: Digital Identity Project",
+ "publisher": "National Economic and Social Development Board",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

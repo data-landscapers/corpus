@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "L'ANSSI CI a annoncé la mise en service de l'Infrastructure à Clés Publiques nationale, racine de confiance de toutes les autorités de certification opérant en Côte d'Ivoire (24 juillet 2026).",
+  "title": "L'ANSSI CI franchit une étape fondatrice pour la souveraineté numérique de la Côte d'Ivoire",
+  "publisher": "ANSSI CI",
+  "published": "2026-07-24",
+  "date_source": "source",
+  "why_not": ""
+}

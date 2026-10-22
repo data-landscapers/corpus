@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "The NIA said 191 financial institutions, including all 24 universal banks and 145 rural banks, were onboarded on its identity verification platform to verify clients in real time.",
+  "title": "191 financial institutions now have seamless access to National Identification Authority Data",
+  "publisher": "GhanaWeb",
+  "published": "2024-02-02",
+  "date_source": "source",
+  "why_not": ""
+}

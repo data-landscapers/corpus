@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;remote",
+ "fact": "The Ministry of Communications and Digital Transformation launched a tender for a consultancy to build a national mobile digital identity and electronic signature infrastructure (app, physical and virtual card) for identification, authentication and digital signature of citizens, residents and companies.",
+ "title": "Government prepares launch of digital identity and electronic signature",
+ "publisher": "360 Mozambique",
+ "published": "2026-05-25",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-22 09:08 · **REBUILD** · 1m · authentication: rungs 4 and 5 read two ways (one e-signature across bodies: CIV MOZ CMR 4->3; mobile ID vs wallet: CPV DJI NGA MUS 5->4); not messaged, 5 open; staged as worded
+2026-10-22 09:08 · **REBUILD** · 20m · authentication: 54 cells reassessed, 8 moved (ETH NGA 4->5; CMR EGY SYC 3->4; MLI 3->1; BDI TGO to unplaced); second drafter 18/20; 54 searched, 180 staged; 4.7M subagent tokens; one searcher held 7h — ok
 2026-10-22 02:00 · **REVIEW** · 13m · COD: status 15 sections revised, progress 15 cells, finance 0 rows; 1 deal queued, 1 note for OSINT — ok
 2026-10-22 02:00 · **REBUILD** · 1m · birthidlink: stage 3 read two ways (one body holds both registers: SLE SSD ZWE GIN SYC 3->2); not messaged, 5 open; staged as worded
 2026-10-22 02:00 · **REBUILD** · 13m · birthidlink link: 54 cells reassessed, 6 moved (TUN 3->4, EGY 2->3, SYC to 3, MDG TCD MOZ 3->2); second drafter 18/20; 54 searched, 116 staged; 4.4M subagent tokens — ok

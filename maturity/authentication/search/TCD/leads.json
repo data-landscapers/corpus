@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tchadinfos.com/2026/03/10/tchad-le-ministere-des-finances-et-lanats-signent-un-accord-pour-securiser-et-partager-les-donnees-didentite/",
+  "title": "Tchad : le ministère des Finances et l'ANATS signent un accord pour sécuriser et partager les données d'identité",
+  "publisher": "Tchadinfos",
+  "published": "2026-03-10",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: ID authentication via biometric register by Finance ministry, banks, mobile money"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability",
+  "title": "Chad uses national biometric registry to boost govt systems interoperability",
+  "publisher": "Biometric Update",
+  "published": "2026-03-16",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: ID verification and authentication through national registry"
+ },
+ {
+  "url": "https://futuriste.tv/%f0%9f%8e%a5-tchad-lagence-nationale-des-titres-securises-anats-et-airtel-tchad-ont-procede-ce-08-mai-a-la-signature-dun-protocole-daccord-visant-a-renforcer-l/",
+  "title": "ANATS et Airtel Tchad : protocole d'accord identification des abonnés par le NNI",
+  "publisher": "Futuriste TV",
+  "published": "2026-05-08",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: operator checks against NNI"
+ },
+ {
+  "url": "https://refworld.org/sites/default/files/2025-11/chad_id_inclusion_case_study_final.pdf",
+  "title": "Enhanced protection and solutions for refugees through inclusion in Chad's national digital identity system",
+  "publisher": "UNHCR",
+  "published": "2025-11",
+  "sub_indicator": "authentication",
+  "why": "Q3: NNI verifiable by service providers, interoperability"
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1532605/chad-digital-transformation-project-acquisition-et-installation-de-logiciels-et-dequipements-informa",
+  "title": "Chad Digital Transformation Project: acquisition of CERT, SOC, data protection and PKI equipment - ANSICE",
+  "publisher": "DevelopmentAid / World Bank",
+  "published": "2025-08-26",
+  "sub_indicator": "authentication",
+  "why": "Q1: PKI procurement"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/ansice_ansice-xayone-pki-activity-7346447349939855361-SpJj",
+  "title": "ANSICE & XAYONE: un pas de plus vers la confiance numérique",
+  "publisher": "ANSICE",
+  "published": "2025-07-03",
+  "sub_indicator": "authentication",
+  "why": "Q1: PKI and e-signature modules discussed"
+ },
+ {
+  "url": "https://pkic.org/members/ansice/",
+  "title": "ANSICE",
+  "publisher": "PKI Consortium",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q1: sovereign national PKI, root CA under development, authentication gateway"
+ },
+ {
+  "url": "https://www.ng-sign.com/ansice-tchad-atelier-de-formation-et-sensibilisation-sur-la-pki-et-signature-electronique/",
+  "title": "ANSICE - TCHAD : Atelier de formation et sensibilisation sur la PKI et Signature Électronique",
+  "publisher": "NGSIGN",
+  "published": "2023-02-13",
+  "sub_indicator": "authentication",
+  "why": "Q1: PKI and e-signature training"
+ }
+]

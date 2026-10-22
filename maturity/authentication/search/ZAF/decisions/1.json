@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "Home Affairs' performance plan targets completion of digital-ID hosting infrastructure (PKI, certificate authority, platform) by 31 March 2027 and mobile-wallet credential issuance in 2027/2028; the minister demonstrated a working MyMzansi digital ID on 1 October 2026 that is not yet public.",
+  "title": "Home Affairs shows South Africa's first working digital ID",
+  "publisher": "SA Tech News",
+  "published": "2026-10-02",
+  "date_source": "proxy",
+  "why_not": ""
+}

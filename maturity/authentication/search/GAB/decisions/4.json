@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "GABON-ID | Gestionnaire d'identité numérique",
+ "publisher": "République Gabonaise",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Undated page; app shown as coming soon ('Bientôt disponible') with no dated fact in the text fetched."
+}

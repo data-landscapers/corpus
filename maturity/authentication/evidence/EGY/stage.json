@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "3",
+      "stage": "4",
       "service": "inservice",
-      "reach": "",
+      "reach": "several",
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-005;EGY-006",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "EGY-005;EGY-007;EGY-013",
+      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "note": "Rebuild, raised from 3: the Digital Egypt digital identity verifies users of the Public Prosecution portal and the social solidarity platform (EGY-005, EGY-007), so it serves several bodies. MOIEG-PASS, a selfie app, is in pilot only (EGY-001).",
+      "as_at": "2026-10-22"
     }
   ]
 }

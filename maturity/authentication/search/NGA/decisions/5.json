@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "NIMC stated on 30 July 2025 that all telecommunications operators had been migrated to the NINAuth NIN authentication platform for SIM registration, swap, migration and retrieval verification.",
+ "title": "NIMC begins migration of telcos to NINAuth for identity verification",
+ "publisher": "BusinessDay",
+ "published": "2025-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

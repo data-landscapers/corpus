@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "2",
-   "service": "underway",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "unplaced",
+      "service": "",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 names a digital authentication service; SIM registration records the ID number with no check against ANID's database stated.",
+      "note": "Rebuild, lowered from 2: the 2024 decree has operators record the NIU and see the card at SIM registration and states no query of ANID's database (TGO-001), so no authentication service is authorised. Nothing else is held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

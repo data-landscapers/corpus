@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "On 15 September 2026 the Prime Minister launched FasoSign, the national electronic signature platform, already operational on three government systems (SIGED, CIMEXT and SYC@D), with keys and certificates hosted in the country.",
+  "title": "Burkina Faso/modernisation de l'administration publique : le Premier ministre lance la plateforme FasoSign pour « boucler la boucle » de la dématérialisation",
+  "publisher": "C'Finance",
+  "published": "2026-09-15",
+  "date_source": "source",
+  "why_not": ""
+}

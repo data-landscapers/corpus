@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Circular 16 of 3 August 2022 from the head of government states the Mobile ID service has been launched and orders ministries, governors, local authorities and public enterprises to progressively integrate it into online public services as the unified digital identity for access and e-signature.",
+  "title": "منشور عدد 16 لسنة 2022 مؤرخ في 3 أوت 2022 حول تعميم استعمال شهادة المصادقة الالكترونية للمواطن على الجوال Mobile ID كهوية رقمية موحدة",
+  "publisher": "رئيس الحكومة (Présidence du gouvernement, Tunisie)",
+  "published": "2022-08-03",
+  "date_source": "source",
+  "why_not": ""
+}

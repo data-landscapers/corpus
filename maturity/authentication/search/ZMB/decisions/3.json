@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "ZICTA is operating as Zambia's National Root Certification Authority after the launch of the National Public Key Infrastructure in September 2026, while Smart Zambia seeks an integrator for a MOSIP-based digital ID platform.",
+ "title": "Zambia Launches National Public Key Infrastructure for Digital Transactions",
+ "publisher": "ID Tech",
+ "published": "2026-09-08",
+ "date_source": "source",
+ "why_not": ""
+}

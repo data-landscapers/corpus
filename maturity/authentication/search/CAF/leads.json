@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration",
+  "title": "Système national d'identité numérique : moderniser l'administration",
+  "publisher": "Ambition Journal",
+  "published": "2025-11-28",
+  "sub_indicator": "authentication",
+  "why": "Q1: national digital identity system planned"
+ },
+ {
+  "url": "https://oubanguimedias.com/2025/04/18/rca-le-gouvernement-valide-le-rapport-strategique-sur-lidentite-digitale-et-letat-civil-en-centrafrique/",
+  "title": "RCA : le gouvernement valide le rapport stratégique sur l'identité digitale",
+  "publisher": "Oubangui Médias",
+  "published": "2025-04-18",
+  "sub_indicator": "authentication",
+  "why": "Q1: strategic diagnostic validated"
+ },
+ {
+  "url": "https://www.harbingerstandard.com/article/wired-for-reform-the-central-african-republic-s-digital-gamble",
+  "title": "Wired for Reform: The Central African Republic's Digital Gamble",
+  "publisher": "Harbinger Standard",
+  "published": "2025-06-04",
+  "sub_indicator": "authentication",
+  "why": "Q2: biometric logins on platform"
+ },
+ {
+  "url": "https://carnegieendowment.org/research/2023/05/securing-digital-finance-in-post-conflict-central-african-republic",
+  "title": "Securing Digital Finance in Post-Conflict Central African Republic",
+  "publisher": "Carnegie Endowment",
+  "published": "2023-05-22",
+  "sub_indicator": "authentication",
+  "why": "Stage 1: no PKI policy, no e-government services"
+ },
+ {
+  "url": "https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf",
+  "title": "Country Report: Central African Republic",
+  "publisher": "Greater Internet Freedom",
+  "published": "2023",
+  "sub_indicator": "authentication",
+  "why": "Q1/Q2: biometric identification and verification"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf",
+  "title": "Central African Republic Public Sector Digital Governance Project",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "authentication",
+  "why": "Q1: project components on digital ID and services"
+ },
+ {
+  "url": "https://acdd.gouv.cf/documents/loi-22-002-transactions-electroniques.pdf",
+  "title": "Loi n°22-002 sur les transactions électroniques",
+  "publisher": "Gouvernement centrafricain",
+  "published": "2022",
+  "sub_indicator": "authentication",
+  "why": "Q1: e-signature and certificate legal framework"
+ },
+ {
+  "url": "https://digitalidentityindex.com/countries/central-african-republic/",
+  "title": "Central African Republic - The Global Digital Identity Index",
+  "publisher": "Digital Identity Index",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Stage 1: no online digital identity"
+ }
+]

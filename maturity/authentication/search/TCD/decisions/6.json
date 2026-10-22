@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "ANSICE held a meeting on 2 July 2025 on adopting an advanced PKI infrastructure and qualified e-signature for public services with the vendor Xayone, discussing PKI modules, e-signature and key protection.",
+ "title": "ANSICE & XAYONE : Un pas de plus vers la confiance numérique !",
+ "publisher": "Agence Nationale de Sécurité Informatique et de Certification Electronique (ANSICE)-TCHAD",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

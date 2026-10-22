@@ -9,10 +9,10 @@
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-005",
+      "stage_sources": "CIV-005;CIV-004;CIV-007",
       "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the public administration e-signature system is in use and being extended across administrations (CIV-005), and MaPoste runs on a certified digital identity (CIV-007). Kept at 4 on the rung as worded; an e-signature system used by several bodies may be read as one service, which is stage 3.",
+      "as_at": "2026-10-22"
     }
   ]
 }

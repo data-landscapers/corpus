@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "Gabon's Council of Ministers adopted a draft decree setting how the qualified e-signature certificate and other trust services are delivered, including approval conditions and obligations for providers.",
+ "title": "Gabon/Conseil des ministres : la signature électronique désormais encadrée",
+ "publisher": "Agence Gabonaise de Presse (AGP)",
+ "published": "2026-09-19",
+ "date_source": "source",
+ "why_not": ""
+}

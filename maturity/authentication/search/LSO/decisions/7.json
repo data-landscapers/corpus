@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "The CRVS and national ID system provides identity verification services to government payroll, pensioners and the banking, insurance and telecommunications sectors, with digital certificates planned (joined May 2024).",
+  "title": "LESOTHO",
+  "publisher": "50-in-5",
+  "published": "2024",
+  "date_source": "proxy",
+  "why_not": ""
+}

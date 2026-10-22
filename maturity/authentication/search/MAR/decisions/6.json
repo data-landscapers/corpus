@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Several bodies use the DGSN national trusted-third-party platform to authenticate citizens in live services, including the Ministry of Justice criminal-record request, the notarial deeds portal and the CIMR and CDG mobile apps.",
+  "title": "Tout savoir sur la plateforme de tiers de confiance national de la DGSN",
+  "publisher": "le360",
+  "published": "2023-01-27",
+  "date_source": "proxy",
+  "why_not": ""
+}

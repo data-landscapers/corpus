@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "service;reach",
+ "fact": "The e-KYC system lets supervised financial institutions verify customers in real time using the National Identification Number; its first phase, completed in 2021, integrated 31 institutions.",
+ "title": "Dissemination of the Electronic Know Your Customer evaluation report",
+ "publisher": "Financial Sector Deepening Uganda",
+ "published": "2024-11-15",
+ "date_source": "proxy",
+ "sub_indicator": "authentication",
+ "why_not": ""
+}

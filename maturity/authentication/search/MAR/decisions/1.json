@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Framework agreement DGSN and Ministry of Digital Transition",
+ "publisher": "Ministère de la Transition Numérique et de la Réforme de l'Administration",
+ "published": "2025-05-02",
+ "date_source": "source",
+ "why_not": "Fetched text is the site menu only; the agreement text did not come through, so no fact can be read from it."
+}

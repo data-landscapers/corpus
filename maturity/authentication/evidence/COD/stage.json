@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-011;COD-012",
-      "gaps": "No source held since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "note": "Rebuild: RDC-PASS launched in June 2026 and entered a first operational phase in September with enrolment agents (COD-011). No authentication in use is reported.",
+      "as_at": "2026-10-22"
     }
   ]
 }

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf",
+  "title": "ID4D Country Diagnostic: South Sudan",
+  "publisher": "World Bank",
+  "published": "2026-04",
+  "sub_indicator": "authentication",
+  "why": "Q1-Q4: no common online authentication; digital ID authorised in regulations but not beyond ideation"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/south-sudan-plans-interoperable-birth-registration-digital-id-systems",
+  "title": "South Sudan plans interoperable birth registration, digital ID systems",
+  "publisher": "Biometric Update",
+  "published": "2026-07-31",
+  "sub_indicator": "authentication",
+  "why": "Q1: plans to digitise civil registration and national ID"
+ },
+ {
+  "url": "https://www.sudanspost.com/what-is-actually-functioning-as-dpi-in-south-sudan/",
+  "title": "What is actually functioning as DPI in South Sudan",
+  "publisher": "Sudans Post",
+  "published": "2026-01-20",
+  "sub_indicator": "authentication",
+  "why": "Q2-Q3: which DPI functions"
+ },
+ {
+  "url": "https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/",
+  "title": "South Sudan introduces digital payment system for passports after supply crisis",
+  "publisher": "Sudans Post",
+  "published": "2026-01-19",
+  "sub_indicator": "authentication",
+  "why": "Q2: no unified interoperable digital ID"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2023/11/South-Sudan-Infrastructure-Assessment-Report-ENG.pdf",
+  "title": "Regional Harmonization of Remittance Policies in IGAD: South Sudan Infrastructure Assessment",
+  "publisher": "UNCDF",
+  "published": "2023",
+  "sub_indicator": "authentication",
+  "why": "Q2-Q3: payment infrastructure not integrated with identity or authentication"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-SouthSudan-jun22.pdf",
+  "title": "South Sudan Digital Economy Assessment",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "authentication",
+  "why": "Q1: digitalisation of national ID recommended"
+ },
+ {
+  "url": "https://nbs.eservices.gov.ss/",
+  "title": "South Sudan eServices",
+  "publisher": "Government of South Sudan",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2: eServices account sign-up by ID number"
+ }
+]

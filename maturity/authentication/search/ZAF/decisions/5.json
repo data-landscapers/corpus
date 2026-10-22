@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "Home Affairs gazetted draft regulations under the Identification Act for public comment until 6 June 2026 to create digital identity credentials on smartphones and let users remotely confirm identity by biometric verification.",
+  "title": "Minister Leon Schreiber invites public comment on draft digital identity regulations",
+  "publisher": "South African Government",
+  "published": "2026-05-05",
+  "date_source": "proxy",
+  "why_not": ""
+}

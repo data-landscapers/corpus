@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "On 25 April 2022 the ADD and DGSN launched the CNIE-based identification and authentication service for online services, with the website identitenumerique.ma and the app Mon identité numérique.",
+  "title": "L'ADD et la DGSN lancent le dispositif d'identification et d'authentification des usagers des services numériques",
+  "publisher": "Le Matin",
+  "published": "2022-04-26",
+  "date_source": "proxy",
+  "why_not": ""
+}

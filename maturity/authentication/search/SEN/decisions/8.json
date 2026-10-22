@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "The JICA survey (final report January 2022) found the DAF intends to develop software and platforms letting the national ID card be used for online identity verification by government agencies and the private sector, with a bank identity-verification system and a taxpayer-number link at the trial stage.",
+  "title": "Etude de base sur la numérisation du système d'identification nationale en République du Sénégal, Rapport final",
+  "publisher": "Agence Japonaise de Coopération Internationale (JICA)",
+  "published": "2022-01",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Portaria Conjunta n.º 29/2022 regulates the Chave Móvel Digital de Cabo Verde, supported by the Autentika platform, as a multi-factor authentication mechanism for public administration portals and a means of qualified electronic signature.",
+  "title": "Portaria Conjunta n.º 29/2022",
+  "publisher": "Boletim Oficial da República de Cabo Verde, I Série n.º 67",
+  "published": "2022-07-08",
+  "date_source": "source",
+  "why_not": ""
+}

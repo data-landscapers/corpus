@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach;remote",
+  "fact": "NIRA launched the HUBIYE Verifier Platform for real-time verification of national ID credentials by public and private institutions and the e-Aqoonsi Digital ID App giving citizens a digital ID on their phones, following a Prime Ministerial Directive of 21 April 2025 requiring all public-facing services to integrate with HUBIYE.",
+  "title": "NIRA Launches Key Digital Public Infrastructure for National ID System",
+  "publisher": "National Identification and Registration Authority (NIRA)",
+  "published": "2025-05",
+  "date_source": "proxy",
+  "why_not": ""
+}

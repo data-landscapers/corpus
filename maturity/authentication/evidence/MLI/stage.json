@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "3",
-   "service": "inservice",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002;MLI-001",
-   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "1",
+      "service": "none",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-003",
+      "gaps": "Whether the 2026 criminal-record and nationality platforms check the NINA online is not stated.",
+      "note": "Rebuild, lowered from 3: DPI Map records in June 2025 that NINA has no digital authentication function (MLI-003), and the later rows take the NINA with no check against it stated (MLI-001, MLI-002). Stage 1 rests on that statement of absence.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

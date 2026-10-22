@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "The LTA's SIM registration regulations oblige all service providers to use the NIR Verification Platform to verify the identity documents presented at SIM registration.",
+ "title": "Amended Subscribers Identification Module (SIM) Cards/Removable User Identity Module (RUIM) Registration Regulations",
+ "publisher": "Liberia Telecommunications Authority",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -9,10 +9,10 @@
       "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-017",
+      "stage_sources": "TUN-017;TUN-016",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: Mobile ID, with over 450,000 holders, gives access to online services and e-signature (TUN-017), and E-Houwiya is integrated by many bodies and banks (TUN-016). Top rung.",
+      "as_at": "2026-10-22"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "L'étude de faisabilité d'une plateforme nationale d'authentification et d'un portefeuille d'identité numérique a été lancée le 5 octobre 2026 par le ministère de la Transition numérique.",
+  "title": "Côte d'Ivoire : le gouvernement prépare la mise en place d'une identité numérique des citoyens",
+  "publisher": "225.ci",
+  "published": "2026-10-05",
+  "date_source": "source",
+  "why_not": ""
+}

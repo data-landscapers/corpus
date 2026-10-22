@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "The Nigeria Public Key Infrastructure (NPKI)",
+ "publisher": "NITDA",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Page carries no date; states a service but no dated fact."
+}

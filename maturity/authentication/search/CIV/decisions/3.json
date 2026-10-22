@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "L'ARTCI a lancé la consultation ouverte 02DCN/2026 (offres avant le 7 avril 2026) pour élaborer les normes techniques des services de confiance : signature électronique, archivage électronique, cryptologie.",
+  "title": "Avis de consultation ouverte (02DCN/2026)",
+  "publisher": "ARTCI",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

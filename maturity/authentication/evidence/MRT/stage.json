@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-007",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-007;MRT-002",
+      "gaps": "",
+      "note": "Rebuild: the Houwiyeti app holds a phone-stored digital ID verified by selfie for e-government login (MRT-007), and public and private services verify users through it (MRT-002). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

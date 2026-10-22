@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "On 5 December 2023 the director of the Service de Certification et de Signature Électronique said that officially e-signature had not yet started in Mali and that the aim was to set up an e-signature platform.",
+  "title": "Certification et signature électronique : la 4ème session ordinaire du Comité fait l’état des lieux",
+  "publisher": "maliweb.net",
+  "published": "2023-12-06",
+  "date_source": "source",
+  "why_not": ""
+}

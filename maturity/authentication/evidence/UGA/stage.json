@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "4",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-010;UGA-002",
-   "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "4",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-022;UGA-020;UGA-010",
+      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "note": "Rebuild: UGHub connects NIRA's registry to over 150 ministries and agencies, banks and telecoms (UGA-022). Nothing held names a mobile ID or wallet.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

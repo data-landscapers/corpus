@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "A public consultation was held on draft regulations including Cryptography and Certification Authorities Regulations, with written submissions invited before 6 March 2024.",
+  "title": "Government engages stakeholders on ETCA Regulations",
+  "publisher": "Digital Malawi Project (Public Private Partnership Commission)",
+  "published": "2024-02-27",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "NIMC announced in August 2025 that telecom operators had migrated to the NINAuth authentication platform and were providing NIN verification for SIM registration, swap and migration.",
+ "title": "Nigeria telcos eligible to offer NIN verification for SIM card services",
+ "publisher": "Biometric Update",
+ "published": "2025-08-04",
+ "date_source": "source",
+ "why_not": ""
+}

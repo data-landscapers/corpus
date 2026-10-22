@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "service;reach",
+ "fact": "NITA-U is introducing UGPass e-signatures across all ministries, departments and agencies, with users verified against NIRA and passport records and issued a digital certificate.",
+ "title": "Govt introduces e-signatures to curb fraud in public offices",
+ "publisher": "Daily Monitor",
+ "published": "2025-08-28",
+ "date_source": "proxy",
+ "sub_indicator": "authentication",
+ "why_not": ""
+}

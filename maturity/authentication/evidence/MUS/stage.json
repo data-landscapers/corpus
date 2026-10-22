@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-006",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-006;MUS-004;MUS-009",
+      "gaps": "",
+      "note": "Rebuild: a mobile digital ID launched in 2024 (MUS-006), and MauPass authenticates citizens across government e-services, most recently the KOREK! app (MUS-004, MUS-009). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

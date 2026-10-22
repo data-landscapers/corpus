@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;remote",
+ "fact": "NIMC's MobileID app, launched in December 2021, had 17,428,562 downloads and 67,717,205 verifications (67,180,743 enterprise) as at 27 April 2023, with tokenized virtual NINs issued to enterprises for authentication.",
+ "title": "The NIMC MOBILE APP: Changing the game of Digital Identity Management",
+ "publisher": "National Identity Management Commission (ID4Africa AGM presentation)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

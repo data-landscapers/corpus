@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "NIDA's Director General said in March 2026 that the digital ID comes in three forms (number, digital token, or physical card with QR code), that all current ID cards become invalid by June 2027, and that citizens can see through a digital wallet which institutions accessed their data.",
+  "title": "Rwanda: Digital IDs - How Registration Is Progressing So Far",
+  "publisher": "allAfrica.com",
+  "published": "2026-03-16",
+  "date_source": "proxy",
+  "why_not": ""
+}

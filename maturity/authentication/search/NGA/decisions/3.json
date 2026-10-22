@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;remote",
+ "fact": "On 30 October 2025 President Tinubu launched the NINAuth app, a mobile-based identity authentication application developed by NIMC, and said all MDAs would soon adopt it for staff and data verification.",
+ "title": "Credible, inclusive national identity management system fundamental to national development goals - President Tinubu",
+ "publisher": "State House, Abuja",
+ "published": "2025-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

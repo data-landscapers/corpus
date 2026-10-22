@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "Smart Zambia Institute is piloting MOSIP eSignet to connect existing biometric ID databases to services for authentication, as of August 2024.",
+ "title": "Zambia gets $100M World Bank grant and MOSIP boost for digital identity upgrade",
+ "publisher": "Biometric Update",
+ "published": "2024-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ca.go.ke/sites/default/files/2026-07/ELECTRONIC%20CERTIFICATION%20SERVICES%20PROVIDER%20%28eCSP%29.pdf,fetched,,scripts/.workroot/study/authentication/cache/KEN/1.txt,8498,pdf,
+2,https://ict.go.ke/sites/default/files/2025-08/29-07-25%20K.I.C.A%20%28ELECTRONIC%20CERTIFICATION%20ADMINISTRATION%29%20REGULATIONS%20final.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+3,https://africacheck.org/sites/default/files/media/documents/2025-08/Kenya-eCitizen%20Bulletin%20-June2025.pdf,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+4,https://usajili.go.ke/sites/default/files/2024-12/NRB%20-%20FREQUENTLY%20ASKED%20QUESTIONS.pdf,held,held as raw/2024/2024-12-01-ken-nrb-faq-new-identification-technologies.md,,0,,
+5,https://www.centerforfinancialinclusion.org/wp-content/uploads/2024/08/Citizen-Experiences-with-DPI-in-Kenya-Web.pdf,held,held as raw/2024/2024-08-01-ken-cfi-citizen-experiences-digital-id.md,,0,,
+6,https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/,fetched,,scripts/.workroot/study/authentication/cache/KEN/6.txt,1056,html,"Digital Identity (ID) roll-out on course, PS"
+7,https://usajili.go.ke/national-population-data-management-npdm-formerly-iprs,held,held as raw/2025/2025-09-01-npdm-formerly-iprs.md,,0,,
+8,https://ke-cirt.go.ke/licensed-accredited-e-csps/,unfetchable,SSLError; Wayback ConnectionError,,0,,

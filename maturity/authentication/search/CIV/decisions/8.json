@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Le 19 juin 2023, le ministère de la Fonction publique a lancé officiellement la signature électronique des actes administratifs dans quatre ministères, l'ARTCI étant l'Autorité Nationale de Certification.",
+  "title": "3e édition des JFP : lancement officiel de la signature électronique dans l'administration ivoirienne",
+  "publisher": "Service Public de Côte d'Ivoire",
+  "published": "2023-06-19",
+  "date_source": "source",
+  "why_not": ""
+}

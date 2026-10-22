@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "reach": "several",
-      "remote": "",
+      "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-005;NGA-003",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-006;NGA-037;NGA-003",
+      "gaps": "",
+      "note": "Rebuild, raised from 4: individuals use the NINAuth app to prove their identity for SIM, passport, tax and financial transactions (NGA-006, NGA-037), which the first pass did not read as remote proof. The same rail serves telecoms, tax, banking and immigration (NGA-003).",
+      "as_at": "2026-10-22"
     }
   ]
 }

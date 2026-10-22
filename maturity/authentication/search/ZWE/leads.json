@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/zimbabwean-developer-pioneers-digital-national-id-wallet-as-country-accelerates-digital-transformation/",
+  "title": "Zimbabwean developer pioneers Digital National ID wallet",
+  "publisher": "The Herald",
+  "published": "2026-10-07",
+  "sub_indicator": "authentication",
+  "why": "Q4: digital ID app validating against Civil Registry"
+ },
+ {
+  "url": "https://technomag.co.zw/deadline-looming-mobile-money-operators-must-comply-by-june-30-2026/",
+  "title": "Deadline Looming: Mobile Money Operators Must Comply by June 30, 2026",
+  "publisher": "TechnoMag",
+  "published": "2026-03-11",
+  "sub_indicator": "authentication",
+  "why": "Q2-3: real-time national ID validation via Civil Registry"
+ },
+ {
+  "url": "https://www.zimbabwetenders.com/tender/implementation-of-an-electronic-signature-platform-8d5ef8c.php",
+  "title": "Implementation Of An Electronic Signature Platform",
+  "publisher": "ZimbabweTenders (ZERA COMP 27/2026)",
+  "published": "2026",
+  "sub_indicator": "authentication",
+  "why": "Q1: e-signature platform tender"
+ },
+ {
+  "url": "https://blog.voveid.com/kyc-compliance-in-zimbabwe-2025-guide-for-fintechs-and-regulated-businesses/",
+  "title": "KYC Compliance in Zimbabwe: 2026 Guide",
+  "publisher": "VOVE ID",
+  "published": "2025-11-27",
+  "sub_indicator": "authentication",
+  "why": "Q3: RBZ remote biometric onboarding; national digital ID phased"
+ },
+ {
+  "url": "https://blog.flowmono.com/e-signature-legality-in-zimbabwe/",
+  "title": "E-Signature Legality in Zimbabwe",
+  "publisher": "Flowmono",
+  "published": "2025-08-04",
+  "sub_indicator": "authentication",
+  "why": "Q1: POTRAZ working on licensing CAs"
+ },
+ {
+  "url": "https://docs.trinsic.id/docs/zimbabwe-nid",
+  "title": "Zimbabwe NID",
+  "publisher": "Trinsic",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2: national ID number verification against government system"
+ },
+ {
+  "url": "https://digitalid.design/RIA%20docs/CIS_DigitalID_RIA_Zimbabwe_31.10.21.pdf",
+  "title": "Digital Identity in Zimbabwe",
+  "publisher": "CIS",
+  "published": "2021-10-31",
+  "sub_indicator": "authentication",
+  "why": "Q3: sectoral use of ID authentication"
+ },
+ {
+  "url": "https://kycafrica.com/",
+  "title": "KYC AFRICA",
+  "publisher": "KYC AFRICA",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2: ID verification API to national ID database"
+ }
+]

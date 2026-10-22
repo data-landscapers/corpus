@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Irembo's Single Digital ID pre-enrollment, in the page modified 16 October 2026, verifies applicants online by National ID or NIDA number with face-ID verification or a one-time code sent to the registered phone, while the new Digital National ID is still to be launched.",
+  "title": "How to apply for Single Digital ID Adult self-pre-enrollment",
+  "publisher": "IremboGov",
+  "published": "2026-10-16",
+  "date_source": "proxy",
+  "why_not": ""
+}

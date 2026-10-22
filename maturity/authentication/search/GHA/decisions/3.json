@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Bank of Ghana guidance requires accountable institutions to verify customers against the Ghana Card through the NIA Identity Verification System Platform, including biometric liveness checks for onboarding on mobile and internet banking.",
+  "title": "Supervisory Guidance Note on the Use of the Ghana Card for Accountable Institutions",
+  "publisher": "Bank of Ghana",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

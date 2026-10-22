@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202609/zambia-joins-africas-pki-push-with-new-national-trust-infrastructure",
+  "title": "Zambia joins Africa's PKI push with new national trust infrastructure",
+  "publisher": "Biometric Update",
+  "published": "2026-09-09",
+  "sub_indicator": "authentication",
+  "why": "Q1-2: national PKI and root CA launched"
+ },
+ {
+  "url": "https://itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9",
+  "title": "Zambia launches national digital trust infrastructure",
+  "publisher": "ITWeb Africa",
+  "published": "2026-09-09",
+  "sub_indicator": "authentication",
+  "why": "Q2: NPKI launched with legal validity"
+ },
+ {
+  "url": "https://idtechwire.com/zambia-launches-national-public-key-infrastructure-for-digital-transactions/",
+  "title": "Zambia Launches National Public Key Infrastructure for Digital Transactions",
+  "publisher": "ID Tech",
+  "published": "2026-09-08",
+  "sub_indicator": "authentication",
+  "why": "Q2: ZICTA operating national root CA; MOSIP ID procurement"
+ },
+ {
+  "url": "https://mobileidworld.com/zambia-targets-mobile-first-digital-id-rollout-with-mosip-integrator-procurement/",
+  "title": "Zambia Targets Mobile-First Digital ID Rollout With MOSIP Integrator Procurement",
+  "publisher": "Mobile ID World",
+  "published": "2026-03-30",
+  "sub_indicator": "authentication",
+  "why": "Q1/Q4: mobile-first digital ID procurement"
+ },
+ {
+  "url": "https://zamgov.gsb.gov.zm/docs/ZamGov%20User%20Manual.pdf",
+  "title": "ZamMobile User Manual",
+  "publisher": "Ministry of Finance of Zambia / dotGov Solutions",
+  "published": "2025-02",
+  "sub_indicator": "authentication",
+  "why": "Q2-4: ZamPass authentication, e-signature, digital ID in app"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202501/zambia-issues-general-procurement-notice-for-digital-id-trust-services-project",
+  "title": "Zambia issues general procurement notice for digital ID, trust services project",
+  "publisher": "Biometric Update",
+  "published": "2025-01-21",
+  "sub_indicator": "authentication",
+  "why": "Q1: eSignet piloted since mid-2024; DZAP trust services"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202408/zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity-upgrade",
+  "title": "Zambia gets $100M World Bank grant and MOSIP boost for digital identity upgrade",
+  "publisher": "Biometric Update",
+  "published": "2024-08-28",
+  "sub_indicator": "authentication",
+  "why": "Q1: eSignet pilot for biometric authentication"
+ },
+ {
+  "url": "https://eprocure.zppa.org.zm/epps/eawarding/showDetailsOpenedTender.do?resourceId=5247724",
+  "title": "Tender for the National Public Key Infrastructure System - Opened Bid Details",
+  "publisher": "Zambia Public Procurement Authority",
+  "published": "2024",
+  "sub_indicator": "authentication",
+  "why": "Q1: NPKI tender awarded"
+ }
+]

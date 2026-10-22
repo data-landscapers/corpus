@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "service",
+ "fact": "Citizens are turned away at banks and SIM shops because the QR codes on new national IDs cannot be used to authenticate card holders; NIRA had set 31 March for integrating the QR code system and the problem persisted in August 2026.",
+ "title": "Uganda MPs demand answers over QR code failures on new national IDs",
+ "publisher": "Biometric Update",
+ "published": "2026-08-24",
+ "date_source": "source",
+ "sub_indicator": "authentication",
+ "why_not": ""
+}

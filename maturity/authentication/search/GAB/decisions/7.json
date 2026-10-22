@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "A DGDI official said the new CNIE carries a chip that guarantees secure authentication and that services in development will allow proving identity without the physical card, possibly via smartphone.",
+ "title": "Gabon : lancement de l'établissement des cartes nationales d'identité électronique dans l'Ogooué-Maritime",
+ "publisher": "Agence Gabonaise de Presse (AGP)",
+ "published": "2024-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

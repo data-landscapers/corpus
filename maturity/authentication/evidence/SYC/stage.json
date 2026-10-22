@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "3",
-   "service": "inservice",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-002;SYC-004",
-   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "4",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-004;SYC-002",
+      "gaps": "No source held since October 2023 says the SeyID app or wallet is used by people to prove who they are online.",
+      "note": "Rebuild, raised from 3: SeyID, validated by a video check against the civil status system, gates government e-services (SYC-004) on a portal hosting all government entities' systems (SYC-002). Its ID-Wallet is shown holding a driving licence, not as a way to prove identity online (SYC-001).",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

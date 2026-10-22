@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "id.gov.cv App",
+ "publisher": "NOSi",
+ "published": "",
+ "date_source": "source",
+ "why_not": "App store listing with only relative version dates (no year); no dated fact."
+}

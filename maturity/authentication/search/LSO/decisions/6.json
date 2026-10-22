@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Financial institutions connect directly to the NICR national ID registry through an API for KYC verification, after a pilot concluded in 2019 and further institutions were allowed to use it.",
+  "title": "Identity in Finance – A case study of the Kingdom of Lesotho",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-012",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-012;SDN-011;SDN-001",
+      "gaps": "",
+      "note": "Rebuild: the SudaPass app holds a certified digital identity that signs binding transactions (SDN-012), and a bank verifies customers remotely through it (SDN-001). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

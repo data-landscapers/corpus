@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Certificados Digitais",
+ "publisher": "SISP",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Describes SISP PKI issuing qualified certificates, but the page carries no date."
+}

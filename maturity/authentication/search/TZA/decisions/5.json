@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "On 30 March 2025 the Ministry of Communication and Information Technology and IDEA announced a partnership to implement Jamii Wallet, with pilot programmes then nationwide scaling, giving citizens access to digital certificates and government services.",
+  "title": "Tanzania's Ministry of Communication and Information Technology Partners with IDEA to Launch Jamii Wallet, Supported by Co-Develop",
+  "publisher": "Co-Develop",
+  "published": "2025-03-30",
+  "date_source": "source",
+  "why_not": ""
+}

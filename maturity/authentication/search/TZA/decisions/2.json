@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "NIDA reports 147+ institutions integrated through the Common Interface Gateway for ID verification (telecoms, banks, TRA, NHIF, social security), with USD 66.4M revenue from ID verification.",
+  "title": "Tanzania Digital Identity Ecosystem",
+  "publisher": "ID4Africa 2026 (NIDA presenters)",
+  "published": "2026",
+  "date_source": "source",
+  "why_not": ""
+}

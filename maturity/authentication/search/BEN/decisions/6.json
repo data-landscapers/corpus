@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "WURI Benin invited consultancy bids to rebuild the government certification authority, add an ECC root CA, upgrade the remote signing engine and provide signing and authentication capabilities to users of a Digital ID Wallet, within six months of contract notification.",
+  "title": "WURI-BENIN/Appel à manifestation d'intérêt pour le recrutement de Cabinets/Consultants",
+  "publisher": "Projet WURI Bénin (relayed by YOP L-FRII)",
+  "published": "2025-02-03",
+  "date_source": "proxy",
+  "why_not": ""
+}

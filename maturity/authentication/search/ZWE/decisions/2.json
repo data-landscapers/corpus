@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "RBZ regulations require mobile money operators, by 30 June 2026, to validate national ID numbers in real time through the Civil Registry with biometric matching, and the RBZ is integrating the Civil Registry database with mobile money subscriber records.",
+  "title": "Deadline Looming: Mobile Money Operators Must Comply by June 30, 2026",
+  "publisher": "TechnoMag",
+  "published": "2026-03-11",
+  "date_source": "source",
+  "why_not": ""
+}

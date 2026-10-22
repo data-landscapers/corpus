@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "On 30 June the SCDM Steering Committee approved the digital certificate and revocation list of the State root certification authority run by the INTIC; CEDSIF, INAGE, Movitel and Business Connexion were preparing as second-level certification entities.",
+ "title": "Comité Gestor do Sistema de Certificação Digital de Moçambique aprova os artefactos que vão dinamizar a Prestação de Serviços de Assinaturas Electrónicas em Moçambique",
+ "publisher": "Instituto Nacional de Tecnologias de Informação e Comunicação",
+ "published": "2025-07-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

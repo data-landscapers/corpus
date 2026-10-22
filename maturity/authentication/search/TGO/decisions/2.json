@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "ARCEP's trust list shows three trust service providers (Axendit Togo, Augura Technologies Togo, Chronoservices International) accredited on 19 February 2026 for three years.",
+ "title": "Certification électronique",
+ "publisher": "ARCEP Togo",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "Decree-Law 27/2023 of 20 October 2023 sets the trust services regime (qualified e-signatures, remote signature, recognition of electronic ID) and its preamble states the Chave Móvel Digital already works as an authentication mechanism for public administration portals and as qualified electronic signature.",
+  "title": "Decreto-lei n.º 27/2023 (serviços de confiança)",
+  "publisher": "Boletim Oficial da República de Cabo Verde, I Série n.º 109",
+  "published": "2023-10-20",
+  "date_source": "source",
+  "why_not": ""
+}

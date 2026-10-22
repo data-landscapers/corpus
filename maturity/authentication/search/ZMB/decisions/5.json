@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach;remote",
+ "fact": "The ZamMobile app lets users with a verified ZamPass account hold a digital ID, sign documents with a ZamPKI certificate and sign in to ZamServices applications, with ZamPass described as the national digital identity and authentication service.",
+ "title": "ZamMobile User Manual",
+ "publisher": "Ministry of Finance of Zambia / dotGov Solutions, LLC",
+ "published": "2025-02-12",
+ "date_source": "source",
+ "why_not": ""
+}

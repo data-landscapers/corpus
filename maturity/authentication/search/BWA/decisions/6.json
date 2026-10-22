@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "BDIVA offers TruBar, which digitally signs data into a barcode on documents, permits or ID cards, and the system verifies the signature on scanning to confirm authenticity.",
+ "title": "Services",
+ "publisher": "Botswana Digital Identity & Verification Authority",
+ "published": "2025-11-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

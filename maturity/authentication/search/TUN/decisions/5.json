@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "TunTrust's Mobile ID PKI CP/CPS (version 01, 17/10/2023) describes a Mobile ID root and issuing CA issuing qualified authentication and remote-signing certificates, with applicants checked by delegated registration authorities against the national registry and telecom operator APIs.",
+  "title": "Agence Nationale de Certification Electronique - CP/CPS Mobile ID PKI",
+  "publisher": "Agence Nationale de Certification Electronique (TunTrust)",
+  "published": "2023-10-17",
+  "date_source": "source",
+  "why_not": ""
+}

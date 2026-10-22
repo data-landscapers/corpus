@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "service",
+ "fact": "NITA-U operates a National Public Key Infrastructure at the National Data Centre, but its National Root Certification Authority has not yet completed a WebTrust audit and the national document-signing service is not yet on the Adobe Approved Trust List.",
+ "title": "Terms of Reference: WebTrust Audit and AATL Recognition Programme for the Uganda National Public Key Infrastructure",
+ "publisher": "National Information Technology Authority - Uganda",
+ "published": "2026-08",
+ "date_source": "source",
+ "sub_indicator": "authentication",
+ "why_not": ""
+}

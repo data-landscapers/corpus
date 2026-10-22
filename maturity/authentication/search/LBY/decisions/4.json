@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "The Central Bank of Libya's 2026 national payments strategy lists Digital Identity as an initiative to develop identity verification and authentication infrastructure.",
+ "title": "The Central Bank of Libya's National Strategy for Accelerating Digital Payments and Enhancing Financial Inclusion in Libya",
+ "publisher": "Central Bank of Libya",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

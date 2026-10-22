@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "remote;service",
+  "fact": "Mauritius launched the Mobile ID in the MWA wallet app on 29 August 2024, available to all ID card holders with a MauPass account, with a separate verifier app for organisations and digital document signing.",
+  "title": "Digital Identity Card: 1 Mobile App, 1 ID",
+  "publisher": "News Moris",
+  "published": "2024-08-30",
+  "date_source": "source",
+  "why_not": ""
+}

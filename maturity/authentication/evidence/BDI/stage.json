@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "3",
-   "service": "inservice",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-003;BDI-002",
-   "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "unplaced",
+      "service": "",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 names a digital authentication service: SIM registration requires the ID card with no check against a register stated, and the 2023 statement that no ID database supports KYC is outside the window.",
+      "note": "Rebuild, lowered from 3: SIM registration requires the ID card but no check against a register is stated (BDI-002, BDI-003), the test the first pass applied to Ghana and Tanzania. The 2023 statement of absence (BDI-001) is outside the window, so stage 1 cannot be claimed.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Gabon : quid de la procédure d'établissement de la CNIE en ligne ?",
+ "publisher": "Gabon 24",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Online CNIE application using the NIP is a request service, not an authentication service."
+}

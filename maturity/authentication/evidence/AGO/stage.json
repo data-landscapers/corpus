@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-004;AGO-003",
       "gaps": "No source held since October 2023 says authentication is used across services or channels.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the Interior Ministry, prisons and migration service check the ID database for passport issuance (AGO-004), and a private verification service operates (AGO-003). The national platform is at tender (AGO-001).",
+      "as_at": "2026-10-22"
     }
   ]
 }

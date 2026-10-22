@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "Zambia launched its first National Public Key Infrastructure with a state-managed root certification authority, announced on 7 September 2026, with mobile digital identity and e-signature services expected to roll out over the next several years.",
+ "title": "Zambia joins Africa's PKI push with new national trust infrastructure",
+ "publisher": "Biometric Update",
+ "published": "2026-09-09",
+ "date_source": "source",
+ "why_not": ""
+}

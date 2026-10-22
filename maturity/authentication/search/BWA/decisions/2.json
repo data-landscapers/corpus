@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach;remote",
+ "fact": "Bank Gaborone launched a self-onboarding platform on which Omang holders verify identity online with the Omang and a biometric selfie and electronically sign account documents.",
+ "title": "Bank Gaborone Launches Digital Self-Onboarding Platform, Making Banking Simpler and More Accessible",
+ "publisher": "Weekend Post",
+ "published": "2026-07-30",
+ "date_source": "source",
+ "why_not": ""
+}

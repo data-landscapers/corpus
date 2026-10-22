@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "The Home Affairs verification system lets departments such as National Treasury and SASSA and financial-sector businesses verify clients against the National Population Register by fingerprint and facial recognition; the upgraded service was announced with fees from 1 April 2025.",
+  "title": "Home Affairs upgrades critical digital verification system",
+  "publisher": "South African Government",
+  "published": "2025-03-24",
+  "date_source": "proxy",
+  "why_not": ""
+}

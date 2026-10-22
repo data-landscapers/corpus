@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "Minister Schreiber demonstrated the MyMzansi Digital ID smartphone app on 1 October 2026, with biometric linkage, a cryptographic signature and consent-based QR sharing, but full launch is expected after 2030.",
+  "title": "Home Affairs unveils first-ever working Digital ID",
+  "publisher": "The South African",
+  "published": "2026-10-01",
+  "date_source": "proxy",
+  "why_not": ""
+}

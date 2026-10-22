@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "reach;remote",
+  "fact": "NITA-U reports UgPass with 10M+ subscribers, 35+ MDAs and hundreds of service providers, and UgPass 2.0 adds a digital credential wallet, digital signing on mobile and face verification.",
+  "title": "Digitally TRUSTED Uganda",
+  "publisher": "NITA-U (ID4Africa 2025)",
+  "published": "2025",
+  "date_source": "proxy",
+  "sub_indicator": "authentication",
+  "why_not": ""
+}

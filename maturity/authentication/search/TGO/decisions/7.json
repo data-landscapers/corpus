@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "ARCEP issued version 3.0 of the rules and framework for accrediting and qualifying electronic certification service providers in Togo in January 2024.",
+ "title": "Règles et Référentiel applicables aux Prestataires de Services de Certification Electronique Qualifiés au Togo",
+ "publisher": "ARCEP Togo",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

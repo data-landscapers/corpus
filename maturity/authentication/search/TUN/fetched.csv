@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://opendocs.ids.ac.uk/articles/chapter/Digital-ID_in_Tunisia_Country_Report/30772784,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+2,https://analex.net/la-signature-numerique-en-tunisie/,fetched,,scripts/.workroot/study/authentication/cache/TUN/2.txt,1753,html,La signature numérique en Tunisie - WordPress
+3,https://news.gnet.tn/tunisie-nouvelle-application-e-houwiya-disponible-sur-lapp-store/,fetched,,scripts/.workroot/study/authentication/cache/TUN/3.txt,227,html,"Tunisie: Nouvelle application ""E-Houwiya"" disponible sur l'App Store - Gnet news"
+4,https://www.mtc.gov.tn/index.php?L=1&cHash=22b1df2f2f2c2bfa8e74e6ecd7d77539&id=119&tx_ttnews=4745,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+5,http://www.tuntrust.tn/sites/default/files/Ressources/CP_CPS_Mobile-ID_PKI.pdf,fetched,,scripts/.workroot/study/authentication/cache/TUN/5.txt,29362,pdf,
+6,https://www.accessnow.org/tunisia-must-open-mobile-id-black-box/,fetched,,scripts/.workroot/study/authentication/cache/TUN/6.txt,839,html,Tunisia’s government must open the Mobile ID black box - Access Now
+7,https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf,held,held as raw/2024/2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases.md,,0,,
+8,https://legislation-securite.tn/latest-laws/circulaire-n-16-du-03-aout-2022-portant-sur-la-generalisation-de-lutilisation-du-certificat-dauthentification-electronique-du-citoyen-sur-le-mobile-id-comme-identite-numerique-unifiee-pour-l/,fetched,,scripts/.workroot/study/authentication/cache/TUN/8.txt,517,html,Circulaire n° 16 du 03 août 2022 portant sur la généralisation de l'utilisation du certificat d'authentification électronique du citoyen sur le Mobile ID comme identité numérique unifiée pour l'accès aux services et la signature électronique en ligne - Tunisie - Legal Databases

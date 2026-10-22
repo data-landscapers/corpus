@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach;remote",
+  "fact": "On 7 October 2024 Ghana launched the CitizenApp (CADIS), giving access to many public services through Ghana Card biometric single sign-on and a digital ID created from NIA data.",
+  "title": "Ghana launches CitizenApp to facilitate access to digital govt services",
+  "publisher": "Biometric Update",
+  "published": "2024-10-08",
+  "date_source": "source",
+  "why_not": ""
+}

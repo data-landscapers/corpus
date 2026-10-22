@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "Ethiopia's INSA launched a Digital Certificate Service (national CSCA) operating within a PKI framework to issue digital certificates validating every Fayda ID.",
+ "title": "Ethiopia strengthens Fayda digital ID security wall",
+ "publisher": "Biometric Update",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

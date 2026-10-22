@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;remote",
+  "fact": "On 18 June 2024 the Ministry of Communication Technologies announced the E-Houwiya mobile digital identity app available on the Apple App Store, for Tunisians aged 18+ with a national ID card to identify remotely, sign documents electronically and obtain official documents via government portals.",
+  "title": "Tunisie: Nouvelle application « E-Houwiya » disponible sur l'App Store",
+  "publisher": "Gnetnews",
+  "published": "2024-06-18",
+  "date_source": "source",
+  "why_not": ""
+}

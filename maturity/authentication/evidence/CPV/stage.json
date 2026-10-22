@@ -9,10 +9,10 @@
       "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-008",
+      "stage_sources": "CPV-008;CPV-012",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the Mobile Digital Key lets ID-card holders authenticate and sign online by app or SMS code (CPV-008), and SNIAC serves dozens of public and private bodies (CPV-012). Top rung.",
+      "as_at": "2026-10-22"
     }
   ]
 }

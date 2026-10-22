@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "In the NCSI version of 14 Feb 2025 Comoros scores 0 of 2 on secure electronic identification, meaning no nationally recognised eID solution is recorded, while electronic signature and trust services are scored as regulated by Law 21-012/AU with ANADEN as supervisor.",
+  "title": "NCSI :: Comoros",
+  "publisher": "e-Governance Academy (National Cyber Security Index)",
+  "published": "2025-02-14",
+  "date_source": "source",
+  "why_not": ""
+}

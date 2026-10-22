@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "On 27 March 2024 the Minister of Digital Transformation opened a national workshop with the Arab ICT Organization to build a national digital trust model and develop the public key infrastructure.",
+ "title": "Démarrage un atelier national pour l'élaboration d'un modèle opérationnel de confiance numérique",
+ "publisher": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration",
+ "published": "2024-03-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

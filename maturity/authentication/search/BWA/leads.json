@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier",
+  "title": "Botswana launches national eKYC project to make bank verification easier",
+  "publisher": "Business Tech Africa",
+  "published": "2026-09-11",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: banks verify ID online against national database"
+ },
+ {
+  "url": "https://weekendpost.co.bw/bank-gaborone-launches-digital-self-onboarding-platform-making-banking-simpler-and-more-accessible/",
+  "title": "Bank Gaborone Launches Digital Self-Onboarding Platform",
+  "publisher": "Weekend Post",
+  "published": "2026-07-30",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q4: remote Omang and selfie verification, e-signing"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/90334",
+  "title": "DailyNews: Digital ID project, national e-wallet",
+  "publisher": "Botswana Daily News",
+  "published": "2026-03-02",
+  "sub_indicator": "authentication",
+  "why": "Q1/Q4: digital ID and e-wallet project budgeted"
+ },
+ {
+  "url": "https://doi.org/10.19088/ids.2025.063",
+  "title": "Digital-ID in Botswana: Country Report",
+  "publisher": "Institute of Development Studies",
+  "published": "2025-12-03",
+  "sub_indicator": "authentication",
+  "why": "Q2-Q4: state of Omang digital ID system"
+ },
+ {
+  "url": "https://www.ngamitimes.co.bw/electronic-id-system-aims-to-improve-efficiency/",
+  "title": "Electronic ID System Aims To Improve Efficiency",
+  "publisher": "The Ngami Times",
+  "published": "2025-11-10",
+  "sub_indicator": "authentication",
+  "why": "Q1/Q4: e-ID pilot and rollout dates, authentication across services"
+ },
+ {
+  "url": "https://www.bdiva.co.bw/services/",
+  "title": "Services - Botswana Digital Identity & Verification Authority",
+  "publisher": "BDIVA",
+  "published": "2025-11-11",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: signing and verification services"
+ },
+ {
+  "url": "https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Digital_Services_Bill_%28revised_draft%29June2025_0.pdf",
+  "title": "Digital Services Bill, 2025 (revised draft)",
+  "publisher": "Government of Botswana",
+  "published": "2025-06",
+  "sub_indicator": "authentication",
+  "why": "Q1: PKI and online ID verification platform to be established"
+ },
+ {
+  "url": "https://www.bocra.org.bw/electronic-communications-transactions",
+  "title": "Electronic Communications Transactions",
+  "publisher": "BOCRA",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: approved certification authority"
+ }
+]

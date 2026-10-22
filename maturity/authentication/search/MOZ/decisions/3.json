@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "On 10 April the INTIC trained 18 judges of the Administrative Tribunal on the SCDM and demonstrated its Advanced Electronic Document Signer; the State root certification authority is established and can accredit second-level certification entities.",
+ "title": "INTIC capacita Juízes Conselheiros no uso de Assinaturas Electrónicas",
+ "publisher": "Instituto Nacional de Tecnologias de Informação e Comunicação",
+ "published": "2026-04-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

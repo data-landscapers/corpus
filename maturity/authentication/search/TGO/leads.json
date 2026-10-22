@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf",
+  "title": "A gateway to social and economic inclusion and public sector modernization",
+  "publisher": "ANID Togo / ID4Africa",
+  "published": "2026",
+  "sub_indicator": "authentication",
+  "why": "Q3/Q4: OTP authentication in use, service-public portal, e-ID QR verification, biometric authentication next"
+ },
+ {
+  "url": "https://demo.arcep.tg/professionnel/demarches-et-services/certification-electronique",
+  "title": "Certification électronique",
+  "publisher": "ARCEP Togo",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: accredited trust service providers"
+ },
+ {
+  "url": "https://demo.arcep.tg/professionnel",
+  "title": "Arcep - Certification électronique (professionnel)",
+  "publisher": "ARCEP Togo",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q3: several trust service providers accredited and qualified"
+ },
+ {
+  "url": "https://monidentite.anid.gouv.tg/web/anid_pub/questions-r%C3%A9ponses",
+  "title": "FAQ - mon identité",
+  "publisher": "ANID Togo",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q3: online authentication service open to public and private bodies"
+ },
+ {
+  "url": "https://monidentite.anid.gouv.tg/web/anid_pub/services",
+  "title": "Services - mon identité",
+  "publisher": "ANID Togo",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q2/Q4: virtual ID via NIU/OTP, authentication history"
+ },
+ {
+  "url": "https://service-public.gouv.tg/pages/about-website",
+  "title": "Service public de l'administration Togolaise: à propos",
+  "publisher": "Gouvernement du Togo",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q3: citizen accounts, plan to link NIU"
+ },
+ {
+  "url": "https://arcep.tg/wp-content/uploads/2024/02/2024_01_18_Referentiel-Certification-Electronique-ARCEP-V3.0.pdf",
+  "title": "Règles et Référentiel applicables aux PSCE qualifiés au Togo",
+  "publisher": "ARCEP",
+  "published": "2024-01-18",
+  "sub_indicator": "authentication",
+  "why": "Q1/Q2: qualification rules for certification providers"
+ },
+ {
+  "url": "https://anid.gouv.tg/en/press-release-for-the-proof-of-concept-poc-of-the-e-id-technological-solution/",
+  "title": "Press release for the proof of concept of the e-ID technological solution",
+  "publisher": "ANID",
+  "published": "2025-01-20",
+  "sub_indicator": "authentication",
+  "why": "Q1: e-ID platform piloting"
+ }
+]

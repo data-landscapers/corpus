@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "On 23 April 2024 the Interior Ministry's director general for modernisation announced that digital identities based on the biometric ID card's data would start to be issued to citizens before the end of 2024.",
+  "title": "Lancement des identités numériques des citoyens avant fin 2024",
+  "publisher": "Algerie360",
+  "published": "2024-04-23",
+  "date_source": "source",
+  "why_not": ""
+}

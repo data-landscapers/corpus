@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "At ID4Africa in May 2026 the National ID Program reported 102 million authentications (2 million a day) and 120+ integrations, with Fayda mandatory for bank accounts, SIM cards, new TINs and notary and title-deed services, and digital signature and credential wallets among its offerings.",
+ "title": "Sovereign DPI in Action: The Evolution of Fayda",
+ "publisher": "National ID Ethiopia (ID4Africa 2026)",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

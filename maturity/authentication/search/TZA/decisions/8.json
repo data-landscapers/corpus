@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "The e-Government Authority acts as Certification Authority for the government's X.509 PKI and Digital Signature Management System, used by the e-office system; the article notes no national PKI for the public is in place and TCRA has issued no certificate practice statement.",
+  "title": "Implementing the electronic signature law in Tanzania - successes, challenges, and prospects",
+  "publisher": "Digital Evidence and Electronic Signature Law Review",
+  "published": "2022",
+  "date_source": "source",
+  "why_not": ""
+}

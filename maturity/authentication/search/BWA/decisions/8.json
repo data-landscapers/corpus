@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Electronic Communications Transactions",
+ "publisher": "BOCRA",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Undated page; lists an approved certification authority (LawTrust) but states no dated fact and carries no publication date."
+}

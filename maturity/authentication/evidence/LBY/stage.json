@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "2",
-   "service": "underway",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "2",
+      "service": "underway",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "note": "Rebuild: technical trials of eKYC against the biometric digital identity have begun with the Central Bank and banks (LBY-001). No service is reported live.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

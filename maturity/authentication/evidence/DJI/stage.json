@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-004;DJI-003",
+      "gaps": "",
+      "note": "Rebuild: Mobile ID, launched in February 2026, lets citizens authenticate and do procedures remotely (DJI-004), and partner administrations use its authentication (DJI-003). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

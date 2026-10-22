@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TZA-008;TZA-002",
       "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: 147 public and private institutions are connected to NIDA (TZA-008). Nothing held names a mobile ID or wallet.",
+      "as_at": "2026-10-22"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "remote;service",
+  "fact": "L'ONECI a lancé officiellement MyONECI+ le 23 avril 2025, application d'identité numérique fondée sur le RNPP, la PKI, la NFC et l'authentification biométrique, utilisable aussi par des commerçants pour vérifier l'identité.",
+  "title": "Launch of the MyONECI+ App",
+  "publisher": "Semlex",
+  "published": "2025-05-06",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mne.gov.st/en/news/actualities/government-launches-document-issuance-system-embassy-sao-tome-principe-portugal",
+  "title": "Government launches document issuance system at the Embassy of São Tomé and Príncipe in Portugal",
+  "publisher": "Ministry of Foreign Affairs, Cooperation and Communities",
+  "published": "2026-02-11",
+  "sub_indicator": "authentication",
+  "why": "Q2-Q3: online portal with direct SIGA access"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185019928/pdf/P177158-b0ee36fd-86ba-4e5c-96a3-d291d6d35813.pdf",
+  "title": "Digital São Tomé and Príncipe Project implementation status",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "authentication",
+  "why": "Q1: new digital ID system design underway, mass enrollment target"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system",
+  "title": "São Tomé and Principe pilots MOSIP-based national digital ID system",
+  "publisher": "Biometric Update",
+  "published": "2025-06-05",
+  "sub_indicator": "authentication",
+  "why": "Q1: MOSIP pilot"
+ },
+ {
+  "url": "https://rdpafrica.rtp.pt/noticias-africa/sao-tome-lanca-sistema-integrado-de-registo-civil/",
+  "title": "São Tomé lança sistema integrado de registo civil",
+  "publisher": "RDP África - RTP",
+  "published": "2025-03-03",
+  "sub_indicator": "authentication",
+  "why": "Q1: digital identity pilot"
+ },
+ {
+  "url": "https://ooru.io/case-studies/sao-tome",
+  "title": "Digitising a Nation's Public Service Delivery",
+  "publisher": "Ooru Digital",
+  "published": "",
+  "sub_indicator": "authentication",
+  "why": "Q1: e-authentication and digital signatures phased 2026"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Payment-Infrastructure-Assessment-SaoTome-April2025.pdf",
+  "title": "Payment Infrastructure Assessment: São Tomé and Príncipe",
+  "publisher": "UNCDF",
+  "published": "2025-04",
+  "sub_indicator": "authentication",
+  "why": "Q2-Q3: ID not integrated with payments"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099032824212568030/txt/P171592-4790f2f6-54a3-46db-9a2f-d7c1e3005beb.txt",
+  "title": "Diagnóstico de Registo Civil e Identificação (ID4D) São Tomé e Príncipe",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "authentication",
+  "why": "Q1-Q2: authentication platform and PKI planned; AFIS 1:1 authentication for renewal"
+ },
+ {
+  "url": "https://www.telanon.info/sociedade/2024/09/28/45916/sao-tome-e-principe-vai-avancar-com-o-cartao-de-identidade-unica/",
+  "title": "São Tomé e Príncipe vai avançar com o cartão de identidade única",
+  "publisher": "Téla Nón",
+  "published": "2024-09-28",
+  "sub_indicator": "authentication",
+  "why": "Q1: MOSIP pilot for digital identity"
+ }
+]

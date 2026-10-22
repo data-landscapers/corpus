@@ -9,10 +9,10 @@
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-005",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-authentication.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-006;DZA-002;DZA-010",
+      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. What form the national digital identity takes is not stated.",
+      "note": "Rebuild: the national digital identity is used on the national services portal, the WADHIFATI platform and the civil-status platforms (DZA-006, DZA-002, DZA-010); the first pass cited an agreement instead. No app or wallet is named.",
+      "as_at": "2026-10-22"
     }
   ]
 }

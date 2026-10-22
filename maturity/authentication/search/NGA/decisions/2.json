@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "The NIMC Act 2026, signed on 26 June 2026, designates the National Identity Management Commission as Root Certification Authority for Nigeria's National PKI and Digital Public Infrastructure and enables identity verification and authentication across government and private-sector platforms.",
+ "title": "Tinubu signs new NIMC Act to strengthen identity management",
+ "publisher": "BusinessDay",
+ "published": "2026-06-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

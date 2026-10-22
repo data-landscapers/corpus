@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Benin issues digital certificates for authentication and digital signature (PKI) and runs a TrustedX remote authentication and e-signature platform; more than 15.7 million digital authentications were made by ANIP via X-Road, with 19 public services linked to the RNPP.",
+  "title": "Aspects pragmatiques de la réforme juridique de l'état des personnes épousant l'ère du numérique : l'expérience du Bénin",
+  "publisher": "WURI-Bénin (Dr Jean Aholou), ID4Africa 2025",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

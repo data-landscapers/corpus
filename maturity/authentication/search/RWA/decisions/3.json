@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service",
+ "fact": "The Rwanda Information Society Authority issued PKI Service Integration Guidelines for developers on 17 September 2024, covering certificate validation, revocation and digital signature verification.",
+ "title": "Rwanda: Adopted PKI Service Integration Guidelines including technical specifications for developers",
+ "publisher": "Digital Policy Alert",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

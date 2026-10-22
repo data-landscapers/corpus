@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "remote",
+  "fact": "L'application Côte d'Ivoire Identité, disponible depuis le 5 août 2025, donne accès à la CNI numérique avec authentification biométrique et génère des documents scellés par un CEV de l'ONECI.",
+  "title": "Digitalisation : l'application Côte d'Ivoire Identité est officiellement disponible",
+  "publisher": "Digital Mag Côte d'Ivoire",
+  "published": "2025-08-09",
+  "date_source": "source",
+  "why_not": ""
+}

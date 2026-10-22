@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-020;MAR-009",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-015;MAR-009;MAR-014",
+      "gaps": "",
+      "note": "Rebuild: the Mon e-ID app is in use with 2.5 million active users (MAR-015, MAR-009), adopted by several ministries and agencies (MAR-014). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

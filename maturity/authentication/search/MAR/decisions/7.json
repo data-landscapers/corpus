@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "The platform had 16 signed agreements and 9 projects in production (criminal record, Portnet, notaries), with 43 partners in testing, across banking, e-government, services, social and telecom sectors.",
+  "title": "Plateforme « Tiers de Confiance National »",
+  "publisher": "Direction Générale de la Sûreté Nationale (ID4Africa)",
+  "published": "2023",
+  "date_source": "proxy",
+  "why_not": ""
+}

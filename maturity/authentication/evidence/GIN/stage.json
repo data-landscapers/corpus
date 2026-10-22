@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "2",
-   "service": "underway",
-   "reach": "",
-   "remote": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "2",
+      "service": "underway",
+      "reach": "",
+      "remote": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-002",
+      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "note": "Rebuild: ANDE is developing a PKI for electronic signatures (GIN-002); the voter-file convention cited before is a data source, not authentication. Nothing is in service.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

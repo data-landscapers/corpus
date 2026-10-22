@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Wired for Reform: The Central African Republic's Digital Gamble",
+ "publisher": "Harbinger Standard",
+ "published": "2025-06-04",
+ "date_source": "source",
+ "why_not": "Describes biometric logins to one e-government platform only; no ID authentication, e-signature or PKI service stated."
+}

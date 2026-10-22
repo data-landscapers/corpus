@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "Le 11 novembre 2025, l'ONECI et la SGCI ont signé une convention : la banque intègre la plateforme web d'authentification numérique de l'ONECI pour vérifier l'identité en temps réel par comparaison avec le RNPP.",
+  "title": "Côte d'Ivoire-AIP/ L'ONECI et un partenaire s'unissent pour la sécurisation des transactions bancaires",
+  "publisher": "AIP - Agence Ivoirienne de Presse",
+  "published": "2025-11-11",
+  "date_source": "source",
+  "why_not": ""
+}

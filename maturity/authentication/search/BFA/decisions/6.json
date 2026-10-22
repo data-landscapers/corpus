@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "From 30 September to 3 October 2024 ANSSI held a scoping workshop for a national PKI (root and issuing certification authorities, registration authorities, remote e-signature), its implementation entrusted to Cybastion.",
+  "title": "Projet d'Infrastructure à Clé Publique (ICP) : Bientôt une infrastructure pour garantir la sécurité des transactions numériques au Burkina Faso",
+  "publisher": "Burkina24",
+  "published": "2024-09-30",
+  "date_source": "source",
+  "why_not": ""
+}

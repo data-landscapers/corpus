@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "The Unite de Gouvernance Digitale, financed by PRODIGY, is building the national PKI, which is not yet open to the general public.",
+  "title": "Prodigy : Signature électronique à Madagascar",
+  "publisher": "manitra.net",
+  "published": "2025-11-19",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "The NIR's Biometric Verification Platform, introduced in May 2019, lets public and private service providers authenticate clients; a 12-13 November 2019 workshop brought in ministries, banks, Lonestar MTN and Orange.",
+ "title": "NIR ends workshop on Biometric Verification Platform",
+ "publisher": "The New Dawn",
+ "published": "2019-11-15",
+ "date_source": "source",
+ "why_not": ""
+}

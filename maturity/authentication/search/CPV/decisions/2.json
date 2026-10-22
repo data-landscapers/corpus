@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "authentication",
+ "aspect": "",
+ "fact": "",
+ "title": "Perguntas Frequentes - Portal Único",
+ "publisher": "Portal Único GOV.CV",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Describes login with CNI, passport or Chave Móvel Digital and the ID.GOV.CV app, but the page carries no date, so no dated fact."
+}

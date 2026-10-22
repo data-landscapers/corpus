@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "authentication",
-   "stage": "5",
-   "service": "inservice",
-   "reach": "several",
-   "remote": "wallet",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-026;MWI-028",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-authentication.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "authentication",
+      "stage": "5",
+      "service": "inservice",
+      "reach": "several",
+      "remote": "wallet",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-026;MWI-028;MWI-012",
+      "gaps": "",
+      "note": "Rebuild: the Nzika wallet, launched on 16 September 2026, lets citizens present verified credentials to reach services (MWI-028), and NRB e-KYC serves banks, mobile money, SIM and utilities (MWI-012). Top rung.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

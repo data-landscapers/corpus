@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service",
+  "fact": "POTRAZ is mandated to accredit certification authorities under the Electronic Transactions and Electronic Commerce Act and is working on licensing trusted certification authorities for advanced e-signatures.",
+  "title": "E-Signature Legality in Zimbabwe",
+  "publisher": "Flowmono",
+  "published": "2025-08-04",
+  "date_source": "source",
+  "why_not": ""
+}

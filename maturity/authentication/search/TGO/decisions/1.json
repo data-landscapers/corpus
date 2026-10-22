@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "authentication",
+ "aspect": "service;reach",
+ "fact": "ANID says OTP authentication on the UIN is fully deployed and actively used, including through the one-stop service-public.gouv.tg portal, with remote API, mobile and USSD verification of the e-ID, banks and financial institutions served for e-KYC, and biometric authentication as the next phase.",
+ "title": "A gateway to social and economic inclusion and public sector modernization",
+ "publisher": "Agence Nationale d'Identification (ANID), Togo, for ID4Africa",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

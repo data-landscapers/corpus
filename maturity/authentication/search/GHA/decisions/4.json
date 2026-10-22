@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "authentication",
+  "aspect": "service;reach",
+  "fact": "On 16 July 2025 the NIA said the NIA IVSP is the approved real-time identity verification method for Ghana Cards, used by banks, corporate bodies, government agencies and financial service providers.",
+  "title": "Institutions Urged to Use NIA IVSP for Authentic Ghana Card Verification",
+  "publisher": "National Identification Authority",
+  "published": "2025-07-16",
+  "date_source": "source",
+  "why_not": ""
+}
