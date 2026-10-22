@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: ZMB
-ledger_rows: 44
-not_held: 35
-record: 50e6278798be
+ledger_rows: 45
+not_held: 34
+record: d6a84079c95d
 ---
 
 # News, Sep – Oct 2026
@@ -513,6 +513,28 @@ Zambia's Office of the Auditor General issued its report on the accounts of the 
 **[Government Trains 25 Teachers In KGS Digital Checklist Verification](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/)** — Lusaka Times, 24 September 2026
 
 Zambia's education ministry has trained 25 guidance teachers in Lavushimanda District to verify Keeping Girls in School beneficiaries on a tablet app instead of paper forms, under the GEWEL project. The girls are captured and sign on the tablet themselves; the training is run three times a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ASYCUDA World customs management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UK FCDO — Zambia Revenue Authority customs modernisation (ASY5), 2025](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
+
+$650,000 British grant via TradeMark Africa, signed 15 Dec 2025, for UNCTAD's ASYCUDA World to ASY5 upgrade.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Advances Customs System Upgrade to Improve Trade Processing](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
+
+ASYCUDA World to ASY5: pilots and officer training; $650,000 UK grant via TradeMark Africa; no go-live date.
 
 </div>
 

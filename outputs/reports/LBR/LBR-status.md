@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 190
+sources_cited: 191
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -271,7 +271,7 @@ Health and policing still run on paper. The Ministry of Health launched a [natio
 ### AI
 <!-- tech.ai -->
 
-The only artificial intelligence in service in Liberian government is an information chatbot: the Civil Service Agency runs [an AI-powered virtual information assistant](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html) alongside its website, staff magazine and new monthly newsletter, built out since 2024 (August 2026). It answers questions about the agency rather than carrying a transaction.
+The only artificial intelligence in service in Liberian government administration is an information chatbot: the Civil Service Agency runs [an AI-powered virtual information assistant](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html) alongside its website, staff magazine and new monthly newsletter, built out since 2024 (August 2026). It answers questions about the agency rather than carrying a transaction. Public health is further on: [four AI X-ray machines for tuberculosis screening, the first in the country, were commissioned in four hospitals in Montserrado and Margibi in August 2024](https://www.emansion.gov.lr/media/press-release/first-lady-dedicates-four-ai-x-ray-machines-tb-diagnosis).
 
 The nearest thing to a stated national position sits inside the Ministry of Posts and Telecommunications' [draft National Data Governance Policy](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf), which recommends that machine learning be built into the government's digital roadmap with safeguards for automated decision-making. That draft remains unenacted (2026), so the safeguards bind nobody, and the data classification rules such systems would have to draw on are not in force either.
 

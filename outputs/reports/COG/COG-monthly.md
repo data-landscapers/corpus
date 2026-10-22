@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: COG
-ledger_rows: 22
+ledger_rows: 23
 not_held: 5
-record: f1f20b6f6c55
+record: e25e5d8ac388
 ---
 
 # News, Sep – Oct 2026
@@ -335,6 +335,20 @@ The Republic of Congo's information systems agency ACSI handed the interior mini
 **[Affaires sociales : BEB réaffirme son engagement en faveur de la protection de l’enfance](https://www.adiac-congo.com/content/affaires-sociales-beb-reaffirme-son-engagement-en-faveur-de-la-protection-de-lenfance-171580)** — Les Dépêches de Brazzaville (ADIAC), 11 September 2026
 
 Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met the US NGO Both Ends Believing in Brazzaville on 10 September 2026 about the Children First Software, a tool to monitor children in care institutions and help return them to their families. The NGO, a partner since 2023, said it would help build the platform, train ministry staff and supply equipment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic passenger health screening at Brazzaville</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+WHO Regional Director visit 18 Oct 2026; PDX platform for Ebola border screening; Brazzaville system to follow.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: NAM
-ledger_rows: 38
+ledger_rows: 40
 not_held: 10
-record: 220b5ce657ef
+record: 5f1439a336c9
 ---
 
 # News, Sep – Oct 2026
@@ -24,6 +24,8 @@ record: 220b5ce657ef
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 </nav>
@@ -656,6 +658,20 @@ Namibia's ICT minister launched a National Artificial Intelligence Institute in 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Namibia](https://www.aipolicy.africa/country-profiles/namibia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.11 of 4, joint 29th of 54 (2026); AI strategy at validation; AI and data protection bills in draft.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Internal policy on civil servants' use of AI</p>
 
 <div class="bulletin-item" markdown="1">
@@ -693,6 +709,28 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Bank of Namibia Targets Youth-led Fintech Businesses to Drive Jobs](https://businesspulse360.com/article/namibia-s-youth-led-fintech-startups-could-unlock-new-economic-opportunities)** — Business Pulse 360°, 14 October 2026
 
 At NAMFISA's FinTech Square conference in Windhoek on 14 October 2026, a Bank of Namibia innovation hub officer described the bank's FinTech Youth Programme. It trains young entrepreneurs in financial technology, digital services, regulatory requirements and market access so they can bring products to market.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI tutoring labs in government schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia's first AI tutoring labs launched in Lüderitz](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972)** — Aitsa, 21 October 2026
+
+Two AI tutoring labs at a Lüderitz state school, N$1.15m from BW Kudu and Namport; six more schools in 2027.
 
 </div>
 

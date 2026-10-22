@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: UGA
-ledger_rows: 70
+ledger_rows: 71
 not_held: 11
-record: 3833870ced5e
+record: ee88db0c27b5
 ---
 
 # News, Sep – Oct 2026
@@ -83,6 +83,36 @@ The Uganda Revenue Authority began implementing its taxpayer compliance risk man
 **[Government Launches National Communication Policy 2026](https://ict.go.ug/media/news/government-launches-national-communication-policy-2026)** — Ministry of ICT and National Guidance (Uganda), 13 October 2026
 
 Uganda's Minister of ICT and National Guidance, Justine Kasule Lumumba, launched the National Communication Policy, 2026 in Kampala on 13 October 2026. It sets common communication standards for ministries, agencies and local governments, covering crisis communication, access to public information and citizen feedback, and requires each to adopt and budget for an aligned communication strategy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda launches National Data Strategy](https://www.newvision.co.ug/category/science/uganda-launches-national-data-strategy-NV_242720_102026)** — New Vision, 20 October 2026
+
+New Vision's account of the National Data Strategy's launch in Kampala on 20 October 2026, giving the spend by area: UGX 684.9 billion for data infrastructure and 553 billion for data governance. The strategy itself is summarised under the ministry's document.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda National Data Strategy 2026/27–2030/31](https://ict.go.ug/site/documents/uganda-national-data-strategy.pdf)** — Ministry of ICT and National Guidance, Uganda, 20 October 2026
+
+Uganda's Ministry of ICT and National Guidance published the National Data Strategy 2026/27–2030/31, costed at UGX 1,662.6 billion over five years, mostly from government budgets with UGX 333.6 billion expected from selling data services. It rests on data governance, data infrastructure and use of data, overseen by a steering committee chaired by the finance ministry and run by a National Data Office in the ICT ministry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBOS rejects new national data strategy, labels ICT Ministry launch 'illegal' and 'redundant'](https://www.independent.co.ug/ubos-rejects-new-national-data-strategy-labels-ict-ministry-launch-illegal-and-redundant/)** — The Independent (Uganda), 21 October 2026
+
+The Uganda Bureau of Statistics publicly rejected the ICT ministry's National Data Strategy on 21 October 2026, a day after its launch, calling it illegal, irregular and redundant. Its executive director said the strategy breaches the UBOS Act, which makes the Bureau the coordinator of the National Statistical System, and that existing statistics plans already cover its ground.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: RWA
-ledger_rows: 46
+ledger_rows: 47
 not_held: 7
-record: e98a2c9a1b01
+record: 6e1c85d67e9f
 ---
 
 # News, Sep – Oct 2026
@@ -37,10 +37,28 @@ record: e98a2c9a1b01
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Combined digital and AI compact</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda looks to coordinated AI plan to boost jobs and digital public services](https://thedawnrwanda.com/index.php/2026/10/20/rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-services/economy/)** — The Dawn Rwanda, 20 October 2026
+
+Minister of State Iradukunda at a summit in Korea: digital and AI strategies to merge under one compact.
+
+</div>
+
+</div>
 
 ### Regional collaboration
 

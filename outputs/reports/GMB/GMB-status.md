@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 247
+sources_cited: 248
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -270,7 +270,7 @@ Three digital policing programmes are on record — a 2021 West African Police I
 ### AI
 <!-- tech.ai -->
 
-The most visible artificial-intelligence initiative in Gambian government does not claim to use artificial intelligence. The [National Misinformation and Disinformation Response Centre's own public site describes a process of human analyst review](https://factguard.gov.gm/), and the centre was [launched on 27 April 2026 with ECOWAS funding, built by the Gambian firm Dundal Systems and organised around three pillars — detect, verify, respond](https://grts.gm/news-article-details/news/gambia-launches-west-africas-first-ai-centre-to-fight-fake-news).
+The most visible artificial-intelligence initiative in Gambian government does not claim to use artificial intelligence. The [National Misinformation and Disinformation Response Centre's own public site describes a process of human analyst review](https://factguard.gov.gm/), and the centre was [launched on 27 April 2026 with ECOWAS funding, built by the Gambian firm Dundal Systems and organised around three pillars — detect, verify, respond](https://grts.gm/news-article-details/news/gambia-launches-west-africas-first-ai-centre-to-fight-fake-news). The first platform that does claim it is the UN's: [UNDP and the Independent Electoral Commission launched e-Monitor Plus, an AI-assisted platform with human verification for monitoring online misinformation, disinformation and hate speech, on 13–15 October 2026 ahead of the December presidential election](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia).
 
 Behind that, the state has little to run models on. [The national digital economy masterplan records that The Gambia has never had an AI policy and strategy, and calls for a real-time data analytics system for government that is still to be built](https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf).
 

@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MLI
-ledger_rows: 16
+ledger_rows: 17
 not_held: 2
-record: ee9c0375ed83
+record: 515215ab1579
 ---
 
 # News, Sep – Oct 2026
@@ -255,6 +255,20 @@ Mali's Ministry of National Education held a workshop on 29 July 2026 that appro
 **[Nouvelles technologies : Le Mali se dote d’un centre d’intelligence artificielle et de robotique](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/)** — Burkina24, 21 September 2026
 
 Transition president Assimi Goïta opened Mali's artificial intelligence and robotics centre, CIAR-Mali, at Kati on 21 September 2026. He had laid its foundation stone on 7 June 2023. The 50-hectare site has six buildings, including teaching space, dormitories and a workshop for building intelligent systems, and cost FCFA 3.3 billion, all from the national budget.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Mali](https://www.aipolicy.africa/country-profiles/mali)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.68 of 4, rank 46 of 54 (2026); no AI strategy, APDP operational, Malabo unsigned.
 
 </div>
 

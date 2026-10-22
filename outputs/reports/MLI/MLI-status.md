@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 168
+sources_cited: 170
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -259,7 +259,7 @@ None of this has stopped rural Mali scoring well on the things the register does
 ### AI
 <!-- tech.ai -->
 
-Mali's tax authority set out artificial intelligence as an ambition rather than a working tool in November 2025, describing [a planned data warehouse with business intelligence and artificial intelligence tools to detect inconsistencies and combat fraud](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html), with no date attached to it. The state's own money has gone first into research capacity: [the artificial intelligence and robotics centre was inaugurated at Kati Sirakoro Niaré on 21 September 2026, a 50-hectare, six-block site with a fabrication and assembly workshop for intelligent systems, financed entirely from the national budget at FCFA 3.3 billion](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/). The working models so far are a private lab's: RobotsMali [released a 612-hour transcribed Bambara speech dataset with fine-tuned recognition models in November 2025](https://robotsmali.org/en/african-next-voices-robotsmali-releases-major-bambara-dataset-models-research-tools/), after [two open-source Bambara speech models trained on about 35 hours of audio in February 2025](https://robotsmali.org/en/robotsmali-ai4d-lab-devoile-deux-modeles-open-source-pour-la-reconnaissance-vocale-en-bambara/).
+Mali's tax authority set out artificial intelligence as an ambition rather than a working tool in November 2025, describing [a planned data warehouse with business intelligence and artificial intelligence tools to detect inconsistencies and combat fraud](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html), with no date attached to it. The state's own money has gone first into research capacity: [the artificial intelligence and robotics centre was inaugurated at Kati Sirakoro Niaré on 21 September 2026, a 50-hectare, six-block site with a fabrication and assembly workshop for intelligent systems, financed entirely from the national budget at FCFA 3.3 billion](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/). The working models so far are a private lab's: RobotsMali [released a 612-hour transcribed Bambara speech dataset with fine-tuned recognition models in November 2025](https://robotsmali.org/en/african-next-voices-robotsmali-releases-major-bambara-dataset-models-research-tools/), after [two open-source Bambara speech models trained on about 35 hours of audio in February 2025](https://robotsmali.org/en/robotsmali-ai4d-lab-devoile-deux-modeles-open-source-pour-la-reconnaissance-vocale-en-bambara/). Policy is promised rather than held: [the government told a UN dialogue in Geneva in July 2026 that it would adopt a national AI policy before the end of the year](https://malijet.com/a_la_une_du_mali/310462-geneve-representant-le-president-assimi-goita-le-ministre.html).
 
 ### ICT Industry
 <!-- tech.industry -->
@@ -353,7 +353,7 @@ Nothing sits above these publications as a rule. Data sharing between government
 ### Use of satellite data
 <!-- data.satellite -->
 
-Mali's earth observation and geospatial holdings sit almost entirely in agriculture and weather. The [AgData Hub hosted by Mali-Météo brings climate, soil and crop data together, and a separate electronically registered farmer database drives input subsidy e-vouchers, both standalone donor- and research-led systems with no interoperability with tax, land or civil registration systems](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025). [Mali-Météo commissioned receiving stations for Meteosat Third Generation data on 10 March 2026](https://fr.apanews.net/disasters/mali-meteo-dotee-dun-systeme-satellitaire-de-nouvelle-generation/) under the African Union's PUMA 2025 programme and ClimSA initiative.
+Mali's earth observation and geospatial holdings sit almost entirely in agriculture and weather. The [AgData Hub hosted by Mali-Météo brings climate, soil and crop data together, and a separate electronically registered farmer database drives input subsidy e-vouchers, both standalone donor- and research-led systems with no interoperability with tax, land or civil registration systems](https://sti-portal.fao.org/innovations/agdatahubs-mali-leveraging-digital-platforms-integrate-climate-soil-and-crop-data) (2025). [Mali-Météo commissioned receiving stations for Meteosat Third Generation data on 10 March 2026](https://fr.apanews.net/disasters/mali-meteo-dotee-dun-systeme-satellitaire-de-nouvelle-generation/) under the African Union's PUMA 2025 programme and ClimSA initiative. [A donor-backed scheme pairing SMS weather alerts with satellite-index crop insurance covered 6,322 farmers](https://www.luxaidbusiness4impact.lu/en/project/weather-alerts-and-insurance-for-resilient-farmers-in-mali/) (2025).
 
 ## Geopolitics
 

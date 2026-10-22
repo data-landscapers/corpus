@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-20
+compiled: 2026-10-22
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -297,7 +297,7 @@ What holds the rest back is physical as much as administrative — [rural electr
 
 Botswana's [National AI Policy had reached an advanced stage by December 2025](https://www.unesco.org/ethics-ai/en/botswana), and [UNESCO was still working with Botswana and six other southern African states on drafting national AI policies in August 2026](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/). That follows a [2023 civil-society digital-rights review that found AI regulation still evolving and urged the government to develop a comprehensive AI policy](https://paradigmhq.org/wp-content/uploads/2024/06/Botswana-Londa-Report.pdf). The preparatory work has been done largely with UNESCO: a [readiness assessment report from UNESCO's Harare office examined the country's legal, social, gender, scientific, educational, economic and infrastructural readiness (2025)](https://www.iicba.unesco.org/en/africa-education-knowledge-platform/botswana-artificial-intelligence-readiness-assessment-report), and a minister told the UNESCO General Conference on [3 November 2025 that Botswana had validated the AI Readiness Assessment Methodology](https://dailynews.gov.bw/news-detail/88917).
 
-Where policy is missing, agreements are not. [The digital transformation agreement Botswana signed with Huawei on 13 October 2026 covers AI-powered public security for the police, the President telling the company that the police commissioner was eager to have the capabilities deployed](https://dailynews.gov.bw/news-detail/93668), and [the joint statement issued with China the same day commits Botswana to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm). In health, [OpenEvidence and Penn Medicine announced on 15 September 2026 that an AI clinical decision-support platform would be extended to Botswana through the Botswana-UPenn Partnership, with no timetable, site count or cost given](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/).
+Where policy is missing, agreements are not. [The digital transformation agreement Botswana signed with Huawei on 13 October 2026 covers AI-powered public security for the police, the President telling the company that the police commissioner was eager to have the capabilities deployed](https://dailynews.gov.bw/news-detail/93668), and [the joint statement issued with China the same day commits Botswana to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm). In health, [the United States donated AI tuberculosis-detection software to the Ministry of Health in June 2025](https://bw.usembassy.gov/usg-donates-tb-ai-software-to-moh/), and [OpenEvidence and Penn Medicine announced on 15 September 2026 that an AI clinical decision-support platform would be extended to Botswana through the Botswana-UPenn Partnership, with no timetable, site count or cost given](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/).
 
 Before October the offers came without instruments. The [Chinese ambassador published a signed newspaper article in August 2026](http://www.focac.org/zfzs/202608/t20260824_12009277.htm) offering cooperation on AI for economic diversification, government administration and talent training, and support for e-government, digital-city and big-data public-health practice, naming no counterparty, sum or instrument; [ITWeb Africa reported the same offer](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz). The Emirati health company M42 announced in August 2026 that its [ten-year Botswana health partnership is its first entry into Africa](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The communications minister's [working visits to China and Austria in April 2026, seeking partnerships in AI, computing and data centres](https://itweb.africa/article/botswana-seeks-digital-partnerships-abroad/wbrpOqg2wZbMDLZn), were reported without any agreement or funding attached.
 

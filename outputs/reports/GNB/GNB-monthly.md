@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GNB
-ledger_rows: 10
+ledger_rows: 11
 not_held: 2
-record: 384d706a6338
+record: 6b4b87ec8a53
 ---
 
 # News, Sep – Oct 2026
@@ -229,8 +229,26 @@ A University of Iceland doctoral thesis on inequality among adolescents in Bissa
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#use-of-satellite-data">Use of satellite data</a>
 </nav>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Plans and Projects Information System (SIPP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[26 técnicos capacitados para reforçar o acompanhamento dos projetos de desenvolvimento na Guiné-Bissau](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/)** — Instituto Marquês de Valle Flôr (IMVF), 20 October 2026
+
+26 regional planners and civil-society staff trained 1-3 Sept 2026 on the public SIPP plans-and-projects platform.
+
+</div>
+
+</div>
 
 ### Use of satellite data
 

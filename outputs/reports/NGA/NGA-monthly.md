@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: NGA
-ledger_rows: 160
+ledger_rows: 163
 not_held: 9
-record: 4fc1d92074c7
+record: ca4bd5f13d9c
 ---
 
 # News, Sep – Oct 2026
@@ -1267,6 +1267,20 @@ Digital Parks Africa announced Nigeria Data Centre 1, a carrier-neutral facility
 **[AFRIDATA Nigeria Data Center Feasibility Study (USTDA business opportunity, request for proposals)](https://ustda.gov/business_opp_oversea/afridata-nigeria-data-center-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 15 September 2026
 
 The US Trade and Development Agency has granted US$1,870,000 to Infragora Global Capital for a feasibility study of two data centres in Nigeria's Lagos and Delta states, with 60–70 MW of combined capacity expandable to 100 MW. US firms are invited to bid by 13 October 2026. The centres would be owned by AFRIDATA Datacenter Nigeria Ltd, a company formed for the project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria-Togo data park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Minister proposes pooled continental compute; Nigeria–Togo data park and fibre expansion planned.
 
 </div>
 
@@ -2591,8 +2605,34 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Literacy Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Agency Unveils Dashboard to Track National Digital Literacy Progress](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)** — Voice of Nigeria, 20 October 2026
+
+248 organisations reporting, ~2.76m training achievements since 2022, 32.9% female; DG says counts are not proficiency.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Launches Digital Literacy Dashboard as Nigeria Records 2.7 Million Training Achievements](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)** — Tech Africa News, 21 October 2026
+
+Nigeria's NITDA launched a National Digital Literacy Dashboard to track training and coordinate providers. It records about 2.77 million reported training achievements from 252 organisations over three years, across all 774 local government areas, led by Cisco, NITDA and Meta. It supports national targets of 70% digital literacy by 2027 and 95% by 2030.
+
+</div>
+
+</div>
 
 ### Training and skills
 
@@ -2915,6 +2955,20 @@ The Foundation for Digital Justice filed a fundamental-rights suit against TikTo
 **[TikTok sued over Nigeria blackout](https://itweb.africa/article/tiktok-sued-over-nigeria-blackout/Gb3Bw7WaOZ1q2k6V)** — ITWeb Africa, 6 October 2026
 
 A second report of the suit over TikTok access in four northern Nigerian states, summarised above, frames it as a test of platform accountability and digital rights.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Government Partnership commitment on digital public infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+OGP webinar: DPI label keeps public out; Nigeria's OGP DPI commitment with NITDA to pilot standards in 10 agencies.
 
 </div>
 

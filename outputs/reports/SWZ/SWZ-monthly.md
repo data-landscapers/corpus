@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SWZ
-ledger_rows: 42
+ledger_rows: 43
 not_held: 3
-record: 647e90e07cba
+record: 6c9b400c5604
 ---
 
 # News, Sep – Oct 2026
@@ -659,6 +659,20 @@ The Eswatini Revenue Service said at the opening of the 2026 filing season, repo
 **[Eswatini seeks responsible AI use through national strategy](https://eswatinipositivenews.online/eswatini-seeks-responsible-ai-use-through-national-strategy/)** — Eswatini Positive News, 16 September 2026
 
 Eswatini has hired a consultant to draft a national AI strategy, the ICT minister's representative said at a COMESA regional validation meeting in Ezulwini on 16 September 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Eswatini](https://www.aipolicy.africa/country-profiles/eswatini)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Index score 1.07 of 4, rank 32 of 54 (2026); AI strategy still in draft; DPA appointed; no AI bill text found.
 
 </div>
 

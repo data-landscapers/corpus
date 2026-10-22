@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: COD
-ledger_rows: 60
+ledger_rows: 63
 not_held: 7
-record: 1c798564ef95
+record: 3ffc7fdbe0a8
 ---
 
 # News, Sep – Oct 2026
@@ -760,6 +760,28 @@ DR Congo's Inspection Générale des Finances is recruiting a firm to design and
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital points-of-entry health screening</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+WHO Regional Director visit 18 Oct 2026; PDX platform for Ebola border screening; Brazzaville system to follow.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
+
+First country deployment; AI epidemic intelligence linked to 47-state regional platform; digital entry screening.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -915,6 +937,42 @@ DR Congo's digital economy ministry has published a technical draft of a nationa
 **[Intelligence artificielle en RDC : la notoriété progresse, les usages s’accélèrent \[Target\]](https://globalnewsrdc.net/societe/intelligence-artificielle-en-rdc-la-notoriete-progresse-les-usages-saccelerent-target/)** — globalnewsrdc, 6 October 2026
 
 A survey by the DR Congo consultancy Target Sarl of 2,280 adults in the 26 provincial capitals, conducted from 16 to 22 March 2026, found awareness of artificial intelligence rose from 54% in 2025 to 61%, and use from 24% to 47%. Use stands at 54% among men and 41% among women, and ChatGPT is the most used tool.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: DR Congo](https://www.aipolicy.africa/country-profiles/democratic-republic-of-the-congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.32 of 4, rank 21 of 54 (2026); AI strategy launched Oct 2025, APDP set up 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WHO Preparedness Data Exchange (PDX) platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
 </div>
 

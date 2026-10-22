@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Sep – Oct 2026
-compiled: 2026-10-17
-period: 2026-09-01 to 2026-10-17
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: TCD
-ledger_rows: 32
+ledger_rows: 35
 not_held: 22
-record: 85d5c226eb78
+record: 2e69220c5244
 ---
 
 # News, Sep – Oct 2026
@@ -77,6 +77,20 @@ Chad validated its National Data Governance Strategy at a workshop in N'Djamena 
 **[TRANSFORMATION NUMÉRIQUE : LE TCHAD BÂTIT SA SOUVERAINETÉ DE LA DONNÉE](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)** — CamerPressAgency, 7 October 2026
 
 Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a workshop in N'Djamena to validate the National Data Governance Strategy, reported on 7 October 2026. The strategy runs to 2030 and has seven pillars, including institutional governance, interoperability, personal data protection and skills, with health, education, agriculture, mining and digital finance named as priority sectors. No budget is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National strategy for the digitalisation of technical and vocational education and training</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DIGITALISATION DE L’EFTP : LE TCHAD ENGAGE UNE NOUVELLE ÉTAPE AVEC LA VALIDATION DE SA STRATÉGIE NATIONALE - Enseignement Supérieur du Tchad](https://mesrsfp.gouv.td/2026/10/19/digitalisation-de-leftp-le-tchad-engage-une-nouvelle-etape-avec-la-validation-de-sa-strategie-nationale/)** — Ministere de l Enseignement superieur (Tchad), 19 October 2026
+
+Validation workshop 14 Oct 2026 with IFEF support; three axes: governance, infrastructure, digital skills.
 
 </div>
 
@@ -224,6 +238,20 @@ The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 Octo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre interconnection with Libya</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Fibre already at Egyptian border; Chad link under way with Chadian authorities; MEDUSA cable as Sahel route to Europe.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
 <div class="monthly-story" markdown="1">
@@ -303,6 +331,20 @@ Chad's telecommunications minister, Haliki Choua Mahamat, told the World Bank's 
 **[Tchad : le ministre des Télécommunications échange avec les partenaires européens sur la transformation numérique](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/)** — tachad.com, 9 October 2026
 
 Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km, citing the Trans-Saharan backbone and links with Libya and Nigeria. He also named a World Bank-funded project for uncovered areas and a national data centre, and said a digital code is still being drafted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active international internet links</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : Le plan de connexion au réseau internet mondial présenté au GAIDS à Séoul - Digital Business Africa](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)** — Digital Business Africa, 20 October 2026
+
+Minister at Seoul summit: one live international link, via Cameroon; World Bank PATN and CARDIP as the way out.
 
 </div>
 

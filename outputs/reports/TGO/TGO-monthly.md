@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: TGO
-ledger_rows: 55
-not_held: 18
-record: aee0ab3ef4ab
+ledger_rows: 59
+not_held: 17
+record: cd20062fcc99
 ---
 
 # News, Sep – Oct 2026
@@ -116,6 +116,20 @@ Togo's education minister, Mama Omorou, opened a regional workshop in Lomé on 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial-intelligence strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Index score 1.24 of 4, rank 26 of 54 (2026); AI strategy in draft; Digital Code pending; Malabo ratified.
+
+</div>
+
+</div>
+
 ### Legislation and regulation
 
 <div class="monthly-story" markdown="1">
@@ -185,6 +199,20 @@ The data protection authority convened ministry chiefs of staff and secretaries-
 **[Togo : l’IPDCP lance la certification des correspondants à la protection des données](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/)** — Le Nouveau Reporter, 5 October 2026
 
 Togo's personal data protection authority, IPDCP, opened its first evaluation and certification session for data protection officers in Atakpamé on 30 September 2026. Thirty-two professionals from banking, insurance, telecoms, public administration and other sectors were assessed under Law 2019-014, and only those reaching the required level may hold the title.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cooperation accord between the broadcasting and data-protection authorities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Médias et protection des données personnelles : l’IPDCP et la HARC renforcent leur partenariat](https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/)** — IPDCP (Togo), 20 October 2026
+
+IPDCP team embedded in HARC media monitoring from 19 Oct 2026, under convention signed 10 Dec 2025.
 
 </div>
 
@@ -329,6 +357,8 @@ Togo's energy ministry launched an international tender for 5,200 smart-metering
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technical-capacity">Technical Capacity</a>
@@ -347,6 +377,22 @@ Togo's energy ministry launched an international tender for 5,200 smart-metering
 **[Togo's Mobile Quality Results Show YAS Ahead Nationally, MAT Leading on 4G](https://www.togofirst.com/en/telecom/2709-20179-togo-s-mobile-quality-results-show-yas-ahead-nationally-mat-leading-on-4g)** — Togo First, 27 September 2026
 
 Summarised under [Standards](#standards).
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nigeria-Togo data park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Minister proposes pooled continental compute; Nigeria–Togo data park and fibre expansion planned.
 
 </div>
 
@@ -849,6 +895,20 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 **[Le Togo collecte des données en éwé, kabyè et moba pour entraîner ses futurs modèles d’IA](https://www.agenceecofin.com/actualites/1610-142485-le-togo-collecte-des-donnees-en-ewe-kabye-et-moba-pour-entrainer-ses-futurs-modeles-d-ia)** — Agence Ecofin, 16 October 2026
 
 Togo's digital transformation ministry launched Voix du Togo in October 2026, a three-year programme collecting voice and text data in national languages to train AI models, starting with Ewe, Kabiye and Moba. The target for each language is 50 hours of validated audio, 6,000 translated sentence pairs and at least 500 contributors; health, justice and administrative services are the intended uses.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: LBR
-ledger_rows: 36
+ledger_rows: 37
 not_held: 6
-record: 2225b202014f
+record: 66c4debaf14d
 ---
 
 # News, Sep – Oct 2026
@@ -673,6 +673,20 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 **[Transforming Taxpayer Services: LRA Advances AI-Powered Contact Center](https://www.linkedin.com/posts/liberiarevenueauthority_transforming-taxpayer-services-lra-advances-activity-7503618260676984832-UCBw)** — Liberia Revenue Authority, 10 September 2026
 
 The Liberia Revenue Authority said on 10 September 2026 that it is developing an AI-powered contact center for taxpayer information on tax and customs matters. Its Tax Knowledge Governance Committee recently held a working retreat in Margibi County on the contact center's knowledge base; the Taxpayer Services Division is leading the work with the Kwagei Group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI retinal screening camera at JFK Medical Center</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Real-world validation of an AI-based non-mydriatic fundus camera in the diagnosis of diabetic retinopathy in Liberia](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1938702/full)** — Frontiers in Digital Health, 24 September 2026
+
+Offline AI fundus camera at JFK Medical Center, Monrovia: 90.9% sensitivity, 99.7% specificity on 1,198 participants.
 
 </div>
 

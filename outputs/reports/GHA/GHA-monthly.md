@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GHA
-ledger_rows: 111
+ledger_rows: 113
 not_held: 9
-record: eda618a56d64
+record: 81f08ffa6b50
 ---
 
 # News, Sep – Oct 2026
@@ -1156,6 +1156,20 @@ Ghana's National Identification Authority will begin Ghana Card registration of 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Ghana Card replacement for citizens abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIA rolls out online Ghana Card replacement service for Ghanaians in 11 countries](https://www.adomonline.com/nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countries/)** — Adom Online, 20 October 2026
+
+Diaspora in UK, US, Canada, UAE and seven more countries can replace cards online; also at four Prestige centres.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -1783,6 +1797,20 @@ Summarised under [Standards](#standards).
 **[Sam George tasks KNUST to develop Twi AI model as Ghana plans local-language artificial intelligence](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/)** — MyJoyOnline, 12 October 2026
 
 Ghana's communications minister said national AI language models will be built locally, tasking a Kumasi university to lead a Twi model and other universities to lead other Ghanaian languages. Voice interfaces for farmers and telemedicine are planned; no budget or timetable was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI focal persons in every ministry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana appoints AI focal points in all ministries to boost national digital readiness](https://accraposts.com/ghana-ai-focal-points-ministries/)** — Accra Posts, 18 October 2026
+
+Cabinet AI boot camp; UNESCO readiness assessment of ministries; data protection law under review (Oct 2026).
 
 </div>
 

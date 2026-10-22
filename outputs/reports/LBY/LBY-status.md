@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 186
+sources_cited: 188
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -249,7 +249,7 @@ The blank runs into the measurement as well. All four rural-economy indicators i
 ### AI
 <!-- tech.ai -->
 
-Libya has a domestic generative-AI system of its own: LIBIGPT [went public in October 2025](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade). In banking, [Tadamon Bank is building an AI chatbot and interactive voice response service with an Indian vendor](https://alwasat.ly/news/economy/516048), still in development as at April 2026, and [the audit bureau began building an in-house AI model, Diwan Bot, for audit and oversight analysis in early 2026](https://lana.gov.ly/post.php?id=358534&lang=en). That is close to the whole of what is running.
+Libya has a domestic generative-AI system of its own: LIBIGPT [went public in October 2025](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade). In banking, [Tadamon Bank is building an AI chatbot and interactive voice response service with an Indian vendor](https://alwasat.ly/news/economy/516048), still in development as at April 2026, and [the audit bureau began building an in-house AI model, Diwan Bot, for audit and oversight analysis in early 2026](https://lana.gov.ly/post.php?id=358534&lang=en). [The labour ministry's AI-supported integrated platform was about 30% complete in April 2026](https://ar.libyaobserver.ly/article/36835). That is close to the whole of what is running or being built.
 
 What is planned is much larger. Libya's current national AI strategy [commits the Tripoli-based government to a National Data Exchange Platform by 2028, to automating half of government transactions and digitising 70% of paper records by 2030, and to AI models for detecting financial fraud and money laundering](https://www.gia.gov.ly/en/2026/06/02/libya-adopts-the-ethical-charter-and-artificial-intelligence-strategy-with-a-2030-vision-and-ambitious-goals/) (June 2026). Those are dates to be met. Behind them sits the older [National Artificial Intelligence Policy](https://www.cim.gov.ly/media-center/66) issued by the Ministry of Communications and Informatics in 2024, which remains the single published instrument covering artificial intelligence, broadband, cybersecurity, data centres and cloud services, data protection, digital identification, digital payments, digital signatures and e-commerce alike.
 
@@ -342,7 +342,7 @@ The exception is the payment rail, where the Central Bank of Libya [publishes LY
 ### Use of satellite data
 <!-- data.satellite -->
 
-Earth observation in Libya is used at sector level and not much beyond it. The [FAO and AICS-funded MerWat-Libya geospatial platform, launched in March 2024](https://data.apps.fao.org/merwat-libya/?lang=en), lets the Ministries of Agriculture and Water Resources and the Libyan Centre for Remote Sensing share land and water use data, but it stands outside the national data exchange. Land administration has had no such refresh: UN-Habitat's 2024 assessment finds the [cadastre still resting on incomplete aerial photogrammetry with no modern GIS or spatial database behind it](https://unhabitat.org/sites/default/files/2024/02/land_admininistration_and_land_rights_for_peace_and_development_in_libya.pdf), survey work having been suspended after 2011.
+Earth observation in Libya is used at sector level and not much beyond it. The [FAO and AICS-funded MerWat-Libya geospatial platform, launched in March 2024](https://data.apps.fao.org/merwat-libya/?lang=en), lets the Ministries of Agriculture and Water Resources and the Libyan Centre for Remote Sensing share land and water use data, but it stands outside the national data exchange. [The grain production authority's partnership with the Sahara and Sahel Observatory moved to training on satellite services for monitoring cereal campaigns in September 2025](https://www.oss-online.org/en/GMES%26%20Libye). Land administration has had no such refresh: UN-Habitat's 2024 assessment finds the [cadastre still resting on incomplete aerial photogrammetry with no modern GIS or spatial database behind it](https://unhabitat.org/sites/default/files/2024/02/land_admininistration_and_land_rights_for_peace_and_development_in_libya.pdf), survey work having been suspended after 2011.
 
 ## Geopolitics
 

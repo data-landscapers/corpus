@@ -1,11 +1,11 @@
 ---
 title: Eritrea — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: ERI
-ledger_rows: 3
+ledger_rows: 4
 not_held: 22
-record: bf6f2059ca4e
+record: 9d040d966563
 ---
 
 # News, Sep – Oct 2026
@@ -61,8 +61,26 @@ An Eritrean human-rights group reports that a central bank legal notice of 9 Sep
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Eritrea](https://www.aipolicy.africa/country-profiles/eritrea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.08 of 4, last of 54 (2026); no AI strategy, data protection law or authority found.
+
+</div>
+
+</div>
 
 ### Innovation ecosystem
 

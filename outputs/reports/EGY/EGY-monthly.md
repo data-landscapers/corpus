@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: EGY
-ledger_rows: 97
+ledger_rows: 98
 not_held: 41
-record: b34c80855eb9
+record: 8e159e63be1b
 ---
 
 # News, Sep – Oct 2026
@@ -1185,6 +1185,20 @@ Egypt's Digital Egypt platform now offers notarisation and real-estate registry 
 **[Key Ration Card Services Now Available on Digital Egypt](https://www.scenenow.com/News/Key-Ration-Card-Services-Now-Available-on-Digital-Egypt)** — SceneNow, 12 October 2026
 
 Egypt has put key ration card services on the Digital Egypt platform: heads of household can update card data, replace or activate cards, transfer a file between governorates and add family members. The data-update service is being introduced in Port Said for an initial three months before other governorates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consular services app for Egyptians abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Ministry launches pilot operation of e-platform for consular services for Egyptians abroad](https://sis.gov.eg/en/media-center/news/foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-for-egyptians-abroad/)** — State Information Service (Egypt), 21 October 2026
+
+Pilot app covers 17 missions from Prague to Melbourne; transactions trackable, wider rollout to follow.
 
 </div>
 

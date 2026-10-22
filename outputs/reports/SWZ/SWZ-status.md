@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 208
+sources_cited: 210
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -270,7 +270,7 @@ What there is to capture is itself partly unrecorded. [Land held under customary
 ### AI
 <!-- tech.ai -->
 
-The furthest artificial intelligence has got inside Eswatini's government is a procurement document: the Eswatini Revenue Service [asked tenderers in May 2025 for a fiscalisation system whose machine-learning algorithms would flag irregularities in taxpayer data and profile high-risk taxpayers](https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/), stand-alone and outside any inter-agency data exchange. Nothing equivalent has reached the public: the index that surveys citizen-facing government services [records no use of AI or chatbots in them](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The visible AI deployment beyond tax is in the street rather than the service — [AI-enabled cameras form part of the smart-city fit-out of the capital, Mbabane](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) (August 2025). At a summit in Seoul on 19 October 2026 the ICT minister presented [a proposed AI-enabled platform for reaching government services and making payments from a mobile phone, with no implementation date](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/).
+Inside government artificial intelligence has reached health first: [an AI diabetic-retinopathy screening system went live in six public hospitals and clinics in August 2025](https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/), after [an AI-enabled SMS tool for tracking infant immunisation was piloted with the health ministry from August 2022 to March 2023, enrolling more than 1,300 mothers](https://jacarandahealth.org/pilot-results-testing-an-mhealth-approach-to-reach-the-last-mile-of-eswatinis-under-immunized-infants/). In tax it has got as far as a procurement document: the Eswatini Revenue Service [asked tenderers in May 2025 for a fiscalisation system whose machine-learning algorithms would flag irregularities in taxpayer data and profile high-risk taxpayers](https://eswatinifinancialtimes.africa/daily-business-transactions-monitored-ai-to-uncover-potential-tax-fraud/), stand-alone and outside any inter-agency data exchange. Nothing equivalent has reached the public: the index that surveys citizen-facing government services [records no use of AI or chatbots in them](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The visible AI deployment beyond tax is in the street rather than the service — [AI-enabled cameras form part of the smart-city fit-out of the capital, Mbabane](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) (August 2025). At a summit in Seoul on 19 October 2026 the ICT minister presented [a proposed AI-enabled platform for reaching government services and making payments from a mobile phone, with no implementation date](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/).
 
 Regulation has arrived sideways. The communications regulator ESCCOM [urged broadcasters in November 2025 to manage AI ethically and transparently, warning that misinformation and deepfakes erode public trust](https://times.co.sz/news/readmore.php?bhsadjgfoh=ESCCOM+issues+AI+warning+on+deep+fakes&bvhdgsj=News&yiphi=1904), guidance to licensees rather than an enforceable rule. The ICT ministry then said in August 2026 that it had completed [Online Media Publishing Guidelines 2026, whose registration requirement for online publishers carries provisions on the responsible use of AI in publishing](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/). Governance of AI and robotics also sits among the [areas of legislation announced as in preparation and not yet enacted](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) (August 2025).
 

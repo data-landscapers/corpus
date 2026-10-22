@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-19
-period: 2026-09-01 to 2026-10-19
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MWI
-ledger_rows: 45
+ledger_rows: 46
 not_held: 31
-record: 014676dba533
+record: 80132e2e1911
 ---
 
 # News, Sep – Oct 2026
@@ -829,6 +829,20 @@ Malawi's regulator backed AI-powered crime cameras for Blantyre after meeting ci
 **[Malawi's Telecoms Regulator Proposes AI Surveillance Network for Blantyre](https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/)** — iAfrica.com, 28 September 2026
 
 Malawi's communications regulator recommended AI surveillance cameras for Blantyre under its Smart City Surveillance Initiative, a pilot combining number-plate recognition, traffic monitoring and a central command centre at four sites. No cost, supplier, timeline or rules on footage have been published, and the country has no AI policy yet.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Malawi](https://www.aipolicy.africa/country-profiles/malawi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.14 of 4, rank 27 of 54 (2026); AI strategy 2026-2031 still draft v0; Data Protection Act 2024 in force.
 
 </div>
 

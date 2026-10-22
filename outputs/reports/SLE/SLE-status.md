@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -360,7 +360,7 @@ Publication runs through the 2013 access-to-information Act, under which the sta
 
 Sierra Leone's geospatial work took its first institutional shape in mid-2026, and it came through a partnership rather than a state body. The Directorate of Science, Technology and Innovation and Catholic Relief Services [signed a memorandum of understanding on geospatial technology](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) in June 2026, under which a [Coordination and Visualization Platform for geospatial data was set to launch the following month](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) (June 2026), alongside a [spatial data science workshop training government leaders in GIS, remote sensing and hazard mapping for disaster management and water and sanitation planning](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/) (June 2026). No national space or geospatial agency, ground receiving facility, or space or geospatial data policy had been established as at August 2026.
 
-Satellite services otherwise reach the country as procurement rather than capability. [Starlink launched in Sierra Leone in June 2024](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) and the regulator counts it as [licensed and two years in operation](https://sierraloaded.sl/news/natca-boss-rural-network-expansion-global/) (March 2026), and the government has used it to [connect universities under the National Broadband Strategy](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/) (January 2025). The clearest operational use of geospatial data is in land: under the Sierra Leone Land Administration Project [a firm has been recruited to build the land information and cadastral system and records digitisation is under way, with no public digital cadastre in operation](https://documents1.worldbank.org/curated/en/099041024065516011/pdf/P1770311f0362d0d01b4bf1fa651ae664b7.pdf) (2026).
+The one farm use is insurance: [the agriculture ministry launched the country's first weather index insurance in May 2025, with payouts triggered automatically from satellite-monitored weather](https://sierraloaded.sl/news/salone-launches-first-index-insurance-farmers/). Satellite services otherwise reach the country as procurement rather than capability. [Starlink launched in Sierra Leone in June 2024](https://www.connectingafrica.com/connectivity/sierra-leone-invests-400m-in-telecoms-60-usage-gap-remains) and the regulator counts it as [licensed and two years in operation](https://sierraloaded.sl/news/natca-boss-rural-network-expansion-global/) (March 2026), and the government has used it to [connect universities under the National Broadband Strategy](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/) (January 2025). The clearest operational use of geospatial data is in land: under the Sierra Leone Land Administration Project [a firm has been recruited to build the land information and cadastral system and records digitisation is under way, with no public digital cadastre in operation](https://documents1.worldbank.org/curated/en/099041024065516011/pdf/P1770311f0362d0d01b4bf1fa651ae664b7.pdf) (2026).
 
 ## Geopolitics
 

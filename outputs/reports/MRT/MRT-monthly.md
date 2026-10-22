@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MRT
-ledger_rows: 23
+ledger_rows: 24
 not_held: 3
-record: c98303c59aad
+record: 3feee1d408e0
 ---
 
 # News, Sep – Oct 2026
@@ -413,6 +413,20 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 **[تنظيم ورشة تكوينية حول نظام الإنذار المبكر الزراعي والهيدرولوجي القائم على تقنيات الذكاء الاصطناعي](https://www.ami.mr/archives/267828)** — Agence Mauritanienne d'Information (AMI), 8 September 2026
 
 Mauritania's national meteorological office ran a two-day workshop in Nouakchott from 8 September 2026 for regional administrators and its own staff on an AI-based agricultural and hydrological early warning system using the AGRIFEMIA platform. The training aims to improve forecasting of climate risks to agriculture and water resources.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Mauritania](https://www.aipolicy.africa/country-profiles/mauritania)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.99 of 4, rank 33 of 54 (2026); AI strategy adopted March 2024; 2017 data protection law lacks decrees.
 
 </div>
 

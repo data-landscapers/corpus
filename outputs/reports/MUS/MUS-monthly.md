@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MUS
-ledger_rows: 27
+ledger_rows: 28
 not_held: 7
-record: df34d991ce69
+record: a6999484a188
 ---
 
 # News, Sep – Oct 2026
@@ -325,6 +325,20 @@ Mauritius runs a central offsite backup service for government electronic media 
 **[Atelier Maurice-Meta : Vers une riposte plus rapide face aux dérives du numérique](https://lexpress.mu/node/563366)** — L'Express (Maurice), 8 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber Threat Intelligence Sharing Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
+
+Central bank tender for a sector-wide threat-sharing platform; encrypted bids due 20 November 2026.
 
 </div>
 

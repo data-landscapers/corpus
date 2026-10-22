@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GMB
-ledger_rows: 48
+ledger_rows: 49
 not_held: 2
-record: aa9e7ec83a1b
+record: aec688d2d360
 ---
 
 # News, Sep – Oct 2026
@@ -375,6 +375,20 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 **[Country Profile on AI Governance: The Gambia](https://www.aipolicy.africa/country-profiles/gambia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 37 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.30) and its weakest is Implementation and Impact (0.22).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Monitor Plus electoral information-integrity platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP Launches e-Monitor Plus Platform to Safeguard Electoral Information Integrity in The Gambia — Askanwi](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia)** — Askanwi, 18 October 2026
+
+Launched 13-15 Oct 2026 under UNDP INSPIRE; AI plus human verification ahead of 5 Dec presidential vote.
 
 </div>
 

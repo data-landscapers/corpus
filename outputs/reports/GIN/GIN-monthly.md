@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GIN
-ledger_rows: 22
+ledger_rows: 25
 not_held: 3
-record: febc66b48c33
+record: 03c4fa453b9a
 ---
 
 # News, Sep – Oct 2026
@@ -31,10 +31,28 @@ record: febc66b48c33
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature implementing texts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
+
+Nine draft e-signature texts reviewed 21 Oct 2026 after August decree; justice to fold e-signature into procedure code.
+
+</div>
+
+</div>
 
 ### Regional collaboration
 
@@ -366,6 +384,20 @@ Guinea's minister of administrative modernisation and the civil service, Faya Fr
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">State public-key infrastructure for electronic signature</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -373,6 +405,20 @@ Guinea's minister of administrative modernisation and the civil service, Faya Fr
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Guinea (Conakry)](https://www.aipolicy.africa/country-profiles/guinea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.76 of 4, rank 40 of 54 (2026); AI roadmap validated Dec 2025, DPA not yet operational.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

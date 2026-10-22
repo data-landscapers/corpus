@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: KEN
-ledger_rows: 143
+ledger_rows: 144
 not_held: 7
-record: a5c0d64ec7a9
+record: e08e6fdb3eeb
 ---
 
 # News, Sep – Oct 2026
@@ -311,6 +311,20 @@ The Central Bank of Kenya's final regulations for non-deposit-taking credit prov
 **[Senators push Bill to transform KNBS into Kenya Statistics Authority](https://peopledaily.digital/news/senators-push-bill-to-transform-knbs-into-kenya-statistics-authority)** — People Daily, 12 October 2026
 
 Kenya's Senate finance and budget committee reviewed the draft Statistics Bill 2026 with the national statistics bureau, KNBS, on 12 October 2026. The bill would turn KNBS into a Kenya Statistics Authority as sole producer of official statistics, require a statistics office in every county and set fines of up to KSh 5 million. Senators questioned the authority's independence.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Amendment for digital land succession through eCitizen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Going digital: Why MPs want land succession done digitally through E-Citizen](https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398)** — Daily Nation, 21 October 2026
+
+Petitions committee backs amending Law of Succession Act for land succession via e-Citizen and Huduma Centres.
 
 </div>
 

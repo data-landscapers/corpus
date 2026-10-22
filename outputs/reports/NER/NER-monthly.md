@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: NER
-ledger_rows: 20
+ledger_rows: 21
 not_held: 1
-record: 4bb199251121
+record: 896a6486b9a5
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 4bb199251121
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -379,6 +381,28 @@ Niger's education minister Élisabeth Shérif chaired a meeting on 14 October 20
 **[Ministère de la Communication et des NTI : le nouveau ministre Hamani Kargné officiellement installé](https://www.actuniger.com/politique/22383-ministere-de-la-communication-et-des-nti-le-nouveau-ministre-hamani-kargne-officiellement-installe.html)** — ActuNiger, 24 September 2026
 
 Hamani Kargné took office as Niger's Minister of Communication and New Information Technologies at a handover ceremony on 22 September 2026, succeeding Adji Ali Salatou. His stated priorities include digitising public services through a secure government intranet, narrowing the digital divide between rural areas and towns, supporting start-ups and cybersecurity.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Niger](https://www.aipolicy.africa/country-profiles/niger)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.73 of 4, rank 42 of 54 (2026); no AI strategy; data protection authority dissolved June 2026.
 
 </div>
 

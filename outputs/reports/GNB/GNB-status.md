@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 172
+sources_cited: 173
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -372,6 +372,8 @@ Outside education, fisheries, health and agriculture, sectoral statistical produ
 What the state publishes and what a citizen can obtain have moved in opposite directions. Disclosure of public records — what government puts out of its own accord — [rose 12.5 points over 2014–2023 to 25.0 of 100, 38th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf), while accessibility of public records, whether citizens can actually obtain government records and data, [fell 6.0 points to 6.7 of 100 in 2023, 50th of 54, one of the country's ten worst and ten most deteriorated indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). Guinea-Bissau has [no access-to-information law in force](https://www.unesco.org/fr/articles/guinee-bissau-validation-du-projet-de-loi-sur-lacces-linformation) (October 2024).
 
 The one recent addition is macroeconomic. Guinea-Bissau [implemented the IMF's enhanced General Data Dissemination System and launched its National Summary Data Page on 8 July 2024](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system), [publishing national accounts and prices, government operations and debt, the monetary and financial sector and the external sector in both human-readable and machine-readable form at launch](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system), with data [supplied by INE, the Ministry of Finance and the regional central bank BCEAO](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system). The page is [hosted on a national Open Data Platform provided by the African Development Bank](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system), and participation in the standard is [voluntary](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system).
+
+Regional planning has its own public window: [the Plans and Projects Information System lets citizens consult regional development plans, ongoing projects, the bodies responsible and the sums involved, with entry reserved to regional planners and authorised civil-society staff, 26 of whom were trained on it in September 2026](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/).
 
 The other national open-data facility belongs to parliament. The Assembleia Nacional Popular runs a [Dados Abertos page exposing four JSON datasets over an API — institutional, ombudsman, legislative-process and transparency data — alongside an endpoint serving all published site content in the same machine-readable format](https://www.parlamento.gw/transparencia/dados-abertos), [built on Interlegis and taking its definition of open data from Brazil's federal open-data portal and the Open Knowledge Foundation](https://www.parlamento.gw/transparencia/dados-abertos). The page [carries a stated last-modification date of 1 April 2015](https://www.parlamento.gw/transparencia/dados-abertos).
 

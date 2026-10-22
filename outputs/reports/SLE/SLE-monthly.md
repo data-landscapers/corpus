@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SLE
-ledger_rows: 35
+ledger_rows: 36
 not_held: 4
-record: 9efce7652875
+record: 2b21f06813b3
 ---
 
 # News, Sep – Oct 2026
@@ -634,6 +634,8 @@ Sierra Leone's National Civil Registration Authority registered 100 inmates from
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -701,6 +703,22 @@ Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Cens
 **[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
 
 Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Committee for UNESCO's Information for All Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
+
+Foreign Ministry announcement; Freetown information-integrity conference of 28 Sept 2026 drew 41 countries.
 
 </div>
 

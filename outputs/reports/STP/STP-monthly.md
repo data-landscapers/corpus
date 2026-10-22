@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: STP
-ledger_rows: 1
+ledger_rows: 2
 not_held: 5
-record: 76f13a7d5081
+record: 343f4811ce6d
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: 76f13a7d5081
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 </nav>
 
 ## ICT Infrastructure
@@ -33,6 +35,28 @@ record: 76f13a7d5081
 **[Internet Society Pulse: Sao Tome and Principe internet resilience](https://pulse.internetsociety.org/en/resilience/ST)** — Internet Society, 18 September 2026
 
 The Internet Society's resilience index scores São Tomé and Príncipe at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44, across infrastructure, market readiness, performance and security.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: São Tomé and Príncipe](https://www.aipolicy.africa/country-profiles/sao-tome-and-principe)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.92 of 4, rank 36 of 54 (2026); no AI strategy or law; 2016 data protection law; Malabo ratified 2023.
 
 </div>
 

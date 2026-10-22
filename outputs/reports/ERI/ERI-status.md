@@ -1,12 +1,12 @@
 ---
 title: Eritrea: status report
-compiled: 2026-10-18
+compiled: 2026-10-22
 place: ERI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 24
-sources_cited: 114
+sources_cited: 115
 sections_written: 39
 not_established: 4
 acquire_lines: 19
@@ -252,7 +252,7 @@ The most visible use of AI touching Eritrea in 2026 was against it and about it:
 
 The state's own position on paper is empty. Eritrea has [no dedicated AI law, no published national AI strategy and no AI regulator](https://www.levellers.ai/what-is/ai-regulation-eritrea) (June 2026).
 
-Use is scattered and small. The health ministry [took up CAD4TB, offline software that reads chest X-rays for tuberculosis, to screen people in remote areas](https://delft.care/healthcare-radius/), on the vendor's account of 2020. Language work runs outside the state: [GeezLab's research programme releases Tigrinya and Tigre datasets and models openly, among them a 10.6K-pair question-answering benchmark and a named-entity corpus led by Mai Nefhi engineering students, with base language models in progress](https://research.geezlab.com/) (2026).
+Use is scattered and small. The health ministry [took up CAD4TB, offline software that reads chest X-rays for tuberculosis, to screen people in remote areas](https://delft.care/healthcare-radius/), and [extended it to eight more sites in 2026, after six installations in 2024](https://delftimaging.com/impact/eritrea/), on the vendor's account. Language work runs outside the state: [GeezLab's research programme releases Tigrinya and Tigre datasets and models openly, among them a 10.6K-pair question-answering benchmark and a named-entity corpus led by Mai Nefhi engineering students, with base language models in progress](https://research.geezlab.com/) (2026).
 
 ### ICT Industry
 <!-- tech.industry -->

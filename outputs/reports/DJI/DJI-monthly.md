@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: DJI
-ledger_rows: 15
+ledger_rows: 17
 not_held: 11
-record: fcf67279bac1
+record: 50656261c3bb
 ---
 
 # News, Sep – Oct 2026
@@ -153,6 +153,34 @@ Djibouti's customs administration plans an electronic single window bringing cus
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CorridorVision AI road-condition monitoring</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti Unveils AI Tools to Modernize Ports and Logistics](https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics)** — Dawan Africa, 2 September 2026
+
+DPFZA shows DPCS Foresight container-pickup prediction and DPCR Vision AI road monitoring at the national AI forum.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DPCS Foresight container-collection prediction</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Djibouti Unveils AI Tools to Modernize Ports and Logistics](https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics)** — Dawan Africa, 2 September 2026
+
+Summarised under [AI](#ai).
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: XCA
 ledger_rows: 14
 not_held: 0
-record: 2094de67a2d1
+record: 15f3dc8fe1ab
 ---
 
 # News, Sep – Oct 2026
@@ -55,6 +55,14 @@ The UN Economic Commission for Africa, the Economic Community of Central African
 **[Afrique centrale : la CEEAC avance vers un cadre commun de gouvernance des donnees transfrontalieres](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/)** — Journal des Nations, 8 September 2026
 
 Experts from member states of the Economic Community of Central African States met in Douala, Cameroon, from 31 August to 4 September 2026 to draft a common framework for cross-border data governance. They reviewed countries' readiness and worked to harmonise technical contributions; GIZ, AUDA-NEPAD, UNECA and the African Union Commission were involved.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECCAS validates regional data governance framework to advance digital integration in Central Africa](https://www.uneca.org/stories/eccas-validates-regional-data-governance-framework-to-advance-digital-integration-in-central)** — United Nations Economic Commission for Africa, 20 October 2026
+
+Validated in Brazzaville 19-20 Oct 2026; six pillars incl. cross-border data flows; 36-month three-phase roadmap.
 
 </div>
 

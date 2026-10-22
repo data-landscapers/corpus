@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 247
+sources_cited: 249
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -265,7 +265,7 @@ The state's answer is to connect buildings. [The World Bank-financed digital acc
 ### AI
 <!-- tech.ai -->
 
-The only artificial intelligence running in Ivorian public service delivery is a chatbot: [EMY 101 answers citizens' administrative queries on WhatsApp and Messenger](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-emy-101-un-chatbot-pour-rapprocher-l-administration-des-citoyens), and [since March 2026 on a toll-free 101 line, giving civil-status and tax guidance and taking problem reports](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-emy-101-ai-chatbot-for-public-services). The government's own data-exchange layer carries [no analytics, data-quality or predictive capability](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-emy-101-un-chatbot-pour-rapprocher-l-administration-des-citoyens) of that kind.
+[Since 5 October 2026 community health workers in Gontougo's five health districts have used mHealth One, an AI version of the community health platform giving treatment guidance, data-quality alerts and a plain-French query assistant, deployed under the health ministry with UNICEF support](https://www.mhealth-africa.org/en/actualites/la-cote-divoire-deploie-mhealth-one-la-version-de-mhealth-integrant-lintelligence-artificielle/). It joins [machine-learning forecasts of family-planning commodity needs that the health ministry has developed with a US firm since 2021](https://community.dhis2.org/t/leveraging-dhis2-data-to-create-ai-driven-health-facility-forecasts-in-cote-d-ivoire/58136). Outside health, the AI facing citizens is a chatbot: [EMY 101 answers citizens' administrative queries on WhatsApp and Messenger](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-emy-101-un-chatbot-pour-rapprocher-l-administration-des-citoyens), and [since March 2026 on a toll-free 101 line, giving civil-status and tax guidance and taking problem reports](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-emy-101-ai-chatbot-for-public-services). The government's own data-exchange layer carries [no analytics, data-quality or predictive capability](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-emy-101-un-chatbot-pour-rapprocher-l-administration-des-citoyens) of that kind.
 
 The policy is far ahead of the practice, and says so itself. The National Artificial Intelligence Strategy to 2030 [describes AI adoption within the public administration as embryonic](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojp2dncmoa72uz3-Cote%20d%20ivoire%20AI%20strategy.pdf). It is [costed at 912bn FCFA across 15 objectives and 109 projects over five years](https://www.fratmat.info/article/2631710/economie/intelligence-artificielle-et-defense-les-enjeux-du-siade-2025-pour-la-transformation-de-la-cote-divoire) (February 2025), and the package it belongs to [provides for a sovereign cloud, a "Safe AI" label and a National Committee to steer implementation](https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy). It was [presented to the private sector in May 2025](https://www.fratmat.info/article/2633904/economie/strategies-nationales-de-lia-et-de-la-gouvernance-des-donnees-les-deux-outils-presentes-au-secteur-prive), and the [ministry opened recruitment for senior digital posts, among them an innovation and AI adviser, as the strategy was put into effect](https://www.wearetech.africa/fr/fils/actualites/tech/cote-d-ivoire-six-cadres-recherches-dans-l-ia-la-cybersecurite-et-la-transformation-numerique) (May 2026).
 

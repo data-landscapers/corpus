@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: LBY
-ledger_rows: 40
+ledger_rows: 41
 not_held: 4
-record: 601a694ee490
+record: ce481b18d1f7
 ---
 
 # News, Sep – Oct 2026
@@ -235,6 +235,20 @@ Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submar
 **[Medusa Submarine Cable System Completes Shore-End Installation in Libya](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/)** — Tech Africa News, 20 October 2026
 
 The Medusa submarine cable system completed its Pre-Laid Shore End installation in Benghazi, Libya, as reported on 20 October 2026. This is the pre-installed cable section between the landing site and the offshore connection point. No value or completion date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre link to the Chadian border</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+Fibre already at Egyptian border; Chad link under way with Chadian authorities; MEDUSA cable as Sahel route to Europe.
 
 </div>
 

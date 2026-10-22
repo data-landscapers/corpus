@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: CIV
-ledger_rows: 45
+ledger_rows: 47
 not_held: 10
-record: 7d5f9cd67427
+record: f2c4dd8694c2
 ---
 
 # News, Sep – Oct 2026
@@ -775,6 +775,34 @@ Côte d'Ivoire's digital transition minister Djibril Ouattara signed a National 
 **[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Côte d'Ivoire](https://www.aipolicy.africa/country-profiles/cote-d-ivoire)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 2.03 of 4, rank 14 of 54 (2026); SNIA 2030 adopted, no AI Act, AI agency only planned.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">mHealth One AI layer for community health</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Côte d'Ivoire déploie mHealth One, la version de mHealth intégrant l'intelligence artificielle](https://www.mhealth-africa.org/en/actualites/la-cote-divoire-deploie-mhealth-one-la-version-de-mhealth-integrant-lintelligence-artificielle/)** — Plateforme de digitalisation de santé communautaire (mHealth), 16 October 2026
+
+AI layer for community health workers in Gontougo's five districts, live since 5 October 2026, UNICEF-backed.
 
 </div>
 

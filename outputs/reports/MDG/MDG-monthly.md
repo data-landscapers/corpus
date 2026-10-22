@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MDG
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: 78a8aa368b1e
+record: 1ca5c91e0e18
 ---
 
 # News, Sep – Oct 2026
@@ -583,6 +583,20 @@ Madagascar's digital ministry said its online passport application portal is bei
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Madagascar](https://www.aipolicy.africa/country-profiles/madagascar)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.63 of 4, rank 47 of 54 (2026); data law and Malabo top-scored, no AI strategy.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
