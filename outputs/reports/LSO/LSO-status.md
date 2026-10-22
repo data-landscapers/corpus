@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-10-18
+compiled: 2026-10-22
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 193
+sources_cited: 194
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -253,7 +253,7 @@ The rural economy these systems serve [scores 61.9 of 100 and ranks 27th of 54 A
 ### AI
 <!-- tech.ai -->
 
-[No artificial intelligence or advanced analytics runs inside Lesotho's government data systems](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) for data quality assurance, fraud detection or prediction, and the decision support system meant to let ministries analyse their data for planning and budgeting remains a concept with no timeline, funding or adoption (2026). The policy layer above it is busier: a draft [artificial intelligence policy and implementation plan](https://www.gov.ls/download/draft-artificial-intelligence-policy_1-0/) is published, the responsible minister [signed an AI policy alongside broadband infrastructure sharing and data management policies](https://lestimes.com/?p=90715) in June 2026, and [drafting of a national AI strategy and a data centre blueprint began at a Maseru workshop](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) with the United Nations in August 2026, where the deputy prime minister argued that [safeguards, infrastructure and human capacity should come before Lesotho scales its AI investment](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
+[No artificial intelligence or advanced analytics runs inside Lesotho's government data systems](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) for data quality assurance, fraud detection or prediction, and the decision support system meant to let ministries analyse their data for planning and budgeting remains a concept with no timeline, funding or adoption (2026). The policy layer above it is busier: the responsible minister [signed an AI policy alongside broadband infrastructure sharing and data management policies](https://lestimes.com/?p=90715) in June 2026, and the [final text, posted on 17 August 2026, leaves AI risk regulation to existing sectoral regulators rather than a new body and carries an implementation plan to 2030](https://www.gov.ls/download/artificial-intelligence-policy-final-17-08-2026/); and [drafting of a national AI strategy and a data centre blueprint began at a Maseru workshop](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) with the United Nations in August 2026, where the deputy prime minister argued that [safeguards, infrastructure and human capacity should come before Lesotho scales its AI investment](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 
 What actually operates is narrow, and mostly clinical or agricultural. [An AI chest X-ray reader is in use in tuberculosis screening](https://doi.org/10.1016/j.jctube.2025.100540) (2025); the [Department of Agricultural Research is validating agronomic content for an FAO-backed extension chatbot](https://agricresearch.org.ls/dar-researchers-drive-content-scrutiny-for-fao-chatbot-initiative/) ahead of a pilot in Berea and Mafeteng (May 2026); and both mobile operators have moved AI into network operations, [Econet](https://techafricanews.com/2025/06/20/econet-powers-lesothos-digital-leap-with-major-network-upgrade/) with its 700MHz 5G expansion (June 2025) and [Vodacom](https://itweb.africa/article/vodacom-lesotho-invests-40m-to-supercharge-connectivity/P3gQ2qGAJZZ7nRD1) in a phased network upgrade (March 2026). [MICSTI, UNDP and the National University of Lesotho are compiling a Sesotho word bank so systems can be trained on the language rather than on English-only models](https://www.gov.ls/ict/sesotho-word-bank-being-compiled-to-train-artificial-intelligence-systems-in-lesotho/) (February 2026).
 

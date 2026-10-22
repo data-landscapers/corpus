@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: MOZ
-ledger_rows: 45
+ledger_rows: 48
 not_held: 18
-record: 5688c1a9d429
+record: 660e74189108
 ---
 
 # News, Sep – Oct 2026
@@ -492,6 +492,20 @@ Mozambique's communications minister said the national cybersecurity strategy fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seat on the management committee of the African Network of Cybersecurity Authorities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique eleito para o Comité de Gestão da ANCA-CERT em representação da África Austral](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (Moçambique), 19 October 2026
+
+Elected 12 Oct 2026 in Rabat for Southern Africa; ANCA grows from 28 to 33 states; Laws 13 and 14/2026 in force 29 Sept.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -866,6 +880,20 @@ Mozambique's Centre for Development of Financial Information Systems (CEDSIF) is
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.96 of 4, rank 34 of 54 (2026); draft AI strategy unadopted, AI commission created, no data protection law.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -894,6 +922,8 @@ Summarised under [Connectivity](#connectivity).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
 </nav>
 
 ### Literacy
@@ -907,6 +937,22 @@ Summarised under [Connectivity](#connectivity).
 **[Mozambique : un partenariat public-privé pour renforcer la culture du numérique en milieu rural](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/mozambique-un-partenariat-public-prive-pour-renforcer-la-culture-du-numerique-en-milieu-rural)** — wearetech.africa, 23 September 2026
 
 Mozambique's ICT institute INTIC signed a memorandum with Kamaleon, a rural mobile-multimedia provider, on 21 September to run digital-literacy, cybersecurity and data-protection campaigns in rural communities. Content is to be produced in Portuguese and, where possible, Mozambican languages, alongside joint studies of digital-literacy levels.
+
+</div>
+
+</div>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Training of trainers on AI in election administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique prepara formadores para uso da Inteligência Artificial nas eleições](https://mznews.co.mz/mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes/)** — MZNews, 20 October 2026
+
+INTIC, UNDP and CNE train 26 institutional trainers on AI in election administration, 19-23 October 2026.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SOM
-ledger_rows: 20
-not_held: 2
-record: 68fa3b067e80
+ledger_rows: 22
+not_held: 1
+record: d3f587d9ad07
 ---
 
 # News, Sep – Oct 2026
@@ -47,6 +47,20 @@ record: 68fa3b067e80
 **[Somalia Penal Code Reform Targets Cybercrime and Emerging Digital Offences](https://en.goobjoog.com/somalia-moves-to-modernise-penal-code-to-address-cybercrime-and-emerging-offences/)** — Goobjoog English, 14 October 2026
 
 Somalia's parliament is reviewing a draft Penal Code to replace the 1962 code, adding provisions for offences involving digital platforms and information systems. The Speaker of the House of the People discussed it with the judiciary committee and the justice minister. No timetable for a final vote has been announced.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transactions Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia’s House of the People Approves the Digital Transactions Bill with 137 Votes in Favour](https://www.africa-newsroom.com/press/somalias-house-of-the-people-approves-the-digital-transactions-bill-with-137-votes-in-favour)** — Ministry of Communications and Technology, Somalia (via Africa Newsroom), 21 October 2026
+
+137 MPs vote for ministry-drafted law on digital transactions and mobile money; Senate stage not stated.
 
 </div>
 
@@ -365,6 +379,20 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 **[Somalia Participates in Africa Food Systems Forum in Rwanda](https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/)** — Shabelle Media Network, 5 September 2026
 
 A Somali government adviser, Mohamed Mukhtar Ali, told a data panel at the Africa Food Systems Forum 2026 in Kigali that Somalia's National Disaster Management Agency is building systems to give the government full ownership and control of disaster-management data. He said the agency is working with government bodies and international partners. No system, cost or timetable is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.50 of 4, rank 19 of 54 (2026); no published AI strategy; Data Protection Act 2023 with transfer rules.
 
 </div>
 

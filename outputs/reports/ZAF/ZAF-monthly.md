@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: ZAF
-ledger_rows: 152
-not_held: 21
-record: 2f986e810290
+ledger_rows: 160
+not_held: 20
+record: e9bfb28e2f44
 ---
 
 # News, Sep – Oct 2026
@@ -44,6 +44,8 @@ record: 2f986e810290
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -352,6 +354,34 @@ South Africa's Home Affairs missed its first-quarter target to sign a work order
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfCFTA Digital Trade Protocol ratification and domestication</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa's Ratification of the AfCFTA Protocol on Digital Trade](https://static.pmg.org.za/261020_-_Ratification_AfCFTA_SADC.pdf)** — Parliamentary Monitoring Group (presentation to the NCOP Select Committee on Economic Development and Trade), 20 October 2026
+
+Tabled 30 July 2026; NCOP committee briefing; annexes on digital ID, payments, data transfer; SADC Industry Protocol too.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Capital Flow Management Regulations and Crypto Asset Manual</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister promises ‘revised’ draft of crypto assets regulation](https://www.itweb.co.za/article/minister-promises-revised-draft-of-crypto-assets-regulation/KA3WwMdzXE3vrydZ)** — ITWeb South Africa, 21 October 2026
+
+South Africa's finance minister said on 21 October 2026, presenting the Medium-Term Budget Policy Statement, that the draft Capital Flow Management Regulations, which cover cross-border crypto assets, need a different approach after Treasury received thousands of comments. Consultations will produce a revised second draft for further comment; no date was given.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -439,6 +469,22 @@ South Africa's higher education minister, Buti Manamela, told a meeting of SADC 
 **[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 University leaders, government representatives, the SADC Secretariat and the Southern African Regional Universities Association met at Wits University on 31 August–1 September 2026. They discussed the SADC higher education strategy, a proposed SADC University of Transformation, a regional higher education data system and micro-credentials. No design, cost or timetable for the data system is given.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SABS draft AI standards (ISO/IEC adoptions)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SABS publishes draft AI standards for public comment](https://www.polity.org.za/article/sabs-publishes-draft-ai-standards-for-public-comment-2026-10-21)** — Polity, 21 October 2026
+
+Unmodified ISO/IEC adoptions on transparency, data quality, human oversight; comments close 10 November 2026.
 
 </div>
 
@@ -1760,6 +1806,34 @@ South Africa's revenue service sets out the rules taxpayers must follow when pay
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Activity-based payments Authorisation Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rewiring Payments: Open. Connected. Inclusive.](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)** — South African Reserve Bank, 20 October 2026
+
+Authorisation Framework by Nov 2026; QR+ pilot Q1 2027; TCIB for SADC payments under R100,000 by April 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Move of SADC regional payments under R100,000 to TCIB</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Rewiring Payments: Open. Connected. Inclusive.](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)** — South African Reserve Bank, 20 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -2111,6 +2185,34 @@ South African MPs found self-service kiosks that Home Affairs bought under a 202
 **[BMA vehicle crime crackdown shifts into digital gear](https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew)** — ITWeb South Africa, 19 October 2026
 
 South Africa's Border Management Authority launched its Vehicle Targeting System at Lebombo Port of Entry on 18 October 2026. It reports 83 vehicles worth R46.6 million recovered in the six months since the system went live at land ports on 1 April 2026, with rollout to eight land ports planned by the end of February 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National payment code standard (QR+)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Rewiring Payments: Open. Connected. Inclusive.](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)** — South African Reserve Bank, 20 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MyMzansi single citizen application</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Citizen services project MyMzansi gets R150m boost](https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa)** — ITWeb South Africa, 21 October 2026
+
+South Africa's National Treasury is allocating R150 million to the Presidency's digital services unit to develop MyMzansi, a single platform for government services, according to the adjusted estimates released with the 2026 Medium-Term Budget Policy Statement. The first use case will be issuing and verifying digital matric certificates.
 
 </div>
 
@@ -2751,6 +2853,20 @@ An interview with Magatho Mello, managing director of South Africa's State Infor
 **[SITA in recovery mode, says comms minister](https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea)** — ITWeb South Africa, 22 September 2026
 
 Communications minister Solly Malatsi told GovTech 2026 in Durban that the State IT Agency is recovering under stable leadership and must now deliver on digitising government services and ending fragmented systems. The conference ran under the theme of South African digital sovereignty.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SASSA biometric verification against Home Affairs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Biometrics, verification curb social grant fraud](https://www.itweb.co.za/article/biometrics-verification-curb-social-grant-fraud/nWJad7bNRk27bjO1)** — ITWeb South Africa, 21 October 2026
+
+South Africa's National Treasury said in the 2026 Medium-Term Budget Policy Statement that better biometric enrolment and beneficiary verification, mostly on the social relief of distress grant, has saved R13.1 billion in social-grant fraud. It will apply similar checks to student bursaries and housing subsidies, and expects grant beneficiaries to fall from 17.8 million in 2026/27 to 17.1 million by 2029/30.
 
 </div>
 

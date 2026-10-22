@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GAB
-ledger_rows: 52
+ledger_rows: 53
 not_held: 13
-record: 0baaab4fce84
+record: e28db3054d28
 ---
 
 # News, Sep – Oct 2026
@@ -835,6 +835,20 @@ Gabon's civil-service ministry reviewed technical preparations for an integrated
 **[Gabon/Sécurité alimentaire : l’AGASA lancera la plateforme numérique Nexus le 2 novembre prochain - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-novembre-prochain/)** — Agence Gabonaise de Presse, 19 October 2026
 
 Gabon's food safety agency AGASA will launch Nexus, a digital platform for food and plant-health operators, on 2 November 2026. Operators will be able to apply remotely for approvals, import authorisations and health certificates, and track their files. Operators are asked to visit AGASA offices from 20 to 29 October with identity documents to update their data and get login details.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GTLAN legislative work management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Launches Digital Platform to Modernize Parliamentary Work](https://techafricanews.com/2026/10/21/gabon-launches-digital-platform-to-modernize-parliamentary-work/)** — Tech Africa News, 21 October 2026
+
+Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN) on 19 October 2026 and issued tablets to members. The digital infrastructure agency ANINF trained members until 20 October on using it for committee review, government hearings and joint work on amendments.
 
 </div>
 

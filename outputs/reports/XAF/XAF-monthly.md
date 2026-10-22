@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: XAF
-ledger_rows: 108
+ledger_rows: 111
 not_held: 3
-record: 140d10488e05
+record: 2298a49147c7
 ---
 
 # News, Sep – Oct 2026
@@ -431,12 +431,38 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 ## Instruments and harmonisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
 </nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Countries taxing non-resident digital services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[VAT in Africa: Digital Services 2026](https://www.pwc.co.za/en/assets/pdf/vat-in-africa-digital-services-2026.pdf)** — PwC Africa, 12 October 2026
+
+32 of 54 African countries now tax non-resident e-services, up from 21 in 2024; rules for 28 jurisdictions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[32 African markets tax digital services](https://www.itweb.africa/article/32-african-markets-tax-digital-services/mQwkoq6Y5gRM3r9A)** — ITWeb Africa, 21 October 2026
+
+PwC's 2026 report on VAT and digital services in Africa finds 32 of 54 countries now tax electronic services supplied by foreign providers, up from 21 in its 2024 edition. The eleven newcomers include Algeria, Botswana, Malawi, Mauritius, Rwanda and Zanzibar, and Namibia and Mozambique have measures awaiting a start date.
+
+</div>
+
+</div>
 
 ### Data protection
 
@@ -779,6 +805,20 @@ The World Bank's October Africa Economic Update urges Sub-Saharan governments to
 **[Paradigm Initiative's Statement to the African Commission on Human and Peoples' Rights on the Human Rights Situation in Africa at the 89th Ordinary Session](https://paradigmhq.org/paradigm-initiatives-statement-to-the-african-commission-on-human-and-peoples-rights-on-the-human-rights-situation-in-africa-at-the-89th-ordinary-session/)** — Paradigm Initiative, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
 Paradigm Initiative, a digital rights organisation, told the African Commission on Human and Peoples' Rights' 89th session that AI is spreading in Africa without adequate law. It cited the use of Zambia's 2025 Cybersecurity and Cybercrime Act against media during the August 2026 elections, and criticised blanket online bans on children such as Gabon's April 2026 under-16 ordinance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">G7 AI Hub for Sustainable Development Compute Accelerator and Infrastructure Builder</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Co-creating With Africa's AI Ecosystem: Infrastructure for Tomorrow, Resources for Today](https://www.undp.org/romecentre/blog/co-creating-africas-ai-ecosystem-infrastructure-tomorrow-resources-today)** — United Nations Development Programme, 20 October 2026
+
+Italy-UNDP G7 hub: compute accelerator for 18 Mattei Plan countries; AWS $1M credits, Azure up to $150,000 per innovator.
 
 </div>
 
@@ -2209,6 +2249,28 @@ The African Development Bank and UNDP said the AI 10 Billion Initiative has move
 **[53707 - WIOCC VII Debt (IFC Summary of Investment Information)](https://disclosures.ifc.org/project-detail/SII/53707/wiocc-vii-debt)** — International Finance Corporation (IFC), 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The IFC disclosed on 14 October 2026 a proposed sustainability-linked senior loan of up to US$35 million to West Indian Ocean Cable Company, pending approval with a projected board date of 13 November 2026. The money would buy more subsea cable capacity, extend terrestrial fibre in southern and West Africa, add data-centre capacity and expand WIOCC's Open Access Metro fibre business in Lagos and other Nigerian states.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IFC loan to the Cauris Third Wave fintech lending fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IFC Summary of Investment Information, project 51853: Cauris Third Wave DFS Fund](https://disclosures.ifc.org/project-detail/SII/51853/cauris-third-wave-dfs-fund)** — International Finance Corporation, 15 October 2026
+
+Proposed IFC loan up to $7.5M in senior tranche of $75M-target fund for African fintech lenders; board 30 Nov 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IFC Eyes $7.5M for $100M African Fintech Lending Fund](https://techsoma.africa/african-fintech-lending-fund-ifc-investment/)** — TechSoma, 20 October 2026
+
+Proposed $7.5M IFC senior loan, not yet approved; board 30 Nov 2026; 60% MSME lenders, 40% mobility fintechs.
 
 </div>
 

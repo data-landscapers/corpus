@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: TZA
-ledger_rows: 77
+ledger_rows: 80
 not_held: 5
-record: ef0bf1eb7548
+record: 38b6c4cd5ac6
 ---
 
 # News, Sep – Oct 2026
@@ -38,6 +38,8 @@ record: ef0bf1eb7548
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -127,6 +129,22 @@ Tanzania's Personal Data Protection Commission had registered 15,146 institution
 **[Simu za mkopo zilivyo mateso](https://www.mwananchi.co.tz/mw/habari/biashara/simu-za-mkopo-zilivyo-mateso-5635672)** — Mwananchi, 17 October 2026
 
 Tanzania's data protection commission said it is investigating complaints about how lenders selling phones on credit collect and use borrowers' personal data. Its director general called the misuse unlawful.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ratification of the AU Convention on Cyber Security and Personal Data Protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bunge committee invites views on data protection](https://dailynews.co.tz/bunge-committee-invites-views-on-data-protection/)** — Daily News (Tanzania), 21 October 2026
+
+Infrastructure committee hearing on 26 October 2026 before ratification resolution advances; written views accepted.
 
 </div>
 
@@ -930,6 +948,20 @@ Tanzania's health ministry said 222 public health facilities are connected to an
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Legal Information System (NaLIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NaLIS: Digital transformation brings legal services closer to Tanzanians](https://dailynews.co.tz/nalis-digital-transformation-brings-legal-services-closer-to-tanzanians/)** — Daily News (Tanzania), 20 October 2026
+
+Six components incl. legal aid and ADR; GePG fee payment, USSD and mobile apps, NaLIS AI; replaces three systems.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -969,6 +1001,20 @@ Tanzania's National e-Procurement System (NeST), launched by the Public Procurem
 **[VP: Govt digital platforms ‘still not helping the youth’](https://ippmedia.co.tz/the-guardian/news/local-news/read/vp-govt-digital-platforms-still-not-helping-the-youth-2026-10-15-103404)** — The Guardian (Tanzania), 15 October 2026
 
 Tanzania's Vice President directed the youth and labour ministries to merge the YES youth-enrolment system, the Ajira Portal and the Kazi Portal into one interoperable network, after hearing that YES had registered over 22,000 young people but listed only seven opportunities. He asked for an integration report within a week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iNDLS national digital library system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Launches Digital Library System as Mkenda Urges Board to Prioritise Books Over Buildings - The Chanzo](https://thechanzo.com/2026/10/21/tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prioritise-books-over-buildings/)** — The Chanzo, 21 October 2026
+
+Built with e-Government Authority; ISBN/ISSN, cataloguing, lending, billing on web and app; minister backs books.
 
 </div>
 

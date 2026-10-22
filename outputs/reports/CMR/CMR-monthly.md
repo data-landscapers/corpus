@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: CMR
-ledger_rows: 36
+ledger_rows: 38
 not_held: 4
-record: 7323a36fed5e
+record: 1a880c5a7283
 ---
 
 # News, Sep – Oct 2026
@@ -372,6 +372,8 @@ Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with d
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Data Exchange
@@ -563,6 +565,44 @@ The director-general of Cameroon's national civil registration office, BUNEC, sa
 **[Cameroon’s Water Utility Turns to Smart Meters to Recover More Revenue - Business in Cameroon](https://www.businessincameroon.com/public-management/0109-16648-cameroon-s-water-utility-turns-to-smart-meters-to-recover-more-revenue)** — Business in Cameroon, 1 September 2026
 
 Cameroon's state water utility Camwater awarded China's Hangzhou Laison Technology a CFA721.76 million contract on 17 August 2026 for 3,000 smart water meters, an IT platform and a payment-system interface, in pilot areas of Douala and Yaoundé. The offer is 27.8% below Camwater's CFA1 billion estimate, and the meters are the first 7.5% of 40,000 planned under the World Bank-backed IMPACT programme.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">My MINFOPRA staff collaboration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MODERNISATION DE LA FONCTION PUBLIQUE: LE MINFOPRA ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE AVEC LE PORTAIL NATIONAL DES SERVICES PUBLICS ET MY MINFOPRA](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2396-modernisation-de-la-fonction-publique-le-minfopra-accelere-la-transformation-numerique-avec-le-portail-national-des-services-publics-et-my-minfopra)** — MINFOPRA (Cameroun), 20 October 2026
+
+Portal validation meeting of 20 Oct 2026; staff platform My MINFOPRA; rollout envisaged before end-2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single portal for public services</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[MODERNISATION DE LA FONCTION PUBLIQUE: LE MINFOPRA ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE AVEC LE PORTAIL NATIONAL DES SERVICES PUBLICS ET MY MINFOPRA](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2396-modernisation-de-la-fonction-publique-le-minfopra-accelere-la-transformation-numerique-avec-le-portail-national-des-services-publics-et-my-minfopra)** — MINFOPRA (Cameroun), 20 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
+
+1,250 procedures in 25 categories, bilingual, offline app; 90-day launch campaign; rename and contract review.
 
 </div>
 

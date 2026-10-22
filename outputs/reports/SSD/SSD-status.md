@@ -1,12 +1,12 @@
 ---
 title: South Sudan: status report
-compiled: 2026-10-18
+compiled: 2026-10-22
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 197
+sources_cited: 198
 sections_written: 39
 not_established: 3
 acquire_lines: 51
@@ -258,7 +258,7 @@ What has moved has moved outward from the centre and only lately. The agricultur
 
 The artificial-intelligence activity that reaches South Sudan is regional rather than national: Germany's development ministry has [funded an East African Community network for artificial-intelligence research and training](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440) covering the partner states, carrying an EAC artificial-intelligence strategy for 2025-2028 and digital skills training, and its AI4EAC Innovation Challenge [drew 3,900 students from 100 universities across the region in its 2025 pilot](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440).
 
-Nationally the position is one of intent. South Sudan's [citizen-facing government services carried no artificial intelligence or chatbot in 2025](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the government's own account of what AI would take is a list of preconditions rather than a programme: at the Global AI Summit in Kigali in April 2025 the ICT undersecretary [named infrastructure, a quality data centre and skilled people as the three prerequisites, without which the country will hardly benefit](https://www.onecitizendaily.com/index.php/2025/04/05/south-sudan-identifies-key-pillars-for-ai-development/). The [fibre-optic build is framed as the first of them](https://www.onecitizendaily.com/index.php/2025/04/07/govt-targets-fibre-optics-to-boost-ai-development/). Outside government, [the Go Girl ICT Initiative is building a Juba Arabic dataset, YoGage AI, to train systems to detect hate speech in the lingua franca](https://www.eyeradio.org/ai-blind-spot-local-languages-fuel-hate-speech-in-south-sudan/) (June 2025).
+Nationally the position is one of intent. South Sudan's [citizen-facing government services carried no artificial intelligence or chatbot in 2025](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); the one use on record is clinical, [two portable AI-assisted X-ray units for tuberculosis detection installed at Torit and Rumbek under a UNDP programme in December 2023](https://www.undp.org/south-sudan/blog/technology-accelerates-tb-detection-south-sudan), and the government's own account of what AI would take is a list of preconditions rather than a programme: at the Global AI Summit in Kigali in April 2025 the ICT undersecretary [named infrastructure, a quality data centre and skilled people as the three prerequisites, without which the country will hardly benefit](https://www.onecitizendaily.com/index.php/2025/04/05/south-sudan-identifies-key-pillars-for-ai-development/). The [fibre-optic build is framed as the first of them](https://www.onecitizendaily.com/index.php/2025/04/07/govt-targets-fibre-optics-to-boost-ai-development/). Outside government, [the Go Girl ICT Initiative is building a Juba Arabic dataset, YoGage AI, to train systems to detect hate speech in the lingua franca](https://www.eyeradio.org/ai-blind-spot-local-languages-fuel-hate-speech-in-south-sudan/) (June 2025).
 
 The regional instruments are themselves still proposals. An [artificial-intelligence policy roadmap for the eight partner states was explored at a regional science and technology conference in March 2026](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/), and the EAC central bank governors' [call to harmonise regulation of artificial intelligence and digital finance had not been taken up by member states as at July 2026](https://observer.ug/business/east-african-central-bankers-push-single-currency-launch-to-2031/).
 

@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: TUN
-ledger_rows: 60
+ledger_rows: 62
 not_held: 5
-record: 947ba72b29a0
+record: 8995519f2a45
 ---
 
 # News, Sep – Oct 2026
@@ -851,6 +851,34 @@ A Tunisian jurist, Montaha Ben Taieb, examines the legal questions raised by the
 **[وزارة تكنولوجيات الاتصال: تطبيقة «خدمات» متاحة للتحميل على «آبل ستور»](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A9-%C2%AB%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%C2%BB-%D9%85%D8%AA%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%C2%AB%D8%A2%D8%A8%D9%84-%D8%B3%D8%AA%D9%88%D8%B1%C2%BB)** — Al Chourouk, 11 October 2026
 
 Tunisia's communication technologies ministry released its Khadamat public-services app on a second mobile platform, after an Android release at the end of August. It is reached through the e-Houwiya digital identity and covers civil-status records, driving licence and vehicle data, traffic fines, inspection bookings, health-insurance and social-security services and e-payments.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Administrative procedure simplification programme 2025-2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : moins de paperasse, 2 250 procédures administratives en cours de simplification](https://www.tunisienumerique.com/tunisie-moins-de-paperasse-2-250-procedures-administratives-en-cours-de-simplification/)** — Tunisie Numerique, 19 October 2026
+
+2,250 procedures 70% simplified; 80% to go digital; 34 digital service houses in 2026, 68 more planned to 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital service houses</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : moins de paperasse, 2 250 procédures administratives en cours de simplification](https://www.tunisienumerique.com/tunisie-moins-de-paperasse-2-250-procedures-administratives-en-cours-de-simplification/)** — Tunisie Numerique, 19 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-10-18
+compiled: 2026-10-22
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 208
+sources_cited: 209
 sections_written: 39
 not_established: 2
 acquire_lines: 23
@@ -262,7 +262,7 @@ Activity is running ahead of the framework. The [second Foro Nacional de Intelig
 ### ICT Industry
 <!-- tech.industry -->
 
-What movement there is in the sector is in the state's own companies rather than in private firms. [Salvador Nguema Funtam took over as head of the state ICT operator GITGE on 7 August 2026](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/), two weeks after the [merger of the state telecoms holding TELGESA with Loita Group was halted pending a full audit of GECOMSA's financial position, assets, liabilities and debts](https://www.pdge-guineaecuatorial.com/el-gobierno-impulsa-el-cumplimiento-del-regimen-de-incompatibilidades-de-las-empresas-publicas/) (July 2026). Director-general posts at state-participation entities including GITGE are [being filled by competitive interview against stated criteria, with appointments provisional for six months and terminable if the entity's objectives are not met](https://www.guineaecuatorialpress.com/noticias/el_ejecutivo_continua_el_proceso_de_evaluacion_de_los_aspirantes_a_cargos_directivos_en_empresas_y_entidades_de_participacion_estatal) (July 2026). GETESA, SEGESA, GECOTEL, GITGE and two others have meanwhile sat on the [finance ministry's list of state bodies to be privatised](https://minhacienda-gob.com/privatizacion-de-activos-del-estado/) with no completed transaction recorded.
+What movement there is in the sector is in the state's own companies rather than in private firms. [Salvador Nguema Funtam took over as head of the state ICT operator GITGE on 7 August 2026](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/), two weeks after the [merger of the state telecoms holding TELGESA with Loita Group was halted pending a full audit of GECOMSA's financial position, assets, liabilities and debts](https://www.pdge-guineaecuatorial.com/el-gobierno-impulsa-el-cumplimiento-del-regimen-de-incompatibilidades-de-las-empresas-publicas/) (July 2026); by mid-October the government was [aiming to sign with the investor before the end of the month, with KPMG valuing GECOMSA's assets to fix the state's stake](https://www.ecofinagency.com/news-digital/2110-59971-equatorial-guinea-service-quality-a-priority-for-new-telecom-operator-telgesa). Director-general posts at state-participation entities including GITGE are [being filled by competitive interview against stated criteria, with appointments provisional for six months and terminable if the entity's objectives are not met](https://www.guineaecuatorialpress.com/noticias/el_ejecutivo_continua_el_proceso_de_evaluacion_de_los_aspirantes_a_cargos_directivos_en_empresas_y_entidades_de_participacion_estatal) (July 2026). GETESA, SEGESA, GECOTEL, GITGE and two others have meanwhile sat on the [finance ministry's list of state bodies to be privatised](https://minhacienda-gob.com/privatizacion-de-activos-del-estado/) with no completed transaction recorded.
 
 The legal architecture is being rebuilt around them. [The Senate passed a general law on special economic zones on 8 May 2026](https://www.guineaecuatorialpress.com/noticias/pleno_de_aprobacion_de_los_proyectos_de_ley_de_transparencia_y_zonas_economicas), framed as the route away from hydrocarbon dependence toward petrochemical, industrial and energy zones in the Gulf of Guinea. A [copyright and related rights bill reached the Chamber of Deputies on 7 August 2026](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing the 1997 Berne accession and the 2015 ratification of the Bangui Agreement and extending protection to new technological modes of distributing and consuming protected works.
 

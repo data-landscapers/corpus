@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: XWA
-ledger_rows: 32
+ledger_rows: 33
 not_held: 1
-record: c26f03388c0d
+record: a9107a5ffe27
 ---
 
 # News, Sep – Oct 2026
@@ -125,6 +125,20 @@ The third Mano River Union Internet Governance Forum met in Paynesville, Liberia
 **[Souveraineté numérique : Les pays ouest-africains connectent leurs stratégies](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/)** — Le Soleil, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Ten member states held the founding interministerial meeting of the West African Network of National Backbones, ROA-BN, in Dakar on 8 October 2026. Its founding texts, a 2026–2030 strategic plan and its bodies are still to be adopted. Senegal's telecoms minister Samba Diouf called for common rules on cross-border fibre and keeping West African data in transit within the region.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AES customs union and confederal origin regime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AUDIENCE DU PRÉSIDENT DU FASO Les Directeurs généraux des Douanes de la Confédération AES et du Togo rendent compte de leurs travaux au Chef de l’État(Présidence du Faso)](https://afrikactu.net/index.php/burkina-faso/economie/douanes-aes-togo-presidence/)** — Afrikactu (Presidence du Faso), 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Ouagadougou, 15-16 Oct 2026: customs-system interconnection status, confederal origin decision, customs union text.
 
 </div>
 

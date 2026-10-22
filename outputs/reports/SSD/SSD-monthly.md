@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SSD
-ledger_rows: 19
+ledger_rows: 20
 not_held: 8
-record: 39d2546df37c
+record: c05443de2669
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 39d2546df37c
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -321,6 +323,28 @@ The South Sudan Revenue Authority launched an electronic tax audit module in Jub
 **[Juba City Council Discusses Digital Revenue Transition](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)** — Access Radio, 8 October 2026
 
 South Sudan's Juba City Council, at its first executive meeting under caretaker Mayor Christopher Sarafino Wani, made the move from manual to digital revenue collection a priority to reduce leakage and fund services. Central Equatoria State had launched a digital revenue collection system and e-services for the council in September 2026. No meeting date, cost or timetable is given.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: South Sudan](https://www.aipolicy.africa/country-profiles/south-sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.75 of 4, rank 41 of 54 (2026); no AI strategy or data protection law; many scores under review.
 
 </div>
 

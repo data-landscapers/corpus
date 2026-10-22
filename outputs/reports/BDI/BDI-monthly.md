@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: BDI
-ledger_rows: 17
+ledger_rows: 21
 not_held: 10
-record: f054ceb77df0
+record: 2edc542566e4
 ---
 
 # News, Sep – Oct 2026
@@ -45,6 +45,34 @@ record: f054ceb77df0
 **[Burundi adopts Right-to-Information Law, with broad exceptions](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/)** — Burundi Times, 30 September 2026
 
 Burundi's Senate unanimously adopted a bill on 29 September 2026 creating a legal right of access to public information. It sets up a National Commission on Access to Public Information to hear appeals and requires covered bodies to publish some information proactively, with exceptions for national security, private life and ongoing judicial investigations. The bill sets no ceiling on access fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Politique nationale de developpement des TIC 2010-2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué de presse n°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026](https://primature.gov.bi/wp-content/uploads/2026/10/CMQ_CM_14.10.26.pdf)** — Présidence de la République du Burundi, Secrétariat Général de l'Etat, 15 October 2026
+
+Official text: Council adopts a National Digital Policy replacing the 2011-2025 ICT policy, and a cybersecurity strategy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Politique Nationale du Numérique</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Communiqué de presse n°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026](https://primature.gov.bi/wp-content/uploads/2026/10/CMQ_CM_14.10.26.pdf)** — Présidence de la République du Burundi, Secrétariat Général de l'Etat, 15 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -101,6 +129,8 @@ ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technical-capacity">Technical Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
@@ -117,6 +147,22 @@ ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la
 **[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Weza Power rural electrification partnership, Burunga and Buhumuza</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Communiqué de presse n°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026](https://primature.gov.bi/wp-content/uploads/2026/10/CMQ_CM_14.10.26.pdf)** — Présidence de la République du Burundi, Secrétariat Général de l'Etat, 15 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -303,6 +349,28 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 **[Intelligence artificielle : à Séoul, le Burundi présente ses ambitions](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions)** — wearetech.africa, 10 September 2026
 
 Burundi presented the ambitions of its national artificial intelligence strategy at the Korea-Africa economic cooperation ministerial in Seoul, seeking the financing and partnerships to turn it into concrete projects. The strategy, validated in April, provides for strengthening connectivity, data infrastructure and local skills; the country's digital capacity remains limited.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.70 of 4, rank 45 of 54 (2026); AI strategy validated April 2026 but not adopted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Summarised under [AI](#ai).
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: DZA
-ledger_rows: 42
+ledger_rows: 43
 not_held: 5
-record: 84dfaef89cad
+record: b4bf008e6682
 ---
 
 # News, Sep – Oct 2026
@@ -690,6 +690,20 @@ Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assista
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI cross-checking of import-programme files</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Importations suspectes en Algérie : L'IA démasque des documents « identiques » chez plus de 1 000 opérateurs](https://www.algerie360.com/importations-suspectes-en-algerie-lia-demasque-des-documents-identiques-chez-plus-de-1000-operateurs/)** — Algerie360, 3 September 2026
+
+AI cross-checking of import files flags 1,013 operators sharing identical CNAS, CASNOS, tax and bank documents.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National AI Strategy</p>
 
 <div class="bulletin-item" markdown="1">
@@ -708,6 +722,14 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[M. Kamel Baddari préside la cinquième réunion multisectorielle consacrée au suivi de la mise en œuvre de la stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 20 October 2026
+
+Tax-law LLM due in four months; joint AI financing fund proposed; national AI doctoral school with 102 places.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -719,6 +741,14 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 **[Baddari préside la deuxième réunion de coordination sur la mise en œuvre de la Stratégie nationale d’intelligence artificielle](https://www.lejourdalgerie.com/baddari-preside-la-deuxieme-reunion-de-coordination-sur-la-mise-en-oeuvre-de-la-strategie-nationale-dintelligence-artificielle/)** — Le Jour d'Algérie, 9 September 2026
 
 Algeria's Minister of Higher Education and Scientific Research, Kamel Baddari, chaired the second coordination meeting on the national AI strategy, reported on 9 September 2026. Five thematic commissions were installed, a national AI and data research centre was decided, and the meeting set a target of training 50,000 AI specialists by 2030.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[M. Kamel Baddari préside la cinquième réunion multisectorielle consacrée au suivi de la mise en œuvre de la stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 20 October 2026
+
+Summarised under [AI](#ai).
 
 </div>
 

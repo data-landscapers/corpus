@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SDN
-ledger_rows: 30
+ledger_rows: 33
 not_held: 5
-record: fc076404fdb6
+record: c8520ba006e6
 ---
 
 # News, Sep – Oct 2026
@@ -376,6 +376,20 @@ Bede Sudan, a mobile operator's fintech arm, launched a bank account number serv
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SDPay payments joint venture</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EdfaPay and GoPravo Launch SDPay to Expand Digital Payments in Sudan](https://techafricanews.com/2026/10/21/edfapay-gopravo-launch-sdpay-digital-payments-sudan/)** — Tech Africa News, 21 October 2026
+
+Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an equally owned joint venture based in Khartoum, to run payments infrastructure in Sudan. It plans merchant QR and card-terminal acceptance, wallets, card issuing, government collections, payroll and remittances, with digital ID and eKYC integration.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -566,6 +580,28 @@ Sudan's Khartoum State government signed six partnership memoranda, including wi
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[الأمين العام للاستراتيجية والمعلومات يبحث مع هيئة التحول الرقمي الاتحادية تطوير الأنظمة واستعادة البيانات - abagnews.com](https://abagnews.com/archives/40351)** — Abag News, 20 October 2026
+
+Khartoum State data recovery ~93% complete, cloud move launched; federal authority pitches Baladna as single portal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">All-digital government transactions in Khartoum's localities from 2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[التخطيط الاستراتيجي بالخرطوم: التحول الرقمي لجميع المعاملات الحكومية اعتباراً من - السودان اليوم](https://alsudantoday.com/sudan-news/sudan-now-news/556933)** — Sudan News Agency (via Al Sudan Today), 20 October 2026
+
+Khartoum locality to take all government transactions digital from 1 January 2027, staff training first.
+
+</div>
+
 </div>
 
 ## Technology
@@ -585,6 +621,20 @@ Sudan's Khartoum State government signed six partnership memoranda, including wi
 **[Soudan: Un assistant automatisé pour répondre immédiatement aux questions concernant les candidatures universitaires en ligne](https://fr.allafrica.com/stories/202609250240.html)** — allAfrica.com, 25 September 2026
 
 Sudan's Ministry of Higher Education and Scientific Research launched a chatbot on its online admissions portal, reported on 25 September 2026. It answers general admission questions in Arabic and refers complex or personal-data requests to a human support centre reachable on the number 2511, as part of the 2026-2027 registration campaign.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Sudan](https://www.aipolicy.africa/country-profiles/sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.23 of 4, rank 52 of 54 (2026); no AI strategy or data protection law; Data and AI Authority decreed 2025.
 
 </div>
 

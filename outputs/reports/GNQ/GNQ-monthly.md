@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: GNQ
-ledger_rows: 17
+ledger_rows: 19
 not_held: 6
-record: 3b7273825879
+record: 21b82685a45c
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: 3b7273825879
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -202,6 +204,20 @@ Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TELGESA, the second state operator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Equatorial Guinea: Service Quality a Priority for New Telecom Operator TELGESA](https://www.ecofinagency.com/news-digital/2110-59971-equatorial-guinea-service-quality-a-priority-for-new-telecom-operator-telgesa)** — Ecofin Agency, 21 October 2026
+
+Equatorial Guinea's authorities aim to sign an agreement before the end of October 2026 with investor group EGSA LOITA for a new telecom operator, TELGESA. The group has proposed USD 50 million for 260 towers to reach 90% national coverage, while KPMG values the assets of state operator GECOMSA. Launch before the end of 2026 remains uncertain.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -289,6 +305,28 @@ An undated page from Equatorial Guinea's public-finance modernisation programme 
 **[El Gobierno pone en marcha el Boletín Oficial del Estado digital](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital)** — Guinea Ecuatorial Press (Oficina de Información y Prensa), 6 October 2026
 
 Equatorial Guinea's government announced a digital edition of its official gazette at boe.gob.gq, giving free online access to laws, decrees, ministerial orders and circulars with search of past publications.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Equatorial Guinea](https://www.aipolicy.africa/country-profiles/equatorial-guinea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 0.54 of 4, rank 48 of 54 (2026); no AI strategy, 2016 data law's authority not operating.
 
 </div>
 

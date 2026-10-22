@@ -1,12 +1,12 @@
 ---
 title: Seychelles: status report
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: SYC
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-01
 intersections_read: 6
-sources_cited: 170
+sources_cited: 171
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -16,7 +16,7 @@ acquire_lines: 50
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-For a country [ranked first in Africa for overall governance, at 75.3 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf), Seychelles has remarkably little digital policy: [no GovTech or digital transformation strategy, no whole-of-government approach to it, no ministry or department leading it, and no cross-government forum where senior digital officials meet](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+For a country [ranked first in Africa for overall governance, at 75.3 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf), Seychelles has remarkably little digital policy: [no GovTech or digital transformation strategy, no whole-of-government approach to it, no ministry or department leading it, and no cross-government forum where senior digital officials meet](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). One is now being drafted: [a National Digital and AI Strategy for 2026-2031, prepared with World Bank support, went through a national validation workshop in mid-2026](https://www.linkedin.com/posts/baidy-s-91972228_digitaltransformation-ai-digitalgovernment-activity-7481275398413152257-B36W), with no adoption on record.
 
 The institutions exist without the strategy to steer them. [A government entity focused on GovTech, a coordination body and an entity monitoring digital spending across government are all in place, and none publishes an annual report on results or spending](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). There is [no dedicated body or strategy for data governance either](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [no policy on where government cloud data may be hosted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [no open source policy or action plan for the public sector and no national strategy on disruptive or innovative technologies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [interoperability is addressed only inside broader frameworks — Vision 2033, the ICT department's institutional strategic plan and the National ICT Policy — rather than by a strategy of its own](https://afripoli.org/what-african-countries-can-learn-from-the-continents-top-performers-in-e-government).
 

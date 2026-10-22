@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 162
+sources_cited: 165
 sections_written: 39
 not_established: 7
 acquire_lines: 49
@@ -171,7 +171,7 @@ The central bank [owns and directly operates the real-time gross settlement syst
 
 [Disruptions in the days before 9 October 2026 again left the application's customers unable to reach or transfer their money, amid cash and fuel shortages; the bank apologised](https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86).
 
-[The bank launched a USSD transfer service on one mobile operator's SIMs, reported 10 October 2026, so customers can transact without a smartphone or internet](https://alroya.news/84589). [The finance ministry said in August 2026 it was finalising an electronic payment link with Saudi mobile-banking applications to bring diaspora remittances into regulated channels](https://africa.businessinsider.com/local/lifestyle/war-torn-sudan-plans-banking-app-to-bring-millions-in-remittances-home-from-citizens/mtdf2c9), with no launch date given.
+[The bank launched a USSD transfer service on one mobile operator's SIMs, reported 10 October 2026, so customers can transact without a smartphone or internet](https://alroya.news/84589). [A Saudi-Sudanese joint venture, SDPay, launched offering merchant acceptance, wallets, government collections and remittances](https://techafricanews.com/2026/10/21/edfapay-gopravo-launch-sdpay-digital-payments-sudan/) (October 2026). [The finance ministry said in August 2026 it was finalising an electronic payment link with Saudi mobile-banking applications to bring diaspora remittances into regulated channels](https://africa.businessinsider.com/local/lifestyle/war-torn-sudan-plans-banking-app-to-bring-millions-in-remittances-home-from-citizens/mtdf2c9), with no launch date given.
 
 ### Registries
 <!-- dpi.registry -->
@@ -221,7 +221,7 @@ The measured position is early. Sudan scored [0.2759 on the UN E-Government Deve
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-Sub-national digital government in Sudan is a website presence and little else: [local government sites were at an early stage in 2024, with no integration or interoperability between institutions, and the conflict has further cut sub-national digital capacity](https://learning-gate.com/index.php/2576-8484/article/download/3004/1130/4518). The administrative tier below the centre is not uniform territory. [Khartoum's civil registry has ceased almost entirely, local government offices and land registries have been looted or turned into barracks, and across vast areas no entity can issue identity papers](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/), so the registers on which a locality office would depend do not exist across much of the country. [The national information centre's structure includes a general directorate charged with coordinating ICT projects and training at state level](https://nic.gov.sd/public/departments). Khartoum State [put its standard systems back into operation, connected a government fibre network to 36 state units and signed six partnership memoranda](https://alakhbar-alsudan.com/?p=45974) (2026).
+Sub-national digital government in Sudan is a website presence and little else: [local government sites were at an early stage in 2024, with no integration or interoperability between institutions, and the conflict has further cut sub-national digital capacity](https://learning-gate.com/index.php/2576-8484/article/download/3004/1130/4518). The administrative tier below the centre is not uniform territory. [Khartoum's civil registry has ceased almost entirely, local government offices and land registries have been looted or turned into barracks, and across vast areas no entity can issue identity papers](https://smallwarsjournal.com/2026/06/09/sudans-governance-collapse-struggle-for-civil-authority/), so the registers on which a locality office would depend do not exist across much of the country. [The national information centre's structure includes a general directorate charged with coordinating ICT projects and training at state level](https://nic.gov.sd/public/departments). Khartoum State [put its standard systems back into operation, connected a government fibre network to 36 state units and signed six partnership memoranda](https://alakhbar-alsudan.com/?p=45974) (2026); by 20 October 2026 [about 93% of its data had been recovered and the move of its systems to the cloud had begun](https://abagnews.com/archives/40351), and its localities [are to take all government transactions digital from 1 January 2027](https://alsudantoday.com/sudan-news/sudan-now-news/556933).
 
 ### Rural digital data capture
 <!-- digital.rural -->

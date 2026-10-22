@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 place: SEN
-ledger_rows: 64
+ledger_rows: 65
 not_held: 2
-record: 8a8143e0b735
+record: bc2a66f627ee
 ---
 
 # News, Sep – Oct 2026
@@ -923,6 +923,20 @@ A high court in the Dakar suburbs has begun piloting a locally deployed AI appli
 **[Justice sénégalaise : Pikine-Guédiawaye teste la numérisation des archives judiciaires](https://www.leral.net/Justice-senegalaise-Pikine-Guediawaye-teste-la-numerisation-des-archives-judiciaires_a408035.html)** — Leral.net, 10 October 2026
 
 Senegal's justice ministry judged the first results of the pilot digitising judicial archives at the Pikine-Guédiawaye court satisfactory. Recruiting qualified staff and keeping the court platform fed are the open problems; other courts may follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Senegal](https://www.aipolicy.africa/country-profiles/senegal)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
+
+Index score 1.27 of 4, rank 25 of 54 (2026); 2023 AI strategy, 2008 data protection law, no AI law or AI body.
 
 </div>
 
