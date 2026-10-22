@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The World Bank's 2023 ID4D diagnostic states there is no interoperability between Cameroon's civil registration and ID systems, and that the ID IT system is not linked to the CR system.",
+  "title": "Diagnostic of ID Systems in Cameroon",
+  "publisher": "World Bank (Identification for Development)",
+  "published": "2023",
+  "date_source": "source",
+  "why_not": ""
+}
