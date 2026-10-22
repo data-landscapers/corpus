@@ -36,7 +36,12 @@
      through the sections to see what each holds; a topic link jumps. The next
      scroll hands the bar back to the section in view. */
   var bar = head.querySelector('.status-topics');
-  var sections = head.querySelector('nav[aria-label="Sections in this report"]');
+  /* The sections bar is the head's in-page bar, whatever its label: a report's sections, a
+     Methodology page's own sections or the Maturity method's chapters. The section in view is
+     marked on every page that has one (Bill, 2026-10-22), not only where a topic bar follows. */
+  var sections = [].filter.call(head.querySelectorAll('nav'), function (n) {
+    return n !== bar && n.querySelector('a[href^="#"]');
+  })[0] || null;
   var groups = bar ? bar.querySelectorAll('.status-topics__group') : [];
   var heads = document.querySelectorAll('.article-body h2[id], .article-body h3[id]');
 
@@ -75,13 +80,14 @@
     });
     var id = h2 ? h2.id : (heads[0] && heads[0].id);
     if (id !== chapter) show(id);
-    mark(bar, h3 && h3.id);
+    if (bar) mark(bar, h3 && h3.id);
   }
 
-  if (bar && groups.length) {
-    hold();
+  var topics = bar && groups.length;
+  if (topics) hold();
+  if (topics || sections) {
     spy();
-    if (sections) sections.addEventListener('click', function (e) {
+    if (topics && sections) sections.addEventListener('click', function (e) {
       var a = e.target.closest('a[href^="#"]'), id = a && a.getAttribute('href').slice(1);
       // A section without topics has nothing to preview, so its link jumps as before.
       if (!id || !bar.querySelector('[data-chapter="' + id + '"]')) return;
@@ -98,6 +104,7 @@
   }
 
   place();
+  if (topics || sections) spy();
   var pending;
   window.addEventListener('resize', function () {
     clearTimeout(pending);
