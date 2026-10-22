@@ -132,10 +132,10 @@
   "size": {
     "@type": "QuantitativeValue",
     "unitText": "records",
-    "value": 12162
+    "value": 12164
   },
   "temporalCoverage": "2024/2026",
-  "dateModified": "2026-10-21"
+  "dateModified": "2026-10-22"
 }
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -242,8 +242,8 @@
 - No one has integrated non-state finance data with national budgets, expenditure and audits.
 - No one has joined up the full spectrum of cross-border and domestic, public and private investment.
 - With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</p>
-<p>The <em>Non-state Finance</em> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. </p>
-<p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear.</p>
+<p>The <em>Non-state Finance</em> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.</p>
+<p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear. The <code>scope_basis</code> column explains why a row was judged that way,</p>
 <p>The <em>Budgets</em> dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.</p>
 <p>The <em>All Finance</em> dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.</p>
 </div>
@@ -256,10 +256,10 @@
     <a href="./" aria-current="page">All finance</a>
     </nav>
 
-    <div class="byline">12,162 rows &nbsp;·&nbsp; 486 non-state commitments &nbsp;·&nbsp; 11,676 budget lines &nbsp;·&nbsp; 52 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2024–2026</div>
+    <div class="byline">12,164 rows &nbsp;·&nbsp; 488 non-state commitments &nbsp;·&nbsp; 11,676 budget lines &nbsp;·&nbsp; 52 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2024–2026</div>
 
     <div class="dl-datatable"
-      data-src="all-finance.csv?v=8c4a018cbe8f"
+      data-src="all-finance.csv?v=3960edd22b7c"
       data-cols="country, year, primary_topic, type, value_usd, financier, recipient, title, description"
       data-filters="country, year, primary_topic, type, scope"
       data-numeric="year, value_usd"
@@ -271,12 +271,12 @@
       data-empty="No row matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; all finance</span>
-        <span class="dt-count">12,162 rows</span>
+        <span class="dt-count">12,164 rows</span>
         <a class="btn btn--sm" href="all-finance.csv" download>&darr; CSV</a>
         <a class="btn btn--sm" href="../../datasets/metadata/#all-finance">Metadata</a>
       </div>
       <noscript>
-        <p>The first 100 of 12,162 rows. <a href="all-finance.csv">Download the CSV</a> for every row and field.</p>
+        <p>The first 100 of 12,164 rows. <a href="all-finance.csv">Download the CSV</a> for every row and field.</p>
       </noscript>
       <div class="dt-baked"><table class="data-table" style="width:2524px"><colgroup><col style="width:118px"><col style="width:91px"><col style="width:163px"><col style="width:103px"><col style="width:124px"><col style="width:359px"><col style="width:522px"><col style="width:522px"><col style="width:522px"></colgroup><thead><tr><th>country</th><th class="num sort-desc">year</th><th>primary_​topic</th><th>type</th><th class="num">value_​usd</th><th>financier</th><th>recipient</th><th>title</th><th>description</th></tr></thead>
 <tbody>
@@ -386,7 +386,7 @@
     <div class="colophon">
       <strong>About this table</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">2026-10-21</dd>
+        <dt>Built</dt><dd class="mono">2026-10-22</dd>
         <dt>This file</dt><dd><a href="all-finance.csv">all-finance.csv</a> &mdash; updated as the data changes</dd>
         <dt>Fields</dt><dd><a href="../../datasets/metadata/#all-finance">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/all-finance-metadata.csv">all-finance-metadata.csv</a></dd>
         <dt>Joined from</dt><dd><a href="../">Non-state finance</a> and <a href="../budgets/">National budgets</a>, which carry every other field under the same <code>deal_id</code></dd>
