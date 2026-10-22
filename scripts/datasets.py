@@ -448,7 +448,9 @@ def build_metadata() -> None:
         canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
         chrome=chrome("datasets", depth=2), foot=foot(depth=2),
         styles=styles(2, "methodology.css"), ga=ga(),
-        body=methodology.indent(methodology.contents_strip(src) + methodology.convert(src, text)),
+        body=methodology.indent(methodology.see_also("datasets/metadata/")
+                                + methodology.contents_strip(src)
+                                + methodology.convert(src, text)),
         source=src.relative_to(CORPUS).as_posix(), built=date.today().isoformat(),
     )), encoding="utf-8")
 

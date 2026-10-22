@@ -265,32 +265,36 @@ def slug(heading: str) -> str:
     return re.sub(r"[^\w\s-]", "", heading.lower()).strip().replace(" ", "-")
 
 
-def toc_bar(links: list[tuple[str, str]], label: str) -> str:
+def toc_bar(links: list[tuple[str, str]], label: str, current: str | None = None) -> str:
     """The site's one idiom for a jump bar — `.article-toc` in main.css: terracotta
     small caps separated by middots, closed below by a single rule (the bulletin's
     category bar is the sibling use). Links only, never a plain word: everything in
     the bar is styled by `.article-toc a`, so unlinked text sitting in it would come
-    out as 18px body type beside 0.72rem mono."""
+    out as 18px body type beside 0.72rem mono. The link whose text is `current` is the
+    page one is on, marked `aria-current` as the country reports mark theirs."""
     sep = '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'
-    body = sep.join(f'<a href="{href}">{text}</a>' for href, text in links)
+    mark = ' aria-current="true"'
+    body = sep.join(f'<a href="{href}"{mark if text == current else ""}>{text}</a>'
+                    for href, text in links)
     return f'<nav class="article-toc" aria-label="{label}">\n{body}\n</nav>\n'
 
 
 # Pages the bar links that this script does not build, as site-root paths. The table
 # metadata is built by `datasets.py` at `/datasets/metadata/`, where every dataset's
-# Metadata button points, and is listed here as a methodology page (Bill, 2026-09-30).
+# Metadata button points, and is listed here as a methodology page (Bill, 2026-09-30);
+# it carries the bar too (Bill, 2026-10-22).
 ELSEWHERE = [("datasets/metadata/", "Table Metadata")]
 
 
-def see_also(current: str) -> str:
-    """The other pages of the set, from `PAGES`, then `ELSEWHERE`. From an annex the hub is
-    one directory up and a sibling annex is `../<slug>/`; from the hub both are below."""
-    up = "../" if current else ""
-    links = [(up + p["slug"] + "/" if p["slug"] else (up or "./"), p["nav"])
-             for p in PAGES if p["slug"] != current]
-    root = "../../" if current else "../"
-    links += [(root + path, nav) for path, nav in ELSEWHERE]
-    return toc_bar(links, "Other pages in this section")
+def see_also(here: str) -> str:
+    """Every page of the set, from `PAGES`, then `ELSEWHERE`, the one at `here` (its site-root
+    path) included and marked current, as in the country reports (Bill, 2026-10-22)."""
+    root = "../" * here.count("/")
+    pages = [("methodology/" + (p["slug"] + "/" if p["slug"] else ""), p["nav"])
+             for p in PAGES] + ELSEWHERE
+    links = [("./" if path == here else root + path, nav) for path, nav in pages]
+    return toc_bar(links, "Pages in this section",
+                   current=next(nav for path, nav in pages if path == here))
 
 
 def contents_strip(md_path: Path) -> str:
@@ -381,7 +385,7 @@ def main() -> int:
             src, out, h1=page["h1"], title=page["title"],
             description=page["description"], canonical=f"{SITE_BASE}{url}",
             depth=depth, body_class=page["body"], tables=page["tables"],
-            prefix=see_also(page["slug"])
+            prefix=see_also(url.lstrip("/"))
             + (contents_strip(src) if page["strip"] else ""))
         print(f"methodology: {words:,} words -> site{url}index.html")
     return 0
