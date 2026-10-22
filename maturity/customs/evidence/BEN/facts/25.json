@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-17-ben-datagov-nos-cas-d-usage-emblematiques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sydonia",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale des Douanes",
+   "tiers": ""
+  },
+  {
+   "system": "Customweb",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": "Sydonia and Customweb are named as data sources for a dashboard; processing of declarations is not stated."
+}

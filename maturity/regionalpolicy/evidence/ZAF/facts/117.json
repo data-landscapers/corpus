@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-29-payshap-cross-border-settlements-sadc",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TCIB payment corridor",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "BankservAfrica TCIB",
+   "owner": "BankservAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": "A cross-border payment corridor, which the payments row holds; no agreement, hosting or seat is stated."
+}

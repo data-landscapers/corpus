@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ECHIS",
+   "country_label": "Ethiopia",
+   "class": "community",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "T4"
+  }
+ ],
+ "note": "Only the community system ECHIS (operational in over 9,000 health posts) is named, which is a noted class, not HMIS or EMR."
+}

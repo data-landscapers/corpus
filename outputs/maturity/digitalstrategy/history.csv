@@ -13,3 +13,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,LSO,gov.policy--digital-transformation-strategy,fact,3,3,LSO-003;LSO-013;LSO-012;LSO-041,"Arrivals added LSO-041, LSO-042; restaged by hand: stage unchanged."
 2026-10-17,MDG,gov.policy--digital-transformation-strategy,fact,2,2,MDG-003;MDG-032,Arrivals added MDG-032; restaged by hand: stage unchanged.
 2026-10-17,SOM,gov.policy--digital-transformation-strategy,fact,2,2,SOM-002;SOM-004;SOM-006,Arrivals added SOM-010; restaged by hand: stage unchanged.
+2026-10-22,BDI,gov.policy--digital-transformation-strategy,fact,1,2,BDI-003,"Council of Ministers adopted the National Digital Policy on 14 Oct 2026; text and period not held, so 1 to 2."
+2026-10-22,SYC,gov.policy--digital-transformation-strategy,fact,unplaced,2,SYC-003;SYC-004,"National Digital & AI Strategy 2026-2031 validated at a national workshop by July 2026, not yet adopted: unplaced to 2."

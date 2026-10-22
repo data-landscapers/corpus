@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-moz-intic-eleito-comite-de-gestao-da-anca-cert",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "INTIC reports Mozambique's INTIC was elected on 12 October 2026 to the ANCA-CERT Management Committee, representing Southern Africa, at the 8th ANCA meeting in Rabat.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "ANCA-CERT",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

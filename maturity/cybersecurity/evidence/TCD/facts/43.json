@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-tcd-l-assemblee-nationale-approuve-la-reforme-de-l-ansice-un-pas-vers-le-n",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Tchad Vision reports that Ordonnance n°001/PR/2026 of 22 January 2026 reforms the national computer security and electronic certification agency ANSICE, extending its missions, powers and operational capacity.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "Agence nationale de sécurité informatique et de certification électronique",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

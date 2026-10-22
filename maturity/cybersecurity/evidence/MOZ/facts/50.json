@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-19-moz-intic-eleito-comite-de-gestao-da-anca-cert",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INTIC reports that Law 13/2026 (Cyber Security Law), in force from 29 September 2026, designates INTIC as National Cybersecurity Authority and establishes the national CSIRT, operated by INTIC.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "CSIRT Nacional (nCSIRT.mz)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "INTIC reports that with Law 13/2026 in force, incident reporting became mandatory for entities in the national cybersecurity ecosystem, including critical infrastructure operators and essential service operators.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Lei de Segurança Cibernética",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT Nacional (nCSIRT.mz)",
+   "country_label": "INTIC",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

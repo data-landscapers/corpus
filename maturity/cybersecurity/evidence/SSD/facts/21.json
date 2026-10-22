@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Diplo's profile says the National Communication Authority has created the South Sudan Computer Incident Response Team as the national focal point for monitoring and responding to cyber threats.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "South Sudan Computer Incident Response Team",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "South Sudan Computer Incident Response Team",
+   "country_label": "South Sudan CIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "National Communication Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

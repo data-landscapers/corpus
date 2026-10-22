@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-nga-agency-unveils-dashboard-to-track-national-digital-literacy-progress",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "National Digital Literacy Dashboard",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Literacy Dashboard",
+   "country_label": "National Digital Literacy Dashboard",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

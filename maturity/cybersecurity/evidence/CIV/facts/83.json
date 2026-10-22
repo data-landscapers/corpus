@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-09-civ-cote-d-ivoire-is-betting-big-on-ai-and-facing-bigger-cyber-risks",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Ecofin Agency reports ANSSI, the National Agency for Information Systems Security, was established in October 2024 to protect critical infrastructure, coordinate incident response and regulate digital security, consolidating CI-CERT, the PLCC and the DITT.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

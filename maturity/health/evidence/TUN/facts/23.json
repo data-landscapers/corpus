@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-21-tun-forum-realites-sur-la-sante-numerique-3500-nouvelles-recrues-et-95-de",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Health Minister Mustapha Ferjani said the ministry is completing the digitisation of the medical record, centralising patient information for remote access, with an execution rate above 95 per cent.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "digitised medical record",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Ferjani said the current aims are to connect primary care centres to the internet, train health professionals and introduce a unique medical identifier for every patient, on a medical record project above 95 per cent executed.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "digitised medical record",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitised medical record",
+   "country_label": "Tunisia",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

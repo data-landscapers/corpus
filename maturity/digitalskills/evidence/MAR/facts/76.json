@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-26-mar-la-ministre-de-la-transition-numerique-devoile-au-parlement-la-feuille",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The minister said two national digital-skills and AI training programmes for ages 8 to 18 were launched: one aimed at nearly 200,000 young people through the football federation, and youth-centre workshops that have reached over 740 children since October 2025.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "national digital-skills and AI training programmes for ages 8-18",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

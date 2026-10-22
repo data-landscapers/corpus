@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-uk-fcdo-zmb-2025-zra-customs-asy5-modernisation",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ecofin Agency reports the Zambia Revenue Authority is moving from ASYCUDA World to ASY5 under a UNCTAD customs modernisation project, with assessments, pilot testing and officer training under way per the authority's 19 October 2026 account.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "ASYCUDA World / ASY5",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World / ASY5",
+   "country_label": "Zambia",
+   "class": "customs",
+   "platform": "ASYCUDA (UNCTAD)",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

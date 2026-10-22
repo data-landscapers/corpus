@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-nitda-digital-literacy-dashboard",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "National Digital Literacy Dashboard",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Literacy Dashboard",
+   "country_label": "National Digital Literacy Dashboard",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

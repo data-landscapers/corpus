@@ -21,9 +21,9 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 32 |
-| 2 Nascent | 18 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -47,6 +47,13 @@ Hubs ran programmes in more than one city in 2026; a technology park with tenant
 Hubs ran programmes in more than one city in 2025; a technology park with tenants is not known.
 
 - Hubs and incubators are named in Douala, Yaounde and Buea (ActivSpaces, SM Ventures), per TechCabal ([source, 2025-07-01](https://techcabal.com/2025/07/01/tnw-cameroon-algeria/)).
+
+### Egypt: 4 Operating
+
+Egypt's 24 innovation centres across the governorates incubated startups in 2026; whether a technology park has tenants is not known.
+
+- Minister Raafat Hindy says 24 innovation centres have been created, which incubate startups and train young people ([source, 2026-10-21](https://www.tafsela.net/98622)).
+- Minister Raafat Hindy says the 24 innovation centres are spread across the governorates ([source, 2026-10-21](https://www.tafsela.net/98622)).
 
 ### Somalia: 4 Operating
 
@@ -298,13 +305,6 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 - Wingu Africa offered the communications ministry its new innovation centre to be used as an incubator for intensive ICT training of young Djiboutian graduates, with an MoU still to be finalised by a joint working cell (ADI, 28 September 2026) ([source, 2026-09-28](https://www.adi.dj/article/138942)).
 - The French Treasury note says the Centre de Leadership et d'Entreprenariat has an incubator seeking to host startups with AI-related projects ([source, 2025](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
-
-### Egypt: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- The Ministry of Investment and Foreign Trade plans to launch the TradeTech regulatory sandbox and innovation hub in October 2026, open to startups with an incubator-style environment, per assistant minister Sherif Yehia ([source, 2026-09-22](https://english.ahram.org.eg/News/577224.aspx)).
-- The Ministry of Communication and Information Technology established the Technology Innovation and Entrepreneurship Center, whose mission is to incubate startups in digital technologies, with no programme or cohort stated ([source, 2024](https://idsc.gov.eg/upload/DocumentLibraryIssues/AttachmentA/9154/Digitalization%20in%20Egypt.pdf)).
 
 ### Ethiopia: 2 Nascent
 

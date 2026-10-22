@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-cameroon-scanform-smartphones-health-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SCANFORM",
+   "country_label": "Cameroon",
+   "class": "tracker",
+   "platform": "secured smartphones",
+   "owner": "Ministry of Public Health with ICAP",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": "SCANFORM began as an HIV data-collection tool and is noted, not assessed; smartphones handed over 7 August 2026, 395 facilities planned, no live use or share stated."
+}

@@ -11,3 +11,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SEN,capacity.literacy--digital-literacy-general-population,review,no evidence,3,SEN-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,STP,capacity.literacy--digital-literacy-general-population,fact,no evidence,2,STP-003,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,capacity.literacy--digital-literacy-general-population,fact,4,4,ZWE-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-22,NGA,capacity.literacy--digital-literacy-general-population,fact,2,3,NGA-008;NGA-007,"NITDA's digital-literacy dashboard (Oct 2026) counts about 2.76 million trained since 2022 in all states: a national programme in service and counted, 2 to 3."

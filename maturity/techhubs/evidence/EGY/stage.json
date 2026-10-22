@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
-      "cities": "",
+      "stage": "4",
+      "hubs": "inservice",
+      "cities": "several",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-002",
-      "gaps": "No source held since October 2023 says: does a hub run programmes for startups.",
-      "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "EGY-003;EGY-004",
+      "gaps": "No source held since October 2023 says a science or technology park is in service with tenants.",
+      "note": "The ICT minister said in October 2026 that 24 innovation centres across the governorates incubate startups, so hubs with programmes run in several cities. No park with tenants is held, so not stage 5.",
+      "as_at": "2026-10-22"
     }
   ]
 }

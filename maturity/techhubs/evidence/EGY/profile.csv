@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,hub,hubs,coverage,underway,2026-09-22,EGY-001;EGY-002,,
-EGY,hub,cities,coverage,,,,,nothing held
+EGY,hub,hubs,coverage,inservice,2026-10-21,EGY-003,EGY-001=underway;EGY-002=underway,
+EGY,hub,cities,coverage,several,2026-10-21,EGY-004,,
 EGY,hub,park,coverage,,,,,nothing held

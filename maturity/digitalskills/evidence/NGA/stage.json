@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002;NGA-003",
-   "gaps": "No source held since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-008;NGA-007",
+      "gaps": "No source held since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "NITDA's national digital-literacy dashboard counts about 2.76 million people trained since 2022 across all states, so a national programme is in service and counted. No survey share of adults with basic digital skills is held, so not stage 4.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

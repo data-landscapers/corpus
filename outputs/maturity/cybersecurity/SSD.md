@@ -2,7 +2,7 @@
 
 ## National cyber response
 
-**A strategy or a national body.** [The Cybercrime and Computer Misuse Act 2026, signed 18 February 2026, designates the authority as lead national responder to cyber threats and requires it to establish a National Computer Incident Response Team Coordination Centre (SS-CIRT/CC)](<https://www.radiotamazuj.org/en/news/article/explainer-cybercrime-and-computer-misuse-act-2026-chapter-v>).
+**A strategy or a national body.** [The Cybercrime and Computer Misuse Act 2026, signed 18 February 2026, designates the authority as lead national responder to cyber threats and requires it to establish a National Computer Incident Response Team Coordination Centre (SS-CIRT/CC)](<https://www.radiotamazuj.org/en/news/article/explainer-cybercrime-and-computer-misuse-act-2026-chapter-v>). [Diplo's 2026 profile says the National Communication Authority has created the South Sudan Computer Incident Response Team as the national focal point for cyber threats](<https://dig.watch/countries/south-sudan>).
 
 **Responding to incidents.** No source held says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://www.radiotamazuj.org/en/news/article/explainer-cybercrime-and-computer-misuse-act-2026-chapter-v>).
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-14-som-soomaaliya-oo-doonaysa-in-ay-hormuud-u-noqoto-isbeddelka-dijitaalka-ee",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Somalia presented its plan for adopting artificial intelligence at a meeting of the East African Science and Technology Commission (EASTECO), where its delegation also worked with the East Africa Kiswahili Commission.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "EASTECO",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Network Area",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "regional roaming scheme",
+   "owner": "Somalia National Communications Authority",
+   "tiers": "preparation under way"
+  }
+ ],
+ "note": ""
+}

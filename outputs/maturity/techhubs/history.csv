@@ -17,3 +17,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TCD,tech.innovate--technology-hubs,fact,2,2,TCD-001;TCD-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,tech.innovate--technology-hubs,fact,3,3,ZAF-004;ZAF-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,tech.innovate--technology-hubs,fact,3,3,ZWE-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-22,EGY,tech.innovate--technology-hubs,fact,2,4,EGY-003;EGY-004,"ICT minister (Oct 2026): 24 innovation centres across the governorates incubate startups; hubs with programmes in several cities, 2 to 4."

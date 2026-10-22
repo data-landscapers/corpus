@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-moz-mocambique-dhis2-clima-e-saude",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "DHIS2 says the Ministry of Health officially adopted DHIS2 as the national HMIS, SISMA, in 2015, with technical support from Saudigitus.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "SISMA",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SISMA (DHIS2)",
+   "country_label": "Mozambique",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

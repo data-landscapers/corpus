@@ -1,4 +1,5 @@
 iso3,pattern,instrument,class,period_end
+BDI,Politique nationale du num|National Digital Policy,Politique nationale du numérique,national,
 BDI,.,No national digital strategy,national,
 BEN,2031|2033|national digital policy,Stratégie numérique du Bénin 2031,national,2031
 BEN,.,Digital strategy 2021-2026,national,2026
@@ -110,6 +111,7 @@ SSD,Government,Digital Government Strategy,government,
 SSD,.,Digital Development Road Map and Master Plan,national,
 STP,.,National digital transformation strategy,national,
 SWZ,.,Eswatini Digitalisation Strategy 2024-2028,government,
+SYC,2026-2031|Digital & AI Strategy,National Digital & AI Strategy 2026-2031,national,2031
 SYC,.,National AI and digital strategy,national,
 TCD,Connexion|Connection,Tchad Connexion 2030,development-plan,2030
 TCD,Horizon 2030,Chad Digital Strategy Horizon 2030,national,

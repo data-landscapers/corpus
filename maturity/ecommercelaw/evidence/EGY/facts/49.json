@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-16-egy-elwatan-badawi-government-prepared-ai-draft-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "MP Ahmed Badawi said the House ICT committee contributed to preparing an electronic transactions bill.",
+   "as_of": "2025-08-16",
+   "date_precision": "day",
+   "system": "electronic transactions bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

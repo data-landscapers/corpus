@@ -2,7 +2,7 @@
 
 ## National strategy
 
-**Governance and finance.** The Ministry of Digital and Digitalisation ran the [5-6 February 2026 seminar that drafted the vision for the Stratégie numérique du Bénin 2031](<https://beninwebtv.bj/en/digital-benin-outlines-its-strategic-vision-for-2031>), with Deloitte.
+**Governance and finance.** The Ministry of Digital and Digitalisation ran the [5-6 February 2026 seminar that drafted the vision for the Stratégie numérique du Bénin 2031](<https://beninwebtv.bj/en/digital-benin-outlines-its-strategic-vision-for-2031>), with Deloitte. [Decree 2026-579 of 2 September 2026 created a National Digital Committee attached to the President to steer the state's digital transformation and keep the national strategy coherent](<https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree>).
 
 **Standing.** The strategy is in preparation: on 24 March 2026 [ASIN's director general said the agency was supporting the digital ministry in drawing it up](<https://lanation.bj/actualites/transformation-numerique-les-dsi-face-au-defi-de-lintelligence-artificielle>), after [consultations began at a Cotonou workshop on 5-6 February 2026](<https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap>). It follows a [2021-2026 digital strategy, described by a GSMA study published in January 2025](<https://www.gsma.com/about-us/regions/sub-saharan-africa/wp-content/uploads/2025/01/BENIN_DigitalEconomy_Reflow_R2_Web.pdf>).
 

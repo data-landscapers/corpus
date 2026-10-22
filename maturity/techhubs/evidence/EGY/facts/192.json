@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-21-egy-minister-ict-egypt-tops-africa-fixed-internet-speed-digital-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Minister Raafat Hindy says 24 innovation centres have been created, which incubate startups and train young people.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "innovation centres",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "Minister Raafat Hindy says the 24 innovation centres are spread across the governorates.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "innovation centres",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "innovation centres",
+   "country_label": "Egypt",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Communications and IT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

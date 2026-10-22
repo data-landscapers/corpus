@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-moz-mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "INTIC, UNDP and the national elections commission are running a training of 26 institutional trainers on using, assessing and supervising AI tools in election administration, 19 to 23 October 2026, to pass skills on within their institutions.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Formação de Formadores em Inteligência Artificial na Administração Eleitoral",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BEN-010;BEN-001;BEN-009",
+      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
+      "note": "Webb Customs runs at all ports, airports and land borders and, per Webb Fontaine in February 2025, is interconnected with the National Single Window, so a single window is in service. No electronic exchange with another country's customs is held, so not stage 5.",
+      "as_at": "2026-10-22"
     }
   ]
 }

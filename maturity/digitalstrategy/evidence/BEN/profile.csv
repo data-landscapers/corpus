@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,national,governance,qualifier,body:mandated;finance:donor,2025-01,BEN-009;BEN-011,BEN-010=finance:domestic,
+BEN,national,governance,qualifier,body:mandated;finance:donor,2026-09-02,BEN-011;BEN-025,BEN-009=body:mandated;BEN-010=finance:domestic,
 BEN,national,standing,coverage,drafting,2026-03-24,BEN-001;BEN-003;BEN-004;BEN-006;BEN-007,BEN-002=announced;BEN-012=announced;BEN-008=announced,
 BEN,national,text,coverage,,,,,nothing held
 BEN,national,period,coverage,,,,,nothing held

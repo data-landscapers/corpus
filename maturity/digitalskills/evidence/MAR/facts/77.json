@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-24-mar-amal-el-fallah-seghrouchni-le-maroc-prepare-un-cadre-legal-et-une-dire",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The minister recalled the launch of a national digital and AI training programme for children aged 8 to 14, led by several ministries with Mohammed VI Polytechnic University and UNESCO under Maroc Digital 2030; no number trained is given.",
+   "as_of": "2025-10-24",
+   "date_precision": "day",
+   "system": "national digital and AI training programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national digital and AI training programme",
+   "country_label": "Morocco",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "several ministries with UM6P and UNESCO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

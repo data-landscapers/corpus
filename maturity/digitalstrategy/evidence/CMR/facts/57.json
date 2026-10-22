@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-08-cmr-leconomie-plan-directeur-digitalisation-marches-publics",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plan directeur national de digitalisation du système d'information des marchés publics",
+   "country_label": "CMR",
+   "class": "ministry-plan",
+   "platform": "",
+   "owner": "Ministère des Marchés publics, AfDB-funded",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers a procurement-only master plan under an AfDB-backed project, not a national digital strategy."
+}

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,hmis,governance,qualifier,owner:ministry;plan:current,2026-07,BFA-013;BFA-014,BFA-006=plan:current;BFA-026=owner:ministry;BFA-031=owner:ministry;BFA-033=plan:current;BFA-008=owner:ministry;BFA-009=plan:current,not stated: finance
+BFA,hmis,governance,qualifier,owner:ministry;plan:current,2026-07,BFA-013;BFA-014,BFA-043=plan:current;BFA-006=plan:current;BFA-026=owner:ministry;BFA-031=owner:ministry;BFA-033=plan:current;BFA-008=owner:ministry;BFA-009=plan:current,not stated: finance
 BFA,hmis,tiers,coverage,T1;T2;T3,2024,BFA-020;BFA-024;BFA-029,BFA-012=T1;T2;T3;BFA-005=T3;BFA-039=T3,
 BFA,hmis,digitised,coverage,facility,2025-01,BFA-007;BFA-010;BFA-023;BFA-028;BFA-042,BFA-022=district;BFA-027=district;BFA-032=district;BFA-011=district;BFA-004=district;BFA-041=district;BFA-040=district,
 BFA,hmis,last12,qualifier,advancing,2026-07-18,BFA-015,BFA-021=regressing,

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-digital-health-case-study",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "share:60%",
+   "fact": "The Global Fund case study says eBuzima, Rwanda's health facility EMR, has been deployed in an estimated 60% of health facilities in the country and continues to be expanded.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "eBuzima",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eBuzima",
+   "country_label": "Rwanda",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "community EMR",
+   "country_label": "Rwanda",
+   "class": "community",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "eCHIS",
+   "country_label": "Rwanda",
+   "class": "community",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

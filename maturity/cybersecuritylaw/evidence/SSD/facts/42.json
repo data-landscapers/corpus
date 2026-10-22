@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Diplo's profile says the Transitional National Legislative Assembly passed the Cybersecurity and Computer Misuse Bill 2025 with amendments in November 2025; it does not say the law is in force.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Cybersecurity and Computer Misuse Bill 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

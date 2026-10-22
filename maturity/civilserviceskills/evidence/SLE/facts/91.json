@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-sle-sierra-leone-moves-towards-context-specific-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Technology and Innovation, with the Ministry of Public Administration, has introduced a weekly digital skills training programme for civil servants, per Minister Bah; no number trained is given.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "weekly digital skills training programme for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

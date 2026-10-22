@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-gha-ghana-appoints-ai-focal-points-in-all-ministries-to-boost-national-digital-readi",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Sam George said an AI boot camp was held for cabinet ministers and AI training with UNDP and UNESCO is beginning for chief directors and directors.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "AI training for civil servants with UNDP and UNESCO",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

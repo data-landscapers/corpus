@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "Prime Minister Ahmadou Al Aminou Mohamed Lô installed the Comité de gouvernance du numérique (GouVNum) on 16 October 2026 under his authority to coordinate the state's digital initiatives within the New Deal technologique, with the telecoms and digital ministry as permanent secretariat.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "New Deal technologique",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2034",
+   "fact": "The article gives the New Deal technologique, the digital part of the Sénégal 2050 national agenda, targets for 2034, including 90% of administrative procedures dematerialised and a digital identity for 90% of citizens.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "New Deal technologique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

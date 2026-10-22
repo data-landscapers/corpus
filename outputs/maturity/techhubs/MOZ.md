@@ -6,7 +6,7 @@
 
 **Several cities.** No source held since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://www.incm.gov.mz/2026/05/29/visita-de-director-regional-do-banco-mundial-para-africa-ao-thinklab-do-incm-reforca-perspectivas-de-expansao-da-inovacao-digital-em-mocambique/>).
 
-**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://www.incm.gov.mz/2026/05/29/visita-de-director-regional-do-banco-mundial-para-africa-ao-thinklab-do-incm-reforca-perspectivas-de-expansao-da-inovacao-digital-em-mocambique/>).
+**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [in April 2026 the government said the parks of the National Science and Technology Parks Company have served as centres for digital solutions and for training young entrepreneurs and tech startups](<https://unctad.org/system/files/non-official-document/ecn162026_s08_mr_mozambique_miquidade_en.pdf>).
 
 ***Noted, not assessed***. [VaMozDIGITAL!](<https://maputo.aics.gov.it/en/home/field-office/delegated-cooperation/vamozdigital/>).
 

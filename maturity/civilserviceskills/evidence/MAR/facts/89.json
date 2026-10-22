@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-26-mar-la-ministre-de-la-transition-numerique-devoile-au-parlement-la-feuille",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The minister said several partnership agreements were signed for the training and upskilling of young talent and civil servants in various sectors; no course or number trained is given.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "partnership agreements for training of officials",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

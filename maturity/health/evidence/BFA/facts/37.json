@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "Burkina Faso says it has adopted a strategic plan for the national health information system, as well as a digital health strategic plan and a national digital health architecture.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Plan strategique du systeme national d'information sanitaire",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

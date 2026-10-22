@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-21-cpv-cabo-verde-tem-sido-um-exemplo-naquilo-que-e-a-governacao-da-internet",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ARME chair says the regulator ARME has been carrying out many digital literacy actions, notably in schools, and a mentoring session on digital literacy for 60 girls from 10 Praia lyceums was set for 22-23 April 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "ARME digital literacy actions",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

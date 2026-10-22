@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-20-moz-ministerial-roundtable-on-the-role-of-science-technology-and-innovatio",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The statement says the Government approved a proposed Cybersecurity Law and a proposed Cybercrime Law and submitted them to the Assembly of the Republic.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "Proposed Cybersecurity Law; Proposed Cybercrime Law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

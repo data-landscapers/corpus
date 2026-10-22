@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-mdg-lancement-du-projet-de-modernisation-du-systeme-de-dedouanement-electr",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of Economy and Finance says the customs directorate and the Korea Customs Service officially launched on 4 December 2024 a project to modernise the electronic customs clearance system, with a data warehouse and full deployment expected in 2026.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Modernisation du systeme de dedouanement electronique (Sydonia World)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia World",
+   "country_label": "Madagascar",
+   "class": "customs",
+   "platform": "Sydonia World",
+   "owner": "Direction Generale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

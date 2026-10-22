@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Health and Public Hygiene, through the ANSS with IOM Guinea and US CDC funding, launched a training for several health-sector officials in practical use of AI for document analysis, data, alert tracking and decision support in the public health emergency operations centre.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Formation IA du COU-SP",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

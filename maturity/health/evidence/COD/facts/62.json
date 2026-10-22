@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-02-cod-use-case-snapiform",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "digitised",
+   "value": "district",
+   "fact": "SnapiForm says a Health Zone data manager in the DRC enters data from 30-150 facilities' paper reports into DHIS2 every month, with reporting timeliness about 30%.",
+   "as_of": "2026-01-02",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

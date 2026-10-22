@@ -21,8 +21,8 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 13 |
-| 3 Established | 25 |
+| 4 Operating | 14 |
+| 3 Established | 24 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -59,6 +59,14 @@ Customs exchanged data electronically with another country in 2025.
 Customs exchanged data electronically with another country in 2025.
 
 - Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them ([source, 2025-08-25](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+
+### Benin: 4 Operating
+
+Benin's automated customs system linked to a national single window in 2025; electronic exchange with other countries' customs is not known.
+
+- Webb Fontaine says Webb Customs interconnects trade platforms including the National Single Window, the Port Community System and electronic cargo tracking ([source, 2025-02](https://webbfontaine.com/news/benin-customs-management-milestones)).
+- Webb Fontaine says it completed migration of Benin's national Customs Management System from ASYCUDA to Webb Customs, fully operational at all sea ports, airports and land border offices, with over 100,000 declarations processed ([source, 2025-04-15](https://webbfontaine.com/news/webb-fontaine-successfully-completes-national-rollout-of-customs-management-systems-in-benin)).
+- Webb Fontaine says Webb Customs, launched in July 2022, has replaced ASYCUDA World at 44 of Benin's 49 customs offices, with the last five including the port of Cotonou planned for mid-2025; it reports 59,000 returns processed and 100,000 receipts issued ([source, 2025-02](https://webbfontaine.com/news/benin-customs-management-milestones)).
 
 ### Burkina Faso: 4 Operating
 
@@ -157,12 +165,6 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - UNCTAD's ASYCUDA Programme reports Angola launched ASY5 operationally on 5 January 2026 in Lobito, with a shipping agent lodging a cargo manifest and a customs broker lodging the first export declaration in the live system ([source, 2026-01-05](https://asycuda.org/en/angola-marks-the-operational-launch-of-asy5-the-5th-generation-of-asycuda-customs-management-software/)).
 - AGT's customs department says Angola uses the Sistema Automatizado de Procedimentos Aduaneiros, run on ASYCUDA World, from cargo manifest submission to release from temporary storage, including payments and refunds ([source, 2024-06](https://www.ucm.minfin.gov.ao/cs/groups/public/documents/document/aw40/mziw/~edisp/minfin4320326.pdf)).
-
-### Benin: 3 Established
-
-Customs declarations were processed electronically in 2025; a single window is not on record.
-
-- Webb Fontaine says it completed migration of Benin's national Customs Management System from ASYCUDA to Webb Customs, fully operational at all sea ports, airports and land border offices, with over 100,000 declarations processed ([source, 2025-04-15](https://webbfontaine.com/news/webb-fontaine-successfully-completes-national-rollout-of-customs-management-systems-in-benin)).
 
 ### Botswana: 3 Established
 

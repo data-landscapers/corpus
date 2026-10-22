@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 13 |
-| 2 Nascent | 30 |
+| 3 Established | 14 |
+| 2 Nascent | 29 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 6 |
@@ -123,6 +123,13 @@ A national digital-skills programme had trained a stated number of people by 202
 A national digital-skills programme had trained a stated number of people by 2025; a measured share with skills is not on record.
 
 - Niger Digital Day's focal point says it trained more than 300 young people in 6 regions in 2025 and will cover all 8 regions this year ([source, 2025](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/)).
+
+### Nigeria: 3 Established
+
+A national digital-literacy programme had counted about 2.76 million people trained by 2026; the share of adults with basic digital skills is not known.
+
+- NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General ([source, 2026-10-20](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)).
+- NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News ([source, 2026-10-21](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)).
 
 ### Senegal: 3 Established
 
@@ -287,13 +294,6 @@ A national digital-skills programme was under way in 2026; how many it trained i
 
 - ITWeb Africa reports Huawei launched the Women in Tech Namibia initiative and the 2026 National Talent Cultivation Project (about 1,000 students), which the ICT minister welcomed as supporting government efforts on digital inclusion and ICT skills ([source, 2026-05-15](https://itweb.africa/article/huawei-launches-namibia-digital-skills-drive/mQwkoM6YbmR73r9A)).
 - NUST says Huawei and partners launched the Women in Tech Namibia National Talent Cultivation Programme at the 13 May 2026 Huawei ICT Congress, committing to support 1,000 women in technology over five years with women-focused digital skills training ([source, 2026-05-13](https://www.nust.na/huawei-ict-congress-2026-spotlights-ai-talent-and-smart-campus-innovation-namibia)).
-
-### Nigeria: 2 Nascent
-
-A national digital-skills programme was under way in 2026; how many it trained is not on record.
-
-- The Federal Government launched the Digital Training Academy on 14 September 2026, committing over N10.5 billion to train more than 32,000 young Nigerians, per Education Minister Tunji Alausa ([source, 2026-09-14](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/)).
-- Nigeria's Federal Ministry of Education admitted 16,000 people to the first cohort of the free Digital Training Academy, with national launch set for 14 September 2026 and training via Coursera and Pluralsight ([source, 2026-09-09](https://www.thisdaylive.com/2026/09/09/fg-enrols-16000-nigerians-in-maiden-digital-training-academy-cohort/)).
 
 ### Rwanda: 2 Nascent
 

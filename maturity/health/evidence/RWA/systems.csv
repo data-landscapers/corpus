@@ -54,3 +54,6 @@ RWA,Community Health Workers' standardized forms and mobile tools,,community,,,c
 RWA,national health management information system (DHIS2),national health management information system,hmis,DHIS2,Ministry of Health,rolled out at all health facilities,2024-12-16-rwa-audit-report-global-fund-grants-in-the-republic-of-rwanda-gf-oig-24-02
 RWA,laboratory specific data systems (HIV viral load),,single-function,,,centralized laboratory results; not interoperable with DHIS2 or the health registers,2024-12-16-rwa-audit-report-global-fund-grants-in-the-republic-of-rwanda-gf-oig-24-02
 RWA,Rwanda HMIS (DHIS 2),Rwanda HMIS,hmis,"DHIS2 (web-based, since 2012)",Rwanda Ministry of Health,routinely collected data from community health workers and all health facilities across the country; studied in 7 hospitals and 69 health centres,2020-07-17-rwa-health-management-information-system-hmis-data-verification-a-case-stu
+RWA,eBuzima,Rwanda,emr,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study
+RWA,community EMR,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study
+RWA,eCHIS,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study

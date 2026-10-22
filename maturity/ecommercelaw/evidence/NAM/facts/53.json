@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Communications Regulatory Authority of Namibia's Mufaro Nesongano said Namibia's Electronic Transactions Act of 2019 provides a legal framework for electronic agreements and signatures, subject to applicable requirements.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Electronic Transactions Act of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act of 2019",
+   "country_label": "Namibia",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

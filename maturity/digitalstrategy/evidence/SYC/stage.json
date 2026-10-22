@@ -1,6 +1,22 @@
 {
   "iso3": "SYC",
   "cells": [
-    {"sub_indicator": "national", "stage": "unplaced", "governance": "body:mandated", "standing": "", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "The only row is governance (SYC-001, 2026-09-17); no row gives the strategy's standing, text, period, plan or reporting, and finance is not stated. The country also holds a 'national digital plan' and a 'digital transformation strategy' named in passing, and a National Digital Economy Action Plan of 2022 with no date or standing, none with a dated standing row.", "note": "Instrument: National AI and digital strategy (also called the Digital and AI Strategy), still to be operationalised per the World Bank. Its one row sets no rung, so the cell is unplaced."}
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "body:mandated",
+      "standing": "validated",
+      "text": "",
+      "period": "to:2031",
+      "plan": "",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SYC-003;SYC-004",
+      "gaps": "The National Digital & AI Strategy 2026-2031 completed its national validation workshop by July 2026; no adoption, public text, delivery plan or reporting is held, and finance is not stated.",
+      "note": "Instrument: National Digital & AI Strategy 2026-2031, validated and awaiting adoption, so stage 2. Stage 3 needs adoption and a public text.",
+      "as_at": "2026-10-22"
+    }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-10-ken-kenya-s-efforts-in-ai-and-implementation-plan-of-the-kenyan-national-a",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Kenya announced an AI skilling project to train 100,000 public servants, with a Project Implementation Board for the Regional Centre of Competence on Digital and AI Skilling for Public Service set up and programmes being finalised by July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "AI skilling project for public servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The document says UNESCO followed up with training sessions for civil servants in Nigeria in early 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "UNESCO training sessions for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ICT Minister Emma Theofelus highlighted Project 1000, which aims to develop young people's digital skills and connect beneficiaries with employment opportunities.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Project 1000",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project 1000",
+   "country_label": "Namibia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
