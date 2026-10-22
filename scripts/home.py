@@ -52,7 +52,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
 from copy_lib import copy, copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -430,7 +430,7 @@ TEMPLATE = """<!DOCTYPE html>
 
 
 # The countries page — the 54-box matrix, moved off the home page on 2026-08-24
-# (Bill). The home page keeps the heading and `countries-intro` and links here.
+# (Bill).
 #
 # **Why it is a page and not a section.** The matrix is the largest single object
 # on the site — 54 boxes, most of a viewport — and it sat above Regions and
@@ -483,14 +483,13 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
          is the house page head (2026-09-11), which every page carries. -->
     <header class="article-header article-header--norule">
       {feedback}
-      <h1 class="article-header__title">Countries &amp; Regions</h1>
+      <h1 class="article-header__title">Countries &amp; Regions{about}</h1>
     </header>
+    {panel}
     <h2 class="section-heading" id="countries">Countries</h2>
-    <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
 {countries}
     </div>
-    <p class="caveat">{countries_caveat}</p>
 
     <!-- The region matrix, moved off the home page on 2026-09-02 (Bill) to sit
          below the countries it does not overlap with, rather than above them
@@ -498,11 +497,9 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
          level as Countries above (Bill, 2026-09-02) — the two are sections of
          one page, not a page and a sub-page. -->
     <h2 class="section-heading" id="regions">Regions</h2>
-    <p class="section-intro">{regions_intro}</p>
     <div class="boxes boxes--regions">
 {regions}
     </div>
-    <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -536,9 +533,11 @@ def build_countries() -> Path:
     `/countries/` resolves and `/countries/AGO/` goes on resolving beneath it."""
     s = load_stats()
     by_place = s["by_place"]
-    regional = sum(v for k, v in by_place.items() if k.startswith("X"))
     built = date.today().isoformat()
+    # The intros and caveats gave way to the ⓘ by the title, from content/info.md (Bill, 2026-10-22).
+    about, panel = info("Countries & Regions")
     doc = COUNTRIES_TEMPLATE.format(
+        about=about, panel=panel,
         feedback=feedback("Countries & Regions", f"{SITE_BASE}/countries/"),
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
@@ -547,11 +546,7 @@ def build_countries() -> Path:
         docs=f"{s['documents']:,}",
         ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
         countries=country_boxes(by_place),
-        countries_intro=copy_inline("home", "countries-intro"),
-        countries_caveat=copy_inline("countries", "caveat"),
         regions=region_boxes(by_place),
-        regions_intro=copy_inline("home", "regions-intro"),
-        regional=f"{regional:,}",
     )
     out = SITE / "countries"
     out.mkdir(parents=True, exist_ok=True)

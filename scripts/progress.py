@@ -50,11 +50,9 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
-import markdown
-from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
-CONTENT_DIR = CORPUS / "content"
 LOOKUPS = CORPUS / "lookups"
 REPORTS = CORPUS / "outputs" / "reports"
 SITE = CORPUS / "site"
@@ -95,8 +93,9 @@ PAGE = """<!DOCTYPE html>
   <div class="container">
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">{h1}</h1>
+      <h1 class="article-header__title">{h1}{about}</h1>
     </header>
+    {panel}
 
     <article class="article-body">
 {body}
@@ -326,16 +325,6 @@ def toc(current: str) -> str:
     return f'<nav class="article-toc" aria-label="Progress views">\n{body}\n</nav>\n'
 
 
-def intro(name: str) -> str:
-    src = CONTENT_DIR / f"{name}.md"
-    if not src.exists():
-        raise SystemExit(
-            f"progress.py: content/{name}.md is missing. The block of text above "
-            f"the table is that file; there is nothing to build without it.")
-    return markdown.markdown(src.read_text(encoding="utf-8"),
-                            extensions=["tables", "attr_list", "sane_lists", "nl2br"])
-
-
 def indent(html: str) -> str:
     return "\n".join("      " + ln if ln.strip() else ln for ln in html.splitlines())
 
@@ -372,9 +361,12 @@ def check_links(indicators, skip=frozenset()) -> None:
 
 
 def write(out_dir: Path, *, h1, title, description, url, depth, body, counted) -> None:
+    # The text above the table gave way to the ⓘ by the title, from content/info.md
+    # (Bill, 2026-10-22): one explanation for both views.
+    about, panel = info("Progress")
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(external_links(PAGE.format(
-        feedback=feedback(title, f"{SITE_BASE}{url}"),
+        feedback=feedback(title, f"{SITE_BASE}{url}"), about=about, panel=panel,
         h1=h1, title=title, description=description, canonical=f"{SITE_BASE}{url}",
         main=MAIN_SITE, chrome=chrome("progress", depth=depth), foot=foot(depth=depth),
         styles=styles(depth, "progress.css"), ga=ga(),
@@ -399,8 +391,7 @@ def main() -> int:
           description=(f"How far each of {len(indicators)} indicators has moved across 54 "
                        f"African countries, counted from the country progress reports."),
           url="/progress/", depth=1,
-          body=toc("topics") + intro("progress-topics")
-               + topics_table(indicators, grid, bare),
+          body=toc("topics") + topics_table(indicators, grid, bare),
           counted=counted)
     print(f"progress: {len(indicators)} indicators over {places} places "
           f"-> site/progress/index.html")
@@ -411,8 +402,7 @@ def main() -> int:
                        f"fixed frame of {len(indicators)} indicators, counted from the "
                        f"country progress reports."),
           url="/progress/countries/", depth=2,
-          body=toc("countries") + intro("progress-countries")
-               + countries_table(indicators, grid, names, region),
+          body=toc("countries") + countries_table(indicators, grid, names, region),
           counted=counted)
     print(f"progress: {places} places over {len(indicators)} indicators "
           f"-> site/progress/countries/index.html")

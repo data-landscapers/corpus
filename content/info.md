@@ -7,20 +7,12 @@ News is discovered using Exa Search and classified by Claude Code.
 
 You can also access all news published since the beginning of last month by country or by topic.
 
-## Finance
+## Countries & Regions
 
-Corpus' work on building finance datasets is aimed at overcoming three challenges: 
-- No one has integrated non-state finance data with national budgets, expenditure and audits.
-- No one has joined up the full spectrum of cross-border and domestic, public and private investment.
-- With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.
+Click on a country or region and you will be taken to a suite of available reports for your selection. 
 
-The *Non-state Finance* dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.
+The number in each box is a count of the number of sources held in the repository for that country.
 
-We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so `commitment_usd_m` counts 50% of a commitment whose scope is partial or unclear. The `scope_basis` column explains why a row was judged that way,
-
-The *Budgets* dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.
-
-The *All Finance* dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.
 
 ## Country news
 
@@ -40,6 +32,21 @@ The report is written by Claude Code and updated nightly whenever new relevant e
 
 Two shorter country reports are also maintained. The *Progress Report* tracks developments that have taken place over the past 12 months. The *Maturity Assessment* dashboard compares the progress of all 54 countries across 115 indicators.
 
+## Finance
+
+Corpus' work on building finance datasets is aimed at overcoming three challenges: 
+- No one has integrated non-state finance data with national budgets, expenditure and audits.
+- No one has joined up the full spectrum of cross-border and domestic, public and private investment.
+- With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.
+
+The *Non-state Finance* dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.
+
+We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so `commitment_usd_m` counts 50% of a commitment whose scope is partial or unclear. The `scope_basis` column explains why a row was judged that way,
+
+The *Budgets* dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.
+
+The *All Finance* dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.
+
 ## Maturity assessment
 
 The maturity assessment dashboard compares the progress of all 54 countries across 115 indicators. The indicators are grouped into 10 chapters and 35 topics. The criteria for classifying each indicator is derived from a norm or target stated in one of the African Union's foundational instruments. 
@@ -47,3 +54,12 @@ The maturity assessment dashboard compares the progress of all 54 countries acro
 Corpus provides country analysis in three separate reports. In addition to this report the *Status Report* provides a more detailed summary of all aspects of digital transformation, and the *Progress Report* tracks developments that have taken place over the past 12 months.
 
 These assessments are updated overnight whenever new relevant evidence arrives. And once a month each indicator is rebuilt entirely.
+
+## Progress
+
+The progress reports looks for evidence impacting on 115 indicators over the past year. It is a more granular version of the *Maturity Assessment*.  
+
+**Movement** means that some form of progress, however minor, has been recorded in the period. 
+
+The <span style="font-variant: small-caps;">COUNTRY</span> reports tabulate all indicators for your selected country, grouped by topic. The <span style="font-variant: small-caps;">TOPIC</span> reports tabulate a single indicator across all countries.
+
