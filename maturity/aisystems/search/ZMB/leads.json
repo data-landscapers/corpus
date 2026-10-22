@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge",
+  "title": "Call for Applications: AI for Public Good Challenge",
+  "publisher": "UNDP Zambia",
+  "published": "2026-08-18",
+  "sub_indicator": "localai",
+  "why": "GPU computing on campus at UNZA and CBU UniPods open to student teams"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership",
+  "title": "Zambia deepens digital sovereignty push with Huawei AI partnership",
+  "publisher": "Biometric Update",
+  "published": "2026-06-08",
+  "sub_indicator": "localai",
+  "why": "planned national data centre, Huawei co-invest"
+ },
+ {
+  "url": "https://techreviewafrica.com/news/5755/zambia-partners-with-huawei-to-accelerate-ai-infrastructure-and-public-sector-digital-transformation",
+  "title": "Zambia partners with Huawei to accelerate AI infrastructure",
+  "publisher": "TechReviewAfrica",
+  "published": "2026-06-02",
+  "sub_indicator": "localai",
+  "why": "planned National AI Data Centre with named builder"
+ },
+ {
+  "url": "https://huggingface.co/Kelvinmbewe/ZambiaLLM",
+  "title": "ZambiaLLM",
+  "publisher": "Hugging Face (Kelvin Mbewe)",
+  "published": "2026-03",
+  "sub_indicator": "localai",
+  "why": "model built for Zambian languages released"
+ },
+ {
+  "url": "https://paratus.africa/zambia/paratus-zambia-launches-enterprise-grade-ai-sovereign-cloud-with-touchnet-and-zadara/",
+  "title": "Paratus Zambia Launches Enterprise-Grade AI Sovereign Cloud",
+  "publisher": "Paratus Zambia",
+  "published": "2025-05-27",
+  "sub_indicator": "localai",
+  "why": "AI sovereign cloud in service at Lusaka data centre"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/google-to-establish-ai-center-of-excellence-at-university-of-zambia/",
+  "title": "Google to establish AI center of excellence at University of Zambia",
+  "publisher": "Zambia Monitor",
+  "published": "2024-09-04",
+  "sub_indicator": "localai",
+  "why": "planned AI centre with named builder and site"
+ },
+ {
+  "url": "https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf",
+  "title": "National Artificial Intelligence Strategy",
+  "publisher": "Ministry of Technology and Science / OECD.AI",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "states limited public datasets and no HPC access; plans national platform"
+ },
+ {
+  "url": "https://arxiv.org/html/2306.04428",
+  "title": "Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages",
+  "publisher": "UNZA speech lab / arXiv",
+  "published": "2023-06",
+  "sub_indicator": "localai",
+  "why": "dataset released publicly"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "Huawei's bid for 2,008 AI processors for Egyptian government data centres remains a bid and should not be counted as installed capacity, and there is no authoritative public inventory of advanced AI compute operating in Egypt; Hassan Allam plans about $400 million for a first-phase data centre.",
+ "title": "Egypt's AI Ambition Has a Compute Problem",
+ "publisher": "The Middle East Observer",
+ "published": "2026-08-26",
+ "date_source": "source",
+ "why_not": ""
+}

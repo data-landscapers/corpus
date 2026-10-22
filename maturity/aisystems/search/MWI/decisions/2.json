@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "The Minister of Information says Malawi is developing Chichewa AI models and licensed Chichewa datasets through the Malawi Low Resource Language Data Trust Initiative, supported by the World Bank and the Gates Foundation.",
+ "title": "Chichewa Enters the AI Age",
+ "publisher": "ProjectM",
+ "published": "2026-07-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

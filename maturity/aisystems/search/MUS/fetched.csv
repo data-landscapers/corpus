@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://doi.org/10.5281/zenodo.21877806,fetched,,scripts/.workroot/study/aisystems/cache/MUS/1.txt,203,html,morisien-embed: A Dedicated Text Embedding Model and Benchmark for Mauritian Creole (Kreol Morisien)
+2,https://jcplaboratory.org/writing/kreole-llm/,fetched,,scripts/.workroot/study/aisystems/cache/MUS/2.txt,293,html,Building a Mauritian Creole LLM â where we are and what's next â J.C.P Laboratory
+3,https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/,held,held as raw/2026/2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica.md,,0,,
+4,https://www.mauritiustimes.com/mt/ai-will-not-become-an-economic-pillar-because-we-declare-it/,held,held as raw/2026/2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes.md,,0,,
+5,https://developingtelecoms.com/telecom-business/operator-news/20434-mauritius-telecom-ai-learning-lead-to-national-ai-registry.html,fetched,,scripts/.workroot/study/aisystems/cache/MUS/5.txt,515,html,Mauritius Telecom AI learning lead to national AI registry - Developing Telecoms
+6,https://bizweek.mu/ai-readiness-is-a-precursor-to-any-strategic-plan-or-roadmap/news/,fetched,,scripts/.workroot/study/aisystems/cache/MUS/6.txt,399,html,“AI readiness is a precursor to any strategic plan or roadmap”
+7,https://www.repository.mu/mrc/out/out.FrontDocumentDetails.php?documentid=1700,fetched,,scripts/.workroot/study/aisystems/cache/MUS/7.txt,242,html,Recently uploaded
+8,https://aclanthology.org/2022.findings-aacl.3/,fetched,,scripts/.workroot/study/aisystems/cache/MUS/8.txt,614,html,KreolMorisienMT: A Dataset for Mauritian Creole Machine Translation

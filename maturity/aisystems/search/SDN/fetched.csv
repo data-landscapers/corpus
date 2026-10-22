@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://compute.world/country/sudan/,fetched,,scripts/.workroot/study/aisystems/cache/SDN/1.txt,943,html,"Sudan compute capacity (Oct 2026): 2 MW live, 109 GW ceiling | compute.world"
+2,https://www.aipolicy.africa/country-profiles/sudan,held,held as raw/2026/2026-10-07-sdn-country-profile-on-ai-governance-sudan.md,,0,,
+3,https://aclanthology.org/2026.africanlp-main.25.pdf,fetched,,scripts/.workroot/study/aisystems/cache/SDN/3.txt,3240,pdf,
+4,https://huggingface.co/datasets/IndabaXSudan/Sudan-MM,held,held as raw/2025/2025-01-01-sdn-huggingface-indabax-sudan-mm-dataset.md,,0,,
+5,https://actumsudan.substack.com/p/sudan-pushes-digital-transformation,held,held as raw/2025/2025-10-17-khartoum-data-centre-reopening-actum.md,,0,,
+6,https://github.com/sudaverse/sudaverse,fetched,,scripts/.workroot/study/aisystems/cache/SDN/6.txt,814,html,GitHub - sudaverse/sudaverse: The Sudaverse ecosystem - Building Sudanese Arabic into the Heart of AI
+7,https://www.sudaverse.com/documentation.html,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+8,https://ai.otwox.com/datasets,fetched,,scripts/.workroot/study/aisystems/cache/SDN/8.txt,144,html,Datasets — Birtal Lab

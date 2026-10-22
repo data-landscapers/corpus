@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "The government commissioned the US$350,000 National Information Access Centre at Zimbabwe Open University with an Nvidia GPU-powered AI server, built under an agreement with South Korea and open to the wider community.",
+ "title": "Minister Shava launches AI Hub at Zimbabwe Open University",
+ "publisher": "The Herald",
+ "published": "2026-03-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

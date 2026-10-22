@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "On 26 August 2026 Huawei submitted a proposal to build AI data centres for the Egyptian government with 1,408 Ascend 950-series processors for an AI training cloud and 600 chips for two inference clusters, to be completed in 12 months; the US State Department reportedly seeks a competing consortium.",
+ "title": "Case of Egypt's AI Infrastructure Bid and the Geopolitics of Sovereign AI",
+ "publisher": "Bloomsbury Intelligence and Security Institute",
+ "published": "2026-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

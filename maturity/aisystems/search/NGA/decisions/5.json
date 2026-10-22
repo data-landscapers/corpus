@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "compute;shared",
+ "fact": "Techpoint reports that Udutech launched the Africa GPU Hub in Lagos in August 2025 offering GPU rentals, and that Nigeria had only one AI-capable data centre before Kasi Cloud's 2026 launch.",
+ "title": "AI infrastructure in Nigeria: Closing the GPU gap",
+ "publisher": "Techpoint Africa",
+ "published": "2026-03-25",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

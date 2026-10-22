@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://times.mw/tnm-takes-over-ocl-data-centre/",
+  "title": "TNM takes over OCL data centre",
+  "publisher": "The Times Group",
+  "published": "2026-09-11",
+  "sub_indicator": "localai",
+  "why": "TNM data centre to host AI platforms, compute"
+ },
+ {
+  "url": "https://projectmal.com/chichewa-enters-the-ai-age/",
+  "title": "Chichewa Enters the AI Age",
+  "publisher": "ProjectM",
+  "published": "2026-07-05",
+  "sub_indicator": "localai",
+  "why": "Government-backed Chichewa AI model and licensed datasets, named initiative"
+ },
+ {
+  "url": "https://itweb.africa/article/malawi-develops-chichewa-ai-models/KWEBbvyL48gqmRjO",
+  "title": "Malawi develops Chichewa AI models",
+  "publisher": "ITWeb Africa",
+  "published": "2026-06-24",
+  "sub_indicator": "localai",
+  "why": "Low Resource Language Data Trust building Chichewa datasets, World Bank and Gates funded"
+ },
+ {
+  "url": "https://itweb.africa/article/malawi-plans-to-launch-micro-data-centre/KzQenqjy9NlMZd2r",
+  "title": "Malawi plans to launch Micro Data Centre",
+  "publisher": "ITWeb Africa",
+  "published": "2026-02-18",
+  "sub_indicator": "localai",
+  "why": "CTN planned A100 GPU micro data centre with free GPU credits for researchers"
+ },
+ {
+  "url": "https://portulansinstitute.org/introducing-the-malawi-voice-data-commons/",
+  "title": "Introducing the Malawi Voice Data Commons",
+  "publisher": "Portulans Institute",
+  "published": "2026-01-22",
+  "sub_indicator": "localai",
+  "why": "Whisper fine-tuned on newly collected Chichewa data; Malawian universities"
+ },
+ {
+  "url": "https://www.mubas.ac.mw/events/innovative-discussion-on-ai-and-language-access-in-malawi-25-11-2025",
+  "title": "Innovative Discussion on AI and Language Access in Malawi",
+  "publisher": "Malawi University of Business and Applied Sciences",
+  "published": "2025-11-25",
+  "sub_indicator": "localai",
+  "why": "Chichewa Digital Language Library being built for AI training"
+ },
+ {
+  "url": "https://developer.nvidia.com/blog/ai-chatbot-delivers-multilingual-support-to-african-farmers/",
+  "title": "AI Chatbot Delivers Multilingual Support to African Farmers",
+  "publisher": "NVIDIA Technical Blog",
+  "published": "2024-09-27",
+  "sub_indicator": "localai",
+  "why": "UlangiziAI chatbot for Malawi farmers on cloud A100 GPUs"
+ },
+ {
+  "url": "https://digital-ai.idt4m.org/Malawi%20National%20AI%20Strategy%20-draft-v0.pdf",
+  "title": "Malawi National Artificial Intelligence Strategy (draft)",
+  "publisher": "Government of Malawi",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Draft says no sovereign compute or frontier models; Chichewa small models"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build",
+ "fact": "A report reviewed on 2 August 2026 says Nigeria contributes relatively little to foundational AI models, indigenous datasets or domestic computing infrastructure.",
+ "title": "Nigeria is adopting AI fast, but foreign firms are winning, Report warns",
+ "publisher": "Nairametrics",
+ "published": "2026-08-02",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

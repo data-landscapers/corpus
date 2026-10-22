@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "Cassava and Vodafone Egypt recently announced an AI factory initiative giving businesses and government organizations locally hosted AI infrastructure through GPU-as-a-service, and in June 2026 the telecom regulator licensed Hassan Allam Data Centers, whose Hassan Allam Utilities and A15 agreed a new data center of about $400 million.",
+ "title": "From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale",
+ "publisher": "NVIDIA Blog",
+ "published": "2026-09-21",
+ "date_source": "source",
+ "why_not": ""
+}

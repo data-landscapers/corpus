@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "Government announced Google will establish an AI Center of Excellence at ZAMREN, University of Zambia, after a June 2024 MoU with the Ministry of Technology and Science.",
+ "title": "Google to establish AI center of excellence at University of Zambia",
+ "publisher": "Zambia Monitor",
+ "published": "2024-09-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

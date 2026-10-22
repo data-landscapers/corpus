@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute",
+ "fact": "The Taouey supercomputer, acquired in December 2019 from Atos, was officially put into service in March 2024 with 537.6 teraflops at the Cité du savoir in Diamniadio.",
+ "title": "Le supercalculateur Taouey, un outil au service de la recherche et la souveraineté numérique",
+ "publisher": "APS",
+ "published": "2025-05-27",
+ "date_source": "source",
+ "why_not": ""
+}

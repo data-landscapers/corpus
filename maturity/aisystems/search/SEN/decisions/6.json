@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "Soynade, based in Dakar, released FineWeb-Wolof-50k, 50,000 rows translated into Wolof with its Oolel-v0.1 model, openly on Hugging Face during its open source month of 19 February to 17 March 2026.",
+ "title": "Soynade's Open Source Month",
+ "publisher": "Soynade",
+ "published": "2026-02-18",
+ "date_source": "source",
+ "why_not": ""
+}

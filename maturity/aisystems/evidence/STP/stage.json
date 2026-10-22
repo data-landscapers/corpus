@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "localai",
-   "stage": "no evidence",
-   "build": "",
-   "compute": "",
-   "shared": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether AI is built or hosted in the country.",
-   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "localai",
+      "stage": "no evidence",
+      "build": "",
+      "compute": "",
+      "shared": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says whether AI is built or hosted in the country.",
+      "note": "No evidence row is held on AI built or hosted in the country.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

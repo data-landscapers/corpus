@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "Researchers at IMSP Dangbo, Benin published the Fongbe to French Speech Translation Corpus (about 31 hours) with baseline translation models, at LREC-COLING in May 2024.",
+ "title": "FFSTC: Fongbe to French Speech Translation Corpus",
+ "publisher": "LREC-COLING 2024, ELRA",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

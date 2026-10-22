@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://aclanthology.org/2026.lrec-1.460.pdf,fetched,,scripts/.workroot/study/aisystems/cache/NER/1.txt,4666,pdf,SALAN: A Massive ASR Dataset for the Languages of Niger
+2,https://illimi-niger.com/illimi-niger-100-professionnels-formes-pour-mettre-lintelligence-artificielle-au-service-de-la-paix-de-la-resilience-et-du-developpement/,held,held as raw/2026/2026-06-15-illimi-niger-100-professionnels-formes.md,,0,,
+3,https://www.aipolicy.africa/country-profiles/niger,held,held as raw/2026/2026-10-07-ner-country-profile-on-ai-governance-niger.md,,0,,
+4,https://www.gouv.ne/index.php/actualite-des-ministeres/808-semaine-de-l-ia-et-des-technologies-geospatiales-le-gouvernement-entend-elaborer-une-strategie-nationale-dans-le-domaine-par-une-demarche-inclusive,held,held as raw/2025/2025-07-30-niger-siateg-strategie-ia.md,,0,,
+5,https://dig.watch/countries/niger,fetched,,scripts/.workroot/study/aisystems/cache/NER/5.txt,2066,html,Niger | Digital Watch Observatory
+6,https://aclanthology.org/2024.acl-srw.1/,fetched,,scripts/.workroot/study/aisystems/cache/NER/6.txt,918,html,"Feriji: A French-Zarma Parallel Corpus, Glossary & Translator"

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://shabait.com/2026/10/21/building-artificial-intelligence-capabilities-for-eritreas-development-reflections-from-un-day-2026/,held,held as raw/2026/2026-10-21-eri-building-artificial-intelligence-capabilities-for-eritreas-development-reflectio.md,,0,,
+2,https://www.aipolicy.africa/country-profiles/eritrea,held,held as raw/2026/2026-10-07-eri-country-profile-on-ai-governance-eritrea.md,,0,,
+3,https://research.geezlab.com/,held,held as raw/2026/2026-01-01-eri-geezlab-glare-eritrean-language-ai-research.md,,0,,
+4,https://huggingface.co/mewaeltsegay/desta_1b,fetched,,scripts/.workroot/study/aisystems/cache/ERI/4.txt,737,html,mewaeltsegay/desta_1b · Hugging Face
+5,https://huggingface.co/datasets/mewaeltsegay/TigrinyaLargeText,fetched,,scripts/.workroot/study/aisystems/cache/ERI/5.txt,1197,html,mewaeltsegay/TigrinyaLargeText · Datasets at Hugging Face
+6,https://eonreality.com/eon-reality-expands-its-rollout-in-eritrea-targeting-national-rollout-with-10000-tailored-courses-with-the-launch-of-spatial-ai-center-and-eon-ai-autonomous-agents/,fetched,,scripts/.workroot/study/aisystems/cache/ERI/6.txt,540,html,"EON Reality Expands its rollout in Eritrea targeting national-rollout with 10,000 Tailored Courses with the Launch of Spatial AI Center and EON AI Autonomous Agents - EON Reality - AI Assisted XR-based knowledge transfer for education and industry"
+7,https://aidemocratisation.org/countries/eritrea,unfetchable,empty extraction; no usable Wayback capture,,0,,
+8,https://shabait.com/2021/11/06/an-enormous-leap-towards-artificial-intelligence-tigrigna-speech-to-text/,held,held as raw/2021/2021-11-06-eri-shabait-tigrigna-speech-to-text-ai.md,,0,,

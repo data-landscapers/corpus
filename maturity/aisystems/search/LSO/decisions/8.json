@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "The Minister launched a South African-gifted high-performance computing facility at Mohale's Hoek and urged researchers and ministries to use it.",
+ "title": "COMMS MINISTER LAUNCHES HPC",
+ "publisher": "Government of Lesotho",
+ "published": "2022-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

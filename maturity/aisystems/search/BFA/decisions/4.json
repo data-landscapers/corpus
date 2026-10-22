@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "CITADEL researchers at Burkina Faso institutions collected Mooré paired audio-text corpora of about 88,000 utterances and 150 hours and fine-tuned Mooré ASR and TTS models, reported in March 2026.",
+ "title": "Contributing to Speech-to-Speech Translation for African Low-Resource Languages: Study of French-Mooré Pair",
+ "publisher": "Association for Computational Linguistics (LoResLM 2026)",
+ "published": "2026-03-29",
+ "date_source": "source",
+ "select": true,
+ "why_not": ""
+}

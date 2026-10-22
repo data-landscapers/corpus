@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "Converged Technology Networks announced plans for Malawi's first AI micro data centre with NVIDIA A100 GPUs, rented as GPU-as-a-service and with free GPU credits for Malawian researchers and students.",
+ "title": "Malawi plans to launch Micro Data Centre",
+ "publisher": "ITWeb Africa",
+ "published": "2026-02-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

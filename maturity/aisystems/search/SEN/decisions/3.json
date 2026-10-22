@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "The SEN Hub IA programme published the M-Kiriku ASR and TTS models and 210 hours of voice data in open access on Hugging Face; the challenge drew 74 applicant teams and 10 finalists.",
+ "title": "Souveraineté numérique et langues nationales : L'État, IA Hub et la France lancent des modèles vocaux en wolof, pulaar et sérère",
+ "publisher": "Teranga Times",
+ "published": "2026-09-24",
+ "date_source": "source",
+ "why_not": ""
+}

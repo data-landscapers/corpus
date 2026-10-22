@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "SeSoDa, a 1,966-pair Sesotho-English dataset by authors at the National University of Lesotho, was published with its code, dataset and baseline model open-sourced under ODC-By.",
+ "title": "SeSoDa: A Compact Context-Rich Sesotho-English Dataset for LoRA Fine-Tuning of SLMs",
+ "publisher": "Journal of the Digital Humanities Association of Southern Africa (DHASA)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

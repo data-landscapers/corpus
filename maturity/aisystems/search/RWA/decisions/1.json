@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "compute;shared;build",
+ "fact": "UNDP's September 2026 report states a UNDP-funded GPU server operates at the Bugesera Special Compute facility managed by the Rwanda Information Society Authority, with government ownership and growing demand from government institutions and startups.",
+ "title": "Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use",
+ "publisher": "UNDP",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "localai"
+}

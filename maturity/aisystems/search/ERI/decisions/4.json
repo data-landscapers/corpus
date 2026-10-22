@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "DESTA-1B, a roughly 1-billion-parameter Tigrinya language model fine-tuned from TinyLlama-1.1B on a Tigrinya dataset, is published openly on Hugging Face under the Dedicated Eritrean Semitic Text Autoregressor name.",
+ "title": "DESTA-1B: Dedicated Eritrean Semitic Text Autoregressor",
+ "publisher": "Hugging Face (mewaeltsegay)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

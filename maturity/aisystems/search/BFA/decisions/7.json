@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "localai",
+ "aspect": "",
+ "fact": "",
+ "title": "BurkimbIA",
+ "publisher": "BurkimbIA (Hugging Face)",
+ "published": "",
+ "date_source": "source",
+ "select": false,
+ "why_not": "Page lists Mooré models and datasets but carries no document date, so no dated fact."
+}

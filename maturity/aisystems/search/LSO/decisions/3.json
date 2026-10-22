@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "Econet Telecom Lesotho's CEO said the ETL Group has secured access to AI computing capacity through a partnership with NVIDIA and that ETL has built sovereign cloud infrastructure able to host local datasets and AI applications in the country.",
+ "title": "Econet, UNDP join forces for Lesotho's digital economy",
+ "publisher": "Newsday",
+ "published": "2026-08-10",
+ "date_source": "source",
+ "why_not": ""
+}

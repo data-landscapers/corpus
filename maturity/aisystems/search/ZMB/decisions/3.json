@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "Zambia government signed an MoU with Huawei at the 2026 Zambia Mobile Congress including plans for a localized National AI Data Centre.",
+ "title": "Zambia partners with Huawei to accelerate AI infrastructure and public sector digital transformation",
+ "publisher": "TechReviewAfrica",
+ "published": "2026-06-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

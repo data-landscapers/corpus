@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The Prime Minister said Lesotho is implementing Phase One of its National Compute Roadmap for 2026-2029 and has an operational government data centre.",
+ "title": "Opening remarks by the Right Honourable Prime Minister Samuel Ntsokoane Matekane at the Second UN Digital Cooperation Day 2025 in New York",
+ "publisher": "Government of Lesotho",
+ "published": "2026-09-22",
+ "date_source": "source",
+ "why_not": ""
+}

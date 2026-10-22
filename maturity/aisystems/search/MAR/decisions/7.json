@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "The Atlas-Chat 2B, 9B and 27B Darija language models and the 458K-sample Darija-SFT-Mixture dataset were released with all resources publicly accessible, authors affiliated with EMINES-UM6P and AtlasIA among others.",
+ "title": "Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect",
+ "publisher": "Association for Computational Linguistics (LoResLM 2025)",
+ "published": "2025-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

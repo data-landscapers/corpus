@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "unplaced",
-      "build": "",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether an AI model, dataset or computing facility is in service in the country.",
-      "note": "First pass: counted from the four questions by study-ladder-aisystems.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ERI-001",
+      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "GeezLab lists open Tigrinya datasets, TiNC24 and TiPOSC24, led by Mai Nefhi students and published in 2025 and 2026. No AI computing in the country is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "UNGE installed a specialised Artificial Intelligence laboratory with STEM Power between 9 and 12 February 2026, for students, teachers and staff.",
+ "title": "Donación de material informático y fortalecimiento tecnológico en la UNGE",
+ "publisher": "Universidad Nacional de Guinea Ecuatorial",
+ "published": "2026-02-17",
+ "date_source": "source",
+ "why_not": ""
+}

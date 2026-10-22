@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The article lists a national data centre, Sèmè City and a supercomputer at the Institut de mathématiques et de sciences physiques (IMSP) as Benin's AI base, and says compute access is still lacking.",
+ "title": "IA au Bénin : 3e de l'AAIGI, pas encore un hub africain",
+ "publisher": "NotreAfrik",
+ "published": "2026-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

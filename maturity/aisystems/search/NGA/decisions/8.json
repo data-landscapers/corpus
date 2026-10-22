@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build;compute;shared",
+ "fact": "On 18 April 2024 the Minister announced a multilingual LLM built by Awarri with NITDA and DataDotOrg, and a pilot national compute with over $2 million of GPUs funded by 21st Century Technologies at Galaxy Backbone, open to local researchers and startups.",
+ "title": "Dr. Tijani Wraps Up Artificial Intelligence Strategy Workshop; Announces Groundbreaking Partnerships with Cisco, 21st Century Technologies, others",
+ "publisher": "Federal Ministry of Communications, Innovation & Digital Economy",
+ "published": "2024-04-19",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "The strategy adopted on 18 January 2023 says IMSP has a supercomputer and plans to equip IMSP to use it and to give the existing national data centre a shared AI-as-a-service layer over 9 months.",
+ "title": "Stratégie Nationale d'Intelligence Artificielle et des Mégadonnées 2023 - 2027",
+ "publisher": "Ministère du Numérique et de la Digitalisation",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

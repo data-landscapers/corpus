@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/",
+  "title": "Minister Shava launches AI Hub at Zimbabwe Open University",
+  "publisher": "The Herald",
+  "published": "2026-03-20",
+  "sub_indicator": "localai",
+  "why": "Nvidia GPU AI server in service at ZOU"
+ },
+ {
+  "url": "https://www.zou.ac.zw/zou-commissions-national-information-access-centre-a-digital-leap-for-education-5-0/",
+  "title": "ZOU commissions National Information Access Centre",
+  "publisher": "Zimbabwe Open University",
+  "published": "2026-03-21",
+  "sub_indicator": "localai",
+  "why": "NIAC with AI tools commissioned"
+ },
+ {
+  "url": "https://zimbabwe.un.org/en/311859-zimbabwe-unveils-2026%E2%80%932030-ai-strategy-advance-inclusive-digital-transformation",
+  "title": "Zimbabwe Unveils 2026-2030 AI Strategy",
+  "publisher": "United Nations in Zimbabwe",
+  "published": "2026-03-14",
+  "sub_indicator": "localai",
+  "why": "plans HPC use for AI"
+ },
+ {
+  "url": "https://developzim.co.zw/news/innovation/president-mnangagwa-commissions-phase-2-of-high-performance-computing-project-at-university-of-zimbabwe/3322/",
+  "title": "President Mnangagwa Commissions Phase 2 of HPC Project",
+  "publisher": "DevelopZim",
+  "published": "2025-08-15",
+  "sub_indicator": "localai",
+  "why": "HPC phase 2 commissioned, AI research"
+ },
+ {
+  "url": "https://zimaistrategy.net/documents/zimbabwe-national-ai-strategy.pdf",
+  "title": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+  "publisher": "Government of Zimbabwe",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Project Pangolin national datasets and compute; ZCHPC"
+ },
+ {
+  "url": "https://zchpc.ac.zw/documents/ZCHPC%20Strategic%20Plan%202025%20%28Abridged%29.pdf/download",
+  "title": "2025 Strategic Plan for ZCHPC",
+  "publisher": "ZCHPC",
+  "published": "2025",
+  "sub_indicator": "localai",
+  "why": "AI and Big Data section of national supercomputer"
+ },
+ {
+  "url": "https://website.zchpc.ac.zw/hpcdatacentre/index.html",
+  "title": "HPC Data Centre",
+  "publisher": "ZCHPC",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "12 GPU nodes, 595 Tflops, open by application"
+ },
+ {
+  "url": "https://inzwi.app/",
+  "title": "Inzwi - Speech AI for Zimbabwean languages",
+  "publisher": "Inzwi",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Shona/Ndebele corpus and models built in Zimbabwe"
+ }
+]

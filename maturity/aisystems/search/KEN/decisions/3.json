@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "The Kenya AI Accelerator Programme, run by the ministry, Technopolis Development Authority and UNDP Kenya, offered selected public institutions, startups and universities access to AI compute on Konza's NVIDIA GPU infrastructure, with applications open 24 August to 6 September 2026.",
+ "title": "Call for Applications: Kenya Artificial Intelligence Accelerator Programme",
+ "publisher": "Kenya ICT Action Network",
+ "published": "2026-08-27",
+ "date_source": "source",
+ "why_not": ""
+}

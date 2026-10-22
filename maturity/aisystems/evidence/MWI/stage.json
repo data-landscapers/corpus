@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-002",
-      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named users.",
-      "note": "First pass: counted from the four questions by study-ladder-aisystems.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
+      "note": "UNDP says it procured and deployed country-hosted GPU compute in Malawi. No user of it is named or counted.",
+      "as_at": "2026-10-22"
     }
   ]
 }

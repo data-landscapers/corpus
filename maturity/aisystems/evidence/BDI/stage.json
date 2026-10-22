@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BDI-001",
       "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "First pass: counted from the four questions by study-ladder-aisystems.py.",
-      "as_at": "2026-10-18"
+      "note": "Hyphen Tech's AgriHyphen AI, a crop-disease recognition model built in Burundi, is in use by farmers. No AI computing in the country is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

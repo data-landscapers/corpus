@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "The TigrinyaLargeText dataset of 12,374 Tigrinya articles (5,935,239 words, 2020-2024), drawn largely from Haddas Eritra, is published for training language models.",
+ "title": "TigrinyaLargeText",
+ "publisher": "Hugging Face (mewaeltsegay)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CPV-002",
       "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "First pass: counted from the four questions by study-ladder-aisystems.py.",
-      "as_at": "2026-10-18"
+      "note": "The AI financial and accounting application built by NOSi with SINTAXY was launched in November 2024. No AI computing in the country is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

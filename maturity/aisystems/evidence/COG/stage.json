@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "localai",
-   "stage": "2",
-   "build": "underway",
-   "compute": "",
-   "shared": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-002;COG-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "localai",
+      "stage": "2",
+      "build": "underway",
+      "compute": "",
+      "shared": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-002;COG-001",
+      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+      "note": "Russia's financing of CARIA phases 3 and 4 and the Lingala and Kituba corpus are under way. Nothing built is stated released or in service.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build;shared",
+ "fact": "On 20 September 2025 the Federal Ministry launched N-ATLAS, an open-source multilingual large language model powered by Awarri.",
+ "title": "Nigeria Launches Landmark AI Model Powered by Awarri to Advance Languages and AI at Scale",
+ "publisher": "Federal Ministry of Communications, Innovation & Digital Economy",
+ "published": "2025-09-21",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

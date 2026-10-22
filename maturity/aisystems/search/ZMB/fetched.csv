@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge,held,held as raw/2026/2026-08-18-undp-zambia-ai-for-public-good-challenge.md,,0,,
+2,https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership,held,held as raw/2026/2026-06-08-zambia-huawei-ai-sovereignty-partnership.md,,0,,
+3,https://techreviewafrica.com/news/5755/zambia-partners-with-huawei-to-accelerate-ai-infrastructure-and-public-sector-digital-transformation,fetched,,scripts/.workroot/study/aisystems/cache/ZMB/3.txt,185,html,Zambia partners with Huawei to accelerate AI infrastructure and public sector digital transformation
+4,https://huggingface.co/Kelvinmbewe/ZambiaLLM,unfetchable,HTTP 401; no usable Wayback capture,,0,,
+5,https://paratus.africa/zambia/paratus-zambia-launches-enterprise-grade-ai-sovereign-cloud-with-touchnet-and-zadara/,fetched,,scripts/.workroot/study/aisystems/cache/ZMB/5.txt,500,html,Paratus Zambia Launches Enterprise-Grade AI Sovereign Cloud with TouchNet and Zadara.
+6,https://www.zambiamonitor.com/google-to-establish-ai-center-of-excellence-at-university-of-zambia/,fetched,,scripts/.workroot/study/aisystems/cache/ZMB/6.txt,292,html,Google to establish AI center of excellence at University of Zambia | Zambia Monitor
+7,https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf,held,held as raw/2024/2024-11-21-zambia-national-artificial-intelligence-strategy.md,,0,,
+8,https://arxiv.org/html/2306.04428,fetched,,scripts/.workroot/study/aisystems/cache/ZMB/8.txt,4574,html,Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages

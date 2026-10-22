@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "AtlasIA presented the Atlaset Moroccan darija corpus (about 155 million training tokens) and a fine-tuned Qwen2.5-0.5B language model, with the dataset, demo and code made available on Hugging Face and GitHub.",
+ "title": "AL Atlas: Moroccan Darija Pretraining",
+ "publisher": "AtlasIA",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

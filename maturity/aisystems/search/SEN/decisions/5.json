@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "The CINERI director said in June 2026 that the Taouey supercomputer is operational part-time, its GPU cell is unreliable because of power instability, use is free and open to all, and startups are targeted.",
+ "title": "Pr Ousmane Thiaré, Directeur général de la CINERI, \"Le niveau d'utilisation est encore moyen à cause des dysfonctionnements que nous avons de temps en temps\"",
+ "publisher": "Le Tech Observateur",
+ "published": "2026-06-05",
+ "date_source": "source",
+ "why_not": ""
+}

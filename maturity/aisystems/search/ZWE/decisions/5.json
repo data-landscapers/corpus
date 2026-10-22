@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "The strategy plans the National AI and Data Platform (Project Pangolin) under Ministry of ICT / POTRAZ, providing national datasets and ZCHPC compute to accredited users, and states Zimbabwe has already established a Centre for High Performance Computing.",
+ "title": "Zimbabwe National Artificial Intelligence (AI) Strategy 2026 - 2030",
+ "publisher": "Ministry of ICT, Postal and Courier Services (distributed by Veritas)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

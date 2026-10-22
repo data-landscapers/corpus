@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "Naver announced a consortium with Nvidia, Nexus Core Systems and Lloyds Capital to build a 500 MW renewable-powered AI data centre in Morocco, with a first phase of a 40 MW AI supercomputer using Nvidia Blackwell GPUs due to start in Q4 2025 and TAQA supplying power.",
+ "title": "Maroc: Consortium mondial lance un centre de données IA souverain de 500 MW",
+ "publisher": "Entreprises du Maroc",
+ "published": "2025-06-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

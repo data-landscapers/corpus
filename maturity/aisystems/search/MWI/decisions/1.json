@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;build",
+ "fact": "TNM plc took over the OCL data centre at Kanengo, Lilongwe, which it says will host AI platforms and high compute units, with AI software to be installed the following year.",
+ "title": "TNM takes over OCL data centre",
+ "publisher": "The Times Group",
+ "published": "2026-09-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

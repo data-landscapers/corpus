@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "localai",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "Chatbot built by a foreign NGO and partners on Azure cloud GPUs; no model, dataset or compute built in Malawi."
+}

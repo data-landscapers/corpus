@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.aipolicy.africa/country-profiles/gambia,held,held as raw/2026/2026-10-07-gmb-country-profile-on-ai-governance-the-gambia.md,,0,,
+2,https://lingoai.io/blog/cmshc4wo600009kgnfjhb3q5u,held,held as raw/2026/2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets.md,,0,,
+3,https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/,held,held as raw/2026/2026-05-05-qgroup-data-center-gambia.md,,0,,
+4,https://localenlp.com/updates,fetched,,scripts/.workroot/study/aisystems/cache/GMB/4.txt,169,html,LocaleNLP — Language Infrastructure for the AI-Invisible World
+5,https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf,held,held as raw/2026/2026-04-01-gambia-mocde-cstd29-statement-ai.md,,0,,
+6,https://aiwestafrica.com/aiwa-grammar-and-oral-history-pilot-empowers-gambian-youth/,fetched,,scripts/.workroot/study/aisystems/cache/GMB/6.txt,1307,html,AiWA Grammar and Oral History Pilot Empowers Gambian Youth | Ai West Africa
+7,https://datacentresafrica.com/case-study-details-7184/,fetched,,scripts/.workroot/study/aisystems/cache/GMB/7.txt,783,html,"Containerised Modular Data Centre For The Medical Research Council, Delivered To The Gambia In West Africa - Data Centres Africa"
+8,https://mocde.gov.gm/wp-content/uploads/2023/10/Final-The-Gambia-Digital-Economy-Master-Plan-2023-20233.pdf,held,held as raw/2023/2023-09-14-gmb-national-digital-economy-master-plan-2023-2033.md,,0,,

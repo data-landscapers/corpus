@@ -27,3 +27,55 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,tech.ai--development-of-national-regional-ai-systems,fact,2,3,TZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-20,BFA,tech.ai--development-of-national-regional-ai-systems,fact,2,3,BFA-004,"L'Essentiel.bf launched 15 Oct 2026 by CITADEL and the Data Lab, an AI news service in French and Moore; stage 2 to 3"
 2026-10-22,BEN,tech.ai--development-of-national-regional-ai-systems,fact,2,3,BEN-003;BEN-004,"GPT.BJ, ASIN's chatbot on Benin's legal codes launched in 2023, arrived from two sources; an AI model built in the country is in service"
+2026-10-22,MAR,tech.ai--development-of-national-regional-ai-systems,review,4,4,MAR-007,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MUS,tech.ai--development-of-national-regional-ai-systems,review,4,4,MUS-003,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MWI,tech.ai--development-of-national-regional-ai-systems,review,4,4,MWI-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,NGA,tech.ai--development-of-national-regional-ai-systems,review,4,4,NGA-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,RWA,tech.ai--development-of-national-regional-ai-systems,review,4,4,RWA-003,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,TGO,tech.ai--development-of-national-regional-ai-systems,review,4,4,TGO-005,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,ZAF,tech.ai--development-of-national-regional-ai-systems,review,4,4,ZAF-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,ZMB,tech.ai--development-of-national-regional-ai-systems,review,4,4,ZMB-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,BDI,tech.ai--development-of-national-regional-ai-systems,review,3,3,BDI-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,BWA,tech.ai--development-of-national-regional-ai-systems,review,3,3,BWA-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,CAF,tech.ai--development-of-national-regional-ai-systems,review,3,3,CAF-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,CMR,tech.ai--development-of-national-regional-ai-systems,review,3,3,CMR-003,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,COD,tech.ai--development-of-national-regional-ai-systems,review,3,3,COD-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,COM,tech.ai--development-of-national-regional-ai-systems,review,3,3,COM-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,CPV,tech.ai--development-of-national-regional-ai-systems,review,3,3,CPV-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,DJI,tech.ai--development-of-national-regional-ai-systems,review,3,3,DJI-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,EGY,tech.ai--development-of-national-regional-ai-systems,review,3,3,EGY-006;EGY-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,ETH,tech.ai--development-of-national-regional-ai-systems,review,3,3,ETH-001;ETH-005,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,GMB,tech.ai--development-of-national-regional-ai-systems,review,3,3,GMB-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,GNB,tech.ai--development-of-national-regional-ai-systems,review,3,3,GNB-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,LBR,tech.ai--development-of-national-regional-ai-systems,review,3,3,LBR-001;LBR-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,LBY,tech.ai--development-of-national-regional-ai-systems,review,3,3,LBY-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MLI,tech.ai--development-of-national-regional-ai-systems,review,3,3,MLI-002;MLI-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MRT,tech.ai--development-of-national-regional-ai-systems,review,3,3,MRT-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,NER,tech.ai--development-of-national-regional-ai-systems,review,3,3,NER-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SDN,tech.ai--development-of-national-regional-ai-systems,review,3,3,SDN-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SEN,tech.ai--development-of-national-regional-ai-systems,review,3,3,SEN-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SOM,tech.ai--development-of-national-regional-ai-systems,review,3,3,SOM-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,TUN,tech.ai--development-of-national-regional-ai-systems,review,3,3,TUN-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,TZA,tech.ai--development-of-national-regional-ai-systems,review,3,3,TZA-003,Rebuild: the stage rests on Msaada AI in use at two institutions (TZA-003); the UDSM alert triage tool is rule-based and sets nothing; stage unchanged.
+2026-10-22,UGA,tech.ai--development-of-national-regional-ai-systems,review,3,3,UGA-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,ZWE,tech.ai--development-of-national-regional-ai-systems,review,3,3,ZWE-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,AGO,tech.ai--development-of-national-regional-ai-systems,review,2,2,AGO-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,CIV,tech.ai--development-of-national-regional-ai-systems,review,2,2,CIV-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,COG,tech.ai--development-of-national-regional-ai-systems,review,2,2,COG-002;COG-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,DZA,tech.ai--development-of-national-regional-ai-systems,review,2,2,DZA-001;DZA-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,GHA,tech.ai--development-of-national-regional-ai-systems,review,2,2,GHA-001;GHA-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,GIN,tech.ai--development-of-national-regional-ai-systems,review,2,2,GIN-001;GIN-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,KEN,tech.ai--development-of-national-regional-ai-systems,review,2,2,KEN-001;KEN-002,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,LSO,tech.ai--development-of-national-regional-ai-systems,review,2,2,LSO-002;LSO-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MDG,tech.ai--development-of-national-regional-ai-systems,review,2,2,MDG-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,MOZ,tech.ai--development-of-national-regional-ai-systems,review,2,2,MOZ-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,NAM,tech.ai--development-of-national-regional-ai-systems,review,2,2,NAM-001;NAM-003,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SLE,tech.ai--development-of-national-regional-ai-systems,review,2,2,SLE-002;SLE-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SSD,tech.ai--development-of-national-regional-ai-systems,review,2,2,SSD-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SWZ,tech.ai--development-of-national-regional-ai-systems,review,2,2,SWZ-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,TCD,tech.ai--development-of-national-regional-ai-systems,review,2,2,TCD-001,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,ERI,tech.ai--development-of-national-regional-ai-systems,review,unplaced,3,ERI-001,"Rebuild: GeezLab's open Tigrinya datasets (TiNC24, TiPOSC24), led by Mai Nefhi students and published 2025-26, are a dataset made for AI; unplaced to 3."
+2026-10-22,GAB,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,GNQ,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,STP,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-22,SYC,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build;compute",
+ "fact": "UNDP's policy brief says access to GPU-enabled servers remains limited in Rwanda, limited on-premise GPU capacity exists, and universities and startups rely on expensive international cloud services.",
+ "title": "Assessing Rwanda's Potential in Artificial Intelligence (AI) and Innovation",
+ "publisher": "UNDP",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "localai"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "",
+ "fact": "",
+ "title": "Common Voice Scripted Speech 26.0 - Kinyarwanda",
+ "publisher": "Mozilla Data Collective",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetched text is an empty page shell (JavaScript-rendered); states no fact.",
+ "sub_indicator": "localai"
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "localai",
-   "stage": "4",
-   "build": "inservice",
-   "compute": "compute",
-   "shared": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-003",
-   "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named users.",
-   "note": "First pass: counted from the four questions by study-ladder-aisystems.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "localai",
+      "stage": "4",
+      "build": "inservice",
+      "compute": "compute",
+      "shared": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-003",
+      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
+      "note": "Mauritius Telecom's data centre hosts NVIDIA H200 GPUs, and Kevin AI and MyTGPT are in use. The partner startups using Kevin AI are neither named nor counted, so it stops below shared with users.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Development of national / regional AI systems: AI built at home
 
-*As at 2026-10-18.*
+*As at 2026-10-22.*
 
 ## The norm
 
@@ -22,10 +22,10 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 8 |
-| 3 Established | 26 |
+| 3 Established | 27 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 4 |
 
 ## Countries
@@ -146,6 +146,12 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 - The MCIT Applied Innovation Center built homegrown AI applications including the Karnak LLM, Loghat and Bel Masry, the minister said ([source, 2026-09](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
 - Egypt's ICT minister said engineers and researchers at the ministry's Applied Innovation Center developed Karnak, the first national Arabic large language model, which according to international evaluation platforms tops Arabic models in the 30 and 40 billion parameter classes ([source, 2026-08-24](https://gate.ahram.org.eg/News/5894042.aspx)).
 
+### Eritrea: 3 Established
+
+Open Tigrinya datasets for AI were published by 2026; AI computing in the country is not known.
+
+- GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering ([source, 2026](https://research.geezlab.com/)).
+
 ### Ethiopia: 3 Established
 
 An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
@@ -217,9 +223,9 @@ An AI model or dataset built in the country was in service in 2025; AI computing
 
 ### Tanzania: 3 Established
 
-An AI model or dataset built in the country was in service in 2025; AI computing is not on record.
+An AI model built in the country was in service in 2026; AI computing is not on record.
 
-- The UDSM DHIS2 Lab implemented the AI-based alert triage tool now used by Tanzania's Ministry of Health in its event-based surveillance; the document says it uses a rule-based approach with human interaction, with machine learning planned ([source, 2025-03](https://dhis2.org/ai-driven-alert-triage-tanzania/)).
+- The e-Government Authority says Msaada AI, Muhtasari AI and Tafsiri AI were designed at its e-Government Research, Innovation and Development Centre, and Msaada AI is in use by two institutions ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
 
 ### Tunisia: 3 Established
 
@@ -336,12 +342,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
 
 - Go Girl ICT Initiative, led by executive director Eva Yayi Mawa, is leading research under the YoGage AI project on Juba Arabic, and says dialectal variation and inconsistent pronunciation make it hard to standardize a training dataset ([source, 2025-06-20](https://www.eyeradio.org/ai-blind-spot-local-languages-fuel-hate-speech-in-south-sudan/)).
-
-### Eritrea: Unplaced
-
-Nothing held since 2023 names an AI model, dataset or computing facility, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether an AI model, dataset or computing facility is in service in the country.
 
 ### Equatorial Guinea: No evidence
 

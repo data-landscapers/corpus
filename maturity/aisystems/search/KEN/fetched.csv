@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use,held,held as raw/2026/2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries.md,,0,,
+2,https://techdrivers.co.ke/2026/09/12/sovereign-ai-infrastructure-kenya-konza/,fetched,,scripts/.workroot/study/aisystems/cache/KEN/2.txt,1919,html,Sovereign AI Infrastructure in Kenya: Konza Data Centre
+3,https://posts.kictanet.or.ke/call-for-applications-kenya-artificial-intelligence-accelerator-programme/,fetched,,scripts/.workroot/study/aisystems/cache/KEN/3.txt,296,html,Call for Applications: Kenya Artificial Intelligence Accelerator Programme
+4,https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/,held,held as raw/2026/2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity.md,,0,,
+5,https://atlancis.com/servernah-cloud-launch/,fetched,,scripts/.workroot/study/aisystems/cache/KEN/5.txt,657,html,Servernah Cloud launch - Atlancis
+6,https://atlancis.com/atlancis-technologies-ai-infra/,fetched,,scripts/.workroot/study/aisystems/cache/KEN/6.txt,709,html,Atlancis Technologies Ai Infrastructure Press release - Atlancis
+7,https://www.ict.go.ke/sites/default/files/2025-12/Kenya%20National%20AI%20Strategy%202025-2030%20Implementation%20Roadmap.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+8,https://www.kenyanews.go.ke/kenya-to-host-africas-first-artificial-intelligence-factory/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,

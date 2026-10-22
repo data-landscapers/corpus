@@ -1,0 +1,10 @@
+[
+{"url":"https://compute.world/country/sudan/","title":"Sudan compute capacity","publisher":"compute.world","published":"2026-10-21","sub_indicator":"localai","why":"AI computing: live datacentre capacity, no sovereign AI factory"},
+{"url":"https://www.aipolicy.africa/country-profiles/sudan","title":"Country Profile on AI Governance: Sudan","publisher":"Africa AI Policy Lab","published":"2026-10-07","sub_indicator":"localai","why":"GPU/HPC, data centres, no AI strategy"},
+{"url":"https://aclanthology.org/2026.africanlp-main.25.pdf","title":"Sudanese-Flores: Extending Flores+ to Sudanese Arabic Dialect","publisher":"AfricaNLP / ACL Anthology","published":"2026","sub_indicator":"localai","why":"dataset made for AI released"},
+{"url":"https://huggingface.co/datasets/IndabaXSudan/Sudan-MM","title":"Sudan-MM: A Multimodal Dataset of Sudanese Arabic","publisher":"IndabaX Sudan","published":"2025","sub_indicator":"localai","why":"public dataset, shared"},
+{"url":"https://actumsudan.substack.com/p/sudan-pushes-digital-transformation","title":"Sudan Pushes Digital Transformation with Reopening of Khartoum Data Centre","publisher":"Actum Sudan","published":"2025-10-17","sub_indicator":"localai","why":"state data centre with AI support in service"},
+{"url":"https://github.com/sudaverse/sudaverse","title":"sudaverse/sudaverse","publisher":"Sudaverse","published":"","sub_indicator":"localai","why":"Sudanese-built AI tutor and data tools"},
+{"url":"https://www.sudaverse.com/documentation.html","title":"Documentation - Sudaverse","publisher":"Sudaverse","published":"","sub_indicator":"localai","why":"datasets on request, models planned"},
+{"url":"https://ai.otwox.com/datasets","title":"Datasets - Birtal Lab","publisher":"Birtal Lab","published":"","sub_indicator":"localai","why":"Sudanese speech dataset being built, held privately"}
+]

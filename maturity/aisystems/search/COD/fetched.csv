@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://adn.cd/fr/public/uploads/documents/strate-gie-nationale-de-l-intelligence-artificielle---draft-technque-20261006134923-ea7dd935.pdf,held,held as raw/2026/2026-10-06-cod-adn-snia-draft-technique.md,,0,,
+2,https://www.unhorizons.org/inauguration-lofoyi-premier-supercalculateur-academique-rdc/,fetched,,scripts/.workroot/study/aisystems/cache/COD/2.txt,539,html,UNH inaugure son supercalculateur - UNH
+3,https://www.rfi.fr/fr/afrique/20260627-rdc-apr%C3%A8s-kinshasa-lubumbashi-se-dote-d-un-data-center-le-super-calculateur-lofoy,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+4,https://bantulanguageinitiative.com/en/datasets,fetched,,scripts/.workroot/study/aisystems/cache/COD/4.txt,240,html,BantuLanguages Initiative — AI infrastructure for Africa's languages
+5,https://www.unesco.org/ethics-ai/en/drc,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://www.ecofinagency.com/news-digital/1210-49482-drc-launches-1-5b-national-plan-to-build-a-digital-and-ai-economy,fetched,,scripts/.workroot/study/aisystems/cache/COD/6.txt,885,html,DRC Launches $1.5B National Plan to Build a Digital and AI Economy
+7,https://www.raxiogroup.com/drc-inaugurates-30-million-raxio-data-centre-to-catalyse-digital-economy/,held,held as raw/2024/2024-08-22-raxio-data-centre-drc.md,,0,,
+8,https://pmc.ncbi.nlm.nih.gov/articles/PMC10700368/,fetched,,scripts/.workroot/study/aisystems/cache/COD/8.txt,5439,html,Speech recognition datasets for low-resource Congolese languages

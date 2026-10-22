@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "UNDP Kenya and the Technopolis Development Authority signed a Letter of Agreement to operationalise sovereign AI infrastructure at the Konza Data Centre, to support public-service AI, GreenTech, research and the Kenya AI Accelerator.",
+ "title": "Sovereign AI Infrastructure in Kenya: Konza Data Centre",
+ "publisher": "Tech Drivers",
+ "published": "2026-09-12",
+ "date_source": "source",
+ "why_not": ""
+}

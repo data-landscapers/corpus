@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "shared;compute",
+ "fact": "On 26 June 2026 the Federal Government launched a national shared AI compute infrastructure through NAISH, hosted by Galaxy Backbone and funded by the Gates Foundation, for startups, researchers and public institutions.",
+ "title": "NAISH: Tijani Unveils AI Scaling Hub to Power Startups, Public Sector Innovation",
+ "publisher": "Techeconomy",
+ "published": "2026-06-27",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

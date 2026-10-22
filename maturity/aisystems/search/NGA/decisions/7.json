@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build;shared",
+ "fact": "N-ATLaS-LLM version 1.0, September 2025, a Llama-3 8B model fine-tuned on about 392 million tokens in English, Hausa, Igbo and Yoruba, is published openly on Hugging Face by NCAIR with Awarri.",
+ "title": "N-ATLaS-LLM - Multilingual African Language Model",
+ "publisher": "NCAIR / Awarri Technologies",
+ "published": "2025-09",
+ "sub_indicator": "localai",
+ "date_source": "source",
+ "why_not": ""
+}

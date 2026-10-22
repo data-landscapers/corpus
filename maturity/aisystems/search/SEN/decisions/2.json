@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "More than 210 hours of Wolof, Pulaar and Sérère voice data were collected and annotated (150 h for speech recognition, 60 h for synthesis), with data, models and evaluation tools made available open source on Hugging Face.",
+ "title": "IA : plus de 210 heures de données vocales collectées en trois langues nationales",
+ "publisher": "APS",
+ "published": "2026-10-16",
+ "date_source": "source",
+ "why_not": ""
+}

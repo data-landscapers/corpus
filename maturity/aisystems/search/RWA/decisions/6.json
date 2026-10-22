@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "build;shared",
+ "fact": "BMZ Digital.Global (May 2024) describes an open Kinyarwanda voice dataset, hosted on Mozilla Common Voice with over 2,400 hours of speech (over 2,000 validated), developed with Digital Umuganda.",
+ "title": "Voice technology infrastructure for artificial intelligence engine in Rwanda's local language (Kinyarwanda)",
+ "publisher": "BMZ Digital.Global",
+ "published": "2024-05-24",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "localai"
+}

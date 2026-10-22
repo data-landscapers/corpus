@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The draft National AI Strategy 2026-2031 states Malawi will not pursue sovereign compute or frontier models, will use shared cloud, and will prioritise small Chichewa-English language models and Chichewa datasets.",
+ "title": "Malawi National Artificial Intelligence (AI) Strategy (draft)",
+ "publisher": "Government of Malawi",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

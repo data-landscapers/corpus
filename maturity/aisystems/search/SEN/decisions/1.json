@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "A campaign with the Centre de Linguistique Appliquée de Dakar produced 210 hours of Wolof, Pulaar and Sérère voice data and two models, M-Kiriku ASR and M-Kiriku TTS, released open source with datasets and benchmarks on AI Hub Sénégal's Hugging Face.",
+ "title": "IA et langues nationales : l'État veut transformer les prototypes du Kiriku",
+ "publisher": "OSIRIS",
+ "published": "2026-10-17",
+ "date_source": "source",
+ "why_not": ""
+}

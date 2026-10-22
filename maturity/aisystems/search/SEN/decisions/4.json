@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;build",
+ "fact": "A supercomputer of about 320 teraflops in the Cité du savoir, financed by a EUR 15 million Bpifrance loan, is running; the Senegal AI Factory, presented in August 2026, has no published budget, power or timetable.",
+ "title": "IA au Sénégal : le pari de la souveraineté",
+ "publisher": "NET&PRO",
+ "published": "2026-09-06",
+ "date_source": "source",
+ "why_not": ""
+}

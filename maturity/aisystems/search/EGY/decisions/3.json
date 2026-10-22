@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "Vodafone Business and Cassava Technologies announced the launch of Egypt's first AI factory, delivering locally hosted NVIDIA GPU-as-a-Service to organisations and government entities in Egypt, as part of Vodafone Egypt's plan to invest over EGP 20 billion this fiscal year.",
+ "title": "Launch of Egypt's First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies",
+ "publisher": "Zawya (press release)",
+ "published": "2026-09-08",
+ "date_source": "source",
+ "why_not": ""
+}

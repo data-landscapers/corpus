@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "The Malawi Voice Data Commons fine-tunes Whisper on newly collected Chichewa speech data, with Malawian universities to own and operate the infrastructure by 2027.",
+ "title": "Introducing the Malawi Voice Data Commons",
+ "publisher": "Portulans Institute",
+ "published": "2026-01-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

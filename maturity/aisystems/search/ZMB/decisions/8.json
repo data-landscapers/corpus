@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "Zambezi Voice, a multilingual speech dataset for Bemba, Nyanja, Tonga, Lozi (80+ labelled hours), was released publicly by the University of Zambia under CC BY-NC-ND 4.0.",
+ "title": "Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages",
+ "publisher": "University of Zambia / George Mason University (arXiv)",
+ "published": "2023-06",
+ "date_source": "proxy",
+ "why_not": ""
+}
