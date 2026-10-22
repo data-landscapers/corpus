@@ -2,7 +2,7 @@
 type: guide
 reader: bill
 title: editing-content.md — how to change the words on the site
-last_reviewed: 2026-09-01
+last_reviewed: 2026-10-22
 status: in force; Corpus-owned
 ---
 
@@ -14,9 +14,11 @@ status: in force; Corpus-owned
 
 `python scripts/copy_lib.py` prints every file, every `##` in it and its word count. That listing is the map, and it is worth running before an edit rather than guessing.
 
-**Whole-page files.** `methodology.md`, `document-lifecycle.md`, `process-inventory.md`, `methodology-lookups.md`. The file *is* the page: `##` is a section heading the reader sees, the order on the page is the order in the file, and adding, removing or renaming a section changes the page. `scripts/methodology.py` converts and wraps them. Write ordinary markdown — headings, paragraphs, lists, tables, links — and nothing above the first `##`, because there is no room on the page for it.
+**Whole-page files.** `methodology.md`, `document-lifecycle.md`, `process-inventory.md`, `methodology-lookups.md`, `changelog.md`, and `datasets-metadata.md` (built by `datasets.py`). The file *is* the page: `##` is a section heading the reader sees, the order on the page is the order in the file, and adding, removing or renaming a section changes the page. `scripts/methodology.py` converts and wraps them. Write ordinary markdown — headings, paragraphs, lists, tables, links — and nothing above the first `##`, because there is no room on the page for it.
 
-**Block files.** `home.md`, `country.md`, `catalogue.md`, `finance.md`, `topic.md`, `topics.md`, `countries.md`, `document.md`. Here `##` is **a key a builder asks for by name**, not a heading anybody sees, and the order in the file means nothing. Anything above the first `##` is a comment to whoever is editing and is never rendered. Change the words under a key freely; **renaming or deleting a key breaks the build**, because a missing key raises rather than rendering an empty space.
+**Block files.** `alerts.md`, `catalogue.md`, `country.md`, `datasets.md`, `document.md`, `finance.md`. Here `##` is **a key a builder asks for by name**, not a heading anybody sees, and the order in the file means nothing. Anything above the first `##` is a comment to whoever is editing and is never rendered. Change the words under a key freely; **renaming or deleting a key breaks the build**, because a missing key raises rather than rendering an empty space.
+
+**`info.md`** holds the text of every ⓘ panel, one `##` per page type, matched to the page by its heading. Edit the words freely; a renamed heading breaks every page that asks for it, as a block key does.
 
 ## The rules that will bite
 
@@ -38,10 +40,10 @@ One row in `PAGES` at the top of `scripts/methodology.py` — content file, URL 
 ## Then
 
 ```bash
-python scripts/methodology.py         # the four methodology pages
+python scripts/methodology.py         # the methodology pages
 python scripts/copy_lib.py            # what is where, after the edit
 ```
 
-For a block file, the builder that owns the page has to run instead — `home.py`, `country.py`, `catalogue.py`, `finance.py`, `topic-page.py` — and `RENDER.md` steps 3 to 6 are the list. Then `git add site content` and push; the GitHub Pages workflow serves what was committed.
+For a block file, the builder that owns the page has to run instead — `alerts.py`, `catalogue.py`, `country.py`, `datasets.py`, `finance.py`, `render.py` — and an `info.md` edit reaches a page only when its builder runs; `RENDER.md` steps 2 to 6 are the list, and Then `git add site content` and push; the GitHub Pages workflow serves what was committed.
 
 Nothing here reads OSINT, nothing here mints an edition, and nothing here needs a full render. An edit to `content/` and the one builder that owns it is the whole job.

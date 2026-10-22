@@ -51,7 +51,6 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
-from copy_lib import copy  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -110,13 +109,6 @@ REGION_NAMES = {
     "XSS": "Sub-Saharan Africa", "XWA": "West Africa",
 }
 
-# Intro copy under each heading. Topics still carries the text that used to
-# sit in its card, unchanged. Countries is Bill's rewrite, edited straight in
-# site/index.html on 2026-08-11 and copied back here so a rebuild doesn't
-# revert it. Regions had no prior card to draw from, so that paragraph is CC's.
-# The section intros, the caveats under each set of boxes and the hero standfirst
-# live in `content/home.md` now (Bill, 2026-08-19). `copy_inline` because each
-# sits inside a <p> the template already classes.
 
 csv.field_size_limit(10 ** 9)
 
