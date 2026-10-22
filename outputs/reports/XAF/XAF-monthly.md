@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: XAF
 ledger_rows: 111
 not_held: 3
-record: 2298a49147c7
+record: a4a8e9650ce4
 ---
 
 # News, Sep – Oct 2026
@@ -450,7 +450,7 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 
 **[VAT in Africa: Digital Services 2026](https://www.pwc.co.za/en/assets/pdf/vat-in-africa-digital-services-2026.pdf)** — PwC Africa, 12 October 2026
 
-32 of 54 African countries now tax non-resident e-services, up from 21 in 2024; rules for 28 jurisdictions.
+PwC's second edition of its guide to VAT on digital services in Africa counts 32 of 54 countries that now tax electronic services sold by non-resident suppliers, against 21 in the 2024 edition. It sets out the rules country by country for 28 jurisdictions where the firm operates.
 
 </div>
 
@@ -818,7 +818,7 @@ Paradigm Initiative, a digital rights organisation, told the African Commission 
 
 **[Co-creating With Africa's AI Ecosystem: Infrastructure for Tomorrow, Resources for Today](https://www.undp.org/romecentre/blog/co-creating-africas-ai-ecosystem-infrastructure-tomorrow-resources-today)** — United Nations Development Programme, 20 October 2026
 
-Italy-UNDP G7 hub: compute accelerator for 18 Mattei Plan countries; AWS $1M credits, Azure up to $150,000 per innovator.
+A UNDP blog describes the AI Hub for Sustainable Development, endorsed by the G7 and co-led by Italy and UNDP, and its two programmes for African AI builders: Infrastructure Builder and Compute Accelerator. Partners named include AWS with US$1 million in cloud credits and Microsoft with up to US$150,000 in Azure credits per innovator, across 18 countries in Italy's Mattei Plan.
 
 </div>
 
@@ -2262,7 +2262,7 @@ The IFC disclosed on 14 October 2026 a proposed sustainability-linked senior loa
 
 **[IFC Summary of Investment Information, project 51853: Cauris Third Wave DFS Fund](https://disclosures.ifc.org/project-detail/SII/51853/cauris-third-wave-dfs-fund)** — International Finance Corporation, 15 October 2026
 
-Proposed IFC loan up to $7.5M in senior tranche of $75M-target fund for African fintech lenders; board 30 Nov 2026.
+IFC disclosed a proposed loan of up to US$7.5 million, capped at 10% of fund size, in the senior tranche of Cauris Finance's Third Wave Fund, a debt fund targeting US$75 million (hard cap US$100 million) that will lend to tech-enabled lenders in Africa's mobility and small-business markets. The loan is pending approval, with a board date projected for 30 November 2026.
 
 </div>
 
@@ -2270,7 +2270,7 @@ Proposed IFC loan up to $7.5M in senior tranche of $75M-target fund for African 
 
 **[IFC Eyes $7.5M for $100M African Fintech Lending Fund](https://techsoma.africa/african-fintech-lending-fund-ifc-investment/)** — TechSoma, 20 October 2026
 
-Proposed $7.5M IFC senior loan, not yet approved; board 30 Nov 2026; 60% MSME lenders, 40% mobility fintechs.
+TechSoma reports IFC's proposed senior loan of up to US$7.5 million to Cauris Finance's Third Wave Fund, which targets US$75 million and may raise up to US$100 million to lend to African fintech lenders. About 60% would go to lenders serving small businesses and 40% to vehicle-finance fintechs; the loan is not yet approved, with a board decision expected on 30 November 2026.
 
 </div>
 

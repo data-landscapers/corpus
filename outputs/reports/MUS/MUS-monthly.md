@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: MUS
 ledger_rows: 28
 not_held: 7
-record: a6999484a188
+record: 2678a8f466c4
 ---
 
 # News, Sep – Oct 2026
@@ -338,7 +338,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
 
-Central bank tender for a sector-wide threat-sharing platform; encrypted bids due 20 November 2026.
+The Bank of Mauritius is tendering for the supply and implementation of a threat intelligence sharing platform for the banking sector. Encrypted bids close on 20 November 2026.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: NAM
 ledger_rows: 40
 not_held: 10
-record: 5f1439a336c9
+record: 363f497d7b36
 ---
 
 # News, Sep – Oct 2026
@@ -664,7 +664,7 @@ Namibia's ICT minister launched a National Artificial Intelligence Institute in 
 
 **[Country Profile on AI Governance: Namibia](https://www.aipolicy.africa/country-profiles/namibia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.11 of 4, joint 29th of 54 (2026); AI strategy at validation; AI and data protection bills in draft.
+Namibia scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and joint 29th of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (2.20) and weakest Implementation and Impact (0.30); the AI strategy is at validation and AI and data protection bills are in draft.
 
 </div>
 
@@ -730,7 +730,7 @@ At NAMFISA's FinTech Square conference in Windhoek on 14 October 2026, a Bank of
 
 **[Namibia's first AI tutoring labs launched in Lüderitz](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972)** — Aitsa, 21 October 2026
 
-Two AI tutoring labs at a Lüderitz state school, N$1.15m from BW Kudu and Namport; six more schools in 2027.
+Two AI tutoring labs, the first in a Namibian government school, opened at Angra Pequena Senior Secondary School in Lüderitz on 21 September 2026, funded with N$1.15 million from BW Kudu and Namport. Run by YYeni AI, they serve the school's 436 learners and 20 teachers, with six more schools in the ||Kharas region due to get labs in 2027.
 
 </div>
 

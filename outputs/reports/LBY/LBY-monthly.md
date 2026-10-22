@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: LBY
 ledger_rows: 41
 not_held: 4
-record: ce481b18d1f7
+record: 97fe77ccfcaf
 ---
 
 # News, Sep – Oct 2026
@@ -248,7 +248,7 @@ The Medusa submarine cable system completed its Pre-Laid Shore End installation 
 
 **[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
-Fibre already at Egyptian border; Chad link under way with Chadian authorities; MEDUSA cable as Sahel route to Europe.
+An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
 
 </div>
 

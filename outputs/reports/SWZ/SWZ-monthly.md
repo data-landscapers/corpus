@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: SWZ
 ledger_rows: 43
 not_held: 3
-record: 6c9b400c5604
+record: e60435cba389
 ---
 
 # News, Sep – Oct 2026
@@ -672,7 +672,7 @@ Eswatini has hired a consultant to draft a national AI strategy, the ICT ministe
 
 **[Country Profile on AI Governance: Eswatini](https://www.aipolicy.africa/country-profiles/eswatini)** — AI Policy Lab (LawyersHub), 7 October 2026
 
-Index score 1.07 of 4, rank 32 of 54 (2026); AI strategy still in draft; DPA appointed; no AI bill text found.
+Eswatini scored 1.07 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 32 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Regional Integration (1.60) and weakest Implementation and Impact (0.70); its AI strategy is still in draft, a data protection authority is appointed, and no AI bill text was found.
 
 </div>
 

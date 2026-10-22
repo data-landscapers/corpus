@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: MOZ
 ledger_rows: 48
 not_held: 18
-record: 660e74189108
+record: f480a007458a
 ---
 
 # News, Sep – Oct 2026
@@ -500,7 +500,7 @@ Mozambique's communications minister said the national cybersecurity strategy fo
 
 **[Moçambique eleito para o Comité de Gestão da ANCA-CERT em representação da África Austral](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (Moçambique), 19 October 2026
 
-Elected 12 Oct 2026 in Rabat for Southern Africa; ANCA grows from 28 to 33 states; Laws 13 and 14/2026 in force 29 Sept.
+Mozambique's ICT institute INTIC was elected to the management committee of ANCA-CERT, Africa's network of cyber incident-response teams, for Southern Africa at the African Network of Cybersecurity Authorities meeting in Rabat on 12 October 2026. ANCA admitted five new members, taking it from 28 to 33 states, and Mozambique reported its cybersecurity and cybercrime laws in force since 29 September.
 
 </div>
 
@@ -888,7 +888,7 @@ Mozambique's Centre for Development of Financial Information Systems (CEDSIF) is
 
 **[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.96 of 4, rank 34 of 54 (2026); draft AI strategy unadopted, AI commission created, no data protection law.
+Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 34 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (1.60) and weakest Implementation and Impact (0.30); the profile lists a draft AI strategy not yet adopted, an AI commission created and no data protection law.
 
 </div>
 
@@ -952,7 +952,7 @@ Mozambique's ICT institute INTIC signed a memorandum with Kamaleon, a rural mobi
 
 **[Moçambique prepara formadores para uso da Inteligência Artificial nas eleições](https://mznews.co.mz/mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes/)** — MZNews, 20 October 2026
 
-INTIC, UNDP and CNE train 26 institutional trainers on AI in election administration, 19-23 October 2026.
+Mozambique's ICT institute INTIC, UNDP and the National Elections Commission are training 26 institutional trainers on AI in election administration at Macaneta on 19-23 October 2026. The course covers AI ethics and governance, data protection, cybersecurity and spotting manipulated content, and INTIC called for oversight against misuse.
 
 </div>
 

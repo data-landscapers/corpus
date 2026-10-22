@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: BDI
 ledger_rows: 21
 not_held: 10
-record: 2edc542566e4
+record: ee2bb8f6448f
 ---
 
 # News, Sep – Oct 2026
@@ -58,7 +58,7 @@ Burundi's Senate unanimously adopted a bill on 29 September 2026 creating a lega
 
 **[Communiqué de presse n°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026](https://primature.gov.bi/wp-content/uploads/2026/10/CMQ_CM_14.10.26.pdf)** — Présidence de la République du Burundi, Secrétariat Général de l'Etat, 15 October 2026
 
-Official text: Council adopts a National Digital Policy replacing the 2011-2025 ICT policy, and a cybersecurity strategy.
+Burundi's Council of Ministers adopted a National Digital Policy, revising the ICT development policy of 2011-2025, and a National Cybersecurity Strategy at its meeting of 14 October 2026. The Council asked for operational action plans to implement both.
 
 </div>
 
@@ -356,7 +356,7 @@ Burundi presented the ambitions of its national artificial intelligence strategy
 
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.70 of 4, rank 45 of 54 (2026); AI strategy validated April 2026 but not adopted.
+Burundi scored 0.70 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 45 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.40) and its weakest is Innovation and Ecosystem (0.20); the profile records an AI strategy validated in April 2026 but not adopted.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: TGO
 ledger_rows: 59
 not_held: 17
-record: cd20062fcc99
+record: 9bd8bd8884fe
 ---
 
 # News, Sep – Oct 2026
@@ -124,7 +124,7 @@ Togo's education minister, Mama Omorou, opened a regional workshop in Lomé on 2
 
 **[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
 
-Index score 1.24 of 4, rank 26 of 54 (2026); AI strategy in draft; Digital Code pending; Malabo ratified.
+Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 26 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (2.57) and its weakest are Infrastructure and Data, Human Capital and Implementation and Impact (1.00 each); its AI strategy is in draft, the Digital Code is pending, and it has ratified the Malabo Convention.
 
 </div>
 
@@ -212,7 +212,7 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 
 **[Médias et protection des données personnelles : l’IPDCP et la HARC renforcent leur partenariat](https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/)** — IPDCP (Togo), 20 October 2026
 
-IPDCP team embedded in HARC media monitoring from 19 Oct 2026, under convention signed 10 Dec 2025.
+Togo's data protection authority IPDCP has placed a team in the media regulator HARC's monitoring service, under an agreement the two signed on 10 December 2025. The team will check how the press handles personal data and respond with guidance, awareness work or, where needed, legal measures.
 
 </div>
 
@@ -392,7 +392,7 @@ Summarised under [Standards](#standards).
 
 **[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Minister proposes pooled continental compute; Nigeria–Togo data park and fibre expansion planned.
+Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
 
 </div>
 

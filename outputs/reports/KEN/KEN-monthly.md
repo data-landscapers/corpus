@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: KEN
 ledger_rows: 144
 not_held: 7
-record: e08e6fdb3eeb
+record: 114baf5f7bbd
 ---
 
 # News, Sep – Oct 2026
@@ -324,7 +324,7 @@ Kenya's Senate finance and budget committee reviewed the draft Statistics Bill 2
 
 **[Going digital: Why MPs want land succession done digitally through E-Citizen](https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398)** — Daily Nation, 21 October 2026
 
-Petitions committee backs amending Law of Succession Act for land succession via e-Citizen and Huduma Centres.
+Kenya's National Assembly Public Petitions committee recommended amending the Law of Succession Act and related laws so that land succession can be handled through e-Citizen and Huduma Centres. It backs a petition to end paper-based trips to land registries and courts.
 
 </div>
 

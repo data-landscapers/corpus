@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: DZA
 ledger_rows: 43
 not_held: 5
-record: b4bf008e6682
+record: f4bd9fa9a6d9
 ---
 
 # News, Sep – Oct 2026
@@ -696,7 +696,7 @@ Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assista
 
 **[Importations suspectes en Algérie : L'IA démasque des documents « identiques » chez plus de 1 000 opérateurs](https://www.algerie360.com/importations-suspectes-en-algerie-lia-demasque-des-documents-identiques-chez-plus-de-1000-operateurs/)** — Algerie360, 3 September 2026
 
-AI cross-checking of import files flags 1,013 operators sharing identical CNAS, CASNOS, tax and bank documents.
+Algeria's foreign trade ministry said an AI-assisted cross-checking system on its import platform found 1,013 operators had filed identical documents in their provisional import programmes, most often the same CNAS staff declaration, CASNOS affiliation certificate or tax extract. The operators are summoned to produce originals before any prosecution; the ministry says a flag is a lead for investigation, not a finding of fraud.
 
 </div>
 
@@ -726,7 +726,7 @@ A follow-up meeting on Algeria's national AI strategy approved an updated draft 
 
 **[M. Kamel Baddari préside la cinquième réunion multisectorielle consacrée au suivi de la mise en œuvre de la stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 20 October 2026
 
-Tax-law LLM due in four months; joint AI financing fund proposed; national AI doctoral school with 102 places.
+Algeria's fifth cross-ministry meeting on its national AI strategy, chaired by higher-education minister Kamel Baddari on 20 October 2026, gave four months to deliver a large language model on Algerian tax law, built with the tax directorate. It also made first estimates of public money for AI infrastructure towards a joint financing fund and proposed a national AI doctoral school with 102 places.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: MRT
 ledger_rows: 24
 not_held: 3
-record: 3feee1d408e0
+record: 84537e5236ea
 ---
 
 # News, Sep – Oct 2026
@@ -426,7 +426,7 @@ Mauritania's national meteorological office ran a two-day workshop in Nouakchott
 
 **[Country Profile on AI Governance: Mauritania](https://www.aipolicy.africa/country-profiles/mauritania)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.99 of 4, rank 33 of 54 (2026); AI strategy adopted March 2024; 2017 data protection law lacks decrees.
+Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 33 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.22) and its weakest is Implementation and Impact (0.22); the profile notes an AI strategy adopted in March 2024 and a 2017 data protection law still lacking implementing decrees.
 
 </div>
 

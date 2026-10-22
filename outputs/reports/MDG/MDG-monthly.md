@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: MDG
 ledger_rows: 36
 not_held: 5
-record: 1ca5c91e0e18
+record: 3cb0cf55280d
 ---
 
 # News, Sep – Oct 2026
@@ -592,7 +592,7 @@ Madagascar's digital ministry said its online passport application portal is bei
 
 **[Country Profile on AI Governance: Madagascar](https://www.aipolicy.africa/country-profiles/madagascar)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.63 of 4, rank 47 of 54 (2026); data law and Malabo top-scored, no AI strategy.
+Madagascar scored 0.63 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 47 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (1.11) and its weakest is Implementation and Impact (0.00); it takes top marks for its data protection law and Malabo Convention ratification but has no AI strategy.
 
 </div>
 

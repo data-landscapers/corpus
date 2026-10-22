@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: ZMB
 ledger_rows: 45
 not_held: 34
-record: d6a84079c95d
+record: d3056ba8cd8c
 ---
 
 # News, Sep – Oct 2026
@@ -526,7 +526,7 @@ Zambia's education ministry has trained 25 guidance teachers in Lavushimanda Dis
 
 **[UK FCDO — Zambia Revenue Authority customs modernisation (ASY5), 2025](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
 
-$650,000 British grant via TradeMark Africa, signed 15 Dec 2025, for UNCTAD's ASYCUDA World to ASY5 upgrade.
+A US$650,000 grant from the British High Commission, routed through TradeMark Africa, funds UNCTAD technical help for the Zambia Revenue Authority to move its customs system from ASYCUDA World to ASY5. The agreement was signed on 15 December 2025; assessments, pilots and officer training are under way, with no completion date.
 
 </div>
 
@@ -534,7 +534,7 @@ $650,000 British grant via TradeMark Africa, signed 15 Dec 2025, for UNCTAD's AS
 
 **[Zambia Advances Customs System Upgrade to Improve Trade Processing](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
 
-ASYCUDA World to ASY5: pilots and officer training; $650,000 UK grant via TradeMark Africa; no go-live date.
+The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving its customs system from ASYCUDA World to ASY5: system assessments, pilot testing and officer training. The UNCTAD project is backed by a US$650,000 British grant through TradeMark Africa, and no go-live date has been set.
 
 </div>
 

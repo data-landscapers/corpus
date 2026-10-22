@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: DJI
 ledger_rows: 17
 not_held: 11
-record: 50656261c3bb
+record: a30f06aa27c1
 ---
 
 # News, Sep – Oct 2026
@@ -162,7 +162,7 @@ Djibouti's customs administration plans an electronic single window bringing cus
 
 **[Djibouti Unveils AI Tools to Modernize Ports and Logistics](https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics)** — Dawan Africa, 2 September 2026
 
-DPFZA shows DPCS Foresight container-pickup prediction and DPCR Vision AI road monitoring at the national AI forum.
+Djibouti's Ports and Free Zones Authority showed AI applications at the country's first national AI forum, among them DPCS Foresight, which predicts when customers will collect containers so terminals can stack them to cut re-handling and dwell time. It also showed DPCR Vision AI, a camera system launched in 2024 that detects potholes and cracks on regional corridor roads.
 
 </div>
 

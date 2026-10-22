@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: GNB
 ledger_rows: 11
 not_held: 2
-record: 6b4b87ec8a53
+record: e6f22f6adfe5
 ---
 
 # News, Sep – Oct 2026
@@ -244,7 +244,7 @@ A University of Iceland doctoral thesis on inequality among adolescents in Bissa
 
 **[26 técnicos capacitados para reforçar o acompanhamento dos projetos de desenvolvimento na Guiné-Bissau](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/)** — Instituto Marquês de Valle Flôr (IMVF), 20 October 2026
 
-26 regional planners and civil-society staff trained 1-3 Sept 2026 on the public SIPP plans-and-projects platform.
+The Boa Governação project trained 26 regional planning delegates, regional secretaries and civil-society staff in Bissau on 1-3 September 2026 to enter and update data in Guinea-Bissau's Plans and Projects Information System (SIPP). Anyone can consult the system's public side to see regional development plans, ongoing projects and who runs them.
 
 </div>
 

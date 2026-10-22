@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: TUN
 ledger_rows: 62
 not_held: 5
-record: 8995519f2a45
+record: 19cca24e9bad
 ---
 
 # News, Sep – Oct 2026
@@ -864,7 +864,7 @@ Tunisia's communication technologies ministry released its Khadamat public-servi
 
 **[Tunisie : moins de paperasse, 2 250 procédures administratives en cours de simplification](https://www.tunisienumerique.com/tunisie-moins-de-paperasse-2-250-procedures-administratives-en-cours-de-simplification/)** — Tunisie Numerique, 19 October 2026
 
-2,250 procedures 70% simplified; 80% to go digital; 34 digital service houses in 2026, 68 more planned to 2030.
+Tunisia's government told parliament its 2025-2027 programme to simplify some 2,250 administrative procedures is about 70% done, with around 80% of them to be digitised fully or in part. It opened 34 digital service houses in 21 governorates in 2026 and plans 68 more from 2027 to 2030.
 
 </div>
 

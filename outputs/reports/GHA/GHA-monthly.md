@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: GHA
 ledger_rows: 113
 not_held: 9
-record: 81f08ffa6b50
+record: 37cc6e734c30
 ---
 
 # News, Sep – Oct 2026
@@ -1164,7 +1164,7 @@ Ghana's National Identification Authority will begin Ghana Card registration of 
 
 **[NIA rolls out online Ghana Card replacement service for Ghanaians in 11 countries](https://www.adomonline.com/nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countries/)** — Adom Online, 20 October 2026
 
-Diaspora in UK, US, Canada, UAE and seven more countries can replace cards online; also at four Prestige centres.
+Ghana's National Identification Authority opened an online Ghana Card replacement service for citizens living in 11 countries, including the UK, US, Canada and the UAE, so they no longer have to travel home. The service is also available at four Prestige 24/7 centres in Ghana, and an online update service is to follow.
 
 </div>
 
@@ -1810,7 +1810,7 @@ Ghana's communications minister said national AI language models will be built l
 
 **[Ghana appoints AI focal points in all ministries to boost national digital readiness](https://accraposts.com/ghana-ai-focal-points-ministries/)** — Accra Posts, 18 October 2026
 
-Cabinet AI boot camp; UNESCO readiness assessment of ministries; data protection law under review (Oct 2026).
+Ghana's communications minister Sam George said every ministry now has an AI focal person and Cabinet ministers have been through an AI boot camp. A UNESCO-supported readiness assessment has mapped ministries and agencies, UNDP and UNESCO are training chief directors and directors, and cybersecurity and data protection laws are under review.
 
 </div>
 

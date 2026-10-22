@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: RWA
 ledger_rows: 47
 not_held: 7
-record: 6e1c85d67e9f
+record: b27054e50b31
 ---
 
 # News, Sep – Oct 2026
@@ -54,7 +54,7 @@ record: 6e1c85d67e9f
 
 **[Rwanda looks to coordinated AI plan to boost jobs and digital public services](https://thedawnrwanda.com/index.php/2026/10/20/rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-services/economy/)** — The Dawn Rwanda, 20 October 2026
 
-Minister of State Iradukunda at a summit in Korea: digital and AI strategies to merge under one compact.
+Rwanda's ICT minister of state Yves Iradukunda told the Global AI and Digital Summit in South Korea that Rwanda will bring its digital and AI strategies together under one coordinated programme. Its three priorities are digital and AI infrastructure, jobs, and better digital public services.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: GNQ
 ledger_rows: 19
 not_held: 6
-record: 21b82685a45c
+record: 58a043abaea9
 ---
 
 # News, Sep – Oct 2026
@@ -326,7 +326,7 @@ Equatorial Guinea's government announced a digital edition of its official gazet
 
 **[Country Profile on AI Governance: Equatorial Guinea](https://www.aipolicy.africa/country-profiles/equatorial-guinea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.54 of 4, rank 48 of 54 (2026); no AI strategy, 2016 data law's authority not operating.
+Equatorial Guinea scored 0.54 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 48 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.20) and its weakest is Innovation and Ecosystem (0.10); the profile finds no AI strategy and the authority under the 2016 data law not operating.
 
 </div>
 

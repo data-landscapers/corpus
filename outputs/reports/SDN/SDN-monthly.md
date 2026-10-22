@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: SDN
 ledger_rows: 33
 not_held: 5
-record: c8520ba006e6
+record: 2cc869927e4e
 ---
 
 # News, Sep – Oct 2026
@@ -584,7 +584,7 @@ Sudan's Khartoum State government signed six partnership memoranda, including wi
 
 **[الأمين العام للاستراتيجية والمعلومات يبحث مع هيئة التحول الرقمي الاتحادية تطوير الأنظمة واستعادة البيانات - abagnews.com](https://abagnews.com/archives/40351)** — Abag News, 20 October 2026
 
-Khartoum State data recovery ~93% complete, cloud move launched; federal authority pitches Baladna as single portal.
+The secretary-general of Khartoum State's Supreme Council for Strategy and Information told Sudan's federal digital transformation authority that data recovery is about 93% complete and a move to the cloud has begun. The authority's director promoted its Baladna platform as a single portal for government services that could be used nationally.
 
 </div>
 
@@ -598,7 +598,7 @@ Khartoum State data recovery ~93% complete, cloud move launched; federal authori
 
 **[التخطيط الاستراتيجي بالخرطوم: التحول الرقمي لجميع المعاملات الحكومية اعتباراً من - السودان اليوم](https://alsudantoday.com/sudan-news/sudan-now-news/556933)** — Sudan News Agency (via Al Sudan Today), 20 October 2026
 
-Khartoum locality to take all government transactions digital from 1 January 2027, staff training first.
+A joint meeting of Khartoum locality and two Khartoum State councils agreed that all government transactions in the localities will go digital from 1 January 2027, once staff are trained on the systems. The meeting also reviewed the locality's 2026 development projects and set weekly reporting for 2027.
 
 </div>
 
@@ -634,7 +634,7 @@ Sudan's Ministry of Higher Education and Scientific Research launched a chatbot 
 
 **[Country Profile on AI Governance: Sudan](https://www.aipolicy.africa/country-profiles/sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.23 of 4, rank 52 of 54 (2026); no AI strategy or data protection law; Data and AI Authority decreed 2025.
+Sudan scored 0.23 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 52 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Governance and Regulation (0.50); the profile finds no AI strategy or data protection law, and a Data and AI Authority created by decree in 2025.
 
 </div>
 

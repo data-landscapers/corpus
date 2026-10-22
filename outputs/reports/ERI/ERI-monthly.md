@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: ERI
 ledger_rows: 4
 not_held: 22
-record: 9d040d966563
+record: b5a0d7fce897
 ---
 
 # News, Sep – Oct 2026
@@ -76,7 +76,7 @@ An Eritrean human-rights group reports that a central bank legal notice of 9 Sep
 
 **[Country Profile on AI Governance: Eritrea](https://www.aipolicy.africa/country-profiles/eritrea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.08 of 4, last of 54 (2026); no AI strategy, data protection law or authority found.
+Eritrea scored 0.08 out of 4 on the Africa AI Governance Index 2026, last of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are assigned by the index's fellows rather than built from indicators, with Human Capital highest at 0.30 and four pillars at zero; the profile found no AI strategy, data protection law or authority.
 
 </div>
 

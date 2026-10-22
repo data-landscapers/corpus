@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: CMR
 ledger_rows: 38
 not_held: 4
-record: 1a880c5a7283
+record: 8d3795f3f8d4
 ---
 
 # News, Sep – Oct 2026
@@ -580,7 +580,7 @@ Cameroon's state water utility Camwater awarded China's Hangzhou Laison Technolo
 
 **[MODERNISATION DE LA FONCTION PUBLIQUE: LE MINFOPRA ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE AVEC LE PORTAIL NATIONAL DES SERVICES PUBLICS ET MY MINFOPRA](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2396-modernisation-de-la-fonction-publique-le-minfopra-accelere-la-transformation-numerique-avec-le-portail-national-des-services-publics-et-my-minfopra)** — MINFOPRA (Cameroun), 20 October 2026
 
-Portal validation meeting of 20 Oct 2026; staff platform My MINFOPRA; rollout envisaged before end-2026.
+Cameroon's public-service ministry MINFOPRA met on 20 October 2026 to validate the national public-services portal servicepublic.gov.cm and plan its rollout, and presented My MINFOPRA, an internal platform for staff to share documents and circulars. The portal is meant to be the single official source of information on administrative procedures, with a mobile app to follow.
 
 </div>
 
@@ -602,7 +602,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
 
-1,250 procedures in 25 categories, bilingual, offline app; 90-day launch campaign; rename and contract review.
+Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm portal on 20 October 2026 before its launch: it lists 1,250 procedures in 25 categories in French and English, with an app for offline use and a proposed 90-day publicity campaign across the ten regions. He asked for a new name and look for the portal and a review of the contract with its provider, ADWA SARL.
 
 </div>
 

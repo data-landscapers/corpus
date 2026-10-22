@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: COD
 ledger_rows: 63
 not_held: 7
-record: 3ffc7fdbe0a8
+record: 93062d6be2c2
 ---
 
 # News, Sep – Oct 2026
@@ -768,7 +768,7 @@ DR Congo's Inspection Générale des Finances is recruiting a firm to design and
 
 **[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
-WHO Regional Director visit 18 Oct 2026; PDX platform for Ebola border screening; Brazzaville system to follow.
+WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening at Kinshasa's Beach Ngobila river crossing on 18 October 2026, where the WHO-backed Preparedness Data Exchange platform supports Ebola surveillance. He said a similar electronic system would go live in Brazzaville the following week.
 
 </div>
 
@@ -776,7 +776,7 @@ WHO Regional Director visit 18 Oct 2026; PDX platform for Ebola border screening
 
 **[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
 
-First country deployment; AI epidemic intelligence linked to 47-state regional platform; digital entry screening.
+WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the DR Congo, the first country to get it, linking national epidemic intelligence to a regional platform for the 47 states of the WHO African Region during the Ebola response. Dure Technologies and WHO also installed the Voyage Santé digital entry-screening system at N'djili airport and the Nord Bangui border post.
 
 </div>
 
@@ -950,7 +950,7 @@ A survey by the DR Congo consultancy Target Sarl of 2,280 adults in the 26 provi
 
 **[Country Profile on AI Governance: DR Congo](https://www.aipolicy.africa/country-profiles/democratic-republic-of-the-congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.32 of 4, rank 21 of 54 (2026); AI strategy launched Oct 2025, APDP set up 2024.
+DR Congo scored 1.32 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 21 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.00) and its weakest is Implementation and Impact (0.80); the profile notes an AI strategy launched in October 2025 and a data protection authority set up in 2024.
 
 </div>
 

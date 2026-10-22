@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: SEN
 ledger_rows: 65
 not_held: 2
-record: bc2a66f627ee
+record: adfb4a742b61
 ---
 
 # News, Sep – Oct 2026
@@ -936,7 +936,7 @@ Senegal's justice ministry judged the first results of the pilot digitising judi
 
 **[Country Profile on AI Governance: Senegal](https://www.aipolicy.africa/country-profiles/senegal)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.27 of 4, rank 25 of 54 (2026); 2023 AI strategy, 2008 data protection law, no AI law or AI body.
+Senegal scored 1.27 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 25 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision and Regional Integration (2.00 each) and weakest Governance and Regulation (0.70); it has a 2023 AI strategy and a 2008 data protection law but no AI law or AI body.
 
 </div>
 

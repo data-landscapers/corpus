@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: EGY
 ledger_rows: 98
 not_held: 41
-record: 8e159e63be1b
+record: 67e3f0b7833b
 ---
 
 # News, Sep – Oct 2026
@@ -1198,7 +1198,7 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 **[Foreign Ministry launches pilot operation of e-platform for consular services for Egyptians abroad](https://sis.gov.eg/en/media-center/news/foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-for-egyptians-abroad/)** — State Information Service (Egypt), 21 October 2026
 
-Pilot app covers 17 missions from Prague to Melbourne; transactions trackable, wider rollout to follow.
+Egypt's foreign ministry has started piloting a mobile app for consular services for Egyptians abroad, covering 17 embassies and consulates at launch, with more to follow. Users can complete consular transactions in the app and track their progress.
 
 </div>
 

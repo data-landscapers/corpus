@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: XWA
 ledger_rows: 33
 not_held: 1
-record: a9107a5ffe27
+record: e39b63ddb530
 ---
 
 # News, Sep – Oct 2026
@@ -138,7 +138,7 @@ Ten member states held the founding interministerial meeting of the West African
 
 **[AUDIENCE DU PRÉSIDENT DU FASO Les Directeurs généraux des Douanes de la Confédération AES et du Togo rendent compte de leurs travaux au Chef de l’État(Présidence du Faso)](https://afrikactu.net/index.php/burkina-faso/economie/douanes-aes-togo-presidence/)** — Afrikactu (Presidence du Faso), 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
-Ouagadougou, 15-16 Oct 2026: customs-system interconnection status, confederal origin decision, customs union text.
+Customs chiefs of the Sahel states confederation (Burkina Faso, Mali, Niger) and Togo's revenue office met in Ouagadougou on 15 October 2026 to review progress on interconnecting their customs IT systems and validated a draft decision on certifying confederal origin. They reported to Captain Ibrahim Traoré the next day while finishing the text to create a customs union.
 
 </div>
 

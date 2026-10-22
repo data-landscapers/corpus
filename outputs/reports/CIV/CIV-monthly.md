@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: CIV
 ledger_rows: 47
 not_held: 10
-record: f2c4dd8694c2
+record: f339dbc38c46
 ---
 
 # News, Sep – Oct 2026
@@ -788,7 +788,7 @@ The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Tr
 
 **[Country Profile on AI Governance: Côte d'Ivoire](https://www.aipolicy.africa/country-profiles/cote-d-ivoire)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 2.03 of 4, rank 14 of 54 (2026); SNIA 2030 adopted, no AI Act, AI agency only planned.
+Côte d'Ivoire scored 2.03 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 14 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.20) and its weakest is Implementation and Impact (0.89); the profile records the SNIA 2030 strategy as adopted, no AI Act, and an AI agency only planned.
 
 </div>
 
@@ -802,7 +802,7 @@ Index score 2.03 of 4, rank 14 of 54 (2026); SNIA 2030 adopted, no AI Act, AI ag
 
 **[La Côte d'Ivoire déploie mHealth One, la version de mHealth intégrant l'intelligence artificielle](https://www.mhealth-africa.org/en/actualites/la-cote-divoire-deploie-mhealth-one-la-version-de-mhealth-integrant-lintelligence-artificielle/)** — Plateforme de digitalisation de santé communautaire (mHealth), 16 October 2026
 
-AI layer for community health workers in Gontougo's five districts, live since 5 October 2026, UNICEF-backed.
+Côte d'Ivoire has deployed mHealth One, an AI version of its community health platform, in the five health districts of the Gontougo region, with UNICEF support; community health workers have used it since 5 October 2026. It gives workers offline treatment guidance, flags inconsistent data and inactive agents for supervisors, and lets officials query data in plain French.
 
 </div>
 

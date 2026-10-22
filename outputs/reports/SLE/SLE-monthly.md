@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: SLE
 ledger_rows: 36
 not_held: 4
-record: 2b21f06813b3
+record: 48892ef2996b
 ---
 
 # News, Sep – Oct 2026
@@ -718,7 +718,7 @@ Sierra Leone's planning minister, the Statistician-General and UNFPA's country r
 
 **[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
 
-Foreign Ministry announcement; Freetown information-integrity conference of 28 Sept 2026 drew 41 countries.
+Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
 
 </div>
 

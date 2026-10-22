@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: STP
 ledger_rows: 2
 not_held: 5
-record: 343f4811ce6d
+record: c0f5c740bfa4
 ---
 
 # News, Sep – Oct 2026
@@ -56,7 +56,7 @@ The Internet Society's resilience index scores São Tomé and Príncipe at 33 ou
 
 **[Country Profile on AI Governance: São Tomé and Príncipe](https://www.aipolicy.africa/country-profiles/sao-tome-and-principe)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.92 of 4, rank 36 of 54 (2026); no AI strategy or law; 2016 data protection law; Malabo ratified 2023.
+São Tomé and Príncipe scored 0.92 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 36 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Governance and Regulation (1.50) and its weakest is Innovation and Ecosystem (0.20); it has no AI strategy or law, a 2016 data protection law, and ratified the Malabo Convention in 2023.
 
 </div>
 

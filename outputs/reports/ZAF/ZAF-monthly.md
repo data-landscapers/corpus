@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: ZAF
 ledger_rows: 160
 not_held: 20
-record: e9bfb28e2f44
+record: fa3535319f71
 ---
 
 # News, Sep – Oct 2026
@@ -362,7 +362,7 @@ South Africa's Home Affairs missed its first-quarter target to sign a work order
 
 **[South Africa's Ratification of the AfCFTA Protocol on Digital Trade](https://static.pmg.org.za/261020_-_Ratification_AfCFTA_SADC.pdf)** — Parliamentary Monitoring Group (presentation to the NCOP Select Committee on Economic Development and Trade), 20 October 2026
 
-Tabled 30 July 2026; NCOP committee briefing; annexes on digital ID, payments, data transfer; SADC Industry Protocol too.
+South Africa's ratification of the AfCFTA Protocol on Digital Trade was presented to the NCOP Select Committee on Economic Development and Trade on 20 October 2026, after the Protocol was tabled in Parliament on 30 July. Legal opinions found no conflict with domestic law, and both houses must approve before ratification goes to the AU; the briefing also covered the SADC Protocol on Industry.
 
 </div>
 
@@ -484,7 +484,7 @@ University leaders, government representatives, the SADC Secretariat and the Sou
 
 **[SABS publishes draft AI standards for public comment](https://www.polity.org.za/article/sabs-publishes-draft-ai-standards-for-public-comment-2026-10-21)** — Polity, 21 October 2026
 
-Unmodified ISO/IEC adoptions on transparency, data quality, human oversight; comments close 10 November 2026.
+The South African Bureau of Standards published draft AI standards for comment, each an unmodified adoption of an ISO/IEC text, covering transparency, data quality, human oversight, and AI's benefits and environmental impact. The standards are voluntary unless a law refers to them, and comments close on 10 November 2026.
 
 </div>
 
@@ -1814,7 +1814,7 @@ South Africa's revenue service sets out the rules taxpayers must follow when pay
 
 **[Rewiring Payments: Open. Connected. Inclusive.](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)** — South African Reserve Bank, 20 October 2026
 
-Authorisation Framework by Nov 2026; QR+ pilot Q1 2027; TCIB for SADC payments under R100,000 by April 2027.
+The South African Reserve Bank, opening its 2026 payments conference, set out plans to let non-banks into the payment system under an authorisation framework due by end-November 2026, pilot QR+ interoperable merchant codes in early 2027, and build a single digital ID for payments. Regional payments under R100,000 are to move from SADC-RTGS to TCIB by end-April 2027; PayShap has passed 1 billion transactions since 2023.
 
 </div>
 

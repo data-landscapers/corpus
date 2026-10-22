@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: NGA
 ledger_rows: 163
 not_held: 9
-record: ca4bd5f13d9c
+record: 66eaf06f2116
 ---
 
 # News, Sep – Oct 2026
@@ -1280,7 +1280,7 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 
 **[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
-Minister proposes pooled continental compute; Nigeria–Togo data park and fibre expansion planned.
+Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
 
 </div>
 
@@ -2620,7 +2620,7 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 
 **[Agency Unveils Dashboard to Track National Digital Literacy Progress](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)** — Voice of Nigeria, 20 October 2026
 
-248 organisations reporting, ~2.76m training achievements since 2022, 32.9% female; DG says counts are not proficiency.
+Voice of Nigeria reports NITDA's launch of a National Digital Literacy Dashboard to track progress towards 70% digital literacy by 2027 and 95% by 2030, with 248 organisations reporting about 2.76 million training achievements since January 2022. Women made up 32.9% of recorded participation, and NITDA's director-general said training counts are not proof of skill.
 
 </div>
 
@@ -2968,7 +2968,7 @@ A second report of the suit over TikTok access in four northern Nigerian states,
 
 **[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-OGP webinar: DPI label keeps public out; Nigeria's OGP DPI commitment with NITDA to pilot standards in 10 agencies.
+Speakers at an Open Government Partnership webinar on 15 October 2026 said the label 'digital public infrastructure' keeps the public out of designing digital ID, payment and data systems, and urged governments to make clear where people can take part. Nigeria's open-government plan carries a DPI commitment led by NITDA, including a pilot of accessibility standards in 10 federal agencies.
 
 </div>
 

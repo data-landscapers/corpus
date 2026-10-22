@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: XCA
 ledger_rows: 14
 not_held: 0
-record: 15f3dc8fe1ab
+record: 57ff45d9846b
 ---
 
 # News, Sep – Oct 2026
@@ -62,7 +62,7 @@ Experts from member states of the Economic Community of Central African States m
 
 **[ECCAS validates regional data governance framework to advance digital integration in Central Africa](https://www.uneca.org/stories/eccas-validates-regional-data-governance-framework-to-advance-digital-integration-in-central)** — United Nations Economic Commission for Africa, 20 October 2026
 
-Validated in Brazzaville 19-20 Oct 2026; six pillars incl. cross-border data flows; 36-month three-phase roadmap.
+ECCAS member states validated a Regional Data Governance Framework at a workshop in Brazzaville on 19-20 October 2026, organised by ECA with ECCAS. It rests on six pillars, including cross-border data flows and common interoperability standards, with a 36-month roadmap in three phases.
 
 </div>
 

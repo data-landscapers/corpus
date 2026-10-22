@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: GMB
 ledger_rows: 49
 not_held: 2
-record: aec688d2d360
+record: e3a007774a8e
 ---
 
 # News, Sep – Oct 2026
@@ -388,7 +388,7 @@ The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[UNDP Launches e-Monitor Plus Platform to Safeguard Electoral Information Integrity in The Gambia — Askanwi](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia)** — Askanwi, 18 October 2026
 
-Launched 13-15 Oct 2026 under UNDP INSPIRE; AI plus human verification ahead of 5 Dec presidential vote.
+UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus at Kololi on 13-15 October 2026, a platform pairing AI with human checking to track online misinformation, disinformation and hate speech before the 5 December 2026 presidential election. Civil society speakers warned that monitoring must not turn into censorship.
 
 </div>
 

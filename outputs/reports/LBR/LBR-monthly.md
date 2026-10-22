@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: LBR
 ledger_rows: 37
 not_held: 6
-record: 66c4debaf14d
+record: 906f78fad933
 ---
 
 # News, Sep – Oct 2026
@@ -686,7 +686,7 @@ The Liberia Revenue Authority said on 10 September 2026 that it is developing an
 
 **[Real-world validation of an AI-based non-mydriatic fundus camera in the diagnosis of diabetic retinopathy in Liberia](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1938702/full)** — Frontiers in Digital Health, 24 September 2026
 
-Offline AI fundus camera at JFK Medical Center, Monrovia: 90.9% sensitivity, 99.7% specificity on 1,198 participants.
+A prospective study at John F. Kennedy Medical Center in Monrovia tested an offline AI system on a smartphone fundus camera for referable diabetic retinopathy in general outpatients. Among 1,198 participants with a gradable eye it caught 10 of 11 referable cases (sensitivity 90.9%) and cleared 1,183 of 1,187 negatives (specificity 99.7%), though the small number of positives leaves a wide confidence interval on sensitivity.
 
 </div>
 

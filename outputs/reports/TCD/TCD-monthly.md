@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: TCD
 ledger_rows: 35
 not_held: 22
-record: 2e69220c5244
+record: e8d80161935c
 ---
 
 # News, Sep – Oct 2026
@@ -90,7 +90,7 @@ Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a works
 
 **[DIGITALISATION DE L’EFTP : LE TCHAD ENGAGE UNE NOUVELLE ÉTAPE AVEC LA VALIDATION DE SA STRATÉGIE NATIONALE - Enseignement Supérieur du Tchad](https://mesrsfp.gouv.td/2026/10/19/digitalisation-de-leftp-le-tchad-engage-une-nouvelle-etape-avec-la-validation-de-sa-strategie-nationale/)** — Ministere de l Enseignement superieur (Tchad), 19 October 2026
 
-Validation workshop 14 Oct 2026 with IFEF support; three axes: governance, infrastructure, digital skills.
+Chad's higher-education ministry opened a workshop in N'Djamena on 14 October 2026 to validate a national strategy for digitising technical and vocational training, backed by the Francophonie's education institute IFEF. The strategy has three axes: data-driven governance, digital infrastructure in training centres, and digital skills and teaching quality.
 
 </div>
 
@@ -246,7 +246,7 @@ The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 Octo
 
 **[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
-Fibre already at Egyptian border; Chad link under way with Chadian authorities; MEDUSA cable as Sahel route to Europe.
+An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
 
 </div>
 
@@ -344,7 +344,7 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 
 **[Tchad : Le plan de connexion au réseau internet mondial présenté au GAIDS à Séoul - Digital Business Africa](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)** — Digital Business Africa, 20 October 2026
 
-Minister at Seoul summit: one live international link, via Cameroon; World Bank PATN and CARDIP as the way out.
+Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the country has only one active international internet link, through Cameroon. He named the World Bank-funded PATN digital transformation project and the Central African regional programme CARDIP, still being designed, as the way out.
 
 </div>
 

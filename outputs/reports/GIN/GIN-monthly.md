@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: GIN
 ledger_rows: 25
 not_held: 3
-record: 03c4fa453b9a
+record: a8818764f7e3
 ---
 
 # News, Sep – Oct 2026
@@ -48,7 +48,7 @@ record: 03c4fa453b9a
 
 **[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
 
-Nine draft e-signature texts reviewed 21 Oct 2026 after August decree; justice to fold e-signature into procedure code.
+Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regulations on the state's electronic signature, following an implementing decree adopted on 19 August 2026. The justice ministry is adapting procedure texts to bring e-signatures into a future procedure code, and the digital agency ANDE is building the public-key infrastructure behind them.
 
 </div>
 
@@ -414,7 +414,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Country Profile on AI Governance: Guinea (Conakry)](https://www.aipolicy.africa/country-profiles/guinea)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 0.76 of 4, rank 40 of 54 (2026); AI roadmap validated Dec 2025, DPA not yet operational.
+Guinea scored 0.76 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 40 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.80) and its weakest is Implementation and Impact (0.00); the profile records an AI roadmap validated in December 2025 and a data protection authority not yet operating.
 
 </div>
 

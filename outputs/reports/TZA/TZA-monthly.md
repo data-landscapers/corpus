@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: TZA
 ledger_rows: 80
 not_held: 5
-record: 38b6c4cd5ac6
+record: 881f294fa00f
 ---
 
 # News, Sep – Oct 2026
@@ -144,7 +144,7 @@ Tanzania's data protection commission said it is investigating complaints about 
 
 **[Bunge committee invites views on data protection](https://dailynews.co.tz/bunge-committee-invites-views-on-data-protection/)** — Daily News (Tanzania), 21 October 2026
 
-Infrastructure committee hearing on 26 October 2026 before ratification resolution advances; written views accepted.
+Tanzania's Parliamentary Standing Committee on Infrastructure invited public views on ratifying the AU's Malabo Convention on cybersecurity and personal data protection. It holds a public hearing on 26 October 2026 and accepts written submissions before the ratification resolution moves on.
 
 </div>
 
@@ -956,7 +956,7 @@ Tanzania's health ministry said 222 public health facilities are connected to an
 
 **[NaLIS: Digital transformation brings legal services closer to Tanzanians](https://dailynews.co.tz/nalis-digital-transformation-brings-legal-services-closer-to-tanzanians/)** — Daily News (Tanzania), 20 October 2026
 
-Six components incl. legal aid and ADR; GePG fee payment, USSD and mobile apps, NaLIS AI; replaces three systems.
+Tanzania's National Legal Information System (NaLIS), built by the constitution and legal affairs ministry, merges three earlier systems into one platform covering six service areas, including legal aid and alternative dispute resolution. The article gives no launch date for it.
 
 </div>
 
@@ -1014,7 +1014,7 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 
 **[Tanzania Launches Digital Library System as Mkenda Urges Board to Prioritise Books Over Buildings - The Chanzo](https://thechanzo.com/2026/10/21/tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prioritise-books-over-buildings/)** — The Chanzo, 21 October 2026
 
-Built with e-Government Authority; ISBN/ISSN, cataloguing, lending, billing on web and app; minister backs books.
+Tanzania's education minister Adolf Mkenda launched the Integrated National Digital Library System, built by the Tanzania Library Services Board with the e-Government Authority, which handles registration, ISBN and ISSN applications, cataloguing, lending and billing on web and mobile. Copyright limits mean not every title will be online in full.
 
 </div>
 

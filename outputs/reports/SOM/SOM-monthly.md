@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-22
 place: SOM
 ledger_rows: 22
 not_held: 1
-record: d3f587d9ad07
+record: d236dae29128
 ---
 
 # News, Sep – Oct 2026
@@ -60,7 +60,7 @@ Somalia's parliament is reviewing a draft Penal Code to replace the 1962 code, a
 
 **[Somalia’s House of the People Approves the Digital Transactions Bill with 137 Votes in Favour](https://www.africa-newsroom.com/press/somalias-house-of-the-people-approves-the-digital-transactions-bill-with-137-votes-in-favour)** — Ministry of Communications and Technology, Somalia (via Africa Newsroom), 21 October 2026
 
-137 MPs vote for ministry-drafted law on digital transactions and mobile money; Senate stage not stated.
+Somalia's House of the People passed the Digital Transactions Bill on 21 October 2026 with 137 votes in favour, giving a legal framework to digital transactions and mobile money. The bill was drafted by the communications ministry; the release does not mention the Senate stage or assent.
 
 </div>
 
@@ -392,7 +392,7 @@ A Somali government adviser, Mohamed Mukhtar Ali, told a data panel at the Afric
 
 **[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
-Index score 1.50 of 4, rank 19 of 54 (2026); no published AI strategy; Data Protection Act 2023 with transfer rules.
+Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 19 of 54 states, in a country profile version 1.2 dated 7 October 2026, with 56 of 80 indicators scored. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (0.44); it has no published AI strategy but a Data Protection Act 2023 with rules on transfers.
 
 </div>
 
