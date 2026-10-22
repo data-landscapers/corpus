@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://corpus.data-landscapers.io/finance/budgets/">
 
 <link rel="stylesheet" href="../../assets/css/main.css?v=c7777c77">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=82315407">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=0aceea32">
 <link rel="stylesheet" href="../../assets/css/country.css?v=8ad99761">
 <link rel="stylesheet" href="../../assets/css/datatable.css?v=284d32e1">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -443,10 +443,12 @@
     </header>
     <div class="info-pop" id="info-finance" popover>
 <button type="button" class="info-pop__close" popovertarget="info-finance" popovertargetaction="hide" aria-label="Close">&times;</button>
-<p>Corpus' work on building finance datasets is aimed at overcoming three challenges: 
-- No one has integrated non-state finance data with national budgets, expenditure and audits.
-- No one has joined up the full spectrum of cross-border and domestic, public and private investment.
-- With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</p>
+<p>Corpus' work on building finance datasets is aimed at overcoming three challenges: </p>
+<ul>
+<li>No one has integrated non-state finance data with national budgets, expenditure and audits.</li>
+<li>No one has joined up the full spectrum of cross-border and domestic, public and private investment.</li>
+<li>With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</li>
+</ul>
 <p>The <em>Non-state Finance</em> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.</p>
 <p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear. The <code>scope_basis</code> column explains why a row was judged that way,</p>
 <p>The <em>Budgets</em> dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.</p>

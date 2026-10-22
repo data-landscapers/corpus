@@ -275,6 +275,8 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 }
 .info-pop::backdrop { background: rgba(26, 26, 24, 0.25); }
 .info-pop p { margin: 0 0 0.75rem; }
+.info-pop ul, .info-pop ol { margin: 0 0 0.75rem; padding-left: 1.25rem; }
+.info-pop li { margin: 0 0 0.3rem; }
 .info-pop > :last-child { margin-bottom: 0; }
 .info-pop__close {
   position: absolute; top: 0.4rem; right: 0.6rem; padding: 0 0.25rem;

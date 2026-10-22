@@ -416,6 +416,9 @@ def info(key: str) -> tuple[str, str]:
                for h, b in re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)",
                                       INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
     text = entries[key.lower()]
+    # A list may follow its lead-in line directly, as people write one; Markdown wants a blank
+    # line first and otherwise prints the dashes inside the paragraph.
+    text = re.sub(r"^(?![-*] |\d+\. )(.+)\n(?=[-*] |\d+\. )", r"\1\n\n", text, flags=re.M)
     pid = "info-" + re.sub(r"[^a-z0-9]+", "-", key.lower()).strip("-")
     button = (f'<button type="button" class="info-btn" popovertarget="{pid}" '
               f'aria-label="About this page">i</button>')
