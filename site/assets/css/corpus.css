@@ -76,11 +76,10 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 .caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin: 0.5rem 0 0; }
 .section-heading { margin-top: 1.4rem; }
 
-/* Countries & Regions *(Bill, 2026-10-22)*: the title sits close above the first
- * section's rule, and the two section headings are terracotta small caps. */
-.article-header--tight { padding-bottom: 0; margin-bottom: 0.4rem; }
-.article-header--tight .article-header__title { margin-bottom: 0.25rem; }
+/* Countries & Regions' two section headings, terracotta small caps (Bill, 2026-10-22). */
 .section-heading--sc { font-variant: small-caps; color: var(--accent); }
+/* The first sits under the page head's own rule, as on Topics and Progress: no second line. */
+.info-pop + .section-heading--sc { border-top: none; padding-top: 0; }
 
 /* A section heading that is a link — the home page's Bulletin, Finance and
  * Catalogue — reads as a heading, not as a link in a heading's clothing: the

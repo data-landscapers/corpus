@@ -1,7 +1,7 @@
 ## 22 October 2026
 
 - The Progress and Countries & Regions pages now carry the ⓘ button, and the explanatory text above and below their tables has gone into it. The tables now start at the top of the page.
-- Countries & Regions no longer has the bar counting sources and countries, and its Countries and Regions headings are now small capitals. The box grid sits closer to the page title.
+- Countries & Regions no longer has the bar counting sources and countries, and its Countries and Regions headings are now small capitals. Its title and rule now sit as they do on Topics and Progress.
 - Every page on data-landscapers.io now carries the Corpus menu bar under its header, as Corpus pages do. Moving between the two sites no longer changes the top of the page.
 - Body text on data-landscapers.io is now the same size as on Corpus, one step smaller than before. Reading moves between the two sites without a change in type.
 

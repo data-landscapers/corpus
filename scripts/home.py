@@ -473,7 +473,7 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
     <!-- h2, matching Regions below (Bill, 2026-09-02) — both are sections of one
          page, not a page title, so neither takes an h1. The page title above them
          is the house page head (2026-09-11), which every page carries. -->
-    <header class="article-header article-header--norule article-header--tight">
+    <header class="article-header">
       {feedback}
       <h1 class="article-header__title">Countries &amp; Regions{about}</h1>
     </header>
