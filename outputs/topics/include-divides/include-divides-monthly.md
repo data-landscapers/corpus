@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: include.divides
 places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: e2b3633aa9ea
+record: b52bed2a8bca
 ---
 
 # News, Sep – Oct 2026

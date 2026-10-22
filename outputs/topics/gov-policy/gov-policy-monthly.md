@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: gov.policy
-places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: c1af3e9f0cea
+places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 04a23847426f
 ---
 
 # News, Sep – Oct 2026
@@ -71,6 +71,8 @@ record: c1af3e9f0cea
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -314,6 +316,20 @@ Chad validated its National Data Governance Strategy at a workshop in N'Djamena 
 **[TRANSFORMATION NUMÉRIQUE : LE TCHAD BÂTIT SA SOUVERAINETÉ DE LA DONNÉE](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)** — CamerPressAgency, 7 October 2026
 
 Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a workshop in N'Djamena to validate the National Data Governance Strategy, reported on 7 October 2026. The strategy runs to 2030 and has seven pillars, including institutional governance, interoperability, personal data protection and skills, with health, education, agriculture, mining and digital finance named as priority sectors. No budget is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National strategy for the digitalisation of technical and vocational education and training</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DIGITALISATION DE L’EFTP : LE TCHAD ENGAGE UNE NOUVELLE ÉTAPE AVEC LA VALIDATION DE SA STRATÉGIE NATIONALE - Enseignement Supérieur du Tchad](https://mesrsfp.gouv.td/2026/10/19/digitalisation-de-leftp-le-tchad-engage-une-nouvelle-etape-avec-la-validation-de-sa-strategie-nationale/)** — Ministere de l Enseignement superieur (Tchad), 19 October 2026
+
+Chad's higher-education ministry opened a workshop in N'Djamena on 14 October 2026 to validate a national strategy for digitising technical and vocational training, backed by the Francophonie's education institute IFEF. The strategy has three axes: data-driven governance, digital infrastructure in training centres, and digital skills and teaching quality.
 
 </div>
 
@@ -1081,6 +1097,22 @@ The Nigerian Communications Commission launched an Internet Governance Working G
 
 </div>
 
+## Rwanda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Combined digital and AI compact</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda looks to coordinated AI plan to boost jobs and digital public services](https://thedawnrwanda.com/index.php/2026/10/20/rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-services/economy/)** — The Dawn Rwanda, 20 October 2026
+
+Rwanda's ICT minister of state Yves Iradukunda told the Global AI and Digital Summit in South Korea that Rwanda will bring its digital and AI strategies together under one coordinated programme. Its three priorities are digital and AI infrastructure, jobs, and better digital public services.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -1529,6 +1561,20 @@ Togo's education minister, Mama Omorou, opened a regional workshop in Lomé on 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial-intelligence strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
+
+Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 26 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (2.57) and its weakest are Infrastructure and Data, Human Capital and Implementation and Impact (1.00 each); its AI strategy is in draft, the Digital Code is pending, and it has ratified the Malabo Convention.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -1612,6 +1658,36 @@ The Uganda Revenue Authority began implementing its taxpayer compliance risk man
 **[Government Launches National Communication Policy 2026](https://ict.go.ug/media/news/government-launches-national-communication-policy-2026)** — Ministry of ICT and National Guidance (Uganda), 13 October 2026
 
 Uganda's Minister of ICT and National Guidance, Justine Kasule Lumumba, launched the National Communication Policy, 2026 in Kampala on 13 October 2026. It sets common communication standards for ministries, agencies and local governments, covering crisis communication, access to public information and citizen feedback, and requires each to adopt and budget for an aligned communication strategy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda launches National Data Strategy](https://www.newvision.co.ug/category/science/uganda-launches-national-data-strategy-NV_242720_102026)** — New Vision, 20 October 2026
+
+New Vision's account of the National Data Strategy's launch in Kampala on 20 October 2026, giving the spend by area: UGX 684.9 billion for data infrastructure and 553 billion for data governance. The strategy itself is summarised under the ministry's document.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda National Data Strategy 2026/27–2030/31](https://ict.go.ug/site/documents/uganda-national-data-strategy.pdf)** — Ministry of ICT and National Guidance, Uganda, 20 October 2026
+
+Uganda's Ministry of ICT and National Guidance published the National Data Strategy 2026/27–2030/31, costed at UGX 1,662.6 billion over five years, mostly from government budgets with UGX 333.6 billion expected from selling data services. It rests on data governance, data infrastructure and use of data, overseen by a steering committee chaired by the finance ministry and run by a National Data Office in the ICT ministry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBOS rejects new national data strategy, labels ICT Ministry launch 'illegal' and 'redundant'](https://www.independent.co.ug/ubos-rejects-new-national-data-strategy-labels-ict-ministry-launch-illegal-and-redundant/)** — The Independent (Uganda), 21 October 2026
+
+The Uganda Bureau of Statistics publicly rejected the ICT ministry's National Data Strategy on 21 October 2026, a day after its launch, calling it illegal, irregular and redundant. Its executive director said the strategy breaches the UBOS Act, which makes the Bureau the coordinator of the National Statistical System, and that existing statistics plans already cover its ground.
 
 </div>
 

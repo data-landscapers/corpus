@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: digital.localgov
 places: CMR; TCD; EGY; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 424daec9cc59
+record: aadfa08f3d7d
 ---
 
 # News, Sep – Oct 2026
@@ -528,6 +528,28 @@ Sudan's Khartoum State Supreme Council for Strategy and Information launched the
 **[ولاية الخرطوم توقع ست مذكرات تفاهم الشراكات الاستراتيجية المساندة لتنفيذ المنظومة الاستراتيجية العشرية للتعافي والاعمار - موقع أخبار السودان](https://alakhbar-alsudan.com/?p=45974)** — Akhbar Al-Sudan, 6 October 2026
 
 Sudan's Khartoum State government signed six partnership memoranda, including with Sudatel and the Central Bureau of Statistics, to support its ten-year recovery and reconstruction strategy. At the same event it restarted its standard systems, connected a government fibre and internet network to 36 state units including the state presidency, and moved all state data to the cloud. No amounts are stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الأمين العام للاستراتيجية والمعلومات يبحث مع هيئة التحول الرقمي الاتحادية تطوير الأنظمة واستعادة البيانات - abagnews.com](https://abagnews.com/archives/40351)** — Abag News, 20 October 2026
+
+The secretary-general of Khartoum State's Supreme Council for Strategy and Information told Sudan's federal digital transformation authority that data recovery is about 93% complete and a move to the cloud has begun. The authority's director promoted its Baladna platform as a single portal for government services that could be used nationally.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">All-digital government transactions in Khartoum's localities from 2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[التخطيط الاستراتيجي بالخرطوم: التحول الرقمي لجميع المعاملات الحكومية اعتباراً من - السودان اليوم](https://alsudantoday.com/sudan-news/sudan-now-news/556933)** — Sudan News Agency (via Al Sudan Today), 20 October 2026
+
+A joint meeting of Khartoum locality and two Khartoum State councils agreed that all government transactions in the localities will go digital from 1 January 2027, once staff are trained on the systems. The meeting also reviewed the locality's 2026 development projects and set weekly reporting for 2027.
 
 </div>
 

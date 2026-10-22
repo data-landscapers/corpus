@@ -1,10 +1,10 @@
 ---
 title: China activities — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: geopol.china
 places: BWA; DJI; EGY; GMB; TGO
-record: eeb0f0c21f63
+record: b2152085fc99
 ---
 
 # News, Sep – Oct 2026

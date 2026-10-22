@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: infra.cybersec
-places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: e0a4e9cec536
+places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
+record: fdb98b4980ff
 ---
 
 # News, Sep – Oct 2026
@@ -43,6 +43,8 @@ record: e0a4e9cec536
 <a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -680,6 +682,22 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 
 </div>
 
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber Threat Intelligence Sharing Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
+
+The Bank of Mauritius is tendering for the supply and implementation of a threat intelligence sharing platform for the banking sector. Encrypted bids close on 20 November 2026.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -705,6 +723,20 @@ Mozambique's communications and digital transformation minister, Américo Muchan
 **[Mozambique: Government updating national cybersecurity strategy](https://clubofmozambique.com/news/mozambique-government-updating-national-cybersecurity-strategy)** — Club of Mozambique, 12 October 2026
 
 Mozambique's communications minister said the national cybersecurity strategy for 2026 to 2030 is being updated and will be the main instrument for implementing the Cybersecurity Act. He put cyber incidents recorded in 2025 at about 39,600 and urged operators of critical infrastructure to set up their incident response teams.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seat on the management committee of the African Network of Cybersecurity Authorities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique eleito para o Comité de Gestão da ANCA-CERT em representação da África Austral](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (Moçambique), 19 October 2026
+
+Mozambique's ICT institute INTIC was elected to the management committee of ANCA-CERT, Africa's network of cyber incident-response teams, for Southern Africa at the African Network of Cybersecurity Authorities meeting in Rabat on 12 October 2026. ANCA admitted five new members, taking it from 28 to 33 states, and Mozambique reported its cybersecurity and cybercrime laws in force since 29 September.
 
 </div>
 

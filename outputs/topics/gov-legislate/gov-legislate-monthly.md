@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 46a173dac578
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 51b2822f1efc
 ---
 
 # News, Sep – Oct 2026
@@ -47,6 +47,8 @@ record: 46a173dac578
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -912,6 +914,22 @@ The Smart Africa Secretariat held a validation and roadmap workshop for Ghana un
 
 </div>
 
+## Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature implementing texts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
+
+Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regulations on the state's electronic signature, following an implementing decree adopted on 19 August 2026. The justice ministry is adapting procedure texts to bring e-signatures into a future procedure code, and the digital agency ANDE is building the public-key infrastructure behind them.
+
+</div>
+
+</div>
+
 ## Guinea-Bissau
 
 <div class="monthly-story" markdown="1">
@@ -1078,6 +1096,20 @@ The Central Bank of Kenya's final regulations for non-deposit-taking credit prov
 **[Senators push Bill to transform KNBS into Kenya Statistics Authority](https://peopledaily.digital/news/senators-push-bill-to-transform-knbs-into-kenya-statistics-authority)** — People Daily, 12 October 2026
 
 Kenya's Senate finance and budget committee reviewed the draft Statistics Bill 2026 with the national statistics bureau, KNBS, on 12 October 2026. The bill would turn KNBS into a Kenya Statistics Authority as sole producer of official statistics, require a statistics office in every county and set fines of up to KSh 5 million. Senators questioned the authority's independence.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Amendment for digital land succession through eCitizen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Going digital: Why MPs want land succession done digitally through E-Citizen](https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398)** — Daily Nation, 21 October 2026
+
+Kenya's National Assembly Public Petitions committee recommended amending the Law of Succession Act and related laws so that land succession can be handled through e-Citizen and Huduma Centres. It backs a petition to end paper-based trips to land registries and courts.
 
 </div>
 
@@ -1771,6 +1803,20 @@ Somalia's parliament is reviewing a draft Penal Code to replace the 1962 code, a
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transactions Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia’s House of the People Approves the Digital Transactions Bill with 137 Votes in Favour](https://www.africa-newsroom.com/press/somalias-house-of-the-people-approves-the-digital-transactions-bill-with-137-votes-in-favour)** — Ministry of Communications and Technology, Somalia (via Africa Newsroom), 21 October 2026
+
+Somalia's House of the People passed the Digital Transactions Bill on 21 October 2026 with 137 votes in favour, giving a legal framework to digital transactions and mobile money. The bill was drafted by the communications ministry; the release does not mention the Senate stage or assent.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -1928,6 +1974,34 @@ South Africa's parliamentary justice committee agreed on 23 September 2026 that 
 **[Problem with plan for digital IDs in South Africa](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html)** — MyBroadband, 6 October 2026
 
 South Africa's Home Affairs missed its first-quarter target to sign a work order starting procurement of digital ID hosting infrastructure, its quarterly report to Parliament's committee says. It also missed revising the National Identification Registration Bill for public comment, and now aims to finalise the procurement in the second quarter.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfCFTA Digital Trade Protocol ratification and domestication</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa's Ratification of the AfCFTA Protocol on Digital Trade](https://static.pmg.org.za/261020_-_Ratification_AfCFTA_SADC.pdf)** — Parliamentary Monitoring Group (presentation to the NCOP Select Committee on Economic Development and Trade), 20 October 2026
+
+South Africa's ratification of the AfCFTA Protocol on Digital Trade was presented to the NCOP Select Committee on Economic Development and Trade on 20 October 2026, after the Protocol was tabled in Parliament on 30 July. Legal opinions found no conflict with domestic law, and both houses must approve before ratification goes to the AU; the briefing also covered the SADC Protocol on Industry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Capital Flow Management Regulations and Crypto Asset Manual</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister promises ‘revised’ draft of crypto assets regulation](https://www.itweb.co.za/article/minister-promises-revised-draft-of-crypto-assets-regulation/KA3WwMdzXE3vrydZ)** — ITWeb South Africa, 21 October 2026
+
+South Africa's finance minister said on 21 October 2026, presenting the Medium-Term Budget Policy Statement, that the draft Capital Flow Management Regulations, which cover cross-border crypto assets, need a different approach after Treasury received thousands of comments. Consultations will produce a revised second draft for further comment; no date was given.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 6510e2c6353a
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 86dae36077dc
 ---
 
 # News, Sep – Oct 2026
@@ -51,6 +51,8 @@ record: 6510e2c6353a
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#niger">Niger</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -879,6 +881,22 @@ Morocco's National School of Administration and its Digital Development Agency s
 **["Cyber Academy" Cybersecurity Training Program for African Leaders Kicks off in Rabat](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0)** — Maroc.ma (MAP), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Morocco's General Directorate of Information Systems Security and the World Bank, with the Smart Africa Digital Academy, opened the Cyber Academy executive training programme in Rabat on 5 October 2026 for leaders of African cybersecurity authorities. It covers strategic leadership, AI-driven threats and cyber crisis response. No participant numbers are given.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Training of trainers on AI in election administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique prepara formadores para uso da Inteligência Artificial nas eleições](https://mznews.co.mz/mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes/)** — MZNews, 20 October 2026
+
+Mozambique's ICT institute INTIC, UNDP and the National Elections Commission are training 26 institutional trainers on AI in election administration at Macaneta on 19-23 October 2026. The course covers AI ethics and governance, data protection, cybersecurity and spotting manipulated content, and INTIC called for oversight against misuse.
 
 </div>
 

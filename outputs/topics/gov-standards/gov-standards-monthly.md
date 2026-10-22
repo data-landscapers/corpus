@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: gov.standards
-places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 534743abde76
+places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
+record: 86e0c130ffe2
 ---
 
 # News, Sep – Oct 2026
@@ -49,6 +49,8 @@ record: 534743abde76
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -566,6 +568,22 @@ The Rwanda Standards Board lists the regional and international technical commit
 **[Policy, Standards & Research Section](https://ict.gov.sc/Sections/PolicySection)** — Department of Information Communications Technology (DICT), Government of Seychelles, 1 September 2026
 
 Seychelles' Department of Information Communications Technology sets out the mandate of its Policy, Standards and Research Section: technical and coding standards for interoperable e-government services, integration of government applications and databases, and management of Gov Mail, the government intranet and the e-services portal. The page is undated.
+
+</div>
+
+</div>
+
+## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SABS draft AI standards (ISO/IEC adoptions)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SABS publishes draft AI standards for public comment](https://www.polity.org.za/article/sabs-publishes-draft-ai-standards-for-public-comment-2026-10-21)** — Polity, 21 October 2026
+
+The South African Bureau of Standards published draft AI standards for comment, each an unmodified adoption of an ISO/IEC text, covering transparency, data quality, human oversight, and AI's benefits and environmental impact. The standards are voluntary unless a law refers to them, and comments close on 10 November 2026.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: capacity.literacy
-places: CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MOZ; NER; RWA; SEN; SLE; TZA; TGO; UGA
-record: 472d7a09027f
+places: CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; TZA; TGO; UGA
+record: ebe539d7190b
 ---
 
 # News, Sep – Oct 2026
@@ -30,7 +30,11 @@ record: 472d7a09027f
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#niger">Niger</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -303,6 +307,22 @@ Mozambique's ICT institute INTIC signed a memorandum with Kamaleon, a rural mobi
 
 </div>
 
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI tutoring labs in government schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia's first AI tutoring labs launched in Lüderitz](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972)** — Aitsa, 21 October 2026
+
+Two AI tutoring labs, the first in a Namibian government school, opened at Angra Pequena Senior Secondary School in Lüderitz on 21 September 2026, funded with N$1.15 million from BW Kudu and Namport. Run by YYeni AI, they serve the school's 436 learners and 20 teachers, with six more schools in the ||Kharas region due to get labs in 2027.
+
+</div>
+
+</div>
+
 ## Niger
 
 <div class="monthly-story" markdown="1">
@@ -314,6 +334,30 @@ Mozambique's ICT institute INTIC signed a memorandum with Kamaleon, a rural mobi
 **[Citoyenneté numérique et paix : Lancement à Tillabéry de la 1ère Campagne nationale de lutte contre la désinformation](https://mcnti.gouv.ne/citoyennete-numerique-et-paix-lancement-a-tillabery-de-la-1ere-campagne-nationale-de-lutte-contre-la-desinformation/)** — MCNTI (Niger), 22 September 2026
 
 Niger's first national campaign against disinformation, under the slogan 'Check before you share', was launched in Tillabéry on 19 September 2026. It was organised by the NGO Jeunesse Plus with the support of the communication ministry, whose secretary-general presided. The campaign combines online awareness with media and information literacy workshops for local communities.
+
+</div>
+
+</div>
+
+## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Literacy Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Agency Unveils Dashboard to Track National Digital Literacy Progress](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)** — Voice of Nigeria, 20 October 2026
+
+Voice of Nigeria reports NITDA's launch of a National Digital Literacy Dashboard to track progress towards 70% digital literacy by 2027 and 95% by 2030, with 248 organisations reporting about 2.76 million training achievements since January 2022. Women made up 32.9% of recorded participation, and NITDA's director-general said training counts are not proof of skill.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Launches Digital Literacy Dashboard as Nigeria Records 2.7 Million Training Achievements](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)** — Tech Africa News, 21 October 2026
+
+Nigeria's NITDA launched a National Digital Literacy Dashboard to track training and coordinate providers. It records about 2.77 million reported training achievements from 252 organisations over three years, across all 774 local government areas, led by Cisco, NITDA and Meta. It supports national targets of 70% digital literacy by 2027 and 95% by 2030.
 
 </div>
 

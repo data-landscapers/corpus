@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: b9c87eae51c7
+record: 55aa63c62589
 ---
 
 # News, Sep – Oct 2026
@@ -810,6 +810,20 @@ A second report of the suit over TikTok access in four northern Nigerian states,
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Government Partnership commitment on digital public infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Speakers at an Open Government Partnership webinar on 15 October 2026 said the label 'digital public infrastructure' keeps the public out of designing digital ID, payment and data systems, and urged governments to make clear where people can take part. Nigeria's open-government plan carries a DPI commitment led by NITDA, including a pilot of accessibility standards in 10 federal agencies.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1045,6 +1059,20 @@ An interview with Magatho Mello, managing director of South Africa's State Infor
 **[SITA in recovery mode, says comms minister](https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea)** — ITWeb South Africa, 22 September 2026
 
 Communications minister Solly Malatsi told GovTech 2026 in Durban that the State IT Agency is recovering under stable leadership and must now deliver on digitising government services and ending fragmented systems. The conference ran under the theme of South African digital sovereignty.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SASSA biometric verification against Home Affairs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Biometrics, verification curb social grant fraud](https://www.itweb.co.za/article/biometrics-verification-curb-social-grant-fraud/nWJad7bNRk27bjO1)** — ITWeb South Africa, 21 October 2026
+
+South Africa's National Treasury said in the 2026 Medium-Term Budget Policy Statement that better biometric enrolment and beneficiary verification, mostly on the social relief of distress grant, has saved R13.1 billion in social-grant fraud. It will apply similar checks to student bursaries and housing subsidies, and expects grant beneficiaries to fall from 17.8 million in 2026/27 to 17.1 million by 2029/30.
 
 </div>
 

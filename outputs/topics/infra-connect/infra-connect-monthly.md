@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 5106ef4f5047
+record: feb414ff02d1
 ---
 
 # News, Sep – Oct 2026
@@ -592,6 +592,20 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active international internet links</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : Le plan de connexion au réseau internet mondial présenté au GAIDS à Séoul - Digital Business Africa](https://www.digitalbusiness.africa/tchad-le-plan-de-connexion-au-reseau-internet-mondial-presente-au-gaids-a-seoul/)** — Digital Business Africa, 20 October 2026
+
+Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the country has only one active international internet link, through Cameroon. He named the World Bank-funded PATN digital transformation project and the Central African regional programme CARDIP, still being designed, as the way out.
+
+</div>
+
+</div>
+
 ## Congo
 
 <div class="monthly-story" markdown="1">
@@ -899,6 +913,20 @@ Facebook and TikTok have been unreachable in Equatorial Guinea without a VPN sin
 **[GETESA ahorrará 262 millones de francos CFA al mes para reinvertirlos en la mejora de la red nacional](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/)** — AhoraEG, 8 October 2026
 
 Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance ministry on 7 October 2026 to investigate and urgently release financing for state operator GETESA's network expansion agreement with Huawei, which Treasury payment arrears have slowed. GETESA will cancel non-essential maintenance contracts until December, saving over 262 million CFA francs a month for reinvestment in the network.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TELGESA, the second state operator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Equatorial Guinea: Service Quality a Priority for New Telecom Operator TELGESA](https://www.ecofinagency.com/news-digital/2110-59971-equatorial-guinea-service-quality-a-priority-for-new-telecom-operator-telgesa)** — Ecofin Agency, 21 October 2026
+
+Equatorial Guinea's authorities aim to sign an agreement before the end of October 2026 with investor group EGSA LOITA for a new telecom operator, TELGESA. The group has proposed USD 50 million for 260 towers to reach 90% national coverage, while KPMG values the assets of state operator GECOMSA. Launch before the end of 2026 remains uncertain.
 
 </div>
 
@@ -1632,6 +1660,20 @@ Ozone (O3) Telecom Group opened in Benghazi and announced that the Medusa submar
 **[Medusa Submarine Cable System Completes Shore-End Installation in Libya](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/)** — Tech Africa News, 20 October 2026
 
 The Medusa submarine cable system completed its Pre-Laid Shore End installation in Benghazi, Libya, as reported on 20 October 2026. This is the pre-installed cable section between the landing site and the offshore connection point. No value or completion date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre link to the Chadian border</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
+
+An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
 
 </div>
 

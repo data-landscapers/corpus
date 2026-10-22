@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8552b0f8ec84
+record: 22b16657670b
 ---
 
 # News, Sep – Oct 2026
@@ -2865,6 +2865,20 @@ Bank of Khartoum has opened a USSD transfer service on MTN lines, so customers c
 **[Bede Sudan Launches BBAN Service to Strengthen Banking Integration and Expand Digital Transaction](https://sudanhorizon.com/bede-sudan-launches-bban-service-to-strengthen-banking-integration-and-expand-digital-transaction/)** — Sudan Horizon, 13 October 2026
 
 Bede Sudan, a mobile operator's fintech arm, launched a bank account number service that links its digital wallet to the banking system, with a commercial bank and central bank approval. Wallet users can send and receive funds across all Sudanese banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SDPay payments joint venture</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EdfaPay and GoPravo Launch SDPay to Expand Digital Payments in Sudan](https://techafricanews.com/2026/10/21/edfapay-gopravo-launch-sdpay-digital-payments-sudan/)** — Tech Africa News, 21 October 2026
+
+Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an equally owned joint venture based in Khartoum, to run payments infrastructure in Sudan. It plans merchant QR and card-terminal acceptance, wallets, card issuing, government collections, payroll and remittances, with digital ID and eKYC integration.
 
 </div>
 

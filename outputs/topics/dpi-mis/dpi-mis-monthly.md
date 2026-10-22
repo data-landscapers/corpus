@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 37b1a0d85440
+record: 6134894092ee
 ---
 
 # News, Sep – Oct 2026
@@ -385,6 +385,20 @@ Congo's Minister of Social Affairs, Marie-France Lydie Hélène Pongault, met th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic passenger health screening at Brazzaville</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening at Kinshasa's Beach Ngobila river crossing on 18 October 2026, where the WHO-backed Preparedness Data Exchange platform supports Ebola surveillance. He said a similar electronic system would go live in Brazzaville the following week.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -455,6 +469,28 @@ The DRC's tax directorate began nationwide checks of the standardised invoice on
 **[Digitalisation en RDC : l’IGF lance le recrutement d’un cabinet pour son Hub national de données financières - Scoop RDC](https://scooprdc.net/2026/10/14/digitalisation-en-rdc-ligf-lance-le-recrutement-dun-cabinet-pour-son-hub-national-de-donnees-financieres/)** — Scoop RDC, 14 October 2026
 
 DR Congo's Inspection Générale des Finances is recruiting a firm to design and deploy a national financial-data hub, a central warehouse pulling data from several systems for control, audit and investigation work. The twelve-month assignment sits under the IGF's 2026-2028 digitalisation plan and includes staff training; applications close on 30 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital points-of-entry health screening</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville](https://www.afro.who.int/fr/countries/democratic-republic-of-congo/news/au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanitaire-entre-kinshasa-et)** — OMS, Bureau régional pour l’Afrique, 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening at Kinshasa's Beach Ngobila river crossing on 18 October 2026, where the WHO-backed Preparedness Data Exchange platform supports Ebola surveillance. He said a similar electronic system would go live in Brazzaville the following week.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
+
+WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the DR Congo, the first country to get it, linking national epidemic intelligence to a regional platform for the 47 states of the WHO African Region during the Ebola response. Dure Technologies and WHO also installed the Voyage Santé digital entry-screening system at N'djili airport and the Nord Bangui border post.
 
 </div>
 
@@ -1590,6 +1626,20 @@ Tanzania's health ministry said 222 public health facilities are connected to an
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Legal Information System (NaLIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NaLIS: Digital transformation brings legal services closer to Tanzanians](https://dailynews.co.tz/nalis-digital-transformation-brings-legal-services-closer-to-tanzanians/)** — Daily News (Tanzania), 20 October 2026
+
+Tanzania's National Legal Information System (NaLIS), built by the constitution and legal affairs ministry, merges three earlier systems into one platform covering six service areas, including legal aid and alternative dispute resolution. The article gives no launch date for it.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -1834,6 +1884,28 @@ Zambia's Office of the Auditor General issued its report on the accounts of the 
 **[Government Trains 25 Teachers In KGS Digital Checklist Verification](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/)** — Lusaka Times, 24 September 2026
 
 Zambia's education ministry has trained 25 guidance teachers in Lavushimanda District to verify Keeping Girls in School beneficiaries on a tablet app instead of paper forms, under the GEWEL project. The girls are captured and sign on the tablet themselves; the training is run three times a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ASYCUDA World customs management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UK FCDO — Zambia Revenue Authority customs modernisation (ASY5), 2025](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
+
+A US$650,000 grant from the British High Commission, routed through TradeMark Africa, funds UNCTAD technical help for the Zambia Revenue Authority to move its customs system from ASYCUDA World to ASY5. The agreement was signed on 15 December 2025; assessments, pilots and officer training are under way, with no completion date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Advances Customs System Upgrade to Improve Trade Processing](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
+
+The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving its customs system from ASYCUDA World to ASY5: system assessments, pilot testing and officer training. The UNCTAD project is backed by a US$650,000 British grant through TradeMark Africa, and no go-live date has been set.
 
 </div>
 

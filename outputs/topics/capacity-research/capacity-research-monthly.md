@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: capacity.research
 places: COM; EGY; GHA; KEN; MAR; SLE; UGA; ZWE
-record: aad14c3c841b
+record: 44a980e478f3
 ---
 
 # News, Sep – Oct 2026

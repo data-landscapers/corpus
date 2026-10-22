@@ -1,10 +1,10 @@
 ---
 title: Open data — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: data.open
-places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; MDG; MWI; MUS; NGA; SEN; SOM; TZA; TUN; ZMB
-record: 76b64fefd5e2
+places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; GNB; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB
+record: 9c108a732230
 ---
 
 # News, Sep – Oct 2026
@@ -26,6 +26,8 @@ record: 76b64fefd5e2
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea-bissau">Guinea-Bissau</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
@@ -35,6 +37,8 @@ record: 76b64fefd5e2
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -201,6 +205,22 @@ Researchers at Ghana's Kwame Nkrumah University of Science and Technology took E
 
 </div>
 
+## Guinea-Bissau
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Plans and Projects Information System (SIPP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[26 técnicos capacitados para reforçar o acompanhamento dos projetos de desenvolvimento na Guiné-Bissau](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/)** — Instituto Marquês de Valle Flôr (IMVF), 20 October 2026
+
+The Boa Governação project trained 26 regional planning delegates, regional secretaries and civil-society staff in Bissau on 1-3 September 2026 to enter and update data in Guinea-Bissau's Plans and Projects Information System (SIPP). Anyone can consult the system's public side to see regional development plans, ongoing projects and who runs them.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -276,6 +296,22 @@ PROMAD Infotech Foundation, a Nigerian civic-technology non-profit, unveiled a 2
 **[Catalogue de données — Archivage national des données du Sénégal (ANADS)](http://anads.ansd.sn/index.php/catalog)** — Agence nationale de la Statistique et de la Démographie (ANSD), Sénégal, 3 September 2026
 
 The national data archive catalogue of Senegal's statistics agency, ANSD, publishes view counts for each dataset: 4,808,203 for the 2013 census, 19,910 for the 2023 census and 24,422 for the 2024–2025 annual agricultural survey. Each dataset is marked either as licensed files or as microdata not available.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Committee for UNESCO's Information for All Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
+
+Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
 
 </div>
 

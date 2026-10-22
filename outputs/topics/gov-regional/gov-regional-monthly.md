@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 05c693d0d9f1
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: 3e307998f4bc
 ---
 
 # News, Sep – Oct 2026
@@ -79,6 +79,8 @@ record: 05c693d0d9f1
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-sudan">South Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -299,6 +301,20 @@ The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 Octo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre interconnection with Libya</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : la Libye prévoit d’achever le raccordement de la fibre optique à la frontière tchadienne d’ici fin 2026 - Le N'Djam Post](https://lendjampost.com/telecommunications-la-libye-prevoit-dachever-le-raccordement-de-la-fibre-optique-a-la-frontiere-tchadienne-dici-fin-2026/)** — Le N Djam Post, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+An unnamed Libyan project official said Libya's fibre link to the Chadian border should be finished by the end of 2026; it already reaches the Egyptian border and work with Chadian authorities and operators has started. The route is pitched as a way to Europe through the MEDUSA submarine cable for Chad, Niger, Mali, the Central African Republic and Burkina Faso.
+
+</div>
+
+</div>
+
 ## Comoros
 
 <div class="monthly-story" markdown="1">
@@ -350,14 +366,6 @@ A regional workshop in Brazzaville on 15 and 16 September worked towards a commo
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Hosting of the final African preparatory meeting for the ITU Plenipotentiary Conference 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[ATU opens fifth Africa Innovation Challenge with US$60,000 prize pool](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)** — TechReviewAfrica, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
-
-The African Telecommunications Union opened applications for the fifth Africa Innovation Challenge, with a total prize pool of US$60,000. Côte d'Ivoire's digital minister, Djibril Ouattara, launched it in Abidjan during Africa's final preparatory meeting for the 2026 ITU Plenipotentiary Conference. The call focuses on AI-based software.
-
-</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -1404,6 +1412,22 @@ South Sudan and Uganda's health ministers signed a memorandum of understanding i
 **[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ratification of the AU Convention on Cyber Security and Personal Data Protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bunge committee invites views on data protection](https://dailynews.co.tz/bunge-committee-invites-views-on-data-protection/)** — Daily News (Tanzania), 21 October 2026
+
+Tanzania's Parliamentary Standing Committee on Infrastructure invited public views on ratifying the AU's Malabo Convention on cybersecurity and personal data protection. It holds a public hearing on 26 October 2026 and accepts written submissions before the ratification resolution moves on.
 
 </div>
 

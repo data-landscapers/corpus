@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: gov.protect
 places: AGO; BEN; BFA; CPV; COG; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c5cef6226012
+record: 8fb9192a15ee
 ---
 
 # News, Sep – Oct 2026
@@ -1012,6 +1012,20 @@ The data protection authority convened ministry chiefs of staff and secretaries-
 **[Togo : l’IPDCP lance la certification des correspondants à la protection des données](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/)** — Le Nouveau Reporter, 5 October 2026
 
 Togo's personal data protection authority, IPDCP, opened its first evaluation and certification session for data protection officers in Atakpamé on 30 September 2026. Thirty-two professionals from banking, insurance, telecoms, public administration and other sectors were assessed under Law 2019-014, and only those reaching the required level may hold the title.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cooperation accord between the broadcasting and data-protection authorities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Médias et protection des données personnelles : l’IPDCP et la HARC renforcent leur partenariat](https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/)** — IPDCP (Togo), 20 October 2026
+
+Togo's data protection authority IPDCP has placed a team in the media regulator HARC's monitoring service, under an agreement the two signed on 10 December 2025. The team will check how the press handles personal data and respond with guidance, awareness work or, where needed, legal measures.
 
 </div>
 

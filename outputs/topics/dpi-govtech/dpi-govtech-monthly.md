@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5fe63a1a2bb2
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 8ce2594ec216
 ---
 
 # News, Sep – Oct 2026
@@ -21,6 +21,8 @@ record: 5fe63a1a2bb2
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -461,6 +463,23 @@ Burundi's World Bank-funded digital foundations project has issued an internatio
 **[Burundi opts for a local app for presidency-citizen interactions](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions)** — Connecting Africa, 8 October 2026
 
 Burundi's presidency adopted Gasape Chat, a locally built messaging application, as a channel for citizens' grievances. The terms were not disclosed, and analysts noted that nothing says who controls the servers or protects users' data.
+
+</div>
+
+</div>
+
+## Cameroon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single portal for public services</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[SERVICEPUBLIC.GOV.CM: MINFOPRA SEEKS HOMEPAGE REDESIGN AND NEW PORTAL IDENTITY](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2395-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-identity)** — MINFOPRA (Cameroun), 20 October 2026
+
+Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm portal on 20 October 2026 before its launch: it lists 1,250 procedures in 25 categories in French and English, with an app for offline use and a proposed 90-day publicity campaign across the ten regions. He asked for a new name and look for the portal and a review of the contract with its provider, ADWA SARL.
 
 </div>
 
@@ -932,6 +951,20 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consular services app for Egyptians abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Ministry launches pilot operation of e-platform for consular services for Egyptians abroad](https://sis.gov.eg/en/media-center/news/foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-for-egyptians-abroad/)** — State Information Service (Egypt), 21 October 2026
+
+Egypt's foreign ministry has started piloting a mobile app for consular services for Egyptians abroad, covering 17 embassies and consulates at launch, with more to follow. Users can complete consular transactions in the app and track their progress.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1139,6 +1172,20 @@ Gabon's civil-service ministry reviewed technical preparations for an integrated
 **[Gabon/Sécurité alimentaire : l’AGASA lancera la plateforme numérique Nexus le 2 novembre prochain - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-securite-alimentaire-lagasa-lancera-la-plateforme-numerique-nexus-le-2-novembre-prochain/)** — Agence Gabonaise de Presse, 19 October 2026
 
 Gabon's food safety agency AGASA will launch Nexus, a digital platform for food and plant-health operators, on 2 November 2026. Operators will be able to apply remotely for approvals, import authorisations and health certificates, and track their files. Operators are asked to visit AGASA offices from 20 to 29 October with identity documents to update their data and get login details.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GTLAN legislative work management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Launches Digital Platform to Modernize Parliamentary Work](https://techafricanews.com/2026/10/21/gabon-launches-digital-platform-to-modernize-parliamentary-work/)** — Tech Africa News, 21 October 2026
+
+Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN) on 19 October 2026 and issued tablets to members. The digital infrastructure agency ANINF trained members until 20 October on using it for committee review, government hearings and joint work on amendments.
 
 </div>
 
@@ -2658,6 +2705,21 @@ South Africa's Border Management Authority launched its Vehicle Targeting System
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MyMzansi single citizen application</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Citizen services project MyMzansi gets R150m boost](https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa)** — ITWeb South Africa, 21 October 2026
+
+South Africa's National Treasury is allocating R150 million to the Presidency's digital services unit to develop MyMzansi, a single platform for government services, according to the adjusted estimates released with the 2026 Medium-Term Budget Policy Statement. The first use case will be issuing and verifying digital matric certificates.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2793,6 +2855,20 @@ Tanzania's National e-Procurement System (NeST), launched by the Public Procurem
 **[VP: Govt digital platforms ‘still not helping the youth’](https://ippmedia.co.tz/the-guardian/news/local-news/read/vp-govt-digital-platforms-still-not-helping-the-youth-2026-10-15-103404)** — The Guardian (Tanzania), 15 October 2026
 
 Tanzania's Vice President directed the youth and labour ministries to merge the YES youth-enrolment system, the Ajira Portal and the Kazi Portal into one interoperable network, after hearing that YES had registered over 22,000 young people but listed only seven opportunities. He asked for an integration report within a week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iNDLS national digital library system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Launches Digital Library System as Mkenda Urges Board to Prioritise Books Over Buildings - The Chanzo](https://thechanzo.com/2026/10/21/tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prioritise-books-over-buildings/)** — The Chanzo, 21 October 2026
+
+Tanzania's education minister Adolf Mkenda launched the Integrated National Digital Library System, built by the Tanzania Library Services Board with the e-Government Authority, which handles registration, ISBN and ISSN applications, cataloguing, lending and billing on web and mobile. Copyright limits mean not every title will be online in full.
 
 </div>
 

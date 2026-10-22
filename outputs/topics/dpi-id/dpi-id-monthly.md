@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-22
+period: 2026-09-01 to 2026-10-22
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: df613365e656
+record: bb1b12d6d4c9
 ---
 
 # News, Sep – Oct 2026
@@ -707,6 +707,20 @@ Ghana's National Identification Authority, with the National Health Insurance Au
 **[NIA biometric system to tighten fraud controls](https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880)** — GhanaWeb, 9 October 2026
 
 Ghana's National Identification Authority will begin Ghana Card registration of children aged 0-5 the following week, alongside the ongoing registration of 6-14 year olds, its deputy executive secretary Fred Bedzrah said at a forum at the University of Professional Studies, Accra. He presented biometric verification with liveness detection as the check against ghost names on government payrolls.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Ghana Card replacement for citizens abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIA rolls out online Ghana Card replacement service for Ghanaians in 11 countries](https://www.adomonline.com/nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countries/)** — Adom Online, 20 October 2026
+
+Ghana's National Identification Authority opened an online Ghana Card replacement service for citizens living in 11 countries, including the UK, US, Canada and the UAE, so they no longer have to travel home. The service is also available at four Prestige 24/7 centres in Ghana, and an online update service is to follow.
 
 </div>
 
