@@ -1,5 +1,6 @@
 ## 22 October 2026
 
+- On laptop screens the Maturity Assessment's header, menu bar and footer were drawn smaller than on every other page. They now match the rest of the site; the map keeps its compact size.
 - The Progress and Countries & Regions pages now carry the ⓘ button, and the explanatory text above and below their tables has gone into it. The tables now start at the top of the page.
 - Countries & Regions no longer has the bar counting sources and countries, and its Countries and Regions headings are now small capitals. Its title and rule now sit as they do on Topics and Progress.
 - Every page on data-landscapers.io now carries the Corpus menu bar under its header, as Corpus pages do. Moving between the two sites no longer changes the top of the page.

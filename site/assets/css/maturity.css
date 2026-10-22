@@ -276,6 +276,16 @@
    reports. Every size on the map page is in rem, so the root carries all of it (Bill, 2026-10-13). */
 @media (min-width: 961px) and (max-width: 1600px) {
   html:has(.mat-wrap) { font-size: 15px; }
+  /* The map's root, not the site's: the header, nav and footer zoom back to 18px so they match
+     every other page (Bill, 2026-10-22). Widths, the logo, the menu icon and the header's height are
+     pixels, which zoom would scale, so they are divided back: the nav's sticky `top` is set from that height. */
+  html:has(.mat-wrap) :is(.site-header__inner, .corpus-nav__inner, .site-footer__inner) {
+    zoom: 1.2; max-width: calc(var(--col-wide) / 1.2);
+  }
+  html:has(.mat-wrap) .site-header__inner { height: calc(var(--header-h) / 1.2); }
+  html:has(.mat-wrap) .site-logo__img { width: calc(50px / 1.2); height: calc(50px / 1.2); }
+  html:has(.mat-wrap) .site-menu > summary { gap: calc(5px / 1.2); padding: calc(4px / 1.2); }
+  html:has(.mat-wrap) .site-menu > summary span { width: 20px; height: calc(2px / 1.2); }
 }
 
 @media (max-width: 960px) {
