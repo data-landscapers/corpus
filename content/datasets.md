@@ -8,7 +8,7 @@ The Data Centres blocks have to make three things clear without a lecture: what 
 
 The Institution Hosting blocks have to make two things clear: a row is an institution and its figures are shares of its working addresses on the scan date; and the scan sees the public edge only (websites, mail, name servers), not where databases or core systems run.
 
-`dataset-data-centres` and `dataset-institution-hosting` are not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
+`dataset-data-centres`, `dataset-institution-hosting` and `dataset-catalogue` are not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
 
 ## index-intro
 
@@ -55,3 +55,7 @@ Click a row to see the full record. Sort on any column, shift-click another to s
 ## dataset-institution-hosting
 
 Where strategic institutions in 54 African countries host their public internet services: one record per institution, covering the presidency, ministries, regulators, security services, the largest banks and the payment systems. Each record gives the domains scanned, the number of working addresses found, and the share of them on US cloud (Amazon, Microsoft, Google, Oracle), on those companies' African data centres, on US online services, behind a shield such as Cloudflare, on government or the institution's own systems, on African data centres and IT firms, on telecoms networks, on other foreign hosts and on Chinese cloud. It also records the email provider and any mail filter. Figures come from passive DNS lookups on the scan date and describe websites, mail and name servers, not internal systems. Each published file is a dated edition that is never revised.
+
+## dataset-catalogue
+
+Every document the Data Landscapers Corpus holds on digital transformation, digital public infrastructure and data governance across Africa, as a single table: title, publisher, author, publication date and its precision, the countries and regions covered, the subjects from the Corpus taxonomy, the organisations and people tagged, the date the document entered the repository, and the publisher's own link. It is a catalogue of metadata and links — it does not contain the text of the documents themselves, each of which stays with its publisher at the URL given. Every claim in the country, region and topic reports on this site rests on a record in it.

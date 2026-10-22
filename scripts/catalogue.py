@@ -1779,7 +1779,7 @@ def main() -> int:
     # and says nothing when it does, and nobody reads a `<head>` to notice.
     dataset = structured_data.dataset(
         name="Data Landscapers Corpus catalogue",
-        description=copy_md("catalogue", "dataset-description"),
+        description=copy_md("datasets", "dataset-catalogue"),
         url=f"{SITE_BASE}/catalogue/",
         csv_url=f"{SITE_BASE}/catalogue/raw-catalogue.csv",
         csv_bytes=(out_dir / "raw-catalogue.csv").stat().st_size,
