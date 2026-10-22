@@ -7,7 +7,7 @@
 <meta name="description" content="One document's journey through Corpus, from a Somali news site to three published reports: how it was found, screened, classified, stored, and turned into a dated claim.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=c7777c77">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=0aceea32">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=8c5355b4">
 <link rel="stylesheet" href="../../assets/css/methodology.css?v=f43303f4">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -103,6 +103,9 @@
 
   <main id="main">
   <div class="container">
+    <!-- The title and the page bars pin under the site chrome, as a country report's head does
+         (Bill, 2026-10-22): `report-head.js` measures the chrome and adds the class. -->
+    <div class="report-head report-head--page">
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Methodology%20%E2%80%94%20document%20lifecycle&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/methodology/document-lifecycle/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
       <h1 class="article-header__title">The life of a document<button type="button" class="info-btn" popovertarget="info-methodology" aria-label="About this page">i</button></h1>
@@ -118,8 +121,6 @@
 <p><strong>Maturity assessment</strong> - the criteria used to 'score' each indicator in the maturity assessment.</p>
 <p><strong>Table metadata</strong> - column definitions for downloadable datasets.</p>
 </div>
-
-    <article class="article-body">
       <nav class="article-toc" aria-label="Pages in this section">
       <a href="../../methodology/">Methodology</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -158,6 +159,9 @@
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#final-checks-and-publications">Final checks and publications</a>
       </nav>
+    </div>
+
+    <article class="article-body">
       <p>Building a site of this nature has involved a lot more than a simple request to a large language model. This page sets out to explain the complexities involved by tracing the journey of a single document through the system.</p>
       <p>On the evening of 29 August 2026, a Somali news site reported that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.</p>
       <p>The next day it was a linked claim in three Corpus documents: a line in Somalia's news page, a row in its progress report, and an entry in that day's bulletin. This is what happened in between.</p>
@@ -234,5 +238,6 @@
   </footer>
 
 </div>
+<script src="../../assets/js/report-head.js?v=b6a45a92"></script>
 </body>
 </html>

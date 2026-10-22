@@ -73,7 +73,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -101,11 +101,16 @@ PAGE = """<!DOCTYPE html>
 
   <main id="main">
   <div class="container">
+    <!-- The title and the page bars pin under the site chrome, as a country report's head does
+         (Bill, 2026-10-22): `report-head.js` measures the chrome and adds the class. -->
+    <div class="report-head report-head--page">
     <header class="article-header">
       {feedback}
       <h1 class="article-header__title">{h1}{about}</h1>
     </header>
     {panel}
+{bars}
+    </div>
 
     <article class="article-body{body_class}">
 {body}
@@ -125,6 +130,7 @@ PAGE = """<!DOCTYPE html>
 {foot}
 
 </div>
+{script}
 </body>
 </html>
 """
@@ -352,7 +358,7 @@ PAGES = [
 
 
 def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str,
-          canonical: str, depth: int, prefix: str = "", body_class: str = "",
+          canonical: str, depth: int, bars: str = "", body_class: str = "",
           tables: bool = False) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
     text = md_path.read_text(encoding="utf-8")
@@ -367,7 +373,8 @@ def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str
         base=SITE_BASE, main=MAIN_SITE, body_class=body_class,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
         styles=styles(depth, "methodology.css"), ga=ga(),
-        body=indent(prefix + convert(md_path, text)),
+        bars=indent(bars), script=script("report-head.js", depth),
+        body=indent(convert(md_path, text)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),
     )), encoding="utf-8")
@@ -391,7 +398,7 @@ def main() -> int:
             src, out, h1=page["h1"], title=page["title"],
             description=page["description"], canonical=f"{SITE_BASE}{url}",
             depth=depth, body_class=page["body"], tables=page["tables"],
-            prefix=see_also(url.lstrip("/"))
+            bars=see_also(url.lstrip("/"))
             + (contents_strip(src) if page["strip"] else ""))
         print(f"methodology: {words:,} words -> site{url}index.html")
     return 0

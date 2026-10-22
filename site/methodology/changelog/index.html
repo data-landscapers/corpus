@@ -7,7 +7,7 @@
 <meta name="description" content="Changes to Corpus that affect readers, newest first: what changed and what it means for you.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/methodology/changelog/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=c7777c77">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=0aceea32">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=8c5355b4">
 <link rel="stylesheet" href="../../assets/css/methodology.css?v=f43303f4">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -103,6 +103,9 @@
 
   <main id="main">
   <div class="container">
+    <!-- The title and the page bars pin under the site chrome, as a country report's head does
+         (Bill, 2026-10-22): `report-head.js` measures the chrome and adds the class. -->
+    <div class="report-head report-head--page">
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Methodology%20%E2%80%94%20change%20log&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/methodology/changelog/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
       <h1 class="article-header__title">Change log<button type="button" class="info-btn" popovertarget="info-methodology" aria-label="About this page">i</button></h1>
@@ -118,8 +121,6 @@
 <p><strong>Maturity assessment</strong> - the criteria used to 'score' each indicator in the maturity assessment.</p>
 <p><strong>Table metadata</strong> - column definitions for downloadable datasets.</p>
 </div>
-
-    <article class="article-body">
       <nav class="article-toc" aria-label="Pages in this section">
       <a href="../../methodology/">Methodology</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -135,8 +136,12 @@
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="../../datasets/metadata/">Table Metadata</a>
       </nav>
+    </div>
+
+    <article class="article-body">
       <h2 id="22-october-2026">22 October 2026</h2>
       <ul>
+      <li>On every Methodology page the title and its menus now stay pinned at the top as you scroll. The section menu is always one click away, however far down a long page you are.</li>
       <li>Finance is back in the menu bar in place of Datasets, on Corpus and on data-landscapers.io. Datasets is still listed in the ☰ menu.</li>
       <li>The Process Inventory is brought up to date: it now covers the maturity assessment, the datasets, budget reading and deploy checks, and its counts and file names match the system as it runs. Two retired descriptions, of budget handling and of how the two sides exchange notes, are corrected.</li>
       <li>The Methodology pages' menu now lists the page you are on, in black, and the Maturity Assessment methodology and Table Metadata pages carry the same menu. Every page in the section can be reached from every other, and each carries an ⓘ describing the section's pages.</li>
@@ -460,5 +465,6 @@
   </footer>
 
 </div>
+<script src="../../assets/js/report-head.js?v=b6a45a92"></script>
 </body>
 </html>

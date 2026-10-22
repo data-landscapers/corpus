@@ -449,9 +449,10 @@ def build_metadata() -> None:
         canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
         chrome=chrome("datasets", depth=2), foot=foot(depth=2),
         styles=styles(2, "methodology.css"), ga=ga(),
-        body=methodology.indent(methodology.see_also("datasets/metadata/")
-                                + methodology.contents_strip(src)
-                                + methodology.convert(src, text)),
+        bars=methodology.indent(methodology.see_also("datasets/metadata/")
+                                + methodology.contents_strip(src)),
+        script=script("report-head.js", 2),
+        body=methodology.indent(methodology.convert(src, text)),
         source=src.relative_to(CORPUS).as_posix(), built=date.today().isoformat(),
     )), encoding="utf-8")
 
@@ -494,7 +495,7 @@ def build_ih_methodology() -> None:
     body = (ih_views("methodology") + (f'<div class="byline">{html.escape(byline)}</div>\n' if byline else "")
             + methodology.convert(IH_METHOD, "\n".join(lines)))
     (out / "index.html").write_text(external_links(methodology.PAGE.format(
-        about="", panel="",
+        about="", panel="", bars="", script="",
         feedback=feedback(title, canonical), h1=title, title=title,
         description="How the Institution hosting dataset was made: which institutions were chosen, how "
                     "their internet names were found and looked up, how each address was assigned to a "

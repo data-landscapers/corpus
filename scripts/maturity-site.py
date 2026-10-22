@@ -745,10 +745,10 @@ def method_page(data: dict, studies: list[dict]) -> str:
     chapters = {}
     for t in data["topics"]:
         chapters.setdefault(t["group"], []).append(t)
-    parts = [toc("Chapters", [(METHOD_CHAPTER, f"chapter-{slug(METHOD_CHAPTER)}")]
-                 + [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
-                    for c, ts in chapters.items()]),
-             f'    <h2 class="mat-report__chapter" id="chapter-{slug(METHOD_CHAPTER)}">{METHOD_CHAPTER}</h2>',
+    chapter_bar = toc("Chapters", [(METHOD_CHAPTER, f"chapter-{slug(METHOD_CHAPTER)}")]
+                      + [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
+                         for c, ts in chapters.items()])
+    parts = [f'    <h2 class="mat-report__chapter" id="chapter-{slug(METHOD_CHAPTER)}">{METHOD_CHAPTER}</h2>',
              toc("Topics", [(h, f"topic-{slug(h)}") for h, _ in intro])]
     for h, text in intro:
         parts.append(f'    <h3 class="mat-report__topic" id="topic-{slug(h)}">{html.escape(h)}</h3>\n{md(text)}')
@@ -774,13 +774,18 @@ def method_page(data: dict, studies: list[dict]) -> str:
                               + "\n\n##### The ladder\n\n" + criteria_table(sub))
                          + "\n</section>")
     about, panel = info("Methodology")   # the section's one ⓘ (Bill, 2026-10-22)
+    # The title, the section bar and the chapters pin under the site chrome, as on every
+    # Methodology page (Bill, 2026-10-22).
     body = f"""  <div class="container">
+    <div class="report-head report-head--page">
     <header class="article-header">
       <h1 class="article-header__title">Maturity Assessment: methodology{about}</h1>
     </header>
     {panel}
-    <article class="article-body mat-method">
 {methodology.see_also("methodology/maturity/")}
+{chapter_bar}
+    </div>
+    <article class="article-body mat-method">
 {chr(10).join(parts)}
     </article>
   </div>"""
@@ -788,6 +793,7 @@ def method_page(data: dict, studies: list[dict]) -> str:
                 description="How the Maturity Assessment places countries on its five-stage scale, indicator by indicator.",
                 canonical=f"{SITE_BASE}/methodology/maturity/", depth=2, body=body,
                 body_class="mat-method-page", sheets=("methodology.css", "maturity.css"),
+                scripts=script("report-head.js", 2),
                 active="methodology")
 
 
