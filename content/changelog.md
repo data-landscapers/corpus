@@ -1,3 +1,7 @@
+## 22 October 2026
+
+- Every page on data-landscapers.io now carries the Corpus menu bar under its header, as Corpus pages do. Moving between the two sites no longer changes the top of the page.
+
 ## 21 October 2026
 
 - The titles of the Maturity Assessment, Bulletin, Finance pages and each country's News and Status reports now carry an ⓘ button. It opens a short explanation of what the page is and how it is made.

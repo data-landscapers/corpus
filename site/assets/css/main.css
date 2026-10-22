@@ -68,9 +68,9 @@ h1, h2, h3, h4 {
   font-weight: 700;
   line-height: 1.2;
   color: var(--ink);
-  /* Clears the sticky header when an anchor is jumped to. Corpus overrides this
-     in `corpus.css`, where a second sticky row sits below the header. */
-  scroll-margin-top: calc(var(--header-h) + 10px);
+  /* Clears both sticky rows — the header and `.corpus-nav` below it — plus a
+     little air, when an anchor is jumped to. */
+  scroll-margin-top: calc(var(--header-h) + 46px);
 }
 
 h1 { font-size: clamp(1.6rem, 3vw, 2rem); margin-bottom: 0.5rem; }
@@ -220,6 +220,22 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .site-menu__panel a:hover { color: var(--accent); background: var(--paper-warm); border: none; }
 @media (max-width: 900px) {
   .site-menu__panel { right: 0; left: 0; min-width: 0; border-left: none; border-right: none; }
+}
+
+/* ── CORPUS NAV ──
+   Corpus's own menu, sticking below the header on every page of both sites (Bill, 2026-10-22),
+   so crossing from one site to the other changes nothing on screen. Here since that day, when
+   it left Corpus's `corpus.css`. `top` is `--header-h`, never a literal: a literal is what left
+   a band of page showing above it the last time the header was resized. Right-aligned under
+   the main nav; grey, taking the accent only on hover and when active. */
+.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: var(--header-h); z-index: 99; }
+.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.45rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
+.corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
+.corpus-nav a:hover, .corpus-nav a.active { color: var(--accent); border: none; }
+/* One row that scrolls sideways on a phone, not several that wrap and take a quarter of the screen. */
+@media (max-width: 900px) {
+  .corpus-nav__inner { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; gap: 1.25rem; }
+  .corpus-nav a { white-space: nowrap; }
 }
 
 /* ── BUTTONS ── */
