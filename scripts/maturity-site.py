@@ -776,7 +776,6 @@ def method_page(data: dict, studies: list[dict]) -> str:
     about, panel = info("Methodology")   # the section's one ⓘ (Bill, 2026-10-22)
     body = f"""  <div class="container">
     <header class="article-header">
-      <p class="mat-report__kicker"><a href="../../maturity/">Maturity Assessment</a></p>
       <h1 class="article-header__title">Maturity Assessment: methodology{about}</h1>
     </header>
     {panel}
