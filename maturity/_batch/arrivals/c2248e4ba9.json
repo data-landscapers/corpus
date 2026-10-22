@@ -1,0 +1,169 @@
+{
+ "slug": "2026-10-20-uk-fcdo-zmb-2025-zra-customs-asy5-modernisation",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Ecofin Agency reports the Zambia Revenue Authority is moving from ASYCUDA World to ASY5 under a UNCTAD customs modernisation project, with assessments, pilot testing and officer training under way per the authority's 19 October 2026 account.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "ASYCUDA World / ASY5",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World / ASY5",
+       "country_label": "Zambia",
+       "class": "customs",
+       "platform": "ASYCUDA (UNCTAD)",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about Zambia."
+    }
+   }
+  }
+ }
+}

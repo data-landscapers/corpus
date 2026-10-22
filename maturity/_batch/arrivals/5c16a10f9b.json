@@ -1,0 +1,10 @@
+{"slug": "2026-10-21-tza-dailynews-bunge-committee-malabo-convention-views", "studies": {
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a proposed ratification of the Malabo Convention is stated; nothing on a national data protection law."}}},
+"dataprotectionreadiness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Ratification is only proposed; nothing on a law in force or an authority."}}},
+"eparticipation": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Views invited in person and by email on a resolution; no online consultation channel is described."}}},
+"publicconsultation": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Parliament's Standing Committee on Infrastructure invited members of the public and other stakeholders, in a statement of 20 October 2026, to give views in person on 26 October 2026 or in writing on the proposed ratification of the AU Convention on Cyber Security and Personal Data Protection.", "as_of": "2026-10-20", "date_precision": "day", "system": "Parliamentary Standing Committee on Infrastructure public consultation on the Malabo Convention", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"regionallaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Ratification is only proposed before parliament; no signature or ratification is stated."}}},
+"regionalpolicy": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No membership or agreement of an African digital policy body is stated."}}}
+}}

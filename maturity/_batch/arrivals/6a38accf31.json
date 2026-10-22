@@ -1,0 +1,63 @@
+{
+ "slug": "2026-10-21-tza-tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prio",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Education Minister Adolf Mkenda launched the Integrated National Digital Library System, which handles member registration, ISBN and ISSN applications, lending and billing on web and mobile.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "iNDLS",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "iNDLS",
+       "country_label": "Integrated National Digital Library System",
+       "class": "eservices",
+       "platform": "web and mobile app",
+       "owner": "Tanzania Library Services Board",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "built",
+       "value": "live",
+       "fact": "The Integrated National Digital Library System was developed by the Tanzania Library Services Board with the e-Government Authority and launched by the Education Minister at a conference running 20-22 October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "iNDLS",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connections."
+    }
+   }
+  }
+ }
+}

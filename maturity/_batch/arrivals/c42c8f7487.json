@@ -1,0 +1,8 @@
+{"slug": "2024-10-04-tgo-intelligence-artificielle-vers-l-elaboration-d-une-strategie-nationale", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"TGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Togo Officiel reports that the Ministry of Digital Economy called on experts, business leaders, consultants and researchers on 3 October 2024 to register by 18 October and take part in drawing up Togo's national AI strategy, under programme 9 of the Togo Digital strategy.", "as_of": "2024-10-03", "date_precision": "day", "system": "stratégie nationale d'Intelligence Artificielle", "class": "strategy"}], "systems": [{"system": "stratégie nationale d'Intelligence Artificielle", "country_label": "Togo", "class": "strategy", "platform": "", "owner": "Ministère de l'Economie Numérique", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"egovservices": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No online government service is stated."}}}
+}}

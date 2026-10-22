@@ -1,0 +1,7 @@
+{"slug": "2026-05-07-cog-congo-le-gouvernement-veut-faire-de-l-ia-un-moteur-de-developpement", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing stated beyond a plan for an ethical and regulatory framework in the future strategy."}}},
+"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"COG": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Minister Frederic Nze chaired the launch in Brazzaville of the technical committee drafting the national AI strategy, supported by UNDP, with six months to produce eleven deliverables.", "as_of": "2026-05-06", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}], "systems": [], "note": "A budget of 150-200 million FCFA is said to be needed, not allocated; the committee writes the strategy, so no body is recorded."}}},
+"aisystems": {"countries": {"COG": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}
+}}

@@ -1,0 +1,7 @@
+{"slug": "2026-10-21-gabon-parliament-digital-platform", "studies": {
+"coresystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Document covers a parliamentary work platform, not finance, tax or payroll systems."}}},
+"digitalsovereignty": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a general statement about strengthening digital sovereignty; no rule, hosting or contract terms."}}},
+"digitalstrategy": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a passing reference to the president's vision; no strategy named."}}},
+"egovservices": {"countries": {"GAB": {"facts": [], "systems": [{"system": "Legislative Work Management Platform (GTLAN)", "country_label": "GTLAN", "class": "other", "platform": "", "owner": "National Assembly", "tiers": ""}], "note": "GTLAN is an internal parliamentary tool, not a service for citizens or businesses."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [{"system": "Legislative Work Management Platform (GTLAN)", "country_label": "GTLAN", "class": "other", "platform": "", "owner": "National Assembly", "tiers": ""}], "note": "ANINF is only said to train and support MPs; the document does not say it builds or runs GTLAN or other ministries' systems."}}}
+}}

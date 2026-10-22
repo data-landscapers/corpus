@@ -1,0 +1,12 @@
+{"slug": "2026-05-17-gha-ghana-launches-artificial-intelligence-driven-health-programme-to-stre", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AI governance capacity is a programme aim; no rule or authority is stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a health-sector programme is stated, which is not general administration."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A WHO-UNDP joint programme with the Ministry of Health, funded by Japan, was launched and aims to deploy AI-enabled early warning systems for climate-sensitive diseases integrated into national platforms such as DHIS2.", "as_of": "2026-05-17", "date_precision": "day", "system": "AI-enabled early warning systems for climate-sensitive diseases", "class": "sectorai"}], "systems": [{"system": "AI-enabled early warning systems for climate-sensitive diseases", "country_label": "Ghana", "class": "sectorai", "platform": "DHIS2", "owner": "Ministry of Health with WHO and UNDP", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Communication minister points to the National AI Strategy as a milestone; the document does not say it is adopted or launched."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in Ghana is stated."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Digital literacy for healthcare workers is a programme aim only; no training is stated as held."}}},
+"digitalskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Expanding digital literacy is a stated aim of a health programme; no national public programme is stated."}}},
+"health": {"countries": {"GHA": {"facts": [], "systems": [], "note": "DHIS2 is named only as a platform for planned AI early warning; no HMIS or EMR coverage is stated."}}},
+"healthmis": {"countries": {"GHA": {"facts": [], "systems": [], "note": "DHIS2 is named only as a platform for planned AI early warning; no national HMIS status is stated."}}},
+"schoolinternet": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on schools or the curriculum."}}}
+}}

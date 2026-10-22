@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-20-nga-agency-unveils-dashboard-to-track-national-digital-literacy-progress",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training counted is for the public, not civil servants."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Female participation noted; no rural access programme described."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "National Digital Literacy Dashboard",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Digital Literacy Dashboard",
+       "country_label": "National Digital Literacy Dashboard",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "NITDA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Literacy targets only; no national digital strategy described."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  }
+ }
+}

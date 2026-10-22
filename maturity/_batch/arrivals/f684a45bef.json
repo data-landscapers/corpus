@@ -1,0 +1,10 @@
+{"slug": "2026-07-30-zaf-question-to-the-minister-of-communications-and-digital-technologies-nw", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "In a written reply dated 30 July 2026 the Minister of Communications and Digital Technologies says the Draft National Artificial Intelligence Policy was withdrawn over AI-generated fabricated references, an independent expert panel was appointed to guide its revision, and a revised draft will be republished for public comment.", "as_of": "2026-07-30", "date_precision": "day", "system": "Draft National Artificial Intelligence Policy", "class": "strategy"}], "systems": [{"system": "Draft National Artificial Intelligence Policy", "country_label": "South Africa", "class": "strategy", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"eparticipation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Republication for comment is a future intention; no online consultation is stated."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Republication for public comment is promised, not held; no consultation is stated as taking place."}}},
+"satellitebroadband": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Satellite internet directives are named in the question only; the reply states nothing on licensing or sale."}}}
+}}

@@ -1,0 +1,115 @@
+{
+ "slug": "2024-05-17-tza-tanzania-formulate-rules-on-use-of-artificial-intelligence",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "An ICT law covering AI is only being prepared; no draft is named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The national security centre is only being designed; no body or incident stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ICT minister told the National Assembly that the ministry is starting a review of the Cybercrime Act of 2015, which implies it is in force.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Cybercrime Act of 2015",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 36.8m internet-user count, not a share of the population."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

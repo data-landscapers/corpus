@@ -1,0 +1,9 @@
+{"slug": "2025-05-30-tza-ai-transforms-tra-s-measures-to-curb-falsified-electronic-stamps", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The AI is in tax stamp enforcement, a sector system."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Tanzania Revenue Authority says an AI system, adopted in November 2023 on its electronic tax stamp platform, notifies it when a stamp code is scanned in different locations, flagging duplicated codes.", "as_of": "2025-05-28", "date_precision": "day", "system": "Electronic Tax Stamps AI", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "The Tanzania Revenue Authority says inspections rose to 1 million scans in 2024 from 250,000 the year before and that detected fake stamps saved billions of shillings.", "as_of": "2025-05-28", "date_precision": "day", "system": "Electronic Tax Stamps AI", "class": "sectorai"}
+], "systems": [{"system": "Electronic Tax Stamps AI", "country_label": "Tanzania", "class": "sectorai", "platform": "SICPA digital platform", "owner": "Tanzania Revenue Authority", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Platform by SICPA Tanzania; no local AI model, dataset or computing stated."}}}
+}}

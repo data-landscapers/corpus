@@ -1,0 +1,26 @@
+{"slug": "2025-12-04-ken-ai-system-flaws-push-sha-into-chaos-mps-say-in-explosive-report", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States no rule or authority on AI harms; reports a parliamentary finding on a health claims system."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [{"system": "SHA AI-driven claims processing system", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Social Health Authority", "tiers": ""}], "note": "The AI named sits in the health insurance claims system, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Health Committee's report tabled in Parliament says the Social Health Authority's AI-driven claims processing system is in use and rejects some legitimate hospital claims as fraudulent.", "as_of": "2025-12-04", "date_precision": "day", "system": "SHA AI-driven claims processing system", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "Health CS Aden Duale said investigations had uncovered irregular payments of Sh10.6 billion, credited to new safeguards embedded in the SHA system.", "as_of": "2025-12-04", "date_precision": "day", "system": "SHA AI-driven claims processing system", "class": "sectorai"}
+], "systems": [{"system": "SHA AI-driven claims processing system", "country_label": "Kenya", "class": "sectorai", "platform": "", "owner": "Social Health Authority", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in Kenya is described."}}},
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions biometric verification challenges at SHA only; no authentication service is described."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on links between the civil register and the ID system."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on digital financial services protection."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on public digital skills."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Claims paid to hospitals, not government payments to people."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

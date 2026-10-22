@@ -1,0 +1,126 @@
+{
+ "slug": "2025-05-12-mar-maroc-et-intelligence-artificielle-qui-pilote-la-machine",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "Le Matin, citing a parliamentary report, says no centralised state body can regulate AI in public action, and that algorithms are being installed without ethical safeguards defined nationally.",
+       "as_of": "2025-05-12",
+       "date_precision": "day",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Le Matin, citing a parliamentary working group report, says an AI system for school support management is deployed in the Draa-Tafilalet Academy, using the Massar, SAGE+ and GEXA+ databases to predict pupil performance and flag dropout risk.",
+       "as_of": "2025-05-12",
+       "date_precision": "day",
+       "system": "AI school support management system (Draa-Tafilalet)",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI school support management system (Draa-Tafilalet)",
+       "country_label": "Maroc",
+       "class": "sectorai",
+       "platform": "Massar, SAGE+, GEXA+ data",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-09-09-egy-zawya-rostom-oecd-national-ai-strategy", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Minister calls for regulatory frameworks in general terms; no rule or draft stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Egypt's planning minister Ahmed Rostom said Egypt has begun intensive work with the OECD to develop its national AI strategy, a five-year vision.", "as_of": "2026-09-09", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitaldivides": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a general warning about the digital divide; no programme or figure."}}}
+}}

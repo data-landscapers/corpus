@@ -1,0 +1,7 @@
+{"slug": "2025-03-29-nam-namibia-deploys-ai-powered-tb-screening-to-strengthen-public-health-re", "studies": {
+"aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The AI tool is in the health sector, which this study excludes."}}},
+"aisectoral": {"countries": {"NAM": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Health Minister Esperance Luvindao said Namibia has introduced AI-powered digital chest X-ray technology for tuberculosis screening and early diagnosis, and that she was screened with it at a World TB Day event in Omusati.", "as_of": "2025-03-28", "date_precision": "day", "system": "AI-aided digital chest X-ray screening", "class": "sectorai"}], "systems": [{"system": "AI-aided digital chest X-ray TB screening", "country_label": "Namibia", "class": "sectorai", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No AI strategy mentioned."}}},
+"aisystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document does not say the tool was built or hosted in Namibia."}}}
+}}

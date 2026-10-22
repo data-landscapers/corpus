@@ -1,0 +1,11 @@
+{"slug": "2026-04-26-zaf-sanews-minister-announces-withdrawal-of-draft-ai-policy", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The draft AI policy is not said to address a harm from AI."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "SAnews reports that the Draft National Artificial Intelligence Policy, approved by Cabinet on 25 March 2026, was published in the Government Gazette on 10 April 2026 for public comment until 10 June, and that Minister Solly Malatsi withdrew it on 26 April 2026 after fictitious sources were found in its reference list.", "as_of": "2026-04-10", "date_precision": "day", "system": "Draft National Artificial Intelligence Policy", "class": "strategy"}], "systems": [{"system": "Draft National Artificial Intelligence Policy", "country_label": "South Africa", "class": "strategy", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No digital transformation strategy is stated."}}},
+"eparticipation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The comment period is stated but not that it ran online."}}},
+"policyresearch": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No local research institution is named."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "SAnews reports that the Draft National Artificial Intelligence Policy was published in the Government Gazette of 10 April 2026 for public comment until 10 June 2026.", "as_of": "2026-04-10", "date_precision": "day", "system": "Draft National Artificial Intelligence Policy", "class": "consultation"}], "systems": [], "note": ""}}}
+}}

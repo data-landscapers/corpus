@@ -1,0 +1,11 @@
+{"slug": "2024-10-01-civ-ia-et-gestion-des-donnees-le-ministre-kalil-konate-lance-les-travaux-d", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Ministry of Digital Transition reports that on 30 September 2024 Minister Kalil Konaté launched the work of drawing up the National Strategy for Artificial Intelligence and Data Management, under the PADCI co-financed by the State and the World Bank.", "as_of": "2024-09-30", "date_precision": "day", "system": "Stratégie Nationale de l'Intelligence Artificielle et de la Gestion des Données", "class": "strategy"}], "systems": [{"system": "Stratégie Nationale de l'Intelligence Artificielle et de la Gestion des Données", "country_label": "Côte d'Ivoire", "class": "strategy", "platform": "", "owner": "Ministère de la Transition Numérique", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"disabilityaccess": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Participation of persons with disabilities in the process is stated, not an accessibility rule or programme."}}},
+"egovservices": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No online government service is stated."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Startups are named as contributors only; no law or fund is stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub or technology park is stated."}}}
+}}

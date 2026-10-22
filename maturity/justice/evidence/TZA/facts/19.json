@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-tza-nalis-digital-transformation-brings-legal-services-closer-to-tanzanian",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NaLIS (National Legal Information System)",
+   "country_label": "NaLIS",
+   "class": "other",
+   "platform": "microservices; web, mobile apps, USSD 15200#",
+   "owner": "Ministry of Constitution and Legal Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "NaLIS is a ministry legal-aid and legal-services system, not a court case management system."
+}

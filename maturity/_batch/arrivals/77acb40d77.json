@@ -1,8 +1,14 @@
-{"slug": "2025-08-07-swz-six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech", "studies": {
-"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority on AI harms."}}},
-"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The AI system named is a diagnostic tool in public health, recorded under sector systems."}}},
-"aisectoral": {"countries": {"SWZ": {"facts": [
-{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Swazi24 reports that an AI-powered diabetic retinopathy diagnostic system, from the Taiwan Technical Mission's NCD Project, was launched and is operational at six public hospitals and health centres (Mbabane Government, Piggs Peak, Mankayane, RFM, Dvokolwako, Emkhuzweni), officiated by the Minister of Health.", "as_of": "2025-08-07", "date_precision": "day", "system": "AI diabetic retinopathy diagnostic system", "class": "sectorai"}],
-"systems": [{"system": "AI diabetic retinopathy diagnostic system", "country_label": "Eswatini", "class": "sectorai", "platform": "", "owner": "Ministry of Health with the Taiwan Technical Mission", "tiers": "six public hospitals and health centres"}], "note": ""}}},
-"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The equipment comes from the Taiwan Technical Mission and no local AI development is stated."}}}
-}}
+{
+ "slug": "2025-08-07-swz-six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "About an AI eye-screening rollout; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{"slug": "2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a call for common AI governance; no rule or authority is stated."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The AI named is inside the health platform, a sector system."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Senegal's health ministry told the World Health Assembly it has begun integrating artificial intelligence into its national DHIS2 platform, with technical partners and research institutes.", "as_of": "2026-05", "date_precision": "month", "system": "national DHIS2 platform", "class": "sectorai"}
+], "systems": [{"system": "national DHIS2 platform", "country_label": "Senegal", "class": "sectorai", "platform": "DHIS2", "owner": "Ministry of Health and Public Hygiene", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "AI is added to a DHIS2 platform; no locally built model, dataset or computing is stated."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Civil status is on the health platform; no link to the ID system is stated."}}},
+"civilregister": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Senegal's health ministry said its unified national DHIS2-based platform has been extended to civil status (etat civil), without giving offices, events or coverage.", "as_of": "2026-05", "date_precision": "month", "system": "national DHIS2 platform", "class": "civil"}
+], "systems": [{"system": "national DHIS2 platform", "country_label": "Senegal", "class": "civil", "platform": "DHIS2", "owner": "Ministry of Health and Public Hygiene", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Health data protection is only a call; no law is stated."}}},
+"health": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "Senegal's health ministry cited the National Strategic Plan of the Health Information System 2022-2026 as placing quality data and digital at the centre of health decisions.", "as_of": "2026-05", "date_precision": "month", "system": "national DHIS2 platform", "class": "hmis"}
+], "systems": [{"system": "national DHIS2 platform", "country_label": "Senegal", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health and Public Hygiene", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "Senegal's health ministry said it operates a unified national platform based on DHIS2 for health information.", "as_of": "2026-05", "date_precision": "month", "system": "national DHIS2 platform", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "The ministry said the national DHIS2 platform has been extended to epidemiological surveillance, human resources, the supply chain and maternal and perinatal death surveillance.", "as_of": "2026-05", "date_precision": "month", "system": "national DHIS2 platform", "class": "hmis"}
+], "systems": [{"system": "national DHIS2 platform", "country_label": "Senegal", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health and Public Hygiene", "tiers": ""}], "note": ""}}},
+"ictstrategy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Names a health sector policy letter and national plans, not an ICT sector policy."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on local government."}}},
+"regionallaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Mentions the Kigali African AI declaration, which is not a signed or ratified legal text."}}},
+"registry": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Civil status is said to be on the platform, but not where or how events are entered."}}}
+}}

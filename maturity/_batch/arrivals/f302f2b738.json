@@ -1,0 +1,10 @@
+{"slug":"2026-07-01-bfa-enjeux-de-l-intelligence-artificielle-les-deputes-s-outillent-pour-mie","studies":{
+"aiabuse":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Names no AI harm rule or authority, draft or in force."}}},
+"aigovernment":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No government AI system named."}}},
+"ailaw":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Deputies briefed ahead of legislating; no bill or draft text named."}}},
+"aisectoral":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No sectoral AI tool named."}}},
+"aistrategy":{"countries":{"BFA":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"draft","fact":"The National Assembly page says the digital transition ministry has drawn up a national AI roadmap 2026-2030 (Feuille de route nationale de l'intelligence artificielle 2026-2030); no approval or launch is stated.","as_of":"2026-07-15","date_precision":"day","system":"Feuille de route nationale de l'intelligence artificielle 2026-2030","class":"strategy"}],"systems":[],"note":""}}},
+"aisystems":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Mentions the need for infrastructure investment only; no model, dataset or computing named."}}},
+"dataprotectionlaw":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Deputies showed interest in personal data protection; no law, authority or decision stated."}}},
+"digitalsovereignty":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Only a general statement that AI is a sovereignty issue; no plan, rule or hosting on state data."}}}
+}}

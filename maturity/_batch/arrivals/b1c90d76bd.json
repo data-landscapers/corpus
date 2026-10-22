@@ -1,0 +1,7 @@
+{"slug": "2026-08-07-cameroon-scanform-smartphones-health-data", "studies": {
+"coresystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Says nothing on core finance, tax or payroll systems."}}},
+"customs": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Says nothing on customs."}}},
+"health": {"countries": {"CMR": {"facts": [], "systems": [{"system": "SCANFORM", "country_label": "Cameroon", "class": "tracker", "platform": "secured smartphones", "owner": "Ministry of Public Health with ICAP", "tiers": "T3;T4"}], "note": "SCANFORM began as an HIV data-collection tool and is noted, not assessed; smartphones handed over 7 August 2026, 395 facilities planned, no live use or share stated."}}},
+"landadmin": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Says nothing on land administration."}}},
+"police": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Says nothing on police records."}}}
+}}

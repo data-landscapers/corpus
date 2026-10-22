@@ -1,0 +1,163 @@
+{
+ "slug": "2025-10-09-cod-economie-numerique-augustin-kibassa-maliba-lance-les-travaux-de-redact",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Minister of Digital Economy officially launched the drafting of DRC's first National AI Strategy on 8 October 2025, with a specialised commission of experts from the Presidency, Primature and sector ministries starting work immediately.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Stratégie Nationale de l'Intelligence Artificielle",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Stratégie Nationale de l'Intelligence Artificielle",
+       "country_label": "RDC",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministère de l'Économie Numérique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The Minister of Digital Economy launched the drafting of the Plan National du Numérique 2026-2030 (PNN2) on 8 October 2025, with a drafting commission of experts from the Presidency, Primature and sector ministries at work.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Plan National du Numérique 2026-2030 (PNN2)",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The Plan National du Numérique being drafted covers 2026-2030, per the Ministry of Digital Economy.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Plan National du Numérique 2026-2030 (PNN2)",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "reporting",
+       "value": "results",
+       "fact": "A review workshop assessed execution of the PNN 2020-2025 (Horizon 2025) at about 60 per cent, according to the Ministry of Digital Economy.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Plan National du Numérique Horizon 2025",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plan National du Numérique 2026-2030 (PNN2)",
+       "country_label": "RDC",
+       "class": "national",
+       "platform": "",
+       "owner": "Ministère de l'Économie Numérique",
+       "tiers": ""
+      },
+      {
+       "system": "Plan National du Numérique Horizon 2025",
+       "country_label": "RDC",
+       "class": "national",
+       "platform": "",
+       "owner": "Ministère de l'Économie Numérique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for DRC."
+    }
+   }
+  }
+ }
+}

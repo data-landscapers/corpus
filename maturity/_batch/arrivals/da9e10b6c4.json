@@ -1,0 +1,7 @@
+{"slug": "2026-10-21-egy-foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-fo", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI tools are mentioned only as a general aim, with no system named."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no AI tool in a sector system."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no AI model, dataset or AI computing built in Egypt."}}},
+"egovservices": {"countries": {"EGY": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Egypt's Ministry of Foreign Affairs launched the pilot of a consular-services app for Egyptians abroad on 2026-10-21, covering 17 missions and consulates, in which citizens complete consular transactions and track their processing.", "as_of": "2026-10-21", "date_precision": "day", "system": "interactive electronic platform for consular services", "class": "eservices"}], "systems": [{"system": "interactive electronic platform for consular services", "country_label": "Egypt", "class": "eservices", "platform": "mobile app (App Store, Google Play)", "owner": "Ministry of Foreign Affairs, International Cooperation and Egyptian Expatriates", "tiers": "pilot, 17 missions"}], "note": ""}}}
+}}

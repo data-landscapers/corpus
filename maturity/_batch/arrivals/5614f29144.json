@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-19-tcd-digitalisation-de-leftp-le-tchad-engage-une-nouvelle-tape-avec-la-vali",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this document."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "A strategy for vocational training institutions; no public programme described."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Chad's higher-education ministry opened a workshop on 14 October 2026 to validate the National Strategy for the Digitalisation of Technical and Vocational Education and Training, with an IFEF (Francophonie) programme specialist present.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "National Strategy for the Digitalisation of EFTP",
+       "class": "consultation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Strategy for the Digitalisation of EFTP",
+       "country_label": "Strat\u00e9gie nationale de digitalisation de l'EFTP",
+       "class": "other",
+       "platform": "",
+       "owner": "MESRSFP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No school connectivity figure given."
+    }
+   }
+  }
+ }
+}

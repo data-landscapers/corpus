@@ -1,0 +1,10 @@
+{"slug": "2025-05-17-cmr-charting-cameroon-s-ai-future-d-moukouri-partners-selected-to-draft-na", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "A law firm says that, after a public tender, the Government of Cameroon through the Minister of Posts and Telecommunications selected it to lead drafting of the National Strategy for the Development of Artificial Intelligence, with an implementation and financing plan and a government AI roadmap.", "as_of": "2025-05", "date_precision": "month", "system": "National Strategy for the Development of Artificial Intelligence", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Data sovereignty is named only as a general aim of the law firm."}}}
+}}

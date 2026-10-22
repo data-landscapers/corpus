@@ -1,0 +1,9 @@
+{"slug": "2025-04-03-tgo-faure-gnassingbe-prend-part-aux-travaux-de-l-ai-global-summit-on-afric", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mentions data security and rights only as aims of planned projects; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only general mention of Novissi and AI initiatives in sectors; no government body AI system stated as piloted or in service."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Sectors are said to be targeted by AI initiatives; no tool stated piloted or in service."}}},
+"aistrategy": {"countries": {"TGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Togo's finance ministry page says the country is actively preparing a national Artificial Intelligence Strategy, alongside an international Data Lab and a Maison de l'Intelligence Artificielle.", "as_of": "2025-04-03", "date_precision": "day", "system": "Stratégie nationale d'Intelligence Artificielle", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Data Lab is only announced as being prepared, with no builder, funder or site named."}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Maison de l'IA is only announced; no hub or park stated."}}}
+}}

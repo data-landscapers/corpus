@@ -1,0 +1,10 @@
+{"slug": "2026-07-01-cpv-unico-projeto-arise-em-cabo-verde-apresenta-resultados-a-african-acade", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "A university research project, not a government body."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The University of Cabo Verde says its EU and AU-funded project tests wireless sensor networks and IoT and AI water management systems for agriculture, in year four of five.", "as_of": "2026-07", "date_precision": "month", "system": "SSWAxC4V", "class": "sectorai"}
+], "systems": [{"system": "SSWAxC4V", "country_label": "Cabo Verde", "class": "sectorai", "platform": "IoT and AI", "owner": "Universidade de Cabo Verde", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The University of Cabo Verde says it is building IoT and AI water-management systems in the SSWAxC4V project and runs RS2Lab, an IoT and AI laboratory inaugurated in November 2023.", "as_of": "2026-07", "date_precision": "month", "system": "SSWAxC4V", "class": "localai"}
+], "systems": [], "note": ""}}}
+}}

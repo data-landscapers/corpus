@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-20-com-le-projet-rehema-s-attaque-a-la-fragmentation-des-donnees-aux-comores",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Systeme d information pour la gestion de l education",
+       "class": "other",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": "A three-day workshop on harmonising databases for a single data reference; no system built, piloted or in service stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGE",
+       "country_label": "Systeme d information pour la gestion de l education",
+       "class": "other",
+       "platform": "",
+       "owner": "ministry",
+       "tiers": ""
+      }
+     ],
+     "note": "A three-day workshop on harmonising databases for a single data reference; no system built, piloted or in service stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government offices."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on school-level learner records."
+    }
+   }
+  }
+ }
+}

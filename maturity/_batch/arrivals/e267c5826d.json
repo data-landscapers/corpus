@@ -1,0 +1,11 @@
+{"slug":"2026-10-21-sa-crypto-assets-regulation-revised-draft","studies":{
+"businesspayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Not stated."}}},
+"centralbank":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"SARB role named only for crypto cross-border manual, not payment providers or a switch."}}},
+"consumerprotection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Crypto-asset rules only; not digital financial services consumer rules."}}},
+"crossborderpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Exchange-control draft on crypto cross-border flows; no payment corridor."}}},
+"g2ppayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Not stated."}}},
+"paymentslaw":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Crypto and capital-flow regulations are other, not a payments law."}}},
+"paymentsuptake":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Not stated."}}},
+"retailpayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Not stated."}}},
+"revenuecollection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Not stated."}}}
+}}

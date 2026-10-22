@@ -1,0 +1,17 @@
+{"slug": "2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No authentication service stated; only taxpayer biometric verification for profile updates."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Civil register link not mentioned."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No national ID enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Number at birth not mentioned."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Operation and ownership of the ID system not mentioned."}}},
+"idregisters": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Ministry of Finance says a 2025 amendment to Section 4 of the Tax Procedures Code Act provides for the NIN as the tax identification number for individuals, and a three-phase transition to NIN-based taxpayer login is under way.", "as_of": "2026-10-18", "date_precision": "day", "system": "URA taxpayer register", "class": "register"},
+{"sub_indicator": "registers", "aspect": "matching", "value": "reported", "fact": "The Ministry of Finance says that as of 30 September 2026, 2,130,814 NINs had been mapped to TINs out of 5,405,148 individual taxpayer records, about 39.4%.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer register", "class": "register"}
+], "systems": [{"system": "URA taxpayer register", "country_label": "Uganda", "class": "register", "platform": "", "owner": "Uganda Revenue Authority", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the national ID system's own issuance, biometrics or certification."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No electronic payment of taxes or fees stated; the portal is for updating taxpayer details."}}},
+"taxregister": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "The Ministry of Finance says the URA taxpayer register held about 5.7 million records at 30 June 2026, including about 5.4 million individuals.", "as_of": "2026-06-30", "date_precision": "day", "system": "URA taxpayer register", "class": "tax"},
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "The Ministry of Finance says a 2025 amendment to the Tax Procedures Code Act provides for the NIN as the TIN for individuals, with 2,130,814 NINs mapped to TINs by 30 September 2026.", "as_of": "2026-09-30", "date_precision": "day", "system": "URA taxpayer register", "class": "tax"}
+], "systems": [{"system": "URA taxpayer register", "country_label": "Uganda", "class": "tax", "platform": "", "owner": "Uganda Revenue Authority", "tiers": ""}], "note": ""}}}
+}}

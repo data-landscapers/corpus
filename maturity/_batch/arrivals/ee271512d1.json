@@ -1,0 +1,14 @@
+{"slug":"2025-09-25-nam-national-digital-strategy-pins-economic-freedom","studies":{
+"aiabuse":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Draft AI Bill is named but the document does not say it addresses a harm from AI."}}},
+"aigovernment":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No government AI use stated."}}},
+"ailaw":{"countries":{"NAM":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"The ICT ministry's Frans Nghitila, speaking at FIFAFRICA in Windhoek, said Namibia has formulated a draft Artificial Intelligence Bill.","as_of":"2025-09-24","date_precision":"day","system":"draft Artificial Intelligence Bill","class":"law"}],"systems":[{"system":"draft Artificial Intelligence Bill","country_label":"Namibia","class":"law","platform":"","owner":"Ministry of Information and Communication Technology","tiers":""}],"note":""}}},
+"aisectoral":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No locally built AI stated."}}},
+"dataprotectionlaw":{"countries":{"NAM":{"facts":[{"sub_indicator":"general","aspect":"standing","value":"drafting","fact":"The ICT ministry's Frans Nghitila said Namibia has formulated a draft Data Protection Bill.","as_of":"2025-09-24","date_precision":"day","system":"draft Data Protection Bill","class":"general"}],"systems":[],"note":""}}},
+"digitaldivides":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Digital divide mentioned as a challenge only; no programme or figures."}}},
+"digitalstrategy":{"countries":{"NAM":{"facts":[],"systems":[{"system":"National Digital Strategy","country_label":"Namibia","class":"national","platform":"","owner":"","tiers":""}],"note":"Strategy is named but its standing is not stated."}}},
+"ictstrategy":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No sector ICT policy described."}}},
+"opendiscussion":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a general mention of internet shutdowns, none in Namibia stated."}}},
+"policyresearch":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No local research institution stated."}}},
+"publicconsultation":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No consultation on a named digital law stated; a forum is not one."}}}
+}}

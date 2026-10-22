@@ -1,0 +1,7 @@
+{"slug": "2025-04-16-nga-nigeria-launches-national-ai-strategy-to-drive-ai-development-boost-pr", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says ethics and safety stay central to the collective's work; no rule or authority."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Communications, Innovation and Digital Economy Minister Bosun Tijani announced in Lagos the launch of Nigeria's National Artificial Intelligence Strategy, developed with government, academia and industry.", "as_of": "2025-04-15", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}], "systems": [{"system": "Nigeria Artificial Intelligence Collective", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The collective is a community of practice not tied to a government instrument, and the funding named is not tied to the strategy, so neither is recorded as body or money."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}
+}}

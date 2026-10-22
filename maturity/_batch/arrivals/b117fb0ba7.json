@@ -1,0 +1,13 @@
+{"slug": "2024-12-08-dza-merouane-debbah-president-du-conseil-scientifique-de-l-ia", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Interview says the strategy's fifth pillar covers regulation, but states no draft rule, rule in force or authority on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No government body's use of an AI system is stated; only plans to digitise public services."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Priority sectors are named as strategy aims; no sectoral AI tool is stated as piloted or in service."}}},
+"aistrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The president of the national AI scientific council says the first version of the national AI strategy, built on six pillars, has just been made public.", "as_of": "2024-12-08", "date_precision": "day", "system": "National AI strategy (first version)", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The national AI scientific council, created on 26 June 2023 with 28 experts under the higher education and knowledge economy ministries, is said by its president to play a central role in implementing the strategy.", "as_of": "2023-06-26", "date_precision": "day", "system": "Conseil scientifique national de l'IA", "class": "strategy"}
+], "systems": [{"system": "National AI strategy", "country_label": "Algeria", "class": "strategy", "platform": "", "owner": "Government of Algeria", "tiers": ""}, {"system": "Conseil scientifique national de l'IA", "country_label": "Algeria", "class": "other", "platform": "", "owner": "Ministries of higher education and of knowledge economy", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Computing centres and a national AI research centre are stated as plans or pillars; nothing built or in service."}}},
+"policyresearch": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A planned AI research centre is not a local institution researching or publishing on digital policy."}}},
+"startups": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a pillar on support mechanisms for local startups; no startup law, labelling or fund stated."}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Ambition to make Algeria a technology hub is stated; no hub, incubator or park is described."}}}
+}}

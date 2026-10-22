@@ -1,0 +1,7 @@
+{"slug": "2025-09-18-zaf-minister-leon-schreiber-presents-new-electronic-travel-authorisation-t", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "The Department of Home Affairs says its new Electronic Travel Authorisation, using machine learning to automate visa processes, will begin user acceptance testing at the end of September 2025, with a first phase for G20 delegates opening in mid-October.", "as_of": "2025-09-18", "date_precision": "day", "system": "Electronic Travel Authorisation (ETA)", "class": "govai"}], "systems": [{"system": "Electronic Travel Authorisation (ETA)", "country_label": "South Africa", "class": "govai", "platform": "machine-learning visa processing", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The ETA is a visa tool for general administration, not a named sector system in service."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or AI computing is stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document concerns a travel authorisation, not a national identity system."}}}
+}}

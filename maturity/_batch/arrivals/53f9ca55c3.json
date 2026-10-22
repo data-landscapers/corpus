@@ -1,0 +1,155 @@
+{
+ "slug": "2026-05-09-civ-cote-d-ivoire-is-betting-big-on-ai-and-facing-bigger-cyber-risks",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Ecofin Agency reports the National Artificial Intelligence Strategy (SNIA 2030) was adopted in March 2025, with a projected budget above 1 trillion CFA francs through 2030.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "SNIA 2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIA 2030",
+       "country_label": "Côte d'Ivoire",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Digital Transition",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Ecofin Agency reports that when the national AI strategy was being deployed, a public key infrastructure system was still under development in Côte d'Ivoire.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "public key infrastructure",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "public key infrastructure",
+       "country_label": "Côte d'Ivoire",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Ecofin Agency reports ANSSI, the National Agency for Information Systems Security, was established in October 2024 to protect critical infrastructure, coordinate incident response and regulate digital security, consolidating CI-CERT, the PLCC and the DITT.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "ANSSI",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "ANSSI",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Côte d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Côte d'Ivoire."
+    }
+   }
+  }
+ }
+}

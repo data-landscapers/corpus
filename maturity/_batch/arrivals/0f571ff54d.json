@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-14-civ-aip-decret-liberation-frequences-5g",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers a 5G spectrum decree only; nothing on this question."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers a 5G spectrum decree only; nothing on this question."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers a 5G spectrum decree only; nothing on this question."
+    }
+   }
+  }
+ }
+}

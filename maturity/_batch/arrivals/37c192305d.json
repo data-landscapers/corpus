@@ -1,0 +1,13 @@
+{"slug": "2025-01-01-som-local-consultant-for-the-development-of-artificial-intelligence-strate", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The terms of reference name no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No AI system in government administration is stated."}}},
+"ailaw": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No AI law or draft is stated."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "UN-ESCWA's terms of reference say the National Communication Authority asked ESCWA to help develop Somalia's national AI strategy and ESCWA is hiring a local consultant to draft it, for review at a national workshop.", "as_of": "2025", "date_precision": "year", "system": "national AI strategy in Somalia", "class": "strategy"}
+], "systems": [{"system": "national AI strategy in Somalia", "country_label": "Somalia", "class": "strategy", "platform": "", "owner": "National Communication Authority with UN-ESCWA", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"opendatapolicy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document is not about open data."}}},
+"opendatause": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document is not about open data."}}},
+"schoolinternet": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+}}

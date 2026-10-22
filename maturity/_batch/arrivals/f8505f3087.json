@@ -1,0 +1,7 @@
+{"slug": "2025-08-25-egy-egypt-to-integrate-ai-technologies-into-tax-system-eta-chief", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The AI plan is in tax administration, which this study excludes."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Egyptian Tax Authority head Rasha Abdel-Aal said the authority is preparing to integrate AI into its operations, has formed a task force for it, and that several AI pilot project ideas were approved for implementation in the coming phase.", "as_of": "2025-08-25", "date_precision": "day", "system": "ETA AI integration", "class": "sectorai"}], "systems": [{"system": "ETA AI integration", "country_label": "Egypt", "class": "sectorai", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI strategy mentioned."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}
+}}

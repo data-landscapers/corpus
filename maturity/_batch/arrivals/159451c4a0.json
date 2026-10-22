@@ -1,0 +1,10 @@
+{"slug": "2025-05-26-mrt-ouverture-de-la-conference-internationale-de-nouakchott-sur-l-ia", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Legal and ethical frameworks were a conference topic; no rule or authority is stated."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government body's use of an AI system is stated."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The minister speaks of AI entering diagnosis and crop monitoring in general terms, with no named public system."}}},
+"aistrategy": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The two-day Nouakchott international AI conference, opened by the higher-education ministry on 26 May 2025, was to present the national AI strategy and hold a round table on it; no adoption is stated.", "as_of": "2025-05-26", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}
+], "systems": [{"system": "National AI strategy", "country_label": "Mauritania", "class": "strategy", "platform": "", "owner": "Government of Mauritania", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The computer assembly line accord is not AI capacity; no AI model, dataset or computing is stated."}}},
+"schoolinternet": {"countries": {"MRT": {"facts": [], "systems": [], "note": "States no school internet figure and no compulsory digital subject."}}}
+}}

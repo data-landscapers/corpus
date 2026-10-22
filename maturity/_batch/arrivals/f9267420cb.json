@@ -1,0 +1,7 @@
+{"slug": "2026-02-01-bfa-advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The AI tool is in health, which this study excludes."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "National TB Program coordinator Dr Saidou Gnanou said CAD4TB AI was introduced in 2024 to read images from the programme's mobile digital X-ray units used in field campaigns.", "as_of": "2024", "date_precision": "year", "system": "CAD4TB", "class": "sectorai"}, {"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "Gnanou reported that from September 2024 to April 2025, 1,730 people were screened and 61 TB cases found, with CAD4TB flagging 50 suspected cases, 37 confirmed by AI and pulmonologist, and 13 of the 50 turning out not to be TB.", "as_of": "2025-04", "date_precision": "month", "system": "CAD4TB", "class": "sectorai"}], "systems": [{"system": "CAD4TB", "country_label": "Burkina Faso", "class": "sectorai", "platform": "mobile digital X-ray", "owner": "National Tuberculosis Program", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No AI strategy mentioned."}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "CAD4TB is a foreign product; nothing built in the country."}}}
+}}

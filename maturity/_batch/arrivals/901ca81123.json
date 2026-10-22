@@ -1,0 +1,8 @@
+{"slug": "2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires", "studies": {
+"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "AI is named only in a health emergency centre, a sector system."}}},
+"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Plateforme numerique de suivi des alertes du COU-SP", "country_label": "Guinee", "class": "other", "platform": "", "owner": "ANSS / Ministere de la Sante et de l'Hygiene publique", "tiers": ""}], "note": "Only a training course on AI tools is stated; no AI tool is said to run in the health system."}}},
+"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"civilserviceskills": {"countries": {"GIN": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Ministry of Health and Public Hygiene, through the ANSS with IOM Guinea and US CDC funding, launched a training for several health-sector officials in practical use of AI for document analysis, data, alert tracking and decision support in the public health emergency operations centre.", "as_of": "2026-09", "date_precision": "month", "system": "Formation IA du COU-SP", "class": "csskills"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Training is for health officials, not the public."}}}
+}}

@@ -1,0 +1,178 @@
+{
+ "slug": "2025-12-22-gin-guinea-validates-10-year-national-ai-roadmap",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Guinea's ICT ministry said on 20 December 2025 that it validated a national AI roadmap for 2026-2035 after a 19 December workshop with UNDP; the source reports validation and no adoption or launch by the government.",
+       "as_of": "2025-12-20",
+       "date_precision": "day",
+       "system": "national AI roadmap 2026-2035",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national AI roadmap 2026-2035",
+       "country_label": "Guinea",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry in charge of ICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Guinea."
+    }
+   }
+  }
+ }
+}

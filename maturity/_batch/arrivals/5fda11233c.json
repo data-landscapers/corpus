@@ -1,0 +1,187 @@
+{
+ "slug": "2026-10-21-sa-mymzansi-citizen-services-r150m",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "ITWeb reports that the MzansiXchange government data exchange is largely in its piloting phase, to enable cross-government beneficiary verification through integration with the National Population Register and SARS, per the 2026 AENE.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "MzansiXchange",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MzansiXchange",
+       "country_label": "South Africa",
+       "class": "exchange",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  }
+ }
+}

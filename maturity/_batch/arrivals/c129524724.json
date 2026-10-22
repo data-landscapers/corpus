@@ -1,0 +1,21 @@
+{"slug": "2026-10-21-burundi-explore-seoul-identite-numerique", "studies": {
+"aiabuse": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aigovernment": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisectoral": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisystems": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Digital authentication was only discussed with Korea; no service is authorised, contracted or piloted."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"datacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Data centres were only a topic of talks; no facility for hire is stated."}}},
+"dataexchange": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The report says Burundi has engaged World Bank-backed work on interconnecting administrations, and that the PAFEN project provides for a data exchange infrastructure between administrations.", "as_of": "2026-10-21", "date_precision": "day", "system": "PAFEN data exchange infrastructure between administrations", "class": "exchange"}
+], "systems": [{"system": "PAFEN", "country_label": "Burundi", "class": "exchange", "platform": "", "owner": "World Bank-supported project", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a data hosting strategy to be prepared under PAFEN is mentioned; no adopted strategy, rule or hosting."}}},
+"egovservices": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No online service is named."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No ID system operation is described."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on registers keyed on an ID number."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a national digital ID strategy being prepared; the 2020 diagnostic cited is outside the window and no system is described."}}},
+"interoperabilitylaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No law or decree on data sharing is mentioned."}}},
+"nationaldatacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Data centres were only a topic of talks; no facility is stated."}}}
+}}

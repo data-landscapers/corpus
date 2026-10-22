@@ -1,0 +1,116 @@
+{
+ "slug": "2024-12-08-dza-l-algerie-adopte-une-strategie-nationale-de-l-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Algerie Eco reports the national artificial intelligence strategy was adopted on Saturday 2024-12-07 in Algiers, announced at the close of the 3rd African Start-up Conference, with six axes and priority sectors of agriculture, health and industry.",
+       "as_of": "2024-12-07",
+       "date_precision": "day",
+       "system": "strat\u00e9gie nationale de l'intelligence artificielle",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "use",
+       "value": "funded",
+       "fact": "Professor Merouane Debbah of the AI Scientific Council said public authorities have allocated a special budget (no amount given) to implement the strategy.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "strat\u00e9gie nationale de l'intelligence artificielle",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "strat\u00e9gie nationale de l'intelligence artificielle",
+       "country_label": "Algeria",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The advisory AI Scientific Council is not stated to carry out the strategy, so no body is recorded."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

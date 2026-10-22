@@ -1,0 +1,68 @@
+{
+ "slug": "2025-06-26-stp-unesco-considera-que-stp-pode-aproveitar-a-inteligencia-artificial-par",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "PM calls for a national AI strategy to be drawn up and approved: a stated intention with no drafting begun; the UNESCO readiness assessment is noted only."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "INIC has a Data Center below the desired standard; no hire to others or Tier is stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "INIC has a Data Center below the desired standard; no hire to others or Tier is stated."
+    }
+   }
+  }
+ }
+}

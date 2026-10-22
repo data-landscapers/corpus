@@ -1,0 +1,22 @@
+{"slug": "2026-10-01-uga-govt-to-launch-national-ai-strategy-this-year", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "NITA-U's Julian Rweju said the Bank of Uganda has recently rolled out specific regulations to support and govern AI within the financial sector.", "as_of": "2026-10-01", "date_precision": "day", "system": "Bank of Uganda AI regulations", "class": "aiharm"}
+], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "NITA-U's Julian Rweju said government is using AI on its core platforms to generate predictive reports from National ID logins on the portal and e-services, to customise services.", "as_of": "2026-10-01", "date_precision": "day", "system": "AI on NITA-U e-services portal", "class": "govai"}
+], "systems": [{"system": "AI on NITA-U e-services portal", "country_label": "Uganda", "class": "govai", "platform": "National ID portal", "owner": "NITA-U", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The AI uses named are on general e-services and ID, not a sector's public system."}}},
+"aistrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Government is set to launch a national AI strategy before year end, but no drafting, consultation or adoption is stated."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "States the country adopts off-the-shelf technology; no local AI development stated."}}},
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "National ID login to the portal is mentioned only as a data source; no authentication service is described."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on a civil register and ID link."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Regulators rely on the Data Protection and Privacy Act for AI, but no standing, regulation or application is stated about the law."}}},
+"egovservices": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No services portal or count of online services stated."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on who operates the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "AI matching of same-name citizens by biometrics is mentioned without describing the ID system's enrolment checks."}}},
+"idverification": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No service checking people against the national ID is described."}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on who builds or runs government systems."}}}
+}}

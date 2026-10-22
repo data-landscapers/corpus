@@ -1,1 +1,14 @@
-{"slug": "2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i", "studies": {"agrisatellite": {"countries": {"EGY": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "Egypt Today reports the Ministry of Irrigation and Water Resources said a pilot of a satellite image analysis system producing crop type maps for irrigation water distribution and crop growth monitoring had begun in Kafr El Sheikh governorate.", "as_of": "2024-06-11", "date_precision": "day", "system": "Satellite crop type mapping pilot", "class": "agrisat"}], "systems": [{"system": "Satellite crop type mapping pilot", "country_label": "Egypt", "class": "agrisat", "platform": "machine learning on satellite images; RIBASIM for water distribution", "owner": "Ministry of Irrigation and Water Resources", "tiers": "Kafr El Sheikh pilot"}], "note": ""}}}, "aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority on AI harms."}}}, "aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The machine-learning tool serves irrigation, a sector system, not general administration."}}}, "aisectoral": {"countries": {"EGY": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Egypt Today reports the Ministry of Irrigation and Water Resources began a pilot in Kafr El Sheikh developing machine-learning algorithms that produce crop type maps from satellite images to guide irrigation water distribution.", "as_of": "2024-06-11", "date_precision": "day", "system": "Satellite crop type mapping pilot", "class": "sectorai"}], "systems": [{"system": "Satellite crop type mapping pilot", "country_label": "Egypt", "class": "sectorai", "platform": "machine learning", "owner": "Ministry of Irrigation and Water Resources", "tiers": "pilot"}], "note": ""}}}, "aisystems": {"countries": {"EGY": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Egypt Today reports the Ministry of Irrigation and Water Resources is developing machine-learning algorithms for crop type mapping in a pilot in Kafr El Sheikh governorate.", "as_of": "2024-06-11", "date_precision": "day", "system": "Satellite crop type mapping pilot", "class": "localai"}], "systems": [], "note": ""}}}}}
+{
+ "slug": "2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Irrigation ministry crop-mapping pilot, not the national weather service."
+    }
+   }
+  }
+ }
+}

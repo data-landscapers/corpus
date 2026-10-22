@@ -1,0 +1,12 @@
+{"slug": "2026-10-20-zmb-zambia-advances-customs-system-upgrade-to-improve-trade-processing", "studies": {
+"coresystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Customs system only, which this study sets aside; no core finance, tax or payroll system stated."}}},
+"customs": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "underway", "fact": "The Zambia Revenue Authority outlined on 19 October 2026 next steps (system assessments, pilot testing, officer training) in moving from ASYCUDA World to ASY5 under an UNCTAD project agreed in December 2025, with no completion date set.", "as_of": "2026-10-19", "date_precision": "day", "system": "ASYCUDA World to ASY5", "class": "customs"},
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The UN Global Survey on Digital and Sustainable Trade Facilitation found Zambia had fully implemented automated customs processing and electronic submission of customs declarations; the ZRA processed about 1.35 million customs entries in 2025.", "as_of": "2025", "date_precision": "year", "system": "ASYCUDA World", "class": "customs"}
+], "systems": [{"system": "ASYCUDA World", "country_label": "Zambia", "class": "customs", "platform": "ASYCUDA", "owner": "Zambia Revenue Authority", "tiers": ""}, {"system": "ASY5", "country_label": "Zambia", "class": "customs", "platform": "ASYCUDA", "owner": "Zambia Revenue Authority", "tiers": ""}], "note": ""}}},
+"educationexchange": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says nothing on education."}}},
+"educationmis": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says nothing on education."}}},
+"health": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says nothing on health."}}},
+"healthmis": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says nothing on health."}}},
+"schools": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says nothing on schools."}}}
+}}

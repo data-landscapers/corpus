@@ -1,0 +1,8 @@
+{"slug": "2024-08-26-lbr-first-lady-dedicates-four-ai-x-ray-machines-for-tb-diagnosis", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The AI is in hospital TB care, not general administration."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Executive Mansion says four AI X-ray machines for TB screening, donated with Global Fund support, were dedicated and distributed to four hospitals in Montserrado and Margibi, producing TB reports in under 15 seconds.", "as_of": "2024-08-26", "date_precision": "day", "system": "AI X-ray machines for TB screening", "class": "sectorai"}
+], "systems": [{"system": "AI X-ray machines for TB screening", "country_label": "Liberia", "class": "sectorai", "platform": "AI-enabled X-ray", "owner": "Ministry of Health", "tiers": "TB Annex, JFK Medical Center, Redemption Hospital, C. H. Rennie Hospital"}], "note": ""}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Donated equipment; no local development or computing stated."}}}
+}}

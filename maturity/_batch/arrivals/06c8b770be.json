@@ -1,0 +1,7 @@
+{"slug": "2024-11-21-zmb-artificial-intelligence-strategy-launched-a-steppingstone-to-wealth-an", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only expectations that AI will improve public service delivery; no system named."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Health, agriculture and education benefits are expected, no tool is named."}}},
+"aistrategy": {"countries": {"ZMB": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Technology and Science launched the Artificial Intelligence Strategy in Lusaka, with Minister Felix Mutati presiding, supported by Finland and the Tony Blair Institute.", "as_of": "2024-11-21", "date_precision": "day", "system": "Artificial Intelligence Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}
+}}

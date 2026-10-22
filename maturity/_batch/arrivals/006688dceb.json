@@ -1,0 +1,10 @@
+{"slug": "2025-05-20-civ-cote-d-ivoire-le-gouvernement-signe-avec-le-secteur-prive-trois-accord", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training of civil servants on AI is a course, not a system in use."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Xinhua reports that Cote d'Ivoire's digital transition ministry signed three memoranda with the private sector on 19 May 2025 to speed implementation of the existing National AI Strategy (SNIA).", "as_of": "2025-05-19", "date_precision": "day", "system": "Strategie nationale de l'intelligence artificielle (SNIA)", "class": "strategy"}
+], "systems": [{"system": "Strategie nationale de l'intelligence artificielle (SNIA)", "country_label": "Cote d'Ivoire", "class": "strategy", "platform": "", "owner": "Ministere de la Transition numerique et de la Digitalisation", "tiers": ""}], "note": "The memoranda are not stated to carry public money; the ministry is not named as the strategy's executing body."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Digital sovereignty appears only as an aim of the memoranda; no policy, rule or hosting stated."}}}
+}}

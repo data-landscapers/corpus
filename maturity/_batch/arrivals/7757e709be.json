@@ -1,0 +1,6 @@
+{"slug": "2025-06-12-cmr-visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A staff wellness device, not administration of services."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [{"system": "AI Doctor", "country_label": "Cameroon", "class": "other", "platform": "AI check-up device", "owner": "CNPS", "tiers": ""}], "note": "Staff wellness check-ups whose results CNPS says are not medical, not a public sector system's output."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No local AI development or computing stated."}}}
+}}

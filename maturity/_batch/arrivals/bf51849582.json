@@ -1,0 +1,11 @@
+{"slug":"2026-10-21-nga-nibss-transactility-s-partnership-delivers-national-payment-stack","studies":{
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Article is about the payment stack, not procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[{"system":"National Payment Stack (NPS)","country_label":"Nigeria","class":"other","platform":"jPOS/jPTS","owner":"NIBSS (owned by CBN and licensed banks)","tiers":""}],"note":"States NIBSS ownership by CBN and banks but no central bank licensing or oversight act."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on consumer rules or redress."}}},
+"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No cross-border element stated."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"idmaintenance":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No ID system stated."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey figures stated."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Premium Times reports NIBSS has rolled out the National Payment Stack, an ISO 20022 instant payments platform supporting account-to-account instant transfers, QR merchant payments, alias addressing and bulk payments.","as_of":"2026-10-21","date_precision":"day","system":"National Payment Stack","class":"retail"}],"systems":[{"system":"National Payment Stack (NPS)","country_label":"Nigeria","class":"retail","platform":"jPOS/jPTS (open source, Transactility)","owner":"NIBSS","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

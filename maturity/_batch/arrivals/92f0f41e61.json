@@ -1,0 +1,8 @@
+{"slug": "2025-06-05-bwa-u-s-brings-high-tech-tools-to-botswana-infectious-disease-fight", "studies": {
+"aiabuse": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on AI harms is stated."}}},
+"aigovernment": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The only AI named is a health-sector tool, which belongs to the sectoral study."}}},
+"ailaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No law or rule on AI is mentioned."}}},
+"aisectoral": {"countries": {"BWA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The U.S. Embassy says PEPFAR through the CDC recently donated AI software for tuberculosis detection to Botswana's Ministry of Health, expected to improve the efficiency and accuracy of TB case identification; no use in service is stated.", "as_of": "2025-06", "date_precision": "month", "system": "AI tuberculosis-detection software", "class": "sectorai"}], "systems": [{"system": "AI tuberculosis-detection software", "country_label": "Botswana", "class": "sectorai", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No AI strategy is mentioned."}}},
+"aisystems": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The software is a foreign donation; no local development is stated."}}}
+}}

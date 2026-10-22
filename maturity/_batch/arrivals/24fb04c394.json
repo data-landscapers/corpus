@@ -1,0 +1,29 @@
+{"slug": "2025-09-10-ken-kenya-s-efforts-in-ai-and-implementation-plan-of-the-kenyan-national-a", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Ethics standards, a risk institute and an AI Act are only planned in the strategy."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only AI skilling of public servants is stated; no AI system in government use."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Information, Communications and the Digital Economy launched the Kenya National Artificial Intelligence Strategy 2025-2030 in March 2025, a five-year plan.", "as_of": "2025-03", "date_precision": "month", "system": "Kenya Artificial Intelligence Strategy 2025-2030", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "funded", "fact": "CIPIT, citing ITWeb Africa, says the government has allocated USD 1.19 billion (Ksh 152 billion) to the National AI Strategy to 2030, 50% of it for AI infrastructure.", "as_of": "2025-09-10", "date_precision": "day", "system": "Kenya Artificial Intelligence Strategy 2025-2030", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "AI data centres and local models are planned in the strategy with no named site or builder; Konza's data centre is not stated to have AI computing."}}},
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on an authentication service."}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Kenya announced an AI skilling project to train 100,000 public servants, with a Project Implementation Board for the Regional Centre of Competence on Digital and AI Skilling for Public Service set up and programmes being finalised by July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "AI skilling project for public servants", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"cybersecurity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A National Cybersecurity Operation Centre and AI threat systems are only proposed in the strategy."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Konza is said to house Kenya's data centre, but it is not stated to rent to others; three AI data centres are only planned."}}},
+"datagovernance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A national data policy is only called for in the AI strategy; no drafting is stated."}}},
+"datalocalisation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Enhancing data residency requirements is only a planned strategy project."}}},
+"datatransfers": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Harmonising East African laws for cross-border transfer is only planned."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Curricula and training programmes for citizens are planned; none is stated in service."}}},
+"digitalsovereignty": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated that settles the study's questions."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a planned inclusivity framework."}}},
+"ictproduction": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Local device assembly and a semiconductor facility are only planned."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on who builds or runs government systems."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Konza's data centre is not stated to be for hire."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Public participation in AI policy making is only planned."}}},
+"qualitystandards": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Data and ethical AI standards are only planned."}}},
+"startups": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only planned AI startup support and a toolkit; no startup law or fund stated."}}},
+"techhubs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Hub upgrades and AI centres are planned; Konza is not stated to have tenants."}}}
+}}

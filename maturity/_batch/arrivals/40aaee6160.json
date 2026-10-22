@@ -1,0 +1,9 @@
+{"slug": "2024-09-10-zwe-boosting-tb-dectection-in-rural-zimbabwe-using-infervision-s-ai-and-ul", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The only AI use stated is in health, which belongs to the sector study."}}},
+"ailaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document states no AI law or draft."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Infervision, a vendor, says that since 2024 Zimbabwe's Ministry of Health and Child Care has used its InferRead AI chest X-ray reading with InferAir portable X-ray in a TB screening project in Gweru, with over 2,600 people screened daily.", "as_of": "2024", "date_precision": "year", "system": "InferAir with InferRead", "class": "sectorai"}], "systems": [{"system": "InferAir with InferRead", "country_label": "Zimbabwe", "class": "sectorai", "platform": "AI chest X-ray computer-aided detection with portable X-ray", "owner": "Infervision with the Ministry of Health and Child Care", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document states nothing on a national AI strategy."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The AI product is a foreign vendor's; no local development or computing is stated."}}},
+"datalocalisation": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document states no data localisation rule."}}}
+}}

@@ -1,0 +1,12 @@
+{"slug": "2024-12-23-som-using-ai-to-support-people-and-services-during-natural-disasters", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The AI tool is a disaster early-warning system, a sector tool, not general administration."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Diginomica reports that the Shaqodoon Organization's AI-enhanced Saadaal early-warning system, rolled out in April 2024, runs weather and historical data through an AI agent to produce reports for the Ministry of Humanitarian Affairs and Disaster Management in a south-western state, which sends toll-free voice alerts to communities and farmers.", "as_of": "2024-04", "date_precision": "month", "system": "Saadaal", "class": "sectorai"}
+], "systems": [{"system": "Saadaal", "country_label": "Somalia", "class": "sectorai", "platform": "AI agent with dashboard", "owner": "Shaqodoon Organization (NGO)", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The AI enhancement was built with pro bono private-sector engineers of an accelerator; no local model, dataset or AI computing is stated."}}},
+"disabilityaccess": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The disability material concerns a non-African organisation; nothing on Somalia."}}},
+"ictjobs": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No ICT employment share or youth unemployment survey figure is stated (a 90% youth unemployment figure for 2011 is not from a labour force survey)."}}},
+"startups": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No startup law, labelling or public fund is stated."}}},
+"techhubs": {"countries": {"SOM": {"facts": [], "systems": [], "note": "An NGO is setting up a digital learning academy; no hub, incubator or park is described."}}}
+}}

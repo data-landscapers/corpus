@@ -1,5 +1,61 @@
-{"slug": "2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a", "studies": {
-"aisectoral": {"countries": {"RWA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A MININFRA official says the ministry and the Rwanda Housing Authority released on 4 November 2025 an AI agent on Kubaka.gov.rw, the national building permits platform, that reviews design documents against the Building Code and zoning rules, with an instant yes or no for applicants promised only 'in the near future'.", "as_of": "2025-11-04", "date_precision": "day", "system": "AI agent on Kubaka.gov.rw", "class": "sectorai"}], "systems": [{"system": "Kubaka.gov.rw", "country_label": "Rwanda", "class": "other", "platform": "national building permits platform", "owner": "MININFRA and Rwanda Housing Authority", "tiers": ""}], "note": ""}}},
-"eparticipation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on online public participation in policy."}}},
-"publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on consultation on a digital law or policy."}}}
-}}
+{
+ "slug": "2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "A MININFRA official posted that the ministry and Rwanda Housing Authority released an AI agent on the Kubaka.gov.rw permits platform that reviews architectural designs for compliance with the Building Code and zoning rules.",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "Kubaka AI agent",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kubaka AI agent",
+       "country_label": "Rwanda",
+       "class": "govai",
+       "platform": "Kubaka.gov.rw",
+       "owner": "MININFRA and Rwanda Housing Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI strategy stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Post does not say an AI model, dataset or computing is built or hosted in the country."
+    }
+   }
+  }
+ }
+}

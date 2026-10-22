@@ -1,0 +1,124 @@
+{
+ "slug": "2025-08-28-zmb-zambia-rolls-out-a-i-blueprint-to-boost-economy-jobs",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harm rules or an authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Pilots in government are part of the strategy's plan, not stated as under way."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an aim to regulate AI use; no draft or rule stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Sector pilots are planned in the strategy, not stated as under way."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The document refers to Zambia's National AI Strategy (2024-2026) and says the Ministry of Technology and Science announced an AI Center of Excellence in September 2024 following its adoption.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "National AI Strategy (2024-2026)",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI Center of Excellence, University of Zambia",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Technology and Science with Google and ZAMREN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI Center of Excellence is named with no model, dataset or computing stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No training for civil servants stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an aim to improve data protection; no law stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital skills training is an aim of the plan, not a programme stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, fund or labelling stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Innovation hubs are a plan; Zambian hubs are not stated as built or open."
+    }
+   }
+  }
+ }
+}

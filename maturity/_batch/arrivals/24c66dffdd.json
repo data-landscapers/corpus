@@ -1,0 +1,28 @@
+{
+ "slug": "2026-10-18-cod-au-beach-ngobila-de-kinshasa-la-technologie-renforce-le-bouclier-sanita",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "PDX is a border-screening data platform; no AI stated."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "PDX is Ebola passenger screening at one crossing, not the national routine health reporting system."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a screening system due in Brazzaville is mentioned; not a national health management information system."
+    }
+   }
+  }
+ }
+}

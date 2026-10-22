@@ -1,0 +1,5 @@
+{"slug": "2026-09-08-cmr-leconomie-plan-directeur-digitalisation-marches-publics", "studies": {
+"aistrategy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document is about a public procurement digitalisation master plan; no AI strategy is mentioned."}}},
+"datagovernance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No national data policy is mentioned."}}},
+"digitalstrategy": {"countries": {"CMR": {"facts": [], "systems": [{"system": "Plan directeur national de digitalisation du système d'information des marchés publics", "country_label": "CMR", "class": "ministry-plan", "platform": "", "owner": "Ministère des Marchés publics, AfDB-funded", "tiers": ""}], "note": "Document covers a procurement-only master plan under an AfDB-backed project, not a national digital strategy."}}}
+}}

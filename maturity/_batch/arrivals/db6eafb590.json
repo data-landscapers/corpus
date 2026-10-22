@@ -1,0 +1,70 @@
+{
+ "slug": "2026-04-01-uga-govt-ai-strategy-will-be-ready-by-june-says-ict-ministry",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "An AI policy and regulation is only said to be coming; no draft is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Daily Monitor reports the Ministry of ICT and National Guidance is drafting the Artificial Intelligence and Emerging Technologies Strategy, per Permanent Secretary Aminah Zawedde.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "Artificial Intelligence (AI) and Emerging Technologies Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Data Strategy is mentioned as done first, but its adoption or status is not stated."
+    }
+   }
+  }
+ }
+}

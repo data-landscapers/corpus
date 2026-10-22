@@ -1,12 +1,21 @@
 {
  "slug": "2026-10-20-nga-ncc-device-verification-questions-nigeria-s-phone-imports",
  "studies": {
-  "consumerprotection": {
+  "internationalstandards": {
    "countries": {
     "NGA": {
      "facts": [],
      "systems": [],
-     "note": "Document covers phone type-approval checks, not digital financial services rules or redress."
+     "note": "Nothing on international standards bodies or standards."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NCC type approval is a telecoms regulator equipment rule, not a national IT standard or certification."
     }
    }
   }

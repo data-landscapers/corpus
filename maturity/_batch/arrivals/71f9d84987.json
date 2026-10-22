@@ -1,0 +1,8 @@
+{"slug": "2026-04-01-cpv-missoes-medicas-do-projeto-continuidade-dos-eua-reforcam-saude-em-cabo", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The AI is in health care, not general administration."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Cabo Verdean American Medical Society, working with the Ministry of Health, says it has distributed cloud ECG devices across all islands that make automatic diagnoses with AI, and that AI lets nurses diagnose cataracts, glaucoma and retinopathy.", "as_of": "2026-04", "date_precision": "month", "system": "AI-read cloud ECGs and AI eye screening", "class": "sectorai"}
+], "systems": [{"system": "AI-read cloud ECGs and AI eye screening", "country_label": "Cabo Verde", "class": "sectorai", "platform": "cloud ECG", "owner": "Cabo Verdean American Medical Society", "tiers": "all islands"}], "note": ""}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Imported devices; no local development stated."}}}
+}}

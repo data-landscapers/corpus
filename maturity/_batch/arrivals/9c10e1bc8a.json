@@ -1,0 +1,34 @@
+{"slug": "2026-10-20-xca-eccas-validates-regional-data-governance-framework-to-advance-digital", "studies": {
+"datagovernance": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Regional framework only; no national data policy stated."},
+"COG": {"facts": [], "systems": [], "note": "Regional framework only; no national data policy stated."},
+"GNQ": {"facts": [], "systems": [], "note": "Regional framework only; no national data policy stated."}}},
+"dataprotectionlaw": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "No national data protection law is stated."},
+"COG": {"facts": [], "systems": [], "note": "No national data protection law is stated."},
+"GNQ": {"facts": [], "systems": [], "note": "No national data protection law is stated."}}},
+"digitalsovereignty": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Only a regional framework aim; nothing on the country's own state data."},
+"COG": {"facts": [], "systems": [], "note": "Only a regional framework aim; nothing on the country's own state data."},
+"GNQ": {"facts": [], "systems": [], "note": "Only a regional framework aim; nothing on the country's own state data."}}},
+"interoperability": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "No national interoperability framework is stated."},
+"COG": {"facts": [], "systems": [], "note": "No national interoperability framework is stated."},
+"GNQ": {"facts": [], "systems": [], "note": "No national interoperability framework is stated."}}},
+"interoperabilitystandards": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Regional standards pillar only; no national standards stated."},
+"COG": {"facts": [], "systems": [], "note": "Regional standards pillar only; no national standards stated."},
+"GNQ": {"facts": [], "systems": [], "note": "Regional standards pillar only; no national standards stated."}}},
+"publicconsultation": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Workshops were of officials and partners; no outside-government participant named for the country."},
+"COG": {"facts": [], "systems": [], "note": "Workshops were of officials and partners; no outside-government participant named for the country."},
+"GNQ": {"facts": [], "systems": [], "note": "Workshops were of officials and partners; no outside-government participant named for the country."}}},
+"regionallaw": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "The framework is a validated regional document, not a signed or ratified legal text."},
+"COG": {"facts": [], "systems": [], "note": "The framework is a validated regional document, not a signed or ratified legal text."},
+"GNQ": {"facts": [], "systems": [], "note": "The framework is a validated regional document, not a signed or ratified legal text."}}},
+"regionalpolicy": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Douala workshop is not stated to be hosted by the country; no act of its own named."},
+"COG": {"facts": [], "systems": [], "note": "Brazzaville workshop was organised by ECA with ECCAS; the government is not stated as host."},
+"GNQ": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Equatorial Guinea currently chairs the rotating ECCAS presidency, and its Director General of Telecommunications, Celedonio Nguema Angono, spoke for it at the 19-20 October 2026 Brazzaville validation of the ECCAS Regional Data Governance Framework.", "as_of": "2026-10-20", "date_precision": "day", "system": "ECCAS rotating presidency", "class": "cooperation"}], "systems": [], "note": ""}}}
+}}

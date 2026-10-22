@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registry digitisation only, not this register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registry digitisation only, not this register."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registry digitisation only, not this register."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers civil-registry digitisation only, not this register."
+    }
+   }
+  }
+ }
+}

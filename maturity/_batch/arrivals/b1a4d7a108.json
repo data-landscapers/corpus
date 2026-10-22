@@ -1,0 +1,23 @@
+{"slug": "2026-10-21-zaf-sabs-publishes-draft-ai-standards-for-public-comment", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Draft AI standards are voluntary, with no legal effect; no AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI in public sector systems."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Adopts foreign standards only; no AI model, dataset or computing stated."}}},
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"eparticipation": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "eparticipation", "aspect": "online", "value": "asked", "fact": "The South African Bureau of Standards published draft AI standards, technical specifications and technical reports for public comment by 10 November 2026, by email on a commenting template, according to a Werksmans explainer carried by Polity.", "as_of": "2026-10-21", "date_precision": "day", "system": "SABS draft AI standards comment call", "class": "eparticipation"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"internationalstandards": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "ISO/IEC adoptions are drafts out for comment, not yet national standards; no ISO or IEC membership or participation stated."}}},
+"interoperabilitystandards": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI standards for organisations, not standards for government systems to exchange data."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The South African Bureau of Standards invited organisations that develop or use AI and other interested parties to comment on its draft AI standards by 10 November 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "SABS draft AI standards comment call", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"qualitystandards": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "SABS is not stated to be set up by law, and the AI standards are drafts out for comment."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

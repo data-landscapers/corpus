@@ -1,0 +1,10 @@
+{"slug": "2026-02-03-lso-lena-world-governments-summit-ai-policy-approved", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The policy is described as setting a governance framework; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Lesotho's ICT minister told the 2026 World Governments Summit that the government approved the National Artificial Intelligence Policy in the second half of 2025.", "as_of": "2025", "date_precision": "year", "system": "National Artificial Intelligence Policy", "class": "strategy"}
+], "systems": [{"system": "National Artificial Intelligence Policy", "country_label": "Lesotho", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitaldivides": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The minister spoke on bridging the digital divide but states no programme or figure."}}}
+}}

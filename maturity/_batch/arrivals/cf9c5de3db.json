@@ -1,21 +1,48 @@
 {
  "slug": "2026-10-20-medusa-submarine-cable-system-completes-shore-end-installation-in-liby",
  "studies": {
-  "internationalbandwidth": {
+  "broadbandstrategy": {
    "countries": {
     "LBY": {
      "facts": [],
-     "systems": [
-      {
-       "system": "Medusa",
-       "country_label": "Libya",
-       "class": "other",
-       "platform": "submarine cable",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "Medusa shore end installed at Benghazi with the main cable still to lay; no route stated in service."
+     "systems": [],
+     "note": "The document reports a Medusa cable shore-end installation at Benghazi; it states nothing this study asks."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports a Medusa cable shore-end installation at Benghazi; it states nothing this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports a Medusa cable shore-end installation at Benghazi; it states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports a Medusa cable shore-end installation at Benghazi; it states nothing this study asks."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document reports a Medusa cable shore-end installation at Benghazi; it states nothing this study asks."
     }
    }
   }

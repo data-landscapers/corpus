@@ -1,0 +1,135 @@
+{
+ "slug": "2025-10-10-cod-la-rdc-lance-la-redaction-de-son-plan-national-du-numerique-2026-2030",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "On 8 October 2025 the Minister of Digital Economy launched the interinstitutional commission to write the first national AI strategy, alongside the national digital plan 2026-2030.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Stratégie nationale de l'intelligence artificielle",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "On 8 October 2025 the Minister of Digital Economy launched the commission writing the Plan national du numérique 2026-2030 (PNN 2), with four pillars and five cross-cutting axes.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Plan national du numérique 2026-2030 (PNN 2)",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks; plans only or nothing on the topic."
+    }
+   }
+  }
+ }
+}

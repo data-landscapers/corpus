@@ -1,0 +1,10 @@
+{"slug": "2024-02-07-sle-educaid-fab-data", "studies": {
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [{"system": "TheTeacher.AI", "country_label": "Sierra Leone", "class": "other", "platform": "WhatsApp chatbot on GPT-3.5-turbo", "owner": "Fab Data", "tiers": ""}], "note": "Pilot by a start-up and an NGO with teachers; no government body named as user."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Chatbot built by a UK-based start-up on a foreign model; no model, dataset or computing built or hosted in the country stated."}}},
+"civilserviceskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Chatbot training for teachers in a pilot by an NGO; not a government civil service programme."}}},
+"digitalskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Prompt training for 195 pilot teachers is a one-off NGO pilot, not a national programme for the public."}}},
+"disabilityaccess": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a hope that voice technology may reduce barriers; no law, programme or service."}}},
+"schoolinternet": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No share of schools with internet and no curriculum statement."}}},
+"startups": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a startup law, strategy or public fund."}}},
+"techhubs": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No hub, incubator or park in Sierra Leone described."}}}
+}}

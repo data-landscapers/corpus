@@ -1,0 +1,7 @@
+{"slug": "2026-02-15-mli-concertation-sur-l-ia-cap-sur-une-adoption-responsable-et-contextualis", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "A consultation names an ethical and regulatory framework as an axis; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Pilot projects in health, agriculture, education and enterprise are only announced in a roadmap."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No model, dataset or AI computing is named; the roadmap axis on data and infrastructure is a plan without builder or site."}}},
+"digitalsovereignty": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Sovereignty is mentioned in general terms only; no strategy, rule or hosting of state data is stated."}}}
+}}

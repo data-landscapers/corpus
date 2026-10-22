@@ -1,0 +1,11 @@
+{"slug":"2026-08-01-eth-building-an-ai-powered-clinical-advisor-to-strengthen-frontline-health","studies":{
+"aiabuse":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Document states nothing on rules or authority over AI harms."}}},
+"aigovernment":{"countries":{"ETH":{"facts":[],"systems":[],"note":"The AI is a health sector tool, not general administration."}}},
+"aisectoral":{"countries":{"ETH":{"facts":[
+{"sub_indicator":"sectorai","aspect":"use","value":"inservice","fact":"IDinsight says HEP Assist, built by Last Mile Health with Ethiopia's Ministry of Health, is launched in five regions and operating, with call agents using an LLM assistant to answer health extension workers' clinical queries.","as_of":"2025","date_precision":"year","system":"HEP Assist","class":"sectorai"},
+{"sub_indicator":"sectorai","aspect":"results","value":"reported","fact":"IDinsight reports that 19 Ministry of Health experts rated 91.2% of HEP Assist responses above average across 580 questions, and an endline survey as of 2025 found 83.3% medical accuracy in real-world use.","as_of":"2025","date_precision":"year","system":"HEP Assist","class":"sectorai"}],
+"systems":[{"system":"HEP Assist","country_label":"Ethiopia","class":"sectorai","platform":"Llama 3.3 70B-based call-centre assistant","owner":"Last Mile Health with Ministry of Health","tiers":""}],"note":""}}},
+"aistrategy":{"countries":{"ETH":{"facts":[],"systems":[],"note":"No national AI strategy is mentioned."}}},
+"aisystems":{"countries":{"ETH":{"facts":[],"systems":[],"note":"The tool uses an open-source foreign model; no local model, dataset or AI computing is stated."}}},
+"idmaintenance":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Document says nothing on the national ID system."}}}
+}}

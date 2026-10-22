@@ -1,0 +1,277 @@
+{
+ "slug": "2026-06-10-eth-ai-regulation-in-africa-why-copying-the-european-model-won-t-work",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft or rule on AI harms stated; only that legislation is being mulled, if named."
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "The Conversation's authors say Ethiopia has tabled a draft AI law that adopts the EU risk-based approach, banning unacceptable-risk AI systems.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Ethiopia AI bill",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "The Conversation's authors say Kenya's draft AI Bill, tabled as an AI law, institutes an AI Commissioner and an AI Advisory Committee as regulators of AI systems and adopts the EU risk-based approach.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Kenya AI Bill",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft or rule on AI harms stated; only that legislation is being mulled, if named."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft or rule on AI harms stated; only that legislation is being mulled, if named."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft or rule on AI harms stated; only that legislation is being mulled, if named."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft or rule on AI harms stated; only that legislation is being mulled, if named."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft text or law stated; at most mulling the idea of AI legislation."
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Conversation's authors say Ethiopia has tabled a draft AI law that adopts the EU risk-based approach, banning unacceptable-risk AI systems.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Ethiopia AI bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Conversation's authors say Kenya's draft AI Bill, tabled as an AI law, institutes an AI Commissioner and an AI Advisory Committee as regulators of AI systems and adopts the EU risk-based approach.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Kenya AI Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft text or law stated; at most mulling the idea of AI legislation."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft text or law stated; at most mulling the idea of AI legislation."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft text or law stated; at most mulling the idea of AI legislation."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No draft text or law stated; at most mulling the idea of AI legislation."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated for this country."
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Conversation's authors say Ethiopia and Rwanda used AI in TB and cervical cancer screening, in a regulatory vacuum.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "AI TB and cervical cancer screening",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated for this country."
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Conversation's authors say Ethiopia and Rwanda used AI in TB and cervical cancer screening, in a regulatory vacuum.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "AI TB and cervical cancer screening",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    },
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Conversation's authors say Mauritius set out its national AI strategy in 2018, the first by an African country.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Mauritius national AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy stated for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated for this country."
+    }
+   }
+  }
+ }
+}

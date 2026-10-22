@@ -1,0 +1,10 @@
+{"slug": "2026-10-20-egy-egypts-play-to-become-an-exporter-of-computing-power", "studies": {
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Huawei Ascend 950-series AI training cloud offer", "country_label": "EGY", "class": "other", "platform": "", "owner": "Huawei (offer to government customers)", "tiers": ""}], "note": "Only a vendor offer of 1.4k Ascend chips and unfunded data centre plans are stated; nothing built or in service."}}},
+"cloudstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A national data centre strategy due by end-2026 is mentioned, not a hosting or cloud policy for public bodies."}}},
+"datacentrepower": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No power supply for a named data centre in service is stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Africa Data Centres Egypt", "country_label": "EGY", "class": "other", "platform": "", "owner": "Vodafone Business, Elsewedy Electric, Cassava Technologies", "tiers": ""}], "note": "Plans only (20 MW committed, Khazna 25 MW, Gulf Data Hub 192 MW); no facility for hire stated in service and no tier or cloud region given."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data protection law is described."}}},
+"gridreliability": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No outage frequency is given; only gas share of generation and fuel imports."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Enterprise lists among Egypt's advantages undersea cables that connect it to North and Sub-Saharan Africa, Europe and Asia, without naming cables or landing stations.", "as_of": "2026-10-20", "date_precision": "day", "system": "undersea cables", "class": "route"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated in service."}}}
+}}

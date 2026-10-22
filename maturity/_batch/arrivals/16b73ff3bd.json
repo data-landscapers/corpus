@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-20-tza-nalis-digital-transformation-brings-legal-services-closer-to-tanzanian",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NaLIS (National Legal Information System)",
+       "country_label": "NaLIS",
+       "class": "other",
+       "platform": "microservices; web, mobile apps, USSD 15200#",
+       "owner": "Ministry of Constitution and Legal Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "NaLIS is a ministry legal-aid and legal-services system, not a court case management system."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Daily News reports that legal aid providers can pay application fees electronically through the Government Electronic Payment Gateway (GePG) within NaLIS, with GePG revenue shown on dashboards.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "GePG",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Electronic Payment Gateway (GePG)",
+       "country_label": "GePG",
+       "class": "revenue",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

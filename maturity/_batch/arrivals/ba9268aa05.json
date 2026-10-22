@@ -1,0 +1,88 @@
+{
+ "slug": "2025-12-21-gin-guinea-validates-national-ai-diagnosis-and-10-year-roadmap",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "A validation workshop held by the Ministry of Posts, Telecommunications and Digital Economy with UNDP ended with the final AILA diagnostic report and a ten-year national AI roadmap for 2026 to 2035 officially handed over.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "national artificial intelligence roadmap 2026-2035",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national artificial intelligence roadmap 2026-2035",
+       "country_label": "Guinea",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Posts, Telecommunications and Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Validation workshop named only ministry, UNDP and unspecified ecosystem stakeholders; no one outside government is named."
+    }
+   }
+  }
+ }
+}

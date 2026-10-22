@@ -1,8 +1,14 @@
-{"slug": "2025-10-28-egy-tafsela-hadayek-el-kobba-ai-fabricated-interior-ministry-videos", "studies": {
-"aiabuse": {"countries": {"EGY": {"facts": [
-{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "Tafsela reports that the Hadayek El Kobba prosecution ordered a suspect held four days pending investigation for using AI to doctor images from the Interior Ministry's official page and reposting them for views and profit.", "as_of": "2025-10-28", "date_precision": "day", "system": "Hadayek El Kobba prosecution detention order", "class": "aiharm"}],
-"systems": [], "note": ""}}},
-"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
-"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI tool in a public sector's system is stated."}}},
-"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}}
-}}
+{
+ "slug": "2025-10-28-egy-tafsela-hadayek-el-kobba-ai-fabricated-interior-ministry-videos",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "A prosecution case on AI-faked videos; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

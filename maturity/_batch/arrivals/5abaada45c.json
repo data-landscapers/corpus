@@ -1,0 +1,22 @@
+{"slug": "2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mentions responsible use of AI only in general terms; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No government AI system stated in use or testing."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A Centre d'Intelligence pour la Sante is created but no AI tool in a public health system is stated."}}},
+"aistrategy": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Burkina Faso's statement to the World Health Assembly says a national roadmap on artificial intelligence is being implemented.", "as_of": "2026-05-20", "date_precision": "day", "system": "Feuille de route nationale sur l'intelligence artificielle", "class": "strategy"}
+], "systems": [{"system": "Feuille de route nationale sur l'intelligence artificielle", "country_label": "Burkina Faso", "class": "strategy", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"dataprotectionlaw": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Burkina Faso's statement to the World Health Assembly says its regulatory framework includes a law on the protection of personal data.", "as_of": "2026-05-20", "date_precision": "day", "system": "Loi sur la protection des donnees a caractere personnel", "class": "general"}
+], "systems": [], "note": ""}}},
+"health": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "Burkina Faso says it has adopted a strategic plan for the national health information system, as well as a digital health strategic plan and a national digital health architecture.", "as_of": "2026-05-20", "date_precision": "day", "system": "Plan strategique du systeme national d'information sanitaire", "class": "hmis"}
+], "systems": [], "note": ""}}},
+"healthexchange": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A national digital health architecture is adopted as a plan; no exchange between systems is stated."}}},
+"healthmis": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only an adopted plan for the health information system is stated; nothing on a system in service."}}},
+"interoperability": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Burkina Faso says its regulatory framework includes a general interoperability framework (referentiel general d'interoperabilite).", "as_of": "2026-05-20", "date_precision": "day", "system": "Referentiel general d'interoperabilite", "class": "framework"}
+], "systems": [{"system": "Referentiel general d'interoperabilite", "country_label": "Burkina Faso", "class": "framework", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"interoperabilitystandards": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The statement does not say the framework sets technical standards."}}},
+"regionallaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No regional digital legal text is named for Burkina Faso."}}}
+}}

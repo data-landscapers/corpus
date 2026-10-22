@@ -1,0 +1,8 @@
+{"slug": "2024-09-20-mrt-ouverture-d-un-atelier-de-presentation-de-la-strategie-nationale-pour", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Mentions UN view of AI risks only; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Sector uses of AI in health and education are described as future projects, not under way."}}},
+"aistrategy": {"countries": {"MRT": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The minister of digital transformation opened a workshop presenting Mauritania's national AI strategy (2025-2029; 6 priorities, 16 objectives, 38 actions), prepared with GIZ support, and said it will be implemented soon; no adoption is stated.", "as_of": "2024-09-20", "date_precision": "day", "system": "Stratégie Nationale pour l'Intelligence Artificielle 2025-2029", "class": "strategy"}], "systems": [{"system": "Stratégie Nationale pour l'Intelligence Artificielle 2025-2029", "country_label": "MRT", "class": "strategy", "platform": "", "owner": "Ministry of Digital Transformation and Modernisation of Administration", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No civil-service digital-skills training stated."}}}
+}}

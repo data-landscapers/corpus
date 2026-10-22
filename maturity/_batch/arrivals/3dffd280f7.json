@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-08-bwa-advancing-tb-screening-in-botswana-with-quire-ai-technology",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Vertice Mobile Healthcare, a vendor partner, says Botswana's national TB programme deployed Qure.ai's AI chest X-ray interpretation in April 2025 and trained local teams.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Qure.ai CAD chest X-ray",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Qure.ai CAD",
+       "country_label": "Botswana",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "national TB programme (vendor Qure.ai)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural internet access or use stated."
+    }
+   }
+  }
+ }
+}

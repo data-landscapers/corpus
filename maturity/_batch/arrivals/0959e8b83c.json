@@ -1,0 +1,8 @@
+{"slug": "2026-08-06-cod-rdc-comment-l-inspection-generale-des-finances-entend-digitaliser-la-t", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The IGF 2026-2028 plan only intends to use AI algorithms; no tender, pilot or test is stated."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "The AI use is a plan of the finance inspectorate, not a tool piloted or in service in a sector system."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document names no AI model, dataset or AI computing built in the DRC."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "Identity files are mentioned only as data to be cross-checked in future audits; no register keyed on the national ID number is stated."}}},
+"internationalstandards": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only alignment with international public audit norms is mentioned, which is not an information technology or data standard."}}}
+}}

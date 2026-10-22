@@ -1,0 +1,7 @@
+{"slug":"2024-03-28-mrt-le-ministre-de-la-transformation-numerique-inaugure-les-activites-de-l","studies":{
+"aiabuse":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on AI harms."}}},
+"aigovernment":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No government AI use stated."}}},
+"aisectoral":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Sector uses discussed as aims only."}}},
+"aistrategy":{"countries":{"MRT":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"draft","fact":"The digital transformation ministry held a one-day consultation workshop in Nouakchott on the content of Mauritania's national AI strategy, opened by Minister Mohamed Abdellahi Louli.","as_of":"2024-03-23","date_precision":"day","system":"national AI strategy","class":"strategy"}],"systems":[],"note":""}}},
+"aisystems":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Infrastructure named as a strategy axis only."}}}
+}}

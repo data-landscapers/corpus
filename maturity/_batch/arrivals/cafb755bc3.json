@@ -1,11 +1,23 @@
-{"slug": "2026-04-23-zwe-government-launches-learner-s-hub-chatbot-at-zitf", "studies": {
-"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"ZWE": {"facts": [
-{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The Ministry of Primary and Secondary Education launched the Learner's Hub Chatbot at the Zimbabwe International Trade Fair, giving learners, teachers and parents academic and psychosocial support, with an AI academic assistant, built by consultants UChat Africa.", "as_of": "2026-04-22", "date_precision": "day", "system": "Learner's Hub Chatbot", "class": "govai"}
-], "systems": [{"system": "Learner's Hub Chatbot", "country_label": "Zimbabwe", "class": "govai", "platform": "UChat Africa", "owner": "Ministry of Primary and Secondary Education", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The chatbot is a learner support service, not a tool inside a sector management system producing diagnoses, scores or decisions."}}},
-"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The chatbot's builder is a consultancy; no local AI model, dataset or computing is stated."}}},
-"dataprotectionlaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a consultant's claim of compliance with data protection laws; no law is named or described."}}},
-"digitaldivides": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The 8,000 Starlink kits are for schools only, with no rural and urban internet use figures."}}},
-"satellitebroadband": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Starlink kits for schools are a government-site use; no licence or retail sale is stated."}}}
-}}
+{
+ "slug": "2026-04-23-zwe-government-launches-learner-s-hub-chatbot-at-zitf",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "A ministry chatbot launch; no AI law or rule stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "A ministry chatbot under the E-Learning Policy; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

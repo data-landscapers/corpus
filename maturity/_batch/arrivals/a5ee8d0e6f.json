@@ -1,6 +1,14 @@
-{"slug": "2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system", "studies": {
-"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The article states no rule, authority or enforcement on AI harms."}}},
-"aigovernment": {"countries": {"KEN": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Kenyans.co.ke reports, from Digital Health Agency tender documents seen on 25 August 2026, that the agency floated seven tenders including an AI-driven RMNCAH digital health platform, an AI-managed national blood bank system and an AI birth-and-death notification registry for Taifa Care.", "as_of": "2026-08-25", "date_precision": "day", "system": "Taifa Care AI-driven RMNCAH platform", "class": "govai"}], "systems": [{"system": "Taifa Care", "country_label": "Kenya", "class": "other", "platform": "Health Information Exchange (FHIR)", "owner": "Digital Health Agency", "tiers": ""}], "note": ""}}},
-"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The article names no national AI strategy."}}},
-"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The tenders are for health platforms; the article does not say an AI model, dataset or AI computing is built or hosted in the country."}}}
-}}
+{
+ "slug": "2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Health tenders for AI systems; no law or binding rule on AI stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "2026-10-21-som-moct-house-of-the-people-approves-digital-transactions-bill",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Somalia's Ministry of Communications and Technology says the House of the People approved the Digital Transactions Bill, a legal framework governing digital transactions, with 137 votes in favour; Senate stage and assent are not stated.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "Digital Transactions Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

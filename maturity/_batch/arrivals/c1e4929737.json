@@ -1,0 +1,8 @@
+{"slug": "2026-02-05-ago-escolas-primarias-vao-passar-a-contar-com-inteligencia-artificial", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI is in schools, an education sector system."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Education minister Luisa Grilo said that from February 2026 the mechanisms for an AI pilot in selected primary schools, under a 2024 memorandum with the UAE Digital School, begin to be installed, with teacher training first.", "as_of": "2026-02-05", "date_precision": "day", "system": "AI pilot in primary schools", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A UAE-supplied methodology; no local development stated."}}}
+}}

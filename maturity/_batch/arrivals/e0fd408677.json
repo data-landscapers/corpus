@@ -1,10 +1,8 @@
 {"slug": "2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat", "studies": {
-"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on authentication services."}}},
-"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link."}}},
-"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a 2034 target of a digital identity for 90% of citizens; no count of people enrolled."}}},
-"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
-"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on who runs the ID system."}}},
-"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated on an ID system in service or under way beyond a 2034 target."}}},
-"interoperability": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Names a project on interoperability of public information systems launched in March 2026 but no framework, decree or roadmap."}}}
+"coresystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No finance, tax or payroll system is mentioned."}}},
+"digitalstrategy": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Prime Minister Ahmadou Al Aminou Mohamed Lô installed the Comité de gouvernance du numérique (GouVNum) on 16 October 2026 under his authority to coordinate the state's digital initiatives within the New Deal technologique, with the telecoms and digital ministry as permanent secretariat.", "as_of": "2026-10-16", "date_precision": "day", "system": "New Deal technologique", "class": "national"},
+{"sub_indicator": "national", "aspect": "period", "value": "to:2034", "fact": "The article gives the New Deal technologique, the digital part of the Sénégal 2050 national agenda, targets for 2034, including 90% of administrative procedures dematerialised and a digital identity for 90% of citizens.", "as_of": "2026-10-20", "date_precision": "day", "system": "New Deal technologique", "class": "national"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"SEN": {"facts": [], "systems": [{"system": "e-Sénégal guichet unique", "country_label": "guichet unique e-Sénégal", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The single window is named only as a project launched in March; no service is stated as online."}}}
 }}

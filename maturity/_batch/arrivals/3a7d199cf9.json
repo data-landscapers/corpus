@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-19-tun-tunisie-moins-de-paperasse-2-250-procdures-administratives-en-cours-de",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "plateforme nationale des proc\u00e9dures administratives",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "web platform",
+       "owner": "Presidence du gouvernement",
+       "tiers": ""
+      }
+     ],
+     "note": "Platform is an information point; digitisation is a target of about 80% and no service is stated as live online."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital service houses are public-access centres; no local office connection stated."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local revenue record stated."
+    }
+   }
+  }
+ }
+}

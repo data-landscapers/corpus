@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-20-cmr-modernisation-de-la-fonction-publique-le-minfopra-accelere-la-transfor",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "My MINFOPRA is a document workspace, not training."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal only validated and its deployment prepared; no service stated online."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement of who runs systems; vendor ADWA SARL named only for implementation."
+    }
+   }
+  }
+ }
+}

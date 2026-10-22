@@ -1,0 +1,216 @@
+{
+ "slug": "2026-08-03-moz-mocambique-dhis2-clima-e-saude",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI in public administration beyond health."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI law."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on an AI strategy."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or computing stated."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on finance, revenue or payroll systems."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on customs."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on education."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on education."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that several DHIS2 instances raise interoperability challenges; no exchange stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather station data digitising pilot with INM is not satellite data; no satellite use stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "DHIS2 says Saudigitus installed the Chap Modelling Platform in Mozambique's production DHIS2 and, in testing with the malaria programme, its alerts flagged three possible outbreaks in two provinces four weeks ahead, but the system is not yet operational.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Chap Modelling Platform",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Chap Modelling Platform",
+       "country_label": "Mozambique",
+       "class": "sectorai",
+       "platform": "DHIS2",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DHIS2 says the Ministry of Health officially adopted DHIS2 in 2015 as the national health management information system, known as SISMA, the integrated platform for routine data of all health programmes, covering 161 districts.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "SISMA",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SISMA (DHIS2)",
+       "country_label": "Mozambique",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      },
+      {
+       "system": "iMISS",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "DHIS2",
+       "owner": "National Malaria Control Programme",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "DHIS2 says the Ministry of Health officially adopted DHIS2 as the national HMIS, SISMA, in 2015, with technical support from Saudigitus.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "SISMA",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SISMA (DHIS2)",
+       "country_label": "Mozambique",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      },
+      {
+       "system": "iMISS",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "DHIS2",
+       "owner": "National Malaria Control Programme",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

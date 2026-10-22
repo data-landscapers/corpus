@@ -1,0 +1,13 @@
+{"slug": "2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The AI platform is a health-sector tool, noted under aisectoral."}}},
+"aisectoral": {"countries": {"COD": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "WHO's Regional Office for Africa says its AI-based Preparedness Data Exchange (PDX) platform is now in use in the Democratic Republic of the Congo, giving national teams epidemic intelligence and early-warning signals during the Ebola response.", "as_of": "2026-10-19", "date_precision": "day", "system": "Preparedness Data Exchange (PDX)", "class": "sectorai"}], "systems": [{"system": "Preparedness Data Exchange (PDX)", "country_label": "Democratic Republic of the Congo", "class": "sectorai", "platform": "WHO AFRO AI platform linked to a regional platform of 47 member states", "owner": "WHO Regional Office for Africa", "tiers": "national"}, {"system": "Voyage Santé", "country_label": "Democratic Republic of the Congo", "class": "other", "platform": "digital points-of-entry system at N'djili International Airport and Nord Bangui border post", "owner": "Dure Technologies with WHO", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on a national AI strategy."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "PDX is a WHO platform deployed in the country, not built or hosted locally."}}},
+"customs": {"countries": {"COD": {"facts": [], "systems": [], "note": "Voyage Santé is a health screening system at points of entry, not a customs system."}}},
+"educationexchange": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"educationmis": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"health": {"countries": {"COD": {"facts": [], "systems": [], "note": "PDX and Voyage Santé are surveillance and entry-screening tools, noted and not HMIS or EMR."}}},
+"healthmis": {"countries": {"COD": {"facts": [], "systems": [], "note": "PDX is epidemic intelligence, not routine facility reporting to the ministry."}}},
+"schools": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

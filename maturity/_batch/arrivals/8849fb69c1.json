@@ -1,0 +1,21 @@
+{"slug": "2026-10-20-egy-communications-minister-five-pillars-digital-sovereignty-data-protection", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI and data protection named only as a sovereignty pillar; no rule or authority stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a plan for 5 to 7 giant data centres; none stated in service."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data protection named only as part of a sovereignty pillar; no law stated."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Communications minister Raafat Hindy says the Egyptian state's strategy for digital sovereignty rests on five pillars, the first being sovereign infrastructure, with control over the state's digital infrastructure, data and strategic services as the stated aim.", "as_of": "2026-10-20", "date_precision": "day", "system": "digital sovereignty strategy", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"ictproduction": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Phone manufacturing capacity of 30 million is a 2030 target, not a plant in production."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only planned data centres; no operating one or owner stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

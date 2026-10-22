@@ -1,0 +1,17 @@
+{"slug": "2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [{"system": "AI-boosted automated data analysis and cross-checking system on the import platform", "country_label": "Algeria", "class": "other", "platform": "ministry digital platform", "owner": "Ministry of Foreign Trade and Export Promotion", "tiers": ""}], "note": "The AI named checks import files for the foreign trade sector; recorded under aisectoral."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Ministry of Foreign Trade and Export Promotion said its automated data analysis and cross-checking system, built into its digital platform and boosted by AI, detected anomalies in import programme files.", "as_of": "2026-09-02", "date_precision": "day", "system": "AI-boosted automated data analysis and cross-checking system on the ministry's digital platform", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "The cross-checking flagged 1,013 economic operators whose import programme files held identical documents, including 278 identical CNAS declarations and 56 files sharing one tax identification number.", "as_of": "2026-09-02", "date_precision": "day", "system": "AI-boosted automated data analysis and cross-checking system on the ministry's digital platform", "class": "sectorai"}
+], "systems": [{"system": "AI-boosted automated data analysis and cross-checking system on the ministry's digital platform", "country_label": "Algeria", "class": "sectorai", "platform": "ministry digital platform", "owner": "Ministry of Foreign Trade and Export Promotion", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is described."}}},
+"authentication": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"idregisters": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The tax identification number is named, but no register keyed on the national ID number is stated."}}},
+"idrobustness": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"taxregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Duplicate tax numbers are flagged in import files, but the tax register itself is not described."}}}
+}}

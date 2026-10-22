@@ -1,0 +1,23 @@
+{"slug": "2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on AI harms rules."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The AI uses named are in tax administration, a sector system, so held under aisectoral."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Egyptian Tax Authority head Rasha Abdel Aal said a mobile app to calculate real estate disposal tax using AI algorithms is about to launch, with an AI tax assistant platform being prepared.", "as_of": "2026-07-02", "date_precision": "day", "system": "AI tax assistant platform and real estate tax app", "class": "sectorai"}
+], "systems": [{"system": "AI tax assistant platform", "country_label": "Egypt", "class": "sectorai", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The AI strategy being prepared is the Tax Authority's own for tax services, not a national AI strategy."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing facility developed or hosted in the country is stated."}}},
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on an authentication service."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on a civil register and ID link."}}},
+"businessregister": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The commercial register is named only as one of 15 bodies linked to the tax authority; no registration service stated."}}},
+"dataexchange": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Egyptian Tax Authority head Rasha Abdel Aal said the authority has full integration and real-time data exchange with 15 government bodies, including customs, insurance, the commercial register, financial regulation and investment.", "as_of": "2026-07-02", "date_precision": "day", "system": "Egyptian Tax Authority real-time government data links", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "The same links connect the tax authority to 15 government bodies, with a first-phase target of 37 and a final target of about 74.", "as_of": "2026-07-02", "date_precision": "day", "system": "Egyptian Tax Authority real-time government data links", "class": "exchange"}
+], "systems": [{"system": "Egyptian Tax Authority real-time government data links", "country_label": "Egypt", "class": "exchange", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No national ID enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on who operates the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number.", "as_of": "2026-07-02", "date_precision": "day", "system": "Payroll system", "class": "register"}
+], "systems": [{"system": "Payroll system", "country_label": "Egypt", "class": "register", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated on the national ID system itself."}}}
+}}

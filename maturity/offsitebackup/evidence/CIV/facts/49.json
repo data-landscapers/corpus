@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-dcd-ivory-coast-state-owned-data-center-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "State-owned data center (Cybastion, EXIM-backed)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "1.73MW IT, 228 racks, 10PB",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "A planned 2027 data centre with no backup site, place or recovery plan stated."
+}

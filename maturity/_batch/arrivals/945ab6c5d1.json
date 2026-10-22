@@ -1,0 +1,269 @@
+{
+ "slug": "2025-02-01-ben-benin-anticipating-the-impacts-of-artificial-intelligence-on-west-afri",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The ministry says the government implemented GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital that answers citizens' questions on the tax, digital, labour and penal codes, launched in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "GPT.BJ",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GPT.BJ",
+       "country_label": "Benin",
+       "class": "govai",
+       "platform": "chatbot",
+       "owner": "Benin Agency for Information Systems and Digital",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Ministry of Digital Economy and Communications says the Government of Benin adopted the National Artificial Intelligence and Big Data Strategy (SNIAM 2023-2027) in January 2023.",
+       "as_of": "2023-01",
+       "date_precision": "month",
+       "system": "SNIAM 2023-2027",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIAM 2023-2027",
+       "country_label": "Benin",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Digital Economy and Communications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The ministry says GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital, was launched in 2023 during the second Digital Entrepreneurship and Artificial Intelligence Fair.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "GPT.BJ",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The ministry lists a public key infrastructure among the digital infrastructure Benin has established since 2016.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "public key infrastructure",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "public key infrastructure",
+       "country_label": "Benin",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The ministry says that in 2023 actions began under LeARN, the Lever of Learning for Retraining in the Digital Sector, with training of 25 Data Steward experts, 25 Data Developers and AI training, after a 2022 Smart Africa Digital Academy convention.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "LeARN",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LeARN",
+       "country_label": "Benin",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Government of Benin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "The ministry says Benin signed a convention in 2022 for the implementation of the Smart Africa Digital Academy project of the Smart Africa Alliance.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Smart Africa Digital Academy",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Benin."
+    }
+   }
+  }
+ }
+}

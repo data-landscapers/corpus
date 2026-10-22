@@ -1,0 +1,4 @@
+{"slug": "2025-09-02-gmb-gca-p2rs-gee-climate-advisory-platform", "studies": {
+"agrisatellite": {"countries": {"GMB": {"facts": [], "systems": [{"system": "Gambia Google Earth Engine web platform", "country_label": "The Gambia", "class": "other", "platform": "Google Earth Engine", "owner": "Department of Water Resources", "tiers": ""}], "note": "The platform's data are station, model, hazard and agricultural data; satellite data are not stated."}}},
+"metsatellite": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No satellite data use by the national weather service is stated."}}}
+}}

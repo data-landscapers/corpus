@@ -1,0 +1,296 @@
+{
+ "slug": "2026-03-02-gha-ghana-issues-fines-warning-as-data-enforcement-era-begins",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "Ghana's Communications Minister said on 2 March 2026 that a new Data Protection Bill is being drafted to extend legal oversight to AI systems, automated decision-making and deepfakes.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Data Protection Bill",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, launched Data Protection Month 2026 in Accra on 26 January 2026 and declared 2026 a year of enforcement.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Commission, led by its Executive Director, is acting under the Data Protection Act, 2012 (Act 843).",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Data Protection Act 2012",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The article describes the Data Protection Act, 2012 (Act 843) as the existing legislation, with registration duty under Section 27(1) and penalties under Section 56.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Data Protection Act 2012",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Data Protection Commission reports that in 2025 it expanded registrations of data controllers, conducted compliance audits across key sectors and trained more than 800 data protection officers.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Data Protection Act 2012",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The article describes the Data Protection Act, 2012 (Act 843) as the existing legislation, with registration duty under Section 27(1) and penalties under Section 56.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Data Protection Act 2012",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is operating under the Act and declared 2026 a year of enforcement.",
+       "as_of": "2026-01-26",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "implementing",
+       "fact": "The Data Protection Commission reports that in 2025 it expanded registrations of data controllers, conducted compliance audits across key sectors and trained more than 800 data protection officers.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Data Protection Commission",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing this study asks."
+    }
+   }
+  }
+ }
+}

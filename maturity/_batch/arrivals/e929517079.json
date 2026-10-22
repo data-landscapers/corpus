@@ -1,0 +1,8 @@
+{"slug": "2025-04-24-com-comores-l-oms-forme-sur-l-initiative-d-intelligence-epidemique-a-parti", "studies": {
+"aiabuse": {"countries": {"COM": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"COM": {"facts": [], "systems": [], "note": "The AI use is in health surveillance, not general administration."}}},
+"aisectoral": {"countries": {"COM": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "WHO says the Comoros adopted the AI-assisted EIOS open-source surveillance initiative and trained health surveillance staff on it with the Ministry of Health in Moroni on 22-25 April 2025.", "as_of": "2025-04-25", "date_precision": "day", "system": "EIOS", "class": "sectorai"}
+], "systems": [{"system": "EIOS", "country_label": "Comoros", "class": "sectorai", "platform": "Epidemic Intelligence from Open Sources", "owner": "WHO with Ministry of Health", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"COM": {"facts": [], "systems": [], "note": "A WHO platform; no local development or computing stated."}}}
+}}

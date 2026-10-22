@@ -1,0 +1,9 @@
+{"slug":"2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca","studies":{
+"aiabuse":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Only guidelines on responsible use mentioned; no rule or authority."}}},
+"aigovernment":{"countries":{"CMR":{"facts":[{"sub_indicator":"govai","aspect":"use","value":"inservice","fact":"CNPS Director General Mekulu Mvondo said the national social insurance fund uses AI for an automated system issuing official documents without staff and an automatic response system for clients (Guardian Post, 26 Feb 2026).","as_of":"2026-02-17","date_precision":"day","system":"CNPS automated document and client response systems","class":"govai"}],"systems":[{"system":"CNPS AI tools","country_label":"Cameroon","class":"govai","platform":"MA CNPS A MOI","owner":"CNPS","tiers":""}],"note":""}}},
+"ailaw":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No law or draft stated."}}},
+"aisectoral":{"countries":{"CMR":{"facts":[{"sub_indicator":"sectorai","aspect":"use","value":"inservice","fact":"CNPS Director General Mekulu Mvondo said AI tools in the national social insurance fund detect fraud by finding inconsistencies in declarations and contributions and calculate rights in real time.","as_of":"2026-02-17","date_precision":"day","system":"CNPS AI fraud detection and rights calculation","class":"sectorai"}],"systems":[{"system":"CNPS AI tools","country_label":"Cameroon","class":"sectorai","platform":"MA CNPS A MOI","owner":"CNPS","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No locally built model, dataset or AI computing stated."}}},
+"dataprotectionlaw":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Data protection mentioned as a workshop topic only."}}},
+"idrobustness":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Facial recognition is at CNPS, not a national ID system."}}}
+}}

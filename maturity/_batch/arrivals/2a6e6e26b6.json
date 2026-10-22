@@ -1,0 +1,131 @@
+{
+ "slug": "2026-10-21-nga-von-build-2026-shared-compute-ai-infrastructure",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "National AI Strategy mentioned in passing with no status, body or funding stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "National AI Strategy mentioned in passing with no status, body or funding stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposal for pooled compute and a conference; no model, dataset or facility stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposal for pooled compute and a conference; no model, dataset or facility stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nigeria-Togo data park is only a plan, no agreement or building stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nigeria-Togo data park is only a plan, no agreement or building stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

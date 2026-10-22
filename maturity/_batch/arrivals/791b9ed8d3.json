@@ -1,0 +1,12 @@
+{"slug": "2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The AI tools named serve agriculture, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Vision Media reports that Rwanda is testing Tunga, an AI voice assistant integrated into the agriculture ministry's call centre that answers farmers' questions in Kinyarwanda, and that it correctly answered at least 60% of questions during testing.", "as_of": "2026-09-01", "date_precision": "day", "system": "Tunga", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Vision Media reports that Rwanda has completed soil profiling and is developing AI fertiliser recommendations tailored to local soils with Morocco, with early tests indicating yield increases of about 20% and applications still at pilot stage.", "as_of": "2026-09-01", "date_precision": "day", "system": "soil-tailored fertiliser recommendations", "class": "sectorai"}
+], "systems": [{"system": "Tunga", "country_label": "Rwanda", "class": "sectorai", "platform": "voice assistant in the MINAGRI call centre", "owner": "Ministry of Agriculture and Animal Resources", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Vision Media reports that Tunga, an AI voice assistant answering in Kinyarwanda from an agricultural knowledge base developed by MINAGRI, the Rwanda Agriculture and Animal Resources Development Board and partners, is being tested.", "as_of": "2026-09-01", "date_precision": "day", "system": "Tunga", "class": "localai"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on access for persons with disabilities is stated in the article body."}}}
+}}

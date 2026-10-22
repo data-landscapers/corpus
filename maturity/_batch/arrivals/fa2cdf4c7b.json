@@ -1,0 +1,12 @@
+{"slug": "2026-10-21-uga-independent-ubos-rejects-national-data-strategy", "studies": {
+"broadbandstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Broadband plan not mentioned."}}},
+"datagovernance": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Independent reports that the Ministry of ICT and National Guidance launched a multi-year National Data Strategy on 20 October 2026, which the Uganda Bureau of Statistics rejected the next day as illegal and redundant.", "as_of": "2026-10-20", "date_precision": "day", "system": "National Data Strategy", "class": "policy"}
+], "systems": [{"system": "National Data Strategy", "country_label": "Uganda", "class": "policy", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document describes a data strategy, not a national digital strategy."}}},
+"ictstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No ICT sector policy described."}}},
+"statisticslaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "UBOS says the Uganda Bureau of Statistics Act 1998 (Cap 333) makes UBOS the principal agency for collecting, coordinating, monitoring and supervising the National Statistical System, per The Independent.", "as_of": "2026-10-21", "date_precision": "day", "system": "Uganda Bureau of Statistics Act 1998 (Cap 333)", "class": "law"}
+], "systems": [], "note": ""}}},
+"statisticsstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The Plan for National Statistics Development is named only in passing, with no adoption date or period."}}}
+}}

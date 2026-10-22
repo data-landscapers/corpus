@@ -1,0 +1,9 @@
+{"slug": "2026-07-09-sen-ai-driven-support-for-bilingual-education-in-senegal", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The pilots serve the education sector's bilingual reform, not general administration."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "IDinsight says it is testing with Senegal's Ministry of Education two AI pilots for the MOHEBS bilingual reform: AI drafting of lesson plans and a WhatsApp teacher support assistant, at an early stage.", "as_of": "2026-07-09", "date_precision": "day", "system": "AI teacher support assistant and AI content development pilot (MOHEBS)", "class": "sectorai"}
+], "systems": [{"system": "WhatsApp teacher support assistant (MOHEBS)", "country_label": "Senegal", "class": "sectorai", "platform": "WhatsApp", "owner": "Ministry of Education with IDinsight", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page does not say which AI models or datasets are built in the country."}}},
+"schoolinternet": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page gives no share of secondary schools with internet and no curriculum rule."}}}
+}}

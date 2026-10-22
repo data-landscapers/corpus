@@ -1,0 +1,8 @@
+{"slug": "2025-05-12-zwe-japan-pilots-ai-projects-in-zimbabwe-agro-health-sectors", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government body using AI for administration stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "CAJ News reports UNDP, with Japan's SDG Innovation Challenge, is piloting AI and drone-based solutions against quelea birds that threaten Zimbabwe's small grain harvests.", "as_of": "2025-05-12", "date_precision": "day", "system": "AI and drone quelea control pilot", "class": "sectorai"}
+], "systems": [{"system": "AI and drone quelea control pilot", "country_label": "Zimbabwe", "class": "sectorai", "platform": "", "owner": "UNDP", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "States no local AI development or computing."}}}
+}}

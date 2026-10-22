@@ -1,0 +1,7 @@
+{"slug": "2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority for AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The translation pilot serves national unity, not a stated government body's own work or service."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The ministry (MTNIMA) presented a pilot project on national virtual teachers and assistants for personalised AI-based education, under its AI strategy 2025-2029.", "as_of": "2024-11-21", "date_precision": "day", "system": "National virtual teachers and assistants pilot", "class": "sectorai"}], "systems": [{"system": "Virtual teachers and assistants pilot", "country_label": "Mauritania", "class": "sectorai", "platform": "", "owner": "MTNIMA", "tiers": ""}, {"system": "Multilingual translation for national unity pilot", "country_label": "Mauritania", "class": "other", "platform": "", "owner": "MTNIMA", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document mentions the ministry's AI strategy 2025-2029 but not whether it is adopted, drafted, funded or given a body."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Pilots are named but the document does not say a model, dataset or computing is built or hosted in the country."}}}
+}}

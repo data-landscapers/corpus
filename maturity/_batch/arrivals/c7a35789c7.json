@@ -1,0 +1,8 @@
+{"slug": "2026-08-11-tza-serikali-yafunguka-si-zama-za-kuikimbia-ai", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only an education guideline and an aim to prepare rules are stated; no rule on AI harms or draft."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"ailaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The education guideline has no stated legal force and the strategy's aim to prepare laws is no draft."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aistrategy": {"countries": {"TZA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Nipashe reports that the Ministry of Communication and Information Technology is implementing the National AI Strategy 2025-2030.", "as_of": "2026-08-11", "date_precision": "day", "system": "National AI Strategy 2025-2030", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}}
+}}

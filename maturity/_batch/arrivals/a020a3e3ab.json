@@ -1,0 +1,7 @@
+{"slug": "2025-09-22-ago-angola-aposta-na-inteligencia-artificial-para-transformar-os-servicos", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A study visit and an MoU on cooperation only; no Angolan government AI system stated."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"AGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Administrative Modernisation Institute (IMA) said it is preparing a National Artificial Intelligence Strategy for public services, built on technological sovereignty, interoperability, public data and national talent.", "as_of": "2025-09-22", "date_precision": "day", "system": "Estrategia Nacional de Inteligencia Artificial para os servicos publicos", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No model, dataset or AI computing in Angola stated."}}}
+}}

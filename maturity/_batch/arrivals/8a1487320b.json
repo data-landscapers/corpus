@@ -1,0 +1,32 @@
+{
+ "slug": "2026-08-27-digitalmag-5g-adoption-pays-africains-gsma",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers 5G rollout only; nothing on this question."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers 5G rollout only; nothing on this question."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Item covers 5G rollout only; nothing on this question."
+    }
+   }
+  }
+ }
+}

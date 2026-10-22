@@ -1,0 +1,162 @@
+{
+ "slug": "2026-05-22-moz-mocambique-apresenta-draft-da-estrategia-nacional-de-inteligencia-arti",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "INTIC's chairman presented the draft National AI Strategy at an ITU workshop in Kenya; the proposal is in its final phase, with the technical component due by June 2026 before submission to the Council of Ministers.",
+       "as_of": "2026-05-22",
+       "date_precision": "day",
+       "system": "Estratégia Nacional de Inteligência Artificial",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only data-centre and cloud regulations are named; no facility in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "INTIC says public consultation sessions and workshops on the draft National AI Strategy are under way in the provinces, with public sector, private sector, civil society and academia taking part.",
+       "as_of": "2026-05-22",
+       "date_precision": "day",
+       "system": "Estratégia Nacional de Inteligência Artificial",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

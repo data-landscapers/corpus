@@ -1,0 +1,212 @@
+{
+ "slug": "2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "UNESCO's readiness assessment says the Ministry of ICT and Innovation adopted the National AI Policy in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "National AI Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "UNESCO says Rwanda launched a Data Protection Office in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "passed",
+       "fact": "UNESCO says Rwanda passed a Data Protection and Privacy Law in 2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Data Protection and Privacy Law",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "UNESCO says a Data Protection Office was launched in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Data Protection Office",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "users",
+       "value": "estimate:34",
+       "fact": "The profile reports 34 per cent of the population using the internet, last documented in 2023 (source not named).",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Internet use",
+       "class": "use"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "98% 'mobile penetration' is not a share owning a phone; unsourced."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  }
+ }
+}

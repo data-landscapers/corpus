@@ -1,0 +1,8 @@
+{"slug": "2026-04-15-ago-agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI named sits inside the tax authority's audit system, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "AGT chair Jose Leiria said on 13 April 2026 that the audit of the 2024 tax year used AI mechanisms that automatically flagged deviations and suspect cases, which then triggered prior-hearing notifications.", "as_of": "2026-04-13", "date_precision": "day", "system": "AI-based risk audit model of the Administracao Geral Tributaria", "class": "sectorai"}], "systems": [{"system": "AI-based risk audit model", "country_label": "Angola", "class": "sectorai", "platform": "machine learning and data analysis", "owner": "Administracao Geral Tributaria (AGT)", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI was acquired by the state; the document does not say it was developed in the country."}}},
+"itcapacity": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government staff running or building a named system is stated beyond AI training."}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only an e-invoicing deadline is stated, not electronic payment of taxes."}}}
+}}

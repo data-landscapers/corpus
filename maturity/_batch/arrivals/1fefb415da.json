@@ -1,1 +1,14 @@
-{"slug": "2024-01-01-gmb-weather-impact-dcas-gee-platform", "studies": {"agrisatellite": {"countries": {"GMB": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "Weather Impact states that a GCA-funded project built a Google Earth Engine web platform giving access to satellite data and agricultural indices, trained 12 Gambian government departments from April 2024, and aimed to transfer the services to the Department of Water Resources.", "as_of": "2024-04", "date_precision": "month", "system": "Gambia Google Earth Engine DCAS platform", "class": "agrisat"}], "systems": [{"system": "Digital Farming platform (Google Earth Engine app)", "country_label": "Gambia", "class": "agrisat", "platform": "Google Earth Engine", "owner": "Department of Water Resources (planned hand-over)", "tiers": ""}], "note": ""}}}, "opendatause": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The platform is a project web portal; no public body is stated to publish downloadable datasets or a licence."}}}}}
+{
+ "slug": "2024-01-01-gmb-weather-impact-dcas-gee-platform",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and a Google Earth Engine platform; no satellite station or use in forecasts by the met service stated."
+    }
+   }
+  }
+ }
+}

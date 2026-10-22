@@ -1,0 +1,10 @@
+{"slug": "2025-03-21-civ-course-a-l-ia-les-depenses-d-investissement-en-cote-d-ivoire-pourraien", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A Safe IA label with UNESCO is only intended; no rule in force or draft is stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a planned PARAE support strand for AI is stated; no government use."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sector projects are planned phases only."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIO Mag reports, from an interview with the ministry's director of innovation, that the national AI strategy was officially handed over (remise) on 13 March 2025, with a planned budget of over 1,000 billion FCFA for 2025-2030 and a National AI Agency to be created first; no adoption is stated.", "as_of": "2025-03-13", "date_precision": "day", "system": "Stratégie nationale de l'Intelligence artificielle", "class": "strategy"}], "systems": [{"system": "Stratégie nationale de l'Intelligence artificielle", "country_label": "Côte d'Ivoire", "class": "strategy", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only planned infrastructure and research laboratories are stated, without builder or site."}}},
+"egovservices": {"countries": {"CIV": {"facts": [], "systems": [], "note": "PARAE is a launched project to digitalise administration; no service in service or under way is stated."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Funding for entrepreneurs is named only as an intended return on investment."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub or technology park is stated."}}}
+}}

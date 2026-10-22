@@ -1,0 +1,165 @@
+{
+ "slug": "2026-10-20-uga-newvision-uganda-launches-national-data-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The permanent secretary of the ICT ministry said the Government is working on a national AI strategy.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "National AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Minister of State for ICT and National Guidance launched the Uganda National Data Strategy in Kampala on 20 October 2026, with a costed implementation plan of sh1.6 trillion over five years.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Uganda National Data Strategy",
+       "class": "policy"
+      },
+      {
+       "sub_indicator": "policy",
+       "aspect": "use",
+       "value": "body",
+       "fact": "New Vision reports the strategy provides for a National Data Steering Committee chaired by the Finance ministry and a National Data Office within the ICT ministry to coordinate delivery.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Uganda National Data Strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Uganda National Data Strategy",
+       "country_label": "Uganda National Data Strategy",
+       "class": "policy",
+       "platform": "",
+       "owner": "Ministry of ICT and National Guidance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "An assistant commissioner at the ICT ministry cited the existing Personal Data Protection Office as part of the foundation the data strategy builds on.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Personal Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,23 +1,61 @@
 {
-  "slug": "2025-09-30-nam-ai-law-on-the-cards",
-  "studies": {
-    "aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The AI Act and draft bill are described as AI governance and ethics, with no harm from AI or authority named."}}},
-    "aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
-    "ailaw": {"countries": {"NAM": {"facts": [
-      {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "New Era reports that ICT Minister Emma Theofelus told Parliament Namibia is developing an Artificial Intelligence Act, and that the ministry has already developed a draft bill, per its director Frans Nghitila.", "as_of": "2025-09", "date_precision": "month", "system": "Artificial Intelligence Act", "class": "law"}
-    ], "systems": [], "note": ""}}},
-    "aisectoral": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
-    "aistrategy": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No national AI strategy is named; only a national AI workgroup and the AU Continental Strategy."}}},
-    "aisystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Namibia is stated."}}},
-    "dataprotectionlaw": {"countries": {"NAM": {"facts": [
-      {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "New Era reports the ICT ministry is finalising the Data Protection Bill.", "as_of": "2025-09", "date_precision": "month", "system": "Data Protection Bill", "class": "general"}
-    ], "systems": [], "note": ""}}},
-    "dataprotectionreadiness": {"countries": {"NAM": {"facts": [
-      {"sub_indicator": "system", "aspect": "law", "value": "not-yet", "fact": "New Era reports the ICT ministry is finalising the Data Protection Bill.", "as_of": "2025-09", "date_precision": "month", "system": "Data Protection Bill", "class": "system"},
-      {"sub_indicator": "system", "aspect": "treaty", "value": "ratified", "fact": "New Era says the African Union Convention on Cyber Security and Personal Data Protection is a framework \"which Namibia ratified\".", "as_of": "2025-09-30", "date_precision": "day", "system": "AU Convention on Cyber Security and Personal Data Protection", "class": "system"}
-    ], "systems": [], "note": ""}}},
-    "regionallaw": {"countries": {"NAM": {"facts": [
-      {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "New Era says Namibia ratified the African Union Convention on Cyber Security and Personal Data Protection.", "as_of": "2025-09-30", "date_precision": "day", "system": "AU Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
-    ], "systems": [], "note": ""}}}
+ "slug": "2025-09-30-nam-ai-law-on-the-cards",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI Act and data protection bill are named; nothing for this study."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "New Era reports the ICT ministry is finalising key legislation, including the Cybercrime Bill, to address legal gaps.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Cybercrime Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI Act and data protection bill are named; nothing for this study."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI Act and data protection bill are named; nothing for this study."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI Act and data protection bill are named; nothing for this study."
+    }
+   }
   }
+ }
 }

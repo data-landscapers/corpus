@@ -1,0 +1,18 @@
+{"slug":"2026-10-20-zaf-rewiring-payments-open-connected-inclusive","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[{"system":"single digital ID for payments","country_label":"South Africa","class":"other","platform":"wallet controlled by the individual","owner":"SARB","tiers":""}],"note":"Single digital ID for payments is described as intended, not delivered."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"businesspayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"ZAF":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"linked","fact":"The SARB speech says qualifying regional payments are currently carried on SADC-RTGS and are to move to the TCIB system by end-April 2027.","as_of":"2026-10-20","date_precision":"day","system":"SADC-RTGS / TCIB","class":"oversight"}],"systems":[{"system":"TCIB","country_label":"South Africa","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules."}}},
+"crossborderpayments":{"countries":{"ZAF":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"The SARB speech says lower-value retail regional payments run through SADC-RTGS now, with qualifying payments under R100,000 to move to TCIB by end-April 2027 and a hub-and-spoke pilot across eight countries by October 2027.","as_of":"2026-10-20","date_precision":"day","system":"SADC-RTGS / TCIB","class":"crossborder"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No coverage figure given."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on ID at birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on who operates the national ID system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on the national ID system itself."}}},
+"paymentslaw":{"countries":{"ZAF":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"The SARB says it has proposed a new Exemption Notice and Authorisation Framework to let appropriately regulated non-banks perform specified payment activities, with the framework to be published by end-November 2026.","as_of":"2026-10-20","date_precision":"day","system":"Exemption Notice and Authorisation Framework","class":"law"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only payment-mix figures (cash 56% of payments in 2023), no share of adults with an account."}}},
+"retailpayments":{"countries":{"ZAF":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The SARB says PayShap, a real-time low-value payment rail launched in 2023, has passed 1 billion transactions worth over R1 trillion.","as_of":"2026-10-20","date_precision":"day","system":"PayShap","class":"retail"}],"systems":[{"system":"PayShap","country_label":"South Africa","class":"retail","platform":"","owner":"","tiers":""},{"system":"QR+","country_label":"South Africa","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

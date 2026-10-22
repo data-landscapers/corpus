@@ -1,0 +1,97 @@
+{
+ "slug": "2024-01-16-sen-macky-sall-met-7-milliards-f-cfa-pour-la-promotion-de-l-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "President Macky Sall said the State had begun finalising the national AI strategy (SNIA), structured around six strategic orientations, under the technical lead of the ministry in charge of communications, telecommunications and digital affairs.",
+       "as_of": "2024-01-16",
+       "date_precision": "day",
+       "system": "stratégie nationale sur l'intelligence artificielle (SNIA)",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "stratégie nationale sur l'intelligence artificielle (SNIA)",
+       "country_label": "Sénégal",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministère de la Communication, des Télécommunications et du Numérique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Data strategy mentioned as being finalised, but no state-data control goal stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only general claims of support for tech startups; no startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

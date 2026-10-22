@@ -1,0 +1,15 @@
+{"slug": "2026-10-21-whoafro-ethiopia-eaii-ai-health-collaboration", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Governance and regulation are named as needs; no rule or authority is stated."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Health AI tools are shown at a demonstration with only potential applications; none is stated in a public sector system."}}},
+"aisystems": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "A WHO delegation reviewed locally developed technologies at the Ethiopian Artificial Intelligence Institute, including natural language processing tools, speech-to-text and translation applications, predictive disease models and AI diagnostic tools for skin diseases.", "as_of": "2026-10-21", "date_precision": "day", "system": "Ethiopian Artificial Intelligence Institute tools", "class": "localai"}
+], "systems": [{"system": "Ethiopian Artificial Intelligence Institute (EAII)", "country_label": "Ethiopia", "class": "localai", "platform": "", "owner": "EAII", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on rural internet access."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a passing mention of a digital transformation agenda; no strategy is described."}}},
+"itcapacity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The Institute is not stated to build or run systems for government bodies."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No startup law, labelling or public fund is stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Ethiopian Artificial Intelligence Institute runs the AI UniPod and the Timbuktoo Initiative, which through skills development and startup incubation are said to build an ecosystem of more than 600 young talent; no cohort of startups is named.", "as_of": "2026-10-21", "date_precision": "day", "system": "AI UniPod and Timbuktoo Initiative", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

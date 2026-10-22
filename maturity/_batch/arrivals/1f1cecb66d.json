@@ -1,0 +1,9 @@
+{"slug": "2025-12-22-nga-nigeria-pilots-ai-enabled-digital-extension-system-to-bridge-farm-advi", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The AI platform is for agricultural extension, a sector matter."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Digital Agricultural Extension Systems (DAES)", "country_label": "Nigeria", "class": "sectorai", "platform": "AI-enabled advisory platform with voice and USSD channels", "owner": "consortium led by AFAAS, Sasakawa Africa Association and Sahel Consulting, funded by the Gates Foundation", "tiers": ""}], "note": "DAES design was only validated at a workshop; pilots are planned, none started."}}},
+"aisystems": {"countries": {"NGA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "BusinessDay reports a consortium funded by the Gates Foundation validated the design of the AI-enabled DAES platform at a two-day Abuja workshop, with pilots planned in Gombe, Kaduna and Oyo states over three years.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Agricultural Extension Systems (DAES)", "class": "localai"}], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No mobile phone ownership figure is stated."}}},
+"nonstatefinance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A Gates-funded partnership is mentioned with no amount."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The validation workshop was run by a private consortium, not asked by government or a regulator on a named law or policy."}}}
+}}

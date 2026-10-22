@@ -1,0 +1,10 @@
+{"slug": "2025-06-05-tza-ai-ready-and-responsible-tanzania-unveils-national-assessment-at-afric", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government body's use of an AI system is stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Communication and IT minister Jerry Silaa says the government is finalising its National AI Strategy, as UNESCO handed over the national AI readiness assessment report.", "as_of": "2025-06-05", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+], "systems": [{"system": "National AI Strategy", "country_label": "Tanzania", "class": "strategy", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}},
+"publicconsultation": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The consultations were for a UNESCO readiness assessment, not put by government or a regulator on a named digital law or policy."}}}
+}}

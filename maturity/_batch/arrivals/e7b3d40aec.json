@@ -1,0 +1,11 @@
+{"slug": "2026-07-01-ben-decret-2026-396-ministere-transformation-digitale-innovation", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; it states nothing on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; no AI system in administration stated."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; no sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"BEN": {"facts": [{"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "Decree No. 2026-396 of 1 July 2026 sets the attributions and organisation of the Ministry of Digital Transformation and Innovation, which its title says is in charge of the National Artificial Intelligence Strategy.", "as_of": "2026-07-01", "date_precision": "day", "system": "Stratégie nationale d'Intelligence artificielle", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; no model, dataset or AI computing stated."}}},
+"cloudstrategy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; nothing on hosting or cloud."}}},
+"datagovernance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; nothing on a data policy."}}},
+"datalocalisation": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only the decree title is held; nothing on data localisation."}}},
+"digitalstrategy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A ministry organisation decree (directive class); the document names no digital strategy."}}}
+}}

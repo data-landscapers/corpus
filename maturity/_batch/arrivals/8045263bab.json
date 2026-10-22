@@ -1,0 +1,160 @@
+{
+ "slug": "2026-10-21-nam-ijg-pitches-mobile-savings",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Market Watch Namibia quotes IJG's Andri Ntema saying 'there is no national EID or KYC identity at the moment'.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  }
+ }
+}

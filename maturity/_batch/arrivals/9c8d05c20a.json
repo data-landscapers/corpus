@@ -1,8 +1,14 @@
-{"slug": "2025-08-06-gha-ghanafact-csa-social-media-monitoring-deepfakes", "studies": {
-"aiabuse": {"countries": {"GHA": {"facts": [{"sub_indicator": "aiharm", "aspect": "enforced", "value": "applied", "fact": "At a 4 August 2025 press briefing with the Police CID, the Cyber Security Authority's Director-General Divine Selassie Agbeti said the Authority had taken down multiple accounts spreading AI-generated deepfakes and scams, though takedowns depend on platform owners' own investigations.", "as_of": "2025-08-04", "date_precision": "day", "system": "Cyber Security Authority social media monitoring team", "class": "aiharm"}], "systems": [{"system": "Cyber Security Authority social media monitoring team", "country_label": "CSA social media monitoring team", "class": "aiharm", "platform": "", "owner": "Cyber Security Authority", "tiers": ""}], "note": ""}}},
-"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
-"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
-"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Ghana is stated."}}},
-"cybersecurity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The article reports a briefing and a monitoring team, not an incident handled or an alert issued."}}},
-"police": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Police CID appears only as a co-host of the briefing; no station record system is stated."}}}
-}}
+{
+ "slug": "2025-08-06-gha-ghanafact-csa-social-media-monitoring-deepfakes",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "About a monitoring team against deepfakes; no national AI strategy stated."
+    }
+   }
+  }
+ }
+}

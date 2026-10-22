@@ -1,0 +1,18 @@
+{"slug": "2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on rules against AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [{"system": "SHA Claims Adjudication Platform", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Social Health Authority", "tiers": ""}], "note": "AI is inside the health insurer's claims system, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Health Cabinet Secretary Aden Duale told the Senate that the Social Health Authority has deployed AI and machine learning tools in its Claims Adjudication Platform, which detect abnormal claim patterns, inflated billing and duplicate submissions in real time.", "as_of": "2025-10-29", "date_precision": "day", "system": "SHA Claims Adjudication Platform", "class": "sectorai"}
+], "systems": [{"system": "SHA Claims Adjudication Platform", "country_label": "Kenya", "class": "sectorai", "platform": "", "owner": "Social Health Authority", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No locally built model, dataset or AI computing stated."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "Health Cabinet Secretary Aden Duale told the Senate that an e-procurement system is being implemented at the Social Health Authority to improve transparency and competitive bidding.", "as_of": "2025-10-29", "date_precision": "day", "system": "SHA e-procurement system", "class": "procurement"}
+], "systems": [], "note": ""}}},
+"coresystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "SHA integrated financial management system", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Social Health Authority", "tiers": ""}], "note": "The financial system named is one agency's, not central government's."}}},
+"socialexchange": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "Health Cabinet Secretary Aden Duale said the national government sponsors 558,000 indigent households under the Social Health Authority, identified through the State Department for Social Protection's Enhanced Single Registry.", "as_of": "2025-10-29", "date_precision": "day", "system": "Enhanced Single Registry", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "Health Cabinet Secretary Aden Duale said households were identified through the State Department for Social Protection's Enhanced Single Registry to be sponsored under the Social Health Authority.", "as_of": "2025-10-29", "date_precision": "day", "system": "Enhanced Single Registry", "class": "social"}
+], "systems": [{"system": "Enhanced Single Registry", "country_label": "Kenya", "class": "social", "platform": "", "owner": "State Department for Social Protection", "tiers": ""}], "note": ""}}}
+}}

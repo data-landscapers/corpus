@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-15-nam-namibia-occurrence-of-asymptomatic-tb-in-active-case-finding-campaign",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "A TB screening campaign reported at a 2024 conference ran chest X-rays through CAD4TB AI triage with a score threshold of 50 for 18,662 participants in underserved communities; no public body is named.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "CAD4TB",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CAD4TB",
+       "country_label": "Namibia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Delft Imaging",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on internet access or use stated."
+    }
+   }
+  }
+ }
+}

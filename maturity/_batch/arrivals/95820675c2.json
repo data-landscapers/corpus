@@ -1,0 +1,12 @@
+{"slug": "2025-06-13-zmb-zambia-launches-nationwide-pilot-project-to-test-remote-health-diagnos", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The article states nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The pilot is in health posts, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Zambia Monitor reports the government, with 73Health Global and Pentatech and Finnish support, launched a pilot of remote health diagnostics and AI-based pharmacological analysis tools at 20 health posts across all ten provinces.", "as_of": "2025-06-13", "date_precision": "day", "system": "73Health remote diagnostics and Larry RX AI pilot", "class": "sectorai"}
+], "systems": [{"system": "73Health remote diagnostics", "country_label": "Zambia", "class": "sectorai", "platform": "remote examination with AI support", "owner": "73Health Global with Ministry of Health", "tiers": ""}, {"system": "Larry RX AI", "country_label": "Zambia", "class": "sectorai", "platform": "drug interaction and compliance analysis tool", "owner": "developed in Zambia", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Zambia Monitor says Larry RX AI, a drug interaction and compliance analysis tool developed in Zambia, will be part of the pilot at 20 health posts.", "as_of": "2025-06-13", "date_precision": "day", "system": "Larry RX AI", "class": "localai"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The article states no startup law, labelling or fund."}}},
+"techhubs": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The article names no hub, incubator or technology park."}}}
+}}

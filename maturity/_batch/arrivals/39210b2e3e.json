@@ -1,0 +1,9 @@
+{"slug": "2024-04-29-dza-the-launch-of-a-new-digital-platform-to-assist-new-baccalaureate-holde", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on rules against AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The AI platform serves higher-education orientation, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "On 29 April 2024 the Minister of Higher Education and Scientific Research launched a digital platform using artificial intelligence and data mining that simulates study-field choices for new baccalaureate holders from their subject marks and gives estimated efficiency rates.", "as_of": "2024-04-29", "date_precision": "day", "system": "MESRS baccalaureate orientation platform", "class": "sectorai"}
+], "systems": [{"system": "MESRS baccalaureate orientation platform", "country_label": "Algeria", "class": "sectorai", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document does not say who built the platform or where it is hosted."}}},
+"dataprotectionlaw": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a navigation link to a personal data policy; no law is stated."}}}
+}}

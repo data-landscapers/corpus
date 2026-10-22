@@ -1,0 +1,189 @@
+{
+ "slug": "2026-06-08-bdi-what-is-ai-regulation-in-burundi",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "inforce",
+       "fact": "Levellers says Burundi's personal data protection law of 10 March 2026 requires notice where personal data are processed with AI for automated decision-making and sets safeguards, including a human re-decision, for automated decisions with important effects.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Levellers says Burundi has no dedicated AI law or regulator as of its 8 June 2026 review; the 10 March 2026 data protection law is its main AI-relevant hard law.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a public sector system stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Says no published AI strategy; a workshop is groundwork for a future roadmap, with no drafting stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built or hosted locally is stated."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Levellers says the data protection law of 10 March 2026 creates a Personal Data Protection Agency but leaves its missions and organisation to a later decree, and no operational authority was identified.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Personal Data Protection Agency",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Levellers says Loi No 1/03 du 10 mars 2026 on personal data protection is Burundi's main AI-relevant hard law since 10 March 2026.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "Levellers says the law creates a Personal Data Protection Agency in law but leaves its missions and organisation to a later decree, and no operational authority was identified.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "Levellers says the data protection law dated 10 March 2026 is now Burundi's main AI-relevant hard law.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Levellers says Burundi's personal data protection law of 10 March 2026 is its main AI-relevant hard law.",
+       "as_of": "2026-03-10",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "none",
+       "fact": "Levellers says the law creates an agency whose setup awaits a decree, so an operational authority was not identified in official materials reviewed.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "Loi No 1/03 du 10 mars 2026",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the 2023-2033 public-service digitalisation master plan only, a government-only plan, and no national digital strategy."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No national ID system stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity figure stated."
+    }
+   }
+  }
+ }
+}

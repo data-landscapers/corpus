@@ -1,0 +1,25 @@
+{
+ "slug": "2025-11-09-lby-nesdb-ai-strategy-steering-committee-december-workshop",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Libya's National Economic and Social Development Board reports that the steering committee for preparing the national AI strategy met on 9 November 2025 and discussed a December workshop to present the strategy's general framework.",
+       "as_of": "2025-11-09",
+       "date_precision": "day",
+       "system": "National AI Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

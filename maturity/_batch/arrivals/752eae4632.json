@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-21-sa-biometrics-verification-curb-social-grant-fraud",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on digital accessibility for persons with disabilities."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant biometric enrolment is stated, but not as a check by the national ID system against double enrolment."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant beneficiary verification is stated without saying it checks against the national ID."
+    }
+   }
+  }
+ }
+}

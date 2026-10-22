@@ -1,14 +1,6 @@
-{
- "slug": "2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census",
- "studies": {
-  "admindata": {
-   "countries": {
-    "MLI": {
-     "facts": [],
-     "systems": [],
-     "note": "Document concerns Benin only; nothing stated for Mali."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census", "studies": {
+"dataexchange": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document concerns Benin's agricultural census and says nothing of the DRC."}}},
+"health": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document concerns Benin's agricultural census and says nothing of the DRC."}}},
+"interoperability": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document concerns Benin's agricultural census and says nothing of the DRC."}}},
+"interoperabilitylaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document concerns Benin's agricultural census and says nothing of the DRC."}}}
+}}

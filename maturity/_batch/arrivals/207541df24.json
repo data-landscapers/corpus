@@ -1,9 +1,4 @@
 {"slug": "2024-03-21-gha-gna-mofa-pfj2-satellite-farm-monitoring", "studies": {
-"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Article is about satellite farm monitoring; it states nothing on authentication services."}}},
-"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on links between civil register and ID system."}}},
-"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Gives no count or share of people holding the Ghana Card."}}},
-"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on ID numbers at birth."}}},
-"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on who operates or owns the ID system."}}},
-"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Ghana Card is only a requirement for farmer enrolment; the platform is not said to key a register on the ID number."}}},
-"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing stated on the ID system's issuance, biometrics or certification."}}}
+"agrisatellite": {"countries": {"GHA": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "The Ghana News Agency quotes the Ministry of Food and Agriculture's public relations officer saying the ministry will deploy satellite surveillance capturing each enrolled Planting for Food and Jobs II farm twice daily to monitor planting and crop germination.", "as_of": "2024-03-21", "date_precision": "day", "system": "PFJ II satellite farm monitoring", "class": "agrisat"}], "systems": [{"system": "Ghana Agriculture and Agribusiness Platform (GhAAP)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Food and Agriculture", "tiers": ""}], "note": ""}}},
+"metsatellite": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document concerns farm monitoring, not the national weather service."}}}
 }}

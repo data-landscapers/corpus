@@ -1,10 +1,23 @@
-{"slug": "2026-08-26-uga-government-develops-national-ai-strategy-wants-computer-misuse-act-ame", "studies": {
-"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI harm rule or authority is stated; the draft strategy is an AI strategy, not a rule."}}},
-"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
-"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
-"aistrategy": {"countries": {"UGA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Minister Justine Kasule Lumumba told Parliament's ICT committee the ministry has developed a draft National AI and Emerging Technologies Strategy, awaiting ministry top management before going to Cabinet.", "as_of": "2026-08-25", "date_precision": "day", "system": "National AI and Emerging Technologies Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
-"cybersecuritylaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a request to fast-track re-enactment of the Computer Misuse Act after court nullification of provisions; no bill or in-force status stated."}}},
-"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Committee asked for data protection measures in the AI strategy; no data protection law status is stated."}}},
-"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only an AI strategy is stated; a thematic strategy is out of scope."}}}
-}}
+{
+ "slug": "2026-08-26-uga-government-develops-national-ai-strategy-wants-computer-misuse-act-ame",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a draft AI strategy and a Computer Misuse Act re-enactment request are stated; no AI law or draft rule."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a data policy stated."
+    }
+   }
+  }
+ }
+}

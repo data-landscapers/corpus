@@ -1,0 +1,4 @@
+{"slug": "2025-01-01-mli-weather-alerts-and-insurance-for-resilient-farmers-in-mali", "studies": {
+"agrisatellite": {"countries": {"MLI": {"facts": [], "systems": [{"system": "Weather Impact / OKO SMS weather alerts and index insurance", "country_label": "Mali", "class": "other", "platform": "SMS", "owner": "Weather Impact (Netherlands) and OKO", "tiers": ""}], "note": "Satellite-weather index insurance run by companies with no government part is not a farming service of the state."}}},
+"metsatellite": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No national meteorological service is named."}}}
+}}

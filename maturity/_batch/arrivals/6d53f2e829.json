@@ -1,0 +1,8 @@
+{"slug": "2025-10-25-lbr-honored-to-share-our-findings-at-the-4th-international-conference-on-p", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The only AI use named is in TB screening, a health sector system."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Otuba Paul of PIH Liberia says AI-powered chest X-ray interpretation (qXR v3.2) was deployed to support TB screening at James Jenkins Dossen Hospital in Maryland County from March 2023 to January 2025, with the National Leprosy and Tuberculosis Control Program and the county health team, and helped identify Xpert-negative and asymptomatic patients.", "as_of": "2025-01", "date_precision": "month", "system": "qXR v3.2", "class": "sectorai"}], "systems": [{"system": "qXR v3.2", "country_label": "Liberia", "class": "sectorai", "platform": "AI chest X-ray interpretation", "owner": "James Jenkins Dossen Hospital, Maryland County; NLTCP; Partners In Health Liberia", "tiers": "one hospital"}], "note": ""}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "qXR is a deployed AI product; no model, dataset or AI computing is said to be built in Liberia."}}},
+"eparticipation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document is not about online participation in policy."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document is not about consultation on a digital law or policy."}}}
+}}

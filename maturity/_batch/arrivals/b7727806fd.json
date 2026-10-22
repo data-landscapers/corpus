@@ -1,50 +1,12 @@
 {
  "slug": "2025-02-13-mli-robotsmali-bambara-asr-open-source-models",
  "studies": {
-  "aiabuse": {
+  "aistrategy": {
    "countries": {
     "MLI": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing on this for MLI."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "MLI": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this for MLI."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "MLI": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing on this for MLI."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "MLI": {
-     "facts": [
-      {
-       "sub_indicator": "localai",
-       "aspect": "build",
-       "value": "inservice",
-       "fact": "RobotsMali AI4D Lab published two open-source Bambara speech-recognition models, Soloni-114M TDT-CTC and QuartzNet-15x5, trained on about 35 hours of Bambara audio, with weights on Hugging Face.",
-       "as_of": "2025-02-13",
-       "date_precision": "day",
-       "system": "Soloni-114M TDT-CTC and QuartzNet-15x5",
-       "class": "localai"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "A lab's open-source speech models; no government AI strategy stated."
     }
    }
   }

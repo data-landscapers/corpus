@@ -1,0 +1,153 @@
+{
+ "slug": "2025-10-24-mar-amal-el-fallah-seghrouchni-le-maroc-prepare-un-cadre-legal-et-une-dire",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "draft",
+       "fact": "Minister Amal El Fallah Seghrouchni said her ministry is preparing a digital bill, with the CNDP, DGSSI and ADD, covering algorithmic transparency, the right to explanation and contestation of automated decisions and non-discrimination in AI use, earlier planned for October and to be presented shortly.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "digital bill",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister refers to the 2030 national AI strategy but the document does not say it was adopted."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The minister recalled the launch of a national digital and AI training programme for children aged 8 to 14, led by several ministries with Mohammed VI Polytechnic University and UNESCO under Maroc Digital 2030; no number trained is given.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "national digital and AI training programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national digital and AI training programme",
+       "country_label": "Morocco",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "several ministries with UM6P and UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Morocco."
+    }
+   }
+  }
+ }
+}

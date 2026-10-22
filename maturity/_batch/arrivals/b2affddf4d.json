@@ -1,0 +1,115 @@
+{
+ "slug": "2025-11-17-ben-datagov-nos-cas-d-usage-emblematiques",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Numericite supported development of an automatic classification model for invoice item labels for Benin's tax directorate (DGI), linked to the INStad reference; no service use or results stated.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "invoice label classification model",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "A use case applying large language models to generate descriptive notes on customs revenue for the Ivorian Directorate of Economic Studies and Statistics; no service use or results stated.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "LLM customs report generation",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local build or hosting stated; models made with an outside consultancy."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No local build or hosting stated; models made with an outside consultancy."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local build or hosting stated; models made with an outside consultancy."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No training programme for civil servants stated for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No training programme for civil servants stated for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No training programme for civil servants stated for this country."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sydonia",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction generale des Douanes",
+       "tiers": ""
+      },
+      {
+       "system": "Customweb",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction generale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": "Sydonia and Customweb are named as data sources for a dashboard; processing of declarations is not stated."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A customs value database is described; electronic clearance is not stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only tax administration (DGID) work is described; no customs system stated."
+    }
+   }
+  }
+ }
+}

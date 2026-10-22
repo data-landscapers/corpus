@@ -1,0 +1,495 @@
+{
+ "slug": "2026-10-15-xaf-ifc-sii-51853-cauris-third-wave-dfs-fund",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A proposed IFC loan to a multi-country fund, pending approval, with no amount named for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

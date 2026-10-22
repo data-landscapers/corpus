@@ -1,0 +1,12 @@
+{"slug": "2026-02-19-uga-building-blocks-for-an-ethical-and-responsible-ai-governance-in-uganda", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Deepfakes and misinformation were only raised in workshop discussion; no rule or authority stated."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government AI system in use is stated."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "UNESCO reports that Uganda's Ministry of ICT and National Guidance is leading development of a Comprehensive National Emerging Technologies Strategy with AI as flagship domain, and has set up an 11-member National AI Task Force to guide the strategy's development.", "as_of": "2026-02-19", "date_precision": "day", "system": "Comprehensive National Emerging Technologies Strategy", "class": "strategy"}
+], "systems": [{"system": "Comprehensive National Emerging Technologies Strategy", "country_label": "Uganda", "class": "strategy", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": "The UNESCO AI Readiness Assessment is noted, not staged."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated as built or hosted."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a generic call for harmonised data protection frameworks; no law stated."}}},
+"disabilityaccess": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Persons with disabilities are mentioned only as participants to be involved in consultation."}}},
+"schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory digital curriculum."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2025-08-01-caf-mapping-tb-with-ai-brings-new-hope-for-surveillance-in-low-resource-se", "studies": {
+"aiabuse": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The AI model is a health-sector tool; nothing on general administration."}}},
+"aisectoral": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Union and EPCON built an AI model predicting TB positivity on 100 m grids in Bangui with the national TB programme, whose manager says the mapping helped strengthen active screening; the partners plan to validate it with the health ministry before embedding it in national strategies.", "as_of": "2025-08", "date_precision": "month", "system": "AI TB positivity mapping model, Bangui", "class": "sectorai"}
+], "systems": [{"system": "AI TB positivity mapping model, Bangui", "country_label": "Central African Republic", "class": "sectorai", "platform": "", "owner": "The Union, EPCON and National Tuberculosis Programme", "tiers": ""}], "note": ""}}},
+"aistrategy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Mentions national TB strategies only; no AI strategy."}}},
+"aisystems": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Model built by The Union and EPCON for the national TB programme; the document does not say where it was developed or hosted."}}},
+"digitaldivides": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on rural internet access."}}}
+}}

@@ -1,70 +1,32 @@
 {
  "slug": "2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po",
  "studies": {
-  "itcapacity": {
+  "agrisatellite": {
    "countries": {
     "SEN": {
      "facts": [
       {
-       "sub_indicator": "inhouse",
-       "aspect": "inhouse",
-       "value": "yes",
-       "fact": "AICCRA says the AgData Hub has been deployed and operated end-to-end by ANACIM's own technological and climate data teams since its migration in September-October 2025.",
-       "as_of": "2025-10",
-       "date_precision": "month",
-       "system": "AgData Hub",
-       "class": "staff"
-      }
-     ],
-     "systems": [
-      {
-       "system": "AgData Hub",
-       "country_label": "Senegal",
-       "class": "other",
-       "platform": "",
-       "owner": "ANACIM",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "metsatellite": {
-   "countries": {
-    "SEN": {
-     "facts": [
-      {
-       "sub_indicator": "metsat",
-       "aspect": "stream",
+       "sub_indicator": "agrisat",
+       "aspect": "service",
        "value": "inservice",
-       "fact": "AICCRA says ANACIM, the national meteorological agency, now generates crop-specific agro-climatic bulletins through the AgData Hub that combine near-real-time forecasts, satellite observations and seasonal outlooks.",
+       "fact": "AICCRA reports that ANACIM, which fully runs the AgData Hub since late 2025, now generates crop-specific, district-scale agro-climatic bulletins combining near-real-time forecasts, satellite observations and seasonal outlooks.",
        "as_of": "2025-10",
        "date_precision": "month",
        "system": "AgData Hub",
-       "class": "metsat"
+       "class": "agrisat"
       }
      ],
      "systems": [
       {
        "system": "AgData Hub",
-       "country_label": "Senegal",
-       "class": "other",
-       "platform": "",
+       "country_label": "AgData Hub",
+       "class": "agrisat",
+       "platform": "ANACIM servers, mobile app",
        "owner": "ANACIM",
-       "tiers": ""
+       "tiers": "national, regional and local GTP"
       }
      ],
      "note": ""
-    }
-   }
-  },
-  "policyresearch": {
-   "countries": {
-    "SEN": {
-     "facts": [],
-     "systems": [],
-     "note": "Technical support came from foreign bodies (ILRI, IRI); no local institution researching or publishing on digital policy is stated."
     }
    }
   }

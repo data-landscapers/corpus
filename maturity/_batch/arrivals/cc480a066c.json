@@ -1,0 +1,31 @@
+{"slug": "2026-10-21-egy-minister-ict-egypt-tops-africa-fixed-internet-speed-digital-sovereignty", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a general intention to expand AI in government services; no system named."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a target of 250 startups building AI applications; no model, dataset or AI computing stated."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital payments only listed as a session topic; no central bank role stated."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Training described is for citizens, not civil servants."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a plan for 5 to 7 mega data centres; none stated in service."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data protection named only as a sovereignty pillar; no law stated."}}},
+"digitalskills": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "Minister Raafat Hindy says the ministry runs digital-skills programmes for all ages in all governorates, including Egypt's Digital Generations and Digital Pioneers (with the Egyptian Military Academy), and that over 2 million citizens benefited over the past ten years.", "as_of": "2026-10-21", "date_precision": "day", "system": "Digital Generations of Egypt / Digital Pioneers", "class": "publicskills"}
+], "systems": [{"system": "Digital Pioneers initiative", "country_label": "Egypt", "class": "publicskills", "platform": "", "owner": "Ministry of Communications and IT with the Egyptian Military Academy", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Minister Raafat Hindy says achieving digital sovereignty rests on five pillars, starting with sovereign infrastructure, defined as the state's control of its infrastructure, data and strategic services.", "as_of": "2026-10-21", "date_precision": "day", "system": "digital sovereignty pillars", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"ictproduction": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Phone assembly capacity of 30 million is a 2030 target, not a plant in production; no ICT export share of GDP stated."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Says 10 submarine cables were added in ten years, 6 under construction; no route named as in service."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only planned mega data centres; no operating one or ownership stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital payments listed only as a session topic."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No startup law, labelling or fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Minister Raafat Hindy says 24 innovation centres have been created, which incubate startups and train young people.", "as_of": "2026-10-21", "date_precision": "day", "system": "innovation centres", "class": "hub"},
+{"sub_indicator": "hub", "aspect": "cities", "value": "several", "fact": "Minister Raafat Hindy says the 24 innovation centres are spread across the governorates.", "as_of": "2026-10-21", "date_precision": "day", "system": "innovation centres", "class": "hub"}
+], "systems": [{"system": "innovation centres", "country_label": "Egypt", "class": "hub", "platform": "", "owner": "Ministry of Communications and IT", "tiers": ""}], "note": ""}}}
+}}

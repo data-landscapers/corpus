@@ -1,0 +1,15 @@
+{"slug": "2025-05-21-mus-an-ai-legislation-for-mauritius-fundamental-considerations", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article names no rule or authority against a harm from AI."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on AI use in public administration."}}},
+"ailaw": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Orison Legal says the Financial Services Commission made the Financial Services (Robotic and Artificial Intelligence Enabled Advisory Services) Rules in 2021, which apply to licensees providing investment and portfolio management through AI-enabled algorithms.", "as_of": "2021", "date_precision": "year", "system": "Financial Services (Robotic and Artificial Intelligence Enabled Advisory Services) Rules", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "Orison Legal says the FSC AI Rules apply only to AI-enabled investment advisory licensees and argues that Mauritius needs a comprehensive AI legislation, so none exists across sectors.", "as_of": "2025-05-21", "date_precision": "day", "system": "Financial Services (Robotic and Artificial Intelligence Enabled Advisory Services) Rules", "class": "law"}
+], "systems": [{"system": "Financial Services (Robotic and Artificial Intelligence Enabled Advisory Services) Rules", "country_label": "Mauritius", "class": "law", "platform": "", "owner": "Financial Services Commission", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on AI tools in a public sector system."}}},
+"aistrategy": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Orison Legal says the government came up with a national strategy on AI in 2018.", "as_of": "2018", "date_precision": "year", "system": "national strategy on AI", "class": "strategy"}
+], "systems": [{"system": "national strategy on AI", "country_label": "Mauritius", "class": "strategy", "platform": "", "owner": "Government of Mauritius", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article names no AI model, dataset or AI computing built in Mauritius."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article is not about national identity."}}},
+"internetusage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article gives no internet usage figure."}}}
+}}

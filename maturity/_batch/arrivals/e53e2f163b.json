@@ -1,0 +1,11 @@
+{"slug": "2026-10-20-bdi-communique-de-presse-n-13-2026-de-la-reunion-du-conseil-des-ministres-du", "studies": {
+"cybersecurity": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The Burundi Council of Ministers, meeting on 14 October 2026, adopted the National Cybersecurity Strategy, according to the Primature's communique.", "as_of": "2026-10-14", "date_precision": "day", "system": "Stratégie nationale de Cybersécurité", "class": "response"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Burundi Council of Ministers, meeting on 14 October 2026, recorded the adoption of the draft (projet de) National Digital Policy, according to the Primature's communique.", "as_of": "2026-10-14", "date_precision": "day", "system": "Politique Nationale du Numérique", "class": "national"}
+], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Council examined mobilising private investment, but no amount or deal is stated."}}},
+"policyresearch": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No local research institution is mentioned."}}},
+"ruralelectrification": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Mentions rural electrification projects for two provinces but gives no access figure."}}}
+}}

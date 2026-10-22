@@ -1,0 +1,43 @@
+{
+ "slug": "2026-04-16-eth-fana-moh-last-mile-health-hep-assist-ai",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Ministry of Health with Last Mile Health held a forum introducing the implementation phase of HEP Assist, an AI tool supporting health extension workers, built only on 100 validated ministry clinical guidelines.",
+       "as_of": "2026-04-16",
+       "date_precision": "day",
+       "system": "HEP Assist",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "HEP Assist",
+       "country_label": "Ethiopia",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of Health with Last Mile Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The tool is not stated to be built or hosted in Ethiopia."
+    }
+   }
+  }
+ }
+}

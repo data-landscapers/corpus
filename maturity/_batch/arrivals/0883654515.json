@@ -1,0 +1,17 @@
+{"slug": "2026-03-25-uga-are-ugandan-artists-ready-for-the-new-copyright-law", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "An AI proposal was rejected in the copyright bill debates; no rule or draft on AI harms is stated."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"ailaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a rejected AI clause in the copyright bill is stated; no draft AI law or rule in force."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aistrategy": {"countries": {"UGA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Observer's IP-lawyer author reports the Attorney General saying an AI clause in the copyright bill was premature because an AI policy framework is still in the Attorney General's 'kitchen'.", "as_of": "2026-03", "date_precision": "month", "system": "AI policy framework", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on public procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's role."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentslaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The National Payment Systems Act is only named as a proposed payment route for royalties; its standing and reach are not stated."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on account ownership."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on retail payments."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on revenue collection."}}}
+}}

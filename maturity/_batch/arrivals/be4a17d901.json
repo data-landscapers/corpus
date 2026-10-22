@@ -1,0 +1,9 @@
+{"slug":"2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-integrant-l","studies":{
+"aiabuse":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Document states nothing on rules or authority over AI harms."}}},
+"aigovernment":{"countries":{"CIV":{"facts":[],"systems":[],"note":"The AI is inside a health sector system, not general administration."}}},
+"aisectoral":{"countries":{"CIV":{"facts":[{"sub_indicator":"sectorai","aspect":"use","value":"inservice","fact":"The mHealth platform's own site says that since 5 October 2026 community health workers in Gontougo's five districts have collected data on mHealth One, with AI giving treatment recommendations, flagging inconsistent data and answering queries, rolled out under the Ministry of Health with UNICEF support.","as_of":"2026-10-05","date_precision":"day","system":"mHealth One","class":"sectorai"}],"systems":[{"system":"mHealth One","country_label":"Côte d'Ivoire","class":"sectorai","platform":"mHealth (TICANALYSE)","owner":"Ministry of Health, Public Hygiene and Universal Health Cover","tiers":""}],"note":""}}},
+"aistrategy":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No national AI strategy is mentioned."}}},
+"aisystems":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No AI model, dataset or computing is stated as built or hosted in the country."}}},
+"health":{"countries":{"CIV":{"facts":[],"systems":[{"system":"mHealth","country_label":"Côte d'Ivoire","class":"other","platform":"mHealth","owner":"Ministry of Health, Public Hygiene and Universal Health Cover","tiers":"none"}],"note":"mHealth is a community health worker system, noted and not assessed as HMIS or EMR."}}},
+"healthmis":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Describes a community health platform in one region, not the national HMIS."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2026-08-31-tza-watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The AI is in health care, not general administration."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "A Muhimbili University researcher says Tanzania already uses AI through the Ministry of Health to support TB diagnosis from chest X-ray images.", "as_of": "2026-08-31", "date_precision": "day", "system": "AI TB chest X-ray screening", "class": "sectorai"}
+], "systems": [{"system": "AI TB chest X-ray screening", "country_label": "Tanzania", "class": "sectorai", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Muhimbili University researchers built a chest X-ray AI for TB in people with HIV, trained on about 3,000 patient images from public facilities, reporting 92% accuracy, and it is now in trials ahead of TMDA approval.", "as_of": "2026-08-31", "date_precision": "day", "system": "MUHAS TB-HIV chest X-ray model", "class": "localai"}
+], "systems": [], "note": ""}}}
+}}

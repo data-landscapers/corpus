@@ -1,0 +1,13 @@
+{"slug": "2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a mobile operator's own authentication and monitoring is mentioned; no national authentication service."}}},
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Government procurement not mentioned."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only criminal fraud complaints and penalties; no digital finance conduct rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Cross-border payments not mentioned."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Government payments to people not mentioned."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The 73.7% digital-payer figure is cited by the Prime Minister, not given as a survey of account holding."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Top Africa News reports that mobile money is in everyday use in Rwanda, with MTN and Airtel Mobile Commerce Rwanda serving customers, and digital-payment transactions rose to 3.1 billion in 2025, per the Prime Minister.", "as_of": "2025", "date_precision": "year", "system": "mobile money", "class": "retail"}
+], "systems": [{"system": "MTN mobile money", "country_label": "Rwanda", "class": "retail", "platform": "", "owner": "MTN", "tiers": ""}, {"system": "Airtel Mobile Commerce Rwanda", "country_label": "Rwanda", "class": "retail", "platform": "", "owner": "Airtel", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Tax or fee payment not mentioned."}}}
+}}

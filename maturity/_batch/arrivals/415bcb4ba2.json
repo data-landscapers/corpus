@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-20-tcd-tchad-le-plan-de-connexion-au-rseau-internet-mondial-prsent-au-gaids-s",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Chad's telecoms minister said at the Seoul summit that Chad has only one active international internet access, via Cameroon.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "international internet access via Cameroon",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "CARDIP is still at design stage and no agreement, hosting or membership of an African digital policy body is stated."
+    }
+   }
+  }
+ }
+}

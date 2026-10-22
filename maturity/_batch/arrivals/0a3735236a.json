@@ -1,0 +1,12 @@
+{"slug": "2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The only AI tool named is a health-sector one, not general administration."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Reporter says the Ministry of Health and Last Mile Health launched HEP Assist, an AI assistant drawing on 100 Ministry of Health guidelines, piloted in 15 woredas across seven regions to support health extension workers, with over 6,000 consultations since January 2025 and scale-up to all woredas planned after evaluation.", "as_of": "2026-04-11", "date_precision": "day", "system": "HEP Assist", "class": "sectorai"}
+], "systems": [{"system": "HEP Assist", "country_label": "Ethiopia", "class": "sectorai", "platform": "retrieval-augmented generation assistant", "owner": "Ministry of Health with Last Mile Health", "tiers": "health posts"}], "note": ""}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The assistant is run with a US-based partner; no local model, dataset or AI computing is stated as built or hosted in Ethiopia."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Digital Ethiopia 2030 is mentioned only as an agenda; no standing, text or period is stated."}}},
+"health": {"countries": {"ETH": {"facts": [], "systems": [{"system": "ECHIS", "country_label": "Ethiopia", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "T4"}], "note": "Only the community system ECHIS (operational in over 9,000 health posts) is named, which is a noted class, not HMIS or EMR."}}},
+"healthmis": {"countries": {"ETH": {"facts": [], "systems": [{"system": "ECHIS", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "T4"}], "note": "The national HMIS is not described; ECHIS is a community system."}}},
+"localgov": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on local government offices is stated."}}}
+}}

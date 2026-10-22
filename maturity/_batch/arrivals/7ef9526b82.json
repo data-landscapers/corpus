@@ -1,0 +1,313 @@
+{
+ "slug": "2026-04-20-moz-ministerial-roundtable-on-the-role-of-science-technology-and-innovatio",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI commission with an advisory mandate is named; no rule or authority over AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI in use in government."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Government says AI regulation is needed; no draft law stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general remark on AI for early warning; no tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Government of Mozambique, in a statement to the UN CSTD, lists the National Artificial Intelligence Strategy among legal instruments under drafting and harmonisation, and says it is being drafted.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Commission for Artificial Intelligence",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Council of Ministers",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI models, datasets or computing built in Mozambique."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "The statement says Mozambique approved the National Cybersecurity Policy and its Implementation Strategy in 2021 (Resolution No. 69/2021, of 31 December).",
+       "as_of": "2021-12-31",
+       "date_precision": "day",
+       "system": "National Cybersecurity Policy and Implementation Strategy",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "The statement says the Government approved a proposed Cybersecurity Law and a proposed Cybercrime Law and submitted them to the Assembly of the Republic.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "Proposed Cybersecurity Law; Proposed Cybercrime Law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centres appear only as an investment opportunity."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The statement lists the National Data Governance Policy and Strategy among legal instruments under drafting and harmonisation.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "National Data Governance Policy and Strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "tabled",
+       "fact": "The statement says the Government approved a proposed Personal Data Protection Law and submitted it to the Assembly of the Republic for consideration.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "Proposed Personal Data Protection Law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The statement says the Universal Access Service Fund (FSAU) is an initiative to provide broadband internet in rural areas, especially district headquarters, through projects including Rural Connectivity and Internet in Schools; no sites counted.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "Universal Access Service Fund (FSAU)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital Ambassadors and community centre projects are named without saying they teach digital skills to the public."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The statement says the National Digital Transformation Strategy is a legal instrument under drafting and harmonisation, currently under development.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "National Digital Transformation Strategy",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No budget amounts or domestic financing statement."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The statement says Mozambique approved the Electronic Transactions Law in 2017 (Law No. 3/2017, of 9 January), setting the legal framework for electronic commerce and digital signatures.",
+       "as_of": "2017-01-09",
+       "date_precision": "day",
+       "system": "Electronic Transactions Law (Law No. 3/2017)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "sector",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The statement says Mozambique approved the Mozambique Information Society Policy in 2018 (Resolution No. 17/2018, of 21 June), aiming at widespread ICT adoption.",
+       "as_of": "2018-06-21",
+       "date_precision": "day",
+       "system": "Mozambique Information Society Policy",
+       "class": "sector"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre ownership or hosting stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity access figure."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, labelling or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The statement says the National Science and Technology Parks Company's parks have served as centres for digital solutions and for training young entrepreneurs and tech startups.",
+       "as_of": "2026-04-20",
+       "date_precision": "day",
+       "system": "National Science and Technology Parks Company",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

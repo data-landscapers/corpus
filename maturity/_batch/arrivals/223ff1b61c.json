@@ -1,0 +1,8 @@
+{"slug": "2025-07-21-bdi-l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-b", "studies": {
+"aiabuse": {"countries": {"BDI": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The AI is in malaria diagnosis, a health sector system."}}},
+"aisectoral": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Enabel says the national malaria programme PNILP trained health workers in Cibitoke and Kirundo on 16 July 2025 on the AI app Malariya Pi, which reads rapid malaria tests, and calls the approach a pilot.", "as_of": "2025-07-16", "date_precision": "day", "system": "Malariya Pi", "class": "sectorai"}
+], "systems": [{"system": "Malariya Pi", "country_label": "Burundi", "class": "sectorai", "platform": "smartphone app", "owner": "PNILP with Enabel; developed by Audere", "tiers": "Cibitoke and Kirundo"}], "note": ""}}},
+"aisystems": {"countries": {"BDI": {"facts": [], "systems": [], "note": "App developed by Audere; no local development stated."}}}
+}}

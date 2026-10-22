@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-20-cmr-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-id",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "servicepublic.gov.cm",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "web portal and mobile app",
+       "owner": "MINFOPRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Portal gives information on 1,250 procedures and is pre-launch; no service stated as completable online."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  }
+ }
+}

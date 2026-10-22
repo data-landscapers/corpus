@@ -1,0 +1,270 @@
+{
+ "slug": "2026-10-19-xgl-govinsider-jargon-problem-public-participation-dpi",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "GovInsider reports that OGP's digital governance group, working with NITDA, plans to pilot standards making DPI more accessible to rural, non-literate, non-English-speaking and visually impaired users with 10 federal agencies within two years.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "DPI accessibility standards",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "GovInsider reports that Nigeria's latest OGP action plan, to 2029, carries a DPI commitment driven by NITDA together with civil society groups.",
+       "as_of": "2026-10-19",
+       "date_precision": "day",
+       "system": "OGP action plan DPI commitment",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  }
+ }
+}

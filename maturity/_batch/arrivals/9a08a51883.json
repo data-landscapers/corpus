@@ -1,0 +1,12 @@
+{"slug": "2026-10-20-moz-mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only calls for oversight mechanisms and a training session on the regulatory framework; no draft rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government AI system piloted or in service; the document describes training."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+"aistrategy": {"countries": {"MOZ": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "INTIC is developing a proposal for the National Artificial Intelligence Strategy, which INTIC's executive administrator invited participants to comment on at the 19 October 2026 opening; it is available on INTIC's portal.", "as_of": "2026-10-19", "date_precision": "day", "system": "Estratégia Nacional de Inteligência Artificial (proposal)", "class": "strategy"}], "systems": [{"system": "Estratégia Nacional de Inteligência Artificial (proposal)", "country_label": "MOZ", "class": "strategy", "platform": "INTIC portal", "owner": "INTIC", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"MOZ": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "INTIC, UNDP and the national elections commission are running a training of 26 institutional trainers on using, assessing and supervising AI tools in election administration, 19 to 23 October 2026, to pass skills on within their institutions.", "as_of": "2026-10-19", "date_precision": "day", "system": "Formação de Formadores em Inteligência Artificial na Administração Eleitoral", "class": "csskills"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Data protection is a training topic only; no law or its standing is stated."}}},
+"opendiscussion": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on criticism of policy, cuts or punishment for speech."}}},
+"schoolinternet": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule stated."}}},
+"stemgraduates": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No STEM graduate figure or research network stated."}}}
+}}

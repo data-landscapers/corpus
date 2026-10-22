@@ -1,0 +1,52 @@
+{
+ "slug": "2025-09-09-uga-vectorcam-project-makerere-johns-hopkins-and-moh-to-scale-up-ai-powere",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Makerere University says the VectorCam AI mosquito-identification app was piloted with the National Malaria Control Programme from November 2022 to April 2024 and is to be scaled to 22 districts, 12 with embedded research.",
+       "as_of": "2025-08-07",
+       "date_precision": "day",
+       "system": "VectorCam",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VectorCam",
+       "country_label": "Uganda",
+       "class": "sectorai",
+       "platform": "smartphone app; posts data to DHIS2",
+       "owner": "Makerere University, Johns Hopkins University, Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI mosquito surveillance app posting to DHIS2 is described; no facility reporting or patient record system."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "DHIS2 is named only as the destination of a mosquito surveillance app; the national system's status is not stated."
+    }
+   }
+  }
+ }
+}

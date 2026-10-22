@@ -1,0 +1,8 @@
+{"slug": "2025-10-18-egy-3-3-7", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI in government services is named only as a future aim."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Water-management AI appears only as a target in a headline; no tool piloted or in service."}}},
+"aisystems": {"countries": {"EGY": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Communications and IT Minister Amr Talaat says the state is investing over USD 3.3 billion of government funds across seven years to develop the digital infrastructure for AI.", "as_of": "2025-10-18", "date_precision": "day", "system": "AI infrastructure investment plan", "class": "localai"}], "systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital skills mentioned only in general terms; no civil-service training."}}},
+"digitalskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a general statement on investing in digital skills; no programme or measure."}}}
+}}

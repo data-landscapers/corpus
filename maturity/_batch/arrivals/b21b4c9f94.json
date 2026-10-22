@@ -1,0 +1,10 @@
+{"slug": "2025-06-12-swz-parliamentarians-capacitated-on-ai", "studies": {
+"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only a call for ethical AI use; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No government body is stated to use an AI system."}}},
+"aisectoral": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No sectoral AI tool named."}}},
+"aistrategy": {"countries": {"SWZ": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Principal Secretary Phesheya Dube of the Ministry of ICT said the ministry is currently drafting Eswatini's national AI strategy.", "as_of": "2025-06-10", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A new AI research group at RSTP is named but no model, dataset or AI computing."}}},
+"civilserviceskills": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Training was for parliamentarians, not civil servants."}}},
+"digitalskills": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "One workshop for MPs; no public programme or survey."}}},
+"techhubs": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "RSTP only hosts the workshop; no programme or tenants stated."}}}
+}}

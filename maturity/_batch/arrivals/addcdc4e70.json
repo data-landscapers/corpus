@@ -1,0 +1,166 @@
+{
+ "slug": "2026-05-26-uga-uganda-convenes-national-stakeholders-dialogue-to-strengthen-ethical-a",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "rule",
+       "value": "none",
+       "fact": "UNESCO's account says participants at the 26 May 2026 consultation expressed concern about the absence of existing binding mechanisms to monitor AI-related harms in Uganda, particularly in gender and health.",
+       "as_of": "2026-05-26",
+       "date_precision": "day",
+       "system": "",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system stated."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "UNESCO reports the Lead National Expert as saying Uganda lacks a comprehensive AI-specific legal framework.",
+       "as_of": "2026-05-26",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI tool in a public sector system stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The document refers to Uganda's forthcoming National AI and Emerging Technologies Strategy, which the Lead National Expert said Uganda needs to finalise and adopt.",
+       "as_of": "2026-05-26",
+       "date_precision": "day",
+       "system": "National AI and Emerging Technologies Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or computing stated."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government hosting or cloud policy stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centres mentioned only as lacking environmental impact assessment rules; none stated as for hire or in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The document names Uganda's Data Protection and Privacy Act (2019) as an existing instrument that does not address algorithmic transparency or automated decision-making.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Data Protection and Privacy Act 2019",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural access programme or rural and urban use figures stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only 'nearly four times the UN benchmark', no share or price stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre ownership or hosting stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The consultation was on UNESCO's readiness assessment, not a named law or policy put to outside participants."
+    }
+   }
+  }
+ }
+}

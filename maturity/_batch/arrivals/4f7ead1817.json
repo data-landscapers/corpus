@@ -1,0 +1,9 @@
+{"slug": "2025-10-16-lby-libya-partners-with-escwa-to-launch-national-artificial-intelligence-s", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only an intention of an ethical framework within the strategy; no draft rule or authority stated."}}},
+"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"LBY": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The General Information Authority held a national consultative workshop in Tripoli with ESCWA on the preparation of the National Strategy for Artificial Intelligence in Libya, and ESCWA offered technical support to formulate it.", "as_of": "2025-10-14", "date_precision": "day", "system": "National Strategy for Artificial Intelligence in Libya", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"startups": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"techhubs": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No hub or park stated."}}}
+}}

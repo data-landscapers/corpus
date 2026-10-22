@@ -1,23 +1,48 @@
 {
  "slug": "2026-10-20-moz-clubofmozambique-government-plans-track-monitor-businesses-digital-platforms",
  "studies": {
-  "ecommercelaw": {
+  "ailaw": {
    "countries": {
     "MOZ": {
-     "facts": [
-      {
-       "sub_indicator": "law",
-       "aspect": "standing",
-       "value": "in-force",
-       "fact": "Mozambique's Council of Ministers spokesperson Inoc\u00eancio Impissa said on 2026-10-20 that tracking of digital-platform businesses falls within implementation of a recently approved decree on electronic transactions and digital commerce, with the Digital Transformation Agency to monitor operators.",
-       "as_of": "2026-10-20",
-       "date_precision": "day",
-       "system": "decree on electronic transactions and digital commerce",
-       "class": "law"
-      }
-     ],
+     "facts": [],
      "systems": [],
-     "note": ""
+     "note": "An e-transactions and e-commerce decree and digital platform licensing rules are mentioned without content on this subject."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "An e-transactions and e-commerce decree and digital platform licensing rules are mentioned without content on this subject."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "An e-transactions and e-commerce decree and digital platform licensing rules are mentioned without content on this subject."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "An e-transactions and e-commerce decree and digital platform licensing rules are mentioned without content on this subject."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "An e-transactions and e-commerce decree and digital platform licensing rules are mentioned without content on this subject."
     }
    }
   }

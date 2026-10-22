@@ -1,0 +1,179 @@
+{
+ "slug": "2025-12-31-nga-yearinreview-2025-recap-of-activities-of-the-honourable-minister-dr-bo",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "aiharm",
+       "aspect": "authority",
+       "value": "designated",
+       "fact": "Nigeria's communications ministry says the Federal Executive Council approved NUCA and NAIT in 2025, institutionalising nationwide connectivity expansion and AI governance.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NAIT",
+       "class": "aiharm"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Nigeria's communications ministry says the formal launch of Nigeria's National AI Strategy took place in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National AI Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Nigeria's communications ministry says N-ATLAS, described as Africa's first government-backed multimodal and multilingual LLM, was launched in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "N-ATLAS",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil service digital-skills training stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Nigeria's communications ministry says the Federal Executive Council approved 4,000 telecom towers in 2025 to expand rural connectivity.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "4,000 telecom towers",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Nigeria's communications ministry says it received a N1 billion Airtel Africa Foundation grant to 3MTT and hosted the 3MTT National Impact Summit in 2025, with no number trained stated.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "3MTT",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Project BRIDGE is in planning and stakeholder alignment only; no contract or works stated."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a submarine cable resilience summit is stated; no route."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-Governance Bill's content on data sharing between public bodies is not stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government staff running or building systems stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The grant to 3MTT and the EU package go to a programme and the government, not a private digital business."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Nigeria's communications ministry says the National Digital Economy & e-Governance Bill (2025) was advanced through public hearings.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Digital Economy & e-Governance Bill",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

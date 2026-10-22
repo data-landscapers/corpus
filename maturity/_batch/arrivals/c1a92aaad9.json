@@ -1,0 +1,8 @@
+{"slug": "2024-07-17-lby-launch-of-new-initiative-to-integrate-foresight-and-artificial-intelli", "studies": {
+"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No AI system for administration stated."}}},
+"aisectoral": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "ICESCO says an initiative with Libya's Ministry of Education launched in Tripoli includes developing a system for integrating AI into the educational process.", "as_of": "2024-07-17", "date_precision": "day", "system": "system for integrating AI into the educational process", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "States nothing on AI models, datasets or computing."}}}
+}}

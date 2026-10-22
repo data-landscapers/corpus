@@ -1,59 +1,12 @@
 {
  "slug": "2026-09-14-mdg-tresor-public-premiere-ouverture-vers-l-ia",
  "studies": {
-  "aiabuse": {
+  "aistrategy": {
    "countries": {
     "MDG": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for Madagascar."
-    }
-   }
-  },
-  "aigovernment": {
-   "countries": {
-    "MDG": {
-     "facts": [],
-     "systems": [],
-     "note": "Only a training session on AI use at the Treasury; no AI system is stated in use or testing."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "MDG": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for Madagascar."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "MDG": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for Madagascar."
-    }
-   }
-  },
-  "civilserviceskills": {
-   "countries": {
-    "MDG": {
-     "facts": [
-      {
-       "sub_indicator": "csskills",
-       "aspect": "training",
-       "value": "underway",
-       "fact": "Madagascar Newsroom reports that a training session on AI use in administration was held for the Treasury's director general and several colleagues, in partnership with the Projet Poles Integres de Croissance (PIC), described as a first step.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "Tresor public AI training with PIC",
-       "class": "csskills"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "About an AI training session; no national AI strategy stated."
     }
    }
   }

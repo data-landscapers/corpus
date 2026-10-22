@@ -1,0 +1,7 @@
+{"slug": "2025-05-20-mar-al3omk-ministere-transition-numerique-direction-ia", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A new directorate will prepare the legal framework and ethics standards, but no draft rule or designated authority over AI harms is stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government AI system in use or piloted is named."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "AI is to be used in agriculture, health and other fields, with no tool named."}}},
+"aistrategy": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Digital Morocco 2030", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}, {"system": "AI and Emerging Technologies Directorate", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}], "note": "The new directorate sets AI public policy but is not tied to a strategy; AI is only said to be part of Digital Morocco 2030."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a declaration of intent for an Arab-African AI hub with UNDP; no builder, site or model stated."}}}
+}}

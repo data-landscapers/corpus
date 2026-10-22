@@ -1,0 +1,8 @@
+{"slug": "2025-10-10-zwe-zimra-turns-to-ai-to-boost-revenue-collection", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI is stated only for tax administration, a sector system."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Zimbabwe Revenue Authority says its 2026-2030 strategy adopts AI-driven analytics to identify non-compliance patterns, forecast risks and monitor compliance, and NewsDay says it is already pursuing a tax collection campaign using AI.", "as_of": "2025-10", "date_precision": "month", "system": "ZIMRA AI-driven analytics", "class": "sectorai"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a passing mention of digital skills development for the workforce; no programme stated."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on digital skills of the public."}}}
+}}

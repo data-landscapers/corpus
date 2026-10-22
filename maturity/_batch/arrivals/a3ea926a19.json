@@ -1,0 +1,11 @@
+{"slug":"2026-05-19-civ-protection-des-donnees-personnelles-la-cote-d-ivoire-prepare-son-cadre","studies":{
+"aiabuse":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Minister speaks of future rules only; no draft or rule on AI harms."}}},
+"aigovernment":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No government AI use stated."}}},
+"ailaw":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Minister announces intent to draft texts on AI; no draft begun."}}},
+"aisectoral":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"CIV":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"Minister Djibril Ouattara said on 18 May 2026 that Cote d'Ivoire has begun work on an Ivorian artificial intelligence, with no builder, funder or site named.","as_of":"2026-05-18","date_precision":"day","system":"intelligence artificielle ivoirienne","class":"localai"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Conference on data protection; no law, standing or decision for the country stated."}}},
+"digitalsovereignty":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Sovereignty mentioned for Africa in general; no state data policy stated."}}},
+"digitalstrategy":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Strategy mentioned in passing; none named."}}},
+"regionalpolicy":{"countries":{"CIV":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"active","fact":"Cote d'Ivoire hosted the 9th international conference of the African Network of Personal Data Protection Authorities (RAPDP) in Abidjan, 18-21 May 2026, with ARTCI support and about twenty African delegations.","as_of":"2026-05-18","date_precision":"day","system":"RAPDP 9th conference","class":"cooperation"}],"systems":[],"note":""}}}
+}}

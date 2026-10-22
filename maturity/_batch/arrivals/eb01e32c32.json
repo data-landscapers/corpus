@@ -1,0 +1,11 @@
+{"slug":"2026-04-01-tgo-world-bank-called-attention-to-togo-s-digital-and-ai-ambitions-followi","studies":{
+"aiabuse":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No AI harm rule or authority stated."}}},
+"aigovernment":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Says only that ministries are being digitalised and AI pilots need to scale; no AI system named."}}},
+"ailaw":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No AI law or draft stated."}}},
+"aisectoral":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No sectoral AI tool named."}}},
+"aistrategy":{"countries":{"TGO":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"draft","fact":"TechReviewAfrica reports that Togo is expected to validate its national AI strategy through a government seminar in April 2026, per World Bank director Michel Rogy's account of a Lome mission.","as_of":"2026-04","date_precision":"month","system":"National AI strategy (Togo)","class":"strategy"}],"systems":[],"note":""}}},
+"aisystems":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Compute and hosting named as needs only; nothing built or planned with a builder or site."}}},
+"digitalstrategy":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Only a Vision 2035 exercise and a Digital and AI Compact in preparation; no national digital strategy described."}}},
+"startups":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Startups only mentioned as mission interlocutors."}}},
+"techhubs":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No hub or park named."}}}
+}}

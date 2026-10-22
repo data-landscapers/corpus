@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-20-gnb-26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenv",
+ "studies": {
+  "eparticipation": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No online call for public views on policy stated."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No open data policy stated."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Sistema de Informa\u00e7\u00e3o de Planos e Projetos (SIPP)",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "web platform",
+       "owner": "Ministry of Economy, Plan and Regional Integration",
+       "tiers": ""
+      }
+     ],
+     "note": "SIPP is a public view of plans and projects; no download of datasets or licence stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No consultation on a digital law or policy stated."
+    }
+   }
+  }
+ }
+}

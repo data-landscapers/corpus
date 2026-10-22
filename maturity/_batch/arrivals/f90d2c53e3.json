@@ -1,0 +1,64 @@
+{
+ "slug": "2025-02-14-ben-webb-fontaine-accelerates-benin-s-customs-transformation-with-key-mile",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Webb Fontaine says its Webb Customs system, described as AI-powered, is in use at 44 of Benin's 49 customs offices, replacing ASYCUDA World; the claim is the vendor's and no AI outputs are described.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Webb Customs",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Webb Customs",
+       "country_label": "Benin",
+       "class": "customs",
+       "platform": "",
+       "owner": "Benin customs, supplied by Webb Fontaine",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Webb Fontaine says Webb Customs, launched in July 2022, has replaced ASYCUDA World at 44 of Benin's 49 customs offices, with the last five including the port of Cotonou planned for mid-2025; it reports 59,000 returns processed and 100,000 receipts issued.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Webb Customs",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Webb Fontaine says Webb Customs interconnects trade platforms including the National Single Window, the Port Community System and electronic cargo tracking.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "National Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

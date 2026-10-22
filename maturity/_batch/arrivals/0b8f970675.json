@@ -1,0 +1,176 @@
+{
+ "slug": "2026-10-21-sdpay-sudan-digital-payments",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SDPay",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "EdfaPay",
+       "owner": "EdfaPay and GoPravo joint venture",
+       "tiers": ""
+      }
+     ],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not state anything this study asks about this country."
+    }
+   }
+  }
+ }
+}

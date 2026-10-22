@@ -1,5 +1,1 @@
-{"slug": "2025-11-20-ken-kra-ruto-hails-ai-led-reforms", "studies": {
-"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The release states no rule, authority or enforcement on AI harms."}}},
-"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The release names no national AI strategy."}}},
-"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The AI risk engines are a tax tool; the release does not say an AI model, dataset or computing is built or hosted in the country."}}}
-}}
+{"slug": "2025-11-20-ken-kra-ruto-hails-ai-led-reforms", "studies": {"ailaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Reports AI risk engines at the tax authority; no AI law, draft or binding rule named."}}}}}

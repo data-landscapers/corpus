@@ -1,0 +1,11 @@
+{"slug": "2026-01-15-dji-corridorvision-ai-ai-powered-road-condition-monitoring-for-djibouti-s", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The AI is in road monitoring, a sector system."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "DPCR says its CorridorVision AI, which detects road defects in vehicle video, is in deployment and calibration and has covered over 844 km on its 642 km corridor network.", "as_of": "2026-01-15", "date_precision": "day", "system": "CorridorVision AI", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "DPCR says CorridorVision AI has identified 2,174 detections across four defect types in its first processing.", "as_of": "2026-01-15", "date_precision": "day", "system": "CorridorVision AI", "class": "sectorai"}
+], "systems": [{"system": "CorridorVision AI", "country_label": "Djibouti", "class": "sectorai", "platform": "YOLOv8 model on RapidCanvas", "owner": "Djibouti Ports Corridor Road SA", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "DPCR says it developed CorridorVision AI, training a YOLOv8 detection model on road images its annotators labelled, and deployed it on the RapidCanvas platform.", "as_of": "2026-01-15", "date_precision": "day", "system": "CorridorVision AI", "class": "localai"}
+], "systems": [], "note": ""}}}
+}}

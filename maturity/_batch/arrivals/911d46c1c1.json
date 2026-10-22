@@ -1,32 +1,4 @@
-{
- "slug": "2026-03-31-mrt-communique-de-presse-ministere-de-la-transformation-numerique-et-de-la",
- "studies": {
-  "dataprotectionlaw": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [],
-     "note": "Document reports a digital police recruitment exam; names no data protection law, authority or decision."
-    }
-   }
-  },
-  "police": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Khidmaty",
-       "country_label": "Khidmaty",
-       "class": "other",
-       "platform": "",
-       "owner": "MTNIMA",
-       "tiers": ""
-      }
-     ],
-     "note": "Document covers a recruitment exam via Khidmaty, not station records of reports or cases."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-03-31-mrt-communique-de-presse-ministere-de-la-transformation-numerique-et-de-la", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The digital transformation ministry (MTNIMA) says it and the national security directorate (DGSN) ran the 2026 police recruitment exam with AI checking the authenticity of 1,459 applications via Khidmaty (513 retained), AI-generated questions and automatic marking.", "as_of": "2026-03-29", "date_precision": "day", "system": "Khidmaty AI-run recruitment exam", "class": "govai"}], "systems": [{"system": "Khidmaty", "country_label": "Mauritanie", "class": "govai", "platform": "", "owner": "MTNIMA", "tiers": ""}], "note": ""}}}
+}}

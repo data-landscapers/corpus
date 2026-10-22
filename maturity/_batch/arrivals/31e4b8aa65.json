@@ -1,0 +1,33 @@
+{"slug": "2026-01-01-rwa-rwanda-digital-health-case-study", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only health-sector AI is named, not AI in general administration."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Global Fund case study says Rwanda uses AI in its public health system, with mobile vans screening for TB using AI software, computer-aided diagnostics reading digital chest X-rays to detect TB, and AI-assisted triage for TB case finding.", "as_of": "2026-01", "date_precision": "month", "system": "Computer-aided diagnostics for TB", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Global Fund case study says an AI-powered mobile app allows Rwandan community health workers to identify mpox skin lesions using smartphones.", "as_of": "2026-01", "date_precision": "month", "system": "AI mpox lesion app", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "AI use is described; no model, dataset or AI computing built or hosted in Rwanda is stated."}}},
+"digitalstrategy": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Rwanda Digital Health Strategy", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": "Only a sector (health) digital strategy is named, under update for 2026; no national digital strategy is described."}}},
+"health": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "emr", "aspect": "clinics", "value": "share:60%", "fact": "The Global Fund case study says eBuzima, Rwanda's health facility EMR, has been deployed in an estimated 60% of health facilities in the country and continues to be expanded.", "as_of": "2026-01", "date_precision": "month", "system": "eBuzima", "class": "emr"}
+], "systems": [
+{"system": "eBuzima", "country_label": "Rwanda", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+{"system": "community EMR", "country_label": "Rwanda", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+{"system": "eCHIS", "country_label": "Rwanda", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+], "note": ""}}},
+"healthexchange": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Global Fund case study says Rwanda's Ministry of Health has made the laboratory information systems, the HMIS and the Reagent Management System interoperable, giving end-to-end visibility across testing, results and stock.", "as_of": "2026-01", "date_precision": "month", "system": "Laboratory information systems, HMIS and Reagent Management System", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "breadth", "value": "wide", "fact": "The Global Fund case study says three systems, the laboratory information systems, the HMIS and the Reagent Management System, are interoperable in Rwanda, and that a health information exchange at facility level lets clinicians draw on patients' past encounters.", "as_of": "2026-01", "date_precision": "month", "system": "Laboratory information systems, HMIS and Reagent Management System", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Global Fund case study says Rwanda has a national health management information system (HMIS) to which community and laboratory data are linked, and that its investments in HMIS are delivering measurable results.", "as_of": "2026-01", "date_precision": "month", "system": "national HMIS", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "The Global Fund case study says Rwanda's electronic community health information system (eCHIS) is linked to the national HMIS for surveillance of malaria, TB and HIV, and that laboratory information systems are interoperable with the HMIS and the Reagent Management System.", "as_of": "2026-01", "date_precision": "month", "system": "national HMIS", "class": "hmis"}
+], "systems": [{"system": "national HMIS", "country_label": "Rwanda", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "use", "aspect": "users", "value": "estimate:34.2", "fact": "The Global Fund case study cites the World Bank as saying 34.2% of Rwandans were internet users as of 2023.", "as_of": "2023", "date_precision": "year", "system": "World Bank internet users", "class": "use"}
+], "systems": [], "note": ""}}},
+"ruralelectrification": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only the national electricity access figure (63.9%, 2023) is given, not the rural one."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No startup law, labelling or fund is stated."}}},
+"techhubs": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Global Fund case study says HealthTech Hub Africa, a pan-African health tech accelerator co-funded by the Global Fund and others, is based in Kigali at Norrsken House, with no startup cohort or programme described.", "as_of": "2026-01", "date_precision": "month", "system": "HealthTech Hub Africa", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

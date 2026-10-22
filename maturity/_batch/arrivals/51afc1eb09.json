@@ -1,0 +1,9 @@
+{"slug": "2026-03-13-tgo-togo-l-etat-deploie-l-intelligence-artificielle-pour-traquer-les-fraud", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The AI is in tax and market inspection, a sector system."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Sika Finance reports the economy minister officially launched the AI-based Digital Market Intelligence platform, which cross-checks tax-marking and inspection data to give inspectors predictive indications of risk zones.", "as_of": "2026-03-12", "date_precision": "day", "system": "Digital Market Intelligence", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "Sika Finance reports an announced precision rate of 89.89% for the Digital Market Intelligence platform.", "as_of": "2026-03-12", "date_precision": "day", "system": "Digital Market Intelligence", "class": "sectorai"}
+], "systems": [{"system": "Digital Market Intelligence", "country_label": "Togo", "class": "sectorai", "platform": "SICPA platform", "owner": "Ministry of Economy and Strategic Monitoring", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Designed by Swiss group SICPA; no local development stated."}}}
+}}

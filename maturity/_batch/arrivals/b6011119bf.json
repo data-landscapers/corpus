@@ -1,0 +1,63 @@
+{
+ "slug": "2026-01-02-cod-use-case-snapiform",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "SnapiForm says it piloted an AI tool in the DRC, with PATH and the health ministry, to extract data from paper health reports into DHIS2.",
+       "as_of": "2026-01-02",
+       "date_precision": "day",
+       "system": "SnapiForm",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SnapiForm",
+       "country_label": "DRC",
+       "class": "sectorai",
+       "platform": "DHIS2",
+       "owner": "SnapiForm with PATH",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "digitised",
+       "value": "district",
+       "fact": "SnapiForm says a Health Zone data manager in the DRC enters data from 30-150 facilities' paper reports into DHIS2 every month, with reporting timeliness about 30%.",
+       "as_of": "2026-01-02",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "DHIS2 entry at Health Zone level is described; a national system in service is not stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2025-11-24-uga-cad4tb-s-precision-play-threshold-45-optimizes-tb-screening-in-westnil", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The abstract states nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The abstract concerns TB screening, a health sector system, not general administration."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Uganda Catholic Medical Bureau authors state that Uganda uses AI-assisted chest X-ray screening (CAD4TB) in TB screening, applying a national threshold of 50 to identify presumptive TB cases.", "as_of": "2025-11-24", "date_precision": "day", "system": "CAD4TB", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "A retrospective review of 6,000 West Nile X-ray records (2021-2024) reports CAD4TB v7 at the national 50 threshold had 96.3% sensitivity and 98.0% specificity, identifying 181 of 188 GeneXpert-confirmed cases with 274 referrals.", "as_of": "2024", "date_precision": "year", "system": "CAD4TB", "class": "sectorai"}
+], "systems": [{"system": "CAD4TB", "country_label": "Uganda", "class": "sectorai", "platform": "AI-assisted digital chest X-ray, computer-aided diagnosis", "owner": "TB screening programme", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "CAD4TB is a product used in Uganda; the abstract states no model, dataset or computing built or hosted in the country."}}},
+"qualitystandards": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The abstract states nothing on national standards or certification."}}}
+}}

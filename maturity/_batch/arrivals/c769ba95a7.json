@@ -1,73 +1,55 @@
 {
  "slug": "2026-10-20-ben-presidence-de-la-republique-un-comite-national-du-numerique-cree",
  "studies": {
-  "aiabuse": {
+  "cloudstrategy": {
    "countries": {
     "BEN": {
      "facts": [],
      "systems": [],
-     "note": "The committee is to anticipate AI developments and alert authorities; no rule or authority on AI harms is stated."
+     "note": "Not stated in this document."
     }
    }
   },
-  "aigovernment": {
+  "datagovernance": {
    "countries": {
     "BEN": {
      "facts": [],
      "systems": [],
-     "note": "No government use of an AI system is stated."
+     "note": "Protects strategic data security; no data policy stated."
     }
    }
   },
-  "aisectoral": {
+  "datalocalisation": {
    "countries": {
     "BEN": {
      "facts": [],
      "systems": [],
-     "note": "No AI tool in a sector's public system is stated."
+     "note": "Not stated in this document."
     }
    }
   },
-  "aisystems": {
-   "countries": {
-    "BEN": {
-     "facts": [],
-     "systems": [],
-     "note": "No locally built AI model, dataset or computing is stated."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "BEN": {
-     "facts": [],
-     "systems": [],
-     "note": "The article concerns state data security, not a data protection law."
-    }
-   }
-  },
-  "digitalsovereignty": {
+  "digitalstrategy": {
    "countries": {
     "BEN": {
      "facts": [
       {
-       "sub_indicator": "sovereignty",
-       "aspect": "rule",
-       "value": "underway",
-       "fact": "Decree 2026-579 of 2 September 2026 created a National Digital Committee under the President, with protection of strategic data among its priorities and a mandate to give a prior opinion on technology partnerships that could engage national digital sovereignty.",
+       "sub_indicator": "national",
+       "aspect": "governance",
+       "value": "body:mandated",
+       "fact": "Benin's decree no. 2026-579 of 2 September 2026 created a National Digital Committee attached to the President, charged with steering the state's digital transformation and ensuring coherence of the national strategy.",
        "as_of": "2026-09-02",
        "date_precision": "day",
-       "system": "Comité national du Numérique",
-       "class": "sovereignty"
+       "system": "Comit\u00e9 national du Num\u00e9rique",
+       "class": "national"
       }
      ],
      "systems": [
       {
-       "system": "Comité national du Numérique",
-       "country_label": "Benin",
+       "system": "Comit\u00e9 national du Num\u00e9rique",
+       "country_label": "Comit\u00e9 national du Num\u00e9rique",
        "class": "other",
        "platform": "",
-       "owner": "Presidency of the Republic",
+       "owner": "Presidency",
        "tiers": ""
       }
      ],

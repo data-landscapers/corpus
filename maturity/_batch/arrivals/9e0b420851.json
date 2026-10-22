@@ -1,0 +1,157 @@
+{
+ "slug": "2026-08-06-mwi-malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digi",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The Principal Secretary of the Department of eGovernment said the National AI Strategy has been drafted and is in stakeholder consultation before adoption.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Civil works at the new National Data Centre are complete; no service or hire stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Under DMAP, safeguards assessments are complete for over 500 public institutions earmarked for connectivity and 100 telecom towers planned for rural and underserved communities.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Digital Malawi Acceleration Project",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "DMAP describes the Bomalathu eService Portal as a one-stop national platform letting citizens access government services online.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Bomalathu eService Portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "DMAP has procured 2,400 biometric registration kits for the National Registration Bureau.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "National Registration Bureau biometric registration",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no fact this study asks."
+    }
+   }
+  }
+ }
+}

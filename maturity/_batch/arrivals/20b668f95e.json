@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-25-tza-nest-digital-procurement-world-bank",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The Business Wiz reports the National e-Procurement System (NeST) is developed and maintained by the Public Procurement Regulatory Authority's own technical team.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "National e-Procurement System (NeST)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NeST",
+       "country_label": "Tanzania",
+       "class": "staff",
+       "platform": "e-procurement",
+       "owner": "Public Procurement Regulatory Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

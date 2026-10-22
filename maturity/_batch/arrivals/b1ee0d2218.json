@@ -1,0 +1,12 @@
+{"slug": "2026-04-21-cpv-cabo-verde-tem-sido-um-exemplo-naquilo-que-e-a-governacao-da-internet", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Officials only argue for an AI regulatory framework; no draft or rule is stated."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "An official says AI adds value to state processes; no system in use or under way is stated."}}},
+"ailaw": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Officials discuss regulating AI; no draft text or rule is named."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing stated on AI in a sector's public system."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing stated on AI built or hosted in the country."}}},
+"civilserviceskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "An official says public administration needs digital literacy; no training is stated."}}},
+"digitalskills": {"countries": {"CPV": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The ARME chair says the regulator ARME has been carrying out many digital literacy actions, notably in schools, and a mentoring session on digital literacy for 60 girls from 10 Praia lyceums was set for 22-23 April 2026.", "as_of": "2026-04-21", "date_precision": "day", "system": "ARME digital literacy actions", "class": "publicskills"}], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The Internet Governance Forum is a forum with no named law or policy put to it."}}},
+"startups": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Startups are only mentioned as forum participants; no startup law, strategy or fund is stated."}}},
+"techhubs": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The Tech Park is only the forum venue; no hub programme or tenants are stated."}}}
+}}

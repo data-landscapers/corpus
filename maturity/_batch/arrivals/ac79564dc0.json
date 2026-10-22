@@ -1,0 +1,8 @@
+{"slug": "2025-05-03-ken-kra-uses-ai-for-screening-intercepts-fishy-cargo-in-first-week-of-tria", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The AI is in customs screening, a sector system."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Business Daily reports the Kenya Revenue Authority plans AI screening of incoming shipments and says a week of trial use produced 'some serious interceptions'.", "as_of": "2025-05-03", "date_precision": "day", "system": "KRA AI cargo screening", "class": "sectorai"}
+], "systems": [{"system": "KRA AI cargo screening", "country_label": "Kenya", "class": "sectorai", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States nothing on local AI models, datasets or computing."}}}
+}}

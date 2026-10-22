@@ -1,0 +1,7 @@
+{"slug": "2026-06-12-mdg-the-national-workshop-on-data-analytics-for-madagascar-customs", "studies": {
+"aiabuse": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A customs training workshop only."}}},
+"aisectoral": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A WCO training workshop and roadmap for customs; no AI tool in use or being built is stated."}}},
+"aistrategy": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No national AI strategy mentioned."}}},
+"aisystems": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No model, dataset or AI computing stated."}}}
+}}

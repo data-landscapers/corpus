@@ -1,0 +1,211 @@
+{
+ "slug": "2026-10-21-eth-ethiopia-calls-for-data-driven-policymaking-to-accelerate-africas-progress",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "President Taye Atske Selassie said Fayda, the national digital ID programme, enables secure electronic verification.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "President Taye Atske Selassie described Fayda as the national digital identification programme that enables electronic verification and access to banking, mobile money and telecoms.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Account count of 257 million is not a survey share of adults."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "President Taye Atske Selassie said mobile money and mobile banking accounts reached 257 million and processed more than ETB 24 trillion in the first nine months of 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "President Taye Atske Selassie said Ethiopia has reformed its statistical legislation and established an independent statistical service.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "statistical legislation",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}
