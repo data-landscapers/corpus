@@ -66,7 +66,7 @@ The cycle has no stage of its own — steps 1 and 4 are jobs with their own runb
 
 ## Running unattended — a cycle ends three ways
 
-Both halves forbid stopping to ask, and the cycle and **every agent it starts** inherit that whole: each brief says so. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). The drain sits ahead of all three and ends none of them. Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it.
+Both halves forbid stopping to ask; the cycle and **every agent it briefs** inherit that. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). The drain sits ahead of all three and ends none of them. Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it.
 
 ## What starts a cycle — `scripts/osint-cycle-ready.py`
 
