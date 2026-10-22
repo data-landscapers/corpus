@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services",
+  "title": "LAUNCH OF NEW DIGITAL SOLUTIONS FOR PUBLIC SERVICES",
+  "publisher": "Department of Immigration and Civil Status",
+  "published": "2024-09-18",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "SeyID virtual ID and CertExpress certificates via ICS with DICT"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/public/articles/21170/DICT+What's+New+New+online+tools+to+help+push+Seychelles+towards+digital+era",
+  "title": "DICT What's New: New online tools to help push Seychelles towards digital era",
+  "publisher": "Seychelles News Agency",
+  "published": "2024-09-07",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "SeyID and CertExpress on the digital ID"
+ },
+ {
+  "url": "https://www.nation.sc/articles/17824/new-birth-and-death-notification-system-rolled-out",
+  "title": "New birth and death notification system rolled-out",
+  "publisher": "Seychelles Nation",
+  "published": "2023-05-16",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Electronic birth/death notification to Civil Status (Q2 context)"
+ },
+ {
+  "url": "https://www.ics.gov.sc/about/department/civil-status-division",
+  "title": "Civil Status Division",
+  "publisher": "Department of Immigration and Civil Status",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "One division holds vital events, National Population Database and issues ID cards (Q2)"
+ },
+ {
+  "url": "https://www.ics.gov.sc/civil-status/national-identity-card",
+  "title": "National Identity Card",
+  "publisher": "Department of Immigration and Civil Status",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "ID card requires birth certificate; NIN process (Q2)"
+ },
+ {
+  "url": "https://ics.gov.sc/civil-status/birth-registration",
+  "title": "Birth Registration",
+  "publisher": "Department of Immigration and Civil Status",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Birth registration process requires parents' IDs (Q2)"
+ },
+ {
+  "url": "https://www.seyid.gov.sc/",
+  "title": "SeyID Portal",
+  "publisher": "Department of Information Communications Technology",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "SeyID needs valid NIN; CertExpress e-doc wallet (Q1/Q2)"
+ },
+ {
+  "url": "https://www.nation.sc/articles/2856/civil-status",
+  "title": "National Population Data Information System (NPDIS) fully operational",
+  "publisher": "Seychelles Nation",
+  "published": "2019-12-19",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Civil status and ID data in one system, entered once (Q2)"
+ }
+]

@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "3",
-   "link": "inservice",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: Civil Registration Services say birth records and ID registration carry each other's numbers and birth records verify identity at ID registration (2026). Nothing held says deaths retire ID numbers.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

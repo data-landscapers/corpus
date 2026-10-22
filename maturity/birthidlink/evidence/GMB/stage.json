@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GMB-001;GMB-003",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: a 2024 MoU and the 2025 State of the Nation plan integration; the 2023 World Bank account of a working link is outside the window. Nothing held since October 2023 says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

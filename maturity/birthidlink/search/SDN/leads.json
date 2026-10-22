@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.weforum.org/stories/2026/01/digital-identity-platform-sudan-recovery/",
+  "title": "How to build trust alongside Sudan's digital identity system",
+  "publisher": "World Economic Forum",
+  "published": "2026-01-29",
+  "sub_indicator": "link",
+  "why": "Q1-Q2: digital ID and interoperability across ministries"
+ },
+ {
+  "url": "https://sudanplatform.net/128817",
+  "title": "تدشين لجنة عليا لتعزيز الرقمنة وتسجيل المواليد والوفيات",
+  "publisher": "منصة السودان",
+  "published": "2026-03-16",
+  "sub_indicator": "link",
+  "why": "Q1: health-civil registry electronic link planned (MoU)"
+ },
+ {
+  "url": "https://alahdonline.net/%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%84%d9%8a%d8%af-%d9%88%d8%a7%d9%84%d9%88%d9%81%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86/",
+  "title": "تسجيل المواليد والوفيات في السودان: تحرك رسمي لتعزيز",
+  "publisher": "الأهد أونلاين",
+  "published": "2026-03-16",
+  "sub_indicator": "link",
+  "why": "Q1: civil registry digital link with health, national registry"
+ },
+ {
+  "url": "https://sudan4news.com/?p=18271",
+  "title": "السجل المدني يعلن جاهزيته لتشغيل نظام البطاقة الشخصية القومية",
+  "publisher": "سودان فور نيوز",
+  "published": "2025-04-10",
+  "sub_indicator": "link",
+  "why": "Q2: civil registry restores data and national number, ID card system"
+ },
+ {
+  "url": "https://coi.euaa.europa.eu/administration/norway/PLib/Landinfo_report_Sudan_Civil_registration_ID_documents_and_passports_03032023.pdf",
+  "title": "Report Sudan Civil Registration, Identity Documents and Passports",
+  "publisher": "Landinfo",
+  "published": "2023-03-03",
+  "sub_indicator": "link",
+  "why": "Q2-Q3: one civil registry issues national number, births registered then ID"
+ },
+ {
+  "url": "http://dspace.napata.edu.sd/items/b031b60f-d8a9-4da8-8635-bee0db07cffd/full",
+  "title": "دراسه حاله ربط سجل المواليد بالسجل المدني",
+  "publisher": "Napata College",
+  "published": "2022",
+  "sub_indicator": "link",
+  "why": "Q1: web system sending births to civil registry for national number"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/410701602468022759/pdf/Sudan-Sudan-Family-Support-Project.pdf",
+  "title": "Sudan Family Support Project",
+  "publisher": "World Bank",
+  "published": "2020",
+  "sub_indicator": "link",
+  "why": "Q1: civil registry / national number link for registration"
+ }
+]

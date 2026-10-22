@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;reported",
+  "fact": "Integration between CRVS and ID systems for flagging deceased records with ID numbers was completed, and over 7,500 deaths had been flagged in the NRIS database.",
+  "title": "Inclusive Digital Transformation for Malawi (IDT4M) Quarterly Progress Report, Apr-Jun 2024",
+  "publisher": "UNDP Malawi",
+  "published": "2024",
+  "date_source": "proxy",
+  "why_not": ""
+}

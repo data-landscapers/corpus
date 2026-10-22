@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "reported;events",
+  "fact": "The NRB presentation reports recording of 179,000 deaths with automated flagging in NRIS, 3.5 million births registered with unique identifiers, and electronic birth and death registration in 142 health facilities with real-time data synchronization.",
+  "title": "National Registration Bureau (Evolution of the National Registration Bureau: 2015-2025)",
+  "publisher": "National Registration Bureau, Malawi (ID4Africa 2025)",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

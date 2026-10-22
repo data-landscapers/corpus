@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "3",
-   "link": "inservice",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: a 2026 regional study names Eswatini among countries running an integrated civil registration and ID model. Nothing held says which events pass.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

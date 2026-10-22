@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://idtechwire.com/libyan-prosecutor-reports-more-than-315000-unlawful-national-id-numbers/",
+  "title": "Libyan Prosecutor Reports More Than 315,000 Unlawful National ID Numbers",
+  "publisher": "ID Tech",
+  "published": "2026-10-14",
+  "sub_indicator": "link",
+  "why": "Q4 reconciliation of Civil Registry database against national ID records, figures"
+ },
+ {
+  "url": "https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/",
+  "title": "Libyan Prosecutors Uncover Large-Scale Identity Manipulation",
+  "publisher": "LibyaReview",
+  "published": "2025-12-09",
+  "sub_indicator": "link",
+  "why": "Q3/Q4 national ID system compared with civil status registry; 17,000 numbers deleted"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=325035&lang=ar",
+  "title": "تواصل مشروع الانطلاقة لمطابقة البيانات الالكترونية بمنظومة الأحوال المدنية",
+  "publisher": "Libyan News Agency (LANA)",
+  "published": "2025-01-26",
+  "sub_indicator": "link",
+  "why": "Q1/Q2 civil registry system tied to other databases; births and deaths reporting"
+ },
+ {
+  "url": "https://libyaherald.com/2024/09/pm-aldabaiba-follows-up-on-intilaqa-project-for-matching-civil-registry-electronic-data-with-paper-records",
+  "title": "Libya Advances Project Intilaqa to Clean Civil Registry Database",
+  "publisher": "Libya Herald",
+  "published": "2024-09-06",
+  "sub_indicator": "link",
+  "why": "Q2 National ID Number issued by Civil Registry Authority; matched figures"
+ },
+ {
+  "url": "https://libyaherald.com/2023/10/attorney-general-evaluates-first-results-of-review-into-libyan-citizens-civil-status-auditing-residence-records-and-births-deaths-and-marriage-registration/",
+  "title": "Attorney General evaluates first results of review into Libyan citizen's civil status",
+  "publisher": "Libya Herald",
+  "published": "2023-10-08",
+  "sub_indicator": "link",
+  "why": "Q1 linking Civil Registry and passport databases; CRA database basis of National ID Number"
+ },
+ {
+  "url": "https://alwasat.ly/news/libya/398795",
+  "title": "«الأحوال المدنية» تفتتح منظومة الرقم الإداري بسبها",
+  "publisher": "Alwasat",
+  "published": "2023-05-15",
+  "sub_indicator": "link",
+  "why": "Q3 births registered and deaths struck off in the administrative number system"
+ },
+ {
+  "url": "https://libyaherald.com/2022/08/attorney-general-reviews-cases-and-investigations-in-lengthy-press-conference",
+  "title": "Libyan Attorney General Addresses Mass Fraud and Investigations",
+  "publisher": "Libya Herald",
+  "published": "2022-08-18",
+  "sub_indicator": "link",
+  "why": "Q4 64,000 national numbers in NID system absent from civil registry"
+ },
+ {
+  "url": "https://security-legislation.ly/latest-laws/law-no-8-of-2014-on-the-national-id-number/",
+  "title": "Law No. (8) of 2014 on the national ID number",
+  "publisher": "DCAF Legal Databases",
+  "published": "2021-07-13",
+  "sub_indicator": "link",
+  "why": "Q2 national ID number granted at birth from Civil Registry data"
+ }
+]

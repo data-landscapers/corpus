@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The May 2026 ID4D diagnostic says South Sudan issues no birth certificates yet, that the Ministry of Health plans to share birth notification letters with the Ministry of Interior, and that birth certificates and the NIC are planned for integration into the National Data Source.",
+  "title": "Country Diagnostic: South Sudan",
+  "publisher": "World Bank (ID4D)",
+  "published": "2026-05",
+  "date_source": "source",
+  "why_not": ""
+}

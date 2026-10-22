@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COM-001",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: a 2026 study creates a civil-registration ID number and plans interoperability. Nothing held says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

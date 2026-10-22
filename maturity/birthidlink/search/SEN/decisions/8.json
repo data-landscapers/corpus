@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The JICA survey (2021) found the civil register (DEC) and the national ID (DAF) not yet interoperable, and Enabel advised a central data-sharing platform in place of a direct DEC-DAF data exchange.",
+  "title": "Etude de base sur la numérisation du système d'identification nationale en République du Sénégal",
+  "publisher": "JICA",
+  "published": "2022-01",
+  "date_source": "source",
+  "why_not": ""
+}

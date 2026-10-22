@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The SCAPP 2024 implementation report (April 2025) says no system covers all births, a pilot for real-time birth and death registration in health facilities planned for 2025 is awaiting funding, and the national register is connected to other national information systems (immigration, road safety) with civil status databases interconnected.",
+  "title": "Rapport de mise en oeuvre de la SCAPP pour l'année 2024",
+  "publisher": "Ministère de l'Economie et des Finances, Direction Générale des Stratégies et Politiques de Développement, Mauritanie",
+  "published": "2025-04",
+  "date_source": "source",
+  "why_not": ""
+}

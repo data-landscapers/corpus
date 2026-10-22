@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "3",
-      "link": "inservice",
+      "stage": "2",
+      "link": "underway",
       "events": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-005",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TCD-003;TCD-004;TCD-005",
+      "gaps": "No source held since October 2023 says records pass between the civil register and the ID system beyond one hospital desk.",
+      "note": "Rebuild: the only link in service is an NNI issued at one hospital desk, which its 2026 source calls an experience to scale; the rest is planned. A pilot is stage 2, so the first pass's stage 3 is lowered.",
+      "as_at": "2026-10-22"
     }
   ]
 }

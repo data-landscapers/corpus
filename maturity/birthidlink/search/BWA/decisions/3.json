@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The Births and Deaths Registration System is interfaced with the National Identification System, which allocates the unique birth registration number to a citizen child at birth; the same number becomes the Omang number at 16.",
+  "title": "Vital Statistics Report 2022 (Version 2)",
+  "publisher": "Statistics Botswana",
+  "published": "2025-01",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "unplaced",
-   "link": "",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether the civil register and the ID system are linked.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: the Civil Status Division registers births and deaths, keeps the population database and issues ID cards, one body holding both, from a page dated 2026 and so inside the window. Nothing held says records pass by event.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COD-001",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: an ONIP expert says civil-status events are reported to ONIP for the population file (2024), the only and a thin source for a link in service. Nothing held shows births enrolling and deaths retiring numbers in practice.",
+      "as_at": "2026-10-22"
     }
   ]
 }

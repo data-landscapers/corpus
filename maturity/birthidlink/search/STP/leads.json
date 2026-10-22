@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://instituto-camoes.pt/sobre/comunicacao/noticias/sao-tome-e-principe-visita-dos-embaixadores-da-ue-ao-projeto-prese",
+  "title": "São Tomé e Príncipe: Visita dos Embaixadores da UE ao Projeto PReSE",
+  "publisher": "Camões, Instituto da Cooperação e da Língua",
+  "published": "2025-10-27",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1/Q2 system linking birth, death and civil ID records to electoral register"
+ },
+ {
+  "url": "https://rstp.st/wp-content/uploads/2025/09/NOTA-DE-IMPRENSA1.pdf",
+  "title": "Nota de Imprensa: PReSE",
+  "publisher": "Rádio Nacional de São Tomé e Príncipe",
+  "published": "2025-09",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1/Q2 interoperability platform SIGA and Bilhete de Identidade"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system",
+  "title": "São Tomé and Principe pilots MOSIP-based national digital ID system",
+  "publisher": "Biometric Update",
+  "published": "2025-06-05",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1 digital ID pilot started from civil registration"
+ },
+ {
+  "url": "https://rdpafrica.rtp.pt/noticias-africa/sao-tome-lanca-sistema-integrado-de-registo-civil/",
+  "title": "São Tomé lança sistema integrado de registo civil",
+  "publisher": "RDP África",
+  "published": "2025-03-03",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1 digital identity pilot at DGRN"
+ },
+ {
+  "url": "https://rdpafrica.rtp.pt/noticias-africa/cidadaos-sao-tomenses-vao-passar-a-ter-um-cartao-de-identidade-unica/",
+  "title": "Cidadãos são-tomenses vão passar a ter um cartão de identidade única",
+  "publisher": "RDP África",
+  "published": "2024-09-30",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1 single ID card, MOSIP pilot"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099032824212568030/txt/P171592-4790f2f6-54a3-46db-9a2f-d7c1e3005beb.txt",
+  "title": "Diagnóstico de registo civil e identificação de São Tomé e Príncipe",
+  "publisher": "World Bank",
+  "published": "2024-03",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1-Q2 RC and ID integration ongoing, Leginon link, NUI"
+ },
+ {
+  "url": "https://ooru.io/case-studies/sao-tome",
+  "title": "Digitising a Nation's Public Service Delivery",
+  "publisher": "Ooru Digital",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q1 MOSIP identity anchored in SIGA registry"
+ }
+]

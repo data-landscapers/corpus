@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "3",
-   "link": "inservice",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001",
-   "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: civil registration and the ID system are linked through the Autentika platform (2026). Nothing held says which events pass or that deaths retire ID numbers.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

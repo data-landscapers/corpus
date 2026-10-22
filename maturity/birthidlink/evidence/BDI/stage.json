@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BDI-001;BDI-003",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: one platform for civil registration and the new ID card was presented in May 2026, and the systems are not yet interoperable. Nothing held says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

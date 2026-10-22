@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf",
+  "title": "Expérience Algérienne dans la sécurisation du processus de numérisation de l'état civil et d'émission des documents biométriques d'identité et de voyage",
+  "publisher": "Ministère de l'Intérieur, des Collectivités locales et du Transport (ID4Africa)",
+  "published": "2026-05",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2-Q3: ID issuance system connected to national civil register via NIN"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf",
+  "title": "EGMRG 2026 Presentation (Algeria)",
+  "publisher": "Algeria Ministry of Interior (APAI-CRVS / UNECA)",
+  "published": "2026",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2-Q4: NIN generated automatically from RNAEC for each newborn; 3,000+ bodies connected"
+ },
+ {
+  "url": "https://assifa.dz/?p=8608",
+  "title": "سعيود: تعميم الخدمات الالكترونية على مستوى البلديات والولايات",
+  "publisher": "Assifa News",
+  "published": "2026-02-16",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2: NIN adopted as sole identifier linking databases"
+ },
+ {
+  "url": "https://doi.org/10.56334/sei/8.12.46",
+  "title": "Digital Transformation and Administrative Modernization: Electronic Municipalities in Algeria",
+  "publisher": "International Journal (IMCRA)",
+  "published": "2025-10-25",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2: NACSR connects municipalities, consulates, Ministry of Justice"
+ },
+ {
+  "url": "https://lasentinelle.dz/index.php/2024/04/04/une-revolution-dans-le-service-public/",
+  "title": "Une révolution dans le service public",
+  "publisher": "La Sentinelle",
+  "published": "2024-04-04",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2-Q4: NIN carried on civil registers; 100 million civil acts digitised"
+ },
+ {
+  "url": "https://www.algerie62.dz/service-public-lavancee-du-numerique-reduit-les-depenses/",
+  "title": "SERVICE PUBLIC: L'avancée du numérique réduit les dépenses",
+  "publisher": "Algérie 62",
+  "published": "2023-05-08",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2,Q4: 100 million civil acts digitised; all ministries access register"
+ },
+ {
+  "url": "https://demande12s.interieur.gov.dz/fr/",
+  "title": "Demande 12S Online",
+  "publisher": "Ministère de l'Intérieur (Algeria)",
+  "published": "",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2: birth act 12S generates the unique NIN from civil record"
+ },
+ {
+  "url": "https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf",
+  "title": "InF3-4 Abderrazak Henni MOI Algeria",
+  "publisher": "Ministère de l'Intérieur (ID4Africa 2019)",
+  "published": "2019",
+  "sub_indicator": "dpi.id--interoperability-of-birth-registration-and-digital-id",
+  "why": "Q2,Q4: NIN generated from civil records; 102 million acts in national register"
+ }
+]

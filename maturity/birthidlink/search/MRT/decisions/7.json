@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;reported",
+  "fact": "UNDP's June 2022 terms of reference state that ANRPTS has carried out biometric enrolment and managed the population database since 2010, that about 80% of the population is registered in it and about 24% of children aged 0-5 receive a birth certificate, and that the registry offers web APIs to authorised entities.",
+  "title": "TOR Digital Identity Pilot in Mauritania",
+  "publisher": "United Nations Development Programme",
+  "published": "2022-06-12",
+  "date_source": "source",
+  "why_not": ""
+}

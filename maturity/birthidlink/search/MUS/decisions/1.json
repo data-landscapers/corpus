@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;events",
+  "fact": "Government Notice No. 29 of 2024 provides that an identity card is valid up to the date of registration of the holder's death, and that the Head of the Unit shall ascertain that a person whose card is received is recorded in the civil identity register as deceased before perforating it, otherwise requiring a death certificate.",
+  "title": "Government Notice No. 29 of 2024, The National Identity Card Regulations 2024",
+  "publisher": "Government of Mauritius",
+  "published": "2024",
+  "date_source": "source",
+  "why_not": ""
+}

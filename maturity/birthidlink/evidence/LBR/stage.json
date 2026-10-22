@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LBR-002;LBR-001",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: a NID-CRVS system is contracted and awaits parliamentary approval (2026). Nothing held says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

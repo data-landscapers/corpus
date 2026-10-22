@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade",
+  "title": "Liberia to link national ID, CRVS in planned infrastructure upgrade",
+  "publisher": "Biometric Update",
+  "published": "2026-09-14",
+  "sub_indicator": "link",
+  "why": "Q1 planned link NID-CRVS under signed OeSD concession awaiting legislature"
+ },
+ {
+  "url": "https://allafrica.com/stories/202609080549.html",
+  "title": "Liberia's U.S.$54.7m Digital ID Deal Awaits Legislative Approval, NIR Says",
+  "publisher": "allAfrica.com",
+  "published": "2026-09-07",
+  "sub_indicator": "link",
+  "why": "Q1 planned integration of ID with CRVS in contracted concession"
+ },
+ {
+  "url": "https://moh.gov.lr/news/2026/liberia-showcases-a-decade-of-progress-in-civil-registration-and-vital-statistics-at-africas-registrar-generals-meeting/",
+  "title": "Liberia Showcases a Decade of Progress in CRVS at Africa's Registrar Generals Meeting",
+  "publisher": "Ministry of Health",
+  "published": "2026-07-18",
+  "sub_indicator": "link",
+  "why": "Q1/Q2 health sector and NIR collaboration; interoperability priority 2026-2036"
+ },
+ {
+  "url": "https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/",
+  "title": "NIR, partners launch national ID documents for children under Six",
+  "publisher": "The Liberian Investigator",
+  "published": "2025-01-21",
+  "sub_indicator": "link",
+  "why": "Q1/Q2 pilot: MoH birth certificates feed NIR enrolment of under-sixes"
+ },
+ {
+  "url": "https://www.unicef.org/liberia/press-releases/new-era-inclusion-millions-children-gain-legal-identity",
+  "title": "A New Era of Inclusion: Millions of Children Gain Legal Identity",
+  "publisher": "UNICEF Liberia",
+  "published": "2024-12-12",
+  "sub_indicator": "link",
+  "why": "Q1 interoperability and integration in birth registration"
+ },
+ {
+  "url": "https://liberianinvestigator.com/unicef-oic-urges-stronger-collaboration-to-overcome-birth-registration-challenges-in-liberia/",
+  "title": "UNICEF OIC Urges Stronger Collaboration to Overcome Birth Registration Challenges in Liberia",
+  "publisher": "The Liberian Investigator",
+  "published": "2024-08-12",
+  "sub_indicator": "link",
+  "why": "Q1 CRVS-legal identity linkage via digitalisation"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf",
+  "title": "NIR Liberia presentation, ID4Africa 2024",
+  "publisher": "National Identification Registry / ID4Africa",
+  "published": "2024",
+  "sub_indicator": "link",
+  "why": "Q1/Q2 data-sharing interface NIR to MOHSW birth and death"
+ },
+ {
+  "url": "https://nir.gov.lr/index.php/about/faq",
+  "title": "Frequently Asked Questions about the National Identification Registry",
+  "publisher": "National Identification Registry",
+  "published": "",
+  "sub_indicator": "link",
+  "why": "Q1 births and deaths registry info used by NIR to issue numbers to under-sixes"
+ }
+]

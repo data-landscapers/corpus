@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The CNI piloted the RIUC database by deduplicating and reconciling the CIN and Madania civil register databases (about 14 million records as of February 2018), and the full system is to keep permanent links with both so the RIUC is updated with new births, deaths and changes.",
+  "title": "Identification for Development: Diagnostic of ID Systems in Tunisia",
+  "publisher": "World Bank Group",
+  "published": "2019",
+  "date_source": "source",
+  "why_not": ""
+}

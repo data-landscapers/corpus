@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-22 02:00 · **REBUILD** · 1m · birthidlink: stage 3 read two ways (one body holds both registers: SLE SSD ZWE GIN SYC 3->2); not messaged, 5 open; staged as worded
+2026-10-22 02:00 · **REBUILD** · 13m · birthidlink link: 54 cells reassessed, 6 moved (TUN 3->4, EGY 2->3, SYC to 3, MDG TCD MOZ 3->2); second drafter 18/20; 54 searched, 114 staged; 4.4M subagent tokens — ok
+2026-10-22 01:56 · **REVIEW** · 10m · CMR: status 11 sections revised, progress 5 cells, finance 0 rows; 2 deals queued, 1 note for OSINT — ok
 2026-10-22 01:54 · **REBUILD** · 1m · aisystems: rung 3 read two ways (model built in-country only: 7 to 2, NER GNB unplaced); not messaged, 5 open; staged as worded
 2026-10-22 01:54 · **REBUILD** · 7m · aisystems localai: 52 cells reassessed, 1 moved (ERI to 3); second drafter 20/20, not blind; 54 searched, 178 staged; 4.7M subagent tokens — ok
 2026-10-22 01:46 · **BUILD** · 1h35m · catalogue 31,967; 433 sources, 21 moved, 175 minted; data centres 16; maturity 2,824 read, 57 cells moved; check N fixed; 3 deals scoped; bulletin 33; register 11; 4 ladder readings unmessaged (cap) — ok

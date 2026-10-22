@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-001",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the biometric population file was built from the civil register and NINA numbers attributed from it (2025). Nothing held says deaths retire numbers.",
+      "as_at": "2026-10-22"
     }
   ]
 }

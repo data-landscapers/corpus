@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "events;link",
+  "fact": "For births from 1 April 2021 a birth declaration is made to the RNPP, which gives the NPI and enters the national civil status file automatically, and a death activates the 'deceased' status in the identification system and records automatically in civil status, both held by the ANIP.",
+  "title": "Expérience du Bénin : GESTION INTÉGRÉE CRVS & ID",
+  "publisher": "ANIP (ID4Africa 2026)",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

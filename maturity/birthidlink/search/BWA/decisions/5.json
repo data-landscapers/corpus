@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The Births and Deaths Registration System is interfaced with the National Identification System, which provides the unique birth registration number that becomes the Omang number at 16; the provision of the number was introduced in 2004.",
+  "title": "Vital Statistics Report 2020",
+  "publisher": "Statistics Botswana",
+  "published": "2022-09",
+  "date_source": "source",
+  "why_not": ""
+}

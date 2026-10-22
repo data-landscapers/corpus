@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;events",
+  "fact": "When a birth is registered in the NCI-CRVS a NIN is generated and the system automatically pushes the record to the National Population Registry, and a registered death is likewise pushed with its NIN so the registry updates the deceased's vital status.",
+  "title": "Civil Registration and Vital Statistics, Mid Term Evaluation Strategic Plan Report",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2022-02",
+  "date_source": "source",
+  "why_not": ""
+}

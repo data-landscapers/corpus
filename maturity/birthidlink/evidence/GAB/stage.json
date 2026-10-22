@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "2",
-   "link": "underway",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source held since October 2023 says: is one link in service.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "2",
+      "link": "underway",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source held since October 2023 says: is one link in service.",
+      "note": "Rebuild: interconnecting the persons register, the ID and the civil registry is planned (2025). Nothing held says records pass.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/National%20Identification%20and%20Registration%20Authority_17.pdf,held,held as raw/2026/2026-01-01-nira-ministerial-policy-statement-fy2026-27.md,,0,,
+2,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-uganda.pdf,held,held as raw/2026/2026-07-18-nira-crvs-national-id-integration-egmrg.md,,0,,
+3,https://www.technoforte.co.in/news/uganda-to-launch-national-id-and-civil-registry-overhaul-with-mosip-and-opencrvs-led-by-technoforte/,held,held as raw/2025/2025-03-19-uganda-national-id-civil-registry-mosip-opencrvs.md,,0,,
+4,https://www.nira.go.ug/media/2024/10/PRESS-STATEMENT-ON-THE-MASS-ENROLMENT-EXERCISE-15th-October-2024.pdf,held,held as raw/2024/2024-10-15-nira-press-statement-mass-enrolment-status.md,,0,,
+5,https://ursb.go.ug/2024/09/20/civilregistrytransition/,fetched,,scripts/.workroot/study/birthidlink/cache/UGA/5.txt,267,html,SUPPORTING THE CIVIL REGISTRY TRANSITION
+6,"https://bills.parliament.ug/uploads/5855Registration_of_Persons_(Amendment)_Bill,_2024.pdf",fetched,,scripts/.workroot/study/birthidlink/cache/UGA/6.txt,1221,pdf,
+7,"https://bills.parliament.ug/attachments/DIA3-24-Report%20on%20the%20Registration%20of%20Persons%20(Amendment)%20Bill,%202024.pdf",fetched,,scripts/.workroot/study/birthidlink/cache/UGA/7.txt,1993,pdf,
+8,https://www.nira.go.ug/media/2022/11/BIRTH-REGISTRATION-HANDBOOK-Final.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,

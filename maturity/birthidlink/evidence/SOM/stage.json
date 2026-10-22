@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SOM-001;SOM-003",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: interfaces linking civil registration to the national ID were being tested (2025). Nothing held says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

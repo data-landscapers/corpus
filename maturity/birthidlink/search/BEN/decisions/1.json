@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;reported",
+  "fact": "The ANIP pilot report presented on 24 February 2026 says births declared and registered in ten health facilities feed the NPI by SMS, and gives 489,618 births declared and 107,451 registered in 2025 (21.95%) against 76.56% in the pilot.",
+  "title": "Enregistrement des naissances au Bénin : le guichet unique de l'ANIP fait bondir le taux de 21,95 % à 76,56 % en six mois",
+  "publisher": "Triomphe Mag",
+  "published": "2026-04-08",
+  "date_source": "proxy",
+  "why_not": ""
+}

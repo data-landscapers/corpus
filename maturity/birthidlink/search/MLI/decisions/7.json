@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The ANSAEC mandate is to build the database of registered persons from civil status data and to assign a National Identification Number to each person listed in it.",
+  "title": "Agence nationale de sécurisation des actes d'état civil",
+  "publisher": "Ministère de l'Administration territoriale et de la Décentralisation (matd.gouv.ml)",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [PRODIGY](<https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar>); [National digital ID (PRODIGY)](<https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id>); [IDMS](<https://digital.gov.mg/wp-content/uploads/2026/03/26-03-02-TDR-AUDIT-IDMS.pdf>); [Unique Identifier Number (NUI)](<https://techafricanews.com/2026/01/30/national-biometric-enrolment-begins-paving-way-for-digital-inclusion-in-madagascar/>); [Prodigy NUI](<https://2424.mg/education-un-numero-unique-didentification-a-attribuer-pour-chaque-eleve-de-la-cisco-datsimondrano/>); [national biometric enrolment operation (Izaho Tokana)](<https://www.banquemondiale.org/fr/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar>).
 
-***Not held***. No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.
+***Not held***. No source held since October 2023 says records pass between the civil register and the ID system.

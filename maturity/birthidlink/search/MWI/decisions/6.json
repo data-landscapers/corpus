@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "CRVS and NRIS are linked and share data: data captured by CRVS is transferred and stored in NRIS, and the NRB owns both systems.",
+  "title": "Malawi Health Data Ecosystem Mapping",
+  "publisher": "GIZ, Digital Innovation in Pandemic Control (DIPC), on behalf of BMZ",
+  "published": "2024",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "3",
-   "link": "inservice",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001;BWA-002",
-   "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001;BWA-002",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: the birth and death registration system is integrated with the ID system and gives each citizen child its number at birth (2026). Nothing held says deaths retire ID numbers.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

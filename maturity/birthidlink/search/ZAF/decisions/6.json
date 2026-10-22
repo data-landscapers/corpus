@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The DHA front office updates the NPR with the fact and date of death, while the death registration process is largely paper-based with little or no electronic data exchange between stakeholder platforms.",
+  "title": "Technical Landscape Analysis for Electronic Medical Certification of Cause of Death",
+  "publisher": "Vital Wave / South African Medical Research Council",
+  "published": "2022",
+  "date_source": "proxy",
+  "why_not": ""
+}

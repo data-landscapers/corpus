@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The final evaluation of Enabel's PARECIGUI Phase 2 (June 2026) reports that more than 445,000 civil records were migrated into the central E-RENEC base but interoperability had not been activated, so the ONI/PN-RAVEC identification base is not yet fed from civil registration data to assign the NPI automatically.",
+  "title": "Evaluation du Projet pilote d'amélioration du système d'état civil guinéen par l'effet catalyseur de la digitalisation (PARECIGUI Ext Phase 2)",
+  "publisher": "Enabel",
+  "published": "2026-06",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-001;NGA-005",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the NPC issues a NIN at birth registration through the e-CRVS (2024, 2025); a 2026 assessment found health-facility interoperability stalled, which does not reverse the registry link. Nothing held says deaths retire numbers.",
+      "as_at": "2026-10-22"
     }
   ]
 }

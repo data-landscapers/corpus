@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-002;DZA-003",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the ID issuing system is connected to the national civil register with the NIN as key (2026). Nothing held since October 2023 says deaths retire ID numbers.",
+      "as_at": "2026-10-22"
     }
   ]
 }

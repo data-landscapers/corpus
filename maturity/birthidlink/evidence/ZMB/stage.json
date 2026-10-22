@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZMB-002",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: INRIS runs birth registration, ID and death certificates in one system (2026); automated birth and death notifications are still being built. Nothing held says deaths retire ID numbers.",
+      "as_at": "2026-10-22"
     }
   ]
 }

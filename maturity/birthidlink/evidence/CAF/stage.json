@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "2",
-   "link": "underway",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001",
-   "gaps": "No source held since October 2023 says: is one link in service.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "2",
+      "link": "underway",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001",
+      "gaps": "No source held since October 2023 says: is one link in service.",
+      "note": "Rebuild: the SNID is to unify the biometric and civil-status databases from 2027. Nothing held says records pass.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [national ID](<https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case>); [National ID System (national number project)](<https://www.citc.com.eg/National%20ID%20SYSTEM.html>).
 
-***Not held***. No source held since October 2023 says: is one link in service.
+***Not held***. No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.

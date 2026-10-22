@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link",
+  "fact": "The civil registration and national ID management systems are not interoperable; local birth and death registration is manual and the national ID system only serves people aged 18 and over, while assigning a UPI at birth was decided in 2023 and is still in its infancy.",
+  "title": "CRVSID Case Studies: Kenya",
+  "publisher": "UNICEF / UN Legal Identity Agenda with Vital Strategies",
+  "published": "2023-09",
+  "date_source": "source",
+  "why_not": ""
+}

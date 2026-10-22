@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;events",
+  "fact": "NIDA's presentation shows the CRVS updating the National Population Registry and states that death registration is done by flagging the ID.",
+  "title": "Rwanda's journey in developing a home-grown end to end digitized CRVS System",
+  "publisher": "National Identification Agency (NIDA), Rwanda",
+  "published": "2022-10",
+  "date_source": "proxy",
+  "why_not": ""
+}

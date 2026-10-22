@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-001;CIV-004",
       "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: ONECI runs both registers, its civil-status server is linked to the register of persons (2025) and the parent's ID card feeds birth registration (2026). Nothing held says deaths retire ID numbers.",
+      "as_at": "2026-10-22"
     }
   ]
 }

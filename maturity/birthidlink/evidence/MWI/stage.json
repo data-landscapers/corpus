@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MWI-005;MWI-003",
       "gaps": "No source held since October 2023 gives a figure for records exchanged between the two.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: a birth generates the ID number and a death freezes the ID record (2024), and the NRB says both birth and death registration were integrated with the ID by February 2025. No figure for records exchanged is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

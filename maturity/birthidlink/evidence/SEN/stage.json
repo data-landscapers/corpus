@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-001;SEN-002",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: ANEC and DAF signed a data-exchange protocol (2025) and the form of integration awaits a decision (2026). Nothing held says records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

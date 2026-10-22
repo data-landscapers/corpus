@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://uracsenegal.sn/2026/09/17/la-cdp-accelere-linteroperabilite-entre-letat-civil-et-les-systemes-didentification-publics/",
+  "title": "La CDP accélère l'interopérabilité entre l'état civil et les systèmes d'identification publics",
+  "publisher": "URAC Sénégal",
+  "published": "2026-09-17",
+  "sub_indicator": "link",
+  "why": "Q1-Q4: interoperability work civil register and ID"
+ },
+ {
+  "url": "https://www.vie-publique.sn/docs/bb40135a-aed9-4f0b-a008-470536c20193/rapport-commission-projet-loi-21-2026-modification-carte-identite-biometrique-cedeao-senegal.pdf",
+  "title": "Rapport projet de loi 21/2026 carte d'identité biométrique CEDEAO",
+  "publisher": "Assemblée nationale du Sénégal",
+  "published": "2026-09",
+  "sub_indicator": "link",
+  "why": "Q1: state of civil register and DAF"
+ },
+ {
+  "url": "https://aps.sn/signature-dune-convention-dinteroperabilite-entre-lanec-et-la-daf-pour-la-securisation-de-lidentite-au-senegal/",
+  "title": "Signature d'une convention d'interopérabilité entre l'ANEC et la DAF",
+  "publisher": "APS",
+  "published": "2025-07-01",
+  "sub_indicator": "link",
+  "why": "Q1-Q3: protocol for birth/death notification and ID cancellation on death"
+ },
+ {
+  "url": "https://www.child-identity.org/wp-content/uploads/2025/07/PRESENTATIONETATSENEGAL-Aliou-Sall.pdf",
+  "title": "Présentation des rôles, fonctionnalités et avantages du LGEC",
+  "publisher": "ANEC",
+  "published": "2025-07",
+  "sub_indicator": "link",
+  "why": "Q1-Q4: RNEC, interoperability, figures"
+ },
+ {
+  "url": "https://www.rts.sn/actualite/detail/a-la-une/le-senegal-a-numerise-20-millions-dactes-detat-civil-sur-un-objectif-de-30-millions",
+  "title": "Le Sénégal a numérisé 20 millions d'actes d'état civil",
+  "publisher": "RTS",
+  "published": "2025-03-18",
+  "sub_indicator": "link",
+  "why": "Q1: interministerial meeting on civil register digitisation"
+ },
+ {
+  "url": "https://primature.sn/publications/actualites/reunion-interministerielle-sur-letat-civil",
+  "title": "Réunion interministérielle sur l'état civil",
+  "publisher": "Primature du Sénégal",
+  "published": "2025",
+  "sub_indicator": "link",
+  "why": "Q1: orders interoperability; notes lack of it"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T2-P1-S2-1-SENEGAL_FINAL.pdf",
+  "title": "Perspectives du Sénégal sur les progrès réalisés",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "sub_indicator": "link",
+  "why": "Q1-Q4: civil register and ID progress"
+ },
+ {
+  "url": "https://openjicareport.jica.go.jp/pdf/12363198.pdf",
+  "title": "Etude de base sur la numérisation du système d'identification nationale en République du Sénégal",
+  "publisher": "JICA",
+  "published": "2021",
+  "sub_indicator": "link",
+  "why": "Q1: civil register and CNI link, planned two-way exchange"
+ }
+]

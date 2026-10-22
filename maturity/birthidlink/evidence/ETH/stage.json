@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ETH-004;ETH-002",
       "gaps": "No source held since October 2023 says: is one link in service.",
-      "note": "First pass: counted from the four questions by study-ladder-birthidlink.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: Fayda integration with civil registration is under way, nationally and in Addis Ababa (2024 to 2026). Nothing held says which records pass.",
+      "as_at": "2026-10-22"
     }
   ]
 }

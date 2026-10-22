@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "link",
+  "aspect": "link;events;reported",
+  "fact": "In Rwanda the NCI-CRVS database was connected to the National Population Register in 2020; for 2022 the report gives 93% birth registration and 31% death registration and says 69% of deaths were not notified to the register for deactivation of ID.",
+  "title": "CRVSID Case Studies: Summary Report (Bangladesh, Bhutan, Colombia, Kenya, Namibia and Rwanda)",
+  "publisher": "UNICEF / UN Legal Identity Agenda with Vital Strategies",
+  "published": "2023-09",
+  "date_source": "source",
+  "why_not": ""
+}

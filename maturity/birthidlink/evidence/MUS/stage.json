@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "link",
-   "stage": "3",
-   "link": "inservice",
-   "events": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-   "note": "First pass: counted from the four questions by study-ladder-birthidlink.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "link",
+      "stage": "3",
+      "link": "inservice",
+      "events": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: 2024 regulations end an ID card's validity at death registration, checked against the civil identity register, one event. Nothing held says births enrol people in the ID system.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }
