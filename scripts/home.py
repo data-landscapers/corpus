@@ -467,26 +467,18 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
 
 {chrome}
 
-  <div class="stat-bar">
-    <div class="stat-bar__inner">
-      <span class="stat-bar__label">Primary sources in corpus</span>
-      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
-      <span class="stat-bar__item">Countries covered <strong>{ncountries}</strong></span>
-    </div>
-  </div>
-
   <main id="main">
   <div class="container">
 
     <!-- h2, matching Regions below (Bill, 2026-09-02) — both are sections of one
          page, not a page title, so neither takes an h1. The page title above them
          is the house page head (2026-09-11), which every page carries. -->
-    <header class="article-header article-header--norule">
+    <header class="article-header article-header--norule article-header--tight">
       {feedback}
       <h1 class="article-header__title">Countries &amp; Regions{about}</h1>
     </header>
     {panel}
-    <h2 class="section-heading" id="countries">Countries</h2>
+    <h2 class="section-heading section-heading--sc" id="countries">Countries</h2>
     <div class="boxes">
 {countries}
     </div>
@@ -496,7 +488,7 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
          where a reader wanting a country had to scroll past it. Same heading
          level as Countries above (Bill, 2026-09-02) — the two are sections of
          one page, not a page and a sub-page. -->
-    <h2 class="section-heading" id="regions">Regions</h2>
+    <h2 class="section-heading section-heading--sc" id="regions">Regions</h2>
     <div class="boxes boxes--regions">
 {regions}
     </div>
@@ -531,8 +523,7 @@ def build_countries() -> Path:
 
     Written into the directory that already holds the 54 per-country folders, so
     `/countries/` resolves and `/countries/AGO/` goes on resolving beneath it."""
-    s = load_stats()
-    by_place = s["by_place"]
+    by_place = load_stats()["by_place"]
     built = date.today().isoformat()
     # The intros and caveats gave way to the ⓘ by the title, from content/info.md (Bill, 2026-10-22).
     about, panel = info("Countries & Regions")
@@ -543,8 +534,6 @@ def build_countries() -> Path:
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("countries", depth=1), foot=foot(depth=1),
         styles=styles(1), ga=ga(),
-        docs=f"{s['documents']:,}",
-        ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
         countries=country_boxes(by_place),
         regions=region_boxes(by_place),
     )
