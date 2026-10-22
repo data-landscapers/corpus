@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of Finance says a 2025 amendment to Section 4 of the Tax Procedures Code Act provides for the NIN as the tax identification number for individuals, and a three-phase transition to NIN-based taxpayer login is under way.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "URA taxpayer register",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Ministry of Finance says that as of 30 September 2026, 2,130,814 NINs had been mapped to TINs out of 5,405,148 individual taxpayer records, about 39.4%.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "URA taxpayer register",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA taxpayer register",
+   "country_label": "Uganda",
+   "class": "register",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "CC 2026-10-22: the NIN-to-TIN mapping count revalued from matching:reported to register:inservice, as UGA-003 holds the same figure; a count of records mapped is not a figure from checking a register against the ID."
+}

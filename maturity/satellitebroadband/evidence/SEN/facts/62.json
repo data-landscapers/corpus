@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-18-sen-laffaire-starlink-revelateur-des-defis-de-la-regulation-satellitaire-a",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Senegal",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "low-orbit constellation",
+   "owner": "Starlink",
+   "tiers": ""
+  },
+  {
+   "system": "Sonatel satellite offer",
+   "country_label": "Senegal",
+   "class": "satellite",
+   "platform": "Eutelsat",
+   "owner": "Sonatel",
+   "tiers": ""
+  }
+ ],
+ "note": "CC 2026-10-22: facts dropped. Licence, February 2026 launch and the 7 September 2026 suspension are held (SEN-001, SEN-008, SEN-009); the two-network 'choice' dated February 2026 predates the Starlink suspension, after which only Sonatel's Konnect offer is on sale (study file, Senegal at stage 3)."
+}

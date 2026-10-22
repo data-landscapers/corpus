@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Lawyer Zied El Air says the 2004 data protection law has an outdated regime for international transfers.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Organic Law No. 2004-63",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Lawyer Zied El Air says organic bill No. 095/2025, before the Assembly's Rights and Freedoms Committee, contains a revised framework for international transfers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Organic bill No. 095/2025",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

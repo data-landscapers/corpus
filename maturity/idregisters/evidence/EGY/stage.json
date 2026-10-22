@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-003",
-      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "EGY-001;EGY-003;EGY-004",
+      "gaps": "The electoral roll and the state payroll's tax calculation use the national number; no source held since October 2023 shows a third main register (social protection, business or the tax register as a whole) using it.",
+      "note": "Reassessed on the Tax Authority's July 2026 statement that payroll tax for 12 million state employees runs on the national number: two main registers are held, not three. The vendor page on integration with the social solidarity ministry does not say that ministry's register uses the number.",
+      "as_at": "2026-10-22"
     }
   ]
 }

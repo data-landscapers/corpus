@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Payroll system",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Payroll system",
+   "country_label": "Egypt",
+   "class": "register",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

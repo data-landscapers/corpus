@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-uga-nin-tin-transition-will-not-automatically-create-tax-liability-lugoloo",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Ministry of Finance says the URA taxpayer register held about 5.7 million records at 30 June 2026, including about 5.4 million individuals.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "URA taxpayer register",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA taxpayer register",
+   "country_label": "Uganda",
+   "class": "tax",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "CC 2026-10-22: the nationalid:linked fact dropped; UGA-003 and UGA-013 hold that position, and the guard on removed rows UGA-007/011 would otherwise skip the file."
+}

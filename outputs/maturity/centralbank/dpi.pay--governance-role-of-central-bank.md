@@ -20,8 +20,8 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 28 |
-| 4 Operating | 15 |
+| 5 Leading | 29 |
+| 4 Operating | 14 |
 | 3 Established | 9 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
@@ -191,6 +191,14 @@ The central bank took part in a regional or continental payment system in 2025.
 
 - PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025 ([source, 2025-05](https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf)).
 
+### South Africa: 5 Leading
+
+The central bank oversaw a national payment switch and took part in a regional payment system in 2026; whether it joined PAPSS is not known.
+
+- The SARB speech says qualifying regional payments are currently carried on SADC-RTGS and are to move to the TCIB system by end-April 2027 ([source, 2026-10-20](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)).
+- TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
+- The South African Reserve Bank's National Payment System Department says it regulates payment systems, third-party payment providers and e-money providers, with access to the payment system by designation or authorisation under the National Payment System Act 78 of 1998 and its directives ([source, 2026-10-17](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)).
+
 ### Togo: 5 Leading
 
 The central bank took part in a regional or continental payment system in 2026.
@@ -304,13 +312,6 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 
 - Guleid Osman writes that the Central Bank of Somalia has launched the National Payment System, the Somali Payment Switch and the Somali Instant Payment System (SIPS), which the Bank states supports real-time transfers among banks, mobile wallets and points of sale ([source, 2026-09-20](https://www.hiiraan.com/op4/2026/Sep/206320/strengthening_somalias_central_bank_and_securing_the_future_of_digital_payments.aspx)).
 - TechCabal says the Central Bank of Somalia launched the Somalia Instant Payment System (SIPS) in early 2025, with a national QR standard, SOMQR ([source, 2025](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/)).
-
-### South Africa: 4 Operating
-
-The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
-
-- TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
-- The South African Reserve Bank bought a 50% stake in BankservAfrica in November 2025, renamed PayInc, the automated clearing house for national and pan-African retail, government, banking and corporate transactions, and says it wants PayInc to be a payment utility ([source, 2025-11](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/)).
 
 ### Tanzania: 4 Operating
 

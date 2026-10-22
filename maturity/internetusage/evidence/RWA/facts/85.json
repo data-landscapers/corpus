@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-digital-health-case-study",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:34.2",
+   "fact": "The Global Fund case study cites the World Bank as saying 34.2% of Rwandans were internet users as of 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "World Bank internet users",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

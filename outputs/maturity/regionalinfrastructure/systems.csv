@@ -138,6 +138,7 @@ LBR,TRANSCO CLSG fibre optic network,TRANSCO CLSG,shared,fibre on the TRANSCO CL
 LBR,Africa Coast to Europe (ACE) submarine cable,ACE,other,"submarine cable, single landing in Monrovia",,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 LBR,redundant terrestrial fibre route,Liberia,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
 LBY,Medusa submarine cable,Medusa,shared,"submarine cable, 8,700 km, landing at Misrata",Libyan Post Telecommunications & Information Technology Company (LPTIC); LUIC signed the connection contract,national,2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald
+LBY,Libya-Chad fibre-optic link,Libya-Chad,shared,fibre,,,2026-10-20-tcd-tlcommunications-la-libye-prvoit-dachever-le-raccordement-de-la-fibre
 LSO,SADC-RTGS,SADC Real-Time Gross Settlement,other,,SADC,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
 LSO,TCIB,Transactions Cleared on Immediate Basis,other,,SADC,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
 LSO,Federated eKYC ecosystem (Lesotho-South Africa pilot),,other,,FinMark Trust; Co-Develop; SADC CCBG,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
@@ -263,6 +264,7 @@ TCD,Trans-Saharan fiber optic backbone project (DTS),Chad component,shared,optic
 TCD,Central African Backbone (CAB),Central African Backbone,shared,national fibre networks interconnected,CEMAC member states and development partners,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 TCD,BRIDGE,BRIDGE project (Nigeria),shared,fibre-optic,Nigeria,national,2026-09-17-techafricanews-chad-nigeria-digital-cooperation
 TCD,BRIDGE,projet BRIDGE,shared,"fibre optique, accès ouvert, 90 000 km",Nigeria,national,2026-09-16-tcd-tchadinfos-bosun-tijani-ndjamena-fibre-interconnexion-nigeria
+TCD,Libya-Chad fibre-optic link,Libya-Chad,shared,fibre,,,2026-10-20-tcd-tlcommunications-la-libye-prvoit-dachever-le-raccordement-de-la-fibre
 TGO,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 TUN,MEDUSA submarine cable,MEDUSA,other,"submarine cable, Bizerte landing station",Orange Tunisia (Tunisian section and Bizerte station),,2026-06-26-techafricanews-orange-medusa-cable-operational
 TUN,MEDUSA submarine cable,câble MEDUSA,other,"submarine cable, four fibre pairs at 24 Tbps per pair, Bizerte landing station",Orange Tunisie (Tunisian section and Bizerte station); built by Medusa Submarine Cable System,,2026-06-24-tunisie-cable-medusa-operationnel

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Health Cabinet Secretary Aden Duale said households were identified through the State Department for Social Protection's Enhanced Single Registry to be sponsored under the Social Health Authority.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Enhanced Single Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enhanced Single Registry",
+   "country_label": "Kenya",
+   "class": "social",
+   "platform": "",
+   "owner": "State Department for Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

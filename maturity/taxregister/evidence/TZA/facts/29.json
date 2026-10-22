@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-tza-mfumo-wa-idras-kuunganishwa-na-ai-kulinda-taarifa-binafsi",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Tanzania Revenue Authority trainers said on 27 January 2026 that the IDRAS integrated domestic tax system, due to start on 9 February 2026, lets a parent obtain a TIN for a child and requires existing TIN holders to reset passwords.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "IDRAS",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Health Cabinet Secretary Aden Duale said the national government sponsors 558,000 indigent households under the Social Health Authority, identified through the State Department for Social Protection's Enhanced Single Registry.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Enhanced Single Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

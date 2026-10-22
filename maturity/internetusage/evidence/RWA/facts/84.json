@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:34",
+   "fact": "The profile reports 34 per cent of the population using the internet, last documented in 2023 (source not named).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Internet use",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

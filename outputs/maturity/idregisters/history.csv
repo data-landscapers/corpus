@@ -17,3 +17,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,LSO,dpi.id--use-by-other-systems,fact,3,3,LSO-001;LSO-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,NGA,dpi.id--use-by-other-systems,fact,3,3,NGA-004;NGA-007,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,RWA,dpi.id--use-by-other-systems,fact,3,3,RWA-001;RWA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-22,EGY,dpi.id--use-by-other-systems,fact,3,3,EGY-001;EGY-003;EGY-004,"Tax Authority (July 2026): state payroll tax for 12 million employees runs on the national number; with the electoral roll that is two main registers, not three, so stage 3 holds"

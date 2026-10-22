@@ -95,7 +95,7 @@ Two or more programmes shared one social registry in 2026; links to another sect
 
 ### Kenya: 4 Operating
 
-Two or more programmes shared one social registry in 2025; links to another sector are not known.
+Two or more programmes shared one social registry in 2025, which also fed health cover; a link to the national ID is not known.
 
 - The KSEIP 2 environmental and social management plan says all four National Safety Net Programme cash transfers (HSNP, OPCT, CT-OVC, PwSD-CT) use the Enhanced Single Registry, a national database of poor and vulnerable households, for targeting (except OPCT), transfers and management information systems ([source, 2025-08](https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf)).
 - Social Protection Act 2025 (s.40) requires the National Board for Social Protection to establish a Social Protection Registry as the singular database for social protection interventions under the Act, used to select and register beneficiaries and coordinate interventions; the Act also requires the Registry to be updated in real time through interoperability with other national registries (s.40(4)(c)) and the Board to facilitate data sharing and interoperability among social protection information systems (s.8(g)) ([source, 2025-08-19](https://new.kenyalaw.org/akn/ke/act/2025/12/eng@2025-08-05)).

@@ -40,6 +40,8 @@ CAF,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 CIV,2025-09-12-rural-broadband-30-towns-wearetech,,2026-10-19
 CIV,2026-03-19-2026-digital-budget-priorities-wearetech,,2026-10-19
 CIV,2026-05-26 Cote d'Ivoire - Digital Economy (Country Commercial Guide),,2026-10-19
+CIV,2026-08-27-digitalmag-5g-adoption-pays-africains-gsma,,2026-10-22
+CIV,2026-10-14-civ-aip-decret-liberation-frequences-5g,,2026-10-22
 CIV,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 CMR,2025-07-30-car-taux-penetration-internet-30-pourcent,,2026-10-19
 CMR,2025-10-24-lejour-internet-disrupted-postelectoral-wacs-incident,,2026-10-19
@@ -67,6 +69,7 @@ COM,2021-01-01-anrtic-taux-penetration-internet-comores,,2026-10-19
 COM,2025-10-01-worldbank-global-findex-2025-comoros,,2026-10-19
 COM,2026-09-16-com-alwatwan-gouvernance-numerique-nour-el-fath-azali,,2026-10-19
 COM,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
+CPV,2024-03-15-cpv-agricultural-transition-using-the-internet-of-things-and-artificial-in,,2026-10-22
 CPV,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
 CPV,2025-08-08-digital-skills-gdp-boost-techafricanews,,2026-10-19
 CPV,2026-05-01-cpv-id4africa-digital-identity-public-infra,,2026-10-19
@@ -143,12 +146,14 @@ KEN,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 LBR,2024-01-24-lbr-csquared-350km-backbone-civ-guinea-borders,,2026-10-19
 LBR,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
 LBR,2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ,,2026-10-19
+LBR,2025-11-11-lbr-the-cybercrime-act-2025-securing-liberia-s-digital-future-with-balance,,2026-10-22
 LBR,2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030,,2026-10-19
 LBR,2026-09-25-lbr-fpa-dara-digital-advocacy-alliance,,2026-10-19
 LBR,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 LBY,2024-01-01-gaci-penetration-and-usage-indicators-2024,,2026-10-19
 LBY,2024-01-01-itu-digital-development-dashboard-libya,,2026-10-19
 LBY,2026-09-29-lby-gia-gender-comparison-2025-dataset,,2026-10-19
+LBY,2026-10-20-medusa-submarine-cable-system-completes-shore-end-installation-in-liby,,2026-10-22
 LBY,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 LSO,2018-02-13-lca-state-of-ict-lesotho-2016,,2026-10-19
 LSO,2020-02-01-lesotho-digital-economy-diagnostic-worldbank,,2026-10-19
@@ -185,6 +190,7 @@ MRT,2026-09-16-mrt-internet-society-pulse-country-report,,2026-10-19
 MRT,2026-10-09-mrt-ecofin-telecom-quality-are-inspection,,2026-10-19
 MRT,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 MUS,2025-04-11-mus-gis-child-online-safety-public-consultation,,2026-10-19
+MUS,2025-05-21-mus-an-ai-legislation-for-mauritius-fundamental-considerations,,2026-10-22
 MUS,2025-12-01-mus-mauritius-global-ai-ethics-and-governance-observatory,,2026-10-21
 MUS,2026-10-08-mus-lexpress-portabilite-mobile-icta-atelier,,2026-10-19
 MUS,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
@@ -226,6 +232,8 @@ RWA,2024-01-01-digital-development-dashboard-rwanda,,2026-10-19
 RWA,2024-05-23-rwa-google-umoja-connectivity-africa,,2026-10-19
 RWA,"2025-06-12 Rwanda hits 38% internet penetration, but cost still keeps millions offline",,2026-10-19
 RWA,2025-10-22-digital-penetration-masterclass-telecomreview,,2026-10-19
+RWA,2026-01-01-rwa-rwanda-digital-health-case-study,,2026-10-22
+RWA,2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory,,2026-10-22
 RWA,2026-03-25-hayo-expands-rwanda-techafricanews,,2026-10-19
 RWA,2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability,,2026-10-19
 RWA,2026-07-13-isoc-local-peering-africa,,2026-10-19
@@ -253,6 +261,7 @@ SOM,2026-10-16-som-pch-soixp-directory-entry,,2026-10-19
 SOM,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 SSD,2025-07-03-nca-internet-growth-figures-eyeradio,,2026-10-19
 SSD,2025-07-30-car-taux-penetration-internet-30-pourcent,,2026-10-19
+SSD,2026-01-01-ssd-south-sudan-digital-watch-observatory,,2026-10-22
 SSD,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight,,2026-10-19
 SSD,2026-06-22-digital-access-and-connectivity-in-south-sudan-barriers-for-refugees-and-host-communities,,2026-10-19
 SSD,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-10-19
@@ -285,6 +294,7 @@ TUN,2026-07-28-tunisie-enquete-observatoire-int-2026-ia-achats-en-ligne,,2026-10
 TUN,2026-10-14-tun-tunisiaonlinenews-online-government-services-reluctance-survey,,2026-10-19
 TUN,2026-10-16-tun-leconomistemaghrebin-int-barometre-numerique-2026-ia,,2026-10-19
 TUN,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
+TZA,2024-05-17-tza-tanzania-formulate-rules-on-use-of-artificial-intelligence,,2026-10-22
 TZA,2024-06-01-tza-repoa-data-protection-platform-workers,,2026-10-19
 TZA,2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route,,2026-10-19
 TZA,2026-05-01-tza-nida-id4africa-crvs-id-integration,,2026-10-19
@@ -305,6 +315,7 @@ UGA,2026-09-15-gsma-state-of-mobile-internet-connectivity-2026-report,,2026-10-1
 UGA,2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030,,2026-10-19
 UGA,2026-10-07-uganda-launches-child-online-protection-campaign-to-promote-safer-inte,,2026-10-19
 UGA,2026-10-13-uga-ucc-press-release-illegal-wifi-hotspots,,2026-10-19
+UGA,2026-10-19-uga-fdc-opposes-ucc-crackdown-on-unlicensed-wi-fi-resellers,,2026-10-22
 UGA,2026-10-20-uga-ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators,,2026-10-21
 UGA,ref:itu-sdg-17-8-1-internet-use@2026-06-30,,2026-10-19
 ZAF,2018-10-31 Data deficit means we're in the dark about the digital divide,,2026-10-19

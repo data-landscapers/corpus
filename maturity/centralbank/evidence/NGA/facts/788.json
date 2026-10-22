@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-nga-nibss-transactility-s-partnership-delivers-national-payment-stack",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Payment Stack (NPS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "jPOS/jPTS",
+   "owner": "NIBSS (owned by CBN and licensed banks)",
+   "tiers": ""
+  }
+ ],
+ "note": "States NIBSS ownership by CBN and banks but no central bank licensing or oversight act."
+}

@@ -74,6 +74,7 @@ A public register used the national ID number in 2026; use by three main registe
 
 - The Public Prosecution says criminal judgments are recorded against citizens' national number in its digital systems ([source, 2026-07-27](https://gate.ahram.org.eg/News/5838334.aspx)).
 - The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
+- Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number ([source, 2026-07-02](https://www.almasryalyoum.com/news/details/4306657)).
 
 ### Gambia: 3 Established
 

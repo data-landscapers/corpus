@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "4",
+      "stage": "5",
       "mandate": "licensing",
       "switch": "overseen",
-      "regional": "",
+      "regional": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-004;ZAF-002",
-      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-      "note": "First pass: counted from the four questions by study-ladder-centralbank.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZAF-007;ZAF-004;ZAF-005",
+      "gaps": "",
+      "note": "The SARB governor said on 20 October 2026 that qualifying regional payments are carried on SADC-RTGS and are to move to TCIB by April 2027, so the country takes part in a regional payment system in service; with licensing and an overseen switch held, every rung is met.",
+      "as_at": "2026-10-22"
     }
   ]
 }
