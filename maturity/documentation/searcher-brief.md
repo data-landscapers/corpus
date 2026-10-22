@@ -55,6 +55,8 @@ Read each fetched text. Over 20,000 words, search it for the study's terms and t
 
 **`C:\OSINT` and `C:\corpus-osint-xfer` are not yours to write to.** Write only `leads.json` and the `decisions` files, with the Write tool. Create, edit, move or delete nothing else. Start no agents. Do not run git, and run no script but the one above.
 
+**You run unattended.** Never ask a question or wait for an answer: where unsure, take the conservative option and say so in your reply.
+
 ## When you finish
 
 Reply in five lines at most: runs made, leads returned, fetched, selected, and anything the parent must know.
