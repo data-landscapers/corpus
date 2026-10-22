@@ -1,5 +1,6 @@
 ## 22 October 2026
 
+- Finance is back in the menu bar in place of Datasets, on Corpus and on data-landscapers.io. Datasets is still listed in the ☰ menu.
 - The Process Inventory is brought up to date: it now covers the maturity assessment, the datasets, budget reading and deploy checks, and its counts and file names match the system as it runs. Two retired descriptions, of budget handling and of how the two sides exchange notes, are corrected.
 - The Methodology pages' menu now lists the page you are on, in black, and the Maturity Assessment methodology and Table Metadata pages carry the same menu. Every page in the section can be reached from every other, and each carries an ⓘ describing the section's pages.
 - Topics and Catalogue now carry the ⓘ button in place of their explanatory text. Topics fits more of the taxonomy on the first screen, and the Catalogue's downloads sit on one line, with Metadata opening the field descriptions page.

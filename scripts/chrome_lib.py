@@ -65,10 +65,9 @@ NAV = [
     # folders and no index, so the one URL a reader would guess 404'd while
     # every page beneath it resolved.
     ("Topics", f"{SITE_BASE}/topics/"),
-    # Finance left the bar on 2026-09-22 (Bill); /finance/ is reached from the home
-    # page and Datasets.
-    # Since 2026-09-21 (Bill): maintained tables, Data Centres first (documentation/datasets.md).
-    ("Datasets", f"{SITE_BASE}/datasets/"),
+    # Finance left the bar for Datasets on 2026-09-22 and took its place back on 2026-10-22
+    # (Bill); Datasets is reached from the three-bar menu and the home page.
+    ("Finance", f"{SITE_BASE}/finance/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),
     # Renamed from "Method" at /method/ on 2026-08-27 (Bill); /method/ keeps a
     # redirect stub because it sat in every published page's baked chrome.

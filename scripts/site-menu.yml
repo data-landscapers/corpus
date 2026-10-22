@@ -25,18 +25,21 @@
   url: https://corpus.data-landscapers.io/countries/
 - label: Topics
   url: https://corpus.data-landscapers.io/topics/
+# Finance took Datasets' place in the Corpus bar on 2026-10-22 (Bill). Datasets stays in this
+# menu; `bar: false` keeps an entry out of the Corpus row both sites draw from this file.
+- label: Finance
+  url: https://corpus.data-landscapers.io/finance/
+  children:
+    - label: Non-state finance
+      url: https://corpus.data-landscapers.io/finance/
+    - label: Budgets
+      url: https://corpus.data-landscapers.io/finance/budgets/
+    - label: All finance
+      url: https://corpus.data-landscapers.io/finance/all/
 - label: Datasets
   url: https://corpus.data-landscapers.io/datasets/
+  bar: false
   children:
-    - label: Finance
-      url: https://corpus.data-landscapers.io/finance/
-      children:
-        - label: Non-state finance
-          url: https://corpus.data-landscapers.io/finance/
-        - label: Budgets
-          url: https://corpus.data-landscapers.io/finance/budgets/
-        - label: All finance
-          url: https://corpus.data-landscapers.io/finance/all/
     - label: Data Centres
       url: https://corpus.data-landscapers.io/datasets/data-centres/
     - label: Institution Hosting
