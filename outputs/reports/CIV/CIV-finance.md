@@ -1,6 +1,6 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-10-16
+compiled: 2026-10-22
 place: CIV
 ---
 
@@ -13,7 +13,7 @@ place: CIV
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">53</td><td class="num">84</td><td class="num">59</td><td class="num total">870</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">44</td><td class="num">208</td><td class="num">59</td><td class="num total">311</td></tr>
-<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">69</td><td class="num">173</td><td class="num total">246</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num">69</td><td class="num">107</td><td class="num total">180</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">74</td><td class="num">43</td><td class="num zero"></td><td class="num">5</td><td class="num">31</td><td class="num">26</td><td class="num total">178</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">104</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">106</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num zero"></td><td class="num">6</td><td class="num">8</td><td class="num">11</td><td class="num total">62</td></tr>
@@ -35,11 +35,11 @@ place: CIV
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Regional collaboration</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">167</td><td class="num">491</td><td class="num">424</td><td class="num total">2,020</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">167</td><td class="num">491</td><td class="num">358</td><td class="num total">1,954</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 744 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 743 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -91,20 +91,20 @@ place: CIV
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">588</td><td class="num zero"></td><td class="num">86</td><td class="num">22</td><td class="num">47</td><td class="num zero"></td><td class="num total">743</td></tr>
-<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">66</td><td class="num">170</td><td class="num total">236</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">66</td><td class="num">104</td><td class="num total">170</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">150</td><td class="num zero"></td><td class="num total">150</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">74</td><td class="num">43</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">117</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">104</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num total">106</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">104</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">105</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">37</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">2</td><td class="num">1</td><td class="num">1</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">26</td><td class="num">263</td><td class="num">171</td><td class="num total">1,398</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">785</td><td class="num">66</td><td class="num">87</td><td class="num">26</td><td class="num">263</td><td class="num">104</td><td class="num total">1,331</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 29 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 28 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: South Africa: finance
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: ZAF
 ---
 
@@ -96,5 +96,5 @@ place: ZAF
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 57 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate-2026-10-20.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate-2026-10-21.csv" download>&darr; Download CSV</a>
 </div>

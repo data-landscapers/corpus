@@ -1,6 +1,6 @@
 ---
 title: Zambia: finance
-compiled: 2026-10-19
+compiled: 2026-10-22
 place: ZMB
 ---
 
@@ -12,7 +12,7 @@ place: ZMB
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">776</td><td class="num zero"></td><td class="num">2</td><td class="num">108</td><td class="num">18</td><td class="num total">904</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">178</td><td class="num zero"></td><td class="num">5</td><td class="num">9</td><td class="num">10</td><td class="num total">202</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">178</td><td class="num zero"></td><td class="num">5</td><td class="num">10</td><td class="num">10</td><td class="num total">203</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">66</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">5</td><td class="num">30</td><td class="num">5</td><td class="num">6</td><td class="num">6</td><td class="num total">53</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num">8</td><td class="num">8</td><td class="num total">26</td></tr>
@@ -24,11 +24,11 @@ place: ZMB
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,030</td><td class="num">30</td><td class="num">38</td><td class="num">154</td><td class="num">62</td><td class="num total">1,314</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,030</td><td class="num">30</td><td class="num">38</td><td class="num">154</td><td class="num">62</td><td class="num total">1,315</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZMB/all-finance.html">Full table &mdash; 150 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZMB/all-finance.html">Full table &mdash; 151 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZMB/ZMB-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -69,18 +69,18 @@ place: ZMB
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">776</td><td class="num zero"></td><td class="num">100</td><td class="num zero"></td><td class="num total">876</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">178</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">178</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">178</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">179</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">65</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">5</td><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num total">35</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">4</td><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,030</td><td class="num">30</td><td class="num">104</td><td class="num">0</td><td class="num total">1,164</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,030</td><td class="num">30</td><td class="num">105</td><td class="num">0</td><td class="num total">1,165</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZMB/finance.html">Full table &mdash; 20 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZMB/finance.html">Full table &mdash; 21 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZMB/ZMB-nonstate-2026-10-18.csv" download>&darr; Download CSV</a>
 </div>

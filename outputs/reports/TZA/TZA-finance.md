@@ -1,6 +1,6 @@
 ---
 title: Tanzania: finance
-compiled: 2026-10-21
+compiled: 2026-10-22
 place: TZA
 ---
 
@@ -36,7 +36,7 @@ place: TZA
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 446 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 447 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -100,6 +100,6 @@ place: TZA
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 50 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-nonstate-2026-10-13.csv" download>&darr; Download CSV</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 51 commitments, all 26 fields &rarr;</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-nonstate-2026-10-21.csv" download>&darr; Download CSV</a>
 </div>

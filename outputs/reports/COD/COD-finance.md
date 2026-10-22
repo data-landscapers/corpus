@@ -1,6 +1,6 @@
 ---
 title: DR Congo: finance
-compiled: 2026-10-16
+compiled: 2026-10-22
 place: COD
 ---
 
@@ -16,6 +16,7 @@ place: COD
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num">21</td><td class="num">21</td><td class="num">27</td><td class="num total">220</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">13</td><td class="num">17</td><td class="num">59</td><td class="num total">88</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">20</td><td class="num">45</td><td class="num">23</td><td class="num total">87</td></tr>
+<tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">40</td><td class="num">&lt;1</td><td class="num total">40</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">17</td><td class="num">9</td><td class="num">11</td><td class="num total">38</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">26</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">27</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">3</td><td class="num total">7</td></tr>
@@ -25,14 +26,13 @@ place: COD
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">33</td><td class="num">510</td><td class="num">408</td><td class="num">1,806</td><td class="num total">3,010</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">33</td><td class="num">510</td><td class="num">448</td><td class="num">1,806</td><td class="num total">3,050</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m, by topic and year: budget lines by the year the fiscal year starts in, commitments by the year they were made. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. ‘-2022’ aggregates every year before 2022. An empty cell is a year with nothing recorded, not a zero.</p>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/COD/all-finance.html">Full table &mdash; 437 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/COD/all-finance.html">Full table &mdash; 438 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COD/COD-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -79,13 +79,14 @@ place: COD
 <tr><th scope="row">Connectivity</th><td class="num">61</td><td class="num">10</td><td class="num">33</td><td class="num zero"></td><td class="num">40</td><td class="num">1,634</td><td class="num total">1,778</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">400</td><td class="num">206</td><td class="num zero"></td><td class="num total">612</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">150</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">150</td></tr>
+<tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num zero"></td><td class="num total">40</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num">26</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">26</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">33</td><td class="num">400</td><td class="num">246</td><td class="num">1,634</td><td class="num total">2,566</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">217</td><td class="num">36</td><td class="num">33</td><td class="num">400</td><td class="num">286</td><td class="num">1,634</td><td class="num total">2,606</td></tr></tfoot>
 </table></div>
 <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-2022&rsquo; aggregates every year before 2022. An empty cell is a year with no commitment recorded, not a zero.</p>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/COD/finance.html">Full table &mdash; 16 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/COD/finance.html">Full table &mdash; 17 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/COD/COD-nonstate-2026-10-11.csv" download>&darr; Download CSV</a>
 </div>
