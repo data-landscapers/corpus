@@ -76,8 +76,9 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     **A correction outlives the row it removed.** The ladder deletes a row `corrections.csv`
     removes, so the slug that marked its document merged can go with it. `fixes` is the
     country's corrections: ids continue past every id one names, so no new row takes a
-    corrected id; and a document not yet held is skipped, and named, where it states what a
-    removed row stated, the same aspect and value.
+    corrected id; and a fact from a document not yet held is refused, and named, where it
+    states what a removed row stated, the same aspect and value. The document's other facts
+    are taken; one with none left is skipped.
 
     **A document is taken once, and a `completed` re-read once more.** `merged` is what
     `merged.csv` records as taken, slug to `read` (`completed` for the re-read). A recorded
@@ -111,10 +112,16 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
         read = "completed" if src.get("why") == "completed" else ""
         if src["slug"] in done and (not read or merged.get(src["slug"]) == read):
             continue
-        if src["slug"] not in done and any((str(f.get("aspect", "")).strip(), str(f.get("value", "")).strip())
-                                           in gone for f in doc.get("facts") or []):
-            problems.append(f"{iso} facts/{n}.json: skipped, it states what a removed row stated")
-            continue
+        # Only the fact repeating a removed row is refused: the rest of its document still stands.
+        facts = doc.get("facts") or []
+        kept_facts = [f for f in facts if src["slug"] in done or
+                      (str(f.get("aspect", "")).strip(), str(f.get("value", "")).strip()) not in gone]
+        if len(kept_facts) < len(facts):
+            problems.append(f"{iso} facts/{n}.json: skipped {len(facts) - len(kept_facts)} fact(s), "
+                            "stating what a removed row stated")
+            if not kept_facts:
+                continue
+            doc = dict(doc, facts=kept_facts)
         taken[src["slug"]] = read
         for s in doc.get("systems") or []:
             systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()

@@ -348,6 +348,12 @@ try:
     back, _, problems, _ = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
     check("a document whose rows a correction removed is not merged again", back, [])
     check("and is named", any("facts/1.json: skipped" in p for p in problems), True)
+    rl5 = rl + [{"n": "5", "kind": "raw", "slug": "doc-e", "url": "https://a.org/e"}]
+    mixed = dict(files, **{"5": {"slug": "doc-e", "facts": [dict(fact, value="T1"), dict(fact, value="T4")]}})
+    part, _, problems, _ = profile.merge(STUDY, "KEN", rl5, mixed, kept, fixes)
+    check("a document repeating a removed row loses that fact and keeps the rest",
+          [(r["source_slug"], r["value"]) for r in part], [("doc-e", "T4")])
+    check("and the refused fact is named", any("facts/5.json: skipped 1 fact" in p for p in problems), True)
     rl4 = rl + [{"n": "4", "kind": "raw", "slug": "doc-d", "url": "https://a.org/d"}]
     other = dict(files, **{"4": {"slug": "doc-d", "facts": [dict(fact, value="T4")]}})
     fresh, _, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
