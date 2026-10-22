@@ -1087,9 +1087,12 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     fb = feedback(h1 or title, url_html)
     # The ⓘ by the title: one explanation per page type, from content/info.md (Bill, 2026-10-21).
     # News and status are explained as a country's; a region's or a topic's carries none yet.
-    country = tree_of(md_path) == "reports" and not md_path.parent.name.upper().startswith("X")
+    # Progress is one explanation for a country's report and a topic's (Bill, 2026-10-22).
+    tree = tree_of(md_path)
+    country = tree == "reports" and not md_path.parent.name.upper().startswith("X")
     key = {"bulletin": "Bulletin"}.get(kind) or (
-        {"monthly": "Country news", "status": "Country status"}.get(kind) if country else None)
+        {"monthly": "Country news", "status": "Country status", "progress": "Progress"}.get(kind)
+        if country else None) or ("Progress" if kind == "progress" and tree == "topics" else None)
     info_btn, info_panel = info(key) if key else ("", "")
     if info_panel:
         info_panel = f"        {info_panel}\n"
