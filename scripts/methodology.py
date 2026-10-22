@@ -282,8 +282,10 @@ def toc_bar(links: list[tuple[str, str]], label: str, current: str | None = None
 # Pages the bar links that this script does not build, as site-root paths. The table
 # metadata is built by `datasets.py` at `/datasets/metadata/`, where every dataset's
 # Metadata button points, and is listed here as a methodology page (Bill, 2026-09-30);
-# it carries the bar too (Bill, 2026-10-22).
-ELSEWHERE = [("datasets/metadata/", "Table Metadata")]
+# it carries the bar too (Bill, 2026-10-22). The Maturity Assessment's methodology is
+# built by `maturity-site.py` and joined the set the same day.
+ELSEWHERE = [("methodology/maturity/", "Maturity Assessment"),
+             ("datasets/metadata/", "Table Metadata")]
 
 
 def see_also(here: str) -> str:

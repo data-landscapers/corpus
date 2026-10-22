@@ -52,6 +52,7 @@ from markdown.extensions.toc import slugify
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 from render import family_bar  # noqa: E402
+import methodology  # noqa: E402  - the Methodology section's page bar
 import editions  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -778,6 +779,7 @@ def method_page(data: dict, studies: list[dict]) -> str:
       <h1 class="article-header__title">Maturity Assessment: methodology</h1>
     </header>
     <article class="article-body mat-method">
+{methodology.see_also("methodology/maturity/")}
 {chr(10).join(parts)}
     </article>
   </div>"""
