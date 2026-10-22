@@ -7,6 +7,11 @@ News is discovered using Exa Search and classified by Claude Code.
 
 You can also access all news published since the beginning of last month by country or by topic.
 
+
+## Catalogue
+
+All the reports on this site have been built from the documents listed in this catalogue. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents. For details of how the material is classified please go to the Methodology page.
+
 ## Countries & Regions
 
 Click on a country or region and you will be taken to a suite of available reports for your selection. 
@@ -57,9 +62,23 @@ These assessments are updated overnight whenever new relevant evidence arrives. 
 
 ## Progress
 
-The progress reports looks for evidence impacting on 115 indicators over the past year. It is a more granular version of the *Maturity Assessment*.  
+The progress reports looks for evidence impacting on 115 indicators over the past twelve months. It is a more granular version of the *Maturity Assessment*.  
 
 **Movement** means that some form of progress, however minor, has been recorded in the period. 
 
-The <span style="font-variant: small-caps;">COUNTRY</span> reports tabulate all indicators for your selected country, grouped by topic. The <span style="font-variant: small-caps;">TOPIC</span> reports tabulate a single indicator across all countries.
+The <span style="font-variant: small-caps;">COUNTRIES</span> reports tabulate all indicators for your selected country, grouped by topic. The <span style="font-variant: small-caps;">TOPICS</span> reports tabulate a single indicator across all countries.
 
+Click on a country or indicator to access the detailed report.
+
+
+## Topics
+
+Select a topic and you will be give the option to run:
+
+A *News* report covering stories from all countries published since the beginning of last month.
+
+or
+
+A *Progress* report which looks for evidence impacting on the topic's indicators over the past twelve months. It is a more granular version of the *Maturity Assessment*. In this report **Movement** means that some form of progress, however minor, has been recorded in the period.
+
+The number in each box is a count of the number of sources held in the repository for that topic.

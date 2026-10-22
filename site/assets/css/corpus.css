@@ -99,18 +99,19 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 .box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
 
 /* Topic matrix, `/topics/` (Bill, 2026-08-24): an h3 per Level-1 category
- * carrying its slug stem and its roll-up count, and one row of Level-2 boxes
+ * carrying its roll-up count, and one row of Level-2 boxes
  * beneath it. **Four to a row, every box two lines deep**, so ten categories line
  * up one way down the page rather than ten; the minimum is a floor, not a height.
  *
  * The count floats rather than sitting beside the label in a flex row, and is
  * written first in the markup because that is the only order a float can work
  * in: floated, it comes off the first line only, which fits all 38 labels in two. */
-.topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 1.7rem 0 0.4rem; font-size: 1rem; }
-.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); }
+/* Terracotta small caps, packed close so most of the taxonomy sits above the fold (Bill, 2026-10-22). */
+.topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 0.7rem 0 0.25rem; font-size: 1rem; font-variant: small-caps; color: var(--accent); }
 .topic-group__n { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; font-weight: 400; color: var(--ink-light); }
 .tsub__inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
-.sbox { display: block; min-height: 2.95rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+/* Line height on the box, not the label: an inline span's own cannot go below its block's. */
+.sbox { display: block; min-height: 2.95rem; line-height: 1.25; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
 .sbox:hover { border-color: var(--accent); color: var(--ink); }
 /* A subject the catalogue holds and the taxonomy does not has no page behind it,
    so its box prints its count and is not a link. It reads as inert rather than broken. */

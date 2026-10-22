@@ -51,7 +51,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
-from copy_lib import copy, copy_inline  # noqa: E402
+from copy_lib import copy  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -291,7 +291,6 @@ def topic_grid(by_topic: dict[str, int]) -> str:
 
         boxes = [box(s) for s in slugs]
         out.append(f'    <h3 class="topic-group" id="{k}">{e(name)}'
-                   f' <span class="topic-group__k">{k}.*</span>'
                    f'<span class="topic-group__n">{roll:,}</span></h3>\n'
                    f'    <div class="tsub__inner">\n'
                    + "\n".join(boxes)
@@ -545,7 +544,7 @@ def build_countries() -> Path:
 
 # The topics page — the taxonomy matrix, moved off the home page on 2026-08-24
 # (Bill), a few hours after the countries matrix and for the same reasons. The
-# home page keeps the heading, `topics-intro` and a link here.
+# home page keeps the heading and a link here.
 #
 # **What changed besides its address.** The home page showed ten Level-1 tiles
 # and opened one row of sub-topics at a time, sorted by volume, behind a click.
@@ -581,13 +580,11 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
 
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">Topics</h1>
+      <h1 class="article-header__title">Topics{about}</h1>
     </header>
-    <p class="section-intro">{topics_intro}</p>
+    {panel}
 
 {topics}
-
-    <p class="caveat">{topics_caveat}</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -624,7 +621,10 @@ def build_topics() -> Path:
     s = load_stats()
     built = date.today().isoformat()
     ntopics = len(taxonomy_lib.keys())
+    # The intro and caveat gave way to the ⓘ by the title, from content/info.md (Bill, 2026-10-22).
+    about, panel = info("Topics")
     doc = TOPICS_TEMPLATE.format(
+        about=about, panel=panel,
         feedback=feedback("Topics", f"{SITE_BASE}/topics/"),
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
@@ -632,8 +632,6 @@ def build_topics() -> Path:
         styles=styles(1), ga=ga(),
         ntopics=ntopics,
         topics=topic_grid(s["by_topic"]),
-        topics_intro=copy_inline("home", "topics-intro"),
-        topics_caveat=copy_inline("topics", "caveat", n=f"{ntopics}"),
     )
     out = SITE / "topics"
     out.mkdir(parents=True, exist_ok=True)

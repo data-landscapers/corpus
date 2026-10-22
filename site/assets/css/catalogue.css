@@ -28,36 +28,17 @@ designer looks for the catalogue's CSS.
 /* Links are the house blue. They were terracotta, which is the accent this
    site reserves for jump navs and apparatus — see main.css `.article-toc`. */
 .cat a:hover{text-decoration:underline}
-/* The lede is body text at body size, and takes whatever width the downloads
-   box leaves it (prep/catalogue.md §1) — it used to be 14px grey capped at
-   74ch, which read as a caption on a page whose first job is to explain what
-   the catalogue is and is not.
-
-   The box is on the **title's** row, not the lede's (Bill, 2026-08-24): the
-   heading and the box are the two things a reader lands on, and starting the
-   box a line lower left a notch of white above it that read as a mistake. So
-   the grid's left column carries h1 and lede together and both columns start
-   at the top. */
-.cat .cathead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem 2rem;
-  align-items:start;margin:0 0 1.25rem}
-.cat .lede{color:var(--ink);font-size:1rem;margin:0}
-.cat .lede p{margin:0 0 0.5rem}
-.cat .lede p:last-child{margin-bottom:0}
+/* The page head is the house one: title left, the feedback ask floated right. The lede
+   went into the title's ⓘ (Bill, 2026-10-22). */
+.cat .cathead{margin-bottom:0.75rem}
 /* The download buttons are `.btn.btn--accent` from main.css and nothing more.
    The `--terra` local existed only because `.cat` used to shadow `--accent`
    with a darker red, so the one place that wanted the real terracotta had to
    smuggle it back in. `.cat` shadows nothing now, so the house button works
    as written — but the rules are still restated, because `.cat a` beats
    `.btn--accent` on specificity and would take the colour back. */
-.cat .dlbox{border:1px solid var(--rule);border-radius:3px;background:#fff;
-  padding:0.75rem 1rem 0.6rem;min-width:340px}
-.cat .dlbox table{border-collapse:collapse;width:100%}
-.cat .dlbox th{font-size:0.7rem;font-family:var(--mono);text-transform:uppercase;
-  letter-spacing:.1em;color:var(--ink-faint);font-weight:500;text-align:left;
-  padding:0 0 0.6rem;line-height:1.2}
-.cat .dlbox td{padding:0.25rem 0;font-size:.85rem;color:var(--ink);white-space:nowrap;
-  vertical-align:middle}
-.cat .dlbox td+td{padding-left:0.75rem;width:1%}
+/* Every download on one line under the title (Bill, 2026-10-22); it wraps only on a phone. */
+.cat .dlbox{display:flex;flex-wrap:wrap;gap:0.5rem;margin:0 0 1.25rem}
 .cat .dlbox .btn{border-width:1.5px;
   border-radius:2px;display:inline-block;text-decoration:none;
   font-family:var(--serif);font-weight:600;letter-spacing:.03em;
@@ -74,13 +55,11 @@ designer looks for the catalogue's CSS.
   letter-spacing:.02em}
 /* The one warning colour on the page, taken from main.css's amber badge
    rather than invented here. */
-.cat .dlbox .dlmsg{color:#7a5000;font-size:.78rem;line-height:1.45;
-  margin:0.5rem 0 0;max-width:38ch}
+.cat .dlmsg{color:#7a5000;font-size:.78rem;line-height:1.45;
+  margin:-0.75rem 0 1.25rem}
 /* The message paragraph is empty almost all the time, and an empty <p> is still
    a line box — that was the dead strip under the last row of buttons. */
-.cat .dlbox .dlmsg:empty{display:none}
-@media (max-width:860px){.cat .cathead{grid-template-columns:1fr}
-  .cat .dlbox{min-width:0}}
+.cat .dlmsg:empty{display:none}
 .cat .searchrow{display:flex;gap:0.5rem;margin-bottom:0.9rem}
 .cat #q{flex:1;padding:0.45rem 0.7rem;border:1px solid var(--rule);border-radius:2px;font-size:0.9rem;background:#fff;color:var(--ink)}
 .cat #q:focus{outline:none;border-color:var(--accent)}
@@ -96,7 +75,7 @@ designer looks for the catalogue's CSS.
 .cat .cols{display:grid;grid-template-columns:210px minmax(0,1fr);gap:1.75rem;align-items:start}
 .cat .facet{border-bottom:1px solid var(--rule);padding:0 0 0.75rem;margin-bottom:0.75rem}
 .cat .facet:last-child{border-bottom:0}
-.cat .facet h3{font-family:var(--mono);font-size:0.67rem;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-faint);margin:0 0 0.5rem;font-weight:500}
+.cat .facet h3{font-family:var(--mono);font-size:0.67rem;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);margin:0 0 0.5rem;font-weight:500}
 .cat .ftype{width:100%;padding:0.3rem 0.45rem;border:1px solid var(--rule);border-radius:2px;font-size:0.75rem;margin-bottom:0.4rem;background:#fff;color:var(--ink)}
 .cat .ftype:focus{outline:none;border-color:var(--accent)}
 .cat .opts{max-height:236px;overflow-y:auto;margin:0 -4px}
@@ -144,26 +123,3 @@ designer looks for the catalogue's CSS.
 .cat .note{margin-top:1.75rem;padding-top:0.9rem;border-top:1px solid var(--rule);font-size:0.75rem;color:var(--ink-faint);max-width:70ch}
 @media (max-width:860px){.cat .cols{grid-template-columns:1fr}}
 
-/* The feedback ask, on the heading line and at the page's right edge, the same
-   place it sits on every other page (Bill, 2026-09-10). It could not simply
-   float there: `.cathead` is a two-column grid and a float inside the left cell
-   stops at the lede's own right edge, a good 400px short of where the reader
-   looks for it.
-
-   So the ask is a third grid child rather than a float, and the download box
-   drops to the second row to make way — which is the whole of the change the
-   right-hand column needed. The three placements are explicit because
-   auto-flow would put the ask in column 1 and push the text down. */
-.cat .cathead{grid-template-rows:auto 1fr}
-.cat .cathead__text{grid-column:1;grid-row:1 / 3}
-.cat .cathead > .feedback-ask{grid-column:2;grid-row:1;float:none;margin:0;
-  justify-self:end;align-self:start}
-.cat .dlbox{grid-column:2;grid-row:2}
-
-/* Single column below 860px, where `.cathead` stops being a grid: the ask leads,
-   then the title and lede, then the downloads. */
-@media (max-width:860px){
-  .cat .cathead__text,.cat .cathead > .feedback-ask,.cat .dlbox{
-    grid-column:auto;grid-row:auto}
-  .cat .cathead > .feedback-ask{justify-self:start}
-}

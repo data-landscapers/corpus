@@ -1,5 +1,6 @@
 ## 22 October 2026
 
+- Topics and Catalogue now carry the ⓘ button in place of their explanatory text. Topics fits more of the taxonomy on the first screen, and the Catalogue's downloads sit on one line, with Metadata opening the field descriptions page.
 - On laptop screens the Maturity Assessment's header, menu bar and footer were drawn smaller than on every other page. They now match the rest of the site; the map keeps its compact size.
 - The Progress and Countries & Regions pages now carry the ⓘ button, and the explanatory text above and below their tables has gone into it. The tables now start at the top of the page.
 - Countries & Regions no longer has the bar counting sources and countries, and its Countries and Regions headings are now small capitals. Its title and rule now sit as they do on Topics and Progress.

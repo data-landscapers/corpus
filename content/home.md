@@ -29,10 +29,6 @@ The bulletin lists the latest new content. Typically this is yesterday's news, b
 
 You can subscribe to customised weekly news updates that will be delivered every Monday morning. Go to the [catalogue](https://corpus.data-landscapers.io/catalogue/) and click on "Get alerts".
 
-## topics-intro
-
-All documents in the repository are classified according to a [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) of 40 topics and 123 indicators. Two reports are delivered for each of the topics. The ***News*** page references all new content published since the beginning of the last calendar month. The ***Progress Report*** tracks movement on the [indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators) over the past 12 months. The content in both is reproduced from the country reports.
-
 ## finance-intro
 
 We are developing two datasets covering all financing of digital transformation. The first collects information on non-state financing. The second, still under development, will cover national budgeting, expenditure and audit. 

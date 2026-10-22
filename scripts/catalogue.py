@@ -37,7 +37,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 import taxonomy_lib  # noqa: E402
-from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -699,23 +699,23 @@ def write_split(out_dir: Path, cols: dict, chunks: list, head: dict) -> tuple[Pa
 CHROME = chrome('catalogue', depth=1)
 
 FOOT = foot(depth=1)
+# The ⓘ by the title, from content/info.md; the lede it replaced is gone (Bill, 2026-10-22).
+INFO_BTN, INFO_PANEL = info("Catalogue")
 
 
 BODY = r"""
 <div class="cat">
   <div class="article-header cathead">
     """ + feedback("Catalogue", f"{SITE_BASE}/catalogue/") + r"""
-    <div class="cathead__text">
-      <h1 class="article-header__title">Catalogue</h1>
-      <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
-    </div>
+    <h1 class="article-header__title">Catalogue""" + INFO_BTN + r"""</h1>
+  </div>
+  """ + INFO_PANEL + r"""
 
-    <!-- The downloads sit beside the lede rather than under it (prep/catalogue.md
-         §10), in the site's own button style: `.btn` with a leading down arrow, the
-         same control every finance table already offers. `This selection` cuts the
+    <!-- Every download on one line under the title (Bill, 2026-10-22), each button naming
+         what it gives now that there is no table row to do it. `This selection` cuts the
          current filter in the reader's browser and is disabled until there is a
          selection to cut — unfiltered, the selection *is* the catalogue, and the
-         published files on the row above are the citable ones. -->
+         published files beside them are the citable ones. -->
     <!-- The whole-catalogue CSV is a published file at an undated URL — `design.md`
          §9's named exception to the edition rule, and the thing to cite. The JSON
          beside it is cut in the reader's browser from the same row chunks the page
@@ -723,37 +723,25 @@ BODY = r"""
          whole copy of the catalogue cost 17 MB of `site/` and as much again in every
          commit, to serve a file the page can assemble on the one click that asks
          for it (split plan, Part 4). -->
-    <!-- The CSV's size is printed beside it and `data-dlfile` puts a waiting note in
+    <!-- The CSV's size is printed in it and `data-dlfile` puts a waiting note in
          `#dlmsg` on the click: the browser fetches all seven megabytes before it
          offers a save dialog, and for those seconds a plain link looks like a dead
          button (Bill, 2026-09-09, having clicked it three times). The link stays a
          link, so it still works with JavaScript off — the note is the only thing the
          script adds. -->
-    <div class="dlbox">
-      <table>
-        <tr><th colspan="3">Downloads</th></tr>
-        <tr><td>Whole catalogue <span class="dlsize">{csvsize}</span></td>
-            <td><a class="btn btn--sm" href="raw-catalogue.csv" download data-dlfile="1">&darr; CSV</a></td>
-            <td><button class="btn btn--sm" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
-        <tr><td>This selection</td>
-            <td><button class="btn btn--sm" data-dl="csv" disabled>&darr; CSV</button></td>
-            <td><button class="btn btn--sm" data-dl="json" disabled>&darr; JSON</button></td></tr>
-        <tr><td>Metadata</td>
-            <td><a class="btn btn--sm" href="../metadata/catalogue-metadata.csv" download>&darr; CSV</a></td>
-            <td></td></tr>
-        <!-- Not a download, and it sits in the downloads box all the same: this is the
-             other thing a reader does with a selection they have just built, and the
-             box is where a selection is already the subject. `drawDownload` rewrites
-             the href on every redraw so the link carries the filters the reader is
-             looking at. It stays live with nothing selected and then opens the alerts
-             page blank, which is a page worth reaching from here either way. -->
-        <tr><td>New documents</td>
-            <td><a class="btn btn--sm" href="../alerts/" id="getalerts">Get alerts</a></td>
-            <td></td></tr>
-      </table>
-      <p class="dlmsg" id="dlmsg"></p>
-    </div>
+    <!-- Metadata is the field dictionary's page, not the bare CSV (Bill, 2026-10-22). Get
+         alerts is not a download, and sits here all the same: it is the other thing a
+         reader does with a selection, and `drawDownload` rewrites its href on every
+         redraw so the link carries the filters the reader is looking at. -->
+  <div class="dlbox">
+    <a class="btn btn--sm" href="raw-catalogue.csv" download data-dlfile="1">&darr; Catalogue CSV <span class="dlsize">{csvsize}</span></a>
+    <button class="btn btn--sm" data-dl="json" data-all="1" disabled>&darr; Catalogue JSON</button>
+    <button class="btn btn--sm" data-dl="csv" disabled>&darr; Selection CSV</button>
+    <button class="btn btn--sm" data-dl="json" disabled>&darr; Selection JSON</button>
+    <a class="btn btn--sm" href="../datasets/metadata/#catalogue">Metadata</a>
+    <a class="btn btn--sm" href="../alerts/" id="getalerts">Get alerts</a>
   </div>
+  <p class="dlmsg" id="dlmsg"></p>
 
   <div class="searchrow">
     <input id="q" type="search" placeholder="Search titles, publishers, and names inside the sources" autocomplete="off">
@@ -1195,7 +1183,7 @@ SCRIPT = r"""
   }
 
   function drawDownload(){
-    // The two `This selection` buttons live in the downloads box beside the lede and
+    // The two `This selection` buttons live in the downloads row under the title and
     // are always drawn; what changes is whether they are live. Unfiltered, the
     // selection *is* the catalogue and the row above already offers the published,
     // citable files — so the buttons go quiet rather than duplicating them.
