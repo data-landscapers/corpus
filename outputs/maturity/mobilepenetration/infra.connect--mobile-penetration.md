@@ -25,8 +25,8 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that every 
 | 3 Established | 16 |
 | 2 Nascent | 12 |
 | 1 Absent | 8 |
-| Unplaced | 1 |
-| No evidence | 2 |
+| Unplaced | 2 |
+| No evidence | 1 |
 
 ## Countries
 
@@ -336,6 +336,12 @@ In 2024, 47.4 per cent of people aged 10 and over owned a mobile phone, by an in
 
 - 47.4 per cent of people aged 10 and over in Zambia owned a mobile phone in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
+### South Sudan: Unplaced
+
+No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
+
+Not established: No figure for 2024 or later is held for the share of people who own a mobile phone.
+
 ### Sudan: Unplaced
 
 No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
@@ -343,12 +349,6 @@ No figure for the share of people who own a mobile phone is held for 2024 or lat
 Not established: No figure for 2024 or later is held for the share of people who own a mobile phone.
 
 ### Eritrea: No evidence
-
-No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
-
-Not established: Nothing held gives the share of people who own a mobile phone.
-
-### South Sudan: No evidence
 
 No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
 

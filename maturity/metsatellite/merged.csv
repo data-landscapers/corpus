@@ -48,6 +48,8 @@ DZA,2019-06-01-dza-eu-twinning-fiche-onm-capacities,,2026-10-19
 DZA,2023-12-12-dza-asal-cntga-2023-geospatial-agriculture-conference,,2026-10-21
 EGY,2014-12-01-egy-ema-wmo-rtc-cairo-training-book,,2026-10-19
 EGY,2022-01-24-egy-ahram-narss-satellite-receiving-station,,2026-10-19
+EGY,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i,,2026-10-22
+EGY,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops,,2026-10-22
 EGY,2025-06-01-mcit-national-real-estate-id-press-release,,2026-10-21
 EGY,2026-09-23-egy-sis-agriculture-digital-registration-satellite,,2026-10-21
 ERI,2025-09-19-eri-fao-locust-early-warning-training,,2026-10-19
@@ -64,6 +66,7 @@ GAB,2026-07-27-gabonreview-seminaire-communications-spatiales-souverainete,,2026
 GAB,2026-07-29-gabon-advances-digital-sovereignty-with-national-satellite-seminar,,2026-10-21
 GHA,2022-07-06-gha-authorea-nwcsaf-high-impact-weather-forecasting,,2026-10-19
 GHA,2023-08-31-gha-myjoyonline-gmet-financially-challenged-forecasting,,2026-10-19
+GHA,2024-03-21-gha-gna-mofa-pfj2-satellite-farm-monitoring,,2026-10-22
 GHA,2024-10-01-gha-servir-gmet-craft-yield-forecast,,2026-10-19
 GHA,2025-07-25-gha-esa-gda-eo-tools-fsrp-climtag,,2026-10-21
 GHA,2026-03-17-gha-geoglam-geomaize-yield,,2026-10-21
@@ -73,7 +76,9 @@ GIN,2025-08-01-lack-of-digital-addresses-slows-africa-digital-economy,,2026-10-2
 GIN,2025-10-14-lancement-officiel-projet-climagui,,2026-10-19
 GIN,2026-01-01-gin-anm-imagerie-satellitaire,,2026-10-19
 GIN,2026-02-05-crews-project-improves-meteorological-service-guinea,,2026-10-19
+GMB,2024-01-01-gmb-weather-impact-dcas-gee-platform,,2026-10-22
 GMB,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations,,2026-10-19
+GMB,2025-09-02-gmb-gca-p2rs-gee-climate-advisory-platform,,2026-10-22
 GMB,2025-10-24-crews-gambia-ew4all-roadmap-validation-workshop,,2026-10-19
 GNB,2026-05-07-inm-gb-operacionalizacao-do-cap-sistemas-de-alerta,,2026-10-19
 GNB,2026-08-27-gnb-capacitacao-dos-quadros-de-sistemas-de-informacao-da-guine-bissau-sobr,,2026-10-21
@@ -91,10 +96,12 @@ MAR,2026-06-29-dgm-eumetsat-atelier-casablanca,,2026-10-19
 MAR,2026-07-28-morocco-water-digital-twin-national-data-platform-ehtp,,2026-10-19
 MDG,2019-01-01-mdg-wmo-tc-monitoring-forecasting-wfo-madagascar,,2026-10-19
 MDG,2023-11-01-un-soff-country-hydromet-diagnostics-madagascar,,2026-10-19
+MLI,2025-01-01-mli-weather-alerts-and-insurance-for-resilient-farmers-in-mali,,2026-10-22
 MLI,2026-03-11-mli-apanews-mali-meteo-systeme-satellitaire-puma2025,,2026-10-19
 MLI,2026-05-14-aiccra-institutionnalisation-outil-riice-mali,,2026-10-21
 MOZ,2023-09-11-moz-worldbank-sistema-alerta-antecipado-salva-vidas,,2026-10-19
 MOZ,2025-03-17-moz-wmo-life-saving-early-warning-systems,,2026-10-19
+MOZ,2026-08-03-moz-mocambique-dhis2-clima-e-saude,,2026-10-22
 MRT,2025-06-12-mrt-empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro,,2026-10-21
 MRT,2025-09-23-auc-climsa-puma-nouakchott-satellite-reception-inspection,,2026-10-19
 MRT,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop,,2026-10-19
@@ -102,6 +109,7 @@ MUS,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007,,2026-10-19
 MUS,2026-01-01-mus-mms-historical-background,,2026-10-19
 MWI,2025-07-01-mwi-crews-ai-ew4all-pilot-note,,2026-10-19
 MWI,2025-08-02-dccms-climsa-satellite-upgrade,,2026-10-19
+MWI,2025-08-14-mwi-malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resi,,2026-10-22
 MWI,2025-12-01-zanyengo-e-newsletter-edition-iv,,2026-10-19
 NAM,2018-07-09-nam-economist-meteorological-equipment-donation,,2026-10-19
 NAM,2018-07-11-nam-china-embassy-meteorological-equipment-handover,,2026-10-19
@@ -115,15 +123,19 @@ NGA,2025-05-09-nimet-mtg-satellite-installation,,2026-10-19
 NGA,2026-04-21-nga-report-on-the-results-at-national-level-on-cropwatch-programme,,2026-10-21
 RWA,2023-10-21-rwa-fmi-country-hydromet-diagnostics,,2026-10-19
 RWA,2024-09-30 Rwanda's digital transformation an effort at intergovernmental collaboration,,2026-10-21
+RWA,2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning,,2026-10-22
 RWA,2026-02-17-bsc-starlink-reseller-newtimes,,2026-10-21
 RWA,2026-07-13-rwa-undp-ai-ml-weather-feasibility-study,,2026-10-19
 SDN,2025-04-03-sdn-wmo-advancing-early-warnings-sudan,,2026-10-19
+SEN,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring,,2026-10-22
 SEN,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po,,2026-10-21
 SEN,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest,,2026-10-19
 SLE,2023-10-25-gcf-sle-sap033-2023-climate-information-systems,,2026-10-19
+SOM,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season,,2026-10-22
 SOM,2025-04-01-somalia-country-hydromet-diagnostics,,2026-10-19
 SOM,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system,,2026-10-19
 SOM,2025-12-04-snma-strategic-plan-launch,,2026-10-19
+SOM,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway,,2026-10-22
 SOM,2026-08-29-somalia-senate-cybersecurity-bill-first-reading,,2026-10-19
 SSD,2025-04-03-sdn-wmo-advancing-early-warnings-sudan,,2026-10-19
 SSD,2025-07-16-south-sudan-crews-east-africa-twinning,,2026-10-19
@@ -145,6 +157,7 @@ TCD,2025-11-19-wmo-crews-central-africa-seamless-forecasting-and-warning,,2026-1
 TCD,2026-02-03-tcd-wmo-strengthening-early-warning-chad,,2026-10-19
 TCD,2026-02-12-wmo-strengthening-collaboration-central-africa-early-warnings,,2026-10-19
 TCD,2026-03-26-regional-training-flood-forecasting-central-africa,,2026-10-19
+TGO,2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a,,2026-10-22
 TGO,2026-01-01-tgo-anamet-satellite-products,,2026-10-19
 TUN,2024-09-16-eumetsat-user-forum-africa-tunisie-inm-meteosat,,2026-10-19
 TZA,2024-02-01-tza-soff-country-hydromet-diagnostics,,2026-10-19

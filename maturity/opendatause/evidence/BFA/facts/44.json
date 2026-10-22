@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The government says its portal data.gov.bf, set up with World Bank support, holds 261 datasets on education, health, ICT and agriculture.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "data.gov.bf",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "reuse",
+   "value": "reused",
+   "fact": "The government says four applications have been developed that reuse the data.gov.bf datasets, and that the BODI initiative led by ANPTIC produced Open Election and the NENDO school-data map on open data.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "data.gov.bf",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gov.bf",
+   "country_label": "data.gov.bf",
+   "class": "open",
+   "platform": "portal",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

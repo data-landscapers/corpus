@@ -1,15 +1,16 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "ownership",
-   "stage": "no evidence",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives the share of people who own a mobile phone.",
-   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "ownership",
+      "stage": "unplaced",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2024 or later is held for the share of people who own a mobile phone.",
+      "note": "Counted from the four questions by study-ladder-mobilepenetration.py.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-xgl-govinsider-jargon-problem-public-participation-dpi",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "GovInsider reports that OGP's digital governance group, working with NITDA, plans to pilot standards making DPI more accessible to rural, non-literate, non-English-speaking and visually impaired users with 10 federal agencies within two years.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "DPI accessibility standards",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

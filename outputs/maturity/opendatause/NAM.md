@@ -8,6 +8,6 @@
 
 **Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://nsa.org.na/data-portals/>).
 
-***Noted, not assessed***. [COVID 19 Dashboard](<https://nsa.org.na/data-portals/>); [CityMender Namibia](<https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157>); [Multilateral Environmental Agreements (MEA) Monitoring and Reporting Online Platform](<https://neweralive.na/ministry-unveils-n12-million-monitoring-website/>).
+***Noted, not assessed***. [COVID 19 Dashboard](<https://nsa.org.na/data-portals/>); [CityMender Namibia](<https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157>); [Multilateral Environmental Agreements (MEA) Monitoring and Reporting Online Platform](<https://neweralive.na/ministry-unveils-n12-million-monitoring-website/>); [NASA Harvest Data Portal](<https://www.nasaharvest.org/news/nasa-harvest-partners-fao-improve-agricultural-monitoring-across-malawi-namibia-and-kazakhstan>).
 
 ***Not held***. No source held since October 2023 states an open licence for the data.

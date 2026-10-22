@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RIICE",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA model",
+   "owner": "IRRI, ISRA and sarmap",
+   "tiers": ""
+  }
+ ],
+ "note": "Rice area monitoring by a research pilot; the national weather service is not mentioned."
+}

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SEN,Meteosat Third Generation data,ANACIM (Senegal),metsat,,ANACIM,,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest
 SEN,AgData Hub,Senegal,other,,ANACIM,,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
+SEN,RIICE,Senegal,other,"Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA model","IRRI, ISRA and sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring

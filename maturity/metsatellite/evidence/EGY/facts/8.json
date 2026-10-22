@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NARSS winter crop map",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "remote sensing and AI",
+   "owner": "National Authority for Remote Sensing and Space Sciences with Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": "Crop mapping by a remote-sensing authority; the national weather service is not mentioned."
+}

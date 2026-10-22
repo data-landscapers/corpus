@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SOM,Hydro Meteorological Working Group (HWG),Somalia,other,,Ministry of Energy and Water Resources,,2025-04-01-somalia-country-hydromet-diagnostics
 SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Aviation Authority,,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system
+SOM,DRIVE pasture index insurance,Somalia,other,satellite pasture index,ZEP-RE with World Bank and governments,,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
+SOM,ARC drought insurance parametric indices,Somalia,other,satellite data and agro-meteorological indicators,African Risk Capacity,,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season

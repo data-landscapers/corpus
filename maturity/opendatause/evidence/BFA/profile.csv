@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,use,access,coverage,licensed,2026-10-16,BFA-005,BFA-006=published;BFA-002=published;BFA-001=published;BFA-004=published,
+BFA,use,access,coverage,licensed,2026-10-16,BFA-005,BFA-006=published;BFA-008=published;BFA-002=published;BFA-001=published;BFA-004=published,
 BFA,use,breadth,coverage,several,2026-06-17,BFA-007,,
-BFA,use,reuse,coverage,reused,2019,BFA-003,,nothing dated since 2023-10-17
+BFA,use,reuse,coverage,reused,2025-11-17,BFA-003;BFA-009,,

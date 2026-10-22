@@ -1,19 +1,20 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "2",
-   "finance": "inuse",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "3",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "inuse",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-003;ZMB-002",
+      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023. Smart Invoice, mandatory since July 2024, is an invoicing system and not the tax system itself.",
+      "note": "The IFMIS (2024), TaxOnline (2025) and the PMEC payroll (2026) are each in use by sources from 2023 or later. Nothing held says one of them went live on a new or upgraded system in the last three years, which stage 4 needs.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

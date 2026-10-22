@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARC drought insurance parametric indices",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "satellite data and agro-meteorological indicators",
+   "owner": "African Risk Capacity",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite-based insurance triggers belong to ARC; no national meteorological service use is stated."
+}

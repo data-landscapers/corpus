@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Togo Data Lab MOSAIKS",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "MOSAIKS satellite imagery models",
+   "owner": "Ministry of Digital Economy with CEGA",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite imagery for policy and agriculture; no national weather service is named."
+}

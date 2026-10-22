@@ -7,3 +7,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,CAF,data.open--use-of-open-data,fact,3,5,CAF-008,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,LBY,data.open--use-of-open-data,fact,4,4,LBY-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,RWA,data.open--use-of-open-data,fact,no evidence,2,RWA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-22,BFA,data.open--use-of-open-data,fact,4,5,BFA-009;BFA-007,"The government's November 2025 submission to the UN CSTD names four applications reusing data.gov.bf data, among them Open Election and NENDO: reuse on record inside three years."

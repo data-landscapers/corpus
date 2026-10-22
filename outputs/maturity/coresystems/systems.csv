@@ -220,6 +220,7 @@ KEN,E-Jiji Pay,E-Jiji Pay,other,,Nairobi County,county,2018-01-01-ken-automation
 KEN,Broadcast Logger,Broadcast Logger,other,,Communications Authority of Kenya; Kenya Film Classification Board,,2026-07-27-ca-kenya-kfcb-broadcast-logger-monitoring-training
 KEN,"Integrated, Control and Communication Centre (IC3)",IC3,other,,National Police Service,,2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv
 KEN,iTax,iTax,core,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
+KEN,SHA integrated financial management system,Kenya,other,,Social Health Authority,,2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -484,6 +485,8 @@ ZMB,IFMIS,IFMIS,core,,,,2025-10-02-zmb-auditor-general-report-2024-companion
 ZMB,INRIS,INRIS,other,,,,2025-10-02-zmb-auditor-general-report-2024-companion
 ZMB,SmartCare Pro,SmartCare Pro,other,,,,2025-10-02-zmb-auditor-general-report-2024-companion
 ZMB,PMEC,PMEC,core,"SAP, Oracle database",government,,2026-09-01-zmb-auditor-general-report-2025-companion
+ZMB,TaxOnline,Zambia,core,,Zambia Revenue Authority,,2025-05-01-zra-smart-invoice
+ZMB,Smart Invoice,Zambia,other,e-invoicing,Zambia Revenue Authority,,2025-05-01-zra-smart-invoice
 ZWE,Tax and Revenue Management System (TaRMS),TaRMS,core,,Zimbabwe Revenue Authority,,2024-09-13-zimra-public-notice-69-tarms-release-3
 ZWE,ASYCUDA,ASYCUDA,other,,,,2024-09-13-zimra-public-notice-69-tarms-release-3
 ZWE,FDMS,FDMS,other,,,,2024-09-13-zimra-public-notice-69-tarms-release-3

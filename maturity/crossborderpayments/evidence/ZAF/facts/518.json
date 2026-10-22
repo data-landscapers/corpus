@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-zaf-rewiring-payments-open-connected-inclusive",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The SARB speech says lower-value retail regional payments run through SADC-RTGS now, with qualifying payments under R100,000 to move to TCIB by end-April 2027 and a hub-and-spoke pilot across eight countries by October 2027.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "SADC-RTGS / TCIB",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

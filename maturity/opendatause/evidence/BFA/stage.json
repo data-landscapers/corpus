@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "4",
+      "stage": "5",
       "access": "licensed",
       "breadth": "several",
-      "reuse": "",
+      "reuse": "reused",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-007",
-      "gaps": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
-      "note": "Counted from the four questions by study-ladder-opendatause.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BFA-009;BFA-007",
+      "gaps": "",
+      "note": "The government's November 2025 submission to the UN CSTD names four applications reusing data.gov.bf data, with Open Election and NENDO built on BODI open data; reuse on record within three years is the top rung. The applications themselves date from the BODI years from 2014, and the source restates them.",
+      "as_at": "2026-10-22"
     }
   ]
 }

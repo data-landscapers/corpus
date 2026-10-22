@@ -21,6 +21,7 @@ BFA,eBurkina central government portal and open data output,eBurkina central gov
 BFA,INSD website and open data portal,insd.bf,open,,INSD,,2026-10-16-bfa-insd-licence-donnees-ouvertes
 BFA,Portail National de Données pour la Décision Publique,data.citadel.bf,open,,"CITADEL, Université Joseph Ki-Zerbo",,2026-06-17-bfa-citadel-portail-national-donnees
 BFA,Open Data Portal ODP 2.0 (AfDB initiative),BFA,other,ODP 2.0,INSD with AfDB,,2025-02-24-bfa-insd-odp-2-0-migration
+BFA,data.gov.bf,data.gov.bf,open,portal,Government of Burkina Faso,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
 BWA,SmartBots Lab (Botswana Digital Innovation Hub),"SmartBots Lab, Botswana Digital Innovation Hub, no web address given",other,sandbox environments with open datasets exposed through secure interfaces,Botswana Digital Innovation Hub,,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
 BWA,Tourism Statistics Dashboard,"Tourism Statistics Dashboard (Ministry of Environment and Tourism, with JICA)",other,dashboard,Ministry of Environment and Tourism,,2026-04-15-tourism-statistics-dashboard
 BWA,Statistics Botswana microdata portal,Statistics Botswana microdata portal,open,data portal,Statistics Botswana,,2026-08-24-erkkola-data-is-botswanas-new-diamond
@@ -118,6 +119,7 @@ GNB,Dados Abertos - Assembleia Nacional Popular,National Assembly open data page
 GNB,National Summary Data Page,National Summary Data Page on Guinea-Bissau's Open Data Platform (guinebissau.opendataforafrica.org/nsdp),open,African Development Bank Open Data Platform,"National Institute of Statistics, Ministry of Finance, BCEAO",,2024-06-14-gnb-ine-egdds-portal-dados-abertos
 GNB,GEMS digital school inspection dashboards,Guinea-Bissau General Inspectorate of Education dashboards (no address given),other,World Bank GEMS mobile data collection,"General Inspectorate of Education, with World Bank GEMS team",,2026-06-12-gnb-gems-school-monitoring-worldbank
 GNB,Gender Data Portal,World Bank Gender Data Portal,other,,World Bank Group,,2026-04-02-guinebissau-world-bank-gender-data-landscape-2026
+GNB,Sistema de Informação de Planos e Projetos (SIPP),Guinea-Bissau,other,web platform,"Ministry of Economy, Plan and Regional Integration",,2026-10-20-gnb-26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolv
 KEN,Kenya national data marketplace (proposed),"National data marketplace (proposed, Ministry of Information, Communications and the Digital Economy)",other,,"Ministry of Information, Communications and the Digital Economy",,2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost
 KEN,Kenya national data marketplace (proposed),"National data marketplace (proposed, Ministry of Information, Communications and the Digital Economy)",other,,"Ministry of Information, Communications and the Digital Economy",,2026-06-08 Kenya proposes marketplace for State data
 KEN,Kenya national data marketplace (proposed),"National data marketplace (proposed, Ministry of Information, Communications and the Digital Economy)",other,,"Ministry of Information, Communications and the Digital Economy",,2026-06-07-state-plans-ecitizen-data-sale-nation
@@ -188,6 +190,7 @@ MWI,National open data portal (none central),No centralised open data portal or 
 MWI,"Sectoral dashboards (health, education)","Ministry-specific dashboards and datasets, non-standardised",other,,ministries,,2025-11-01-mwi-csea-advancing-open-data-governance-malawi
 MWI,Education Data Portal (EDaP),"Education Data Portal (EDaP), Malawi",other,,"Unlocking Data Initiative Malawi team (to transfer to CERT, University of Malawi)",tiered access,2026-07-06-mwi-education-data-portal-edap
 MWI,Education Management Information System (EMIS),"EMIS, Ministry of Education, Science and Technology",other,,MoEST,,2026-07-06-mwi-education-data-portal-edap
+MWI,NASA Harvest Data Portal,NASA Harvest Data Portal (nasaharvest.org),other,,NASA Harvest,,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro
 NAM,NSA Central Data Catalog (NADA microdata archive),microdata.nsanamibia.com,open,NADA,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
 NAM,Namibia Data Portal,nsa.org.na/data-portals/,other,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
 NAM,National Summary Data,nsa.org.na/data-portals/,other,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
@@ -197,6 +200,7 @@ NAM,National Spatial Data Infrastructure (NSDI),"NSDI policy, Namibia Statistics
 NAM,NSDI Geographic Portal (Digital Namibia map viewer and Geofind online metadata catalogue),NSDI Geographic Portal,other,,Namibia Statistics Agency,,2025-10-13-nsa-nsdi-geoportal-redesign-tender
 NAM,CityMender Namibia,"CityMender Namibia app (Apple App Store, Google Play)",other,mobile app,"CityMender (private, founder Keyuren Maharaj)",,2026-08-14-namibia-citymender-infrastructure-reporting-app
 NAM,Multilateral Environmental Agreements (MEA) Monitoring and Reporting Online Platform,MEFT MEA Monitoring and Reporting Online Platform,other,online platform,"Ministry of Environment, Forestry and Tourism (with UNDP, GEF, UNAM)",,2026-08-07-namibia-mea-monitoring-platform-gef-undp
+NAM,NASA Harvest Data Portal,NASA Harvest Data Portal (nasaharvest.org),other,,NASA Harvest,,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro
 NER,Illimi Niger multisectoral data platform,Illimi Niger platform (no address given),other,,UN Resident Coordinator's Office with the government,,2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel
 NER,Plateforme Nationale d'Information pour la Nutrition (PNIN) web portal,"PNIN portal, Institut National de la Statistique (no address given)",open,,Institut National de la Statistique,,2025-09-18-anp-pnin-portail-web-renove
 NER,INS Niger website and open data portal,NER stat-niger.org,open,,Institut National de la Statistique,,2024-10-30-ner-ins-licence-donnees-ouvertes

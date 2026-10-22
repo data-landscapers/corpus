@@ -20,6 +20,7 @@ DJI,PUMA 2005 workstation,Djibouti,metsat,PUMA,ANM Djibouti,,2025-03-01-dji-geos
 DJI,MSG receiving station / PUMA workstation,Djibouti,metsat,"Meteosat Second Generation, EUMETSAT PUMA",ANM,,2022-01-01-dji-worldbank-feuille-de-route-hydromet-alerte-precoce
 DZA,"Satellite image reception systems (Oran, Constantine)",Algeria,metsat,,Office national de la Meteorologie,,2018-03-23-dza-algerieeco-meteorologie-service-economie
 EGY,MSG and HRPT units,Egypt,metsat,MSG; HRPT,Egyptian Meteorological Authority,,2014-12-01-egy-ema-wmo-rtc-cairo-training-book
+EGY,NARSS winter crop map,Egypt,other,remote sensing and AI,National Authority for Remote Sensing and Space Sciences with Ministry of Agriculture,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
 ETH,EMI Satellite Imagery,Satellite Imagery,metsat,"Meteosat SEVIRI, NWC-SAF",Ethiopian Meteorological Institute,,2026-08-28-emi-satellite-imagery
 ETH,Urban Flash Flood Forecasting System (UFFFS),Ethiopia (Addis Abeba pilot city),other,satellite observations with PySTEPS nowcasting,"WMO project WHCA, with HKV and Deltares","pilot, not yet operational",2026-04-02-wmo-urban-flash-flood-forecasting-eastern-africa
 GAB,PUMA reception station (Transition Météorologique en Afrique),Gabon,metsat,Meteosat Second Generation,Direction de la Météorologie Nationale,,2009-10-27-gab-annales-uob-reseaux-mesures-meteo-puma
@@ -48,6 +49,7 @@ MUS,NOAA HRPT reception,Mauritius,metsat,HRPT,Mauritius Meteorological Services,
 MUS,Meteosat Second Generation (MSG),Mauritius,metsat,Meteosat/RETIM,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
 MWI,PUMA 2025 (Skyceiver),Malawi,other,web-based data reception platform for Meteosat Third Generation data,African Union / EUMETSAT / ClimSA,regional,2025-12-01-zanyengo-e-newsletter-edition-iv
 MWI,PUMA 2025,Malawi,metsat,Meteosat satellite reception system,DCCMS,national,2025-08-02-dccms-climsa-satellite-upgrade
+MWI,PRISM,Malawi,metsat,geospatial analytics,"DCCMS with WFP, Norway-funded",pilot in five districts,2025-08-14-mwi-malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resi
 NAM,FY-3 satellite data receiving and processing systems,Namibia,metsat,FY-3,Namibian Meteorological Service,,2018-07-11-nam-china-embassy-meteorological-equipment-handover
 NAM,FY-3 satellite data collecting and processing system,Namibia,metsat,FY-3,Namibia Meteorological Service,,2018-07-09-nam-economist-meteorological-equipment-donation
 NER,EUMETView,Image Satelitaire,metsat,EUMETSAT EUMETView (Meteosat SEVIRI),Direction de la Météorologie Nationale du Niger (DMN),national,2026-03-01-dmn-niger-image-satellite
@@ -58,11 +60,15 @@ RWA,EUMETSAT ground-based satellite receiver,Rwanda,metsat,EUMETSAT,Meteo Rwanda
 RWA,PUMA system (ECMWF products),Rwanda,other,PUMA,Meteo Rwanda,,2023-10-21-rwa-fmi-country-hydromet-diagnostics
 SEN,Meteosat Third Generation data,ANACIM (Senegal),metsat,,ANACIM,,2026-05-18-eumetsat-amsaf-anacim-nowcasting-afrique-ouest
 SEN,AgData Hub,Senegal,other,,ANACIM,,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
+SEN,RIICE,Senegal,other,"Sentinel-1A, Landsat 8/9, Sentinel-2 with ORYZA model","IRRI, ISRA and sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
 SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,"Government of Sierra Leone (GCF-funded, AfDB Accredited Entity)",,2023-10-25-gcf-sle-sap033-2023-climate-information-systems
 SOM,Hydro Meteorological Working Group (HWG),Somalia,other,,Ministry of Energy and Water Resources,,2025-04-01-somalia-country-hydromet-diagnostics
 SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Aviation Authority,,2025-07-02-som-spaceinafrica-scaa-satellite-weather-system
+SOM,DRIVE pasture index insurance,Somalia,other,satellite pasture index,ZEP-RE with World Bank and governments,,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
+SOM,ARC drought insurance parametric indices,Somalia,other,satellite data and agro-meteorological indicators,African Risk Capacity,,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season
 SYC,EUMETSAT satellite products,Seychelles,metsat,internet access,Seychelles Meteorological Authority,,2025-06-12-syc-saws-country-hydromet-diagnostics
 TCD,NWCSAF RDT nowcasting,Chad,metsat,EUMETSAT / AEMET,ANAM,,2026-02-03-tcd-wmo-strengthening-early-warning-chad
+TGO,Togo Data Lab MOSAIKS,Togo,other,MOSAIKS satellite imagery models,Ministry of Digital Economy with CEGA,,2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a
 TUN,Meteosat receiving and exploitation systems,Tunisia,metsat,Meteosat,Institut National de la Meteorologie,national,2024-09-16-eumetsat-user-forum-africa-tunisie-inm-meteosat
 TZA,Data Processing and Forecasting System (DPFS),Tanzania,other,"statistical and NWP techniques, SYNERGIE, WRF and HRM models",Tanzania Meteorological Authority,,2025-03-01-tza-nao-performance-audit-meteorological-services
 TZA,EUMETSAT satellite imagery,Tanzania,metsat,EUMETSAT,Tanzania Meteorological Authority (user),,2024-02-01-tza-soff-country-hydromet-diagnostics

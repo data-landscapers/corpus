@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Burkina Faso says its regulatory framework includes a general interoperability framework (referentiel general d'interoperabilite).",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Referentiel general d'interoperabilite",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Referentiel general d'interoperabilite",
+   "country_label": "Burkina Faso",
+   "class": "framework",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

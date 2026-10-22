@@ -1,6 +1,6 @@
 # Use of open data: use of open data
 
-*As at 2026-10-18.*
+*As at 2026-10-22.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 5 |
+| 5 Leading | 4 |
+| 4 Operating | 4 |
 | 3 Established | 7 |
 | 2 Nascent | 27 |
 | 1 Absent | 0 |
@@ -29,6 +29,13 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | No evidence | 9 |
 
 ## Countries
+
+### Burkina Faso: 5 Leading
+
+Government data was published under an open licence by several bodies in 2026, and applications reusing it were named in 2025.
+
+- The government says four applications have been developed that reuse the data.gov.bf datasets, and that the BODI initiative led by ANPTIC produced Open Election and the NENDO school-data map on open data ([source, 2025-11-17](https://unctad.org/system/files/non-official-document/cstd2025-26_ai_c05_burkina_faso_fr.pdf)).
+- CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
 
 ### Central African Republic: 5 Leading
 
@@ -47,12 +54,6 @@ Reuse of the government's published data is on record in 2026.
 Reuse of the government's published data is on record in 2026.
 
 - ANSD's national data archive catalogue (ANADS) shows per-dataset view counts, including 4,808,203 views for the 2013 census (RGPHAE) and 19,910 for the 2023 census (RGPH5); the page has no date of its own, so the retrieval date is used ([source, 2026-09-03](http://anads.ansd.sn/index.php/catalog)).
-
-### Burkina Faso: 4 Operating
-
-Several public bodies published data for download in 2026; no reuse of it is on record.
-
-- CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
 
 ### Guinea-Bissau: 4 Operating
 

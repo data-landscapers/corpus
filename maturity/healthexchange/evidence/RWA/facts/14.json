@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-digital-health-case-study",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Global Fund case study says Rwanda's Ministry of Health has made the laboratory information systems, the HMIS and the Reagent Management System interoperable, giving end-to-end visibility across testing, results and stock.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Laboratory information systems, HMIS and Reagent Management System",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "The Global Fund case study says three systems, the laboratory information systems, the HMIS and the Reagent Management System, are interoperable in Rwanda, and that a health information exchange at facility level lets clinicians draw on patients' past encounters.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Laboratory information systems, HMIS and Reagent Management System",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

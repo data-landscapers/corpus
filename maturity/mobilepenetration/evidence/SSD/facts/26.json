@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:23.95",
+   "fact": "The Mobile Connectivity Index estimate cited by Diplo puts mobile phone ownership at 23.95 per cent of the total population in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Mobile ownership",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

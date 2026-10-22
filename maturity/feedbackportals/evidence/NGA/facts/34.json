@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-nga-edo-data-for-governance-project",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "inservice",
+   "fact": "Data Science Nigeria says the Edo Citizens' Feedback System, built on a DHIS2 tracker program, lets residents report service gaps in schools, clinics and roads and has handled over 12,000 real-time reports (Edo State).",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Edo Citizens' Feedback System",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

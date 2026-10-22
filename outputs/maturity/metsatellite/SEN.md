@@ -8,6 +8,6 @@
 
 **ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [RIICE](<https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security>).
 
 ***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
