@@ -501,3 +501,17 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
   .about-intro { grid-template-columns: 1fr; }
   .data-table-controls input[type="search"] { min-width: 160px; }
 }
+
+/* ── BODY PROSE ──
+   17px on screen, a step below the 18px root, on both sites (Bill, 2026-10-22). Set for Corpus on
+   2026-09-10 and brought up here so an essay and a report read at one size. `body`, not `html`:
+   everything else is sized in `rem` and stays put. Headings h2–h4 come down by the same step to
+   keep the house ratios; `h1` is sized against the viewport and is not scaled. Screen only — the
+   dated PDFs are cut from print rules, and a body rule that reached print would reflow them. */
+@media screen {
+  :root { --prose: 0.94rem; }
+  body { font-size: var(--prose); }
+  h2, .section-heading { font-size: calc(1.45rem * 0.94); }
+  h3 { font-size: calc(1.05rem * 0.94); }
+  h4 { font-size: calc(1rem * 0.94); }
+}

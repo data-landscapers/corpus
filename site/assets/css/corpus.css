@@ -126,42 +126,10 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
    sideways until it could break anywhere (2026-09-11). */
 .colophon dd { margin: 0; overflow-wrap: anywhere; }
 
-/* ── BODY PROSE, ONE STEP DOWN ──
- * 17px against the website's 18px *(Bill, 2026-09-10)*.
- *
- * The two sites are the same measurement — root 18px, body 1rem, 1.6 leading,
- * a 926px measure on both an article and a report — so this is not drift being
- * corrected, it is a Corpus page being asked to sit a step below the website's.
- * A Corpus page is a long document read for reference rather than an essay read
- * once, and at the same size it reads heavier than the thing it is a companion
- * to.
- *
- * **`body`, not `html`.** Everything else on the page — headings, nav, tables,
- * badges, the stat bar — is sized in `rem`, so moving the root would take the
- * whole scale down with it and this is only about the prose. Moving `body`
- * moves exactly what inherits from it: paragraphs, list items, the text inside
- * a `details`. `rem` rather than `17px` so the 720px breakpoint, where the root
- * drops to 16px, takes the same proportion down with it.
- *
- * **Screen only.** `report.css` sets the print root to 10pt and the dated PDFs
- * are cut from it; a body rule that reached print would reflow every one of
- * them for a change that was asked about a web page. The PDF's prose stays at
- * its 10pt.
+/* ── BODY PROSE ──
+ * The screen step-down to 0.94rem went up to `main.css` on 2026-10-22 (Bill), so the
+ * website's prose reads at the same size.
  */
-@media screen {
-  :root { --prose: 0.94rem; }
-  body { font-size: var(--prose); }
-  /* **The headings came down by the same step** *(Bill, 2026-09-11)*. With only the
-     body moved, h3 stood 1.12 times its paragraph against the house's 1.05, and h2
-     1.54 against 1.45 — the report sub-headings visibly outweighed their text. So
-     h2–h4 and `.section-heading` take the same 0.94, which keeps the house ratios.
-     The page title (`h1`) is not scaled: it is sized against the viewport, not the
-     prose. A rule with a class of its own (`.topic-group`, a report's apparatus)
-     keeps its size, and print is untouched, as above. */
-  h2, .section-heading { font-size: calc(1.45rem * 0.94); }
-  h3 { font-size: calc(1.05rem * 0.94); }
-  h4 { font-size: calc(1rem * 0.94); }
-}
 
 /* --- the feedback ask ------------------------------------------------------
  *

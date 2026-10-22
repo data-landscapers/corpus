@@ -1,6 +1,7 @@
 ## 22 October 2026
 
 - Every page on data-landscapers.io now carries the Corpus menu bar under its header, as Corpus pages do. Moving between the two sites no longer changes the top of the page.
+- Body text on data-landscapers.io is now the same size as on Corpus, one step smaller than before. Reading moves between the two sites without a change in type.
 
 ## 21 October 2026
 
