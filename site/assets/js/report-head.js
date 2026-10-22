@@ -104,6 +104,10 @@
   }
 
   place();
+  // The browser may jump to the address's anchor before the head is pinned, leaving the target
+  // under it. Once the clearance is set, jump again (Bill, 2026-10-22).
+  var target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  if (target && root.classList.contains('report-head-sticky')) target.scrollIntoView({ behavior: 'instant' });
   if (topics || sections) spy();
   var pending;
   window.addEventListener('resize', function () {

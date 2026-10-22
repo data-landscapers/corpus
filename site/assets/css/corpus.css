@@ -248,7 +248,8 @@ table.pivot tbody tr:hover { background: var(--paper-warm); }
 .report-head--page > .article-header > .feedback-ask { float: right; margin: 0.45rem 0 0.25rem 1.5rem; }
 .report-head--page > .article-toc:last-child { margin-bottom: 0; }
 .report-head-sticky .report-head .report-family { padding-top: 0.75rem; }
-.report-head-sticky .article-body :is(h2, h3, h4) { scroll-margin-top: var(--report-head-clear); }
+/* Any anchor in the body, not only headings: a Maturity indicator is a <section> (Bill, 2026-10-22). */
+.report-head-sticky .article-body :is(h2, h3, h4, [id]) { scroll-margin-top: var(--report-head-clear); }
 /* A phone keeps the head short enough to pin: each bar scrolls sideways on one
    line, as the Corpus nav does, and the ask comes off (the colophon has it). */
 @media (max-width: 640px) {
