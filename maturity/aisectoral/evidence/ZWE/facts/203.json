@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-10-zwe-boosting-tb-dectection-in-rural-zimbabwe-using-infervision-s-ai-and-ul",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Infervision, a vendor, says that since 2024 Zimbabwe's Ministry of Health and Child Care has used its InferRead AI chest X-ray reading with InferAir portable X-ray in a TB screening project in Gweru, with over 2,600 people screened daily.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "InferAir with InferRead",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InferAir with InferRead",
+   "country_label": "Zimbabwe",
+   "class": "sectorai",
+   "platform": "AI chest X-ray computer-aided detection with portable X-ray",
+   "owner": "Infervision with the Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

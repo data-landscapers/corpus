@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-04-lso-ai-healthcare-revolution-in-lesotho-combating-tb",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Qure.ai's account says its qXR chest X-ray AI has screened for TB at seven community sites in Lesotho with Partners In Health and the Ministry of Health since July 2022.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "qXR",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Qure.ai reports that qXR has processed over 6,000 scans since July 2022 and identified about 1,100 people with potential TB for GeneXpert confirmation.",
+   "as_of": "2024-03-04",
+   "date_precision": "day",
+   "system": "qXR",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "qXR",
+   "country_label": "Lesotho",
+   "class": "sectorai",
+   "platform": "Qure.ai chest X-ray AI",
+   "owner": "Qure.ai",
+   "tiers": "seven community screening sites"
+  }
+ ],
+ "note": ""
+}

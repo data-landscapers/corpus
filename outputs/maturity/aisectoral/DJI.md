@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [The Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** The ports and free zones authority says an [AI road-monitoring system launched in 2024 uses cameras to detect and locate potholes and cracks along the regional transport corridors](<https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics>). The state corridor-road company said in January 2026 that its system, which reads defects from vehicle video, was [in deployment and calibration and had covered over 844 km of its network](<https://dpcr.dj/2026/01/15/corridorvision-ai-ai-powered-road-condition-monitoring-for-djiboutis-trade-corridors/>). In weather, the Chinese Meteorological Administration [supplied an AI early-warning system, in service from December 2025, and handed over a new version on 17 July 2026](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia>), with forecasts at 3 km resolution.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia>).
+**Several sectors.** Road transport and weather each have AI in service, in separate accounts: the [road-monitoring system](<https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics>) and the [early-warning system](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia>).
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia>).
+**Results reported.** The corridor-road company says its system [made 2,174 detections across four defect types in its first processing](<https://dpcr.dj/2026/01/15/corridorvision-ai-ai-powered-road-condition-monitoring-for-djiboutis-trade-corridors/>), reported in January 2026.
 
-***Noted, not assessed***. [Djibouti Ports Community System](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>).
+***Noted, not assessed***. [Djibouti Ports Community System](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>); [DPCS Foresight](<https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics>).
 
-***Not held***. No source held since October 2023 says AI is in service in the public systems of two or more sectors.
+***Not held***. No single source says AI is in service in the public systems of two or more sectors.

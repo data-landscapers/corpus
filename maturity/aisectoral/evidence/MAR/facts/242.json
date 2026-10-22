@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-mar-lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-d",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Maroc.ma (MAP) reports the Moroccan Medicines and Health Products Agency launched the Tarkhiss platform on 31 March 2026, which includes AI-based analysis tools to process files, starting with cosmetics and body-hygiene products for about 3,500 operators.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Tarkhiss",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tarkhiss",
+   "country_label": "Morocco",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Agence Marocaine du Médicament et des Produits de Santé",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

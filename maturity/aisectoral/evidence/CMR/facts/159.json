@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-cmr-cameroon-built-ai-claims-97-2-precision-in-tax-fraud-detection-but-rev",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Researchers from the universities of Ngaoundere and Dschang and ESSCA say their tax fraud detection model was tested at three tax centres, which the authors report cut processing time by 67%; Business in Cameroon says the DGI has not corroborated the pilot.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Machine-learning tax fraud detection system (WorldCIST 2026 chapter)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Machine-learning tax fraud detection system",
+   "country_label": "Cameroon",
+   "class": "sectorai",
+   "platform": "XGBoost, Random Forest, SVM, Isolation Forest, autoencoders",
+   "owner": "University researchers (Ngaoundere, Dschang, ESSCA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

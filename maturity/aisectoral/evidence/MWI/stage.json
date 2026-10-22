@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
-      "results": "",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-003;MWI-004",
-      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-007;MWI-006",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "A preprint reports the error rate and completeness of AI transcription of HIV testing registers at 98% of testing facilities to September 2025, a measured result of a system in service. A later yes answers the several-sectors question.",
+      "as_at": "2026-10-22"
     }
   ]
 }

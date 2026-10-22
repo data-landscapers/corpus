@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
 RWA,Kubaka.gov.rw,Rwanda,other,national building permits platform,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
+RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and higher learning institutions,2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning
+RWA,Tunga,Rwanda,sectorai,voice assistant in the MINAGRI call centre,Ministry of Agriculture and Animal Resources,,2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi

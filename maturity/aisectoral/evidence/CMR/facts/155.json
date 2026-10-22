@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "CNPS Director General Mekulu Mvondo said AI tools in the national social insurance fund detect fraud by finding inconsistencies in declarations and contributions and calculate rights in real time.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "CNPS AI fraud detection and rights calculation",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNPS AI tools",
+   "country_label": "Cameroon",
+   "class": "sectorai",
+   "platform": "MA CNPS A MOI",
+   "owner": "CNPS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

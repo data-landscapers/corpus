@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-04-ken-ai-system-flaws-push-sha-into-chaos-mps-say-in-explosive-report",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Health Committee's report tabled in Parliament says the Social Health Authority's AI-driven claims processing system is in use and rejects some legitimate hospital claims as fraudulent.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "SHA AI-driven claims processing system",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Health CS Aden Duale said investigations had uncovered irregular payments of Sh10.6 billion, credited to new safeguards embedded in the SHA system.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "SHA AI-driven claims processing system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SHA AI-driven claims processing system",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Social Health Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

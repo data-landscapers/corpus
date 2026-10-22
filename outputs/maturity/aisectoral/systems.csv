@@ -1,55 +1,115 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,AGT in-house AI system,Angola,sectorai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
+AGO,AGT machine-learning tax software,Angola,sectorai,,Administração Geral Tributária (AGT),,2026-07-10-ago-inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fug
+AGO,AI-based risk audit model,Angola,sectorai,machine learning and data analysis,Administracao Geral Tributaria (AGT),,2026-04-15-ago-agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos
 BDI,AgriHyphen AI,Burundi,other,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
+BDI,Malariya Pi,Burundi,sectorai,smartphone app,PNILP with Enabel; developed by Audere,Cibitoke and Kirundo,2025-07-21-bdi-l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-b
 BEN,miLab MAL,Benin,sectorai,Noul,Ministry of Health / PNLP,,2026-09-08-wearetech-benin-paludisme-ia-diagnostic
 BEN,Integrated Action for Malaria Prevention project,Benin,sectorai,"AI, drones and geospatial mapping","Government of Benin, financed by Japan",six pilot municipalities,2026-07-03-wearetech-benin-ai-drones-malaria-mapping
 BEN,GAINAfrica clinical decision-support system,Benin,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+BEN,Webb Customs,Benin,other,Webb Fontaine,Benin Customs,,2025-06-30-ben-webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin
+BEN,Webb Customs,Benin,other,,"Benin customs, supplied by Webb Fontaine",,2025-02-14-ben-webb-fontaine-accelerates-benin-s-customs-transformation-with-key-mile
 BFA,ANAM AI forecasting convention,Burkina Faso,sectorai,,Agence Nationale de la Meteorologie (ANAM),pilot,2025-10-14-bfa-burkina-faso-le-gouvernement-integre-l-intelligence-artificielle-au-se
+BFA,CAD4TB,Burkina Faso,sectorai,mobile digital X-ray,National Tuberculosis Program,,2026-02-01-bfa-advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb
+BWA,AI tuberculosis-detection software,Botswana,sectorai,,Ministry of Health,,2025-06-05-bwa-u-s-brings-high-tech-tools-to-botswana-infectious-disease-fight
+BWA,Qure.ai CAD,Botswana,sectorai,,national TB programme (vendor Qure.ai),,2025-04-08-bwa-advancing-tb-screening-in-botswana-with-quire-ai-technology
 CAF,MEDICINE,Central African Republic,sectorai,,Institut Pasteur de Bangui,,2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic
+CAF,CAD4TB,Central African Republic,sectorai,chest X-ray,Batangafo district hospital with MSF,,2026-07-22-caf-republique-centrafricaine-l-ia-au-service-du-depistage-de-la-tuberculo
+CAF,"AI TB positivity mapping model, Bangui",Central African Republic,sectorai,,"The Union, EPCON and National Tuberculosis Programme",,2025-08-01-caf-mapping-tb-with-ai-brings-new-hope-for-surveillance-in-low-resource-se
 CIV,carte d'occupation des sols 2020,Côte d'Ivoire,sectorai,online land-cover data access platform,BNETD (CIGN),,2024-03-26-civ-cote-d-ivoire-le-bnetd-presente-la-carte-d-occupation-des-sols-2020-av
+CIV,mHealth One,Côte d'Ivoire,sectorai,mHealth (TICANALYSE),"Ministry of Health, Public Hygiene and Universal Health Cover",,2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-integrant-l
+CIV,Pendulum AI forecasting,Cote d'Ivoire,sectorai,mSupply Mobile,Ministry of Health with Pendulum,,2024-04-15-civ-leveraging-dhis2-data-to-create-ai-driven-health-facility-forecasts-in
 CMR,simulations générées par l'IA,Cameroun,sectorai,,MINESEC,,2026-08-19-dba-minesec-simulation-ia-e-education
 CMR,CNPS automated pension-file processing,Cameroun,sectorai,,CNPS,,2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations
+CMR,CNPS AI tools,Cameroon,sectorai,MA CNPS A MOI,CNPS,,2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca
+CMR,Machine-learning tax fraud detection system,Cameroon,sectorai,"XGBoost, Random Forest, SVM, Isolation Forest, autoencoders","University researchers (Ngaoundere, Dschang, ESSCA)",,2026-08-27-cmr-cameroon-built-ai-claims-97-2-precision-in-tax-fraud-detection-but-rev
+CMR,AI Doctor,Cameroon,other,AI check-up device,CNPS,,2025-06-12-cmr-visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor
 COD,SnapiForm,DRC,sectorai,Telegram mini-app with DHIS2,PATH (MACEPA) with the Ministry of Health,health zone,2025-10-15-cod-path-snapiform-ai-health-data-reporting
 COD,correction automatisée de l'Examen d'État,DR Congo,sectorai,digitisation centres,Ministry of National Education and New Citizenship,,2025-12-21-cod-1ere-edition-des-casp-raissa-malu-presente-l-ia-comme-un-outil-d-effic
 COD,"National Grading Center, State Exam",DR Congo,sectorai,,Ministry of National Education and New Citizenship (MINEDU-NC),Kinshasa; Lubumbashi and Mbuji-Mayi pilot centres,2025-07-25-cod-decentralization-of-state-examination-correction-centers-a-first-in-th
+COD,Preparedness Data Exchange (PDX),Democratic Republic of the Congo,sectorai,WHO AFRO AI platform linked to a regional platform of 47 member states,WHO Regional Office for Africa,national,2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re
+COD,Voyage Santé,Democratic Republic of the Congo,other,digital points-of-entry system at N'djili International Airport and Nord Bangui border post,Dure Technologies with WHO,,2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re
+COD,SnapiForm,DRC,sectorai,DHIS2,SnapiForm with PATH,,2026-01-02-cod-use-case-snapiform
 COM,DHIS2 (malaria case data),Comoros,other,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros
+COM,EIOS,Comoros,sectorai,Epidemic Intelligence from Open Sources,WHO with Ministry of Health,,2025-04-24-com-comores-l-oms-forme-sur-l-initiative-d-intelligence-epidemique-a-parti
+CPV,Monitoring Tools and Artificial Intelligence for Smart Agriculture,Cabo Verde,other,"sensors, drones and AI models","University of Cape Verde with UNDP Accelerator Lab, Primebotics and a producers' association",,2024-03-15-cpv-agricultural-transition-using-the-internet-of-things-and-artificial-in
+CPV,SSWAxC4V,Cabo Verde,sectorai,IoT and AI,Universidade de Cabo Verde,,2026-07-01-cpv-unico-projeto-arise-em-cabo-verde-apresenta-resultados-a-african-acade
+CPV,AI-read cloud ECGs and AI eye screening,Cabo Verde,sectorai,cloud ECG,Cabo Verdean American Medical Society,all islands,2026-04-01-cpv-missoes-medicas-do-projeto-continuidade-dos-eua-reforcam-saude-em-cabo
 DJI,MAZU-Djibouti 2.0,Djibouti,sectorai,AI weather forecasting and alerts,Agence meteorologique nationale de Djibouti,national,2026-07-22-djibouti-mazu-2-0-alerte-meteo-ia
 DJI,Djibouti Ports Community System,Djibouti,other,,,,2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti
+DJI,DPCS Foresight,Djibouti,other,predictive business intelligence,DPFZA,,2026-09-02-dji-djibouti-unveils-ai-tools-to-modernize-ports-and-logistics
+DJI,CorridorVision AI,Djibouti,sectorai,YOLOv8 model on RapidCanvas,Djibouti Ports Corridor Road SA,,2026-01-15-dji-corridorvision-ai-ai-powered-road-condition-monitoring-for-djibouti-s
 DZA,AI assistant for the personal study path,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-07-25-echorouk-parcours-pedagogique-ia-universite
+DZA,language model specialised in Algerian tax legislation,Algeria,sectorai,,Directorate General of Taxes with the Ministry of Higher Education,,2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi
+DZA,AI-boosted automated data analysis and cross-checking system on the ministry's digital platform,Algeria,sectorai,ministry digital platform,Ministry of Foreign Trade and Export Promotion,,2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu
+DZA,MESRS baccalaureate orientation platform,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2024-04-29-dza-the-launch-of-a-new-digital-platform-to-assist-new-baccalaureate-holde
+DZA,Chatbot specialise dans la legislation fiscale algerienne,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale
+DZA,ALCES,Algerian Customs,sectorai,,Direction Generale des Douanes,,2025-02-06-dza-mf-modernisation-douanes-alces
 EGY,NARSS winter crop map,Egypt,sectorai,remote sensing and AI,NARSS with Ministry of Agriculture and Land Reclamation,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
 EGY,Satellite crop type mapping pilot,Egypt,sectorai,machine learning,Ministry of Irrigation and Water Resources,pilot,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i
+EGY,AI tax assistant platform,Egypt,sectorai,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
+EGY,Nafeza,Egypt,sectorai,Nafeza,Egyptian Customs Authority,,2025-11-07-egy-elwatan-customs-ai-tariff-classification-valuation-nafeza
+EGY,AI radiology applications for tumour diagnosis,Egypt,sectorai,,Ministry of Health and Population,,2025-09-06-egy-mohp-radiology-adviser-ai-diagnosis-tumours
+EGY,ETA AI integration,Egypt,sectorai,,Egyptian Tax Authority,,2025-08-25-egy-egypt-to-integrate-ai-technologies-into-tax-system-eta-chief
 ERI,CAD4TB,CAD4TB,sectorai,offline software,Thirona and Delft Imaging,,2020-03-06-eri-delft-cad4tb-moh-tb-screening
+ERI,CAD4TB,Eritrea,sectorai,Delft Light,Ministry of Health,,2026-01-01-eri-delft-imaging-impact-eritrea-cad4tb
 ETH,national monitoring and evaluation platform,Ethiopia,sectorai,"unified digital platform ('One Plan, One Report')",Ministry of Planning and Development,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
 ETH,AI-powered survey dashboard,Ethiopia,other,,Ethiopian Statistical Service,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
 ETH,Ethiopia OpenAgriNet,Ethiopia,sectorai,OpenAgriNet,Agricultural Transformation Institute,national,2026-02-03-ethiopia-openagrinet-launch
 ETH,Customs warehouse and agent licensing system with multilingual chatbot,Ethiopia,sectorai,,Ethiopian Customs Commission,,2025-10-10-eth-techreviewafrica-eaii-customs-systems-chatbot
 ETH,automatic transcription technology,Automatic transcription technology,sectorai,,Federal Supreme Court,,2025-07-19-eth-addisfortune-ecourt-ethiopia
+ETH,HEP Assist,Ethiopia,sectorai,Llama 3.3 70B-based call-centre assistant,Last Mile Health with Ministry of Health,,2026-08-01-eth-building-an-ai-powered-clinical-advisor-to-strengthen-frontline-health
+ETH,AI-powered teacher assistant,Ethiopia,sectorai,offline application with grade 9-12 textbook content,Ministry of Education,,2026-06-05-eth-ministry-of-education-to-deploy-ai-powered-assistant-for-schools
+ETH,HEP Assist,Ethiopia,sectorai,,Ministry of Health with Last Mile Health,,2026-04-16-eth-fana-moh-last-mile-health-hep-assist-ai
+ETH,HEP Assist,Ethiopia,sectorai,retrieval-augmented generation assistant,Ministry of Health with Last Mile Health,health posts,2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo
+ETH,HaFAS,Ethiopia,sectorai,NextGen Decision Support Tool,Ministry of Agriculture and EIAR,,2026-01-01-eth-how-ethiopia-built-a-national-digital-fertilizer-advisory-system
 GHA,AI-enabled disease surveillance,Ghana,sectorai,,Ministry of Health and Ghana Health Service,,2026-10-12-gha-who-undp-ai-digital-health-strategy-review
 GHA,GRA AI and machine learning analytics,Ghana,sectorai,,Ghana Revenue Authority,,2025-05-22-gha-ghanaweb-gra-ai-ml-tax-leakages
 GHA,Publican AI,Ghana,sectorai,,"Ghana Revenue Authority, Customs Division (CTSB)",,2026-06-12-gha-gra-says-publican-ai-boosting-revenue-mobilisation-trade-compliance
 GHA,Publican Trade Solution,Publican,sectorai,ICUMS,Ministry of Finance / Ghana Revenue Authority,,2026-04-08-gha-freight-forwarders-importers-raise-concern-over-publican-ai
 GHA,Publican Digital Inspection Solution,Publican,sectorai,ICUMS,Ghana Revenue Authority,,2026-01-16-gha-ghana-to-plug-us-127bn-revenue-leakages-with-new-ai-customs-tool
+GHA,PROMPTS,Ghana,sectorai,AI-enabled two-way messaging,Jacaranda Health with Ghana Health Service,,2026-08-25-gha-building-a-sustainable-future-for-prompts-in-ghana
+GHA,PROMPTS (Nurse Mary),Ghana,sectorai,SMS,Ghana Health Service with Jacaranda Health,,2026-07-14-gha-ghs-jacaranda-deploy-ai-tool-for-maternal-care
+GHA,AI-enabled early warning systems for climate-sensitive diseases,Ghana,sectorai,DHIS2,Ministry of Health with WHO and UNDP,,2026-05-17-gha-ghana-launches-artificial-intelligence-driven-health-programme-to-stre
+GIN,Plateforme numerique de suivi des alertes du COU-SP,Guinee,other,,ANSS / Ministere de la Sante et de l'Hygiene publique,,2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
 GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
 GMB,TITA App,The Gambia,sectorai,mobile app with admin panel,MoHERST; developed by TITA Universal Services Ltd.,"students, lecturers (Lecti), management (TITA Admin Panel)",2025-04-25-gmb-kerrfatou-moherst-tita-ai-app
 KEN,Smart Delinquency Predictor,Kenya,other,IronOne Technologies LLC,"IronOne Technologies (vendor), offered to commercial banks",,2026-08-09-predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis
 KEN,Taifa Care,Kenya,sectorai,Taifa Care,Digital Health Agency,,2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system
 KEN,AI-powered risk engines,Kenya,sectorai,,Kenya Revenue Authority,,2025-11-20-ken-kra-ruto-hails-ai-led-reforms
+KEN,SHA AI-driven claims management system,Kenya,sectorai,,Social Health Authority,,2026-02-27-ken-duale-ai-blocked-sh12-7bn-fake-claims-at-sha
+KEN,SHA AI-driven claims processing system,Kenya,sectorai,,Social Health Authority,,2025-12-04-ken-ai-system-flaws-push-sha-into-chaos-mps-say-in-explosive-report
+KEN,SHA Claims Adjudication Platform,Kenya,sectorai,,Social Health Authority,,2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale
+KEN,AI-powered fraud detection system,Kenya,sectorai,TaifaCare big data engine,Ministry of Health,,2025-09-01-ken-ministry-of-health-hands-over-1-188-fraud-files-to-dci-in-major-crackd
+KEN,KRA AI cargo screening,Kenya,sectorai,,Kenya Revenue Authority,,2025-05-03-ken-kra-uses-ai-for-screening-intercepts-fishy-cargo-in-first-week-of-tria
+KEN,education-funding means-testing instrument,Kenya,sectorai,,Government of Kenya,,2024-09-24-ken-william-ruto-woos-us-tech-giants-to-invest-in-kenya-explains-how-govt
 LBR,Automated Decision Management System (ADMS),Liberia,sectorai,cloud-based,Environmental Protection Agency,"national, 15 counties",2026-04-06-liberia-epa-reoi-automated-decision-management-system-climate-services
+LBR,qXR v3.2,Liberia,sectorai,AI chest X-ray interpretation,"James Jenkins Dossen Hospital, Maryland County; NLTCP; Partners In Health Liberia",one hospital,2025-10-25-lbr-honored-to-share-our-findings-at-the-4th-international-conference-on-p
+LBR,AI X-ray machines for TB screening,Liberia,sectorai,AI-enabled X-ray,Ministry of Health,"TB Annex, JFK Medical Center, Redemption Hospital, C. H. Rennie Hospital",2024-08-26-lbr-first-lady-dedicates-four-ai-x-ray-machines-for-tb-diagnosis
 LSO,Automatic Compliance Project (ACP),Lesotho,sectorai,,Revenue Services Lesotho with Land Administration Authority,,2024-09-16-lso-newsday-rsl-automatic-compliance-project
+LSO,qXR,Lesotho,sectorai,Qure.ai chest X-ray AI,Qure.ai,seven community screening sites,2024-03-04-lso-ai-healthcare-revolution-in-lesotho-combating-tb
 MAR,AI customs risk analysis and targeting project,Maroc,sectorai,,Administration des Douanes et Impôts Indirects,,2025-05-23-mar-adii-ia-analyse-risques-douaniers
 MAR,DGI AI fraud detection,Morocco,sectorai,,Direction generale des impots,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MAR,POC satellites et IA (Pôle Digital de l'Agriculture / BTI Group),Morocco,sectorai,,"Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse with BTI Group",,2024-03-06-mar-signature-de-convention-pour-un-poc-innovant-en-agriculture-utilisant
+MAR,Tarkhiss,Morocco,sectorai,,Agence Marocaine du Médicament et des Produits de Santé,,2026-03-31-mar-lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-d
+MAR,AI school support management system (Draa-Tafilalet),Maroc,sectorai,"Massar, SAGE+, GEXA+ data",Ministry of National Education,,2025-05-12-mar-maroc-et-intelligence-artificielle-qui-pilote-la-machine
 MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,,Malagasy customs,,2025-06-07-douanes-madagascar-modele-ia-cedia-midi
 MDG,EC-MADA programme civil registration digitisation,Madagascar,other,Studia Inc OCR and AI-driven indexing,,,2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
 MDG,Customs AI for data analysis and risk,Madagascar,sectorai,,Madagascar Customs,,2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai
 MDG,Agent IA générative SVO,Madagascar,sectorai,,Direction générale des douanes; developed by CEDIA,,2025-10-07-mdg-lagent-svo-deploye-la-douane-franchit-une-nouvelle-etape
 MDG,ERA (Enhanced Risk Management),ERA,sectorai,Sydonia World,Direction Generale des Douanes Madagascar,,2024-07-31-mdg-douanes-malagasy-lancement-du-projet-pilote-de-modernisation-du-system
+MDG,Enhanced Risk Management (ERA),Madagascar,sectorai,Sydonia World,Direction Generale des Douanes,,2024-12-04-mdg-lancement-du-projet-de-modernisation-du-systeme-de-dedouanement-electr
+MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,Sydonia,Direction Generale des Douanes,,2025-03-27-mdg-la-douane-malagasy-un-modele-regional-dans-l-usage-de-la-donnee-et-de
 MOZ,Malaria early-warning dashboard pilot,early-warning dashboard,sectorai,DHIS2,Ministry of Health with Saudigitus and CHAI,,2025-06-30-moz-dhis2-chap-malaria-forecast-pilots
+MOZ,Chap Modelling Platform,Mozambique,sectorai,DHIS2,,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
+MOZ,Telegram chatbot for AdRMM,Mozambique,other,Telegram,LTPlabs and MAAT for AdRMM,,2024-04-09-moz-mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-c
 MRT,système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle,Mauritanie,sectorai,,"Office National de la Météorologie, with UNDP",,2026-01-14-ami-onm-pnud-systeme-alerte-precoce-agrometeorologique-ia-rosso
 MRT,HydroMet AI,Mauritania,sectorai,"AWS microservices, stacked LSTM with Isolation Forest and SWAT","UNDP Mauritania, operated with the National Meteorological Office",national,2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal
 MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Autorite nationale de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
 MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Office national de la météorologie,,2026-09-08-mrt-ami-onm-agrifemia-alerte-precoce-ia
+MRT,Virtual teachers and assistants pilot,Mauritania,sectorai,,MTNIMA,,2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat
+MRT,Multilingual translation for national unity pilot,Mauritania,other,,MTNIMA,,2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat
 MUS,myt learn,Mauritius,other,learning platform for secondary school students and teachers,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
 MUS,MyTLearn,Mauritius,sectorai,AI tutor and teacher coach,Mauritius Telecom with the Ministry of Education,,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
 MWI,Smart City Surveillance Initiative,Malawi,other,"AI-powered surveillance cameras, number plate recognition, central command centre",MACRA,city,2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre
@@ -57,24 +117,39 @@ MWI,Smart City Surveillance Initiative,Malawi,other,AI-powered smart cameras,MAC
 MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,sectorai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note
 MWI,PlantVillage,"PlantVillage AI app, Malawi",sectorai,mobile app,PlantVillage,,2026-08-06-mwi-nation-ai-bridges-extension-gap
 MWI,Kalondola,Malawi,sectorai,SICPA digital tax stamps,Malawi Revenue Authority,,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai
+MWI,ScanForm,Malawi,sectorai,AI transcription of photographed paper registers,Quantitative Engineering Design (proprietary); used in national HIV testing M&E,867 HIV testing facilities,2026-01-08-mwi-digitising-hiv-testing-registers-to-support-national-scale-up-of-three
 NAM,Remote Sensing Agricultural Services Agreement crop monitoring system,Namibia,sectorai,AI and satellite imagery,Ministry of Agriculture (contractor 6th Grain Corporation),,2026-08-20-namibian-cabinet-blocks-us-ai-crop-monitoring-tender
 NAM,AI agricultural monitoring programme,Namibia,sectorai,6th Grain Corporation,"Ministry of Agriculture, Fisheries, Water and Land Reform",,2026-08-17-namibia-agriculture-ai-deal-6th-grain-transparency
+NAM,CAD4TB,Namibia,sectorai,,Delft Imaging,,2026-02-15-nam-namibia-occurrence-of-asymptomatic-tb-in-active-case-finding-campaign
+NAM,AI-aided digital chest X-ray TB screening,Namibia,sectorai,,Ministry of Health and Social Services,,2025-03-29-nam-namibia-deploys-ai-powered-tb-screening-to-strengthen-public-health-re
+NAM,AI tutoring labs (Project Aristotle),Namibia,sectorai,YYeni AI,"YYeni AI, funded by BW Kudu and Namport",,2026-10-21-nam-namibia-s-first-ai-tutoring-labs-launched-in-luderitz
 NER,ILLIMI Niger,Niger,sectorai,digital data platform with AI tools,"UN Resident Coordinator's Office with HACP, MISPAT, DGPPD, CASEFSE, INS, ANSI",,2025-11-05-illimi-niger-lancement
 NER,Rayuwa,Niger,sectorai,Android app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training
 NGA,NICIS Smart Fraud Detection,Smart Fraud Detection,sectorai,NICIS,Nigeria Customs Service,,2022-03-31-nga-wto-ncs-advanced-technologies-ai
 NGA,VIN Valuation system,VIN Valuation system,sectorai,,Nigeria Customs Service,,2022-03-31-nga-wto-ncs-advanced-technologies-ai
+NGA,Digital Agricultural Extension Systems (DAES),Nigeria,sectorai,AI-enabled advisory platform with voice and USSD channels,"consortium led by AFAAS, Sasakawa Africa Association and Sahel Consulting, funded by the Gates Foundation",,2025-12-22-nga-nigeria-pilots-ai-enabled-digital-extension-system-to-bridge-farm-advi
+NGA,AI Scaling Hub,Nigeria,other,,Government with Gates Foundation,,2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio
 RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
 RWA,Kubaka.gov.rw,Rwanda,other,national building permits platform,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
+RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and higher learning institutions,2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning
+RWA,Tunga,Rwanda,sectorai,voice assistant in the MINAGRI call centre,Ministry of Agriculture and Animal Resources,,2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi
 SDN,Project Connect,Sudan,other,Giga real-time school connectivity map,Giga (UNICEF and ITU),,2026-08-10-omdena-giga-unicef-sudan-ai-school-detection
 SDN,mobile-first AI tool for detecting manipulated narratives and bot-amplified disinformation,Sudan,other,Valent,CDAC Network with Valent,,2025-11-04-cdac-network-sudan-ai-information-environment
 SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires
 SEN,Datamining project,Sénégal,sectorai,,DGID,,2025-01-31-sen-impact-dgid-datamining-ia-fiscale
 SEN,ASREF,Sénégal,other,,DGID,,2025-01-31-sen-impact-dgid-datamining-ia-fiscale
 SEN,kSanté,Senegal,sectorai,offline phone app with AI assistant,Kajou (social enterprise),,2025-08-15-sen-aps-assistant-ia-agents-communautaires
+SEN,WhatsApp teacher support assistant (MOHEBS),Senegal,sectorai,WhatsApp,Ministry of Education with IDinsight,,2026-07-09-sen-ai-driven-support-for-bilingual-education-in-senegal
+SEN,national DHIS2 platform,Senegal,sectorai,DHIS2,Ministry of Health and Public Hygiene,,2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10
+SEN,Plateforme 3S One Health,Senegal,sectorai,AI-based surveillance platform,AI4PEP Senegal,,2025-02-25-sen-ai4pep-senegal-launches-plateforme-3s-one-health
 SLE,Medicine allocation decision-support system,Sierra Leone medicine allocation tool,sectorai,,Government of Sierra Leone,,2026-06-22-sle-penn-today-healthcare-logistics-ai
+SLE,BabyChecker,Sierra Leone,sectorai,smartphone AI ultrasound,Delft Imaging,,2026-02-16-sle-how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in
 SOM,SAADAAL,Somalia,sectorai,AI-powered early warning system,"Shaqodoon Organization, deployed with the Ministry of Humanitarian Affairs and Disaster Management of Southwest State",sub-national,2026-04-29-somalia-shaqodoon-saadaal-ai-early-warning
+SOM,Saadaal,Somalia,sectorai,AI agent with dashboard,Shaqodoon Organization (NGO),,2024-12-23-som-using-ai-to-support-people-and-services-during-natural-disasters
+SSD,AI-assisted portable digital X-ray machines,South Sudan,sectorai,,Ministry of Health,,2024-03-24-ssd-technology-accelerates-tb-detection-in-south-sudan
 SWZ,ERS fiscalisation system,Eswatini,sectorai,,Eswatini Revenue Service,,2025-05-13-daily-business-transactions-monitored-ai-tax-fraud
 SWZ,AI diabetic retinopathy diagnostic system,Eswatini,sectorai,,Ministry of Health with the Taiwan Technical Mission,six public hospitals and health centres,2025-08-07-swz-six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech
+SWZ,PROMPTS,Eswatini,sectorai,two-way SMS,Jacaranda Health,,2023-12-19-swz-pilot-results-testing-an-mhealth-approach-to-reach-the-last-mile-of-es
 SYC,AI Teacher Coach Programme,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-07-31-seychelles-national-ai-in-education-framework-2026-2030
 SYC,AI Student Tutor Programme,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-07-31-seychelles-national-ai-in-education-framework-2026-2030
 SYC,Teacher Coach and Student Tutor,Seychelles,sectorai,,Ministry of Education and Human Resource Development,,2026-03-01-statehouse-national-ai-education-framework
@@ -82,6 +157,7 @@ SYC,AI Teacher Coach,Seychelles,sectorai,,Ministry of Education,,2026-05-07-nati
 SYC,AI Student Tutor,Seychelles,sectorai,,Ministry of Education,,2026-05-07-nation-sc-ai-pilot-projects
 TGO,Togo AI Lab,Togo,sectorai,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead
 TGO,Digital Market Intelligence,Togo,sectorai,SICPA SA,Ministere de l'Economie et de la Veille strategique,,2026-03-12-togo-lancement-digital-market-intelligence-mobilisation-ressources-publiques
+TGO,Digital Market Intelligence,Togo,sectorai,SICPA platform,Ministry of Economy and Strategic Monitoring,,2026-03-13-tgo-togo-l-etat-deploie-l-intelligence-artificielle-pour-traquer-les-fraud
 TUN,SINDA 2,Tunisia,other,customs IT system,Tunisian Customs,,2026-10-12-tun-businessnews-customs-ai-fraud-detection
 TUN,GAINAfrica crop-disease app,Tunisia,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
 TUN,système national de sélectivité douanière,Tunisia,sectorai,,Direction Générale des Douanes,,2026-05-16-la-douane-integre-lia-au-sein-de-son-systeme
@@ -90,9 +166,17 @@ TUN,customs risk-identification model,Tunisia,sectorai,,General Directorate of C
 TUN,Big Data tax-audit project,Tunisia,sectorai,"local infrastructure, open source",Finance Ministry IT Centre,,2026-09-30-douanes-et-fiscalit-la-tunisie-acc-l-re-l-usage-de-l-intelli
 TUN,Sanad 2,Tunisia,sectorai,,Customs administration,,2026-09-29-tun-tunisienumerique-finance-ministry-ai-taxation-customs
 TUN,Observatoire national de l'eau,Tunisie,sectorai,,"Ministry of Agriculture, Water Resources and Fisheries with the Communication Technologies ministry",,2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique
+TUN,Tunisian AI medical imaging software,Tunisia,sectorai,AI software for remote medical image analysis,"Ministry of Health, with InstaDeep",,2025-02-21-tun-forum-realites-sur-la-sante-numerique-3500-nouvelles-recrues-et-95-de
 TZA,e-IDSR,Tanzania,other,DHIS2,Ministry of Health,,2025-03-31-tza-dhis2-ai-alert-triage-surveillance
 TZA,Event-based surveillance (EBS) with AI triage tool,Tanzania,sectorai,DHIS2,Ministry of Health,,2025-03-31-tza-dhis2-ai-alert-triage-surveillance
+TZA,IDRAS,Tanzania,sectorai,,Tanzania Revenue Authority,,2026-01-27-tza-mfumo-wa-idras-kuunganishwa-na-ai-kulinda-taarifa-binafsi
+TZA,Electronic Tax Stamps AI,Tanzania,sectorai,SICPA digital platform,Tanzania Revenue Authority,,2025-05-30-tza-ai-transforms-tra-s-measures-to-curb-falsified-electronic-stamps
+TZA,AI TB chest X-ray screening,Tanzania,sectorai,,Ministry of Health,,2026-08-31-tza-watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu
 UGA,GAINAfrica crop-disease app,Uganda,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+UGA,CAD4TB,Uganda,sectorai,"AI-assisted digital chest X-ray, computer-aided diagnosis",TB screening programme,,2025-11-24-uga-cad4tb-s-precision-play-threshold-45-optimizes-tb-screening-in-westnil
+UGA,VectorCam,Uganda,sectorai,smartphone app; posts data to DHIS2,"Makerere University, Johns Hopkins University, Ministry of Health",,2025-09-09-uga-vectorcam-project-makerere-johns-hopkins-and-moh-to-scale-up-ai-powere
+UGA,URA AI revenue-leakage analysis,Uganda,sectorai,,Uganda Revenue Authority,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory
+UGA,ISBAT University AI and Robotics Laboratory,Uganda,other,,ISBAT University,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory
 ZAF,AI fraud-risk detection and verification,South Africa,sectorai,,South African Revenue Service,,2025-09-29-zaf-sars-strategic-plan-end-term-report-2020-2025
 ZAF,Lwazi AI Assistant,South Africa,other,SARS website and SARS MobiApp,South African Revenue Service,,2025-10-07-zaf-ask-lwazi-sars-ai-assistant-our-upgraded-artificial-intelligence-assis
 ZAF,MomConnect,South Africa,sectorai,SMS and WhatsApp,,,2025-09-03-zaf-update-to-our-catalogue-of-ai-public-sector-use-cases
@@ -100,6 +184,11 @@ ZAF,AI-Driven Digital Twinning (Cognitive Decision Automation) Solution,South Af
 ZMB,Obrizum AI education pilot,Zambia,sectorai,Obrizum,Ministry of Technology and Science,,2026-03-09-mutati-launches-ai-pilot-in-education
 ZMB,NRW Decision Intelligence Platform,Zambia,sectorai,"timbuktoo EDGE node, University of Zambia AI UniPod",Lusaka Water Supply and Sanitation Company,,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot
 ZMB,ZRA AI fraud detection,Zambia,sectorai,,Zambia Revenue Authority,,2024-06-18-zmb-mots-ai-increases-zra-revenue-collection
+ZMB,Telemedicine and AI Health Diagnostics Pilot,Zambia,sectorai,,Ministry of Technology and Science,,2025-11-27-zmb-zambia-taps-finland-to-speed-up-national-ai-strategy
+ZMB,73Health remote diagnostics,Zambia,sectorai,remote examination with AI support,73Health Global with Ministry of Health,,2025-06-13-zmb-zambia-launches-nationwide-pilot-project-to-test-remote-health-diagnos
+ZMB,Larry RX AI,Zambia,sectorai,drug interaction and compliance analysis tool,developed in Zambia,,2025-06-13-zmb-zambia-launches-nationwide-pilot-project-to-test-remote-health-diagnos
 ZWE,AI Fuel Manager,Zimbabwe,other,,InfraCo,,2026-07-21-infraco-expands-ai-powered-towers
 ZWE,Smart Traffic Management and Surveillance Programme,Zimbabwe,sectorai,"AI cameras, 20 installed in Harare",Ministry of Home Affairs and Cultural Heritage with TelOne,national,2026-09-27-zwe-ai-traffic-camera-enforcement
 ZWE,Smart Traffic Management System,Zimbabwe,sectorai,AI traffic cameras,Zimbabwe Republic Police,national,2026-08-07-zimbabwe-ai-traffic-cameras-national-rollout
+ZWE,AI and drone quelea control pilot,Zimbabwe,sectorai,,UNDP,,2025-05-12-zwe-japan-pilots-ai-projects-in-zimbabwe-agro-health-sectors
+ZWE,InferAir with InferRead,Zimbabwe,sectorai,AI chest X-ray computer-aided detection with portable X-ray,Infervision with the Ministry of Health and Child Care,,2024-09-10-zwe-boosting-tb-dectection-in-rural-zimbabwe-using-infervision-s-ai-and-ul

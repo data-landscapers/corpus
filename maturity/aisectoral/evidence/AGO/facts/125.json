@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-05-ago-escolas-primarias-vao-passar-a-contar-com-inteligencia-artificial",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Education minister Luisa Grilo said that from February 2026 the mechanisms for an AI pilot in selected primary schools, under a 2024 memorandum with the UAE Digital School, begin to be installed, with teacher training first.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "AI pilot in primary schools",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

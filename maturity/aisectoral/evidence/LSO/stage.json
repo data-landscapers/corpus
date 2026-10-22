@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "2",
-      "use": "underway",
-      "sectors": "",
-      "results": "",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001",
-      "gaps": "No source held since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "LSO-003;LSO-002",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "Qure.ai reports over 6,000 scans read by its AI at seven community sites with the Ministry of Health since 2022, a measured result of a tool in service. The figures are the vendor's; a later yes answers the several-sectors question.",
+      "as_at": "2026-10-22"
     }
   ]
 }

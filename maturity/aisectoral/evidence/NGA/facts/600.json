@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-22-nga-nigeria-pilots-ai-enabled-digital-extension-system-to-bridge-farm-advi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Agricultural Extension Systems (DAES)",
+   "country_label": "Nigeria",
+   "class": "sectorai",
+   "platform": "AI-enabled advisory platform with voice and USSD channels",
+   "owner": "consortium led by AFAAS, Sasakawa Africa Association and Sahel Consulting, funded by the Gates Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": "DAES design was only validated at a workshop; pilots are planned, none started."
+}

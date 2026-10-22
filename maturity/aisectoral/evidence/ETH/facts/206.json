@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-29-eth-ethiopia-expaning-digital-transformation-in-higher-education",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Education Minister Berhanu Nega says Ethiopia has begun integrating AI into the education system, with teachers supported to use AI tools for lesson preparation, content development, student support and assessment.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "AI tools for teachers",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

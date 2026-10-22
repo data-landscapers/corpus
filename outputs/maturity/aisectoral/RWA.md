@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [Tech Africa News reports that the Gates Foundation and OpenAI's $50 million Horizon1000 pilot, which applies AI tools to primary healthcare delivery in national health systems, will begin implementation in Rwanda, with scale-up to 1,000 clinics by 2028](<https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. In November 2025 the infrastructure ministry and the Rwanda Housing Authority [released an AI agent on the national building permits platform](<https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC>) that reviews design documents against the building code.
+**AI in service.** A Global Fund case study says Rwanda's public health system [uses AI to read digital chest X-rays for TB, in mobile screening vans and for triage in case finding](<https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf>), as of January 2026. The agriculture ministry is [testing an AI voice assistant in its farmers' call centre](<https://visionmedia.rw/Rwanda-expands-use-of-AI-to-reach-millions-of-farmers-with-timely-advice.html>), which answered at least 60% of questions correctly in testing. A [pilot extending an AI tutor to up to 2,000 public educators](<https://www.alxafrica.com/news-press/alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning-initiative/>) was announced in November 2025.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/>).
+**Several sectors.** Health is the only sector held with AI in service. The nearest held fact elsewhere is the [agriculture call-centre assistant](<https://visionmedia.rw/Rwanda-expands-use-of-AI-to-reach-millions-of-farmers-with-timely-advice.html>), still in testing in 2026, with [satellite and AI land mapping tested in four districts](<https://www.bmz-digital.global/en/digital-maps-agriculture-rwanda/>).
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/>).
+**Results reported.** No measured results of a sectoral AI system in service are held. The [case study](<https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf>) describes the TB tools without figures.
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Kubaka.gov.rw](<https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC>).
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.

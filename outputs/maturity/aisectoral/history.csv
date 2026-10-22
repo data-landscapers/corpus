@@ -33,3 +33,24 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-21,EGY,tech.ai--use-of-ai-in-sectoral-management-information-systems,review,4,3,EGY-001;EGY-003,"Review 2026-10-21: the judicial assistant and the NARSS crop inventory are each AI in service; rung 4 asks for a source saying AI is in service in two or more sectors, and no one source held says so."
 2026-10-21,SLE,tech.ai--use-of-ai-in-sectoral-management-information-systems,review,5,3,SLE-001,"Review 2026-10-21: the medicine allocation tool is in service nationwide; the 19% result was measured in the pilot, before it was in service, so rung 5 is not met."
 2026-10-21,GHA,tech.ai--use-of-ai-in-sectoral-management-information-systems,review,5,5,GHA-004;GHA-005,"Stage 5 rests on the Ministry of Finance's measured results for Publican Trade Solution in service, not on tax and customs read as two sectors."
+2026-10-22,AGO,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,AGO-003;AGO-002;AGO-004,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,BEN,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,BEN-005,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,BFA,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,BFA-003;BFA-002,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,BWA,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,BWA-004,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,CAF,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,CAF-003;CAF-002,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,CPV,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,no evidence,3,CPV-001,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,DJI,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,3,5,DJI-004;DJI-002;DJI-003,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,DZA,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,DZA-006;DZA-005,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,ERI,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,unplaced,3,ERI-002,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,ETH,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,3,5,ETH-013;ETH-008;ETH-012,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,KEN,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,3,5,KEN-005;KEN-007;KEN-012,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,LBR,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,LBR-002;LBR-003,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,LBY,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,no evidence,2,LBY-001,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,LSO,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,LSO-003;LSO-002,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,MAR,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,MAR-005;MAR-006,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,MWI,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,3,5,MWI-007;MWI-006,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,NAM,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,NAM-005;NAM-006,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,RWA,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,3,RWA-006;RWA-007,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,SSD,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,no evidence,3,SSD-001,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,TGO,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,3,5,TGO-005;TGO-004,Stage 4c: news arrivals read; restaged from every row held.
+2026-10-22,UGA,tech.ai--use-of-ai-in-sectoral-management-information-systems,fact,2,5,UGA-006;UGA-003;UGA-005,Stage 4c: news arrivals read; restaged from every row held.

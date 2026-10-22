@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-bwa-u-s-brings-high-tech-tools-to-botswana-infectious-disease-fight",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The U.S. Embassy says PEPFAR through the CDC recently donated AI software for tuberculosis detection to Botswana's Ministry of Health, expected to improve the efficiency and accuracy of TB case identification; no use in service is stated.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "AI tuberculosis-detection software",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI tuberculosis-detection software",
+   "country_label": "Botswana",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

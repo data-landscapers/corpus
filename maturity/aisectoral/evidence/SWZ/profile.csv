@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,sectorai,use,coverage,inservice,2025-08-07,SWZ-002,SWZ-001=underway,
+SWZ,sectorai,use,coverage,inservice,2025-08-07,SWZ-002,SWZ-001=underway;SWZ-003=underway,
 SWZ,sectorai,sectors,coverage,,,,,nothing held
 SWZ,sectorai,results,coverage,,,,,nothing held

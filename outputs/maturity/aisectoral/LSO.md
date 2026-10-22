@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [Revenue Services Lesotho says its Automatic Compliance Project, built with the Land Administration Authority, will use data analytics and artificial intelligence to automate collection, processing and verification of tax information, in phases starting with PAYE pre-population](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** Qure.ai, the vendor, says its [chest X-ray AI has screened for TB at seven community sites with Partners In Health and the Ministry of Health since July 2022](<https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis>). Revenue Services Lesotho said in September 2024 that its [compliance project will use data analytics and AI to automate collection and verification of tax information](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>), in phases starting with pre-filled payroll tax returns.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>).
+**Several sectors.** Health is the only sector held with AI in service. The nearest held fact elsewhere is the [revenue authority's compliance project](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>), which was still being phased in, with no AI output yet described.
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://newsdayonline.co.ls/rsl-doubles-down-on-enhancing-tax-compliance/>).
+**Results reported.** Qure.ai reports that by March 2024 its AI had [read over 6,000 scans and identified about 1,100 people with potential TB](<https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis>) for laboratory confirmation.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. No single source says AI is in service in the public systems of two or more sectors.

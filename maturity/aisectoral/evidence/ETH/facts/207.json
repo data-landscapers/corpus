@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-eth-ai-regulation-in-africa-why-copying-the-european-model-won-t-work",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Conversation's authors say Ethiopia and Rwanda used AI in TB and cervical cancer screening, in a regulatory vacuum.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "AI TB and cervical cancer screening",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

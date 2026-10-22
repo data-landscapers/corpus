@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-17-gha-ghana-launches-artificial-intelligence-driven-health-programme-to-stre",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A WHO-UNDP joint programme with the Ministry of Health, funded by Japan, was launched and aims to deploy AI-enabled early warning systems for climate-sensitive diseases integrated into national platforms such as DHIS2.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "AI-enabled early warning systems for climate-sensitive diseases",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-enabled early warning systems for climate-sensitive diseases",
+   "country_label": "Ghana",
+   "class": "sectorai",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health with WHO and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

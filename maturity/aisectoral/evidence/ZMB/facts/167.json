@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-zmb-zambia-taps-finland-to-speed-up-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Ministry of Technology and Science said the national Telemedicine and AI Health Diagnostics Pilot, launched in 2024, was expanded in 2025 across 20 health institutions, with remote diagnostics and AI-supported clinical analysis.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Telemedicine and AI Health Diagnostics Pilot",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telemedicine and AI Health Diagnostics Pilot",
+   "country_label": "Zambia",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Technology and Science",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

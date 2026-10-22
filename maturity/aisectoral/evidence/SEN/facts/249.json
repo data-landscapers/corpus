@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Senegal's health ministry told the World Health Assembly it has begun integrating artificial intelligence into its national DHIS2 platform, with technical partners and research institutes.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "national DHIS2 platform",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national DHIS2 platform",
+   "country_label": "Senegal",
+   "class": "sectorai",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Public Hygiene",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

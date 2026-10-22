@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-caf-republique-centrafricaine-l-ia-au-service-du-depistage-de-la-tuberculo",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MSF reports that, with the health authorities, it equipped Batangafo district hospital in 2024 with CAD4TB, an AI tool that scores chest X-rays and sends high-score patients to laboratory confirmation.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CAD4TB",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "MSF reports that in 2025 CAD4TB helped detect 90 of the 203 TB cases screened in the Batangafo area.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CAD4TB",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAD4TB",
+   "country_label": "Central African Republic",
+   "class": "sectorai",
+   "platform": "chest X-ray",
+   "owner": "Batangafo district hospital with MSF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

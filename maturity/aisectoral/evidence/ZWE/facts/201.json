@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-10-zwe-zimra-turns-to-ai-to-boost-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Zimbabwe Revenue Authority says its 2026-2030 strategy adopts AI-driven analytics to identify non-compliance patterns, forecast risks and monitor compliance, and NewsDay says it is already pursuing a tax collection campaign using AI.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "ZIMRA AI-driven analytics",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

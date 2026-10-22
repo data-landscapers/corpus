@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002;NAM-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-005;NAM-006",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "The Health Minister said in March 2025 that AI chest X-ray screening for TB has been introduced, and AI tutoring labs opened at a government school in September 2026. No single source names two sectors and no measured results are held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

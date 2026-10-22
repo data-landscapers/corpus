@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,simulations générées par l'IA,Cameroun,sectorai,,MINESEC,,2026-08-19-dba-minesec-simulation-ia-e-education
 CMR,CNPS automated pension-file processing,Cameroun,sectorai,,CNPS,,2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations
+CMR,CNPS AI tools,Cameroon,sectorai,MA CNPS A MOI,CNPS,,2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca
+CMR,Machine-learning tax fraud detection system,Cameroon,sectorai,"XGBoost, Random Forest, SVM, Isolation Forest, autoencoders","University researchers (Ngaoundere, Dschang, ESSCA)",,2026-08-27-cmr-cameroon-built-ai-claims-97-2-precision-in-tax-fraud-detection-but-rev
+CMR,AI Doctor,Cameroon,other,AI check-up device,CNPS,,2025-06-12-cmr-visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor

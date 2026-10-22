@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-02-cod-use-case-snapiform",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "SnapiForm says it piloted an AI tool in the DRC, with PATH and the health ministry, to extract data from paper health reports into DHIS2.",
+   "as_of": "2026-01-02",
+   "date_precision": "day",
+   "system": "SnapiForm",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SnapiForm",
+   "country_label": "DRC",
+   "class": "sectorai",
+   "platform": "DHIS2",
+   "owner": "SnapiForm with PATH",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

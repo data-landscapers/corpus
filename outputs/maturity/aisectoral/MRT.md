@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [PANEOTECH says HydroMet AI, an LSTM and SWAT early warning system, is in production for UNDP Mauritania with the National Meteorological Office and Civil Security, producing graded WARNING or CRITICAL risk scores for floods, droughts, heatwaves and storms in the Senegal River Valley](<https://paneo.tech/projects/mr-hydromet-ai>). [The Office National de la Météorologie and UNDP run an AI-based agrometeorological early warning system whose services already benefit 20 women's cooperatives in Rosso, AMI reports; UNDP's sustainable development unit head says it supports yield estimates, climate risk forecasting and early crop disease diagnosis](<https://ami.mr/fr/archives/287234>).
+**AI in service.** PANEOTECH says its [AI early warning system is in production for UNDP Mauritania with the National Meteorological Office and Civil Security](<https://paneo.tech/projects/mr-hydromet-ai>), producing graded risk scores for floods, droughts, heatwaves and storms in the Senegal River Valley. The meteorological office and UNDP [run an AI-based agrometeorological early warning system whose services already reach 20 women's cooperatives in Rosso](<https://ami.mr/fr/archives/287234>), as reported in January 2026, and [trained regional staff on it in September 2026](<https://ami.mr/fr/archives/301958>). The digital ministry [presented a pilot of AI virtual teachers and assistants](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>) in November 2024.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://paneo.tech/projects/mr-hydromet-ai>).
+**Several sectors.** Weather and climate early warning is the only sector held with AI in service. The nearest held fact elsewhere is the [education pilot](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>), with an [AI crop-damage pilot](<https://sentinels.copernicus.eu/web/success-stories/-/empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro-success-story>) under way in agriculture.
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://paneo.tech/projects/mr-hydromet-ai>).
+**Results reported.** No measured results of a sectoral AI system are held. The [agrometeorological account](<https://ami.mr/fr/archives/287234>) counts cooperatives served, not outcomes.
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Multilingual translation for national unity pilot](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>).
 
-***Not held***. No source held since October 2023 says AI is in service in the public systems of two or more sectors.
+***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.

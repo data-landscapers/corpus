@@ -1,2 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 UGA,GAINAfrica crop-disease app,Uganda,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
+UGA,CAD4TB,Uganda,sectorai,"AI-assisted digital chest X-ray, computer-aided diagnosis",TB screening programme,,2025-11-24-uga-cad4tb-s-precision-play-threshold-45-optimizes-tb-screening-in-westnil
+UGA,VectorCam,Uganda,sectorai,smartphone app; posts data to DHIS2,"Makerere University, Johns Hopkins University, Ministry of Health",,2025-09-09-uga-vectorcam-project-makerere-johns-hopkins-and-moh-to-scale-up-ai-powere
+UGA,URA AI revenue-leakage analysis,Uganda,sectorai,,Uganda Revenue Authority,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory
+UGA,ISBAT University AI and Robotics Laboratory,Uganda,other,,ISBAT University,,2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-gha-building-a-sustainable-future-for-prompts-in-ghana",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Jacaranda Health says its PROMPTS maternal helpdesk, working with 1,654 health facilities and with Ghana Health Service clinicians staffing it since March 2026, uses AI to read and triage incoming questions from pregnant and postpartum women.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "PROMPTS",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Jacaranda Health reports that the PROMPTS helpdesk handles an average of 6,500 responses a month, of which AI resolves 44% directly and Ghana Health Service clinicians 28%.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "PROMPTS",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PROMPTS",
+   "country_label": "Ghana",
+   "class": "sectorai",
+   "platform": "AI-enabled two-way messaging",
+   "owner": "Jacaranda Health with Ghana Health Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,3 +3,5 @@ MRT,système d'alerte précoce agrométéorologique basé sur l'intelligence art
 MRT,HydroMet AI,Mauritania,sectorai,"AWS microservices, stacked LSTM with Isolation Forest and SWAT","UNDP Mauritania, operated with the National Meteorological Office",national,2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal
 MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Autorite nationale de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
 MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Office national de la météorologie,,2026-09-08-mrt-ami-onm-agrifemia-alerte-precoce-ia
+MRT,Virtual teachers and assistants pilot,Mauritania,sectorai,,MTNIMA,,2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat
+MRT,Multilingual translation for national unity pilot,Mauritania,other,,MTNIMA,,2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat

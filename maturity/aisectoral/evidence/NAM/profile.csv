@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,sectorai,use,coverage,underway,2026-08,NAM-001;NAM-002;NAM-003;NAM-004,,
+NAM,sectorai,use,coverage,inservice,2026-09-21,NAM-005;NAM-006,NAM-002=underway;NAM-001=underway;NAM-003=underway;NAM-004=underway,
 NAM,sectorai,sectors,coverage,,,,,nothing held
 NAM,sectorai,results,coverage,,,,,nothing held

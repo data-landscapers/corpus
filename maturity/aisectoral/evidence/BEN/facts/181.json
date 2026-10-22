@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-17-ben-datagov-nos-cas-d-usage-emblematiques",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Numericite supported development of an automatic classification model for invoice item labels for Benin's tax directorate (DGI), linked to the INStad reference; no service use or results stated.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "invoice label classification model",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

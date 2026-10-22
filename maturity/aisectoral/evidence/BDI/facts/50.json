@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-21-bdi-l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-b",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Enabel says the national malaria programme PNILP trained health workers in Cibitoke and Kirundo on 16 July 2025 on the AI app Malariya Pi, which reads rapid malaria tests, and calls the approach a pilot.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Malariya Pi",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malariya Pi",
+   "country_label": "Burundi",
+   "class": "sectorai",
+   "platform": "smartphone app",
+   "owner": "PNILP with Enabel; developed by Audere",
+   "tiers": "Cibitoke and Kirundo"
+  }
+ ],
+ "note": ""
+}

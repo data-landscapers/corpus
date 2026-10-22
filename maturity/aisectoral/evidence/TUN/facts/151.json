@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-21-tun-forum-realites-sur-la-sante-numerique-3500-nouvelles-recrues-et-95-de",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Health Minister Mustapha Ferjani said on 2025-02-20 that the ministry is developing a Tunisian AI software with InstaDeep for remote analysis of medical images, to diagnose diabetic retinopathy and read scanner, MRI and mammography images.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Tunisian AI medical imaging software (with InstaDeep)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisian AI medical imaging software",
+   "country_label": "Tunisia",
+   "class": "sectorai",
+   "platform": "AI software for remote medical image analysis",
+   "owner": "Ministry of Health, with InstaDeep",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-14-ben-webb-fontaine-accelerates-benin-s-customs-transformation-with-key-mile",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Webb Fontaine says its Webb Customs system, described as AI-powered, is in use at 44 of Benin's 49 customs offices, replacing ASYCUDA World; the claim is the vendor's and no AI outputs are described.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Webb Customs",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Webb Customs",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Benin customs, supplied by Webb Fontaine",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,11 +2,11 @@
 
 ## AI in sector systems
 
-**AI in service.** [UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot using AI to locate non-revenue water, with the MOU still to be signed](<https://www.undp.org/zambia/news/lusakas-water-about-get-smarter>). [Lusaka Times reports the Ministry of Technology and Science signed an MOU with Obrizum Group for a pilot of AI adaptive learning in secondary schools and TEVET institutions, starting April 2026](<https://www.lusakatimes.com/2026/03/09/mutati-launches-ai-pilot-in-education/>). [ZRA Commissioner General Dingani Banda says AI helps ZRA detect importer and exporter fraud automatically, and an AI Unit is set up at ZRA headquarters](<https://www.mots.gov.zm/?p=3787>).
+**AI in service.** The revenue authority ZRA's Commissioner General said in June 2024 that [AI helps ZRA detect importer and exporter fraud automatically](<https://www.mots.gov.zm/?p=3787>), with an AI unit at its headquarters. In health, the government [launched a pilot of remote diagnostics and AI-based pharmacological analysis at 20 health posts across all ten provinces](<https://www.zambiamonitor.com/zambia-launches-nationwide-pilot-project-to-test-remote-health-diagnostics-ai-based-pharmacological-analysis-tools/>) in June 2025, and in February 2026 the technology ministry [began a pilot with Finland to integrate AI in health and mining](<https://www.lusakatimes.com/2026/02/05/govt-finland-partner-to-integrate-al-in-health-and-mining-sectors/>). An [AI adaptive learning pilot in secondary schools](<https://www.lusakatimes.com/2026/03/09/mutati-launches-ai-pilot-in-education/>) was to start in April 2026.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [Minister Felix Mutati says AI raised ZRA's capacity to collect revenue by 60 percent in the past two years (a claim without source in the article)](<https://www.mots.gov.zm/?p=3787>).
+**Several sectors.** Revenue is the only sector held with AI in service. The health, mining, education and [water](<https://www.undp.org/zambia/news/lusakas-water-about-get-smarter>) tools are pilots, among them the [AI health diagnostics pilot across 20 health institutions](<https://itweb.africa/article/zambia-taps-finland-to-speed-up-national-ai-strategy/wbrpOMg23G37DLZn>).
 
-**Results reported.** [Minister Felix Mutati says AI raised ZRA's capacity to collect revenue by 60 percent in the past two years (a claim without source in the article)](<https://www.mots.gov.zm/?p=3787>).
+**Results reported.** The technology minister said in June 2024 that [AI raised ZRA's capacity to collect revenue by 60% in the past two years](<https://www.mots.gov.zm/?p=3787>).
 
 ***Noted, not assessed***. None held.
 

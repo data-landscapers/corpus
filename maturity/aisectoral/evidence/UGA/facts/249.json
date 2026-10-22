@@ -1,0 +1,44 @@
+{
+ "slug": "2025-04-08-uga-ura-cg-launches-university-ai-and-robotics-laboratory",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Uganda Revenue Authority Commissioner General John Rujoki Musinguzi said URA used AI to identify tax evasion such as undeclared imports and false VAT claims.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "URA AI revenue-leakage analysis",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Musinguzi said URA recovered 200 billion shillings in revenue leakages uncovered through the use of AI in the previous year.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "URA AI revenue-leakage analysis",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA AI revenue-leakage analysis",
+   "country_label": "Uganda",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "ISBAT University AI and Robotics Laboratory",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "ISBAT University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

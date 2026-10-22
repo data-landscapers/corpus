@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-cpv-missoes-medicas-do-projeto-continuidade-dos-eua-reforcam-saude-em-cabo",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Cabo Verdean American Medical Society, working with the Ministry of Health, says it has distributed cloud ECG devices across all islands that make automatic diagnoses with AI, and that AI lets nurses diagnose cataracts, glaucoma and retinopathy.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "AI-read cloud ECGs and AI eye screening",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-read cloud ECGs and AI eye screening",
+   "country_label": "Cabo Verde",
+   "class": "sectorai",
+   "platform": "cloud ECG",
+   "owner": "Cabo Verdean American Medical Society",
+   "tiers": "all islands"
+  }
+ ],
+ "note": ""
+}

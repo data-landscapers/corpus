@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001;BEN-003",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-005",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "Webb Fontaine says Benin's customs system uses AI risk profiling of importers and goods in 2025, so a tool is in service. The claim is the vendor's and no measured results or second sector are held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

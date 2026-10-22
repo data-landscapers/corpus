@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,sectorai,use,coverage,underway,2026-04-06,LBR-001,,
+LBR,sectorai,use,coverage,inservice,2025-01,LBR-002;LBR-003,LBR-001=underway,
 LBR,sectorai,sectors,coverage,,,,,nothing held
 LBR,sectorai,results,coverage,,,,,nothing held

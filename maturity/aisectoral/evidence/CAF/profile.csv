@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,sectorai,use,coverage,underway,2024-08-01,CAF-001,,
+CAF,sectorai,use,coverage,inservice,2024,CAF-002,CAF-004=underway;CAF-001=underway,
 CAF,sectorai,sectors,coverage,,,,,nothing held
-CAF,sectorai,results,coverage,,,,,nothing held
+CAF,sectorai,results,coverage,reported,2025,CAF-003,,

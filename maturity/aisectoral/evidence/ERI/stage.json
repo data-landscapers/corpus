@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "unplaced",
-      "use": "",
+      "stage": "3",
+      "use": "inservice",
       "sectors": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether an AI tool is in service in a public sector's system.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ERI-002",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "Delft Imaging says the Ministry of Health had CAD4TB units deployed in 2024, so a tool is in service. No measured results or second sector are held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

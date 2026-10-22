@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "WHO's Regional Office for Africa says its AI-based Preparedness Data Exchange (PDX) platform is now in use in the Democratic Republic of the Congo, giving national teams epidemic intelligence and early-warning signals during the Ebola response.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Preparedness Data Exchange (PDX)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Preparedness Data Exchange (PDX)",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "sectorai",
+   "platform": "WHO AFRO AI platform linked to a regional platform of 47 member states",
+   "owner": "WHO Regional Office for Africa",
+   "tiers": "national"
+  },
+  {
+   "system": "Voyage Santé",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "other",
+   "platform": "digital points-of-entry system at N'djili International Airport and Nord Bangui border post",
+   "owner": "Dure Technologies with WHO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

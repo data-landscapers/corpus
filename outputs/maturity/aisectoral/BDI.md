@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [The AI4Mpox Burundi team is piloting an AI-powered early-warning dashboard in three health districts of Bujumbura](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**AI in service.** The national malaria programme [trained health workers in Cibitoke and Kirundo on 16 July 2025 on an AI app that reads rapid malaria tests](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>), which Enabel calls a pilot. A team is [piloting an AI-powered mpox early-warning dashboard in three health districts of Bujumbura](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>). Both are pilots in a few districts, run with outside partners; neither is reported at work across the health system, and no tax, customs, education or agriculture system with AI is held.
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>).
+**Several sectors.** Every AI tool held is in health, and none is in service. The nearest held fact is the [malaria test-reading pilot](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>).
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network>).
+**Results reported.** No measured results of a sectoral AI system are held. The [Enabel account](<https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html>) reports the training, not test results.
 
 ***Noted, not assessed***. [AgriHyphen AI](<https://www.globalsouthworld.com/article/ai-app-helps-burundian-farmers-detect-crop-diseases-early-video>).
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. No source says an AI tool is in service in a public sector's system.

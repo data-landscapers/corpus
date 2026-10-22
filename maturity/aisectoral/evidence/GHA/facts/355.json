@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-gha-ghs-jacaranda-deploy-ai-tool-for-maternal-care",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Ghana Health Service and Jacaranda Health launched the AI-powered PROMPTS (Nurse Mary) maternal health platform, which sorts mothers' SMS questions by urgency and refers emergencies to facilities, with over 7,000 mothers enrolled at Greater Accra Regional Hospital.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "PROMPTS (Nurse Mary)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PROMPTS (Nurse Mary)",
+   "country_label": "Ghana",
+   "class": "sectorai",
+   "platform": "SMS",
+   "owner": "Ghana Health Service with Jacaranda Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

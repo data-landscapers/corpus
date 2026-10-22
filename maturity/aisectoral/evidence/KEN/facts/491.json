@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-27-ken-duale-ai-blocked-sh12-7bn-fake-claims-at-sha",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Health CS Aden Duale told senators that fraud detection at the Social Health Authority is enabled by an artificial intelligence-driven claims management system that blocks suspicious billing before payment.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "SHA digital claims gatekeeper",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Duale said the digital gatekeeper had flagged, rejected and left unpaid Sh12.7 billion of claims by late February 2026, with 1,188 fraudulent files sent to the DCI, 26 suspects charged and 248 facilities under probe.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "SHA digital claims gatekeeper",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SHA AI-driven claims management system",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Social Health Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

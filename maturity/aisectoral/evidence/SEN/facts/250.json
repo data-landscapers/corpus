@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-25-sen-ai4pep-senegal-launches-plateforme-3s-one-health",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "AI4PEP Senegal says its AI-powered intersectoral platform for community-based zoonotic disease surveillance has gone live, with three functions Taggàt, Jottali and Gëstu.",
+   "as_of": "2025-02-25",
+   "date_precision": "day",
+   "system": "Plateforme 3S One Health",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme 3S One Health",
+   "country_label": "Senegal",
+   "class": "sectorai",
+   "platform": "AI-based surveillance platform",
+   "owner": "AI4PEP Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

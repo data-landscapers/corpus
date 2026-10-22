@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-002",
-   "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "results": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-005;TGO-004",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "Sika Finance reports the economy ministry's AI market-intelligence platform, launched in March 2026, with an announced precision of 89.89%, a measured result of a system in service. A later yes answers the several-sectors question.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

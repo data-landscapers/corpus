@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-24-ssd-technology-accelerates-tb-detection-in-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "UNDP says the Ministry of Health, with UNDP and Global Fund support, installed two portable AI-assisted digital X-ray machines for TB case detection at Torit and Rumbek state hospitals in December 2023, with four more to follow.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "AI-assisted portable digital X-ray machines",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-assisted portable digital X-ray machines",
+   "country_label": "South Sudan",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

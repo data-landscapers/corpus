@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "2",
-      "use": "underway",
-      "sectors": "",
-      "results": "",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-001",
-      "gaps": "No source held since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CAF-003;CAF-002",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "MSF reports CAD4TB in service at Batangafo district hospital since 2024 and the TB cases it helped detect in 2025. The results come from one hospital; a later yes answers the several-sectors question.",
+      "as_at": "2026-10-22"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source held since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-006;RWA-007",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "A Global Fund case study says Rwanda's public health system uses AI to read chest X-rays for TB in 2026. Agriculture's AI tools are still in testing, and no measured results are held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

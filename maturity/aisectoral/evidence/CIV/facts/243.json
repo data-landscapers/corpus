@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-17-ben-datagov-nos-cas-d-usage-emblematiques",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A use case applying large language models to generate descriptive notes on customs revenue for the Ivorian Directorate of Economic Studies and Statistics; no service use or results stated.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "LLM customs report generation",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

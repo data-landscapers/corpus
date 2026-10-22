@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "sectors": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001;MAR-002",
-      "gaps": "No source held since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MAR-005;MAR-006",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "The medicines agency launched an AI-assisted licensing platform in March 2026, and a parliamentary report says an education academy runs an AI dropout-risk system. No single source names two sectors and no measured results are held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

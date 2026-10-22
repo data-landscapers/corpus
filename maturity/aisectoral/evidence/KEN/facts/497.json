@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-24-ken-william-ruto-woos-us-tech-giants-to-invest-in-kenya-explains-how-govt",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Tuko reports President Ruto said the government uses AI to give algorithms on each parent's financial status for the means-testing instrument that distributes education funding.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "education-funding means-testing instrument",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Tuko reports President Ruto said Kenya uses AI for education-funding means testing, for distributing fertiliser to farmers and for identifying universal health coverage beneficiaries.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "AI means-testing and targeting",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "education-funding means-testing instrument",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-civ-leveraging-dhis2-data-to-create-ai-driven-health-facility-forecasts-in",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The DHIS2 conference abstract says the Ministry of Health selected 52 health facilities to receive monthly AI-driven forecasts for 11 family planning commodities, delivered by Pendulum through mSupply Mobile, with delivery to about 1,000 facilities planned for 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Pendulum AI forecasting via mSupply Mobile",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pendulum AI forecasting",
+   "country_label": "Cote d'Ivoire",
+   "class": "sectorai",
+   "platform": "mSupply Mobile",
+   "owner": "Ministry of Health with Pendulum",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

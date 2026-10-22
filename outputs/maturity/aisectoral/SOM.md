@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [Shaqodoon says its AI early warning system SAADAAL, which detects early signals of droughts and floods from environmental and climate data, is deployed with Southwest State's Ministry of Humanitarian Affairs and Disaster Management in real disaster preparedness workflows rather than left as a pilot](<https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** Shaqodoon, a Somali NGO, says its [AI early warning system for droughts and floods is deployed with Southwest State's Ministry of Humanitarian Affairs and Disaster Management in real disaster preparedness work](<https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters>), as of April 2026. Diginomica reports the system was [rolled out in April 2024, producing reports for the state ministry, which sends toll-free voice alerts to communities and farmers](<https://diginomica.com/using-ai-support-people-and-services-during-natural-disasters>).
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters>).
+**Several sectors.** Disaster management is the only sector held with AI in service, and only in one federal member state. The nearest held fact is [Shaqodoon's account of the early warning system](<https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters>).
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters>).
+**Results reported.** No measured results of a sectoral AI system are held. The [Diginomica account](<https://diginomica.com/using-ai-support-people-and-services-during-natural-disasters>) describes the alerts without counts of people reached or losses avoided.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says AI is in service in the public systems of two or more sectors.
+***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.

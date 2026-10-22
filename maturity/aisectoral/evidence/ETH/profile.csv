@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,sectorai,use,coverage,inservice,2025-10-12,ETH-003;ETH-006,ETH-001=underway;ETH-002=underway;ETH-005=underway;ETH-004=underway,
+ETH,sectorai,use,coverage,inservice,2026-06-10,ETH-003;ETH-006;ETH-007;ETH-012;ETH-015,ETH-014=underway;ETH-009=underway;ETH-001=underway;ETH-010=underway;ETH-011=underway;ETH-002=underway;ETH-005=underway;ETH-004=underway,
 ETH,sectorai,sectors,coverage,,,,,nothing held
-ETH,sectorai,results,coverage,,,,,nothing held
+ETH,sectorai,results,coverage,reported,2025,ETH-008;ETH-013,,

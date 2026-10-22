@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-30-ben-webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Webb Fontaine says Benin's customs system Webb Customs, equipped with AI, now bases risk management on intelligent profiling of importers and goods and automatically detects fraud patterns.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Webb Customs",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Webb Customs",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "Webb Fontaine",
+   "owner": "Benin Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

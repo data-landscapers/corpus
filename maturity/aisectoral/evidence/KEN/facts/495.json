@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-ken-ministry-of-health-hands-over-1-188-fraud-files-to-dci-in-major-crackd",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Health Cabinet Secretary Duale said the ministry's AI-powered fraud detection system under TaifaCare monitors every transaction in real time and blocks fraudulent claims before disbursement.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "AI-powered fraud detection system (TaifaCare)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-powered fraud detection system",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "TaifaCare big data engine",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

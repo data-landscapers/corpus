@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-integrant-l",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The mHealth platform's own site says that since 5 October 2026 community health workers in Gontougo's five districts have collected data on mHealth One, with AI giving treatment recommendations, flagging inconsistent data and answering queries, rolled out under the Ministry of Health with UNICEF support.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "mHealth One",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mHealth One",
+   "country_label": "Côte d'Ivoire",
+   "class": "sectorai",
+   "platform": "mHealth (TICANALYSE)",
+   "owner": "Ministry of Health, Public Hygiene and Universal Health Cover",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

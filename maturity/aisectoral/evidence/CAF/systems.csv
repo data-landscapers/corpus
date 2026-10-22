@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CAF,MEDICINE,Central African Republic,sectorai,,Institut Pasteur de Bangui,,2024-08-04-caf-afriquesur7-pasteur-bangui-ia-diagnostic
+CAF,CAD4TB,Central African Republic,sectorai,chest X-ray,Batangafo district hospital with MSF,,2026-07-22-caf-republique-centrafricaine-l-ia-au-service-du-depistage-de-la-tuberculo
+CAF,"AI TB positivity mapping model, Bangui",Central African Republic,sectorai,,"The Union, EPCON and National Tuberculosis Programme",,2025-08-01-caf-mapping-tb-with-ai-brings-new-hope-for-surveillance-in-low-resource-se

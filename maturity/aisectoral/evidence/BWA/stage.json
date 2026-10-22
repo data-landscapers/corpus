@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "sectors": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-001;BWA-002",
-      "gaps": "No source held since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BWA-004",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "A vendor partner says the national TB programme deployed AI chest X-ray reading in April 2025, so a tool is in service. No measured results or second sector are held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

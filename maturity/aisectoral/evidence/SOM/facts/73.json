@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-23-som-using-ai-to-support-people-and-services-during-natural-disasters",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Diginomica reports that the Shaqodoon Organization's AI-enhanced Saadaal early-warning system, rolled out in April 2024, runs weather and historical data through an AI agent to produce reports for the Ministry of Humanitarian Affairs and Disaster Management in a south-western state, which sends toll-free voice alerts to communities and farmers.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Saadaal",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Saadaal",
+   "country_label": "Somalia",
+   "class": "sectorai",
+   "platform": "AI agent with dashboard",
+   "owner": "Shaqodoon Organization (NGO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

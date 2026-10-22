@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Health Cabinet Secretary Aden Duale told the Senate that the Social Health Authority has deployed AI and machine learning tools in its Claims Adjudication Platform, which detect abnormal claim patterns, inflated billing and duplicate submissions in real time.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "SHA Claims Adjudication Platform",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SHA Claims Adjudication Platform",
+   "country_label": "Kenya",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Social Health Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

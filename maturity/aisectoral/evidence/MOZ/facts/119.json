@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-moz-mocambique-dhis2-clima-e-saude",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "DHIS2 says Saudigitus installed the Chap Modelling Platform in Mozambique's production DHIS2 and, in testing with the malaria programme, its alerts flagged three possible outbreaks in two provinces four weeks ahead, but the system is not yet operational.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Chap Modelling Platform",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chap Modelling Platform",
+   "country_label": "Mozambique",
+   "class": "sectorai",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

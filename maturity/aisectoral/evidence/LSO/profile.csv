@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,sectorai,use,coverage,underway,2024-09-16,LSO-001,,
+LSO,sectorai,use,coverage,inservice,2024-03-04,LSO-002,LSO-001=underway,
 LSO,sectorai,sectors,coverage,,,,,nothing held
-LSO,sectorai,results,coverage,,,,,nothing held
+LSO,sectorai,results,coverage,reported,2024-03-04,LSO-003,,

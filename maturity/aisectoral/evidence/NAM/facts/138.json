@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-15-nam-namibia-occurrence-of-asymptomatic-tb-in-active-case-finding-campaign",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CAD4TB",
+   "country_label": "Namibia",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Delft Imaging",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

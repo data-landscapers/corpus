@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "2",
-      "use": "underway",
-      "sectors": "",
-      "results": "",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-001",
-      "gaps": "No source held shows an AI tool in service in a public sector's system.",
-      "note": "Fact 2026-10-21: the meteorological agency's October 2025 convention to bring AI into forecasting, as a pilot, answers question 1; nothing is in service.",
-      "as_at": "2026-10-21"
+      "stage_sources": "BFA-003;BFA-002",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "The national TB programme coordinator reported cases found with CAD4TB-read X-rays from September 2024 to April 2025, a measured result of a tool in service. A later yes answers the several-sectors question.",
+      "as_at": "2026-10-22"
     }
   ]
 }

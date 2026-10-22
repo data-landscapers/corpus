@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-digital-health-case-study",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Global Fund case study says Rwanda uses AI in its public health system, with mobile vans screening for TB using AI software, computer-aided diagnostics reading digital chest X-rays to detect TB, and AI-assisted triage for TB case finding.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Computer-aided diagnostics for TB",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Global Fund case study says an AI-powered mobile app allows Rwandan community health workers to identify mpox skin lesions using smartphones.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "AI mpox lesion app",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

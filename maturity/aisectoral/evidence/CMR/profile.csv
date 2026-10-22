@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,sectorai,use,coverage,inservice,2026-08-17,CMR-001;CMR-002,,
+CMR,sectorai,use,coverage,inservice,2026-08-17,CMR-001;CMR-002;CMR-003,CMR-004=underway,
 CMR,sectorai,sectors,coverage,,,,,nothing held
 CMR,sectorai,results,coverage,,,,,nothing held

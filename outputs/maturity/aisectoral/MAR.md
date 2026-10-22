@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** [Morocco's customs administration (ADII), with the World Customs Organization and Swiss SECO, launched a project on 19 May 2025 to integrate AI into customs risk analysis and targeting, and a first technical mission ran 19-23 May 2025 assessing current capacity](<https://www.douane.gov.ma/dms/loadDocument?documentId=96039>). [Morocco's Customs and Indirect Taxes Administration has implemented pilot projects using machine learning on customs declarations to identify fraud risks, with further testing underway, per the budget minister's written answer](<https://barlamantoday.com/2024/08/12/minister-morocco-to-use-ai-to-enhanced-public-services/>).
+**AI in service.** The medicines agency [launched a licensing platform with AI-based analysis tools on 31 March 2026](<https://maroc.ma/fr/actualites/lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-digitale-du-secteur-de-la-sante>), starting with cosmetics and hygiene products for about 3,500 operators. A parliamentary working group report says an [AI system in the Draa-Tafilalet education academy predicts pupil performance and flags dropout risk](<https://lematin.ma/nation/maroc-et-intelligence-artificielle-qui-pilote-la-machine/279065>). Customs has run [machine-learning pilots on declarations to identify fraud risks](<https://barlamantoday.com/2024/08/12/minister-morocco-to-use-ai-to-enhanced-public-services/>), and in May 2025 [launched a project with the World Customs Organization to bring AI into risk analysis](<https://www.douane.gov.ma/dms/loadDocument?documentId=96039>).
 
-**Several sectors.** No source held since October 2023 says AI is in service in the public systems of two or more sectors. The nearest held fact: [the one given above](<https://www.douane.gov.ma/dms/loadDocument?documentId=96039>).
+**Several sectors.** Health regulation and education each have AI in service, in separate accounts: the [medicines agency's platform](<https://maroc.ma/fr/actualites/lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-digitale-du-secteur-de-la-sante>) and the [regional dropout-risk system](<https://lematin.ma/nation/maroc-et-intelligence-artificielle-qui-pilote-la-machine/279065>).
 
-**Results reported.** No source held since October 2023 reports measured results of a sectoral AI system. The nearest held fact: [the one given above](<https://www.douane.gov.ma/dms/loadDocument?documentId=96039>).
+**Results reported.** No measured results of a sectoral AI system are held. The nearest held fact is the [customs pilots](<https://barlamantoday.com/2024/08/12/minister-morocco-to-use-ai-to-enhanced-public-services/>), reported without figures.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. No single source says AI is in service in two or more sectors, and measured results are not known.

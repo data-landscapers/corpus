@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-27-mdg-la-douane-malagasy-un-modele-regional-dans-l-usage-de-la-donnee-et-de",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Madagascar's customs director general told an IMF panel on 27 March 2025 that the AI-based Enhanced Risk Assessment tool, with a data warehouse operational since late 2024, analyses millions of Sydonia records, with automated controls cutting clearance times and predictive analysis strengthening the fight against fraud.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "Enhanced Risk Assessment (ERA)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enhanced Risk Assessment (ERA)",
+   "country_label": "Madagascar",
+   "class": "sectorai",
+   "platform": "Sydonia",
+   "owner": "Direction Generale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

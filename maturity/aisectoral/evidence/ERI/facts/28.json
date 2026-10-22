@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-eri-delft-imaging-impact-eritrea-cad4tb",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Delft Imaging says Eritrea's Ministry of Health procured a CAD4TB unit in 2018, had 2 Delft Light and 6 CAD4TB deployed in 2024 and expanded the roll-out with 8 more CAD4TB in 2026, to automatically detect TB-related abnormalities.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CAD4TB",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAD4TB",
+   "country_label": "Eritrea",
+   "class": "sectorai",
+   "platform": "Delft Light",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

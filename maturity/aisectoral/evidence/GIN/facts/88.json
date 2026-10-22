@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme numerique de suivi des alertes du COU-SP",
+   "country_label": "Guinee",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSS / Ministere de la Sante et de l'Hygiene publique",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a training course on AI tools is stated; no AI tool is said to run in the health system."
+}

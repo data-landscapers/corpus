@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TZA,e-IDSR,Tanzania,other,DHIS2,Ministry of Health,,2025-03-31-tza-dhis2-ai-alert-triage-surveillance
 TZA,Event-based surveillance (EBS) with AI triage tool,Tanzania,sectorai,DHIS2,Ministry of Health,,2025-03-31-tza-dhis2-ai-alert-triage-surveillance
+TZA,IDRAS,Tanzania,sectorai,,Tanzania Revenue Authority,,2026-01-27-tza-mfumo-wa-idras-kuunganishwa-na-ai-kulinda-taarifa-binafsi
+TZA,Electronic Tax Stamps AI,Tanzania,sectorai,SICPA digital platform,Tanzania Revenue Authority,,2025-05-30-tza-ai-transforms-tra-s-measures-to-curb-falsified-electronic-stamps
+TZA,AI TB chest X-ray screening,Tanzania,sectorai,,Ministry of Health,,2026-08-31-tza-watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-06-egy-mohp-radiology-adviser-ai-diagnosis-tumours",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Dr Mohamed Fawzy, adviser to the Minister of Health and Population for radiology, said AI applications are used daily in some hospitals and institutes to diagnose breast, prostate and brain tumours, with expansion to other devices under way.",
+   "as_of": "2025-09-06",
+   "date_precision": "day",
+   "system": "AI radiology applications for tumour diagnosis",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI radiology applications for tumour diagnosis",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Health and Population",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-10-ago-inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fug",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Expansão reports AGT's chair saying the tax authority's machine-learning tools, tested since 2024, cross-checked 2025 corporate income tax filings and flagged irregular filers, who were then sent messages to correct them.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "AGT machine-learning tax software",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Expansão reports AGT's chair saying the AI found that 15,000 of 40,000 companies that filed zero-turnover 2025 income tax returns had in fact recorded transactions.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "AGT machine-learning tax software",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AGT machine-learning tax software",
+   "country_label": "Angola",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Administração Geral Tributária (AGT)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

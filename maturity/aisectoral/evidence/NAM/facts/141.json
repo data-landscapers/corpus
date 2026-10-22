@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-nam-namibia-s-first-ai-tutoring-labs-launched-in-luderitz",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Two AI tutoring labs were launched on 21 September 2026 at Angra Pequena Senior Secondary School, a government school in Luderitz, where all 436 learners can access personalised tutoring and the 20 teachers have teaching-assistant support; YYeni AI says the programme was already operating before the launch, funded by BW Kudu and Namport.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "AI tutoring labs (Project Aristotle, YYeni AI)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI tutoring labs (Project Aristotle)",
+   "country_label": "Namibia",
+   "class": "sectorai",
+   "platform": "YYeni AI",
+   "owner": "YYeni AI, funded by BW Kudu and Namport",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

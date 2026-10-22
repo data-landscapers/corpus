@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-19-swz-pilot-results-testing-an-mhealth-approach-to-reach-the-last-mile-of-es",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Jacaranda Health reports a pilot, August 2022 to March 2023, of its AI-enabled two-way SMS tool PROMPTS for infant immunization tracking with the Ministry of Health's Expanded Programme on Immunization, enrolling over 1,300 mothers, with the ministry interested in national scale-up.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "PROMPTS",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PROMPTS",
+   "country_label": "Eswatini",
+   "class": "sectorai",
+   "platform": "two-way SMS",
+   "owner": "Jacaranda Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

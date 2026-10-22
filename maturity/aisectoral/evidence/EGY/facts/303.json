@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-07-egy-elwatan-customs-ai-tariff-classification-valuation-nafeza",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Customs head Ahmed Amoy said Egypt has begun running three smart systems on the Nafeza platform, including automated tariff classification using AI algorithms, automated valuation against past records, and a risk system that scores each shipment before arrival.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Nafeza automated classification, valuation and risk systems",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nafeza",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "Nafeza",
+   "owner": "Egyptian Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

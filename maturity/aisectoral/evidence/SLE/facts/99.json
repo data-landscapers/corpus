@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-sle-how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A pilot launched in 2022 in Tonkolili district integrates BabyChecker AI ultrasound into routine antenatal visits, with free scans and risk-based referrals, per a White Ribbon Alliance study presented in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "BabyChecker",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BabyChecker",
+   "country_label": "Sierra Leone",
+   "class": "sectorai",
+   "platform": "smartphone AI ultrasound",
+   "owner": "Delft Imaging",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

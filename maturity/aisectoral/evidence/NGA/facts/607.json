@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The report relayed by Nairametrics says AI is being applied in Nigerian social welfare programmes to map urban poverty.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "AI poverty mapping in social welfare programmes",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Scaling Hub",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Government with Gates Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

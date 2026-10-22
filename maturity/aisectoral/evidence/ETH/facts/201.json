@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-eth-ministry-of-education-to-deploy-ai-powered-assistant-for-schools",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Birr Metrics reports the Ministry of Education has completed testing in selected schools of an AI-powered teacher assistant for grades 9-12 and will begin national deployment.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "AI-powered teacher assistant",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-powered teacher assistant",
+   "country_label": "Ethiopia",
+   "class": "sectorai",
+   "platform": "offline application with grade 9-12 textbook content",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

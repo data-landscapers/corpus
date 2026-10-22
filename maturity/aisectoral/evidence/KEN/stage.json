@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
-      "results": "",
+      "sectors": "several",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003",
-      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-005;KEN-007;KEN-012",
+      "gaps": "",
+      "note": "The Health Cabinet Secretary reported Sh12.7 billion of claims blocked by the Social Health Authority's AI claims system by February 2026, a measured result. The President said in 2024 that AI serves education funding, fertiliser distribution and health coverage.",
+      "as_at": "2026-10-22"
     }
   ]
 }

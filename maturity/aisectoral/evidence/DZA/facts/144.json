@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Ministry of Higher Education and Scientific Research reports that on 20 October 2026 the fifth multisectoral meeting split the tasks for a language model specialised in Algerian tax legislation with the Directorate General of Taxes, with equipment provided and a four-month delivery deadline.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "language model specialised in Algerian tax legislation",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "language model specialised in Algerian tax legislation",
+   "country_label": "Algeria",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Directorate General of Taxes with the Ministry of Higher Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

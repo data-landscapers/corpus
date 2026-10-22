@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-08-mwi-digitising-hiv-testing-registers-to-support-national-scale-up-of-three",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The medRxiv preprint reports that ScanForm, which transcribes handwritten HIV testing register pages with AI, reached 853 of 867 HIV testing facilities (98%) nationwide by September 2024 and captured 9,082,891 testing encounters to September 2025.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "ScanForm",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "The preprint reports that ScanForm's error rate fell from 1.6% to 0.4% over 24 months, errors and deviations fell 58%, 99.8% of mandatory data elements were complete and about 94.6% of records were submitted on time.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "ScanForm",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ScanForm",
+   "country_label": "Malawi",
+   "class": "sectorai",
+   "platform": "AI transcription of photographed paper registers",
+   "owner": "Quantitative Engineering Design (proprietary); used in national HIV testing M&E",
+   "tiers": "867 HIV testing facilities"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The ministry of higher education reports a prototype chatbot specialised in Algerian tax legislation among four large language models, two completed and two in development.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Chatbot specialise dans la legislation fiscale algerienne",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chatbot specialise dans la legislation fiscale algerienne",
+   "country_label": "Algeria",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

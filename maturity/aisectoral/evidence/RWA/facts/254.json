@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ALX, Anthropic and the Government of Rwanda announce a Phase 2 pilot extending the Claude-based tutor Chidi to Rwanda's public education system, with up to 2,000 educators and higher learning institutions.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Chidi",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chidi",
+   "country_label": "Rwanda",
+   "class": "sectorai",
+   "platform": "Anthropic Claude model",
+   "owner": "ALX",
+   "tiers": "pilot with educators and higher learning institutions"
+  }
+ ],
+ "note": ""
+}

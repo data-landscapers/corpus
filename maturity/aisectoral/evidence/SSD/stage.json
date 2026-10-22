@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a public sector's system uses AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001",
+      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
+      "note": "UNDP says the Ministry of Health installed AI-assisted X-ray machines for TB detection at two state hospitals in December 2023. No measured results or second sector are held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }
