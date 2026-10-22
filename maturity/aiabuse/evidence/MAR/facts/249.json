@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-28-mar-morocco-s-answer-on-ai-election-content-the-prohibition-is-the-rule-th",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The Leveraged Years says article 6 of CSCA decision 50-26, deliberated on 16 June 2026, bars licensed radio and television from broadcasting AI-generated or AI-transformed election content liable to mislead the public or harm the integrity of the electoral debate, with a narrow labelled exception, for the election period from 15 August 2026.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "CSCA decision 50-26, art. 6",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "The Leveraged Years says HACA, the broadcast regulator acting under laws 15-11 and 77.03, regulates licensees under decision 50-26 on AI election content; it does not say who enforces it beyond HACA's supervisory powers.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "HACA / CSCA",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

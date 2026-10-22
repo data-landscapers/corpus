@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-uga-govt-to-launch-national-ai-strategy-this-year",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "NITA-U's Julian Rweju said the Bank of Uganda has recently rolled out specific regulations to support and govern AI within the financial sector.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Bank of Uganda AI regulations",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

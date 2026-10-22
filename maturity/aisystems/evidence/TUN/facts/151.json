@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-tun-forum-realites-sur-la-sante-numerique-3500-nouvelles-recrues-et-95-de",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Health Minister Mustapha Ferjani said on 2025-02-20 that Tunisia is working on developing a Tunisian AI software with the company InstaDeep for remote analysis of medical images.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Tunisian AI medical imaging software (with InstaDeep)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

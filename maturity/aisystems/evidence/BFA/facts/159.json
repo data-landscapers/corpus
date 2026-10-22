@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The government says its universities and research centres are studying over fifty AI solutions, including an automatic French-Mooré translation, transcription and speech platform and the LegiChat legal-text question app, with no release stated.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "French-Mooré translation platform; LegiChat",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LegiChat",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "app",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "French-Mooré translation platform",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "platform",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

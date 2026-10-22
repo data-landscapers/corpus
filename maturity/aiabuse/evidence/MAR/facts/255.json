@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-12-mar-maroc-et-intelligence-artificielle-qui-pilote-la-machine",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "Le Matin, citing a parliamentary report, says no centralised state body can regulate AI in public action, and that algorithms are being installed without ethical safeguards defined nationally.",
+   "as_of": "2025-05-12",
+   "date_precision": "day",
+   "system": "",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

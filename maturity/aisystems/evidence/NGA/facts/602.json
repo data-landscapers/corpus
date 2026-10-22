@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-22-nga-nigeria-pilots-ai-enabled-digital-extension-system-to-bridge-farm-advi",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "BusinessDay reports a consortium funded by the Gates Foundation validated the design of the AI-enabled DAES platform at a two-day Abuja workshop, with pilots planned in Gombe, Kaduna and Oyo states over three years.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Digital Agricultural Extension Systems (DAES)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

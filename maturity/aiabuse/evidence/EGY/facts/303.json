@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-16-egy-elwatan-badawi-government-prepared-ai-draft-law",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "MP Ahmed Badawi, chair of the House ICT committee, said an integrated AI bill is being prepared with the ministry, including mechanisms for crimes committed using AI; it is not yet published.",
+   "as_of": "2025-08-16",
+   "date_precision": "day",
+   "system": "draft AI law",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

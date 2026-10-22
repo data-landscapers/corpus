@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-civ-protection-des-donnees-personnelles-la-cote-d-ivoire-prepare-son-cadre",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Djibril Ouattara said on 18 May 2026 that Cote d'Ivoire has begun work on an Ivorian artificial intelligence, with no builder, funder or site named.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "intelligence artificielle ivoirienne",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

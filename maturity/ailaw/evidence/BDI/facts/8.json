@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-bdi-what-is-ai-regulation-in-burundi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Levellers says Burundi has no dedicated AI law or regulator as of its 8 June 2026 review; the 10 March 2026 data protection law is its main AI-relevant hard law.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

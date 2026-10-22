@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-nga-yearinreview-2025-recap-of-activities-of-the-honourable-minister-dr-bo",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Nigeria's communications ministry says N-ATLAS, described as Africa's first government-backed multimodal and multilingual LLM, was launched in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "N-ATLAS",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

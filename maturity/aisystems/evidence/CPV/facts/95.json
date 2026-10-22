@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-15-cpv-agricultural-transition-using-the-internet-of-things-and-artificial-in",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNDP Cabo Verde Accelerator Lab says the University of Cape Verde, with Primebotics, is building AI models for smart irrigation, with a working prototype installed on the university campus and one pilot installed with three more on the way.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "Monitoring Tools and Artificial Intelligence for Smart Agriculture",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

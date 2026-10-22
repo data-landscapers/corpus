@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-09-nga-national-digital-economy-and-e-governance-act-2026-ready-in-weeks",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Senate ICT committee chair Shuaib Salisu said the National Digital Economy and E-Governance Bill, now at third reading, provides a regulatory framework for the responsible use of AI systems, categorises AI systems into four or five categories with different deployment requirements, and would apply to AI agents.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "National Digital Economy and E-Governance Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

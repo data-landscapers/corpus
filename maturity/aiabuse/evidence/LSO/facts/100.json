@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-22-lso-highlight-26-2025-why-strengthening-information-governance-is-crucial",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Analyst Sekatle Sekatle writes that Lesotho's proposed Artificial Intelligence Bill aims to include mechanisms to detect and mitigate the spread of disinformation and misinformation through responsible AI systems, and urges the government to table it.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "Artificial Intelligence Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

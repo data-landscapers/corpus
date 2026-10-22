@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-18-egy-3-3-7",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Communications and IT Minister Amr Talaat says the state is investing over USD 3.3 billion of government funds across seven years to develop the digital infrastructure for AI.",
+   "as_of": "2025-10-18",
+   "date_precision": "day",
+   "system": "AI infrastructure investment plan",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

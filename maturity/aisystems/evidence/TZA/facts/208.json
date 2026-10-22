@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-tza-watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Muhimbili University researchers built a chest X-ray AI for TB in people with HIV, trained on about 3,000 patient images from public facilities, reporting 92% accuracy, and it is now in trials ahead of TMDA approval.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "MUHAS TB-HIV chest X-ray model",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

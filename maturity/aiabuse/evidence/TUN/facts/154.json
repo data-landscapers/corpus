@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Lawyer Zied El Air says organic bill No. 095/2025, tabled in July 2025 by seventeen members of parliament, contains provisions dedicated to artificial intelligence and an independent supervisory authority with sanctioning powers, and is still in committee.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Organic bill No. 095/2025",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

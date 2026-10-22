@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-24-mar-amal-el-fallah-seghrouchni-le-maroc-prepare-un-cadre-legal-et-une-dire",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Minister Amal El Fallah Seghrouchni said her ministry is preparing a digital bill, with the CNDP, DGSSI and ADD, covering algorithmic transparency, the right to explanation and contestation of automated decisions and non-discrimination in AI use, earlier planned for October and to be presented shortly.",
+   "as_of": "2025-10-24",
+   "date_precision": "day",
+   "system": "digital bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

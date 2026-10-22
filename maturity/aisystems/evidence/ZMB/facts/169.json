@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-13-zmb-zambia-launches-nationwide-pilot-project-to-test-remote-health-diagnos",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Zambia Monitor says Larry RX AI, a drug interaction and compliance analysis tool developed in Zambia, will be part of the pilot at 20 health posts.",
+   "as_of": "2025-06-13",
+   "date_precision": "day",
+   "system": "Larry RX AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

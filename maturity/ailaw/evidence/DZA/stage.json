@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "1",
-      "standing": "none",
+      "stage": "2",
+      "standing": "draft",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002",
-      "gaps": "",
-      "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-10-21"
+      "stage_sources": "DZA-003",
+      "gaps": "Nothing held says the deputies' 2024 bill has been adopted, withdrawn or examined since; no binding rule on AI is in force.",
+      "note": "A private members' bill to regulate AI was registered at the National People's Assembly in October 2024, and a private member's bill counts while before parliament. The April 2025 statement that no AI law is adopted does not say there is no draft.",
+      "as_at": "2026-10-22"
     }
   ]
 }

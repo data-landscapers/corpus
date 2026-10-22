@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Levellers says ASIN built GPT BJ, a public-service chatbot trained on Benin's legal and administrative texts; it gives no date, so the document's date is used.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "GPT BJ",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

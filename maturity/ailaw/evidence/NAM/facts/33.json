@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-25-nam-national-digital-strategy-pins-economic-freedom",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ICT ministry's Frans Nghitila, speaking at FIFAFRICA in Windhoek, said Namibia has formulated a draft Artificial Intelligence Bill.",
+   "as_of": "2025-09-24",
+   "date_precision": "day",
+   "system": "draft Artificial Intelligence Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "draft Artificial Intelligence Bill",
+   "country_label": "Namibia",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

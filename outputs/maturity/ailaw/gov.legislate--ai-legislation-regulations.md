@@ -23,10 +23,10 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
-| 2 Nascent | 10 |
-| 1 Absent | 21 |
+| 2 Nascent | 12 |
+| 1 Absent | 20 |
 | Unplaced | 0 |
-| No evidence | 16 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -75,6 +75,12 @@ Regulations of January 2025 prohibit fabricated AI-generated content online; the
 
 - Government Notice No. 57, published 28 January 2025 under the Electronic and Postal Communications Act, amends the 2020 Online Content Regulations to add unethical, fabricated and AI-generated content (video, audio, still pictures) to prohibited online content, and obliges internet service providers and social media platform owners to filter and remove it ([source, 2025-01-28](https://www.tcra.go.tz/tcra-tovuti/2025/mamlaka-website/documents/regulations/en_1738833320_Online_Content_Amendment_Regulations_2025_GN_No_57_of_28_January_2025_fad57339dc.pdf)).
 
+### Algeria: 2 Nascent
+
+Deputies registered a bill to regulate AI in parliament in 2024; no rule on AI is known in force.
+
+- The National People's Assembly's secretary general says a bill by a group of deputies to regulate the development and use of AI was recently registered and would be examined by the Assembly bureau ([source, 2024-10](https://asgp.co/wp-content/uploads/2024/10/Wed-16-Oct-PM-Algerie-FR.pdf)).
+
 ### Angola: 2 Nascent
 
 A draft AI law was out for public consultation in 2026; no rule on AI is in force.
@@ -93,6 +99,12 @@ A bill adopted in April 2026 sets an ethical framework for AI in research; wheth
 A ministry was revising a preliminary draft of an AI law in 2025; no rule on AI is in force.
 
 - Equatorial Guinea's Ministry of Transport, Telecommunications and AI Systems is drafting an AI law (anteproyecto), and a session reviewed observations and amendments to its initial draft; no date is given for the session, so the 2025-08-27 publication date is used ([source, 2025-08-27](https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/)).
+
+### Ethiopia: 2 Nascent
+
+A draft AI law was tabled by 2026; no binding rule on AI is known in force.
+
+- The Conversation's authors say Ethiopia has tabled a draft AI law that adopts the EU risk-based approach, banning unacceptable-risk AI systems ([source, 2026-06-10](https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524)).
 
 ### Ghana: 2 Nascent
 
@@ -140,17 +152,17 @@ A draft data protection law including AI use was before a committee in February 
 
 - Organic law proposal 095/2025 on personal data protection, 132 articles in 6 chapters and including regulation of AI use, was heard before the Assembly's Rights and Freedoms Committee on 17 February 2026 ([source, 2026-02-17](https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/)).
 
-### Algeria: 1 Absent
-
-In 2025 Algeria had adopted no law or regulation on AI; no draft is named.
-
-- Digital Policy Alert states Algeria has not yet adopted laws or regulations specifically governing the development and use of AI ([source, 2025-04-16](https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria)).
-
 ### Benin: 1 Absent
 
 In 2025 the Forum on Information and Democracy said Benin has no binding AI rule beyond its strategy; no draft is named.
 
 - Forum on Information and Democracy and ALCRER state that outside the national AI and big-data strategy 2023-2027, Benin has no specific and sufficiently binding regulation on developing, deploying or using AI systems ([source, 2025-04](https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf)).
+
+### Burundi: 1 Absent
+
+In 2026 a review said Burundi has no dedicated AI law; no draft is named.
+
+- Levellers says Burundi has no dedicated AI law or regulator as of its 8 June 2026 review; the 10 March 2026 data protection law is its main AI-relevant hard law ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-burundi)).
 
 ### Chad: 1 Absent
 
@@ -175,12 +187,6 @@ A national newspaper said in August 2026 that no law in Djibouti addresses AI; n
 A review of June 2026 says Eritrea has no AI law and no AI-specific legislation; no draft is named.
 
 - Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no dedicated AI law and no AI-specific legislation, and that AI is not governed by any specific national framework ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
-
-### Ethiopia: 1 Absent
-
-In 2026 UNESCO said Ethiopia's legal framework is not AI-specific and has no binding AI legislation; no draft is named.
-
-- UNESCO's readiness profile says Ethiopia's legal framework is not AI-specific and it has no binding legislation on public procurement of AI, algorithmic transparency or liability for AI-induced harm ([source, 2026-06-30](https://www.unesco.org/ethics-ai/en/ethiopia)).
 
 ### Gambia: 1 Absent
 
@@ -278,12 +284,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Burkina Faso: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Burundi: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

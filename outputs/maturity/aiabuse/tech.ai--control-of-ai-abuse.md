@@ -22,8 +22,8 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 8 |
-| 3 Established | 11 |
-| 2 Nascent | 11 |
+| 3 Established | 12 |
+| 2 Nascent | 10 |
 | 1 Absent | 10 |
 | Unplaced | 0 |
 | No evidence | 14 |
@@ -92,6 +92,12 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 
 - GRAIN's comparative study says Burkina Faso's personal data protection law is the only one of the four countries' to explicitly reference processing based on artificial intelligence ([source, 2026-08-10](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/)).
 
+### Burundi: 3 Established
+
+A 2026 data protection law in force sets rules on AI in automated decisions; a designated authority is not known.
+
+- Levellers says Burundi's personal data protection law of 10 March 2026 requires notice where personal data are processed with AI for automated decision-making and sets safeguards, including a human re-decision, for automated decisions with important effects ([source, 2026-03-10](https://www.levellers.ai/what-is/ai-regulation-burundi)).
+
 ### Comoros: 3 Established
 
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
@@ -156,13 +162,6 @@ A rule addressing a harm from AI was in force in 2025; a designated authority is
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
 
 - Higher Education Minister Kamal Badari, in an answer dated 23 October 2025, said the government is preparing a comprehensive legal text governing ethical use of AI across all sectors and strengthening the regulatory authority ([source, 2025-10-23](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82)).
-
-### Burundi: 2 Nascent
-
-A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
-
-- Burundi's national AI strategy, presented at its validation workshop, provides for a national AI commission, an ethics charter and regulatory adaptation ([source, 2026-04](https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/)).
-- The national AI strategy validated on 21-22 April 2026 with UNDP provides for creating a National AI Commission (CNIA) and a Strategic Intelligence Centre under its governance axis, which also covers ethics and compliance ([source, 2026-04-22](https://www.digitalbusiness.africa/burundi-la-strategie-nationale-de-lintelligence-artificielle-validee-axes-et-objectifs/)).
 
 ### Equatorial Guinea: 2 Nascent
 

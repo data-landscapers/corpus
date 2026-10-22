@@ -2,7 +2,7 @@
 
 ## AI harms
 
-**Rule in force.** [Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill](<https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rule in force.** [Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill](<https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0>). [In June 2026 The Conversation's authors said Ethiopia has tabled a draft AI law that adopts the European Union's risk-based approach, regulating AI systems by the risk they pose and banning those of unacceptable risk outright](<https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524>).
 
 **Authority.** No source held since October 2023 says a body is designated with a mandate over AI. The nearest held fact: [the one given above](<https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0>).
 

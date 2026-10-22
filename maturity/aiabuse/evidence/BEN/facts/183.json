@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Levellers says Benin's Digital Code (Loi 2017-20, promulgated 20 April 2018, amended 2021) regulates profiling and automated individual decisions (Article 401) and requires impact assessments for high-risk automated processing, the only binding rules touching AI harms.",
+   "as_of": "2018-04-20",
+   "date_precision": "day",
+   "system": "Digital Code Book V",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": "No AI-specific authority is stated."
+}

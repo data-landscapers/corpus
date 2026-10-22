@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-dji-djibouti-unveils-ai-tools-to-modernize-ports-and-logistics",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Djibouti Ports and Free Zones Authority says DPCR Vision AI, an AI road-defect detector, was developed by Djibouti Ports Corridor Road and launched in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DPCR Vision AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

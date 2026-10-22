@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-dza-contribution-de-m-salim-djalal-secretaire-general-de-l-assemblee-popul",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Assembly's secretary general says the Assembly has a partnership framework with CERIST to develop AI speech-to-text solutions for Algerian dialects, to be deployed in the Assembly's data centre.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "APN-CERIST dialect speech-to-text",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APN-CERIST dialect speech-to-text",
+   "country_label": "Algeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "CERIST / Assemblee Populaire Nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

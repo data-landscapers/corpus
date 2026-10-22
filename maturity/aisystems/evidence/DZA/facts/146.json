@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The large language models commission presented progress on four large language models, two completed and two under development, including a tax-legislation chatbot prototype and a model for students.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Grands modeles de langage (four LLMs)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": "Compute fact dropped by CC: the document sets 2026 operations to use servers and GPUs already available, and names no AI computing facility in service."
+}

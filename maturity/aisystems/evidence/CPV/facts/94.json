@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-cpv-unico-projeto-arise-em-cabo-verde-apresenta-resultados-a-african-acade",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The University of Cabo Verde says it is building IoT and AI water-management systems in the SSWAxC4V project and runs RS2Lab, an IoT and AI laboratory inaugurated in November 2023.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "SSWAxC4V",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Ministry of Higher Education and Scientific Research reports that a language model specialised in Algerian tax legislation is being built with the Directorate General of Taxes, with its equipment made available and a four-month delivery deadline set on 20 October 2026.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "language model specialised in Algerian tax legislation",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

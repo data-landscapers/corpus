@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-eth-ai-regulation-in-africa-why-copying-the-european-model-won-t-work",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Conversation's authors say Kenya's draft AI Bill, tabled as an AI law, institutes an AI Commissioner and an AI Advisory Committee as regulators of AI systems and adopts the EU risk-based approach.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Kenya AI Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

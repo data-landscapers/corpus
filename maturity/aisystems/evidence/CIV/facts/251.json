@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-civ-la-cote-d-ivoire-fait-un-bond-en-avant-avec-de-nouvelles-initiatives-n",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The African Development Bank says the national AI strategy unveiled on 13 March 2025 plans an AI laboratory within the Cite de l'innovation et de la culture.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "AI laboratory, Cite de l'innovation et de la culture",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

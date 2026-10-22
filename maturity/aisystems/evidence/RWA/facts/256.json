@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vision Media reports that Tunga, an AI voice assistant answering in Kinyarwanda from an agricultural knowledge base developed by MINAGRI, the Rwanda Agriculture and Animal Resources Development Board and partners, is being tested.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Tunga",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

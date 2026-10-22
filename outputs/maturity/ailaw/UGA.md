@@ -8,4 +8,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. 
+***Not held***. No bill, draft decree or draft regulation on AI is held.

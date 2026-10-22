@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-egy-governing-ai-with-inclusion-an-egyptian-model-for-the-global-south",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "MP Sahar Albazar writes that Egypt's draft AI bill bans prohibited AI systems outright, requires prior approval for high-risk ones, and mandates algorithmic fairness, transparency and auditability.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Draft AI bill (Egypt)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

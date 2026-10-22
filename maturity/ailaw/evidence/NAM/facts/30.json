@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nam-parliament-urges-tighter-ai-regulation-amid-growing-digital-risks",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Brief says that as of January 2026 Namibia has no comprehensive enacted AI-specific legislation and a Draft AI Bill is under development.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Draft AI Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

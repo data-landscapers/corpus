@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 8 |
-| 3 Established | 25 |
-| 2 Nascent | 16 |
+| 3 Established | 26 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 4 |
@@ -77,6 +77,13 @@ AI computing was in service in the country in 2026; its use by others is not kno
 AI computing was in service in the country in 2026; its use by others is not known.
 
 - UNDP's programme procured and deployed country-hosted GPU compute in Zambia ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
+
+### Benin: 3 Established
+
+A government chatbot built in the country has been in service since 2023; AI computing in service is not known.
+
+- The ministry says GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital, was launched in 2023 during the second Digital Entrepreneurship and Artificial Intelligence Fair ([source, 2023](https://council.science/wp-content/uploads/2025/02/AI-Paper-Case-Study-Benin_V1.pdf)).
+- Levellers says ASIN built GPT BJ, a public-service chatbot trained on Benin's legal and administrative texts; it gives no date, so the document's date is used ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-benin)).
 
 ### Botswana: 3 Established
 
@@ -244,12 +251,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
 
 - AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024 ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
-
-### Benin: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
-
-- IIDIA and ASIN launched a Regional Innovation and Digital Technology Lab in Cotonou to develop the first voice-to-voice AI model in the Fon language, with a functional prototype due within 9 months, trained on NVIDIA A100/H100 GPUs, with Gates Foundation support ([source, 2025-06-30](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide)).
 
 ### Chad: 2 Nascent
 

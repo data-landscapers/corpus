@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Levellers says Benin has no dedicated AI law, bill or statute; AI is governed indirectly through Book V of the Digital Code on personal data.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

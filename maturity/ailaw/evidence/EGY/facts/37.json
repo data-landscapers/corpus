@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-egy-governing-ai-with-inclusion-an-egyptian-model-for-the-global-south",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "MP Sahar Albazar describes a draft AI law with three risk tiers (prohibited, high-risk, limited-risk) that is still progressing towards final legislation.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Draft AI bill (Egypt)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

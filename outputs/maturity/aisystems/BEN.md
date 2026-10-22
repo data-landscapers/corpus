@@ -2,7 +2,7 @@
 
 ## AI built at home
 
-**Model, dataset or computing.** [IIDIA and ASIN launched a Regional Innovation and Digital Technology Lab in Cotonou to develop the first voice-to-voice AI model in the Fon language, with a functional prototype due within 9 months, trained on NVIDIA A100/H100 GPUs, with Gates Foundation support](<https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Model, dataset or computing.** [GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital (ASIN) to answer questions on the tax, digital, labour and penal codes, was launched in 2023](<https://council.science/wp-content/uploads/2025/02/AI-Paper-Case-Study-Benin_V1.pdf>); [Levellers described it in June 2026 as a public-service chatbot trained on legal and administrative texts](<https://www.levellers.ai/what-is/ai-regulation-benin>). [IIDIA and ASIN launched a Regional Innovation and Digital Technology Lab in Cotonou to develop the first voice-to-voice AI model in the Fon language, with a functional prototype due within 9 months, trained on NVIDIA A100/H100 GPUs, with Gates Foundation support](<https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide>).
 
 **AI computing.** No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest held fact: [the one given above](<https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide>).
 
@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is one in service.
+***Not held***. No source held says AI computing is in service in the country, or that national models, datasets or computing are open to named users.

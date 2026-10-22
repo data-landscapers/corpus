@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,aiharm,rule,coverage,inforce,2026-09-11,MAR-003;MAR-006;MAR-007;MAR-010,MAR-004=draft;MAR-005=draft;MAR-009=draft;MAR-002=draft;MAR-001=draft,
-MAR,aiharm,authority,coverage,designated,2026-06-16,MAR-008;MAR-011,,
+MAR,aiharm,rule,coverage,inforce,2026-09-11,MAR-003;MAR-006;MAR-007;MAR-010;MAR-012,MAR-004=draft;MAR-005=draft;MAR-014=draft;MAR-009=draft;MAR-015=none;MAR-002=draft;MAR-001=draft,
+MAR,aiharm,authority,coverage,designated,2026-06-16,MAR-008;MAR-011;MAR-013,,
 MAR,aiharm,enforced,coverage,,,,,nothing held

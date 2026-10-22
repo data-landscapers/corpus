@@ -8,6 +8,6 @@
 
 **Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://huggingface.co/blog/MEYNG/sangoai>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [AI centre of excellence](<https://www.agenceecofin.com/actualites-numerique/2506-129534-la-republique-centrafricaine-prepare-la-creation-d-un-centre-d-excellence-en-ia>).
 
 ***Not held***. No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.

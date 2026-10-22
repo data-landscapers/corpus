@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,law,standing,coverage,none,2026-06-30,ETH-001;ETH-002,,
+ETH,law,standing,coverage,draft,2026-06-10,ETH-003,ETH-001=none;ETH-002=none,
 ETH,law,reach,coverage,,,,,nothing held

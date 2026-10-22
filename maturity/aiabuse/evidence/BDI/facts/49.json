@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-bdi-what-is-ai-regulation-in-burundi",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Levellers says Burundi's personal data protection law of 10 March 2026 requires notice where personal data are processed with AI for automated decision-making and sets safeguards, including a human re-decision, for automated decisions with important effects.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Loi No 1/03 du 10 mars 2026",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

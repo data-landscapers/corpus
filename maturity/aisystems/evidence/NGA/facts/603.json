@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The document says Nigeria launched N-ATLAS in 2025, a multilingual language model supporting Yoruba, Hausa and Igbo.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "N-ATLAS",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N-ATLAS",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

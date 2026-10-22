@@ -23,3 +23,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-21,LBR,gov.legislate--ai-legislation-regulations,fact,no evidence,1,LBR-001,Stage 4c: a dated statement that no AI law is in force arrived; restaged from every row held.
 2026-10-21,LBY,gov.legislate--ai-legislation-regulations,fact,no evidence,1,LBY-001,Stage 4c: a dated statement that no AI law is in force arrived; restaged from every row held.
 2026-10-21,MWI,gov.legislate--ai-legislation-regulations,fact,no evidence,1,MWI-003,Stage 4c: a dated statement that no AI law is in force arrived; restaged from every row held.
+2026-10-22,BDI,gov.legislate--ai-legislation-regulations,fact,no evidence,1,BDI-001,Levellers' June 2026 review says Burundi has no dedicated AI law and names no draft; first statement held
+2026-10-22,DZA,gov.legislate--ai-legislation-regulations,fact,1,2,DZA-003,A private members' AI bill registered at the National People's Assembly in October 2024 arrived; a draft is before parliament
+2026-10-22,ETH,gov.legislate--ai-legislation-regulations,fact,1,2,ETH-003,The Conversation reports in June 2026 that Ethiopia has tabled a draft AI law; a draft is before parliament

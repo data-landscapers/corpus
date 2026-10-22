@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-whoafro-ethiopia-eaii-ai-health-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "A WHO delegation reviewed locally developed technologies at the Ethiopian Artificial Intelligence Institute, including natural language processing tools, speech-to-text and translation applications, predictive disease models and AI diagnostic tools for skin diseases.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Ethiopian Artificial Intelligence Institute tools",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Artificial Intelligence Institute (EAII)",
+   "country_label": "Ethiopia",
+   "class": "localai",
+   "platform": "",
+   "owner": "EAII",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

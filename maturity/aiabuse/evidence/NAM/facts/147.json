@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nam-parliament-urges-tighter-ai-regulation-amid-growing-digital-risks",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Brief reports a Draft AI Bill under development to establish ethical standards and accountability mechanisms for AI deployment, and a Cybercrime Bill aimed at countering AI-related threats.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Draft AI Bill",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -8,4 +8,4 @@
 
 ***Noted, not assessed***. [Copyright Amendment Bill](<https://www.itweb.co.za/article/paperback-writer-meet-the-shredder/kYbe97XbZ35qAWpG>).
 
-***Not held***. 
+***Not held***. No bill, draft decree or draft regulation on AI is held.

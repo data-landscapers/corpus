@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,localai,build,coverage,inservice,2026-07,TZA-002;TZA-003,TZA-001=underway,
+TZA,localai,build,coverage,inservice,2026-07,TZA-002;TZA-003,TZA-004=underway;TZA-001=underway,
 TZA,localai,compute,coverage,,,,,nothing held
 TZA,localai,shared,coverage,,,,,nothing held
