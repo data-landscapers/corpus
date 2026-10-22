@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-egy-communications-minister-five-pillars-digital-sovereignty-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Communications minister Raafat Hindy says the Egyptian state's strategy for digital sovereignty rests on five pillars, the first being sovereign infrastructure, with control over the state's digital infrastructure, data and strategic services as the stated aim.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "digital sovereignty strategy",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

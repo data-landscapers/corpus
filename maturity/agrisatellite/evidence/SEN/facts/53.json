@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AICCRA reports that ANACIM, which fully runs the AgData Hub since late 2025, now generates crop-specific, district-scale agro-climatic bulletins combining near-real-time forecasts, satellite observations and seasonal outlooks.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "AgData Hub",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "published",
+   "value": "scheduled",
+   "fact": "AICCRA says the multidisciplinary working group coordinated by ANACIM publishes an agrometeorological bulletin at the end of each ten-day period, now produced in the AgData Hub app.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "AgData Hub",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AgData Hub",
+   "country_label": "AgData Hub",
+   "class": "agrisat",
+   "platform": "ANACIM servers, mobile app",
+   "owner": "ANACIM",
+   "tiers": "national, regional and local GTP"
+  }
+ ],
+ "note": ""
+}

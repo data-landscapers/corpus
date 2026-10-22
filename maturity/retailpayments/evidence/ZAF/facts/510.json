@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-20-zaf-rewiring-payments-open-connected-inclusive",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The SARB says PayShap, a real-time low-value payment rail launched in 2023, has passed 1 billion transactions worth over R1 trillion.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "PayShap",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayShap",
+   "country_label": "South Africa",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "QR+",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

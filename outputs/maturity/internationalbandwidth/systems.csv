@@ -521,6 +521,8 @@ GNQ,ASD cable,ASD,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-ma
 GNQ,Nigeria-GNQ subsea cable (BCN),,other,,Backbone Connectivity Network Nigeria Ltd,,2026-02-12-nigeria-equatorial-guinea-subsea-fibre
 GNQ,Gabon-GNQ terrestrial backbone link (Ebebeyin),,route,,SPIN (Gabon side),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
 GNQ,"Gabon-Equatorial Guinea fibre-optic network interconnection (agreed 2025-11-10, Mongomo)",GNQ-GAB fibre interconnection,other,,,,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews
+GNQ,Africa Coast to Europe (ACE),Equatorial Guinea,route,submarine cable,,,2026-10-21-ecofin-equatorial-guinea-telgesa-operator
+GNQ,MEDUSA connection,Equatorial Guinea (expected 2029-2031),other,submarine cable,,,2026-10-21-ecofin-equatorial-guinea-telgesa-operator
 KEN,Daraja,Daraja,other,,Meta / Safaricom,,2026-08-05-kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race
 KEN,Africa-1,Africa-1,other,,,,2026-08-05-kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race
 KEN,Daraja,Daraja,other,,Meta (Edge Network Services); Safaricom operates Kenyan segment,,2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica
@@ -622,6 +624,7 @@ LBR,Orange Liberia Monrovia-Lugato fibre link,Liberia,route,fibre,Orange Liberia
 LBY,Medusa,Medusa submarine cable,route,submarine cable,LPTIC (inauguration); LUIC signed connection contract,,2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald
 LBY,Medusa submarine cable,Libya,route,submarine cable,,,2026-10-18-lby-opening-of-ozone-telecom-group-in-benghazi-and-arrival-of-medusa-cable
 LBY,Medusa submarine cable,"Medusa, Benghazi landing",route,,Medusa Submarine Cable System,,2026-10-19-lby-techafricanews-o3-group-fact-sheet-medusa-landing
+LBY,Medusa,Libya,other,submarine cable,,,2026-10-20-medusa-submarine-cable-system-completes-shore-end-installation-in-liby
 LSO,WACS,WACS,route,,Vodacom group (part-owner),,2018-02-13-lca-state-of-ict-lesotho-2016
 LSO,EASSy,EASSy,route,,Vodacom group (part-owner); capacity also used by Econet Telecom Lesotho,,2018-02-13-lca-state-of-ict-lesotho-2016
 LSO,SEACOM,SEACOM,route,,,used by Econet Telecom Lesotho,2018-02-13-lca-state-of-ict-lesotho-2016

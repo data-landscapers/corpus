@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Guineenews reports that ANDE is developing a public key infrastructure (PKI) to secure electronic signatures, and that nine draft texts on the state's electronic signature were under review on 21 October 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "PKI (ANDE)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PKI (ANDE)",
+   "country_label": "Guinea",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ANDE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

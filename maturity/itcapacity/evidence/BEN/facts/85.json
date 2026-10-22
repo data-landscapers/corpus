@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Levellers says operational delivery of the AI strategy runs through ASIN, formed by merging four predecessor bodies under the finance and digital ministries, which built the GPT BJ chatbot.",
+   "as_of": "2023-05-11",
+   "date_precision": "day",
+   "system": "ASIN",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

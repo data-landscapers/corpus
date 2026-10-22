@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Top Africa News reports that mobile money is in everyday use in Rwanda, with MTN and Airtel Mobile Commerce Rwanda serving customers, and digital-payment transactions rose to 3.1 billion in 2025, per the Prime Minister.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN mobile money",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Mobile Commerce Rwanda",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

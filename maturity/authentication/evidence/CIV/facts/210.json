@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-09-civ-cote-d-ivoire-is-betting-big-on-ai-and-facing-bigger-cyber-risks",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Ecofin Agency reports that when the national AI strategy was being deployed, a public key infrastructure system was still under development in Côte d'Ivoire.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "public key infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "public key infrastructure",
+   "country_label": "Côte d'Ivoire",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

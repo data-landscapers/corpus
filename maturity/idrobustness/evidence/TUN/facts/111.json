@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-30-tun-sofiane-hmissi-annonce-le-lancement-du-portail-unique-des-services-adm",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Sofiane Hmissi said work on the biometric identity card and passport projects is being accelerated, with progress varying.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "biometric identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

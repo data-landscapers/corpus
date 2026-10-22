@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government data exchange platform, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source held says the platform is in service carrying data between public bodies' systems; the third revenue agency had yet to load its data.",
+      "note": "Fact 2026-09-03: a data warehouse interconnecting the three revenue agencies is in place with two loading data, a platform being built between a few systems; nothing says it is in service across them.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

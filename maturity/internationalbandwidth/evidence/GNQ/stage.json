@@ -1,16 +1,17 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-002;GNQ-005",
-   "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "two",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-002;GNQ-005",
+      "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours. A 2026 source says the country relies primarily on ACE, without saying Ceiba-2 is out of service.",
+      "note": "Fact 2026-10-21: Ecofin says GNQ relies primarily on ACE, which leaves ACE and Ceiba-2 at adjacent Bata stations as held; no route independent of Bata is held.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

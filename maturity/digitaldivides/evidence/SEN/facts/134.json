@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-18-sen-laffaire-starlink-revelateur-des-defis-de-la-regulation-satellitaire-a",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The State announced the acquisition of 5,000 satellite kits for white zones (uncovered areas), per columnist Isaac Sissokho, secretary-general at the digital ministry.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "State Starlink kit acquisition for white zones",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": "The 3% rural household home-internet figure has no urban split, so it is not a measure."
+}

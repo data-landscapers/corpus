@@ -21,9 +21,9 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 8 |
-| 2 Nascent | 21 |
+| 2 Nascent | 20 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 22 |
@@ -51,6 +51,13 @@ Rwanda's cabinet approved a National Data Sharing Policy in May 2025, and a unit
 
 - The document says the Data Governance Unit at the National Institute of Statistics of Rwanda has been established and serves as the operational arm of the public sector data sharing policy, with staff in place and projects started; it gives no establishment date, so the date used is the document's published date ([source, 2026-05-07](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
 - Cenfri's interview with NISR's Data Governance Project Lead says the policy is in place (the public sector data sharing policy), with implementation now the question; the document gives no approval date, so the date used is the document's published date ([source, 2026-05-07](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
+
+### Uganda: 4 Operating
+
+Uganda launched a national data strategy in October 2026 with a steering committee and data office; no rule under it is known.
+
+- The Minister of State for ICT and National Guidance launched the Uganda National Data Strategy in Kampala on 20 October 2026, with a costed implementation plan of sh1.6 trillion over five years ([source, 2026-10-20](https://www.newvision.co.ug/category/science/uganda-launches-national-data-strategy-NV_242720_102026)).
+- New Vision reports the strategy provides for a National Data Steering Committee chaired by the Finance ministry and a National Data Office within the ICT ministry to coordinate delivery ([source, 2026-10-20](https://www.newvision.co.ug/category/science/uganda-launches-national-data-strategy-NV_242720_102026)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -222,12 +229,6 @@ Tanzania's electronic data governance strategy was validated at a workshop in Ma
 Tunisia's national data strategy was a final draft in March 2026; whether the government has approved it is not known.
 
 - The Tunisian open data portal's news lists a 27 March 2026 workshop presenting and discussing the final version of the draft national strategy for data governance, opening and valorisation ([source, 2026-03-27](https://data.gov.tn/fr/)).
-
-### Uganda: 2 Nascent
-
-Uganda's ICT ministry said in December 2025 it is developing a national data strategy; nothing held says it has been approved.
-
-- The Ministry of ICT and National Guidance's permanent secretary said at a stakeholder engagement on 2026-03-12 or 13 that the government has ongoing efforts to establish a national data strategy to guide how data is governed, shared and used across government and the wider economy; the source gives no adoption or launch (published 2026-03-13, the event date being given only as that publication) ([source, 2026-03-13](https://ict.go.ug/media/news/ministry-engages-stakeholders-on-ugandas-national-emerging-technologies-strategy)).
 
 ### Angola: No evidence
 

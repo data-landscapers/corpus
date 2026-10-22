@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Diplo's profile says landlocked South Sudan has no submarine cable landing and its internet resilience depends on terrestrial fibre links to neighbours.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Terrestrial fibre links to neighbours",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

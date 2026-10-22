@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-tza-tanzania-launches-digital-library-system-as-mkenda-urges-board-to-prio",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Education Minister Adolf Mkenda launched the Integrated National Digital Library System, which handles member registration, ISBN and ISSN applications, lending and billing on web and mobile.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "iNDLS",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iNDLS",
+   "country_label": "Integrated National Digital Library System",
+   "class": "eservices",
+   "platform": "web and mobile app",
+   "owner": "Tanzania Library Services Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

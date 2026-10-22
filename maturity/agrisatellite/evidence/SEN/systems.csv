@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 SEN,Digital Earth Africa satellite data and analytical tools,Senegal,agrisat,Digital Earth Africa,Digital Earth Africa,,2026-04-03-digital-earth-africa-ansd-senegal-framework-agreement
 SEN,RIICE (Remote Sensing-based Information and Insurance for Crops in emerging Economies),Senegal,agrisat,"Sentinel-1A, Landsat 8/9, Sentinel-2, ORYZA crop model","IRRI, ISRA, sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
 SEN,SERVIR WA cropland mapping,Senegal,agrisat,Google Earth Engine,CSE / DAPSA,,2024-07-17-sen-modernizing-agricultural-monitoring-in-west-africa-using-earth-observa
+SEN,AgData Hub,AgData Hub,agrisat,"ANACIM servers, mobile app",ANACIM,"national, regional and local GTP",2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po

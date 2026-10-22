@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-tcd-tchad-le-plan-de-connexion-au-rseau-internet-mondial-prsent-au-gaids-s",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Chad's telecoms minister said at the Seoul summit that Chad has only one active international internet access, via Cameroon.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "international internet access via Cameroon",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

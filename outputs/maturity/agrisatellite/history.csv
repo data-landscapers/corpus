@@ -28,3 +28,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-21,BFA,data.satellite--agricultural-use-of-satellite-data,fact,2,4,BFA-004;BFA-005,"ANAM's ten-day agro-meteorological bulletin with NDVI, in service and published every ten days (Oct 2026); 2 to 4"
 2026-10-21,EGY,data.satellite--agricultural-use-of-satellite-data,fact,2,3,EGY-003,NARSS and agriculture ministry remote-sensing winter crop map for 2023-24 (Nov 2024): a service in use; 2 to 3
 2026-10-21,ZMB,data.satellite--agricultural-use-of-satellite-data,fact,2,3,ZMB-002,National Crop Monitor launched August 2024 with all ten provinces: a service in use; 2 to 3
+2026-10-22,SEN,data.satellite--agricultural-use-of-satellite-data,fact,2,4,SEN-003;SEN-004,"AICCRA: ANACIM's AgData Hub issues district-scale agro-climatic bulletins combining satellite observations, every ten days; 2 -> 4."

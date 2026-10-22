@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Ethio Telecom launched the teleSign app, developed with the Ministry of Foreign Affairs, the Ministry of Justice and the Federal Documents Authentication and Registration Service, for online document authentication, power of attorney and professional licences, with payment by telebirr.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "teleSign",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "teleSign",
+   "country_label": "teleSign",
+   "class": "eservices",
+   "platform": "Ethio Telecom cloud",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

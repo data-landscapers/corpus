@@ -477,6 +477,7 @@ NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
 NGA,NIBSS Instant Payment (NIP),Nigeria,retail,,NIBSS,,2026-07-26-nigeria-payment-vision-2028
 NGA,PAPSS,Nigeria,other,,,,2026-07-26-nigeria-payment-vision-2028
 NGA,Baxi,Nigeria,other,agent banking network,Onafriq,,2026-10-16-techcabal-onafriq-shuts-nigeria-agent-banking
+NGA,National Payment Stack (NPS),Nigeria,retail,"jPOS/jPTS (open source, Transactility)",NIBSS,,2026-10-21-nga-nibss-transactility-s-partnership-delivers-national-payment-stack
 RWA,eKash,Rwanda,retail,National Instant Payment System,National Bank of Rwanda,,2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers
 RWA,eKash,Rwanda,retail,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
 RWA,e-Kash,Rwanda,retail,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
@@ -494,6 +495,8 @@ RWA,mobile money,Rwanda,retail,,"MTN Rwanda, Airtel Rwanda",,2026-06-29-rura-ict
 RWA,MTN mobile money,Rwanda,retail,,MTN Rwanda,,2025-08-30-rwanda-loda-vup-digital-payments
 RWA,Airtel mobile money,Rwanda,retail,,Airtel Rwanda,,2025-08-30-rwanda-loda-vup-digital-payments
 RWA,mobile payments,Rwanda,retail,,,,2026-10-08-rwa-igihe-rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low
+RWA,MTN mobile money,Rwanda,retail,,MTN,,2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric
+RWA,Airtel Mobile Commerce Rwanda,Rwanda,retail,,Airtel,,2026-10-20-rwa-mobile-money-scams-persist-as-rwandas-digital-payments-surge-top-afric
 SDN,Baladna Bibasata,Sudan,other,USSD via MTN Sudan,Albalad Bank,,2026-10-06-sdn-alwijha24-albalad-bank-mtn-ussd-baladna-bibasata
 SDN,Bankak,Sudan,retail,banking app,,,2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur
 SDN,Future Bank application,Sudan,retail,banking app,Future Bank,,2026-09-15-sdn-sudantimes-dagalo-unified-cash-digital-prices-darfur
@@ -505,6 +508,7 @@ SDN,Bankak,Sudan,retail,bank app,Bank of Khartoum,,2026-09-10-sdn-dabanga-bankak
 SDN,Fawry,Sudan,retail,bank app,Faisal Islamic Bank,,2026-09-10-sdn-dabanga-bankak-outages-digital-payments
 SDN,Bankak,SDN,retail,mobile app,Bank of Khartoum,,2026-09-03-sudan-bankak-outage-pound-7000
 SDN,USSD mobile financial services,Sudan,retail,USSD,,,2026-03-31-cbos-ussd-financial-services-regulations
+SDN,SDPay,Sudan,other,EdfaPay,EdfaPay and GoPravo joint venture,,2026-10-21-sdpay-sudan-digital-payments
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
@@ -687,6 +691,8 @@ ZAF,PayShap,South Africa,retail,real-time payments,,,2026-08-01-no-plans-to-add-
 ZAF,PayShap,South Africa,retail,instant payments,PayInc,,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange
 ZAF,ZARP,South Africa,other,blockchain,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,ZARsc,South Africa,other,blockchain,,,2026-09-21-techcabal-local-stablecoins-use-case
+ZAF,PayShap,South Africa,retail,,,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
+ZAF,QR+,South Africa,other,,,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
 ZMB,MTN MoMo,Zambia,retail,mobile money,MTN Zambia,,2026-09-17-itweb-africa-momo-fnb-zambia-atm-cash-out
 ZMB,MTN MoMo,Zambia,retail,New MoMo app,MTN Zambia,,2026-03-04-momo-payments-on-zanaco-pos-launch
 ZMB,Zanaco POS and ATM network,Zambia,other,,Zanaco,,2026-03-04-momo-payments-on-zanaco-pos-launch

@@ -181,6 +181,7 @@ GAB,Réseau de l'Administration Gabonaise (RAG),RAG,staff,government fibre netwo
 GAB,VECTIS,VECTIS,other,budget execution system,Ministry of Budget,central level only; document says in-house capacities to manage it are limited,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,X-Gest,X-Gest,other,school management information system,Ministry of Education,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
 GAB,e-education applications,e-education,staff,applications developed and managed by private providers,Ministry of Education; ANINF support,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,Legislative Work Management Platform (GTLAN),GTLAN,other,,National Assembly,,2026-10-21-gabon-parliament-digital-platform
 GHA,Ghana Electronic Document Wallet (GEDW),Ghana Electronic Document Wallet Ecosystem,other,PKI-based digital credential layer,National Information Technology Agency (NITA),,2026-06-26-nita-gedw-stakeholder-engagement
 GHA,National Identification System,National Identification System (Ghana Card),staff,,National Identification Authority,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,National Identification System,"National Identification System (Ghana Card, National Identity Register)",staff,,National Identification Authority,,2021-10-05-nia-about-us-mandate-act-707
@@ -376,6 +377,7 @@ TZA,e-Office,e-Office,staff,,e-Government Authority,,2026-08-04-ega-tanzania-dig
 TZA,Tanzania Enterprise Service Bus (GovESB),GovESB,other,,,,2024-02-07-tanzania-ai-e-government-platforms
 TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone,other,,TTCL,,2026-07-23-ttcl-dit-nictbb-training
 TZA,e-Mrejesho,e-Mrejesho,other,"USSD *152*00#, mobile app, web",e-Government Authority,national,2024-07-05-tza-ega-e-mrejesho-un-public-service-award
+TZA,NeST,Tanzania,staff,e-procurement,Public Procurement Regulatory Authority,,2026-09-25-tza-nest-digital-procurement-world-bank
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGPass,UGPass,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature

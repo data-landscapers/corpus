@@ -13,3 +13,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SYC,dpi.exchange--national-data-exchange-system,fact,no evidence,1,SYC-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,dpi.exchange--national-data-exchange-system,fact,4,4,ZMB-010;ZMB-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-20,GHA,dpi.exchange--national-data-exchange-system,fact,unplaced,2,GHA-004;GHA-003,Stage 4c: two October 2026 sources have the ministry and NITA building a National Data Exchange Hub; restaged from every row held.
+2026-10-22,COD,dpi.exchange--national-data-exchange-system,fact,no evidence,2,COD-001,"Finance minister 3 Sep 2026: data warehouse interconnecting the three revenue agencies in place, two loaded; platform being built; no evidence -> 2."

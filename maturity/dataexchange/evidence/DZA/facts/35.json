@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-06-dza-mf-modernisation-douanes-alces",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The Ministry of Finance says a platform linking the customs system with other ministries' systems for a single window began trials in July 2024 with documents of the trade, agriculture and pharmaceutical industry ministries, to extend to other bodies in the first half of 2025.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Customs single-window interconnection platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

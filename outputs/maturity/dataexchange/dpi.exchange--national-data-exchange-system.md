@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 5 Leading | 3 |
 | 4 Operating | 4 |
 | 3 Established | 10 |
-| 2 Nascent | 19 |
+| 2 Nascent | 20 |
 | 1 Absent | 4 |
 | Unplaced | 3 |
-| No evidence | 11 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -160,6 +160,12 @@ A government data exchange platform was under way in 2026; none in service is on
 A government data exchange platform was under way in 2026; none in service is on record.
 
 - The ministry (MPTEN) says Congo is committing to develop a national digital architecture whose interoperability layer, X-Road, is to link the information systems of the Interior, Justice, Finance, Health and Higher Education ministries, with no stated go-live or connection count; the page has no date, so 2026-09 is its published date ([source, 2026-09](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
+
+### DR Congo: 2 Nascent
+
+A data warehouse linking the three revenue agencies was being loaded in 2026; whether it is in service across them is not known.
+
+- DRC finance minister Doudou Fwamba said on RTNC that a data warehouse interconnecting the three revenue agencies is in place, two of the three having loaded their data and the third due within a month, with the E-Finance programme (over US$150m, structured with Huawei) funding agency interconnection ([source, 2026-09-03](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux)).
 
 ### Djibouti: 2 Nascent
 
@@ -330,12 +336,6 @@ Nothing held names a government data exchange platform or says there is none, so
 Not established: Nothing held names a government data exchange platform, or says there is none.
 
 ### Chad: No evidence
-
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
-
-Not established: Nothing held names a government data exchange platform, or says there is none.
-
-### DR Congo: No evidence
 
 Nothing held names a government data exchange platform or says there is none, so no stage is set.
 

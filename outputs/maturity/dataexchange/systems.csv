@@ -52,6 +52,7 @@ CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-f
 COD,RDC-PASS,DRC,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,Guichet numérique,DRC,other,,,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,"Data-sharing platform (planned, Digital Transformation Project)",DR Congo,exchange,,"Ministry of Post, Telecommunications and Digital Affairs (MPTN) unit",,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
+COD,E-Finance programme data warehouse,DRC,exchange,data warehouse linking three revenue agencies,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
 COG,X-Road (interoperability layer of the national DPI architecture),Congo,exchange,X-Road,MPTEN,federated exchange between ministries,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,MOSIP (digital identity layer),Congo,other,MOSIP,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,Mojaloop (national payments switch),Congo,other,Mojaloop,MPTEN with BEAC supervision,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
@@ -108,6 +109,7 @@ EGY,Digital Egypt platform (منصة مصر الرقمية),Egypt,other,,Ministr
 EGY,digital identity app,Egypt,other,,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
 EGY,digital treasury,Egypt,other,Digital Egypt platform,Ministry of Communications and Information Technology,,2026-07-19-ahram-pm-presidential-directives-digital-transformation
 EGY,G2G digital hub,Egypt,exchange,,Ministry of Communications and Information Technology,,2025-07-17-egy-ahram-real-estate-registry-complex-alamein
+EGY,Egyptian Tax Authority real-time government data links,Egypt,exchange,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
 ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea (customs),,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ETH,national data exchange platform,Ethiopia,exchange,,Government of Ethiopia,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
 ETH,MESOB,Ethiopia,other,,Federal MESOB service,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
@@ -129,6 +131,7 @@ GHA,National Data Exchange Hub,Ghana,exchange,,"Ministry of Communication, Digit
 GHA,National Data Exchange Platform,National Data Exchange Platform,exchange,,NITA,,2025-10-23-gha-nita-data-harmonisation-bill-consultation
 GHA,National Data Exchange Hub,National Data Exchange Hub,exchange,,"Ministry of Communication, Digital Technology and Innovations; NITA",,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
+GHA,Smart Africa Data Exchange (SADX),Ghana,other,federated cross-border exchange pilot,Smart Africa Secretariat,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,Portail national e-service,Guinea,other,,Ministry of Administrative Modernisation,,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
 GIN,X-Road,Guinea,exchange,X-Road,ANDE,,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
@@ -164,11 +167,13 @@ LBR,e-Government procurement (e-GP) system,Liberia,other,,Public Procurement and
 LBR,National Identification Registry,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,Government Service Bus (GSB),Liberia,exchange,,Ministry of Finance and Development Planning (GREAT Project),,2026-02-13-liberia-great-project-procurement-plan
 LBR,National Data Center shared digital infrastructure,Liberia,other,,Ministry of Finance and Development Planning (GREAT Project),,2026-02-13-liberia-great-project-procurement-plan
+LBR,Government Service Bus,Government Service Bus,other,,government,,2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s
 LBY,Nawa (Government Service Bus),Libya,exchange,open-source Government Service Bus prototype,"General Information Authority with the Libyan Digital Innovation Lab, Expertise France and the EU E-NABLE project",,2026-06-30-lby-cjos-nawa-interoperability-platform
 LBY,Libyan National Data Exchange (LY-NDEX),Libya,exchange,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
 LBY,Libyan Digital National Identity (LY-DNID),Libya,other,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
 LBY,National Data Distributor,Libya,exchange,,General Information Authority,,2026-04-23-chambers-union-electronic-system-gia
 LBY,Electronic system of the Union of Chambers,Libya,other,,Union of Chambers,,2026-04-23-chambers-union-electronic-system-gia
+LBY,National Data Exchange (LY-NDEX),Libya,exchange,,,,2026-03-29-lby-chairman-of-the-general-authority-for-information-meets-with-the-minis
 LSO,X-Road,Lesotho,exchange,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,MOSIP,Lesotho,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 MAR,E-government interoperability platform,Morocco,exchange,Minsait,Agency for Digital Development (ADD),,2022-09-07-morocco-e-government-interoperability-platform
@@ -374,6 +379,7 @@ ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-10-03-nat
 ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-10-10-mzansixchange-launch
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2025-09-27-mzansixchange-pilot-programme
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26
+ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-10-21-sa-mymzansi-citizen-services-r150m
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,ZamConnect,Zambia,other,,,,2026-08-10-zambia-dzap-data-protection-compliance-system

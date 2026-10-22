@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-sdpay-sudan-digital-payments",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SDPay",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "EdfaPay",
+   "owner": "EdfaPay and GoPravo joint venture",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not state anything this study asks about this country."
+}

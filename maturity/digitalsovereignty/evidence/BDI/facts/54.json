@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-bdi-burundi-une-strategie-nationale-de-l-ia-adossee-a-six-piliers",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The national AI strategy validated on 22 April 2026 provides for developing sovereign cloud solutions alongside data centre modernisation.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Stratégie nationale sur l'intelligence artificielle 2025-2030",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

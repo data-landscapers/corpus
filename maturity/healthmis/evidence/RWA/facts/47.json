@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-digital-health-case-study",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Global Fund case study says Rwanda has a national health management information system (HMIS) to which community and laboratory data are linked, and that its investments in HMIS are delivering measurable results.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "national HMIS",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Global Fund case study says Rwanda's electronic community health information system (eCHIS) is linked to the national HMIS for surveillance of malaria, TB and HIV, and that laboratory information systems are interoperable with the HMIS and the Reagent Management System.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "national HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national HMIS",
+   "country_label": "Rwanda",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

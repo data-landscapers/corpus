@@ -36,6 +36,7 @@ BEN,Numero personnel d'identification (NPI),Benin,other,,ANIP,simple authenticat
 BEN,Preuve de Vie app,Preuve de Vie,other,mobile app and biometric kiosks,FNRB,,2026-10-17-ben-ecofin-preuve-de-vie-pensioners-app
 BEN,Smart Africa Data Exchange (SADX),Benin,other,SADX under the Smart Africa Trust Alliance,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 BEN,Smart Africa Data Exchange (SADX),SADX,authentication,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
+BEN,public key infrastructure,Benin,authentication,,,,2025-02-01-ben-benin-anticipating-the-impacts-of-artificial-intelligence-on-west-afri
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
@@ -67,6 +68,7 @@ CIV,RNPP / NNI,Cote d'Ivoire,other,,ONECI,,2026-01-20-maposte-app-postal-digital
 CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-20-maposte-app-postal-digital-id-biometricupdate
 CIV,RNPP / NNI,Cote d'Ivoire,other,,ONECI,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
 CIV,MaPoste,Cote d'Ivoire,other,,ONECI and La Poste de Cote d'Ivoire,,2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp
+CIV,public key infrastructure,Côte d'Ivoire,authentication,,,,2026-05-09-civ-cote-d-ivoire-is-betting-big-on-ai-and-facing-bigger-cyber-risks
 CMR,Family allowance birth-certificate census,Cameroon,other,,Ministry of Finance,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
 CMR,AILGLES,Cameroon,other,,Government of Cameroon,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
 CMR,SIGEC,Cameroon,other,,BUNEC with UNDP support,,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
@@ -190,6 +192,7 @@ ETH,INSA public key infrastructure (Root CA),Ethiopia,authentication,PKI data ce
 ETH,FaydaVerse,FaydaVerse (National ID),authentication,,FaydaVerse,,2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification
 ETH,teleSign,Ethiopia,other,mobile app and website,Ethio Telecom,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
 ETH,Fayda National Digital ID,Ethiopia,authentication,,,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
+ETH,Fayda,Ethiopia,authentication,,,,2026-10-21-eth-ethiopia-calls-for-data-driven-policymaking-to-accelerate-africas-progress
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -238,9 +241,11 @@ GHA,Ghana Card / National Identification System,GHA,other,Margins ID Group ident
 GHA,NIA verification system,NIA verification system,authentication,,National Identification Authority,,2026-10-18-gha-people-of-internet-biometric-sim-plan-data-safeguards
 GHA,Smart Africa Data Exchange (SADX),Ghana,other,SADX under the Smart Africa Trust Alliance,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
 GHA,Smart Africa Data Exchange (SADX),SADX,authentication,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
+GHA,Ghana Card online replacement portal,Ghana,other,register.nia.gov.gh,National Identification Authority,,2026-10-20-gha-nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countrie
 GIN,fichier électoral biométrique (DGE),Guinea,other,,DGE,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identité (RNPP),Guinea,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
+GIN,PKI (ANDE),Guinea,authentication,,ANDE,,2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier
 GMB,eCRVS (electronic Civil Registration and Vital Statistics),Gambia,other,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,National health insurance cards (NHIA),Gambia,other,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS (HERA),Gambia,other,WCC HERA,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
@@ -291,6 +296,7 @@ LBY,Banking eKYC integration with the Digital Identity Management System for Cit
 LBY,unified electronic national number system,Libya,other,electronic system,Civil Registry Authority,,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LBY,civil status system (منظومة الأحوال المدنية),Libya,other,,Civil Registry Authority,,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LBY,الرقم الوطني (national number),Libya,other,,,administrative numbers (issued 2014) distinct from the national number,2025-06-07-administrative-numbers-holders-anger-alwasat
+LBY,National Digital Identity Project (LY-DNID),Libya,other,,,,2026-03-29-lby-chairman-of-the-general-authority-for-information-meets-with-the-minis
 LSO,FinMark Trust Lesotho-South Africa cross-border identity verification pilot,Lesotho,other,,FinMark Trust,,2025-08-25-codevelop-sadc-cross-border-digital-identity-framework
 LSO,SADC cross-border DPI framework / federated eKYC ecosystem,Lesotho,other,,"SADC CCBG, Co-Develop, FinMark Trust",,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries"
 LSO,Lesotho digital identity card,Lesotho,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
@@ -430,6 +436,7 @@ NAM,e-ID card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and 
 NAM,e-ID,Namibia,other,,Ministry of Home Affairs,,2026-09-16-nam-nampa-government-targets-legal-identity-for-all-by-2030
 NAM,Electronic identity documents (EID),Namibia,authentication,app or smart card,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-03-16-namibia-expedites-electronic-ids-issuance-itweb
 NAM,Mobile ID prototype,NAM,authentication,mobile app,Ministry of Home Affairs,,2025-10-01-namibia-mobile-id-prototype-birth-registration
+NAM,DigiNam,Namibia,other,,Ministry of Information and Communication Technology,,2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill
 NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,public and private services requiring identification,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National des Nationalités (RNN),Niger,other,,Ministère de la justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
@@ -677,6 +684,7 @@ ZAF,national digital ID,South Africa,authentication,,Department of Home Affairs,
 ZAF,Online Verification Service (OVS),South Africa,other,,Department of Home Affairs,,2025-08-12-schreiber-digital-home-affairs
 ZAF,Health Patient Registration System (HPRS),South Africa,other,,National Department of Health,facilities,2025-08-01-zaf-pmg-nw4628-hprs-biometric
 ZAF,SASSA eKYC biometric verification,South Africa,authentication,,SASSA,,2025-07-01-zaf-pmg-nw3803-srd-biometric-verification
+ZAF,single digital ID for payments,South Africa,other,wallet controlled by the individual,SARB,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
 ZMB,FISP e-Voucher,Zambia,other,,Ministry of Agriculture,,2026-01-28-zambia-fisp-e-voucher-pdu
 ZMB,SmartCarePro Electronic Health Record System,Zambia,other,MOSIP integration,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
 ZMB,MOSIP-based eKYC system,Zambia,other,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration

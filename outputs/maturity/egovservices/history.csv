@@ -40,3 +40,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,dpi.govtech--e-government-services,fact,3,3,ZAF-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,dpi.govtech--e-government-services,review,no evidence,5,ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.govtech--e-government-services,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-22,ETH,dpi.govtech--e-government-services,fact,unplaced,2,ETH-005,Ethio Telecom launched the teleSign app for online document authentication on 30 Mar 2026; unplaced -> 2.

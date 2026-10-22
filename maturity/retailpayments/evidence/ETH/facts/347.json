@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-eth-ethiopia-calls-for-data-driven-policymaking-to-accelerate-africas-progress",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "President Taye Atske Selassie said mobile money and mobile banking accounts reached 257 million and processed more than ETB 24 trillion in the first nine months of 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

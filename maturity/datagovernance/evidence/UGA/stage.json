@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "2",
-      "standing": "draft",
-      "use": "",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "body",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-002",
-      "gaps": "No source held says a national data policy is adopted and still running.",
-      "note": "Counted from the four questions by study-ladder-datagovernance.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "UGA-005;UGA-006",
+      "gaps": "No source held says a rule or standard the strategy called for has been issued. The Uganda Bureau of Statistics called the launch illegal and redundant the next day.",
+      "note": "Fact 2026-10-20: the minister of state launched the National Data Strategy, which names a National Data Steering Committee and a National Data Office to carry it out; no rule under it is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

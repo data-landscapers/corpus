@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Senegal's health ministry said it operates a unified national platform based on DHIS2 for health information.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "national DHIS2 platform",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry said the national DHIS2 platform has been extended to epidemiological surveillance, human resources, the supply chain and maternal and perinatal death surveillance.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "national DHIS2 platform",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national DHIS2 platform",
+   "country_label": "Senegal",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Public Hygiene",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

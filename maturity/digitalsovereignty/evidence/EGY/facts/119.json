@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-egy-minister-ict-egypt-tops-africa-fixed-internet-speed-digital-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Raafat Hindy says achieving digital sovereignty rests on five pillars, starting with sovereign infrastructure, defined as the state's control of its infrastructure, data and strategic services.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "digital sovereignty pillars",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

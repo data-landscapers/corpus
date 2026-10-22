@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Huawei Namibia's chief technical officer said Phase II of the Universal Service Fund programme includes plans to establish nine network sites across five regions, and ICT Minister Emma Theofelus said government is working to extend broadband to underserved communities.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Universal Service Fund programme Phase II",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund programme Phase II",
+   "country_label": "Namibia",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

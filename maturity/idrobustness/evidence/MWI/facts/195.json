@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-mwi-malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digi",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "DMAP has procured 2,400 biometric registration kits for the National Registration Bureau.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "National Registration Bureau biometric registration",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -21,9 +21,9 @@ The African Space Strategy asks that space-derived products be used for decision
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 6 |
-| 2 Nascent | 37 |
+| 2 Nascent | 36 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 5 |
@@ -42,6 +42,13 @@ The meteorological agency publishes a ten-day satellite crop bulletin (2026); ho
 A farming service published satellite-based bulletins or maps on a schedule in 2024; how many farmers they reach is not on record.
 
 - UNCTAD says CropWatch work in Nigeria feeds a quarterly bulletin informing government policy, with the January to April 2024 bulletin reporting rainfall 64% below the 15-year norm ([source, 2024-04](https://unctad.org/news/harnessing-frontier-technology-food-security-nigeria)).
+
+### Senegal: 4 Operating
+
+The met agency issued satellite-based farm bulletins every ten days in 2025; how many farmers or districts receive them is not known.
+
+- AICCRA reports that ANACIM, which fully runs the AgData Hub since late 2025, now generates crop-specific, district-scale agro-climatic bulletins combining near-real-time forecasts, satellite observations and seasonal outlooks ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
+- AICCRA says the multidisciplinary working group coordinated by ANACIM publishes an agrometeorological bulletin at the end of each ten-day period, now produced in the AgData Hub app ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
 
 ### South Africa: 4 Operating
 
@@ -269,13 +276,6 @@ Satellite data was being put to use in farming in 2026; a service in use is not 
 
 - A national program managed by the Rwanda Space Agency will use Planet's near-daily satellite data to monitor agriculture and food security, as announced by Planet and the Government of Rwanda ([source, 2026-08-10](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1)).
 - The Rwanda Space Agency's GeoHub, supported by an AFD-backed project, uses satellite images to support sectors including agriculture, and geospatial data is already used to build climate projections informing agriculture and food security policy, per the interweave newsletter ([source, 2024-09-30](https://interweavegov.substack.com/p/rwandas-digital-transformation-an)).
-
-### Senegal: 2 Nascent
-
-Satellite data was being put to use in farming in 2026; a service in use is not on record.
-
-- Digital Earth Africa says it signed a five-year framework agreement in February 2026 with Senegal's national statistics agency ANSD to bring satellite data into agricultural statistics, developing methods to calculate cropped area, crop types and seasonal yields and giving crop-mapping support for rice, groundnut, millet and maize ([source, 2026-02](https://digitalearthafrica.org/en_za/de-africa-and-senegals-ansd-partner-to-bring-satellite-data-into-national-statistics/)).
-- IRRI says it, the Senegalese agricultural research institute ISRA and sarmap piloted the RIICE platform using Sentinel-1A, Landsat 8/9 and Sentinel-2 data to map rice area, track cropping seasons and simulate yields in Senegal's rice regions ([source, 2025-10-06](https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security)).
 
 ### Sierra Leone: 2 Nascent
 

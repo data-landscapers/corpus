@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "unplaced",
-      "services": "",
+      "stage": "2",
+      "services": "underway",
       "gateway": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether government services can be used online.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ETH-005",
+      "gaps": "No source held dated inside the window counts ten or more services online; the MESOB rows are dated to the year 2026 only, which stands for its last day.",
+      "note": "Fact 2026-03-30: Ethio Telecom launched the teleSign app for online document authentication, a service that can be applied for online; no dated count of ten or more services is held.",
+      "as_at": "2026-10-22"
     }
   ]
 }

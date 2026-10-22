@@ -23,9 +23,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 | 5 Leading | 4 |
 | 4 Operating | 5 |
 | 3 Established | 14 |
-| 2 Nascent | 22 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
+| Unplaced | 8 |
 | No evidence | 0 |
 
 ## Countries
@@ -211,6 +211,12 @@ Government services were going online in 2024; ten or more online are not on rec
 
 - The Eritrean embassy in the USA launched on 24 September 2024 the Consular Affairs Processing System (CAPS), built by the Ministry of Foreign Affairs, through which consular services including ID card, entry visa and passport renewal applications are begun online ([source, 2024-09-24](https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf)).
 
+### Ethiopia: 2 Nascent
+
+An app for applying for document authentication online was launched in 2026; a dated count of ten or more services online is not known.
+
+- Ethio Telecom launched the teleSign app, developed with the Ministry of Foreign Affairs, the Ministry of Justice and the Federal Documents Authentication and Registration Service, for online document authentication, power of attorney and professional licences, with payment by telebirr ([source, 2026-03-30](https://www.ena.et/web/eng/w/eng_8578538)).
+
 ### Gabon: 2 Nascent
 
 Government services were going online in 2025; ten or more online are not on record.
@@ -340,12 +346,6 @@ Nothing held since 2023 names government services online, so no stage is set.
 Not established: Nothing held since October 2023 says whether government services can be used online.
 
 ### Equatorial Guinea: Unplaced
-
-Nothing held since 2023 names government services online, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether government services can be used online.
-
-### Ethiopia: Unplaced
 
 Nothing held since 2023 names government services online, so no stage is set.
 

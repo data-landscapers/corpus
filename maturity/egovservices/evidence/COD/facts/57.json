@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-25-cod-drc-the-government-adopts-the-information-system-for-monitoring-govern",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SISAG",
+   "country_label": "COD",
+   "class": "other",
+   "platform": "",
+   "owner": "Digital Development Agency (ADN) for the Ministry of Planning",
+   "tiers": ""
+  }
+ ],
+ "note": "SISAG is an internal platform for monitoring government programmes, not a service people can complete online."
+}

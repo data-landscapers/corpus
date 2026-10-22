@@ -2,7 +2,7 @@
 
 ## Fibre routes to the rest of the world
 
-**One route, two, and two independent.** [Africa Business Insight reports that until 2023 South Sudan depended primarily on a single international connectivity route through Uganda, itself without direct submarine cable access, citing a 2023 World Bank diagnostic](<https://africabusinessinsight.com/central-african-republic-seeks-new/>). These place one international fibre route in service, which answers the first of the study's four questions. A second route in service is not stated. Bandwidth is given where a source states it; bandwidth sets no stage.
+**One route, two, and two independent.** [Africa Business Insight reports that until 2023 South Sudan depended primarily on a single international connectivity route through Uganda, itself without direct submarine cable access, citing a 2023 World Bank diagnostic](<https://africabusinessinsight.com/central-african-republic-seeks-new/>). [Diplo's country profile says South Sudan has no submarine cable landing of its own and depends on terrestrial fibre links to its neighbours](<https://dig.watch/countries/south-sudan>). These place one international fibre route in service, which answers the first of the study's four questions. A second route in service is not stated. Bandwidth is given where a source states it; bandwidth sets no stage.
 
 **Capacity sold to other operators.** Nothing held says other operators buy capacity on [these routes](<https://africabusinessinsight.com/central-african-republic-seeks-new/>), or that they run on open-access or wholesale terms. Capacity counts as sold where operators other than the owner buy it at the landing station or on the cable, or where either runs on open-access or regulated wholesale terms.
 

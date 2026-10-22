@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-03-moz-mocambique-dhis2-clima-e-saude",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DHIS2 says the Ministry of Health officially adopted DHIS2 in 2015 as the national health management information system, known as SISMA, the integrated platform for routine data of all health programmes, covering 161 districts.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "SISMA",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SISMA (DHIS2)",
+   "country_label": "Mozambique",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "iMISS",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "National Malaria Control Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

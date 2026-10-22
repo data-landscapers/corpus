@@ -52,11 +52,13 @@ GHA,Ghana Agricultural Information and Monitoring System,Ghana,other,satellite i
 GHA,National Forest Monitoring System,Ghana,other,,,,2026-08-10-myjoyonline-bigdata-ghana-decision-problem
 GHA,GEOMAIZE,GEOMAIZE,agrisat,,Ghana Space Science and Technology Institute with VITO,,2026-03-17-gha-geoglam-geomaize-yield
 GHA,CLIMTAG Ghana dashboard,Ghana,agrisat,VITO CLIMTAG,"VITO for World Bank FSRP, used by MoFA and GMet",,2025-07-25-gha-esa-gda-eo-tools-fsrp-climtag
+GHA,Ghana Agriculture and Agribusiness Platform (GhAAP),Ghana,other,,Ministry of Food and Agriculture,,2024-03-21-gha-gna-mofa-pfj2-satellite-farm-monitoring
 GIN,Atlas du Zonage Agro-Ecologique de la Guinee,Guinea,agrisat,atlas,"ANASA, Cirad, IGN FI",,2023-04-01-gin-anasa-atlas-zonage-agro-ecologique
 GMB,ROOTS geospatial platform,The Gambia,agrisat,geospatial monitoring platform,"Government of The Gambia (ROOTS project, IFAD-supported, FAO technical support)",national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
 GMB,National Land Cover Reference System (NLCRS),The Gambia,agrisat,land cover classification and map,FAO with Gambian partners,national,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia
 GMB,Gambia GeoLab,Gambia,agrisat,Google Earth Engine,"FAO, ROOTS project",,2025-12-09-gmb-fao-gambia-geolab-geo-for-good
 GMB,Digital Farming platform (Google Earth Engine app),Gambia,agrisat,Google Earth Engine,Department of Water Resources (planned hand-over),,2024-01-01-gmb-weather-impact-dcas-gee-platform
+GMB,Gambia Google Earth Engine web platform,The Gambia,other,Google Earth Engine,Department of Water Resources,,2025-09-02-gmb-gca-p2rs-gee-climate-advisory-platform
 GNB,FAO/GIEWS Earth Observation for Crop Monitoring,Guinea-Bissau,agrisat,,FAO GIEWS,,2026-02-06-fao-giews-country-brief-guinea-bissau
 GNB,Bulletin de suivi de la saison pluvieuse,Guinée-Bissau,agrisat,"Google Earth Engine, ArcGIS Pro",WFP Guinea-Bissau,,2025-08-01-wfp-guine-bissau-bulletin-suivi-saison-pluvieuse-aout-2025
 GNB,GTP bulletin,Guinea-Bissau,agrisat,,INM-led working group,,2026-08-27-gnb-capacitacao-dos-quadros-de-sistemas-de-informacao-da-guine-bissau-sobr
@@ -83,6 +85,7 @@ MDG,Cimopolée,Madagascar,other,open-source web application using Sentinel-1 and
 MLI,RIICE,Mali,agrisat,RIICE digital platform,"AfricaRice, IRRI, sarmap with Ministry of Agriculture, IER, Mali-Meteo",national,2026-05-14-aiccra-institutionnalisation-outil-riice-mali
 MLI,MaliDMS,Mali,agrisat,"WaPOR, Google Earth Engine",Direction Nationale de l'Agriculture (planned),,2025-10-01-mli-drought-monitoring-mali-tool-series
 MLI,WaPOR drought monitoring platform,Mali,agrisat,WaPOR,Direction Nationale de l'Agriculture,,2024-03-21-mli-iwmi-dna-wapor-drought-monitoring-platform-workshop
+MLI,Weather Impact / OKO SMS weather alerts and index insurance,Mali,other,SMS,Weather Impact (Netherlands) and OKO,,2025-01-01-mli-weather-alerts-and-insurance-for-resilient-farmers-in-mali
 MOZ,Statistics from Space project,Mozambique,agrisat,"EO-based sampling frame, smartphone field-data app, cloud aggregation and visualization platform","University of Twente, Universidade Eduardo Mondlane, IFPRI (CGIAR)","pilot provinces Gaza, Manica, Zambezia",2026-06-10-cgiar-statistics-from-space-mozambique
 MRT,MISBAR,Mauritanie,agrisat,,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
 MRT,MISLAND-Mauritanie,Mauritanie,agrisat,national servers,"CUCT, Universite de Nouakchott, with OSS",,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre
@@ -123,6 +126,7 @@ SDN,Giga Project Connect,Sudan,other,,Giga (UNICEF and ITU),,2026-08-10-omdena-g
 SEN,Digital Earth Africa satellite data and analytical tools,Senegal,agrisat,Digital Earth Africa,Digital Earth Africa,,2026-04-03-digital-earth-africa-ansd-senegal-framework-agreement
 SEN,RIICE (Remote Sensing-based Information and Insurance for Crops in emerging Economies),Senegal,agrisat,"Sentinel-1A, Landsat 8/9, Sentinel-2, ORYZA crop model","IRRI, ISRA, sarmap",,2025-10-06-irri-isra-riice-senegal-rice-satellite-monitoring
 SEN,SERVIR WA cropland mapping,Senegal,agrisat,Google Earth Engine,CSE / DAPSA,,2024-07-17-sen-modernizing-agricultural-monitoring-in-west-africa-using-earth-observa
+SEN,AgData Hub,AgData Hub,agrisat,"ANACIM servers, mobile app",ANACIM,"national, regional and local GTP",2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po
 SLE,Coordination and Visualization Platform (CVP),Sierra Leone,other,,DSTI and Catholic Relief Services,,2026-06-30-dsti-crs-geospatial-data-mou
 SLE,Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System,Sierra Leone,other,,,,2026-06-10-sierra-leone-gcf-sap033-climate-information-systems-faa-effective
 SLE,GeoApp/EADPAD,Sierra Leone,other,"ArcGIS Pro, tablets, satellite imagery",Statistics Sierra Leone,,2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed

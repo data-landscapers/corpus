@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-ben-benin-anticipating-the-impacts-of-artificial-intelligence-on-west-afri",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The ministry lists a public key infrastructure among the digital infrastructure Benin has established since 2016.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "public key infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "public key infrastructure",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

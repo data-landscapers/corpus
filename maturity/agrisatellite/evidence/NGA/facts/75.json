@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-nga-edo-data-for-governance-project",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Data Science Nigeria says the Gates-funded Edo State Data Governance platform includes an NDVI and geospatial mapping component giving satellite-driven agricultural monitoring and land-use insights to the state Ministry of Agriculture (subnational, Edo State).",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Edo Data Governance platform (NDVI geospatial component)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

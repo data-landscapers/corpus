@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-20-moz-ministerial-roundtable-on-the-role-of-science-technology-and-innovatio",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The statement says the Universal Access Service Fund (FSAU) is an initiative to provide broadband internet in rural areas, especially district headquarters, through projects including Rural Connectivity and Internet in Schools; no sites counted.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "Universal Access Service Fund (FSAU)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

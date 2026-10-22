@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Chatbot WhatsApp OBR",
+   "country_label": "Chatbot WhatsApp OBR",
+   "class": "other",
+   "platform": "WhatsApp",
+   "owner": "OBR",
+   "tiers": ""
+  }
+ ],
+ "note": "A WhatsApp chatbot giving tax and customs information and referrals; no transaction can be completed through it."
+}

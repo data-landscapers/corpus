@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-21-gha-gna-mofa-pfj2-satellite-farm-monitoring",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Ghana News Agency quotes the Ministry of Food and Agriculture's public relations officer saying the ministry will deploy satellite surveillance capturing each enrolled Planting for Food and Jobs II farm twice daily to monitor planting and crop germination.",
+   "as_of": "2024-03-21",
+   "date_precision": "day",
+   "system": "PFJ II satellite farm monitoring",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Agriculture and Agribusiness Platform (GhAAP)",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Food and Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

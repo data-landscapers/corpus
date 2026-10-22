@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Egyptian Tax Authority head Rasha Abdel Aal said the authority has full integration and real-time data exchange with 15 government bodies, including customs, insurance, the commercial register, financial regulation and investment.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Egyptian Tax Authority real-time government data links",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The same links connect the tax authority to 15 government bodies, with a first-phase target of 37 and a final target of about 74.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Egyptian Tax Authority real-time government data links",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egyptian Tax Authority real-time government data links",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

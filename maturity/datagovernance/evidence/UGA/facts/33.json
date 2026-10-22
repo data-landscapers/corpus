@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-uga-independent-ubos-rejects-national-data-strategy",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Independent reports that the Ministry of ICT and National Guidance launched a multi-year National Data Strategy on 20 October 2026, which the Uganda Bureau of Statistics rejected the next day as illegal and redundant.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "National Data Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Strategy",
+   "country_label": "Uganda",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

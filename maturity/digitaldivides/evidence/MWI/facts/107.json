@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-mwi-malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digi",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Under DMAP, safeguards assessments are complete for over 500 public institutions earmarked for connectivity and 100 telecom towers planned for rural and underserved communities.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Digital Malawi Acceleration Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

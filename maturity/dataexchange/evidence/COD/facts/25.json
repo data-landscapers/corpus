@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-cod-7sur7-tva-e-finance-huawei",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "DRC finance minister Doudou Fwamba said on RTNC that a data warehouse interconnecting the three revenue agencies is in place, two of the three having loaded their data and the third due within a month, with the E-Finance programme (over US$150m, structured with Huawei) funding agency interconnection.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "data warehouse for interconnecting the revenue agencies / E-Finance",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Finance programme data warehouse",
+   "country_label": "DRC",
+   "class": "exchange",
+   "platform": "data warehouse linking three revenue agencies",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

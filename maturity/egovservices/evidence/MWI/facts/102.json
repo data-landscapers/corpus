@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-mwi-malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digi",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "DMAP describes the Bomalathu eService Portal as a one-stop national platform letting citizens access government services online.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Bomalathu eService Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

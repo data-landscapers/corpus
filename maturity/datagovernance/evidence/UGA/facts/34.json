@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-20-uga-newvision-uganda-launches-national-data-strategy",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Minister of State for ICT and National Guidance launched the Uganda National Data Strategy in Kampala on 20 October 2026, with a costed implementation plan of sh1.6 trillion over five years.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Uganda National Data Strategy",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "New Vision reports the strategy provides for a National Data Steering Committee chaired by the Finance ministry and a National Data Office within the ICT ministry to coordinate delivery.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Uganda National Data Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uganda National Data Strategy",
+   "country_label": "Uganda National Data Strategy",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-eth-ethiopia-calls-for-data-driven-policymaking-to-accelerate-africas-progress",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "President Taye Atske Selassie said Fayda, the national digital ID programme, enables secure electronic verification.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

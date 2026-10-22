@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-gabon-parliament-digital-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Legislative Work Management Platform (GTLAN)",
+   "country_label": "GTLAN",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly",
+   "tiers": ""
+  }
+ ],
+ "note": "ANINF is only said to train and support MPs; the document does not say it builds or runs GTLAN or other ministries' systems."
+}
