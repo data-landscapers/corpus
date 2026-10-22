@@ -1,5 +1,6 @@
 ## 22 October 2026
 
+- The Process Inventory is brought up to date: it now covers the maturity assessment, the datasets, budget reading and deploy checks, and its counts and file names match the system as it runs. Two retired descriptions, of budget handling and of how the two sides exchange notes, are corrected.
 - The Methodology pages' menu now lists the page you are on, in black, and the Maturity Assessment methodology and Table Metadata pages carry the same menu. Every page in the section can be reached from every other, and each carries an ⓘ describing the section's pages.
 - Topics and Catalogue now carry the ⓘ button in place of their explanatory text. Topics fits more of the taxonomy on the first screen, and the Catalogue's downloads sit on one line, with Metadata opening the field descriptions page.
 - On laptop screens the Maturity Assessment's header, menu bar and footer were drawn smaller than on every other page. They now match the rest of the site; the map keeps its compact size.

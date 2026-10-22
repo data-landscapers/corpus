@@ -136,7 +136,7 @@
       <a href="../../datasets/metadata/">Table Metadata</a>
       </nav>
       <h2 id="introduction">Introduction</h2>
-      <p>Corpus is run by written procedure. Every step below is a markdown file - an instruction document a language model reads and follows - or a Python script that checks or renders what those steps produced. The table below contains an inventory of processes, in the order the work happens: collection first, then classification and storage, then the reports, then the checks that run before anything is published.</p>
+      <p>Corpus is run by written procedure. Every step below is a markdown file - an instruction document a language model reads and follows - or a Python script that checks or renders what those steps produced. The table below lists the processes in the order the work happens: collection first, then classification and storage, then the reports and datasets, then the checks that run before anything is published.</p>
       <p>Two repositories are involved and the split is visible in the file names. Collection and classification run on the private machine that holds the source text; everything from <em>Notice a cycle has closed</em> onwards runs on a second machine using the metadata the first machine has stored. The collection side's files are published at <a href="https://github.com/data-landscapers/osint-process" target="_blank" rel="noopener">data-landscapers/osint-process</a>; the publishing side's at <a href="https://github.com/data-landscapers/corpus" target="_blank" rel="noopener">data-landscapers/corpus</a>. <a href="../document-lifecycle/">Document Lifecycle</a> is the same system told as a story, following one document from a Somali news site to three published reports.</p>
       <h2 id="the-processes">The processes</h2>
       <table>
@@ -151,7 +151,7 @@
       <tr>
       <td><strong>Decide what this cycle looks for</strong></td>
       <td><code>SWEEP-<wbr>CYCLE.md</code></td>
-      <td>Orchestrates a collection run, currently started by hand but due to be automated. Runs one test search first and abandons the run if the search service (Exa) is down. Selects the least-recently-run day from a rotation, passes that day's sweeps their collection window, runs them, then ingest, then the checks, committing at each boundary.</td>
+      <td>Orchestrates a collection run, started by hand. Runs one test search first and abandons the run if the search service (Exa) is down. Selects the least-recently-run day from a rotation, passes that day's sweeps their collection window, runs them, then ingest, then the checks, committing at each boundary.</td>
       </tr>
       <tr>
       <td><strong>Sweep the standing list of trade journals</strong></td>
@@ -179,6 +179,11 @@
       <td>Four standing research briefs per country - non-state finance, governance, data exchange, demand and political economy - for the institutional depth the news sweeps pass over. The regional sweep runs two loops: regional institutions (their programmes, relationships, financing and the critique of them), and the regions themselves (policy coordination, legal harmonisation, shared infrastructure).</td>
       </tr>
       <tr>
+      <td><strong>Collect each country's budget documents</strong></td>
+      <td><code>BUDGET-<wbr>COLLECT.md</code></td>
+      <td>Fetches one country's budget documents for three fiscal years - estimates, appropriation acts, annexes - and catalogues them as sources. It does not read them for figures; that is <em>Read a national budget</em>, on the publishing side.</td>
+      </tr>
+      <tr>
       <td><strong>Refuse a bad origin before fetching it</strong></td>
       <td><code>wiki/<wbr>origin-<wbr>screen.md</code></td>
       <td>Screens <em>where</em> an item came from against an adjudicated drop list, matched on the registrable domain. Called twice: once by the sweep, to stop the fetch, and again at ingest, to catch anything that arrived another way. A single sighting of a hostile pattern puts a domain on watch; a second adjudicates it.</td>
@@ -191,17 +196,12 @@
       <tr>
       <td><strong>Fill today's half of the bulletin window</strong></td>
       <td><code>SWEEP-<wbr>BULLETIN.md</code></td>
-      <td>A late-morning top-up, also currently hand-started, to keep the <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a> up to date. The overnight cycle supplies yesterday and nothing of today; this sweeps today only.</td>
+      <td>A late-morning sweep of today only, started by hand, to keep the <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a> up to date. The overnight cycle supplies yesterday and nothing of today.</td>
       </tr>
       <tr>
       <td><strong>Admit, reject or route each candidate</strong></td>
       <td><code>INGEST.md</code> (Phase A)</td>
       <td>The only door into the archive. One of four dispositions per item: <strong>admitted</strong>; turned into a <strong>contradiction</strong> brief; turned into an <strong>acquisition</strong> line; or <strong>deleted</strong>. Out-of-scope material is rejected and deleted rather than parked — there is no holding folder.</td>
-      </tr>
-      <tr>
-      <td><strong>Handle a budget document</strong></td>
-      <td><code>INGEST.md</code> fifth route, <code>BUDGET-<wbr>EXTRACT.md</code></td>
-      <td>Estimates volumes, appropriation acts and budget annexes go to a separate staging tree with a manifest row, for structured extraction rather than summary. A budget figure is recorded at its stage: proposed, appropriated, released, executed, audited. Currently waiting further development.</td>
       </tr>
       <tr>
       <td><strong>Refuse a duplicate without re-reading the corpus</strong></td>
@@ -226,12 +226,12 @@
       <tr>
       <td><strong>Hold the vocabularies</strong></td>
       <td><code>lookups/<wbr>countries.csv</code>, <code>lookups/<wbr>taxonomy.md</code>, <code>wiki/<wbr>facets.md</code></td>
-      <td>54 countries and 8 region codes as a single-parent tree so totals roll up by walking parents; 10 categories and 36 topics, also single-parent, with cross-listing done by multi-tagging a document rather than by giving a topic two parents. A value outside a vocabulary is rejected.</td>
+      <td>54 countries and 8 region codes as a single-parent tree so totals roll up by walking parents; 10 categories and 40 topics, also single-parent, with cross-listing done by multi-tagging a document rather than by giving a topic two parents. A value outside a vocabulary is rejected.</td>
       </tr>
       <tr>
       <td><strong>Keep the compiled pages readable</strong></td>
       <td><code>wiki/<wbr>places/</code>, <code>wiki/<wbr>concepts/</code>, <code>wiki/<wbr>intersections/</code>, <code>LINT.md</code> #8</td>
-      <td>Three page types over the same evidence: 62 place hubs, 38 topic pages, and currently 599 place × topic intersections minted where the volume of a country's material on a topic has earned one.</td>
+      <td>Three page types over the same evidence: 62 place hubs, 40 topic pages, and currently some 1,900 place × topic intersections, each minted where the volume of a country's material on a topic has earned one.</td>
       </tr>
       <tr>
       <td><strong>File it and record the disposition</strong></td>
@@ -240,7 +240,7 @@
       </tr>
       <tr>
       <td><strong>Bring in historical material without treating it as news</strong></td>
-      <td><code>INGEST.md</code> backfill lane, <code>BACKFILL.md</code></td>
+      <td><code>INGEST.md</code> backfill lane</td>
       <td>A separate lane for baseline material staged deliberately: mechanical de-duplication only, and no claim sentence, because an older document arriving late is a baseline and not a development. Everything else about admission is unchanged.</td>
       </tr>
       <tr>
@@ -274,14 +274,14 @@
       <td>Around thirty checks, the incremental ones over each run's new records and the whole-corpus ones at the close. Most have one correct action and lint takes it: fill a missing field, correct a slug to its controlled value, rename a file whose date prefix is wrong, rewire a dead link, recover a real document URL behind a bare domain, re-date a stale figure or write the absence.</td>
       </tr>
       <tr>
+      <td><strong>Keep the repository honest about its own coverage</strong></td>
+      <td><code>LINT.md</code> #23, #30, #32</td>
+      <td>Reports a place bar leak — a record accounted for by no place — with a floor of zero. Nominates a region code where three or more of a region's countries appear without one, as a candidate for a person to rule on rather than a fix.</td>
+      </tr>
+      <tr>
       <td><strong>Age out the worklists</strong></td>
       <td><code>PRUNE.md</code></td>
       <td>One place for every retention rule: which registers, logs and manifests are cleared, after how long, and by which pass. Closed work is deleted rather than kept as an archive.</td>
-      </tr>
-      <tr>
-      <td><strong>Keep the repository honest about its own coverage</strong></td>
-      <td><code>LINT.md</code> #23, #32, #30</td>
-      <td>Reports a place bar leak — a record accounted for by no place — with a floor of zero. Nominates a region code where three or more of a region's countries appear without one, as a candidate for a person to rule on rather than a fix.</td>
       </tr>
       <tr>
       <td><strong>Keep going until the queues are empty</strong></td>
@@ -296,7 +296,7 @@
       <tr>
       <td><strong>Notice a cycle has closed</strong></td>
       <td><code>scripts/<wbr>osint-<wbr>cycle-<wbr>ready.py</code>, <code>CYCLE.md</code></td>
-      <td>Detects a closed collection cycle with no build since, and runs the build and the render as one job. The run opens by working through whatever notes the collection side has left for it, so a correction asked for since the last close lands in this build rather than the next one. Every close earns a build; a hold file suspends it while someone is working, and a skipped close is covered whole by the next one, because the build works off a set difference rather than a date.</td>
+      <td>Detects a closed collection cycle with no build since, and runs the build and the render as one job. The run opens by working through the notes the collection side has left for it, so a correction asked for since the last close lands in this build rather than the next one. Every close earns a build; a hold file suspends it while someone is working, and a skipped close is covered whole by the next one, because the build works off a set difference rather than a date.</td>
       </tr>
       <tr>
       <td><strong>Check the evidence before building on it</strong></td>
@@ -310,18 +310,33 @@
       </tr>
       <tr>
       <td><strong>Decide whether a document moves a position</strong></td>
-      <td><code>BUILD.md</code> stage 4, <code>REPORT-<wbr>UPDATE.md</code>, <code>documentation/<wbr>report-<wbr>layer.md</code></td>
+      <td><code>BUILD.md</code> stage 4, <code>REPORT-<wbr>UPDATE.md</code></td>
       <td>Lists the sources a country's ledger has not yet considered — a set difference over identifiers, so an interrupted run resumes cleanly — and reads each against the ledger. Four outcomes: a row moves, a row is minted, a <em>Not held</em> row is settled, or nothing moves. Most sources report activity rather than movement, and nothing moves; that is the normal case.</td>
       </tr>
       <tr>
       <td><strong>Map it into the fixed frame of questions</strong></td>
       <td><code>lookups/<wbr>indicators.csv</code> (the frame), <code>outputs/<wbr>reports/<wbr>{unit}/<wbr>indicators.csv</code> (the country's answers)</td>
-      <td>121 indicators asked of every country, so a progress report is shaped by the frame and not by whichever records accumulated. An indicator the country's file does not answer is rendered <em>No evidence</em>. A ledger row that moves without being mapped would leave the progress report stating a position the repository no longer holds.</td>
+      <td>115 indicators asked of every country, so a progress report is shaped by the frame and not by whichever records accumulated. An indicator the country's file does not answer is rendered <em>No evidence</em>. A ledger row that moves without being mapped would leave the progress report stating a position the repository no longer holds.</td>
       </tr>
       <tr>
       <td><strong>Ask whether the standing account changed</strong></td>
       <td><code>REPORT-<wbr>UPDATE.md</code> → <em>Maintaining the status baseline</em>, <code>STATUS-<wbr>INIT.md</code></td>
       <td>The status report is the baseline all news is read against, and for most countries it has been authored from sources the repository will never hold. Once authored it is revised in place and never re-rendered from the ledger — a rebuild would destroy it while reporting success. Where borderline evidence conflicts, the section stands: an error in the baseline is invisible and propagates, a gap is visible and gets filled.</td>
+      </tr>
+      <tr>
+      <td><strong>Keep the maturity assessment current</strong></td>
+      <td><code>BUILD.md</code> stage 4c, <code>MATURITY-<wbr>UPDATE.md</code>, <code>scripts/<wbr>study-<wbr>update.py</code></td>
+      <td>Each indicator is studied once, all 54 countries against one five-stage ladder whose criteria come from a norm stated in an African Union instrument. Each night the new arrivals are read for dated facts that bear on a study, and a fact that could move a country's stage has the stage reassessed. Three indicators a night are also rebuilt whole and searched for what they do not hold.</td>
+      </tr>
+      <tr>
+      <td><strong>Keep the datasets current</strong></td>
+      <td><code>BUILD.md</code> stage 4b, <code>DATASET-<wbr>UPDATE.md</code></td>
+      <td>The same set difference as stage 4, over a dataset instead of a ledger: each new record that may bear on Data Centres is read and the table amended. The Institution Hosting table comes from a separate scan of where public institutions' websites, mail and name servers are hosted.</td>
+      </tr>
+      <tr>
+      <td><strong>Read a national budget</strong></td>
+      <td><code>BUDGET-<wbr>EXTRACT.md</code>, <code>scripts/<wbr>budget_source.py</code></td>
+      <td>One country-year at a time, reads the digital-transformation lines out of the state's own budget document, with a citation on every row and each figure recorded at its stage: proposed, appropriated, revised, actual, audited. The build merges the file into the National Budgets dataset, where a country-year read this way replaces whatever the news records said about that year.</td>
       </tr>
       <tr>
       <td><strong>Review each place's reports whole, about once a month</strong></td>
@@ -336,7 +351,7 @@
       <tr>
       <td><strong>Roll country reports into topic reports</strong></td>
       <td><code>scripts/<wbr>topic-<wbr>render.py</code></td>
-      <td>Two documents for each Level-2 topic, whose sections are the countries, carrying each country's material for that topic. Nothing is authored here; the ordering — countries first, topics after — is what keeps them from going stale.</td>
+      <td>Two documents for each topic, whose sections are the countries, carrying each country's material for that topic. Nothing is authored here; the ordering — countries first, topics after — is what keeps them from going stale.</td>
       </tr>
       <tr>
       <td><strong>Write the bulletin</strong></td>
@@ -355,8 +370,8 @@
       </tr>
       <tr>
       <td><strong>Publish the pages</strong></td>
-      <td><code>scripts/<wbr>home.py</code>, <code>country.py</code>, <code>region.py</code>, <code>topic-<wbr>page.py</code>, <code>catalogue.py</code>, <code>finance.py</code>, <code>methodology.py</code></td>
-      <td>The home page and its country and topic matrices, each country's and each region's page and finance table, the searchable catalogue of every record held, the all-Africa finance landing, and these methodology pages. Counts on every page are drawn from the same catalogue, so they cannot disagree.</td>
+      <td><code>scripts/<wbr>home.py</code>, <code>country.py</code>, <code>region.py</code>, <code>topic-<wbr>page.py</code>, <code>progress.py</code>, <code>maturity-<wbr>site.py</code>, <code>catalogue.py</code>, <code>alerts.py</code>, <code>finance.py</code>, <code>datasets.py</code>, <code>methodology.py</code></td>
+      <td>The home page, the country and region pages and the topics matrix, the two progress tables, the Maturity Assessment map with its country reports and criteria, the searchable catalogue and its alert sign-up, the finance pages, the datasets and these methodology pages. Counts on every page are drawn from the same catalogue, so they cannot disagree.</td>
       </tr>
       <tr>
       <td><strong>Retire editions nobody took</strong></td>
@@ -370,8 +385,8 @@
       </tr>
       <tr>
       <td><strong>Deploy</strong></td>
-      <td><code>RENDER.md</code> step 7</td>
-      <td>Checks that every outbound link on every built page opens a new tab — a finding stops the push — then commits and pushes. The hosting workflow serves the pages and the file store serves the rest, at one set of addresses a reader cannot tell apart. The render <em>is</em> the build — nothing is compiled at deploy time and nothing is generated when a reader asks for a page. Running the render is the instruction to publish, so there is no separate approval step.</td>
+      <td><code>RENDER.md</code> step 7, <code>scripts/<wbr>deploy-<wbr>state.py</code></td>
+      <td>Checks that every outbound link on every built page opens a new tab — a finding stops the push — then commits and pushes. The hosting workflow serves the pages and the file store serves the rest, at one set of addresses a reader cannot tell apart. Nothing is compiled at deploy time and nothing is generated when a reader asks for a page. A push is not taken as a deploy: the hosting workflow's run is read back, and one that fails or stalls is re-run.</td>
       </tr>
       <tr>
       <td><strong>Top up the bulletin during the day</strong></td>
@@ -380,8 +395,8 @@
       </tr>
       <tr>
       <td><strong>Send something back the other way</strong></td>
-      <td>The exchange folder, <code>notes-<wbr>for-<wbr>osint.md</code></td>
-      <td>The publishing side cannot write into the collection repository. Where something there needs changing, or a document is worth chasing, it is written as a numbered note or a queue row in a folder outside both repositories, and a person carries it across. Nothing on either side polls the other.</td>
+      <td>The exchange folder, <code>notes-<wbr>for-<wbr>osint.md</code>, <code>scripts/<wbr>osint-<wbr>patch.py</code></td>
+      <td>The publishing side cannot write into the collection repository. A correction or a request is written as a numbered note in a folder outside both repositories; each side's cycle reads the notes addressed to it at the start of its run and works them. A change to the collection side's scripts or lookups is prepared as a patch that the collection side checks and applies itself.</td>
       </tr>
       </tbody>
       </table>
