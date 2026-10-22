@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nam-parliament-urges-tighter-ai-regulation-amid-growing-digital-risks",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Brief says Namibia has a recently launched National AI Strategy that promotes ethical AI adoption across key sectors through a decentralised approach. Parent: NCRST says the strategy was still being developed in March and April 2026, so this is a draft.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

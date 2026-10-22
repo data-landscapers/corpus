@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-22-moz-mocambique-apresenta-draft-da-estrategia-nacional-de-inteligencia-arti",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "INTIC's chairman presented the draft National AI Strategy at an ITU workshop in Kenya; the proposal is in its final phase, with the technical component due by June 2026 before submission to the Council of Ministers.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Estratégia Nacional de Inteligência Artificial",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-09-cod-economie-numerique-augustin-kibassa-maliba-lance-les-travaux-de-redact",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Minister of Digital Economy officially launched the drafting of DRC's first National AI Strategy on 8 October 2025, with a specialised commission of experts from the Presidency, Primature and sector ministries starting work immediately.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de l'Intelligence Artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale de l'Intelligence Artificielle",
+   "country_label": "RDC",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Économie Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

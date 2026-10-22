@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-17-cmr-armp-aonr-00028-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Posts and Telecommunications issued a restricted national tender on 17 September 2024 to recruit a firm to draft Cameroon's national AI strategy and government roadmap, estimated at XAF 60 million, with a three-month execution.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

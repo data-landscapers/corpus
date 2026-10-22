@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-egy-zawya-rostom-oecd-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Egypt's planning minister Ahmed Rostom said Egypt has begun intensive work with the OECD to develop its national AI strategy, a five-year vision.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

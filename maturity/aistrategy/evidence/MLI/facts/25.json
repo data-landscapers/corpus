@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-mli-burkina24-centre-ia-robotique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIAR-Mali (Centre d'intelligence artificielle et de robotique)",
+   "country_label": "MLI",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers an AI and robotics centre inaugurated 21 Sept 2026, not a national AI strategy, body or funding tied to one."
+}

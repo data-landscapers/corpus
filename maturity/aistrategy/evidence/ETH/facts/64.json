@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-26-eth-ethiopia-gives-priority-to-enhance-national-capacity-in-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ENA reports the Council of Ministers passed a resolution to implement the National AI Policy, and the National AI Institute said a strategy and operational planning documents have been prepared to implement it.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Policy",
+   "country_label": "Ethiopia",
+   "class": "strategy",
+   "platform": "",
+   "owner": "National AI Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

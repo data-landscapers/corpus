@@ -1,16 +1,17 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national AI strategy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Digital Watch's undated 2026 profile says South Sudan has no clear standalone AI strategy, but not that none is being written, and its date cannot be placed by the as-at.",
+      "note": "Stage 1 is a claim that needs a dated statement that there is no strategy and none being written; the one row held is undated within 2026 and silent on drafting.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

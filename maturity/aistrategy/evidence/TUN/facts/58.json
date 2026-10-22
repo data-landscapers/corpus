@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-06-tun-ia-une-strategie-nationale-tunisienne-sera-soumise-a-une-large-consult",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Communication Technologies Minister Sofiane Hemissi told Leaders on 6 February 2025 that Tunisia was finalising a national AI strategy, a first version having been reviewed by Tunisian experts and some 30 diaspora experts and a second to go to wide consultation from mid-February 2025.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "national AI strategy (draft)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national AI strategy (draft)",
+   "country_label": "TUN",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

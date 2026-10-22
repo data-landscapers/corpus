@@ -14,3 +14,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,ZAF,gov.policy--ai-strategy,fact,2,2,ZAF-032;ZAF-010,Arrivals added ZAF-032; ZAF-033; stage unchanged.
 2026-10-17,ZWE,gov.policy--ai-strategy,fact,5,5,ZWE-023;ZWE-015,Arrivals added ZWE-027; ZWE-028; stage unchanged.
 2026-10-18,DJI,gov.policy--ai-strategy,fact,3,3,DJI-001,"La Nation forum report (presented, no adoption stated) and a 2025 Treasury note of no AI policy arrived; the newer launch report still stands, stage 3 held"
+2026-10-22,LSO,gov.policy--ai-strategy,fact,2,3,LSO-010;LSO-009,Arrivals added LSO-009; LSO-010: the minister says the government approved the AI policy in 2025 and it was published 17 August 2026; stage 2 -> 3
+2026-10-22,NGA,gov.policy--ai-strategy,fact,2,3,NGA-010;NGA-011,Arrivals added NGA-007 to NGA-012: the minister announced the strategy's launch in April 2025 and the ministry records its formal launch in 2025; stage 2 -> 3
+2026-10-22,SOM,gov.policy--ai-strategy,fact,1,2,SOM-002,Arrivals added SOM-002: ESCWA hiring a consultant in 2025 to draft the national AI strategy; stage 1 -> 2
+2026-10-22,SYC,gov.policy--ai-strategy,fact,no evidence,2,SYC-001,"Arrivals added SYC-001: the National Digital and AI Strategy 2026-2031 validated in July 2026, still a draft; stage no evidence -> 2"
+2026-10-22,SSD,gov.policy--ai-strategy,fact,no evidence,unplaced,,"Arrivals added SSD-001: an undated 2026 profile says there is no clear standalone AI strategy, silent on drafting; no evidence -> unplaced"
+2026-10-22,GIN,gov.policy--ai-strategy,fact,3,3,GIN-002,"Arrivals added GIN-003 to GIN-005: the 2026-2035 roadmap validated in December 2025 and the strategy document still being finalised in September 2026; the ministry's 2025 adoption report stands, stage 3 held"

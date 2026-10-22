@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-moz-mocambique-prepara-formadores-para-uso-da-inteligencia-artificial-nas-eleicoes",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "INTIC is developing a proposal for the National Artificial Intelligence Strategy, which INTIC's executive administrator invited participants to comment on at the 19 October 2026 opening; it is available on INTIC's portal.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Estratégia Nacional de Inteligência Artificial (proposal)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estratégia Nacional de Inteligência Artificial (proposal)",
+   "country_label": "MOZ",
+   "class": "strategy",
+   "platform": "INTIC portal",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

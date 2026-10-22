@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-21-mus-an-ai-legislation-for-mauritius-fundamental-considerations",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Orison Legal says the government came up with a national strategy on AI in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "national strategy on AI",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national strategy on AI",
+   "country_label": "Mauritius",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

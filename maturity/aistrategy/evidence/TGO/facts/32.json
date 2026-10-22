@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-tgo-world-bank-called-attention-to-togo-s-digital-and-ai-ambitions-followi",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "TechReviewAfrica reports that Togo is expected to validate its national AI strategy through a government seminar in April 2026, per World Bank director Michel Rogy's account of a Lome mission.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National AI strategy (Togo)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

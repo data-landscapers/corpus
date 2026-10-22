@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-06-zaf-ai-in-the-workplace-the-current-regulatory-landscape",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Bowmans partner Melissa Cogger writes that the government published the National Artificial Intelligence Policy Framework in August 2024, a non-binding statement of its strategic vision for AI governance. Parent: the 2024 framework went to public comment and Cabinet as a draft, so this is a draft.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Policy Framework",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The article says a Draft South Africa National Artificial Intelligence Policy was published for public comment in April 2026 and withdrawn shortly after gazetting because it cited AI-hallucinated information.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Draft South Africa National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

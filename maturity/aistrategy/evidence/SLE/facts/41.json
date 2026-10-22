@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-sle-sierra-leone-moves-towards-context-specific-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Salima Monorma Bah said on 24 September 2026 that Sierra Leone is developing a National Artificial Intelligence Strategy, guided by a recently completed AI Diagnostics and Readiness Assessment Report.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Sierra Leone",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

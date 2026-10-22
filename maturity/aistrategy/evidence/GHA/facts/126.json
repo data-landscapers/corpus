@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-gha-ghana-appoints-ai-focal-points-in-all-ministries-to-boost-national-digital-readi",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Communications minister Sam George, reported by Accra Posts, describes Ghana's AI strategy as a ten-year plan with measurable targets and priority sectors of agriculture, health, education and government services.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "Ghana national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana national AI strategy",
+   "country_label": "GHA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-13-cog-congo-brazzaville-le-pays-s-engage-a-encadrer-l-utilisation-de-l-intel",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Leon Juste Ibombo announced at the 12 January 2026 Arpce seminar that a national AI strategy is being drawn up with the African Centre for AI Research and UNDP.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "National AI strategy (in preparation)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

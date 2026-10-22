@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-26-mrt-ouverture-de-la-conference-internationale-de-nouakchott-sur-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The two-day Nouakchott international AI conference, opened by the higher-education ministry on 26 May 2025, was to present the national AI strategy and hold a round table on it; no adoption is stated.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI strategy",
+   "country_label": "Mauritania",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

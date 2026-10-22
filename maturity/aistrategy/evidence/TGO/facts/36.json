@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-03-tgo-faure-gnassingbe-prend-part-aux-travaux-de-l-ai-global-summit-on-afric",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Togo's finance ministry page says the country is actively preparing a national Artificial Intelligence Strategy, alongside an international Data Lab and a Maison de l'Intelligence Artificielle.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "Stratégie nationale d'Intelligence Artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

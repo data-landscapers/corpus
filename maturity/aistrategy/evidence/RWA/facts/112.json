@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "UNESCO's readiness assessment says the Ministry of ICT and Innovation adopted the National AI Policy in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

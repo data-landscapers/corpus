@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-16-nam-ncrst-invitation-4th-5th-6th-national-ai-strategy-town-halls",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NCRST says it has been tasked with coordinating the development of Namibia's National AI Strategy and invites stakeholders to the fourth to sixth town hall meetings in April 2026.",
+   "as_of": "2026-04-16",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Hand-read by the parent."
+}

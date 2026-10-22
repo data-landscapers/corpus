@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002",
-   "gaps": "No source held says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-010;NGA-011",
+      "gaps": "No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit. In March 2026 the minister said the strategy would go to the National Assembly for approval.",
+      "note": "The minister announced the strategy's launch in April 2025 and the ministry records its formal launch in 2025, which meets stage 3; the ministry leads it in general and no body is named for it, so not stage 4.",
+      "as_at": "2026-10-22"
+    }
+  ]
 }

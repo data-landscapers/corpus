@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-20-bfa-declaration-sur-les-sous-points-12-6-et-12-10-burkina-faso-79e-assembl",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Burkina Faso's statement to the World Health Assembly says a national roadmap on artificial intelligence is being implemented. Parent: no approval or launch is stated, and a later source has the roadmap at validation, so this is a draft.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Feuille de route nationale sur l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Feuille de route nationale sur l'intelligence artificielle",
+   "country_label": "Burkina Faso",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

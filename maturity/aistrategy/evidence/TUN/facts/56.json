@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Lawyer Zied El Air says the broad outlines of a national AI strategy for 2026-2030 were presented at a ministerial council in August 2026, as a policy orientation and not a binding text.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National AI strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI strategy 2026-2030",
+   "country_label": "Tunisia",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Tunisia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

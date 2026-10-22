@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-lso-lesotho-moves-from-ai-policy-to-national-strategy-and-digital-infrastr",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "CADE says Lesotho's AI Policy and its implementation plan were completed and the policy published on 17 August 2026, with a National AI Strategy now being developed to implement it.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Lesotho Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho Artificial Intelligence Policy",
+   "country_label": "Lesotho",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information, Communications, Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-06-bwa-botswana-estonia-partner-to-develop-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "President Masisi said the Ministry of Communications, Knowledge and Technology is collaborating with Estonia to develop the Botswana Artificial Intelligence Strategy.",
+   "as_of": "2024-03-05",
+   "date_precision": "day",
+   "system": "Botswana Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Artificial Intelligence Strategy",
+   "country_label": "Botswana",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communications, Knowledge and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

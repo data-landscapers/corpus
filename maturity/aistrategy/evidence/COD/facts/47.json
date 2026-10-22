@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-cod-economie-numerique-les-participants-a-l-atelier-de-validation-techniqu",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Mediacongo reports that a technical validation workshop held in Kinshasa from 23 July and closed on 27 July 2026 by the digital economy ministry validated the draft national AI strategy (SNIA-RDC), subject to amendments, with World Bank support.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "SNIA-RDC",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIA-RDC",
+   "country_label": "SNIA-RDC draft 2026",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

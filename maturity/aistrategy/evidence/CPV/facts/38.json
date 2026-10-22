@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-30-cpv-cape-verde-starts-work-on-national-data-and-ai-strategies-for-public-s",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Ecofin Agency reports Cape Verde launched the process to develop a dedicated AI strategy at a meeting on 28 April 2026 led by Digital Economy Minister Olavo Correia with consultants present; no timeline given.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

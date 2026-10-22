@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-04-tgo-intelligence-artificielle-vers-l-elaboration-d-une-strategie-nationale",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Togo Officiel reports that the Ministry of Digital Economy called on experts, business leaders, consultants and researchers on 3 October 2024 to register by 18 October and take part in drawing up Togo's national AI strategy, under programme 9 of the Togo Digital strategy.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "stratégie nationale d'Intelligence Artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "stratégie nationale d'Intelligence Artificielle",
+   "country_label": "Togo",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Economie Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

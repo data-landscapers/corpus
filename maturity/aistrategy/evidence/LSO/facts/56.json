@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-03-lso-lena-world-governments-summit-ai-policy-approved",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Lesotho's ICT minister told the 2026 World Governments Summit that the government approved the National Artificial Intelligence Policy in the second half of 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Policy",
+   "country_label": "Lesotho",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information, Communications, Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

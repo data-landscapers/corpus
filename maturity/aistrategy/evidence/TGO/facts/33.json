@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-tgo-atelier-de-restitution-des-travaux-relatifs-a-l-elaboration-de-la-stra",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Public Service Efficiency and Digital Transformation held a feedback workshop on 19 December 2025 on the work to draw up Togo's National AI Strategy, which rests on six pillars.",
+   "as_of": "2025-12-19",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de l'Intelligence Artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale de l'Intelligence Artificielle",
+   "country_label": "Togo",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Efficacité du Service Public et de la Transformation Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

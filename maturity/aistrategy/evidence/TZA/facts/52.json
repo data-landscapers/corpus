@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-15-tza-from-policy-to-action-how-tanzania-is-turning-ai-and-media-strategy-in",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "UNESCO reports that stakeholders at World Press Freedom Day 2025 in Arusha gave recommendations for Tanzania's draft National Artificial Intelligence Strategy.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Tanzania",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

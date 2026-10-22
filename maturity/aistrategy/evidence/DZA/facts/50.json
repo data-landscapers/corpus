@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The minister of higher education chaired the third multisectoral meeting following up implementation of the National Strategy of Artificial Intelligence, which the ministry says has moved from planning to implementation.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Strategie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Sectoral commissions (data and infrastructure, financing, large language models, doctorate, continuing training, international cooperation) report on carrying out the strategy's roadmap under the minister's chairmanship.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Strategie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Strategie nationale de l'intelligence artificielle",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": "Financing commission only presented possible funding sources and sectoral estimates under preparation; no money stated as allocated."
+}

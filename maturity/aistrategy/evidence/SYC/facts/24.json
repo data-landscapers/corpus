@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-syc-what-does-it-take-for-a-small-island-nation-to-embrace-the-opportuniti",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A World Bank-linked consultant writes that the national validation workshop for Seychelles' National Digital & AI Strategy 2026-2031, which covers responsible AI adoption, concluded in the two weeks before 10 July 2026; no adoption is stated.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National Digital & AI Strategy 2026-2031",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital & AI Strategy 2026-2031",
+   "country_label": "SYC",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

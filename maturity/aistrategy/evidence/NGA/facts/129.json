@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-05-nga-experts-call-for-national-policy-on-ai-development-deployment-in-niger",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Prof. Mohammed Tawfiq Ladan said NITDA developed a National AI Strategy in 2024 that is yet to be approved by the Federal Executive Council.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "National AI Strategy (NITDA, 2024)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Levellers says the Council of Ministers adopted the National AI and Big Data Strategy 2023-2027 (SNIAM) on 18 January 2023, with four programmes, 123 actions and a projected budget of 4.68 billion CFA francs.",
+   "as_of": "2023-01-18",
+   "date_precision": "day",
+   "system": "SNIAM 2023-2027",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

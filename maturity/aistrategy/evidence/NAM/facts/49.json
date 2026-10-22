@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-nam-ncrst-continues-ai-strategy-town-hall-engagements-across-regions",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NCRST says it is facilitating the development of Namibia's National AI Strategy through regional town halls in March and April 2026, with a 215-expert Technical Advisory Committee, and expects the strategy to be launched later in 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Namibia National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Namibia National AI Strategy",
+   "country_label": "National AI Strategy (draft 2026)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "NCRST",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

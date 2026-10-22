@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-eth-ai-regulation-in-africa-why-copying-the-european-model-won-t-work",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Conversation's authors say Mauritius set out its national AI strategy in 2018, the first by an African country.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Mauritius national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

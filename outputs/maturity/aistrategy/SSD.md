@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held names a national AI strategy, or says there is none.
+***Not held***. [A 2026 country profile says South Sudan has no clear standalone AI strategy](<https://dig.watch/countries/south-sudan>), but not whether one is being written, and the profile is not dated.

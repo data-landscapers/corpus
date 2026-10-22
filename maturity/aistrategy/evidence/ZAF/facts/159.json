@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-15-zaf-question-to-the-minister-of-communications-and-digital-technologies-nw",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "In a written reply the Communications and Digital Technologies Minister said an Expert Review Panel is redesigning the withdrawn Draft National AI Policy, with a revised policy to go to Cabinet by March 2027.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

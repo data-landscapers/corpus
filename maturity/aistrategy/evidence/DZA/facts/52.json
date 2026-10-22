@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-08-dza-merouane-debbah-president-du-conseil-scientifique-de-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The president of the national AI scientific council says the first version of the national AI strategy, built on six pillars, has just been made public.",
+   "as_of": "2024-12-08",
+   "date_precision": "day",
+   "system": "National AI strategy (first version)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI strategy",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Algeria",
+   "tiers": ""
+  },
+  {
+   "system": "Conseil scientifique national de l'IA",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministries of higher education and of knowledge economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

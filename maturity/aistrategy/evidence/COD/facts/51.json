@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-10-cod-la-rdc-lance-la-redaction-de-son-plan-national-du-numerique-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "On 8 October 2025 the Minister of Digital Economy launched the interinstitutional commission to write the first national AI strategy, alongside the national digital plan 2026-2030.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

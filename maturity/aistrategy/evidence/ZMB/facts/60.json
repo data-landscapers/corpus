@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-zmb-decoding-zambia-s-national-ai-strategy-through-a-just-ai-lens",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Research ICT Africa says Zambia's National AI Strategy was launched in November 2024 and calls for AI adoption across six areas including health, agriculture, education, mining, climate and public services.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Zambia National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia National AI Strategy",
+   "country_label": "ZMB",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "The National AI Council and working groups are described as recommended by the strategy, not as set up."
+}

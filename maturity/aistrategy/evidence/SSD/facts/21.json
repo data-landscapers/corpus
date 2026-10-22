@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Diplo's Digital Watch profile says South Sudan has no clear standalone AI strategy, and notes officials say AI readiness depends on infrastructure, a data centre and skills.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

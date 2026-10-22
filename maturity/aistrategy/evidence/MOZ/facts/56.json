@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-20-moz-ministerial-roundtable-on-the-role-of-science-technology-and-innovatio",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Government of Mozambique, in a statement to the UN CSTD, lists the National Artificial Intelligence Strategy among legal instruments under drafting and harmonisation, and says it is being drafted.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Commission for Artificial Intelligence",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "Council of Ministers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

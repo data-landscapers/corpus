@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-egy-governing-ai-with-inclusion-an-egyptian-model-for-the-global-south",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document says the president unveiled Egypt's second National AI Strategy (2025-2030) in January 2025, after a first strategy launched in May 2021.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National AI Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

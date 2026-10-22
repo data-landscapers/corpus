@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-25-uga-are-ugandan-artists-ready-for-the-new-copyright-law",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Observer's IP-lawyer author reports the Attorney General saying an AI clause in the copyright bill was premature because an AI policy framework is still in the Attorney General's 'kitchen'.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "AI policy framework",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

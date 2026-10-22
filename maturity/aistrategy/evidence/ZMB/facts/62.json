@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-zmb-zambia-rolls-out-a-i-blueprint-to-boost-economy-jobs",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document refers to Zambia's National AI Strategy (2024-2026) and says the Ministry of Technology and Science announced an AI Center of Excellence in September 2024 following its adoption.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "National AI Strategy (2024-2026)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Center of Excellence, University of Zambia",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Technology and Science with Google and ZAMREN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

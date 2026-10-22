@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-25-nga-nigeria-finalises-national-ai-policy-for-legislative-approval",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Punch reports the National Artificial Intelligence Strategy was first launched in 2024 and rolled out nationwide in 2025. Parent: the 2024 document was the published draft.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Bosun Tijani said on 2026-03-25 the strategy is finalised and no longer a draft, and goes to the National Assembly for approval within weeks.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

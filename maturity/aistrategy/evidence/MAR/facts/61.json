@@ -1,0 +1,23 @@
+{
+ "slug": "2025-05-20-mar-al3omk-ministere-transition-numerique-direction-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Morocco 2030",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "AI and Emerging Technologies Directorate",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "The new directorate sets AI public policy but is not tied to a strategy; AI is only said to be part of Digital Morocco 2030."
+}

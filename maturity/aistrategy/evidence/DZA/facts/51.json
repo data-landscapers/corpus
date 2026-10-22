@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-08-dza-l-algerie-adopte-une-strategie-nationale-de-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Algerie Eco reports the national artificial intelligence strategy was adopted on Saturday 2024-12-07 in Algiers, announced at the close of the 3rd African Start-up Conference, with six axes and priority sectors of agriculture, health and industry.",
+   "as_of": "2024-12-07",
+   "date_precision": "day",
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The advisory AI Scientific Council is not stated to carry out the strategy, so no body is recorded."
+}

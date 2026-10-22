@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of Higher Education and Scientific Research reports that on 20 October 2026 minister Kamel Baddari chaired the fifth multisectoral meeting following the implementation of the national artificial intelligence strategy.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The Ministry of Higher Education and Scientific Research reports that thematic commissions (data and infrastructure, finance, large language models, doctorate, international cooperation) are charged with implementing the strategy's axes and reported progress to the multisectoral meeting of 20 October 2026.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "stratégie nationale de l'intelligence artificielle",
+   "country_label": "Algeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

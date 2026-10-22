@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-zaf-question-to-the-minister-of-communications-and-digital-technologies-nw",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "In a written reply dated 30 July 2026 the Minister of Communications and Digital Technologies says the Draft National Artificial Intelligence Policy was withdrawn over AI-generated fabricated references, an independent expert panel was appointed to guide its revision, and a revised draft will be republished for public comment.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National Artificial Intelligence Policy",
+   "country_label": "South Africa",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

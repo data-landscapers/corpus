@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-tza-ai-ready-and-responsible-tanzania-unveils-national-assessment-at-afric",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Communication and IT minister Jerry Silaa says the government is finalising its National AI Strategy, as UNESCO handed over the national AI readiness assessment report.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy",
+   "country_label": "Tanzania",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
