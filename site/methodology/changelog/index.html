@@ -105,8 +105,19 @@
   <div class="container">
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Methodology%20%E2%80%94%20change%20log&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/methodology/changelog/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
-      <h1 class="article-header__title">Change log</h1>
+      <h1 class="article-header__title">Change log<button type="button" class="info-btn" popovertarget="info-methodology" aria-label="About this page">i</button></h1>
     </header>
+    <div class="info-pop" id="info-methodology" popover>
+<button type="button" class="info-pop__close" popovertarget="info-methodology" popovertargetaction="hide" aria-label="Close">&times;</button>
+<p>The methodology section explains the architecture and processes involved in maintaining the Corpus repository:</p>
+<p><strong>Methodology</strong> - provides a largely non-technical explanation for analysts.</p>
+<p><strong>Document lifecycle</strong> - explains the processes, checks and balances by tracing the journey of a single news story.</p>
+<p><strong>Process inventory</strong> - maps for developers the array of objects deployed from search through to render.</p>
+<p><strong>Change log</strong> - an audit of ongoing improvements being implemented.</p>
+<p><strong>Process lookups</strong> - taxonomies, and lists that can be configured to alter the behaviour of the repository.</p>
+<p><strong>Maturity assessment</strong> - the criteria used to 'score' each indicator in the maturity assessment.</p>
+<p><strong>Table metadata</strong> - column definitions for downloadable datasets.</p>
+</div>
 
     <article class="article-body">
       <nav class="article-toc" aria-label="Pages in this section">
@@ -126,7 +137,7 @@
       </nav>
       <h2 id="22-october-2026">22 October 2026</h2>
       <ul>
-      <li>The Methodology pages' menu now lists the page you are on, in black, and the Maturity Assessment methodology and Table Metadata pages carry the same menu. Every page in the section can be reached from every other.</li>
+      <li>The Methodology pages' menu now lists the page you are on, in black, and the Maturity Assessment methodology and Table Metadata pages carry the same menu. Every page in the section can be reached from every other, and each carries an ⓘ describing the section's pages.</li>
       <li>Topics and Catalogue now carry the ⓘ button in place of their explanatory text. Topics fits more of the taxonomy on the first screen, and the Catalogue's downloads sit on one line, with Metadata opening the field descriptions page.</li>
       <li>On laptop screens the Maturity Assessment's header, menu bar and footer were drawn smaller than on every other page. They now match the rest of the site; the map keeps its compact size.</li>
       <li>The Progress and Countries &amp; Regions pages now carry the ⓘ button, and the explanatory text above and below their tables has gone into it. The tables now start at the top of the page.</li>

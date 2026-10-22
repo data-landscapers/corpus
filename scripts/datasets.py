@@ -39,7 +39,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
 import methodology  # noqa: E402  - the table directive and the page shell, one copy
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -441,6 +441,7 @@ def build_metadata() -> None:
     text = methodology.lookup_tables(src.read_text(encoding="utf-8"), out)
     canonical = f"{SITE_BASE}/datasets/metadata/"
     (out / "index.html").write_text(external_links(methodology.PAGE.format(
+        **dict(zip(("about", "panel"), info("Methodology"))),
         feedback=feedback("Datasets — metadata", canonical),
         h1="Metadata", title="Datasets — metadata",
         description="What each column in the Data Landscapers datasets means: data centres, "
@@ -493,6 +494,7 @@ def build_ih_methodology() -> None:
     body = (ih_views("methodology") + (f'<div class="byline">{html.escape(byline)}</div>\n' if byline else "")
             + methodology.convert(IH_METHOD, "\n".join(lines)))
     (out / "index.html").write_text(external_links(methodology.PAGE.format(
+        about="", panel="",
         feedback=feedback(title, canonical), h1=title, title=title,
         description="How the Institution hosting dataset was made: which institutions were chosen, how "
                     "their internet names were found and looked up, how each address was assigned to a "

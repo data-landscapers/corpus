@@ -73,7 +73,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -103,8 +103,9 @@ PAGE = """<!DOCTYPE html>
   <div class="container">
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">{h1}</h1>
+      <h1 class="article-header__title">{h1}{about}</h1>
     </header>
+    {panel}
 
     <article class="article-body{body_class}">
 {body}
@@ -357,7 +358,10 @@ def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str
     text = md_path.read_text(encoding="utf-8")
     if tables:
         text = lookup_tables(text, out_dir)
+    # One ⓘ for every page in the section, from content/info.md (Bill, 2026-10-22).
+    about, panel = info("Methodology")
     (out_dir / "index.html").write_text(external_links(PAGE.format(
+        about=about, panel=panel,
         feedback=feedback(title, canonical),
         h1=h1, title=title, description=description, canonical=canonical,
         base=SITE_BASE, main=MAIN_SITE, body_class=body_class,

@@ -60,6 +60,25 @@ Corpus provides country analysis in three separate reports. In addition to this 
 
 These assessments are updated overnight whenever new relevant evidence arrives. And once a month each indicator is rebuilt entirely.
 
+## Methodology
+
+The methodology section explains the architecture and processes involved in maintaining the Corpus repository:
+
+**Methodology** - provides a largely non-technical explanation for analysts.
+
+**Document lifecycle** - explains the processes, checks and balances by tracing the journey of a single news story.
+
+**Process inventory** - maps for developers the array of objects deployed from search through to render.
+
+**Change log** - an audit of ongoing improvements being implemented.
+
+**Process lookups** - taxonomies, and lists that can be configured to alter the behaviour of the repository.
+
+**Maturity assessment** - the criteria used to 'score' each indicator in the maturity assessment.
+
+**Table metadata** - column definitions for downloadable datasets. 
+
+
 ## Progress
 
 The progress reports looks for evidence impacting on 115 indicators over the past twelve months. It is a more granular version of the *Maturity Assessment*.  
