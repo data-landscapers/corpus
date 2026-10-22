@@ -657,6 +657,7 @@
       </tbody>
       </table>
       <h2 id="non-state-finance">Non-state finance</h2>
+      <p>One row per commitment to digital transformation from a financier other than the state. Each is tagged to one country or region only, so totals by place sum without double-counting. Figures are commitments, not disbursements, in millions of US dollars at a rate dated to the year of announcement; a multi-year commitment sits wholly in its start year. A commitment that is only partly digital, or whose scope is unclear, counts at 50% in <code>commitment_usd_m</code>, because its digital part cannot be separated: double it for the amount announced, and <code>scope_basis</code> says why it was judged so. A commitment where digital is incidental to another purpose is left out.</p>
       <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/non-state-finance-metadata.csv" download>&darr; CSV</a></p>
 
       <table>
@@ -774,6 +775,7 @@
       </tbody>
       </table>
       <h2 id="national-budgets">National budgets</h2>
+      <p>One row per digital line read from a state's own budget documents, the state's own money only. Local-currency figures are the full amounts as printed and are never adjusted. <code>budget_usd</code> is the latest stage held (audited, else spent, released, revised, enacted or proposed) at the IMF annual average rate for the year the fiscal year starts in, and counts 50% of a line that is only partly digital or whose scope is unclear. Fourteen functions of a digital state are looked for in every country's documents; one with no line of its own is not necessarily unfunded, as the money may sit inside a larger line or outside the general budget.</p>
       <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/budgets-metadata.csv" download>&darr; CSV</a></p>
 
       <table>
@@ -1107,6 +1109,7 @@
       </tbody>
       </table>
       <h2 id="all-finance">All finance</h2>
+      <p>Both sides in the columns they share: budget lines at their latest stage by the year the fiscal year starts in, commitments at their counted amount by the year they were made, either at 50% where only partly digital or unclear. A budget is one year's money and a commitment may span several, so a year's total is a sum of both, not a measure of spending. A row's other fields are in its own table, found by its <code>deal_id</code>. In a summary by year, an empty cell is a year with nothing recorded, not a zero.</p>
       <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/all-finance-metadata.csv" download>&darr; CSV</a></p>
 
       <table>

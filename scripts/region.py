@@ -40,7 +40,6 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from copy_lib import copy_inline  # noqa: E402
 from chrome_lib import chrome, feedback, foot, ga, script, styles  # noqa: E402
 import country  # noqa: E402 — the per-page machinery this reuses wholesale
 
@@ -107,7 +106,6 @@ def build(code: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{code}/finance.html"),
             unit="place",
-            scope_note=copy_inline("finance", "non-state-scope"),
             jsonld=country.finance_dataset(code, name, out_dir, fin, csv_names["csv_name"],
                                            csv_names["csv_edition"], csv_names["csv_bytes"]),
             fin_total=f"{sum(amounts):,.0f}",

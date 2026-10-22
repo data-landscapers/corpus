@@ -8,7 +8,9 @@ The Data Centres blocks have to make three things clear without a lecture: what 
 
 The Institution Hosting blocks have to make two things clear: a row is an institution and its figures are shares of its working addresses on the scan date; and the scan sees the public edge only (websites, mail, name servers), not where databases or core systems run.
 
-`dataset-data-centres`, `dataset-institution-hosting` and `dataset-catalogue` are not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
+Every `dataset-*` block, and `all-finance-dataset`, is not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
+
+The finance pages' explanation is the ⓘ, from `info.md` → Finance (Bill, 2026-10-22). What stays here for them is their dataset descriptions and the lines a place with nothing held shows: `budget-intro`, `budget-none-counted` and `finance-all-none`.
 
 ## index-intro
 
@@ -59,3 +61,39 @@ Where strategic institutions in 54 African countries host their public internet 
 ## dataset-catalogue
 
 Every document the Data Landscapers Corpus holds on digital transformation, digital public infrastructure and data governance across Africa, as a single table: title, publisher, author, publication date and its precision, the countries and regions covered, the subjects from the Corpus taxonomy, the organisations and people tagged, the date the document entered the repository, and the publisher's own link. It is a catalogue of metadata and links — it does not contain the text of the documents themselves, each of which stays with its publisher at the URL given. Every claim in the country, region and topic reports on this site rests on a record in it.
+
+## dataset-all
+
+Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.
+
+## dataset-budgets
+
+Every digital line Data Landscapers has read from African states' own budget documents, as a single table: the country, the fiscal year, what the money is for, the ministry, spending body, programme and line, and the figure at each stage of the budget cycle held, from the bill tabled in parliament through the enacted law and in-year revisions to the outturn and audited accounts. Each line gives its currency, a US dollar figure for its latest stage, and the document, table and page the figure is printed on. Only the state's own money is included: lines financed by donors or lenders are in the non-state finance table. A line is included when its stated purpose is digital, so the totals are what budgets say about digital transformation, digital public infrastructure and data governance, not the whole of a state's ICT spending.
+
+## dataset-place
+
+Every non-state financial commitment to the digital sector in {name} held by Data Landscapers, as a single table: the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised to {name} and not what was spent there — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table. This is the {name} cut of the full Data Landscapers non-state finance table.
+
+## dataset-budgets-place
+
+Every digital line Data Landscapers has read from the budget documents of {name}, as a single table: the fiscal year, what the money is for, the ministry, spending body, programme and line, and the figure at each stage of the budget cycle held, from the bill tabled in parliament through the enacted law and in-year revisions to the outturn and audited accounts. Each line gives its currency, a US dollar figure for its latest stage, and the document, table and page the figure is printed on. Only the state's own money is included: lines financed by donors or lenders are in the non-state finance table. A line is included when its stated purpose is digital, so the totals are what the budget says about digital transformation, digital public infrastructure and data governance, not the whole of the state's ICT spending. This is the {name} cut of the full Data Landscapers national budgets table.
+
+## dataset-all-finance
+
+Every non-state financial commitment to Africa's digital sector made since 2024 and every digital line read from African states' own budget documents, joined in one table by Data Landscapers: the country or region, the year, what the money is for, whether the row is aid, other finance from an African or a non-African financier, or a state budget line, the financier, the recipient, a title and description, the amount in US dollars and a key to the full record. Non-state rows are commitments, not disbursements, and sit in the year they were made; budget rows are one fiscal year's figure at the latest stage held. A row that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance.
+
+## all-finance-dataset
+
+Every digital budget line and non-state finance commitment counted for {name} by Data Landscapers, in one table: side, year, topic, US dollar amount, payer, recipient, stage and scope.
+
+## budget-intro
+
+Work is ongoing to compile information on national budgets, expenditures and audits. See [National budgets](../../finance/budgets/).
+
+## budget-none-counted
+
+No line read so far has a US dollar figure, so no totals are shown. The lines are in the full table.
+
+## finance-all-none
+
+No budget line or non-state commitment is yet held for {name}.

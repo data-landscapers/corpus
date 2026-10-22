@@ -7,7 +7,7 @@ copy_lib.py — the reader-facing prose, kept in markdown rather than in Python.
 headings. The builders ask for a block by name and get HTML back:
 
     from copy_lib import copy
-    intro = copy("country", "finance-intro", name="South Africa")
+    intro = copy("datasets", "budget-intro")
 
 The reason is editorial rather than architectural. The wording of these blocks is
 the part of the site most in need of revision and the part hardest to revise,

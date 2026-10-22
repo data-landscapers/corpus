@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://corpus.data-landscapers.io/countries/SLE/budgets.html">
 
 <link rel="stylesheet" href="../../assets/css/main.css?v=c7777c77">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=0aceea32">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=a2d93af9">
 <link rel="stylesheet" href="../../assets/css/country.css?v=8ad99761">
 <link rel="stylesheet" href="../../assets/css/datatable.css?v=284d32e1">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -441,11 +441,22 @@
     <header class="article-header">
       <div class="article-header__crumb"><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="https://corpus.data-landscapers.io/reports/SLE/SLE-finance.html">Sierra Leone</a></div>
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Sierra%20Leone%20%E2%80%94%20national%20budget&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/countries/SLE/budgets.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
-      <h1 class="article-header__title">National budget</h1>
+      <h1 class="article-header__title">National budget<button type="button" class="info-btn" popovertarget="info-finance" aria-label="About this page">i</button></h1>
       <div class="article-header__byline">Sierra Leone &nbsp;·&nbsp; 186 budget lines &nbsp;·&nbsp; fiscal years 2024&ndash;2026</div>
     </header>
-
-    <p>Every digital line read from Sierra Leone's own budget documents: what was proposed, enacted, revised and spent. Figures are in the budget's own currency; <code>budget_usd</code> gives the latest one in US dollars. Only the state's own money is here. Some lines are only partly digital: a ministry's IT directorate, for example, whose budget also pays for other work. For a few, the document does not say enough to tell. The digital part cannot be separated, so <code>budget_usd</code> counts 50% of a line whose scope is partial or unclear. The figures in the local currency are never adjusted: they are the full amounts as the document prints them. Open a row to see them beside the line's scope, or filter on scope to list the lines counted at half. Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download.</p>
+<div class="info-pop" id="info-finance" popover>
+<button type="button" class="info-pop__close" popovertarget="info-finance" popovertargetaction="hide" aria-label="Close">&times;</button>
+<p>Corpus' work on building finance datasets is aimed at overcoming three challenges: </p>
+<ul>
+<li>No one has integrated non-state finance data with national budgets, expenditure and audits.</li>
+<li>No one has joined up the full spectrum of cross-border and domestic, public and private investment.</li>
+<li>With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</li>
+</ul>
+<p>The <strong><em>Non-state Finance</em></strong> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.</p>
+<p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear. The <code>scope_basis</code> column explains why a row was judged that way,</p>
+<p>The <strong><em>Budgets</em></strong> dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.</p>
+<p>The <strong><em>All Finance</em></strong> dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.</p>
+</div>
 
     <div class="dl-datatable"
       data-src="SLE-budgets.csv?v=4fc524f5627c"

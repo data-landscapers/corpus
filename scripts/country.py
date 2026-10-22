@@ -76,7 +76,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, feedback, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, feedback, foot, ga, info, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -411,14 +411,15 @@ def retire_page(out_dir: Path, code: str) -> None:
 
 
 CHROME = chrome("countries", depth=2)
+# The ⓘ by each finance table's title, from info.md → Finance (Bill, 2026-10-22). Braces
+# doubled because the templates it is spliced into go through `str.format`.
+ABOUT, PANEL = (s.replace("{", "{{").replace("}", "}}") for s in info("Finance"))
 
 FOOT = foot(depth=2)
 
 
-FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in millions of US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year. A commitment that is only partly digital, or whose scope is unclear, counts at 50% of its amount; one where digital is incidental to another purpose is left out.</p>
-
-{pivot}
-    <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
+# The explanation is the ⓘ, from info.md → Finance (Bill, 2026-10-22): no prose round the pivot.
+FINANCE_BLOCK = """{pivot}
 
     <div class="table-acts">
       <a class="btn" href="finance.html">Full table &mdash; {fin_n} commitments, all {ncols} fields &rarr;</a>
@@ -427,20 +428,16 @@ FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from fina
 
 FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held for {name}.</p>"""
 
-# The budget section, in the shape of the finance one above it. The prose is in
-# `content/country.md`; `{summary}` is the pivot and its note, or one sentence where no
-# line read so far can be added up.
-BUDGET_BLOCK = """    <p>{intro}</p>
-
-{summary}
+# The budget section, in the shape of the finance one above it. `{summary}` is the pivot, or
+# one sentence where no line read so far can be added up.
+BUDGET_BLOCK = """{summary}
 
     <div class="table-acts">
       <a class="btn" href="budgets.html">Full table &mdash; {bud_n} budget lines, all {ncols} fields &rarr;</a>
       <a class="btn btn--accent" href="{csv_name}" download>&darr; Download CSV</a>
     </div>"""
 
-BUDGET_SUMMARY = """{pivot}
-    <p class="table-note">{note}</p>"""
+BUDGET_SUMMARY = """{pivot}"""
 
 # A place with no budget file: the sentence saying the work is under way.
 BUDGET_EMPTY = """    <p>{intro}</p>"""
@@ -453,12 +450,11 @@ def budget_section(name: str, header: list[str], rows: list[dict], csv_name: str
     if counted:
         summary = BUDGET_SUMMARY.format(
             pivot=pivot(counted, "report_year",
-                        lambda r: float(r["budget_usd"]) / 1e6, cutoff=None),
-            note=copy_inline("country", "budget-table-note"))
+                        lambda r: float(r["budget_usd"]) / 1e6, cutoff=None))
     else:
-        summary = f'    <p class="table-note">{copy_inline("country", "budget-none-counted")}</p>'
+        summary = f'    <p class="table-note">{copy_inline("datasets", "budget-none-counted")}</p>'
     return BUDGET_BLOCK.format(
-        intro=copy_inline("country", "budget-summary", name=name), summary=summary,
+        summary=summary,
         bud_n=f"{len(rows):,}", ncols=len(header), csv_name=csv_name)
 
 
@@ -521,13 +517,10 @@ FINANCE = """<!DOCTYPE html>
     <header class="article-header">
       <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
-      <h1 class="article-header__title">Non-state finance</h1>
+      <h1 class="article-header__title">Non-state finance""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </header>
-
-    <p>Every non-state commitment the repository holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
-
-    <p>{scope_note}</p>
+""" + PANEL + """
 
     <div class="dl-datatable"
       data-src="{csv_name}"
@@ -605,11 +598,10 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     <header class="article-header">
       <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
-      <h1 class="article-header__title">National budget</h1>
+      <h1 class="article-header__title">National budget""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {bud_n} budget lines &nbsp;·&nbsp; fiscal years {yr}</div>
     </header>
-
-    <p>{intro}</p>
+""" + PANEL + """
 
     <div class="dl-datatable"
       data-src="{csv_src}"
@@ -671,7 +663,7 @@ def budgets_dataset(code: str, name: str, rows: list[dict], meta: list[dict],
     years = [year(r.get("report_year")) for r in rows]
     return structured_data.dataset(
         name=f"Data Landscapers national budgets — {name}",
-        description=copy_md("finance", "dataset-budgets-place", name=name),
+        description=copy_md("datasets", "dataset-budgets-place", name=name),
         url=f"{SITE_BASE}/countries/{code}/budgets.html",
         csv_url=f"{SITE_BASE}/countries/{code}/{pub['csv_name']}",
         csv_bytes=pub["csv_bytes"],
@@ -756,7 +748,7 @@ def publish_all_finance_csv(iso: str, out_dir: Path, rows: list[dict]) -> dict[s
 def all_finance_dataset(code: str, name: str, rows: list[dict], pub: dict[str, str]) -> str:
     return structured_data.dataset(
         name=f"Data Landscapers digital finance, budgets and non-state — {name}",
-        description=copy_md("country", "all-finance-dataset", name=name),
+        description=copy_md("datasets", "all-finance-dataset", name=name),
         url=f"{SITE_BASE}/countries/{code}/all-finance.html",
         csv_url=f"{SITE_BASE}/countries/{code}/{pub['csv_name']}",
         csv_bytes=pub["csv_bytes"],
@@ -797,11 +789,10 @@ ALL_FINANCE_PAGE = """<!DOCTYPE html>
     <header class="article-header">
       <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
-      <h1 class="article-header__title">All finance</h1>
+      <h1 class="article-header__title">All finance""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {n} rows &nbsp;·&nbsp; US${total}m</div>
     </header>
-
-    <p>{intro}</p>
+""" + PANEL + """
 
     <div class="dl-datatable"
       data-src="{csv_name}"
@@ -883,7 +874,7 @@ def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
     years = [year(r.get("start_year")) for r in fin] + [year(r.get("end_year")) for r in fin]
     return structured_data.dataset(
         name=f"Data Landscapers non-state finance — {name}",
-        description=copy_md("finance", "dataset-place", name=name),
+        description=copy_md("datasets", "dataset-place", name=name),
         url=f"{SITE_BASE}/countries/{code}/finance.html",
         csv_url=f"{SITE_BASE}/countries/{code}/{csv_name}",
         csv_bytes=structured_data.bytes_of(out_dir / csv_name) or size,
@@ -954,7 +945,6 @@ def build(iso: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
-            scope_note=copy_inline("finance", "non-state-scope"),
             jsonld=finance_dataset(iso, name, out_dir, fin, csv_names["csv_name"],
                                    csv_names["csv_edition"], csv_names["csv_bytes"]),
             fin_total=f"{sum(amounts):,.0f}",
@@ -978,7 +968,6 @@ def build(iso: str) -> list[Path]:
             feedback=feedback(f"{name} — national budget",
                               f"{SITE_BASE}/countries/{iso}/budgets.html"),
             jsonld=budgets_dataset(iso, name, bud, meta, bud_pub),
-            intro=copy_inline("country", "budget-table-intro", name=name),
             # The file's own order puts the reader's columns first (`budget_source.COLUMNS`);
             # `country` is the one this page has no use for as a column.
             cols=", ".join([c for c in shown if c != "country"][:BUDGET_TABLE_COLS]),
@@ -1002,7 +991,6 @@ def build(iso: str) -> list[Path]:
             feedback=feedback(f"{name} — all finance",
                               f"{SITE_BASE}/countries/{iso}/all-finance.html"),
             jsonld=all_finance_dataset(iso, name, every, all_pub),
-            intro=copy_inline("country", "all-finance-intro", name=name),
             n=f"{len(every):,}",
             total=f"{sum(float(r['usd_m'] or 0) for r in every):,.0f}",
             detail=", ".join(f for f, _ in ALL_FIELDS),

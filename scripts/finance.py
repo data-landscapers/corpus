@@ -54,7 +54,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
-from copy_lib import copy, copy_md  # noqa: E402
+from copy_lib import copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
 from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
@@ -359,7 +359,7 @@ def budgets_dataset(rows: list[dict], meta: list[dict], csv_path: Path, edition:
     """The budgets table described as data, dated to its edition like the non-state one."""
     return structured_data.dataset(
         name="Data Landscapers national budgets — Africa",
-        description=copy_md("finance", "dataset-budgets"),
+        description=copy_md("datasets", "dataset-budgets"),
         url=f"{SITE_BASE}/finance/budgets/",
         csv_url=f"{SITE_BASE}/finance/budgets/{csv_path.name}",
         csv_bytes=structured_data.bytes_of(csv_path),
@@ -423,7 +423,6 @@ def absences_html(used: list[str], names: dict) -> str:
         rows.append(f'      <tr><th>{html.escape(country)}</th><td>{html.escape(said)}</td>'
                     f'<td class="num">{html.escape(looked)}</td></tr>')
     return ('    <h2 class="section-heading" id="not-found">Looked for and not found</h2>\n\n'
-            + indent(copy("finance", "budgets-absences")) + "\n\n"
             '    <div class="table-scroll"><table class="pivot">\n'
             '      <thead><tr><th>Country</th><th>No budget line found for</th>'
             '<th class="num">Looked</th></tr></thead>\n      <tbody>\n'
@@ -659,7 +658,7 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
         edition_rows=edition_rows,
         jsonld=structured_data.dataset(
             name="Data Landscapers all finance — Africa",
-            description=copy_md("finance", "dataset-all-finance"),
+            description=copy_md("datasets", "dataset-all-finance"),
             url=f"{SITE_BASE}/finance/all/",
             csv_url=f"{SITE_BASE}/finance/all/{csv_path.name}",
             csv_bytes=structured_data.bytes_of(csv_path) or len(body),
@@ -711,7 +710,7 @@ def dataset(agg: dict, csv_name: str, edition: str, size: int | None = None) -> 
     table carries no finer date than the year."""
     return structured_data.dataset(
         name="Data Landscapers non-state finance — Africa",
-        description=copy_md("finance", "dataset-all"),
+        description=copy_md("datasets", "dataset-all"),
         url=f"{SITE_BASE}/finance/",
         csv_url=f"{SITE_BASE}/finance/{csv_name}",
         # The bytes this build published, where the edition itself has already gone to R2:

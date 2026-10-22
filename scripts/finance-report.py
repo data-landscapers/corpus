@@ -66,12 +66,9 @@ def all_finance(iso: str, name: str, fin: list[dict], bud: list[dict]) -> str:
     rows += [{"primary_topic": r.get("primary_topic"), "yr": r.get("start_year"),
               "amt": c.usd_m(r)} for r in fin]
     if not rows:
-        return f"<p>{copy_inline('country', 'finance-all-none', name=name)}</p>"
-    return flush(f"<p>{copy_inline('country', 'finance-all-intro', name=name)}</p>\n\n"
-            + c.pivot(rows, "yr", lambda r: r["amt"])
-            + f'\n<p class="table-note">'
-              f'{copy_inline("country", "finance-all-note", cutoff=c.FINANCE_CUTOFF)}</p>'
-            + all_buttons(iso, len(rows)))
+        return f"<p>{copy_inline('datasets', 'finance-all-none', name=name)}</p>"
+    # The explanation is the report's ⓘ, from info.md → Finance (Bill, 2026-10-22).
+    return flush(c.pivot(rows, "yr", lambda r: r["amt"]) + all_buttons(iso, len(rows)))
 
 
 def all_buttons(iso: str, n: int) -> str:
@@ -104,7 +101,7 @@ def build(iso: str) -> Path:
     if bud:
         budget = c.budget_section(name, bud_cols, bud, f"{iso}-budgets.csv")
     else:
-        budget = c.BUDGET_EMPTY.format(intro=copy_inline("country", "budget-intro"))
+        budget = c.BUDGET_EMPTY.format(intro=copy_inline("datasets", "budget-intro"))
 
     # Raw HTML between Markdown headings: `render.py` runs `md_in_html`, and a blank line on each
     # side keeps every block whole. The headings are Markdown so the contents bar finds them.
