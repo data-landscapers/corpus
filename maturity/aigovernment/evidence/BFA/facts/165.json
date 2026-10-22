@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-12-bfa-la-ministre-a-formule-une-recommandation-a-l-endroit-du-gouvernement-p",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Digital transition minister Aminata Zerbo told parliament that three AI projects were being finalised in her department: the DJAM platform, a chatbot on electronic communications regulation and a chatbot on Burkina's legislative texts.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "DJAM; chatbot on electronic communications regulation; chatbot on legislative texts",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DJAM",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "Chatbot on legislative texts (LegiBurkina)",
+   "country_label": "Burkina Faso",
+   "class": "govai",
+   "platform": "LegiBurkina",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

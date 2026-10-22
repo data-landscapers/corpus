@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Levellers says Book V of the Digital Code (Loi 2017-20, promulgated 20 April 2018, amended by Loi 2020-35) is Benin's data protection law and replaced the 2009 law.",
+   "as_of": "2018-04-20",
+   "date_precision": "day",
+   "system": "Digital Code Book V",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Levellers says the APDP, whose members are appointed by decree, enforces Book V and imposes penalties.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

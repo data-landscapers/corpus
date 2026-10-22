@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 4 |
-| 2 Nascent | 31 |
+| 2 Nascent | 32 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 16 |
+| No evidence | 15 |
 
 ## Countries
 
@@ -139,6 +139,13 @@ The digital ministry consulted business and civil society on the national AI str
 
 - Djibouti's Ministry of Digital Economy and Innovation held a national diagnostic phase and a multi-stakeholder workshop for the National Artificial Intelligence Strategy, with representatives of the private sector, civil society, young innovators and national experts taking part; the contributions are to feed the final text ([source, 2026-01](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-prepare-sa-strategie-nationale-d-intelligence-artificielle)).
 - Djibouti's Ministry in charge of the digital economy and innovation (MDENI) held a national consultation workshop on 22 January 2026 for the first national AI strategy, with about 80 participants from ministries, UN bodies and partners, academia, the private sector and civil society organisations ([source, 2026-01-22](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives)).
+
+### Egypt: 2 Nascent
+
+In 2025 the communications ministry asked over 70 companies and experts for views on an AI bill; what they said is not known.
+
+- MP Sahar Albazar writes that the Ministry of Communications and Information Technology hosted a listening session on the AI bill for the private sector, attended by over 70 companies and experts who gave recommendations to government officials ([source, 2025-09](https://oecd.ai/en/wonk/governing-ai-with-inclusion-an-egyptian-model-for-the-global-south)).
+- People of Internet says the Draft Artificial Intelligence Law (2024) is moving through stakeholder consultation ([source, 2026-06-23](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
 
 ### Gambia: 2 Nascent
 
@@ -310,12 +317,6 @@ Nothing held shows people outside government were asked about a digital law or p
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Comoros: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Egypt: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, or that they were not, so no stage is set.
 

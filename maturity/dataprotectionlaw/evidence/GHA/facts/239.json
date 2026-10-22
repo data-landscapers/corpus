@@ -1,0 +1,37 @@
+{
+ "slug": "2026-03-02-gha-ghana-issues-fines-warning-as-data-enforcement-era-begins",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commission, led by its Executive Director, is acting under the Data Protection Act, 2012 (Act 843).",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act 2012",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article describes the Data Protection Act, 2012 (Act 843) as the existing legislation, with registration duty under Section 27(1) and penalties under Section 56.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Data Protection Act 2012",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Data Protection Commission reports that in 2025 it expanded registrations of data controllers, conducted compliance audits across key sectors and trained more than 800 data protection officers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act 2012",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

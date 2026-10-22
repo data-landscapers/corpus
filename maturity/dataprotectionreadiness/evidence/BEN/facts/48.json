@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Levellers says Book V of the Digital Code (Loi 2017-20, promulgated 20 April 2018) is the current data protection law.",
+   "as_of": "2018-04-20",
+   "date_precision": "day",
+   "system": "Digital Code Book V",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "Levellers says Benin ratified the Malabo Convention by Decret 2024-772 of 1 February 2024 and deposited its instruments on 26 November 2024.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Levellers says APDP members are appointed by decree in the Council of Ministers and the body supervises processing and imposes penalties.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

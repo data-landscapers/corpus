@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "UNESCO says Rwanda passed a Data Protection and Privacy Law in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Data Protection and Privacy Law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "UNESCO says a Data Protection Office was launched in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

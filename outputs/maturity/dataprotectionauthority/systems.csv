@@ -38,6 +38,7 @@ BEN,Commission Nationale de l'Informatique et des Libertés (CNIL),CNIL Bénin,a
 BEN,Autorité de Protection des Données à Caractère Personnel,APDP,authority,,,,2024-12-12-ben-2025-apdp-014
 BEN,Autorité de protection des données à caractère personnel,APDP,authority,,,,2023-12-31-ben-lf-2024-depenses-detaillees-010-apdp-companion
 BEN,Autorité de Protection des Données à Caractère Personnel,APDP,authority,,,,2023-12-20-ben-2024-apdp-014
+BEN,APDP,Benin,authority,,,,2026-06-08-ben-what-is-ai-regulation-in-benin
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,CIL,Commission de l'informatique et des libertes,authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
@@ -153,10 +154,12 @@ GHA,Data Protection Commission,Ghana,authority,,,,2026-10-14-gna-ghana-dpc-flags
 GHA,Ghana Data Protection Commission,Ghana,authority,,Ministry of Communications and Digitalisation,,2024-12-03-gha-acet-equitable-data-ecosystem-ai-development
 GHA,Data Protection Commission,Data Protection Commission,authority,,,,2026-10-20-gha-data-protection-commission-warns-against-exposure-of-evacuated-ghanaians-personal
 GHA,Data Protection Commission,Data Protection Commission,authority,,Government of Ghana,,2026-03-09-gha-gna-bandim-azumah-data-protection-law-update-ai
+GHA,Data Protection Commission,Ghana,authority,,,,2026-10-21-gna-ghana-dpc-evacuee-personal-data
 GIN,Autorité de Protection des Données à caractère Personnel (APDP),APDP,authority,,Republic of Guinea (bill before the CNT),,2024-06-21-cnt-autorite-protection-donnees-apdp-en-debat
 GIN,Loi L/2016/037/AN relative à la cybersécurité et la protection des données à caractère personnel,Loi L/2016/037/AN,other,,Assemblée nationale de Guinée,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
 GIN,Autorité de Protection des données à caractère personnel,Autorité de Protection,authority,,,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
 GIN,Centre de sécurité des systèmes d'information (CERT),CERT,other,,,,2016-07-01-loi-l2016-037-an-cybersecurite-protection-donnees
+GIN,ANSSI,Guinea,other,,,,2025-10-08-gin-ia-et-protection-des-donnees-personnelles-la-ministre-rose-pola-pricem
 GMB,Personal Data Protection and Privacy Act 2025,"Personal Data Protection and Privacy Act, 2025",other,,National Assembly of The Gambia,,2026-08-17-gambia-information-commission-communication-strategy
 GMB,Information Commission of The Gambia,Information Commission,authority,,Government of The Gambia,,2026-08-17-gambia-information-commission-communication-strategy
 GMB,Personal Data Protection and Privacy Act 2025,"Personal Data Protection and Privacy Act, 2025",other,,National Assembly of The Gambia,,"2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025"
@@ -341,6 +344,7 @@ NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission (NDPC)
 NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission (NDPC),authority,,Federal Government of Nigeria,federal; MoU with the Nigeria Governors' Forum for states,"2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)"
 NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission (NDPC),authority,,Federal Government of Nigeria,federal; MoU with the Nigeria Governors' Forum for states,2023-06-12-nigeria-data-protection-act-2023-official-gazette-text
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu
+NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,,,2026-10-21-nga-businessday-udo-compliance-audit-return-model
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),other,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
 SEN,Loi n° 2008-12 du 25 janvier 2008,loi portant sur la protection des données à caractère personnel,other,,,,2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026
@@ -413,8 +417,10 @@ TGO,Loi n°2019-014 relative à la protection des données à caractère personn
 TGO,IPDCP,Instance de protection des données à caractère personnel,authority,,State of Togo,,2026-06-25-ipdcp-forme-premiers-correspondants
 TGO,IPDCP,Instance de Protection des Données à Caractère Personnel,authority,,State of Togo,,2026-10-04-tgo-ipdcp-apdp-benin-seance-travail-lome
 TGO,IPDCP,Personal Data Protection Authority,authority,,State of Togo,,2026-09-25-tgo-togofirst-togo-mali-data-regulators
+TGO,IPDCP,Togo,authority,,,,2026-10-20-tgo-mdias-et-protection-des-donnes-personnelles-lipdcp-et-la-harc-renforce
 TUN,Instance nationale de protection des données personnelles (INPDP),Instance nationale de protection des données personnelles,authority,,State (supervisory authority under organic law 63 of 2004),national,2026-10-04-tun-businessnews-forum-chawki-gaddes-donnees-personnelles-mineurs
 TUN,Registre de l'identifiant unique citoyen,Registre de l'identifiant unique citoyen,other,,"Ministry of Local Affairs, management unit; Centre national de l'informatique for technical tasks","central, regional and local administrations, public enterprises, local authorities, independent bodies, judicial bodies, private bodies running a public service",2020-05-15-tunisie-decret-2020-312-identifiant-unique-citoyen
+TUN,National Authority for the Protection of Personal Data (INPDP),Tunisia,authority,,,,2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026
 TZA,Personal Data Protection Commission (PDPC),Tume ya Ulinzi wa Taarifa Binafsi,authority,,Director General Dr Emmanuel Mkilia,,2026-10-07-tza-therespondents-pdpc-dpo-training-registrations-aug-2026
 TZA,Personal Data Protection Commission (PDPC),Tume ya Ulinzi wa Taarifa Binafsi,authority,,Director General Dr Emmanuel Mkilia,,2026-08-28-thecitizen-tanzania-pdpc-compliance-inspections-august-31
 TZA,Personal Data Protection Commission (PDPC),Tume ya Ulinzi wa Taarifa Binafsi,authority,,Director General Dr Emmanuel Mkilia,,"2026-07-14 OUT, PDPC Launch National Data Protection Programme"

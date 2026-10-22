@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-mar-morocco-s-answer-on-ai-election-content-the-prohibition-is-the-rule-th",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Leveraged Years describes the CNDP as Morocco's data protection authority, which issued a communique recording its position that law 09-08 already governs AI processing of personal data.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

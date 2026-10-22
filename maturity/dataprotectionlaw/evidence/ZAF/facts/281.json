@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-zaf-ai-in-the-workplace-the-current-regulatory-landscape",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article describes the Protection of Personal Information Act 4 of 2013 as currently regulating the processing of personal information, including by automated means, and as the principal data protection legislation AI systems must comply with.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

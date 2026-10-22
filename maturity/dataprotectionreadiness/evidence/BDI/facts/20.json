@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-08-bdi-what-is-ai-regulation-in-burundi",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "fact": "Levellers says Burundi's personal data protection law of 10 March 2026 is its main AI-relevant hard law; no commencement date is given.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Loi No 1/03 du 10 mars 2026",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "Levellers says the law creates an agency whose setup awaits a decree, so an operational authority was not identified in official materials reviewed.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Loi No 1/03 du 10 mars 2026",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

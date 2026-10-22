@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-rwa-rwanda-global-ai-ethics-and-governance-observatory",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "UNESCO says Rwanda launched a Data Protection Office in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

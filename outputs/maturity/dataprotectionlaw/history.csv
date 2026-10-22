@@ -13,3 +13,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,KEN,gov.legislate--data-protection-legislation,fact,4,4,KEN-022;KEN-002;KEN-004;KEN-015;KEN-018;KEN-001,Arrivals added KEN-022; restaged by hand: stage unchanged.
 2026-10-17,LBY,gov.legislate--data-protection-legislation,fact,unplaced,2,LBY-003;LBY-004,"Arrivals added LBY-003, LBY-004, LBY-005; restaged by hand: stage unplaced -> 2."
 2026-10-18,TCD,gov.legislate--data-protection-legislation,fact,2,3,TCD-003,"July 2026 legal analysis treats Loi 007/PR/2015 as the personal data law in force (fact closed 2026-10-17, merged tonight): 2 to 3, under revision"
+2026-10-22,MOZ,gov.legislate--data-protection-legislation,fact,2,2,MOZ-001;MOZ-015,"UNCTAD statement (April 2026) says the bill was approved and submitted to the Assembly; with the 1 October agenda listing, standing tabled and last12 advancing; stage 2 holds"

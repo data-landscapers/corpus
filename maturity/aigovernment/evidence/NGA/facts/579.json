@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-nga-edo-data-for-governance-project",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Data Science Nigeria says the Edo Data Governance platform embeds the EdoDiDA large-language-model chatbot giving government members conversational access to government documents and analytic insights (Edo State).",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "EdoDiDA chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

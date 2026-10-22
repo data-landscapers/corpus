@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Lawyer Zied El Air says Tunisia has had Organic Law No. 2004-63 of 27 July 2004 on personal data protection since 2004, enforced by the INPDP, with weak sanctions and limited investigative powers.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Organic Law No. 2004-63",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Lawyer Zied El Air says the 2004 law is enforced by the National Authority for the Protection of Personal Data (INPDP).",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "INPDP",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "tabled",
+   "fact": "Lawyer Zied El Air says organic bill No. 095/2025, tabled in July 2025 by seventeen members of parliament with 132 articles, would replace the 2004 law and is before the Assembly's Rights and Freedoms Committee, which in May 2026 widened its consultations to experts and civil society, with no adoption date set.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Organic bill No. 095/2025",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

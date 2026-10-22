@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-dza-contribution-de-m-salim-djalal-secretaire-general-de-l-assemblee-popul",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National People's Assembly's secretary general says the Assembly has adopted AI-based cybersecurity solutions and AI tools for automatic transcription and translation of debates, which gave a considerable efficiency gain.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "APN AI transcription, translation and cybersecurity tools",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APN AI transcription and translation tools",
+   "country_label": "Algeria",
+   "class": "govai",
+   "platform": "",
+   "owner": "Assemblee Populaire Nationale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

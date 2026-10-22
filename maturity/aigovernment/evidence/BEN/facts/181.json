@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-ben-benin-anticipating-the-impacts-of-artificial-intelligence-on-west-afri",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The ministry says the government implemented GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital that answers citizens' questions on the tax, digital, labour and penal codes, launched in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "GPT.BJ",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPT.BJ",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "chatbot",
+   "owner": "Benin Agency for Information Systems and Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

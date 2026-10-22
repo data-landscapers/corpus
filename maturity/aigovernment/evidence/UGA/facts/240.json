@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-uga-govt-to-launch-national-ai-strategy-this-year",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NITA-U's Julian Rweju said government is using AI on its core platforms to generate predictive reports from National ID logins on the portal and e-services, to customise services.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "AI on NITA-U e-services portal",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI on NITA-U e-services portal",
+   "country_label": "Uganda",
+   "class": "govai",
+   "platform": "National ID portal",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

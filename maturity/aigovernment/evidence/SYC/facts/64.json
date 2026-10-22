@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-28-syc-travizory-celebrates-landmark-facelane-deployments",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Travizory says its FaceLane facial-recognition border corridor is deployed in Seychelles for citizens and resident diplomats, within an eBorder platform that classifies travellers by AI-powered pre-travel risk assessment.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "FaceLane",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FaceLane / eBorder",
+   "country_label": "Seychelles",
+   "class": "govai",
+   "platform": "biometric border corridor with AI risk scoring",
+   "owner": "Travizory (vendor)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

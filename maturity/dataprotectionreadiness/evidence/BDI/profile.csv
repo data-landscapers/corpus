@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,system,law,coverage,not-yet,2026-03-10,BDI-001;BDI-003;BDI-008,BDI-006=none,
+BDI,system,law,coverage,not-yet,2026-03-10,BDI-001;BDI-003;BDI-008;BDI-010,BDI-006=none,
 BDI,system,treaty,coverage,none,2026-02-02,BDI-005,,
-BDI,system,authority,coverage,none,2026-03-10,BDI-002;BDI-004;BDI-007;BDI-009,,
+BDI,system,authority,coverage,none,2026-06-08,BDI-002;BDI-004;BDI-007;BDI-009;BDI-011,,
 BDI,system,practice,coverage,,,,,nothing held

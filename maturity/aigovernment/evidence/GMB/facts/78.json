@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-gmb-undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integri",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Askanwi reports UNDP launched e-Monitor Plus on 13-15 October 2026 with the Independent Electoral Commission and civil society, a platform under UNDP's INSPIRE initiative combining artificial intelligence with human verification to monitor online misinformation and hate speech ahead of the 5 December 2026 election.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "e-Monitor Plus",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Monitor Plus",
+   "country_label": "The Gambia",
+   "class": "govai",
+   "platform": "",
+   "owner": "UNDP with the Independent Electoral Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

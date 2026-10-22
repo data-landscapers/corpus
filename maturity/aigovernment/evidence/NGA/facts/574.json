@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-nga-the-ai-adviser-who-supported-a-ministry-to-build-their-own-tool",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "EdTech Hub reports that the Federal Ministry of Education runs AskFME, an AI-powered national education service desk on WhatsApp and its website that answers policy questions and school-census statistics, with 97.3% of chatbot queries resolved without human escalation.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "AskFME",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AskFME",
+   "country_label": "AskFME",
+   "class": "govai",
+   "platform": "WhatsApp and ministry website",
+   "owner": "Federal Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

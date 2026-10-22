@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-gna-ghana-dpc-evacuee-personal-data",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Ghana's Data Protection Commission issued a statement on 20 October 2026 saying the Ministry of Foreign Affairs and Parliament are registered data controllers in good standing with it, and that it will review the disclosure of evacuees' data.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

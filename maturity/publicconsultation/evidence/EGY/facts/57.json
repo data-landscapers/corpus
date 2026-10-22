@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-egy-governing-ai-with-inclusion-an-egyptian-model-for-the-global-south",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "MP Sahar Albazar writes that the Ministry of Communications and Information Technology hosted a listening session on the AI bill for the private sector, attended by over 70 companies and experts who gave recommendations to government officials.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "MCIT private-sector listening session on the AI bill",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "Date of the session is not given; publication month used."
+}

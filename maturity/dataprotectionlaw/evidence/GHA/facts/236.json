@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-21-gna-ghana-dpc-evacuee-personal-data",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Commission cited the Data Protection Act, 2012 (Act 843), sections 18 to 20, as binding obligations on the Ministry of Foreign Affairs and Parliament.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commission issued a public statement through its Public Affairs Unit on 20 October 2026 and said it will take regulatory action under Act 843 where non-compliance is found.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Data Protection Commission publicly warned the Minority Caucus, the Ministry of Foreign Affairs, Joy News and other media over disclosure of personal data of some of 1,964 evacuees from South Africa, and said it would open a regulatory review.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

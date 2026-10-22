@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-mwi-malawi-dhis2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iCHIS",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "DHIS2 with chatbot interface for community health workers",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The only AI named is a chatbot inside the health sector's community system, which is sector AI."
+}

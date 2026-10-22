@@ -515,11 +515,12 @@ Libya's government was drafting a data protection law as of July 2026, with adop
 
 ### Mozambique: 2 Nascent
 
-Mozambique has no data protection law; a bill was still being prepared in August 2026, and when it goes to parliament is not known.
+Mozambique has no data protection law; its bill was on parliament's agenda in October 2026, and when it will pass is not known.
 
-- Cibercidadãos spoke at a round table on the proposed Personal Data Protection Law (a bill text exists, since it urged the bill clarify CEDIMO's role); no date for submission or approval is stated; the event date is not given, so the published date 2026-08-28 is used ([source, 2026-08-28](https://integritymagazine.co.mz/arquivos/68263)).
-- INTIC president Lourino Chemane said on 2026-08-25 that the authorities were preparing to submit the draft data protection law to parliament; no submission date is stated ([source, 2026-08-25](https://clubofmozambique.com/news/mozambique-calls-to-strengthen-data-protection-digital-space-legislation/)).
-- Communications and Digital Transformation Minister Americo Muchanga said on 22 July 2026 that Mozambique is consolidating its legal framework with a future personal data protection law still in preparation, and asked industry to take part in the discussion before approval ([source, 2026-07-22](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)).
+*Advancing.*
+
+- The Assembly of the Republic's Standing Commission (CPAR) decided on 2026-10-01 to place a draft law on Personal Data Protection on the initial 35-item agenda of the 4th Ordinary Session opening 2026-10-28 ([source, 2026-10-01](https://clubofmozambique.com/news/mozambique-parliament-convenes-extraordinary-and-ordinary-sessions-for-october/)).
+- The statement says the Government approved a proposed Personal Data Protection Law and submitted it to the Assembly of the Republic for consideration ([source, 2026-04-20](https://unctad.org/system/files/non-official-document/ecn162026_s08_mr_mozambique_miquidade_en.pdf)).
 
 ### Namibia: 2 Nascent
 

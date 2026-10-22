@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-08-mus-technologie-maurice-se-dote-d-une-artificial-intelligence-unit",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "L'Express reports the ICT ministry is upgrading the existing government chatbot, whose new version keeps the name DIVA, and that Cabinet approved DIVA as the official chatbot for all ministries and departments, to roll out in phases starting with 15.",
+   "as_of": "2025-12-08",
+   "date_precision": "day",
+   "system": "DIVA",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIVA",
+   "country_label": "Mauritius",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of ICT and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

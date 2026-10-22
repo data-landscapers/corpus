@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI-boosted automated data analysis and cross-checking system on the import platform",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "ministry digital platform",
+   "owner": "Ministry of Foreign Trade and Export Promotion",
+   "tiers": ""
+  }
+ ],
+ "note": "The AI named checks import files for the foreign trade sector; recorded under aisectoral."
+}

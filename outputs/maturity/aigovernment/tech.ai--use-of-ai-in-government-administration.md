@@ -21,9 +21,9 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 9 |
+| 4 Operating | 11 |
 | 3 Established | 20 |
-| 2 Nascent | 8 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 15 |
@@ -78,6 +78,13 @@ A federal AI chatbot and a Lagos State agency chatbot were in service by 2026; r
 - Nigeria launched GovGuide, an AI chatbot on Meta's Llama models giving government service information by voice and text in English, Hausa, Igbo and Yoruba, built with the Ministry of Communications, NCAIR and Publica AI ([source, 2026-05-21](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/)).
 - The Lagos State Domestic and Sexual Violence Agency announced on 24 February 2025 Ask INU, a WhatsApp-based AI chatbot giving survivors immediate information and referrals ([source, 2025-02-24](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors)).
 
+### Rwanda: 4 Operating
+
+The central bank and the infrastructure ministry ran AI agents in 2025; rules or a register for government AI are not known.
+
+- Proto says the National Bank of Rwanda deployed its Intumwa AI agent in 2021 to process complaints across more than 600 financial institutions, and was expanding it as of November 2025 ([source, 2025-11](https://www.proto.cx/resource/rwandas-government-and-proto-partner-to-deploy-integrated-ai-citizen-support-agents)).
+- A MININFRA official posted that the ministry and Rwanda Housing Authority released an AI agent on the Kubaka.gov.rw permits platform that reviews architectural designs for compliance with the Building Code and zoning rules ([source, 2025-11-04](https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC)).
+
 ### South Africa: 4 Operating
 
 Home Affairs and the public service department ran AI systems in 2026; rules for the government's own use of AI are not known.
@@ -91,6 +98,13 @@ Tanzania's e-Government Authority runs an AI system used by two public instituti
 
 - The e-Government Authority (e-GA) says its Msaada AI system is in use by the Tanzania Tourist Board on its website and by the President's Office Public Service Management in its e-Mrejesho system ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
 - The e-Government Authority says Msaada AI is used by two institutions, the Tanzania Tourist Board and the President's Office Public Service Management ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
+
+### Uganda: 4 Operating
+
+The aviation authority and NITA-U used AI in services in 2026; rules or a register for government AI are not known.
+
+- The Daily Monitor reported on 9 October 2026 that the Uganda Civil Aviation Authority runs Entebbe airport car parks on entervo V3 with AI and machine-learning number-plate recognition, installed by Samanga Utilities Limited, per UCAA's Vianney Luggya ([source, 2026-10-09](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)).
+- NITA-U's Julian Rweju said government is using AI on its core platforms to generate predictive reports from National ID logins on the portal and e-services, to customise services ([source, 2026-10-01](https://www.newvision.co.ug/category/news/govt-to-launch-national-ai-strategy-this-year-NV_241670_102026)).
 
 ### Algeria: 3 Established
 
@@ -160,6 +174,13 @@ A government body used an AI system in service in 2026; AI in several bodies is 
 
 - FrontPage Africa reports that a Central Bank of Liberia employee invented a banking system, the 'First Sovereign AI Infrastructure for Predicting Macroeconomic Forecasting and Financial Intelligence in the Region', which the bank is currently using ([source, 2026-07-22](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/)).
 
+### Mauritius: 3 Established
+
+The ICT ministry ran a government chatbot it was upgrading as DIVA in 2025; AI in service in several bodies is not known.
+
+- L'Express reports the ICT ministry is upgrading the existing government chatbot, whose new version keeps the name DIVA, and that Cabinet approved DIVA as the official chatbot for all ministries and departments, to roll out in phases starting with 15 ([source, 2025-12-08](https://lexpress.mu/node/552290)).
+- The Pay Research Bureau refers to an existing Government Chatbot, to be revamped into DIVA ([source, 2026](https://prb2026.govmu.org/downloads/volume1/digital.pdf)).
+
 ### Mozambique: 3 Established
 
 Mozambique's central bank has run an AI chatbot since 2025; whether other government bodies use AI is not known.
@@ -173,17 +194,17 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 - A NUST master's thesis evaluates the government's Pocket Guide 2.0 Pocket Bot AI chatbot as a digital self-service tool for civil servants, based on interviews with 20 civil servants who used it ([source, 2025-01-31](https://ir.nust.na/items/97b0e777-f3f9-4918-8cfb-26a6cff001d3)).
 - The Prime Minister said the launched Digital Pocket Guide 2.0 has an AI chatbot, Pocketbot, through which civil servants ask questions and receive instant answers on public service HR policies ([source, 2023-11-24](https://nbcnews.na/node/103524)).
 
-### Rwanda: 3 Established
-
-Rwanda's central bank has run an AI complaints agent since 2021; a second body's agent was in design in 2025.
-
-- Proto says the National Bank of Rwanda deployed its Intumwa AI agent in 2021 to process complaints across more than 600 financial institutions, and was expanding it as of November 2025 ([source, 2025-11](https://www.proto.cx/resource/rwandas-government-and-proto-partner-to-deploy-integrated-ai-citizen-support-agents)).
-
 ### Senegal: 3 Established
 
 Senegal's public-service portal has run an AI chatbot since 2025; other AI uses are pilots, and rules for its use are not known.
 
 - Polygon says Senegal's chatbot Anta, developed by Sénégal Numérique SA, uses AI intent detection and voice recognition to answer users and guide them through administrative procedures on the Service Public portal ([source, 2025-08-25](https://www.polygon.sn/anta-lia-au-service-du-citoyen/)).
+
+### Seychelles: 3 Established
+
+Border control used a facial-recognition corridor with AI risk scoring in 2025; AI in service in a second body is not known.
+
+- Travizory says its FaceLane facial-recognition border corridor is deployed in Seychelles for citizens and resident diplomats, within an eBorder platform that classifies travellers by AI-powered pre-travel risk assessment ([source, 2025-07-28](https://www.travizory.com/travizory-celebrates-landmark-facelane-deployments)).
 
 ### Sierra Leone: 3 Established
 
@@ -196,12 +217,6 @@ Sierra Leone's education ministry has used an internal AI chatbot since 2026; wh
 Sudan's higher education ministry has run an admissions chatbot since 2026; whether other government bodies use AI is not known.
 
 - Sudan's Ministry of Higher Education and Scientific Research launched, per a ministry communique reported by allAfrica, an automated chatbot assistant on its admission.gov.sd portal giving instant Arabic answers to applicants for the 2026-2027 intake, routing complex or personal-data queries to human agents ([source, 2026-09-25](https://fr.allafrica.com/stories/202609250240.html)).
-
-### Uganda: 3 Established
-
-The civil aviation authority ran AI number-plate recognition in 2026; AI in a second government body is not known.
-
-- The Daily Monitor reported on 9 October 2026 that the Uganda Civil Aviation Authority runs Entebbe airport car parks on entervo V3 with AI and machine-learning number-plate recognition, installed by Samanga Utilities Limited, per UCAA's Vianney Luggya ([source, 2026-10-09](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)).
 
 ### Zambia: 3 Established
 
@@ -246,19 +261,6 @@ Two Libyan government bodies were building AI systems in 2026; none is known to 
 
 - The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development ([source, 2026](https://lana.gov.ly/post.php?id=358534&lang=en)).
 - Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished ([source, 2026-04-14](https://ar.libyaobserver.ly/article/36835)).
-
-### Mauritius: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- The blog by Vishal Askurn says the Bank of Mauritius has explored AI and machine-learning applications within its own operations, including document processing, information gathering, data analytics and forecasting ([source, 2026-09-28](https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead)).
-- Mauritius Telecom's CEO says MyTLearn, an AI education platform with an AI tutor developed in partnership with the Ministry of Education, completed pilots across ten schools, with a goal of an AI coach for every secondary school teacher by 2027 ([source, 2026-07](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
-
-### Seychelles: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- UNDP says AI virtual agents are being deployed by public agencies in Victoria, Seychelles, across web, SMS and voice channels to give policy information ([source, 2026-02-23](https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/)).
 
 ### Tunisia: 2 Nascent
 

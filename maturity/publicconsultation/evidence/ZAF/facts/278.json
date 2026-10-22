@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-zaf-sabs-publishes-draft-ai-standards-for-public-comment",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The South African Bureau of Standards invited organisations that develop or use AI and other interested parties to comment on its draft AI standards by 10 November 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "SABS draft AI standards comment call",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

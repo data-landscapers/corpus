@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,general,authority,qualifier,constituted,2026-09-30,TGO-002;TGO-005;TGO-008;TGO-010;TGO-012;TGO-014;TGO-017,TGO-021=provided,
-TGO,general,standing,coverage,in-force,2026-09-15,TGO-004;TGO-009,TGO-020=transition;TGO-019=enacted,
+TGO,general,authority,qualifier,constituted,2026-10-19,TGO-002;TGO-005;TGO-008;TGO-010;TGO-012;TGO-014;TGO-017;TGO-023,TGO-021=provided,
+TGO,general,standing,coverage,in-force,2026-10-20,TGO-004;TGO-009;TGO-022,TGO-020=transition;TGO-019=enacted,
 TGO,general,regulations,coverage,,,,,nothing held
 TGO,general,application,coverage,activity,2026-09-30,TGO-001;TGO-006;TGO-011;TGO-015;TGO-018,,
 TGO,general,last12,qualifier,advancing,2026-09-30,TGO-003;TGO-007;TGO-013;TGO-016,,

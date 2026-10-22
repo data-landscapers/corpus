@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-21-nga-businessday-udo-compliance-audit-return-model",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The General Application and Implementation Directive 2025 issued under the Nigeria Data Protection Act 2023 has been in force since September 2025.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Nigeria Data Protection Commission is doing the supervisory job: it receives Compliance Audit Returns and licenses Data Protection Compliance Organisations.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The NDPC issued compliance notices in 2025, named 649 higher-education institutions in February 2026 for documentation within 21 days, publishes organisations that have filed returns and issues annual compliance marks, according to Blessing Udo.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NDPC Compliance Audit Return framework",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

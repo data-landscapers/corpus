@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-tun-gdpr-tunisian-law-and-ai-obligations-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Lawyer Zied El Air says Organic Law No. 2004-63 of 27 July 2004 is enforced by the National Authority for the Protection of Personal Data (INPDP), which in February 2026 was heard by the parliamentary committee on the replacement bill.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "INPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Authority for the Protection of Personal Data (INPDP)",
+   "country_label": "Tunisia",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

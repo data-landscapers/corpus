@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-20-tgo-mdias-et-protection-des-donnes-personnelles-lipdcp-et-la-harc-renforce",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The IPDCP refers to compliance with the requirements of Togo's law on the protection of personal data as a standing obligation of media organisations.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "loi relative à la protection des données à caractère personnel",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The IPDCP, headed by president Colonel Béléi Bédiani, is at work and put a team into HARC's monitoring service on 19 October 2026.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Instance de Protection des Données à Caractère Personnel (IPDCP)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The IPDCP team will watch media practice on personal data and answer each case with support, awareness-raising or the measures the law provides, the IPDCP says.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "IPDCP and HARC media monitoring",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-24-ben-dossier-d-appel-d-offres-pour-la-mise-en-oeuvre-des-solutions-d-ia-dev",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Agence des Systèmes d'Information et du Numérique (ASIN) opened a tender on 24 June 2024 for a platform of conversational assistants and GPT BJ use cases, with bids due 25 July 2024.",
+   "as_of": "2024-06-24",
+   "date_precision": "day",
+   "system": "GPT BJ",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPT BJ",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "conversational assistant platform",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

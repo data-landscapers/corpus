@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-bdi-what-is-ai-regulation-in-burundi",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Levellers says the data protection law of 10 March 2026 creates a Personal Data Protection Agency but leaves its missions and organisation to a later decree, and no operational authority was identified.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Personal Data Protection Agency",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

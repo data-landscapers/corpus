@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-07-sle-educaid-fab-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TheTeacher.AI",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "WhatsApp chatbot on GPT-3.5-turbo",
+   "owner": "Fab Data",
+   "tiers": ""
+  }
+ ],
+ "note": "Pilot by a start-up and an NGO with teachers; no government body named as user."
+}

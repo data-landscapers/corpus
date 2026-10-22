@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ssd-south-sudan-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Diplo's profile says South Sudan lacks a fully operational data protection regime and the government has said it plans to introduce its first Data Protection Bill in 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Data Protection Bill",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-ben-what-is-ai-regulation-in-benin",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Levellers says the Agence des Systemes d'Information et du Numerique (ASIN) built GPT BJ, a government chatbot answering questions on the tax, digital, labour and penal codes, presented on 11 May 2023.",
+   "as_of": "2023-05-11",
+   "date_precision": "day",
+   "system": "GPT BJ",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPT BJ",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "chatbot",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

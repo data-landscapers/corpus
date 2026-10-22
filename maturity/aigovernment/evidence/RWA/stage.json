@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002",
-      "gaps": "No source held shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2026-10-21: the National Bank's Intumwa agent is AI in service in one public body; MINALOC's Mbaza was still being designed, so no second body is held.",
-      "as_at": "2026-10-21"
+      "stage_sources": "RWA-002;RWA-003",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2025-11-04: MININFRA and the Rwanda Housing Authority released an AI agent on the Kubaka building-permits platform, a second body beside the National Bank's Intumwa agent. No rules or register are held, so not stage 5.",
+      "as_at": "2026-10-22"
     }
   ]
 }

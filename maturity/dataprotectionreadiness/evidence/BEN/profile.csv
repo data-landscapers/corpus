@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,system,law,coverage,in-force,2026-09-05,BEN-005;BEN-007;BEN-008;BEN-018;BEN-021;BEN-028,BEN-015=not-yet,
-BEN,system,treaty,coverage,ratified,2024-05-14,BEN-014,,
-BEN,system,authority,coverage,appointed,2026-10,BEN-001;BEN-002;BEN-004;BEN-010;BEN-019;BEN-022;BEN-023;BEN-024;BEN-025;BEN-026;BEN-027;BEN-029,BEN-006=none;BEN-016=none,
+BEN,system,law,coverage,in-force,2026-09-05,BEN-005;BEN-007;BEN-008;BEN-018;BEN-021;BEN-028;BEN-030,BEN-015=not-yet,
+BEN,system,treaty,coverage,ratified,2024-11-26,BEN-014;BEN-031,,
+BEN,system,authority,coverage,appointed,2026-10,BEN-001;BEN-002;BEN-004;BEN-010;BEN-019;BEN-022;BEN-023;BEN-024;BEN-025;BEN-026;BEN-027;BEN-029;BEN-032,BEN-006=none;BEN-016=none,
 BEN,system,practice,coverage,ruling,2025,BEN-003;BEN-011;BEN-012;BEN-013,BEN-020=implementing;BEN-009=implementing;BEN-017=implementing,

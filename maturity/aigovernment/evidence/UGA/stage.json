@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001",
-      "gaps": "No source held says AI is in service in two or more government bodies.",
-      "note": "Rebuild 2026-10-20: the Civil Aviation Authority runs Entebbe's car parks on AI number-plate recognition, an AI system in service; no second body is held.",
-      "as_at": "2026-10-20"
+      "stage_sources": "UGA-001;UGA-005",
+      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-10-01: NITA-U says it uses AI on the National ID portal and e-services to detect users' patterns, a second body beside the Civil Aviation Authority's number-plate recognition. No rules or register are held, so not stage 5.",
+      "as_at": "2026-10-22"
     }
   ]
 }

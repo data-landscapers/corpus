@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-tgo-mdias-et-protection-des-donnes-personnelles-lipdcp-et-la-harc-renforce",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Togo's Instance de Protection des Données à Caractère Personnel (IPDCP), headed by its president Colonel Béléi Bédiani, put a team into the media regulator HARC's monitoring service on 19 October 2026, as the IPDCP itself reported.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "Instance de Protection des Données à Caractère Personnel (IPDCP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPDCP",
+   "country_label": "Togo",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

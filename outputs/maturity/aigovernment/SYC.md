@@ -2,12 +2,12 @@
 
 ## AI in administration
 
-**AI in service.** [UNDP says AI virtual agents are being deployed by public agencies in Victoria, Seychelles, across web, SMS and voice channels to give policy information](<https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**AI in service.** Seychelles' border control uses the [FaceLane facial-recognition corridor](<https://www.travizory.com/travizory-celebrates-landmark-facelane-deployments>) for citizens and resident diplomats entering the country, its maker Travizory said in July 2025. The corridor sits inside an eBorder platform that classifies each traveller by an AI-powered risk assessment made before travel, and flags them by colour for border officers.
 
-**Several bodies.** No source held since October 2023 says AI is in service in two or more government bodies. The nearest held fact: [the one given above](<https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/>).
+**Several bodies.** Only the border system is held in service in a named government body. UNDP says [AI virtual agents are being deployed by public agencies in Victoria](<https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/>) to give policy information over web, SMS and voice.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://sdglocalaction.org/how-cities-are-using-artificial-intelligence-to-deliver-services/>).
+**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is [Travizory's account of the border corridor](<https://www.travizory.com/travizory-celebrates-landmark-facelane-deployments>), which states no rules for its use.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an ai system in service in administration.
+***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.
