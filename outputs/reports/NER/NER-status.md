@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-10-19
+compiled: 2026-10-23
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 172
+sources_cited: 175
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -180,7 +180,7 @@ Trade is the exception. Niger's [National Single Window, operational since April
 <!-- derived -->
 Two foundational-identity tracks are running at once: a sovereignty-branded AES card and passport built with a Libyan vendor, and a World Bank programme piloting the open-source MOSIP platform with an Indian supplier.
 
-The second is far smaller: the [WURI project's MOSIP lab has registered around 500 people (2026)](https://www.wuri.ne/lab-mosip/). [WURI-Niger, launched in October 2022, was restructured after July 2023 and folded into the Refondation programme, making the World Bank project the statutory backbone of the new National Population Register](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), and it carries [an objective of issuing national digital ID to at least 22 million people by 2026](https://www.biometricupdate.com/202502/bioenable-powers-niger-pilot-for-mosip-based-national-digital-id). A [World Bank progress report recorded the national identity law still awaiting validation in January 2025, and the foundational identity system not yet procured](https://documents1.worldbank.org/curated/en/099031425184536166/pdf/P169594-102a7b9c-14a0-418a-8031-eea7e326e006.pdf).
+The second is far smaller: the [WURI project's MOSIP lab has registered around 500 people (2026)](https://www.wuri.ne/lab-mosip/). [The project consulted the market in June 2026 on a twelve-month contract to design and install a biometric identification system integrated with MOSIP, to be deployed first for the National Population Register, ahead of an international request for proposals](https://www.wuri.ne/wp-content/uploads/2026/06/Early_Market_Engagement_Notice_WURI_Niger_EN.pdf). [WURI-Niger, launched in October 2022, was restructured after July 2023 and folded into the Refondation programme, making the World Bank project the statutory backbone of the new National Population Register](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), and it carries [an objective of issuing national digital ID to at least 22 million people by 2026](https://www.biometricupdate.com/202502/bioenable-powers-niger-pilot-for-mosip-based-national-digital-id). A [World Bank progress report recorded the national identity law still awaiting validation in January 2025, and the foundational identity system not yet procured](https://documents1.worldbank.org/curated/en/099031425184536166/pdf/P169594-102a7b9c-14a0-418a-8031-eea7e326e006.pdf).
 
 Reach is the weak point. A [World Bank case study found 55% of the population facing difficulties obtaining identity credentials (2022)](https://openknowledge.worldbank.org/bitstreams/1011d9fb-2c8b-4066-a1b1-01cf6bcd0f1d/download), against a [third-of-54 Ibrahim Index ranking on public perception of how easy an identity document is to obtain, at 79.2 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf). The [WURI system is designed to cover every person physically present on the territory irrespective of nationality or legal status, and UNHCR recorded biometric registration and identity card issuance for Malian and Nigerian refugees in October 2024](https://www.unhcr.org/sites/default/files/2024-11/UNHCR%20Niger%20-%20Country%20Operational%20Update%20-%20October%202024.pdf). [Oversight rests with the Ministry of the Interior, which chairs the project's steering and technical committees](https://www.wuri.ne/mot-du-coordonnateur/), and [enrolment for the AES biometric passport opened on 16 July 2026](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), produced by the police with the Libyan supplier Al Itissal Al Jadeed and a local partner. [Enrolment for the confederation's biometric national identity card opened in Agadez on 15 September 2026, with biometrics collected at the regional police headquarters and processed centrally](https://www.journalduniger.com/agadez-lancement-enrolement-carte-identite-biometrique-cnib-aes/); no count of cards enrolled or issued is published.
 
@@ -252,7 +252,7 @@ Power sets the ceiling on all of it, with [electricity access sharply urban in 2
 ### AI
 <!-- tech.ai -->
 
-Niger had adopted no national artificial intelligence strategy, policy or public AI programme as at September 2026. What runs is a single advisory tool: [Rayuwa, a text and voice assistant with image-based crop diagnosis for producers, on which the meteorology, water and plant-protection services were trained in August 2025](https://adn.ne/formation-rayuwa-ladn-renforce-les-capacites-des-institutions-techniques-pour-une-agriculture-plus-resiliente/); its operator's institutional status is not stated and no user count is published.
+Niger had adopted no national artificial intelligence strategy, policy or public AI programme as at September 2026. What runs is a single advisory tool: [Rayuwa, a text and voice assistant with image-based crop diagnosis for producers, on which the meteorology, water and plant-protection services were trained in August 2025](https://adn.ne/formation-rayuwa-ladn-renforce-les-capacites-des-institutions-techniques-pour-une-agriculture-plus-resiliente/); its operator's institutional status is not stated and no user count is published. Language resources come from researchers: [Feriji, the first French-Zarma parallel corpus and glossary](https://aclanthology.org/2024.acl-srw.1/) (2024), and [SALAN, more than 2,000 hours of audio in eight of the country's languages with 110 hours of verified Zarma and Hausa transcripts](https://aclanthology.org/2026.lrec-1.460.pdf) (May 2026).
 
 ### ICT Industry
 <!-- tech.industry -->
