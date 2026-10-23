@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: GAB
-ledger_rows: 53
+ledger_rows: 55
 not_held: 13
-record: e28db3054d28
+record: 288c8752e17c
 ---
 
 # News, Sep – Oct 2026
@@ -476,6 +476,20 @@ Gabon's transport minister Ulrich Manfoumbi Manfoumbi visited Securiport LLC's i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single payroll declaration across three administrations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Connect : TrésorPay, DUS… le Gabon mise sur le numérique pour mieux encaisser](https://www.gabonreview.com/gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-pour-mieux-encaisser/)** — GabonReview, 22 October 2026
+
+Gabon's vice-president of the government, Hermann Immongault, presented the next phase of the Gabon Connect single digital window in Libreville on 22 October 2026, deploying the single salary declaration (DUS) and TrésorPay portals. The platform groups eTax, eEmployeur, TrésorPay for non-tax and local-government revenue, eDouane and ePropriété, with full deployment due by December 2027.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -849,6 +863,20 @@ Gabon's food safety agency AGASA will launch Nexus, a digital platform for food 
 **[Gabon Launches Digital Platform to Modernize Parliamentary Work](https://techafricanews.com/2026/10/21/gabon-launches-digital-platform-to-modernize-parliamentary-work/)** — Tech Africa News, 21 October 2026
 
 Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN) on 19 October 2026 and issued tablets to members. The digital infrastructure agency ANINF trained members until 20 October on using it for committee review, government hearings and joint work on amendments.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gabon Connect single digital window</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Gabon Connect : TrésorPay, DUS… le Gabon mise sur le numérique pour mieux encaisser](https://www.gabonreview.com/gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-pour-mieux-encaisser/)** — GabonReview, 22 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
