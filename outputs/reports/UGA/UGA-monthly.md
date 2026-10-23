@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: UGA
-ledger_rows: 71
+ledger_rows: 72
 not_held: 11
-record: ee88db0c27b5
+record: 59ef5a5ad0b7
 ---
 
 # News, Sep – Oct 2026
@@ -195,6 +195,14 @@ The Uganda Communications Commission said on 13 October 2026 that about 4,000 un
 **[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026
 
 The Uganda Communications Commission said on 20 October 2026 that commercial Wi-Fi hotspot resellers must be licensed and must stop reselling home internet packages. Its seven-day deadline for unlicensed operators ended on 19 October 2026. It will open a registration system by service category and set up a joint committee with government, security agencies and seven hotspot operators.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCC Moves to Tighten Monitoring of Internet Data Resellers](https://nilepost.co.ug/business/380753/ucc-moves-to-tighten-monitoring-of-internet-data-resellers)** — Nile Post, 22 October 2026
+
+The Uganda Communications Commission agreed with mobile operators and licensed internet providers in ISPAU to tighten tracking of data consumption and billing, aimed at unlicensed resellers of bulk connectivity over public Wi-Fi. Eligible resellers are to be brought into licensing through onboarding guidelines, and illegal access points and routers removed; no date or design for the monitoring was given.
 
 </div>
 
@@ -1097,6 +1105,20 @@ Ugandan startup SANDI AI Technologies won the 2026 GoGettaz Agripreneur Prize of
 **[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sunflower 14B and 32B language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sunbird AI Launches Sunflower v2, Expanding Open African-Language AI From 31 Ugandan Languages to 67 Across the Continent](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/)** — Sunbird AI, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Five open models on Hugging Face: 67 African languages, ASR for 51, TTS for 20, an offline on-phone model.
 
 </div>
 
