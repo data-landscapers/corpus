@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "DataXion's own page says its cloud for AI rests on a 'Tier IV' datacentre in Tunisia with 99.995% availability, selling GPU cloud capacity to companies.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "DataXion datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DataXion datacenter",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "DataXion",
+   "tiers": "Tier IV (stated by operator)"
+  }
+ ],
+ "note": "No cloud region of a global provider is stated."
+}

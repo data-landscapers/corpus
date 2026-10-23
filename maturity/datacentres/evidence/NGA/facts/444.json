@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-nga-kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-read",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Kasi Cloud Datacenters says its Lekki campus opens a sovereign cloud and AI infrastructure option to Nigerian enterprises, financial institutions and government agencies, and NSIA's chief executive calls LOS1 AI-ready and open for business, while phased commissioning continues.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Kasi LOS1 (Kasi Lekki campus)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kasi LOS1 (Kasi Lekki campus)",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "carrier-neutral data centre, Lekki, Lagos",
+   "owner": "Kasi Cloud Datacenters",
+   "tiers": "aligned with TIA 942 Tier III (stated)"
+  }
+ ],
+ "note": ""
+}

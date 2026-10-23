@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-zaf-mzansi-mind-sovereign-ai-hpe-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "HPE and Equinix South Africa state that Mzansi Mind's AI infrastructure is hosted in Equinix's colocation data centre in Johannesburg.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Equinix Johannesburg colocation data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix Johannesburg colocation data centre",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

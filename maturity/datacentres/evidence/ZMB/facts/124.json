@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-zmb-paratus-zambia-launches-enterprise-grade-ai-sovereign-cloud-with-touch",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Paratus Zambia says it launched, with TouchNet, the Zadara AI Sovereign Cloud for businesses, MSPs and CSPs, hosted at the Paratus Zambia Data Center, which it calls Zambia's most advanced carrier-neutral facility.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "Paratus Zambia Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Zambia Data Center",
+   "country_label": "Zambia",
+   "class": "datacentre",
+   "platform": "carrier-neutral data centre hosting Zadara AI Sovereign Cloud",
+   "owner": "Paratus Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

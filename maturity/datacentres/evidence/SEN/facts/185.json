@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-27-sen-le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-s",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Diamniadio datacenter",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Senegal numerique SA (SENUM SA)",
+   "tiers": ""
+  }
+ ],
+ "note": "The document names the Diamniadio datacenter but does not say it rents space or computing to others; the CINERI datacentre is only a project."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The release describes iXAfrica's NBOX1 campus in Nairobi as a carrier-neutral, colocation and cloud data centre hosting the Servernah AI factory, with 'Tier 3 standards of reliability' (the operators' own statement).",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "iXAfrica NBOX1 (Nairobi One Campus)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica NBOX1 (Nairobi One Campus)",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica Data Centres",
+   "tiers": "Tier 3 standards (stated)"
+  }
+ ],
+ "note": "Only one facility; no cloud region of a global provider is named."
+}
