@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-cpv-assinaturas-de-internet-fixa-aumentam-14-7-num-ano",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ARME's Q2 2026 market indicators report gives Starlink a 0.87% share of Cabo Verde's 500,263 internet access subscriptions.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
