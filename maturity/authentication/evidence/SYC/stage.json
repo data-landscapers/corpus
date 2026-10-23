@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "5",
+      "stage": "4",
       "service": "inservice",
       "reach": "several",
-      "remote": "wallet",
+      "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-010;SYC-009;SYC-004;SYC-002",
-      "gaps": "The wallet and app use rest on WISeKey's own 2024 release; no government source says how many people use them.",
-      "note": "WISeKey says the SeyID app gives passwordless access and its e-wallet holds the National ID as a digital card with a QR code for third-party checks (SYC-010, SYC-009); SeyID gates government e-services on a portal hosting all entities' systems (SYC-004, SYC-002). Top rung.",
+      "stage_sources": "SYC-004;SYC-002",
+      "gaps": "The SeyID e-wallet holding the National ID as a checkable digital card rests only on WISeKey's own 2024 release; no state source shows the authorities accept it as proof of identity, and the state's ID-Wallet page shows a driving licence only.",
+      "note": "Reassessed under Bill's ruling of 23 October 2026 that a method counts only where the state accepts it: the e-wallet's National ID card is shown only by its supplier, WISeKey, so it sets no rung. SeyID, validated against the Civil Status System, gates government e-services on a portal hosting all entities' systems (SYC-004, SYC-002), which is stage 4.",
       "as_at": "2026-10-23"
     }
   ]

@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-authentication.md — services that confirm online who a person is, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-23
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Across services | Yes to 3 |
 | 5 Remote ID | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`several`) for 3 and `remote` (`wallet`) for 4.
+A later yes answers the earlier ones (method §3.3). **State acceptance applies to every rung** *(Bill, 2026-10-23)*: an authentication service, e-signature, mobile ID or digital wallet counts toward a rung only where the state accepts it, by recognising it in law, running it or having it run for a state body, or accepting it for access to state services. A private or vendor app the authorities do not recognise counts for nothing. `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`several`) for 3 and `remote` (`wallet`) for 4.
 
 ## 4. The norm
 

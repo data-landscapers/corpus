@@ -117,10 +117,10 @@
    "norm_short": "The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask for authentication and e-signature services in layers, up to remote authentication recognised across borders.",
    "criteria": [
     "A source from the past three years says no digital authentication service exists; credentials are checked by eye.",
-    "An authentication, e-signature or PKI service is authorised, contracted or piloted.",
-    "An authentication service is in use for one purpose: a certification authority operating, or an online check of the ID for one system.",
-    "Authentication is used across services or channels: licensed trust service providers, a verification service used by several bodies, mobile ID.",
-    "People prove who they are online with a mobile ID app, a digital ID wallet or signed digital credentials in service."
+    "A state-accepted authentication, e-signature or PKI service is authorised, contracted or piloted.",
+    "A state-accepted authentication service is in use for one purpose: a certification authority operating, or an online check of the ID for one system.",
+    "State-accepted authentication is used across services or channels: licensed trust service providers, a verification service used by several bodies, mobile ID.",
+    "People prove who they are online with a state-accepted mobile ID app, digital ID wallet or signed digital credentials in service."
    ],
    "criteria_of": "25cf37caa6b6"
   }

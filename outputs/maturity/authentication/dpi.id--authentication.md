@@ -20,8 +20,8 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 15 |
-| 4 Operating | 12 |
+| 5 Leading | 13 |
+| 4 Operating | 14 |
 | 3 Established | 10 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
@@ -36,15 +36,6 @@ People could prove who they are online with a digital ID in 2024.
 
 - The page says citizens holding the National ID Card can obtain the CMDCV online and authenticate with a PIN plus a one-time code received by SMS or through the CMDCV mobile application, with a qualified electronic signature ([source, 2024](https://portal-autentika.gov.cv/en/cabo-verde-mobile-digital-key)).
 - IMIJ states SNIAC supplies identification and authentication (e-ID) data and services to dozens of public and private bodies, including banks and insurers, through more than 134 configured services/APIs and over 30 million requests ([source, 2026-01-12](https://imij.gov.cv/noticias/cms-noticia-24)).
-
-### Cote d'Ivoire: 5 Leading
-
-Since 2025 an app with ONECI holds the national ID card on a phone; whether authorities accept it is not known.
-
-- Digital Mag says the Cote d'Ivoire Identite app, built with ONECI, Mastercard and Paynah, holds a person's national ID card (CNI) on a phone behind fingerprint or face login, and became available for download on 5 August 2025 ([source, 2025-08-05](https://digitalmag.ci/digitalisation-lapplication-cote-divoire-identite-est-officiellement-disponible/)).
-- Digital Mag says documents generated in the Cote d'Ivoire Identite app are authenticated through a certified ONECI system (CEV), and the app was released on 5 August 2025 ([source, 2025-08-05](https://digitalmag.ci/digitalisation-lapplication-cote-divoire-identite-est-officiellement-disponible/)).
-- The DMOA says it is expanding electronic signature use across public administration, now reaching municipal officials in Marcory with support from the DGDDL and ANSSI ([source, 2026-09-15](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/)).
-- ANSSI CI announced on 24 July 2026 that the national public key infrastructure (PKI) is in service, at the top of the issuing tree for electronic certificates ([source, 2026-07-24](https://www.anssi.ci/)).
 
 ### Djibouti: 5 Leading
 
@@ -108,15 +99,6 @@ In 2026 people used an identity app to prove who they are for SIM, passport, tax
 - Arise News reports NIMC encourages Nigerians to download the NIN Authentication (NINAuth) app for secure digital verification ([source, 2026-03-04](https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/)).
 - The article says SIM registration, tax filing and banking now run through the same NINAuth identity rail, alongside police, road safety and immigration services (published date used) ([source, 2026-10-05](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/)).
 
-### Seychelles: 5 Leading
-
-A government app holds the national ID for online access and checks, per its supplier in 2024; how many use it is not known.
-
-- WISeKey says the SeyID app integrates an e-wallet storing the National ID and driver licence, generating a digital ID card with a QR code for third-party verification ([source, 2024-04-22](https://www.wisekey.com/press/wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a-digital-identity-platform/)).
-- WISeKey says in its 22 April 2024 release that SeyID, built on its WISeID platform, supports online KYC onboarding, one-time password authentication, QR-code login and digital signature of documents ([source, 2024-04-22](https://www.wisekey.com/press/wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a-digital-identity-platform/)).
-- The SeyID page says government e-services that require SeyID need a 60% validation level, which is reached by checking the holder's NIN card or passport video against the Civil Status System ([source, 2024](https://seyid.gov.sc)).
-- Seychelles Nation reports the Agency for Social Protection's ASP Connect platform, launched internally on 15 October 2025, is accessible through the SeyID portal, which hosts all government entities' systems; the free text gives no detail of what SeyID checks ([source, 2025-10-15](https://www.nation.sc/articles/27935/asp-launches-digital-system)).
-
 ### Somalia: 5 Leading
 
 People could prove who they are online with a digital ID in 2026.
@@ -179,6 +161,15 @@ In 2026 secure e-signature was live in 37 of 40 administrations; proving identit
 - Secure electronic signature is operational in 37 of 40 administrations on the AIGLE platform, per figures given at the summit ([source, 2026-10](https://leconomie.info/article/digitalisation-e-gov-africa-mise-sur-lia-pour-moderniser-les-services-publics)).
 - Cameroon's Ministry of Public Contracts said an Electronic Certificate, used mainly to authenticate the identity of individuals or legal persons using the COLEPS e-procurement platform, is acquired by users, who were being trained on it from 10 October 2024 ([source, 2024-10-10](https://theguardianpostcameroon.com/post/4439/en/homesensitise-train-stakeholders-on-e-procurement-system-home)).
 
+### Cote d'Ivoire: 4 Operating
+
+Authentication was used across services in 2026; the ID app released in 2025 is not recognised by the authorities.
+
+- The DMOA says it is expanding electronic signature use across public administration, now reaching municipal officials in Marcory with support from the DGDDL and ANSSI ([source, 2026-09-15](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/)).
+- The Directorate for the Modernisation of Administrative Organisation (DMOA) enrolled the mayor of Marcory and the municipality's secretary-general into the public administration electronic signature system on 15 September 2026, with ANSSI present to validate the enrolments ([source, 2026-09-15](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/)).
+- ANSSI CI announced on 24 July 2026 that the national public key infrastructure (PKI) is in service, at the top of the issuing tree for electronic certificates ([source, 2026-07-24](https://www.anssi.ci/)).
+- ANSSI CI states the national PKI is the trust base for all certification authorities operating in Cote d'Ivoire and supports the national electronic trust service providers ([source, 2026-07-24](https://www.anssi.ci/)).
+
 ### Egypt: 4 Operating
 
 In 2026 a national digital identity verified users of several government services; proving identity online with an app or wallet is not known.
@@ -207,6 +198,13 @@ Authentication was used across services in 2026; remote proof of identity by a d
 
 - Vital Strategies says Rwanda's digital system connects with hospitals, government agencies and businesses and supports access to around 200 essential services ([source, 2026-08-13](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure)).
 - Vital Strategies says Rwanda's digitised birth registration integrated with the national ID system has led to real-time identity verification across previously siloed sectors ([source, 2026-08-13](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure)).
+
+### Seychelles: 4 Operating
+
+SeyID sign-in was used across government e-services in 2025; a state-accepted ID wallet is not known.
+
+- The SeyID page says government e-services that require SeyID need a 60% validation level, which is reached by checking the holder's NIN card or passport video against the Civil Status System ([source, 2024](https://seyid.gov.sc)).
+- Seychelles Nation reports the Agency for Social Protection's ASP Connect platform, launched internally on 15 October 2025, is accessible through the SeyID portal, which hosts all government entities' systems; the free text gives no detail of what SeyID checks ([source, 2025-10-15](https://www.nation.sc/articles/27935/asp-launches-digital-system)).
 
 ### Sierra Leone: 4 Operating
 
@@ -242,7 +240,6 @@ In 2026 one-time-code login on the ID number served public services and banks; r
 An authentication service was in use in 2026; use across services is not known.
 
 - Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
-- Tech By Tech's CEO says AngolaID has been in operation since 2024 and offers API and SDK verification, authentication and liveness checks to institutions ([source, 2024](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/)).
 
 ### Botswana: 3 Established
 

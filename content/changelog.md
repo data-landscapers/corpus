@@ -1,5 +1,6 @@
 ## 23 October 2026
 
+- The authentication indicator now counts an ID app, e-signature or wallet only where the state accepts it: recognised in law, run for a state body or accepted by state services. Côte d'Ivoire and Seychelles move from stage 5 to 4, their ID apps' digital cards not shown to be accepted by the authorities.
 - The health reporting indicator's stage 4 now needs evidence that primary clinics themselves enter their reports; a share of all health facilities no longer settles it. Togo moves from stage 4 to 3, and no country is now at stage 4.
 - Country reports now count non-state finance the way the finance tables do: deals mainly for something other than digital, such as cash transfers or budget support, are no longer presented as digital investment, and where a deal is only partly digital the report says the digital share is not stated. Totals quoted in the reports now match each country's table.
 - Ghana's 2024 identity-authority line now shows the Appropriation Bill's GHS 212.2m, including staff, in place of the Budget Statement's 165m. Ghana's 2024 and 2025 figures for the authority are now counted the same way.
