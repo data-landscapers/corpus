@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: TZA
 ledger_rows: 81
 not_held: 5
-record: 44081cd27de1
+record: d236a1a022d9
 ---
 
 # News, Sep – Oct 2026
@@ -552,7 +552,7 @@ Tanzania's Deputy Minister for Communication and IT, Switbert Mkama, called on p
 
 **[NIDA yazindua Kampeni ya Kipo Chukua, Kamilisha Safari Yako](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)** — Jamhuri Media, 2 September 2026
 
-157 institutions linked to NIDA verification by August 2026 (72 public, 85 private); 1.5m+ cards uncollected.
+Tanzania's National Identification Authority (NIDA) launched a campaign urging registered citizens to collect and properly use their national ID cards, running from 1 September to a peak on 16 September 2026, World Identity Day, with services continuing to 30 September. Government spokesman Gerson Msigwa said more than 21 million cards have been produced, over 1.5 million of them uncollected, and that by August 2026 some 157 institutions (72 public, 85 private) were connected to NIDA's verification system. Plans include new card-printing technology, adding health insurance, EAC travel and driving-licence data to the card, registering under-18s, and face and iris recognition for people whose fingerprints cannot be captured.
 
 </div>
 

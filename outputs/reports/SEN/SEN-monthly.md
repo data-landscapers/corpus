@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: SEN
 ledger_rows: 66
 not_held: 2
-record: 557c957eed6a
+record: deeb2b10548b
 ---
 
 # News, Sep – Oct 2026
@@ -172,7 +172,7 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 
 **[Note publique au Premier ministre Identité numérique et e-gouvernement : Les préalables sans lesquels le chantier ne peut avancer](https://www.osiris.sn/note-publique-au-premier-ministre-identite-numerique-et-e-gouvernement-les.html)** — OSIRIS, 20 October 2026
 
-Economist Seydou Bocoum: five unmet prerequisites for Senegal's digital ID, from coverage gaps to unfinished addressing.
+In an open note to Senegal's prime minister, economist Seydou Bocoum argues that the new digital governance committee (GouvNum) cannot deliver digital identity and e-government until five prerequisites are met: practical access to information under law 2025-15, reliable networks, a working national addressing system, a social data tariff and visible sanctions by the regulator ARTP. He cites ARTP tests in Popenguine in June 2025 where call and data success rates fell well below regulatory thresholds, and proposes a 30-day stocktake followed by an interministerial action plan within 60 to 90 days.
 
 </div>
 

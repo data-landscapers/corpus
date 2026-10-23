@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: BDI
 ledger_rows: 22
 not_held: 10
-record: a6119f3759d0
+record: e50d8918e43a
 ---
 
 # News, Sep – Oct 2026
@@ -370,7 +370,7 @@ Burundi scored 0.70 out of 4 on the Africa AI Governance Index 2026, in the Nasc
 
 **[Ijwi-ry-Ikirundi-AI/Kirundi_Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Ijwi ry'Ikirundi AI, 28 September 2026
 
-Volunteer Kirundi-French-English corpus: 4,809 sentences, 2,996 complete pairs; full set private, commercial licence.
+The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sentences awaiting translation, each with a machine draft, under CC BY-NC 4.0 for its contribution app. The full dataset, kept private and available on request including for commercial licences, holds 4,809 Kirundi sentences of which 2,996 are complete Kirundi-French-English pairs, but only one validated three-second recording.
 
 </div>
 

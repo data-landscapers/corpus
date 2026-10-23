@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: ZMB
 ledger_rows: 46
 not_held: 34
-record: 3acc551931f3
+record: 9f37eb0b8ca2
 ---
 
 # News, Sep – Oct 2026
@@ -56,7 +56,7 @@ record: 3acc551931f3
 
 **[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
+Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap.
 
 </div>
 

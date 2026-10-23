@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: feb414ff02d1
+record: 75ce30baa874
 ---
 
 # News, Sep – Oct 2026
@@ -2975,6 +2975,22 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 **[Media Statement: Committee Concerned as Public Service Institution Connectivity Reaches Only 49.1% of Spectrum Obligation Target](https://www.parliament.gov.za/press-releases/media-statement-committee-concerned-public-service-institution-connectivity-reaches-only-491-spectrum-obligation-target)** — Parliament of South Africa, 14 October 2026
 
 South Africa's mobile operators had connected 10,851 of the 21,878 public service institutions required under their 2022 spectrum licence obligations, 49.1%, by March 2026, the regulator ICASA told Parliament's communications committee on 14 October 2026. Vodacom, Telkom and Liquid met the 65% minimum threshold; MTN and Rain did not.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Policy direction on network deployment and facilities leasing, 2026</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Malatsi orders faster broadband rollout as Icasa seeks to cut internet costs](https://www.citizen.co.za/lifestyle/technology/malatsi-orders-faster-broadband-rollout-icasa-moves-cut-internet-costs-sa/)** — The Citizen, 22 October 2026
+
+South Africa's communications minister Solly Malatsi issued a policy direction to Icasa under the Electronic Communications Act, gazetted on 20 October 2026, building on the 2023 rapid-deployment policy. It directs a review of the 2010 Facilities Leasing Regulations, new rapid-deployment regulations, a national GIS database of communications infrastructure and a dispute-resolution process between operators and landowners.
 
 </div>
 

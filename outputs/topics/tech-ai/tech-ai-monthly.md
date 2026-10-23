@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e5b99987b335
+record: e6af22aafe9c
 ---
 
 # News, Sep – Oct 2026
@@ -164,6 +164,20 @@ Algeria's Minister of Higher Education and Scientific Research, Kamel Baddari, c
 
 </div>
 
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Algerian Darja conversational corpus (open dataset)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Algerian Darja Corpus: A 34-Million-Word Long-Form Conversational Dataset for Dialectal Language Modeling](https://doi.org/10.5281/zenodo.22670672)** — Zenodo, 12 September 2026
+
+Version 2 of the Algerian Darja Corpus, an open dataset on Zenodo mirrored on Hugging Face, holds 11,151 long-form conversational transcripts totalling about 34.3 million words (around 53 million subword tokens). This release adds 1,408 transcripts from media and tech channels and reruns a 15-stage cleaning pipeline including deduplication and dialect-purity filtering.
+
+</div>
 
 </div>
 
@@ -355,6 +369,20 @@ Burundi presented the ambitions of its national artificial intelligence strategy
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ijwi ry'Ikirundi AI Kirundi speech and text dataset</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ijwi-ry-Ikirundi-AI/Kirundi_Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Ijwi ry'Ikirundi AI, 28 September 2026
+
+The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sentences awaiting translation, each with a machine draft, under CC BY-NC 4.0 for its contribution app. The full dataset, kept private and available on request including for commercial licences, holds 4,809 Kirundi sentences of which 2,996 are complete Kirundi-French-English pairs, but only one validated three-second recording.
+
+</div>
+
+</div>
+
 ## Cape Verde
 
 <div class="monthly-story" markdown="1">
@@ -412,6 +440,20 @@ An unsigned CamerPressAgency editorial reports that a workshop to pre-validate C
 </div>
 
 ## Comoros
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Komor-IA open Shikomori language resources</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Komor-IA lance Annotation Studio, la première plateforme d'annotation NER et POS pensée pour le shikomori](https://fr.linkedin.com/posts/komor-ia_shikomori-comores-komoria-activity-7509546344064335872-xQkk)** — Komor-IA (LinkedIn), 26 September 2026
+
+Komor-IA launched Annotation Studio, which it describes as the first platform for named-entity and part-of-speech annotation of Shikomori, letting any speaker tag sentences without technical skills. The platform follows the Universal Dependencies standard so the data can be compared with other Bantu languages such as Swahili, and the results will be released under CC BY-NC 4.0 for research and non-commercial use.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -491,7 +533,7 @@ Côte d'Ivoire selected 77 priority artificial intelligence use cases at the IMP
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National Pact for Artificial Intelligence</p>
+<p class="monthly-story__name">National Alliance for AI pact</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -500,12 +542,6 @@ Côte d'Ivoire selected 77 priority artificial intelligence use cases at the IMP
 Côte d'Ivoire's digital transition ministry, the employers' confederation CGECI and the national chamber of commerce signed a national pact on artificial intelligence on 11 September 2026, at the IMPACT IA conference in Abidjan. The pact is a voluntary framework and creates no legal, financial or investment obligations, with specific costed commitments left to later work. Signatory firms undertake to join a national AI alliance.
 
 </div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Alliance for AI pact</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -554,6 +590,28 @@ Côte d'Ivoire scored 2.03 out of 4 on the Africa AI Governance Index 2026, in t
 **[La Côte d'Ivoire déploie mHealth One, la version de mHealth intégrant l'intelligence artificielle](https://www.mhealth-africa.org/en/actualites/la-cote-divoire-deploie-mhealth-one-la-version-de-mhealth-integrant-lintelligence-artificielle/)** — Plateforme de digitalisation de santé communautaire (mHealth), 16 October 2026
 
 Côte d'Ivoire has deployed mHealth One, an AI version of its community health platform, in the five health districts of the Gontougo region, with UNICEF support; community health workers have used it since 5 October 2026. It gives workers offline treatment guidance, flags inconsistent data and inactive agents for supervisors, and lets officials query data in plain French.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">YIRI national-language AI platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire promotes national languages in AI development through YIRI digital community](https://techreviewafrica.com/news/7883/c-te-d-ivoire-promotes-national-languages-in-ai-development-through-yiri-digital-community)** — Tech Review Africa, 22 October 2026
+
+A second account of the YIRI launch, adding that it aims to build a voice and text language model for Ivorian languages and that digital transition minister Djibril Ouattara called for national languages to be central to AI development.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : La plateforme YIRI entend faciliter l’accès au numérique grâce aux langues locales](https://www.linfodrome.com/societe/126771-intelligence-artificielle-la-plateforme-yiri-entend-faciliter-l-acces-au-numerique-grace-aux-langues-locales)** — Linfodrome, 22 October 2026
+
+FuturAfric launched YIRI in Abidjan on 15 October 2026, an AI-based social network and online marketplace working in Ivorian languages, with six covered so far and Baoulé and Dioula 70% complete. Its locally hosted corpus holds about 50,000 translated sentences and 300 annotated audio files, the founders aim to reach 80% of West Africa within three years, and the digital transition ministry was asked to back it.
 
 </div>
 
@@ -766,6 +824,20 @@ A draft resolution on the implications of artificial intelligence for human righ
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
 Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consumer Protection Agency AI analytics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consumer Protection Agency head: AI used to analyse complaints and detect violation patterns](https://cairo.gov.eg/en/news/2026/october/22/ee7ef990fe2f40609756579de54d9b28)** — Cairo Governorate Electronic Portal, 22 October 2026
+
+The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Forum 2026 that the agency uses AI on complaints, inspection data, prices, adverts and online stores to spot violation patterns and high-risk sectors. It is also building a unified electronic inspection system tied to a central database and upgrading its complaints system to sort and route reports automatically.
 
 </div>
 
@@ -1066,6 +1138,20 @@ Ghana's communications minister Sam George said every ministry now has an AI foc
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">224 N'Lambe language API</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[224 N'LAMBÉ API - L'infrastructure linguistique pour les technologies guinéennes](https://fr.linkedin.com/posts/ahmed-conscient-bald%C3%A9-655b85177_224-nlamb%C3%A9-api-linfrastructure-linguistique-activity-7503887516295430145-kypq)** — 224 N'Lambé (LinkedIn), 10 September 2026
+
+A LinkedIn post presents 224 N'Lambé, a Guinean language-infrastructure venture offering APIs for translation between French or English and Pular, Malinké and Soussou. It pitches the language data for voice assistants, chatbots, fintech, education and digital public services, with a paid professional tier offering API keys and usage limits.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1292,6 +1378,20 @@ Kenya's National Assembly gave its communication committee one month to report o
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT Authority and K-DATA letter of intent on AI-ready government data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya ICT Authority signs AI Data cooperation agreement with South Korea’s K-DATA](https://techreviewafrica.com/news/7877/kenya-ict-authority-signs-ai-data-cooperation-agreement-with-south-korea-s-k-data)** — Tech Review Africa, 22 October 2026
+
+Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Agency (K-DATA) to prepare government data for AI and pilot AI in public services, witnessed by ICT Cabinet Secretary William Kabogo. The cooperation also covers data governance, interoperability, secure data exchange across government, data quality certification and training, within the Data Protection Act 2019.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1476,6 +1576,20 @@ Mauritania's national meteorological office ran a two-day workshop in Nouakchott
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Enemray Hassaniya language model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Enemray: Toward Capable Language Models for Hassaniya](https://arxiv.org/abs/2609.14829)** — arXiv, 13 September 2026
+
+An arXiv technical report introduces Enemray, a language model for Hassaniya built by continual pretraining on Hassaniya and Mauritanian text, transferring that update into an instruction-tuned model and then supervised post-training on a largely new instruction corpus. The authors report the best English-to-Hassaniya translation among the open and proprietary models compared and the top score on Mauritanian translation error detection, while keeping most of the base model's general capabilities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Placing on the Africa AI Governance Index</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1634,6 +1748,20 @@ Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the N
 **[BANK OF NAMIBIA, CRAN LAUNCH AI PROGRAMME](https://www.nbcnews.na/node/118797)** — Namibian Broadcasting Corporation, 1 September 2026
 
 The Bank of Namibia and the communications regulator CRAN have launched a programme to build shared AI infrastructure for public agencies and find uses in advisory services, procurement, licensing and scam reporting. Agencies are to buy AI hardware and software jointly rather than separately, and the roadmap includes AI in indigenous languages.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ongiini-Eval-OW translation benchmark for Oshindonga and Oshikwanyama</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Ongiini-Eval-OW Benchmark: A Concept Paper for the Planned Benchmarking of Machine Translation and Large Language Models on Oshindonga and Oshikwanyama](https://arxiv.org/html/2609.31727v1)** — arXiv, 1 September 2026
+
+A concept paper on arXiv announces Ongiini-Eval-OW, a planned 600-item benchmark for English to Oshindonga and English to Oshikwanyama translation, with references from two independent native-speaker translators, a 30% blind split and scoring on chrF++, BLEU and COMET-22 plus a 50-item human evaluation. The authors say no machine-translation evaluation benchmark exists for either standardised Oshiwambo variety, which major commercial services, NLLB-200, MADLAD-400 and the Masakhane checkpoints do not cover; first public release is targeted for Q4 2026 under CC-BY-4.0 for data and MIT for code.
 
 </div>
 
@@ -2189,6 +2317,20 @@ Half of 903 South Africans surveyed had got round their employer's restrictions 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mzansi Mind and the Siya language model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mzansi Mind advances South Africa's sovereign AI ambitions with HPE infrastructure](https://www.hpe.com/us/en/newsroom/press-release/2026/10/mzansi-mind-advances-south-africas-sovereign-ai-ambitions-with-hpe-infrastructure.html)** — Hewlett Packard Enterprise, 22 October 2026
+
+HPE announced that Mzansi Mind, Solcon Capital's enterprise AI platform built on its Siya language model for all official South African languages, chose HPE servers with NVIDIA Blackwell GPUs and HPE Juniper switches, hosted at Equinix's Johannesburg data centre. The platform cites local regulatory and data-residency requirements and plans to extend to other African markets.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2276,6 +2418,14 @@ The UN Development Programme in Togo sought an international consultant to write
 **[Togo AI Lab Seeks Technical Lead for Public-Sector AI Projects](https://www.togofirst.com/en/itc/1009-20017-togo-ai-lab-seeks-technical-lead-for-public-sector-ai-projects)** — Togo First, 10 September 2026
 
 Togo's AI laboratory is recruiting a technical lead for public-sector artificial intelligence projects, on a renewable one-year contract in Lome with applications open to 2 October. The lab is run by the public service efficiency and digital transformation ministry with a research centre at a United States university, and the role reaches agriculture, environment and local languages.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Et si l'intelligence artificielle comprenait enfin nos langues locales ?](https://www.undp.org/fr/togo/actualites/et-si-lintelligence-artificielle-comprenait-enfin-nos-langues-locales)** — PNUD Togo, 5 October 2026
+
+UNDP Togo reports on the launch of the national local-languages challenge under the Voix du Togo programme, run by the Togo AI Lab for the digital transformation ministry, whose pilot phase targets AI models for Kabiyè, Ewe and Moba. UNDP is supporting the lab with GPU-based computing infrastructure, presented as a supercomputer, to train the models, and minister Cina Lawson described language models as essential public infrastructure. A contribution platform will gather voice recordings, texts and translations, and the challenge's results are still to come.
 
 </div>
 
@@ -2424,6 +2574,20 @@ Ugandan startup SANDI AI Technologies won the 2026 GoGettaz Agripreneur Prize of
 **[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sunflower 14B and 32B language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sunbird AI Launches Sunflower v2, Expanding Open African-Language AI From 31 Ugandan Languages to 67 Across the Continent](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/)** — Sunbird AI, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ugandan non-profit Sunbird AI released Sunflower v2 on 24 September 2026, widening its open models from 31 Ugandan languages to 67 African languages. The suite has five models: 27B and 9B language models built on Qwen, a compact Gemma-based model for phones, speech recognition covering 51 languages and text-to-speech covering 20. All models and their datasets are published openly on Hugging Face, with Sunbird claiming its speech recognition beats leading closed systems on most languages tested.
 
 </div>
 

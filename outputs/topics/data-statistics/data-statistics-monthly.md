@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: data.statistics
 places: BWA; BFA; BDI; CMR; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: cdba478520aa
+record: fd90bf130d15
 ---
 
 # News, Sep – Oct 2026

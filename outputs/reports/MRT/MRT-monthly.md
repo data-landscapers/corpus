@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: MRT
 ledger_rows: 25
 not_held: 3
-record: b0d366e0d780
+record: 9bd3743f6414
 ---
 
 # News, Sep – Oct 2026
@@ -426,7 +426,7 @@ Mauritania's national meteorological office ran a two-day workshop in Nouakchott
 
 **[Enemray: Toward Capable Language Models for Hassaniya](https://arxiv.org/abs/2609.14829)** — arXiv, 13 September 2026
 
-Hassaniya-centred model claims the best English-to-Hassaniya translation among open and proprietary models compared.
+An arXiv technical report introduces Enemray, a language model for Hassaniya built by continual pretraining on Hassaniya and Mauritanian text, transferring that update into an instruction-tuned model and then supervised post-training on a largely new instruction corpus. The authors report the best English-to-Hassaniya translation among the open and proprietary models compared and the top score on Mauritanian translation error detection, while keeping most of the base model's general capabilities.
 
 </div>
 

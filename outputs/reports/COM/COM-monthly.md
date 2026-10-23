@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: COM
 ledger_rows: 13
 not_held: 24
-record: a5a5ab40d26c
+record: 14e037e9c4e4
 ---
 
 # News, Sep – Oct 2026
@@ -186,7 +186,7 @@ The second phase of Comoros's civil-registration modernisation project was repor
 
 **[Komor-IA lance Annotation Studio, la première plateforme d'annotation NER et POS pensée pour le shikomori](https://fr.linkedin.com/posts/komor-ia_shikomori-comores-komoria-activity-7509546344064335872-xQkk)** — Komor-IA (LinkedIn), 26 September 2026
 
-Crowd annotation of names and parts of speech in Shikomori on Universal Dependencies, released CC BY-NC 4.0.
+Komor-IA launched Annotation Studio, which it describes as the first platform for named-entity and part-of-speech annotation of Shikomori, letting any speaker tag sentences without technical skills. The platform follows the Universal Dependencies standard so the data can be compared with other Bantu languages such as Swahili, and the results will be released under CC BY-NC 4.0 for research and non-commercial use.
 
 </div>
 

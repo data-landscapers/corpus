@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a04775d566ac
+record: 19cd5bfd3f29
 ---
 
 # News, Sep – Oct 2026
@@ -591,6 +591,20 @@ Gabon's transport minister visited a United States operator's installations at L
 **[Aviation : le Gabon déploie un système numérique d’analyse anticipée des passagers](https://www.wearetech.africa/fr/fils/actualites/tech/aviation-le-gabon-deploie-un-systeme-numerique-danalyse-anticipee-des-passagers)** — wearetech.africa, 14 October 2026
 
 Gabon's transport minister Ulrich Manfoumbi Manfoumbi visited Securiport LLC's installation at Libreville's Léon-Mba airport on 12 October to speed up the start of an API-PNR passenger data system. The US firm holds a concession signed in May 2026 for Libreville, Port-Gentil and Mvengué airports, funded by a USD 30 levy per international passenger set in June.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single payroll declaration across three administrations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Connect : TrésorPay, DUS… le Gabon mise sur le numérique pour mieux encaisser](https://www.gabonreview.com/gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-pour-mieux-encaisser/)** — GabonReview, 22 October 2026
+
+Gabon's vice-president of the government, Hermann Immongault, presented the next phase of the Gabon Connect single digital window in Libreville on 22 October 2026, deploying the single salary declaration (DUS) and TrésorPay portals. The platform groups eTax, eEmployeur, TrésorPay for non-tax and local-government revenue, eDouane and ePropriété, with full deployment due by December 2027.
 
 </div>
 

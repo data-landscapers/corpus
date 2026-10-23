@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: DZA
 ledger_rows: 44
 not_held: 5
-record: fa700d57c534
+record: 928498b21040
 ---
 
 # News, Sep – Oct 2026
@@ -762,7 +762,7 @@ Summarised under [AI](#ai).
 
 **[Algerian Darja Corpus: A 34-Million-Word Long-Form Conversational Dataset for Dialectal Language Modeling](https://doi.org/10.5281/zenodo.22670672)** — Zenodo, 12 September 2026
 
-Open dataset, 11,151 Algerian-dialect transcripts, 34.3m words; v2 on Zenodo, 2026-09-12.
+Version 2 of the Algerian Darja Corpus, an open dataset on Zenodo mirrored on Hugging Face, holds 11,151 long-form conversational transcripts totalling about 34.3 million words (around 53 million subword tokens). This release adds 1,408 transcripts from media and tech channels and reruns a 15-stage cleaning pipeline including deduplication and dialect-purity filtering.
 
 </div>
 

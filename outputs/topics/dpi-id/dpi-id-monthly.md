@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: bb1b12d6d4c9
+record: 8a991997902a
 ---
 
 # News, Sep – Oct 2026
@@ -1675,6 +1675,20 @@ The prime minister of Sudan's TASIS-backed administration announced plans for a 
 </div>
 
 ## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Database integrations for electronic identity verification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIDA yazindua Kampeni ya Kipo Chukua, Kamilisha Safari Yako](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)** — Jamhuri Media, 2 September 2026
+
+Tanzania's National Identification Authority (NIDA) launched a campaign urging registered citizens to collect and properly use their national ID cards, running from 1 September to a peak on 16 September 2026, World Identity Day, with services continuing to 30 September. Government spokesman Gerson Msigwa said more than 21 million cards have been produced, over 1.5 million of them uncollected, and that by August 2026 some 157 institutions (72 public, 85 private) were connected to NIDA's verification system. Plans include new card-printing technology, adding health insurance, EAC travel and driving-licence data to the card, registering under-18s, and face and iris recognition for people whose fingerprints cannot be captured.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

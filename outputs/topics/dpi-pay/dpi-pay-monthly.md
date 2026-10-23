@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 22b16657670b
+record: 4bb5b361dd0a
 ---
 
 # News, Sep – Oct 2026
@@ -2673,6 +2673,22 @@ UK money-transfer firm Wise has received category 2 authorisation from the South
 **[Guide to SARS Payment Rules](https://www.sars.gov.za/guide-to-sars-payment-rules/)** — South African Revenue Service, 17 October 2026
 
 South Africa's revenue service sets out the rules taxpayers must follow when paying it, by each payment channel, so that payments are allocated correctly. It warns that payments that do not follow the rules may be rejected.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PEMKey payment credential ecosystem</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa's digital ID could change how you pay](https://techcentral.co.za/south-africas-digital-id-could-change-how-you-pay/287578/)** — TechCentral, 22 October 2026
+
+DIDx, a South African digital identity firm with a commercial stake in the outcome, told TechCentral that a credential from home affairs' MyMzansi digital ID app could seed a payment credential under the Reserve Bank's PEMKey programme, sparing users a second onboarding. The Reserve Bank has not said whether MyMzansi credentials will be accepted or published the PEMKey sandbox participants.
 
 </div>
 

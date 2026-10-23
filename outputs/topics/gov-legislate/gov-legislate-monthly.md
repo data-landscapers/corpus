@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 51b2822f1efc
+record: ffece5bffe0d
 ---
 
 # News, Sep – Oct 2026
@@ -623,6 +623,20 @@ Ahmed Badawi, newly elected chair of the Egyptian House of Representatives' ICT 
 **[اتصالات النواب: الانتهاء من قانون السلامة الرقمية خلال شهر](https://gate.ahram.org.eg/News/5939716.aspx)** — Al-Ahram, 5 October 2026
 
 Egypt's parliamentary ICT committee chair Ahmed Badawi said the committee will open its new session with the digital safety bill and expects it finished within a month. The bill protects children on social media and adds rules for adults on online betting, defamation and disinformation; the committee held six hearings with 14 ministers and agency heads.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Moratorium on new fintech consumer-finance licences (FRA Resolution 43 of 2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Souhoola Secures FRA Approval for Fintech-Based Consumer Finance](https://techafricanews.com/2026/10/22/egypts-souhoola-secures-fra-approval-for-fintech-based-consumer-finance/)** — Tech Africa News, 22 October 2026
+
+Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-based consumer finance through V-Lens, covering electronic identification and verification, e-KYC, electronic contracts and digital record-keeping. The application was approved because it predated FRA Resolution No. 43 of February 2026, which suspended new fintech consumer-finance licence applications for a year.
 
 </div>
 
@@ -1717,6 +1731,20 @@ An NCC survey found only two of 19 licensees fully ready to implement Nigeria's 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sector-specific regulations for AI in healthcare</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to regulate AI use in healthcare, protect patients’ data](https://tribuneonlineng.com/fg-moves-to-regulate-ai-use-in-healthcare-protect-patients-data/amp/)** — Nigerian Tribune, 21 October 2026
+
+Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in Health Summit 2026 in Abuja that the government is drafting sector-specific rules for AI in healthcare, building on the Nigeria Data Protection Act 2023 to cover health data, secondary use of clinical information, anonymisation and consent. He pointed to the National Digital Health Architecture endorsed by all 36 states and the FCT, a planned Health Information Exchange, and weak infrastructure, power and broadband as obstacles.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -2240,6 +2268,14 @@ The Uganda Communications Commission said on 13 October 2026 that about 4,000 un
 **[UCC Tightens Licensing Rules for Wi-Fi Hotspot Operators](https://nilepost.co.ug/news/380128/ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators)** — Nile Post, 20 October 2026
 
 The Uganda Communications Commission said on 20 October 2026 that commercial Wi-Fi hotspot resellers must be licensed and must stop reselling home internet packages. Its seven-day deadline for unlicensed operators ended on 19 October 2026. It will open a registration system by service category and set up a joint committee with government, security agencies and seven hotspot operators.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCC Moves to Tighten Monitoring of Internet Data Resellers](https://nilepost.co.ug/business/380753/ucc-moves-to-tighten-monitoring-of-internet-data-resellers)** — Nile Post, 22 October 2026
+
+The Uganda Communications Commission agreed with mobile operators and licensed internet providers in ISPAU to tighten tracking of data consumption and billing, aimed at unlicensed resellers of bulk connectivity over public Wi-Fi. Eligible resellers are to be brought into licensing through onboarding guidelines, and illegal access points and routers removed; no date or design for the monitoring was given.
 
 </div>
 

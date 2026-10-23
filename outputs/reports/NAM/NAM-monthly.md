@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: NAM
 ledger_rows: 41
 not_held: 10
-record: a76ef9481cfd
+record: 11b6650bc011
 ---
 
 # News, Sep – Oct 2026
@@ -606,7 +606,7 @@ The Bank of Namibia and the communications regulator CRAN have launched a progra
 
 **[The Ongiini-Eval-OW Benchmark: A Concept Paper for the Planned Benchmarking of Machine Translation and Large Language Models on Oshindonga and Oshikwanyama](https://arxiv.org/html/2609.31727v1)** — arXiv, 1 September 2026
 
-Planned 600-item Oshindonga and Oshikwanyama MT benchmark, release Q4 2026; no major MT service covers either.
+A concept paper on arXiv announces Ongiini-Eval-OW, a planned 600-item benchmark for English to Oshindonga and English to Oshikwanyama translation, with references from two independent native-speaker translators, a 30% blind split and scoring on chrF++, BLEU and COMET-22 plus a 50-item human evaluation. The authors say no machine-translation evaluation benchmark exists for either standardised Oshiwambo variety, which major commercial services, NLLB-200, MADLAD-400 and the Masakhane checkpoints do not cover; first public release is targeted for Q4 2026 under CC-BY-4.0 for data and MIT for code.
 
 </div>
 

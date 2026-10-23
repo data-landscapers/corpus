@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 3e307998f4bc
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: 00b9343e3f40
 ---
 
 # News, Sep – Oct 2026
@@ -71,6 +71,8 @@ record: 3e307998f4bc
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sao-tome-and-principe">Sao Tome and Principe</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -194,6 +196,14 @@ Benin, Ghana and Rwanda have connected their national identity systems through t
 **[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda, Ghana, Benin test cross-border digital identity verification](https://www.newtimes.co.rw/article/39884/news/technology/rwanda-ghana-benin-test-cross-border-digital-identity-verification)** — The New Times, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Rwanda, Ghana and Benin completed the first phase of a Smart Africa pilot linking their national ID systems through the Smart Africa Data Exchange, verifying identities end to end with synthetic data in a test environment. Smart Africa said the exchange passes verification requests between national systems without storing records centrally, and does not change visa or immigration rules.
 
 </div>
 
@@ -877,6 +887,22 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the African Network of Cybersecurity Authorities and Smart Africa</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[LIBERIA JOINS SMART AFRICA ALLIANCE AS 43RD MEMBER, ADVANCING PRESIDENT BOAKAI’S DIGITAL TRANSFORMATION AGENDA](https://emansion.gov.lr/index.php/media/press-release/liberia-joins-smart-africa-alliance-43rd-member-advancing-president-boakais)** — The Executive Mansion, Liberia, 22 October 2026
+
+Liberia became the 43rd member of the Smart Africa Alliance, the admission completed by a delegation led by Minister of State for Presidential Affairs Samuel Stevquoah on the margins of the Global AI and Digital Summit in Seoul. The Executive Mansion presented it as part of President Boakai's digital agenda, pointing to training through the Smart Africa Digital Academy.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1034,6 +1060,20 @@ Mozambique's ICT institute, INTIC, has joined TriDigital, a project to build a c
 **[ATDI, MJCR, DNIC, SENAMI e INATRO preparam implementação da Identidade Digital em Moçambique](https://mznews.co.mz/atdi-mjcr-dnic-senami-e-inatro-preparam-implementacao-da-identidade-digital-em-mocambique/)** — MozNews, 13 October 2026
 
 Mozambique's digital agency is leading a 14-member technical mission to Ethiopia to prepare a national digital identity, with staff from the justice ministry, civil identification, the migration service and the road-transport institute.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SADC Regional Working Group on Data Protection membership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique joins SADC Regional Working Group on Data Protection](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection)** — Tech Review Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Mozambique joined the SADC Regional Working Group on Data Protection through INTIC, naming board chair Lourino Chemane as member and data protection head Rosa Dique as alternate, after SADC ICT ministers meeting in Bulawayo on 26 June 2026 asked states to appoint representatives. The country's personal data protection bill is before the Assembly of the Republic.
 
 </div>
 
@@ -1229,6 +1269,28 @@ The Nigeria Customs Service and the UK's HM Revenue and Customs met in Abuja to 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared AI compute pool with Rwanda, Senegal and Kenya</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya](https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/)** — TheCable, 22 October 2026
+
+Nigeria's communications minister Bosun Tijani, speaking through NCAIR's director at BUILD 2026 in Abuja, proposed pooling GPU capacity with Rwanda, Senegal and Kenya so researchers could combine compute to train large models. He said about 20 million Nigerians remain offline and pointed to a proposed Nigeria-Togo data park at Egbe to use unused power capacity.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1304,6 +1366,22 @@ Benin, Ghana and Rwanda have connected their national identity systems through t
 **[Benin, Ghana and Rwanda Take Major Step Towards Africa’s Single Digital Market Through Cross-Border Digital Identity Interoperability](https://smartafrica.org/benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital-market-through-cross-border-digital-identity-interoperability/)** — Smart Africa, 20 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cross-border digital identity pilot, announced on 20 October 2026. The three national systems were connected and verified identities end to end using synthetic data. Phase 2 prepares a controlled operational pilot for border identity checks, subject to national approvals and security assessments.
+
+</div>
+
+</div>
+
+## Sao Tome and Principe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the Central African telecommunications regulators' assembly (ARTAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARTAC : Libreville acte une réforme importante et accueille São Tomé-et-Príncipe](https://www.gabonreview.com/artac-libreville-acte-une-reforme-importante-et-accueille-sao-tome-et-principe/)** — GabonReview, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+A second account of the ARTAC closing session, adding that São Tomé and Príncipe's admission brings membership from seven countries to eight.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: NGA
 ledger_rows: 166
 not_held: 9
-record: 58fa352cf324
+record: ec8d518f945d
 ---
 
 # News, Sep – Oct 2026
@@ -262,7 +262,7 @@ An NCC survey found only two of 19 licensees fully ready to implement Nigeria's 
 
 **[FG moves to regulate AI use in healthcare, protect patients’ data](https://tribuneonlineng.com/fg-moves-to-regulate-ai-use-in-healthcare-protect-patients-data/amp/)** — Nigerian Tribune, 21 October 2026
 
-Health AI rules to build on NDPA 2023: secondary use, anonymisation, consent; Health Information Exchange planned.
+Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in Health Summit 2026 in Abuja that the government is drafting sector-specific rules for AI in healthcare, building on the Nigeria Data Protection Act 2023 to cover health data, secondary use of clinical information, anonymisation and consent. He pointed to the National Digital Health Architecture endorsed by all 36 states and the FCT, a planned Health Information Exchange, and weak infrastructure, power and broadband as obstacles.
 
 </div>
 

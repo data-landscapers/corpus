@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: include.access
-places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 55aa63c62589
+places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
+record: 46c119dc6e41
 ---
 
 # News, Sep – Oct 2026
@@ -59,6 +59,8 @@ record: 55aa63c62589
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -909,6 +911,22 @@ The Global Development Network has begun fieldwork on a five-country DPI Inclusi
 **[NCRA Marks International Identity Day with Registration Drive for 100 Inmates](https://thecalabashnewspaper.com/archives/64446)** — The Calabash Newspaper, 18 September 2026
 
 Sierra Leone's National Civil Registration Authority registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026, International Identity Day. The inmates will receive ID cards free, with the government meeting the cost. The Correctional Service said the exercise builds on inmate biometric registration pilots in 2018 and 2020.
+
+</div>
+
+</div>
+
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric ID enrolment of returnees from Yemen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia enrolls citizens returning from Yemen for biometric national IDs](https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids)** — Biometric Update, 22 October 2026
+
+Somalia's National Identification and Registration Authority began enrolling citizens returning from Yemen for biometric national ID cards, working with the National Commission for Refugees and IDPs at its reception camp. NIRA puts national enrolment at about two million against a target of 15 million by 2029, and the Halmeel unified government services platform, covering about 70 services, is due by the end of March 2027.
 
 </div>
 

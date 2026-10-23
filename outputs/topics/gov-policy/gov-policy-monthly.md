@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: gov.policy
 places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 04a23847426f
+record: 31fb6cd7ac90
 ---
 
 # News, Sep – Oct 2026
@@ -1233,6 +1233,20 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Digital governance committee (GouvNum)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Note publique au Premier ministre Identité numérique et e-gouvernement : Les préalables sans lesquels le chantier ne peut avancer](https://www.osiris.sn/note-publique-au-premier-ministre-identite-numerique-et-e-gouvernement-les.html)** — OSIRIS, 20 October 2026
+
+In an open note to Senegal's prime minister, economist Seydou Bocoum argues that the new digital governance committee (GouvNum) cannot deliver digital identity and e-government until five prerequisites are met: practical access to information under law 2025-15, reliable networks, a working national addressing system, a social data tariff and visible sanctions by the regulator ARTP. He cites ARTP tests in Popenguine in June 2025 where call and data success rates fell well below regulatory thresholds, and proposes a 30-day stocktake followed by an interministerial action plan within 60 to 90 days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Digital governance steering committee</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1322,6 +1336,20 @@ Sierra Leone's communications ministry presented a new open source policy at a U
 </div>
 
 ## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Data Policy Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1694,6 +1722,20 @@ The Uganda Bureau of Statistics publicly rejected the ICT ministry's National Da
 </div>
 
 ## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -2024,6 +2024,11 @@
     "written": "2026-10-18",
     "summary": "The Bank of Namibia and the communications regulator CRAN have launched a programme to build shared AI infrastructure for public agencies and find uses in advisory services, procurement, licensing and scam reporting. Agencies are to buy AI hardware and software jointly rather than separately, and the roadmap includes AI in indigenous languages."
   },
+  "2026-09-01-nam-the-ongiini-eval-ow-benchmark-a-concept-paper-for-the-planned-benchmar": {
+    "published": "2026-09-01",
+    "written": "2026-10-23",
+    "summary": "A concept paper on arXiv announces Ongiini-Eval-OW, a planned 600-item benchmark for English to Oshindonga and English to Oshikwanyama translation, with references from two independent native-speaker translators, a 30% blind split and scoring on chrF++, BLEU and COMET-22 plus a 50-item human evaluation. The authors say no machine-translation evaluation benchmark exists for either standardised Oshiwambo variety, which major commercial services, NLLB-200, MADLAD-400 and the Masakhane checkpoints do not cover; first public release is targeted for Q4 2026 under CC-BY-4.0 for data and MIT for code."
+  },
   "2026-09-01-nam-usf-annual-report-2025-companion": {
     "published": "2026-09-01",
     "written": "2026-10-16",
@@ -2253,6 +2258,11 @@
     "published": "2026-09-01",
     "written": "2026-09-02",
     "summary": "Five agreements worth more than EUR100 million were signed between Tunisia and Germany, with about EUR40 million more under discussion for the green economy. The piece asks the question the announcements do not answer: which Tunisian firms will be able to reach the money, in what form and at what cost."
+  },
+  "2026-09-01-xaf-ria-datacipation-data-policy-project": {
+    "published": "2026-09-01",
+    "written": "2026-10-23",
+    "summary": "Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap."
   },
   "2026-09-01-zaf-atain-global-business-services-investment": {
     "published": "2026-09-01",
@@ -2753,6 +2763,11 @@
     "published": "2026-09-02",
     "written": "2026-10-16",
     "summary": "Tunisia's communications technology ministry has released Khadamet, a mobile app giving access to administrative services through digital identity, including bill and fee payments, health and social security claims, and civil-status documents. Its wallet holds documents such as the vehicle registration card and passport and warns before they expire. An official said about 70% of Tunisians use mobile phones to reach services; a second version is expected in the coming months."
+  },
+  "2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako": {
+    "published": "2026-09-02",
+    "written": "2026-10-23",
+    "summary": "Tanzania's National Identification Authority (NIDA) launched a campaign urging registered citizens to collect and properly use their national ID cards, running from 1 September to a peak on 16 September 2026, World Identity Day, with services continuing to 30 September. Government spokesman Gerson Msigwa said more than 21 million cards have been produced, over 1.5 million of them uncollected, and that by August 2026 some 157 institutions (72 public, 85 private) were connected to NIDA's verification system. Plans include new card-printing technology, adding health insurance, EAC travel and driving-licence data to the card, registering under-18s, and face and iris recognition for people whose fingerprints cannot be captured."
   },
   "2026-09-02-uga-tin-to-nin-migration-analysis": {
     "published": "2026-09-02",
@@ -6524,6 +6539,11 @@
     "written": "2026-09-11",
     "summary": "Ghana's central bank says digital fraud incidents rose 98 per cent between 2022 and 2025 as financial criminals exploited the growth in digital transactions. Its second deputy governor said fraudsters increasingly targeting digital platforms, as more people pay and transfer electronically, requires a significant change in how financial crime is tackled."
   },
+  "2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu": {
+    "published": "2026-09-10",
+    "written": "2026-10-23",
+    "summary": "A LinkedIn post presents 224 N'Lambé, a Guinean language-infrastructure venture offering APIs for translation between French or English and Pular, Malinké and Soussou. It pitches the language data for voice assistants, chatbots, fintech, education and digital public services, with a paid professional tier offering API keys and usage limits."
+  },
   "2026-09-10-gin-visionguinee-data-center-souverainete-numerique": {
     "published": "2026-09-10",
     "written": "2026-10-16",
@@ -7509,6 +7529,11 @@
     "written": "2026-10-16",
     "summary": "Cabo Verde is among 42 countries listed as candidates for a new Millennium Challenge Corporation compact in the US agency's fiscal year 2027 report, published at the end of August 2026. The country has completed two compacts and had a third cancelled. Cabo Verde's ministry for special projects and fund access did not say whether it will apply."
   },
+  "2026-09-12-dza-algerian-darja-corpus-a-34-million-word-long-form-conversational-datas": {
+    "published": "2026-09-12",
+    "written": "2026-10-23",
+    "summary": "Version 2 of the Algerian Darja Corpus, an open dataset on Zenodo mirrored on Hugging Face, holds 11,151 long-form conversational transcripts totalling about 34.3 million words (around 53 million subword tokens). This release adds 1,408 transcripts from media and tech channels and reruns a 15-stage cleaning pipeline including deduplication and dialect-purity filtering."
+  },
   "2026-09-12-egy-ahram-fra-real-time-credit-reporting-i-score": {
     "published": "2026-09-12",
     "written": "2026-09-13",
@@ -7783,6 +7808,11 @@
     "published": "2026-09-13",
     "written": "2026-09-13",
     "summary": "Morocco's Génération AIoT programme opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027. Launched in February 2026 by the digital transition ministry with a foundation and ABA Technology, it had drawn 2,118 applications and gathered 95 participants."
+  },
+  "2026-09-13-mrt-enemray-toward-capable-language-models-for-hassaniya": {
+    "published": "2026-09-13",
+    "written": "2026-10-23",
+    "summary": "An arXiv technical report introduces Enemray, a language model for Hassaniya built by continual pretraining on Hassaniya and Mauritanian text, transferring that update into an instruction-tuned model and then supervised post-training on a largely new instruction corpus. The authors report the best English-to-Hassaniya translation among the open and proprietary models compared and the top score on Mauritanian translation error detection, while keeping most of the base model's general capabilities."
   },
   "2026-09-13-mus-lexpress-damry-ai-city-gopio": {
     "published": "2026-09-13",
@@ -13139,6 +13169,11 @@
     "written": "2026-09-24",
     "summary": "Airtel Uganda launched Starlink satellite-to-mobile service, giving compatible smartphones SMS and light data such as WhatsApp outside terrestrial coverage, free for a 30-day trial and then through data bundles. Uganda is Airtel Africa's second commercial market for the service after the DRC in August."
   },
+  "2026-09-24-uga-sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-fr": {
+    "published": "2026-09-24",
+    "written": "2026-10-23",
+    "summary": "Ugandan non-profit Sunbird AI released Sunflower v2 on 24 September 2026, widening its open models from 31 Ugandan languages to 67 African languages. The suite has five models: 27B and 9B language models built on Qwen, a compact Gemma-based model for phones, speech recognition covering 51 languages and text-to-speech covering 20. All models and their datasets are published openly on Hugging Face, with Sunbird claiming its speech recognition beats leading closed systems on most languages tested."
+  },
   "2026-09-24-undp-africa-ai-crossroads-blog": {
     "published": "2026-09-24",
     "written": "2026-09-24",
@@ -13544,6 +13579,11 @@
     "written": "2026-10-16",
     "summary": "The Democratic Republic of Congo plans to extend its fibre-optic backbone by 11,600 km through four 20-year concessions tendered internationally, with gap financing for routes whose revenues cannot cover the cost, reported on 26 September 2026. Expressions of interest for the supervision consultancy close on 14 October 2026, for work from June 2027."
   },
+  "2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n": {
+    "published": "2026-09-26",
+    "written": "2026-10-23",
+    "summary": "Komor-IA launched Annotation Studio, which it describes as the first platform for named-entity and part-of-speech annotation of Shikomori, letting any speaker tag sentences without technical skills. The platform follows the Universal Dependencies standard so the data can be compared with other Bantu languages such as Swahili, and the results will be released under CC BY-NC 4.0 for research and non-commercial use."
+  },
   "2026-09-26-dza-jeune-independant-guessoum-interoperabilite-numerique": {
     "published": "2026-09-26",
     "written": "2026-09-27",
@@ -13773,6 +13813,11 @@
     "published": "2026-09-28",
     "written": "2026-09-28",
     "summary": "The African Commission on Human and Peoples' Rights will review its 2013 Model Law on Access to Information next year to add digital-age provisions. It also points to its guidelines for states on monitoring technology companies and for platforms serving the public interest, and to draft guidelines on access to data."
+  },
+  "2026-09-28-bdi-ijwi-ry-ikirundi-ai-kirundi-dataset": {
+    "published": "2026-09-28",
+    "written": "2026-10-23",
+    "summary": "The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sentences awaiting translation, each with a machine draft, under CC BY-NC 4.0 for its contribution app. The full dataset, kept private and available on request including for commercial licences, holds 4,809 Kirundi sentences of which 2,996 are complete Kirundi-French-English pairs, but only one validated three-second recording."
   },
   "2026-09-28-bwa-dailynews-crvs-strategic-plan": {
     "published": "2026-09-28",
@@ -15858,6 +15903,11 @@
     "published": "2026-10-05",
     "written": "2026-10-16",
     "summary": "Togo's personal data protection authority, IPDCP, opened its first evaluation and certification session for data protection officers in Atakpamé on 30 September 2026. Thirty-two professionals from banking, insurance, telecoms, public administration and other sectors were assessed under Law 2019-014, and only those reaching the required level may hold the title."
+  },
+  "2026-10-05-tgo-undp-voix-du-togo-infrastructure-gpu-supercalculateur": {
+    "published": "2026-10-05",
+    "written": "2026-10-23",
+    "summary": "UNDP Togo reports on the launch of the national local-languages challenge under the Voix du Togo programme, run by the Togo AI Lab for the digital transformation ministry, whose pilot phase targets AI models for Kabiyè, Ewe and Moba. UNDP is supporting the lab with GPU-based computing infrastructure, presented as a supercomputer, to train the models, and minister Cina Lawson described language models as essential public infrastructure. A contribution platform will gather voice recordings, texts and translations, and the challenge's results are still to come."
   },
   "2026-10-05-the-system-is-down-not-the-road-traffic-act": {
     "published": "2026-10-05",
@@ -19934,6 +19984,11 @@
     "written": "2026-10-19",
     "summary": "Libya's O3 Group, a private telecoms company founded in 2024 and based in Benghazi, set out its infrastructure plans as the Medusa submarine cable made its first Libyan landing at Benghazi on 17 October 2026. The plans include a 12,000 to 13,000 km national fibre network, a Tier III data centre in Benghazi and a mobile service. A second Medusa landing is planned for Tripoli."
   },
+  "2026-10-19-le-gimac-et-papss-card-posent-les-bases-de-leur-futur-partenariat": {
+    "published": "2026-10-19",
+    "written": "2026-10-23",
+    "summary": "GIMAC, the Central African interbank card network, and PAPSS Card agreed the practical terms of a partnership at working sessions in Yaoundé on 13 and 14 October 2026, with a convention to be signed in the following days. The plan would let GIMAC cards issued by CEMAC banks be accepted across the PAPSS network and PAPSS cards be used in the CEMAC zone, and the sessions produced a roadmap of priority actions, owners and deadlines. GIMAC's interim director general Guy Noël Londongo tied the move to the BEAC joining the AU-backed PAPSS system."
+  },
   "2026-10-19-mastercard-moovn-five-year-east-africa-payments-deal": {
     "published": "2026-10-19",
     "written": "2026-10-19",
@@ -20214,6 +20269,11 @@
     "written": "2026-10-22",
     "summary": "A joint meeting of Khartoum locality and two Khartoum State councils agreed that all government transactions in the localities will go digital from 1 January 2027, once staff are trained on the systems. The meeting also reviewed the locality's 2026 development projects and set weekly reporting for 2027."
   },
+  "2026-10-20-sen-note-publique-identite-numerique-e-gouvernement": {
+    "published": "2026-10-20",
+    "written": "2026-10-23",
+    "summary": "In an open note to Senegal's prime minister, economist Seydou Bocoum argues that the new digital governance committee (GouvNum) cannot deliver digital identity and e-government until five prerequisites are met: practical access to information under law 2025-15, reliable networks, a working national addressing system, a social data tariff and visible sanctions by the regulator ARTP. He cites ARTP tests in Popenguine in June 2025 where call and data success rates fell well below regulatory thresholds, and proposes a 30-day stocktake followed by an interministerial action plan within 60 to 90 days."
+  },
   "2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat": {
     "published": "2026-10-20",
     "written": "2026-10-21",
@@ -20314,6 +20374,11 @@
     "written": "2026-10-21",
     "summary": "The University of the Witwatersrand published a research feature on 20 October 2026 featuring Professor Keith Breckenridge of WiSER. It considers whether digital finance tools such as biometric IDs, automated credit scoring and asset registers will reduce Africa's credit exclusion or deepen it, and which institutions of trust would be needed. No figures were given."
   },
+  "2026-10-20-zaf-dcdt-policy-direction-icasa-network-deployment-facilities-leasing": {
+    "published": "2026-10-20",
+    "written": "2026-10-23",
+    "summary": "South Africa's communications minister Solly Malatsi signed on 19 October 2026 a policy direction under the Electronic Communications Act, published in Government Gazette 55609 the next day, to implement the 2023 national policy on rapid deployment of networks and facilities. It directs Icasa to consider amending the 2010 Facilities Leasing Regulations and to draft Rapid Deployment Regulations governing access to public and private land for affordable high-speed broadband."
+  },
   "2026-10-20-zaf-iec-receives-over-700-election-misinformation-complaints-enlists-google-meta": {
     "published": "2026-10-20",
     "written": "2026-10-21",
@@ -20368,6 +20433,11 @@
     "published": "2026-10-21",
     "written": "2026-10-22",
     "summary": "At the Egypt Forum's Digital Egypt session, the communications minister set targets for 2030: 400 services on the Digital Egypt platform, fibre to 55% of homes, 5G coverage everywhere and five to seven very large data centres. He also said Egypt has led Africa on fixed internet speed for six years running. The targets are ministerial statements, not a published plan."
+  },
+  "2026-10-21-encryption-as-a-digital-rights-safeguard": {
+    "published": "2026-10-21",
+    "written": "2026-10-23",
+    "summary": "CIPESA marks Global Encryption Day with a commentary on Global Partners Digital's relaunched World Map of Encryption Laws and Policies, which now covers 100 countries, 40 of them under a new assessment framework. On the map, Ethiopia rates severe for encryption restrictions and weak on safeguards, requiring licences for encryption providers and security clearance for importers of cryptographic hardware and software, while Zimbabwe and Nigeria rate severe for legislative and policy threats."
   },
   "2026-10-21-eri-building-artificial-intelligence-capabilities-for-eritreas-development-reflectio": {
     "published": "2026-10-21",
@@ -20429,6 +20499,11 @@
     "written": "2026-10-22",
     "summary": "TikTok has been hard to reach for more than a month in northern states including Kano, Kaduna, Katsina, Kebbi and Sokoto, mostly for MTN and Airtel subscribers. TikTok denies restricting access, the operators have not commented and the government has said nothing. Gatefield's chief executive alleges throttling ahead of the 2027 elections."
   },
+  "2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare": {
+    "published": "2026-10-21",
+    "written": "2026-10-23",
+    "summary": "Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in Health Summit 2026 in Abuja that the government is drafting sector-specific rules for AI in healthcare, building on the Nigeria Data Protection Act 2023 to cover health data, secondary use of clinical information, anonymisation and consent. He pointed to the National Digital Health Architecture endorsed by all 36 states and the FCT, a planned Health Information Exchange, and weak infrastructure, power and broadband as obstacles."
+  },
   "2026-10-21-nga-nibss-transactility-s-partnership-delivers-national-payment-stack": {
     "published": "2026-10-21",
     "written": "2026-10-22",
@@ -20484,6 +20559,11 @@
     "written": "2026-10-21",
     "summary": "Malawian operator TNM said it has engaged Meta over reports of customers' WhatsApp accounts being compromised in Malawi and other countries. It said nothing shows its own systems were breached, and advised customers to turn on two-step verification."
   },
+  "2026-10-21-tun-solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia": {
+    "published": "2026-10-21",
+    "written": "2026-10-23",
+    "summary": "SoleCrypt announced at NVIDIA GTC Europe in Berlin a planned 40 MW AI data-centre campus in Bizerte, Tunisia, whose 7 MW first phase is to house 1,728 NVIDIA Rubin GPUs and come online in early 2028. The site lies about 3.6 km by fibre from the Medusa subsea cable landing and is to be backed by a 60 MW solar and battery project in Tozeur, with Hosted.AI, Schneider Electric, Supermicro and others named as partners."
+  },
   "2026-10-21-tza-dailynews-bunge-committee-malabo-convention-views": {
     "published": "2026-10-21",
     "written": "2026-10-22",
@@ -20503,6 +20583,16 @@
     "published": "2026-10-21",
     "written": "2026-10-21",
     "summary": "A WHO delegation led by its representative to Ethiopia visited the Ethiopian Artificial Intelligence Institute to explore a partnership on using AI in health systems, emergency preparedness and health security. The Institute showed locally built tools including language and translation software, disease-prediction models and AI skin-disease diagnostics. No agreement was reported."
+  },
+  "2026-10-21-xaf-afrinic-s-2025-audit-opinion-does-not-decide-its-litigation-risk": {
+    "published": "2026-10-21",
+    "written": "2026-10-23",
+    "summary": "A BTW Media analysis notes that Forvis Mazars signed an unmodified opinion on AFRINIC's 2025 financial statements on 22 May 2026 but drew attention to Note 22, where directors describe ongoing legal proceedings and explain why no provision was recognised. The piece argues the opinion speaks only to whether the accounts are fairly presented, not to the outcome of the litigation or the effectiveness of internal controls, on which the auditor gave no opinion."
+  },
+  "2026-10-21-xaf-afrinic-s-2025-surplus-fell-65-while-income-rose": {
+    "published": "2026-10-21",
+    "written": "2026-10-23",
+    "summary": "BTW Media's reading of AFRINIC's audited 2025 accounts finds income up 2.8% to US$6.289 million while total expenses nearly doubled to US$5.114 million, cutting the surplus of income over expenditure by 65.1% to US$1.175 million. Election costs of about US$1.04 million and legal fees of about US$878,000, against US$27,322 a year earlier, account for some 80% of the rise, and cash generated from operations fell 75.2% to US$856,407."
   },
   "2026-10-21-zaf-sabs-publishes-draft-ai-standards-for-public-comment": {
     "published": "2026-10-21",

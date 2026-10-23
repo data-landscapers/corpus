@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: TUN
 ledger_rows: 63
 not_held: 5
-record: d669f84d5a68
+record: 634fe04e06c6
 ---
 
 # News, Sep – Oct 2026
@@ -420,7 +420,7 @@ Orange Tunisie and Focus Tunisie announced a partnership to offer companies clou
 
 **[SoleCrypt Announces Sovereign AI Campus in Bizerte, Tunisia](https://www.solecrypt.com/post/solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia)** — SoleCrypt, 21 October 2026
 
-Planned 40MW campus near the Medusa landing, 7MW first phase of 1,728 Nvidia Rubin GPUs, online early 2028.
+SoleCrypt announced at NVIDIA GTC Europe in Berlin a planned 40 MW AI data-centre campus in Bizerte, Tunisia, whose 7 MW first phase is to house 1,728 NVIDIA Rubin GPUs and come online in early 2028. The site lies about 3.6 km by fibre from the Medusa subsea cable landing and is to be backed by a 60 MW solar and battery project in Tozeur, with Hosted.AI, Schneider Electric, Supermicro and others named as partners.
 
 </div>
 

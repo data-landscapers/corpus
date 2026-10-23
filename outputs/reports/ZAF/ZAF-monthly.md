@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: ZAF
 ledger_rows: 165
 not_held: 19
-record: 045090f04819
+record: 1fb63cbcbe3c
 ---
 
 # News, Sep – Oct 2026
@@ -60,7 +60,7 @@ record: 045090f04819
 
 **[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
+Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap.
 
 </div>
 
@@ -922,7 +922,7 @@ South Africa's mobile operators had connected 10,851 of the 21,878 public servic
 
 **[Policy Direction on matters relevant to Electronic Communications Network Deployment pursuant to the National Policy and Policy Direction on Rapid Deployment of Electronic Communications Networks and Facilities, 2023 (General Notice 4206 of 2026)](https://www.gov.za/sites/default/files/gcis_document/202610/55609gen4026.pdf)** — Department of Communications and Digital Technologies (Government Gazette No. 55609), 20 October 2026
 
-Directs Icasa to review the 2010 Facilities Leasing Regulations and draft Rapid Deployment Regulations; GIS database.
+South Africa's communications minister Solly Malatsi signed on 19 October 2026 a policy direction under the Electronic Communications Act, published in Government Gazette 55609 the next day, to implement the 2023 national policy on rapid deployment of networks and facilities. It directs Icasa to consider amending the 2010 Facilities Leasing Regulations and to draft Rapid Deployment Regulations governing access to public and private land for affordable high-speed broadband.
 
 </div>
 

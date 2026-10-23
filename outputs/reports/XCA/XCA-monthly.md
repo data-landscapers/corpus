@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: XCA
 ledger_rows: 15
 not_held: 0
-record: db3de64f16d8
+record: ea5878ec8606
 ---
 
 # News, Sep – Oct 2026
@@ -376,7 +376,7 @@ Central Africa's seven licensed payment institutions processed 4.6 billion opera
 
 **[Développement des paiements interopérables en Afrique : Le Gimac et Papss Card posent les bases de leur futur partenariat](https://lefinancierdafrique.com/open/2026/10/19/developpement-des-paiements-interoperables-en-afrique-le-gimac-et-papss-card-posent-les-bases-de-leur-futur-partenariat/)** — Le Financier d’Afrique, 19 October 2026
 
-Yaoundé sessions 13-14 Oct 2026; roadmap agreed; two-way card acceptance; convention signing pending.
+GIMAC, the Central African interbank card network, and PAPSS Card agreed the practical terms of a partnership at working sessions in Yaoundé on 13 and 14 October 2026, with a convention to be signed in the following days. The plan would let GIMAC cards issued by CEMAC banks be accepted across the PAPSS network and PAPSS cards be used in the CEMAC zone, and the sessions produced a roadmap of priority actions, owners and deadlines. GIMAC's interim director general Guy Noël Londongo tied the move to the BEAC joining the AU-backed PAPSS system.
 
 </div>
 

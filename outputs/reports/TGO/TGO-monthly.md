@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: TGO
 ledger_rows: 59
 not_held: 17
-record: 327d4fc332ba
+record: 55180c94269a
 ---
 
 # News, Sep – Oct 2026
@@ -858,7 +858,7 @@ Togo's AI laboratory is recruiting a technical lead for public-sector artificial
 
 **[Et si l'intelligence artificielle comprenait enfin nos langues locales ?](https://www.undp.org/fr/togo/actualites/et-si-lintelligence-artificielle-comprenait-enfin-nos-langues-locales)** — PNUD Togo, 5 October 2026
 
-UNDP backs a GPU 'supercomputer' for the Togo AI Lab to train Kabiye, Ewe and Moba models.
+UNDP Togo reports on the launch of the national local-languages challenge under the Voix du Togo programme, run by the Togo AI Lab for the digital transformation ministry, whose pilot phase targets AI models for Kabiyè, Ewe and Moba. UNDP is supporting the lab with GPU-based computing infrastructure, presented as a supercomputer, to train the models, and minister Cina Lawson described language models as essential public infrastructure. A contribution platform will gather voice recordings, texts and translations, and the challenge's results are still to come.
 
 </div>
 

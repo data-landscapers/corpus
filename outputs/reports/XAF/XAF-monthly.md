@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: XAF
 ledger_rows: 115
 not_held: 3
-record: 0d2af2eb7207
+record: 03ef77a42baa
 ---
 
 # News, Sep – Oct 2026
@@ -56,7 +56,7 @@ The AfCFTA Secretary-General set out the case for the Digital Trade Corridor: cu
 
 **[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
+Research ICT Africa's project page describes DataCipation, under which it worked with GIZ and AUDA-NEPAD as an implementation partner on the continental rollout of the AU Data Policy Framework. RIA says it helped deliver validated national data policies and strategies for The Gambia, the Comoros and Somalia, supported drafting of Zambia's National Data Policy and developed South Africa's Open Data Policy Framework. As the project closes, a knowledge exchange among participating countries is to feed a Data Policy Implementation Toolkit and a network sustainability roadmap.
 
 </div>
 
@@ -458,7 +458,7 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 
 **[AFRINIC’s 2025 Audit Opinion Does Not Decide Its Litigation Risk](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-audit-opinion-litigation-risk)** — btw.media, 21 October 2026
 
-Forvis Mazars unmodified opinion signed 22 May 2026; emphasis on Note 22 litigation, no provision recognised.
+A BTW Media analysis notes that Forvis Mazars signed an unmodified opinion on AFRINIC's 2025 financial statements on 22 May 2026 but drew attention to Note 22, where directors describe ongoing legal proceedings and explain why no provision was recognised. The piece argues the opinion speaks only to whether the accounts are fairly presented, not to the outcome of the litigation or the effectiveness of internal controls, on which the auditor gave no opinion.
 
 </div>
 
@@ -466,7 +466,7 @@ Forvis Mazars unmodified opinion signed 22 May 2026; emphasis on Note 22 litigat
 
 **[AFRINIC’s 2025 surplus fell 65% while income rose](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-surplus-income-operating-cash)** — btw.media, 21 October 2026
 
-Income up 2.8% to US$6.289m, expenses up 86%; US$1.04m election costs, US$878k legal fees; operating cash down 75%.
+BTW Media's reading of AFRINIC's audited 2025 accounts finds income up 2.8% to US$6.289 million while total expenses nearly doubled to US$5.114 million, cutting the surplus of income over expenditure by 65.1% to US$1.175 million. Election costs of about US$1.04 million and legal fees of about US$878,000, against US$27,322 a year earlier, account for some 80% of the rise, and cash generated from operations fell 75.2% to US$856,407.
 
 </div>
 
@@ -798,7 +798,7 @@ A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI 
 
 **[Sunbird AI Launches Sunflower v2, Expanding Open African-Language AI From 31 Ugandan Languages to 67 Across the Continent](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/)** — Sunbird AI, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
-Five open models on Hugging Face: 67 African languages, ASR for 51, TTS for 20, an offline on-phone model.
+Ugandan non-profit Sunbird AI released Sunflower v2 on 24 September 2026, widening its open models from 31 Ugandan languages to 67 African languages. The suite has five models: 27B and 9B language models built on Qwen, a compact Gemma-based model for phones, speech recognition covering 51 languages and text-to-speech covering 20. All models and their datasets are published openly on Hugging Face, with Sunbird claiming its speech recognition beats leading closed systems on most languages tested.
 
 </div>
 

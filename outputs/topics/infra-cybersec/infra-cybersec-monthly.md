@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: infra.cybersec
-places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: fdb98b4980ff
+places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
+record: e3225a1256d1
 ---
 
 # News, Sep – Oct 2026
@@ -39,6 +39,8 @@ record: fdb98b4980ff
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -261,6 +263,20 @@ Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensing of encryption products and services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Encryption As a Digital Rights Safeguard](https://cipesa.org/2026/10/encryption-as-a-digital-rights-safeguard/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+CIPESA marks Global Encryption Day with a commentary on Global Partners Digital's relaunched World Map of Encryption Laws and Policies, which now covers 100 countries, 40 of them under a new assessment framework. On the map, Ethiopia rates severe for encryption restrictions and weak on safeguards, requiring licences for encryption providers and security clearance for importers of cryptographic hardware and software, while Zimbabwe and Nigeria rate severe for legislative and policy threats.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -419,6 +435,20 @@ Ghana's Cyber Security Authority said Ghana, not the FBI, led Operation Blackout
 **[Ghana Rejects FBI-Led Claims Over Operation Blackout Cybercrime Raids](https://techafricanews.com/2026/10/09/ghana-rejects-fbi-led-claims-operation-blackout-cybercrime-raids/)** — Tech Africa News, 9 October 2026
 
 A second account of the Ghana Cyber Security Authority's statement on Operation Blackout: it names the Ghanaian, British, American and Nigerian agencies that took part and says the operation ran under Ghanaian authority.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Digital Assurance Programme (GovDAP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CSA and NITA order government institutions to fix critical PHP vulnerabilities within seven days](https://www.myjoyonline.com/csa-and-nita-order-government-institutions-to-fix-critical-php-vulnerabilities-within-seven-days/)** — MyJoyOnline, 22 October 2026
+
+Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 2026 ordering all government institutions to patch two critical PHP flaws (CVE-2026-109618 and CVE-2026-109619) within seven days and report what they did. Fixed PHP releases are available, and NITA will coordinate support for government systems under its Government Digital Assurance Programme.
 
 </div>
 
@@ -595,6 +625,22 @@ Libya's minister of state Mohammed bin Ghalboun chaired a meeting in Tripoli on 
 **[NOC officials in pre-trial detention for leaking sensitive oil-related data](https://libyaherald.com/2026/10/noc-officials-in-pre-trial-detention-for-leaking-sensitive-oil-related-data/)** — Libya Herald, 1 October 2026
 
 Libya's Attorney General's Office ordered two National Oil Corporation officials, one of them its director of information and digital transformation, into pre-trial detention over leaked oil-sector data. Data on fields, production, reserves and exploration passed to a foreign company contracted in 2023 for a sector study.
+
+</div>
+
+</div>
+
+## Madagascar
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Centre de lutte contre la cybercriminalite (CLCC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SENSIBILISATION - La prévention de la cybercriminalité se renforce](https://www.lexpress.mg/2026/10/sensibilisation-la-prevention-de-la.html)** — L'Express de Madagascar, 22 October 2026
+
+Madagascar's digital development ministry handed computers on 21 October 2026 to the Centre de lutte contre la cybercriminalité, which resumed work in June 2026 after an interruption, for its teams in all 24 regions. Under a responsible cyber-citizenship programme, regional staff are to be trained to detect offences on social media; the centre's coordinator said awareness comes first, with sanctions possible for those who persist.
 
 </div>
 

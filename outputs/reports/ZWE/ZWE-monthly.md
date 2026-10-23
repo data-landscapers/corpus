@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: ZWE
 ledger_rows: 43
 not_held: 6
-record: 211f3f598ad3
+record: 1ce6244e09cd
 ---
 
 # News, Sep – Oct 2026
@@ -172,7 +172,7 @@ Zimbabwe's telecoms regulator POTRAZ held a national workshop on guidelines unde
 
 **[Encryption As a Digital Rights Safeguard](https://cipesa.org/2026/10/encryption-as-a-digital-rights-safeguard/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-GPD World Map relaunched 21 Oct 2026; Ethiopia severe on encryption, Nigeria and Zimbabwe on legislative threats.
+CIPESA marks Global Encryption Day with a commentary on Global Partners Digital's relaunched World Map of Encryption Laws and Policies, which now covers 100 countries, 40 of them under a new assessment framework. On the map, Ethiopia rates severe for encryption restrictions and weak on safeguards, requiring licences for encryption providers and security clearance for importers of cryptographic hardware and software, while Zimbabwe and Nigeria rate severe for legislative and policy threats.
 
 </div>
 

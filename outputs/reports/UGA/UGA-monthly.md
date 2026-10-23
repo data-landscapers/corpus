@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-23
 place: UGA
 ledger_rows: 72
 not_held: 11
-record: 59ef5a5ad0b7
+record: 9ec9dde04b9b
 ---
 
 # News, Sep – Oct 2026
@@ -1118,7 +1118,7 @@ The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Tr
 
 **[Sunbird AI Launches Sunflower v2, Expanding Open African-Language AI From 31 Ugandan Languages to 67 Across the Continent](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/)** — Sunbird AI, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Five open models on Hugging Face: 67 African languages, ASR for 51, TTS for 20, an offline on-phone model.
+Ugandan non-profit Sunbird AI released Sunflower v2 on 24 September 2026, widening its open models from 31 Ugandan languages to 67 African languages. The suite has five models: 27B and 9B language models built on Qwen, a compact Gemma-based model for phones, speech recognition covering 51 languages and text-to-speech covering 20. All models and their datasets are published openly on Hugging Face, with Sunbird claiming its speech recognition beats leading closed systems on most languages tested.
 
 </div>
 

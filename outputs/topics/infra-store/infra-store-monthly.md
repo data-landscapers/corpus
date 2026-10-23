@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 067257cbf5c7
+record: 1dd57d926301
 ---
 
 # News, Sep – Oct 2026
@@ -830,20 +830,6 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 
 </div>
 
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Nigeria-Togo data park</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
-
-Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
-
-</div>
-
-</div>
-
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1077,6 +1063,20 @@ Tunisia's national computing centre describes the state data centre that carries
 **[Tunisia’s Orange and Focus Partner to Expand Local Cloud Services](https://techafricanews.com/2026/10/06/tunisias-orange-and-focus-partner-to-expand-local-cloud-services/)** — Tech Africa News, 6 October 2026
 
 Orange Tunisie and Focus Tunisie announced a partnership to offer companies cloud and infrastructure resources hosted and operated in Tunisia, pitched on control over where data sits. No value, capacity or start date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SoleCrypt Bizerte data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SoleCrypt Announces Sovereign AI Campus in Bizerte, Tunisia](https://www.solecrypt.com/post/solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia)** — SoleCrypt, 21 October 2026
+
+SoleCrypt announced at NVIDIA GTC Europe in Berlin a planned 40 MW AI data-centre campus in Bizerte, Tunisia, whose 7 MW first phase is to house 1,728 NVIDIA Rubin GPUs and come online in early 2028. The site lies about 3.6 km by fibre from the Medusa subsea cable landing and is to be backed by a 60 MW solar and battery project in Tozeur, with Hosted.AI, Schneider Electric, Supermicro and others named as partners.
 
 </div>
 
