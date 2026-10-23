@@ -100,6 +100,7 @@ CIV,ANSSI,ANSSI,response,,State,national,2025-12-19-civ-lf-2026-annexe-1-annexe-
 CIV,ANSSI,Cote d'Ivoire,response,,Government of Cote d'Ivoire,,2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien
 CIV,CI-CERT,Cote d'Ivoire,response,,ARTCI,,2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien
 CIV,ANSSI,ANSSI,response,,Government of Côte d'Ivoire,,2026-05-09-civ-cote-d-ivoire-is-betting-big-on-ai-and-facing-bigger-cyber-risks
+CIV,ANSSI CI,Agence Nationale de Securite des Systemes d'Information,response,,,,2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-21-antic-cirt-cybersecurity-systems-patnuc-techafricanews
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,"2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 CMR,ANTIC Computer Incident Response Team (CIRT),ANTIC CIRT,response,,National Agency for Information and Communication Technologies (ANTIC),national,2026-01-01-world-bank-cmr-2026-antic-cirt-cybersecurity-patnuc-bw07
@@ -240,6 +241,8 @@ GHA,Cyber Security Authority (CERT-GH),Ghana,response,,Cyber Security Authority,
 GHA,Cyber Security Authority,Cyber Security Authority (CSA),response,,government,,2026-10-15-graphic-ghana-cybercrime-losses-209m-nine-months
 GHA,Cyber Security Authority,Cyber Security Authority (CSA),response,,government,,2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks
 GHA,Cyber Security Authority (CERT-GH),Cyber Security Authority,response,,Cyber Security Authority,,2025-06-30-gha-csa-cert-gh-alert-deepfake-fake-investments-drugs
+GHA,Cyber Security Authority (CSA),CSA,response,,Government of Ghana,,2026-10-22-gha-csa-and-nita-order-government-institutions-to-fix-critical-p
+GHA,Government Digital Assurance Programme (GovDAP),GovDAP,other,,NITA,,2026-10-22-gha-csa-and-nita-order-government-institutions-to-fix-critical-p
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-09-12-anssi-guinee-alerte-manipulations-par-ia
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2025-04-18-anssi-atelier-validation-pssie
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministry of Posts, Telecommunications and the Digital Economy",,2016-01-01-guinea-loi-l2016-037-an-cybersecurite-protection-donnees
@@ -400,6 +403,7 @@ NGA,Ministerial Advisory Council on Cybersecurity,Ministerial Advisory Council o
 NGA,NPF National Cybercrime Centre (NPF-NCCC),Nigeria Police Force National Cybercrime Centre,other,,Nigeria Police Force,,2025-01-09-nigeria-police-cybercrime-unit-interpol
 NGA,ngCERT,ngCERT,response,,,,2026-07-01-ncc-guidance-note-implementation-crf-ncs
 NGA,NCC-CSIRT,NCC-CSIRT,other,incident reporting portal; incident@csirt.ncc.gov.ng,Nigerian Communications Commission,,2026-07-01-ncc-guidance-note-implementation-crf-ncs
+NGA,Cyber Security Coordination Center,National Cyber Security Coordination Center (ONSA),response,,Office of the National Security Adviser,,2026-10-22-nga-we-must-build-cybersecurity-alongside-digital-infrastructure-says-n
 RWA,Rw-CSIRT,Rwanda,response,,National Cyber Security Authority,,2022-06-30-rw-csirt-rfc-2350-profile
 RWA,Rw-CSIRT,Rwanda,response,,National Cyber Security Authority,,2026-08-05-rw-csirt-about
 RWA,National Cyber Security Authority,Rwanda,response,,,,2026-04-16-ncsa-application-software-security-directives-2026
@@ -407,6 +411,7 @@ RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,r
 RWA,Cyber security Centre of Excellence (CyberHub),CyberHub,other,,University of Rwanda College of Science and Technology,,2025-10-03-cyber-security-centre-cyberhub-itweb
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,response,,Government of Rwanda,national,2025-07-09-rdap-fast-track-2026-newtimes
 RWA,Rwanda Computer Security Incident Response Team,Rw-CSIRT,response,,,national,2025-07-09-rdap-fast-track-2026-newtimes
+RWA,National Cyber Security Authority (NCSA),NCSA,response,,Government of Rwanda,,2026-10-22-rwa-mtn-rwanda-signs-cybersecurity-mou-with-national-cyber-secur
 SDN,Sudanese Cybersecurity Authority,Sudan,response,,Government of Sudan,,2026-01-22-sudan-cybersecurity-authority-launched
 SDN,Sudan-CERT,Sudan,response,,Telecommunications and Post Regulatory Authority,,2025-12-19-sudan-cert-training-workshop
 SDN,SUDAPASS,Sudan,other,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page

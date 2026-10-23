@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "ANSSI CI says the national PKI launch is part of implementing the National Cybersecurity Strategy and a 2026-2028 roadmap milestone of the digital ministry (MTNIT).",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "ANSSI CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI CI",
+   "country_label": "Agence Nationale de Securite des Systemes d'Information",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

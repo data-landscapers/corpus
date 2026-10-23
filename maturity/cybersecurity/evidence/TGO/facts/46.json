@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The deck lists the Cybersecurity Act of 2018 as creating a Cybersecurity Agency.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Cybersecurity Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
