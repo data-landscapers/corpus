@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The deck says National Switch Limited, which integrates all banks and mobile money operators for instant payments, is supervised by the Reserve Bank of Malawi.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Switch Limited",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

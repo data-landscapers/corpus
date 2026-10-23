@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Eswatini has licensed and regulated mobile money operators since 2011, says its Deputy Governor.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "mobile money licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

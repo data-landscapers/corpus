@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The release says the Bank of Tanzania launched the Tanzania Instant Payment System (TIPS) in 2019, an interoperable platform across banks and mobile money providers with over 45 institutions taking part.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
