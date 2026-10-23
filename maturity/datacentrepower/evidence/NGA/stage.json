@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "power",
-   "stage": "unplaced",
-   "supply": "",
-   "pue": "",
-   "water": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.",
-   "note": "Counted from the four questions by study-ladder-datacentrepower.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "power",
+      "stage": "2",
+      "supply": "secured",
+      "pue": "low",
+      "water": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002",
+      "gaps": "No source held says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
+      "note": "Kasi's Lekki campus, commissioned and open for business in May 2026, has a direct 132kV transmission connection and hybrid gas, solar and battery supply, a secured supply in service; nothing shows power set aside for data centres, so stage 2.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

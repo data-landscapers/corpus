@@ -23,9 +23,9 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 | 5 Leading | 1 |
 | 4 Operating | 0 |
 | 3 Established | 0 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 43 |
 
 ## Countries
@@ -86,17 +86,17 @@ A data centre on a secured power supply by 2026; no power set aside for data cen
 
 - Raxio's own specification page says the MZ1 data centre in Matola takes a 15 kV utility supply fed directly from the nearest substation with N+N redundancy, with 2N power distribution from MV transformer to rack PDU and 48 hours of on-site fuel; the page has no date, so the capture date 2026-08-08 is used ([source, 2026-08-08](https://www.raxiogroup.com/data-centres/mozambique/)).
 
+### Nigeria: 2 Nascent
+
+A Lagos data centre opened in 2026 on its own grid line and hybrid power plant; power set aside for data centres is not known.
+
+- Kasi lists a direct TCN 132kV power connection and hybrid gas, solar and battery supply with N+1 redundancy for its Lekki campus, which it says is open for business with phased commissioning continuing ([source, 2026-05-19](https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/)).
+
 ### Togo: 2 Nascent
 
 A data centre on a secured power supply by 2026; no power set aside for data centres is known.
 
 - Lomé Data Centre says it has a 2N electrical architecture with dual utility feeds from the national grid, with automatic transfer, plus diesel rotary UPS and fuel for several days ([source, 2026](https://lomedatacentre.tg/en/infrastructure)).
-
-### Nigeria: Unplaced
-
-No data centre is known to have a secured power supply, so no stage is set.
-
-Not established: No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.
 
 ### Angola: No evidence
 

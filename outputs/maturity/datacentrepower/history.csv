@@ -4,3 +4,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,ETH,infra.energy--sufficient-energy-and-water-for-data-centres,fact,unplaced,2,ETH-002,Arrivals added ETH-002; ETH-003; stage unplaced -> 2.
 2026-10-17,GHA,infra.energy--sufficient-energy-and-water-for-data-centres,fact,no evidence,2,GHA-001,Arrivals added GHA-001; stage no evidence -> 2.
 2026-10-17,TGO,infra.energy--sufficient-energy-and-water-for-data-centres,fact,unplaced,2,TGO-002,Arrivals added TGO-002; stage unplaced -> 2.
+2026-10-23,NGA,infra.energy--sufficient-energy-and-water-for-data-centres,fact,unplaced,2,NGA-002,"Kasi LOS1 commissioned and open for business May 2026 with a direct 132kV TCN connection and own hybrid supply; secured supply, so unplaced to 2"
