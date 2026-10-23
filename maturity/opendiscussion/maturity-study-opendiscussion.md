@@ -81,8 +81,7 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D0, D1**: prepared and run on Bill's word, 2026-10-13.
 - [x] **D2. Read**: 126 drafters in one fan-out over the 372 listings of §5. 183 facts in 35 countries.
 - [x] **D3. Staged** as at 2026-09-30: 4: 1, 2: 15, 1: 9, none at 3 or 5, 10 unplaced, 19 without evidence; agreement 20 of 20. Question 2 has a yes nowhere.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
