@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: TUN
-ledger_rows: 62
+ledger_rows: 63
 not_held: 5
-record: 19cca24e9bad
+record: d669f84d5a68
 ---
 
 # News, Sep – Oct 2026
@@ -407,6 +407,20 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[Tunisia’s Orange and Focus Partner to Expand Local Cloud Services](https://techafricanews.com/2026/10/06/tunisias-orange-and-focus-partner-to-expand-local-cloud-services/)** — Tech Africa News, 6 October 2026
 
 Orange Tunisie and Focus Tunisie announced a partnership to offer companies cloud and infrastructure resources hosted and operated in Tunisia, pitched on control over where data sits. No value, capacity or start date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SoleCrypt Bizerte data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SoleCrypt Announces Sovereign AI Campus in Bizerte, Tunisia](https://www.solecrypt.com/post/solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia)** — SoleCrypt, 21 October 2026
+
+Planned 40MW campus near the Medusa landing, 7MW first phase of 1,728 Nvidia Rubin GPUs, online early 2028.
 
 </div>
 
