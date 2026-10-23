@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The deck says the e-ID Togo system is based on the open source MOSIP platform, with no vendor lock-in.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

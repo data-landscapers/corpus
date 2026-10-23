@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The DECIM project page says the next phase, steered by the CNOS and coordinated by the CCO/ENBIO under the Ministry of the Interior, is to prepare the gradual transfer of responsibilities and ownership by national institutions, with DECIM now financing it.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Izaho Tokana",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

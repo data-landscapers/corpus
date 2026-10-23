@@ -2,7 +2,7 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The National Registration Bureau, per its Principal Secretary, will renew, print and distribute about two million expired National ID cards nationwide](<https://malawi24.com/2025/12/25/government-extends-validity-of-expired-national-id-cards-to-2027/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [The National Registration Bureau, per its Principal Secretary, will renew, print and distribute about two million expired National ID cards nationwide](<https://malawi24.com/2025/12/25/government-extends-validity-of-expired-national-id-cards-to-2027/>). [The deck says the National Registration Bureau, a government department, manages the national civil registration and digital identity issuance system](<https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf>). 3 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Maintained nationally.** No source held since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://malawi24.com/2025/12/25/government-extends-validity-of-expired-national-id-cards-to-2027/>).
 

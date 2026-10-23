@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Biometric Update reports that Sierra Leone's identity system is managed by the National Civil Registration Authority, which is responsible for civil registration and ID services.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

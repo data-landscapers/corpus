@@ -23,10 +23,10 @@ The African Union's interoperability framework asks that countries own and opera
 | 5 Leading | 8 |
 | 4 Operating | 4 |
 | 3 Established | 28 |
-| 2 Nascent | 3 |
+| 2 Nascent | 4 |
 | 1 Absent | 2 |
 | Unplaced | 1 |
-| No evidence | 8 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -196,6 +196,7 @@ The national authority ran the ID system day to day in 2026; who maintains it is
 The national authority ran the ID system day to day in 2026; who maintains it is not known.
 
 - The proclamation says the National Identification Registry, set up by 2011 legislation, owns and operates the National Biometric Identification System ([source, 2026-09-16](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)).
+- The signed OeSD build-operate-transfer concession includes training, technology transfer and knowledge-sharing for Liberian institutions, while OeSD serves as technology partner and NIR administers the system, NIR Executive Director Andrew Peters said on 4 September 2026 ([source, 2026-09-04](https://allafrica.com/stories/202609080549.html)).
 
 ### Libya: 3 Established
 
@@ -296,6 +297,12 @@ A move to national operation of the ID system was under way in 2026.
 - Al-Watwan reports that the Comoros interior minister said GenKey took over production of biometric passports and national identity cards on 31 March 2026 from Semlex, with a transfer of skills to national staff and progressive national appropriation of biometric data ([source, 2026-03-31](https://alwatwan.net/societe/production-de-documents-biom%C3%A9triques-genkey-succ%C3%A8de-officiellement-%C3%A0-semlex.html)).
 - Al-Watwan reports that on 24 March 2026 Semlex, producer of Comoros' biometric ID cards and passports since 2007, handed the data to the government, that Dutch firm GenKey takes over production and management of the documents, and that the Interior Ministry calls the handover control of the state's identification resources, with data hosted in Comoros ([source, 2026-03-24](https://alwatwan.net/societe/confection-des-papiers-biom%C3%A9triques-i-semlex-remet-les-donn%C3%A9es-au-gouvernement.html)).
 
+### Madagascar: 2 Nascent
+
+A move to national operation of the ID system was under way in 2026.
+
+- The DECIM project page says the next phase, steered by the CNOS and coordinated by the CCO/ENBIO under the Ministry of the Interior, is to prepare the gradual transfer of responsibilities and ownership by national institutions, with DECIM now financing it ([source, 2026-07](https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/)).
+
 ### Niger: 2 Nascent
 
 A move to national operation of the ID system was under way in 2026.
@@ -352,12 +359,6 @@ Nothing held names who operates the national ID system or says there is none, so
 Not established: Nothing held says who operates the national ID system.
 
 ### Gabon: No evidence
-
-Nothing held names who operates the national ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says who operates the national ID system.
-
-### Madagascar: No evidence
 
 Nothing held names who operates the national ID system or says there is none, so no stage is set.
 

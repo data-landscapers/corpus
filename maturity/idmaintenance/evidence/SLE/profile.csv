@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,maintenance,operation,coverage,national,2026-09-17,SLE-001;SLE-004,SLE-003=transfer,
+SLE,maintenance,operation,coverage,national,2026-09-17,SLE-001;SLE-004;SLE-005,SLE-003=transfer,
 SLE,maintenance,maintenance,coverage,,,,,nothing held
 SLE,maintenance,ownership,coverage,owned,2026-08-06,SLE-002,,

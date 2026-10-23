@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ANIP says the single national identity database and the national civil status file are managed by one entity, the national agency ANIP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / FNEC",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

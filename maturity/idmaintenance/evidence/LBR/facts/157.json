@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The signed OeSD build-operate-transfer concession includes training, technology transfer and knowledge-sharing for Liberian institutions, while OeSD serves as technology partner and NIR administers the system, NIR Executive Director Andrew Peters said on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry digital ID concession",
+   "country_label": "NIR/OeSD BOT concession, US$54.7m",
+   "class": "idsystem",
+   "platform": "OeSD International GmbH",
+   "owner": "National Identification Registry (NIR)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

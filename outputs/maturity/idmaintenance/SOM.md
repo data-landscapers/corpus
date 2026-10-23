@@ -6,7 +6,7 @@
 
 **Maintained nationally.** No source held since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build](<https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access>).
 
-**Platform owned.** [NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build](<https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access>).
+**Platform owned.** [NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build](<https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access>). [NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership](<https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system>).
 
 ***Noted, not assessed***. [OpenCRVS Unified Digital Civil Registration System](<https://www.opencrvs.org/about-us/country-stories/somalia>); [HUBIYE Verification Platform](<https://wardheernews.com/somalias-digital-id-a-milestone-on-the-roadmap-towards-effective-governance-and-service-delivery>).
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The deck says the National Registration Bureau, a government department, manages the national civil registration and digital identity issuance system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB national digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

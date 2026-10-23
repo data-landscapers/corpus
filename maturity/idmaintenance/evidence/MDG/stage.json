@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "no evidence",
-   "operation": "",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says who operates the national ID system.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "2",
+      "operation": "transfer",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source held says the national authority operates the ID system day to day.",
+      "note": "Reassessed on arrival: the DECIM project's next phase is to prepare the gradual transfer of responsibilities and ownership to national institutions, a stated goal of national operation. Nothing held says a national body already runs the system day to day.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }
