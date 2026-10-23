@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,registers,register,coverage,inservice,2026,ETH-001,,
+ETH,registers,register,coverage,inservice,2026,ETH-001;ETH-002,,
 ETH,registers,several,coverage,,,,,nothing held
-ETH,registers,matching,coverage,,,,,nothing held
+ETH,registers,matching,coverage,reported,2026-05,ETH-003,,

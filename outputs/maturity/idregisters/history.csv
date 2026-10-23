@@ -18,3 +18,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,NGA,dpi.id--use-by-other-systems,fact,3,3,NGA-004;NGA-007,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,RWA,dpi.id--use-by-other-systems,fact,3,3,RWA-001;RWA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-22,EGY,dpi.id--use-by-other-systems,fact,3,3,EGY-001;EGY-003;EGY-004,"Tax Authority (July 2026): state payroll tax for 12 million employees runs on the national number; with the electoral roll that is two main registers, not three, so stage 3 holds"
+2026-10-23,ETH,dpi.id--use-by-other-systems,fact,unplaced,5,ETH-003;ETH-002,"National ID Ethiopia, May 2026: over 5 million existing TINs harmonised with Fayda, a figure from matching the tax register."
+2026-10-23,LBY,dpi.id--use-by-other-systems,fact,2,5,LBY-006,"Attorney General, December 2025: checking ID numbers deleted 17,000 non-existent numbers and nearly 40,000 linked salary numbers."
+2026-10-23,KEN,dpi.id--use-by-other-systems,fact,no evidence,2,KEN-002;KEN-001,"PS, May 2024: the Maisha number is to serve the ID, NSSF and NHIF; a plan."
+2026-10-23,SLE,dpi.id--use-by-other-systems,fact,2,3,SLE-003;SLE-002,"Biometric Update, April 2024: the NIN is linked to government payroll."
+2026-10-23,TZA,dpi.id--use-by-other-systems,fact,2,4,TZA-004;TZA-003,"Government spokesman, September 2026: the ID number is used for taxpayer registration, TASAF and business registration, three main registers."

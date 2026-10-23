@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Vibbie says the NIN is linked to government payroll, among other government services, under the parliament's ratification and directives.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

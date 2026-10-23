@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-ken-nation-birth-e-notification-maisha-number",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Nation says that at launch the Maisha number was meant to serve as the Personal Identification Number for Kenya Revenue Authority and the National Social Security Fund.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Maisha Number",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

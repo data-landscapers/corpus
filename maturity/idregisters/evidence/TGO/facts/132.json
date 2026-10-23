@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The deck lists integrating the unique identification number across health, education, civil registry, social protection, pension and employment services as a step of its adoption model.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

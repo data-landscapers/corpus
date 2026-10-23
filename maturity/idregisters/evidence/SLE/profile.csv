@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,registers,register,coverage,underway,2026-08-10,SLE-001;SLE-002,,
+SLE,registers,register,coverage,inservice,2024-04-11,SLE-003,SLE-002=underway;SLE-001=underway,
 SLE,registers,several,coverage,,,,,nothing held
 SLE,registers,matching,coverage,,,,,nothing held

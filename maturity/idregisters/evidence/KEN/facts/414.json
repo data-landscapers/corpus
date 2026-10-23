@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Principal Secretary says the Maisha number will be the same number used for the ID, NSSF and NHIF.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Maisha number",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

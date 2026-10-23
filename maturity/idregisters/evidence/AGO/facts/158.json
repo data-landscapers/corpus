@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-18-ago-ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplif",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Secretary of State Osvaldo Amaro said the civil identification systems and the tax administration (AGT) are synchronised so that the Bilhete de Identidade number is also the tax identification number (NIF).",
+   "as_of": "2025-09-18",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade / NIF",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

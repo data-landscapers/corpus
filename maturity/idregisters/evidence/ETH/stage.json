@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "unplaced",
-      "register": "",
+      "stage": "5",
+      "register": "inservice",
       "several": "",
-      "matching": "",
+      "matching": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether public registers use the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "ETH-003;ETH-002",
+      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
+      "note": "The tax register is keyed on Fayda, with over 5 million existing TINs harmonised with it (2026). Under the ladder's later-yes rule that figure answers the questions below it; only the tax register is shown.",
+      "as_at": "2026-10-23"
     }
   ]
 }

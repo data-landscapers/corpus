@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the NNI is affixed on civil status certificates.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "NNI",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

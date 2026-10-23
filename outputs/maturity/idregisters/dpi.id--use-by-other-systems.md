@@ -1,6 +1,6 @@
 # Use by other systems: use by other systems
 
-*As at 2026-09-30.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -20,15 +20,28 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 1 |
-| 3 Established | 14 |
-| 2 Nascent | 9 |
+| 5 Leading | 3 |
+| 4 Operating | 2 |
+| 3 Established | 15 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 26 |
+| Unplaced | 2 |
+| No evidence | 25 |
 
 ## Countries
+
+### Ethiopia: 5 Leading
+
+Over 5 million tax numbers were matched to the national ID by 2026; use by other main registers is not known.
+
+- National ID Ethiopia's deck gives over 5M existing TINs harmonised with Fayda ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
+- National ID Ethiopia's deck says the Ministry of Revenue has harmonised over 5M existing tax identification numbers with Fayda and made Fayda mandatory for new TINs nationally ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
+
+### Libya: 5 Leading
+
+In 2025 checking ID numbers removed about 40,000 salary numbers linked to 17,000 false IDs; registers keyed on the number are not known.
+
+- Attorney General Al-Siddiq Al-Sour says checking national ID numbers led to deletion of more than 17,000 non-existent ID numbers along with nearly 40,000 salary numbers that had been linked to them ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
 
 ### Namibia: 5 Leading
 
@@ -41,6 +54,13 @@ Matching of public registers against the national ID was reported with figures i
 Three or more main public registers used the national ID number in 2024; no matching figures are known.
 
 - The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management, three main registers ([source, 2024](https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en)).
+
+### Tanzania: 4 Operating
+
+Tax, social protection and business registration used the national ID number in 2026; no figure from matching registers is known.
+
+- Government spokesman Gerson Msigwa named taxpayer registration, TASAF social services and business registration among services now using the national ID number ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
+- Government spokesman Gerson Msigwa said use of the national ID number has expanded to taxpayer registration, TASAF social services and business registration, among other services ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
 
 ### Algeria: 3 Established
 
@@ -123,6 +143,13 @@ A public register used the national ID number in 2026; use by three main registe
 - The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification ([source, 2026-10-16](https://www.api.ippis.rw/)).
 - The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list ([source, 2024-05-18](https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150)).
 
+### Sierra Leone: 3 Established
+
+Government payroll was linked to the national ID number by 2024; use by other main registers is not known.
+
+- Vibbie says the NIN is linked to government payroll, among other government services, under the parliament's ratification and directives ([source, 2024-04-11](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)).
+- The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
+
 ### Tunisia: 3 Established
 
 A public register used the national ID number in 2026; use by three main registers is not known.
@@ -147,11 +174,12 @@ A public register's use of the national ID number was under way in 2026.
 
 - The DGE and ONECI signed a convention making data of the registre national des personnes physiques the sole official source of voter identification data for the biometric electoral file, as the DGE director-general states ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
 
-### Libya: 2 Nascent
+### Kenya: 2 Nascent
 
-A public register's use of the national ID number was under way in 2025.
+The Maisha number was planned in 2024 as the tax and social security number; whether any register uses it is not known.
 
-- The UN-backed advisory committee recommends limiting candidacy and voter registration in elections to holders of the national number, which administrative-number holders criticise ([source, 2025-06-07](https://alwasat.ly/news/libya/479250)).
+- The Nation says that at launch the Maisha number was meant to serve as the Personal Identification Number for Kenya Revenue Authority and the National Social Security Fund ([source, 2026-05-18](https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104)).
+- The Principal Secretary says the Maisha number will be the same number used for the ID, NSSF and NHIF ([source, 2024-05-09](https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/)).
 
 ### Sao Tome and Principe: 2 Nascent
 
@@ -159,13 +187,6 @@ A public register's use of the national ID number was under way in 2026.
 
 - The Bilhete de Identidade is to become the base document for automatic and permanent voter registration, updating the electoral rolls from civil registry data, says the Camoes institute on the PReSE project ([source, 2026-03-19](https://www.instituto-camoes.pt/sobre/comunicacao/noticias/sao-tome-e-principe)).
 - The EU-funded PReSE project says an interoperability platform, being developed by the Universidade de Aveiro, will link the civil registry databases (SIGA and Bilhete de Identidade) to the electoral roll so voters are registered automatically ([source, 2025-09-01](https://www.telanon.info/wp-content/uploads/2025/09/NOTA-DE-IMPRENSA-1.pdf)).
-
-### Sierra Leone: 2 Nascent
-
-A public register's use of the national ID number was under way in 2026.
-
-- The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
-- NCRA and the Ministry of Agriculture agreed to integrate the National Digital Farmer Registry with the NIN database to verify and de-duplicate farmers ([source, 2025-05-19](http://thesatellitenews.com/index.php/de/announcements/23-news-articles/1730-with-the-national-id-system-for-nin-ncra-ministry-of-agriculture-partner-on-national-digital-farmer-registry-integration)).
 
 ### Somalia: 2 Nascent
 
@@ -178,13 +199,6 @@ A public register's use of the national ID number was under way in 2026.
 A public register's use of the national ID number was under way in 2026.
 
 - Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department ([source, 2026-06-15](https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat)).
-
-### Tanzania: 2 Nascent
-
-A public register's use of the national ID number was under way in 2026.
-
-- The NIDA Director General listed the taxpayer identification number (TIN) among the services NIDA plans to connect to the national ID ([source, 2026-09-16](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)).
-- The Prime Minister directed the Home Affairs minister and NIDA to connect social and economic institutions to the ID system, and NIDA said health insurance and a Jamii Namba holding all social services are to be built on it ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
 ### Togo: 2 Nascent
 
@@ -199,12 +213,6 @@ Nothing held since 2023 names a public register using the national ID number, so
 Not established: Nothing held since October 2023 says whether public registers use the national ID number.
 
 ### Congo: Unplaced
-
-Nothing held since 2023 names a public register using the national ID number, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether public registers use the national ID number.
-
-### Ethiopia: Unplaced
 
 Nothing held since 2023 names a public register using the national ID number, so no stage is set.
 
@@ -283,12 +291,6 @@ Nothing held names a public register using the national ID number or says there 
 Not established: Nothing held says whether public registers use the national ID number.
 
 ### Guinea-Bissau: No evidence
-
-Nothing held names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing held says whether public registers use the national ID number.
-
-### Kenya: No evidence
 
 Nothing held names a public register using the national ID number or says there is none, so no stage is set.
 

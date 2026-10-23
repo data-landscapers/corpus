@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Biometric Update reports Uganda is moving to use the NIN as the tax identifier for individuals under a 2025 Tax Procedures Code amendment, and Cabinet approved the implementation direction in September 2026.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

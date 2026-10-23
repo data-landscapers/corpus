@@ -6,8 +6,8 @@
 
 **Main registers.** No source held since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://alwasat.ly/news/libya/479250>).
 
-**Matching reported.** [The Attorney General announced on 17 August 2022 that checking the national number system found 88,819 incorrect numbers, 63,986 of them absent from the civil registry system (2022, before the three-year window)](<https://alwasat.ly/news/libya/515274>).
+**Matching reported.** [In December 2025 Attorney General Al-Siddiq Al-Sour said checking had deleted more than 17,000 national ID numbers that do not exist, along with nearly 40,000 salary numbers linked to them](<https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/>). [The Attorney General announced on 17 August 2022 that checking the national number system found 88,819 incorrect numbers, 63,986 of them absent from the civil registry system (2022, before the three-year window)](<https://alwasat.ly/news/libya/515274>).
 
 ***Noted, not assessed***. [National Number system](<https://alwasat.ly/news/libya/515274>).
 
-***Not held***. No source held since October 2023 says: is one public register keyed on it.
+***Not held***. No source held since October 2023 shows a public register keyed on the national number in service.

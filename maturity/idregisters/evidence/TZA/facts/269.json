@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Government spokesman Gerson Msigwa said use of the national ID number has expanded to taxpayer registration, TASAF social services and business registration, among other services.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "NIDA national ID number",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "several",
+   "value": "several",
+   "fact": "Government spokesman Gerson Msigwa named taxpayer registration, TASAF social services and business registration among services now using the national ID number.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "NIDA national ID number",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
