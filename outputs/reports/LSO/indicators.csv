@@ -124,7 +124,9 @@ infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems
 
 A separate government ICT agency was announced the same day, to take ICT services out of the civil service, with no enabling instrument, scope or date published ([agency](2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems)).
 
-Both are institutional rather than measured: the repository holds no count of technical staff in government, no maintenance arrangement and no assessment of what the state can run without a vendor.",LSO-infra.cybersec-ciso|LSO-dpi.govtech-ictagency,2,LSO-dpi.govtech-ictagency|LSO-infra.cybersec-ciso,,,,,,,2026-08-31,0,ICT agency announced only; no in-house team maintaining systems on record
+Both are institutional rather than measured: the repository holds no count of technical staff in government, no maintenance arrangement and no assessment of what the state can run without a vendor.
+
+2022-06 — [a high-performance computer donated by South Africa was launched at Mohale's Hoek, with South Africa's high-performance computing centre training Lesotho's administrators](2022-06-10-lso-comms-minister-launches-hpc); no later record of its use is on file.",LSO-infra.cybersec-ciso|LSO-dpi.govtech-ictagency|LSO-infra.capacity-high-performance-computer,2,LSO-dpi.govtech-ictagency|LSO-infra.cybersec-ciso,,,,,,,2026-08-31,0,ICT agency announced only; no in-house team maintaining systems on record
 infra.cybersec--national-cybersecurity-readiness,Movement,"An [interim national response team](2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum) launched in July 2026 and a [security operations centre](2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems) is being stood up, against [no national strategy](2023-03-31-lesotho-cmm-review-2022) at the last review.","LesComCSIRT launched in Maseru on 29 July 2026 and operates on an interim basis, ahead of the statute intended to establish it ([launch](2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum), [account](2026-07-31-lesotho-national-cybersecurity-itweb)).
 
 A national security operations centre was reported being stood up the same month, having been budgeted as a Government Security Operations Centre in the 2025/26 budget speech; no host, operator or date is published ([centre](2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems), [budget](2025-02-19-lesotho-budget-speech-2025-26)).
@@ -264,7 +266,7 @@ gov.policy--data-interoperability-framework-roadmap,"Movement, commissioned and 
 
 2026-03-06 — [the consultant engaged on the framework reported the work under way, with GovStack training alongside](2026-03-06-lso-qualisys-glea-egif-development).
 
-Two years on from the commission, no framework document, roadmap or timetable is on the record, and the repository carries nothing on what the architecture covers.",LSO-dpi.exchange-eaif|LSO-dpi.exchange-xroad,2,LSO-dpi.exchange-eaif,,,,,,,2026-08-31,0,Interoperability framework in development per the 2025/26 budget speech; not adopted
+Two years on from the commission, no framework document, roadmap or timetable is on the record, and the repository carries nothing on what the architecture covers.",LSO-dpi.exchange-eaif|LSO-dpi.exchange-xroad|LSO-gov.policy-dpi-framework,2,LSO-dpi.exchange-eaif,,,,,,,2026-08-31,0,Interoperability framework in development per the 2025/26 budget speech; not adopted
 gov.policy--data-localisation-policies,"Movement, on a general data policy rather than a residency rule",No localisation or residency rule is held; [section 52 of the Data Protection Act governs cross-border transfer](2012-02-22-lesotho-data-protection-act-2012) instead.,"2012-02-22 — [the Act’s section 52 governs cross-border transfer of personal information](2012-02-22-lesotho-data-protection-act-2012), the closest enacted instrument to a residency rule.
 
 2025-10-14 — [a validation workshop aligned the draft data management policy with the African Union data policy framework](2025-10-14-lesotho-data-governance-workshop-follow-up).
@@ -604,9 +606,11 @@ tech.ai--development-of-national-regional-ai-systems,Movement,A [Sesotho word ba
 
 2026-02-18 — [the ministry, a development agency and the national university are compiling a Sesotho word bank to train locally relevant AI systems](2026-02-18-lesotho-sesotho-word-bank-ai-training).
 
-A language resource is the foundation a small-language country needs before anything else can be built locally. No model, dataset licence or compute arrangement is on the record.
+A language resource is the foundation a small-language country needs before anything else can be built locally. An open Sesotho-English dataset with a small fine-tuned model is the one published resource; no compute arrangement is on the record.
 
-2026-09-23 — [the prime minister told a UN meeting that planning was complete and Phase One of a National Compute Roadmap to 2029 had begun](2026-09-23-lso-govls-first-country-implement-un-ai-blueprint); the roadmap is not published.",LSO-tech.ai-ai-policy-implementation-plan|LSO-tech.ai-sesotho-word-bank|LSO-gov.policy-national-ai-strategy|LSO-tech.ai-national-compute-roadmap,2,LSO-tech.ai-sesotho-word-bank,,,,,,,2026-08-31,0,Sesotho word bank being compiled; no model dataset or compute in service
+2026-09-23 — [the prime minister told a UN meeting that planning was complete and Phase One of a National Compute Roadmap to 2029 had begun](2026-09-23-lso-govls-first-country-implement-un-ai-blueprint); the roadmap is not published.
+
+2025 — [researchers published SeSoDa, an open Sesotho-English dataset of 1,966 prompt-completion pairs, with a small language model fine-tuned on it](2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning).",LSO-tech.ai-ai-policy-implementation-plan|LSO-tech.ai-sesotho-word-bank|LSO-gov.policy-national-ai-strategy|LSO-tech.ai-national-compute-roadmap|LSO-tech.ai-sesoda-dataset,2,LSO-tech.ai-sesotho-word-bank,,,,,,,2026-08-31,0,Sesotho word bank being compiled; no model dataset or compute in service
 tech.ai--control-of-ai-abuse,"Movement, on warnings rather than powers",The [Data Protection Act is the strongest legal safeguard reaching AI-processed personal data](2012-02-22-lesotho-data-protection-act-2012); the cyber law is still a Bill.,"2025-08-31 — [a government press statement warned the public about AI-generated deepfakes impersonating the King and the Prime Minister, naming the absent cyber law as the enforcement gap](2025-08-31-lesotho-deepfake-warning-royal-pm).
 
 2026-01-13 — [a meeting between the ministry and the regulator linked AI-enabled cyber threats to the stalled Cybersecurity Bill](2026-01-13-lesotho-ramashamole-lca-cyber-attacks).
