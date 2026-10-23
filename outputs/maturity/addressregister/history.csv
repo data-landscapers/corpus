@@ -45,3 +45,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-20,DZA,dpi.registry--address-register,fact,2,3,DZA-005,"Interior ministry, 12 Oct 2026: 1.5 million official geolocated addresses in 12 wilayas; in service, stage 3"
 2026-10-20,EGY,dpi.registry--address-register,fact,unplaced,2,EGY-003,"MCIT, Jun 2025: 19 million national real estate ID numbers issued, managing system still being built; under way, stage 2"
 2026-10-20,UGA,dpi.registry--address-register,fact,unplaced,2,UGA-004,"KCCA, Feb 2025: Kampala house numbering under way, 12,555 of 373,826 houses plated; under way, stage 2"
+2026-10-23,CMR,dpi.registry--address-register,fact,3,3,CMR-002;CMR-005,"Housekeeping 32: the held fact of CCA Bank's June 2025 agreement to use the PLP ruled out, a bank is a commercial service and the integration claim is FindMe's; stage 3 held"
