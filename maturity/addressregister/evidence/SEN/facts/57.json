@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-sen-note-publique-identite-numerique-e-gouvernement",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Economist Seydou Bocoum writes that the National Digital Addressing project launched in 2021 was relaunched by the Ministry of Telecommunications and Digital Affairs at a workshop on 5-6 August 2026 to finish its pilot phase within a year before any national rollout, and that public sources do not establish a fully operational national reference.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Adressage Numérique National",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Adressage Numérique National",
+   "country_label": "Senegal",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministère des Télécommunications et du Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

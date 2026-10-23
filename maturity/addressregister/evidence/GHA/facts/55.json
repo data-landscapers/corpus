@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Biometric Update reports Vice President Bawumia listing a digital address system among the steps Ghana's government has taken in eight years of its digital transformation.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "digital address system",
+   "class": "address"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
