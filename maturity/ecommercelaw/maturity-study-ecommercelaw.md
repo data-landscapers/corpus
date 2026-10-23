@@ -80,11 +80,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [x] **D1. Bill's word**: run on it, 2026-10-13.
-- [x] **D2. Read**: the 108 stories in 42 calls; what the current cells cite for 49 countries, 52 calls; newest news for 12 countries with no law on record. 141 facts held.
-- [x] **D3. Staged**: six at stage 5, eight at 4, 25 at 3, six at 2, one at 1, two unplaced and six with no evidence, as at 2026-09-30; 20 facts removed and one added by the parent (`corrections.csv`); agreement 19 of 20.
-- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+- [x] **D0 to D5 done 2026-10-13**: 141 facts from 94 calls, staged as at 2026-09-30, 20 facts removed and one added (`corrections.csv`), agreement 19 of 20, reported to Bill.
 
 **Decided in the run**:
 
