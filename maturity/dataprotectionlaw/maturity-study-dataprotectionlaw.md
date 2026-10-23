@@ -35,8 +35,8 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 | `general` | **A law that sets the country's rules for protecting personal data, standalone or part of a larger law**, or a bill for one | Assessed |
 | `sectoral` | Data protection provisions inside a law on another subject: telecommunications, banking, health, identity, electronic transactions, cybercrime, consumer protection | Noted, not assessed; flagged |
 | `constitutional` | A constitutional right to privacy or habeas data | Noted, not assessed |
-| `regulation` | A regulation, decree, order or guideline. Made with no general law behind it, it is noted and not assessed | Noted; made under a general law, it is that law's aspect 3, a `general` fact |
-| `authority` | The supervisory authority, commission, office or regulator | Logged for `gov.protect--data-protection-authority`; what it shows of the law is aspects 1 and 4, `general` facts |
+| `regulation` | A regulation, decree, order or guideline | Under a general law, that law's aspect 3; otherwise noted |
+| `authority` | The supervisory authority, commission, office or regulator | Logged for `gov.protect--data-protection-authority`; shows the law's aspects 1 and 4 |
 | `treaty` | Ratification of the Malabo Convention, Convention 108+ or a regional community's act | Noted, not assessed; flagged |
 | `policy` | A data protection or data governance policy or strategy | Noted, not assessed |
 | `adjacent` | A law on cybercrime, access to information, electronic transactions or artificial intelligence, with no general data protection regime in it | Out of scope: its own row |
