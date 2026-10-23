@@ -839,3 +839,5 @@ NER-003,data_residency_guarantee,"Yes, contractual guarantee",the contractor's e
 CIV-021,operational_status,Operational,the only source is a June 2023 project document; current use needs confirming,2026-10-17
 SLE-006,carrier_neutrality,Fully carrier-neutral,carrier-neutral by the operator's own description only,2026-10-17
 SLE-006,operational_status,Operational,rests on the operator's website alone,2026-10-17
+SEN-002,gpu_ai_capability,Unknown,the GCAIG brief puts Taouey here; APS puts it at the Cite du Savoir under CINERI,2026-10-23
+ZAF-022,key_tenants,Liquid Intelligent Technologies; Intelys Technology Group; SEACOM; WorkOnline Communications; INX-ZA (JINX); Mzansi Mind (Solcon Capital),HPE says Equinix's Johannesburg centre without naming JN1,2026-10-23
