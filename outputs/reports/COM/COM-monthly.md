@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: COM
-ledger_rows: 12
+ledger_rows: 13
 not_held: 24
-record: 44f8e6f98591
+record: a5a5ab40d26c
 ---
 
 # News, Sep – Oct 2026
@@ -177,6 +177,20 @@ The second phase of Comoros's civil-registration modernisation project was repor
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Komor-IA open Shikomori language resources</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Komor-IA lance Annotation Studio, la première plateforme d'annotation NER et POS pensée pour le shikomori](https://fr.linkedin.com/posts/komor-ia_shikomori-comores-komoria-activity-7509546344064335872-xQkk)** — Komor-IA (LinkedIn), 26 September 2026
+
+Crowd annotation of names and parts of speech in Shikomori on Universal Dependencies, released CC BY-NC 4.0.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
